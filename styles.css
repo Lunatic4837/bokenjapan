@@ -1,15 +1,18 @@
-/* BokenJapan homepage draft. System fonts only. Served as a static file from the repo root. */
+/* BokenJapan. Homepage follows an editorial layout; shared by prefecture pages. */
 
 :root {
-  --paper: #f3f0e8;
-  --ink: #1c1b17;
-  --muted: #5e5a52;
-  --line: #d8d2c6;
-  --field: #e5ebe4;
-  --hero: #e7eee6;
-  --link: #1a3c34;
-  --header: #f7f5f0;
+  --paper: #e6e2db;
+  --card: #fbf8f4;
+  --ink: #1c1916;
+  --muted: #5c564e;
+  --line: #d4cfc6;
+  --link: #c43026;
+  --link-hover: #8e241c;
+  --seal: #c43026;
   --max: 72rem;
+  --text: 44rem;
+  --serif: "Source Serif 4", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Hiragino Mincho ProN", serif;
+  --sans: "Source Sans 3", "Segoe UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic UI", "Noto Sans", "Noto Sans CJK JP", sans-serif;
 }
 
 *,
@@ -26,7 +29,7 @@ body {
   margin: 0;
   color: var(--ink);
   background: var(--paper);
-  font-family: "Segoe UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic UI", "Noto Sans", "Noto Sans CJK JP", sans-serif;
+  font-family: var(--sans);
   font-size: 1.0625rem;
   line-height: 1.6;
   overflow-x: clip;
@@ -41,10 +44,14 @@ a {
   color: var(--link);
 }
 
+a:hover {
+  color: var(--link-hover);
+}
+
 a:focus-visible,
 .cta:focus-visible,
 button:focus-visible,
-input:focus-visible {
+textarea:focus-visible {
   outline: 2px solid var(--ink);
   outline-offset: 3px;
 }
@@ -54,10 +61,10 @@ input:focus-visible {
   left: 12px;
   top: 0;
   transform: translateY(-120%);
-  background: #fff;
+  background: var(--card);
   color: var(--ink);
   padding: 10px 14px;
-  z-index: 2;
+  z-index: 3;
 }
 
 .skip:focus {
@@ -65,31 +72,38 @@ input:focus-visible {
 }
 
 .mast {
-  background: var(--header);
-  border-bottom: 1px solid var(--line);
+  background: transparent;
 }
 
 .mast-inner {
-  max-width: var(--max);
+  max-width: 76rem;
   margin: 0 auto;
-  padding: 0 24px;
+  padding: 1.35rem 1.5rem 0.85rem;
   display: flex;
-  flex-direction: column;
-  align-items: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.65rem 1.75rem;
 }
 
 .brand {
   color: var(--ink);
   text-decoration: none;
-  font-weight: 650;
-  letter-spacing: 0.01em;
-  min-height: 64px;
+  font-family: var(--sans);
+  font-weight: 500;
+  letter-spacing: -0.01em;
   display: inline-flex;
   align-items: center;
-  align-self: flex-start;
   gap: 0.7rem;
-  padding: 12px 0;
-  font-size: 1.125rem;
+  padding: 0.15rem 0;
+  font-size: 1.05rem;
+  min-height: 0;
+}
+
+.brand:hover {
+  color: var(--ink);
+  text-decoration: none;
 }
 
 .brand-mark {
@@ -103,97 +117,200 @@ input:focus-visible {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: flex-start;
-  width: 100%;
-  gap: 0 0.35rem;
-  border-top: 1px solid var(--line);
-  padding: 0.2rem 0 0.35rem;
+  justify-content: flex-end;
+  gap: 0.15rem 1rem;
+  width: auto;
+  flex: 1 1 16rem;
+  border: 0;
+  padding: 0;
 }
 
 .mast-nav a {
-  color: var(--ink);
+  color: var(--muted);
   text-decoration: none;
-  min-height: 44px;
-  padding: 0.35rem 0.85rem 0.35rem 0;
+  min-height: 2.25rem;
+  padding: 0.2rem 0;
   display: inline-flex;
   align-items: center;
-  white-space: nowrap;
+  font-size: 0.92rem;
+  font-weight: 400;
+  white-space: normal;
+  text-align: right;
 }
 
 .mast-nav a:hover {
+  color: var(--ink);
   text-decoration: underline;
-  text-underline-offset: 0.2em;
+  text-underline-offset: 0.22em;
 }
 
 .hero {
-  background: var(--hero);
-  border-bottom: 1px solid var(--line);
+  background: transparent;
+  border: 0;
 }
 
 .hero-copy,
-.hero-photo,
 .directory,
-.site-foot {
-  max-width: var(--max);
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 24px;
-  padding-right: 24px;
+.site-foot,
+.explore {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
 }
 
 .hero-copy {
-  padding-top: 4.25rem;
-  padding-bottom: 0.25rem;
+  max-width: var(--text);
+  margin: 0 auto;
+  padding-top: 4.75rem;
+  padding-bottom: 0;
+  text-align: center;
 }
 
 .eyebrow {
-  margin: 0 0 0.85rem;
-  font-size: 0.95rem;
-  letter-spacing: 0.06em;
+  margin: 0 0 1.1rem;
+  font-family: var(--sans);
+  font-size: 0.82rem;
+  font-weight: 500;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--muted);
 }
 
-h1 {
-  margin: 0;
-  max-width: 13em;
-  font-size: clamp(2.05rem, 4.4vw, 3.35rem);
-  line-height: 1.12;
-  font-weight: 650;
-  letter-spacing: -0.02em;
+h1,
+.page-title {
+  font-family: var(--serif);
+  font-weight: 500;
+  letter-spacing: -0.03em;
+  color: var(--ink);
+}
+
+.hero h1 {
+  margin: 0 auto;
+  max-width: 14em;
+  font-size: clamp(2.4rem, 6.4vw, 4.6rem);
+  line-height: 1.06;
+  font-weight: 500;
 }
 
 .lede {
-  margin: 1.15rem 0 0;
-  max-width: 34em;
+  margin: 1.35rem auto 0;
+  max-width: 32em;
   color: var(--ink);
-  font-size: 1.15rem;
+  font-size: 1.2rem;
   line-height: 1.5;
+  font-weight: 400;
 }
 
 .next {
-  margin: 1.75rem 0 0;
+  margin: 1.85rem 0 0;
 }
 
 .cta {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-height: 48px;
-  padding: 0 18px;
-  background: var(--ink);
-  color: #f7f5f0;
+  min-height: 2.75rem;
+  padding: 0 1.25rem;
+  background: var(--seal);
+  color: #fffdfb;
   text-decoration: none;
-  font-weight: 650;
+  font-family: var(--sans);
+  font-weight: 500;
+  font-size: 1rem;
+  border-radius: 999px;
 }
 
 .cta:hover {
-  background: var(--link);
+  background: var(--link-hover);
+  color: #fffdfb;
+}
+
+.ask-box {
+  position: relative;
+  z-index: 2;
+  background: transparent;
+  max-width: 44rem;
+  margin: 2.75rem auto -1.7rem;
+  padding: 0 1.5rem;
+}
+
+.ask-box-inner {
+  max-width: none;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.ask-box h2 {
+  margin: 0 0 0.7rem;
+  text-align: center;
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 1.3;
+  color: var(--ink);
+}
+
+.ask-form {
+  max-width: none;
+}
+
+.ask-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  background: var(--card);
+  border-radius: 999px;
+  padding: 0.4rem 0.4rem 0.4rem 1.2rem;
+  box-shadow: 0 12px 36px rgba(28, 25, 22, 0.12);
+  border: 1px solid rgba(28, 25, 22, 0.05);
+}
+
+.ask-controls textarea {
+  min-width: 0;
+  flex: 1 1 auto;
+  min-height: 2.75rem;
+  max-height: 5.5rem;
+  padding: 0.45rem 0;
+  border: 0;
+  border-radius: 0;
+  color: var(--ink);
+  background: transparent;
+  font: inherit;
+  line-height: 1.4;
+  resize: none;
+}
+
+.ask-controls button {
+  flex: 0 0 auto;
+  min-width: 4.25rem;
+  min-height: 2.75rem;
+  padding: 0 1.05rem;
+  border: 0;
+  border-radius: 999px;
+  background: var(--seal);
+  color: #fffdfb;
+  font: inherit;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.ask-controls button:hover {
+  background: var(--link-hover);
+}
+
+.ask-status {
+  margin: 0.85rem 0 0;
+  color: var(--ink);
+  max-width: 36em;
+  background: var(--card);
+  border-radius: 0.6rem;
+  padding: 0.45rem 0.75rem;
 }
 
 .hero-photo {
-  margin-top: 2.5rem;
-  margin-bottom: 0;
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: 0 1.5rem;
 }
 
 .hero-photo img {
@@ -203,101 +320,59 @@ h1 {
   aspect-ratio: 2 / 1;
   object-fit: cover;
   object-position: center 42%;
+  border-radius: 1.5rem;
 }
 
 .photo-credit {
-  margin: 0.65rem 0 0;
+  margin: 0.85rem auto 0;
+  max-width: 72rem;
   color: var(--muted);
-  font-size: 0.92rem;
+  font-size: 0.88rem;
   line-height: 1.45;
-  overflow-wrap: break-word;
-}
-
-.ask-box {
-  background: transparent;
-}
-
-.ask-box-inner {
-  max-width: var(--max);
-  margin: 0 auto;
-  padding: 2rem 24px 3.25rem;
-}
-
-.ask-box h2 {
-  margin-bottom: 0.85rem;
-}
-
-.ask-form {
-  max-width: 40rem;
-}
-
-.ask-controls {
-  display: flex;
-  align-items: stretch;
-  gap: 0.75rem;
-}
-
-.ask-controls textarea {
-  min-width: 0;
-  flex: 1 1 auto;
-  min-height: 48px;
-  padding: 0.65rem 0.85rem;
-  border: 1px solid #b7c3bc;
-  border-radius: 0;
-  color: var(--ink);
-  background: #fff;
-  font: inherit;
-  line-height: 1.4;
-  resize: none;
-}
-
-.ask-controls button {
-  flex: 0 0 auto;
-  min-width: 5.5rem;
-  min-height: 48px;
-  padding: 0 1.15rem;
-  border: 0;
-  border-radius: 0;
-  background: var(--ink);
-  color: #f7f5f0;
-  font: inherit;
-  font-weight: 650;
-  cursor: pointer;
-}
-
-.ask-controls button:hover {
-  background: var(--link);
-}
-
-.ask-status {
-  margin: 0.9rem 0 0;
-  color: var(--ink);
-  max-width: 36em;
+  overflow-wrap: anywhere;
 }
 
 h2 {
   margin: 0 0 1.25rem;
-  font-size: clamp(1.5rem, 2.5vw, 2rem);
-  line-height: 1.25;
-  font-weight: 650;
-  letter-spacing: -0.015em;
+  font-family: var(--serif);
+  font-size: clamp(1.85rem, 3vw, 2.6rem);
+  line-height: 1.18;
+  font-weight: 500;
+  letter-spacing: -0.025em;
+  color: var(--ink);
 }
 
 .explore {
-  max-width: var(--max);
+  max-width: 72rem;
   margin: 0 auto;
-  padding: 4rem 24px 0.5rem;
+  padding-top: 5rem;
+  padding-bottom: 1rem;
   scroll-margin-top: 1rem;
+}
+
+.explore > h2 {
+  max-width: var(--text);
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 
 .directory {
-  padding-top: 3.25rem;
-  padding-bottom: 4.5rem;
+  max-width: 72rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 4.5rem;
+  padding-bottom: 5rem;
   scroll-margin-top: 1rem;
 }
 
+.directory-head {
+  max-width: var(--text);
+  margin: 0 auto 2.25rem;
+}
+
 .directory-head p {
-  margin: -0.35rem 0 2rem;
+  margin: 0.35rem 0 0;
   color: var(--ink);
   max-width: 38em;
 }
@@ -307,14 +382,15 @@ h2 {
 }
 
 .region + .region {
-  margin-top: 2.25rem;
+  margin-top: 2.5rem;
 }
 
 .region h3 {
-  margin: 0 0 0.6rem;
-  font-size: 1rem;
-  font-weight: 650;
-  letter-spacing: 0.04em;
+  margin: 0 0 0.65rem;
+  font-family: var(--sans);
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--muted);
 }
@@ -349,39 +425,61 @@ h2 {
   padding: 8px 12px 8px 0;
   text-decoration: none;
   color: var(--ink);
+  font-weight: 500;
 }
 
 .region a:hover {
+  color: var(--link);
   text-decoration: underline;
   text-underline-offset: 0.18em;
 }
 
 .site-foot {
-  padding-top: 1.5rem;
-  padding-bottom: 2.75rem;
+  max-width: 72rem;
+  margin: 0 auto;
+  padding-top: 1.35rem;
+  padding-bottom: 2.5rem;
   border-top: 1px solid var(--line);
   color: var(--muted);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.55rem 1.5rem;
+}
+
+.brand-foot {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  margin: 0;
+}
+
+.brand-foot img {
+  width: 36px;
+  height: 36px;
+  display: block;
 }
 
 .foot-name {
-  margin: 0 0 0.25rem;
+  margin: 0;
   color: var(--ink);
-  font-weight: 650;
+  font-weight: 500;
+  font-size: 0.98rem;
 }
 
 .social-row {
   display: flex;
   flex-wrap: wrap;
   align-items: baseline;
-  gap: 0.35rem 1rem;
-  margin: 0.75rem 0;
+  gap: 0.25rem 0.9rem;
+  margin: 0;
   color: var(--ink);
 }
 
 .social-row a {
   color: var(--link);
   text-decoration: none;
-  font-weight: 650;
+  font-weight: 500;
 }
 
 .social-row a:hover {
@@ -391,7 +489,7 @@ h2 {
 
 .social-label {
   color: var(--muted);
-  font-size: 0.9rem;
+  font-size: 0.78rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -406,7 +504,9 @@ h2 {
 
 .site-foot p:last-child {
   margin: 0;
+  flex: 1 1 16rem;
   max-width: 36em;
+  font-size: 0.92rem;
 }
 
 .visually-hidden {
@@ -421,49 +521,13 @@ h2 {
   border: 0;
 }
 
-@media (max-width: 720px) {
-  .hero-copy {
-    padding-top: 2.5rem;
-  }
-
-  .hero-photo {
-    margin-top: 1.75rem;
-  }
-
-  .explore {
-    padding-top: 2.75rem;
-  }
-
-  .ask-box-inner {
-    padding-top: 1.5rem;
-    padding-bottom: 2.5rem;
-  }
-}
-
-@media (max-width: 720px) {
-  .ask-controls textarea {
-    min-height: 5.25rem;
-  }
-}
-
-@media (max-width: 520px) {
-  .ask-controls {
-    flex-direction: column;
-    gap: 0.65rem;
-  }
-
-  .ask-controls button {
-    width: 100%;
-  }
-}
-
 .pref-map {
   display: block;
   width: 100%;
-  max-width: 46rem;
+  max-width: 54rem;
   height: auto;
   margin: 0 auto;
-  font-family: "Segoe UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic UI", "Yu Gothic", Meiryo, sans-serif;
+  font-family: var(--sans);
 }
 
 .pref-map a {
@@ -520,54 +584,26 @@ h2 {
 
 .map-name {
   min-height: 1.6em;
-  margin: 0.85rem 0 0.2rem;
-  font-weight: 650;
+  margin: 1rem auto 0.2rem;
+  max-width: var(--text);
+  font-weight: 500;
+  text-align: center;
 }
 
 .map-note,
 .map-credit {
-  margin: 0.35rem 0 0;
+  margin: 0.4rem auto 0;
   max-width: 40em;
   color: var(--muted);
   font-size: 0.92rem;
-}
-
-/* --- Layers: large header seal (must read first) --- */
-.brand {
-  gap: 1rem;
-  padding: 1rem 0 1.1rem;
-  min-height: 0;
-  font-size: clamp(1.35rem, 2.4vw, 1.85rem);
-}
-
-.brand-mark {
-  width: clamp(112px, 14vw, 168px);
-  height: clamp(112px, 14vw, 168px);
-  flex: 0 0 auto;
-}
-
-.mast-inner {
-  padding-top: 0.35rem;
-}
-
-.brand-foot {
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-  margin-bottom: 0.75rem;
-}
-
-.brand-foot img {
-  width: 56px;
-  height: 56px;
-  display: block;
+  text-align: center;
 }
 
 /* Pref / muni page chrome */
 .page-main {
   max-width: var(--max);
   margin: 0 auto;
-  padding: 2.25rem 24px 3.5rem;
+  padding: 2.5rem 1.5rem 3.5rem;
 }
 
 .crumb {
@@ -590,8 +626,6 @@ h2 {
   margin: 0 0 0.35rem;
   font-size: clamp(1.85rem, 3.5vw, 2.75rem);
   line-height: 1.15;
-  font-weight: 650;
-  letter-spacing: -0.02em;
 }
 
 .page-sub {
@@ -612,10 +646,12 @@ h2 {
 
 .locator-label {
   margin: 0;
+  font-family: var(--serif);
   font-size: clamp(1.35rem, 2.5vw, 1.85rem);
-  font-weight: 650;
-  letter-spacing: -0.015em;
+  font-weight: 500;
+  letter-spacing: -0.02em;
   line-height: 1.25;
+  color: var(--ink);
 }
 
 .locator-note {
@@ -650,6 +686,7 @@ h2 {
   max-height: 28rem;
   object-fit: cover;
   aspect-ratio: 16 / 9;
+  border-radius: 1rem;
 }
 
 .meta-block {
@@ -664,11 +701,11 @@ h2 {
 
 .meta-block dt {
   margin: 0;
-  font-size: 0.85rem;
-  letter-spacing: 0.04em;
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--muted);
-  font-weight: 650;
+  font-weight: 600;
 }
 
 .meta-block dd {
@@ -701,7 +738,7 @@ h2 {
 
 .place-list .place-name {
   margin: 0;
-  font-weight: 650;
+  font-weight: 500;
 }
 
 .place-list .place-meta {
@@ -716,6 +753,7 @@ h2 {
   height: auto;
   aspect-ratio: 3 / 2;
   object-fit: cover;
+  border-radius: 0.6rem;
 }
 
 .gap-line {
@@ -748,6 +786,7 @@ h2 {
 }
 
 .muni-grid a:hover {
+  color: var(--link);
   text-decoration: underline;
   text-underline-offset: 0.18em;
 }
@@ -757,12 +796,56 @@ h2 {
 }
 
 @media (max-width: 720px) {
+  .hero-copy {
+    padding-top: 2.75rem;
+  }
+
+  .ask-box {
+    margin-top: 2rem;
+    margin-bottom: -1.35rem;
+  }
+
+  .explore {
+    padding-top: 3.5rem;
+  }
+
+  .directory {
+    padding-top: 3.25rem;
+    padding-bottom: 3.5rem;
+  }
+
+  .hero-photo img {
+    border-radius: 1.1rem;
+  }
+
   .locator {
     grid-template-columns: 1fr;
   }
 
-  .brand-mark {
-    width: 112px;
-    height: 112px;
+  .mast-nav {
+    justify-content: flex-start;
+  }
+
+  .mast-nav a {
+    text-align: left;
+  }
+}
+
+@media (max-width: 520px) {
+  .mast-inner,
+  .hero-copy,
+  .hero-photo,
+  .ask-box,
+  .explore,
+  .directory,
+  .site-foot,
+  .page-main {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .ask-controls {
+    border-radius: 1.25rem;
+    align-items: flex-end;
   }
 }
