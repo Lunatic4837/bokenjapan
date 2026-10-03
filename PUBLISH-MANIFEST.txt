@@ -1,0 +1,52 @@
+BokenJapan publish folder (UNPUBLISHED local assemble)
+Do not push / do not change DNS / live site untouched.
+
+Prefecture pages: 47
+Municipality pages by prefecture:
+  tokushima: 23 — aizumi, anan, awa, higashimiyoshi, ishii, itano, kaiyo, kamiita, kamikatsu, kamiyama, katsuura, kitajima, komatsushima, matsushige, mima, minami, miyoshi, mugi, naka, naruto, tokushima, tsurugi, yoshinogawa
+  kagawa: 17 — ayagawa, higashikagawa, kanonji, kotohira, manno, marugame, miki, mitoyo, naoshima, sakaide, sanuki, shodoshima, tadotsu, takamatsu, tonosho, utazu, zentsuji
+  ehime: 19 — ainan, ikata, imabari, iyo, kamijima, kihoku, kumakogen, matsuno, matsuyama, niihama, ozu, saijo, seiyo, shikokuchuo, tobe, toon, uchiko, uwajima, yawatahama
+  hiroshima: 21 — akiota, akitakata, etajima, fuchu, fuchucho, fukuyama, hatsukaichi, higashihiroshima, hiroshima, jinseikogen, kaita, kitahiroshima, kure, miharashi, miyoshishi, onomichi, osakikamijima, otake, sera, shobara, takehara
+  kochi: 32 — aki, geisei, hidaka, ino, kami, kitagawa, kochi, konan, kuroshio, mihara, motoyama, muroto, nahari, nakatosa, nankoku, niyodogawa, ochi, okawa, otoyo, otsuki, shimanto, shimantocho, sukumo, susaki, tosa, tosacho, tosashimizu, toyo, tsuno, umaji, yasuda, yusuhara
+  okayama: 5 — kasaoka, kurashiki, okayama, tamano, tsuyama
+Total municipality pages: 117
+
+Excluded (not copied into publish):
+  1602× JIS/SOUMU shell outside sourced prefectures
+  22× Okayama shelter-list / unsourced stay page
+  4× sourced page but no stay listing / stay photo
+  2× Kochi stay densify deferred (no attributable stay photo)
+
+Media files copied: 749 / needed 749
+
+Social footer check: every HTML social-row is only X, Instagram, TikTok (no other networks).
+
+Styles: publish root styles.css copied from bokenjapan-layers/styles.css (includes homepage + municipality place rules).
+
+Named exclusions (no page in publish):
+  tokushima/sanagochi — sourced page but no stay listing / stay photo
+  ehime/masaki — sourced page but no stay listing / stay photo
+  hiroshima/kumano — sourced page but no stay listing / stay photo
+  hiroshima/saka — sourced page but no stay listing / stay photo
+  kochi/sakawa — deferred (kochi-sakawa-tano-defer.md)
+  kochi/tano — deferred (kochi-sakawa-tano-defer.md)
+  okayama/* except okayama,kurashiki,tsuyama,tamano,kasaoka — shelter-only / unsourced stay
+  41 other prefectures' municipality shells — JIS/SOUMU coming-soon names only
+
+  okayama/kasaoka/   — dossier /workspace/p1/data/okayama-kasaoka-tg610.md (also kept)
+Linked from okayama/index.html map + municipality list. No other Okayama towns shipped.
+
+
+Fix-in-place note (2026-10-03 JST):
+- Did not delete publish folder.
+- Social: all 165 HTML footers already only X / Instagram / TikTok; scrubbed leftover network-name words from this manifest.
+- Okayama stay pages already present and map-linked: okayama, kurashiki, tsuyama, tamano (plus kasaoka). No other Okayama towns added.
+- No git push, no DNS change, not live.
+
+Steering fix (in place, folder kept):
+- Removed okayama/okayama, okayama/kurashiki, okayama/tsuyama, okayama/tamano from publish.
+- Kept okayama/kasaoka only under Okayama municipalities.
+- Left Tokushima, Kagawa, Ehime, Hiroshima, Kochi municipality pages as assembled.
+- Did not add Sakawa, Tano, or other Okayama towns.
+- Social footers: X, Instagram, TikTok only; network-name scrub verified clean.
+- No commit, push, or DNS change.

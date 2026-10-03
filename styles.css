@@ -1,0 +1,768 @@
+/* BokenJapan homepage draft. System fonts only. Served as a static file from the repo root. */
+
+:root {
+  --paper: #f3f0e8;
+  --ink: #1c1b17;
+  --muted: #5e5a52;
+  --line: #d8d2c6;
+  --field: #e5ebe4;
+  --hero: #e7eee6;
+  --link: #1a3c34;
+  --header: #f7f5f0;
+  --max: 72rem;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  overflow-x: clip;
+}
+
+body {
+  margin: 0;
+  color: var(--ink);
+  background: var(--paper);
+  font-family: "Segoe UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic UI", "Noto Sans", "Noto Sans CJK JP", sans-serif;
+  font-size: 1.0625rem;
+  line-height: 1.6;
+  overflow-x: clip;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  color: var(--link);
+}
+
+a:focus-visible,
+.cta:focus-visible,
+button:focus-visible,
+input:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 3px;
+}
+
+.skip {
+  position: absolute;
+  left: 12px;
+  top: 0;
+  transform: translateY(-120%);
+  background: #fff;
+  color: var(--ink);
+  padding: 10px 14px;
+  z-index: 2;
+}
+
+.skip:focus {
+  transform: none;
+}
+
+.mast {
+  background: var(--header);
+  border-bottom: 1px solid var(--line);
+}
+
+.mast-inner {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 0 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.brand {
+  color: var(--ink);
+  text-decoration: none;
+  font-weight: 650;
+  letter-spacing: 0.01em;
+  min-height: 64px;
+  display: inline-flex;
+  align-items: center;
+  align-self: flex-start;
+  gap: 0.7rem;
+  padding: 12px 0;
+  font-size: 1.125rem;
+}
+
+.brand-mark {
+  display: block;
+  width: 40px;
+  height: 40px;
+  flex: 0 0 40px;
+}
+
+.mast-nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  gap: 0 0.35rem;
+  border-top: 1px solid var(--line);
+  padding: 0.2rem 0 0.35rem;
+}
+
+.mast-nav a {
+  color: var(--ink);
+  text-decoration: none;
+  min-height: 44px;
+  padding: 0.35rem 0.85rem 0.35rem 0;
+  display: inline-flex;
+  align-items: center;
+  white-space: nowrap;
+}
+
+.mast-nav a:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+.hero {
+  background: var(--hero);
+  border-bottom: 1px solid var(--line);
+}
+
+.hero-copy,
+.hero-photo,
+.directory,
+.site-foot {
+  max-width: var(--max);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.hero-copy {
+  padding-top: 4.25rem;
+  padding-bottom: 0.25rem;
+}
+
+.eyebrow {
+  margin: 0 0 0.85rem;
+  font-size: 0.95rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+h1 {
+  margin: 0;
+  max-width: 13em;
+  font-size: clamp(2.05rem, 4.4vw, 3.35rem);
+  line-height: 1.12;
+  font-weight: 650;
+  letter-spacing: -0.02em;
+}
+
+.lede {
+  margin: 1.15rem 0 0;
+  max-width: 34em;
+  color: var(--ink);
+  font-size: 1.15rem;
+  line-height: 1.5;
+}
+
+.next {
+  margin: 1.75rem 0 0;
+}
+
+.cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 48px;
+  padding: 0 18px;
+  background: var(--ink);
+  color: #f7f5f0;
+  text-decoration: none;
+  font-weight: 650;
+}
+
+.cta:hover {
+  background: var(--link);
+}
+
+.hero-photo {
+  margin-top: 2.5rem;
+  margin-bottom: 0;
+}
+
+.hero-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 2 / 1;
+  object-fit: cover;
+  object-position: center 42%;
+}
+
+.photo-credit {
+  margin: 0.65rem 0 0;
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.45;
+  overflow-wrap: break-word;
+}
+
+.ask-box {
+  background: transparent;
+}
+
+.ask-box-inner {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 2rem 24px 3.25rem;
+}
+
+.ask-box h2 {
+  margin-bottom: 0.85rem;
+}
+
+.ask-form {
+  max-width: 40rem;
+}
+
+.ask-controls {
+  display: flex;
+  align-items: stretch;
+  gap: 0.75rem;
+}
+
+.ask-controls textarea {
+  min-width: 0;
+  flex: 1 1 auto;
+  min-height: 48px;
+  padding: 0.65rem 0.85rem;
+  border: 1px solid #b7c3bc;
+  border-radius: 0;
+  color: var(--ink);
+  background: #fff;
+  font: inherit;
+  line-height: 1.4;
+  resize: none;
+}
+
+.ask-controls button {
+  flex: 0 0 auto;
+  min-width: 5.5rem;
+  min-height: 48px;
+  padding: 0 1.15rem;
+  border: 0;
+  border-radius: 0;
+  background: var(--ink);
+  color: #f7f5f0;
+  font: inherit;
+  font-weight: 650;
+  cursor: pointer;
+}
+
+.ask-controls button:hover {
+  background: var(--link);
+}
+
+.ask-status {
+  margin: 0.9rem 0 0;
+  color: var(--ink);
+  max-width: 36em;
+}
+
+h2 {
+  margin: 0 0 1.25rem;
+  font-size: clamp(1.5rem, 2.5vw, 2rem);
+  line-height: 1.25;
+  font-weight: 650;
+  letter-spacing: -0.015em;
+}
+
+.explore {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 4rem 24px 0.5rem;
+  scroll-margin-top: 1rem;
+}
+
+.directory {
+  padding-top: 3.25rem;
+  padding-bottom: 4.5rem;
+  scroll-margin-top: 1rem;
+}
+
+.directory-head p {
+  margin: -0.35rem 0 2rem;
+  color: var(--ink);
+  max-width: 38em;
+}
+
+.region {
+  scroll-margin-top: 1rem;
+}
+
+.region + .region {
+  margin-top: 2.25rem;
+}
+
+.region h3 {
+  margin: 0 0 0.6rem;
+  font-size: 1rem;
+  font-weight: 650;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.region ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(11rem, 1fr));
+  gap: 0;
+  border-top: 1px solid var(--line);
+}
+
+.region li {
+  margin: 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.region ul:has(> li:only-child) {
+  border-bottom: 1px solid var(--line);
+}
+
+.region ul:has(> li:only-child) li {
+  border-bottom: 0;
+}
+
+.region a {
+  display: flex;
+  align-items: center;
+  min-height: 48px;
+  padding: 8px 12px 8px 0;
+  text-decoration: none;
+  color: var(--ink);
+}
+
+.region a:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+.site-foot {
+  padding-top: 1.5rem;
+  padding-bottom: 2.75rem;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+}
+
+.foot-name {
+  margin: 0 0 0.25rem;
+  color: var(--ink);
+  font-weight: 650;
+}
+
+.social-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem 1rem;
+  margin: 0.75rem 0;
+  color: var(--ink);
+}
+
+.social-row a {
+  color: var(--link);
+  text-decoration: none;
+  font-weight: 650;
+}
+
+.social-row a:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+.social-label {
+  color: var(--muted);
+  font-size: 0.9rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.social-pending {
+  color: var(--muted);
+}
+
+.social-status {
+  font-size: 0.85em;
+}
+
+.site-foot p:last-child {
+  margin: 0;
+  max-width: 36em;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+@media (max-width: 720px) {
+  .hero-copy {
+    padding-top: 2.5rem;
+  }
+
+  .hero-photo {
+    margin-top: 1.75rem;
+  }
+
+  .explore {
+    padding-top: 2.75rem;
+  }
+
+  .ask-box-inner {
+    padding-top: 1.5rem;
+    padding-bottom: 2.5rem;
+  }
+}
+
+@media (max-width: 720px) {
+  .ask-controls textarea {
+    min-height: 5.25rem;
+  }
+}
+
+@media (max-width: 520px) {
+  .ask-controls {
+    flex-direction: column;
+    gap: 0.65rem;
+  }
+
+  .ask-controls button {
+    width: 100%;
+  }
+}
+
+.pref-map {
+  display: block;
+  width: 100%;
+  max-width: 46rem;
+  height: auto;
+  margin: 0 auto;
+  font-family: "Segoe UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic UI", "Yu Gothic", Meiryo, sans-serif;
+}
+
+.pref-map a {
+  cursor: pointer;
+}
+
+.pref-map path {
+  fill: #e4eef2;
+  stroke: #243038;
+  stroke-width: 1.25px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  vector-effect: non-scaling-stroke;
+}
+
+.pref-map a:hover path,
+.pref-map a:focus path {
+  fill: #1a3c34;
+  stroke: #243038;
+}
+
+.pref-map a:focus {
+  outline: none;
+}
+
+.pref-map a:focus-visible path {
+  stroke: #1c1b17;
+  stroke-width: 2px;
+}
+
+.pref-map .inset-frame {
+  fill: transparent;
+  stroke: #cfc8ba;
+  stroke-width: 1px;
+  vector-effect: non-scaling-stroke;
+}
+
+.pref-map a:hover .inset-frame,
+.pref-map a:focus .inset-frame {
+  fill: transparent;
+  stroke: #1a3c34;
+}
+
+.pref-map .inset-label {
+  fill: #5e5a52;
+  font-size: 18px;
+  pointer-events: none;
+}
+
+.pref-map a:hover .inset-label,
+.pref-map a:focus .inset-label {
+  fill: #1c1b17;
+}
+
+.map-name {
+  min-height: 1.6em;
+  margin: 0.85rem 0 0.2rem;
+  font-weight: 650;
+}
+
+.map-note,
+.map-credit {
+  margin: 0.35rem 0 0;
+  max-width: 40em;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+/* --- Layers: large header seal (must read first) --- */
+.brand {
+  gap: 1rem;
+  padding: 1rem 0 1.1rem;
+  min-height: 0;
+  font-size: clamp(1.35rem, 2.4vw, 1.85rem);
+}
+
+.brand-mark {
+  width: clamp(112px, 14vw, 168px);
+  height: clamp(112px, 14vw, 168px);
+  flex: 0 0 auto;
+}
+
+.mast-inner {
+  padding-top: 0.35rem;
+}
+
+.brand-foot {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.brand-foot img {
+  width: 56px;
+  height: 56px;
+  display: block;
+}
+
+/* Pref / muni page chrome */
+.page-main {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 2.25rem 24px 3.5rem;
+}
+
+.crumb {
+  margin: 0 0 1.25rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.crumb a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+.crumb a:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+.page-title {
+  margin: 0 0 0.35rem;
+  font-size: clamp(1.85rem, 3.5vw, 2.75rem);
+  line-height: 1.15;
+  font-weight: 650;
+  letter-spacing: -0.02em;
+}
+
+.page-sub {
+  margin: 0 0 1.75rem;
+  color: var(--muted);
+  font-size: 1.05rem;
+}
+
+.locator {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(12rem, 0.7fr);
+  gap: 1.25rem 1.75rem;
+  align-items: center;
+  margin: 0 0 2.25rem;
+  padding: 1.1rem 0 1.5rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.locator-label {
+  margin: 0;
+  font-size: clamp(1.35rem, 2.5vw, 1.85rem);
+  font-weight: 650;
+  letter-spacing: -0.015em;
+  line-height: 1.25;
+}
+
+.locator-note {
+  margin: 0.55rem 0 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.locator .pref-map {
+  margin: 0;
+}
+
+/* Highlighted municipality on locator / self map */
+.pref-map .is-here path,
+.pref-map path.is-here {
+  fill: #1a3c34;
+  stroke: #243038;
+}
+
+.pref-map a.is-here:hover path,
+.pref-map a.is-here:focus path {
+  fill: #143028;
+}
+
+.cover {
+  margin: 0 0 2rem;
+}
+
+.cover img {
+  display: block;
+  width: 100%;
+  max-height: 28rem;
+  object-fit: cover;
+  aspect-ratio: 16 / 9;
+}
+
+.meta-block {
+  margin: 0 0 2rem;
+}
+
+.meta-block dl {
+  margin: 0;
+  display: grid;
+  gap: 0.65rem 1.25rem;
+}
+
+.meta-block dt {
+  margin: 0;
+  font-size: 0.85rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+  font-weight: 650;
+}
+
+.meta-block dd {
+  margin: 0.15rem 0 0.75rem;
+}
+
+.place-section + .place-section {
+  margin-top: 2rem;
+}
+
+.place-section h2 {
+  margin-bottom: 0.85rem;
+}
+
+.place-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--line);
+}
+
+.place-list li {
+  margin: 0;
+  padding: 0.85rem 0;
+  border-bottom: 1px solid var(--line);
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0.55rem;
+}
+
+.place-list .place-name {
+  margin: 0;
+  font-weight: 650;
+}
+
+.place-list .place-meta {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.place-list .thumb {
+  display: block;
+  width: min(100%, 22rem);
+  height: auto;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+}
+
+.gap-line {
+  margin: 1rem 0 0;
+  max-width: 36em;
+}
+
+.muni-grid {
+  list-style: none;
+  margin: 1.75rem 0 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(11rem, 1fr));
+  gap: 0;
+  border-top: 1px solid var(--line);
+}
+
+.muni-grid li {
+  margin: 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.muni-grid a {
+  display: flex;
+  align-items: center;
+  min-height: 48px;
+  padding: 8px 12px 8px 0;
+  text-decoration: none;
+  color: var(--ink);
+}
+
+.muni-grid a:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+.map-wrap {
+  margin: 0 0 0.5rem;
+}
+
+@media (max-width: 720px) {
+  .locator {
+    grid-template-columns: 1fr;
+  }
+
+  .brand-mark {
+    width: 112px;
+    height: 112px;
+  }
+}
