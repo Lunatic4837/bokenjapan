@@ -7,7 +7,9 @@ GitHub Pages' 1GB published-site limit / 10-minute deploy timeout.
 This script:
   1) Copies flat HTML site structure
   2) Externalizes per-prefecture SVG locator maps (dedupe ~679MB of embeds)
-  3) Re-encodes referenced media to WebP (max edge 640, q=30)
+  3) Re-encodes referenced media to WebP (max edge 560, q=25, method=4)
+     Sized for ~≤900–950 MiB published footprint with headroom for Hokkaido
+     media growth (640/q30 landed ~1008 MiB — too tight vs 1 GiB hard limit).
   4) Rewrites media/*.jpg|png refs in published HTML/CSS to .webp
   5) Keeps CNAME, .nojekyll, styles.css, logo, index, every municipality page
 """
@@ -30,8 +32,8 @@ OUT = ROOT / "_site"
 MEDIA_IN = ROOT / "media"
 MEDIA_OUT = OUT / "media"
 
-MAX_EDGE = 640
-WEBP_QUALITY = 30
+MAX_EDGE = 560
+WEBP_QUALITY = 25
 WORKERS = max(2, min(8, (os.cpu_count() or 4)))
 
 SKIP_DIRS = {".git", "_site", "scripts", ".github", "node_modules", "media"}
@@ -151,7 +153,7 @@ def compress_one(args: tuple[str, str]) -> tuple[str, int, int, str]:
             im = im.convert("RGB")
         im.thumbnail((MAX_EDGE, MAX_EDGE), Image.Resampling.LANCZOS)
         dst.parent.mkdir(parents=True, exist_ok=True)
-        im.save(dst, format="WEBP", quality=WEBP_QUALITY, method=2)
+        im.save(dst, format="WEBP", quality=WEBP_QUALITY, method=4)
         return (src.name, orig, dst.stat().st_size, "ok")
     except Exception as e:
         return (src.name, 0, 0, f"err:{e}")
@@ -269,7 +271,7 @@ def main() -> int:
         flush=True,
     )
     if total > 1000 * 1024 * 1024:
-        print("ERROR: _site exceeds 1GB Pages hard limit", flush=True)
+        print("ERROR: _site exceeds ~1000 MiB soft budget (Pages hard limit is 1 GiB)", flush=True)
         return 2
     return 0
 
