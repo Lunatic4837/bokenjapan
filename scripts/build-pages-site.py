@@ -128,7 +128,7 @@ def process_html(src: Path, dst: Path, pref: str | None) -> set[str]:
                 map_path.parent.mkdir(parents=True, exist_ok=True)
                 map_path.write_text(normalize_map_svg(svg, pref), encoding="utf-8")
             return (
-                f'{m.group(1)} data-map="{map_rel}" data-here="{here}"></div>\n'
+                f'<div class="map-wrap" data-map="{map_rel}" data-here="{here}"></div>\n'
                 f"      {LOADER_JS}"
             )
 
