@@ -7,10 +7,10 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,500;0,600;1,400&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
-  <meta name="description" content="Design your customized Japan adventure">
+  <meta name="description" content="Explore Japan by prefecture. Open a page and see what is published.">
   <link rel="stylesheet" href="styles.css">
 </head>
-<body>
+<body class="home">
   <a class="skip" href="#main">Skip to content</a>
   <header class="mast">
     <div class="mast-inner">
@@ -33,7 +33,7 @@
       <div class="hero-copy">
         <p class="eyebrow">Japan, by prefecture</p>
         <h1 id="hero-title">Design your customized Japan adventure</h1>
-        <p class="lede">Pick a prefecture. Open its page and see what is published there.</p>
+        <p class="lede">Pick a prefecture. Open the page and see what is published there today.</p>
         <p class="next"><a class="cta" href="#prefectures">Open the prefecture list</a></p>
       </div>
       <div class="ask-box" id="ask">
@@ -50,7 +50,9 @@
         </div>
       </div>
       <figure class="hero-photo">
-        <img src="hero-himeji.jpg" alt="修理後の姫路城" width="5177" height="3200">
+        <div class="hero-frame">
+          <img src="hero-himeji.jpg" alt="修理後の姫路城" width="5177" height="3200">
+        </div>
         <figcaption class="photo-credit">Himeji Castle, 21 August 2018, after the repair, author <a href="https://www.flickr.com/photos/26063859@N06/30770208178/">_steffen</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>, Wikimedia file “<a href="https://commons.wikimedia.org/wiki/File:Himeji_Castle,_Hy%C5%8Dgo_Prefecture;_August_2018_(04).jpg">Himeji Castle, Hyōgo Prefecture; August 2018 (04).jpg</a>”.</figcaption>
       </figure>
     </section>
@@ -124,7 +126,7 @@
     <section class="directory" id="prefectures" aria-labelledby="pref-title">
       <div class="directory-head">
         <h2 id="pref-title">Prefectures</h2>
-        <p>Forty-seven prefecture pages, grouped by region. Where a page lists municipalities, those names are links. The pages are still in Japanese.</p>
+        <p>Forty-seven prefecture pages, grouped by region. Municipality names are links where a list exists. Many pages are still in Japanese or incomplete.</p>
       </div>
       <!-- These pages are still in Japanese and will be replaced with English pages. -->
       <nav aria-label="Prefectures">
