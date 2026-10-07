@@ -198,9 +198,66 @@ body.home .mast-nav a {
   text-align: center;
 }
 
+body.home .hero-band {
+  position: relative;
+  width: min(72rem, calc(100% - 2.5rem));
+  margin: 0 auto;
+  padding: 5.5rem 0 0;
+}
+
 body.home .hero-copy {
-  padding-top: 5.5rem;
+  padding-top: 0;
+  padding-left: 0;
+  padding-right: 0;
   max-width: 48rem;
+  width: 100%;
+}
+
+body.home .hero-social {
+  position: absolute;
+  z-index: 2;
+  top: 8.05rem;
+  right: 0;
+  display: grid;
+  grid-template-columns: auto auto;
+  align-items: center;
+  justify-items: start;
+  column-gap: 0.45rem;
+  row-gap: 0.1rem;
+  width: max-content;
+  margin: 0;
+  padding: 0.45rem 0.7rem 0.45rem 0.5rem;
+  background: var(--card);
+  border: 1px solid rgba(28, 25, 22, 0.06);
+  border-radius: 1rem;
+  box-shadow: 0 10px 32px rgba(28, 25, 22, 0.06);
+}
+
+body.home .hero-social-mark {
+  display: block;
+  grid-row: 1 / span 3;
+  align-self: center;
+  width: 36px;
+  height: 36px;
+}
+
+body.home .hero-social a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.15rem;
+  padding: 0 0.35rem;
+  border-radius: 999px;
+  color: var(--link);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.98rem;
+  letter-spacing: -0.011em;
+  white-space: nowrap;
+}
+
+body.home .hero-social a:hover {
+  background: rgba(196, 48, 38, 0.08);
+  color: var(--link-hover);
 }
 
 .eyebrow {
@@ -1145,13 +1202,40 @@ body.home .pref-map {
   margin: 0 0 0.5rem;
 }
 
+@media (max-width: 1120px) {
+  body.home .hero-social {
+    position: static;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: fit-content;
+    max-width: 100%;
+    margin: 1.5rem auto 0;
+    column-gap: 0.15rem;
+    row-gap: 0.15rem;
+    padding: 0.35rem 0.45rem 0.35rem 0.4rem;
+  }
+
+  body.home .hero-social-mark {
+    grid-row: auto;
+    width: 32px;
+    height: 32px;
+    margin-right: 0.15rem;
+  }
+}
+
 @media (max-width: 720px) {
   .hero-copy {
     padding-top: 2.75rem;
   }
 
-  body.home .hero-copy {
+  body.home .hero-band {
     padding-top: 3.25rem;
+  }
+
+  body.home .hero-copy {
+    padding-top: 0;
   }
 
   .ask-box {
