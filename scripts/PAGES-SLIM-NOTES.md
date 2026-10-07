@@ -16,3 +16,5 @@ What is baked:
 Ohira still ships its cover, its stay photo, its sight thumbs, and the first 8 dining photos. A catalog page such as Sendai keeps 8 stay, 8 dining, and 4 sights instead of thousands of dining files.
 
 The cap, not a tighter WebP quality, is what leaves room for later facility waves. Full saturation of today’s municipality count at these caps is roughly 600–750 MiB plus HTML, under the 900 MiB gate.
+
+Measured on this tree (main `73401b10f4` plus the cap): 8,481 WebP files, 62,295 thumbs omitted, `_site` **304.1 MiB** (WebP 255.3 MiB, HTML 34.5 MiB), exit 0.
