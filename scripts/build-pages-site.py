@@ -82,6 +82,7 @@ ROOT_FILES = [
     "og.png",
     "hero-himeji.jpg",
     "PUBLISH-MANIFEST.txt",
+    "tiktokEFvXON4ipvA4nlkjYEPd1T1qF6H6WPGx.txt",
 ]
 
 SVG_RE = re.compile(r"(<div class=\"map-wrap\">)\s*(<svg[\s\S]*?</svg>)\s*(</div>)", re.I)
