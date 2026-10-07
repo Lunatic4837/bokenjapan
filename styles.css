@@ -459,18 +459,22 @@ body.home .ask-status {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  width: 2.75rem;
+  height: 2.75rem;
   min-width: 2.75rem;
   min-height: 2.75rem;
-  padding: 0.35rem 0.95rem;
+  padding: 0;
   background: #fff;
   color: var(--ink);
   text-decoration: none;
-  font-weight: 600;
-  font-size: 0.95rem;
-  line-height: 1;
-  letter-spacing: 0.01em;
   border-radius: 0.28rem;
   box-shadow: 0 1px 0 rgba(28, 25, 22, 0.04), 0 8px 18px rgba(28, 25, 22, 0.16);
+}
+
+.hero-sns svg {
+  display: block;
+  width: 1.3rem;
+  height: 1.3rem;
 }
 
 .hero-sns a:hover {
@@ -1254,13 +1258,6 @@ body.home .pref-map {
     gap: 0.4rem;
   }
 
-  .hero-sns a {
-    min-width: 44px;
-    min-height: 44px;
-    padding: 0.3rem 0.8rem;
-    font-size: 0.92rem;
-  }
-
   body.home .mast {
     padding: 0.85rem 0.85rem 0;
   }
@@ -1324,8 +1321,4 @@ body.home .pref-map {
     gap: 0.35rem;
   }
 
-  .hero-sns a {
-    padding: 0.3rem 0.7rem;
-    font-size: 0.88rem;
-  }
 }
