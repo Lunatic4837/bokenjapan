@@ -77,6 +77,8 @@ ROOT_FILES = [
     "CNAME",
     ".nojekyll",
     "logo.svg",
+    "favicon.ico",
+    "apple-touch-icon.png",
     "og.png",
     "hero-himeji.jpg",
     "PUBLISH-MANIFEST.txt",
