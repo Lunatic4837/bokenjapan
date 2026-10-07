@@ -754,10 +754,25 @@ body.home .social-row {
   gap: 0.35rem 1.1rem;
 }
 
-body.home .site-foot > p:last-child {
+body.home .site-foot > p:not(.foot-disclaimer) {
+  margin: 0;
+  flex: 1 1 16rem;
   font-size: 0.95rem;
   color: var(--muted);
   max-width: 34em;
+}
+
+body.home .site-foot > p.foot-disclaimer {
+  flex: 1 0 100%;
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  font-size: 8px;
+  line-height: 1.35;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  color: #c4bfb6;
 }
 
 .brand-foot {
