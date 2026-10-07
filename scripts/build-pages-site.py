@@ -24,7 +24,8 @@ This script:
          and the first 8 dining photos. Place names stay; photo-credit
          comments stay hidden.
   4) Rewrites remaining media/*.jpg|png refs in published HTML/CSS to .webp
-  5) Keeps CNAME, .nojekyll, styles.css, logo, index, every municipality page
+  5) Keeps CNAME, .nojekyll, styles.css, logo, index, privacy.html,
+     terms.html, the TikTok site-verification file, and every municipality page
 
 Soft gate is 900 MiB (GitHub Pages hard limit is 1 GiB). At full saturation
 (~1,750 municipality pages × the caps, ~16–20 KiB/thumb) plus HTML and richer
@@ -71,8 +72,12 @@ DEFAULT_THUMB_CAP = 2
 SOFT_BUDGET_BYTES = 900 * 1024 * 1024
 
 SKIP_DIRS = {".git", "_site", "scripts", ".github", "node_modules", "media"}
+# Copied to _site root. privacy.html and terms.html are public TikTok OAuth
+# URLs and must survive the slim publish, same as the site-verification file.
 ROOT_FILES = [
     "index.html",
+    "privacy.html",
+    "terms.html",
     "styles.css",
     "CNAME",
     ".nojekyll",
