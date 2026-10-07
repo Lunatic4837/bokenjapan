@@ -77,6 +77,7 @@ ROOT_FILES = [
     "CNAME",
     ".nojekyll",
     "logo.svg",
+    "og.png",
     "hero-himeji.jpg",
     "PUBLISH-MANIFEST.txt",
 ]
