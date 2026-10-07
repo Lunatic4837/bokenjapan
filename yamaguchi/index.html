@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Yamaguchi · BokenJapan</title>
+  <link rel="stylesheet" href="../styles.css">
+  <!--
+  Municipality boundaries: MLIT National Land Numerical Information N03 2026, vintage N03-20260101.
+  Source URL: https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2026.html
+  License: CC BY 4.0
+  Citation (JA): 「国土数値情報（行政区域データ）」（国土交通省）（https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2026.html）を加工して作成
+  Note: local unpublished draft only; GSI reproduction filing gates public redistribute (Do not commit this directory. GSI reproduction filing is gated before public redistribute.).
+  Multipart only where N03 polygons are multipart. Rings were simplified independently; parts were not merged and no bridge was drawn.
+  Multipart municipalities: Shimonoseki 35201 (683 polygons); Ube 35202 (117 polygons); Yamaguchi 35203 (66 polygons); Hagi 35204 (465 polygons); Hofu 35206 (69 polygons); Kudamatsu 35207 (156 polygons); Iwakuni 35208 (45 polygons); Hikari 35210 (328 polygons); Nagato 35211 (329 polygons); Yanai 35212 (41 polygons); Shunan 35215 (145 polygons); Sanyoonoda 35216 (7 polygons); Suoooshima 35305 (127 polygons); Kaminoseki 35341 (220 polygons); Tabuse 35343 (16 polygons); Hirao 35344 (45 polygons); Abu 35502 (108 polygons).
+  English headings are the existing facilities directory slug with the first letter capitalized. There is no separate English gazetteer in the sourced files.
+-->
+</head>
+<body>
+  <header class="mast">
+    <div class="mast-inner">
+      <a class="brand" href="/"><img class="brand-mark" src="../logo.svg" width="168" height="168" alt="冒険日本">BokenJapan</a>
+      <nav class="mast-nav" aria-label="Section">
+        <a href="/">Home</a>
+        <a href="./">Yamaguchi</a>
+      </nav>
+    </div>
+  </header>
+  <main class="page-main">
+    <p class="crumb"><a href="/">Japan</a> / Yamaguchi</p>
+    <h1 class="page-title">Yamaguchi</h1>
+    <p class="page-sub">Yamaguchi · Pick a municipality on the map or from the list.</p>
+    <div class="map-wrap" data-map="_map.svg" data-here=""></div>
+      <script>(function(){var w=document.currentScript.previousElementSibling;if(!w||!w.dataset.map)return;var here=w.dataset.here||"";fetch(w.dataset.map).then(function(r){return r.text()}).then(function(t){w.innerHTML=t;var svg=w.querySelector("svg");if(svg){svg.removeAttribute("width");svg.removeAttribute("height");svg.setAttribute("class",(svg.getAttribute("class")||"")+" pref-map");}var nodes=w.querySelectorAll("a[data-name]");for(var i=0;i<nodes.length;i++){var a=nodes[i];a.classList.remove("is-here");if(here&&a.getAttribute("data-name")===here){a.classList.add("is-here");}var href=a.getAttribute("href")||"";if(href==="./"||href==="."){var slug=(location.pathname.replace(/\/+$/,"").split("/").pop()||"");if(slug)a.setAttribute("href","../"+slug+"/");}}}).catch(function(){w.innerHTML="<p class=\"map-note\">Map unavailable.</p>";});})();</script>
+    <p class="map-name" id="map-name" aria-live="polite"></p>
+    <h2>Municipalities</h2>
+    <ul class="muni-grid"><li><a href="shimonoseki/">Shimonoseki</a></li><li><a href="ube/">Ube</a></li><li><a href="yamaguchi/">Yamaguchi</a></li><li><a href="hagi/">Hagi</a></li><li><a href="hofu/">Hofu</a></li><li><a href="kudamatsu/">Kudamatsu</a></li><li><a href="iwakuni/">Iwakuni</a></li><li><a href="hikari/">Hikari</a></li><li><a href="nagato/">Nagato</a></li><li><a href="yanai/">Yanai</a></li><li><a href="mine/">Mine</a></li><li><a href="shunan/">Shunan</a></li><li><a href="sanyoonoda/">Sanyoonoda</a></li><li><a href="suoooshima/">Suoooshima</a></li><li><a href="waki/">Waki</a></li><li><a href="kaminoseki/">Kaminoseki</a></li><li><a href="tabuse/">Tabuse</a></li><li><a href="hirao/">Hirao</a></li><li><a href="abu/">Abu</a></li></ul>
+  </main>
+  <footer class="site-foot">
+    <div class="brand-foot"><img src="../logo.svg" width="56" height="56" alt="冒険日本"><p class="foot-name">BokenJapan</p></div>
+    <nav class="social-row" aria-label="BokenJapan social media">
+      <span class="social-label">SNS</span>
+      <a href="https://x.com/bokenjapan" rel="me">X<span class="visually-hidden"> (@bokenjapan)</span></a>
+      <a href="https://www.instagram.com/boken_japan/" rel="me">Instagram<span class="visually-hidden"> (@boken_japan)</span></a>
+      <a href="https://www.tiktok.com/@bokenjapan" rel="me">TikTok<span class="visually-hidden"> (@bokenjapan)</span></a>
+    </nav>
+    <p>Pages are compiled from publicly available local sources.</p>
+  </footer>
+  <script>
+(function () {
+  var nameEl = document.getElementById("map-name");
+  if (!nameEl) return;
+  var map = document.querySelector(".pref-map");
+  if (!map) return;
+  function setName(t) { nameEl.textContent = t || ""; }
+  map.addEventListener("mouseover", function (e) {
+    var a = e.target.closest("a[data-name]");
+    if (a) setName(a.getAttribute("data-name"));
+  });
+  map.addEventListener("focusin", function (e) {
+    var a = e.target.closest("a[data-name]");
+    if (a) setName(a.getAttribute("data-name"));
+  });
+  map.addEventListener("mouseout", function () { setName(""); });
+})();
+</script>
+</body>
+</html>

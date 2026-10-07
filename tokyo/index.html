@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tokyo · BokenJapan</title>
+  <link rel="stylesheet" href="../styles.css">
+  <!--
+  Municipality boundaries: MLIT National Land Numerical Information N03 2026, vintage N03-20260101.
+  Source URL: https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2026.html
+  License: CC BY 4.0
+  Citation (JA): 「国土数値情報（行政区域データ）」（国土交通省）（https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2026.html）を加工して作成
+  Note: local unpublished draft only; GSI reproduction filing gates public redistribute (Do not commit this directory. GSI reproduction filing is gated before public redistribute.).
+  Multipart only where N03 polygons are multipart. Rings were simplified independently; parts were not merged and no bridge was drawn.
+  Multipart municipalities: Minatoku 13103 (9 polygons); Koto 13108 (75 polygons); Shinagawa 13109 (6 polygons); Otaku 13111 (6 polygons); Edogawa 13123 (4 polygons); Fuchushi 13206 (2 polygons); Inagi 13225 (2 polygons); Mizuho-13303 13303 (2 polygons); Oshima 13361 (330 polygons); Toshimamura 13362 (15 polygons); Niijima 13363 (714 polygons); Kozushima 13364 (452 polygons); Miyakemura 13381 (54 polygons); Mikurajima 13382 (63 polygons); Hachijo 13401 (136 polygons); Aogashima 13402 (54 polygons); Ogasawara 13421 (4812 polygons).
+  Excluded N03 所属未定地 (not a municipality): 13000. No facilities-directory slug for 13308. Path uses the N03 code. No romanization invented. English headings are the existing facilities directory slug with the first letter capitalized. There is no separate English gazetteer in the sourced files.
+-->
+</head>
+<body>
+  <header class="mast">
+    <div class="mast-inner">
+      <a class="brand" href="/"><img class="brand-mark" src="../logo.svg" width="168" height="168" alt="冒険日本">BokenJapan</a>
+      <nav class="mast-nav" aria-label="Section">
+        <a href="/">Home</a>
+        <a href="./">Tokyo</a>
+      </nav>
+    </div>
+  </header>
+  <main class="page-main">
+    <p class="crumb"><a href="/">Japan</a> / Tokyo</p>
+    <h1 class="page-title">Tokyo</h1>
+    <p class="page-sub">Tokyo · Pick a municipality on the map or from the list.</p>
+    <div class="map-wrap" data-map="_map.svg" data-here=""></div>
+      <script>(function(){var w=document.currentScript.previousElementSibling;if(!w||!w.dataset.map)return;var here=w.dataset.here||"";fetch(w.dataset.map).then(function(r){return r.text()}).then(function(t){w.innerHTML=t;var svg=w.querySelector("svg");if(svg){svg.removeAttribute("width");svg.removeAttribute("height");svg.setAttribute("class",(svg.getAttribute("class")||"")+" pref-map");}var nodes=w.querySelectorAll("a[data-name]");for(var i=0;i<nodes.length;i++){var a=nodes[i];a.classList.remove("is-here");if(here&&a.getAttribute("data-name")===here){a.classList.add("is-here");}var href=a.getAttribute("href")||"";if(href==="./"||href==="."){var slug=(location.pathname.replace(/\/+$/,"").split("/").pop()||"");if(slug)a.setAttribute("href","../"+slug+"/");}}}).catch(function(){w.innerHTML="<p class=\"map-note\">Map unavailable.</p>";});})();</script>
+    <p class="map-name" id="map-name" aria-live="polite"></p>
+    <h2>Municipalities</h2>
+    <ul class="muni-grid"><li><a href="chiyodaku/">Chiyodaku</a></li><li><a href="chuoku/">Chuoku</a></li><li><a href="minatoku/">Minatoku</a></li><li><a href="shinjuku/">Shinjuku</a></li><li><a href="bunkyo/">Bunkyo</a></li><li><a href="taito/">Taito</a></li><li><a href="sumida/">Sumida</a></li><li><a href="koto/">Koto</a></li><li><a href="shinagawa/">Shinagawa</a></li><li><a href="meguro/">Meguro</a></li><li><a href="otaku/">Otaku</a></li><li><a href="setagaya/">Setagaya</a></li><li><a href="shibuya/">Shibuya</a></li><li><a href="nakano-13114/">Nakano</a></li><li><a href="suginami/">Suginami</a></li><li><a href="toshimaku/">Toshimaku</a></li><li><a href="kitaku/">Kitaku</a></li><li><a href="arakawa/">Arakawa</a></li><li><a href="itabashi/">Itabashi</a></li><li><a href="nerima/">Nerima</a></li><li><a href="adachi/">Adachi</a></li><li><a href="katsushika/">Katsushika</a></li><li><a href="edogawa/">Edogawa</a></li><li><a href="hachioji/">Hachioji</a></li><li><a href="tachikawa/">Tachikawa</a></li><li><a href="musashino/">Musashino</a></li><li><a href="mitaka/">Mitaka</a></li><li><a href="ome/">Ome</a></li><li><a href="fuchushi/">Fuchushi</a></li><li><a href="akishima/">Akishima</a></li><li><a href="chofu/">Chofu</a></li><li><a href="machida/">Machida</a></li><li><a href="koganei/">Koganei</a></li><li><a href="kodaira/">Kodaira</a></li><li><a href="hino-13212/">Hino</a></li><li><a href="higashimurayama/">Higashimurayama</a></li><li><a href="kokubunji/">Kokubunji</a></li><li><a href="kunitachi/">Kunitachi</a></li><li><a href="fussa/">Fussa</a></li><li><a href="komae/">Komae</a></li><li><a href="higashiyamato/">Higashiyamato</a></li><li><a href="kiyose/">Kiyose</a></li><li><a href="higashikurume/">Higashikurume</a></li><li><a href="musashimurayama/">Musashimurayama</a></li><li><a href="tama/">Tama</a></li><li><a href="inagi/">Inagi</a></li><li><a href="hamura/">Hamura</a></li><li><a href="akiruno/">Akiruno</a></li><li><a href="nishitokyo/">Nishitokyo</a></li><li><a href="mizuho-13303/">Mizuho</a></li><li><a href="hinode/">Hinode</a></li><li><a href="hinohara/">Hinohara</a></li><li><a href="jis13308/">Okutama</a></li><li><a href="oshima/">Oshima</a></li><li><a href="toshimamura/">Toshimamura</a></li><li><a href="niijima/">Niijima</a></li><li><a href="kozushima/">Kozushima</a></li><li><a href="miyakemura/">Miyakemura</a></li><li><a href="mikurajima/">Mikurajima</a></li><li><a href="hachijo/">Hachijo</a></li><li><a href="aogashima/">Aogashima</a></li><li><a href="ogasawara/">Ogasawara</a></li></ul>
+  </main>
+  <footer class="site-foot">
+    <div class="brand-foot"><img src="../logo.svg" width="56" height="56" alt="冒険日本"><p class="foot-name">BokenJapan</p></div>
+    <nav class="social-row" aria-label="BokenJapan social media">
+      <span class="social-label">SNS</span>
+      <a href="https://x.com/bokenjapan" rel="me">X<span class="visually-hidden"> (@bokenjapan)</span></a>
+      <a href="https://www.instagram.com/boken_japan/" rel="me">Instagram<span class="visually-hidden"> (@boken_japan)</span></a>
+      <a href="https://www.tiktok.com/@bokenjapan" rel="me">TikTok<span class="visually-hidden"> (@bokenjapan)</span></a>
+    </nav>
+    <p>Pages are compiled from publicly available local sources.</p>
+  </footer>
+  <script>
+(function () {
+  var nameEl = document.getElementById("map-name");
+  if (!nameEl) return;
+  var map = document.querySelector(".pref-map");
+  if (!map) return;
+  function setName(t) { nameEl.textContent = t || ""; }
+  map.addEventListener("mouseover", function (e) {
+    var a = e.target.closest("a[data-name]");
+    if (a) setName(a.getAttribute("data-name"));
+  });
+  map.addEventListener("focusin", function (e) {
+    var a = e.target.closest("a[data-name]");
+    if (a) setName(a.getAttribute("data-name"));
+  });
+  map.addEventListener("mouseout", function () { setName(""); });
+})();
+</script>
+</body>
+</html>

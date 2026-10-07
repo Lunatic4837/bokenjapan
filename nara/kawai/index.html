@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kawai · Nara · BokenJapan</title>
+  <link rel="stylesheet" href="../../styles.css">
+  <!--
+  Municipality boundaries: MLIT National Land Numerical Information N03 2026, vintage N03-20260101.
+  Source URL: https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2026.html
+  License: CC BY 4.0
+  Citation (JA): 「国土数値情報（行政区域データ）」（国土交通省）（https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2026.html）を加工して作成
+  Note: local unpublished draft only; GSI reproduction filing gates public redistribute (Do not commit this directory. GSI reproduction filing is gated before public redistribute.).
+  Multipart only where N03 polygons are multipart. Rings were simplified independently; parts were not merged and no bridge was drawn.
+  Multipart municipalities: Kawai 29427 (2 polygons).
+  English headings are the existing facilities directory slug with the first letter capitalized. There is no separate English gazetteer in the sourced files.
+-->
+  <!-- N03 multipart kept: 河合町 (29427) has 2 polygons; gaps not bridged. -->
+</head>
+<body>
+  <header class="mast">
+    <div class="mast-inner">
+      <a class="brand" href="/"><img class="brand-mark" src="../../logo.svg" width="168" height="168" alt="冒険日本">BokenJapan</a>
+      <nav class="mast-nav" aria-label="Section">
+        <a href="/">Home</a>
+        <a href="../">Nara</a>
+      </nav>
+    </div>
+  </header>
+  <main class="page-main">
+    <p class="crumb"><a href="/">Japan</a> / <a href="../">Nara</a> / Kawai</p>
+    <h1 class="page-title">Kawai</h1>
+    <p class="page-sub">Kawai · Nara</p>
+    <div class="locator">
+      <div class="map-wrap" data-map="../_map.svg" data-here="Kawai"></div>
+      <script>(function(){var w=document.currentScript.previousElementSibling;if(!w||!w.dataset.map)return;var here=w.dataset.here||"";fetch(w.dataset.map).then(function(r){return r.text()}).then(function(t){w.innerHTML=t;var svg=w.querySelector("svg");if(svg){svg.removeAttribute("width");svg.removeAttribute("height");svg.setAttribute("class",(svg.getAttribute("class")||"")+" pref-map");}var nodes=w.querySelectorAll("a[data-name]");for(var i=0;i<nodes.length;i++){var a=nodes[i];a.classList.remove("is-here");if(here&&a.getAttribute("data-name")===here){a.classList.add("is-here");}var href=a.getAttribute("href")||"";if(href==="./"||href==="."){var slug=(location.pathname.replace(/\/+$/,"").split("/").pop()||"");if(slug)a.setAttribute("href","../"+slug+"/");}}}).catch(function(){w.innerHTML="<p class=\"map-note\">Map unavailable.</p>";});})();</script>
+      <div>
+        <p class="locator-label">Kawai</p>
+        <p class="locator-note">Highlighted on the Nara map.</p>
+        <p class="map-name" id="map-name" aria-live="polite"></p>
+      </div>
+    </div><figure class="cover"><img src="../../media/kawai-s001.webp" alt="Naraken Ei Umami Kyuryo Park" width="1060" height="632" loading="lazy"><!-- photo-credit: 奈良県観光[公式サイト] あをによし なら旅ネット · Source https://yamatoji.nara-kankou.or.jp/02nature/07park/02west_area/narakenumamikyuryokoen/ --></figure><section class="meta-block"><h2>Official</h2><p><a href="http://www.town.kawai.nara.jp/">Kawai Town Hall</a></p><dl><div><dt>Address</dt><dd>Kawai, Nara 636-8501</dd></div><div><dt>Phone</dt><dd>0745-57-0200</dd></div></dl></section><section class="place-section"><h2>Sights</h2><ul class="place-list"><li><p class="place-name">Naraken Ei Umami Kyuryo Park</p><p class="place-meta">Kawai, Nara · 0745-56-3851 · <a href="http://www.pref.nara.jp/1780.htm">Official / source link</a></p><img class="thumb" src="../../media/kawai-s001.webp" alt="Naraken Ei Umami Kyuryo Park" loading="lazy"><!-- photo-credit: 奈良県観光[公式サイト] あをによし なら旅ネット · Source https://yamatoji.nara-kankou.or.jp/02nature/07park/02west_area/narakenumamikyuryokoen/ --></li><li><p class="place-name">Hirose Taisha</p><p class="place-meta">Kawai, Nara · 0745-56-2065 · <a href="https://hirosetaisya.p-kit.com/page0004.html">Official / source link</a></p><img class="thumb" src="../../media/kawai-s002.webp" alt="Hirose Taisha" loading="lazy"><!-- photo-credit: 奈良県観光[公式サイト] あをによし なら旅ネット · Source https://yamatoji.nara-kankou.or.jp/01shaji/01jinja/02west_area/hirosejinja/ --></li></ul></section>
+  </main>
+  <footer class="site-foot">
+    <div class="brand-foot"><img src="../../logo.svg" width="56" height="56" alt="冒険日本"><p class="foot-name">BokenJapan</p></div>
+    <nav class="social-row" aria-label="BokenJapan social media">
+      <span class="social-label">SNS</span>
+      <a href="https://x.com/bokenjapan" rel="me">X<span class="visually-hidden"> (@bokenjapan)</span></a>
+      <a href="https://www.instagram.com/boken_japan/" rel="me">Instagram<span class="visually-hidden"> (@boken_japan)</span></a>
+      <a href="https://www.tiktok.com/@bokenjapan" rel="me">TikTok<span class="visually-hidden"> (@bokenjapan)</span></a>
+    </nav>
+    <p>Pages are compiled from publicly available local sources.</p>
+  </footer>
+  <script>
+(function () {
+  var nameEl = document.getElementById("map-name");
+  if (!nameEl) return;
+  var map = document.querySelector(".pref-map");
+  if (!map) return;
+  function setName(t) { nameEl.textContent = t || ""; }
+  map.addEventListener("mouseover", function (e) {
+    var a = e.target.closest("a[data-name]");
+    if (a) setName(a.getAttribute("data-name"));
+  });
+  map.addEventListener("focusin", function (e) {
+    var a = e.target.closest("a[data-name]");
+    if (a) setName(a.getAttribute("data-name"));
+  });
+  map.addEventListener("mouseout", function () { setName(""); });
+})();
+</script>
+</body>
+</html>

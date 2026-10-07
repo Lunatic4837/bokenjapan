@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nagasaki · BokenJapan</title>
+  <link rel="stylesheet" href="../styles.css">
+  <!--
+  Municipality boundaries: MLIT National Land Numerical Information N03 2026, vintage N03-20260101.
+  Source URL: https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2026.html
+  License: CC BY 4.0
+  Citation (JA): 「国土数値情報（行政区域データ）」（国土交通省）（https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2026.html）を加工して作成
+  Note: local unpublished draft only; GSI reproduction filing gates public redistribute (Do not commit this directory. GSI reproduction filing is gated before public redistribute.).
+  Multipart only where N03 polygons are multipart. Rings were simplified independently; parts were not merged and no bridge was drawn.
+  Multipart municipalities: Nagasaki 42201 (2243 polygons); Sasebo 42202 (953 polygons); Shimabara 42203 (54 polygons); Isahaya 42204 (53 polygons); Omura 42205 (16 polygons); Hirado 42207 (591 polygons); Matsuura 42208 (200 polygons); Tsushimashi 42209 (519 polygons); Iki 42210 (1184 polygons); Goto 42211 (1674 polygons); Saikai 42212 (525 polygons); Unzen 42213 (11 polygons); Minamishimabara 42214 (66 polygons); Nagayo 42307 (4 polygons); Togitsu 42308 (18 polygons); Higashisonogi 42321 (9 polygons); Kawatana 42322 (10 polygons); Ojika 42383 (220 polygons); Shinkamigoto 42411 (856 polygons).
+  English headings are the existing facilities directory slug with the first letter capitalized. There is no separate English gazetteer in the sourced files.
+-->
+</head>
+<body>
+  <header class="mast">
+    <div class="mast-inner">
+      <a class="brand" href="/"><img class="brand-mark" src="../logo.svg" width="168" height="168" alt="冒険日本">BokenJapan</a>
+      <nav class="mast-nav" aria-label="Section">
+        <a href="/">Home</a>
+        <a href="./">Nagasaki</a>
+      </nav>
+    </div>
+  </header>
+  <main class="page-main">
+    <p class="crumb"><a href="/">Japan</a> / Nagasaki</p>
+    <h1 class="page-title">Nagasaki</h1>
+    <p class="page-sub">Nagasaki · Pick a municipality on the map or from the list.</p>
+    <div class="map-wrap" data-map="_map.svg" data-here=""></div>
+      <script>(function(){var w=document.currentScript.previousElementSibling;if(!w||!w.dataset.map)return;var here=w.dataset.here||"";fetch(w.dataset.map).then(function(r){return r.text()}).then(function(t){w.innerHTML=t;var svg=w.querySelector("svg");if(svg){svg.removeAttribute("width");svg.removeAttribute("height");svg.setAttribute("class",(svg.getAttribute("class")||"")+" pref-map");}var nodes=w.querySelectorAll("a[data-name]");for(var i=0;i<nodes.length;i++){var a=nodes[i];a.classList.remove("is-here");if(here&&a.getAttribute("data-name")===here){a.classList.add("is-here");}var href=a.getAttribute("href")||"";if(href==="./"||href==="."){var slug=(location.pathname.replace(/\/+$/,"").split("/").pop()||"");if(slug)a.setAttribute("href","../"+slug+"/");}}}).catch(function(){w.innerHTML="<p class=\"map-note\">Map unavailable.</p>";});})();</script>
+    <p class="map-name" id="map-name" aria-live="polite"></p>
+    <h2>Municipalities</h2>
+    <ul class="muni-grid"><li><a href="nagasaki/">Nagasaki</a></li><li><a href="sasebo/">Sasebo</a></li><li><a href="shimabara/">Shimabara</a></li><li><a href="isahaya/">Isahaya</a></li><li><a href="omura/">Omura</a></li><li><a href="hirado/">Hirado</a></li><li><a href="matsuura/">Matsuura</a></li><li><a href="tsushimashi/">Tsushimashi</a></li><li><a href="iki/">Iki</a></li><li><a href="goto/">Goto</a></li><li><a href="saikai/">Saikai</a></li><li><a href="unzen/">Unzen</a></li><li><a href="minamishimabara/">Minamishimabara</a></li><li><a href="nagayo/">Nagayo</a></li><li><a href="togitsu/">Togitsu</a></li><li><a href="higashisonogi/">Higashisonogi</a></li><li><a href="kawatana/">Kawatana</a></li><li><a href="hasami/">Hasami</a></li><li><a href="ojika/">Ojika</a></li><li><a href="saza/">Saza</a></li><li><a href="shinkamigoto/">Shinkamigoto</a></li></ul>
+  </main>
+  <footer class="site-foot">
+    <div class="brand-foot"><img src="../logo.svg" width="56" height="56" alt="冒険日本"><p class="foot-name">BokenJapan</p></div>
+    <nav class="social-row" aria-label="BokenJapan social media">
+      <span class="social-label">SNS</span>
+      <a href="https://x.com/bokenjapan" rel="me">X<span class="visually-hidden"> (@bokenjapan)</span></a>
+      <a href="https://www.instagram.com/boken_japan/" rel="me">Instagram<span class="visually-hidden"> (@boken_japan)</span></a>
+      <a href="https://www.tiktok.com/@bokenjapan" rel="me">TikTok<span class="visually-hidden"> (@bokenjapan)</span></a>
+    </nav>
+    <p>Pages are compiled from publicly available local sources.</p>
+  </footer>
+  <script>
+(function () {
+  var nameEl = document.getElementById("map-name");
+  if (!nameEl) return;
+  var map = document.querySelector(".pref-map");
+  if (!map) return;
+  function setName(t) { nameEl.textContent = t || ""; }
+  map.addEventListener("mouseover", function (e) {
+    var a = e.target.closest("a[data-name]");
+    if (a) setName(a.getAttribute("data-name"));
+  });
+  map.addEventListener("focusin", function (e) {
+    var a = e.target.closest("a[data-name]");
+    if (a) setName(a.getAttribute("data-name"));
+  });
+  map.addEventListener("mouseout", function () { setName(""); });
+})();
+</script>
+</body>
+</html>

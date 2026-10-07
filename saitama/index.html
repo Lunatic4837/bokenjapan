@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Saitama · BokenJapan</title>
+  <link rel="stylesheet" href="../styles.css">
+  <!--
+  Municipality boundaries: MLIT National Land Numerical Information N03 2026, vintage N03-20260101.
+  Source URL: https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2026.html
+  License: CC BY 4.0
+  Citation (JA): 「国土数値情報（行政区域データ）」（国土交通省）（https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2026.html）を加工して作成
+  Note: local unpublished draft only; GSI reproduction filing gates public redistribute (Do not commit this directory. GSI reproduction filing is gated before public redistribute.).
+  Multipart only where N03 polygons are multipart. Rings were simplified independently; parts were not merged and no bridge was drawn.
+  Multipart municipalities: Saitama 11100 (2 polygons); Gyoda 11206 (5 polygons); Fukaya 11218 (2 polygons); Ageo 11219 (2 polygons); Kuki 11232 (2 polygons); Yoshimi 11347 (2 polygons); Saitama-misato 11381 (4 polygons).
+  Designated-city wards dissolved to the facility-pack city code. Disconnected parts kept. さいたま市 11100 from wards 11101, 11102, 11103, 11104, 11105, 11106, 11107, 11108, 11109, 11110. English headings are the existing facilities directory slug with the first letter capitalized. There is no separate English gazetteer in the sourced files.
+-->
+</head>
+<body>
+  <header class="mast">
+    <div class="mast-inner">
+      <a class="brand" href="/"><img class="brand-mark" src="../logo.svg" width="168" height="168" alt="冒険日本">BokenJapan</a>
+      <nav class="mast-nav" aria-label="Section">
+        <a href="/">Home</a>
+        <a href="./">Saitama</a>
+      </nav>
+    </div>
+  </header>
+  <main class="page-main">
+    <p class="crumb"><a href="/">Japan</a> / Saitama</p>
+    <h1 class="page-title">Saitama</h1>
+    <p class="page-sub">Saitama · Pick a municipality on the map or from the list.</p>
+    <div class="map-wrap" data-map="_map.svg" data-here=""></div>
+      <script>(function(){var w=document.currentScript.previousElementSibling;if(!w||!w.dataset.map)return;var here=w.dataset.here||"";fetch(w.dataset.map).then(function(r){return r.text()}).then(function(t){w.innerHTML=t;var svg=w.querySelector("svg");if(svg){svg.removeAttribute("width");svg.removeAttribute("height");svg.setAttribute("class",(svg.getAttribute("class")||"")+" pref-map");}var nodes=w.querySelectorAll("a[data-name]");for(var i=0;i<nodes.length;i++){var a=nodes[i];a.classList.remove("is-here");if(here&&a.getAttribute("data-name")===here){a.classList.add("is-here");}var href=a.getAttribute("href")||"";if(href==="./"||href==="."){var slug=(location.pathname.replace(/\/+$/,"").split("/").pop()||"");if(slug)a.setAttribute("href","../"+slug+"/");}}}).catch(function(){w.innerHTML="<p class=\"map-note\">Map unavailable.</p>";});})();</script>
+    <p class="map-name" id="map-name" aria-live="polite"></p>
+    <h2>Municipalities</h2>
+    <ul class="muni-grid"><li><a href="saitama/">Saitama</a></li><li><a href="kawagoe-11201/">Kawagoe</a></li><li><a href="kumagaya/">Kumagaya</a></li><li><a href="kawaguchi/">Kawaguchi</a></li><li><a href="gyoda/">Gyoda</a></li><li><a href="chichibu/">Chichibu</a></li><li><a href="tokorozawa/">Tokorozawa</a></li><li><a href="hanno/">Hanno</a></li><li><a href="kazo/">Kazo</a></li><li><a href="honjo/">Honjo</a></li><li><a href="higashimatsuyama/">Higashimatsuyama</a></li><li><a href="kasukabe/">Kasukabe</a></li><li><a href="sayama/">Sayama</a></li><li><a href="hanyu/">Hanyu</a></li><li><a href="konosu/">Konosu</a></li><li><a href="fukaya/">Fukaya</a></li><li><a href="ageo/">Ageo</a></li><li><a href="soka/">Soka</a></li><li><a href="koshigaya/">Koshigaya</a></li><li><a href="warabi/">Warabi</a></li><li><a href="toda/">Toda</a></li><li><a href="iruma/">Iruma</a></li><li><a href="asaka/">Asaka</a></li><li><a href="shiki/">Shiki</a></li><li><a href="wako/">Wako</a></li><li><a href="niiza/">Niiza</a></li><li><a href="okegawa/">Okegawa</a></li><li><a href="kuki/">Kuki</a></li><li><a href="kitamoto/">Kitamoto</a></li><li><a href="yashio/">Yashio</a></li><li><a href="fujimi-11235/">Fujimi</a></li><li><a href="misato-saitama/">Misato-saitama</a></li><li><a href="hasuda/">Hasuda</a></li><li><a href="sakado/">Sakado</a></li><li><a href="satte/">Satte</a></li><li><a href="tsurugashima/">Tsurugashima</a></li><li><a href="hidaka-11242/">Hidaka</a></li><li><a href="yoshikawa/">Yoshikawa</a></li><li><a href="fujimino/">Fujimino</a></li><li><a href="shiraoka/">Shiraoka</a></li><li><a href="inamachi/">Inamachi</a></li><li><a href="miyoshimachi/">Miyoshimachi</a></li><li><a href="moroyama/">Moroyama</a></li><li><a href="ogose/">Ogose</a></li><li><a href="namegawa/">Namegawa</a></li><li><a href="ranzan/">Ranzan</a></li><li><a href="ogawamachi/">Ogawamachi</a></li><li><a href="kawajima/">Kawajima</a></li><li><a href="yoshimi/">Yoshimi</a></li><li><a href="hatoyama/">Hatoyama</a></li><li><a href="tokigawa/">Tokigawa</a></li><li><a href="yokoze/">Yokoze</a></li><li><a href="minano/">Minano</a></li><li><a href="nagatoro/">Nagatoro</a></li><li><a href="ogano/">Ogano</a></li><li><a href="higashichichibu/">Higashichichibu</a></li><li><a href="saitama-misato/">Saitama-misato</a></li><li><a href="kamikawa-11383/">Kamikawa</a></li><li><a href="kamisato/">Kamisato</a></li><li><a href="yorii/">Yorii</a></li><li><a href="miyashiro/">Miyashiro</a></li><li><a href="sugito/">Sugito</a></li><li><a href="matsubushi/">Matsubushi</a></li></ul>
+  </main>
+  <footer class="site-foot">
+    <div class="brand-foot"><img src="../logo.svg" width="56" height="56" alt="冒険日本"><p class="foot-name">BokenJapan</p></div>
+    <nav class="social-row" aria-label="BokenJapan social media">
+      <span class="social-label">SNS</span>
+      <a href="https://x.com/bokenjapan" rel="me">X<span class="visually-hidden"> (@bokenjapan)</span></a>
+      <a href="https://www.instagram.com/boken_japan/" rel="me">Instagram<span class="visually-hidden"> (@boken_japan)</span></a>
+      <a href="https://www.tiktok.com/@bokenjapan" rel="me">TikTok<span class="visually-hidden"> (@bokenjapan)</span></a>
+    </nav>
+    <p>Pages are compiled from publicly available local sources.</p>
+  </footer>
+  <script>
+(function () {
+  var nameEl = document.getElementById("map-name");
+  if (!nameEl) return;
+  var map = document.querySelector(".pref-map");
+  if (!map) return;
+  function setName(t) { nameEl.textContent = t || ""; }
+  map.addEventListener("mouseover", function (e) {
+    var a = e.target.closest("a[data-name]");
+    if (a) setName(a.getAttribute("data-name"));
+  });
+  map.addEventListener("focusin", function (e) {
+    var a = e.target.closest("a[data-name]");
+    if (a) setName(a.getAttribute("data-name"));
+  });
+  map.addEventListener("mouseout", function () { setName(""); });
+})();
+</script>
+</body>
+</html>
