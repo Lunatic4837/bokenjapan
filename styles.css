@@ -473,12 +473,12 @@ body.home .ask-status {
 
 .hero-sns svg {
   display: block;
-  width: 1.3rem;
-  height: 1.3rem;
+  width: auto;
+  height: 1.8rem;
 }
 
 .hero-sns a:hover {
-  color: var(--seal);
+  color: var(--ink);
   background: #fff;
   text-decoration: none;
 }
