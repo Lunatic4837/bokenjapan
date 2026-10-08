@@ -1021,6 +1021,14 @@ body.home .pref-map {
   font-size: 1.05rem;
 }
 
+.city-cap-note {
+  margin: 0 0 1.25rem;
+  max-width: 40rem;
+  color: var(--muted);
+  font-size: 0.875rem;
+  line-height: 1.45;
+}
+
 .legal {
   max-width: 42rem;
 }
@@ -1138,6 +1146,24 @@ body.home .pref-map {
   gap: 0.55rem;
 }
 
+/* Facility link is the name, plus the photo when there is one. */
+.place-list li > a {
+  display: block;
+}
+
+/* No photo: a flat text row. No empty frame, no broken-image icon, no logo. */
+.place-list li > a:not(:has(img)) {
+  text-decoration: none;
+}
+
+.place-list li > a:not(:has(img)) .place-name {
+  color: var(--ink);
+}
+
+.place-list li > a:not(:has(img)):hover .place-name {
+  color: var(--link);
+}
+
 .place-list .place-name {
   margin: 0;
   font-weight: 500;
@@ -1155,6 +1181,14 @@ body.home .pref-map {
   margin: 0;
   color: var(--muted);
   font-size: 0.92rem;
+}
+
+.place-list .place-desc {
+  margin: 0.15rem 0 0;
+  max-width: 42rem;
+  color: #3a3a3a;
+  font-size: 0.92rem;
+  line-height: 1.45;
 }
 
 .place-list .thumb {

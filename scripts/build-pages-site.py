@@ -6,10 +6,10 @@ GitHub Pages' 1GB published-site limit / 10-minute deploy timeout.
 
 Facility catalog waves made "compress every referenced photo" fail the budget:
 after main 73401b10f4, _site was ~1010 MiB (WebP ~1.00 GiB + HTML ~43 MiB) and
-the 1000 MiB gate exited 2. There is no stable remote image host on this path
-(Cloudflare R2 is not enabled). Direct HTTPS image URLs are not stored on the
-pages — photo-credit comments point at article pages, not files — so facility
-thumbs cannot be hotlinked.
+the 1000 MiB gate exited 2. Homepage and Miyagi, Akita, Fukuoka, Yamaguchi,
+and Oita photos are hosted on Cloudflare R2 (see R2_BASE). Those URLs stay
+absolute and are not copied into _site. Every other prefecture still uses
+local files, with the caps and WebP encode below.
 
 This script:
   1) Copies flat HTML site structure (no prefecture filter; publish set unchanged)
@@ -33,7 +33,6 @@ covers, _site stays under that line. See scripts/PAGES-SLIM-NOTES.md.
 """
 from __future__ import annotations
 
-import hashlib
 import os
 import re
 import shutil
@@ -43,12 +42,35 @@ from pathlib import Path
 
 from PIL import Image
 
+SCRIPTS = Path(__file__).resolve().parent
+if str(SCRIPTS) not in sys.path:
+    sys.path.insert(0, str(SCRIPTS))
+
+from r2_images import (  # noqa: E402
+    inside_absolute_url,
+    load_manifest_keys,
+    load_missing_keys,
+    load_placeholder_names,
+    local_media_names,
+    rewrite_page,
+)
+
 Image.MAX_IMAGE_PIXELS = None
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "_site"
 MEDIA_IN = ROOT / "media"
 MEDIA_OUT = OUT / "media"
+
+# Public photo host. Switch to https://img.bokenjapan.com by editing this line
+# and re-running scripts/render_phase_c.py. Do not copy the string elsewhere.
+R2_BASE = "https://img.bokenjapan.com"
+R2_PREFS = frozenset({"miyagi", "akita", "fukuoka", "yamaguchi", "oita"})
+MANIFEST_PATH = SCRIPTS / "manifest-5pref-all.csv"
+MISSING_PATH = SCRIPTS / "missing-on-main.tsv"
+MANIFEST_KEYS: set[str] = set()
+MISSING_KEYS: set[str] = set()
+PLACEHOLDER_NAMES: set[str] = set()
 
 # List thumbs. Covers use a larger edge so municipality heroes stay sharp.
 MAX_EDGE = 560
@@ -107,22 +129,54 @@ COVER_SRC_RE = re.compile(
 
 
 def rewrite_media_refs(text: str) -> str:
+    """Map local jpg/png refs to .webp. Absolute http(s) URLs, including R2, stay."""
+
     def repl(m: re.Match) -> str:
+        if inside_absolute_url(text, m.start(2)):
+            return m.group(0)
         prefix, path, ext, suffix = m.group(1), m.group(2), m.group(3), m.group(4)
         # keep .webp as-is; map jpg/jpeg/png -> .webp
         if ext.lower() == ".webp":
             return m.group(0)
         return f"{prefix}{path}.webp{suffix}"
 
-    # Also rewrite plain media/foo.jpg occurring in srcset-like contexts
+    # Also rewrite plain media/foo.jpg occurring in srcset-like contexts.
+    # The second pattern matches the media/ segment inside an R2 URL; skip those.
     text = MEDIA_RE.sub(repl, text)
+
+    def repl_plain(m: re.Match) -> str:
+        if inside_absolute_url(text, m.start()):
+            return m.group(0)
+        return m.group(1) + ".webp"
+
     text = re.sub(
         r"(media/[^\"')?#\s]+)\.(?:jpg|jpeg|png)\b",
-        lambda m: m.group(1) + ".webp",
+        repl_plain,
         text,
         flags=re.I,
     )
     return text
+
+
+def rewrite_local_hero(text: str) -> str:
+    """Compress-name only a root-relative hero. Leave the R2 object key as .jpg."""
+
+    def repl(m: re.Match) -> str:
+        if text[max(0, m.start() - len(R2_BASE) - 1) : m.start()].endswith(R2_BASE + "/"):
+            return m.group(0)
+        return "hero-himeji.webp"
+
+    return re.sub(r"hero-himeji\.jpg", repl, text)
+
+
+def hero_needs_local_file(text: str) -> bool:
+    for match in re.finditer(r"hero-himeji\.jpg", text):
+        if text[max(0, match.start() - len(R2_BASE) - 1) : match.start()].endswith(
+            R2_BASE + "/"
+        ):
+            continue
+        return True
+    return False
 
 
 def section_thumb_cap(section: str) -> int:
@@ -144,6 +198,10 @@ def cap_facility_thumbs(text: str) -> tuple[str, int]:
     def repl(m: re.Match) -> str:
         nonlocal dropped
         tag = m.group(0)
+        src_m = re.search(r'\bsrc="([^"]+)"', tag, re.I)
+        # R2 photos are already hosted. Do not drop them and do not spend a cap slot.
+        if src_m and src_m.group(1).startswith(R2_BASE + "/"):
+            return tag
         sm = THUMB_SRC_RE.search(tag)
         if not sm:
             return tag
@@ -178,8 +236,13 @@ def extract_here_name(svg: str) -> str:
     return m.group(1) if m else ""
 
 
-def normalize_map_svg(svg: str, pref: str) -> str:
-    """Rewrite municipality hrefs to absolute /{pref}/{slug}/ and drop is-here."""
+def normalize_map_svg(svg: str, pref: str, here_slug: str | None = None) -> str:
+    """Rewrite municipality hrefs to absolute /{pref}/{slug}/ and drop is-here.
+
+    A city can share its prefecture's name (Akita, Fukuoka, Yamaguchi, Oita).
+    That slug must stay a municipality path. Treating ``slug == pref`` as the
+    prefecture index sent those four shapes to ``/{pref}/``.
+    """
     # remove is-here class
     svg = re.sub(r"""\sclass="is-here\"""", "", svg)
     svg = re.sub(r"""\sclass='is-here'""", "", svg)
@@ -188,26 +251,39 @@ def normalize_map_svg(svg: str, pref: str) -> str:
     def href_repl(m: re.Match) -> str:
         href = m.group(1)
         if href in ("./", ".", "#", ""):
-            return m.group(0)  # leave; loader fixes current page
-        # ../slug/ or ./slug/ or slug/
+            # The inline map uses "./" for whichever town the source page is.
+            # Resolve it here so the shared SVG does not follow the reader.
+            if here_slug and re.fullmatch(r"[a-z0-9-]+", here_slug):
+                return f'href="/{pref}/{here_slug}/"'
+            return m.group(0)
         slug = href.strip("/").split("/")[-1]
-        if not slug or slug == pref:
-            return f'href="/{pref}/"'
+        if not re.fullmatch(r"[a-z0-9-]+", slug or ""):
+            return m.group(0)
         return f'href="/{pref}/{slug}/"'
 
     svg = re.sub(r'href="([^"]+)"', href_repl, svg)
     return svg
 
 
-def process_html(src: Path, dst: Path, pref: str | None) -> tuple[set[str], set[str], int]:
+def process_html(
+    src: Path, dst: Path, pref: str | None, use_r2: bool = False
+) -> tuple[set[str], set[str], int]:
     text = src.read_text(encoding="utf-8", errors="ignore")
+    if use_r2:
+        text, _stats = rewrite_page(
+            text,
+            src,
+            ROOT,
+            R2_BASE,
+            MANIFEST_KEYS,
+            MISSING_KEYS,
+            PLACEHOLDER_NAMES,
+        )
     text, dropped = cap_facility_thumbs(text)
-    media_needed: set[str] = set()
     cover_names = {Path(m.group(1)).name for m in COVER_SRC_RE.finditer(text)}
 
-    # collect media basenames before the jpg -> webp rewrite
-    for m in re.finditer(r"""media/([^"')?#\s]+)""", text):
-        media_needed.add(Path(m.group(1)).name)
+    # Local files only. R2 URLs contain "media/" but those objects stay on R2.
+    media_needed = local_media_names(text, R2_BASE)
 
     if pref and SVG_RE.search(text):
         map_rel = "_map.svg" if src.parent.name == pref or src.name == "index.html" and src.parent.name == pref else "../_map.svg"
@@ -224,7 +300,11 @@ def process_html(src: Path, dst: Path, pref: str | None) -> tuple[set[str], set[
             map_path = OUT / pref / "_map.svg"
             if not map_path.exists():
                 map_path.parent.mkdir(parents=True, exist_ok=True)
-                map_path.write_text(normalize_map_svg(svg, pref), encoding="utf-8")
+                # pref/town/index.html → the "./" shape is that town.
+                here_slug = src.parent.name if len(src.relative_to(ROOT).parts) == 3 else None
+                map_path.write_text(
+                    normalize_map_svg(svg, pref, here_slug), encoding="utf-8"
+                )
             return (
                 f'<div class="map-wrap" data-map="{map_rel}" data-here="{here}"></div>\n'
                 f"      {LOADER_JS}"
@@ -258,6 +338,14 @@ def compress_one(args: tuple[str, str, int, int]) -> tuple[str, int, int, str]:
 
 
 def main() -> int:
+    global MANIFEST_KEYS, MISSING_KEYS, PLACEHOLDER_NAMES
+    if not MANIFEST_PATH.is_file():
+        print(f"ERROR: missing R2 allow-list {MANIFEST_PATH}", file=sys.stderr)
+        return 2
+    MANIFEST_KEYS = load_manifest_keys(MANIFEST_PATH)
+    MISSING_KEYS = load_missing_keys(MISSING_PATH) if MISSING_PATH.is_file() else set()
+    PLACEHOLDER_NAMES = load_placeholder_names(MEDIA_IN)
+
     if OUT.exists():
         shutil.rmtree(OUT)
     OUT.mkdir(parents=True)
@@ -267,37 +355,48 @@ def main() -> int:
     cover_names: set[str] = set()
     thumbs_dropped = 0
 
-    # Root files
+    # Root files. index.html is in the R2 scope; other root HTML stays local.
     for name in ROOT_FILES:
         src = ROOT / name
         if not src.exists():
             continue
-        if name.endswith(".html") or name.endswith(".css"):
-            text = rewrite_media_refs(src.read_text(encoding="utf-8", errors="ignore"))
+        if name == "index.html":
+            text = src.read_text(encoding="utf-8", errors="ignore")
+            text, _stats = rewrite_page(
+                text,
+                src,
+                ROOT,
+                R2_BASE,
+                MANIFEST_KEYS,
+                MISSING_KEYS,
+                PLACEHOLDER_NAMES,
+            )
+            text = rewrite_media_refs(text)
             (OUT / name).write_text(text, encoding="utf-8")
-            for m in re.finditer(r"""media/([^"')?#\s]+)""", src.read_text(encoding="utf-8", errors="ignore")):
-                media_needed.add(Path(m.group(1)).name)
+            media_needed |= local_media_names(text, R2_BASE)
+        elif name.endswith(".html") or name.endswith(".css"):
+            raw = src.read_text(encoding="utf-8", errors="ignore")
+            text = rewrite_media_refs(raw)
+            (OUT / name).write_text(text, encoding="utf-8")
+            media_needed |= local_media_names(raw, R2_BASE)
         elif name == "hero-himeji.jpg":
-            # compress to webp sibling referenced? index likely uses hero-himeji.jpg
-            # keep filename but still copy compressed jpeg-as-webp rewritten in HTML separately
-            media_needed.add("__hero__")
-            # handled below
+            # Published only when the homepage still references the local file.
             pass
         else:
             shutil.copy2(src, OUT / name)
 
-    # Special-case hero at root: compress to hero-himeji.webp and rewrite index
+    # Local hero becomes a WebP. An R2 hero URL keeps the .jpg object key.
     hero = ROOT / "hero-himeji.jpg"
-    if hero.exists():
-        im = Image.open(hero)
-        if im.mode != "RGB":
-            im = im.convert("RGB")
-        im.thumbnail((1600, 1600), Image.Resampling.LANCZOS)
-        im.save(OUT / "hero-himeji.webp", format="WEBP", quality=40, method=2)
-        idx = OUT / "index.html"
-        if idx.exists():
-            t = idx.read_text(encoding="utf-8")
-            t = t.replace("hero-himeji.jpg", "hero-himeji.webp")
+    idx = OUT / "index.html"
+    if hero.exists() and idx.exists():
+        t = idx.read_text(encoding="utf-8")
+        if hero_needs_local_file(t):
+            im = Image.open(hero)
+            if im.mode != "RGB":
+                im = im.convert("RGB")
+            im.thumbnail((1600, 1600), Image.Resampling.LANCZOS)
+            im.save(OUT / "hero-himeji.webp", format="WEBP", quality=40, method=2)
+            t = rewrite_local_hero(t)
             idx.write_text(t, encoding="utf-8")
 
     # Prefecture trees
@@ -316,7 +415,10 @@ def main() -> int:
             dst = OUT / rel
             if src.suffix.lower() in {".html", ".css"}:
                 needed, covers, dropped = process_html(
-                    src, dst, pref if src.suffix.lower() == ".html" else None
+                    src,
+                    dst,
+                    pref if src.suffix.lower() == ".html" else None,
+                    use_r2=pref in R2_PREFS and src.suffix.lower() == ".html",
                 )
                 media_needed |= needed
                 cover_names |= covers
@@ -327,10 +429,8 @@ def main() -> int:
                 dst.parent.mkdir(parents=True, exist_ok=True)
                 shutil.copy2(src, dst)
 
-    # Drop sentinel
-    media_needed.discard("__hero__")
-
     # Compress media (only needed basenames that exist).
+    # Manifest files referenced as R2 URLs are not in media_needed.
     # Covers are encoded once, at the sharper setting, even if a thumb uses the same file.
     cover_stems = {Path(name).stem for name in cover_names}
     jobs = []
