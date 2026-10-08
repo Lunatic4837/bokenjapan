@@ -24,6 +24,23 @@ def clean_area(area):
     if ws and len(ws) <= 2 and all(ok(w) for w in ws): return ' '.join(ws)
     if ws and ok(ws[0]): return ws[0]
     return None
+def ta_addr(decoded):
+    """(area, lot number) from TA's English street address, e.g. '5-1-27 Omachi, Akita ...' -> ('Omachi', '5-1-27');
+    'Nakadori Garaku Bldg. 1F' -> 'Nakadori'. Only romanized place-name words are kept."""
+    m = re.search(r'"localizedRealtimeAddress":"([^"]+)"', decoded)
+    if not m: return None, None
+    for part in [p.strip() for p in m.group(1).split(',')][:-1]:
+        mm = re.match(r'^(\d+(?:-\d+){0,3})\s+(.*)$', part)
+        num, rest = (mm.group(1), mm.group(2)) if mm else (None, part)
+        rest = re.sub(r'\b(\d+)-?chome\b', '', rest, flags=re.I)
+        ws = []
+        for w in rest.split():
+            if w in ('Aza', 'Oaza', 'Character') or w.startswith('Aza-'): continue
+            if not clean_area(w) or re.search(r'prefecture|japan', w, re.I): break
+            ws.append(w)
+            if len(ws) == (1 if num else 2): break
+        if ws: return clean_area(' '.join(ws)), num
+    return None, None
 def W(x): return len(x.replace('–', ' ').split())
 def tb_card(s, pref):
     line, kind, fields = B.from_tabelog(s, pref)
@@ -52,8 +69,7 @@ def tb_card(s, pref):
 def ta_card(s):
     line, kind, fields = B.from_ta(s)
     if kind == 'closed': return None, None, kind, {}
-    d = T.decoded(s); area = X.ta_area(d)
-    area = clean_area(area)
+    d = T.decoded(s); area, num = ta_addr(d)
     ld = next((x for x in P.ldjson(s) if isinstance(x, dict) and x.get('openingHoursSpecification')), {})
     h, cl = X.ta_hours(ld)
     if h and re.search(r'open (\d\d):\d\d–(\d\d):', h):
@@ -70,10 +86,12 @@ def ta_card(s):
             a, b = re.split(r'(?=[,;])', head, 1); line = f'{a} in {area}{b}.'
         else: line = f'{head} in {area}.'
     extra = [x for x in (h, cl) if x]
-    alt = None
-    m = re.search(r'"localizedRealtimeAddress":"(\d+)-[^",]*? ' + re.escape(area) + r',', d) if area else None
-    if m: alt = line.replace(f' in {area}', f' in {area} {m.group(1)}-chome', 1)
-    return line, extra, kind, dict(fields or {}, area=area, hours=h, closed=cl, alt=alt)
+    alts = []
+    if area and num and num.count('-') == 2 and int(num.split('-')[0]) <= 15:  # chome-ban-go form only
+        alts.append(line.replace(f' in {area}', f' in {area} {num.split("-")[0]}-chome', 1))
+    if area and num:
+        alts.append(line.replace(f' in {area}', f' at {num} {area}', 1))
+    return line, extra, kind, dict(fields or {}, area=area, hours=h, closed=cl, alts=alts)
 def join(line, extra, n):
     out = line.rstrip('.')
     for e in extra[:n]:
@@ -110,7 +128,7 @@ def main():
         for it in items.values():
             if cnt[(it['page'], it['line'])] > 3:
                 if it['n'] < len(it['extra']): it['n'] += 1
-                elif it['fields'].get('alt') and it['base'] != it['fields']['alt']: it['base'] = it['fields']['alt']
+                elif it['fields'].get('alts'): it['base'] = it['fields']['alts'].pop(0)
                 else: continue
                 it['line'] = join(it['base'], it['extra'], it['n']); changed += 1
         if not changed: break

@@ -8,6 +8,9 @@ L = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'lin
 by = collections.defaultdict(dict)
 for k, v in L.items():
     page, sec, idx = k.split('|'); by[page][int(idx)] = v
+W1 = {}
+if os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'lines_wave1.json')):
+    W1 = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'lines_wave1.json')))
 GEN = re.compile(r"^(?:An? )?[A-Za-z'\- ]+ in [A-Za-z\-ōū' ]+, [A-Za-z]+(?: prefecture)?\.$")
 st = collections.Counter()
 for page, rows in by.items():
@@ -21,7 +24,8 @@ for page, rows in by.items():
         d = re.search(r'<p class="place-desc">(.*?)</p>', li, re.S)
         if not d: return li
         old = html.unescape(d.group(1))
-        if old != v['old'] and not GEN.match(old):
+        w1 = W1.get(f'{page}|Dining|{i[0]}', {}).get('line')
+        if old != v['old'] and not GEN.match(old) and old != w1:
             st['skipped (already specific)'] += 1; return li
         li = li.replace(d.group(0), f'<p class="place-desc">{html.escape(v["line"], quote=False)}</p>', 1)
         # the card's own link is the listing the line was taken from; keep the compact marker (page weight)
