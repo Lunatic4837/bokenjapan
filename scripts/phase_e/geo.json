@@ -1,0 +1,1258 @@
+{
+ "akita/akita": {
+  "en": "Akita",
+  "ja": "秋田市",
+  "code": "052019",
+  "lat": 40.2259364,
+  "lon": 140.3709018,
+  "src": "osm:北秋田市役所"
+ },
+ "akita/daisen-05212": {
+  "en": "Daisen",
+  "ja": "大仙市",
+  "code": "052124",
+  "lat": 39.453204,
+  "lon": 140.4757386,
+  "src": "osm:大仙市役所"
+ },
+ "akita/fujisato": {
+  "en": "Fujisato",
+  "ja": "藤里町",
+  "code": "053465",
+  "lat": 40.2783796,
+  "lon": 140.2617194,
+  "src": "osm:藤里町役場"
+ },
+ "akita/gojome": {
+  "en": "Gojome",
+  "ja": "五城目町",
+  "code": "053619",
+  "lat": 39.9437452,
+  "lon": 140.1117308,
+  "src": "osm:五城目町役場"
+ },
+ "akita/hachirogata": {
+  "en": "Hachirogata",
+  "ja": "八郎潟町",
+  "code": "053635",
+  "lat": 39.9490359,
+  "lon": 140.0732561,
+  "src": "osm:八郎潟町役場"
+ },
+ "akita/happo": {
+  "en": "Happo",
+  "ja": "八峰町",
+  "code": "053490",
+  "lat": 40.3186546,
+  "lon": 140.0385668,
+  "src": "osm:八峰町役場"
+ },
+ "akita/higashinaruse": {
+  "en": "Higashinaruse",
+  "ja": "東成瀬村",
+  "code": "054640",
+  "lat": 39.179259,
+  "lon": 140.649359,
+  "src": "osm:東成瀬村役場"
+ },
+ "akita/ikawa": {
+  "en": "Ikawa",
+  "ja": "井川町",
+  "code": "053660",
+  "lat": 39.9142507,
+  "lon": 140.0813225,
+  "src": "osm:井川町役場"
+ },
+ "akita/kamikoani": {
+  "en": "Kamikoani",
+  "ja": "上小阿仁村",
+  "code": "053279",
+  "lat": 40.0633847,
+  "lon": 140.2956958,
+  "src": "osm:上小阿仁村役場"
+ },
+ "akita/katagami": {
+  "en": "Katagami",
+  "ja": "潟上市",
+  "code": "052116",
+  "lat": 39.8572485,
+  "lon": 140.0130236,
+  "src": "osm:潟上市役所"
+ },
+ "akita/kazuno": {
+  "en": "Kazuno",
+  "ja": "鹿角市",
+  "code": "052094",
+  "lat": 40.2157795,
+  "lon": 140.7885838,
+  "src": "osm:鹿角市役所"
+ },
+ "akita/kitaakita": {
+  "en": "Kitaakita",
+  "ja": "北秋田市",
+  "code": "052132",
+  "lat": 40.2259364,
+  "lon": 140.3709018,
+  "src": "osm:北秋田市役所"
+ },
+ "akita/kosaka": {
+  "en": "Kosaka",
+  "ja": "小坂町",
+  "code": "053031",
+  "lat": 40.3330742,
+  "lon": 140.7360885,
+  "src": "osm:小坂町役場"
+ },
+ "akita/misato-05434": {
+  "en": "Misato",
+  "ja": "美郷町",
+  "code": "054348",
+  "lat": 39.4615366,
+  "lon": 140.581909,
+  "src": "osm:美郷町役場"
+ },
+ "akita/mitane": {
+  "en": "Mitane",
+  "ja": "三種町",
+  "code": "053481",
+  "lat": 40.1016223,
+  "lon": 140.0050298,
+  "src": "osm:三種町役場"
+ },
+ "akita/nikaho": {
+  "en": "Nikaho",
+  "ja": "にかほ市",
+  "code": "052141",
+  "lat": 39.202929,
+  "lon": 139.907697,
+  "src": "osm:にかほ市役所"
+ },
+ "akita/noshiro": {
+  "en": "Noshiro",
+  "ja": "能代市",
+  "code": "052027",
+  "lat": 40.2119699,
+  "lon": 140.0269596,
+  "src": "osm:能代市役所"
+ },
+ "akita/odate": {
+  "en": "Odate",
+  "ja": "大館市",
+  "code": "052043",
+  "lat": 40.2717026,
+  "lon": 140.5652498,
+  "src": "osm:大館市役所 本庁舎"
+ },
+ "akita/oga": {
+  "en": "Oga",
+  "ja": "男鹿市",
+  "code": "052060",
+  "lat": 39.8867804,
+  "lon": 139.8475862,
+  "src": "osm:男鹿市役所"
+ },
+ "akita/ogata": {
+  "en": "Ogata",
+  "ja": "大潟村",
+  "code": "053686",
+  "lat": 40.0174678,
+  "lon": 139.9599528,
+  "src": "osm:大潟村役場"
+ },
+ "akita/semboku": {
+  "en": "Semboku",
+  "ja": "仙北市",
+  "code": "052159",
+  "lat": 39.7000793,
+  "lon": 140.7306268,
+  "src": "osm:仙北市役所"
+ },
+ "akita/ugo": {
+  "en": "Ugo",
+  "ja": "羽後町",
+  "code": "054631",
+  "lat": 39.1993381,
+  "lon": 140.4129948,
+  "src": "osm:羽後町役場"
+ },
+ "akita/yokote": {
+  "en": "Yokote",
+  "ja": "横手市",
+  "code": "052035",
+  "lat": 39.3137853,
+  "lon": 140.5666447,
+  "src": "osm:横手市役所 本庁舎"
+ },
+ "akita/yurihonjo": {
+  "en": "Yurihonjo",
+  "ja": "由利本荘市",
+  "code": "052108",
+  "lat": 39.3857242,
+  "lon": 140.049214,
+  "src": "osm:由利本荘市役所"
+ },
+ "akita/yuzawashi": {
+  "en": "Yuzawa",
+  "ja": "湯沢市",
+  "code": "052078",
+  "lat": 39.1643417,
+  "lon": 140.4957429,
+  "src": "osm:湯沢市役所"
+ },
+ "fukuoka/akamura": {
+  "en": "Aka",
+  "ja": "赤村",
+  "code": "406091",
+  "lat": 33.616658,
+  "lon": 130.870826,
+  "src": "osm:赤村役場"
+ },
+ "fukuoka/asakura": {
+  "en": "Asakura",
+  "ja": "朝倉市",
+  "code": "402281",
+  "lat": 33.423451,
+  "lon": 130.665514,
+  "src": "osm:朝倉市役所"
+ },
+ "fukuoka/ashiyacho": {
+  "en": "Ashiya",
+  "ja": "芦屋町",
+  "code": "403814",
+  "lat": 33.893733,
+  "lon": 130.663893,
+  "src": "osm:芦屋町役場"
+ },
+ "fukuoka/buzen": {
+  "en": "Buzen",
+  "ja": "豊前市",
+  "code": "402141",
+  "lat": 33.611524,
+  "lon": 131.130276,
+  "src": "osm:豊前市役所"
+ },
+ "fukuoka/chikugo": {
+  "en": "Chikugo",
+  "ja": "筑後市",
+  "code": "402117",
+  "lat": 33.2123596,
+  "lon": 130.5019429,
+  "src": "osm:筑後市役所"
+ },
+ "fukuoka/chikujo": {
+  "en": "Chikujo",
+  "ja": "築上町",
+  "code": "406473",
+  "lat": 33.6563785,
+  "lon": 131.0559802,
+  "src": "osm:築上町役場"
+ },
+ "fukuoka/chikushino": {
+  "en": "Chikushino",
+  "ja": "筑紫野市",
+  "code": "402176",
+  "lat": 33.4874205,
+  "lon": 130.526035,
+  "src": "osm:筑紫野市役所"
+ },
+ "fukuoka/chikuzen": {
+  "en": "Chikuzen",
+  "ja": "筑前町",
+  "code": "404471",
+  "lat": 33.457057,
+  "lon": 130.595158,
+  "src": "osm:筑前町役場"
+ },
+ "fukuoka/dazaifu": {
+  "en": "Dazaifu",
+  "ja": "太宰府市",
+  "code": "402214",
+  "lat": 33.5128167,
+  "lon": 130.5239528,
+  "src": "osm:太宰府市役所"
+ },
+ "fukuoka/fukuchi": {
+  "en": "Fukuchi",
+  "ja": "福智町",
+  "code": "406104",
+  "lat": 33.6831962,
+  "lon": 130.7801886,
+  "src": "osm:福智町役場"
+ },
+ "fukuoka/fukuoka": {
+  "en": "Fukuoka",
+  "ja": "福岡市",
+  "code": "401307",
+  "lat": 33.5900692,
+  "lon": 130.401398,
+  "src": "osm:福岡市役所"
+ },
+ "fukuoka/fukutsu": {
+  "en": "Fukutsu",
+  "ja": "福津市",
+  "code": "402249",
+  "lat": 33.7667694,
+  "lon": 130.4913007,
+  "src": "osm:福津市役所"
+ },
+ "fukuoka/hirokawa": {
+  "en": "Hirokawa",
+  "ja": "広川町",
+  "code": "405442",
+  "lat": 33.241439,
+  "lon": 130.551388,
+  "src": "osm:広川町役場"
+ },
+ "fukuoka/hisayama": {
+  "en": "Hisayama",
+  "ja": "久山町",
+  "code": "403482",
+  "lat": 33.646703,
+  "lon": 130.500022,
+  "src": "osm:久山町役場"
+ },
+ "fukuoka/iizuka": {
+  "en": "Iizuka",
+  "ja": "飯塚市",
+  "code": "402052",
+  "lat": 33.6467202,
+  "lon": 130.6910638,
+  "src": "osm:飯塚市役所"
+ },
+ "fukuoka/itoda": {
+  "en": "Itoda",
+  "ja": "糸田町",
+  "code": "406040",
+  "lat": 33.652813,
+  "lon": 130.779103,
+  "src": "osm:糸田町役場"
+ },
+ "fukuoka/itoshima": {
+  "en": "Itoshima",
+  "ja": "糸島市",
+  "code": "402303",
+  "lat": 33.5572607,
+  "lon": 130.1962073,
+  "src": "osm:糸島市役所"
+ },
+ "fukuoka/kama": {
+  "en": "Kama",
+  "ja": "嘉麻市",
+  "code": "402273",
+  "lat": 33.563215,
+  "lon": 130.711534,
+  "src": "osm:嘉麻市役所碓井庁舎"
+ },
+ "fukuoka/kanda": {
+  "en": "Kanda",
+  "ja": "苅田町",
+  "code": "406210",
+  "lat": 33.775972222,
+  "lon": 130.980472222,
+  "src": "wikidata P625"
+ },
+ "fukuoka/kasuga": {
+  "en": "Kasuga",
+  "ja": "春日市",
+  "code": "402184",
+  "lat": 33.5326589,
+  "lon": 130.4702594,
+  "src": "osm:春日市役所"
+ },
+ "fukuoka/kasuya": {
+  "en": "Kasuya",
+  "ja": "粕屋町",
+  "code": "403491",
+  "lat": 33.6108464,
+  "lon": 130.48055,
+  "src": "osm:粕屋町役場"
+ },
+ "fukuoka/kawara": {
+  "en": "Kawara",
+  "ja": "香春町",
+  "code": "406015",
+  "lat": 33.667958,
+  "lon": 130.847327,
+  "src": "osm:香春町役場"
+ },
+ "fukuoka/kawasaki": {
+  "en": "Kawasaki",
+  "ja": "川崎町",
+  "code": "406058",
+  "lat": 33.599992,
+  "lon": 130.815386,
+  "src": "osm:川崎町役場"
+ },
+ "fukuoka/keisen": {
+  "en": "Keisen",
+  "ja": "桂川町",
+  "code": "404217",
+  "lat": 33.578852,
+  "lon": 130.67812,
+  "src": "osm:桂川町役場"
+ },
+ "fukuoka/kitakyushu": {
+  "en": "Kitakyushu",
+  "ja": "北九州市",
+  "code": "401005",
+  "lat": 33.883416,
+  "lon": 130.8752147,
+  "src": "osm:北九州市役所"
+ },
+ "fukuoka/koga": {
+  "en": "Koga",
+  "ja": "古賀市",
+  "code": "402231",
+  "lat": 33.72875,
+  "lon": 130.470051,
+  "src": "osm:古賀市役所"
+ },
+ "fukuoka/koge": {
+  "en": "Koge",
+  "ja": "上毛町",
+  "code": "406465",
+  "lat": 33.578332,
+  "lon": 131.164412,
+  "src": "osm:上毛町役場"
+ },
+ "fukuoka/kotake": {
+  "en": "Kotake",
+  "ja": "小竹町",
+  "code": "404012",
+  "lat": 33.6924388,
+  "lon": 130.7126718,
+  "src": "osm:小竹町役場"
+ },
+ "fukuoka/kurate": {
+  "en": "Kurate",
+  "ja": "鞍手町",
+  "code": "404021",
+  "lat": 33.792051,
+  "lon": 130.674672,
+  "src": "osm:鞍手町役場"
+ },
+ "fukuoka/kurume": {
+  "en": "Kurume",
+  "ja": "久留米市",
+  "code": "402036",
+  "lat": 33.319291,
+  "lon": 130.508389,
+  "src": "osm:久留米市役所"
+ },
+ "fukuoka/miyako": {
+  "en": "Miyako",
+  "ja": "みやこ町",
+  "code": "406252",
+  "lat": 33.699205,
+  "lon": 130.920404,
+  "src": "osm:みやこ町役場"
+ },
+ "fukuoka/miyama": {
+  "en": "Miyama",
+  "ja": "みやま市",
+  "code": "402290",
+  "lat": 33.152447,
+  "lon": 130.4747786,
+  "src": "osm:みやま市役所"
+ },
+ "fukuoka/miyawaka": {
+  "en": "Miyawaka",
+  "ja": "宮若市",
+  "code": "402265",
+  "lat": 33.7236203,
+  "lon": 130.6674343,
+  "src": "osm:宮若市役所"
+ },
+ "fukuoka/mizumaki": {
+  "en": "Mizumaki",
+  "ja": "水巻町",
+  "code": "403822",
+  "lat": 33.854743,
+  "lon": 130.694906,
+  "src": "osm:水巻町役場"
+ },
+ "fukuoka/munakata": {
+  "en": "Munakata",
+  "ja": "宗像市",
+  "code": "402206",
+  "lat": 33.8055565,
+  "lon": 130.5401871,
+  "src": "osm:宗像市役所"
+ },
+ "fukuoka/nakagawashi": {
+  "en": "Nakagawashi",
+  "ja": "那珂川市",
+  "code": "402311",
+  "lat": 33.4994742,
+  "lon": 130.4219545,
+  "src": "osm:那珂川市役所"
+ },
+ "fukuoka/nakama": {
+  "en": "Nakama",
+  "ja": "中間市",
+  "code": "402150",
+  "lat": 33.816596,
+  "lon": 130.709115,
+  "src": "osm:中間市役所"
+ },
+ "fukuoka/nogata": {
+  "en": "Nogata",
+  "ja": "直方市",
+  "code": "402044",
+  "lat": 33.7440351,
+  "lon": 130.729601,
+  "src": "osm:直方市役所"
+ },
+ "fukuoka/ogori": {
+  "en": "Ogori",
+  "ja": "小郡市",
+  "code": "402168",
+  "lat": 33.396507,
+  "lon": 130.555579,
+  "src": "osm:小郡市役所"
+ },
+ "fukuoka/okagaki": {
+  "en": "Okagaki",
+  "ja": "岡垣町",
+  "code": "403831",
+  "lat": 33.8535151,
+  "lon": 130.6116866,
+  "src": "osm:岡垣町役場"
+ },
+ "fukuoka/okawashi": {
+  "en": "Okawashi",
+  "ja": "大川市",
+  "code": "402125",
+  "lat": 33.206583333,
+  "lon": 130.383888888,
+  "src": "wikidata P625"
+ },
+ "fukuoka/oki": {
+  "en": "Oki",
+  "ja": "大木町",
+  "code": "405221",
+  "lat": 33.210412,
+  "lon": 130.439786,
+  "src": "osm:大木町役場"
+ },
+ "fukuoka/omuta": {
+  "en": "Omuta",
+  "ja": "大牟田市",
+  "code": "402028",
+  "lat": 33.030348,
+  "lon": 130.446012,
+  "src": "osm:大牟田市役所"
+ },
+ "fukuoka/onga": {
+  "en": "Onga",
+  "ja": "遠賀町",
+  "code": "403849",
+  "lat": 33.848045,
+  "lon": 130.668198,
+  "src": "osm:遠賀町役場"
+ },
+ "fukuoka/onojo": {
+  "en": "Onojo",
+  "ja": "大野城市",
+  "code": "402192",
+  "lat": 33.5362756,
+  "lon": 130.4787998,
+  "src": "osm:大野城市役所"
+ },
+ "fukuoka/oto": {
+  "en": "Oto",
+  "ja": "大任町",
+  "code": "406082",
+  "lat": 33.6121481,
+  "lon": 130.8538551,
+  "src": "osm:大任町役場"
+ },
+ "fukuoka/sasaguri": {
+  "en": "Sasaguri",
+  "ja": "篠栗町",
+  "code": "403423",
+  "lat": 33.623844,
+  "lon": 130.526242,
+  "src": "osm:篠栗町役場"
+ },
+ "fukuoka/shime": {
+  "en": "Shime",
+  "ja": "志免町",
+  "code": "403431",
+  "lat": 33.591443,
+  "lon": 130.479794,
+  "src": "osm:志免町役場"
+ },
+ "fukuoka/shingucho": {
+  "en": "Shingucho",
+  "ja": "新宮町",
+  "code": "403458",
+  "lat": 33.7152244,
+  "lon": 130.4464297,
+  "src": "osm:新宮町役場"
+ },
+ "fukuoka/soeda": {
+  "en": "Soeda",
+  "ja": "添田町",
+  "code": "406023",
+  "lat": 33.571746,
+  "lon": 130.854079,
+  "src": "osm:添田町役場"
+ },
+ "fukuoka/sue": {
+  "en": "Sue",
+  "ja": "須恵町",
+  "code": "403440",
+  "lat": 33.587209,
+  "lon": 130.507246,
+  "src": "osm:須恵町役場"
+ },
+ "fukuoka/tachiarai": {
+  "en": "Tachiarai",
+  "ja": "大刀洗町",
+  "code": "405035",
+  "lat": 33.372399,
+  "lon": 130.622407,
+  "src": "osm:大刀洗町役場"
+ },
+ "fukuoka/tagawa": {
+  "en": "Tagawa",
+  "ja": "田川市",
+  "code": "402061",
+  "lat": 33.638821,
+  "lon": 130.806136,
+  "src": "osm:田川市役所"
+ },
+ "fukuoka/toho": {
+  "en": "Toho",
+  "ja": "東峰村",
+  "code": "404489",
+  "lat": 33.397319,
+  "lon": 130.869942,
+  "src": "osm:東峰村役場"
+ },
+ "fukuoka/ukiha": {
+  "en": "Ukiha",
+  "ja": "うきは市",
+  "code": "402257",
+  "lat": 33.3473884,
+  "lon": 130.7550897,
+  "src": "osm:うきは市役所"
+ },
+ "fukuoka/umi": {
+  "en": "Umi",
+  "ja": "宇美町",
+  "code": "403415",
+  "lat": 33.567767,
+  "lon": 130.511162,
+  "src": "osm:宇美町役場"
+ },
+ "fukuoka/yame": {
+  "en": "Yame",
+  "ja": "八女市",
+  "code": "402109",
+  "lat": 33.2119309,
+  "lon": 130.5577627,
+  "src": "osm:八女市役所"
+ },
+ "fukuoka/yanagawa": {
+  "en": "Yanagawa",
+  "ja": "柳川市",
+  "code": "402079",
+  "lat": 33.1630109,
+  "lon": 130.4059041,
+  "src": "osm:柳川市役所"
+ },
+ "fukuoka/yoshitomi": {
+  "en": "Yoshitomi",
+  "ja": "吉富町",
+  "code": "406422",
+  "lat": 33.60272,
+  "lon": 131.175967,
+  "src": "osm:吉富町役場"
+ },
+ "fukuoka/yukuhashi": {
+  "en": "Yukuhashi",
+  "ja": "行橋市",
+  "code": "402133",
+  "lat": 33.7287962,
+  "lon": 130.982894,
+  "src": "osm:行橋市役所"
+ },
+ "miyagi/higashimatsushima": {
+  "en": "Higashimatsushima",
+  "ja": "東松島市",
+  "code": "042145",
+  "lat": 38.4262703,
+  "lon": 141.2106265,
+  "src": "osm:東松島市役所"
+ },
+ "miyagi/ishinomaki": {
+  "en": "Ishinomaki",
+  "ja": "石巻市",
+  "code": "042021",
+  "lat": 38.4343308,
+  "lon": 141.3027169,
+  "src": "osm:石巻市役所"
+ },
+ "miyagi/iwanuma": {
+  "en": "Iwanuma",
+  "ja": "岩沼市",
+  "code": "042111",
+  "lat": 38.1042867,
+  "lon": 140.8701772,
+  "src": "osm:岩沼市役所"
+ },
+ "miyagi/kakuda": {
+  "en": "Kakuda",
+  "ja": "角田市",
+  "code": "042081",
+  "lat": 37.9770449,
+  "lon": 140.7818345,
+  "src": "osm:角田市役所"
+ },
+ "miyagi/kamimachi": {
+  "en": "Kami",
+  "ja": "加美町",
+  "code": "044458",
+  "lat": 38.5717302,
+  "lon": 140.8548359,
+  "src": "osm:加美町役場"
+ },
+ "miyagi/kawasakicho": {
+  "en": "Kawasakicho",
+  "ja": "川崎町",
+  "code": "043249",
+  "lat": 38.1776233,
+  "lon": 140.6433397,
+  "src": "osm:川崎町役場 (prefecture-qualified)"
+ },
+ "miyagi/kesennuma": {
+  "en": "Kesennuma",
+  "ja": "気仙沼市",
+  "code": "042056",
+  "lat": 38.9081003,
+  "lon": 141.5701228,
+  "src": "osm:気仙沼市役所"
+ },
+ "miyagi/kurihara": {
+  "en": "Kurihara",
+  "ja": "栗原市",
+  "code": "042137",
+  "lat": 38.730087,
+  "lon": 141.0212453,
+  "src": "osm:栗原市役所"
+ },
+ "miyagi/marumori": {
+  "en": "Marumori",
+  "ja": "丸森町",
+  "code": "043419",
+  "lat": 37.9115166,
+  "lon": 140.7653959,
+  "src": "osm:丸森町役場"
+ },
+ "miyagi/matsushima": {
+  "en": "Matsushima",
+  "ja": "松島町",
+  "code": "044016",
+  "lat": 38.3801954,
+  "lon": 141.0672744,
+  "src": "osm:松島町役場"
+ },
+ "miyagi/minamisanriku": {
+  "en": "Minamisanriku",
+  "ja": "南三陸町",
+  "code": "046060",
+  "lat": 38.6806632,
+  "lon": 141.4624589,
+  "src": "osm:南三陸町役場"
+ },
+ "miyagi/miyagimisato": {
+  "en": "Miyagimisato",
+  "ja": "美里町",
+  "code": "045055",
+  "lat": 38.5443942,
+  "lon": 141.0567849,
+  "src": "osm:美里町役場 (prefecture-qualified)"
+ },
+ "miyagi/murata": {
+  "en": "Murata",
+  "ja": "村田町",
+  "code": "043222",
+  "lat": 38.118515,
+  "lon": 140.7223942,
+  "src": "osm:村田町役場"
+ },
+ "miyagi/natori": {
+  "en": "Natori",
+  "ja": "名取市",
+  "code": "042072",
+  "lat": 38.1715003,
+  "lon": 140.8919181,
+  "src": "osm:名取市役所"
+ },
+ "miyagi/ogawara": {
+  "en": "Ogawara",
+  "ja": "大河原町",
+  "code": "043214",
+  "lat": 38.0493742,
+  "lon": 140.7307928,
+  "src": "osm:大河原町役場"
+ },
+ "miyagi/ohira": {
+  "en": "Ohira",
+  "ja": "大衡村",
+  "code": "044245",
+  "lat": 38.4672682,
+  "lon": 140.879973,
+  "src": "osm:大衡村役場"
+ },
+ "miyagi/onagawa": {
+  "en": "Onagawa",
+  "ja": "女川町",
+  "code": "045811",
+  "lat": 38.4454077,
+  "lon": 141.4431076,
+  "src": "osm:女川町役場"
+ },
+ "miyagi/osakishi": {
+  "en": "Osakishi",
+  "ja": "大崎市",
+  "code": "042153",
+  "lat": 38.577596,
+  "lon": 140.9559668,
+  "src": "osm:大崎市役所"
+ },
+ "miyagi/osato": {
+  "en": "Osato",
+  "ja": "大郷町",
+  "code": "044229",
+  "lat": 38.424354,
+  "lon": 141.0045241,
+  "src": "osm:大郷町役場"
+ },
+ "miyagi/rifu": {
+  "en": "Rifu",
+  "ja": "利府町",
+  "code": "044067",
+  "lat": 38.3303256,
+  "lon": 140.9756911,
+  "src": "osm:利府町役場"
+ },
+ "miyagi/sendai": {
+  "en": "Sendai",
+  "ja": "仙台市",
+  "code": "041009",
+  "lat": 38.2682022,
+  "lon": 140.8694618,
+  "src": "osm:仙台市役所"
+ },
+ "miyagi/shibatacho": {
+  "en": "Shibatacho",
+  "ja": "柴田町",
+  "code": "043231",
+  "lat": 38.0565181,
+  "lon": 140.7658183,
+  "src": "osm:柴田町役場"
+ },
+ "miyagi/shichigahama": {
+  "en": "Shichigahama",
+  "ja": "七ヶ浜町",
+  "code": "044041",
+  "lat": 38.3045281,
+  "lon": 141.0591826,
+  "src": "osm:七ヶ浜町役場"
+ },
+ "miyagi/shichikashuku": {
+  "en": "Shichikashuku",
+  "ja": "七ヶ宿町",
+  "code": "043028",
+  "lat": 37.993186,
+  "lon": 140.4414709,
+  "src": "osm:七ヶ宿町役場"
+ },
+ "miyagi/shikama": {
+  "en": "Shikama",
+  "ja": "色麻町",
+  "code": "044440",
+  "lat": 38.5488101,
+  "lon": 140.849929,
+  "src": "osm:色麻町役場"
+ },
+ "miyagi/shiogama": {
+  "en": "Shiogama",
+  "ja": "塩竈市",
+  "code": "042030",
+  "lat": 38.3143659,
+  "lon": 141.0220875,
+  "src": "osm:塩竈市役所"
+ },
+ "miyagi/shiroishishi": {
+  "en": "Shiroishi",
+  "ja": "白石市",
+  "code": "042064",
+  "lat": 38.002444444,
+  "lon": 140.619888888,
+  "src": "wikidata P625"
+ },
+ "miyagi/tagajo": {
+  "en": "Tagajo",
+  "ja": "多賀城市",
+  "code": "042099",
+  "lat": 38.2940201,
+  "lon": 141.0042286,
+  "src": "osm:多賀城市役所"
+ },
+ "miyagi/taiwa": {
+  "en": "Taiwa",
+  "ja": "大和町",
+  "code": "044211",
+  "lat": 38.4373684,
+  "lon": 140.88639,
+  "src": "osm:大和町役場"
+ },
+ "miyagi/tome": {
+  "en": "Tome",
+  "ja": "登米市",
+  "code": "042129",
+  "lat": 38.6918814,
+  "lon": 141.1876511,
+  "src": "osm:登米市役所"
+ },
+ "miyagi/tomiya": {
+  "en": "Tomiya",
+  "ja": "富谷市",
+  "code": "042161",
+  "lat": 38.3998725,
+  "lon": 140.8952823,
+  "src": "osm:富谷市役所"
+ },
+ "miyagi/wakuya": {
+  "en": "Wakuya",
+  "ja": "涌谷町",
+  "code": "045012",
+  "lat": 38.5396927,
+  "lon": 141.1282011,
+  "src": "osm:涌谷町役場"
+ },
+ "miyagi/watari": {
+  "en": "Watari",
+  "ja": "亘理町",
+  "code": "043613",
+  "lat": 38.0442198,
+  "lon": 140.8679265,
+  "src": "osm:亘理町役場"
+ },
+ "miyagi/yamamoto": {
+  "en": "Yamamoto",
+  "ja": "山元町",
+  "code": "043621",
+  "lat": 37.9626867,
+  "lon": 140.8780115,
+  "src": "osm:山元町役場"
+ },
+ "miyagi/zao": {
+  "en": "Zao",
+  "ja": "蔵王町",
+  "code": "043010",
+  "lat": 38.0981123,
+  "lon": 140.6586648,
+  "src": "osm:蔵王町役場"
+ },
+ "oita/beppu": {
+  "en": "Beppu",
+  "ja": "別府市",
+  "code": "442020",
+  "lat": 33.2846373,
+  "lon": 131.4913461,
+  "src": "osm:別府市役所"
+ },
+ "oita/bungoono": {
+  "en": "Bungoono",
+  "ja": "豊後大野市",
+  "code": "442127",
+  "lat": 32.9776795,
+  "lon": 131.5841042,
+  "src": "osm:豊後大野市役所"
+ },
+ "oita/bungotakada": {
+  "en": "Bungotakada",
+  "ja": "豊後高田市",
+  "code": "442097",
+  "lat": 33.5562851,
+  "lon": 131.4470943,
+  "src": "osm:豊後高田市役所"
+ },
+ "oita/hiji": {
+  "en": "Hiji",
+  "ja": "日出町",
+  "code": "443417",
+  "lat": 33.369412,
+  "lon": 131.5323875,
+  "src": "osm:日出町役場"
+ },
+ "oita/himeshima": {
+  "en": "Himeshima",
+  "ja": "姫島村",
+  "code": "443221",
+  "lat": 33.7244985,
+  "lon": 131.6451044,
+  "src": "osm:姫島村役場"
+ },
+ "oita/hita": {
+  "en": "Hita",
+  "ja": "日田市",
+  "code": "442046",
+  "lat": 33.321136,
+  "lon": 130.941355,
+  "src": "osm:日田市役所"
+ },
+ "oita/kitsuki": {
+  "en": "Kitsuki",
+  "ja": "杵築市",
+  "code": "442101",
+  "lat": 33.4460878,
+  "lon": 131.5013005,
+  "src": "osm:杵築市役所　山香庁舎"
+ },
+ "oita/kokonoe": {
+  "en": "Kokonoe",
+  "ja": "九重町",
+  "code": "444618",
+  "lat": 33.2284538,
+  "lon": 131.1887719,
+  "src": "osm:九重町役場"
+ },
+ "oita/kunisaki": {
+  "en": "Kunisaki",
+  "ja": "国東市",
+  "code": "442143",
+  "lat": 33.565266,
+  "lon": 131.731673,
+  "src": "osm:国東市役所"
+ },
+ "oita/kusu": {
+  "en": "Kusu",
+  "ja": "玖珠町",
+  "code": "444626",
+  "lat": 33.283282,
+  "lon": 131.151283,
+  "src": "osm:玖珠町役場"
+ },
+ "oita/nakatsu": {
+  "en": "Nakatsu",
+  "ja": "中津市",
+  "code": "442038",
+  "lat": 33.598305555,
+  "lon": 131.188277777,
+  "src": "wikidata P625"
+ },
+ "oita/oita": {
+  "en": "Oita",
+  "ja": "大分市",
+  "code": "442011",
+  "lat": 33.2396786,
+  "lon": 131.608804,
+  "src": "osm:大分市役所"
+ },
+ "oita/saiki": {
+  "en": "Saiki",
+  "ja": "佐伯市",
+  "code": "442054",
+  "lat": 32.9598421,
+  "lon": 131.9000408,
+  "src": "osm:佐伯市役所"
+ },
+ "oita/taketa": {
+  "en": "Taketa",
+  "ja": "竹田市",
+  "code": "442089",
+  "lat": 32.9735317,
+  "lon": 131.3980295,
+  "src": "osm:竹田市役所"
+ },
+ "oita/tsukumi": {
+  "en": "Tsukumi",
+  "ja": "津久見市",
+  "code": "442071",
+  "lat": 33.0722265,
+  "lon": 131.8610819,
+  "src": "osm:津久見市役所"
+ },
+ "oita/usa": {
+  "en": "Usa",
+  "ja": "宇佐市",
+  "code": "442119",
+  "lat": 33.53201,
+  "lon": 131.349481,
+  "src": "osm:宇佐市役所"
+ },
+ "oita/usuki": {
+  "en": "Usuki",
+  "ja": "臼杵市",
+  "code": "442062",
+  "lat": 33.1260147,
+  "lon": 131.8049923,
+  "src": "osm:臼杵市役所"
+ },
+ "oita/yufu": {
+  "en": "Yufu",
+  "ja": "由布市",
+  "code": "442135",
+  "lat": 33.1803013,
+  "lon": 131.4266925,
+  "src": "osm:由布市役所"
+ },
+ "yamaguchi/abu": {
+  "en": "Abu",
+  "ja": "阿武町",
+  "code": "355020",
+  "lat": 34.5032844,
+  "lon": 131.4714027,
+  "src": "osm:阿武町役場"
+ },
+ "yamaguchi/hagi": {
+  "en": "Hagi",
+  "ja": "萩市",
+  "code": "352047",
+  "lat": 34.4081199,
+  "lon": 131.3991011,
+  "src": "osm:萩市役所"
+ },
+ "yamaguchi/hikari": {
+  "en": "Hikari",
+  "ja": "光市",
+  "code": "352101",
+  "lat": 33.9618552,
+  "lon": 131.9421855,
+  "src": "osm:光市役所 (prefecture-qualified)"
+ },
+ "yamaguchi/hirao": {
+  "en": "Hirao",
+  "ja": "平生町",
+  "code": "353442",
+  "lat": 33.9380526,
+  "lon": 132.0733243,
+  "src": "osm:平生町役場"
+ },
+ "yamaguchi/hofu": {
+  "en": "Hofu",
+  "ja": "防府市",
+  "code": "352063",
+  "lat": 34.051797,
+  "lon": 131.5627184,
+  "src": "osm:防府市役所"
+ },
+ "yamaguchi/iwakuni": {
+  "en": "Iwakuni",
+  "ja": "岩国市",
+  "code": "352080",
+  "lat": 34.1665825,
+  "lon": 132.2188719,
+  "src": "osm:岩国市役所"
+ },
+ "yamaguchi/kaminoseki": {
+  "en": "Kaminoseki",
+  "ja": "上関町",
+  "code": "353418",
+  "lat": 33.830862,
+  "lon": 132.1101847,
+  "src": "osm:上関町役場"
+ },
+ "yamaguchi/kudamatsu": {
+  "en": "Kudamatsu",
+  "ja": "下松市",
+  "code": "352071",
+  "lat": 34.0149761,
+  "lon": 131.8703488,
+  "src": "osm:下松市役所"
+ },
+ "yamaguchi/mine": {
+  "en": "Mine",
+  "ja": "美祢市",
+  "code": "352136",
+  "lat": 34.1666155,
+  "lon": 131.206311,
+  "src": "osm:美祢市役所"
+ },
+ "yamaguchi/nagato": {
+  "en": "Nagato",
+  "ja": "長門市",
+  "code": "352110",
+  "lat": 34.3709265,
+  "lon": 131.1825162,
+  "src": "osm:長門市役所"
+ },
+ "yamaguchi/sanyoonoda": {
+  "en": "Sanyoonoda",
+  "ja": "山陽小野田市",
+  "code": "352161",
+  "lat": 34.0031564,
+  "lon": 131.1817074,
+  "src": "osm:山陽小野田市役所"
+ },
+ "yamaguchi/shimonoseki": {
+  "en": "Shimonoseki",
+  "ja": "下関市",
+  "code": "352012",
+  "lat": 33.9573932,
+  "lon": 130.9410381,
+  "src": "osm:下関市役所"
+ },
+ "yamaguchi/shunan": {
+  "en": "Shunan",
+  "ja": "周南市",
+  "code": "352152",
+  "lat": 34.0551395,
+  "lon": 131.8062455,
+  "src": "osm:周南市役所"
+ },
+ "yamaguchi/suoooshima": {
+  "en": "Suoooshima",
+  "ja": "周防大島町",
+  "code": "353051",
+  "lat": 33.9277118,
+  "lon": 132.1957955,
+  "src": "osm:周防大島町役場"
+ },
+ "yamaguchi/tabuse": {
+  "en": "Tabuse",
+  "ja": "田布施町",
+  "code": "353434",
+  "lat": 33.9547422,
+  "lon": 132.0413038,
+  "src": "osm:田布施町役場"
+ },
+ "yamaguchi/ube": {
+  "en": "Ube",
+  "ja": "宇部市",
+  "code": "352021",
+  "lat": 33.951821,
+  "lon": 131.2472943,
+  "src": "osm:宇部市役所 本庁舎"
+ },
+ "yamaguchi/waki": {
+  "en": "Waki",
+  "ja": "和木町",
+  "code": "353213",
+  "lat": 34.2024008,
+  "lon": 132.2202409,
+  "src": "osm:和木町役場"
+ },
+ "yamaguchi/yamaguchi": {
+  "en": "Yamaguchi",
+  "ja": "山口市",
+  "code": "352039",
+  "lat": 34.1783147,
+  "lon": 131.4733985,
+  "src": "osm:山口市役所"
+ },
+ "yamaguchi/yanai": {
+  "en": "Yanai",
+  "ja": "柳井市",
+  "code": "352128",
+  "lat": 33.9637359,
+  "lon": 132.1014178,
+  "src": "osm:柳井市役所"
+ }
+}
