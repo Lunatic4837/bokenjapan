@@ -1,0 +1,138 @@
+{
+ "akita/hachirogata": {
+  "nearest": "akita/gojome",
+  "km": 3.3
+ },
+ "akita/happo": {
+  "nearest": "akita/noshiro",
+  "km": 11.9
+ },
+ "akita/ikawa": {
+  "nearest": "akita/gojome",
+  "km": 4.2
+ },
+ "akita/kamikoani": {
+  "nearest": "akita/akita",
+  "km": 19.2
+ },
+ "akita/katagami": {
+  "nearest": "akita/gojome",
+  "km": 12.8
+ },
+ "fukuoka/akamura": {
+  "nearest": "fukuoka/soeda",
+  "km": 5.2
+ },
+ "fukuoka/fukuchi": {
+  "nearest": "fukuoka/tagawa",
+  "km": 5.5
+ },
+ "fukuoka/hirokawa": {
+  "nearest": "fukuoka/yame",
+  "km": 3.3
+ },
+ "fukuoka/hisayama": {
+  "nearest": "fukuoka/sasaguri",
+  "km": 3.5
+ },
+ "fukuoka/itoda": {
+  "nearest": "fukuoka/tagawa",
+  "km": 2.9
+ },
+ "fukuoka/kama": {
+  "nearest": "fukuoka/iizuka",
+  "km": 9.5
+ },
+ "fukuoka/kasuya": {
+  "nearest": "fukuoka/shime",
+  "km": 2.2
+ },
+ "fukuoka/kawasaki": {
+  "nearest": "fukuoka/tagawa",
+  "km": 4.4
+ },
+ "fukuoka/keisen": {
+  "nearest": "fukuoka/iizuka",
+  "km": 7.6
+ },
+ "fukuoka/kotake": {
+  "nearest": "fukuoka/miyawaka",
+  "km": 5.4
+ },
+ "fukuoka/miyako": {
+  "nearest": "fukuoka/yukuhashi",
+  "km": 6.7
+ },
+ "fukuoka/miyama": {
+  "nearest": "fukuoka/yanagawa",
+  "km": 6.5
+ },
+ "fukuoka/mizumaki": {
+  "nearest": "fukuoka/nakama",
+  "km": 4.4
+ },
+ "fukuoka/ogori": {
+  "nearest": "fukuoka/tachiarai",
+  "km": 6.8
+ },
+ "fukuoka/oki": {
+  "nearest": "fukuoka/okawashi",
+  "km": 5.2
+ },
+ "fukuoka/onga": {
+  "nearest": "fukuoka/ashiyacho",
+  "km": 5.1
+ },
+ "fukuoka/onojo": {
+  "nearest": "fukuoka/kasuga",
+  "km": 0.9
+ },
+ "fukuoka/oto": {
+  "nearest": "fukuoka/soeda",
+  "km": 4.5
+ },
+ "fukuoka/shingucho": {
+  "nearest": "fukuoka/koga",
+  "km": 2.7
+ },
+ "fukuoka/sue": {
+  "nearest": "fukuoka/shime",
+  "km": 2.6
+ },
+ "fukuoka/umi": {
+  "nearest": "fukuoka/shime",
+  "km": 3.9
+ },
+ "miyagi/miyagimisato": {
+  "nearest": "miyagi/wakuya",
+  "km": 6.2
+ },
+ "miyagi/osato": {
+  "nearest": "miyagi/matsushima",
+  "km": 7.3
+ },
+ "miyagi/shikama": {
+  "nearest": "miyagi/kamimachi",
+  "km": 2.6
+ },
+ "miyagi/tomiya": {
+  "nearest": "miyagi/taiwa",
+  "km": 4.2
+ },
+ "yamaguchi/abu": {
+  "nearest": "yamaguchi/hagi",
+  "km": 12.5
+ },
+ "yamaguchi/kaminoseki": {
+  "nearest": "yamaguchi/hirao",
+  "km": 12.4
+ },
+ "yamaguchi/tabuse": {
+  "nearest": "yamaguchi/hirao",
+  "km": 3.5
+ },
+ "yamaguchi/waki": {
+  "nearest": "yamaguchi/iwakuni",
+  "km": 4.0
+ }
+}
