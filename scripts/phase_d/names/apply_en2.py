@@ -19,6 +19,7 @@ for p in sorted(glob.glob(f'{REPO}/*/*/index.html')):
         for run in KRUN.findall(ja):
             ws = seg(run)
             if not ws: st['run_noseg'] += 1; continue
+            if ' '.join(ws).lower() in new.lower(): st['run_already_english'] += 1; continue
             rom = re.sub(r'[^a-z]', '', kroma(run).lower())
             if len(rom) < 3: continue
             rx = re.compile(r'(?<![A-Za-z])' + r"[\s\-']?".join(map(re.escape, rom)) + r'(?![a-z])', re.I)
