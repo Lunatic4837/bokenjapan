@@ -15,7 +15,12 @@ from pathlib import Path
 
 from PIL import Image
 
-from r2_images import load_manifest_keys, load_missing_keys, rewrite_page
+from r2_images import (
+    load_manifest_keys,
+    load_missing_keys,
+    load_placeholder_names,
+    rewrite_page,
+)
 
 ROOT = Path(__file__).resolve().parents[1]
 MANIFEST_PATH = Path(__file__).with_name("manifest-5pref-all.csv")
@@ -119,6 +124,38 @@ def self_test(r2_base: str) -> None:
             raise SystemExit("non-manifest image was rewritten")
         if stats["removed"] != 1:
             raise SystemExit(f"unexpected removal count {stats}")
+        placeholder = (
+            '<li><a href="https://example.com/logo"><p class="place-name">Logo</p>'
+            f'<img class="thumb" src="{r2_base}/media/sendai-dining-ta404.jpg" '
+            'alt="Logo" loading="lazy"></a>'
+            '<p class="place-meta">#2 ranked in Ohira</p></li>'
+        )
+        stripped, ph_stats = rewrite_page(
+            placeholder,
+            html_path,
+            root,
+            r2_base,
+            manifest | {"media/sendai-dining-ta404.jpg"},
+            missing,
+            {"sendai-dining-ta404.jpg"},
+        )
+        if ph_stats["placeholders"] != 1 or "sendai-dining-ta404" in stripped:
+            raise SystemExit(f"placeholder thumb survived: {stripped}")
+        if "<!-- photo-missing -->" not in stripped or "Logo" not in stripped:
+            raise SystemExit("placeholder card was dropped")
+        if r2_base in stripped:
+            raise SystemExit("placeholder was rewritten to R2")
+        again_ph, ph_again = rewrite_page(
+            stripped,
+            html_path,
+            root,
+            r2_base,
+            manifest,
+            missing,
+            {"sendai-dining-ta404.jpg"},
+        )
+        if again_ph != stripped or ph_again["placeholders"]:
+            raise SystemExit("placeholder strip is not idempotent")
 
         home = root / "index.html"
         home_html = (
@@ -176,6 +213,7 @@ def main() -> int:
     self_test(r2_base)
     manifest = load_manifest_keys(MANIFEST_PATH)
     missing = load_missing_keys(MISSING_PATH)
+    placeholders = load_placeholder_names(ROOT / "media")
     if len(manifest) != 47372:
         raise SystemExit(f"manifest has {len(manifest)} keys, expected 47372")
     if len(missing) != 75:
@@ -186,31 +224,42 @@ def main() -> int:
 
     pages = scoped_pages()
     changed = 0
-    removed = rewritten = thumbs = 0
+    removed = rewritten = thumbs = placeholder_hits = 0
+    by_pref: dict[str, int] = {pref: 0 for pref in PREFS}
     for path in pages:
         original = path.read_text(encoding="utf-8")
         once, stats = rewrite_page(
-            original, path, ROOT, r2_base, manifest, missing
+            original, path, ROOT, r2_base, manifest, missing, placeholders
         )
-        twice, again = rewrite_page(once, path, ROOT, r2_base, manifest, missing)
+        twice, again = rewrite_page(
+            once, path, ROOT, r2_base, manifest, missing, placeholders
+        )
         if once != twice or any(again.values()):
             raise SystemExit(f"not idempotent: {path.relative_to(ROOT)}")
         removed += stats["removed"]
         rewritten += stats["rewritten"]
         thumbs += stats["thumbs"]
+        placeholder_hits += stats["placeholders"]
+        pref = path.relative_to(ROOT).parts[0]
+        if pref in by_pref:
+            by_pref[pref] += stats["placeholders"]
         if once != original:
             path.write_text(once, encoding="utf-8")
             changed += 1
-        print(
-            f"{path.relative_to(ROOT)} rewritten={stats['rewritten']} "
-            f"removed={stats['removed']} thumbs={stats['thumbs']}",
-            flush=True,
-        )
+        if stats["placeholders"] or stats["removed"] or stats["rewritten"] or stats["thumbs"]:
+            print(
+                f"{path.relative_to(ROOT)} rewritten={stats['rewritten']} "
+                f"removed={stats['removed']} placeholders={stats['placeholders']} "
+                f"thumbs={stats['thumbs']}",
+                flush=True,
+            )
     print(
         f"pages={len(pages)} changed={changed} rewritten={rewritten} "
-        f"removed={removed} thumbs={thumbs}",
+        f"removed={removed} placeholders={placeholder_hits} thumbs={thumbs}",
         flush=True,
     )
+    for pref in PREFS:
+        print(f"placeholders {pref}={by_pref[pref]}", flush=True)
     return 0
 
 

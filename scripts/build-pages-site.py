@@ -50,6 +50,7 @@ from r2_images import (  # noqa: E402
     inside_absolute_url,
     load_manifest_keys,
     load_missing_keys,
+    load_placeholder_names,
     local_media_names,
     rewrite_page,
 )
@@ -69,6 +70,7 @@ MANIFEST_PATH = SCRIPTS / "manifest-5pref-all.csv"
 MISSING_PATH = SCRIPTS / "missing-on-main.tsv"
 MANIFEST_KEYS: set[str] = set()
 MISSING_KEYS: set[str] = set()
+PLACEHOLDER_NAMES: set[str] = set()
 
 # List thumbs. Covers use a larger edge so municipality heroes stay sharp.
 MAX_EDGE = 560
@@ -269,7 +271,13 @@ def process_html(
     text = src.read_text(encoding="utf-8", errors="ignore")
     if use_r2:
         text, _stats = rewrite_page(
-            text, src, ROOT, R2_BASE, MANIFEST_KEYS, MISSING_KEYS
+            text,
+            src,
+            ROOT,
+            R2_BASE,
+            MANIFEST_KEYS,
+            MISSING_KEYS,
+            PLACEHOLDER_NAMES,
         )
     text, dropped = cap_facility_thumbs(text)
     cover_names = {Path(m.group(1)).name for m in COVER_SRC_RE.finditer(text)}
@@ -330,12 +338,13 @@ def compress_one(args: tuple[str, str, int, int]) -> tuple[str, int, int, str]:
 
 
 def main() -> int:
-    global MANIFEST_KEYS, MISSING_KEYS
+    global MANIFEST_KEYS, MISSING_KEYS, PLACEHOLDER_NAMES
     if not MANIFEST_PATH.is_file():
         print(f"ERROR: missing R2 allow-list {MANIFEST_PATH}", file=sys.stderr)
         return 2
     MANIFEST_KEYS = load_manifest_keys(MANIFEST_PATH)
     MISSING_KEYS = load_missing_keys(MISSING_PATH) if MISSING_PATH.is_file() else set()
+    PLACEHOLDER_NAMES = load_placeholder_names(MEDIA_IN)
 
     if OUT.exists():
         shutil.rmtree(OUT)
@@ -354,7 +363,13 @@ def main() -> int:
         if name == "index.html":
             text = src.read_text(encoding="utf-8", errors="ignore")
             text, _stats = rewrite_page(
-                text, src, ROOT, R2_BASE, MANIFEST_KEYS, MISSING_KEYS
+                text,
+                src,
+                ROOT,
+                R2_BASE,
+                MANIFEST_KEYS,
+                MISSING_KEYS,
+                PLACEHOLDER_NAMES,
             )
             text = rewrite_media_refs(text)
             (OUT / name).write_text(text, encoding="utf-8")

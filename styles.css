@@ -1146,6 +1146,24 @@ body.home .pref-map {
   gap: 0.55rem;
 }
 
+/* Facility link is the name, plus the photo when there is one. */
+.place-list li > a {
+  display: block;
+}
+
+/* No photo: a flat text row. No empty frame, no broken-image icon, no logo. */
+.place-list li > a:not(:has(img)) {
+  text-decoration: none;
+}
+
+.place-list li > a:not(:has(img)) .place-name {
+  color: var(--ink);
+}
+
+.place-list li > a:not(:has(img)):hover .place-name {
+  color: var(--link);
+}
+
 .place-list .place-name {
   margin: 0;
   font-weight: 500;

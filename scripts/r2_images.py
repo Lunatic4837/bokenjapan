@@ -6,6 +6,7 @@ takes that string as an argument so the host is not copied here.
 from __future__ import annotations
 
 import csv
+import hashlib
 import re
 from pathlib import Path
 
@@ -38,6 +39,15 @@ SITE_ORIGINS = (
 )
 
 _SIZES: dict[str, tuple[int, int] | None] = {}
+
+# Byte-identical copies of the TripAdvisor logo PNG and the Tabelog
+# "NO PHOTO" GIF. Many are stored under a .jpg name. Identified by hash,
+# not by filename. Do not publish either as a facility photo.
+TA_LOGO_SHA256 = "a3d03f490a85b1e50b66bafb3ecb95b7651209ab6ba89ded90926cb1d12abc2e"
+TABELOG_NO_PHOTO_SHA256 = "a59e570e505113b85a0fa4e608aefdc99e41f6da3e3de25c6b478637d88e3ef4"
+PLACEHOLDER_SHA256 = frozenset({TA_LOGO_SHA256, TABELOG_NO_PHOTO_SHA256})
+# Same-size filter so the scan does not hash the rest of media/.
+PLACEHOLDER_SIZES = frozenset({30229, 3027})
 
 
 def load_manifest_keys(path: Path) -> set[str]:
@@ -129,6 +139,29 @@ def _rewrite_srcset(
     return ", ".join(parts)
 
 
+def load_placeholder_names(media_dir: Path) -> set[str]:
+    """Basenames in media/ whose bytes match the TA logo or Tabelog NO PHOTO."""
+    names: set[str] = set()
+    if not media_dir.is_dir():
+        return names
+    for path in media_dir.iterdir():
+        if not path.is_file():
+            continue
+        try:
+            size = path.stat().st_size
+        except OSError:
+            continue
+        if size not in PLACEHOLDER_SIZES:
+            continue
+        try:
+            digest = hashlib.sha256(path.read_bytes()).hexdigest()
+        except OSError:
+            continue
+        if digest in PLACEHOLDER_SHA256:
+            names.add(path.name)
+    return names
+
+
 def image_size(root: Path, key: str) -> tuple[int, int] | None:
     path = (root / key)
     cache_key = str(path)
@@ -144,6 +177,38 @@ def image_size(root: Path, key: str) -> tuple[int, int] | None:
     except Exception:
         _SIZES[cache_key] = None
     return _SIZES[cache_key]
+
+
+def _strip_placeholder_imgs(
+    text: str,
+    html_path: Path,
+    root: Path,
+    r2_base: str,
+    placeholder_names: set[str],
+) -> tuple[str, int]:
+    """Drop imgs that are the TA logo or the Tabelog NO PHOTO file.
+
+    The card and its link stay. A hidden comment marks the missing photo.
+    These files must not be rewritten to an R2 URL.
+    """
+    if not placeholder_names:
+        return text, 0
+    removed = 0
+
+    def repl(match: re.Match) -> str:
+        nonlocal removed
+        tag = match.group(0)
+        src = SRC_RE.search(tag)
+        if not src:
+            return tag
+        key = resolve_key(src.group(2), html_path, root, r2_base)
+        name = Path(key).name if key else Path(src.group(2).split("?", 1)[0]).name
+        if name not in placeholder_names:
+            return tag
+        removed += 1
+        return "<!-- photo-missing -->"
+
+    return IMG_RE.sub(repl, text), removed
 
 
 def _strip_missing_imgs(
@@ -256,13 +321,18 @@ def rewrite_page(
     r2_base: str,
     manifest: set[str],
     missing: set[str],
+    placeholder_names: set[str] | None = None,
 ) -> tuple[str, dict[str, int]]:
     """Rewrite one HTML document. A second call on the result is a no-op."""
     text, removed = _strip_missing_imgs(text, html_path, root, r2_base, missing)
+    text, placeholders = _strip_placeholder_imgs(
+        text, html_path, root, r2_base, placeholder_names or set()
+    )
     text, rewritten = _rewrite_attrs(text, html_path, root, r2_base, manifest)
     text, thumbs = _augment_thumbs(text, html_path, root, r2_base)
     return text, {
         "removed": removed,
+        "placeholders": placeholders,
         "rewritten": rewritten,
         "thumbs": thumbs,
     }
