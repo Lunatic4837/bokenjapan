@@ -178,8 +178,13 @@ def extract_here_name(svg: str) -> str:
     return m.group(1) if m else ""
 
 
-def normalize_map_svg(svg: str, pref: str) -> str:
-    """Rewrite municipality hrefs to absolute /{pref}/{slug}/ and drop is-here."""
+def normalize_map_svg(svg: str, pref: str, here_slug: str | None = None) -> str:
+    """Rewrite municipality hrefs to absolute /{pref}/{slug}/ and drop is-here.
+
+    A city can share its prefecture's name (Akita, Fukuoka, Yamaguchi, Oita).
+    That slug must stay a municipality path. Treating ``slug == pref`` as the
+    prefecture index sent those four shapes to ``/{pref}/``.
+    """
     # remove is-here class
     svg = re.sub(r"""\sclass="is-here\"""", "", svg)
     svg = re.sub(r"""\sclass='is-here'""", "", svg)
@@ -188,11 +193,14 @@ def normalize_map_svg(svg: str, pref: str) -> str:
     def href_repl(m: re.Match) -> str:
         href = m.group(1)
         if href in ("./", ".", "#", ""):
-            return m.group(0)  # leave; loader fixes current page
-        # ../slug/ or ./slug/ or slug/
+            # The inline map uses "./" for whichever town the source page is.
+            # Resolve it here so the shared SVG does not follow the reader.
+            if here_slug and re.fullmatch(r"[a-z0-9-]+", here_slug):
+                return f'href="/{pref}/{here_slug}/"'
+            return m.group(0)
         slug = href.strip("/").split("/")[-1]
-        if not slug or slug == pref:
-            return f'href="/{pref}/"'
+        if not re.fullmatch(r"[a-z0-9-]+", slug or ""):
+            return m.group(0)
         return f'href="/{pref}/{slug}/"'
 
     svg = re.sub(r'href="([^"]+)"', href_repl, svg)
@@ -224,7 +232,11 @@ def process_html(src: Path, dst: Path, pref: str | None) -> tuple[set[str], set[
             map_path = OUT / pref / "_map.svg"
             if not map_path.exists():
                 map_path.parent.mkdir(parents=True, exist_ok=True)
-                map_path.write_text(normalize_map_svg(svg, pref), encoding="utf-8")
+                # pref/town/index.html → the "./" shape is that town.
+                here_slug = src.parent.name if len(src.relative_to(ROOT).parts) == 3 else None
+                map_path.write_text(
+                    normalize_map_svg(svg, pref, here_slug), encoding="utf-8"
+                )
             return (
                 f'<div class="map-wrap" data-map="{map_rel}" data-here="{here}"></div>\n'
                 f"      {LOADER_JS}"
