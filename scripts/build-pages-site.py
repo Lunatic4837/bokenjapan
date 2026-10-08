@@ -64,7 +64,7 @@ MEDIA_OUT = OUT / "media"
 
 # Public photo host. Switch to https://img.bokenjapan.com by editing this line
 # and re-running scripts/render_phase_c.py. Do not copy the string elsewhere.
-R2_BASE = "https://pub-f074f228689740b2a22b36f38e90e96e.r2.dev"
+R2_BASE = "https://img.bokenjapan.com"
 R2_PREFS = frozenset({"miyagi", "akita", "fukuoka", "yamaguchi", "oita"})
 MANIFEST_PATH = SCRIPTS / "manifest-5pref-all.csv"
 MISSING_PATH = SCRIPTS / "missing-on-main.tsv"
