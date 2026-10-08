@@ -5,7 +5,7 @@ import csv, html, re, sys, os, collections, json
 REPO = sys.argv[1] if len(sys.argv) > 1 else '/workspace/p1/pr12-work'
 MAN = '/workspace/p1/photos-5pref/manifest.csv'
 R2 = 'https://img.bokenjapan.com'
-UPLOADED = {r['key'] for r in csv.DictReader(open('/workspace/p1/r2/manifest-5pref-photos-now.csv'))}
+UPLOADED = {r['key'] for r in csv.DictReader(open('/workspace/p1/r2/manifest-5pref-photos-uploaded.csv'))}
 SEC = re.compile(r'(<section class="place-section">\s*<h2>([^<]+)</h2>)(.*?)(</section>)', re.S)
 LI = re.compile(r'<li\b[^>]*>.*?</li>', re.S)
 by_page = collections.defaultdict(list)
