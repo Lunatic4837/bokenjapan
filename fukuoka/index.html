@@ -4,13 +4,19 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Fukuoka · BokenJapan</title>
+  <link rel="canonical" href="https://bokenjapan.com/fukuoka/">
+  <meta name="description" content="Fukuoka · Pick a municipality on the map or from the list.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://bokenjapan.com/fukuoka/">
+  <meta property="og:title" content="Fukuoka · BokenJapan">
+  <meta property="og:description" content="Fukuoka · Pick a municipality on the map or from the list.">
+  <meta property="og:image" content="https://img.bokenjapan.com/og.png">
   <link rel="stylesheet" href="../styles.css">
   <!--
   Municipality boundaries: MLIT National Land Numerical Information N03 2026, vintage N03-20260101.
   Source URL: https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2026.html
   License: CC BY 4.0
   Citation (JA): 「国土数値情報（行政区域データ）」（国土交通省）（https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2026.html）を加工して作成
-  Note: local unpublished draft only; GSI reproduction filing gates public redistribute (Do not commit this directory. GSI reproduction filing is gated before public redistribute.).
   Multipart only where N03 polygons are multipart. Rings were simplified independently; parts were not merged and no bridge was drawn.
   Multipart municipalities: Kitakyushu 40100 (137 polygons); Fukuoka 40130 (944 polygons); Omuta 40202 (3 polygons); Yukuhashi 40213 (7 polygons); Buzen 40214 (8 polygons); Munakata 40220 (648 polygons); Fukutsu 40224 (43 polygons); Asakura 40228 (2 polygons); Itoshima 40230 (412 polygons); Shingucho 40345 (30 polygons); Ashiyacho 40381 (31 polygons); Okagaki 40383 (30 polygons); Hirokawa 40544 (2 polygons); Kanda 40621 (9 polygons); Chikujo 40647 (2 polygons).
   Excluded N03 所属未定地 (not a municipality): 40000. Designated-city wards dissolved to the facility-pack city code. Disconnected parts kept. 北九州市 40100 from wards 40101, 40103, 40105, 40106, 40107, 40108, 40109; 福岡市 40130 from wards 40131, 40132, 40133, 40134, 40135, 40136, 40137. English headings are the existing facilities directory slug with the first letter capitalized. There is no separate English gazetteer in the sourced files.
@@ -19,7 +25,7 @@
 <body>
   <header class="mast">
     <div class="mast-inner">
-      <a class="brand" href="/"><img class="brand-mark" src="../logo.svg" width="168" height="168" alt="冒険日本">BokenJapan</a>
+      <a class="brand" href="/"><img class="brand-mark" src="https://img.bokenjapan.com/logo.svg" width="168" height="168" alt="冒険日本">BokenJapan</a>
       <nav class="mast-nav" aria-label="Section">
         <a href="/">Home</a>
         <a href="./">Fukuoka</a>
@@ -34,17 +40,16 @@
       <script>(function(){var w=document.currentScript.previousElementSibling;if(!w||!w.dataset.map)return;var here=w.dataset.here||"";fetch(w.dataset.map).then(function(r){return r.text()}).then(function(t){w.innerHTML=t;var svg=w.querySelector("svg");if(svg){svg.removeAttribute("width");svg.removeAttribute("height");svg.setAttribute("class",(svg.getAttribute("class")||"")+" pref-map");}var nodes=w.querySelectorAll("a[data-name]");for(var i=0;i<nodes.length;i++){var a=nodes[i];a.classList.remove("is-here");if(here&&a.getAttribute("data-name")===here){a.classList.add("is-here");}var href=a.getAttribute("href")||"";if(href==="./"||href==="."){var slug=(location.pathname.replace(/\/+$/,"").split("/").pop()||"");if(slug)a.setAttribute("href","../"+slug+"/");}}}).catch(function(){w.innerHTML="<p class=\"map-note\">Map unavailable.</p>";});})();</script>
     <p class="map-name" id="map-name" aria-live="polite"></p>
     <h2>Municipalities</h2>
-    <ul class="muni-grid"><li><a href="kitakyushu/">Kitakyushu</a></li><li><a href="fukuoka/">Fukuoka</a></li><li><a href="omuta/">Omuta</a></li><li><a href="kurume/">Kurume</a></li><li><a href="nogata/">Nogata</a></li><li><a href="iizuka/">Iizuka</a></li><li><a href="tagawa/">Tagawa</a></li><li><a href="yanagawa/">Yanagawa</a></li><li><a href="yame/">Yame</a></li><li><a href="chikugo/">Chikugo</a></li><li><a href="okawashi/">Okawashi</a></li><li><a href="yukuhashi/">Yukuhashi</a></li><li><a href="buzen/">Buzen</a></li><li><a href="nakama/">Nakama</a></li><li><a href="ogori/">Ogori</a></li><li><a href="chikushino/">Chikushino</a></li><li><a href="kasuga/">Kasuga</a></li><li><a href="onojo/">Onojo</a></li><li><a href="munakata/">Munakata</a></li><li><a href="dazaifu/">Dazaifu</a></li><li><a href="koga/">Koga</a></li><li><a href="fukutsu/">Fukutsu</a></li><li><a href="ukiha/">Ukiha</a></li><li><a href="miyawaka/">Miyawaka</a></li><li><a href="kama/">Kama</a></li><li><a href="asakura/">Asakura</a></li><li><a href="miyama/">Miyama</a></li><li><a href="itoshima/">Itoshima</a></li><li><a href="nakagawashi/">Nakagawashi</a></li><li><a href="umi/">Umi</a></li><li><a href="sasaguri/">Sasaguri</a></li><li><a href="shime/">Shime</a></li><li><a href="sue/">Sue</a></li><li><a href="shingucho/">Shingucho</a></li><li><a href="hisayama/">Hisayama</a></li><li><a href="kasuya/">Kasuya</a></li><li><a href="ashiyacho/">Ashiyacho</a></li><li><a href="mizumaki/">Mizumaki</a></li><li><a href="okagaki/">Okagaki</a></li><li><a href="onga/">Onga</a></li><li><a href="kotake/">Kotake</a></li><li><a href="kurate/">Kurate</a></li><li><a href="keisen/">Keisen</a></li><li><a href="chikuzen/">Chikuzen</a></li><li><a href="toho/">Toho</a></li><li><a href="tachiarai/">Tachiarai</a></li><li><a href="oki/">Oki</a></li><li><a href="hirokawa/">Hirokawa</a></li><li><a href="kawara/">Kawara</a></li><li><a href="soeda/">Soeda</a></li><li><a href="itoda/">Itoda</a></li><li><a href="kawasaki/">Kawasaki</a></li><li><a href="oto/">Oto</a></li><li><a href="akamura/">Akamura</a></li><li><a href="fukuchi/">Fukuchi</a></li><li><a href="kanda/">Kanda</a></li><li><a href="miyako/">Miyako</a></li><li><a href="yoshitomi/">Yoshitomi</a></li><li><a href="koge/">Koge</a></li><li><a href="chikujo/">Chikujo</a></li></ul>
+    <ul class="muni-grid"><li><a href="kitakyushu/">Kitakyushu</a></li><li><a href="fukuoka/">Fukuoka</a></li><li><a href="omuta/">Omuta</a></li><li><a href="kurume/">Kurume</a></li><li><a href="nogata/">Nogata</a></li><li><a href="iizuka/">Iizuka</a></li><li><a href="tagawa/">Tagawa</a></li><li><a href="yanagawa/">Yanagawa</a></li><li><a href="yame/">Yame</a></li><li><a href="chikugo/">Chikugo</a></li><li><a href="okawashi/">Okawashi</a></li><li><a href="yukuhashi/">Yukuhashi</a></li><li><a href="buzen/">Buzen</a></li><li><a href="nakama/">Nakama</a></li><li><a href="ogori/">Ogori</a></li><li><a href="chikushino/">Chikushino</a></li><li><a href="kasuga/">Kasuga</a></li><li><a href="onojo/">Onojo</a></li><li><a href="munakata/">Munakata</a></li><li><a href="dazaifu/">Dazaifu</a></li><li><a href="koga/">Koga</a></li><li><a href="fukutsu/">Fukutsu</a></li><li><a href="ukiha/">Ukiha</a></li><li><a href="miyawaka/">Miyawaka</a></li><li><a href="kama/">Kama</a></li><li><a href="asakura/">Asakura</a></li><li><a href="miyama/">Miyama</a></li><li><a href="itoshima/">Itoshima</a></li><li><a href="nakagawashi/">Nakagawashi</a></li><li><a href="umi/">Umi</a></li><li><a href="sasaguri/">Sasaguri</a></li><li><a href="shime/">Shime</a></li><li><a href="sue/">Sue</a></li><li><a href="shingucho/">Shingucho</a></li><li><a href="hisayama/">Hisayama</a></li><li><a href="kasuya/">Kasuya</a></li><li><a href="ashiyacho/">Ashiya</a></li><li><a href="mizumaki/">Mizumaki</a></li><li><a href="okagaki/">Okagaki</a></li><li><a href="onga/">Onga</a></li><li><a href="kotake/">Kotake</a></li><li><a href="kurate/">Kurate</a></li><li><a href="keisen/">Keisen</a></li><li><a href="chikuzen/">Chikuzen</a></li><li><a href="toho/">Toho</a></li><li><a href="tachiarai/">Tachiarai</a></li><li><a href="oki/">Oki</a></li><li><a href="hirokawa/">Hirokawa</a></li><li><a href="kawara/">Kawara</a></li><li><a href="soeda/">Soeda</a></li><li><a href="itoda/">Itoda</a></li><li><a href="kawasaki/">Kawasaki</a></li><li><a href="oto/">Oto</a></li><li><a href="akamura/">Aka</a></li><li><a href="fukuchi/">Fukuchi</a></li><li><a href="kanda/">Kanda</a></li><li><a href="miyako/">Miyako</a></li><li><a href="yoshitomi/">Yoshitomi</a></li><li><a href="koge/">Koge</a></li><li><a href="chikujo/">Chikujo</a></li></ul>
   </main>
   <footer class="site-foot">
-    <div class="brand-foot"><img src="../logo.svg" width="56" height="56" alt="冒険日本"><p class="foot-name">BokenJapan</p></div>
+    <div class="brand-foot"><img src="https://img.bokenjapan.com/logo.svg" width="56" height="56" alt="冒険日本"><p class="foot-name">BokenJapan</p></div>
     <nav class="social-row" aria-label="BokenJapan social media">
       <span class="social-label">SNS</span>
       <a href="https://x.com/bokenjapan" rel="me">X<span class="visually-hidden"> (@bokenjapan)</span></a>
       <a href="https://www.instagram.com/boken_japan/" rel="me">Instagram<span class="visually-hidden"> (@boken_japan)</span></a>
       <a href="https://www.tiktok.com/@bokenjapan" rel="me">TikTok<span class="visually-hidden"> (@bokenjapan)</span></a>
     </nav>
-    <p>Pages are compiled from publicly available local sources.</p>
   </footer>
   <script>
 (function () {

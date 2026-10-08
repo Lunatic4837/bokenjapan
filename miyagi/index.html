@@ -4,13 +4,19 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Miyagi · BokenJapan</title>
+  <link rel="canonical" href="https://bokenjapan.com/miyagi/">
+  <meta name="description" content="Miyagi · Pick a municipality on the map or from the list.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://bokenjapan.com/miyagi/">
+  <meta property="og:title" content="Miyagi · BokenJapan">
+  <meta property="og:description" content="Miyagi · Pick a municipality on the map or from the list.">
+  <meta property="og:image" content="https://img.bokenjapan.com/og.png">
   <link rel="stylesheet" href="../styles.css">
   <!--
   Municipality boundaries: MLIT National Land Numerical Information N03 2026, vintage N03-20260101.
   Source URL: https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2026.html
   License: CC BY 4.0
   Citation (JA): 「国土数値情報（行政区域データ）」（国土交通省）（https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-2026.html）を加工して作成
-  Note: local unpublished draft only; GSI reproduction filing gates public redistribute (Do not commit this directory. GSI reproduction filing is gated before public redistribute.).
   Multipart only where N03 polygons are multipart. Rings were simplified independently; parts were not merged and no bridge was drawn.
   Multipart municipalities: Sendai 04100 (5 polygons); Ishinomaki 04202 (3293 polygons); Shiogama 04203 (261 polygons); Kesennuma 04205 (1303 polygons); Higashimatsushima 04214 (254 polygons); Matsushima 04401 (126 polygons); Shichigahama 04404 (84 polygons); Rifu 04406 (23 polygons); Onagawa 04581 (1086 polygons); Minamisanriku 04606 (1875 polygons).
   Designated-city wards dissolved to the facility-pack city code. Disconnected parts kept. 仙台市 04100 from wards 04101, 04102, 04103, 04104, 04105. English headings are the existing facilities directory slug with the first letter capitalized. There is no separate English gazetteer in the sourced files.
@@ -19,7 +25,7 @@
 <body>
   <header class="mast">
     <div class="mast-inner">
-      <a class="brand" href="/"><img class="brand-mark" src="../logo.svg" width="168" height="168" alt="冒険日本">BokenJapan</a>
+      <a class="brand" href="/"><img class="brand-mark" src="https://img.bokenjapan.com/logo.svg" width="168" height="168" alt="冒険日本">BokenJapan</a>
       <nav class="mast-nav" aria-label="Section">
         <a href="/">Home</a>
         <a href="./">Miyagi</a>
@@ -34,17 +40,16 @@
       <script>(function(){var w=document.currentScript.previousElementSibling;if(!w||!w.dataset.map)return;var here=w.dataset.here||"";fetch(w.dataset.map).then(function(r){return r.text()}).then(function(t){w.innerHTML=t;var svg=w.querySelector("svg");if(svg){svg.removeAttribute("width");svg.removeAttribute("height");svg.setAttribute("class",(svg.getAttribute("class")||"")+" pref-map");}var nodes=w.querySelectorAll("a[data-name]");for(var i=0;i<nodes.length;i++){var a=nodes[i];a.classList.remove("is-here");if(here&&a.getAttribute("data-name")===here){a.classList.add("is-here");}var href=a.getAttribute("href")||"";if(href==="./"||href==="."){var slug=(location.pathname.replace(/\/+$/,"").split("/").pop()||"");if(slug)a.setAttribute("href","../"+slug+"/");}}}).catch(function(){w.innerHTML="<p class=\"map-note\">Map unavailable.</p>";});})();</script>
     <p class="map-name" id="map-name" aria-live="polite"></p>
     <h2>Municipalities</h2>
-    <ul class="muni-grid"><li><a href="sendai/">Sendai</a></li><li><a href="ishinomaki/">Ishinomaki</a></li><li><a href="shiogama/">Shiogama</a></li><li><a href="kesennuma/">Kesennuma</a></li><li><a href="shiroishishi/">Shiroishishi</a></li><li><a href="natori/">Natori</a></li><li><a href="kakuda/">Kakuda</a></li><li><a href="tagajo/">Tagajo</a></li><li><a href="iwanuma/">Iwanuma</a></li><li><a href="tome/">Tome</a></li><li><a href="kurihara/">Kurihara</a></li><li><a href="higashimatsushima/">Higashimatsushima</a></li><li><a href="osakishi/">Osakishi</a></li><li><a href="tomiya/">Tomiya</a></li><li><a href="zao/">Zao</a></li><li><a href="shichikashuku/">Shichikashuku</a></li><li><a href="ogawara/">Ogawara</a></li><li><a href="murata/">Murata</a></li><li><a href="shibatacho/">Shibatacho</a></li><li><a href="kawasakicho/">Kawasakicho</a></li><li><a href="marumori/">Marumori</a></li><li><a href="watari/">Watari</a></li><li><a href="yamamoto/">Yamamoto</a></li><li><a href="matsushima/">Matsushima</a></li><li><a href="shichigahama/">Shichigahama</a></li><li><a href="rifu/">Rifu</a></li><li><a href="taiwa/">Taiwa</a></li><li><a href="osato/">Osato</a></li><li><a href="ohira/">Ohira</a></li><li><a href="shikama/">Shikama</a></li><li><a href="kamimachi/">Kamimachi</a></li><li><a href="wakuya/">Wakuya</a></li><li><a href="miyagimisato/">Miyagimisato</a></li><li><a href="onagawa/">Onagawa</a></li><li><a href="minamisanriku/">Minamisanriku</a></li></ul>
+    <ul class="muni-grid"><li><a href="sendai/">Sendai</a></li><li><a href="ishinomaki/">Ishinomaki</a></li><li><a href="shiogama/">Shiogama</a></li><li><a href="kesennuma/">Kesennuma</a></li><li><a href="shiroishishi/">Shiroishi</a></li><li><a href="natori/">Natori</a></li><li><a href="kakuda/">Kakuda</a></li><li><a href="tagajo/">Tagajo</a></li><li><a href="iwanuma/">Iwanuma</a></li><li><a href="tome/">Tome</a></li><li><a href="kurihara/">Kurihara</a></li><li><a href="higashimatsushima/">Higashimatsushima</a></li><li><a href="osakishi/">Osakishi</a></li><li><a href="tomiya/">Tomiya</a></li><li><a href="zao/">Zao</a></li><li><a href="shichikashuku/">Shichikashuku</a></li><li><a href="ogawara/">Ogawara</a></li><li><a href="murata/">Murata</a></li><li><a href="shibatacho/">Shibatacho</a></li><li><a href="kawasakicho/">Kawasakicho</a></li><li><a href="marumori/">Marumori</a></li><li><a href="watari/">Watari</a></li><li><a href="yamamoto/">Yamamoto</a></li><li><a href="matsushima/">Matsushima</a></li><li><a href="shichigahama/">Shichigahama</a></li><li><a href="rifu/">Rifu</a></li><li><a href="taiwa/">Taiwa</a></li><li><a href="osato/">Osato</a></li><li><a href="ohira/">Ohira</a></li><li><a href="shikama/">Shikama</a></li><li><a href="kamimachi/">Kami</a></li><li><a href="wakuya/">Wakuya</a></li><li><a href="miyagimisato/">Miyagimisato</a></li><li><a href="onagawa/">Onagawa</a></li><li><a href="minamisanriku/">Minamisanriku</a></li></ul>
   </main>
   <footer class="site-foot">
-    <div class="brand-foot"><img src="../logo.svg" width="56" height="56" alt="冒険日本"><p class="foot-name">BokenJapan</p></div>
+    <div class="brand-foot"><img src="https://img.bokenjapan.com/logo.svg" width="56" height="56" alt="冒険日本"><p class="foot-name">BokenJapan</p></div>
     <nav class="social-row" aria-label="BokenJapan social media">
       <span class="social-label">SNS</span>
       <a href="https://x.com/bokenjapan" rel="me">X<span class="visually-hidden"> (@bokenjapan)</span></a>
       <a href="https://www.instagram.com/boken_japan/" rel="me">Instagram<span class="visually-hidden"> (@boken_japan)</span></a>
       <a href="https://www.tiktok.com/@bokenjapan" rel="me">TikTok<span class="visually-hidden"> (@bokenjapan)</span></a>
     </nav>
-    <p>Pages are compiled from publicly available local sources.</p>
   </footer>
   <script>
 (function () {
