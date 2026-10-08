@@ -809,6 +809,13 @@ def sourced_explanation(kind: str, ja: str, en_name: str, slug: str, muni: str, 
     return build_explanation(genre, price, area, muni, pref)
 
 
+def fold_if_fullwidth(text: str) -> str:
+    """ASCII-fold fullwidth letters and punctuation in an otherwise Latin name."""
+    if not text or CJK_RE.search(text) or not FULLWIDTH_RE.search(text):
+        return text
+    return re.sub(r"\s+", " ", fold_fullwidth(text)).strip()
+
+
 def blurb_needs_romanization(blurb: str) -> bool:
     if not blurb or CJK_RE.search(blurb) or SLUG_JUNK_RE.search(blurb):
         return True
@@ -930,6 +937,19 @@ def transform_li(
             if roman:
                 li = set_p(li, "place-blurb", html.escape(roman, quote=False))
 
+    current_blurb = html.unescape(p_inner(li, "place-blurb") or "")
+    folded_blurb = fold_if_fullwidth(current_blurb)
+    if folded_blurb != current_blurb:
+        li = set_p(li, "place-blurb", html.escape(folded_blurb, quote=False))
+        stats["fullwidth_folded"] += 1
+        if ranked:
+            blurb = folded_blurb
+    current_name = html.unescape(p_inner(li, "place-name") or "")
+    folded_name = fold_if_fullwidth(current_name)
+    if folded_name and folded_name != current_name:
+        name = folded_name
+        li = set_p(li, "place-name", html.escape(name, quote=False))
+
     existing = p_inner(li, "place-desc")
     if good_existing_desc(existing):
         stats["desc_kept"] += 1
@@ -1027,6 +1047,7 @@ def new_stats() -> dict:
         "capped_sections": 0,
         "notes": 0,
         "pages": 0,
+        "fullwidth_folded": 0,
     }
 
 
@@ -1075,6 +1096,8 @@ def self_test() -> None:
     assert hepburn_name("珉亭") is None
     assert hepburn_name("すゞき") == "Suzuki"
     assert hepburn_name("ピザﾞ・テン・フォー").startswith("Piza Ten")
+    assert fold_if_fullwidth("ＳＯＮＩＣ　ＡＰＡＲＴＭＥＮＴ") == "SONIC APARTMENT"
+    assert "<" in fold_if_fullwidth("Ryokan ＜ Kawatabi")
     assert hepburn_name("うどん・そば・おにぎり") == "Udon Soba Onigiri"
     assert "Takahashi" in (hepburn_name("髙橋菓子舗") or "")
     panda = sourced_explanation("Dining", "ファミリーレストラン パンダ", "", "", "Ogata", "Akita")
