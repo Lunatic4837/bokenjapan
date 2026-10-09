@@ -33,7 +33,7 @@ def classify_sight(li,stay_bl):
     if re.search(r'museum|shrine|temple|garden|historic|ruins|castle|house|view|falls|gorge',s): return 'see'
     if re.search(r'hanabi|festival|matsuri|taiko|bonden|onsen|hot spring|baths|ski|experience|togei|resort|roadside station|brewery|shuzo|hiking|camp',s): return 'do'
     return 'see'
-PATCH={'fukuoka/asakura':[('<li><a href="https://www.jalan.net/yad369937/">','<li><a href="https://www.viewhotelheisei.com/">'),('<!-- sources: jalan_url=https://www.jalan.net/yad369937/ -->','<!-- sources: jalan_url=https://www.jalan.net/yad369937/ (Jalan listing suspended 2026-10-09; card links to official site) -->')]}
+PATCH={'oita/taketa':[('<li><a href="https://www.jalan.net/yad388720/">','<li><a href="https://www.suijinnomori.com/">'),('<!-- sources: jalan_url=https://www.jalan.net/yad388720/ -->','<!-- sources: jalan_url=https://www.jalan.net/yad388720/ (Jalan listing suspended 2026-10-09; card links to official site) -->')],'fukuoka/asakura':[('<li><a href="https://www.jalan.net/yad369937/">','<li><a href="https://www.viewhotelheisei.com/">'),('<!-- sources: jalan_url=https://www.jalan.net/yad369937/ -->','<!-- sources: jalan_url=https://www.jalan.net/yad369937/ (Jalan listing suspended 2026-10-09; card links to official site) -->')]}
 NOPH=[]; FIXLOG=[]; SUMMARY={}; TOT=collections.Counter()
 def photofix(key,src,cards,res):
     m=re.search(r'(<h2>Dining</h2><ul class="place-list">)(.*?)(</ul>)',src,re.S)
