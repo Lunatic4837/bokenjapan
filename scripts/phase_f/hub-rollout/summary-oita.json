@@ -1,0 +1,524 @@
+{
+ "oita/beppu": {
+  "sections": {
+   "stay": 30,
+   "eat": 72,
+   "do": 21,
+   "see": 54,
+   "daily": 0
+  },
+  "eat": {
+   "Japanese (seafood)": 11,
+   "Japanese (meat)": 16,
+   "Japanese (noodles)": 1,
+   "European": 4,
+   "Cafe": 4,
+   "Casual": 3,
+   "Chinese & Asian": 1,
+   "Izakaya & bars": 16,
+   "Sweets & bakeries": 1,
+   "Other Japanese": 10,
+   "Other": 5
+  },
+  "photo": {
+   "correct": 71,
+   "no-photo": 1
+  },
+  "dup_stay": [
+   "Suginoi Hotel Aqua Beat (Beppu Onsen)",
+   "Suginoi Hotel"
+  ]
+ },
+ "oita/bungoono": {
+  "sections": {
+   "stay": 3,
+   "eat": 89,
+   "do": 6,
+   "see": 60,
+   "daily": 0
+  },
+  "eat": {
+   "Japanese (seafood)": 4,
+   "Japanese (meat)": 9,
+   "Japanese (noodles)": 4,
+   "European": 2,
+   "Cafe": 3,
+   "Curry": 1,
+   "Casual": 15,
+   "Chinese & Asian": 3,
+   "Izakaya & bars": 1,
+   "Sweets & bakeries": 13,
+   "Other Japanese": 16,
+   "Other": 18
+  },
+  "photo": {
+   "correct": 74,
+   "no-photo": 14,
+   "moved": 1
+  },
+  "dup_stay": []
+ },
+ "oita/bungotakada": {
+  "sections": {
+   "stay": 10,
+   "eat": 218,
+   "do": 6,
+   "see": 37,
+   "daily": 4
+  },
+  "eat": {
+   "Japanese (seafood)": 18,
+   "Japanese (meat)": 17,
+   "Japanese (noodles)": 19,
+   "European": 10,
+   "Cafe": 23,
+   "Curry": 3,
+   "Casual": 16,
+   "Chinese & Asian": 7,
+   "Izakaya & bars": 12,
+   "Sweets & bakeries": 24,
+   "Other Japanese": 33,
+   "Other": 36
+  },
+  "photo": {
+   "correct": 32,
+   "removed": 11,
+   "moved": 99,
+   "kept-unverified": 2,
+   "no-photo": 77
+  },
+  "dup_stay": []
+ },
+ "oita/hiji": {
+  "sections": {
+   "stay": 6,
+   "eat": 198,
+   "do": 1,
+   "see": 36,
+   "daily": 5
+  },
+  "eat": {
+   "Japanese (seafood)": 4,
+   "Japanese (meat)": 22,
+   "Japanese (noodles)": 9,
+   "European": 10,
+   "Cafe": 21,
+   "Curry": 1,
+   "Casual": 27,
+   "Chinese & Asian": 8,
+   "Izakaya & bars": 14,
+   "Sweets & bakeries": 16,
+   "Other Japanese": 32,
+   "Other": 34
+  },
+  "photo": {
+   "correct": 47,
+   "removed": 10,
+   "moved": 81,
+   "no-photo": 57,
+   "kept-unverified": 5
+  },
+  "dup_stay": [
+   "Hotel & Resorts BEPPUWAN",
+   "Hotel Soraju Oita Hiji"
+  ]
+ },
+ "oita/himeshima": {
+  "sections": {
+   "stay": 1,
+   "eat": 18,
+   "do": 2,
+   "see": 26,
+   "daily": 2
+  },
+  "eat": {
+   "Japanese (seafood)": 3,
+   "Japanese (meat)": 2,
+   "Casual": 1,
+   "Izakaya & bars": 1,
+   "Sweets & bakeries": 2,
+   "Other Japanese": 5,
+   "Other": 4
+  },
+  "photo": {
+   "no-photo": 9,
+   "correct": 10,
+   "kept-unverified": 1
+  },
+  "dup_stay": []
+ },
+ "oita/hita": {
+  "sections": {
+   "stay": 26,
+   "eat": 70,
+   "do": 20,
+   "see": 58,
+   "daily": 2
+  },
+  "eat": {
+   "Japanese (seafood)": 4,
+   "Japanese (meat)": 6,
+   "Japanese (noodles)": 5,
+   "Cafe": 6,
+   "Casual": 7,
+   "Chinese & Asian": 2,
+   "Izakaya & bars": 13,
+   "Sweets & bakeries": 10,
+   "Other Japanese": 8,
+   "Other": 9
+  },
+  "photo": {
+   "correct": 66,
+   "no-photo": 5
+  },
+  "dup_stay": [
+   "Shokyoto Baths Mikuma Hotel",
+   "Hita Onsen Kameyama Tei Hotel",
+   "Hotel&Restaurant KIZAN Kurabu"
+  ]
+ },
+ "oita/kitsuki": {
+  "sections": {
+   "stay": 4,
+   "eat": 187,
+   "do": 5,
+   "see": 40,
+   "daily": 5
+  },
+  "eat": {
+   "Japanese (seafood)": 9,
+   "Japanese (meat)": 15,
+   "Japanese (noodles)": 9,
+   "European": 10,
+   "Cafe": 23,
+   "Curry": 3,
+   "Casual": 25,
+   "Chinese & Asian": 8,
+   "Izakaya & bars": 12,
+   "Sweets & bakeries": 16,
+   "Other Japanese": 27,
+   "Other": 30
+  },
+  "photo": {
+   "correct": 29,
+   "removed": 9,
+   "moved": 83,
+   "no-photo": 69,
+   "kept-unverified": 1
+  },
+  "dup_stay": []
+ },
+ "oita/kokonoe": {
+  "sections": {
+   "stay": 27,
+   "eat": 74,
+   "do": 26,
+   "see": 38,
+   "daily": 0
+  },
+  "eat": {
+   "Japanese (seafood)": 2,
+   "Japanese (meat)": 3,
+   "Japanese (noodles)": 5,
+   "European": 4,
+   "Cafe": 9,
+   "Casual": 9,
+   "Izakaya & bars": 2,
+   "Sweets & bakeries": 3,
+   "Other Japanese": 23,
+   "Other": 14
+  },
+  "photo": {
+   "correct": 63,
+   "no-photo": 8,
+   "kept-unverified": 3
+  },
+  "dup_stay": [
+   "Kokonoe Iyashi Village Hotel Dai Highlands",
+   "Kokonoe Kanko Hotel",
+   "Kokonoe Hoshi Nama Hotel",
+   "Hosen Jikan Hikari Hotel Yumoto Ya"
+  ]
+ },
+ "oita/kunisaki": {
+  "sections": {
+   "stay": 12,
+   "eat": 82,
+   "do": 7,
+   "see": 46,
+   "daily": 5
+  },
+  "eat": {
+   "Japanese (seafood)": 11,
+   "Japanese (meat)": 5,
+   "Japanese (noodles)": 5,
+   "European": 1,
+   "Cafe": 8,
+   "Casual": 5,
+   "Izakaya & bars": 6,
+   "Sweets & bakeries": 9,
+   "Other Japanese": 19,
+   "Other": 13
+  },
+  "photo": {
+   "correct": 70,
+   "no-photo": 13,
+   "kept-unverified": 3
+  },
+  "dup_stay": []
+ },
+ "oita/kusu": {
+  "sections": {
+   "stay": 3,
+   "eat": 94,
+   "do": 8,
+   "see": 27,
+   "daily": 0
+  },
+  "eat": {
+   "Japanese (seafood)": 2,
+   "Japanese (meat)": 10,
+   "Japanese (noodles)": 6,
+   "European": 1,
+   "Cafe": 9,
+   "Curry": 1,
+   "Casual": 9,
+   "Chinese & Asian": 2,
+   "Izakaya & bars": 5,
+   "Sweets & bakeries": 9,
+   "Other Japanese": 23,
+   "Other": 17
+  },
+  "photo": {
+   "no-photo": 31,
+   "correct": 58,
+   "kept-unverified": 1,
+   "moved": 4
+  },
+  "dup_stay": [
+   "Yamada Onsen Bijinesu Hotel Yamada"
+  ]
+ },
+ "oita/nakatsu": {
+  "sections": {
+   "stay": 11,
+   "eat": 68,
+   "do": 12,
+   "see": 41,
+   "daily": 2
+  },
+  "eat": {
+   "Japanese (seafood)": 3,
+   "Japanese (meat)": 11,
+   "Japanese (noodles)": 5,
+   "European": 3,
+   "Cafe": 7,
+   "Curry": 3,
+   "Casual": 5,
+   "Chinese & Asian": 3,
+   "Izakaya & bars": 14,
+   "Sweets & bakeries": 3,
+   "Other Japanese": 9,
+   "Other": 2
+  },
+  "photo": {
+   "correct": 63,
+   "no-photo": 4,
+   "kept-unverified": 1
+  },
+  "dup_stay": []
+ },
+ "oita/oita": {
+  "sections": {
+   "stay": 30,
+   "eat": 93,
+   "do": 17,
+   "see": 50,
+   "daily": 1
+  },
+  "eat": {
+   "Japanese (seafood)": 13,
+   "Japanese (meat)": 14,
+   "European": 6,
+   "Chinese & Asian": 4,
+   "Izakaya & bars": 28,
+   "Other Japanese": 24,
+   "Other": 4
+  },
+  "photo": {
+   "correct": 89,
+   "kept-unverified": 2,
+   "no-photo": 2
+  },
+  "dup_stay": [
+   "Hotel Topazu Dai Zai Ekimae Ogyoku Baths",
+   "Hyakujusai Baths (Nyuguroria Hotel Nai)",
+   "Oita Kyasei Hotel Onsen",
+   "Tennen Onsen Gensen Kake Nagashi no Yado Tsurusaki Hotel",
+   "Kanaike Onsen (Hotel Kudo Oita Nai)"
+  ]
+ },
+ "oita/saiki": {
+  "sections": {
+   "stay": 8,
+   "eat": 70,
+   "do": 9,
+   "see": 87,
+   "daily": 3
+  },
+  "eat": {
+   "Japanese (seafood)": 13,
+   "Japanese (meat)": 9,
+   "Japanese (noodles)": 5,
+   "European": 2,
+   "Cafe": 5,
+   "Casual": 6,
+   "Izakaya & bars": 10,
+   "Sweets & bakeries": 10,
+   "Other Japanese": 6,
+   "Other": 4
+  },
+  "photo": {
+   "correct": 58,
+   "no-photo": 12
+  },
+  "dup_stay": []
+ },
+ "oita/taketa": {
+  "sections": {
+   "stay": 30,
+   "eat": 59,
+   "do": 19,
+   "see": 91,
+   "daily": 0
+  },
+  "eat": {
+   "Japanese (meat)": 5,
+   "Japanese (noodles)": 4,
+   "European": 4,
+   "Cafe": 13,
+   "Casual": 10,
+   "Izakaya & bars": 4,
+   "Sweets & bakeries": 7,
+   "Other Japanese": 8,
+   "Other": 4
+  },
+  "photo": {
+   "correct": 52,
+   "no-photo": 6,
+   "kept-unverified": 1
+  },
+  "dup_stay": []
+ },
+ "oita/tsukumi": {
+  "sections": {
+   "stay": 2,
+   "eat": 70,
+   "do": 0,
+   "see": 18,
+   "daily": 2
+  },
+  "eat": {
+   "Japanese (seafood)": 11,
+   "Japanese (meat)": 7,
+   "Japanese (noodles)": 1,
+   "Cafe": 9,
+   "Casual": 10,
+   "Chinese & Asian": 2,
+   "Izakaya & bars": 4,
+   "Sweets & bakeries": 8,
+   "Other Japanese": 10,
+   "Other": 8
+  },
+  "photo": {
+   "correct": 48,
+   "no-photo": 22,
+   "kept-unverified": 1
+  },
+  "dup_stay": []
+ },
+ "oita/usa": {
+  "sections": {
+   "stay": 11,
+   "eat": 70,
+   "do": 10,
+   "see": 56,
+   "daily": 2
+  },
+  "eat": {
+   "Japanese (seafood)": 1,
+   "Japanese (meat)": 6,
+   "Japanese (noodles)": 4,
+   "European": 1,
+   "Cafe": 8,
+   "Curry": 2,
+   "Casual": 10,
+   "Chinese & Asian": 3,
+   "Izakaya & bars": 3,
+   "Sweets & bakeries": 10,
+   "Other Japanese": 11,
+   "Other": 11
+  },
+  "photo": {
+   "correct": 61,
+   "no-photo": 10
+  },
+  "dup_stay": []
+ },
+ "oita/usuki": {
+  "sections": {
+   "stay": 7,
+   "eat": 68,
+   "do": 1,
+   "see": 54,
+   "daily": 2
+  },
+  "eat": {
+   "Japanese (seafood)": 9,
+   "Japanese (meat)": 2,
+   "Japanese (noodles)": 2,
+   "European": 4,
+   "Cafe": 8,
+   "Curry": 2,
+   "Casual": 6,
+   "Chinese & Asian": 2,
+   "Izakaya & bars": 3,
+   "Sweets & bakeries": 12,
+   "Other Japanese": 13,
+   "Other": 5
+  },
+  "photo": {
+   "correct": 56,
+   "no-photo": 13,
+   "kept-unverified": 1
+  },
+  "dup_stay": []
+ },
+ "oita/yufu": {
+  "sections": {
+   "stay": 34,
+   "eat": 58,
+   "do": 11,
+   "see": 45,
+   "daily": 1
+  },
+  "eat": {
+   "Japanese (seafood)": 3,
+   "Japanese (meat)": 6,
+   "Japanese (noodles)": 3,
+   "European": 2,
+   "Cafe": 14,
+   "Casual": 4,
+   "Chinese & Asian": 1,
+   "Izakaya & bars": 1,
+   "Sweets & bakeries": 7,
+   "Other Japanese": 11,
+   "Other": 6
+  },
+  "photo": {
+   "correct": 48,
+   "no-photo": 10
+  },
+  "dup_stay": []
+ }
+}
