@@ -1,0 +1,2381 @@
+page,rank,name,genre,ta,category,basis,primary
+yamaguchi/abu,1,千代丸食堂,食堂,,casual,tb,True
+yamaguchi/abu,2,道の駅 阿武町,道の駅,,other,none,False
+yamaguchi/abu,3,SUNbashi CAFE,カフェ,,cafe,tb,True
+yamaguchi/abu,4,みなと食堂 ふなだまり,海鮮,,seafood,tb,True
+yamaguchi/abu,5,ラパン,ジェラート・アイスクリーム,,sweets,tb,True
+yamaguchi/abu,6,８４６総本店,たい焼き・大判焼き,,sweets,tb,True
+yamaguchi/abu,7,サンマート 奈古店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/abu,8,ポ・ヤシロ 道の駅阿武町店,ケーキ、洋菓子,,sweets,tb,True
+yamaguchi/abu,9,あんな堂,パン,,sweets,tb,True
+yamaguchi/abu,10,阿武町酒場,居酒屋,,izakaya,tb,True
+yamaguchi/abu,11,うぉっちゃ食堂,海鮮,,seafood,tb,True
+yamaguchi/abu,12,たこ元,たこ焼き、かき氷、ジェラート・アイスクリーム,,casual,tb,True
+yamaguchi/abu,13,福の里直売所,売店,,casual,tb,True
+yamaguchi/abu,14,Yashiro,,,other,none,False
+yamaguchi/abu,15,Dining Cafe 846,,Japanese - Other ,japanese,ta,True
+yamaguchi/abu,16,Kadono Yashiro,,,other,none,False
+yamaguchi/abu,17,Chippora Shokudo,,Japanese - Other ,japanese,ta,True
+yamaguchi/abu,18,Ono Riyotei,,Japanese;Japanese - Traditional Cuisine,japanese,ta,True
+yamaguchi/abu,19,Chikusen,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/hagi,1,吉田町まる。,居酒屋,,izakaya,tb,True
+yamaguchi/hagi,2,レストランまつおか,フレンチ、ステーキ、ハンバーグ,,european,tb,True
+yamaguchi/hagi,3,ブラッセリー ラボ,ビストロ,,european,tb,True
+yamaguchi/hagi,4,サランポチャ,韓国料理,,chinese,tb,True
+yamaguchi/hagi,5,魚民 萩店,居酒屋、海鮮、創作料理,,izakaya,tb,True
+yamaguchi/hagi,6,旺鑫閣,中華料理,,chinese,tb,True
+yamaguchi/hagi,7,網焼レストラン 見蘭,焼肉、ステーキ,,meat,tb,True
+yamaguchi/hagi,8,牛角 萩店,焼肉、韓国料理、ホルモン,,meat,tb,True
+yamaguchi/hagi,9,はた満,ラーメン、ちゃんぽん,,noodles,tb,True
+yamaguchi/hagi,10,めしや ぶち,居酒屋,,izakaya,tb,True
+yamaguchi/hagi,11,萩心海,海鮮,,seafood,tb,True
+yamaguchi/hagi,12,たまがわ食堂,食堂,,casual,tb,True
+yamaguchi/hagi,13,光國本店,和菓子,,sweets,tb,True
+yamaguchi/hagi,14,ふみ,日本料理,,japanese,tb,True
+yamaguchi/hagi,15,牛ちゃん,焼肉,,meat,tb,True
+yamaguchi/hagi,16,どんどん 土原店,うどん、かつ丼,,noodles,tb,True
+yamaguchi/hagi,17,ナチュラル オリエンテッドホーム ラ・セイバ,カフェ、オーガニック、バー,,cafe,tb,True
+yamaguchi/hagi,18,JAファーマーズマーケット ふれあいらんど萩,その他,,other,none,False
+yamaguchi/hagi,19,そらいろ菓子店,洋菓子,,sweets,tb,True
+yamaguchi/hagi,20,小川蜜カス本舗 サンリブ萩店,和菓子,,sweets,tb,True
+yamaguchi/hagi,21,めんくい,ラーメン,,noodles,tb,True
+yamaguchi/hagi,22,蕎麦＆カフェ　燈里,そば,,noodles,tb,True
+yamaguchi/hagi,23,手打ち蕎麦 さるのこしかけ,そば,,noodles,tb,True
+yamaguchi/hagi,24,つわぶきの館,その他,,other,none,False
+yamaguchi/hagi,25,海鮮食道 十八番,居酒屋、海鮮,,izakaya,tb,True
+yamaguchi/hagi,26,広島お好み焼き 萩侍,お好み焼き、居酒屋、鉄板焼き,,casual,tb,True
+yamaguchi/hagi,27,おっちゃん,お好み焼き,,casual,tb,True
+yamaguchi/hagi,28,友楽鳥,焼き鳥,,meat,tb,True
+yamaguchi/hagi,29,あんのけんそーカレー部,カレー,,curry,tb,True
+yamaguchi/hagi,30,こまち,スイーツ、日本酒バー、焼酎バー,,sweets,tb,True
+yamaguchi/hagi,31,御食事処 わらじ,郷土料理,,japanese,tb,True
+yamaguchi/hagi,32,道の駅あさひ,道の駅,,other,none,False
+yamaguchi/hagi,33,いかマルシェ スサノモノミトコ館,その他,,other,none,False
+yamaguchi/hagi,34,ガスト 萩店,ファミレス,,casual,tb,True
+yamaguchi/hagi,35,渡辺コレクション,喫茶店,,cafe,tb,True
+yamaguchi/hagi,36,PUB H&L,パブ,,izakaya,tb,True
+yamaguchi/hagi,37,あんず,甘味処,,sweets,tb,True
+yamaguchi/hagi,38,ハピネスふくえ,麺類、かつ丼,,noodles,tb,True
+yamaguchi/hagi,39,ノーサイド,ダイニングバー,,izakaya,tb,True
+yamaguchi/hagi,40,味酔,日本料理,,japanese,tb,True
+yamaguchi/hagi,41,カフェ ぶらり,カフェ,,cafe,tb,True
+yamaguchi/hagi,42,指月弁当,日本料理、喫茶店、レストラン,,japanese,tb,True
+yamaguchi/hagi,43,穂の花,レストラン,,other,none,False
+yamaguchi/hagi,44,海鳴りベーカリー 仕立,パン,,sweets,tb,True
+yamaguchi/hagi,45,レストラン 萩暦,日本料理、カフェ、カレー,,japanese,tb,True
+yamaguchi/hagi,46,アトラス 萩店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/hagi,47,喫茶なないろ,喫茶店、カフェ,,cafe,tb,True
+yamaguchi/hagi,48,えんのした,喫茶店、カフェ,,cafe,tb,True
+yamaguchi/hagi,49,むらやカフェ,カフェ,,cafe,tb,True
+yamaguchi/hagi,50,うまいもん処 ただいま 道の駅田万川店,ラーメン,,noodles,tb,True
+yamaguchi/hagi,51,むつみ キッチンばぁ～ば,食堂、とんかつ、洋菓子,,casual,tb,True
+yamaguchi/hagi,52,河忠,日本料理,,japanese,tb,True
+yamaguchi/hagi,53,たぬき,うどん,,noodles,tb,True
+yamaguchi/hagi,54,ジョイフル 萩店,ファミレス,,casual,tb,True
+yamaguchi/hagi,55,村田蒲鉾 総本店,その他,,other,none,False
+yamaguchi/hagi,56,Kunelplus,ピザ、カフェ,,european,tb,True
+yamaguchi/hagi,57,天草,日本料理,,japanese,tb,True
+yamaguchi/hagi,58,Tangotei,,Japanese;Seafood;Japanese - Other ,seafood,ta,True
+yamaguchi/hagi,59,Hagishinkai,,Japanese;Seafood,seafood,ta,True
+yamaguchi/hagi,60,Dondon,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/hagi,61,Michi No Eki Hagi Shimato Ishin Tei,,Japanese,japanese,ta,True
+yamaguchi/hagi,62,Umenoha,,Japanese;Seafood;Japanese - Other ,seafood,ta,True
+yamaguchi/hagi,63,MARU,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/hagi,64,Isoman,,Seafood,seafood,ta,True
+yamaguchi/hagi,65,Hagi Museum Restaurant,,Japanese,japanese,ta,True
+yamaguchi/hagi,66,Kotokoto,,Cafe,cafe,ta,True
+yamaguchi/hagi,67,Seafood Restaurant Gangan,,Japanese;Seafood,seafood,ta,True
+yamaguchi/hagi,68,Kimono Style Cafe,,Cafe,cafe,ta,True
+yamaguchi/hagi,69,Dining Mameta,,Japanese;Japanese - Traditional Cuisine;Japanese Fusion,japanese,ta,True
+yamaguchi/hagi,70,Kafeteriaijinkan,,Cafe,cafe,ta,True
+yamaguchi/hagi,71,Kokura,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/hagi,72,Hotoritei,,Cafe,cafe,ta,True
+yamaguchi/hagi,73,Restaurant Kihagi,,Seafood,seafood,ta,True
+yamaguchi/hagi,74,Kappo Chiyo,,Japanese;Kappo,japanese,ta,True
+yamaguchi/hagi,75,Hataman,,,other,none,False
+yamaguchi/hagi,76,Asukatei Hagi,,Japanese,japanese,ta,True
+yamaguchi/hagi,77,Ajiro,,Seafood,seafood,ta,True
+yamaguchi/hagi,78,Kenran Gyu Dining Gen,,International;Grill;Contemporary,meat,desc,False
+yamaguchi/hagi,79,Sobaho Fujitaya,,,other,none,False
+yamaguchi/hagi,80,Amigo,,Japanese,japanese,ta,True
+yamaguchi/hagi,81,Asahi Michino Eki,,Japanese,japanese,ta,True
+yamaguchi/hagi,82,La Ceiba,,,other,none,False
+yamaguchi/hikari,1,肉屋の炭火焼肉 和平 光店,焼肉、ホルモン、居酒屋,,meat,tb,True
+yamaguchi/hikari,2,西京酒場 萬天 光店,居酒屋,,izakaya,tb,True
+yamaguchi/hikari,3,レス・ピ・レ,日本料理、洋食、カフェ,,japanese,tb,True
+yamaguchi/hikari,4,焼肉 博東苑,焼肉,,meat,tb,True
+yamaguchi/hikari,5,LAWSON 光島田1丁目店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/hikari,6,OHANA,たこ焼き、ソフトクリーム,,casual,tb,True
+yamaguchi/hikari,7,ウッドペッカー,喫茶店、食堂,,cafe,tb,True
+yamaguchi/hikari,8,どさん子 光店,ラーメン,,noodles,tb,True
+yamaguchi/hikari,9,@カフェ,カフェ,,cafe,tb,True
+yamaguchi/hikari,10,中華そば めんいち,ラーメン,,noodles,tb,True
+yamaguchi/hikari,11,喫茶&軽食 陽だまり,喫茶店、カフェ,,cafe,tb,True
+yamaguchi/hikari,12,ninon,洋菓子、ケーキ,,sweets,tb,True
+yamaguchi/hikari,13,ほっともっと 光駅前店,弁当,,casual,tb,True
+yamaguchi/hikari,14,とんかつ K屋,とんかつ,,meat,tb,True
+yamaguchi/hikari,15,シェ・ヒロダン,ケーキ,,sweets,tb,True
+yamaguchi/hikari,16,居酒屋 酒仙洞,居酒屋,,izakaya,tb,True
+yamaguchi/hikari,17,old days,コーヒースタンド,,cafe,tb,True
+yamaguchi/hikari,18,りんごの森,カフェ,,cafe,tb,True
+yamaguchi/hikari,19,Ligar,スペイン料理、その他,,european,tb,True
+yamaguchi/hikari,20,焼肉　源,焼肉,,meat,tb,True
+yamaguchi/hikari,21,光月堂,和菓子,,sweets,tb,True
+yamaguchi/hikari,22,ステーキマッチョ 光店,ステーキ、ハンバーグ,,meat,tb,True
+yamaguchi/hikari,23,セブンイレブン 光市光井6丁目店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/hikari,24,立道,しゃぶしゃぶ,,meat,tb,True
+yamaguchi/hikari,25,二十番地,喫茶店,,cafe,tb,True
+yamaguchi/hikari,26,スシロー 光浅江店,回転寿司,,seafood,tb,True
+yamaguchi/hikari,27,結堂 ミキカフェ,カフェ,,cafe,tb,True
+yamaguchi/hikari,28,ほっともっと 光井店,弁当,,casual,tb,True
+yamaguchi/hikari,29,あすなろ,日本料理,,japanese,tb,True
+yamaguchi/hikari,30,纏 虹ヶ浜店,サンドイッチ,,sweets,tb,True
+yamaguchi/hikari,31,炭火串焼き　縁,居酒屋、焼き鳥,,izakaya,tb,True
+yamaguchi/hikari,32,ツナグ+,弁当,,casual,tb,True
+yamaguchi/hikari,33,メリメロ,パン、カフェ、洋菓子,,sweets,tb,True
+yamaguchi/hikari,34,風鈴亭 金魚,カフェ、食堂,,cafe,tb,True
+yamaguchi/hikari,35,くるみの樹,ケーキ,,sweets,tb,True
+yamaguchi/hikari,36,cafe &居酒屋yon,居酒屋,,izakaya,tb,True
+yamaguchi/hikari,37,石焼ダイニング満月,ダイニングバー,,izakaya,tb,True
+yamaguchi/hikari,38,イオン 光店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/hikari,39,ごはん家 久庵,日本料理,,japanese,tb,True
+yamaguchi/hikari,40,ANEL,カフェ、パスタ、バー,,cafe,tb,True
+yamaguchi/hikari,41,鼓,日本料理,,japanese,tb,True
+yamaguchi/hikari,42,つけ麺 じっちゃん,つけ麺,,noodles,tb,True
+yamaguchi/hikari,43,晴ればれ,居酒屋,,izakaya,tb,True
+yamaguchi/hikari,44,はせ川,日本料理、寿司,,japanese,tb,True
+yamaguchi/hikari,45,手打ちそば 川せみ,そば、天ぷら、日本料理,,noodles,tb,True
+yamaguchi/hikari,46,おかぱん,パン,,sweets,tb,True
+yamaguchi/hikari,47,MY SPOT,カフェ,,cafe,tb,True
+yamaguchi/hikari,48,虹川レストラン,日本料理,,japanese,tb,True
+yamaguchi/hikari,49,ほっともっと 光島田店,弁当,,casual,tb,True
+yamaguchi/hikari,50,La Cucinetta J,イタリアン,,european,tb,True
+yamaguchi/hikari,51,マクドナルド 虹ケ浜店,ハンバーガー,,casual,tb,True
+yamaguchi/hikari,52,十五万石 三井店,ラーメン、食堂、弁当,,noodles,tb,True
+yamaguchi/hikari,53,七輪焼ホルモンえび壽,焼肉、ホルモン、もつ鍋,,meat,tb,True
+yamaguchi/hikari,54,寿食堂,食堂,,casual,tb,True
+yamaguchi/hikari,55,NeiGe 光店,マカロン、スイーツ,,sweets,tb,False
+yamaguchi/hikari,56,ノウカショウヒンテン,その他,,other,none,False
+yamaguchi/hikari,57,ホテル光ヒルズ,ホテル,,other,none,False
+yamaguchi/hikari,58,お食事処 つかりの里,惣菜・デリ、弁当,,casual,tb,True
+yamaguchi/hikari,59,Chidori Dining Hikari,,International;Fusion,other,none,False
+yamaguchi/hikari,60,Hotto Motto Mitsui,,Japanese,japanese,ta,True
+yamaguchi/hikari,61,Droguerie Ikeoka,,Cafe,cafe,ta,True
+yamaguchi/hikari,62,Donq,,Cafe,cafe,ta,True
+yamaguchi/hikari,63,Menichi,,,other,none,False
+yamaguchi/hikari,64,Boat House Cafe,,Italian,european,ta,True
+yamaguchi/hikari,65,Joyfull,,International,other,none,False
+yamaguchi/hikari,66,Jolly Pasta Hikari,,Italian,european,ta,True
+yamaguchi/hikari,67,Hotel 23 Shoku Ing Bar Kashiko,,Pub;Gastropub;Dining bars,izakaya,ta,True
+yamaguchi/hikari,68,Keika Sabo,,Fusion,other,none,False
+yamaguchi/hikari,69,Kuti,,,other,none,False
+yamaguchi/hikari,70,Curry House CoCo Ichibanya Hikari Asae,,Fast Food,casual,ta,True
+yamaguchi/hikari,71,Osamuraiteahouse Hikoemon Hikari,,Japanese;Cafe;International;Japanese - Other ,cafe,ta,True
+yamaguchi/hikari,72,小蜂,,Japanese;Seafood;Sushi;Japanese - Other ,seafood,ta,True
+yamaguchi/hikari,73,Joyfull,,International,other,none,False
+yamaguchi/hikari,74,Hikari Eki Udon Shop,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/hikari,75,Tonkatsu K Ya,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/hikari,76,Kaishokan,,,other,none,False
+yamaguchi/hikari,77,Kinako Cafe,,Cafe,cafe,ta,True
+yamaguchi/hikari,78,Ebi Kotobuki Shichirinyaki Horumon,,Japanese,japanese,ta,True
+yamaguchi/hikari,79,Izakaya Harebare,,Japanese,japanese,ta,True
+yamaguchi/hikari,80,Jugomangoku Mitsui,,,other,none,False
+yamaguchi/hikari,81,Yamagoya Hikari,,,other,none,False
+yamaguchi/hikari,82,ささ乃や,,Japanese;Fusion;Japanese - Other ;Japanese Fusion,japanese,ta,True
+yamaguchi/hikari,83,Taiwan Cuisine Fukuryukaku Hikari,,Taiwanese,other,none,False
+yamaguchi/hikari,84,Mori no Zosuiyasan,,Japanese;Fusion;Japanese - Other ,japanese,ta,True
+yamaguchi/hikari,85,Hotto Motto Hikari Ekimae,,Japanese,japanese,ta,True
+yamaguchi/hikari,86,どんどん光店,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/hikari,87,Chinese Noodle Hanahana,,Chinese;Japanese,chinese,ta,True
+yamaguchi/hirao,1,うどんの釜屋 平生店,うどん、そば,,noodles,tb,True
+yamaguchi/hirao,2,麺鮮醤油房 周月 山口平生店,つけ麺、ラーメン,,noodles,tb,True
+yamaguchi/hirao,3,ブーランジェリー miki,パン、洋菓子、サンドイッチ,,sweets,tb,True
+yamaguchi/hirao,4,8cafe,カフェ,,cafe,tb,True
+yamaguchi/hirao,5,焼肉・ホルモン 冨まる  平生店,焼肉、ホルモン,,meat,tb,True
+yamaguchi/hirao,6,オーベルジュ,パスタ、カレー、洋食,,european,tb,True
+yamaguchi/hirao,7,久保製パン所,パン,,sweets,tb,True
+yamaguchi/hirao,8,居酒屋 EN,居酒屋,,izakaya,tb,True
+yamaguchi/hirao,9,Imagine West Ocean,その他,,other,none,False
+yamaguchi/hirao,10,お好み焼美里,お好み焼き,,casual,tb,True
+yamaguchi/hirao,11,cafe bower,カフェ,,cafe,tb,True
+yamaguchi/hirao,12,すし日和 平生店,回転寿司,,seafood,tb,True
+yamaguchi/hirao,13,一福来,ラーメン,,noodles,tb,True
+yamaguchi/hirao,14,丸山海浜パーク 売店,丼,,casual,tb,True
+yamaguchi/hirao,15,La paix,ビストロ,,european,tb,True
+yamaguchi/hirao,16,一膳,食堂、居酒屋,,casual,tb,True
+yamaguchi/hirao,17,さんさん食堂 平生店,食堂,,casual,tb,True
+yamaguchi/hirao,18,ミーカフェ,カフェ,,cafe,tb,True
+yamaguchi/hirao,19,ピザ アオゾラ,イタリアン,,european,tb,True
+yamaguchi/hirao,20,ジョイフル 山口平生店,ファミレス,,casual,tb,True
+yamaguchi/hirao,21,めん六や 山口平生店,食堂,,casual,tb,True
+yamaguchi/hirao,22,カラオケ喫茶 華,カフェ、喫茶店,,cafe,tb,True
+yamaguchi/hirao,23,果子乃季 平生店,和菓子,,sweets,tb,True
+yamaguchi/hirao,24,菓舗よこみち 平生店,和菓子、ケーキ,,sweets,tb,True
+yamaguchi/hirao,25,ほっともっと 山口平生町店,弁当,,casual,tb,True
+yamaguchi/hirao,26,㐂むらら,カフェ、どら焼き,,cafe,tb,True
+yamaguchi/hirao,27,宝珠,日本料理,,japanese,tb,True
+yamaguchi/hirao,28,カラオケ喫茶 艶歌路,カフェ,,cafe,tb,True
+yamaguchi/hirao,29,カラオケ喫茶レモン,喫茶店,,cafe,tb,True
+yamaguchi/hirao,30,カラオケ太陽,カラオケ,,izakaya,tb,True
+yamaguchi/hirao,31,マックスバリュ 平生東店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/hirao,32,cafe&bar rocco,バー,,izakaya,tb,True
+yamaguchi/hirao,33,アルク 平生店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/hirao,34,Joyfull,,International,other,none,False
+yamaguchi/hirao,35,Kamaya Hirao,,,other,none,False
+yamaguchi/hirao,36,Oshokujidokoro Furusato No Hikari Haradaya,,,other,none,False
+yamaguchi/hirao,37,Fukujuen,,Barbecue,meat,ta,True
+yamaguchi/hirao,38,Tomimaru Hirao,,Japanese,japanese,ta,True
+yamaguchi/hirao,39,Kirara,,International,other,none,False
+yamaguchi/hirao,40,Shobu,,Japanese;Seafood;Sushi;Japanese - Other ,seafood,ta,True
+yamaguchi/hirao,41,れーがん,,Fusion,other,none,False
+yamaguchi/hirao,42,Pizza Aozora,,Italian;Pizza,european,ta,True
+yamaguchi/hirao,43,Fujita Restaurant,,Japanese,japanese,ta,True
+yamaguchi/hirao,44,Coffee Yaro,,Cafe,cafe,ta,True
+yamaguchi/hirao,45,Ippuku,,,other,none,False
+yamaguchi/hirao,46,ひろみ食堂,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/hirao,47,Cafe Room Kazu,,Cafe,cafe,ta,True
+yamaguchi/hirao,48,Takechan,,Asian,chinese,ta,True
+yamaguchi/hirao,49,シーサイドホテル上関,,,other,none,False
+yamaguchi/hirao,50,龍景閣,,Japanese;Japanese - Traditional Cuisine;Kaiseki,japanese,ta,True
+yamaguchi/hirao,51,Roman,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/hirao,52,Sanuki Udon Kamahachi Hirao,,,other,none,False
+yamaguchi/hirao,53,Teru Chan,,,other,none,False
+yamaguchi/hirao,54,Tomo,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/hirao,55,Montreux Hirao,,,other,none,False
+yamaguchi/hirao,56,Shato Rest House,,,other,none,False
+yamaguchi/hofu,1,旨唐揚げと居酒メシ ミライザカ ルルサス防府店,居酒屋、焼き鳥、もつ鍋,,izakaya,tb,True
+yamaguchi/hofu,2,武蔵 防府店,居酒屋、もつ鍋、海鮮,,izakaya,tb,True
+yamaguchi/hofu,3,かっぱ寿司 防府店,回転寿司、海鮮、寿司,,seafood,tb,True
+yamaguchi/hofu,4,や台ずし 防府駅前町,居酒屋、寿司、海鮮,,izakaya,tb,True
+yamaguchi/hofu,5,SUNUKICHI,イタリアン、イノベーティブ,,european,tb,True
+yamaguchi/hofu,6,ことぶき焼肉 本店,焼肉、ホルモン、韓国料理,,meat,tb,True
+yamaguchi/hofu,7,ウミコヤ38,オイスターバー、居酒屋、海鮮,,izakaya,tb,False
+yamaguchi/hofu,8,串焼 火力,焼き鳥、串焼き、居酒屋,,meat,tb,True
+yamaguchi/hofu,9,鰻の成瀬 防府店,うなぎ,,seafood,tb,True
+yamaguchi/hofu,10,千年の宴 防府駅前店,居酒屋、海鮮、創作料理,,izakaya,tb,True
+yamaguchi/hofu,11,かみふうせん 防府港口駅前店,居酒屋、鳥料理,,izakaya,tb,True
+yamaguchi/hofu,12,イタリアン食堂　良’s,イタリアン、パスタ,,european,tb,True
+yamaguchi/hofu,13,焼肉食べ放題 うし吟,焼肉,,meat,tb,True
+yamaguchi/hofu,14,蔵々,居酒屋、海鮮、日本料理,,izakaya,tb,True
+yamaguchi/hofu,15,ここ一軒で山口県 ほまれ座 防府店,居酒屋、海鮮、郷土料理,,izakaya,tb,True
+yamaguchi/hofu,16,村さ来 防府店,居酒屋、海鮮、焼き鳥,,izakaya,tb,True
+yamaguchi/hofu,17,地鶏食堂 防府店,食堂、鳥料理,,casual,tb,True
+yamaguchi/hofu,18,来夜味,居酒屋、日本料理、ふぐ,,izakaya,tb,True
+yamaguchi/hofu,19,牛角 防府店,焼肉、韓国料理、ホルモン,,meat,tb,True
+yamaguchi/hofu,20,しゃぶしゃぶ温野菜 防府店,しゃぶしゃぶ、豚しゃぶ、すき焼き,,meat,tb,True
+yamaguchi/hofu,21,じゅうじゅう亭,焼肉,,meat,tb,True
+yamaguchi/hofu,22,さくら茶屋 鷸,居酒屋、海鮮、日本料理,,izakaya,tb,True
+yamaguchi/hofu,23,むっしゅ小五郎,ビュッフェ,,casual,tb,True
+yamaguchi/hofu,24,tacos&steak house Mola,アメリカ料理、ステーキ,,european,tb,True
+yamaguchi/hofu,25,吉野家 佐波川SA上り店,牛丼,,casual,tb,True
+yamaguchi/hofu,26,大島 防府店,ラーメン、つけ麺,,noodles,tb,True
+yamaguchi/hofu,27,食堂 きいさんねー,食堂,,casual,tb,True
+yamaguchi/hofu,28,花あそび 防府店,その他,,other,none,False
+yamaguchi/hofu,29,竹本家,うどん,,noodles,tb,True
+yamaguchi/hofu,30,FR1,ジューススタンド,,cafe,tb,True
+yamaguchi/hofu,31,みやま,ホテル,,other,none,False
+yamaguchi/hofu,32,マクドナルド イオンタウン防府店,ハンバーガー,,casual,tb,True
+yamaguchi/hofu,33,路子食事処,食堂,,casual,tb,True
+yamaguchi/hofu,34,マクドナルド 防府店,ハンバーガー,,casual,tb,True
+yamaguchi/hofu,35,ふれあいステーション ダイドウ,その他,,other,none,False
+yamaguchi/hofu,36,だるま,食堂、居酒屋、スイーツ,,casual,tb,True
+yamaguchi/hofu,37,来来亭 防府店,ラーメン、弁当、食堂,,noodles,tb,True
+yamaguchi/hofu,38,CAFE HANALINO,カフェ,,cafe,tb,True
+yamaguchi/hofu,39,スーパーセンタートライアル 防府店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/hofu,40,すき家 防府南松崎店,レストラン、牛丼,,casual,tb,False
+yamaguchi/hofu,41,はあとおむすび,おにぎり,,casual,tb,True
+yamaguchi/hofu,42,間鍋竹士のうつわを愉しむカフェギャラリー,カフェ、喫茶店,,cafe,tb,True
+yamaguchi/hofu,43,ほたみ珈琲,カフェ、喫茶店,,cafe,tb,True
+yamaguchi/hofu,44,創作料理 和,創作料理,,japanese,tb,True
+yamaguchi/hofu,45,軽食 喫茶 リバー,喫茶店、ラーメン、食堂,,cafe,tb,True
+yamaguchi/hofu,46,あけぼの,ホテル,,other,none,False
+yamaguchi/hofu,47,やよい軒 防府店,食堂,,casual,tb,True
+yamaguchi/hofu,48,リズム カフェアンドライフスタイル,カフェ、ベーグル,,cafe,tb,True
+yamaguchi/hofu,49,居酒屋アマン,カレー,,curry,tb,True
+yamaguchi/hofu,50,アルク 防府店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/hofu,51,メルシー,ケーキ、パン、カフェ,,sweets,tb,True
+yamaguchi/hofu,52,ごはん屋 あんしゃんて,食堂、居酒屋,,casual,tb,True
+yamaguchi/hofu,53,Shuklevain 防府店,パン、サンドイッチ、カフェ,,sweets,tb,True
+yamaguchi/hofu,54,ミリオーレコーヒーロースターズ ほうふけいりん店,カフェ,,cafe,tb,True
+yamaguchi/hofu,55,海匠 國近商店,その他,,other,none,False
+yamaguchi/hofu,56,モスバーガー 防府コスパ店,ハンバーガー,,casual,tb,True
+yamaguchi/hofu,57,ベルクラシック 防府,結婚式場,,other,none,False
+yamaguchi/hofu,58,江泊温泉 和の湯,その他,,other,none,False
+yamaguchi/hofu,59,清香園,焼肉、食堂,,meat,tb,True
+yamaguchi/hofu,60,毛利庭園ゴルフ倶楽部,その他,,other,none,False
+yamaguchi/hofu,61,Aji Noomotenashi Hama,,Japanese;Japanese - Traditional Cuisine,japanese,ta,True
+yamaguchi/hofu,62,Beniya,,International,other,none,False
+yamaguchi/hofu,63,Anshin Shokudou Shiosai,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/hofu,64,Nontazushi Hofu,,Japanese;Sushi,seafood,ta,True
+yamaguchi/hofu,65,Nagasawa Garden Restaurant,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/hofu,66,Sokaen,,Japanese,japanese,ta,True
+yamaguchi/hofu,67,Ika Senhonka,,Seafood;Japanese Fusion,seafood,ta,True
+yamaguchi/hofu,68,Indoryoriparata,,Indian,curry,ta,True
+yamaguchi/hofu,69,Miraizaka Rurusasu Hofu,,Brew Pub;Pub,izakaya,ta,True
+yamaguchi/hofu,70,Umi no Sachi,,Japanese;Seafood;Sushi;Japanese - Other ,seafood,ta,True
+yamaguchi/hofu,71,Dining Cafe Eight,,,other,none,False
+yamaguchi/hofu,72,Bombers Eki Minami,,Steakhouse,meat,ta,True
+yamaguchi/hofu,73,Nagasaki Chanmen Yamaguchi Bofu Ebisu,,Chinese;Japanese,chinese,ta,True
+yamaguchi/hofu,74,Etoile,,Cafe,cafe,ta,True
+yamaguchi/hofu,75,Fugudokoro Sajika,,Seafood,seafood,ta,True
+yamaguchi/hofu,76,Getsumeiteitakahashi,,Japanese;Japanese - Traditional Cuisine,japanese,ta,True
+yamaguchi/hofu,77,Umikoya38,,Seafood,seafood,ta,True
+yamaguchi/hofu,78,Italian Restaurant Rome,,Italian,european,ta,True
+yamaguchi/hofu,79,Dorufin,,Seafood,seafood,ta,True
+yamaguchi/hofu,80,Miya no Soba Usagiya,,,other,none,False
+yamaguchi/hofu,81,Italian Shokudo Ryo s,,Italian,european,ta,True
+yamaguchi/hofu,82,Tenjin nakatani,,Japanese;Kappo,japanese,ta,True
+yamaguchi/hofu,83,Pan Shokunin Hutabaya,,,other,none,False
+yamaguchi/hofu,84,Kodawaritonkatsu Icho Hofu,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/hofu,85,Yakiniku Juju tei,,Barbecue,meat,ta,True
+yamaguchi/hofu,86,Curry Shop Jipang,,Japanese;Indian,curry,ta,True
+yamaguchi/hofu,87,Kura Zushi Hohu,,Japanese;Seafood;Sushi,seafood,ta,True
+yamaguchi/hofu,88,Komoyan,,,other,none,False
+yamaguchi/hofu,89,Zen Bohu Branch,,Japanese;Japanese - Other ;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/hofu,90,Oshima Hofu,,Asian,chinese,ta,True
+yamaguchi/iwakuni,1,すき焼き 匠,すき焼き,,meat,tb,True
+yamaguchi/iwakuni,2,や台ずし 岩国駅前町,居酒屋、寿司、海鮮,,izakaya,tb,True
+yamaguchi/iwakuni,3,よか鶏 岩国駅前店,居酒屋、鳥料理、焼き鳥,,izakaya,tb,True
+yamaguchi/iwakuni,4,鶏と海鮮 個室居酒屋 鶏うお 岩国店,居酒屋、鳥料理、海鮮,,izakaya,tb,True
+yamaguchi/iwakuni,5,ひとくち餃子の頂 岩国駅前店,居酒屋、餃子、食堂,,izakaya,tb,True
+yamaguchi/iwakuni,6,づぼら寿司,寿司、海鮮、ろばた焼き,,seafood,tb,True
+yamaguchi/iwakuni,7,岩国縁家,居酒屋、焼き鳥、日本酒バー,,izakaya,tb,True
+yamaguchi/iwakuni,8,ESOLA 岩国駅前店,バル、イタリアン、ワインバー,,european,tb,True
+yamaguchi/iwakuni,9,酒肴庵 岩国駅店,居酒屋、海鮮,,izakaya,tb,True
+yamaguchi/iwakuni,10,豊丸水産 岩国駅前店,居酒屋、海鮮、寿司,,izakaya,tb,True
+yamaguchi/iwakuni,11,千年の宴 岩国駅前店,居酒屋、海鮮、創作料理,,izakaya,tb,True
+yamaguchi/iwakuni,12,福の花 岩国店,居酒屋、焼き鳥、鳥料理,,izakaya,tb,True
+yamaguchi/iwakuni,13,ガネーシュ 岩国店,インド料理、インドカレー,,curry,tb,True
+yamaguchi/iwakuni,14,くいもの屋わん 岩国店,居酒屋、日本料理、海鮮,,izakaya,tb,True
+yamaguchi/iwakuni,15,目利きの銀次 岩国駅前店,居酒屋、海鮮、創作料理,,izakaya,tb,True
+yamaguchi/iwakuni,16,ガネーシュ デラックス 岩国店,インド料理、インドカレー,,curry,tb,True
+yamaguchi/iwakuni,17,やきとり 大阪屋,焼き鳥,,meat,tb,True
+yamaguchi/iwakuni,18,牛角 岩国駅前店,焼肉、韓国料理、ホルモン,,meat,tb,True
+yamaguchi/iwakuni,19,長州名代 うなぎの錦,うなぎ,,seafood,tb,True
+yamaguchi/iwakuni,20,憂花,お好み焼き,,casual,tb,True
+yamaguchi/iwakuni,21,懐石居酒屋　漁火,居酒屋、日本料理,,izakaya,tb,True
+yamaguchi/iwakuni,22,パンサー,郷土料理,,japanese,tb,True
+yamaguchi/iwakuni,23,セブンイレブン おみやげ街道新岩国店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/iwakuni,24,四季音 岩国市役所内店,食堂、社員食堂,,casual,tb,True
+yamaguchi/iwakuni,25,ほっともっと 南岩国店,弁当,,casual,tb,True
+yamaguchi/iwakuni,26,笹やん,お好み焼き、食堂,,casual,tb,True
+yamaguchi/iwakuni,27,あや乃,バー,,izakaya,tb,True
+yamaguchi/iwakuni,28,来来亭 岩国店,ラーメン、食堂、弁当,,noodles,tb,True
+yamaguchi/iwakuni,29,観音茶屋 自販機コーナー,その他,,other,none,False
+yamaguchi/iwakuni,30,御飯屋　ゆき乃,居酒屋、おでん,,izakaya,tb,True
+yamaguchi/iwakuni,31,ポット・プーリー,洋食、カフェ,,european,tb,True
+yamaguchi/iwakuni,32,シャトレーゼ 南岩国店,洋菓子,,sweets,tb,True
+yamaguchi/iwakuni,33,串の坊,おでん、居酒屋,,japanese,tb,True
+yamaguchi/iwakuni,34,本家松がね,その他,,other,none,False
+yamaguchi/iwakuni,35,佐々木屋小次郎商店,甘味処、ソフトクリーム、郷土料理,,sweets,tb,True
+yamaguchi/iwakuni,36,ファミリーマート 岩国尾津店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/iwakuni,37,ホシノベーカリー 岩国店,パン,,sweets,tb,True
+yamaguchi/iwakuni,38,暮らしの雑貨と喫茶 和白,カフェ、喫茶店,,cafe,tb,True
+yamaguchi/iwakuni,39,みっちゃん,鉄板焼き、お好み焼き,,meat,tb,True
+yamaguchi/iwakuni,40,食堂ゆっち,食堂,,casual,tb,True
+yamaguchi/iwakuni,41,御食事処 しらため別館,郷土料理、麺類,,japanese,tb,True
+yamaguchi/iwakuni,42,花園,中華料理、ラーメン,,chinese,tb,True
+yamaguchi/iwakuni,43,sango CAFE,カフェ,,cafe,tb,True
+yamaguchi/iwakuni,44,炭火焼肉ぶち 岩国店,焼肉,,meat,tb,True
+yamaguchi/iwakuni,45,マナティー,バー,,izakaya,tb,True
+yamaguchi/iwakuni,46,ばらの木,ピザ、カフェ,,european,tb,True
+yamaguchi/iwakuni,47,Tetumaru,鍋、鉄板焼き、居酒屋,,japanese,tb,True
+yamaguchi/iwakuni,48,どんどん カジル岩国店,うどん,,noodles,tb,True
+yamaguchi/iwakuni,49,はしら島,海鮮,,seafood,tb,True
+yamaguchi/iwakuni,50,トンキー,焼肉,,meat,tb,True
+yamaguchi/iwakuni,51,BAR VISIT,バー,,izakaya,tb,True
+yamaguchi/iwakuni,52,イタリアン＆肉バル ルコワン,ダイニングバー,,izakaya,tb,True
+yamaguchi/iwakuni,53,台湾料理 福来順 周東店,台湾料理,,chinese,tb,True
+yamaguchi/iwakuni,54,旬火柊澄,居酒屋,,izakaya,tb,True
+yamaguchi/iwakuni,55,ニコリ キッチン,イタリアン、パスタ、ピザ,,european,tb,True
+yamaguchi/iwakuni,56,○楽,お好み焼き,,casual,tb,True
+yamaguchi/iwakuni,57,筑豊ラーメン山小屋 玖珂店,ラーメン,,noodles,tb,True
+yamaguchi/iwakuni,58,cafe world 広瀬,カフェ,,cafe,tb,True
+yamaguchi/iwakuni,59,マムアンカフェ,カフェ、東南アジア料理,,cafe,tb,True
+yamaguchi/iwakuni,60,餃子の王将 岩国店,中華料理、餃子,,chinese,tb,True
+yamaguchi/iwakuni,61,Irori Sanzoku Kuga Shop,,Japanese,japanese,ta,True
+yamaguchi/iwakuni,62,Kobe Beef Yakiniku KINJIRO,,Japanese Fusion,japanese,desc,False
+yamaguchi/iwakuni,63,Hirasei,,Japanese,japanese,ta,True
+yamaguchi/iwakuni,64,Sobatamaya,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/iwakuni,65,Kappo Fukugen,,Japanese;Kappo,japanese,ta,True
+yamaguchi/iwakuni,66,Restaurant Kinnan,,Steakhouse;Fusion,meat,ta,True
+yamaguchi/iwakuni,67,Zubora Sushi,,Japanese;Sushi,seafood,ta,True
+yamaguchi/iwakuni,68,Yokadori Iwakuni Ekimae,,Japanese,japanese,ta,True
+yamaguchi/iwakuni,69,Esola Iwakuni Ekimae,,Bar;Pub;Diner;Wine Bar,izakaya,ta,True
+yamaguchi/iwakuni,70,Marifu Coffee,,Cafe,cafe,ta,True
+yamaguchi/iwakuni,71,Midori No Sato,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/iwakuni,72,Irori Sanzoku Nishiki,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/iwakuni,73,Sasakiya Kojiroshoten,,,other,none,False
+yamaguchi/iwakuni,74,Tatsumiya,,Japanese,japanese,ta,True
+yamaguchi/iwakuni,75,Suehiroshokudo,,,other,none,False
+yamaguchi/iwakuni,76,Italian Izakaya Fukuoka,,Italian;Pizza,european,ta,True
+yamaguchi/iwakuni,77,Ganeshu,,Indian,curry,ta,True
+yamaguchi/iwakuni,78,Wataboshi,,,other,none,False
+yamaguchi/iwakuni,79,Saga,,Japanese;Japanese - Traditional Cuisine,japanese,ta,True
+yamaguchi/iwakuni,80,Ramen Yamabiko,,,other,none,False
+yamaguchi/iwakuni,81,Uhee Kawashimo,,Japanese;Seafood;Izakaya (Japanese Style Tavern),seafood,ta,True
+yamaguchi/iwakuni,82,Musashi,,,sweets,desc,False
+yamaguchi/iwakuni,83,Waka Mizoo,,Bar;Pub,izakaya,ta,True
+yamaguchi/iwakuni,84,Vital Yawd,,Bar;Pub,izakaya,ta,True
+yamaguchi/iwakuni,85,Choshuya Kintaikyo,,Japanese,japanese,ta,True
+yamaguchi/iwakuni,86,Kitchen Kotoretto,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/kaminoseki,1,田中旅館,ふぐ、料理旅館,,seafood,tb,True
+yamaguchi/kaminoseki,2,カフェレストラン 瀬里家,ハンバーグ、カフェ、洋食,,meat,tb,True
+yamaguchi/kaminoseki,3,道の駅 上関海峡,道の駅,,other,none,False
+yamaguchi/kaminoseki,4,中華そば 中津屋,ラーメン,,noodles,tb,True
+yamaguchi/kaminoseki,5,レストラン うみべ。,海鮮、天ぷら、食堂,,seafood,tb,True
+yamaguchi/kaminoseki,6,上関水産 道の駅店,揚げ物,,casual,tb,True
+yamaguchi/kaminoseki,7,鳩子の湯,その他,,other,none,False
+yamaguchi/kaminoseki,8,原田水産,惣菜・デリ,,casual,tb,True
+yamaguchi/kaminoseki,9,レストラン上関海峡亭,海鮮丼,,seafood,tb,True
+yamaguchi/kaminoseki,10,おふくろ,食堂,,casual,tb,True
+yamaguchi/kaminoseki,11,漁宴,麺類、かつ丼,,noodles,tb,True
+yamaguchi/kaminoseki,12,岩田珈琲店,カフェ,,cafe,tb,True
+yamaguchi/kaminoseki,13,古泉,食堂,,casual,tb,True
+yamaguchi/kaminoseki,14,菓舗　よこみち,和菓子,,sweets,tb,True
+yamaguchi/kaminoseki,15,SERIKA DEL MER,うどん,,noodles,tb,True
+yamaguchi/kaminoseki,16,ひさご食堂,弁当,,casual,tb,True
+yamaguchi/kaminoseki,17,ごはん屋 SHINDO,弁当,,casual,tb,True
+yamaguchi/kaminoseki,18,Michi No Eki Kaminoseki Kaikyo,,Japanese - Other ,japanese,ta,True
+yamaguchi/kaminoseki,19,Kakigoya Marumi Suisan,,Japanese;Seafood;Street Food,seafood,ta,True
+yamaguchi/kaminoseki,20,Koiwai Shokudo,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/kaminoseki,21,Ofukuro,,,other,none,False
+yamaguchi/kudamatsu,1,中華そば 紅蘭,ラーメン,,noodles,tb,True
+yamaguchi/kudamatsu,2,北斗亭,ラーメン,,noodles,tb,True
+yamaguchi/kudamatsu,3,のん太鮨 下松店,回転寿司,,seafood,tb,True
+yamaguchi/kudamatsu,4,中華そば 蘭らん,ラーメン,,noodles,tb,True
+yamaguchi/kudamatsu,5,下松サービスエリア（上り線）フードコート,食堂,,casual,tb,True
+yamaguchi/kudamatsu,6,源内 下松店,そば、うなぎ、天ぷら,,noodles,tb,True
+yamaguchi/kudamatsu,7,碧水庵,そば,,noodles,tb,True
+yamaguchi/kudamatsu,8,KEY'S CAFE 山口下松SA店,カフェ、パン,,cafe,tb,True
+yamaguchi/kudamatsu,9,廣華楼,中華料理、ラーメン,,chinese,tb,True
+yamaguchi/kudamatsu,10,めんくい,ラーメン,,noodles,tb,True
+yamaguchi/kudamatsu,11,ロゼッタ 下松,イタリアン、パスタ、ピザ,,european,tb,True
+yamaguchi/kudamatsu,12,パクチャン,お好み焼き,,casual,tb,True
+yamaguchi/kudamatsu,13,下松サービスエリア（下り線）フードコート,その他,,other,none,False
+yamaguchi/kudamatsu,14,旬鮮美味 下松サービスエリア上り線,レストラン,,other,none,False
+yamaguchi/kudamatsu,15,下松サービスエリア上り線スナックコーナー,売店,,casual,tb,True
+yamaguchi/kudamatsu,16,どんどん サンリブ下松店,うどん,,noodles,tb,True
+yamaguchi/kudamatsu,17,めし屋 しんちゃん,食堂,,casual,tb,True
+yamaguchi/kudamatsu,18,蒼乃樹,うどん、天ぷら,,noodles,tb,True
+yamaguchi/kudamatsu,19,レコパン 下松店,パン、洋菓子,,sweets,tb,True
+yamaguchi/kudamatsu,20,リヨンの森,ヨーロッパ料理、喫茶店,,european,tb,True
+yamaguchi/kudamatsu,21,鳥勝,ラーメン、焼き鳥,,noodles,tb,True
+yamaguchi/kudamatsu,22,中華そば 一久 下松店,ラーメン,,noodles,tb,True
+yamaguchi/kudamatsu,23,レストランいづみ,レストラン,,other,none,False
+yamaguchi/kudamatsu,24,みほり峠 下松店,日本料理、食堂、うどん,,japanese,tb,True
+yamaguchi/kudamatsu,25,プティ・スリール,カフェ、ケーキ,,cafe,tb,True
+yamaguchi/kudamatsu,26,はちやま,カフェ、レストラン、ダイニングバー,,cafe,tb,True
+yamaguchi/kudamatsu,27,洋RUN 下松店,ラーメン,,noodles,tb,True
+yamaguchi/kudamatsu,28,お食事処 美沢,食堂、もんじゃ焼き、天丼,,casual,tb,True
+yamaguchi/kudamatsu,29,晩酌と晩飯えびす,居酒屋、海鮮,,izakaya,tb,True
+yamaguchi/kudamatsu,30,パンコッペ,パン,,sweets,tb,True
+yamaguchi/kudamatsu,31,焼肉丼 炙り一番 ゆめタウン下松店,丼,,casual,tb,True
+yamaguchi/kudamatsu,32,Sai Coffee Roastery 下松店,カフェ,,cafe,tb,True
+yamaguchi/kudamatsu,33,メルバニ,インド料理、インドカレー,,curry,tb,True
+yamaguchi/kudamatsu,34,レストランウエスタン,郷土料理、ステーキ、ハンバーグ,,japanese,tb,True
+yamaguchi/kudamatsu,35,華のうつわ,カフェ、創作料理、ダイニングバー,,cafe,tb,True
+yamaguchi/kudamatsu,36,中華料理 謝謝,中華料理,,chinese,tb,True
+yamaguchi/kudamatsu,37,蕎麦 降松,そば、日本料理,,noodles,tb,True
+yamaguchi/kudamatsu,38,RAMEN OF TODAY 下松店,ラーメン,,noodles,tb,True
+yamaguchi/kudamatsu,39,Agio,ダイニングバー、イタリアン、パスタ,,izakaya,tb,True
+yamaguchi/kudamatsu,40,下松サービスエリア（上り線）ショッピングコーナー,その他,,other,none,False
+yamaguchi/kudamatsu,41,下松サービスエリア下り線ショッピングコーナー,その他,,other,none,False
+yamaguchi/kudamatsu,42,珈琲倶楽部 Bear’s,洋食、カフェ、レストラン,,european,tb,True
+yamaguchi/kudamatsu,43,すすめ！ヴァイキング 徳山東店,ビュッフェ、焼肉,,casual,tb,True
+yamaguchi/kudamatsu,44,焼肉 とーがらし,焼肉、韓国料理、居酒屋,,meat,tb,True
+yamaguchi/kudamatsu,45,レストラン・バーエシャロット,フレンチ、イタリアン,,european,tb,True
+yamaguchi/kudamatsu,46,コリアンキッチン オンマ ソン,韓国料理、焼肉、ホルモン,,chinese,tb,True
+yamaguchi/kudamatsu,47,割烹升吉,日本料理,,japanese,tb,True
+yamaguchi/kudamatsu,48,ハマモトコーヒー,カフェ,,cafe,tb,True
+yamaguchi/kudamatsu,49,さくら,日本料理,,japanese,tb,True
+yamaguchi/kudamatsu,50,和食処 花水木,日本料理,,japanese,tb,True
+yamaguchi/kudamatsu,51,かざみどり 下松店,カフェ,,cafe,tb,True
+yamaguchi/kudamatsu,52,北京料理 第一飯店,中華料理、ラーメン,,chinese,tb,True
+yamaguchi/kudamatsu,53,こおひいや,喫茶店,,cafe,tb,True
+yamaguchi/kudamatsu,54,88 Cafe,カフェ,,cafe,tb,True
+yamaguchi/kudamatsu,55,モントロー洋菓子店 下松本店,ケーキ,,sweets,tb,True
+yamaguchi/kudamatsu,56,シュクルヴァン 下松店,パン,,sweets,tb,True
+yamaguchi/kudamatsu,57,和食工房にしだ,日本料理、海鮮,,japanese,tb,True
+yamaguchi/kudamatsu,58,ル・ヨシマサ,フレンチ,,european,tb,True
+yamaguchi/kudamatsu,59,ベルステラ,ジェラート・アイスクリーム,,sweets,tb,True
+yamaguchi/kudamatsu,60,ヨウテイ マスヨシ,洋食,,european,tb,True
+yamaguchi/kudamatsu,61,食蔵 升吉,居酒屋,,izakaya,tb,True
+yamaguchi/kudamatsu,62,福春波男,日本料理、居酒屋、串揚げ,,japanese,tb,True
+yamaguchi/kudamatsu,63,雑貨・cafe POPHILL,カフェ,,cafe,tb,True
+yamaguchi/kudamatsu,64,トレビ アルク下松店,パン,,sweets,tb,True
+yamaguchi/kudamatsu,65,二代目 餃子魂,餃子,,chinese,tb,True
+yamaguchi/kudamatsu,66,餃子とハイボール 225,居酒屋、餃子,,izakaya,tb,True
+yamaguchi/kudamatsu,67,鳥乃蔵,焼き鳥、うどん,,meat,tb,True
+yamaguchi/kudamatsu,68,カフェ トレビ,カフェ,,cafe,tb,True
+yamaguchi/kudamatsu,69,801,肉まん,,other,none,False
+yamaguchi/kudamatsu,70,BAERU,カフェ、スイーツ,,cafe,tb,True
+yamaguchi/kudamatsu,71,さぬきうどん 天霧 下松店,うどん,,noodles,tb,True
+yamaguchi/kudamatsu,72,炭火焼肉ホルモン横丁 下松店,焼肉,,meat,tb,True
+yamaguchi/kudamatsu,73,じゅうじゅう,お好み焼き,,casual,tb,True
+yamaguchi/kudamatsu,74,杏's,カフェ,,cafe,tb,True
+yamaguchi/kudamatsu,75,藤の屋お好み焼,お好み焼き,,casual,tb,True
+yamaguchi/kudamatsu,76,たこ焼き 相もん屋,たこ焼き,,casual,tb,True
+yamaguchi/kudamatsu,77,冨士食堂,食堂,,casual,tb,True
+yamaguchi/kudamatsu,78,ハーゼンオール,洋菓子、パン,,sweets,tb,True
+yamaguchi/kudamatsu,79,U'ilani 'elua,カフェ,,cafe,tb,True
+yamaguchi/kudamatsu,80,だんだん,居酒屋,,izakaya,tb,True
+yamaguchi/kudamatsu,81,STARRY CAFE+,カフェ,,cafe,tb,True
+yamaguchi/kudamatsu,82,味楽庵,ケーキ,,sweets,tb,True
+yamaguchi/kudamatsu,83,たこの星,たこ焼き,,casual,tb,True
+yamaguchi/kudamatsu,84,ハコカフェ,カフェ,,cafe,tb,True
+yamaguchi/kudamatsu,85,下松サービスエリア 下り線 専門店屋外特設コーナー,焼き鳥、揚げ物、ソフトクリーム,,meat,tb,True
+yamaguchi/kudamatsu,86,麺市場 武居製麺,その他,,other,none,False
+yamaguchi/kudamatsu,87,ブラウンモジョリズム,カフェ,,cafe,tb,True
+yamaguchi/kudamatsu,88,小桜,日本料理,,japanese,tb,True
+yamaguchi/kudamatsu,89,笑酎屋 ぶにせ,居酒屋,,izakaya,tb,True
+yamaguchi/kudamatsu,90,とうふとゆばの店 奴,豆腐料理、ラーメン,,japanese,tb,True
+yamaguchi/kudamatsu,91,イバーノ,ステーキ,,meat,tb,True
+yamaguchi/kudamatsu,92,ととや幸月,居酒屋、馬肉料理,,izakaya,tb,True
+yamaguchi/kudamatsu,93,リストランテ ソリッゾ,イタリアン,,european,tb,True
+yamaguchi/kudamatsu,94,レストラン ソワール,洋食、ビュッフェ,,european,tb,True
+yamaguchi/kudamatsu,95,ひのゑ,日本酒バー、焼酎バー、居酒屋,,izakaya,tb,True
+yamaguchi/kudamatsu,96,菜さい来んさい! 下松店,その他,,other,none,False
+yamaguchi/kudamatsu,97,まちのパン屋さんkiki,パン,,sweets,tb,True
+yamaguchi/kudamatsu,98,長崎ちゃんめん 山口下松店,ちゃんぽん,,noodles,tb,True
+yamaguchi/kudamatsu,99,ジョイフル 下松宮前店,ファミレス,,casual,tb,True
+yamaguchi/kudamatsu,100,マクドナルド 下松店,ハンバーガー,,casual,tb,True
+yamaguchi/kudamatsu,101,焼肉 蔵元 下松桜町店,焼肉,,meat,tb,True
+yamaguchi/kudamatsu,102,とりでん 周南店,焼き鳥、釜飯,,meat,tb,True
+yamaguchi/kudamatsu,103,オーガニックキッチンエンジェル,カフェ,,cafe,tb,True
+yamaguchi/kudamatsu,104,菓匠茶屋 下松店,カフェ,,cafe,tb,True
+yamaguchi/kudamatsu,105,ハースブラウン 下松店,パン,,sweets,tb,True
+yamaguchi/kudamatsu,106,コーヒーボーイ 下松店,カフェ,,cafe,tb,True
+yamaguchi/kudamatsu,107,ミスタードーナツ サンリブ下松ショップ,ドーナツ,,sweets,tb,True
+yamaguchi/kudamatsu,108,鉄網ダイニング　雅味,焼肉、ホルモン、居酒屋,,meat,tb,True
+yamaguchi/kudamatsu,109,カフェ マルシェ,カフェ,,cafe,tb,True
+yamaguchi/kudamatsu,110,やきとり屋　河上,焼き鳥,,meat,tb,True
+yamaguchi/kudamatsu,111,ショカフェ,カフェ,,cafe,tb,True
+yamaguchi/kudamatsu,112,ホルモン焼肉家どん,焼肉、ホルモン、冷麺,,meat,tb,True
+yamaguchi/kudamatsu,113,スイーツセレクトカフェ,ソフトクリーム,,sweets,tb,True
+yamaguchi/kudamatsu,114,クダマツスタンド,居酒屋,,izakaya,tb,True
+yamaguchi/kudamatsu,115,天婦羅 和楽,天ぷら,,japanese,tb,True
+yamaguchi/kudamatsu,116,軽食喫茶ちぐさ,喫茶店,,cafe,tb,True
+yamaguchi/kudamatsu,117,菓舗　松の実 ザ・モール周南星プラザ店,和菓子,,sweets,tb,True
+yamaguchi/kudamatsu,118,大阪屋すし,寿司,,seafood,tb,True
+yamaguchi/kudamatsu,119,下松市役所睦会食堂,日本料理,,japanese,tb,True
+yamaguchi/kudamatsu,120,民芸茶屋 おか倉,居酒屋,,izakaya,tb,True
+yamaguchi/kudamatsu,121,炎S 下松店,焼肉,,meat,tb,True
+yamaguchi/kudamatsu,122,お菓子のくにい,和菓子、ケーキ,,sweets,tb,True
+yamaguchi/kudamatsu,123,国民宿舎 大城 ティーラウンジ,カフェ,,cafe,tb,True
+yamaguchi/kudamatsu,124,おべるじゅ,喫茶店,,cafe,tb,True
+yamaguchi/kudamatsu,125,AZcafe Shidaka 山口下松店,ビュッフェ,,casual,tb,True
+yamaguchi/kudamatsu,126,禾,日本料理,,japanese,tb,True
+yamaguchi/kudamatsu,127,ろくの家 下松店,ラーメン、餃子,,noodles,tb,True
+yamaguchi/kudamatsu,128,吉野家 徳山東インター店,牛丼,,casual,tb,True
+yamaguchi/kudamatsu,129,カレーハウス CoCo壱番屋 下松末武店,カレー,,curry,tb,True
+yamaguchi/kudamatsu,130,はま寿司 下松店,回転寿司,,seafood,tb,True
+yamaguchi/kudamatsu,131,ナマステ タージマハル ゆめタウン下松店,インドカレー、インド料理,,curry,tb,True
+yamaguchi/kudamatsu,132,はなまるうどん ゆめタウン下松店,うどん,,noodles,tb,True
+yamaguchi/kudamatsu,133,リンガーハット ゆめタウン下松店,ちゃんぽん,,noodles,tb,True
+yamaguchi/kudamatsu,134,ボンズクレープ ゆめタウン下松店,クレープ・ガレット,,sweets,tb,True
+yamaguchi/kudamatsu,135,山口和牛 泉商,肉料理、からあげ,,meat,tb,True
+yamaguchi/kudamatsu,136,セブンイレブン 下松望町店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/kudamatsu,137,唐揚げ専門店 熊本とりから家 下松店,からあげ、弁当、惣菜・デリ,,meat,tb,True
+yamaguchi/kudamatsu,138,CAFE&WEDDING Metti al sole,イタリアン、パスタ,,european,tb,True
+yamaguchi/kudamatsu,139,SUN MARCHE,ビュッフェ,,casual,tb,True
+yamaguchi/kudamatsu,140,山一,その他,,other,none,False
+yamaguchi/kudamatsu,141,炭火串焼き はち,焼き鳥,,meat,tb,True
+yamaguchi/kudamatsu,142,山小屋 下松清瀬店,ラーメン,,noodles,tb,True
+yamaguchi/kudamatsu,143,かっぱ寿司 下松店,回転寿司、海鮮、寿司,,seafood,tb,True
+yamaguchi/kudamatsu,144,炭火焼肉屋さかい 下松店,焼肉、居酒屋、ファミレス,,meat,tb,True
+yamaguchi/kudamatsu,145,麺場 田所商店 下松店,ラーメン,,noodles,tb,True
+yamaguchi/kudamatsu,146,果子乃季 下松店,ケーキ、和菓子,,sweets,tb,True
+yamaguchi/kudamatsu,147,百菜 旬 サンリブ下松店,食堂,,casual,tb,True
+yamaguchi/kudamatsu,148,豆子郎 下松末武大通り店,和菓子,,sweets,tb,True
+yamaguchi/kudamatsu,149,ドトールコーヒーショップ ゆめタウン下松店,カフェ,,cafe,tb,True
+yamaguchi/kudamatsu,150,モスバーガー 下松店,ハンバーガー,,casual,tb,True
+yamaguchi/kudamatsu,151,ガスト 下松店,ファミレス,,casual,tb,True
+yamaguchi/kudamatsu,152,レストラン庄屋 ゆめタウン下松店,食堂、日本料理,,casual,tb,True
+yamaguchi/kudamatsu,153,サブウェイ ゆめタウン下松店,サンドイッチ,,sweets,tb,True
+yamaguchi/kudamatsu,154,なか卯 下松望町店,丼、親子丼、うどん,,casual,tb,True
+yamaguchi/kudamatsu,155,しゃぶしゃぶ温野菜 下松店,しゃぶしゃぶ、豚しゃぶ、すき焼き,,meat,tb,True
+yamaguchi/kudamatsu,156,マクドナルド 下松サンリブ店,ハンバーガー,,casual,tb,True
+yamaguchi/kudamatsu,157,ほうえい堂 下松サービスエリア店,和菓子、郷土料理、甘味処,,sweets,tb,True
+yamaguchi/kudamatsu,158,や台ずし 下松駅北口町,居酒屋、寿司、海鮮,,izakaya,tb,True
+yamaguchi/kudamatsu,159,ジョイフル 下松河内店,ファミレス,,casual,tb,True
+yamaguchi/kudamatsu,160,ペッパーランチ ゆめタウン下松店,ステーキ,,meat,tb,True
+yamaguchi/kudamatsu,161,牛角 下松店,焼肉,,meat,tb,True
+yamaguchi/kudamatsu,162,お好み一番地 ゆめタウン下松店,お好み焼き,,casual,tb,True
+yamaguchi/kudamatsu,163,おむらいす亭 山口ゆめタウン下松店,オムライス,,european,tb,True
+yamaguchi/kudamatsu,164,村さ来 下松店,居酒屋、バー,,izakaya,tb,True
+yamaguchi/kudamatsu,165,シャトレーゼ 下松店,ケーキ、洋菓子、和菓子,,sweets,tb,True
+yamaguchi/kudamatsu,166,果子乃季 サンリブ下松店,ケーキ,,sweets,tb,True
+yamaguchi/kudamatsu,167,ケンタッキーフライドチキン ゆめタウン下松店,レストラン,,other,none,False
+yamaguchi/kudamatsu,168,和風ダイニング 一令,居酒屋、海鮮、串揚げ,,izakaya,tb,True
+yamaguchi/kudamatsu,169,おむすび亭,その他,,other,none,False
+yamaguchi/kudamatsu,170,ゴルフ＆ダーツ Green,バー、パスタ、からあげ,,izakaya,tb,True
+yamaguchi/kudamatsu,171,ピアノフォルテ,バー,,izakaya,tb,True
+yamaguchi/kudamatsu,172,ぎゃらりー野草の庭,その他,,other,none,False
+yamaguchi/kudamatsu,173,Ban,カフェ,,cafe,tb,True
+yamaguchi/kudamatsu,174,マックスバリュ 山田店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/kudamatsu,175,ほうえい堂 本店,和菓子,,sweets,tb,True
+yamaguchi/kudamatsu,176,鮮菜栄屋,カフェ,,cafe,tb,True
+yamaguchi/kudamatsu,177,オリエンタル,喫茶店,,cafe,tb,True
+yamaguchi/kudamatsu,178,乃が美はなれ 下松販売店,パン,,sweets,tb,True
+yamaguchi/kudamatsu,179,ワ ラウンジ,カレー、うどん,,curry,tb,True
+yamaguchi/kudamatsu,180,ごはんどき 下松店,うどん、ラーメン、カレー,,noodles,tb,True
+yamaguchi/kudamatsu,181,ごちそう維新からあげ,からあげ,,meat,tb,True
+yamaguchi/kudamatsu,182,もち吉 下松店,和菓子、ジェラート・アイスクリーム,,sweets,tb,True
+yamaguchi/kudamatsu,183,nanaseto,洋菓子,,sweets,tb,True
+yamaguchi/kudamatsu,184,フランソワ 星プラザ下松店,ケーキ、洋菓子、和菓子,,sweets,tb,True
+yamaguchi/kudamatsu,185,メイクダイニング 燦,居酒屋,,izakaya,tb,True
+yamaguchi/kudamatsu,186,味菜,弁当,,casual,tb,True
+yamaguchi/kudamatsu,187,ibasyo,カフェ、喫茶店,,cafe,tb,True
+yamaguchi/kudamatsu,188,プルネール 下松店,パン,,sweets,tb,True
+yamaguchi/kudamatsu,189,だがし 夢や 星プラザ店,その他,,other,none,False
+yamaguchi/kudamatsu,190,たこまる,弁当、その他,,casual,tb,True
+yamaguchi/kudamatsu,191,LAWSON 下松駅南店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/kudamatsu,192,ひろ子,日本料理,,japanese,tb,True
+yamaguchi/kudamatsu,193,ピザハット 下松瑞穂店,ピザ,,european,tb,True
+yamaguchi/kudamatsu,194,スイートホーム 下松店,カフェ,,cafe,tb,True
+yamaguchi/kudamatsu,195,笠戸島家族旅行村 売店,その他,,other,none,False
+yamaguchi/kudamatsu,196,菓舗 松の実 本店,和菓子、洋菓子,,sweets,tb,True
+yamaguchi/kudamatsu,197,ピザ・カリフォルニア 下松店,その他,,other,none,False
+yamaguchi/kudamatsu,198,さいさいカフェ,売店,,casual,tb,True
+yamaguchi/kudamatsu,199,3COINS+plus ゆめタウン下松店,その他,,other,none,False
+yamaguchi/kudamatsu,200,無印良品  ゆめタウン下松店,その他,,other,none,False
+yamaguchi/kudamatsu,201,ほっともっと 末武大通り店,弁当,,casual,tb,True
+yamaguchi/kudamatsu,202,やきとり竜鳳,焼き鳥,,meat,tb,True
+yamaguchi/kudamatsu,203,LAWSON 下松楠木町一丁目店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/kudamatsu,204,コスモス 下松店,その他,,other,none,False
+yamaguchi/kudamatsu,205,とり秀 下松店,惣菜・デリ,,casual,tb,True
+yamaguchi/kudamatsu,206,居酒屋 味昇,居酒屋,,izakaya,tb,True
+yamaguchi/kudamatsu,207,おやつ工房　haru・米,洋菓子、パン,,sweets,tb,True
+yamaguchi/kudamatsu,208,焼肉喜楽,焼肉,,meat,tb,True
+yamaguchi/kudamatsu,209,LAWSON 下松駅北口店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/kudamatsu,210,居酒屋のんちゃん,居酒屋,,izakaya,tb,True
+yamaguchi/kudamatsu,211,まねき猫や,薬膳、創作料理,,japanese,tb,False
+yamaguchi/kudamatsu,212,おとずれ,その他,,other,none,False
+yamaguchi/kudamatsu,213,和食処 なかや,創作料理、日本料理,,japanese,tb,True
+yamaguchi/kudamatsu,214,hinacafe,その他,,other,none,False
+yamaguchi/kudamatsu,215,ほっともっと 下松中央店,弁当,,casual,tb,True
+yamaguchi/kudamatsu,216,aotsubaki,カフェ,,cafe,tb,True
+yamaguchi/kudamatsu,217,路,喫茶店,,cafe,tb,True
+yamaguchi/kudamatsu,218,やまがた,カフェ,,cafe,tb,True
+yamaguchi/kudamatsu,219,誠寿司,寿司,,seafood,tb,True
+yamaguchi/kudamatsu,220,以多屋,寿司,,seafood,tb,True
+yamaguchi/kudamatsu,221,味街道,その他,,other,none,False
+yamaguchi/kudamatsu,222,Gourmet Road YasuDA,売店,,casual,tb,True
+yamaguchi/kudamatsu,223,味一,弁当,,casual,tb,True
+yamaguchi/kudamatsu,224,Koran,,Asian,chinese,ta,True
+yamaguchi/kudamatsu,225,LE YOSHIMASA,,French,european,ta,True
+yamaguchi/kudamatsu,226,Maidookini Shokudo Yamaguchi Kudamatsu,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/kudamatsu,227,Misawa Restaurant,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,228,Curry House CoCo Ichibanya Kudamatsu Suetake,,Fast Food,casual,ta,True
+yamaguchi/kudamatsu,229,Ikedaya,,Japanese;Seafood,seafood,ta,True
+yamaguchi/kudamatsu,230,Kuramoto Kudamatsu,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,231,Shunsen Bimi Kudamatsu Service Area Up Line,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,232,Restaurant Soir,,International,other,none,False
+yamaguchi/kudamatsu,233,Taiwanese Restaurant Kirakuen,,Taiwanese,other,none,False
+yamaguchi/kudamatsu,234,Italian Restaurant Sorriso,,Italian,european,ta,True
+yamaguchi/kudamatsu,235,Cafe Kururi,,Cafe,cafe,ta,True
+yamaguchi/kudamatsu,236,Konnichiwa Kudamatsu,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,237,Restaurant Western,,European,european,ta,True
+yamaguchi/kudamatsu,238,Kyushu Ramen Nagomi Kudamatsu,,,other,none,False
+yamaguchi/kudamatsu,239,Gusto Kudamatsu,,International,other,none,False
+yamaguchi/kudamatsu,240,Bondy,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,241,Korean Kitchen Ondol,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,242,Tonkatsu Restaurant Kurashiki Hamada Ya,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/kudamatsu,243,Chinese Noodle  Shimomatsu,,Chinese,chinese,ta,True
+yamaguchi/kudamatsu,244,Sazantei Tokuyama,,International,other,none,False
+yamaguchi/kudamatsu,245,Bunise Shochuya,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,246,Northeastern Chinese Geishunkan,,Chinese,chinese,ta,True
+yamaguchi/kudamatsu,247,Sanuki Udon Sanshu,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,248,Joyfull,,International,other,none,False
+yamaguchi/kudamatsu,249,Chinese Noodle Ranran,,Chinese,chinese,ta,True
+yamaguchi/kudamatsu,250,Genkotsu Ramen Yumetowm Kudamatsu,,,other,none,False
+yamaguchi/kudamatsu,251,Joyfull,,International,other,none,False
+yamaguchi/kudamatsu,252,Tajimaya Shimomatsu,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/kudamatsu,253,Heisan Sunlive Kudamatsu,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/kudamatsu,254,Kappo Komori,,Japanese;Kappo,japanese,ta,True
+yamaguchi/kudamatsu,255,Daiichi Restaurant,,Chinese,chinese,ta,True
+yamaguchi/kudamatsu,256,Agetate Kinten Yumetowm Kudamatsu,,,other,none,False
+yamaguchi/kudamatsu,257,Kyushu Chikuho Ramen Yamagoya Kudamatsu Kiyose,,,other,none,False
+yamaguchi/kudamatsu,258,Kanmi Dokoro Azuki,,Japanese sweets parlour,sweets,desc,False
+yamaguchi/kudamatsu,259,Sazantei The Mall Shunan,,International,other,none,False
+yamaguchi/kudamatsu,260,Sohonke Shinatora Kudamatsu,,,other,none,False
+yamaguchi/kudamatsu,261,Sweet Home Kudamatsu,,Cafe,cafe,ta,True
+yamaguchi/kudamatsu,262,Hanagoyomi The Mall Shunan,,,other,none,False
+yamaguchi/kudamatsu,263,Karin,,,other,none,False
+yamaguchi/kudamatsu,264,Ringer Hut Yumetowm Kudamatsu,,,other,none,False
+yamaguchi/kudamatsu,265,Bar Solas,,Bar;Pub,izakaya,ta,True
+yamaguchi/kudamatsu,266,Yataizushi Kudamatsu eki Kitaguchi cho,,Sushi,seafood,ta,True
+yamaguchi/kudamatsu,267,Cafe Marche,,Cafe,cafe,ta,True
+yamaguchi/kudamatsu,268,Light Meal Cafe Chigusa,,American;Cafe,european,ta,True
+yamaguchi/kudamatsu,269,Matsumoto,,Japanese;International,japanese,ta,True
+yamaguchi/kudamatsu,270,Ashibe Karaoke Cafe,,International,other,none,False
+yamaguchi/kudamatsu,271,Sho Cafe,,Cafe,cafe,ta,True
+yamaguchi/kudamatsu,272,Enya Mansai,,,other,none,False
+yamaguchi/kudamatsu,273,Cafe Trevi,,Cafe,cafe,ta,True
+yamaguchi/kudamatsu,274,Garyuyaki Yoridori Kudamatsu,,Japanese Fusion,japanese,desc,False
+yamaguchi/kudamatsu,275,Gran Pale Shunan,,,other,none,False
+yamaguchi/kudamatsu,276,Restaurant Hoshifurumachi,,Fast Food,casual,ta,True
+yamaguchi/kudamatsu,277,Pepper Lunch Youme Town Kudamatsu,,,other,none,False
+yamaguchi/kudamatsu,278,Brown Mojo Rhythm,,Cafe,cafe,ta,True
+yamaguchi/kudamatsu,279,Kineya Shimomatsu The Mall,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/kudamatsu,280,Hinokoei Kudamatsu Main Store,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,281,Biinzu Coffee,,Cafe,cafe,ta,True
+yamaguchi/kudamatsu,282,Honkekamadoya Nishi Kudamatsu,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,283,Chateraise Kudamatsu,,Fast Food,casual,ta,True
+yamaguchi/kudamatsu,284,Ryugu The Mall Shunan,,Japanese;Seafood;Sushi;Japanese - Other ,seafood,ta,True
+yamaguchi/kudamatsu,285,Ajito,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/kudamatsu,286,Keizen Kichi,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,287,La Vie en Rose,,Fast Food,casual,ta,True
+yamaguchi/kudamatsu,288,Kagetsu,,Japanese - Traditional Cuisine,other,none,False
+yamaguchi/kudamatsu,289,Sakae Machi,,Cafe,cafe,ta,True
+yamaguchi/kudamatsu,290,Kawanoya,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,291,Shan Tours,,International,other,none,False
+yamaguchi/kudamatsu,292,Chakaiseki No Igawa,,Japanese;Japanese - Traditional Cuisine;Kaiseki,japanese,ta,True
+yamaguchi/kudamatsu,293,Minatoya Kissa,,International,other,none,False
+yamaguchi/kudamatsu,294,Kumamoto Torikaraya,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,295,Midoriya,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/kudamatsu,296,Ninobo,,Japanese - Other ,japanese,ta,True
+yamaguchi/kudamatsu,297,オックスフォード,,Steakhouse,meat,ta,True
+yamaguchi/kudamatsu,298,Tachibana,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/kudamatsu,299,Erumita,,Japanese - Other ,japanese,ta,True
+yamaguchi/kudamatsu,300,Tamayura Katei Ryori No Mise,,Japanese - Other ,japanese,ta,True
+yamaguchi/kudamatsu,301,いそむらや,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,302,Karaoke Nanohana,,International,other,none,False
+yamaguchi/kudamatsu,303,Kadoya Shokudo,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,304,Japanese Restaurant Nakaya,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/kudamatsu,305,Italian Kitchen Bruno,,Italian,european,ta,True
+yamaguchi/kudamatsu,306,Nanako,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,307,Tomichan,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/kudamatsu,308,Tsubohan,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,309,Karaoke Cafe Nihombashi,,International,other,none,False
+yamaguchi/kudamatsu,310,Japanese Restaurant Harada,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,311,Tsukito Niji,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/kudamatsu,312,Koryori Shizuchan,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,313,Inakajaya Hatchan,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/kudamatsu,314,Obanzai Bar Ikuyo,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,315,Kumachan,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/kudamatsu,316,Kisoji,,Japanese;Japanese - Traditional Cuisine,japanese,ta,True
+yamaguchi/kudamatsu,317,Masamoto Shokudo,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,318,Banban Iki Iki,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,319,魚雅,,Japanese;Sushi,seafood,ta,True
+yamaguchi/kudamatsu,320,Ikkyuan,,Japanese;Seafood;Sushi;Japanese - Other ,seafood,ta,True
+yamaguchi/kudamatsu,321,Tsukushi,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,322,Kyohei,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,323,Jail,,French,european,ta,True
+yamaguchi/kudamatsu,324,Yotei Masuyoshi,,Steakhouse,meat,ta,True
+yamaguchi/kudamatsu,325,Kiraku,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,326,ちいさなかいせき かぶらや ,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,327,Zuito,,Japanese;Japanese - Other ;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/kudamatsu,328,Hanazen,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/kudamatsu,329,Ryoridojo Irori Isshobin,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,330,Wasshoi Honpo,,Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/kudamatsu,331,Mum,,,other,none,False
+yamaguchi/kudamatsu,332,Sun Planes Ikunoya,,,other,none,False
+yamaguchi/kudamatsu,333,Bar Rin,,,other,none,False
+yamaguchi/kudamatsu,334,Bishuran,,,other,none,False
+yamaguchi/kudamatsu,335,Relaxation Salon Thai Koshiki Massage Cafe Ban,,,other,none,False
+yamaguchi/kudamatsu,336,Okonomi Ichibanchi Yumetowm Kudamatsu,,,other,none,False
+yamaguchi/kudamatsu,337,Francois Hitorishizuka Hoshi Plaza Kudamatsu,,,other,none,False
+yamaguchi/kudamatsu,338,居酒屋喜帆,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/kudamatsu,339,Daikokuya Cafe,,,other,none,False
+yamaguchi/kudamatsu,340,Bar TimBar,,Bar;Pub,izakaya,ta,True
+yamaguchi/kudamatsu,341,Sanyodo Shunan,,,other,none,False
+yamaguchi/kudamatsu,342,Yoshoku Ito,,,other,none,False
+yamaguchi/kudamatsu,343,Seafood Robata and Earthen Pot Rice Ebisu,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,344,Cafe Dining Umaya Kudamatsu Base,,,other,none,False
+yamaguchi/kudamatsu,345,Nekozeno Tanuki,,,other,none,False
+yamaguchi/kudamatsu,346,Yakinikuotsubo,,Japanese,japanese,ta,True
+yamaguchi/kudamatsu,347,Restaurant Izumi The Mall Shunan,,,other,none,False
+yamaguchi/kudamatsu,348,Wampaku,,,other,none,False
+yamaguchi/kudamatsu,349,Allre,,,other,none,False
+yamaguchi/kudamatsu,350,Ajigokoro,,,other,none,False
+yamaguchi/kudamatsu,351,Salon Dethe Patissier Ys,,,other,none,False
+yamaguchi/mine,1,やまむら,揚げ物、食堂、麺類,,casual,tb,True
+yamaguchi/mine,2,弁天会館,食堂、海鮮,,casual,tb,True
+yamaguchi/mine,3,観光会館 安富屋 レストラン,食堂、うどん、郷土料理,,casual,tb,True
+yamaguchi/mine,4,ミネ 秋吉台ジオパークセンター カルスター,カフェ、ソフトクリーム,,cafe,tb,True
+yamaguchi/mine,5,おほげつ,和菓子,,sweets,tb,True
+yamaguchi/mine,6,美東ちゃんぽん亭,ちゃんぽん,,noodles,tb,True
+yamaguchi/mine,7,手打ちうどん よしの,うどん,,noodles,tb,True
+yamaguchi/mine,8,麺処 瓦屋,うどん、そば,,noodles,tb,True
+yamaguchi/mine,9,旬菜庵 昭八,日本料理、うなぎ、そば,,japanese,tb,True
+yamaguchi/mine,10,味あい,食堂、寿司、天ぷら,,casual,tb,True
+yamaguchi/mine,11,シャーベットスタンド,ジェラート・アイスクリーム,,sweets,tb,True
+yamaguchi/mine,12,道の駅おふく,道の駅,,other,none,False
+yamaguchi/mine,13,オフク ダイニング,カフェ,,cafe,tb,True
+yamaguchi/mine,14,美東サービスエリア（下り線）フードコート,その他,,other,none,False
+yamaguchi/mine,15,Pizzeria MASA,ピザ,,european,tb,True
+yamaguchi/mine,16,美東サービスエリア（上り線）スナックコーナー・フードコート,その他,,other,none,False
+yamaguchi/mine,17,麺家 你好,ラーメン、中華料理、小籠包,,noodles,tb,True
+yamaguchi/mine,18,朝日館,喫茶店、ちゃんぽん,,cafe,tb,True
+yamaguchi/mine,19,カフェ・レストラン sincerite,カフェ,,cafe,tb,True
+yamaguchi/mine,20,練粉屋,パン、サンドイッチ、プリン,,sweets,tb,True
+yamaguchi/mine,21,鳳瓊,中華料理,,chinese,tb,True
+yamaguchi/mine,22,和屋,食堂,,casual,tb,True
+yamaguchi/mine,23,レストランせきギャラリー,日本料理、ステーキ、焼肉,,japanese,tb,True
+yamaguchi/mine,24,斉藤商店,ソフトクリーム,,sweets,tb,True
+yamaguchi/mine,25,プチラボベーカリー,パン,,sweets,tb,True
+yamaguchi/mine,26,キーズカフェ 美東サービスエリア下り店,カフェ,,cafe,tb,True
+yamaguchi/mine,27,ぽんぽこの里,たい焼き・大判焼き、食堂,,sweets,tb,True
+yamaguchi/mine,28,まなまな,カレー、インドカレー,,curry,tb,True
+yamaguchi/mine,29,台観望 合歓店,食堂、そば、ジェラート・アイスクリーム,,casual,tb,True
+yamaguchi/mine,30,西寺水神公園そうめん流し,麺類,,noodles,tb,True
+yamaguchi/mine,31,ソノダコーヒー,カフェ,,cafe,tb,True
+yamaguchi/mine,32,アルボレオ,カフェ、イタリアン、ケーキ,,cafe,tb,True
+yamaguchi/mine,33,R's cafe,甘味処,,sweets,tb,True
+yamaguchi/mine,34,ぷらすわん,食堂,,casual,tb,True
+yamaguchi/mine,35,キララあきよし,ジェラート・アイスクリーム、弁当、コロッケ,,sweets,tb,True
+yamaguchi/mine,36,串焼き居酒屋 厚狭川,居酒屋、焼き鳥,,izakaya,tb,True
+yamaguchi/mine,37,手打ちそば 蕎鉄,そば,,noodles,tb,True
+yamaguchi/mine,38,和食や よろず,日本料理,,japanese,tb,True
+yamaguchi/mine,39,台観望 台上店,食堂、そば、ジェラート・アイスクリーム,,casual,tb,True
+yamaguchi/mine,40,レストラン古那,日本料理、ジェラート・アイスクリーム,,japanese,tb,True
+yamaguchi/mine,41,泉流庭,食堂,,casual,tb,True
+yamaguchi/mine,42,長州からあげ亭,からあげ,,meat,tb,True
+yamaguchi/mine,43,麺屋たいが,ラーメン,,noodles,tb,True
+yamaguchi/mine,44,大黒屋,うどん,,noodles,tb,True
+yamaguchi/mine,45,ひろなカフェ,カフェ、パン,,cafe,tb,True
+yamaguchi/mine,46,Uvale!,カフェ,,cafe,tb,True
+yamaguchi/mine,47,オクル,洋菓子,,sweets,tb,True
+yamaguchi/mine,48,美東サービスエリア下り線ショッピングコーナー,その他,,other,none,False
+yamaguchi/mine,49,秋芳館 鯉の館,郷土料理、ソフトクリーム、かき氷,,japanese,tb,True
+yamaguchi/mine,50,大正洞清風苑,麺類、郷土料理,,noodles,tb,True
+yamaguchi/mine,51,鳥美月,食堂,,casual,tb,True
+yamaguchi/mine,52,Cafe Brass,カフェ,,cafe,tb,True
+yamaguchi/mine,53,美東サービスエリア(上り線)ショッピングコーナー,その他,,other,none,False
+yamaguchi/mine,54,道の駅みとう,その他,,other,none,False
+yamaguchi/mine,55,HITONAMI local motion,ホットドッグ、パン,,sweets,tb,False
+yamaguchi/mine,56,ごはん屋 維新の里,食堂、カレー、弁当,,casual,tb,True
+yamaguchi/mine,57,新高館,食堂、麺類,,casual,tb,True
+yamaguchi/mine,58,NONNOカフェレストラン,カフェ,,cafe,tb,True
+yamaguchi/mine,59,パン工房　ともちゃん,パン、洋菓子,,sweets,tb,True
+yamaguchi/mine,60,むらのレストラン 和桜,食堂,,casual,tb,True
+yamaguchi/mine,61,LIME STONE,喫茶店,,cafe,tb,True
+yamaguchi/mine,62,CENTERPIECE,カフェ,,cafe,tb,True
+yamaguchi/mine,63,らあめん花月嵐 美東サービスエリア店,ラーメン、餃子,,noodles,tb,True
+yamaguchi/mine,64,きれん製菓 秋芳洞入口店,その他,,other,none,False
+yamaguchi/mine,65,ファイアーヒル,ステーキ、レストラン,,meat,tb,True
+yamaguchi/mine,66,観光会館 安富屋 売店,和菓子,,sweets,tb,True
+yamaguchi/mine,67,るりいろ工房,その他,,other,none,False
+yamaguchi/mine,68,きよすぎ,そば,,noodles,tb,True
+yamaguchi/mine,69,菊美食堂,食堂,,casual,tb,True
+yamaguchi/mine,70,一休,食堂,,casual,tb,True
+yamaguchi/mine,71,フローラ洋菓子店,ケーキ、カフェ,,sweets,tb,True
+yamaguchi/mine,72,ソレイユ,パン,,sweets,tb,True
+yamaguchi/mine,73,松鶴園,焼肉,,meat,tb,True
+yamaguchi/mine,74,シエスタ 秋吉台,その他,,other,none,False
+yamaguchi/mine,75,秋吉台家族旅行村 ログハウス食堂,食堂、そば、丼,,casual,tb,True
+yamaguchi/mine,76,麦cafe,カフェ,,cafe,tb,True
+yamaguchi/mine,77,レッサーパンダが見えるレストラン,食堂,,casual,tb,True
+yamaguchi/mine,78,彩りのやまとや,そば,,noodles,tb,True
+yamaguchi/mine,79,大平楽焼肉店,焼肉,,meat,tb,True
+yamaguchi/mine,80,鳥旨酒処 美萩,焼き鳥、居酒屋,,meat,tb,True
+yamaguchi/mine,81,美東サービスエリア テイクアウトコーナー,その他,,other,none,False
+yamaguchi/mine,82,おかふく,日本料理,,japanese,tb,True
+yamaguchi/mine,83,MITOU工房,ソフトクリーム、たこ焼き,,sweets,tb,True
+yamaguchi/mine,84,ふくちゃん,焼き鳥、居酒屋,,meat,tb,True
+yamaguchi/mine,85,セントラルパークゴルフ倶楽部 レストラン,レストラン,,other,none,False
+yamaguchi/mine,86,あまいろcafe,カフェ,,cafe,tb,True
+yamaguchi/mine,87,レークスワンカントリー倶楽部　美祢コース,その他,,other,none,False
+yamaguchi/mine,88,つぼねや,洋菓子、ケーキ,,sweets,tb,True
+yamaguchi/mine,89,秋吉台ユースビレッジ,ホテル,,other,none,False
+yamaguchi/mine,90,御堀堂 中国自動車道下り線 美東SA店,和菓子,,sweets,tb,True
+yamaguchi/mine,91,七福屋,食堂,,casual,tb,True
+yamaguchi/mine,92,きららオーガニック・ライフ,その他,,other,none,False
+yamaguchi/mine,93,玄,食堂、弁当,,casual,tb,True
+yamaguchi/mine,94,憩処 母譜,そば、うどん,,noodles,tb,True
+yamaguchi/mine,95,圭,居酒屋、日本料理、創作料理,,izakaya,tb,True
+yamaguchi/mine,96,美祢ブルーベリーガーデン,ソフトクリーム、スイーツ,,sweets,tb,True
+yamaguchi/mine,97,友永商店,和菓子,,sweets,tb,True
+yamaguchi/mine,98,ジョイフル 山口美祢店,ファミレス,,casual,tb,True
+yamaguchi/mine,99,秋芳名水特産品直売所,コロッケ、カフェ,,casual,tb,True
+yamaguchi/mine,100,あぐりプラザおふく,弁当,,casual,tb,True
+yamaguchi/mine,101,サファリランド 遊園地 軽食喫茶コーナー,レストラン,,other,none,False
+yamaguchi/mine,102,ベーカリー フェリーチェ,パン,,sweets,tb,True
+yamaguchi/mine,103,Buono,パン、サンドイッチ、洋菓子,,sweets,tb,True
+yamaguchi/mine,104,憩い処雪乃屋,日本料理,,japanese,tb,True
+yamaguchi/mine,105,食彩館,郷土料理、そば,,japanese,tb,True
+yamaguchi/mine,106,一富士,焼肉,,meat,tb,True
+yamaguchi/mine,107,スリーアローカフェ,カフェ,,cafe,tb,True
+yamaguchi/mine,108,みとうの里cafe 美里美里,カフェ,,cafe,tb,True
+yamaguchi/mine,109,吉本畜産,その他,,other,none,False
+yamaguchi/mine,110,シェアキッチン紬,カフェ,,cafe,tb,True
+yamaguchi/mine,111,豆子郎　 美祢店,和菓子、甘味処,,sweets,tb,True
+yamaguchi/mine,112,市民会館食堂,食堂,,casual,tb,True
+yamaguchi/mine,113,野原商店,食堂,,casual,tb,True
+yamaguchi/mine,114,ほっともっと 美祢店,弁当,,casual,tb,True
+yamaguchi/mine,115,茶実,喫茶店,,cafe,tb,True
+yamaguchi/mine,116,セブンイレブン 美東大田店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/mine,117,LAWSON 美祢インター前店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/mine,118,セブンイレブン 美祢長ヶ坪店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/mine,119,お好み亭 ごとう,お好み焼き,,casual,tb,True
+yamaguchi/mine,120,レストラン 天の川,ビュッフェ、食堂,,casual,tb,True
+yamaguchi/mine,121,美祢社会復帰促進センター食堂,食堂、社員食堂、郷土料理,,casual,tb,True
+yamaguchi/mine,122,直売所みとう,その他,,other,none,False
+yamaguchi/mine,123,ふれあいCAFE,売店,,casual,tb,True
+yamaguchi/mine,124,寿司割烹 静,寿司,,seafood,tb,True
+yamaguchi/mine,125,ぶち酔い亭,居酒屋,,izakaya,tb,True
+yamaguchi/mine,126,みずしま,食堂、その他,,casual,tb,True
+yamaguchi/mine,127,喫茶・ぎゃらりい おじぎ草,喫茶店,,cafe,tb,True
+yamaguchi/mine,128,サビエルカンパーナ 自然食ベーカリー,パン、サンドイッチ、ベーグル,,sweets,tb,True
+yamaguchi/mine,129,サファリカフェ,カフェ、ジェラート・アイスクリーム,,cafe,tb,True
+yamaguchi/mine,130,はらだ,弁当,,casual,tb,True
+yamaguchi/mine,131,ひまわりカフェ,カフェ、喫茶店,,cafe,tb,True
+yamaguchi/mine,132,うどん 立味 美祢店,うどん,,noodles,tb,True
+yamaguchi/mine,133,Daily YAMAZAKI 美祢あつ店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/mine,134,鶴澤鮮魚,その他,,other,none,False
+yamaguchi/mine,135,サィサィみとう,コンビニ・スーパー,,daily,tb,True
+yamaguchi/mine,136,落武者,日本料理,,japanese,tb,True
+yamaguchi/mine,137,アヒルの間借り食堂,カレー、喫茶店,,curry,tb,True
+yamaguchi/mine,138,キッチン景清 トロン亭,食堂,,casual,tb,True
+yamaguchi/mine,139,味工房晋,うどん,,noodles,tb,True
+yamaguchi/mine,140,味楽庵,焼き鳥、居酒屋,,meat,tb,True
+yamaguchi/mine,141,焼き鳥ゆう,居酒屋、焼き鳥、串焼き,,izakaya,tb,True
+yamaguchi/mine,142,野生系ラーメン MENYA JAPAN,ラーメン,,noodles,tb,True
+yamaguchi/mine,143,168z,バームクーヘン,,other,none,False
+yamaguchi/mine,144,LAWSON 美東大田店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/mine,145,雁飛荘,食堂,,casual,tb,True
+yamaguchi/mine,146,オカタケ商店,惣菜・デリ,,casual,tb,True
+yamaguchi/mine,147,サンマート 美祢店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/mine,148,喫茶 ミヤコ,喫茶店,,cafe,tb,True
+yamaguchi/mine,149,セブンイレブン 美祢十文字店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/mine,150,ふらっと,居酒屋,,izakaya,tb,True
+yamaguchi/mine,151,日本海,レストラン,,other,none,False
+yamaguchi/mine,152,ディッピンドッツ  秋吉台自然動物公園サファリランド,ジェラート・アイスクリーム,,sweets,tb,True
+yamaguchi/mine,153,untitled coffee,カフェ,,cafe,tb,True
+yamaguchi/mine,154,トリップ ベース ココニイル,カフェ,,cafe,tb,True
+yamaguchi/mine,155,Yasutomiya,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/mine,156,Restaurant Yamamura,,Japanese,japanese,ta,True
+yamaguchi/mine,157,Xavier Campana Akiyoshi Farm Garden Restaurant,,European,european,ta,True
+yamaguchi/mine,158,Mine Akiyoshidai Geopark Center Karstar,,,other,none,False
+yamaguchi/mine,159,Michinoeki Ofuku,,Japanese,japanese,ta,True
+yamaguchi/mine,160,Benten Kaikan,,Japanese,japanese,ta,True
+yamaguchi/mine,161,Largo,,Italian,european,ta,True
+yamaguchi/mine,162,Mito Service Area Orisen Food Court,,Asian,chinese,ta,True
+yamaguchi/mine,163,Teuchiudonyoshino,,,other,none,False
+yamaguchi/mine,164,Ajiai Restaurant,,Japanese,japanese,ta,True
+yamaguchi/mine,165,Shunsaian Shohachi,,Japanese;Japanese - Traditional Cuisine;Kaiseki,japanese,ta,True
+yamaguchi/mine,166,Restaurant Seki Gallery,,,other,none,False
+yamaguchi/mine,167,Murano Restaurant Wazakura,,Japanese,japanese,ta,True
+yamaguchi/mine,168,Mito Service Area Up Line Restaurant,,Japanese;Fast Food;International;Japanese - Other ,casual,ta,True
+yamaguchi/mine,169,Restaurant Kona,,Japanese,japanese,ta,True
+yamaguchi/mine,170,Manamana,,Indian,curry,ta,True
+yamaguchi/mine,171,Daikambo Nemu,,Japanese,japanese,ta,True
+yamaguchi/mine,172,Shuhokankoinoyakata,,Japanese,japanese,ta,True
+yamaguchi/mine,173,Shutokan Wakimizutei,,Japanese,japanese,ta,True
+yamaguchi/mine,174,Akiyoshidai Zoo Safari Land Restaurant,,Fusion,other,none,False
+yamaguchi/mine,175,Mito Service Area Up Line Shopping Corner,,Japanese,japanese,ta,True
+yamaguchi/mine,176,Shuho Royal Hotel Shuho Kan Restaurant Karst,,Japanese - Other ,japanese,ta,True
+yamaguchi/mine,177,Shuho Meisui Tokusanhin Chokubaisho,,,other,none,False
+yamaguchi/mine,178, Dining,,Japanese,japanese,ta,True
+yamaguchi/mine,179,Joyfull Yamaguchimine,,International,other,none,False
+yamaguchi/mine,180,Nitakakan,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/mine,181,Kaori Sabo,,Cafe,cafe,ta,True
+yamaguchi/mine,182,Seifuen,,Japanese,japanese,ta,True
+yamaguchi/mine,183,Ichifuji Yakiniku,,Japanese,japanese,ta,True
+yamaguchi/mine,184,Ishin no Sato,,Japanese,japanese,ta,True
+yamaguchi/mine,185,Akiyoshi Menkobo,,Chinese,chinese,ta,True
+yamaguchi/mine,186,Tairikudo,,Japanese,japanese,ta,True
+yamaguchi/mine,187,Senryutei,,Japanese;International,japanese,ta,True
+yamaguchi/mine,188,Ofuku Nishidera Suijin Koen Somen Nagashi,,Japanese;Asian,chinese,ta,True
+yamaguchi/mine,189,Furuasa,,Japanese;Japanese - Traditional Cuisine,japanese,ta,True
+yamaguchi/mine,190,Katsuragi,,Japanese;Japanese - Traditional Cuisine,japanese,ta,True
+yamaguchi/mine,191,Chobeidon,,,other,none,False
+yamaguchi/mine,192,Fujiya Shokudo,,Japanese,japanese,ta,True
+yamaguchi/mine,193,Resto Hero,,Japanese - Other ,japanese,ta,True
+yamaguchi/mine,194,Shokusai Shunsai,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/mine,195,Snack Yoai,,,other,none,False
+yamaguchi/mine,196,Raifu Ramen,,Asian,chinese,ta,True
+yamaguchi/mine,197,Shokusaikan,,,other,none,False
+yamaguchi/mine,198,Hoteiya,,Japanese,japanese,ta,True
+yamaguchi/mine,199,Arboreo,,Cafe,cafe,ta,True
+yamaguchi/mine,200,Kiyosugi,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/mine,201,Suzuki Shokudo,,Japanese,japanese,ta,True
+yamaguchi/mine,202,Hashimotoya,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/mine,203,Hori Shoten,,Japanese;Japanese - Traditional Cuisine,japanese,ta,True
+yamaguchi/mine,204,Furumaidokoro Shunnohana,,Japanese;Fusion,japanese,ta,True
+yamaguchi/mine,205,Akiyoshidai Kazoku Ryoko Mura Log House Shokudo,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/mine,206,Shiente,,,other,none,False
+yamaguchi/mine,207,Kushiyaki Izakaya Asakawa,,Pizza;Asian;Pub,european,ta,True
+yamaguchi/mine,208,Barbecue House Fire Hill,,,other,none,False
+yamaguchi/mine,209,Taimu,,,other,none,False
+yamaguchi/mine,210,Gen,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/mine,211,Mineshiritsu Byoin Shokudo,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/mine,212,Isofuji,,Japanese;Seafood;Sushi;Japanese - Other ,seafood,ta,True
+yamaguchi/mine,213,Mirakuan,,,other,none,False
+yamaguchi/mine,214,Izakaya Ichi,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/mine,215,Macchan Ekimae Ramen,,,other,none,False
+yamaguchi/mine,216,Naniwaya,,,other,none,False
+yamaguchi/mine,217,Hakusan,,,other,none,False
+yamaguchi/mine,218,Roji,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/mine,219,Busu Musume,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/mine,220,Appare,,Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/mine,221,Ajikobo Shin,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/mine,222,Hot Village Mito,,Japanese,japanese,ta,True
+yamaguchi/mine,223,Temboso,,,other,none,False
+yamaguchi/mine,224,Ikoidokoro Moppu,,,other,none,False
+yamaguchi/mine,225,Ichimaru Ya,,Japanese - Traditional Cuisine,other,none,False
+yamaguchi/mine,226,Kameya Shokudo,,Japanese - Other ,japanese,ta,True
+yamaguchi/mine,227,Nihonkai,,Japanese - Other ,japanese,ta,True
+yamaguchi/mine,228,Aikamu,,Japanese - Other ,japanese,ta,True
+yamaguchi/mine,229,Taiwanmura,,Taiwanese,other,none,False
+yamaguchi/mine,230,Cocktail Due,,Bar;Pub,izakaya,ta,True
+yamaguchi/mine,231,Yoneya,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/mine,232,Chotto Ryori Kei,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/mine,233,Sambi Izakaya,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/mine,234,Uzuki Noodles,,,other,none,False
+yamaguchi/mine,235,Furatto,,,other,none,False
+yamaguchi/mine,236,Idol,,,other,none,False
+yamaguchi/mine,237,Mine Grand Hotel Takezutsuan,,,other,none,False
+yamaguchi/nagato,1,SWEET AS,洋食、カフェ、バー,,european,tb,True
+yamaguchi/nagato,2,TARU,イタリアン,,european,tb,True
+yamaguchi/nagato,3,あまのゆ,釜飯、食堂,,japanese,tb,True
+yamaguchi/nagato,4,黄波戸温泉交流センター,その他,,other,none,False
+yamaguchi/nagato,5,大和蒲鉾,その他,,other,none,False
+yamaguchi/nagato,6,リトルマーメイド フジ長門店,パン,,sweets,tb,True
+yamaguchi/nagato,7,ロバの本屋,カフェ,,cafe,tb,True
+yamaguchi/nagato,8,ケーキ工房 87浪漫,ケーキ、洋食,,sweets,tb,True
+yamaguchi/nagato,9,大谷山荘 別邸 音信 日本料理 雲遊,日本料理,,japanese,tb,True
+yamaguchi/nagato,10,大谷山荘 ナイトサロン 長門倶楽部,バー,,izakaya,tb,True
+yamaguchi/nagato,11,センザキッチン,道の駅,,other,none,False
+yamaguchi/nagato,12,セブンイレブン 長門日置中店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/nagato,13,さわやどり。,カフェ,,cafe,tb,True
+yamaguchi/nagato,14,湯本観光ホテル西京,ホテル,,other,none,False
+yamaguchi/nagato,15,和風料理 花膳,日本料理、郷土料理、海鮮,,japanese,tb,True
+yamaguchi/nagato,16,ふるさと工房 風の家,その他,,other,none,False
+yamaguchi/nagato,17,ほっともっと 長門駅前店,弁当,,casual,tb,True
+yamaguchi/nagato,18,池田屋,たこ焼き,,casual,tb,True
+yamaguchi/nagato,19,串焼き菜彩,焼き鳥、日本料理、居酒屋,,meat,tb,True
+yamaguchi/nagato,20,味勝手ありさわ,日本料理,,japanese,tb,True
+yamaguchi/nagato,21,日本海の味 くいどうらく,海鮮,,seafood,tb,True
+yamaguchi/nagato,22,カントリーキッチン,カフェ,,cafe,tb,True
+yamaguchi/nagato,23,LAWSON 長門仙崎店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/nagato,24,金の鈴,食堂、ダイニングバー,,casual,tb,True
+yamaguchi/nagato,25,海鮮村 北長門 本店,海鮮,,seafood,tb,True
+yamaguchi/nagato,26,人丸きく寿し,寿司,,seafood,tb,True
+yamaguchi/nagato,27,大阪屋,居酒屋,,izakaya,tb,True
+yamaguchi/nagato,28,LAWSON 大津三隅店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/nagato,29,伊織,そば,,noodles,tb,True
+yamaguchi/nagato,30,たべ山,そば、居酒屋、ジビエ料理,,noodles,tb,True
+yamaguchi/nagato,31,盤石亭,喫茶店,,cafe,tb,True
+yamaguchi/nagato,32,喫茶福永,喫茶店,,cafe,tb,True
+yamaguchi/nagato,33,餅工房 はんなりの里,和菓子,,sweets,tb,True
+yamaguchi/nagato,34,日本料理 萩,日本料理,,japanese,tb,True
+yamaguchi/nagato,35,ひものや食堂 ひだまり,食堂,,casual,tb,True
+yamaguchi/nagato,36,千銀蒲鉾,その他,,other,none,False
+yamaguchi/nagato,37,麺宗祐気,ラーメン,,noodles,tb,True
+yamaguchi/nagato,38,ささ舟,焼き鳥,,meat,tb,True
+yamaguchi/nagato,39,フタゴカフェ,カフェ,,cafe,tb,True
+yamaguchi/nagato,40,汐風,海鮮、食堂、郷土料理,,seafood,tb,True
+yamaguchi/nagato,41,お食事処よし松,日本料理、郷土料理、海鮮,,japanese,tb,True
+yamaguchi/nagato,42,シャルロット,ケーキ、喫茶店,,sweets,tb,True
+yamaguchi/nagato,43,センザキッチン 農水産物ショップ,その他,,other,none,False
+yamaguchi/nagato,44,サンマート 人丸店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/nagato,45,アグリ中央市場,その他,,other,none,False
+yamaguchi/nagato,46,なべ萬,居酒屋,,izakaya,tb,True
+yamaguchi/nagato,47,ショアーズ,喫茶店,,cafe,tb,True
+yamaguchi/nagato,48,Tre,カフェ、ケーキ、バー,,cafe,tb,True
+yamaguchi/nagato,49,焼きとり こうもり,焼き鳥,,meat,tb,True
+yamaguchi/nagato,50,FUTAGO cafe,カフェ,,cafe,tb,True
+yamaguchi/nagato,51,恩湯食,鳥料理、豆腐料理、カフェ,,japanese,tb,False
+yamaguchi/nagato,52,和食どんと 長門店,とんかつ,,meat,tb,True
+yamaguchi/nagato,53,松浦商店,その他,,other,none,False
+yamaguchi/nagato,54,寿司・活魚料理 千石,寿司、海鮮,,seafood,tb,True
+yamaguchi/nagato,55,RETIME ROOM CAFE,カフェ、喫茶店,,cafe,tb,True
+yamaguchi/nagato,56,Otanisanso Rounge Sansoka,,Bar;Pub,izakaya,ta,True
+yamaguchi/nagato,57,Sengokuzushi,,Japanese;Seafood;Sushi;Japanese - Other ,seafood,ta,True
+yamaguchi/nagato,58,Kiraku,,Japanese,japanese,ta,True
+yamaguchi/nagato,59,Senzakitchen Grill House,,,other,none,False
+yamaguchi/nagato,60,Shundokoro Isaji,,Seafood,seafood,ta,True
+yamaguchi/nagato,61,Amanoyu,,Japanese,japanese,ta,True
+yamaguchi/nagato,62,Senjojiki Country Kitchen,,Cafe,cafe,ta,True
+yamaguchi/nagato,63,Kaisenmura Kitanagato,,Japanese;Seafood;Japanese - Other ,seafood,ta,True
+yamaguchi/nagato,64,Hotel Yokikan Ryotei Asai,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/nagato,65,Wafutsuresutoran Ryofutei,,French,european,ta,True
+yamaguchi/nagato,66,Kawara Soba Yanagiya Nagato Yumoto Branch,,Japanese;Japanese Fusion,japanese,ta,True
+yamaguchi/nagato,67,Yokikan Besso Totoro No Sato,,Japanese;Japanese - Traditional Cuisine;Kappo,japanese,ta,True
+yamaguchi/nagato,68,Shiokaze,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/nagato,69,Himonoya Shokudo Hidamari,,,other,none,False
+yamaguchi/nagato,70,Shiragiku,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/nagato,71,Takada Coffee Senzakitchen,,Cafe,cafe,ta,True
+yamaguchi/nagato,72,Once More,,Japanese,japanese,ta,True
+yamaguchi/nagato,73,Chikuzen,,,other,none,False
+yamaguchi/nagato,74,Hamaya,,Japanese,japanese,ta,True
+yamaguchi/nagato,75,Umeya,,International,other,none,False
+yamaguchi/nagato,76,Tawarayama Honjin,,Japanese,japanese,ta,True
+yamaguchi/nagato,77,Ryofutei,,Japanese,japanese,ta,True
+yamaguchi/nagato,78,Kamabokoya Fujitatsu Senzaki Misuzu,,Japanese,japanese,ta,True
+yamaguchi/nagato,79,Nagato Honjin,,Japanese,japanese,ta,True
+yamaguchi/nagato,80,Sakura,,Japanese,japanese,ta,True
+yamaguchi/nagato,81,Komori,,Japanese,japanese,ta,True
+yamaguchi/nagato,82,Oshokuji Dokoro Senzaki Hommaru,,,other,none,False
+yamaguchi/nagato,83,Nosanbutsu Chokubaiten Yukuri Club,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/sanyoonoda,1,ドライブインみちしお,レストラン,,other,none,False
+yamaguchi/sanyoonoda,2,ラーメン加藤,ラーメン,,noodles,tb,True
+yamaguchi/sanyoonoda,3,手打そば 野の花,そば,,noodles,tb,True
+yamaguchi/sanyoonoda,4,カレー屋ロック,レストラン、カレー、ハンバーグ,,curry,tb,False
+yamaguchi/sanyoonoda,5,泉屋 厚狭本店,居酒屋、ラーメン、しゃぶしゃぶ,,izakaya,tb,True
+yamaguchi/sanyoonoda,6,ドライブイン南国,食堂,,casual,tb,True
+yamaguchi/sanyoonoda,7,粉と米,パン、洋菓子,,sweets,tb,True
+yamaguchi/sanyoonoda,8,ソル・ポニエンテ,スペイン料理、イタリアン、ビュッフェ,,european,tb,True
+yamaguchi/sanyoonoda,9,一二三味処,レストラン、ラーメン、かつ丼,,noodles,tb,False
+yamaguchi/sanyoonoda,10,割烹御食事処 みちしお,日本料理,,japanese,tb,True
+yamaguchi/sanyoonoda,11,若新,海鮮、居酒屋,,seafood,tb,True
+yamaguchi/sanyoonoda,12,ラーメン龍,ラーメン、餃子,,noodles,tb,True
+yamaguchi/sanyoonoda,13,どんどん アルク小野田店,うどん,,noodles,tb,True
+yamaguchi/sanyoonoda,14,中華そば　一久 小野田バイパス店,ラーメン,,noodles,tb,True
+yamaguchi/sanyoonoda,15,浜のてんぷら屋,揚げ物,,casual,tb,True
+yamaguchi/sanyoonoda,16,鰻料理 たけだ,うなぎ,,seafood,tb,True
+yamaguchi/sanyoonoda,17,Bakery B-load.,パン,,sweets,tb,True
+yamaguchi/sanyoonoda,18,トロアメゾン 本店,ケーキ、カフェ,,sweets,tb,True
+yamaguchi/sanyoonoda,19,食道楽 帆万里,日本料理,,japanese,tb,True
+yamaguchi/sanyoonoda,20,ちいさなパン焼工房 BLANC,パン,,sweets,tb,True
+yamaguchi/sanyoonoda,21,飛寅,海鮮、居酒屋,,seafood,tb,True
+yamaguchi/sanyoonoda,22,Heart Bread ANTIQUE  おのだサンパーク店,パン,,sweets,tb,True
+yamaguchi/sanyoonoda,23,パン・デ・モルデ,パン、カフェ,,sweets,tb,True
+yamaguchi/sanyoonoda,24,居魚屋 鱗,海鮮、居酒屋,,seafood,tb,True
+yamaguchi/sanyoonoda,25,お酒と馳走 灯,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,26,すずめ,お好み焼き、食堂,,casual,tb,True
+yamaguchi/sanyoonoda,27,どんどん おのだサンパーク店,うどん,,noodles,tb,True
+yamaguchi/sanyoonoda,28,台湾料理 福来順,台湾料理,,chinese,tb,True
+yamaguchi/sanyoonoda,29,極みの食パン 安都佐,パン、サンドイッチ,,sweets,tb,True
+yamaguchi/sanyoonoda,30,ティーゲベック,ケーキ,,sweets,tb,True
+yamaguchi/sanyoonoda,31,石窯パン工房 須恵の郷  小野田店,パン,,sweets,tb,True
+yamaguchi/sanyoonoda,32,Regal,カフェ、ハンバーグ、ステーキ,,cafe,tb,True
+yamaguchi/sanyoonoda,33,山陽国際ゴルフクラブレストラン,レストラン,,other,none,False
+yamaguchi/sanyoonoda,34,おこのみ焼やまなか,お好み焼き,,casual,tb,True
+yamaguchi/sanyoonoda,35,とんかつ勝六,とんかつ,,meat,tb,True
+yamaguchi/sanyoonoda,36,うどんの庄 住吉,うどん,,noodles,tb,True
+yamaguchi/sanyoonoda,37,七福屋 埴生店,うどん,,noodles,tb,True
+yamaguchi/sanyoonoda,38,花の海,その他、ジューススタンド,,cafe,tb,False
+yamaguchi/sanyoonoda,39,Legit,カフェ,,cafe,tb,True
+yamaguchi/sanyoonoda,40,もりなが松陰堂,和菓子,,sweets,tb,True
+yamaguchi/sanyoonoda,41,灯,カフェ,,cafe,tb,True
+yamaguchi/sanyoonoda,42,萬盛 埴生店,台湾料理,,chinese,tb,True
+yamaguchi/sanyoonoda,43,ふるさとホルモン,焼肉,,meat,tb,True
+yamaguchi/sanyoonoda,44,NIKUのcafe-bar AJITO,肉バル、ハンバーガー、ステーキ,,casual,tb,False
+yamaguchi/sanyoonoda,45,レストラン&カフェ ポテト,洋食、カフェ,,european,tb,True
+yamaguchi/sanyoonoda,46,麺菜酒家らいち 厚狭店,居酒屋、ラーメン、食堂,,izakaya,tb,True
+yamaguchi/sanyoonoda,47,一久 小野田港店,ラーメン,,noodles,tb,True
+yamaguchi/sanyoonoda,48,ラ　ティエラ,イタリアン,,european,tb,True
+yamaguchi/sanyoonoda,49,象石,フレンチ、オーガニック、洋食,,european,tb,True
+yamaguchi/sanyoonoda,50,汁なし担担麺 階杉 おのだサンパーク店,汁なし担々麺,,other,none,False
+yamaguchi/sanyoonoda,51,ローズガーデン,洋食,,european,tb,True
+yamaguchi/sanyoonoda,52,いたりあん食堂,カフェ、ジェラート・アイスクリーム、イタリアン,,cafe,tb,True
+yamaguchi/sanyoonoda,53,ASA Station Hotel,ホテル,,other,none,False
+yamaguchi/sanyoonoda,54,中国料理 敦煌 山口小野田店,中華料理、ビュッフェ、居酒屋,,chinese,tb,True
+yamaguchi/sanyoonoda,55,シャプラ,インドカレー、インド料理,,curry,tb,True
+yamaguchi/sanyoonoda,56,らいおん亭,食堂,,casual,tb,True
+yamaguchi/sanyoonoda,57,うどんのウエストリバア,うどん、日本料理、牛丼,,noodles,tb,True
+yamaguchi/sanyoonoda,58,伊酒屋 ぼーの,イタリアン、ダイニングバー、ピザ,,european,tb,True
+yamaguchi/sanyoonoda,59,パティスリー グランシャリオ,ケーキ,,sweets,tb,True
+yamaguchi/sanyoonoda,60,金来順,台湾料理、居酒屋,,chinese,tb,True
+yamaguchi/sanyoonoda,61,二井観光ぶどう園,ジェラート・アイスクリーム,,sweets,tb,True
+yamaguchi/sanyoonoda,62,お好み焼 かわ本 小野田店,お好み焼き,,casual,tb,True
+yamaguchi/sanyoonoda,63,みち草,お好み焼き、焼きそば,,casual,tb,True
+yamaguchi/sanyoonoda,64,厚狭ゴルフ倶楽部,その他,,other,none,False
+yamaguchi/sanyoonoda,65,福満聚,中華料理,,chinese,tb,True
+yamaguchi/sanyoonoda,66,Tummy,カフェ、ピザ、パスタ,,cafe,tb,True
+yamaguchi/sanyoonoda,67,まんぷく亭,お好み焼き,,casual,tb,True
+yamaguchi/sanyoonoda,68,じゅうじゅう焼肉 カルビ大陸 小野田店,焼肉、ホルモン、牛料理,,meat,tb,True
+yamaguchi/sanyoonoda,69,ル ココン 料理工房,イタリアン,,european,tb,True
+yamaguchi/sanyoonoda,70,パーク.イン山陽小野田,その他,,other,none,False
+yamaguchi/sanyoonoda,71,海の家 はら,海鮮、日本料理,,seafood,tb,True
+yamaguchi/sanyoonoda,72,はた満,ちゃんぽん,,noodles,tb,True
+yamaguchi/sanyoonoda,73,DAJIN,鉄板焼き、ダイニングバー、居酒屋,,meat,tb,True
+yamaguchi/sanyoonoda,74,酒場ビッグ,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,75,蔵間,居酒屋、海鮮、創作料理,,izakaya,tb,True
+yamaguchi/sanyoonoda,76,Hanamusubi,クレープ・ガレット,,sweets,tb,True
+yamaguchi/sanyoonoda,77,さつまいも,ビュッフェ,,casual,tb,True
+yamaguchi/sanyoonoda,78,ベーカリー 来夢,パン,,sweets,tb,True
+yamaguchi/sanyoonoda,79,入船,寿司,,seafood,tb,True
+yamaguchi/sanyoonoda,80,居酒屋 丸富士,居酒屋、海鮮、鳥料理,,izakaya,tb,True
+yamaguchi/sanyoonoda,81,goofy929,イタリアン,,european,tb,True
+yamaguchi/sanyoonoda,82,BAR TEACHER,バー,,izakaya,tb,True
+yamaguchi/sanyoonoda,83,炭火焼 とりとり,焼き鳥、居酒屋,,meat,tb,True
+yamaguchi/sanyoonoda,84,カフェ ソル・ポニエンテ,カフェ,,cafe,tb,True
+yamaguchi/sanyoonoda,85,Tea TaiL,カフェ,,cafe,tb,True
+yamaguchi/sanyoonoda,86,セントラルホテル,ホテル,,other,none,False
+yamaguchi/sanyoonoda,87,駅うどん 日の出屋,うどん,,noodles,tb,True
+yamaguchi/sanyoonoda,88,コメコメバーガー 山陽小野田店,ハンバーガー,,casual,tb,True
+yamaguchi/sanyoonoda,89,ハグハグカフェ,カフェ,,cafe,tb,True
+yamaguchi/sanyoonoda,90,焼肉サラン,焼肉,,meat,tb,True
+yamaguchi/sanyoonoda,91,拝啓陳者,たい焼き・大判焼き,,sweets,tb,True
+yamaguchi/sanyoonoda,92,隙間珈琲,カフェ,,cafe,tb,True
+yamaguchi/sanyoonoda,93,デザート,バー、ピザ,,izakaya,tb,True
+yamaguchi/sanyoonoda,94,呑々,焼き鳥,,meat,tb,True
+yamaguchi/sanyoonoda,95,佐々木書店 ブックカフェ,カフェ,,cafe,tb,True
+yamaguchi/sanyoonoda,96,居酒屋 ひと息,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,97,劇場型居酒屋 厚狭やきとりスタンド,居酒屋、焼き鳥、鳥料理,,izakaya,tb,True
+yamaguchi/sanyoonoda,98,焼鳥 とも,焼き鳥,,meat,tb,True
+yamaguchi/sanyoonoda,99,旬菜樹,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,100,とんかつ　泉屋,とんかつ,,meat,tb,True
+yamaguchi/sanyoonoda,101,なおじ 山口小野田店,ラーメン,,noodles,tb,True
+yamaguchi/sanyoonoda,102,憩いの場 厚狭駅前店,居酒屋、喫茶店,,izakaya,tb,True
+yamaguchi/sanyoonoda,103,コッチ,ケーキ,,sweets,tb,True
+yamaguchi/sanyoonoda,104,春駒亭,日本料理,,japanese,tb,True
+yamaguchi/sanyoonoda,105,カレーとコーヒー ファイン,カフェ、カレー,,cafe,tb,True
+yamaguchi/sanyoonoda,106,夢紅カフェ,カフェ、サンドイッチ,,cafe,tb,True
+yamaguchi/sanyoonoda,107,海門,焼肉,,meat,tb,True
+yamaguchi/sanyoonoda,108,うどん ちび,うどん,,noodles,tb,True
+yamaguchi/sanyoonoda,109,cafe miche-t,カフェ,,cafe,tb,True
+yamaguchi/sanyoonoda,110,プレジデントカントリー倶楽部山陽,その他,,other,none,False
+yamaguchi/sanyoonoda,111,ジェラテリアバール SAKURA,カフェ、ジェラート・アイスクリーム,,cafe,tb,True
+yamaguchi/sanyoonoda,112,スターバックス・コーヒー おのだサンパーク店,カフェ、喫茶店,,cafe,tb,True
+yamaguchi/sanyoonoda,113,田頭茶舗 サンパークおのだ店,カフェ,,cafe,tb,True
+yamaguchi/sanyoonoda,114,とろ麦 おのだサンパーク店,とんかつ、麦とろ,,meat,tb,True
+yamaguchi/sanyoonoda,115,サブウェイ おのだサンパーク店,サンドイッチ,,sweets,tb,True
+yamaguchi/sanyoonoda,116,コメダ珈琲店 小野田バイパス店,喫茶店,,cafe,tb,True
+yamaguchi/sanyoonoda,117,サンマルクカフェ おのだサンパーク店,カフェ、パン、スイーツ,,cafe,tb,True
+yamaguchi/sanyoonoda,118,長崎ちゃんめん 山口小野田店,麺類,,noodles,tb,True
+yamaguchi/sanyoonoda,119,廣石,中華料理、とんかつ,,chinese,tb,True
+yamaguchi/sanyoonoda,120,ワカヤマ,カフェ、カレー,,cafe,tb,True
+yamaguchi/sanyoonoda,121,長州屋 小野田店,ラーメン,,noodles,tb,True
+yamaguchi/sanyoonoda,122,麺屋淳一,ラーメン,,noodles,tb,True
+yamaguchi/sanyoonoda,123,JAZZ割烹 大津屋,洋食,,european,tb,True
+yamaguchi/sanyoonoda,124,三つ舎,和菓子,,sweets,tb,True
+yamaguchi/sanyoonoda,125,火毱,焼肉,,meat,tb,True
+yamaguchi/sanyoonoda,126,寿司よし,寿司,,seafood,tb,True
+yamaguchi/sanyoonoda,127,さくら亭,お好み焼き、たこ焼き、鉄板焼き,,casual,tb,True
+yamaguchi/sanyoonoda,128,二反田,日本料理,,japanese,tb,True
+yamaguchi/sanyoonoda,129,社会福祉協議会 山陽オートレース場 食堂,食堂、ラーメン、カレー,,casual,tb,True
+yamaguchi/sanyoonoda,130,えいじ庵,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,131,ファミリーマート 埴生インター店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/sanyoonoda,132,朝陽カントリークラブレストラン,レストラン,,other,none,False
+yamaguchi/sanyoonoda,133,minatsuki,食堂,,casual,tb,True
+yamaguchi/sanyoonoda,134,呑々本店,焼き鳥,,meat,tb,True
+yamaguchi/sanyoonoda,135,三代目 龍馬,居酒屋、焼き鳥,,izakaya,tb,True
+yamaguchi/sanyoonoda,136,大石園茶舗,その他,,other,none,False
+yamaguchi/sanyoonoda,137,龍王園,焼肉,,meat,tb,True
+yamaguchi/sanyoonoda,138,七輪焼肉 銀のホルモン,ホルモン、焼肉,,meat,tb,True
+yamaguchi/sanyoonoda,139,来来亭 小野田バイパス店,ラーメン、弁当、食堂,,noodles,tb,True
+yamaguchi/sanyoonoda,140,吉野家 山陽小野田店,牛丼,,casual,tb,True
+yamaguchi/sanyoonoda,141,ジョイフル 山口厚狭店,ファミレス,,casual,tb,True
+yamaguchi/sanyoonoda,142,ミスタードーナツ サンパークおのだショップ,ドーナツ、カフェ,,sweets,tb,True
+yamaguchi/sanyoonoda,143,広島つけ麺 八丁堀,つけ麺、汁なし担々麺、油そば・まぜそば,,noodles,tb,True
+yamaguchi/sanyoonoda,144,一心亭,日本料理,,japanese,tb,True
+yamaguchi/sanyoonoda,145,ぢどりやかっちゃん,焼き鳥,,meat,tb,True
+yamaguchi/sanyoonoda,146,串ん坊,焼き鳥、日本酒バー、焼酎バー,,meat,tb,True
+yamaguchi/sanyoonoda,147,ダイニング ハラヤ,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,148,久世福商店 おのだサンパーク店,売店,,casual,tb,True
+yamaguchi/sanyoonoda,149,竹まる,和菓子,,sweets,tb,True
+yamaguchi/sanyoonoda,150,フードウェイ おのだサンパーク店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/sanyoonoda,151,甲比丹,喫茶店、カフェ,,cafe,tb,True
+yamaguchi/sanyoonoda,152,Linda,ペルー料理,,other,none,False
+yamaguchi/sanyoonoda,153,山陽グリーンゴルフコース,その他,,other,none,False
+yamaguchi/sanyoonoda,154,酒と旬菜 TonBo,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,155,Buono,イタリアン、パスタ、ピザ,,european,tb,True
+yamaguchi/sanyoonoda,156,笑来,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,157,ハローズ 小野田店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/sanyoonoda,158,千夜,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,159,長崎ちゃんめん 山口厚狭店,麺類,,noodles,tb,True
+yamaguchi/sanyoonoda,160,ポポラマーマ おのだサンパーク店,パスタ、ピザ,,european,tb,True
+yamaguchi/sanyoonoda,161,果汁工房果琳 おのだサンパーク店,ジューススタンド,,cafe,tb,True
+yamaguchi/sanyoonoda,162,牛角 小野田店,焼肉、ホルモン、ジンギスカン,,meat,tb,True
+yamaguchi/sanyoonoda,163,八剣伝 小野田駅前店,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,164,ジョイフル 小野田店,ファミレス,,casual,tb,True
+yamaguchi/sanyoonoda,165,十六雑穀オムライス＆ドリア専門店 おむらいす亭 山口おのだサンパーク店,オムライス、ハンバーグ、鍋,,european,tb,True
+yamaguchi/sanyoonoda,166,永山酒造,その他,,other,none,False
+yamaguchi/sanyoonoda,167,GODIVA おのだサンパーク店,チョコレート,,sweets,tb,True
+yamaguchi/sanyoonoda,168,ジョイフル 小野田中川店,ファミレス,,casual,tb,True
+yamaguchi/sanyoonoda,169,マクドナルド おのだサンパーク店,ハンバーガー,,casual,tb,True
+yamaguchi/sanyoonoda,170,ケンタッキーフライドチキン  山陽小野田店,鳥料理,,other,none,False
+yamaguchi/sanyoonoda,171,フランソワ一閑 小野田店,洋菓子、和菓子、カフェ,,sweets,tb,True
+yamaguchi/sanyoonoda,172,ペッパーランチ おのだサンパーク店,ステーキ、ハンバーグ,,meat,tb,True
+yamaguchi/sanyoonoda,173,サーティワンアイスクリーム おのだサンパーク店,ジェラート・アイスクリーム,,sweets,tb,True
+yamaguchi/sanyoonoda,174,餃子の福原,餃子,,chinese,tb,True
+yamaguchi/sanyoonoda,175,松屋 松のや 山陽小野田店,とんかつ、牛丼,,meat,tb,True
+yamaguchi/sanyoonoda,176,マスターズカフェ ナチュラルグリーンパークホテル店,カフェ,,cafe,tb,True
+yamaguchi/sanyoonoda,177,annie 小野田店,クレープ・ガレット,,sweets,tb,True
+yamaguchi/sanyoonoda,178,ジョリーパスタ 山陽小野田店,イタリアン、パスタ,,european,tb,True
+yamaguchi/sanyoonoda,179,めんた　 サンパークおのだ,うどん、カレー,,noodles,tb,True
+yamaguchi/sanyoonoda,180,果子乃季 厚狭店,ケーキ、和菓子,,sweets,tb,True
+yamaguchi/sanyoonoda,181,高泊,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,182,ふるさと,焼肉,,meat,tb,True
+yamaguchi/sanyoonoda,183,KAZUN,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,184,ジュピター おのだサンパーク店,その他,,other,none,False
+yamaguchi/sanyoonoda,185,肴屋さん 酒酒,海鮮、居酒屋,,seafood,tb,True
+yamaguchi/sanyoonoda,186,セブンイレブン 小野田萩森口店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/sanyoonoda,187,マックスバリュ 厚狭店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/sanyoonoda,188,酒喰処 あかり,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,189,ほっともっと 小野田バイパス店,弁当,,casual,tb,True
+yamaguchi/sanyoonoda,190,ほっともっと 厚狭店,弁当,,casual,tb,True
+yamaguchi/sanyoonoda,191,山口ワイナリー,バー,,izakaya,tb,True
+yamaguchi/sanyoonoda,192,お食事処 辰,寿司、日本料理,,seafood,tb,True
+yamaguchi/sanyoonoda,193,みちしお仲みち売店,その他、和菓子、洋菓子,,sweets,tb,False
+yamaguchi/sanyoonoda,194,焼きたてパン　ｆｒａｎｐａｎ,パン,,sweets,tb,True
+yamaguchi/sanyoonoda,195,カレーと音楽のお店TRIP,カレー,,curry,tb,True
+yamaguchi/sanyoonoda,196,ファミリーマート 山陽小野田新生一丁目店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/sanyoonoda,197,マクドナルド 小野田店,ハンバーガー、カフェ,,casual,tb,True
+yamaguchi/sanyoonoda,198,ホルモン勝龍,焼肉、ホルモン,,meat,tb,True
+yamaguchi/sanyoonoda,199,ブルプル おのだサンパーク店,スイーツ,,sweets,tb,True
+yamaguchi/sanyoonoda,200,大ぼけ小ぼけ,たこ焼き、焼きそば,,casual,tb,True
+yamaguchi/sanyoonoda,201,茶囲夢,食堂,,casual,tb,True
+yamaguchi/sanyoonoda,202,スパイラルズカフェアンドグッズモンペリエ,カフェ,,cafe,tb,True
+yamaguchi/sanyoonoda,203,牛遊,焼肉,,meat,tb,True
+yamaguchi/sanyoonoda,204,桜子,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,205,LAWSON 厚狭駅前店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/sanyoonoda,206,山口労災病院 売店,その他,,other,none,False
+yamaguchi/sanyoonoda,207,うどん居酒屋 貴,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,208,セブンイレブン キヨスクJR厚狭駅店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/sanyoonoda,209,和語飲処 まる家,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,210,LAWSON 山陽小野田埴生店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/sanyoonoda,211,天然温泉みちしお 休憩スペース,ジェラート・アイスクリーム,,sweets,tb,True
+yamaguchi/sanyoonoda,212,セブンイレブン 山口厚狭本町,コンビニ・スーパー,,daily,tb,True
+yamaguchi/sanyoonoda,213,居座ッ食 あき,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,214,ostぶちdell,たい焼き・大判焼き,,sweets,tb,True
+yamaguchi/sanyoonoda,215,897cafe,カフェ,,cafe,tb,True
+yamaguchi/sanyoonoda,216,あや,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,217,ぽんの時間,カフェ,,cafe,tb,True
+yamaguchi/sanyoonoda,218,めん六や 山口小野田店,うどん、そば、ラーメン,,noodles,tb,True
+yamaguchi/sanyoonoda,219,HARU HARUキンパ,韓国料理,,chinese,tb,True
+yamaguchi/sanyoonoda,220,マックスバリュ 小野田店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/sanyoonoda,221,生餃子専門店 らいち,餃子,,chinese,tb,True
+yamaguchi/sanyoonoda,222,ビストロ アマービレ,レストラン,,other,none,False
+yamaguchi/sanyoonoda,223,ウエスタまるき 神田店,揚げ物,,casual,tb,True
+yamaguchi/sanyoonoda,224,無印良品 おのだサンパーク,その他,,other,none,False
+yamaguchi/sanyoonoda,225,ゆめマート 南小野田店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/sanyoonoda,226,冨丸,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,227,丸久 高千帆店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/sanyoonoda,228,まごころ弁当 小野田店,その他,,other,none,False
+yamaguchi/sanyoonoda,229,二鶴寿し,寿司,,seafood,tb,True
+yamaguchi/sanyoonoda,230,豆狸,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,231,べにはな,レストラン,,other,none,False
+yamaguchi/sanyoonoda,232,おしゃべりたいむ,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,233,手作り惣菜　味彩,弁当,,casual,tb,True
+yamaguchi/sanyoonoda,234,SNACK YAP,その他,,other,none,False
+yamaguchi/sanyoonoda,235,辰五郎寿司,寿司,,seafood,tb,True
+yamaguchi/sanyoonoda,236,お食事工房キッチン,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,237,カウンター炉端 一番星,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,238,カラオケ喫茶あすか,喫茶店,,cafe,tb,True
+yamaguchi/sanyoonoda,239,まるよし食堂,食堂,,casual,tb,True
+yamaguchi/sanyoonoda,240,伊藤肉店,その他,,other,none,False
+yamaguchi/sanyoonoda,241,アーリーバーズ,カフェ,,cafe,tb,True
+yamaguchi/sanyoonoda,242,定食屋 古粋,食堂,,casual,tb,True
+yamaguchi/sanyoonoda,243,とろろ居酒屋 八丁堀,居酒屋、海鮮、つけ麺,,izakaya,tb,True
+yamaguchi/sanyoonoda,244,小野田オリエンタルホテル,ホテル,,other,none,False
+yamaguchi/sanyoonoda,245,日だまり,食堂,,casual,tb,True
+yamaguchi/sanyoonoda,246,マァール,カフェ,,cafe,tb,True
+yamaguchi/sanyoonoda,247,RETRO LIFE BAR,バー,,izakaya,tb,True
+yamaguchi/sanyoonoda,248,串焼居酒屋 キンブタ,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,249,STRIKE,バー,,izakaya,tb,True
+yamaguchi/sanyoonoda,250,510くれーぷ,クレープ・ガレット,,sweets,tb,True
+yamaguchi/sanyoonoda,251,セブンイレブン 山陽小野田丸河内店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/sanyoonoda,252,成ゆCafe,カフェ、薬膳,,cafe,tb,True
+yamaguchi/sanyoonoda,253,居酒屋ふぁいなるあんさー,居酒屋,,izakaya,tb,True
+yamaguchi/sanyoonoda,254,しお,喫茶店,,cafe,tb,True
+yamaguchi/sanyoonoda,255,Nanairo Yasai Ichigu No Sato,,European,european,ta,True
+yamaguchi/sanyoonoda,256,Sol Poniente,,Spanish,european,ta,True
+yamaguchi/sanyoonoda,257,Zouseki,,French,european,ta,True
+yamaguchi/sanyoonoda,258,Izumiya Asa Main Store,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/sanyoonoda,259,Wakashin,,Seafood,seafood,ta,True
+yamaguchi/sanyoonoda,260,Teigebekku,,Cafe,cafe,ta,True
+yamaguchi/sanyoonoda,261,Eijian,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/sanyoonoda,262,Chinese Noodle Sampei,,Chinese,chinese,ta,True
+yamaguchi/sanyoonoda,263,Curry Ya Rock,,,other,none,False
+yamaguchi/sanyoonoda,264,La Tierra,,Mediterranean,other,none,False
+yamaguchi/sanyoonoda,265,Roku No Ya Onoda,,Asian,chinese,ta,True
+yamaguchi/sanyoonoda,266,Tatsu Sushi,,Japanese;Seafood;Sushi;Japanese - Other ,seafood,ta,True
+yamaguchi/sanyoonoda,267,Ramen Ryu,,Asian,chinese,ta,True
+yamaguchi/sanyoonoda,268,Musashi Onoda,,,other,none,False
+yamaguchi/sanyoonoda,269,Mensai Shuya Raichi,,Asian,chinese,ta,True
+yamaguchi/sanyoonoda,270,Toko Yamaguchi Onoda,,Chinese,chinese,ta,True
+yamaguchi/sanyoonoda,271,Tajimaya Onoda,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/sanyoonoda,272,Kurama,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/sanyoonoda,273,Coco Don,,,other,none,False
+yamaguchi/sanyoonoda,274,Starbucks Coffee Onoda Sunpark,,Cafe,cafe,ta,True
+yamaguchi/sanyoonoda,275,Subway Onoda Sun Park,,Fast Food,casual,ta,True
+yamaguchi/sanyoonoda,276,Ramen Godaime Yutaka,,,other,none,False
+yamaguchi/sanyoonoda,277,Ramen Shop Onoda,,,other,none,False
+yamaguchi/sanyoonoda,278,Trois Maison,,Cafe,cafe,ta,True
+yamaguchi/sanyoonoda,279,Dumplings Chuka Sakaba Tora No Ko,,Chinese,chinese,ta,True
+yamaguchi/sanyoonoda,280,Popolamama Onoda Sunpark,,Italian,european,ta,True
+yamaguchi/sanyoonoda,281,Joyfull,,International,other,none,False
+yamaguchi/sanyoonoda,282,Yamatoya,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/sanyoonoda,283,Gohan to Tororo Toromugi,,,other,none,False
+yamaguchi/sanyoonoda,284,Ramen Kato,,Asian,chinese,ta,True
+yamaguchi/sanyoonoda,285,Joyfull,,International,other,none,False
+yamaguchi/sanyoonoda,286,レストランやけの,,Japanese,japanese,ta,True
+yamaguchi/sanyoonoda,287,どさん子 小野田店,,,other,none,False
+yamaguchi/sanyoonoda,288,Kineya Onoda Sun Park,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/sanyoonoda,289,Seiyo Sosakuryori Bonheur,,Fusion,other,none,False
+yamaguchi/sanyoonoda,290,Calvi Tairikul Onoda,,Barbecue,meat,ta,True
+yamaguchi/sanyoonoda,291,Konamonya Tenten,,Japanese;Fast Food,casual,ta,True
+yamaguchi/sanyoonoda,292,Mamekichi,,,other,none,False
+yamaguchi/sanyoonoda,293,Honks Ku Indian Restaurant Shapla,,Indian,curry,ta,True
+yamaguchi/sanyoonoda,294, Chukasoba Bypass,,Asian,chinese,ta,True
+yamaguchi/sanyoonoda,295,Hakkenden Onoda Ekimae,,Japanese,japanese,ta,True
+yamaguchi/sanyoonoda,296,Ikkyuonoda Minato,,,other,none,False
+yamaguchi/sanyoonoda,297,Restaurant Moga,,French;Japanese;International,european,ta,True
+yamaguchi/sanyoonoda,298,Benten Ramen,,Asian,chinese,ta,True
+yamaguchi/sanyoonoda,299,Hiyoko,,Cafe,cafe,ta,True
+yamaguchi/sanyoonoda,300,Kunembo,,Cafe,cafe,ta,True
+yamaguchi/sanyoonoda,301,Cafe Plaire,,Cafe,cafe,ta,True
+yamaguchi/sanyoonoda,302,Sansan Dining Hall Onoda,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/sanyoonoda,303,Ebisu,,Japanese,japanese,ta,True
+yamaguchi/sanyoonoda,304,Cafe Coco,,Cafe,cafe,ta,True
+yamaguchi/sanyoonoda,305,Utagoe Kissa Magokoro,,International,other,none,False
+yamaguchi/sanyoonoda,306,Tecchan,,Japanese,japanese,ta,True
+yamaguchi/sanyoonoda,307,Cafe Azami,,Cafe,cafe,ta,True
+yamaguchi/sanyoonoda,308,Katsu Shokudo,,Japanese,japanese,ta,True
+yamaguchi/sanyoonoda,309,Shokuraku En,,Japanese,japanese,ta,True
+yamaguchi/sanyoonoda,310,Pepper Lunch Onoda Sunpark,,,other,none,False
+yamaguchi/sanyoonoda,311,Saboten,,Cafe,cafe,ta,True
+yamaguchi/sanyoonoda,312,Ajiichi,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/sanyoonoda,313,Sekishu Udon,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/sanyoonoda,314,Pepper Lunch Onoda Sun Park,,,other,none,False
+yamaguchi/sanyoonoda,315,Panda,,Cafe,cafe,ta,True
+yamaguchi/sanyoonoda,316,Dondon,,Japanese,japanese,ta,True
+yamaguchi/sanyoonoda,317,Pony,,Cafe,cafe,ta,True
+yamaguchi/sanyoonoda,318,Murasaki Onoda Branch,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/sanyoonoda,319,Yakiniku Nandaimon,,Barbecue,meat,ta,True
+yamaguchi/sanyoonoda,320,Makanaiya Ota,,Japanese,japanese,ta,True
+yamaguchi/sanyoonoda,321,Good Coffee 27,,,other,none,False
+yamaguchi/sanyoonoda,322,President Country Club Sanyo Restaurant,,Japanese,japanese,ta,True
+yamaguchi/sanyoonoda,323,Kodama Drive In,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/sanyoonoda,324,Tokyo University of Science Yamaguchi No 1 Dining Hall,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/sanyoonoda,325,Rakushoku Sabo Wakuwaku An,,Japanese;International,japanese,ta,True
+yamaguchi/sanyoonoda,326,Akkonoron,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/sanyoonoda,327,Fuji Restaurant Snack,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/sanyoonoda,328,Elise,,,other,none,False
+yamaguchi/sanyoonoda,329,Curry Ya Mami,,Japanese;Indian,curry,ta,True
+yamaguchi/sanyoonoda,330,Machinoeki Kushiyama,,Japanese - Other ,japanese,ta,True
+yamaguchi/sanyoonoda,331,Mikami Shokudo,,Japanese,japanese,ta,True
+yamaguchi/sanyoonoda,332,Miyanoryo,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/sanyoonoda,333,Yumeya,,Japanese,japanese,ta,True
+yamaguchi/sanyoonoda,334,Omuraisutei Yamaguchi Onoda Sun Park,,International,other,none,False
+yamaguchi/sanyoonoda,335,Ochacha,,Japanese;Sushi,seafood,ta,True
+yamaguchi/sanyoonoda,336,Sato,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/sanyoonoda,337,Ikko En,,Chinese,chinese,ta,True
+yamaguchi/sanyoonoda,338,Haikara Dorionoda Main Store,,Japanese,japanese,ta,True
+yamaguchi/sanyoonoda,339,Frigo,,Italian,european,ta,True
+yamaguchi/sanyoonoda,340,DESSERT,,,other,none,False
+yamaguchi/sanyoonoda,341,Roppongi Shokudo,,Japanese,japanese,ta,True
+yamaguchi/sanyoonoda,342,K Chan,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/sanyoonoda,343,Koala,,,other,none,False
+yamaguchi/sanyoonoda,344,Otsuya Honten Annex,,Japanese;Japanese - Traditional Cuisine,japanese,ta,True
+yamaguchi/sanyoonoda,345,Tobuhino,,Japanese,japanese,ta,True
+yamaguchi/sanyoonoda,346,Sushi Kappo Shiosai,,Japanese;Japanese - Traditional Cuisine;Kappo,japanese,ta,True
+yamaguchi/sanyoonoda,347,Bore Karaoke Cafe,,International,other,none,False
+yamaguchi/sanyoonoda,348,樽2,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/sanyoonoda,349,Tagosaku,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/sanyoonoda,350,Nonta Kushiage Dining,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/sanyoonoda,351,Dommaru Onoda,,Japanese,japanese,ta,True
+yamaguchi/sanyoonoda,352,Japanese Hanamura,,,other,none,False
+yamaguchi/sanyoonoda,353,Ryu Chan,,Japanese,japanese,ta,True
+yamaguchi/sanyoonoda,354,Lounge Coco,,Pub,izakaya,ta,True
+yamaguchi/sanyoonoda,355,Rouge,,,other,none,False
+yamaguchi/sanyoonoda,356,Kishotei Asa Eki,,,other,none,False
+yamaguchi/sanyoonoda,357,Yakiniku Kotobukien,,Japanese,japanese,ta,True
+yamaguchi/sanyoonoda,358,Lounge Camelia,,Pub,izakaya,ta,True
+yamaguchi/sanyoonoda,359,Choinomi Shin,,Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/sanyoonoda,360,Shushokuya Shoki,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/sanyoonoda,361,Izakaya Kamehachi,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/sanyoonoda,362,Maki,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/sanyoonoda,363,Life s Cafe,,,other,none,False
+yamaguchi/sanyoonoda,364,Kinbuta,,,other,none,False
+yamaguchi/sanyoonoda,365,Shunsaitatsuki,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/sanyoonoda,366,Clair,,,other,none,False
+yamaguchi/sanyoonoda,367,Purupan,,,other,none,False
+yamaguchi/sanyoonoda,368,Osakanayasan Shushu,,,other,none,False
+yamaguchi/sanyoonoda,369,Croquette Dininig Room,,,other,none,False
+yamaguchi/sanyoonoda,370,Purupan,,,other,none,False
+yamaguchi/sanyoonoda,371,Early Birds,,,other,none,False
+yamaguchi/shimonoseki,1,旬楽館,ふぐ、日本料理、海鮮,,seafood,tb,True
+yamaguchi/shimonoseki,2,ふく・長州料理 KATSUMOTO,ふぐ、日本料理,,seafood,tb,True
+yamaguchi/shimonoseki,3,離れ 竜胆,すっぽん、海鮮、寿司,,japanese,tb,True
+yamaguchi/shimonoseki,4,AKAMA布久亭,ふぐ、日本料理、海鮮,,seafood,tb,True
+yamaguchi/shimonoseki,5,や台ずし   下関駅前町,居酒屋、寿司、海鮮,,izakaya,tb,True
+yamaguchi/shimonoseki,6,旬彩炙りダイニング　からと屋,居酒屋、海鮮、ふぐ,,izakaya,tb,True
+yamaguchi/shimonoseki,7,ゾーナイタリア 下関,イタリアン,,european,tb,True
+yamaguchi/shimonoseki,8,Houseki,ふぐ、日本料理,,seafood,tb,True
+yamaguchi/shimonoseki,9,くいもの屋わん シーモール下関店,居酒屋、日本料理、海鮮,,izakaya,tb,True
+yamaguchi/shimonoseki,10,焼肉酒場ちゃやまや,焼肉、居酒屋、肉料理,,meat,tb,True
+yamaguchi/shimonoseki,11,個室で楽しむ九州料理 千鳥丸,居酒屋、海鮮、日本料理,,izakaya,tb,True
+yamaguchi/shimonoseki,12,下関ふく百花 関とら本店,ふぐ,,seafood,tb,True
+yamaguchi/shimonoseki,13,牛角 下関カモンワーフ店,焼肉、ホルモン、韓国料理,,meat,tb,True
+yamaguchi/shimonoseki,14,ワールドコーヒーショップ 王司店,喫茶店、洋食、サンドイッチ,,cafe,tb,True
+yamaguchi/shimonoseki,15,相撲茶屋 長州場所,ちゃんこ鍋,,other,none,False
+yamaguchi/shimonoseki,16,しゃぶしゃぶ瓦そば 茶寮福の花,居酒屋、しゃぶしゃぶ、郷土料理,,izakaya,tb,True
+yamaguchi/shimonoseki,17,豊丸水産 下関駅前店,居酒屋、海鮮、寿司,,izakaya,tb,True
+yamaguchi/shimonoseki,18,酔処きりしま,居酒屋,,izakaya,tb,True
+yamaguchi/shimonoseki,19,Osteria WAKKA,イタリアン,,european,tb,True
+yamaguchi/shimonoseki,20,唐戸唐揚げ 角打ち えっこ,居酒屋,,izakaya,tb,True
+yamaguchi/shimonoseki,21,たまや本店,ふぐ、日本料理,,seafood,tb,True
+yamaguchi/shimonoseki,22,日本酒処 なごみ,居酒屋,,izakaya,tb,True
+yamaguchi/shimonoseki,23,縁,串揚げ,,japanese,tb,True
+yamaguchi/shimonoseki,24,BAR VITA,イタリアン,,european,tb,True
+yamaguchi/shimonoseki,25,寿し 四海,寿司,,seafood,tb,True
+yamaguchi/shimonoseki,26,魚民 下関東口駅前店,居酒屋、海鮮、創作料理,,izakaya,tb,True
+yamaguchi/shimonoseki,27,唐戸海鮮バーベキュー侍,バーベキュー、海鮮,,seafood,tb,False
+yamaguchi/shimonoseki,28,さかな市場 下関駅前店,居酒屋、海鮮、寿司,,izakaya,tb,True
+yamaguchi/shimonoseki,29,Bar HAON,バー,,izakaya,tb,True
+yamaguchi/shimonoseki,30,スペイン酒場ウニコ,スペイン料理,,european,tb,True
+yamaguchi/shimonoseki,31,下関鯨屋 日新丸,居酒屋、ラーメン、海鮮,,izakaya,tb,True
+yamaguchi/shimonoseki,32,居酒屋 笑顔満点,居酒屋,,izakaya,tb,True
+yamaguchi/shimonoseki,33,旬の食と楽しい酒 和,居酒屋、日本料理、日本酒バー,,izakaya,tb,True
+yamaguchi/shimonoseki,34,燻製屋,ヨーロッパ料理、洋食,,european,tb,True
+yamaguchi/shimonoseki,35,焼肉かわ本 下関綾羅木店,焼肉,,meat,tb,True
+yamaguchi/shimonoseki,36,炭火焼肉ホルモン横丁 下関店,焼肉,,meat,tb,True
+yamaguchi/shimonoseki,37,レストラン ラ カシェット,フレンチ、創作料理,,european,tb,True
+yamaguchi/shimonoseki,38,ピッツェリア ロマーナ リンコントロ,イタリアン、ピザ、パスタ,,european,tb,True
+yamaguchi/shimonoseki,39,炭火焼き鳥 将軍,居酒屋、焼き鳥,,izakaya,tb,True
+yamaguchi/shimonoseki,40,Hello Again,バー、ダイニングバー、カラオケ,,izakaya,tb,True
+yamaguchi/shimonoseki,41,中国料理 敦煌 山口下関店,中華料理、餃子,,chinese,tb,True
+yamaguchi/shimonoseki,42,Italian Kitchen VANSAN 下関一の宮店,イタリアン、カフェ,,european,tb,True
+yamaguchi/shimonoseki,43,黒かしわ,居酒屋、海鮮、鳥料理,,izakaya,tb,True
+yamaguchi/shimonoseki,44,宝仙,海鮮、ふぐ,,seafood,tb,True
+yamaguchi/shimonoseki,45,下関個室居酒屋 伊蔵,居酒屋,,izakaya,tb,True
+yamaguchi/shimonoseki,46,ゆめぜん 下関店,居酒屋、ふぐ、もつ鍋,,izakaya,tb,True
+yamaguchi/shimonoseki,47,居酒屋厨房 ふじい,居酒屋,,izakaya,tb,True
+yamaguchi/shimonoseki,48,焼肉 ばか盛屋,焼肉、ホルモン、韓国料理,,meat,tb,True
+yamaguchi/shimonoseki,49,ナンダン シーモール店,インド料理,,curry,tb,True
+yamaguchi/shimonoseki,50,Ensoleil Takumi,ダイニングバー、創作料理,,izakaya,tb,True
+yamaguchi/shimonoseki,51,ゑびす門,居酒屋、海鮮、鳥料理,,izakaya,tb,True
+yamaguchi/shimonoseki,52,コメダ珈琲店 下関綾羅木店,喫茶店,,cafe,tb,True
+yamaguchi/shimonoseki,53,インド料理マサラカレー 新下関店,インド料理,,curry,tb,True
+yamaguchi/shimonoseki,54,DtheBASE,ダイニングバー,,izakaya,tb,True
+yamaguchi/shimonoseki,55,どん兵衛,焼き鳥,,meat,tb,True
+yamaguchi/shimonoseki,56,オネット,レストラン,,other,none,False
+yamaguchi/shimonoseki,57,自然派ダイニング 森と灯,ビュッフェ,,casual,tb,True
+yamaguchi/shimonoseki,58,春帆楼 下関本店,ふぐ、料理旅館、日本料理,,seafood,tb,True
+yamaguchi/shimonoseki,59,宮の内茶寮,日本料理、ふぐ,,japanese,tb,True
+yamaguchi/shimonoseki,60,Ikiiki Bakangai,,Japanese;Seafood;Sushi,seafood,ta,True
+yamaguchi/shimonoseki,61,Ichibashokudo Yoshi,,Japanese;Seafood,seafood,ta,True
+yamaguchi/shimonoseki,62,Mimasu,,Japanese;Seafood,seafood,ta,True
+yamaguchi/shimonoseki,63,Ganso Kawarasoba Takase,,Japanese,japanese,ta,True
+yamaguchi/shimonoseki,64,Okamoto Sengyoten,,Japanese;Seafood,seafood,ta,True
+yamaguchi/shimonoseki,65,Heikejaya,,Japanese,japanese,ta,True
+yamaguchi/shimonoseki,66,Kaiten Karatoichibazushi,,Japanese;Seafood;Sushi;Asian,seafood,ta,True
+yamaguchi/shimonoseki,67,Jidorishuka Kurokashiwa Shimonoseki,,Japanese;Seafood;Izakaya (Japanese Style Tavern),seafood,ta,True
+yamaguchi/shimonoseki,68,Takesho Foods,,Japanese;Seafood;Sushi,seafood,ta,True
+yamaguchi/shimonoseki,69,Yabure Kabure,,Japanese;Seafood;Japanese - Other ,seafood,ta,True
+yamaguchi/shimonoseki,70,Mittsu Notamago,,,other,none,False
+yamaguchi/shimonoseki,71,Sakana Ichiba Shimonoseki Ekimae,,Seafood,seafood,ta,True
+yamaguchi/shimonoseki,72,Shoeikentoyoura Blue Line,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/shimonoseki,73,Fugu Cuisine Shinoda,,Japanese;Seafood;Kaiseki;Kappo,seafood,ta,True
+yamaguchi/shimonoseki,74,Shunrakukan,,Seafood,seafood,ta,True
+yamaguchi/shimonoseki,75,Sushi Kappo Naniwa,,Japanese;Seafood;Sushi;Kappo,seafood,ta,True
+yamaguchi/shimonoseki,76,Hiroshima Okonomiyaki Kokoya,,Japanese,japanese,ta,True
+yamaguchi/shimonoseki,77,Yorozu Cafe,,Cafe,cafe,ta,True
+yamaguchi/shimonoseki,78,Rerere no Re,,Japanese,japanese,ta,True
+yamaguchi/shimonoseki,79,Gabbiano,,Italian,european,ta,True
+yamaguchi/shimonoseki,80,Fukunoseki Kamonwafuten,,Japanese;Seafood,seafood,ta,True
+yamaguchi/shimonoseki,81,Yakiniku Yasumori Shimonoseki Green Mall,,Barbecue;Asian;Korean,meat,ta,True
+yamaguchi/shimonoseki,82,Fukunokawaku Karato,,Japanese;Seafood,seafood,ta,True
+yamaguchi/shimonoseki,83,Mannaoshi,,Japanese;Seafood;Grill,seafood,ta,True
+yamaguchi/shimonoseki,84,Kameya Sea Mall,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/shimonoseki,85,Karatoya,,Bar,izakaya,ta,True
+yamaguchi/shimonoseki,86,Fresh Shiokazenosato,,Japanese;Seafood;Japanese - Other ,seafood,ta,True
+yamaguchi/shimonoseki,87,Saiza Wada,,Japanese;Japanese - Traditional Cuisine;Kaiseki,japanese,ta,True
+yamaguchi/shimonoseki,88,Waofusosakuryori Hiyorian,,Fusion,other,none,False
+yamaguchi/shimonoseki,89,Karato Shokudo,,Japanese,japanese,ta,True
+yamaguchi/shimonoseki,90,Wakuwaku Tei,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/shunan,1,レストラン シーホース,フレンチ、パスタ、カフェ,,european,tb,True
+yamaguchi/shunan,2,三代目 鳥メロ  徳山店,焼き鳥、居酒屋、もつ鍋,,meat,tb,True
+yamaguchi/shunan,3,博多もつ鍋 馬肉 九州自慢 徳山店,居酒屋、もつ鍋、餃子,,izakaya,tb,True
+yamaguchi/shunan,4,縁 徳山駅前店,居酒屋、日本料理,,izakaya,tb,True
+yamaguchi/shunan,5,個室完備 大衆とり酒場 とりいちず 山口徳山店,居酒屋、焼き鳥、水炊き,,izakaya,tb,True
+yamaguchi/shunan,6,完全個室 ここ一軒で山口県 わらやき吉祥 徳山店,居酒屋、海鮮、郷土料理,,izakaya,tb,True
+yamaguchi/shunan,7,串カツ田中 周南店,串揚げ、居酒屋、うどん,,japanese,tb,True
+yamaguchi/shunan,8,や台ずし 徳山駅前町,居酒屋、寿司、海鮮,,izakaya,tb,True
+yamaguchi/shunan,9,Kitchen RICO,イタリアン、ワインバー,,european,tb,True
+yamaguchi/shunan,10,牛角 徳山店,焼肉、ホルモン,,meat,tb,True
+yamaguchi/shunan,11,八剣伝 新南陽駅前店,居酒屋、焼き鳥、鳥料理,,izakaya,tb,True
+yamaguchi/shunan,12,焼肉ホルモン金龍 本店,ホルモン、焼肉、居酒屋,,meat,tb,True
+yamaguchi/shunan,13,BBQ酒場イチバンチョウバル みなみ銀座店,居酒屋、洋食、焼肉,,izakaya,tb,True
+yamaguchi/shunan,14,炭火焼肉 ホルモン横丁 徳山店,焼肉,,meat,tb,True
+yamaguchi/shunan,15,炭火焼肉 ホルモン横丁 新南陽駅前店,焼肉、ホルモン,,meat,tb,True
+yamaguchi/shunan,16,もつ蔵 徳山店,もつ鍋、パスタ,,meat,tb,True
+yamaguchi/shunan,17,焼き鳥 マル八 周南,居酒屋、焼き鳥、水炊き,,izakaya,tb,True
+yamaguchi/shunan,18,メープルヒル,フレンチ、パスタ,,european,tb,True
+yamaguchi/shunan,19,目利きの銀次 徳山みゆき口駅前店,居酒屋、海鮮、創作料理,,izakaya,tb,True
+yamaguchi/shunan,20,福の花 徳山店,居酒屋、焼き鳥、串焼き,,izakaya,tb,True
+yamaguchi/shunan,21,3tree,バー、バル、居酒屋,,izakaya,tb,True
+yamaguchi/shunan,22,炭火焼鳥しゃかりき,焼き鳥、居酒屋、鳥料理,,meat,tb,True
+yamaguchi/shunan,23,串焼き 地魚 旨飯 周南Diningぜん 徳山駅前店,居酒屋、焼き鳥、海鮮,,izakaya,tb,True
+yamaguchi/shunan,24,白うさぎに誘われて,居酒屋,,izakaya,tb,True
+yamaguchi/shunan,25,さば料理専門店 SABAR+ 徳山銀座店,居酒屋、海鮮、棒寿司,,izakaya,tb,True
+yamaguchi/shunan,26,焼肉・ホルモン 金龍 新南陽店,焼肉,,meat,tb,True
+yamaguchi/shunan,27,居食屋 蛍,居酒屋、日本料理、馬肉料理,,izakaya,tb,True
+yamaguchi/shunan,28,全席完全個室 九州鶏料理居酒屋よか鶏 周南市徳山店,居酒屋、鳥料理、創作料理,,izakaya,tb,True
+yamaguchi/shunan,29,黒毛和牛専門店 炭火焼肉 ぶち 周南店,焼肉、ホルモン、居酒屋,,meat,tb,True
+yamaguchi/shunan,30,寿司 魚政,寿司,,seafood,tb,True
+yamaguchi/shunan,31,Restaurant & Bar CHARRY’S,創作料理、ダイニングバー、バー,,japanese,tb,True
+yamaguchi/shunan,32,アオゾラテーブル,カフェ、ダイニングバー、洋食,,cafe,tb,True
+yamaguchi/shunan,33,匠 18番館,日本料理、レストラン,,japanese,tb,True
+yamaguchi/shunan,34,栄ふく,ふぐ,,seafood,tb,True
+yamaguchi/shunan,35,鉄板処 犇,鉄板焼き,,meat,tb,True
+yamaguchi/shunan,36,mucu mucu,カフェ、ダイニングバー,,cafe,tb,True
+yamaguchi/shunan,37,創作料理 呑生,居酒屋、創作料理、ダイニングバー,,izakaya,tb,True
+yamaguchi/shunan,38,イタリアン酒場 Osteria goloso,イタリアン、ダイニングバー、パスタ,,european,tb,True
+yamaguchi/shunan,39,中国料理 敦煌 山口周南店,中華料理、ビュッフェ、居酒屋,,chinese,tb,True
+yamaguchi/shunan,40,炭火 富川,ダイニングバー,,izakaya,tb,True
+yamaguchi/shunan,41,パリクロアッサン 桜馬場店,パン,,sweets,tb,True
+yamaguchi/shunan,42,百日紅,カフェ,,cafe,tb,True
+yamaguchi/shunan,43,TOTOMATO 周南店,カフェ,,cafe,tb,True
+yamaguchi/shunan,44,Cream,ソフトクリーム,,sweets,tb,True
+yamaguchi/shunan,45,KOKAI,喫茶店,,cafe,tb,True
+yamaguchi/shunan,46,寿しんぼ,寿司、ふぐ,,seafood,tb,True
+yamaguchi/shunan,47,たわら 銀座本店,その他,,other,none,False
+yamaguchi/shunan,48,花々亭,居酒屋,,izakaya,tb,True
+yamaguchi/shunan,49,ほっともっと 遠石店,弁当,,casual,tb,True
+yamaguchi/shunan,50,花百,カフェ,,cafe,tb,True
+yamaguchi/shunan,51,HANOI KITCHEN,ベトナム料理,,chinese,tb,True
+yamaguchi/shunan,52,キーストン,バー、ダイニングバー,,izakaya,tb,True
+yamaguchi/shunan,53,赤鬼,喫茶店、麺類,,cafe,tb,True
+yamaguchi/shunan,54,餃子大将,中華料理、四川料理,,chinese,tb,True
+yamaguchi/shunan,55,三丘文庫,その他,,other,none,False
+yamaguchi/shunan,56,髙美食堂,食堂,,casual,tb,True
+yamaguchi/shunan,57,THE BAKERS LOAF 周南店,パン,,sweets,tb,True
+yamaguchi/shunan,58,セブンイレブン 周南築港町店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/shunan,59,Hide-out,レストラン,,other,none,False
+yamaguchi/shunan,60,カフェファディ 徳山店,カフェ,,cafe,tb,True
+yamaguchi/shunan,61,Teuchiudonkukai,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/shunan,62,Nokaresutorantanuki,,Japanese;Healthy;Japanese - Other ,japanese,ta,True
+yamaguchi/shunan,63,Shorotei,,Japanese,japanese,ta,True
+yamaguchi/shunan,64,Tres F B C,,Cafe,cafe,ta,True
+yamaguchi/shunan,65,Ikazaki,,Japanese;Seafood,seafood,ta,True
+yamaguchi/shunan,66,Restaurant Ocem,,,other,none,False
+yamaguchi/shunan,67,Shokuraku Dokoro Kawanishi,,Japanese;Seafood,seafood,ta,True
+yamaguchi/shunan,68,Sandaime Torimero Tokuyama,,Brew Pub;Pub,izakaya,ta,True
+yamaguchi/shunan,69,Ramen Namiki Seikaichiba,,Asian,chinese,ta,True
+yamaguchi/shunan,70,Tonkatsu Hamakatsu Shinnanyo Eigenzan,,Japanese,japanese,ta,True
+yamaguchi/shunan,71,Bamboo Italian Restaurant,,Italian,european,ta,True
+yamaguchi/shunan,72,Zona Italianatokuyama,,Italian,european,ta,True
+yamaguchi/shunan,73,Fukuno Hana Tokuyama,,Japanese,japanese,ta,True
+yamaguchi/shunan,74,Takenodai,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/shunan,75,Indoryoriganeju,,Indian,curry,ta,True
+yamaguchi/shunan,76,Cafe Club Mill,,Cafe,cafe,ta,True
+yamaguchi/shunan,77,Manpukuen Yakiniku,,Japanese,japanese,ta,True
+yamaguchi/shunan,78,Starbucks Coffee,,Cafe,cafe,ta,True
+yamaguchi/shunan,79,Orenjikafe,,Cafe,cafe,ta,True
+yamaguchi/shunan,80,Kume Pizza Lumaca,,Italian;Pizza,european,ta,True
+yamaguchi/shunan,81,Jolly Ox Tokuyama,,,other,none,False
+yamaguchi/shunan,82,Torisoba Kaworu,,Asian,chinese,ta,True
+yamaguchi/shunan,83,Sakae Fuku,,Seafood,seafood,ta,True
+yamaguchi/shunan,84,Kyushu Ramen Taiyo,,,other,none,False
+yamaguchi/shunan,85,Nishiuchi,,,other,none,False
+yamaguchi/shunan,86,Arasuka,,International,other,none,False
+yamaguchi/shunan,87,Okonomiyaki Yasukyu,,Japanese,japanese,ta,True
+yamaguchi/shunan,88,Ichifuku Sushi,,Japanese;Sushi,seafood,ta,True
+yamaguchi/shunan,89,酔牛亭,,Steakhouse,meat,ta,True
+yamaguchi/shunan,90,Thai Yakisoba Mera,,Asian;Thai,chinese,ta,True
+yamaguchi/suoooshima,1,瀬戸内ジャムズガーデン,カフェ、スイーツ、喫茶店,,cafe,tb,True
+yamaguchi/suoooshima,2,たちばなや食堂,ラーメン、食堂,,noodles,tb,True
+yamaguchi/suoooshima,3,リ セト,カフェ、洋食,,cafe,tb,True
+yamaguchi/suoooshima,4,お侍茶屋　彦右衛門,海鮮、カレー、ラーメン,,seafood,tb,True
+yamaguchi/suoooshima,5,ALOHA ORANGE 2nd,ハワイ料理、ハンバーガー,,casual,tb,False
+yamaguchi/suoooshima,6,料理旅館　かわい寿し,寿司、旅館・民宿,,seafood,tb,True
+yamaguchi/suoooshima,7,アロハオレンジ 本店,ハワイ料理,,other,none,False
+yamaguchi/suoooshima,8,大島本陣茶屋,しゃぶしゃぶ、バーベキュー,,meat,tb,True
+yamaguchi/suoooshima,9,道の駅 サザンセト とうわ レストラン,食堂、郷土料理,,casual,tb,True
+yamaguchi/suoooshima,10,食在周防あらかわ,海鮮、釜飯、郷土料理,,seafood,tb,True
+yamaguchi/suoooshima,11,竜崎温泉 ちどり,海鮮、郷土料理、食堂,,seafood,tb,True
+yamaguchi/suoooshima,12,道の駅 サザンセトとうわ 売店,道の駅,,other,none,False
+yamaguchi/suoooshima,13,島のカンボジア料理 オークン,東南アジア料理,,chinese,tb,True
+yamaguchi/suoooshima,14,MARISSA RESORT sazanseto suo-oshima,ホテル,,other,none,False
+yamaguchi/suoooshima,15,パンコッペ シーブリーズ店,パン、スイーツ、カフェ,,sweets,tb,True
+yamaguchi/suoooshima,16,カフェ・ミサキ,カフェ、カレー,,cafe,tb,True
+yamaguchi/suoooshima,17,パワービーチ,カフェ,,cafe,tb,True
+yamaguchi/suoooshima,18,幸進堂,洋菓子、和菓子,,sweets,tb,True
+yamaguchi/suoooshima,19,サルワーレ 周防大島店,ピザ、パスタ,,european,tb,True
+yamaguchi/suoooshima,20,鮨くぼ田,寿司,,seafood,tb,True
+yamaguchi/suoooshima,21,みかちゃんラーメン,ラーメン,,noodles,tb,True
+yamaguchi/suoooshima,22,遊食酒房 ちどり本店,日本料理、居酒屋,,japanese,tb,True
+yamaguchi/suoooshima,23,グリルANCHOR,カフェ、ハワイ料理,,cafe,tb,True
+yamaguchi/suoooshima,24,石窯カフェ レストラン さぶろう亭,カフェ、洋食,,cafe,tb,True
+yamaguchi/suoooshima,25,サフラン,洋食、ステーキ、オムライス,,european,tb,True
+yamaguchi/suoooshima,26,iiiro,ジェラート・アイスクリーム、カフェ,,sweets,tb,True
+yamaguchi/suoooshima,27,春夏冬,食堂、ラーメン,,casual,tb,True
+yamaguchi/suoooshima,28,城山食堂,食堂,,casual,tb,True
+yamaguchi/suoooshima,29,桜波夏,ラーメン,,noodles,tb,True
+yamaguchi/suoooshima,30,粗挽き十割そば ふく朗,そば,,noodles,tb,True
+yamaguchi/suoooshima,31,旬菜 由乃,居酒屋、海鮮,,izakaya,tb,True
+yamaguchi/suoooshima,32,MIKKE,クレープ・ガレット,,sweets,tb,True
+yamaguchi/suoooshima,33,Grand cafe SEA BREEZE 1976,カフェ、イタリアン,,cafe,tb,True
+yamaguchi/suoooshima,34,レストラン・グリーンガーデン,ハワイ料理、バーベキュー,,other,none,False
+yamaguchi/suoooshima,35,カサハラ ハニー,カフェ,,cafe,tb,True
+yamaguchi/suoooshima,36,周防大島 お寺カフェ,カフェ、スイーツ、日本料理,,cafe,tb,True
+yamaguchi/suoooshima,37,大島スイーツ工房ゆーたん,ケーキ、スイーツ,,sweets,tb,True
+yamaguchi/suoooshima,38,のち,うどん、おでん,,noodles,tb,True
+yamaguchi/suoooshima,39,MINAPA COFFEE,カフェ、スイーツ,,cafe,tb,True
+yamaguchi/suoooshima,40,海カフェ Cachette,カフェ、洋食,,cafe,tb,True
+yamaguchi/suoooshima,41,つるや,日本料理、食堂,,japanese,tb,True
+yamaguchi/suoooshima,42,お好焼まきちゃん,お好み焼き、日本料理,,casual,tb,True
+yamaguchi/suoooshima,43,城山製パン,パン,,sweets,tb,True
+yamaguchi/suoooshima,44,島たこ ショウちゃん,たこ焼き,,casual,tb,True
+yamaguchi/suoooshima,45,本格手打ち 一心うどん 泉本屋,うどん,,noodles,tb,True
+yamaguchi/suoooshima,46,ジョイ ナス,レストラン、カフェ,,cafe,tb,False
+yamaguchi/suoooshima,47,もつ鍋 濵勝,もつ鍋、焼きそば、カレー,,meat,tb,True
+yamaguchi/suoooshima,48,中川鮮魚店,食堂、海鮮,,casual,tb,True
+yamaguchi/suoooshima,49,プリンのお店k-site,プリン,,other,none,False
+yamaguchi/suoooshima,50,パララン,弁当、タイ料理,,casual,tb,True
+yamaguchi/suoooshima,51,COFFEE コナ with FINE FOODS,喫茶店,,cafe,tb,True
+yamaguchi/suoooshima,52,いっせい,お好み焼き,,casual,tb,True
+yamaguchi/suoooshima,53,海ぞい食どう にくきゅう,食堂,,casual,tb,True
+yamaguchi/suoooshima,54,ピーカンスイーツファクトリー,洋菓子,,sweets,tb,True
+yamaguchi/suoooshima,55,fish & oyster bar La Verite,オイスターバー,,other,none,False
+yamaguchi/suoooshima,56,エッセンス,カフェ,,cafe,tb,True
+yamaguchi/suoooshima,57,ながや菓子工房,洋菓子,,sweets,tb,True
+yamaguchi/suoooshima,58,Cafe de Costa Rica,カフェ,,cafe,tb,True
+yamaguchi/suoooshima,59,鮨や大将 うみべ,寿司,,seafood,tb,True
+yamaguchi/suoooshima,60,瀬戸内花嫁たい焼き,たい焼き・大判焼き,,sweets,tb,True
+yamaguchi/suoooshima,61,伊川製菓,和菓子、洋菓子,,sweets,tb,True
+yamaguchi/suoooshima,62,MATCHA-STAND TACHIBANA,カフェ,,cafe,tb,True
+yamaguchi/suoooshima,63,餅匠かわた,甘味処,,sweets,tb,True
+yamaguchi/suoooshima,64,ULL i m,カフェ,,cafe,tb,True
+yamaguchi/suoooshima,65,瀬戸内パーラー,ドーナツ,,sweets,tb,True
+yamaguchi/suoooshima,66,江戸風手打ちそば うずしお亭,そば,,noodles,tb,True
+yamaguchi/suoooshima,67,ガーデンカフェ リバージュ,カフェ,,cafe,tb,True
+yamaguchi/suoooshima,68,AMERICAN STANDARD,サンドイッチ、ソフトクリーム,,sweets,tb,True
+yamaguchi/suoooshima,69,周防大島お魚センター,海鮮、惣菜・デリ,,seafood,tb,True
+yamaguchi/suoooshima,70,サロン ふきのとう,喫茶店,,cafe,tb,True
+yamaguchi/suoooshima,71,スパゲッツパンチ,パスタ,,european,tb,True
+yamaguchi/suoooshima,72,クレストオブザウェイブ立岩,日本料理,,japanese,tb,True
+yamaguchi/suoooshima,73,サンサンガーデン,カフェ、食堂,,cafe,tb,True
+yamaguchi/suoooshima,74,Corvo fine,パスタ,,european,tb,True
+yamaguchi/suoooshima,75,島の恵み 本店,その他,,other,none,False
+yamaguchi/suoooshima,76,Erin,フレンチ,,european,tb,True
+yamaguchi/suoooshima,77,Aria,フレンチ,,european,tb,True
+yamaguchi/suoooshima,78,大師堂喫茶室,喫茶店,,cafe,tb,True
+yamaguchi/suoooshima,79,HILO BAKERY,パン,,sweets,tb,True
+yamaguchi/suoooshima,80,お好み焼き しずちゃん,お好み焼き,,casual,tb,True
+yamaguchi/suoooshima,81,果子乃季 大島店,和菓子,,sweets,tb,True
+yamaguchi/suoooshima,82,嶋津鮮魚店,その他,,other,none,False
+yamaguchi/suoooshima,83,cafe わたの花,カフェ,,cafe,tb,True
+yamaguchi/suoooshima,84,石鍋亭,その他,,other,none,False
+yamaguchi/suoooshima,85,割烹　味彩,日本料理,,japanese,tb,True
+yamaguchi/suoooshima,86,金ねこ,カレー,,curry,tb,True
+yamaguchi/suoooshima,87,Haukalima HOSSY,ジェラート・アイスクリーム,,sweets,tb,True
+yamaguchi/suoooshima,88,ごはんや 心,食堂,,casual,tb,True
+yamaguchi/suoooshima,89,小さな宿 いずい食堂,食堂,,casual,tb,True
+yamaguchi/suoooshima,90,東和鮮魚,その他,,other,none,False
+yamaguchi/suoooshima,91,野菜レストラン Valo,カフェ、野菜料理,,cafe,tb,True
+yamaguchi/suoooshima,92,まるいち,その他,,other,none,False
+yamaguchi/suoooshima,93,オイシーフーズ,その他,,other,none,False
+yamaguchi/suoooshima,94,はちとひとと,カフェ,,cafe,tb,True
+yamaguchi/suoooshima,95,七転八起,居酒屋,,izakaya,tb,True
+yamaguchi/suoooshima,96,こじまジャム工房,その他,,other,none,False
+yamaguchi/suoooshima,97,ma-lu,ベーグル、パスタ,,sweets,tb,True
+yamaguchi/suoooshima,98,ありが島 海の家,食堂、居酒屋,,casual,tb,True
+yamaguchi/suoooshima,99,Boulangerie SAZABE,ベーグル,,sweets,tb,True
+yamaguchi/suoooshima,100,Cafe 奈々々萌,カフェ,,cafe,tb,True
+yamaguchi/suoooshima,101,うかしま市場食堂,食堂,,casual,tb,True
+yamaguchi/suoooshima,102,セブンイレブン 周防大島久賀店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/suoooshima,103,気ぶん屋,居酒屋,,izakaya,tb,True
+yamaguchi/suoooshima,104,こむぎダイニング なかや,食堂,,casual,tb,True
+yamaguchi/suoooshima,105,マルキュウ 大島小松店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/suoooshima,106,SEAGULL,カフェ、居酒屋,,cafe,tb,True
+yamaguchi/suoooshima,107,セブンイレブン 山口大島橘店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/suoooshima,108,うどん前小島,うどん、食堂,,noodles,tb,True
+yamaguchi/suoooshima,109,PIKKU PIILO,カフェ,,cafe,tb,True
+yamaguchi/suoooshima,110,お惣菜こどまり,弁当,,casual,tb,True
+yamaguchi/suoooshima,111,Ｙショップ 三蒲店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/suoooshima,112,LAWSON 周防大島店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/suoooshima,113,Aコープ 東和店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/suoooshima,114,日の出丸 めでたい,カフェ,,cafe,tb,True
+yamaguchi/suoooshima,115,中央フード 大島店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/suoooshima,116,せとうち つなぐキッチン 郷の家,レストラン,,other,none,False
+yamaguchi/suoooshima,117,Crest of the Wave Tateiwa,,Japanese;Japanese - Traditional Cuisine;Kaiseki,japanese,ta,True
+yamaguchi/suoooshima,118,Re Seto,,Cafe,cafe,ta,True
+yamaguchi/suoooshima,119,Suooshima Fish Center,,Japanese;Seafood,seafood,ta,True
+yamaguchi/suoooshima,120,Restaurant Green Garden,,Fusion,other,none,False
+yamaguchi/suoooshima,121,Ryuzaki Onsen Chidori,,,other,none,False
+yamaguchi/suoooshima,122,Setochi Jam s Garden,,Cafe,cafe,ta,True
+yamaguchi/suoooshima,123,Aloha Orange,,,other,none,False
+yamaguchi/suoooshima,124,Oshima Honjin Chaya,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/suoooshima,125,Power Beach,,Cafe;Hawaiian,cafe,ta,True
+yamaguchi/suoooshima,126,Saruware,,Italian;Pizza,european,ta,True
+yamaguchi/suoooshima,127,Tachibanaya Shokudo,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/suoooshima,128,Tsuruya,,Japanese,japanese,ta,True
+yamaguchi/suoooshima,129,O Kun,,Asian;Cambodian,chinese,ta,True
+yamaguchi/suoooshima,130,Oshokujidokoro Kei,,Japanese;Seafood;Japanese - Other ,seafood,ta,True
+yamaguchi/suoooshima,131,Sazanseto Towa Shokudo,,Japanese;Asian,chinese,ta,True
+yamaguchi/suoooshima,132,Mikachan Ramen,,,other,none,False
+yamaguchi/suoooshima,133,Akinai,,,other,none,False
+yamaguchi/suoooshima,134,Anago No Sakae,,Japanese;Seafood;Sushi;Japanese - Other ,seafood,ta,True
+yamaguchi/suoooshima,135,Kiri,,Japanese;Japanese - Traditional Cuisine,japanese,ta,True
+yamaguchi/suoooshima,136,Adagio,,International;Fusion,other,none,False
+yamaguchi/suoooshima,137,Joyama Shokudo,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/suoooshima,138,Fumiya,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/suoooshima,139,Okonomiyaki Michan,,,other,none,False
+yamaguchi/suoooshima,140,Gardencafe Rivage,,Cafe,cafe,ta,True
+yamaguchi/suoooshima,141,Chidori Honten,,Seafood,seafood,ta,True
+yamaguchi/suoooshima,142,Nonbiri Cafe,,Japanese,japanese,ta,True
+yamaguchi/suoooshima,143,Salon Fukinoto,,,other,none,False
+yamaguchi/suoooshima,144,Genki Ya Nagomi,,Japanese,japanese,ta,True
+yamaguchi/suoooshima,145,Obiko,,Barbecue,meat,ta,True
+yamaguchi/suoooshima,146,揚子江飯店,,Chinese;Szechuan,chinese,ta,True
+yamaguchi/suoooshima,147,Muraki Ryoriten,,Japanese;Japanese - Traditional Cuisine,japanese,ta,True
+yamaguchi/suoooshima,148,Cafe Cordoba,,International,other,none,False
+yamaguchi/suoooshima,149,Chuka Soba Dandan,,,other,none,False
+yamaguchi/suoooshima,150,Cafe Restaurant Join Us,,,other,none,False
+yamaguchi/suoooshima,151,Yamato,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/suoooshima,152,New Puerto,,International,other,none,False
+yamaguchi/suoooshima,153,たこ焼たっちゃん,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/suoooshima,154,Wa,,Japanese,japanese,ta,True
+yamaguchi/suoooshima,155,Karaoke No Sato Shizuka,,International,other,none,False
+yamaguchi/suoooshima,156,Setouchiso Yamamoto Annex,,Japanese,japanese,ta,True
+yamaguchi/suoooshima,157,Uoshin,,Japanese;Japanese - Traditional Cuisine,japanese,ta,True
+yamaguchi/suoooshima,158,Marugame Shokudo,,Japanese,japanese,ta,True
+yamaguchi/suoooshima,159,Azuma Shokudo,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/suoooshima,160,Sakuranbo,,Japanese - Other ,japanese,ta,True
+yamaguchi/suoooshima,161,Restaurant Hama,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/suoooshima,162,Kitchen Caffe Cocoro,,,other,none,False
+yamaguchi/suoooshima,163,Izakaya Masa,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/tabuse,1,寿司満,寿司,,seafood,tb,True
+yamaguchi/tabuse,2,克 本店,うどん,,noodles,tb,True
+yamaguchi/tabuse,3,美味しいパンの店 Yamaguchi,パン、カフェ、スイーツ,,sweets,tb,True
+yamaguchi/tabuse,4,フランス食堂,食堂、洋食,,casual,tb,True
+yamaguchi/tabuse,5,レザンジュ,パン,,sweets,tb,True
+yamaguchi/tabuse,6,田舎もち本舗 たけした,和菓子,,sweets,tb,True
+yamaguchi/tabuse,7,ラーメンショップ 田布施店,ラーメン,,noodles,tb,True
+yamaguchi/tabuse,8,カレーのランプ,カレー,,curry,tb,True
+yamaguchi/tabuse,9,蕎麦もりもと,そば,,noodles,tb,True
+yamaguchi/tabuse,10,まーちゃん,ラーメン,,noodles,tb,True
+yamaguchi/tabuse,11,喫茶 望,ベトナム料理,,chinese,tb,True
+yamaguchi/tabuse,12,sakura michi,カフェ,,cafe,tb,True
+yamaguchi/tabuse,13,とうふ処 豆吉,豆腐料理,,japanese,tb,True
+yamaguchi/tabuse,14,大好き昭和亭,うどん,,noodles,tb,True
+yamaguchi/tabuse,15,ベリー ベリー,カフェ,,cafe,tb,True
+yamaguchi/tabuse,16,かんべ 本店,和菓子,,sweets,tb,True
+yamaguchi/tabuse,17,OCHIAI,食堂、居酒屋,,casual,tb,True
+yamaguchi/tabuse,18,ゴルマール,パン,,sweets,tb,True
+yamaguchi/tabuse,19,焼八,お好み焼き、焼きそば,,casual,tb,True
+yamaguchi/tabuse,20,トルコノ,食堂,,casual,tb,True
+yamaguchi/tabuse,21,田布施地域交流館,その他,,other,none,False
+yamaguchi/tabuse,22,TAMS,ケーキ,,sweets,tb,True
+yamaguchi/tabuse,23,お好み亭和っこ,お好み焼き,,casual,tb,True
+yamaguchi/tabuse,24,レールウェイズ クラブ,ダイニングバー,,izakaya,tb,True
+yamaguchi/tabuse,25,にこにこパーク小行司,食堂、うどん,,casual,tb,True
+yamaguchi/tabuse,26,キャベツさんお好み焼き,お好み焼き,,casual,tb,True
+yamaguchi/tabuse,27,和居2,居酒屋,,izakaya,tb,True
+yamaguchi/tabuse,28,mama relief,カフェ,,cafe,tb,True
+yamaguchi/tabuse,29,クヒオ カフェ,ハワイ料理、アメリカ料理、パスタ,,european,tb,False
+yamaguchi/tabuse,30,やのくにアンテナショップのそ,カフェ、カレー,,cafe,tb,True
+yamaguchi/tabuse,31,きら煌めき 販売所,弁当、ソフトクリーム,,casual,tb,True
+yamaguchi/tabuse,32,wakka,惣菜・デリ,,casual,tb,True
+yamaguchi/tabuse,33,ツバメ舎,スイーツ,,sweets,tb,True
+yamaguchi/tabuse,34,きら煌めき,弁当、スイーツ、ソフトクリーム,,casual,tb,True
+yamaguchi/tabuse,35,鮓蔵,寿司,,seafood,tb,True
+yamaguchi/tabuse,36,藤本 弁当仕出し,弁当,,casual,tb,True
+yamaguchi/tabuse,37,スイートメモリー,喫茶店,,cafe,tb,True
+yamaguchi/tabuse,38,マルキュウ 田布施店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/tabuse,39,伊藤水産の牡蠣小屋,かき,,other,none,False
+yamaguchi/tabuse,40,ほりを,その他,,other,none,False
+yamaguchi/tabuse,41,割烹ほりを,食堂,,casual,tb,True
+yamaguchi/tabuse,42,かき小屋,海鮮,,seafood,tb,True
+yamaguchi/tabuse,43,LAWSON 田布施波野店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/tabuse,44,食通の店 煌,食堂,,casual,tb,True
+yamaguchi/tabuse,45,ポポロ,喫茶店,,cafe,tb,True
+yamaguchi/tabuse,46,ぱう,バームクーヘン,,other,none,False
+yamaguchi/tabuse,47,オアシス,食堂,,casual,tb,True
+yamaguchi/tabuse,48,居酒屋ムタ,居酒屋,,izakaya,tb,True
+yamaguchi/tabuse,49,空のしずく,カフェ,,cafe,tb,True
+yamaguchi/tabuse,50,喜多田,日本料理,,japanese,tb,True
+yamaguchi/tabuse,51,Caf e Berry Berry,,Cafe,cafe,ta,True
+yamaguchi/tabuse,52,Tofudokoro Mamekichi,,Fusion,other,none,False
+yamaguchi/tabuse,53,French Dining,,French;International;Fusion,european,ta,True
+yamaguchi/tabuse,54,Ramen Shop Tabuse,,,other,none,False
+yamaguchi/tabuse,55,Wayu,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/tabuse,56,Karaoke Cafe Mie,,International,other,none,False
+yamaguchi/tabuse,57,Ristorante Nakata,,Italian,european,ta,True
+yamaguchi/tabuse,58,Hoshinoya,,Japanese,japanese,ta,True
+yamaguchi/tabuse,59,Orange Shower Casual Restaurant,,,other,none,False
+yamaguchi/tabuse,60,Narumi Robatayaki,,Japanese,japanese,ta,True
+yamaguchi/tabuse,61,Farmland,,International,other,none,False
+yamaguchi/tabuse,62,Bar le Lahaina,,,other,none,False
+yamaguchi/tabuse,63,Kitada,,Japanese,japanese,ta,True
+yamaguchi/tabuse,64,Sonobe,,Japanese,japanese,ta,True
+yamaguchi/tabuse,65,Folk Sakaba Donjarahoi,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/tabuse,66,真津,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/ube,1,焼鳥炉端 RICKY,焼き鳥、居酒屋、串焼き,,meat,tb,True
+yamaguchi/ube,2,居酒屋 はれるや,居酒屋、海鮮、寿司,,izakaya,tb,True
+yamaguchi/ube,3,個室 やきとり 旨飯 串Diningぜん 宇部新川店,居酒屋,,izakaya,tb,True
+yamaguchi/ube,4,一力 本店,焼き鳥、鳥料理、居酒屋,,meat,tb,True
+yamaguchi/ube,5,地酒ダイニング ほりおか,居酒屋、焼き鳥、ラーメン,,izakaya,tb,True
+yamaguchi/ube,6,こてつ,居酒屋、焼き鳥、海鮮,,izakaya,tb,True
+yamaguchi/ube,7,や台ずし 宇部新川駅前町,居酒屋、寿司、海鮮,,izakaya,tb,True
+yamaguchi/ube,8,やきとり小力,焼き鳥、居酒屋、串焼き,,meat,tb,True
+yamaguchi/ube,9,焼鳥とおでん 夢幻,居酒屋,,izakaya,tb,True
+yamaguchi/ube,10,ポレポレ,ダイニングバー、アジア・エスニック,,izakaya,tb,True
+yamaguchi/ube,11,魚と炭 おんじょ,居酒屋、海鮮,,izakaya,tb,True
+yamaguchi/ube,12,呑兵衛,寿司、日本料理、ふぐ,,seafood,tb,True
+yamaguchi/ube,13,豆しば,居酒屋、海鮮、日本料理,,izakaya,tb,True
+yamaguchi/ube,14,和食・鍋 しゃぶしゃぶ清水 山口宇部店,しゃぶしゃぶ、すき焼き、寿司,,meat,tb,True
+yamaguchi/ube,15,富,韓国料理、ホルモン,,chinese,tb,True
+yamaguchi/ube,16,かば屋 宇部新川駅前店,居酒屋、海鮮、創作料理,,izakaya,tb,True
+yamaguchi/ube,17,生パスタ＆ワイン プレーゴ,イタリアン,,european,tb,True
+yamaguchi/ube,18,長門焼鳥 水炊き ふくの鳥 宇部新川店,焼き鳥、水炊き,,meat,tb,True
+yamaguchi/ube,19,肉+酒 ひょっとこ,居酒屋、鳥料理,,izakaya,tb,True
+yamaguchi/ube,20,居酒屋 平八,居酒屋、海鮮、餃子,,izakaya,tb,True
+yamaguchi/ube,21,鉄板酒家 幸のり,鉄板焼き,,meat,tb,True
+yamaguchi/ube,22,中国料理 敦煌 山口宇部店,中華料理、ビュッフェ、居酒屋,,chinese,tb,True
+yamaguchi/ube,23,SpiceBar Melissa,ダイニングバー、洋食、居酒屋,,izakaya,tb,True
+yamaguchi/ube,24,居酒屋劇場 らっぱ,居酒屋、海鮮、すき焼き,,izakaya,tb,True
+yamaguchi/ube,25,ディパーラ,居酒屋,,izakaya,tb,True
+yamaguchi/ube,26,魚民 宇部新川駅前店,居酒屋、海鮮、創作料理,,izakaya,tb,True
+yamaguchi/ube,27,びばCafe Ayameno,カフェ、パスタ、ビストロ,,cafe,tb,True
+yamaguchi/ube,28,炭火焼鳥 花火,居酒屋,,izakaya,tb,True
+yamaguchi/ube,29,ESOLA 宇部新川駅前店,ダイニングバー、ワインバー、ピザ,,izakaya,tb,True
+yamaguchi/ube,30,二代目 一心,居酒屋、海鮮、創作料理,,izakaya,tb,True
+yamaguchi/ube,31,うおきん食堂 西岐波店,居酒屋、串揚げ、寿司,,izakaya,tb,True
+yamaguchi/ube,32,居酒屋 お茶々,居酒屋,,izakaya,tb,True
+yamaguchi/ube,33,イタリアン酒場 ジモン,イタリアン、パスタ、ピザ,,european,tb,True
+yamaguchi/ube,34,肉ときどき雲丹,焼肉、ホルモン,,meat,tb,True
+yamaguchi/ube,35,あかり堂,居酒屋,,izakaya,tb,True
+yamaguchi/ube,36,焼鳥勘太郎,居酒屋、焼き鳥、おでん,,izakaya,tb,True
+yamaguchi/ube,37,お肉バル うに 宇部新川駅前店,居酒屋、ワインバー、ステーキ,,izakaya,tb,True
+yamaguchi/ube,38,さかなや道場 三代目網元 宇部新川店,海鮮、かに、居酒屋,,seafood,tb,True
+yamaguchi/ube,39,旬菜旬魚 天狗,居酒屋、海鮮、日本料理,,izakaya,tb,True
+yamaguchi/ube,40,居酒屋 武蔵 宇部店,居酒屋、もつ鍋、海鮮,,izakaya,tb,True
+yamaguchi/ube,41,海鮮問屋,居酒屋、海鮮、ふぐ,,izakaya,tb,True
+yamaguchi/ube,42,一代目 豊,居酒屋、郷土料理、ふぐ,,izakaya,tb,True
+yamaguchi/ube,43,特選タンハラミ 焼肉かたひら,焼肉、肉料理、居酒屋,,meat,tb,True
+yamaguchi/ube,44,牛角 宇部厚南店,焼肉、ホルモン,,meat,tb,True
+yamaguchi/ube,45,しゃぶしゃぶ温野菜 宇部厚南店,しゃぶしゃぶ、とんかつ,,meat,tb,True
+yamaguchi/ube,46,牛角 宇部店,焼肉,,meat,tb,True
+yamaguchi/ube,47,とりまんま,鳥料理、居酒屋、親子丼,,izakaya,tb,False
+yamaguchi/ube,48,お寺カフェ あん,日本料理、オーガニック、カフェ,,japanese,tb,True
+yamaguchi/ube,49,HASAME,サンドイッチ、アジア・エスニック、イタリアン,,sweets,tb,True
+yamaguchi/ube,50,maison owl,フレンチ,,european,tb,True
+yamaguchi/ube,51,早苗お食事処,居酒屋,,izakaya,tb,True
+yamaguchi/ube,52,おんどや ゆめタウン宇部店,からあげ,,meat,tb,True
+yamaguchi/ube,53,宇部かま 直売本店,その他,,other,none,False
+yamaguchi/ube,54,家庭料理 えん,居酒屋,,izakaya,tb,True
+yamaguchi/ube,55,ウェスタまるき 東岐波店,その他,,other,none,False
+yamaguchi/ube,56,インドレストラン サンジワニ,インド料理、インドカレー,,curry,tb,True
+yamaguchi/ube,57,セブンイレブン 宇部海南町店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/ube,58,ナチュラルアート宇部農場,その他,,other,none,False
+yamaguchi/ube,59,FoodsBar,ダイニングバー,,izakaya,tb,True
+yamaguchi/ube,60,倉,カフェ、ヨーロッパ料理,,cafe,tb,True
+yamaguchi/ube,61,Myotoku,,Japanese,japanese,ta,True
+yamaguchi/ube,62,Umi no Ajidokoro Hijiri,,Seafood,seafood,ta,True
+yamaguchi/ube,63,Ajidokoro Mimatsu,,Japanese;Japanese - Traditional Cuisine,japanese,ta,True
+yamaguchi/ube,64,Ristorante E Pizzaria Paysan,,Italian;Pizza,european,ta,True
+yamaguchi/ube,65,Coco s Yamaguchi Ube Airport,,International,other,none,False
+yamaguchi/ube,66,Asukatei Ube Airport,,Japanese;Seafood;Sushi;Japanese - Other ,seafood,ta,True
+yamaguchi/ube,67,Ube Shinsen Ichiba Genki Ichiban,,,other,none,False
+yamaguchi/ube,68,Esola Ube Shinkawa,,Italian;Bar;Pizza;Pub,european,ta,True
+yamaguchi/ube,69,Bonbon,,Japanese,japanese,ta,True
+yamaguchi/ube,70,Ancora,,Italian,european,ta,True
+yamaguchi/ube,71,Bistrotoshi,,French,european,ta,True
+yamaguchi/ube,72,Ichi Japanese Cuisine,,Japanese;Seafood,seafood,ta,True
+yamaguchi/ube,73,Pole Pole,,Cafe;Pub;Fusion;Dining bars,cafe,ta,True
+yamaguchi/ube,74,Restaurant Captain,,French;International,european,ta,True
+yamaguchi/ube,75,Jujutei,,Japanese,japanese,ta,True
+yamaguchi/ube,76,Cafe de Limoges,,Cafe,cafe,ta,True
+yamaguchi/ube,77,Ikkyu Shinkawa,,,other,none,False
+yamaguchi/ube,78,Namaste Ube,,Indian,curry,ta,True
+yamaguchi/ube,79,Hawaiian Resort Cafe Leola,,Cafe;Hawaiian,cafe,ta,True
+yamaguchi/ube,80,Big Boy Ube,,Steakhouse,meat,ta,True
+yamaguchi/ube,81,Toshiro,,,other,none,False
+yamaguchi/ube,82,Cafe 126,,Cafe,cafe,ta,True
+yamaguchi/ube,83,Kaisen Donya,,Japanese,japanese,ta,True
+yamaguchi/ube,84,Katta No Yu,,Japanese,japanese,ta,True
+yamaguchi/ube,85,Motchimo Pasta Ube,,Italian,european,ta,True
+yamaguchi/ube,86,Komugidobeguruzu,,Deli,other,none,False
+yamaguchi/ube,87,Kameuraen,,Japanese;Kaiseki,japanese,ta,True
+yamaguchi/ube,88,Izakayaochacha,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/waki,1,鉄ぱん屋じゅう兵衛,お好み焼き、鉄板焼き,,casual,tb,True
+yamaguchi/waki,2,ゾーナイタリア 蜂ヶ峯,イタリアン、カフェ,,european,tb,True
+yamaguchi/waki,3,和木ゴルフ倶楽部,その他,,other,none,False
+yamaguchi/waki,4,中華食堂 和木,中華料理,,chinese,tb,True
+yamaguchi/waki,5,珈琲館森,喫茶店,,cafe,tb,True
+yamaguchi/waki,6,はっちの家,ジェラート・アイスクリーム、ラーメン,,sweets,tb,True
+yamaguchi/waki,7,ポニー サイド カフェ,カフェ,,cafe,tb,True
+yamaguchi/waki,8,マルキュウ 和木店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/waki,9,ユカフェ,カフェ,,cafe,tb,True
+yamaguchi/waki,10,セブンイレブン 岩国和木３丁目店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/waki,11,焼肉ダイニング リュウオー,焼肉,,meat,tb,True
+yamaguchi/waki,12,恵美,居酒屋,,izakaya,tb,True
+yamaguchi/waki,13,Teppanya Jube,,Japanese,japanese,ta,True
+yamaguchi/waki,14,Chinese Restaurant Waki,,Chinese,chinese,ta,True
+yamaguchi/waki,15,Yakiniku Dining Ryu o,,Barbecue,meat,ta,True
+yamaguchi/waki,16,Alberco,,Italian,european,ta,True
+yamaguchi/waki,17,Tamagawa Ryotei,,Japanese;Japanese - Traditional Cuisine,japanese,ta,True
+yamaguchi/waki,18,Megumi,,Japanese,japanese,ta,True
+yamaguchi/yamaguchi,1,娯楽,居酒屋、天ぷら、焼き鳥,,izakaya,tb,True
+yamaguchi/yamaguchi,2,海鮮長州 湯田店,居酒屋、海鮮、郷土料理,,izakaya,tb,True
+yamaguchi/yamaguchi,3,維新の食処 椿,居酒屋、海鮮、肉料理,,izakaya,tb,True
+yamaguchi/yamaguchi,4,や台ずし 新山口駅北口町,居酒屋、寿司、海鮮,,izakaya,tb,True
+yamaguchi/yamaguchi,5,万両厚味,焼肉、ホルモン、肉料理,,meat,tb,True
+yamaguchi/yamaguchi,6,割烹 焔,日本料理、海鮮,,japanese,tb,True
+yamaguchi/yamaguchi,7,旨唐揚げと居酒メシ ミライザカ 湯田温泉店,居酒屋、焼き鳥、もつ鍋,,izakaya,tb,True
+yamaguchi/yamaguchi,8,焼鳥一力 新山口店,焼き鳥、串焼き、居酒屋,,meat,tb,True
+yamaguchi/yamaguchi,9,るまつ いずみや 新山口店,ラーメン、担々麺、居酒屋,,noodles,tb,True
+yamaguchi/yamaguchi,10,NICK HOUSE,肉バル、ハンバーグ、ステーキ,,meat,tb,False
+yamaguchi/yamaguchi,11,ホルモン湯田のじゃん横,焼肉、弁当、居酒屋,,meat,tb,True
+yamaguchi/yamaguchi,12,炎屋おんじ,焼肉,,meat,tb,True
+yamaguchi/yamaguchi,13,長州屋瓦 湯田店,居酒屋、食堂,,izakaya,tb,True
+yamaguchi/yamaguchi,14,パスタ＆ピザハウス アキラ,パスタ、ピザ、イタリアン,,european,tb,True
+yamaguchi/yamaguchi,15,長州鶏焼鳥･泳ぎ活きイカ･手作り餃子 らいが,焼き鳥、居酒屋、海鮮,,meat,tb,True
+yamaguchi/yamaguchi,16,タボーラ,イタリアン、居酒屋、バル,,european,tb,True
+yamaguchi/yamaguchi,17,魚鮮水産 アイスタ新山口店,居酒屋、海鮮、寿司,,izakaya,tb,True
+yamaguchi/yamaguchi,18,スゼンジハウスオープンエア,その他,,other,none,False
+yamaguchi/yamaguchi,19,白木屋 新山口北口駅前店,居酒屋、海鮮、創作料理,,izakaya,tb,True
+yamaguchi/yamaguchi,20,土火土火,居酒屋,,izakaya,tb,True
+yamaguchi/yamaguchi,21,武蔵 山口店,居酒屋、海鮮、もつ鍋,,izakaya,tb,True
+yamaguchi/yamaguchi,22,浜べゑ 新山口北口店,居酒屋、海鮮,,izakaya,tb,True
+yamaguchi/yamaguchi,23,龍の棲み家,焼肉、ホルモン、居酒屋,,meat,tb,True
+yamaguchi/yamaguchi,24,魚民 湯田温泉店,居酒屋、海鮮、創作料理,,izakaya,tb,True
+yamaguchi/yamaguchi,25,魚民 新山口新幹線口駅前店,居酒屋、海鮮、創作料理,,izakaya,tb,True
+yamaguchi/yamaguchi,26,オルトラーナ,パスタ、イタリアン、ビュッフェ,,european,tb,True
+yamaguchi/yamaguchi,27,焼肉バル織姫,焼肉,,meat,tb,True
+yamaguchi/yamaguchi,28,Espresso D Works 山口店,カフェ、パン、イタリアン,,cafe,tb,True
+yamaguchi/yamaguchi,29,ピッツェリア ヴォルペ ビアンカ,ピザ、イタリアン、カフェ,,european,tb,True
+yamaguchi/yamaguchi,30,やまぐち料理と地酒 福の花 湯田本店,居酒屋、郷土料理、焼き鳥,,izakaya,tb,True
+yamaguchi/yamaguchi,31,目利きの銀次 新山口新幹線口駅前店,居酒屋、海鮮、創作料理,,izakaya,tb,True
+yamaguchi/yamaguchi,32,もぐらの里,喫茶店、カレー、洋食,,cafe,tb,True
+yamaguchi/yamaguchi,33,和食ダイニング 仁,居酒屋、寿司、うどん,,izakaya,tb,True
+yamaguchi/yamaguchi,34,湯田温泉三丁目 ひまり商店,居酒屋,,izakaya,tb,True
+yamaguchi/yamaguchi,35,keys,バー、イタリアン,,izakaya,tb,True
+yamaguchi/yamaguchi,36,新山口ホルモン　おいで屋,ホルモン、焼肉、居酒屋,,meat,tb,True
+yamaguchi/yamaguchi,37,焼肉 紅牛,焼肉、豚しゃぶ、ホルモン,,meat,tb,True
+yamaguchi/yamaguchi,38,炭火焼肉ホルモン横丁 新山口店,焼肉、ホルモン,,meat,tb,True
+yamaguchi/yamaguchi,39,サムギョプサル専門店 MOCCHA,韓国料理,,chinese,tb,True
+yamaguchi/yamaguchi,40,割烹鳥屋花 寛,鳥料理,,other,none,False
+yamaguchi/yamaguchi,41,月の光,フレンチ,,european,tb,True
+yamaguchi/yamaguchi,42,ここ一軒で山口県 アンド吉祥 新山口店,居酒屋、海鮮、郷土料理,,izakaya,tb,True
+yamaguchi/yamaguchi,43,三代目網元 さかなや道場 湯田温泉店,居酒屋、海鮮、鍋,,izakaya,tb,True
+yamaguchi/yamaguchi,44,Italian Kitchen VANSAN 山口湯田店,イタリアン、カフェ,,european,tb,True
+yamaguchi/yamaguchi,45,福の花 新山口店,居酒屋、焼き鳥、郷土料理,,izakaya,tb,True
+yamaguchi/yamaguchi,46,長州居酒屋 とも,居酒屋,,izakaya,tb,True
+yamaguchi/yamaguchi,47,桃太郎,お好み焼き、食堂、うどん,,casual,tb,True
+yamaguchi/yamaguchi,48,& GLOBAL TALK CAFE,カフェ,,cafe,tb,True
+yamaguchi/yamaguchi,49,kitchen にこにこ気分,居酒屋,,izakaya,tb,True
+yamaguchi/yamaguchi,50,ナマステ 新山口駅前店,インドカレー、インド料理,,curry,tb,True
+yamaguchi/yamaguchi,51,炭火居酒屋　D' rise,居酒屋、ホルモン,,izakaya,tb,True
+yamaguchi/yamaguchi,52,海鮮居酒屋べにや,居酒屋,,izakaya,tb,True
+yamaguchi/yamaguchi,53,弥さか,居酒屋,,izakaya,tb,True
+yamaguchi/yamaguchi,54,tresor,フレンチ,,european,tb,True
+yamaguchi/yamaguchi,55,奉楽,焼肉、韓国料理、ステーキ,,meat,tb,True
+yamaguchi/yamaguchi,56,イタリア食堂 ベケ,イタリアン,,european,tb,True
+yamaguchi/yamaguchi,57,薩摩ぢどり,居酒屋、鳥料理、焼酎バー,,izakaya,tb,True
+yamaguchi/yamaguchi,58,本格馬肉料理 ゆい,焼肉、しゃぶしゃぶ、馬肉料理,,meat,tb,True
+yamaguchi/yamaguchi,59,磯べぇ,居酒屋、海鮮、ろばた焼き,,izakaya,tb,True
+yamaguchi/yamaguchi,60,酒ト魚 きんぎょ,居酒屋、海鮮,,izakaya,tb,True
+yamaguchi/yamaguchi,61,Sakanaya no Kaitenzushi Takakura,,Japanese;Sushi,seafood,ta,True
+yamaguchi/yamaguchi,62,Restaurant Nyudo,,Japanese,japanese,ta,True
+yamaguchi/yamaguchi,63,Sumibiyaki Steak Ronoya,,Steakhouse,meat,ta,True
+yamaguchi/yamaguchi,64,Katsuichi,,Japanese,japanese,ta,True
+yamaguchi/yamaguchi,65,Isokura,,Japanese,japanese,ta,True
+yamaguchi/yamaguchi,66,Blue Bell,,Japanese,japanese,ta,True
+yamaguchi/yamaguchi,67,XAVIER CAMPANA,,Deli,other,none,False
+yamaguchi/yamaguchi,68,Uomin Shin Yamaguchi Shinkansenguchi Ekimae Yamaguchi Yamaguchi Prefecture Chugok,,Seafood,seafood,ta,True
+yamaguchi/yamaguchi,69,Mekikinoginji Shinyamaguchi Shinkansen Entrance Ekimae Yamaguchi Yamaguchi Prefe,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/yamaguchi,70,Restaurant Chef,,,other,none,False
+yamaguchi/yamaguchi,71,Choshuya Yuda,,Japanese,japanese,ta,True
+yamaguchi/yamaguchi,72,Shunraiken Nakaichiten,,,other,none,False
+yamaguchi/yamaguchi,73,Nanohana,,Italian;French;Japanese - Traditional Cuisine;Japanese Fusion,european,ta,True
+yamaguchi/yamaguchi,74,Tokyoan Kozan,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/yamaguchi,75,Saint Remy de Provence Yamaguchi,,Italian,european,ta,True
+yamaguchi/yamaguchi,76,Kawarasoba Yanagiya Yamaguchi Ichinosakagawa Branch Yamaguchi Yamaguchi Prefectu,,Japanese;Japanese Fusion,japanese,ta,True
+yamaguchi/yamaguchi,77,Akagi,,Japanese,japanese,ta,True
+yamaguchi/yamaguchi,78,Shuklevain Shinyamaguchi Station,,,other,none,False
+yamaguchi/yamaguchi,79,Matsuda Shoeido,,,other,none,False
+yamaguchi/yamaguchi,80,Shunraiken,,Asian,chinese,ta,True
+yamaguchi/yamaguchi,81,Oihagitoge,,International,other,none,False
+yamaguchi/yamaguchi,82,Aya,,,other,none,False
+yamaguchi/yamaguchi,83,Toshiro Sakura An,,,sweets,desc,False
+yamaguchi/yamaguchi,84,Shiva,,Indian,curry,ta,True
+yamaguchi/yamaguchi,85,Gusto Yamaguchi Yuda,,International,other,none,False
+yamaguchi/yamaguchi,86,Wasai Ouchiya,,Japanese,japanese,ta,True
+yamaguchi/yamaguchi,87,Yakitori Daikichi Ogori Ekimae North Entrance Yamaguchi Yamaguchi Prefecture Chug,,Japanese,japanese,ta,True
+yamaguchi/yamaguchi,88,Rakudokoro Furusato,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/yamaguchi,89,Totomato,,Cafe,cafe,ta,True
+yamaguchi/yamaguchi,90,Pulhyanggi,,Barbecue,meat,ta,True
+yamaguchi/yanai,1,鳴門,釜飯、海鮮,,japanese,tb,True
+yamaguchi/yanai,2,ぶっとび亭,ラーメン,,noodles,tb,True
+yamaguchi/yanai,3,らーめん工房 麺や のぉくれ 柳井店,ラーメン,,noodles,tb,True
+yamaguchi/yanai,4,ホシ フルーツ,洋菓子、カフェ、フルーツパーラー,,sweets,tb,True
+yamaguchi/yanai,5,中華そば 洋RUN 柳井店,ラーメン,,noodles,tb,True
+yamaguchi/yanai,6,うどんの釜屋 柳井店,うどん,,noodles,tb,True
+yamaguchi/yanai,7,台湾,ラーメン,,noodles,tb,True
+yamaguchi/yanai,8,鮮魚 網代,海鮮,,seafood,tb,True
+yamaguchi/yanai,9,ヤナイフードホール,レストラン,,other,none,False
+yamaguchi/yanai,10,創食浪漫館 TONTON,とんかつ,,meat,tb,True
+yamaguchi/yanai,11,フジヤマコーヒーロースターズ 本店,カフェ,,cafe,tb,True
+yamaguchi/yanai,12,どんどん 柳井中央店,うどん,,noodles,tb,True
+yamaguchi/yanai,13,極楽とんび,お好み焼き、鉄板焼き,,casual,tb,True
+yamaguchi/yanai,14,瀬戸美,釜飯、海鮮,,japanese,tb,True
+yamaguchi/yanai,15,福来順 柳井店,台湾料理,,chinese,tb,True
+yamaguchi/yanai,16,らんちはうすかのこ,洋食,,european,tb,True
+yamaguchi/yanai,17,シェ・カワモト,ケーキ,,sweets,tb,True
+yamaguchi/yanai,18,おおさか屋 柳井本店,たこ焼き,,casual,tb,True
+yamaguchi/yanai,19,サンマロー,パン、サンドイッチ,,sweets,tb,True
+yamaguchi/yanai,20,どんどん ゆめタウン柳井店,うどん,,noodles,tb,True
+yamaguchi/yanai,21,四季旬菜 蔵や,日本料理、居酒屋,,japanese,tb,True
+yamaguchi/yanai,22,うまいもんや 魚好人,海鮮、居酒屋,,seafood,tb,True
+yamaguchi/yanai,23,カフェテリア　グランジュテ,レストラン,,other,none,False
+yamaguchi/yanai,24,１鳥万宝,焼き鳥,,meat,tb,True
+yamaguchi/yanai,25,のん太鮨 一丁目一番地 柳井店,寿司,,seafood,tb,True
+yamaguchi/yanai,26,穏やかうどんのしらかべや本店,うどん,,noodles,tb,True
+yamaguchi/yanai,27,OURS LA FORET,ケーキ、洋菓子,,sweets,tb,True
+yamaguchi/yanai,28,焼肉専門店 とらじ,焼肉,,meat,tb,True
+yamaguchi/yanai,29,果子乃季 本店,ケーキ、和菓子,,sweets,tb,True
+yamaguchi/yanai,30,シュシュ 柳井店,ケーキ、カフェ,,sweets,tb,True
+yamaguchi/yanai,31,たまごっちゃ,食堂、からあげ、ジューススタンド,,casual,tb,True
+yamaguchi/yanai,32,イトナミカフェ,カフェ,,cafe,tb,True
+yamaguchi/yanai,33,喫茶れーがん,喫茶店、食堂、ラーメン,,cafe,tb,True
+yamaguchi/yanai,34,さつきカフェ,カフェ、日本料理,,cafe,tb,True
+yamaguchi/yanai,35,キラク カジュアルダイニング ワインバー,ワインバー,,izakaya,tb,True
+yamaguchi/yanai,36,純喫茶 わんぷれーと,カフェ、喫茶店,,cafe,tb,True
+yamaguchi/yanai,37,自然生家,オーガニック、郷土料理,,japanese,tb,False
+yamaguchi/yanai,38,汐まち,食堂、丼,,casual,tb,True
+yamaguchi/yanai,39,メルバニ 柳井店,インドカレー、レストラン,,curry,tb,True
+yamaguchi/yanai,40,エスパリエカゲツ 本店,和菓子、ケーキ、カフェ,,sweets,tb,True
+yamaguchi/yanai,41,薪窯イタリアン アルベロ,イタリアン、ピザ,,european,tb,True
+yamaguchi/yanai,42,三鈴食堂,お好み焼き,,casual,tb,True
+yamaguchi/yanai,43,一五一八,和菓子,,sweets,tb,True
+yamaguchi/yanai,44,石釜パン工房 シュクルヴァン 柳井店,パン,,sweets,tb,True
+yamaguchi/yanai,45,KITCHEN Kobeya,食堂,,casual,tb,True
+yamaguchi/yanai,46,ミッキー,お好み焼き,,casual,tb,True
+yamaguchi/yanai,47,ハナハナちどりだいにんぐ,イタリアン、カフェ、バー,,european,tb,True
+yamaguchi/yanai,48,やないろ,喫茶店,,cafe,tb,True
+yamaguchi/yanai,49,いとう食事処,日本料理,,japanese,tb,True
+yamaguchi/yanai,50,丼とカフェはちよん,海鮮丼,,seafood,tb,True
+yamaguchi/yanai,51,サティ屋,インド料理、ネパール料理,,curry,tb,True
+yamaguchi/yanai,52,ベーカリー十六 ゆめタウン柳井店,パン、サンドイッチ,,sweets,tb,True
+yamaguchi/yanai,53,ジェラテリアヤナイ,ジェラート・アイスクリーム,,sweets,tb,True
+yamaguchi/yanai,54,丸久 柳井店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/yanai,55,フジ 柳井店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/yanai,56,いかち・旨,ラーメン,,noodles,tb,True
+yamaguchi/yanai,57,佐川醤油店,その他,,other,none,False
+yamaguchi/yanai,58,ひがしや菓子店,和菓子,,sweets,tb,True
+yamaguchi/yanai,59,海鮮 お食事処 大橋,寿司、海鮮,,seafood,tb,True
+yamaguchi/yanai,60,居酒屋おおはし,居酒屋、ラーメン,,izakaya,tb,True
+yamaguchi/yanai,61,うずしお母さんの店,弁当,,casual,tb,True
+yamaguchi/yanai,62,むさしの,食堂,,casual,tb,True
+yamaguchi/yanai,63,十八番食堂,食堂,,casual,tb,True
+yamaguchi/yanai,64,スズヤ食堂,食堂,,casual,tb,True
+yamaguchi/yanai,65,むっく オーシャン,ラーメン,,noodles,tb,True
+yamaguchi/yanai,66,亜香里,喫茶店,,cafe,tb,True
+yamaguchi/yanai,67,SANDLAND SHE,スイーツ,,sweets,tb,True
+yamaguchi/yanai,68,いろり焼居酒屋 虹の松原,居酒屋,,izakaya,tb,True
+yamaguchi/yanai,69,松本洋菓子店,洋菓子、ケーキ、シュークリーム,,sweets,tb,True
+yamaguchi/yanai,70,カルビ屋大福  柳井店,焼肉,,meat,tb,True
+yamaguchi/yanai,71,やき肉 新栄,焼肉,,meat,tb,True
+yamaguchi/yanai,72,レストラン ティンパニー,洋食、食堂,,european,tb,True
+yamaguchi/yanai,73,プルミエ,ケーキ,,sweets,tb,True
+yamaguchi/yanai,74,アップルミント,パン,,sweets,tb,True
+yamaguchi/yanai,75,漁庵,居酒屋,,izakaya,tb,True
+yamaguchi/yanai,76,幸せの味,韓国料理,,chinese,tb,True
+yamaguchi/yanai,77,LAND KARTE,クレープ・ガレット,,sweets,tb,True
+yamaguchi/yanai,78,ふれあいショップ 一粒の麦,カフェ,,cafe,tb,True
+yamaguchi/yanai,79,来来亭 柳井店,ラーメン、食堂,,noodles,tb,True
+yamaguchi/yanai,80,果子乃季 ハーフスイーツ 柳井店,カフェ、ケーキ,,cafe,tb,True
+yamaguchi/yanai,81,山里ひづみ,日本料理、食堂、カフェ,,japanese,tb,True
+yamaguchi/yanai,82,原始Zin,焼肉,,meat,tb,True
+yamaguchi/yanai,83,柳生,焼き鳥,,meat,tb,True
+yamaguchi/yanai,84,フルーツパーラー ヤナイ,カフェ、フルーツパーラー,,cafe,tb,True
+yamaguchi/yanai,85,ソウル,韓国料理、焼肉、冷麺,,chinese,tb,True
+yamaguchi/yanai,86,炉端炭火ダイニング海,肉料理、創作料理、海鮮,,meat,tb,True
+yamaguchi/yanai,87,はれまる亭,食堂,,casual,tb,True
+yamaguchi/yanai,88,高木和風料理,日本料理、ふぐ,,japanese,tb,True
+yamaguchi/yanai,89,柳井カントリー倶楽部 レストラン,レストラン,,other,none,False
+yamaguchi/yanai,90,FLEUR,弁当,,casual,tb,True
+yamaguchi/yanai,91,アルク 柳井中央店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/yanai,92,丸亀製麺 柳井店,うどん,,noodles,tb,True
+yamaguchi/yanai,93,カレーハウス CoCo壱番屋 ミスターマックス柳井店,カレー,,curry,tb,True
+yamaguchi/yanai,94,ジョリーパスタ 柳井店,ファミレス、パスタ、ピザ,,casual,tb,True
+yamaguchi/yanai,95,貸蔵屋&茶房 難波庵,カフェ、喫茶店,,cafe,tb,True
+yamaguchi/yanai,96,きじや,その他,,other,none,False
+yamaguchi/yanai,97,鉄板居酒屋 のろし,鉄板焼き、居酒屋,,meat,tb,True
+yamaguchi/yanai,98,はやし,喫茶店,,cafe,tb,True
+yamaguchi/yanai,99,ゆめタウン 柳井,コンビニ・スーパー,,daily,tb,True
+yamaguchi/yanai,100,PORT BON MARCHE,その他,,other,none,False
+yamaguchi/yanai,101,JA山口県 農産物直売所 遊気百菜館,その他,,other,none,False
+yamaguchi/yanai,102,フジヤマコーヒーロースターズ やない白壁出張所,カフェ,,cafe,tb,True
+yamaguchi/yanai,103,セブンイレブン 柳井南町3丁目店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/yanai,104,セブンイレブン 柳井駅前店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/yanai,105,LAWSON 柳井柳北店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/yanai,106,しあわせギフト工房まつもと,その他,,other,none,False
+yamaguchi/yanai,107,グランピングリゾート柳井,バーベキュー,,other,none,False
+yamaguchi/yanai,108,ファミリーマート 柳井新庄店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/yanai,109,スーパーセンター トライアル 柳井店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/yanai,110,Sea Gate,ハンバーガー、カフェ,,casual,tb,True
+yamaguchi/yanai,111,ファミリーマート 柳井古開作店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/yanai,112,マックスバリュ 柳井新庄店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/yanai,113,カフェ・菓子工房 ぼんじゅ～る,カフェ,,cafe,tb,True
+yamaguchi/yanai,114,マックスバリュ 柳井店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/yanai,115,セブンイレブン 柳井伊保庄店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/yanai,116,セブンイレブン 柳井天神店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/yanai,117,山口柳井食堂,食堂、日本料理,,casual,tb,True
+yamaguchi/yanai,118,ガスト 柳井店,ファミレス,,casual,tb,True
+yamaguchi/yanai,119,はなの舞 柳井駅前店,居酒屋、海鮮,,izakaya,tb,True
+yamaguchi/yanai,120,ジョイフル 山口柳井店,ファミレス,,casual,tb,True
+yamaguchi/yanai,121,すき家 188号柳井店,牛丼,,casual,tb,True
+yamaguchi/yanai,122,サーティワンアイスクリーム ゆめタウン柳井店,ジェラート・アイスクリーム,,sweets,tb,True
+yamaguchi/yanai,123,マクドナルド 柳井店,ハンバーガー,,casual,tb,True
+yamaguchi/yanai,124,はま寿司  柳井店,回転寿司,,seafood,tb,True
+yamaguchi/yanai,125,山内農場 柳井駅前店,居酒屋、鳥料理、創作料理,,izakaya,tb,True
+yamaguchi/yanai,126,ジョイフル 山口大畠店,ファミレス,,casual,tb,True
+yamaguchi/yanai,127,ミスタードーナツ ゆめタウン柳井ショップ,ドーナツ,,sweets,tb,True
+yamaguchi/yanai,128,牛角 柳井店,焼肉,,meat,tb,True
+yamaguchi/yanai,129,寿司勝,寿司,,seafood,tb,True
+yamaguchi/yanai,130,魚民 柳井駅前店,居酒屋、海鮮、創作料理,,izakaya,tb,True
+yamaguchi/yanai,131,果子乃季 ゆめタウン柳井店,和菓子、ケーキ,,sweets,tb,True
+yamaguchi/yanai,132,ほっともっと 柳井駅南店,弁当,,casual,tb,True
+yamaguchi/yanai,133,ケンタッキーフライドチキン ゆめタウン柳井店,レストラン,,other,none,False
+yamaguchi/yanai,134,権兵衛,居酒屋,,izakaya,tb,True
+yamaguchi/yanai,135,炉端焼き　いろり,居酒屋,,izakaya,tb,True
+yamaguchi/yanai,136,馳走葉,創作料理、海鮮,,japanese,tb,True
+yamaguchi/yanai,137,焼肉・ホルモン冨まる 柳井店,焼肉,,meat,tb,True
+yamaguchi/yanai,138,茜,喫茶店,,cafe,tb,True
+yamaguchi/yanai,139,ほっともっと 柳井新市沖店,弁当,,casual,tb,True
+yamaguchi/yanai,140,ムラカミ商店,せんべい,,other,none,False
+yamaguchi/yanai,141,CEREZO,創作料理、ダイニングバー、洋食,,japanese,tb,True
+yamaguchi/yanai,142,季節料理 うたかた,日本料理,,japanese,tb,True
+yamaguchi/yanai,143,ANN,その他,,other,none,False
+yamaguchi/yanai,144,居酒屋 五蘊,居酒屋、うどん,,izakaya,tb,True
+yamaguchi/yanai,145,重枝醤油醸造場,その他,,other,none,False
+yamaguchi/yanai,146,川富寿司,寿司,,seafood,tb,True
+yamaguchi/yanai,147,むすんでひらいて ミスターマックス柳井店,惣菜・デリ、パン,,casual,tb,True
+yamaguchi/yanai,148,元祖いろり焼き 虹のまつばら,串焼き,,meat,tb,True
+yamaguchi/yanai,149,DUO,パン、創作料理,,sweets,tb,True
+yamaguchi/yanai,150,しゃぶ亭そまき,しゃぶしゃぶ,,meat,tb,True
+yamaguchi/yanai,151,喜魚・海鮮料理,レストラン,,other,none,False
+yamaguchi/yanai,152,nico,スイーツ,,sweets,tb,True
+yamaguchi/yanai,153,串カツたける,串揚げ,,japanese,tb,True
+yamaguchi/yanai,154,フジヤマコーヒーロースターズ みどりが丘図書館店,カフェ,,cafe,tb,True
+yamaguchi/yanai,155,工房茶屋 ばさら窯,喫茶店,,cafe,tb,True
+yamaguchi/yanai,156,どんべえ,ラーメン,,noodles,tb,True
+yamaguchi/yanai,157,淡路島バーガー oldman par店,ハンバーガー,,casual,tb,True
+yamaguchi/yanai,158,千草,喫茶店、食堂、ラーメン,,cafe,tb,True
+yamaguchi/yanai,159,かながわ,お好み焼き,,casual,tb,True
+yamaguchi/yanai,160,小料理 絹,日本料理,,japanese,tb,True
+yamaguchi/yanai,161,411,弁当、惣菜・デリ,,casual,tb,True
+yamaguchi/yanai,162,珈琲 山草,カフェ,,cafe,tb,True
+yamaguchi/yanai,163,ピザハット 柳井店,パン,,sweets,tb,True
+yamaguchi/yanai,164,庵ふ～ちゃん,弁当,,casual,tb,True
+yamaguchi/yanai,165,仕出しの河村,弁当,,casual,tb,True
+yamaguchi/yanai,166,Bellissimo,カフェ、バー,,cafe,tb,True
+yamaguchi/yanai,167,めいよし,日本料理,,japanese,tb,True
+yamaguchi/yanai,168,カワムラ,惣菜・デリ,,casual,tb,True
+yamaguchi/yanai,169,お食事処 花水木,ラーメン、うどん,,noodles,tb,True
+yamaguchi/yanai,170,イエヤ,パン,,sweets,tb,True
+yamaguchi/yanai,171,木阪賞文堂 白壁店,その他,,other,none,False
+yamaguchi/yanai,172,一心,海鮮、日本料理、ラーメン,,seafood,tb,True
+yamaguchi/yanai,173,セブンイレブン 柳井港前店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/yanai,174,大畠活魚センター 川崎鮮魚 神代店,その他,,other,none,False
+yamaguchi/yanai,175,島島,洋食、郷土料理、日本料理,,european,tb,True
+yamaguchi/yanai,176,じねんじょ村,その他,,other,none,False
+yamaguchi/yanai,177,串揚げ居酒屋　戸越,串揚げ、居酒屋,,japanese,tb,True
+yamaguchi/yanai,178,LAWSON 柳井駅西店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/yanai,179,小料理 来,居酒屋,,izakaya,tb,True
+yamaguchi/yanai,180,青の時間,バー,,izakaya,tb,True
+yamaguchi/yanai,181,ごはんや,日本料理,,japanese,tb,True
+yamaguchi/yanai,182,柳井グランドホテル,ホテル,,other,none,False
+yamaguchi/yanai,183,キャビン,喫茶店,,cafe,tb,True
+yamaguchi/yanai,184,壽平,食堂,,casual,tb,True
+yamaguchi/yanai,185,やの里本舗,和菓子,,sweets,tb,True
+yamaguchi/yanai,186,カラオケBanBan 柳井店,カラオケ,,izakaya,tb,True
+yamaguchi/yanai,187,明日香,喫茶店,,cafe,tb,True
+yamaguchi/yanai,188,おかだ,日本料理,,japanese,tb,True
+yamaguchi/yanai,189,やきとり竜鳳 マックスバリュ柳井店,焼き鳥,,meat,tb,True
+yamaguchi/yanai,190,まつなが,日本料理,,japanese,tb,True
+yamaguchi/yanai,191,ジネンジョ ビーアールオー,ダイニングバー,,izakaya,tb,True
+yamaguchi/yanai,192,セブンイレブン 山口大畠駅前店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/yanai,193,花季,居酒屋,,izakaya,tb,True
+yamaguchi/yanai,194,工房 いな穂,お好み焼き,,casual,tb,True
+yamaguchi/yanai,195,希島,日本料理,,japanese,tb,True
+yamaguchi/yanai,196,trèfle& livre,カフェ,,cafe,tb,True
+yamaguchi/yanai,197,ダイニングバー トリトン,ダイニングバー,,izakaya,tb,True
+yamaguchi/yanai,198,なの花,カフェ,,cafe,tb,True
+yamaguchi/yanai,199,鉄斉,寿司,,seafood,tb,True
+yamaguchi/yanai,200,セブンイレブン 柳井新庄店,コンビニ・スーパー,,daily,tb,True
+yamaguchi/yanai,201,ここ路,レストラン,,other,none,False
+yamaguchi/yanai,202,Sazantei Yanai,,International,other,none,False
+yamaguchi/yanai,203,Kazuhana,,Japanese,japanese,ta,True
+yamaguchi/yanai,204,Chou Chou Yanai,,,sweets,desc,False
+yamaguchi/yanai,205,Gusto Yanai,,International,other,none,False
+yamaguchi/yanai,206,Katsu Sushi,,Japanese;Sushi,seafood,ta,True
+yamaguchi/yanai,207,Nokure,,,other,none,False
+yamaguchi/yanai,208,Ichitorimaho,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/yanai,209,Yo Run,,Asian,chinese,ta,True
+yamaguchi/yanai,210,Coco Ichibanya Mr Max Yanai,,Fast Food,casual,ta,True
+yamaguchi/yanai,211,Kamaya Yanai Udon,,,other,none,False
+yamaguchi/yanai,212,Ryoan,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/yanai,213,Shabu Shabu Onyasai Yanai,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/yanai,214,Maidookinishokudo Yamaguchiyanaishokudo,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/yanai,215,Hamazushi Yanai,,Sushi,seafood,ta,True
+yamaguchi/yanai,216,Noroshi Teppan Izakaya,,Japanese,japanese,ta,True
+yamaguchi/yanai,217,Spaghetti and Pizza Jolly Pasta,,,other,none,False
+yamaguchi/yanai,218,Mister Donut Yume Town Yanai Shop,,Cafe;Fast Food,cafe,ta,True
+yamaguchi/yanai,219,Saint Malo,,Deli,other,none,False
+yamaguchi/yanai,220,Joyfull,,International,other,none,False
+yamaguchi/yanai,221,Joyfull,,International,other,none,False
+yamaguchi/yanai,222,Bami,,Pub;Gastropub,izakaya,ta,True
+yamaguchi/yanai,223,Chiaki,,Japanese,japanese,ta,True
+yamaguchi/yanai,224,Seafood Restaurant Ohashi,,Japanese;Seafood;Sushi,seafood,ta,True
+yamaguchi/yanai,225,Hiramoto Shokudo,,Japanese,japanese,ta,True
+yamaguchi/yanai,226,Kyu,,,other,none,False
+yamaguchi/yanai,227,Yonetoku,,Japanese,japanese,ta,True
+yamaguchi/yanai,228,Timpani Yumetown Yanai,,International,other,none,False
+yamaguchi/yanai,229,Shummishuka Rakushun,,Fusion,other,none,False
+yamaguchi/yanai,230,Hiroshimayakiokonomi Kazuchan,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/yanai,231,Shanghai Saikan Ryuka,,Chinese;Shanghai,chinese,ta,True
+yamaguchi/yanai,232,Torizanmai Yanagi,,Japanese,japanese,ta,True
+yamaguchi/yanai,233,Japanese Restaurant Yanai,,Japanese,japanese,ta,True
+yamaguchi/yanai,234,Gyukaku Yanai,,Barbecue,meat,ta,True
+yamaguchi/yanai,235,Menmaru Tei Yanai,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/yanai,236,Ebisu,,Barbecue,meat,ta,True
+yamaguchi/yanai,237,Ren Yakiniki,,Barbecue,meat,ta,True
+yamaguchi/yanai,238,Salon de Sugi,,,other,none,False
+yamaguchi/yanai,239,June,,International,other,none,False
+yamaguchi/yanai,240,Kanemitsu,,Japanese;Japanese - Traditional Cuisine,japanese,ta,True
+yamaguchi/yanai,241,Wamino Restaurant Shione,,,other,none,False
+yamaguchi/yanai,242,Jin Jin,,Barbecue,meat,ta,True
+yamaguchi/yanai,243,Uomasa,,Japanese;Seafood;Japanese - Other ,seafood,ta,True
+yamaguchi/yanai,244,Miya Chan,,Seafood,seafood,ta,True
+yamaguchi/yanai,245,Erika,,Cafe,cafe,ta,True
+yamaguchi/yanai,246,Triton,,,other,none,False
+yamaguchi/yanai,247,Donshu Yakitori,,Japanese,japanese,ta,True
+yamaguchi/yanai,248,Wakana Shokudo,,Japanese,japanese,ta,True
+yamaguchi/yanai,249,Mitsue,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/yanai,250,Kudan,,,other,none,False
+yamaguchi/yanai,251,Togeno Chaya Tambo,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/yanai,252,New Matsumoto,,Japanese;Japanese - Traditional Cuisine,japanese,ta,True
+yamaguchi/yanai,253,Sanmontei,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/yanai,254,Hatoba Shokudo,,Japanese;Japanese - Traditional Cuisine,japanese,ta,True
+yamaguchi/yanai,255,Kobo Inaho,,Japanese,japanese,ta,True
+yamaguchi/yanai,256,Katsura,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/yanai,257,Oakada,,Japanese;Japanese - Traditional Cuisine,japanese,ta,True
+yamaguchi/yanai,258,Rakuten,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/yanai,259,Black Butterfly,,Japanese - Other ,japanese,ta,True
+yamaguchi/yanai,260,Okaeri,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/yanai,261,あじ将,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/yanai,262,Kanzashi,,Japanese;Japanese - Traditional Cuisine;Kappo,japanese,ta,True
+yamaguchi/yanai,263,Shitora Shoten Reizojigyosho,,,other,none,False
+yamaguchi/yanai,264,Karaoke Studio Big One,,International,other,none,False
+yamaguchi/yanai,265,Karaoke Achan,,International,other,none,False
+yamaguchi/yanai,266,Karaoke Sound Street,,International,other,none,False
+yamaguchi/yanai,267,Gokuraku Tombi Okonomiyaki,,Japanese,japanese,ta,True
+yamaguchi/yanai,268,Kamefuku Shokudo,,Japanese,japanese,ta,True
+yamaguchi/yanai,269,Pokkapoka Bar,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/yanai,270,Kokoro,,Japanese;Japanese - Traditional Cuisine,japanese,ta,True
+yamaguchi/yanai,271,Motsu No Michi Yanai,,Japanese;Japanese - Other ,japanese,ta,True
+yamaguchi/yanai,272,Aki,,Japanese,japanese,ta,True
+yamaguchi/yanai,273,Izumoya,,Japanese,japanese,ta,True
+yamaguchi/yanai,274,松秀食堂,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/yanai,275,Tampopo,,Japanese,japanese,ta,True
+yamaguchi/yanai,276,Yoshizaki Shokudo,,Japanese;International;Japanese - Other ,japanese,ta,True
+yamaguchi/yanai,277,Edokko,,Japanese,japanese,ta,True
+yamaguchi/yanai,278,Nakatsuya,,,other,none,False
+yamaguchi/yanai,279,Kirara Shirakabe No Machi Yanai,,,other,none,False
+yamaguchi/yanai,280,Kijima,,Japanese,japanese,ta,True
+yamaguchi/yanai,281,Stand Coco,,,other,none,False
+yamaguchi/yanai,282,Shot Bar Crib,,,other,none,False
+yamaguchi/yanai,283,Royal Kura,,Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/yanai,284,Gourmet Laboratory 360 Stage Bar,,Bar;Pub,izakaya,ta,True
+yamaguchi/yanai,285,Taiwanese Fukuraijun,,,other,none,False
+yamaguchi/yanai,286,Biton,,Pub,izakaya,ta,True
+yamaguchi/yanai,287,Karaoke Sakaba Matsuyama,,,other,none,False
+yamaguchi/yanai,288,Lounge Matsumoto,,,other,none,False
+yamaguchi/yanai,289,Yoridori Produce Midori Yanai,,Japanese,japanese,ta,True
+yamaguchi/yanai,290,Karaoke Jitan,,,other,none,False
+yamaguchi/yanai,291,Izakaya Umataku,,Japanese;Izakaya (Japanese Style Tavern),izakaya,ta,True
+yamaguchi/yanai,292,Human,,Japanese;Japanese - Other ,japanese,ta,True
