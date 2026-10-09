@@ -1,0 +1,780 @@
+{
+ "akita/akita": {
+  "sections": {
+   "stay": 28,
+   "eat": 2834,
+   "do": 14,
+   "see": 51,
+   "daily": 10
+  },
+  "eat": {
+   "Japanese (seafood)": 171,
+   "Japanese (meat)": 129,
+   "Japanese (noodles)": 184,
+   "European": 125,
+   "Cafe": 146,
+   "Curry": 28,
+   "Casual": 127,
+   "Chinese & Asian": 142,
+   "Izakaya & bars": 438,
+   "Sweets & bakeries": 138,
+   "Other Japanese": 624,
+   "Other": 582
+  },
+  "photo": {
+   "correct": 872,
+   "removed": 80,
+   "moved": 1017,
+   "kept-unverified": 95,
+   "no-photo": 776
+  },
+  "dup_stay": [
+   "Tennen Onsen Hotel Komachi",
+   "Daiwaroinetto Hotel Akita Ekimae",
+   "Hotel Arufawan Akita",
+   "Ani no Mori Buna Hotel",
+   "Yu Land Hotel Yatsuhashi",
+   "Hotel Arufain Akita",
+   "Konfoto Hotel Akita",
+   "Hotel Parushitei Akita Kanto Odori",
+   "Hotel Parushitei Akita Kawa Han",
+   "Hotel Metoroporitan Akita",
+   "Ritchimondo Hotel Akita Ekimae",
+   "Apa Hotel (Akita Senshu Koen)",
+   "Akita Kyassuru Hotel",
+   "Arubato Hotel Akita",
+   "Akita Park Hotel",
+   "ANA Kuraun Plaza Hotel Akita",
+   "Hotel Akita Gosho no"
+  ]
+ },
+ "akita/daisen-05212": {
+  "sections": {
+   "stay": 13,
+   "eat": 694,
+   "do": 19,
+   "see": 5,
+   "daily": 24
+  },
+  "eat": {
+   "Japanese (seafood)": 22,
+   "Japanese (meat)": 29,
+   "Japanese (noodles)": 59,
+   "European": 22,
+   "Cafe": 37,
+   "Curry": 4,
+   "Casual": 62,
+   "Chinese & Asian": 22,
+   "Izakaya & bars": 90,
+   "Sweets & bakeries": 54,
+   "Other Japanese": 133,
+   "Other": 160
+  },
+  "photo": {
+   "daisen_prefixed": 1
+  },
+  "dup_stay": [
+   "OYO Hotel Fuji",
+   "Yama no Te Hotel",
+   "Omagari Enpaiya Hotel"
+  ]
+ },
+ "akita/fujisato": {
+  "sections": {
+   "stay": 1,
+   "eat": 24,
+   "do": 0,
+   "see": 5,
+   "daily": 0
+  },
+  "eat": {
+   "Japanese (seafood)": 2,
+   "Japanese (noodles)": 1,
+   "European": 1,
+   "Casual": 3,
+   "Izakaya & bars": 5,
+   "Sweets & bakeries": 2,
+   "Other Japanese": 3,
+   "Other": 7
+  },
+  "photo": {
+   "correct": 2,
+   "removed": 2,
+   "moved": 12,
+   "no-photo": 8
+  },
+  "dup_stay": []
+ },
+ "akita/gojome": {
+  "sections": {
+   "stay": 1,
+   "eat": 86,
+   "do": 1,
+   "see": 1,
+   "daily": 4
+  },
+  "eat": {
+   "Japanese (seafood)": 2,
+   "Japanese (meat)": 1,
+   "Japanese (noodles)": 4,
+   "Cafe": 6,
+   "Casual": 8,
+   "Chinese & Asian": 2,
+   "Izakaya & bars": 12,
+   "Sweets & bakeries": 8,
+   "Other Japanese": 23,
+   "Other": 20
+  },
+  "photo": {
+   "correct": 22,
+   "removed": 4,
+   "moved": 36,
+   "no-photo": 27
+  },
+  "dup_stay": []
+ },
+ "akita/hachirogata": {
+  "sections": {
+   "stay": 0,
+   "eat": 48,
+   "do": 0,
+   "see": 1,
+   "daily": 2
+  },
+  "eat": {
+   "Japanese (seafood)": 7,
+   "Japanese (meat)": 2,
+   "Japanese (noodles)": 3,
+   "European": 1,
+   "Cafe": 3,
+   "Curry": 2,
+   "Casual": 1,
+   "Chinese & Asian": 2,
+   "Izakaya & bars": 5,
+   "Sweets & bakeries": 4,
+   "Other Japanese": 9,
+   "Other": 9
+  },
+  "photo": {
+   "correct": 11,
+   "removed": 2,
+   "moved": 18,
+   "no-photo": 19
+  },
+  "dup_stay": []
+ },
+ "akita/happo": {
+  "sections": {
+   "stay": 0,
+   "eat": 48,
+   "do": 0,
+   "see": 2,
+   "daily": 0
+  },
+  "eat": {
+   "Japanese (seafood)": 1,
+   "Japanese (noodles)": 1,
+   "European": 1,
+   "Cafe": 3,
+   "Casual": 10,
+   "Sweets & bakeries": 3,
+   "Other Japanese": 15,
+   "Other": 14
+  },
+  "photo": {
+   "correct": 14,
+   "removed": 3,
+   "moved": 22,
+   "no-photo": 9
+  },
+  "dup_stay": []
+ },
+ "akita/higashinaruse": {
+  "sections": {
+   "stay": 1,
+   "eat": 7,
+   "do": 0,
+   "see": 1,
+   "daily": 0
+  },
+  "eat": {
+   "Cafe": 1,
+   "Casual": 2,
+   "Other Japanese": 1,
+   "Other": 3
+  },
+  "photo": {
+   "removed": 1,
+   "moved": 3,
+   "kept-unverified": 1,
+   "correct": 1,
+   "no-photo": 1
+  },
+  "dup_stay": []
+ },
+ "akita/ikawa": {
+  "sections": {
+   "stay": 0,
+   "eat": 15,
+   "do": 0,
+   "see": 1,
+   "daily": 1
+  },
+  "eat": {
+   "Japanese (seafood)": 2,
+   "Japanese (noodles)": 3,
+   "Curry": 1,
+   "Izakaya & bars": 2,
+   "Sweets & bakeries": 2,
+   "Other Japanese": 3,
+   "Other": 2
+  },
+  "photo": {
+   "correct": 2,
+   "removed": 1,
+   "moved": 5,
+   "no-photo": 8
+  },
+  "dup_stay": []
+ },
+ "akita/kamikoani": {
+  "sections": {
+   "stay": 0,
+   "eat": 13,
+   "do": 0,
+   "see": 1,
+   "daily": 0
+  },
+  "eat": {
+   "Japanese (noodles)": 2,
+   "Cafe": 1,
+   "Casual": 1,
+   "Sweets & bakeries": 3,
+   "Other Japanese": 4,
+   "Other": 2
+  },
+  "photo": {
+   "correct": 3,
+   "removed": 1,
+   "moved": 6,
+   "no-photo": 3
+  },
+  "dup_stay": []
+ },
+ "akita/katagami": {
+  "sections": {
+   "stay": 0,
+   "eat": 159,
+   "do": 3,
+   "see": 1,
+   "daily": 9
+  },
+  "eat": {
+   "Japanese (seafood)": 10,
+   "Japanese (meat)": 4,
+   "Japanese (noodles)": 13,
+   "European": 3,
+   "Cafe": 19,
+   "Casual": 11,
+   "Chinese & Asian": 2,
+   "Izakaya & bars": 16,
+   "Sweets & bakeries": 16,
+   "Other Japanese": 32,
+   "Other": 33
+  },
+  "photo": {
+   "correct": 30,
+   "removed": 6,
+   "moved": 88,
+   "kept-unverified": 2,
+   "no-photo": 42
+  },
+  "dup_stay": []
+ },
+ "akita/kazuno": {
+  "sections": {
+   "stay": 15,
+   "eat": 255,
+   "do": 9,
+   "see": 14,
+   "daily": 7
+  },
+  "eat": {
+   "Japanese (seafood)": 12,
+   "Japanese (meat)": 12,
+   "Japanese (noodles)": 24,
+   "European": 5,
+   "Cafe": 16,
+   "Curry": 1,
+   "Casual": 24,
+   "Chinese & Asian": 11,
+   "Izakaya & bars": 18,
+   "Sweets & bakeries": 19,
+   "Other Japanese": 57,
+   "Other": 56
+  },
+  "photo": {
+   "correct": 48,
+   "removed": 14,
+   "moved": 125,
+   "no-photo": 71,
+   "kept-unverified": 4
+  },
+  "dup_stay": [
+   "Oyu Onsen Hotel Kazuno",
+   "Shiki Irodori Akita Zukushi Yuse Hotel",
+   "Kame no I Hotel Akita Yuse",
+   "Hotel Me Jo So",
+   "Hotel Garden Kawamura",
+   "Kando ! Kazuno Park Hotel"
+  ]
+ },
+ "akita/kitaakita": {
+  "sections": {
+   "stay": 11,
+   "eat": 229,
+   "do": 5,
+   "see": 9,
+   "daily": 7
+  },
+  "eat": {
+   "Japanese (seafood)": 14,
+   "Japanese (meat)": 11,
+   "Japanese (noodles)": 17,
+   "European": 2,
+   "Cafe": 27,
+   "Casual": 16,
+   "Chinese & Asian": 4,
+   "Izakaya & bars": 29,
+   "Sweets & bakeries": 17,
+   "Other Japanese": 39,
+   "Other": 53
+  },
+  "photo": {
+   "correct": 42,
+   "removed": 8,
+   "moved": 99,
+   "kept-unverified": 5,
+   "no-photo": 81
+  },
+  "dup_stay": []
+ },
+ "akita/kosaka": {
+  "sections": {
+   "stay": 6,
+   "eat": 53,
+   "do": 0,
+   "see": 2,
+   "daily": 3
+  },
+  "eat": {
+   "Japanese (seafood)": 1,
+   "Japanese (meat)": 5,
+   "Japanese (noodles)": 1,
+   "European": 3,
+   "Cafe": 8,
+   "Casual": 4,
+   "Izakaya & bars": 5,
+   "Sweets & bakeries": 1,
+   "Other Japanese": 10,
+   "Other": 15
+  },
+  "photo": {
+   "correct": 16,
+   "removed": 6,
+   "moved": 22,
+   "kept-unverified": 3,
+   "no-photo": 9
+  },
+  "dup_stay": []
+ },
+ "akita/misato-05434": {
+  "sections": {
+   "stay": 3,
+   "eat": 104,
+   "do": 1,
+   "see": 3,
+   "daily": 3
+  },
+  "eat": {
+   "Japanese (seafood)": 5,
+   "Japanese (meat)": 1,
+   "Japanese (noodles)": 11,
+   "European": 4,
+   "Cafe": 13,
+   "Casual": 12,
+   "Chinese & Asian": 4,
+   "Izakaya & bars": 5,
+   "Sweets & bakeries": 9,
+   "Other Japanese": 12,
+   "Other": 28
+  },
+  "photo": {
+   "correct": 22,
+   "removed": 3,
+   "moved": 48,
+   "kept-unverified": 4,
+   "no-photo": 30
+  },
+  "dup_stay": []
+ },
+ "akita/mitane": {
+  "sections": {
+   "stay": 3,
+   "eat": 59,
+   "do": 2,
+   "see": 1,
+   "daily": 3
+  },
+  "eat": {
+   "Japanese (seafood)": 5,
+   "Japanese (meat)": 2,
+   "Japanese (noodles)": 5,
+   "European": 2,
+   "Cafe": 3,
+   "Casual": 7,
+   "Chinese & Asian": 4,
+   "Izakaya & bars": 5,
+   "Sweets & bakeries": 4,
+   "Other Japanese": 7,
+   "Other": 15
+  },
+  "photo": {
+   "correct": 12,
+   "removed": 5,
+   "moved": 32,
+   "no-photo": 13
+  },
+  "dup_stay": []
+ },
+ "akita/nikaho": {
+  "sections": {
+   "stay": 10,
+   "eat": 262,
+   "do": 3,
+   "see": 16,
+   "daily": 5
+  },
+  "eat": {
+   "Japanese (seafood)": 27,
+   "Japanese (meat)": 9,
+   "Japanese (noodles)": 16,
+   "European": 8,
+   "Cafe": 20,
+   "Curry": 1,
+   "Casual": 24,
+   "Chinese & Asian": 13,
+   "Izakaya & bars": 23,
+   "Sweets & bakeries": 22,
+   "Other Japanese": 42,
+   "Other": 57
+  },
+  "photo": {
+   "correct": 58,
+   "removed": 10,
+   "moved": 118,
+   "kept-unverified": 7,
+   "no-photo": 74
+  },
+  "dup_stay": [
+   "Sannemu Hotel In Kisakata",
+   "Tatsumi Hiroshi Hiroshi Hotel"
+  ]
+ },
+ "akita/noshiro": {
+  "sections": {
+   "stay": 6,
+   "eat": 567,
+   "do": 4,
+   "see": 8,
+   "daily": 19
+  },
+  "eat": {
+   "Japanese (seafood)": 27,
+   "Japanese (meat)": 25,
+   "Japanese (noodles)": 41,
+   "European": 18,
+   "Cafe": 38,
+   "Curry": 4,
+   "Casual": 41,
+   "Chinese & Asian": 16,
+   "Izakaya & bars": 111,
+   "Sweets & bakeries": 33,
+   "Other Japanese": 107,
+   "Other": 106
+  },
+  "photo": {
+   "correct": 101,
+   "removed": 23,
+   "moved": 268,
+   "no-photo": 189,
+   "kept-unverified": 4
+  },
+  "dup_stay": [
+   "Hotel Rutoin Noshiro"
+  ]
+ },
+ "akita/odate": {
+  "sections": {
+   "stay": 17,
+   "eat": 515,
+   "do": 11,
+   "see": 16,
+   "daily": 15
+  },
+  "eat": {
+   "Japanese (seafood)": 24,
+   "Japanese (meat)": 30,
+   "Japanese (noodles)": 27,
+   "European": 14,
+   "Cafe": 33,
+   "Curry": 5,
+   "Casual": 42,
+   "Chinese & Asian": 9,
+   "Izakaya & bars": 68,
+   "Sweets & bakeries": 31,
+   "Other Japanese": 126,
+   "Other": 106
+  },
+  "photo": {
+   "correct": 91,
+   "removed": 22,
+   "moved": 194,
+   "kept-unverified": 14,
+   "no-photo": 209
+  },
+  "dup_stay": [
+   "Odate Pokapoka Onsen Hotel",
+   "Anekkusuroiyaru Hotel",
+   "Hotel Rutoin Odate Dai Town",
+   "Gu Land Park Hotel Odate",
+   "Roiyaru Hotel Odate",
+   "Hotel Rutoin Odate Eki Minami",
+   "Odate Guriin Hotel"
+  ]
+ },
+ "akita/oga": {
+  "sections": {
+   "stay": 14,
+   "eat": 232,
+   "do": 1,
+   "see": 5,
+   "daily": 12
+  },
+  "eat": {
+   "Japanese (seafood)": 32,
+   "Japanese (meat)": 6,
+   "Japanese (noodles)": 10,
+   "European": 4,
+   "Cafe": 23,
+   "Casual": 19,
+   "Chinese & Asian": 3,
+   "Izakaya & bars": 30,
+   "Sweets & bakeries": 18,
+   "Other Japanese": 33,
+   "Other": 54
+  },
+  "photo": {
+   "correct": 60,
+   "removed": 16,
+   "moved": 105,
+   "kept-unverified": 4,
+   "no-photo": 58
+  },
+  "dup_stay": []
+ },
+ "akita/ogata": {
+  "sections": {
+   "stay": 1,
+   "eat": 19,
+   "do": 1,
+   "see": 1,
+   "daily": 3
+  },
+  "eat": {
+   "Japanese (seafood)": 3,
+   "European": 1,
+   "Cafe": 2,
+   "Casual": 3,
+   "Chinese & Asian": 2,
+   "Sweets & bakeries": 3,
+   "Other Japanese": 1,
+   "Other": 4
+  },
+  "photo": {
+   "correct": 3,
+   "kept-unverified": 1,
+   "removed": 1,
+   "moved": 12,
+   "no-photo": 5
+  },
+  "dup_stay": []
+ },
+ "akita/semboku": {
+  "sections": {
+   "stay": 33,
+   "eat": 398,
+   "do": 1,
+   "see": 4,
+   "daily": 11
+  },
+  "eat": {
+   "Japanese (seafood)": 14,
+   "Japanese (meat)": 6,
+   "Japanese (noodles)": 36,
+   "European": 11,
+   "Cafe": 35,
+   "Casual": 30,
+   "Chinese & Asian": 8,
+   "Izakaya & bars": 25,
+   "Sweets & bakeries": 34,
+   "Other Japanese": 98,
+   "Other": 101
+  },
+  "photo": {
+   "kept-unverified": 11,
+   "removed": 27,
+   "moved": 170,
+   "correct": 130,
+   "no-photo": 70
+  },
+  "dup_stay": []
+ },
+ "akita/ugo": {
+  "sections": {
+   "stay": 4,
+   "eat": 88,
+   "do": 1,
+   "see": 3,
+   "daily": 1
+  },
+  "eat": {
+   "Japanese (seafood)": 4,
+   "Japanese (meat)": 1,
+   "Japanese (noodles)": 13,
+   "European": 1,
+   "Cafe": 7,
+   "Casual": 5,
+   "Chinese & Asian": 5,
+   "Izakaya & bars": 10,
+   "Sweets & bakeries": 12,
+   "Other Japanese": 15,
+   "Other": 15
+  },
+  "photo": {
+   "correct": 17,
+   "removed": 4,
+   "moved": 40,
+   "kept-unverified": 1,
+   "no-photo": 27
+  },
+  "dup_stay": []
+ },
+ "akita/yokote": {
+  "sections": {
+   "stay": 14,
+   "eat": 814,
+   "do": 9,
+   "see": 20,
+   "daily": 29
+  },
+  "eat": {
+   "Japanese (seafood)": 38,
+   "Japanese (meat)": 35,
+   "Japanese (noodles)": 74,
+   "European": 32,
+   "Cafe": 48,
+   "Curry": 5,
+   "Casual": 66,
+   "Chinese & Asian": 45,
+   "Izakaya & bars": 101,
+   "Sweets & bakeries": 46,
+   "Other Japanese": 148,
+   "Other": 176
+  },
+  "photo": {
+   "correct": 202,
+   "removed": 27,
+   "moved": 356,
+   "kept-unverified": 13,
+   "no-photo": 243
+  },
+  "dup_stay": [
+   "HOTEL Kuodoin yokote",
+   "Hotel no Sutaru Yokote",
+   "Yokote Sentoraru Hotel",
+   "Hotel Plaza Anekkusu Yokote",
+   "Yokote Onsen Hotel Plaza Geihin"
+  ]
+ },
+ "akita/yurihonjo": {
+  "sections": {
+   "stay": 8,
+   "eat": 657,
+   "do": 12,
+   "see": 23,
+   "daily": 27
+  },
+  "eat": {
+   "Japanese (seafood)": 42,
+   "Japanese (meat)": 24,
+   "Japanese (noodles)": 45,
+   "European": 17,
+   "Cafe": 44,
+   "Curry": 4,
+   "Casual": 71,
+   "Chinese & Asian": 30,
+   "Izakaya & bars": 96,
+   "Sweets & bakeries": 45,
+   "Other Japanese": 116,
+   "Other": 123
+  },
+  "photo": {
+   "correct": 112,
+   "removed": 26,
+   "moved": 318,
+   "kept-unverified": 8,
+   "no-photo": 220
+  },
+  "dup_stay": [
+   "Hotel Airisu",
+   "Honjo Gu Land Hotel",
+   "Honjo Suteshon Hotel Honkan",
+   "Sannemu Hotel In Honjo",
+   "Honjo Suteshon Hotel Bekkan"
+  ]
+ },
+ "akita/yuzawashi": {
+  "sections": {
+   "stay": 12,
+   "eat": 427,
+   "do": 13,
+   "see": 15,
+   "daily": 10
+  },
+  "eat": {
+   "Japanese (seafood)": 19,
+   "Japanese (meat)": 15,
+   "Japanese (noodles)": 47,
+   "European": 9,
+   "Cafe": 26,
+   "Casual": 26,
+   "Chinese & Asian": 13,
+   "Izakaya & bars": 67,
+   "Sweets & bakeries": 28,
+   "Other Japanese": 76,
+   "Other": 101
+  },
+  "photo": {
+   "correct": 76,
+   "removed": 22,
+   "moved": 203,
+   "kept-unverified": 8,
+   "no-photo": 128
+  },
+  "dup_stay": [
+   "Yuzawashi Gu Land Hotel",
+   "Yuzawashi Roiyaru Hotel"
+  ]
+ }
+}
