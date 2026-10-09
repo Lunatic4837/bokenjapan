@@ -1,0 +1,555 @@
+{
+ "yamaguchi/abu": {
+  "sections": {
+   "stay": 0,
+   "eat": 18,
+   "do": 8,
+   "see": 21,
+   "daily": 1
+  },
+  "eat": {
+   "Japanese (seafood)": 2,
+   "Cafe": 1,
+   "Casual": 3,
+   "Izakaya & bars": 1,
+   "Sweets & bakeries": 4,
+   "Other Japanese": 4,
+   "Other": 3
+  },
+  "photo": {
+   "correct": 2,
+   "removed": 1,
+   "moved": 9,
+   "no-photo": 7
+  },
+  "dup_stay": []
+ },
+ "yamaguchi/hagi": {
+  "sections": {
+   "stay": 20,
+   "eat": 81,
+   "do": 30,
+   "see": 225,
+   "daily": 5
+  },
+  "eat": {
+   "Japanese (seafood)": 8,
+   "Japanese (meat)": 5,
+   "Japanese (noodles)": 8,
+   "European": 3,
+   "Cafe": 10,
+   "Curry": 1,
+   "Casual": 6,
+   "Chinese & Asian": 2,
+   "Izakaya & bars": 6,
+   "Sweets & bakeries": 6,
+   "Other Japanese": 17,
+   "Other": 9
+  },
+  "photo": {
+   "correct": 76,
+   "kept-unverified": 1,
+   "no-photo": 5
+  },
+  "dup_stay": [
+   "Hagi Shigetsu Onsen (Resort Hotel Bi Hagi)"
+  ]
+ },
+ "yamaguchi/hikari": {
+  "sections": {
+   "stay": 3,
+   "eat": 84,
+   "do": 4,
+   "see": 46,
+   "daily": 6
+  },
+  "eat": {
+   "Japanese (seafood)": 2,
+   "Japanese (meat)": 7,
+   "Japanese (noodles)": 5,
+   "European": 4,
+   "Cafe": 14,
+   "Casual": 9,
+   "Chinese & Asian": 1,
+   "Izakaya & bars": 7,
+   "Sweets & bakeries": 8,
+   "Other Japanese": 15,
+   "Other": 12
+  },
+  "photo": {
+   "correct": 70,
+   "no-photo": 14,
+   "kept-unverified": 2,
+   "moved": 1
+  },
+  "dup_stay": []
+ },
+ "yamaguchi/hirao": {
+  "sections": {
+   "stay": 2,
+   "eat": 54,
+   "do": 1,
+   "see": 32,
+   "daily": 2
+  },
+  "eat": {
+   "Japanese (seafood)": 2,
+   "Japanese (meat)": 2,
+   "Japanese (noodles)": 3,
+   "European": 4,
+   "Cafe": 9,
+   "Casual": 7,
+   "Chinese & Asian": 1,
+   "Izakaya & bars": 4,
+   "Sweets & bakeries": 4,
+   "Other Japanese": 6,
+   "Other": 12
+  },
+  "photo": {
+   "correct": 9,
+   "removed": 3,
+   "moved": 23,
+   "kept-unverified": 5,
+   "no-photo": 16
+  },
+  "dup_stay": []
+ },
+ "yamaguchi/hofu": {
+  "sections": {
+   "stay": 9,
+   "eat": 88,
+   "do": 9,
+   "see": 87,
+   "daily": 7
+  },
+  "eat": {
+   "Japanese (seafood)": 9,
+   "Japanese (meat)": 9,
+   "Japanese (noodles)": 3,
+   "European": 5,
+   "Cafe": 8,
+   "Curry": 3,
+   "Casual": 13,
+   "Chinese & Asian": 2,
+   "Izakaya & bars": 13,
+   "Sweets & bakeries": 2,
+   "Other Japanese": 8,
+   "Other": 13
+  },
+  "photo": {
+   "correct": 81,
+   "kept-unverified": 1,
+   "no-photo": 8
+  },
+  "dup_stay": []
+ },
+ "yamaguchi/iwakuni": {
+  "sections": {
+   "stay": 16,
+   "eat": 84,
+   "do": 16,
+   "see": 98,
+   "daily": 6
+  },
+  "eat": {
+   "Japanese (seafood)": 5,
+   "Japanese (meat)": 7,
+   "Japanese (noodles)": 3,
+   "European": 5,
+   "Cafe": 5,
+   "Curry": 3,
+   "Casual": 6,
+   "Chinese & Asian": 3,
+   "Izakaya & bars": 21,
+   "Sweets & bakeries": 4,
+   "Other Japanese": 16,
+   "Other": 6
+  },
+  "photo": {
+   "correct": 81,
+   "no-photo": 5
+  },
+  "dup_stay": []
+ },
+ "yamaguchi/kaminoseki": {
+  "sections": {
+   "stay": 0,
+   "eat": 21,
+   "do": 2,
+   "see": 26,
+   "daily": 0
+  },
+  "eat": {
+   "Japanese (seafood)": 4,
+   "Japanese (meat)": 1,
+   "Japanese (noodles)": 3,
+   "Cafe": 1,
+   "Casual": 6,
+   "Sweets & bakeries": 1,
+   "Other Japanese": 2,
+   "Other": 3
+  },
+  "photo": {
+   "correct": 4,
+   "removed": 1,
+   "moved": 12,
+   "no-photo": 4
+  },
+  "dup_stay": []
+ },
+ "yamaguchi/kudamatsu": {
+  "sections": {
+   "stay": 5,
+   "eat": 346,
+   "do": 9,
+   "see": 32,
+   "daily": 8
+  },
+  "eat": {
+   "Japanese (seafood)": 11,
+   "Japanese (meat)": 23,
+   "Japanese (noodles)": 21,
+   "European": 17,
+   "Cafe": 42,
+   "Curry": 4,
+   "Casual": 37,
+   "Chinese & Asian": 10,
+   "Izakaya & bars": 25,
+   "Sweets & bakeries": 30,
+   "Other Japanese": 64,
+   "Other": 62
+  },
+  "photo": {
+   "correct": 57,
+   "kept-unverified": 11,
+   "removed": 16,
+   "moved": 163,
+   "no-photo": 104
+  },
+  "dup_stay": []
+ },
+ "yamaguchi/mine": {
+  "sections": {
+   "stay": 9,
+   "eat": 229,
+   "do": 7,
+   "see": 56,
+   "daily": 10
+  },
+  "eat": {
+   "Japanese (seafood)": 2,
+   "Japanese (meat)": 8,
+   "Japanese (noodles)": 16,
+   "European": 4,
+   "Cafe": 27,
+   "Curry": 3,
+   "Casual": 35,
+   "Chinese & Asian": 5,
+   "Izakaya & bars": 11,
+   "Sweets & bakeries": 24,
+   "Other Japanese": 50,
+   "Other": 44
+  },
+  "photo": {
+   "correct": 49,
+   "removed": 12,
+   "moved": 105,
+   "no-photo": 67,
+   "kept-unverified": 4
+  },
+  "dup_stay": []
+ },
+ "yamaguchi/nagato": {
+  "sections": {
+   "stay": 29,
+   "eat": 79,
+   "do": 30,
+   "see": 89,
+   "daily": 11
+  },
+  "eat": {
+   "Japanese (seafood)": 8,
+   "Japanese (meat)": 4,
+   "Japanese (noodles)": 3,
+   "European": 3,
+   "Cafe": 12,
+   "Casual": 4,
+   "Izakaya & bars": 4,
+   "Sweets & bakeries": 4,
+   "Other Japanese": 23,
+   "Other": 14
+  },
+  "photo": {
+   "correct": 77,
+   "no-photo": 5,
+   "kept-unverified": 1
+  },
+  "dup_stay": []
+ },
+ "yamaguchi/sanyoonoda": {
+  "sections": {
+   "stay": 5,
+   "eat": 357,
+   "do": 6,
+   "see": 31,
+   "daily": 16
+  },
+  "eat": {
+   "Japanese (seafood)": 14,
+   "Japanese (meat)": 25,
+   "Japanese (noodles)": 23,
+   "European": 19,
+   "Cafe": 42,
+   "Curry": 5,
+   "Casual": 32,
+   "Chinese & Asian": 19,
+   "Izakaya & bars": 51,
+   "Sweets & bakeries": 31,
+   "Other Japanese": 40,
+   "Other": 56
+  },
+  "photo": {
+   "correct": 66,
+   "removed": 21,
+   "moved": 180,
+   "kept-unverified": 7,
+   "no-photo": 97
+  },
+  "dup_stay": []
+ },
+ "yamaguchi/shimonoseki": {
+  "sections": {
+   "stay": 28,
+   "eat": 90,
+   "do": 46,
+   "see": 221,
+   "daily": 7
+  },
+  "eat": {
+   "Japanese (seafood)": 26,
+   "Japanese (meat)": 7,
+   "European": 9,
+   "Cafe": 3,
+   "Curry": 2,
+   "Casual": 1,
+   "Chinese & Asian": 1,
+   "Izakaya & bars": 25,
+   "Other Japanese": 12,
+   "Other": 4
+  },
+  "photo": {
+   "correct": 90
+  },
+  "dup_stay": [
+   "Hotel Nishi Nagato Resort",
+   "Neohasu Hotel Book & Cafe",
+   "Tsunoshima Night Tour (Hotel Guests)",
+   "Shimonoseki Ryokan Hotel Kyodokumiai"
+  ]
+ },
+ "yamaguchi/shunan": {
+  "sections": {
+   "stay": 18,
+   "eat": 89,
+   "do": 13,
+   "see": 104,
+   "daily": 2
+  },
+  "eat": {
+   "Japanese (seafood)": 7,
+   "Japanese (meat)": 11,
+   "European": 7,
+   "Cafe": 12,
+   "Curry": 1,
+   "Casual": 2,
+   "Chinese & Asian": 6,
+   "Izakaya & bars": 21,
+   "Sweets & bakeries": 3,
+   "Other Japanese": 11,
+   "Other": 8
+  },
+  "photo": {
+   "correct": 87,
+   "no-photo": 2,
+   "moved": 1
+  },
+  "dup_stay": []
+ },
+ "yamaguchi/suoooshima": {
+  "sections": {
+   "stay": 12,
+   "eat": 156,
+   "do": 8,
+   "see": 49,
+   "daily": 8
+  },
+  "eat": {
+   "Japanese (seafood)": 11,
+   "Japanese (meat)": 3,
+   "Japanese (noodles)": 8,
+   "European": 7,
+   "Cafe": 32,
+   "Curry": 1,
+   "Casual": 17,
+   "Chinese & Asian": 4,
+   "Izakaya & bars": 5,
+   "Sweets & bakeries": 18,
+   "Other Japanese": 22,
+   "Other": 28
+  },
+  "photo": {
+   "correct": 33,
+   "removed": 7,
+   "moved": 77,
+   "no-photo": 45,
+   "kept-unverified": 1
+  },
+  "dup_stay": []
+ },
+ "yamaguchi/tabuse": {
+  "sections": {
+   "stay": 0,
+   "eat": 64,
+   "do": 2,
+   "see": 23,
+   "daily": 3
+  },
+  "eat": {
+   "Japanese (seafood)": 3,
+   "Japanese (noodles)": 5,
+   "European": 3,
+   "Cafe": 8,
+   "Curry": 1,
+   "Casual": 14,
+   "Chinese & Asian": 1,
+   "Izakaya & bars": 5,
+   "Sweets & bakeries": 7,
+   "Other Japanese": 7,
+   "Other": 10
+  },
+  "photo": {
+   "correct": 9,
+   "removed": 3,
+   "moved": 28,
+   "no-photo": 24,
+   "kept-unverified": 2
+  },
+  "dup_stay": []
+ },
+ "yamaguchi/ube": {
+  "sections": {
+   "stay": 15,
+   "eat": 87,
+   "do": 8,
+   "see": 52,
+   "daily": 2
+  },
+  "eat": {
+   "Japanese (seafood)": 5,
+   "Japanese (meat)": 13,
+   "European": 9,
+   "Cafe": 6,
+   "Curry": 2,
+   "Chinese & Asian": 2,
+   "Izakaya & bars": 33,
+   "Sweets & bakeries": 1,
+   "Other Japanese": 8,
+   "Other": 8
+  },
+  "photo": {
+   "correct": 86,
+   "no-photo": 2
+  },
+  "dup_stay": [
+   "Ube Ryokan Hotel Seikatsu Eisei Dogyo Kumiai"
+  ]
+ },
+ "yamaguchi/waki": {
+  "sections": {
+   "stay": 0,
+   "eat": 16,
+   "do": 0,
+   "see": 7,
+   "daily": 2
+  },
+  "eat": {
+   "Japanese (meat)": 2,
+   "European": 2,
+   "Cafe": 3,
+   "Casual": 1,
+   "Chinese & Asian": 2,
+   "Izakaya & bars": 1,
+   "Sweets & bakeries": 1,
+   "Other Japanese": 3,
+   "Other": 1
+  },
+  "photo": {
+   "correct": 5,
+   "removed": 2,
+   "moved": 6,
+   "kept-unverified": 1,
+   "no-photo": 4
+  },
+  "dup_stay": []
+ },
+ "yamaguchi/yamaguchi": {
+  "sections": {
+   "stay": 26,
+   "eat": 90,
+   "do": 28,
+   "see": 193,
+   "daily": 7
+  },
+  "eat": {
+   "Japanese (seafood)": 2,
+   "Japanese (meat)": 15,
+   "Japanese (noodles)": 1,
+   "European": 10,
+   "Cafe": 4,
+   "Curry": 2,
+   "Casual": 1,
+   "Chinese & Asian": 2,
+   "Izakaya & bars": 31,
+   "Sweets & bakeries": 1,
+   "Other Japanese": 11,
+   "Other": 10
+  },
+  "photo": {
+   "correct": 90
+  },
+  "dup_stay": [
+   "Yamaguchi Ken Ryokan Hotel Seikatsu Eisei Dogyo Kumiai"
+  ]
+ },
+ "yamaguchi/yanai": {
+  "sections": {
+   "stay": 2,
+   "eat": 274,
+   "do": 7,
+   "see": 29,
+   "daily": 21
+  },
+  "eat": {
+   "Japanese (seafood)": 15,
+   "Japanese (meat)": 18,
+   "Japanese (noodles)": 14,
+   "European": 5,
+   "Cafe": 26,
+   "Curry": 3,
+   "Casual": 33,
+   "Chinese & Asian": 5,
+   "Izakaya & bars": 24,
+   "Sweets & bakeries": 26,
+   "Other Japanese": 58,
+   "Other": 47
+  },
+  "photo": {
+   "correct": 48,
+   "removed": 12,
+   "moved": 142,
+   "kept-unverified": 7,
+   "no-photo": 83
+  },
+  "dup_stay": []
+ }
+}
