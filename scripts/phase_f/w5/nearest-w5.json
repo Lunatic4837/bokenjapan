@@ -1,0 +1,240 @@
+{
+ "akita/hachirogata": {
+  "old": "akita/gojome",
+  "new": "akita/gojome",
+  "km_new": 3.3,
+  "km_old_gsi": 3.3,
+  "changed": false
+ },
+ "akita/happo": {
+  "old": "akita/noshiro",
+  "new": "akita/noshiro",
+  "km_new": 11.9,
+  "km_old_gsi": 11.9,
+  "changed": false
+ },
+ "akita/ikawa": {
+  "old": "akita/gojome",
+  "new": "akita/gojome",
+  "km_new": 4.2,
+  "km_old_gsi": 4.2,
+  "changed": false
+ },
+ "akita/kamikoani": {
+  "old": "akita/akita",
+  "new": "akita/kitaakita",
+  "km_new": 19.2,
+  "km_old_gsi": 41.6,
+  "changed": true
+ },
+ "akita/katagami": {
+  "old": "akita/gojome",
+  "new": "akita/gojome",
+  "km_new": 12.8,
+  "km_old_gsi": 12.8,
+  "changed": false
+ },
+ "fukuoka/akamura": {
+  "old": "fukuoka/soeda",
+  "new": "fukuoka/soeda",
+  "km_new": 5.2,
+  "km_old_gsi": 5.2,
+  "changed": false
+ },
+ "fukuoka/fukuchi": {
+  "old": "fukuoka/tagawa",
+  "new": "fukuoka/tagawa",
+  "km_new": 5.5,
+  "km_old_gsi": 5.5,
+  "changed": false
+ },
+ "fukuoka/hirokawa": {
+  "old": "fukuoka/yame",
+  "new": "fukuoka/yame",
+  "km_new": 3.4,
+  "km_old_gsi": 3.4,
+  "changed": false
+ },
+ "fukuoka/hisayama": {
+  "old": "fukuoka/sasaguri",
+  "new": "fukuoka/sasaguri",
+  "km_new": 3.5,
+  "km_old_gsi": 3.5,
+  "changed": false
+ },
+ "fukuoka/itoda": {
+  "old": "fukuoka/tagawa",
+  "new": "fukuoka/tagawa",
+  "km_new": 2.9,
+  "km_old_gsi": 2.9,
+  "changed": false
+ },
+ "fukuoka/kama": {
+  "old": "fukuoka/iizuka",
+  "new": "fukuoka/iizuka",
+  "km_new": 6.0,
+  "km_old_gsi": 6.0,
+  "changed": false
+ },
+ "fukuoka/kasuya": {
+  "old": "fukuoka/shime",
+  "new": "fukuoka/shime",
+  "km_new": 2.2,
+  "km_old_gsi": 2.2,
+  "changed": false
+ },
+ "fukuoka/kawasaki": {
+  "old": "fukuoka/tagawa",
+  "new": "fukuoka/tagawa",
+  "km_new": 4.4,
+  "km_old_gsi": 4.4,
+  "changed": false
+ },
+ "fukuoka/keisen": {
+  "old": "fukuoka/iizuka",
+  "new": "fukuoka/iizuka",
+  "km_new": 7.6,
+  "km_old_gsi": 7.6,
+  "changed": false
+ },
+ "fukuoka/kotake": {
+  "old": "fukuoka/miyawaka",
+  "new": "fukuoka/miyawaka",
+  "km_new": 4.8,
+  "km_old_gsi": 4.8,
+  "changed": false
+ },
+ "fukuoka/miyako": {
+  "old": "fukuoka/yukuhashi",
+  "new": "fukuoka/yukuhashi",
+  "km_new": 6.6,
+  "km_old_gsi": 6.6,
+  "changed": false
+ },
+ "fukuoka/miyama": {
+  "old": "fukuoka/yanagawa",
+  "new": "fukuoka/yanagawa",
+  "km_new": 6.5,
+  "km_old_gsi": 6.5,
+  "changed": false
+ },
+ "fukuoka/mizumaki": {
+  "old": "fukuoka/nakama",
+  "new": "fukuoka/nakama",
+  "km_new": 4.4,
+  "km_old_gsi": 4.4,
+  "changed": false
+ },
+ "fukuoka/ogori": {
+  "old": "fukuoka/tachiarai",
+  "new": "fukuoka/tachiarai",
+  "km_new": 6.8,
+  "km_old_gsi": 6.8,
+  "changed": false
+ },
+ "fukuoka/oki": {
+  "old": "fukuoka/okawashi",
+  "new": "fukuoka/okawashi",
+  "km_new": 5.2,
+  "km_old_gsi": 5.2,
+  "changed": false
+ },
+ "fukuoka/onga": {
+  "old": "fukuoka/ashiyacho",
+  "new": "fukuoka/ashiyacho",
+  "km_new": 5.1,
+  "km_old_gsi": 5.1,
+  "changed": false
+ },
+ "fukuoka/onojo": {
+  "old": "fukuoka/kasuga",
+  "new": "fukuoka/kasuga",
+  "km_new": 0.9,
+  "km_old_gsi": 0.9,
+  "changed": false
+ },
+ "fukuoka/oto": {
+  "old": "fukuoka/soeda",
+  "new": "fukuoka/soeda",
+  "km_new": 4.5,
+  "km_old_gsi": 4.5,
+  "changed": false
+ },
+ "fukuoka/shingucho": {
+  "old": "fukuoka/koga",
+  "new": "fukuoka/koga",
+  "km_new": 2.6,
+  "km_old_gsi": 2.6,
+  "changed": false
+ },
+ "fukuoka/sue": {
+  "old": "fukuoka/shime",
+  "new": "fukuoka/shime",
+  "km_new": 2.6,
+  "km_old_gsi": 2.6,
+  "changed": false
+ },
+ "fukuoka/umi": {
+  "old": "fukuoka/shime",
+  "new": "fukuoka/shime",
+  "km_new": 3.9,
+  "km_old_gsi": 3.9,
+  "changed": false
+ },
+ "miyagi/miyagimisato": {
+  "old": "miyagi/wakuya",
+  "new": "miyagi/wakuya",
+  "km_new": 6.2,
+  "km_old_gsi": 6.2,
+  "changed": false
+ },
+ "miyagi/osato": {
+  "old": "miyagi/matsushima",
+  "new": "miyagi/matsushima",
+  "km_new": 7.4,
+  "km_old_gsi": 7.4,
+  "changed": false
+ },
+ "miyagi/shikama": {
+  "old": "miyagi/kamimachi",
+  "new": "miyagi/kamimachi",
+  "km_new": 2.6,
+  "km_old_gsi": 2.6,
+  "changed": false
+ },
+ "miyagi/tomiya": {
+  "old": "miyagi/taiwa",
+  "new": "miyagi/taiwa",
+  "km_new": 4.2,
+  "km_old_gsi": 4.2,
+  "changed": false
+ },
+ "yamaguchi/abu": {
+  "old": "yamaguchi/hagi",
+  "new": "yamaguchi/hagi",
+  "km_new": 12.5,
+  "km_old_gsi": 12.5,
+  "changed": false
+ },
+ "yamaguchi/kaminoseki": {
+  "old": "yamaguchi/hirao",
+  "new": "yamaguchi/hirao",
+  "km_new": 12.4,
+  "km_old_gsi": 12.4,
+  "changed": false
+ },
+ "yamaguchi/tabuse": {
+  "old": "yamaguchi/hirao",
+  "new": "yamaguchi/hirao",
+  "km_new": 3.5,
+  "km_old_gsi": 3.5,
+  "changed": false
+ },
+ "yamaguchi/waki": {
+  "old": "yamaguchi/iwakuni",
+  "new": "yamaguchi/iwakuni",
+  "km_new": 4.0,
+  "km_old_gsi": 4.0,
+  "changed": false
+ }
+}
