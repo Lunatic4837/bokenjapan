@@ -1,0 +1,92 @@
+{
+ "sections": {
+  "stay": 13,
+  "eat": 694,
+  "do": 19,
+  "see": 5,
+  "daily": 24
+ },
+ "eat_categories": {
+  "Japanese (seafood)": 22,
+  "Japanese (meat)": 29,
+  "Japanese (noodles)": 59,
+  "European": 22,
+  "Cafe": 37,
+  "Curry": 4,
+  "Casual": 62,
+  "Chinese & Asian": 22,
+  "Izakaya & bars": 90,
+  "Sweets & bakeries": 54,
+  "Other Japanese": 133,
+  "Other": 160
+ },
+ "sights_split": {
+  "do": [
+   "Zenkoku Hanabi Kyogitaikai (Omagari no Hanabi)",
+   "Omagari no Hanabi Aki no Sho",
+   "Nara Oka Yaki Togei Experience",
+   "Kyo Kubi Onsen Sho Mine En (Shohoen)",
+   "Kariwano no Taiko Hiki",
+   "Roadside Station Kyowa (Shiki Forest)",
+   "Karamatsu Sanso Higashi Be Onsen",
+   "Omagari no Hanabi Haru no Sho",
+   "Iwakura Onsen",
+   "Kyowa Onsen Shiki Baths",
+   "Odai Ski Area",
+   "Roadside Station Nakasen Komekome Plaza",
+   "Kamioka Onsen Gaku Baths",
+   "Doresu Resort Kowakubi",
+   "Roadside Station Kamioka Chaya Kko Ichiri Tsuka",
+   "Fuku no Tomo Shuzo",
+   "Okuda Shuzo Mise",
+   "Daisen Ei Kyowa Ski Area",
+   "Kawa Wo Wataru Bonden"
+  ],
+  "see": [
+   "Karamatsu Shrine",
+   "Kuni Shitei Meisho Kyu Ikeda Shi Garden",
+   "Hanabi Dento Bunka Keisho Museum Hanabi Amu",
+   "Kyuhon Goke House",
+   "Kuni Shitei Historic Site Hottanoki Ato"
+  ],
+  "daily": [
+   "JA Akita Obako Famazumagatto",
+   "Daisen Kankojoho Center Guranporu"
+  ],
+  "dup-stay": [
+   "OYO Hotel Fuji",
+   "Yama no Te Hotel",
+   "Omagari Enpaiya Hotel"
+  ]
+ },
+ "daily_from_dining": [
+  "ファミリーマート 西仙北SA店",
+  "バザール 大曲店",
+  "デイリーヤマザキ 大曲西店",
+  "NewDays KIOSK 大曲駅待合室店",
+  "LAWSON 大仙協和上淀川店",
+  "セブンイレブン 大仙福田町店",
+  "イオン 中仙店",
+  "セブンイレブン 大仙飯田インター店",
+  "LAWSON 大仙角間川町店",
+  "NewDays 大曲",
+  "ファミリーマート 大曲上栄町店",
+  "ファミリーマート 大仙かみおか店",
+  "セブンイレブン 大曲西根店",
+  "グランマート 中通店",
+  "ファミリーマート 大仙太田町店",
+  "セブンイレブン 大仙上栄町店",
+  "ビフレ 大曲店",
+  "業務スーパー 大曲店",
+  "セブンイレブン 西仙北SA上り店",
+  "LAWSON 大仙協和船岡店",
+  "グランマート 白金店",
+  "ファミリーマート 大仙協和店"
+ ],
+ "basis": {
+  "Tabelog": 347,
+  "no": 160,
+  "TripAdvisor": 205,
+  "card line-4": 4
+ }
+}

@@ -1,0 +1,717 @@
+rank,name,genre,ta,category,basis
+1,ジュエーメ,イタリアン,,european,Tabelog genre イタリアン
+2,塩ホルモン 炭楽,ホルモン、焼肉、居酒屋,,meat,Tabelog genre ホルモン
+3,そば打ち幸甚,そば,,noodles,Tabelog genre そば
+4,麺屋　十郎兵衛,ラーメン、つけ麺,,noodles,Tabelog genre ラーメン
+5,大仙　牛玄亭,焼肉、ホルモン、ステーキ,,meat,Tabelog genre 焼肉
+6,RAMEN MOSH,ラーメン、つけ麺,,noodles,Tabelog genre ラーメン
+7,中華そば de 小松,ラーメン、つけ麺,,noodles,Tabelog genre ラーメン
+8,麺屋 にぼすけ 大曲駅前店,ラーメン、つけ麺,,noodles,Tabelog genre ラーメン
+9,麺屋 周,ラーメン,,noodles,Tabelog genre ラーメン
+10,鬼そば藤谷 総本店,ラーメン,,noodles,Tabelog genre ラーメン
+11,大衆食堂 第三倉庫 一撃製麺所,ラーメン,,noodles,Tabelog genre ラーメン
+12,鳳仙花,中華料理、ラーメン,,chinese,Tabelog genre 中華料理
+13,北野水産 大曲駅前店,そば、居酒屋,,noodles,Tabelog genre そば
+14,洋食屋バンフィール,洋食、オムライス、ハンバーグ,,european,Tabelog genre 洋食
+15,中華そば 今野,ラーメン,,noodles,Tabelog genre ラーメン
+16,大曲ラーメン,ラーメン、餃子,,noodles,Tabelog genre ラーメン
+17,拉麺 しな竹,ラーメン、油そば・まぜそば,,noodles,Tabelog genre ラーメン
+18,めんこいな,とんかつ、居酒屋,,meat,Tabelog genre とんかつ
+19,石臼挽き 純手打そば​ はなび野,そば,,noodles,Tabelog genre そば
+20,ミルクハウス,洋食、喫茶店、パスタ,,european,Tabelog genre 洋食
+21,麺酒菜 おり座,居酒屋、うどん、ラーメン,,izakaya,Tabelog genre 居酒屋
+22,麺屋恋恋,ラーメン,,noodles,Tabelog genre ラーメン
+23,焼肉 大同門 大曲店,焼肉,,meat,Tabelog genre 焼肉
+24,Cafe ネノリア,カフェ,,cafe,Tabelog genre カフェ
+25,エリヤ神岡,中華料理、ラーメン、餃子,,chinese,Tabelog genre 中華料理
+26,横丁盛場 キンギョ,居酒屋,,izakaya,Tabelog genre 居酒屋
+27,南園,ラーメン、中華料理、丼,,noodles,Tabelog genre ラーメン
+28,プラスカフェ 大曲駅店,カフェ,,cafe,Tabelog genre カフェ
+29,ゴールデンファイブヌードル,ラーメン,,noodles,Tabelog genre ラーメン
+30,道の駅 協和 四季の森,道の駅,,other,no genre in listing
+31,サンドーラ,サンドイッチ、おにぎり,,sweets,Tabelog genre サンドイッチ
+32,パンプキンハウス,洋食、喫茶店、ハンバーグ,,european,Tabelog genre 洋食
+33,スパイスカリーハウスDIYO,インド料理、インドカレー、東南アジア料理,,curry,Tabelog genre インド料理
+34,ポットスチル,バー、ダイニングバー、ヨーロッパ料理,,izakaya,Tabelog genre バー
+35,大来軒,ラーメン、うどん,,noodles,Tabelog genre ラーメン
+36,ドライブイン原宿,食堂、ラーメン,,casual,Tabelog genre 食堂
+37,道の駅かみおか 茶屋っこ一里塚,道の駅,,other,no genre in listing
+38,としま,かつ丼、食堂、ラーメン,,meat,Tabelog genre かつ丼
+39,つじや 中通本店,和菓子,,sweets,Tabelog genre 和菓子
+40,酉や喜兵衛 大曲店,焼き鳥、釜飯、居酒屋,,meat,Tabelog genre 焼き鳥
+41,かつ亭,とんかつ、カレー、かつ丼,,meat,Tabelog genre とんかつ
+42,エスプレッソ ワンオンス,カフェ,,cafe,Tabelog genre カフェ
+43,らぁ麺 まっちゃん,ラーメン,,noodles,Tabelog genre ラーメン
+44,三日月珈琲店,喫茶店,,cafe,Tabelog genre 喫茶店
+45,ドッピオ コーヒー ファクトリー,カフェ、ケーキ,,cafe,Tabelog genre カフェ
+46,FEIR,イタリアン、バル,,european,Tabelog genre イタリアン
+47,ちさか,居酒屋、海鮮,,izakaya,Tabelog genre 居酒屋
+48,酒食屋つくし,居酒屋、寿司,,izakaya,Tabelog genre 居酒屋
+49,中華そば店 一しな,ラーメン、餃子、おにぎり,,noodles,Tabelog genre ラーメン
+50,無弐,ラーメン、つけ麺,,noodles,Tabelog genre ラーメン
+51,coco cony,パン、洋菓子,,sweets,Tabelog genre パン
+52,大曲食堂,食堂、そば,,casual,Tabelog genre 食堂
+53,回鮮寿司さこう,回転寿司,,seafood,Tabelog genre 回転寿司
+54,たまごの樹 大曲店,オムライス、親子丼、洋菓子,,european,Tabelog genre オムライス
+55,コーナー ゲート バーガー,ハンバーガー,,casual,Tabelog genre ハンバーガー
+56,とら吉,たい焼き・大判焼き、かき氷、麺類,,sweets,Tabelog genre たい焼き・大判焼き
+57,kirinの木,カフェ、惣菜・デリ、ケーキ,,cafe,Tabelog genre カフェ
+58,美春,食堂、そば、ラーメン,,casual,Tabelog genre 食堂
+59,三平,居酒屋、海鮮、焼き鳥,,izakaya,Tabelog genre 居酒屋
+60,いこい食堂,食堂,,casual,Tabelog genre 食堂
+61,丸駒食堂,食堂,,casual,Tabelog genre 食堂
+62,繁昌軒 本店,ラーメン,,noodles,Tabelog genre ラーメン
+63,RA-MEN HARA8,ラーメン,,noodles,Tabelog genre ラーメン
+64,自家製麺 ラーメン玄武,ラーメン、油そば・まぜそば、つけ麺,,noodles,Tabelog genre ラーメン
+65,いっぷくや,食堂,,casual,Tabelog genre 食堂
+66,ブーランジェリールロン,パン、カフェ、洋菓子,,sweets,Tabelog genre パン
+67,パンヤ カトウ,パン、サンドイッチ、ベーグル,,sweets,Tabelog genre パン
+68,崎さん家,レストラン、オムライス、居酒屋,,european,Tabelog genre オムライス
+69,ラーメン みちのく,ラーメン,,noodles,Tabelog genre ラーメン
+70,らーめん 光べい,ラーメン,,noodles,Tabelog genre ラーメン
+71,久兵衛,そば、うどん、天丼,,noodles,Tabelog genre そば
+72,ゆかり堂製菓 中仙店,和菓子,,sweets,Tabelog genre 和菓子
+73,高梨商店,カフェ、沖縄そば、インドカレー,,cafe,Tabelog genre カフェ
+74,創作ダイニング古休,居酒屋,,izakaya,Tabelog genre 居酒屋
+75,カフェ アウル,カフェ,,cafe,Tabelog genre カフェ
+76,秋田大曲 フォレストリゾート 山の手ホテル,ホテル,,other,no genre in listing
+77,ラーメンショップ 四ツ屋店,ラーメン、つけ麺,,noodles,Tabelog genre ラーメン
+78,ごはん屋カフェ風舎,カフェ、洋食,,cafe,Tabelog genre カフェ
+79,くざえもん,居酒屋、海鮮、創作料理,,izakaya,Tabelog genre 居酒屋
+80,仙岩峠の茶屋 大曲店,おでん、そば、うどん,,japanese,Tabelog genre おでん
+81,道の駅なかせん,道の駅,,other,no genre in listing
+82,麺屋 燈,ラーメン,,noodles,Tabelog genre ラーメン
+83,パティスリードゥー,ケーキ、洋菓子,,sweets,Tabelog genre ケーキ
+84,FOG coffee,コーヒースタンド,,cafe,Tabelog genre コーヒースタンド
+85,じゅがーる,カフェ、ケーキ,,cafe,Tabelog genre カフェ
+86,CRAFT KITCHEN KYM'S,食堂、ラーメン,,casual,Tabelog genre 食堂
+87,じだい屋 本店,焼肉,,meat,Tabelog genre 焼肉
+88,繁昌軒 支店,ラーメン、うどん,,noodles,Tabelog genre ラーメン
+89,味楽食堂,食堂,,casual,Tabelog genre 食堂
+90,和台所 花,居酒屋、郷土料理、きりたんぽ,,izakaya,Tabelog genre 居酒屋
+91,田中屋本店,そば、うどん、天丼,,noodles,Tabelog genre そば
+92,斎藤精肉店,惣菜・デリ、コロッケ,,casual,Tabelog genre 惣菜・デリ
+93,焼肉 ほむら家 大仙店,焼肉、ビュッフェ、ホルモン,,meat,Tabelog genre 焼肉
+94,ばん酌家 まんまる,居酒屋,,izakaya,Tabelog genre 居酒屋
+95,小勝田,お好み焼き,,casual,Tabelog genre お好み焼き
+96,とんもと,レストラン,,other,no genre in listing
+97,福家,食堂,,casual,Tabelog genre 食堂
+98,桜木屋 大曲店,ラーメン,,noodles,Tabelog genre ラーメン
+99,彩光らーめん,ラーメン,,noodles,Tabelog genre ラーメン
+100,台湾料理 六順園,台湾料理、中華料理、ラーメン,,chinese,Tabelog genre 台湾料理
+101,大ちゃんラーメン,ラーメン、丼、餃子,,noodles,Tabelog genre ラーメン
+102,レストラン・ティファニー,洋食、ステーキ,,european,Tabelog genre 洋食
+103,博多豚骨 門濱屋,ラーメン,,noodles,Tabelog genre ラーメン
+104,ら〜めん 仁喜,ラーメン,,noodles,Tabelog genre ラーメン
+105,二十番食堂,食堂,,casual,Tabelog genre 食堂
+106,ナベイク,洋菓子,,sweets,Tabelog genre 洋菓子
+107,焼きたてパン ポッポ,パン,,sweets,Tabelog genre パン
+108,お宿 Onn 大曲の花火,ホテル,,other,no genre in listing
+109,ホテル富士,ホテル,,other,no genre in listing
+110,しゅしゅえっと まるしぇ,その他,,other,no genre in listing
+111,麺屋 風よおしえて,ラーメン,,noodles,Tabelog genre ラーメン
+112,うまい一丸鮨 大曲店,回転寿司,,seafood,Tabelog genre 回転寿司
+113,一福そば,そば、うどん,,noodles,Tabelog genre そば
+114,かたつむり,喫茶店、カレー,,cafe,Tabelog genre 喫茶店
+115,弁天,寿司、日本料理、郷土料理,,seafood,Tabelog genre 寿司
+116,蔵,寿司、鍋、うなぎ,,seafood,Tabelog genre 寿司
+117,ダイニング賢,レストラン,,other,no genre in listing
+118,田村商店,ハンバーガー,,casual,Tabelog genre ハンバーガー
+119,ここる,野菜料理,,japanese,Tabelog genre 野菜料理
+120,クレピース,クレープ・ガレット、カフェ、ジェラート・アイスクリーム,,sweets,Tabelog genre クレープ・ガレット
+121,ラーメン 三刀流,ラーメン,,noodles,Tabelog genre ラーメン
+122,ら～めん笑,ラーメン,,noodles,Tabelog genre ラーメン
+123,カツから家,とんかつ、からあげ、かつ丼,,meat,Tabelog genre とんかつ
+124,ら・ぐう,焼肉,,meat,Tabelog genre 焼肉
+125,ロイヤルセンチュリーゴルフ倶楽部,レストラン,,other,no genre in listing
+126,カフェ ビーコロ,カフェ、喫茶店,,cafe,Tabelog genre カフェ
+127,かみおか屋台市場,食堂、ラーメン、ソフトクリーム,,casual,Tabelog genre 食堂
+128,山の手ホテルダイニングルーム,日本料理、フレンチ,,japanese,Tabelog genre 日本料理
+129,TOMOカフェ,カフェ、パスタ、クレープ・ガレット,,cafe,Tabelog genre カフェ
+130,肉のさとう,惣菜・デリ、コロッケ、天ぷら,,casual,Tabelog genre 惣菜・デリ
+131,いこいカフェ,カフェ、麺類、ソフトクリーム,,cafe,Tabelog genre カフェ
+132,いたりあんはうす,洋食、イタリアン,,european,Tabelog genre 洋食
+133,レストラン 嶽,食堂、そば、うどん,,casual,Tabelog genre 食堂
+134,ほたる,居酒屋,,izakaya,Tabelog genre 居酒屋
+135,ごはん屋 さんたろう,食堂、居酒屋,,casual,Tabelog genre 食堂
+136,あみの 大曲店,日本料理、居酒屋,,japanese,Tabelog genre 日本料理
+137,四季料理居酒屋 くろいわ,居酒屋,,izakaya,Tabelog genre 居酒屋
+138,作助,カフェ,,cafe,Tabelog genre カフェ
+139,伊藤菓子店,和菓子,,sweets,Tabelog genre 和菓子
+140,AZ DINER,ダイニングバー,,izakaya,Tabelog genre ダイニングバー
+141,ポルミート,売店、肉料理,,casual,Tabelog genre 売店
+142,Aji-Q 協和店,ラーメン,,noodles,Tabelog genre ラーメン
+143,麺屋あり坂,ラーメン,,noodles,Tabelog genre ラーメン
+144,ラーメンショップ105,ラーメン、丼,,noodles,Tabelog genre ラーメン
+145,大昌苑,焼肉、冷麺,,meat,Tabelog genre 焼肉
+146,ショウコウドウ,ケーキ、和菓子、チョコレート,,sweets,Tabelog genre ケーキ
+147,大曲エンパイヤホテル レストラン・ネージュ,洋食、郷土料理,,european,Tabelog genre 洋食
+148,ラーメンハウス協和,ラーメン,,noodles,Tabelog genre ラーメン
+149,大仙市観光情報センター グランポール,その他,,other,no genre in listing
+150,オレンジオーブン,ケーキ、チョコレート,,sweets,Tabelog genre ケーキ
+151,和ダイニング ふじ,居酒屋、食堂,,izakaya,Tabelog genre 居酒屋
+152,丹波光実食堂,食堂,,casual,Tabelog genre 食堂
+153,びんずる,居酒屋,,izakaya,Tabelog genre 居酒屋
+154,ヴァンヴェール,パン,,sweets,Tabelog genre パン
+155,居酒屋 大綱,居酒屋,,izakaya,Tabelog genre 居酒屋
+156,inabar,居酒屋,,izakaya,Tabelog genre 居酒屋
+157,とがし,食堂、寿司、居酒屋,,casual,Tabelog genre 食堂
+158,ねこピザ,ピザ,,european,Tabelog genre ピザ
+159,ばっきゃ,居酒屋,,izakaya,Tabelog genre 居酒屋
+160,寿し半,寿司,,seafood,Tabelog genre 寿司
+161,たむら屋,居酒屋、ラーメン、すっぽん,,izakaya,Tabelog genre 居酒屋
+162,ちゃんす長野屋,郷土料理、食堂,,japanese,Tabelog genre 郷土料理
+163,大納川珈琲,喫茶店,,cafe,Tabelog genre 喫茶店
+164,堂本商店,たい焼き・大判焼き、洋菓子、甘味処,,sweets,Tabelog genre たい焼き・大判焼き
+165,あんてぃーく,喫茶店,,cafe,Tabelog genre 喫茶店
+166,リンガーハット イオンモール大曲店,ちゃんぽん,,noodles,Tabelog genre ちゃんぽん
+167,ラーメンショップ 105 中仙店,ラーメン、食堂,,noodles,Tabelog genre ラーメン
+168,十郎兵衛Labo,ラーメン、つけ麺、油そば・まぜそば,,noodles,Tabelog genre ラーメン
+169,大曲エンパイヤホテル 和食・花菜野,日本料理、寿司,,japanese,Tabelog genre 日本料理
+170,まちかど酒場 つるかめ屋,居酒屋、串焼き、おでん,,izakaya,Tabelog genre 居酒屋
+171,鮨吉,寿司,,seafood,Tabelog genre 寿司
+172,鳥八,居酒屋、焼き鳥、海鮮,,izakaya,Tabelog genre 居酒屋
+173,焼肉・冷麺ぐるり,焼肉,,meat,Tabelog genre 焼肉
+174,トイトイトイ,洋菓子,,sweets,Tabelog genre 洋菓子
+175,ファミリーマート 西仙北SA店,コンビニ・スーパー,,daily,Tabelog genre コンビニ・スーパー
+176,割烹 大和,日本料理、居酒屋,,japanese,Tabelog genre 日本料理
+177,G食堂 大曲店,食堂、ラーメン、麺類,,casual,Tabelog genre 食堂
+178,れんたろう,居酒屋、ラーメン,,izakaya,Tabelog genre 居酒屋
+179,かがりび,日本料理、食堂,,japanese,Tabelog genre 日本料理
+180,ふじ村,居酒屋,,izakaya,Tabelog genre 居酒屋
+181,居酒屋 デメキン,居酒屋,,izakaya,Tabelog genre 居酒屋
+182,レストラン ひかり,食堂、麺類、カフェ,,casual,Tabelog genre 食堂
+183,発明料理 げんや,居酒屋,,izakaya,Tabelog genre 居酒屋
+184,バザール 大曲店,コンビニ・スーパー,,daily,Tabelog genre コンビニ・スーパー
+185,ひのや,レストラン,,other,no genre in listing
+186,海老らっぴん,居酒屋,,izakaya,Tabelog genre 居酒屋
+187,のもか,居酒屋,,izakaya,Tabelog genre 居酒屋
+188,余目 そば処,そば,,noodles,Tabelog genre そば
+189,HARRY,レストラン,,other,no genre in listing
+190,亥,食堂、ダイニングバー,,casual,Tabelog genre 食堂
+191,やかた,レストラン,,other,no genre in listing
+192,はんあり,韓国料理,,chinese,Tabelog genre 韓国料理
+193,優勝軒 大曲店,ラーメン,,noodles,Tabelog genre ラーメン
+194,越後秘蔵麺 無尽蔵 だいせん家,ラーメン,,noodles,Tabelog genre ラーメン
+195,スターバックス・コーヒー イオンモール大曲店,カフェ,,cafe,Tabelog genre カフェ
+196,トレンタ 大曲本店,パスタ、ピザ,,european,Tabelog genre パスタ
+197,サイゼリヤ イオンモール大曲店,ファミレス、イタリアン,,casual,Tabelog genre ファミレス
+198,はなまるうどん イオンモール大曲店,うどん、天ぷら,,noodles,Tabelog genre うどん
+199,お茶の井ヶ田 喜久水庵 イオンモール大曲店,カフェ,,cafe,Tabelog genre カフェ
+200,南部家敷 大曲店,そば、天ぷら、うなぎ,,noodles,Tabelog genre そば
+201,マクドナルド イオンモール大曲店,ハンバーガー,,casual,Tabelog genre ハンバーガー
+202,からあげ専門 まつむら商店 イオンモール大曲店,からあげ,,meat,Tabelog genre からあげ
+203,爺森,郷土料理、食堂,,japanese,Tabelog genre 郷土料理
+204,日本料理 花よし,日本料理、きりたんぽ、海鮮,,japanese,Tabelog genre 日本料理
+205,デイリーヤマザキ 大曲西店,コンビニ・スーパー,,daily,Tabelog genre コンビニ・スーパー
+206,レストラン リヴィエール,レストラン、バー、カフェ,,izakaya,Tabelog genre バー
+207,おやつの店 さぬき,その他,,other,no genre in listing
+208,秋田清酒株式会社,その他,,other,no genre in listing
+209,NewDays KIOSK 大曲駅待合室店,コンビニ・スーパー,,daily,Tabelog genre コンビニ・スーパー
+210,やきとりおんどり,焼き鳥,,meat,Tabelog genre 焼き鳥
+211,ママキッチン シレーヌ,カフェ,,cafe,Tabelog genre カフェ
+212,食楽茶笑市 よっかん,食堂、居酒屋,,casual,Tabelog genre 食堂
+213,グランドパレス川端,日本料理、寿司、天ぷら,,japanese,Tabelog genre 日本料理
+214,fan,居酒屋,,izakaya,Tabelog genre 居酒屋
+215,酒楽ダイニング 陣,ダイニングバー,,izakaya,Tabelog genre ダイニングバー
+216,田中屋 支店,食堂,,casual,Tabelog genre 食堂
+217,オリジナルケーキおぐに,ケーキ,,sweets,Tabelog genre ケーキ
+218,Bar JAPAN,バー,,izakaya,Tabelog genre バー
+219,福芳,居酒屋,,izakaya,Tabelog genre 居酒屋
+220,ごんぐ,沖縄料理、焼酎バー,,japanese,Tabelog genre 沖縄料理
+221,町家Caffe ぱらんせ,喫茶店,,cafe,Tabelog genre 喫茶店
+222,総本家しなとら 戸蒔店,ラーメン,,noodles,Tabelog genre ラーメン
+223,くるまやラーメン 大曲店,ラーメン,,noodles,Tabelog genre ラーメン
+224,Aji-Q 神岡店,ラーメン,,noodles,Tabelog genre ラーメン
+225,かつさと 大曲店,かつ丼,,meat,Tabelog genre かつ丼
+226,すき家 105号大仙北長野店,牛丼、カレー、食堂,,casual,Tabelog genre 牛丼
+227,ケンタッキーフライドチキン イオンモール大曲店,ハンバーガー,,casual,Tabelog genre ハンバーガー
+228,鈴木酒造店,その他,,other,no genre in listing
+229,拉麺 ゆうき,ラーメン,,noodles,Tabelog genre ラーメン
+230,協和の枝豆屋　ソウヘイ,その他,,other,no genre in listing
+231,ひだまり食堂,食堂,,casual,Tabelog genre 食堂
+232,嶋田ハム 直売店,その他,,other,no genre in listing
+233,菓子工房オダシマ,ケーキ,,sweets,Tabelog genre ケーキ
+234,呑龍,ラーメン,,noodles,Tabelog genre ラーメン
+235,魚魚,居酒屋、海鮮,,izakaya,Tabelog genre 居酒屋
+236,番屋  大曲駅前店,居酒屋,,izakaya,Tabelog genre 居酒屋
+237,だいこく,居酒屋、焼き鳥,,izakaya,Tabelog genre 居酒屋
+238,ゴルフレストラン,レストラン,,other,no genre in listing
+239,chan_pon,食堂,,casual,Tabelog genre 食堂
+240,ホルモン家てつ,ホルモン、焼肉、居酒屋,,meat,Tabelog genre ホルモン
+241,RUSH‐BAR,バー、レストラン,,izakaya,Tabelog genre バー
+242,野食居酒屋 いずみ,居酒屋,,izakaya,Tabelog genre 居酒屋
+243,旬,焼き鳥、居酒屋,,meat,Tabelog genre 焼き鳥
+244,ふれあい食堂,弁当、おにぎり、惣菜・デリ,,casual,Tabelog genre 弁当
+245,野ぎく,日本料理,,japanese,Tabelog genre 日本料理
+246,こみっと,食堂,,casual,Tabelog genre 食堂
+247,築地銀だこ イオンモール大曲店,たこ焼き、たい焼き・大判焼き,,casual,Tabelog genre たこ焼き
+248,CoCo壱番屋 大曲東川店,カレー,,curry,Tabelog genre カレー
+249,幸楽苑 大曲店,ラーメン,,noodles,Tabelog genre ラーメン
+250,かっぱ寿司 大仙店,回転寿司,,seafood,Tabelog genre 回転寿司
+251,果汁工房 果琳 イオンモール大曲店,ジューススタンド,,cafe,Tabelog genre ジューススタンド
+252,すき家 13号大仙大曲店,牛丼、カレー、食堂,,casual,Tabelog genre 牛丼
+253,モスバーガー 大曲店,ハンバーガー,,casual,Tabelog genre ハンバーガー
+254,いろはにほへと 大曲駅前店,居酒屋、焼き鳥、海鮮,,izakaya,Tabelog genre 居酒屋
+255,ガスト 大曲店,ファミレス,,casual,Tabelog genre ファミレス
+256,おひつごはん 四六時中 大曲店,日本料理,,japanese,Tabelog genre 日本料理
+257,ペッパーランチ イオンモール大曲店,ステーキ,,meat,Tabelog genre ステーキ
+258,ナガハマコーヒー 大曲店,カフェ、洋菓子,,cafe,Tabelog genre カフェ
+259,マクドナルド イオン中仙店,ハンバーガー,,casual,Tabelog genre ハンバーガー
+260,ミスタードーナツ 大曲ショップ,カフェ,,cafe,Tabelog genre カフェ
+261,桜食品農事組合法人,その他,,other,no genre in listing
+262,和風レストランまるまつ 大曲店,ファミレス,,casual,Tabelog genre ファミレス
+263,白木屋 大曲西口駅前店,居酒屋、海鮮、創作料理,,izakaya,Tabelog genre 居酒屋
+264,ココス 大仙店,ファミレス,,casual,Tabelog genre ファミレス
+265,牛角 大曲店,焼肉、ホルモン、居酒屋,,meat,Tabelog genre 焼肉
+266,はま寿司 大仙大曲店,回転寿司,,seafood,Tabelog genre 回転寿司
+267,串カツ田中 大曲駅前店,串揚げ、居酒屋,,japanese,Tabelog genre 串揚げ
+268,サーティワンアイスクリーム イオンモール大曲店,ジェラート・アイスクリーム,,sweets,Tabelog genre ジェラート・アイスクリーム
+269,農産物直売所おひさまマルシェ,その他,,other,no genre in listing
+270,食事処 いおり,食堂,,casual,Tabelog genre 食堂
+271,不二家 イオン大曲店,ケーキ,,sweets,Tabelog genre ケーキ
+272,パン工場 イオン大曲店,パン、サンドイッチ、カフェ,,sweets,Tabelog genre パン
+273,五臓六腑,居酒屋,,izakaya,Tabelog genre 居酒屋
+274,福乃友,その他,,other,no genre in listing
+275,肉のわかば 大曲店,惣菜・デリ、コロッケ、焼き鳥,,casual,Tabelog genre 惣菜・デリ
+276,エッテ ケーキショップ,ケーキ,,sweets,Tabelog genre ケーキ
+277,毎日大曲,カフェ,,cafe,Tabelog genre カフェ
+278,シャトレーゼ 大曲店,洋菓子、和菓子,,sweets,Tabelog genre 洋菓子
+279,あじまん本舗 コメリ大曲店,たい焼き・大判焼き、たこ焼き,,sweets,Tabelog genre たい焼き・大判焼き
+280,きっかわ,肉料理、その他,,meat,Tabelog genre 肉料理
+281,伊万里,その他,,other,no genre in listing
+282,風扇,焼き鳥,,meat,Tabelog genre 焼き鳥
+283,たぢはん 長野店,居酒屋,,izakaya,Tabelog genre 居酒屋
+284,カネトク酒市場,その他,,other,no genre in listing
+285,モリボの里 物産館,ジェラート・アイスクリーム、麺類,,sweets,Tabelog genre ジェラート・アイスクリーム
+286,和食庵 東兵衛屋敷,日本料理,,japanese,Tabelog genre 日本料理
+287,まる八食堂,居酒屋,,izakaya,Tabelog genre 居酒屋
+288,やをら,ベーグル、スイーツ,,sweets,Tabelog genre ベーグル
+289,和栄堂,和菓子、洋菓子、スイーツ,,sweets,Tabelog genre 和菓子
+290,丸徳商店,和菓子,,sweets,Tabelog genre 和菓子
+291,クロスステージ,カフェ,,cafe,Tabelog genre カフェ
+292,きりんの木スタンド,たい焼き・大判焼き,,sweets,Tabelog genre たい焼き・大判焼き
+293,豊月,和菓子,,sweets,Tabelog genre 和菓子
+294,おおくぼ,和菓子,,sweets,Tabelog genre 和菓子
+295,神岡物産館,その他,,other,no genre in listing
+296,中仙堂,和菓子,,sweets,Tabelog genre 和菓子
+297,LAWSON 大仙協和上淀川店,コンビニ・スーパー,,daily,Tabelog genre コンビニ・スーパー
+298,雪月花,日本料理、居酒屋,,japanese,Tabelog genre 日本料理
+299,福丸,お好み焼き、もんじゃ焼き、居酒屋,,casual,Tabelog genre お好み焼き
+300,めん太郎 秋田中仙店,ラーメン,,noodles,Tabelog genre ラーメン
+301,ピザＪＰ 大曲店,イタリアン,,european,Tabelog genre イタリアン
+302,奥田酒造店,その他,,other,no genre in listing
+303,お菓子のくらた イーストモール店,和菓子、洋菓子,,sweets,Tabelog genre 和菓子
+304,手作りハウス ふらっと,惣菜・デリ、洋菓子,,casual,Tabelog genre 惣菜・デリ
+305,FOOD FREAK,ケバブ、トルコ料理,,casual,Tabelog genre ケバブ
+306,I'm HAPPY,ケーキ,,sweets,Tabelog genre ケーキ
+307,セブンイレブン 大仙福田町店,コンビニ・スーパー,,daily,Tabelog genre コンビニ・スーパー
+308,お菓子処 花咲,和菓子、どら焼き,,sweets,Tabelog genre 和菓子
+309,BERNARD イーストモール店,パン、サンドイッチ,,sweets,Tabelog genre パン
+310,グレン,ケーキ、パン,,sweets,Tabelog genre ケーキ
+311,お菓子の家ふじた,ケーキ,,sweets,Tabelog genre ケーキ
+312,イオン 中仙店,コンビニ・スーパー,,daily,Tabelog genre コンビニ・スーパー
+313,セブンイレブン 大仙飯田インター店,コンビニ・スーパー,,daily,Tabelog genre コンビニ・スーパー
+314,ベルナール グランマート飯田店,パン,,sweets,Tabelog genre パン
+315,南外ふるさと館,その他,,other,no genre in listing
+316,LAWSON 大仙角間川町店,コンビニ・スーパー,,daily,Tabelog genre コンビニ・スーパー
+317,na.bitte,カレー,,curry,Tabelog genre カレー
+318,千寿し,寿司,,seafood,Tabelog genre 寿司
+319,イオンドリップカフェ イオンモール大曲店,その他,,other,no genre in listing
+320,宅配 仕出し お弁当 テイクアウト専門 河ドラ 協和店,弁当,,casual,Tabelog genre 弁当
+321,よりみち,かき氷、たい焼き・大判焼き,,sweets,Tabelog genre かき氷
+322,あんてぃーく,食堂,,casual,Tabelog genre 食堂
+323,ベルナール,パン,,sweets,Tabelog genre パン
+324,サンロード よねや大曲中央店,パン,,sweets,Tabelog genre パン
+325,たろすけガーデンぱん,パン,,sweets,Tabelog genre パン
+326,SUNROAD よねやとまき店,パン,,sweets,Tabelog genre パン
+327,パン工場 イオン中仙店,パン,,sweets,Tabelog genre パン
+328,TOMATO,売店,,casual,Tabelog genre 売店
+329,やきとり シバタ 大曲店,焼き鳥,,meat,Tabelog genre 焼き鳥
+330,NewDays 大曲,コンビニ・スーパー,,daily,Tabelog genre コンビニ・スーパー
+331,大綱食品,その他,,other,no genre in listing
+332,高関上郷農場,その他,,other,no genre in listing
+333,玉き,レストラン,,other,no genre in listing
+334,ファミリーマート 大曲上栄町店,コンビニ・スーパー,,daily,Tabelog genre コンビニ・スーパー
+335,金紋秋田酒造,その他,,other,no genre in listing
+336,ファミリーマート 大仙かみおか店,コンビニ・スーパー,,daily,Tabelog genre コンビニ・スーパー
+337,銀座コージーコーナー イオン中仙店,ケーキ,,sweets,Tabelog genre ケーキ
+338,ほっぺ,弁当、麺類,,casual,Tabelog genre 弁当
+339,イーストモール,その他,,other,no genre in listing
+340,うさぎのしっぽ,喫茶店,,cafe,Tabelog genre 喫茶店
+341,おこめのさわた,その他,,other,no genre in listing
+342,イオンシネマ 大曲店,その他,,other,no genre in listing
+343,協和スキー場 レストラン,レストラン,,other,no genre in listing
+344,原料館,弁当,,casual,Tabelog genre 弁当
+345,こめこめプラザ売店,その他,,other,no genre in listing
+346,お台所 mau,食堂,,casual,Tabelog genre 食堂
+347,古巣菓子店,和菓子,,sweets,Tabelog genre 和菓子
+348,東北醤油,その他,,other,no genre in listing
+349,グリーンパレス 竹馬,その他,,other,no genre in listing
+350,大曲プラザ たつみ,その他,,other,no genre in listing
+351,セブンイレブン 大曲西根店,コンビニ・スーパー,,daily,Tabelog genre コンビニ・スーパー
+352,グランマート 中通店,コンビニ・スーパー,,daily,Tabelog genre コンビニ・スーパー
+353,新栄堂 小田島,和菓子,,sweets,Tabelog genre 和菓子
+354,ほっともっと 大曲田町店,弁当,,casual,Tabelog genre 弁当
+355,栗林精肉店,その他,,other,no genre in listing
+356,華美彩庵,その他,,other,no genre in listing
+357,味の平七,食堂,,casual,Tabelog genre 食堂
+358,南外さいかい市,その他,,other,no genre in listing
+359,まる,レストラン,,other,no genre in listing
+360,居酒屋暖,焼き鳥,,meat,Tabelog genre 焼き鳥
+361,打川商店,たい焼き・大判焼き、かき氷,,sweets,Tabelog genre たい焼き・大判焼き
+362,大日向精肉店,惣菜・デリ,,casual,Tabelog genre 惣菜・デリ
+363,ふらっと,カフェ,,cafe,Tabelog genre カフェ
+364,無印良品 イーストモール大仙店,その他,,other,no genre in listing
+365,酔呼伝,居酒屋,,izakaya,Tabelog genre 居酒屋
+366,ファミリーマート 大仙太田町店,コンビニ・スーパー,,daily,Tabelog genre コンビニ・スーパー
+367,つなぐ珈琲 1号店,コーヒースタンド,,cafe,Tabelog genre コーヒースタンド
+368,小料理 SamaSama,食堂,,casual,Tabelog genre 食堂
+369,昴,レストラン,,other,no genre in listing
+370,セブンイレブン 大仙上栄町店,コンビニ・スーパー,,daily,Tabelog genre コンビニ・スーパー
+371,ビフレ 大曲店,コンビニ・スーパー,,daily,Tabelog genre コンビニ・スーパー
+372,ローズメイ秋田工場,その他,,other,no genre in listing
+373,ムーン・ライト,レストラン、バー,,izakaya,Tabelog genre バー
+374,カラオケBanBan 大曲駅前店,カラオケ,,izakaya,Tabelog genre カラオケ
+375,酒菜和,居酒屋,,izakaya,Tabelog genre 居酒屋
+376,業務スーパー 大曲店,コンビニ・スーパー,,daily,Tabelog genre コンビニ・スーパー
+377,セブンイレブン 西仙北SA上り店,コンビニ・スーパー,,daily,Tabelog genre コンビニ・スーパー
+378,居酒屋厨房 みっつん家,揚げ物、おにぎり,,casual,Tabelog genre 揚げ物
+379,すづひろ,日本料理,,japanese,Tabelog genre 日本料理
+380,高寅商店,弁当,,casual,Tabelog genre 弁当
+381,UNITED GRILL,アメリカ料理,,european,Tabelog genre アメリカ料理
+382,平熊会館,その他,,other,no genre in listing
+383,ピザハット 大曲店,ピザ,,european,Tabelog genre ピザ
+384,LAWSON 大仙協和船岡店,コンビニ・スーパー,,daily,Tabelog genre コンビニ・スーパー
+385,焼き鳥 ゆうちゃん 大仙神岡店,焼き鳥,,meat,Tabelog genre 焼き鳥
+386,神宮寺観光果樹園,その他,,other,no genre in listing
+387,グランマート 白金店,コンビニ・スーパー,,daily,Tabelog genre コンビニ・スーパー
+388,じぱんぐ亭,弁当、からあげ,,casual,Tabelog genre 弁当
+389,めん太郎 大曲店,うどん、そば、ラーメン,,noodles,Tabelog genre うどん
+390,草穂,その他,,other,no genre in listing
+391,ファミリーマート 大仙協和店,コンビニ・スーパー,,daily,Tabelog genre コンビニ・スーパー
+392,大曲たいやき,たい焼き・大判焼き,,sweets,Tabelog genre たい焼き・大判焼き
+393,みんなの悟空,居酒屋、パスタ、カレー,,izakaya,Tabelog genre 居酒屋
+394,新席,レストラン,,other,no genre in listing
+395,居酒屋 笑家,居酒屋,,izakaya,Tabelog genre 居酒屋
+396,長沼商店 大曲店,その他,,other,no genre in listing
+397,森乃茶屋,寿司,,seafood,Tabelog genre 寿司
+398,あきたブリューイングカンパニー,ビアバー,,izakaya,Tabelog genre ビアバー
+399,レストラン四季,食堂,,casual,Tabelog genre 食堂
+400,アグリマーケティングハウス,その他,,other,no genre in listing
+401,もつ煮処 ちゃみせ,食堂,,casual,Tabelog genre 食堂
+402,月岡ホテル,ホテル,,other,no genre in listing
+403,Oryza Restaurant,,"['Japanese', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+404,Ristorante Glueme,,['Italian'],european,TripAdvisor cuisine Italian
+405,Zakisanchi,,['Fusion'],other,no genre in listing
+406,Sampei,,"['Japanese', 'Izakaya (Japanese Style Tavern)']",izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+407,Restaurant Shimada,,['German'],european,TripAdvisor cuisine German
+408,Sumiraku,,['Barbecue'],meat,TripAdvisor cuisine Barbecue
+409,Sobauchi Kojin,,"['Japanese', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+410,Harajuku Drive In,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+411,Tsujiya Pastry Nakadori Honten,,[],sweets,card line-4 genre word
+412,Kushikatsu Tanaka Omagari ekimae,,"['Japanese', 'Brew Pub', 'Fast Food', 'Pub', 'Japanese Fusion']",izakaya,TripAdvisor cuisine Pub
+413,Kitano Suisan Omagari Ekimae,,"['Japanese', 'Pub']",izakaya,TripAdvisor cuisine Pub
+414,Katsutei,,"['Japanese', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+415,Jikaseimen Sato,,['Asian'],chinese,TripAdvisor cuisine Asian
+416,Menya Jurohei,,"['Japanese', 'Asian']",chinese,TripAdvisor cuisine Asian
+417,Wadaidokoro Hana,,"['Japanese', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+418,Nibosuke,,[],other,no genre in listing
+419,Shoho En,,"['Japanese', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+420,Nan En,,[],other,no genre in listing
+421,Tonkatsu Fujiyoshiomagari,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+422,Yakiniku Daidomon Ohmagari,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+423,Dining Kokyu,,"['Bar', 'Fusion']",izakaya,TripAdvisor cuisine Bar
+424,Tamagonoki Omagari,,[],other,no genre in listing
+425,Omagari Dininig Room,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+426,Irohanihoheto Omagari Eki Mae,,"['Japanese', 'International', 'Japanese Fusion']",japanese,TripAdvisor cuisine Japanese
+427,Ramen Sho,,"['Chinese', 'Asian']",chinese,TripAdvisor cuisine Chinese
+428,Menkoina,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+429,Royal Century Golf Club,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+430,Wa Dining Dodo,,[],other,no genre in listing
+431,Bamfiru,,['Fusion'],other,no genre in listing
+432,Wa Dining Fuji,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+433,Starbucks Coffee Aeon Mallomagari,,['Cafe'],cafe,TripAdvisor cuisine Cafe
+434,Kentucky Fried Chicken Aeon Mall Omagari,,"['American', 'Fast Food']",european,TripAdvisor cuisine American
+435,Golden Five Noodle,,['Asian'],chinese,TripAdvisor cuisine Asian
+436,Chukasoba De Komatsu,,['Asian'],chinese,TripAdvisor cuisine Asian
+437,Ajiyoshi Ajiniban,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+438,Men Ya Arisaka,,[],other,no genre in listing
+439,Hatsumeiryori Gen Ya,,"['Japanese', 'Izakaya (Japanese Style Tavern)']",izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+440,Aji Q Kyowa,,[],other,no genre in listing
+441,Menya Tenho Omagari,,['Asian'],chinese,TripAdvisor cuisine Asian
+442,Family Sakagura Gonin Baykushoomagari Main Store,,"['Japanese', 'Izakaya (Japanese Style Tavern)']",izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+443,Pot Steel,,"['Bar', 'Pub']",izakaya,TripAdvisor cuisine Bar
+444,Ringer Hut Aeon Mall Omagari,,[],other,no genre in listing
+445,Soba Tempura Unagi Hatsucho Nambu Yashiki Aeon Mall Omagari,,"['Japanese', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+446,Omagari Ramen,,[],other,no genre in listing
+447,Sakuragiya,,['Asian'],chinese,TripAdvisor cuisine Asian
+448,Toriya Kibe Omagari,,[],other,no genre in listing
+449,Hanjoken Branch,,[],other,no genre in listing
+450,Tenka Ippinomagari,,[],other,no genre in listing
+451,Jimori,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+452,Sendai Yakitori Nakanaka,,"['Japanese', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+453,Season Diner Kiyo,,"['Bar', 'Pub']",izakaya,TripAdvisor cuisine Bar
+454,Sennen No Utage Oomagari West Entrance Eki Mae,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+455,Daisen Tongentei,,[],other,no genre in listing
+456,Zen,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+457,Nishisemboku Restaurant Noborisen,,['Fusion'],other,no genre in listing
+458,Tamura Shoten,,['American'],european,TripAdvisor cuisine American
+459,Hari,,"['Japanese', 'Bar', 'International', 'Japanese - Other ']",izakaya,TripAdvisor cuisine Bar
+460,Izakaya Burari,,"['Japanese', 'Izakaya (Japanese Style Tavern)']",izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+461,Kuzaemon,,"['Japanese', 'Izakaya (Japanese Style Tavern)']",izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+462,Irakuya Shirokiya Omagari West Entrance Eki Mae,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+463,Big Boy Aeon Mall Omagari,,['Steakhouse'],meat,TripAdvisor cuisine Steakhouse
+464,Ippuku Soba,,"['Japanese', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+465,Hitoshina,,[],other,no genre in listing
+466,Miharu,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+467,Echigo Hizomen Mujinzo Daisen Ya,,[],other,no genre in listing
+468,Plus Cafe Omagari Ekimae,,[],other,no genre in listing
+469,高幸食堂,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+470,Gosaku Ramen Daisen,,[],other,no genre in listing
+471,Eriya Kamioka,,['Chinese'],chinese,TripAdvisor cuisine Chinese
+472,Rinsendo Jumonji Ramen Aeon Omagari Sc,,[],other,no genre in listing
+473,Ramen Shinatake,,[],other,no genre in listing
+474,Umedaya,,"['Japanese', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+475,Ramen Shop Yotsuya,,[],other,no genre in listing
+476,Ramen Yuki,,[],other,no genre in listing
+477,Kingyo,,"['Japanese', 'Asian', 'Street Food']",chinese,TripAdvisor cuisine Asian
+478,Kirinno ki,,[],other,no genre in listing
+479,Hikari,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+480,Brick Green Palace Takeuma,,['French'],european,TripAdvisor cuisine French
+481,Sakana Dokoro Fujimura,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+482,Ristorante Feir,,['Italian'],european,TripAdvisor cuisine Italian
+483,Soba restaurant Masumi,,[],other,no genre in listing
+484,Shokodo Patisserie,,[],other,no genre in listing
+485,Kourakuen Aeon Mall Omagari,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+486,Shinshin Minami,,['Chinese'],chinese,TripAdvisor cuisine Chinese
+487,Ramen Shop 105,,[],other,no genre in listing
+488,Hanjoken Main Store,,[],other,no genre in listing
+489,Pepper Lunch Aeon Mall Omagari,,[],other,no genre in listing
+490,Sohonke Shinatoratomaki,,[],other,no genre in listing
+491,Tsukiji Gindako Aeon Mall Omagari,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+492,Waku Wakutei,,"['Japanese', 'Izakaya (Japanese Style Tavern)']",izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+493,Izakaya Yu,,"['Japanese', 'Izakaya (Japanese Style Tavern)']",izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+494,Domdom Hamburgeromagari,,[],other,no genre in listing
+495,Mottari Magedari,,[],other,no genre in listing
+496,Soba Restaurant Yanagi An,,"['Japanese', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+497,くらた 大曲店,,[],other,no genre in listing
+498,Shokujidokoro Toshima,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+499,Kourakuen Omagari,,['Asian'],chinese,TripAdvisor cuisine Asian
+500,Izakaya K,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+501,Eidai Shokudo,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+502,Kishidate Shokudo,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+503,Kikkawa,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+504,ふじまさ,,['Asian'],chinese,TripAdvisor cuisine Asian
+505,縁側カフェ作助,,[],other,no genre in listing
+506,Yamawa,,[],other,no genre in listing
+507,Midori Yakitori,,"['Japanese', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+508,Kita No Shoya,,"['Japanese', 'Izakaya (Japanese Style Tavern)']",izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+509,Eitaro,,"['Japanese', 'Izakaya (Japanese Style Tavern)']",izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+510,Minozushi,,"['Japanese', 'Seafood', 'Sushi', 'Japanese - Other ']",seafood,TripAdvisor cuisine Sushi
+511,105 Nakasen,,[],other,no genre in listing
+512,Kura,,"['Japanese', 'Seafood', 'Sushi', 'Japanese - Other ']",seafood,TripAdvisor cuisine Sushi
+513,Yakiniku Homuraya,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+514,Orsay,,['Fusion'],other,no genre in listing
+515,Yamayo Shokudo,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+516,Icho Sushi,,"['Japanese', 'Sushi']",seafood,TripAdvisor cuisine Sushi
+517,Croque Saigotei,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+518,Ramen Takeya Kyowa,,[],other,no genre in listing
+519,Azemichi,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+520,Cafe Dining le Train Bleu Daino Mae,,"['Japanese', 'Izakaya (Japanese Style Tavern)']",izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+521,Restaurant Salute,,[],other,no genre in listing
+522,Artemis,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+523,Rushikanpani Aeonmaul Oomagari,,[],other,no genre in listing
+524,Maido,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+525,食菜館　ひだまり,,[],other,no genre in listing
+526,Morino Chaya,,"['Japanese', 'Sushi']",seafood,TripAdvisor cuisine Sushi
+527,Izakayaotsuna,,['International'],other,no genre in listing
+528,天狗屋,,"['Japanese', 'Asian']",chinese,TripAdvisor cuisine Asian
+529,Sushi Zen,,"['Japanese', 'Sushi']",seafood,TripAdvisor cuisine Sushi
+530,Kappo Suduhiro,,"['Japanese', 'Kappo']",japanese,TripAdvisor cuisine Japanese
+531,Drive in Michinoku,,['Japanese - Other '],japanese,TripAdvisor cuisine Japanese - Other
+532,Yuzuki,,[],other,no genre in listing
+533,Boulangerie Le Rond,,[],other,no genre in listing
+534,Baskin Robbins Aeon Mall Omagari,,[],sweets,card line-4 genre word
+535,Kushiyaki Michihisa,,"['Japanese', 'Asian']",chinese,TripAdvisor cuisine Asian
+536,Tsukiji Zushi,,"['Japanese', 'Seafood', 'Sushi', 'Japanese - Other ']",seafood,TripAdvisor cuisine Sushi
+537,Shinseki,,['International'],other,no genre in listing
+538,Rie,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+539,小田嶋商店,,[],other,no genre in listing
+540,Farmer s Restaurant Genki Na Noka,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+541,Miyakozushi,,"['Japanese', 'Seafood', 'Sushi', 'Japanese - Other ']",seafood,TripAdvisor cuisine Sushi
+542,Sako Kitaomagari,,"['Japanese', 'Sushi']",seafood,TripAdvisor cuisine Sushi
+543,Izakaya Banya,,"['Japanese', 'Izakaya (Japanese Style Tavern)']",izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+544,Sushiyoshi Marunouchi,,"['Japanese', 'Seafood', 'Sushi', 'Japanese - Other ']",seafood,TripAdvisor cuisine Sushi
+545,Senryu,,"['Japanese', 'Seafood', 'Sushi', 'Japanese - Other ']",seafood,TripAdvisor cuisine Sushi
+546,Toriaji,,"['Japanese', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+547,京や,,"['Japanese', 'Japanese - Traditional Cuisine', 'Kappo']",japanese,TripAdvisor cuisine Japanese
+548,Kinomi,,"['Japanese', 'Izakaya (Japanese Style Tavern)']",izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+549,Sushi Restaurant Kano Ya,,"['Japanese', 'Seafood', 'Sushi', 'Japanese - Other ']",seafood,TripAdvisor cuisine Sushi
+550,珍呑,,"['Japanese', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+551,Nonnon,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+552,Sato,,[],other,no genre in listing
+553,Kaguya,,['Cafe'],cafe,TripAdvisor cuisine Cafe
+554,Lounge Michikusa,,"['Bar', 'Pub']",izakaya,TripAdvisor cuisine Bar
+555,Loop,,"['Pub', 'Gastropub', 'Dining bars']",izakaya,TripAdvisor cuisine Pub
+556,Kigawa,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+557,Rin,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+558,Katsukaraya,,"['Japanese', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+559,Hei,,"['Japanese', 'Fusion', 'Japanese - Other ', 'Japanese Fusion']",japanese,TripAdvisor cuisine Japanese
+560,Izakaya Kakuta,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+561,Sasaki,,[],other,no genre in listing
+562,Dining Yukiji,,"['Bar', 'Pub', 'Gastropub']",izakaya,TripAdvisor cuisine Bar
+563,Tsuwabuki,,['Pub'],izakaya,TripAdvisor cuisine Pub
+564,Cella,,"['Bar', 'Pub']",izakaya,TripAdvisor cuisine Bar
+565,Hadaka Noosama,,['Pub'],izakaya,TripAdvisor cuisine Pub
+566,Unreve,,"['Bar', 'Pub']",izakaya,TripAdvisor cuisine Bar
+567,La Fraschetta,,['Wine Bar'],izakaya,card line-4 genre word
+568,Q Chan Ramen,,[],other,no genre in listing
+569,Menraku Sasaki,,[],other,no genre in listing
+570,Yume Chochin,,"['Japanese', 'Izakaya (Japanese Style Tavern)']",izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+571,Oguni Store,,[],other,no genre in listing
+572,Semboku,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+573,Ajiho,,"['Japanese', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+574,Nagi,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+575,Sports Cafe Zyx,,['Cafe'],cafe,TripAdvisor cuisine Cafe
+576,Ette cakeshop,,[],other,no genre in listing
+577,Omagari Empire Hotel Restaurant Kanaya,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+578,Koryori Kotobuki,,"['Japanese', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+579,Uotami Daisen,,['Seafood'],seafood,TripAdvisor cuisine Seafood
+580,Restaurant Goku,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+581,Izakaya Chubo Fan,,"['Japanese', 'Izakaya (Japanese Style Tavern)']",izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+582,Sayori,,[],other,no genre in listing
+583,Koryoriotomo,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+584,Hamayaki Taro Omagari,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+585,Kumiko Dininig Room,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+586,Mameto,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+587,Hiyoko Curry Aeon Mall Omagari,,[],other,no genre in listing
+588,Fujita Pastry,,[],other,no genre in listing
+589,Kitchen Shibata,,[],other,no genre in listing
+590,Takahashi Shokudo,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+591,Yasuragi,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+592,Italian House,,"['Italian', 'Fusion']",european,TripAdvisor cuisine Italian
+593,Emiya,,[],other,no genre in listing
+594,Cafe Rest Pumpkin House,,[],other,no genre in listing
+595,Aqa Omagari,,['International'],other,no genre in listing
+596,Four Season Club,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+597,Momo,,['Japanese - Other '],japanese,TripAdvisor cuisine Japanese - Other
+598,Hanabimachi Cafe,,['Cafe'],cafe,TripAdvisor cuisine Cafe
+599,Mother s House,,['Japanese - Other '],japanese,TripAdvisor cuisine Japanese - Other
+600,Mai,,['Japanese - Other '],japanese,TripAdvisor cuisine Japanese - Other
+601,Marunouchi Shokudo,,['Japanese - Other '],japanese,TripAdvisor cuisine Japanese - Other
+602,Obako,,['Japanese - Other '],japanese,TripAdvisor cuisine Japanese - Other
+603,Suzuki,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+604,Karura,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+605,カラオケ時遊館 大曲駅前店,,['International'],other,no genre in listing
+606,Ichigen Shokudo,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+607,Apple,,['International'],other,no genre in listing
+608,Yotsuya Drive In,,['International'],other,no genre in listing
+609,Dharma Otoshi,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+610,Cookies Pot,,['Cafe'],cafe,TripAdvisor cuisine Cafe
+611,Hot Daisen Hoppe,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+612,Semboku Family Bowl,,['International'],other,no genre in listing
+613,Yakiniku House Toyama,,['Barbecue'],meat,TripAdvisor cuisine Barbecue
+614,Shusaidokoro Canadian 2,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+615,Manpukutei,,['Barbecue'],meat,TripAdvisor cuisine Barbecue
+616,Kazaguruma,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+617,Shijan Kimchi No Omise,,"['Asian', 'Korean']",chinese,TripAdvisor cuisine Korean
+618,Marumi Shokudo,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+619,Shoku Kobotyrol No Mori,,"['Fast Food', 'International']",casual,TripAdvisor cuisine Fast Food
+620,Avenue,,['Cafe'],cafe,TripAdvisor cuisine Cafe
+621,Han Ari,,"['Asian', 'Korean']",chinese,TripAdvisor cuisine Korean
+622,Nemoto Shokudo,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+623,Wakatake,,"['Japanese', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+624,Maru,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+625,Marukatsu,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+626,Shirokujichu Omagari,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+627,Togashi,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+628,Hotaru,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+629,Spice Curry House Diyo,,['Indian'],curry,TripAdvisor cuisine Indian
+630,Natti Bavarian Mh,,[],other,no genre in listing
+631,Yuno,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+632,Kusa No Hana,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+633,Tetsube Daisen,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+634,Akatsuki,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+635,Kitakami Sakedokoro,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+636,Kokuhin Hanten,,['Chinese'],chinese,TripAdvisor cuisine Chinese
+637,Kuro Suisen,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+638,Kobato,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+639,Tsuta,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+640,Aiko,,['International'],other,no genre in listing
+641,Hanamaru,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+642,Nightspacer J,,['International'],other,no genre in listing
+643,Nan Nan,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+644,Golden Cadillac,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+645,Lunch Box,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+646,Fukumiya,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+647,Donguri Koro Koro,,['Fusion'],other,no genre in listing
+648,Ginran,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+649,Gyukakuomagari,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+650,Suzuki Shokudo,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+651,Maruko Shokudo,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+652,Nonoka,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+653,Omagari Club,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+654,Shofukuya,,['International'],other,no genre in listing
+655,Y's Dining,,['Chinese'],chinese,TripAdvisor cuisine Chinese
+656,Tarafuku Shokudo,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+657,Miyoshi,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+658,Kiryu,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+659,Gorohachi Shokudo,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+660,Confectionery Tsukasa Muto,,[],other,no genre in listing
+661,ホルモン道場,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+662,Moa,,['International'],other,no genre in listing
+663,Yamabiko,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+664,Green Lodge,,['Cafe'],cafe,TripAdvisor cuisine Cafe
+665,Ikuyo,,"['Japanese', 'International', 'Japanese - Other ']",japanese,TripAdvisor cuisine Japanese
+666,Meshiya,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+667,Maruhachi Shokudo,,['Japanese'],japanese,TripAdvisor cuisine Japanese
+668,Sasugayaomagari,,['International'],other,no genre in listing
+669,Yori Dokoro Ohmagari,,"['Japanese', 'Izakaya (Japanese Style Tavern)']",izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+670,Live Izakaya Daisen,,['Izakaya (Japanese Style Tavern)'],izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+671,Shusai Dokoro Ajisai,,"['Japanese', 'Izakaya (Japanese Style Tavern)']",izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+672,Hitoko Kyu,,['Izakaya (Japanese Style Tavern)'],izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+673,Private Room Izakaya Setsugetsuka,,"['Japanese', 'Izakaya (Japanese Style Tavern)']",izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+674,On The Road,,['Izakaya (Japanese Style Tavern)'],izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+675,Izakaya Yuki,,"['Japanese', 'Izakaya (Japanese Style Tavern)']",izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+676,Okubo Pastry,,[],other,no genre in listing
+677,Genbu,,[],other,no genre in listing
+678,Ikoi Cafe,,[],other,no genre in listing
+679,居酒屋えびす,,"['Japanese', 'Izakaya (Japanese Style Tavern)']",izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+680,Asahiya Ramen,,[],other,no genre in listing
+681,Kurobeedo,,[],other,no genre in listing
+682,Food Culture Restaurant Kokoru,,[],other,no genre in listing
+683,Copin Quick Pasta Omagari,,[],other,no genre in listing
+684,Dipper Dan Aeon Mall Omagari Fc,,[],other,no genre in listing
+685,Olve Soleil,,[],other,no genre in listing
+686,Musashi,,"['Japanese', 'Izakaya (Japanese Style Tavern)']",izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+687,Kikusui Aeon Mall Omagari,,[],other,no genre in listing
+688,Sohonke Shinatora Daisen,,[],other,no genre in listing
+689,Crossroad,,"['Japanese', 'Izakaya (Japanese Style Tavern)']",izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+690,Karin,,"['Japanese', 'Izakaya (Japanese Style Tavern)']",izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+691,Daigen,,[],other,no genre in listing
+692,Lilly,,[],other,no genre in listing
+693,FLO Prestige Omagari Aeon,,[],other,no genre in listing
+694,Cross Stage,,[],other,no genre in listing
+695,Escargot,,[],other,no genre in listing
+696,Fukinoto,,"['Japanese', 'Izakaya (Japanese Style Tavern)']",izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+697,Torakichi,,['Japanese sweets parlour'],sweets,card line-4 genre word
+698,Kohaku,,[],other,no genre in listing
+699,Suginoko,,[],other,no genre in listing
+700,Izakaya Enka,,"['Japanese', 'Izakaya (Japanese Style Tavern)']",izakaya,TripAdvisor cuisine Izakaya (Japanese Style Tavern)
+701,Morokoshi Ramen Donryu,,[],other,no genre in listing
+702,Sugawaraya,,[],other,no genre in listing
+703,Eternal,,[],other,no genre in listing
+704,Ripuan,,[],other,no genre in listing
+705,Sosaku Sakana Tempura Lantern,,[],other,no genre in listing
+706,Yanagiya Pastry,,[],other,no genre in listing
+707,Mainichi Omagari,,[],other,no genre in listing
+708,Yuka,,[],other,no genre in listing
+709,Sengantoge No Chaya Omagari,,[],other,no genre in listing
+710,Orangeoven,,[],other,no genre in listing
+711,Eishindo Confectionery,,[],other,no genre in listing
+712,Shohei,,[],other,no genre in listing
+713,Orion Gyoza Aeon Mall Omagari,,[],other,no genre in listing
+714,Suzuya Grand Mart Iida,,[],other,no genre in listing
+715,Mendokoro Hanabi,,[],other,no genre in listing
+716,Hotto Motto Omagari Tamachi,,[],other,no genre in listing
