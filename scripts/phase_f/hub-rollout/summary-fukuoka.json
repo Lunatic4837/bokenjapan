@@ -1,0 +1,1750 @@
+{
+ "fukuoka/akamura": {
+  "sections": {
+   "stay": 0,
+   "eat": 22,
+   "do": 1,
+   "see": 5,
+   "daily": 0
+  },
+  "eat": {
+   "Japanese (seafood)": 1,
+   "Japanese (meat)": 2,
+   "Japanese (noodles)": 2,
+   "European": 1,
+   "Cafe": 2,
+   "Curry": 1,
+   "Casual": 3,
+   "Sweets & bakeries": 1,
+   "Other Japanese": 3,
+   "Other": 6
+  },
+  "photo": {
+   "correct": 2,
+   "removed": 1,
+   "moved": 8,
+   "no-photo": 10,
+   "kept-unverified": 1
+  },
+  "dup_stay": []
+ },
+ "fukuoka/asakura": {
+  "sections": {
+   "stay": 15,
+   "eat": 520,
+   "do": 5,
+   "see": 12,
+   "daily": 18
+  },
+  "eat": {
+   "Japanese (seafood)": 22,
+   "Japanese (meat)": 31,
+   "Japanese (noodles)": 40,
+   "European": 18,
+   "Cafe": 60,
+   "Curry": 9,
+   "Casual": 46,
+   "Chinese & Asian": 14,
+   "Izakaya & bars": 58,
+   "Sweets & bakeries": 54,
+   "Other Japanese": 74,
+   "Other": 94
+  },
+  "photo": {
+   "correct": 79,
+   "removed": 29,
+   "moved": 274,
+   "kept-unverified": 12,
+   "no-photo": 143
+  },
+  "dup_stay": []
+ },
+ "fukuoka/ashiyacho": {
+  "sections": {
+   "stay": 1,
+   "eat": 178,
+   "do": 0,
+   "see": 17,
+   "daily": 10
+  },
+  "eat": {
+   "Japanese (seafood)": 7,
+   "Japanese (meat)": 9,
+   "Japanese (noodles)": 5,
+   "European": 1,
+   "Cafe": 19,
+   "Curry": 2,
+   "Casual": 25,
+   "Chinese & Asian": 4,
+   "Izakaya & bars": 48,
+   "Sweets & bakeries": 11,
+   "Other Japanese": 18,
+   "Other": 29
+  },
+  "photo": {
+   "correct": 37,
+   "removed": 9,
+   "moved": 119,
+   "no-photo": 21,
+   "kept-unverified": 1
+  },
+  "dup_stay": []
+ },
+ "fukuoka/buzen": {
+  "sections": {
+   "stay": 2,
+   "eat": 185,
+   "do": 2,
+   "see": 15,
+   "daily": 2
+  },
+  "eat": {
+   "Japanese (seafood)": 16,
+   "Japanese (meat)": 20,
+   "Japanese (noodles)": 8,
+   "European": 5,
+   "Cafe": 17,
+   "Curry": 1,
+   "Casual": 23,
+   "Chinese & Asian": 2,
+   "Izakaya & bars": 14,
+   "Sweets & bakeries": 22,
+   "Other Japanese": 23,
+   "Other": 34
+  },
+  "photo": {
+   "correct": 27,
+   "removed": 7,
+   "moved": 89,
+   "no-photo": 61,
+   "kept-unverified": 2
+  },
+  "dup_stay": []
+ },
+ "fukuoka/chikugo": {
+  "sections": {
+   "stay": 5,
+   "eat": 339,
+   "do": 3,
+   "see": 14,
+   "daily": 6
+  },
+  "eat": {
+   "Japanese (seafood)": 22,
+   "Japanese (meat)": 34,
+   "Japanese (noodles)": 26,
+   "European": 9,
+   "Cafe": 34,
+   "Curry": 6,
+   "Casual": 26,
+   "Chinese & Asian": 10,
+   "Izakaya & bars": 54,
+   "Sweets & bakeries": 30,
+   "Other Japanese": 42,
+   "Other": 46
+  },
+  "photo": {
+   "correct": 52,
+   "kept-unverified": 4,
+   "removed": 14,
+   "moved": 171,
+   "no-photo": 103
+  },
+  "dup_stay": []
+ },
+ "fukuoka/chikujo": {
+  "sections": {
+   "stay": 3,
+   "eat": 85,
+   "do": 2,
+   "see": 20,
+   "daily": 2
+  },
+  "eat": {
+   "Japanese (seafood)": 1,
+   "Japanese (meat)": 7,
+   "Japanese (noodles)": 5,
+   "European": 2,
+   "Cafe": 8,
+   "Curry": 1,
+   "Casual": 11,
+   "Chinese & Asian": 1,
+   "Izakaya & bars": 8,
+   "Sweets & bakeries": 7,
+   "Other Japanese": 18,
+   "Other": 16
+  },
+  "photo": {
+   "correct": 17,
+   "removed": 5,
+   "moved": 37,
+   "no-photo": 26
+  },
+  "dup_stay": []
+ },
+ "fukuoka/chikushino": {
+  "sections": {
+   "stay": 8,
+   "eat": 70,
+   "do": 4,
+   "see": 14,
+   "daily": 1
+  },
+  "eat": {
+   "Japanese (meat)": 10,
+   "Japanese (noodles)": 6,
+   "European": 3,
+   "Cafe": 4,
+   "Curry": 3,
+   "Casual": 2,
+   "Chinese & Asian": 5,
+   "Izakaya & bars": 21,
+   "Sweets & bakeries": 3,
+   "Other Japanese": 6,
+   "Other": 7
+  },
+  "photo": {
+   "correct": 59,
+   "kept-unverified": 10,
+   "no-photo": 2
+  },
+  "dup_stay": []
+ },
+ "fukuoka/chikuzen": {
+  "sections": {
+   "stay": 2,
+   "eat": 202,
+   "do": 5,
+   "see": 27,
+   "daily": 12
+  },
+  "eat": {
+   "Japanese (seafood)": 6,
+   "Japanese (meat)": 14,
+   "Japanese (noodles)": 20,
+   "European": 12,
+   "Cafe": 21,
+   "Curry": 3,
+   "Casual": 22,
+   "Chinese & Asian": 7,
+   "Izakaya & bars": 12,
+   "Sweets & bakeries": 24,
+   "Other Japanese": 23,
+   "Other": 38
+  },
+  "photo": {
+   "correct": 38,
+   "removed": 11,
+   "moved": 127,
+   "no-photo": 32
+  },
+  "dup_stay": []
+ },
+ "fukuoka/dazaifu": {
+  "sections": {
+   "stay": 4,
+   "eat": 72,
+   "do": 0,
+   "see": 18,
+   "daily": 0
+  },
+  "eat": {
+   "Japanese (seafood)": 6,
+   "Japanese (meat)": 5,
+   "Japanese (noodles)": 4,
+   "European": 2,
+   "Cafe": 13,
+   "Casual": 5,
+   "Chinese & Asian": 3,
+   "Izakaya & bars": 5,
+   "Sweets & bakeries": 9,
+   "Other Japanese": 10,
+   "Other": 10
+  },
+  "photo": {
+   "correct": 69,
+   "kept-unverified": 1,
+   "no-photo": 2
+  },
+  "dup_stay": []
+ },
+ "fukuoka/fukuchi": {
+  "sections": {
+   "stay": 0,
+   "eat": 108,
+   "do": 2,
+   "see": 14,
+   "daily": 3
+  },
+  "eat": {
+   "Japanese (seafood)": 4,
+   "Japanese (meat)": 9,
+   "Japanese (noodles)": 13,
+   "European": 4,
+   "Cafe": 6,
+   "Casual": 12,
+   "Chinese & Asian": 4,
+   "Izakaya & bars": 6,
+   "Sweets & bakeries": 11,
+   "Other Japanese": 14,
+   "Other": 25
+  },
+  "photo": {
+   "correct": 14,
+   "removed": 4,
+   "moved": 49,
+   "kept-unverified": 4,
+   "no-photo": 37
+  },
+  "dup_stay": []
+ },
+ "fukuoka/fukuoka": {
+  "sections": {
+   "stay": 20,
+   "eat": 20,
+   "do": 19,
+   "see": 342,
+   "daily": 7
+  },
+  "eat": {
+   "Japanese (seafood)": 1,
+   "Japanese (meat)": 4,
+   "European": 1,
+   "Chinese & Asian": 1,
+   "Izakaya & bars": 12,
+   "Other Japanese": 1
+  },
+  "photo": {
+   "correct": 20
+  },
+  "dup_stay": []
+ },
+ "fukuoka/fukutsu": {
+  "sections": {
+   "stay": 3,
+   "eat": 465,
+   "do": 0,
+   "see": 16,
+   "daily": 13
+  },
+  "eat": {
+   "Japanese (seafood)": 27,
+   "Japanese (meat)": 44,
+   "Japanese (noodles)": 25,
+   "European": 19,
+   "Cafe": 67,
+   "Curry": 9,
+   "Casual": 32,
+   "Chinese & Asian": 19,
+   "Izakaya & bars": 38,
+   "Sweets & bakeries": 60,
+   "Other Japanese": 46,
+   "Other": 79
+  },
+  "photo": {
+   "correct": 84,
+   "removed": 22,
+   "moved": 247,
+   "kept-unverified": 7,
+   "no-photo": 116
+  },
+  "dup_stay": []
+ },
+ "fukuoka/hirokawa": {
+  "sections": {
+   "stay": 0,
+   "eat": 130,
+   "do": 0,
+   "see": 21,
+   "daily": 3
+  },
+  "eat": {
+   "Japanese (seafood)": 4,
+   "Japanese (meat)": 7,
+   "Japanese (noodles)": 14,
+   "European": 11,
+   "Cafe": 13,
+   "Curry": 1,
+   "Casual": 9,
+   "Chinese & Asian": 4,
+   "Izakaya & bars": 10,
+   "Sweets & bakeries": 15,
+   "Other Japanese": 18,
+   "Other": 24
+  },
+  "photo": {
+   "correct": 21,
+   "removed": 5,
+   "moved": 63,
+   "no-photo": 40,
+   "kept-unverified": 2
+  },
+  "dup_stay": []
+ },
+ "fukuoka/hisayama": {
+  "sections": {
+   "stay": 0,
+   "eat": 120,
+   "do": 0,
+   "see": 27,
+   "daily": 7
+  },
+  "eat": {
+   "Japanese (seafood)": 4,
+   "Japanese (meat)": 5,
+   "Japanese (noodles)": 10,
+   "European": 12,
+   "Cafe": 12,
+   "Curry": 3,
+   "Casual": 13,
+   "Chinese & Asian": 8,
+   "Izakaya & bars": 3,
+   "Sweets & bakeries": 6,
+   "Other Japanese": 14,
+   "Other": 30
+  },
+  "photo": {
+   "correct": 29,
+   "removed": 9,
+   "moved": 50,
+   "no-photo": 37,
+   "kept-unverified": 2
+  },
+  "dup_stay": []
+ },
+ "fukuoka/iizuka": {
+  "sections": {
+   "stay": 6,
+   "eat": 70,
+   "do": 2,
+   "see": 16,
+   "daily": 0
+  },
+  "eat": {
+   "Japanese (seafood)": 6,
+   "Japanese (meat)": 16,
+   "Japanese (noodles)": 3,
+   "European": 4,
+   "Curry": 2,
+   "Casual": 7,
+   "Chinese & Asian": 2,
+   "Izakaya & bars": 15,
+   "Sweets & bakeries": 4,
+   "Other Japanese": 7,
+   "Other": 4
+  },
+  "photo": {
+   "correct": 62,
+   "no-photo": 8
+  },
+  "dup_stay": []
+ },
+ "fukuoka/itoda": {
+  "sections": {
+   "stay": 0,
+   "eat": 33,
+   "do": 2,
+   "see": 4,
+   "daily": 1
+  },
+  "eat": {
+   "Japanese (meat)": 6,
+   "Japanese (noodles)": 3,
+   "Cafe": 3,
+   "Casual": 6,
+   "Izakaya & bars": 2,
+   "Sweets & bakeries": 3,
+   "Other Japanese": 4,
+   "Other": 6
+  },
+  "photo": {
+   "correct": 5,
+   "removed": 1,
+   "moved": 10,
+   "no-photo": 16,
+   "kept-unverified": 1
+  },
+  "dup_stay": []
+ },
+ "fukuoka/itoshima": {
+  "sections": {
+   "stay": 17,
+   "eat": 69,
+   "do": 2,
+   "see": 16,
+   "daily": 0
+  },
+  "eat": {
+   "Japanese (seafood)": 18,
+   "Japanese (meat)": 4,
+   "Japanese (noodles)": 1,
+   "European": 10,
+   "Cafe": 9,
+   "Curry": 1,
+   "Casual": 2,
+   "Chinese & Asian": 1,
+   "Izakaya & bars": 9,
+   "Sweets & bakeries": 4,
+   "Other Japanese": 4,
+   "Other": 6
+  },
+  "photo": {
+   "correct": 69
+  },
+  "dup_stay": []
+ },
+ "fukuoka/kama": {
+  "sections": {
+   "stay": 0,
+   "eat": 228,
+   "do": 6,
+   "see": 12,
+   "daily": 1
+  },
+  "eat": {
+   "Japanese (seafood)": 8,
+   "Japanese (meat)": 20,
+   "Japanese (noodles)": 15,
+   "European": 2,
+   "Cafe": 28,
+   "Casual": 28,
+   "Chinese & Asian": 1,
+   "Izakaya & bars": 19,
+   "Sweets & bakeries": 23,
+   "Other Japanese": 41,
+   "Other": 43
+  },
+  "photo": {
+   "correct": 25,
+   "removed": 7,
+   "moved": 82,
+   "kept-unverified": 5,
+   "no-photo": 110
+  },
+  "dup_stay": []
+ },
+ "fukuoka/kanda": {
+  "sections": {
+   "stay": 6,
+   "eat": 233,
+   "do": 0,
+   "see": 22,
+   "daily": 6
+  },
+  "eat": {
+   "Japanese (seafood)": 8,
+   "Japanese (meat)": 27,
+   "Japanese (noodles)": 22,
+   "European": 6,
+   "Cafe": 17,
+   "Curry": 4,
+   "Casual": 38,
+   "Chinese & Asian": 3,
+   "Izakaya & bars": 18,
+   "Sweets & bakeries": 11,
+   "Other Japanese": 32,
+   "Other": 47
+  },
+  "photo": {
+   "correct": 47,
+   "removed": 11,
+   "moved": 103,
+   "kept-unverified": 3,
+   "no-photo": 73
+  },
+  "dup_stay": []
+ },
+ "fukuoka/kasuga": {
+  "sections": {
+   "stay": 3,
+   "eat": 69,
+   "do": 0,
+   "see": 15,
+   "daily": 1
+  },
+  "eat": {
+   "Japanese (seafood)": 4,
+   "Japanese (meat)": 11,
+   "European": 6,
+   "Cafe": 3,
+   "Curry": 4,
+   "Casual": 3,
+   "Chinese & Asian": 4,
+   "Izakaya & bars": 20,
+   "Sweets & bakeries": 5,
+   "Other Japanese": 5,
+   "Other": 4
+  },
+  "photo": {
+   "correct": 65,
+   "no-photo": 5
+  },
+  "dup_stay": []
+ },
+ "fukuoka/kasuya": {
+  "sections": {
+   "stay": 0,
+   "eat": 291,
+   "do": 1,
+   "see": 7,
+   "daily": 10
+  },
+  "eat": {
+   "Japanese (seafood)": 7,
+   "Japanese (meat)": 27,
+   "Japanese (noodles)": 21,
+   "European": 11,
+   "Cafe": 22,
+   "Curry": 4,
+   "Casual": 28,
+   "Chinese & Asian": 14,
+   "Izakaya & bars": 27,
+   "Sweets & bakeries": 43,
+   "Other Japanese": 30,
+   "Other": 57
+  },
+  "photo": {
+   "correct": 53,
+   "removed": 17,
+   "moved": 155,
+   "kept-unverified": 8,
+   "no-photo": 68
+  },
+  "dup_stay": []
+ },
+ "fukuoka/kawara": {
+  "sections": {
+   "stay": 1,
+   "eat": 75,
+   "do": 4,
+   "see": 22,
+   "daily": 3
+  },
+  "eat": {
+   "Japanese (seafood)": 4,
+   "Japanese (meat)": 6,
+   "Japanese (noodles)": 14,
+   "European": 1,
+   "Cafe": 7,
+   "Casual": 4,
+   "Chinese & Asian": 4,
+   "Izakaya & bars": 1,
+   "Sweets & bakeries": 7,
+   "Other Japanese": 9,
+   "Other": 18
+  },
+  "photo": {
+   "correct": 12,
+   "removed": 4,
+   "moved": 41,
+   "no-photo": 20
+  },
+  "dup_stay": []
+ },
+ "fukuoka/kawasaki": {
+  "sections": {
+   "stay": 0,
+   "eat": 106,
+   "do": 0,
+   "see": 4,
+   "daily": 3
+  },
+  "eat": {
+   "Japanese (seafood)": 3,
+   "Japanese (meat)": 11,
+   "Japanese (noodles)": 9,
+   "European": 2,
+   "Cafe": 7,
+   "Curry": 3,
+   "Casual": 9,
+   "Chinese & Asian": 2,
+   "Izakaya & bars": 14,
+   "Sweets & bakeries": 9,
+   "Other Japanese": 17,
+   "Other": 20
+  },
+  "photo": {
+   "correct": 13,
+   "removed": 3,
+   "moved": 30,
+   "no-photo": 59,
+   "kept-unverified": 2
+  },
+  "dup_stay": []
+ },
+ "fukuoka/keisen": {
+  "sections": {
+   "stay": 0,
+   "eat": 91,
+   "do": 1,
+   "see": 3,
+   "daily": 2
+  },
+  "eat": {
+   "Japanese (seafood)": 7,
+   "Japanese (meat)": 16,
+   "Japanese (noodles)": 9,
+   "European": 1,
+   "Cafe": 5,
+   "Curry": 1,
+   "Casual": 7,
+   "Chinese & Asian": 4,
+   "Izakaya & bars": 6,
+   "Sweets & bakeries": 11,
+   "Other Japanese": 11,
+   "Other": 13
+  },
+  "photo": {
+   "correct": 12,
+   "removed": 3,
+   "moved": 44,
+   "no-photo": 31,
+   "kept-unverified": 3
+  },
+  "dup_stay": []
+ },
+ "fukuoka/kitakyushu": {
+  "sections": {
+   "stay": 20,
+   "eat": 20,
+   "do": 10,
+   "see": 151,
+   "daily": 4
+  },
+  "eat": {
+   "Japanese (seafood)": 4,
+   "Japanese (meat)": 5,
+   "European": 1,
+   "Curry": 1,
+   "Izakaya & bars": 8,
+   "Other Japanese": 1
+  },
+  "photo": {
+   "correct": 20
+  },
+  "dup_stay": []
+ },
+ "fukuoka/koga": {
+  "sections": {
+   "stay": 2,
+   "eat": 433,
+   "do": 2,
+   "see": 15,
+   "daily": 14
+  },
+  "eat": {
+   "Japanese (seafood)": 17,
+   "Japanese (meat)": 38,
+   "Japanese (noodles)": 32,
+   "European": 13,
+   "Cafe": 32,
+   "Curry": 7,
+   "Casual": 41,
+   "Chinese & Asian": 12,
+   "Izakaya & bars": 48,
+   "Sweets & bakeries": 32,
+   "Other Japanese": 73,
+   "Other": 88
+  },
+  "photo": {
+   "correct": 85,
+   "removed": 23,
+   "moved": 187,
+   "kept-unverified": 7,
+   "no-photo": 144
+  },
+  "dup_stay": []
+ },
+ "fukuoka/koge": {
+  "sections": {
+   "stay": 1,
+   "eat": 45,
+   "do": 2,
+   "see": 9,
+   "daily": 1
+  },
+  "eat": {
+   "Japanese (meat)": 6,
+   "Japanese (noodles)": 7,
+   "European": 2,
+   "Cafe": 2,
+   "Casual": 4,
+   "Chinese & Asian": 1,
+   "Izakaya & bars": 1,
+   "Sweets & bakeries": 2,
+   "Other Japanese": 7,
+   "Other": 13
+  },
+  "photo": {
+   "correct": 8,
+   "removed": 2,
+   "moved": 22,
+   "no-photo": 14
+  },
+  "dup_stay": []
+ },
+ "fukuoka/kotake": {
+  "sections": {
+   "stay": 0,
+   "eat": 14,
+   "do": 0,
+   "see": 2,
+   "daily": 2
+  },
+  "eat": {
+   "Japanese (meat)": 2,
+   "Japanese (noodles)": 1,
+   "European": 1,
+   "Cafe": 4,
+   "Casual": 2,
+   "Izakaya & bars": 1,
+   "Sweets & bakeries": 1,
+   "Other Japanese": 1,
+   "Other": 1
+  },
+  "photo": {
+   "correct": 2,
+   "removed": 1,
+   "moved": 7,
+   "no-photo": 5
+  },
+  "dup_stay": []
+ },
+ "fukuoka/kurate": {
+  "sections": {
+   "stay": 1,
+   "eat": 80,
+   "do": 0,
+   "see": 8,
+   "daily": 3
+  },
+  "eat": {
+   "Japanese (seafood)": 3,
+   "Japanese (meat)": 6,
+   "Japanese (noodles)": 8,
+   "European": 2,
+   "Cafe": 7,
+   "Casual": 10,
+   "Izakaya & bars": 5,
+   "Sweets & bakeries": 10,
+   "Other Japanese": 12,
+   "Other": 17
+  },
+  "photo": {
+   "correct": 11,
+   "removed": 3,
+   "moved": 28,
+   "kept-unverified": 4,
+   "no-photo": 37
+  },
+  "dup_stay": []
+ },
+ "fukuoka/kurume": {
+  "sections": {
+   "stay": 20,
+   "eat": 71,
+   "do": 4,
+   "see": 14,
+   "daily": 0
+  },
+  "eat": {
+   "Japanese (seafood)": 4,
+   "Japanese (meat)": 12,
+   "Japanese (noodles)": 1,
+   "European": 8,
+   "Chinese & Asian": 3,
+   "Izakaya & bars": 31,
+   "Other Japanese": 8,
+   "Other": 4
+  },
+  "photo": {
+   "correct": 70,
+   "kept-unverified": 1
+  },
+  "dup_stay": []
+ },
+ "fukuoka/miyako": {
+  "sections": {
+   "stay": 0,
+   "eat": 117,
+   "do": 2,
+   "see": 24,
+   "daily": 7
+  },
+  "eat": {
+   "Japanese (seafood)": 7,
+   "Japanese (meat)": 6,
+   "Japanese (noodles)": 10,
+   "European": 5,
+   "Cafe": 21,
+   "Curry": 1,
+   "Casual": 11,
+   "Chinese & Asian": 1,
+   "Izakaya & bars": 3,
+   "Sweets & bakeries": 8,
+   "Other Japanese": 19,
+   "Other": 25
+  },
+  "photo": {
+   "correct": 21,
+   "removed": 6,
+   "moved": 58,
+   "no-photo": 35
+  },
+  "dup_stay": []
+ },
+ "fukuoka/miyama": {
+  "sections": {
+   "stay": 0,
+   "eat": 67,
+   "do": 3,
+   "see": 15,
+   "daily": 4
+  },
+  "eat": {
+   "Japanese (seafood)": 3,
+   "Japanese (meat)": 8,
+   "Japanese (noodles)": 5,
+   "European": 1,
+   "Cafe": 7,
+   "Curry": 1,
+   "Casual": 4,
+   "Chinese & Asian": 1,
+   "Izakaya & bars": 6,
+   "Sweets & bakeries": 12,
+   "Other Japanese": 10,
+   "Other": 9
+  },
+  "photo": {
+   "correct": 58,
+   "kept-unverified": 4,
+   "no-photo": 9
+  },
+  "dup_stay": []
+ },
+ "fukuoka/miyawaka": {
+  "sections": {
+   "stay": 7,
+   "eat": 67,
+   "do": 2,
+   "see": 16,
+   "daily": 4
+  },
+  "eat": {
+   "Japanese (seafood)": 1,
+   "Japanese (meat)": 3,
+   "Japanese (noodles)": 11,
+   "European": 3,
+   "Cafe": 6,
+   "Curry": 2,
+   "Casual": 7,
+   "Izakaya & bars": 5,
+   "Sweets & bakeries": 10,
+   "Other Japanese": 8,
+   "Other": 11
+  },
+  "photo": {
+   "correct": 57,
+   "no-photo": 12,
+   "kept-unverified": 2
+  },
+  "dup_stay": []
+ },
+ "fukuoka/mizumaki": {
+  "sections": {
+   "stay": 0,
+   "eat": 140,
+   "do": 1,
+   "see": 6,
+   "daily": 6
+  },
+  "eat": {
+   "Japanese (seafood)": 11,
+   "Japanese (meat)": 23,
+   "Japanese (noodles)": 10,
+   "European": 9,
+   "Cafe": 11,
+   "Casual": 15,
+   "Chinese & Asian": 6,
+   "Izakaya & bars": 11,
+   "Sweets & bakeries": 10,
+   "Other Japanese": 16,
+   "Other": 18
+  },
+  "photo": {
+   "correct": 22,
+   "removed": 6,
+   "moved": 62,
+   "no-photo": 53,
+   "kept-unverified": 1
+  },
+  "dup_stay": []
+ },
+ "fukuoka/munakata": {
+  "sections": {
+   "stay": 13,
+   "eat": 71,
+   "do": 3,
+   "see": 15,
+   "daily": 0
+  },
+  "eat": {
+   "Japanese (seafood)": 12,
+   "Japanese (meat)": 9,
+   "European": 9,
+   "Cafe": 5,
+   "Curry": 2,
+   "Casual": 2,
+   "Chinese & Asian": 1,
+   "Izakaya & bars": 14,
+   "Sweets & bakeries": 1,
+   "Other Japanese": 10,
+   "Other": 6
+  },
+  "photo": {
+   "correct": 63,
+   "no-photo": 8
+  },
+  "dup_stay": []
+ },
+ "fukuoka/nakagawashi": {
+  "sections": {
+   "stay": 2,
+   "eat": 71,
+   "do": 0,
+   "see": 16,
+   "daily": 2
+  },
+  "eat": {
+   "Japanese (seafood)": 5,
+   "Japanese (meat)": 6,
+   "Japanese (noodles)": 4,
+   "European": 4,
+   "Cafe": 11,
+   "Curry": 1,
+   "Casual": 7,
+   "Chinese & Asian": 1,
+   "Izakaya & bars": 9,
+   "Sweets & bakeries": 7,
+   "Other Japanese": 6,
+   "Other": 10
+  },
+  "photo": {
+   "correct": 66,
+   "no-photo": 5
+  },
+  "dup_stay": []
+ },
+ "fukuoka/nakama": {
+  "sections": {
+   "stay": 1,
+   "eat": 311,
+   "do": 0,
+   "see": 15,
+   "daily": 7
+  },
+  "eat": {
+   "Japanese (seafood)": 18,
+   "Japanese (meat)": 32,
+   "Japanese (noodles)": 20,
+   "European": 11,
+   "Cafe": 32,
+   "Curry": 2,
+   "Casual": 23,
+   "Chinese & Asian": 15,
+   "Izakaya & bars": 29,
+   "Sweets & bakeries": 22,
+   "Other Japanese": 58,
+   "Other": 49
+  },
+  "photo": {
+   "correct": 58,
+   "removed": 10,
+   "moved": 120,
+   "kept-unverified": 4,
+   "no-photo": 126
+  },
+  "dup_stay": []
+ },
+ "fukuoka/nogata": {
+  "sections": {
+   "stay": 2,
+   "eat": 71,
+   "do": 1,
+   "see": 14,
+   "daily": 3
+  },
+  "eat": {
+   "Japanese (seafood)": 5,
+   "Japanese (meat)": 8,
+   "Japanese (noodles)": 6,
+   "European": 2,
+   "Cafe": 5,
+   "Casual": 11,
+   "Chinese & Asian": 1,
+   "Izakaya & bars": 8,
+   "Sweets & bakeries": 6,
+   "Other Japanese": 10,
+   "Other": 9
+  },
+  "photo": {
+   "correct": 63,
+   "no-photo": 8
+  },
+  "dup_stay": []
+ },
+ "fukuoka/ogori": {
+  "sections": {
+   "stay": 0,
+   "eat": 368,
+   "do": 4,
+   "see": 14,
+   "daily": 11
+  },
+  "eat": {
+   "Japanese (seafood)": 19,
+   "Japanese (meat)": 25,
+   "Japanese (noodles)": 24,
+   "European": 9,
+   "Cafe": 34,
+   "Curry": 6,
+   "Casual": 29,
+   "Chinese & Asian": 18,
+   "Izakaya & bars": 49,
+   "Sweets & bakeries": 32,
+   "Other Japanese": 57,
+   "Other": 66
+  },
+  "photo": {
+   "correct": 82,
+   "removed": 13,
+   "moved": 179,
+   "kept-unverified": 4,
+   "no-photo": 101
+  },
+  "dup_stay": []
+ },
+ "fukuoka/okagaki": {
+  "sections": {
+   "stay": 3,
+   "eat": 177,
+   "do": 2,
+   "see": 17,
+   "daily": 4
+  },
+  "eat": {
+   "Japanese (seafood)": 10,
+   "Japanese (meat)": 13,
+   "Japanese (noodles)": 12,
+   "European": 7,
+   "Cafe": 21,
+   "Curry": 2,
+   "Casual": 19,
+   "Chinese & Asian": 6,
+   "Izakaya & bars": 15,
+   "Sweets & bakeries": 12,
+   "Other Japanese": 27,
+   "Other": 33
+  },
+  "photo": {
+   "correct": 33,
+   "removed": 8,
+   "moved": 72,
+   "kept-unverified": 3,
+   "no-photo": 64
+  },
+  "dup_stay": []
+ },
+ "fukuoka/okawashi": {
+  "sections": {
+   "stay": 5,
+   "eat": 288,
+   "do": 3,
+   "see": 15,
+   "daily": 3
+  },
+  "eat": {
+   "Japanese (seafood)": 27,
+   "Japanese (meat)": 22,
+   "Japanese (noodles)": 18,
+   "European": 11,
+   "Cafe": 18,
+   "Curry": 2,
+   "Casual": 15,
+   "Chinese & Asian": 12,
+   "Izakaya & bars": 37,
+   "Sweets & bakeries": 20,
+   "Other Japanese": 62,
+   "Other": 44
+  },
+  "photo": {
+   "correct": 52,
+   "removed": 12,
+   "moved": 110,
+   "no-photo": 115,
+   "kept-unverified": 2
+  },
+  "dup_stay": []
+ },
+ "fukuoka/oki": {
+  "sections": {
+   "stay": 0,
+   "eat": 56,
+   "do": 2,
+   "see": 4,
+   "daily": 4
+  },
+  "eat": {
+   "Japanese (seafood)": 3,
+   "Japanese (meat)": 3,
+   "Japanese (noodles)": 5,
+   "European": 3,
+   "Cafe": 5,
+   "Casual": 5,
+   "Chinese & Asian": 3,
+   "Izakaya & bars": 5,
+   "Sweets & bakeries": 7,
+   "Other Japanese": 5,
+   "Other": 12
+  },
+  "photo": {
+   "correct": 14,
+   "removed": 3,
+   "moved": 26,
+   "no-photo": 15,
+   "kept-unverified": 1
+  },
+  "dup_stay": []
+ },
+ "fukuoka/omuta": {
+  "sections": {
+   "stay": 11,
+   "eat": 72,
+   "do": 5,
+   "see": 48,
+   "daily": 0
+  },
+  "eat": {
+   "Japanese (seafood)": 3,
+   "Japanese (meat)": 7,
+   "Japanese (noodles)": 4,
+   "European": 1,
+   "Cafe": 6,
+   "Curry": 2,
+   "Casual": 4,
+   "Chinese & Asian": 2,
+   "Izakaya & bars": 19,
+   "Sweets & bakeries": 4,
+   "Other Japanese": 12,
+   "Other": 8
+  },
+  "photo": {
+   "correct": 62,
+   "no-photo": 10
+  },
+  "dup_stay": []
+ },
+ "fukuoka/onga": {
+  "sections": {
+   "stay": 0,
+   "eat": 158,
+   "do": 3,
+   "see": 9,
+   "daily": 2
+  },
+  "eat": {
+   "Japanese (seafood)": 6,
+   "Japanese (meat)": 8,
+   "Japanese (noodles)": 12,
+   "European": 3,
+   "Cafe": 23,
+   "Curry": 6,
+   "Casual": 24,
+   "Chinese & Asian": 4,
+   "Izakaya & bars": 15,
+   "Sweets & bakeries": 13,
+   "Other Japanese": 15,
+   "Other": 29
+  },
+  "photo": {
+   "correct": 22,
+   "removed": 8,
+   "moved": 71,
+   "kept-unverified": 5,
+   "no-photo": 53
+  },
+  "dup_stay": []
+ },
+ "fukuoka/onojo": {
+  "sections": {
+   "stay": 0,
+   "eat": 527,
+   "do": 2,
+   "see": 12,
+   "daily": 11
+  },
+  "eat": {
+   "Japanese (seafood)": 23,
+   "Japanese (meat)": 54,
+   "Japanese (noodles)": 34,
+   "European": 27,
+   "Cafe": 53,
+   "Curry": 8,
+   "Casual": 50,
+   "Chinese & Asian": 14,
+   "Izakaya & bars": 66,
+   "Sweets & bakeries": 51,
+   "Other Japanese": 68,
+   "Other": 79
+  },
+  "photo": {
+   "correct": 91,
+   "removed": 27,
+   "moved": 249,
+   "kept-unverified": 16,
+   "no-photo": 155
+  },
+  "dup_stay": []
+ },
+ "fukuoka/oto": {
+  "sections": {
+   "stay": 0,
+   "eat": 33,
+   "do": 1,
+   "see": 7,
+   "daily": 0
+  },
+  "eat": {
+   "Japanese (meat)": 3,
+   "Japanese (noodles)": 4,
+   "Cafe": 4,
+   "Casual": 7,
+   "Chinese & Asian": 1,
+   "Sweets & bakeries": 1,
+   "Other Japanese": 4,
+   "Other": 9
+  },
+  "photo": {
+   "correct": 2,
+   "removed": 2,
+   "moved": 15,
+   "no-photo": 14
+  },
+  "dup_stay": []
+ },
+ "fukuoka/sasaguri": {
+  "sections": {
+   "stay": 3,
+   "eat": 172,
+   "do": 1,
+   "see": 37,
+   "daily": 12
+  },
+  "eat": {
+   "Japanese (seafood)": 7,
+   "Japanese (meat)": 5,
+   "Japanese (noodles)": 16,
+   "European": 4,
+   "Cafe": 17,
+   "Curry": 6,
+   "Casual": 18,
+   "Chinese & Asian": 3,
+   "Izakaya & bars": 18,
+   "Sweets & bakeries": 12,
+   "Other Japanese": 29,
+   "Other": 37
+  },
+  "photo": {
+   "correct": 33,
+   "removed": 14,
+   "moved": 75,
+   "kept-unverified": 2,
+   "no-photo": 60
+  },
+  "dup_stay": []
+ },
+ "fukuoka/shime": {
+  "sections": {
+   "stay": 1,
+   "eat": 337,
+   "do": 0,
+   "see": 10,
+   "daily": 15
+  },
+  "eat": {
+   "Japanese (seafood)": 19,
+   "Japanese (meat)": 50,
+   "Japanese (noodles)": 32,
+   "European": 12,
+   "Cafe": 15,
+   "Curry": 10,
+   "Casual": 33,
+   "Chinese & Asian": 18,
+   "Izakaya & bars": 29,
+   "Sweets & bakeries": 16,
+   "Other Japanese": 42,
+   "Other": 61
+  },
+  "photo": {
+   "correct": 52,
+   "removed": 21,
+   "moved": 171,
+   "kept-unverified": 7,
+   "no-photo": 101
+  },
+  "dup_stay": []
+ },
+ "fukuoka/shingucho": {
+  "sections": {
+   "stay": 0,
+   "eat": 268,
+   "do": 2,
+   "see": 24,
+   "daily": 10
+  },
+  "eat": {
+   "Japanese (seafood)": 13,
+   "Japanese (meat)": 25,
+   "Japanese (noodles)": 17,
+   "European": 8,
+   "Cafe": 19,
+   "Curry": 5,
+   "Casual": 23,
+   "Chinese & Asian": 14,
+   "Izakaya & bars": 26,
+   "Sweets & bakeries": 18,
+   "Other Japanese": 41,
+   "Other": 59
+  },
+  "photo": {
+   "correct": 60,
+   "removed": 18,
+   "moved": 106,
+   "kept-unverified": 5,
+   "no-photo": 87
+  },
+  "dup_stay": []
+ },
+ "fukuoka/soeda": {
+  "sections": {
+   "stay": 1,
+   "eat": 78,
+   "do": 4,
+   "see": 33,
+   "daily": 2
+  },
+  "eat": {
+   "Japanese (seafood)": 5,
+   "Japanese (meat)": 5,
+   "Japanese (noodles)": 4,
+   "European": 3,
+   "Cafe": 7,
+   "Casual": 9,
+   "Chinese & Asian": 4,
+   "Izakaya & bars": 1,
+   "Sweets & bakeries": 9,
+   "Other Japanese": 17,
+   "Other": 14
+  },
+  "photo": {
+   "correct": 16,
+   "removed": 3,
+   "moved": 23,
+   "kept-unverified": 2,
+   "no-photo": 35
+  },
+  "dup_stay": []
+ },
+ "fukuoka/sue": {
+  "sections": {
+   "stay": 0,
+   "eat": 70,
+   "do": 0,
+   "see": 5,
+   "daily": 2
+  },
+  "eat": {
+   "Japanese (seafood)": 5,
+   "Japanese (meat)": 6,
+   "Japanese (noodles)": 4,
+   "Cafe": 5,
+   "Curry": 2,
+   "Casual": 4,
+   "Chinese & Asian": 2,
+   "Izakaya & bars": 8,
+   "Sweets & bakeries": 5,
+   "Other Japanese": 9,
+   "Other": 20
+  },
+  "photo": {
+   "correct": 10,
+   "removed": 3,
+   "moved": 27,
+   "kept-unverified": 3,
+   "no-photo": 29
+  },
+  "dup_stay": []
+ },
+ "fukuoka/tachiarai": {
+  "sections": {
+   "stay": 1,
+   "eat": 60,
+   "do": 0,
+   "see": 7,
+   "daily": 2
+  },
+  "eat": {
+   "Japanese (seafood)": 3,
+   "Japanese (meat)": 6,
+   "Japanese (noodles)": 5,
+   "European": 1,
+   "Cafe": 6,
+   "Curry": 1,
+   "Casual": 4,
+   "Chinese & Asian": 2,
+   "Izakaya & bars": 9,
+   "Sweets & bakeries": 5,
+   "Other Japanese": 3,
+   "Other": 15
+  },
+  "photo": {
+   "correct": 10,
+   "removed": 4,
+   "moved": 32,
+   "no-photo": 15,
+   "kept-unverified": 1
+  },
+  "dup_stay": []
+ },
+ "fukuoka/tagawa": {
+  "sections": {
+   "stay": 2,
+   "eat": 71,
+   "do": 0,
+   "see": 18,
+   "daily": 0
+  },
+  "eat": {
+   "Japanese (seafood)": 3,
+   "Japanese (meat)": 7,
+   "Japanese (noodles)": 5,
+   "European": 6,
+   "Cafe": 7,
+   "Curry": 2,
+   "Casual": 7,
+   "Chinese & Asian": 1,
+   "Izakaya & bars": 11,
+   "Sweets & bakeries": 8,
+   "Other Japanese": 8,
+   "Other": 6
+  },
+  "photo": {
+   "correct": 55,
+   "no-photo": 13,
+   "kept-unverified": 2,
+   "moved": 1
+  },
+  "dup_stay": []
+ },
+ "fukuoka/toho": {
+  "sections": {
+   "stay": 2,
+   "eat": 43,
+   "do": 8,
+   "see": 33,
+   "daily": 0
+  },
+  "eat": {
+   "Japanese (seafood)": 2,
+   "Japanese (noodles)": 6,
+   "European": 2,
+   "Cafe": 9,
+   "Chinese & Asian": 1,
+   "Izakaya & bars": 1,
+   "Sweets & bakeries": 2,
+   "Other Japanese": 8,
+   "Other": 12
+  },
+  "photo": {
+   "correct": 13,
+   "removed": 3,
+   "moved": 19,
+   "no-photo": 8
+  },
+  "dup_stay": []
+ },
+ "fukuoka/ukiha": {
+  "sections": {
+   "stay": 16,
+   "eat": 412,
+   "do": 2,
+   "see": 16,
+   "daily": 6
+  },
+  "eat": {
+   "Japanese (seafood)": 22,
+   "Japanese (meat)": 33,
+   "Japanese (noodles)": 25,
+   "European": 12,
+   "Cafe": 53,
+   "Curry": 2,
+   "Casual": 27,
+   "Chinese & Asian": 9,
+   "Izakaya & bars": 34,
+   "Sweets & bakeries": 43,
+   "Other Japanese": 66,
+   "Other": 86
+  },
+  "photo": {
+   "correct": 87,
+   "removed": 18,
+   "moved": 174,
+   "no-photo": 136,
+   "kept-unverified": 3
+  },
+  "dup_stay": []
+ },
+ "fukuoka/umi": {
+  "sections": {
+   "stay": 0,
+   "eat": 125,
+   "do": 2,
+   "see": 10,
+   "daily": 4
+  },
+  "eat": {
+   "Japanese (seafood)": 7,
+   "Japanese (meat)": 10,
+   "Japanese (noodles)": 14,
+   "European": 5,
+   "Cafe": 7,
+   "Curry": 4,
+   "Casual": 14,
+   "Chinese & Asian": 7,
+   "Izakaya & bars": 7,
+   "Sweets & bakeries": 16,
+   "Other Japanese": 11,
+   "Other": 23
+  },
+  "photo": {
+   "correct": 22,
+   "kept-unverified": 5,
+   "removed": 9,
+   "moved": 55,
+   "no-photo": 37
+  },
+  "dup_stay": []
+ },
+ "fukuoka/yame": {
+  "sections": {
+   "stay": 12,
+   "eat": 68,
+   "do": 2,
+   "see": 16,
+   "daily": 1
+  },
+  "eat": {
+   "Japanese (seafood)": 1,
+   "Japanese (meat)": 7,
+   "Japanese (noodles)": 4,
+   "European": 3,
+   "Cafe": 8,
+   "Casual": 4,
+   "Chinese & Asian": 1,
+   "Izakaya & bars": 14,
+   "Sweets & bakeries": 5,
+   "Other Japanese": 9,
+   "Other": 12
+  },
+  "photo": {
+   "correct": 59,
+   "no-photo": 10
+  },
+  "dup_stay": []
+ },
+ "fukuoka/yanagawa": {
+  "sections": {
+   "stay": 10,
+   "eat": 66,
+   "do": 1,
+   "see": 16,
+   "daily": 3
+  },
+  "eat": {
+   "Japanese (seafood)": 6,
+   "Japanese (meat)": 9,
+   "Japanese (noodles)": 4,
+   "European": 2,
+   "Cafe": 6,
+   "Curry": 1,
+   "Casual": 7,
+   "Chinese & Asian": 2,
+   "Izakaya & bars": 14,
+   "Sweets & bakeries": 1,
+   "Other Japanese": 12,
+   "Other": 2
+  },
+  "photo": {
+   "correct": 59,
+   "kept-unverified": 3,
+   "no-photo": 6
+  },
+  "dup_stay": []
+ },
+ "fukuoka/yoshitomi": {
+  "sections": {
+   "stay": 1,
+   "eat": 33,
+   "do": 0,
+   "see": 9,
+   "daily": 3
+  },
+  "eat": {
+   "Japanese (seafood)": 2,
+   "Japanese (meat)": 5,
+   "Japanese (noodles)": 2,
+   "Cafe": 6,
+   "Casual": 3,
+   "Izakaya & bars": 1,
+   "Sweets & bakeries": 3,
+   "Other Japanese": 2,
+   "Other": 9
+  },
+  "photo": {
+   "correct": 6,
+   "removed": 1,
+   "moved": 15,
+   "kept-unverified": 2,
+   "no-photo": 11
+  },
+  "dup_stay": []
+ },
+ "fukuoka/yukuhashi": {
+  "sections": {
+   "stay": 6,
+   "eat": 69,
+   "do": 1,
+   "see": 16,
+   "daily": 2
+  },
+  "eat": {
+   "Japanese (seafood)": 4,
+   "Japanese (meat)": 13,
+   "Japanese (noodles)": 2,
+   "European": 2,
+   "Cafe": 5,
+   "Curry": 1,
+   "Casual": 6,
+   "Chinese & Asian": 1,
+   "Izakaya & bars": 15,
+   "Sweets & bakeries": 5,
+   "Other Japanese": 8,
+   "Other": 7
+  },
+  "photo": {
+   "correct": 65,
+   "no-photo": 5
+  },
+  "dup_stay": []
+ }
+}
