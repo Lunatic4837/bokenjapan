@@ -1,0 +1,79 @@
+{
+"fukuoka/asakura": {
+"key": "media/asakura-cover-w4-16352.jpg",
+"w": 1280,
+"h": 853,
+"bytes": 213732,
+"sha": "ed3805ca983560a233f1e2f9284247f6b1747943cf0b115f899a161fc6e59819",
+"spot": "https://www.crossroadfukuoka.jp/spot/16352",
+"same": true,
+"title": "原鶴湯ったりよかぜ祭り",
+"alt": null
+},
+"fukuoka/iizuka": {
+"key": "media/iizuka-cover-w4-11271.jpg",
+"w": 1280,
+"h": 904,
+"bytes": 120760,
+"sha": "d8c7267014e4327a51046e2aaa3713b92f293cad630ccfa8ca380f77c4535612",
+"spot": "https://www.crossroadfukuoka.jp/spot/11271",
+"same": true,
+"title": "ひよ子穂波工場",
+"alt": null
+},
+"fukuoka/kasuga": {
+"key": "media/kasuga-cover-w4-11657.jpg",
+"w": 1280,
+"h": 848,
+"bytes": 210053,
+"sha": "ba36ee6b8ae7c041279788aa963e6d9dd664a80962cb3e6bc816ad2483ac2c0d",
+"spot": "https://www.crossroadfukuoka.jp/spot/11657",
+"same": true,
+"title": "博多南駅",
+"alt": null
+},
+"fukuoka/koge": {
+"key": "media/koge-cover-w4-13148.jpg",
+"w": 1280,
+"h": 853,
+"bytes": 227041,
+"sha": "0ab2d568524454f5b91f9748e6eca43f66dbab17655e0ade2a9c99f9f6aab096",
+"spot": "https://www.crossroadfukuoka.jp/spot/13148",
+"same": false,
+"title": "道の駅しんよしとみ遺跡前",
+"alt": "Michi-no-Eki Shin-Yoshitomi Iseki-mae roadside station"
+},
+"yamaguchi/abu": {
+"key": "media/abu-cover-w4-16045.jpg",
+"w": 1280,
+"h": 850,
+"bytes": 130575,
+"sha": "9d5282db243bb06a57ddd5b19ac3723b9e32fc53b1097f921cc574fe2cd0268b",
+"spot": "https://yamaguchi-tourism.jp/spot/detail_16045.html",
+"same": false,
+"title": "惣郷川橋梁（惣郷鉄橋）｜観光スポット｜【公式】山口県観光/旅行サイト おいでませ山口へ",
+"alt": "Sogo River railway bridge at sunset"
+},
+"yamaguchi/shunan": {
+"key": "media/shunan-cover-w4-12869.jpg",
+"w": 1200,
+"h": 800,
+"bytes": 343396,
+"sha": "6a7acfd568ad89bc28c8627b73309d1dc64441bfe1331bbc54f1596df2d75938",
+"spot": "https://yamaguchi-tourism.jp/spot/detail_12869.html",
+"same": true,
+"title": "潮音洞｜観光スポット｜【公式】山口県観光/旅行サイト おいでませ山口へ",
+"alt": null
+},
+"yamaguchi/suoooshima": {
+"key": "media/suoooshima-cover-w4-16115.jpg",
+"w": 1280,
+"h": 853,
+"bytes": 96016,
+"sha": "e7232458fc6656e5167be3363a57d9a9d573d6799bcf266e6bfdb0fe5662c322",
+"spot": "https://yamaguchi-tourism.jp/spot/detail_16115.html",
+"same": true,
+"title": "周防大島みかん鍋｜観光スポット｜【公式】山口県観光/旅行サイト おいでませ山口へ",
+"alt": null
+}
+}
