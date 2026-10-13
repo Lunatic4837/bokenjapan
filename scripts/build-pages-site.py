@@ -33,6 +33,7 @@ covers, _site stays under that line. See scripts/PAGES-SLIM-NOTES.md.
 """
 from __future__ import annotations
 
+import html
 import os
 import re
 import shutil
@@ -119,7 +120,15 @@ MEDIA_RE = re.compile(
 )
 LOADER_JS = """<script>(function(){var w=document.currentScript.previousElementSibling;if(!w||!w.dataset.map)return;var here=w.dataset.here||"";fetch(w.dataset.map).then(function(r){return r.text()}).then(function(t){w.innerHTML=t;var svg=w.querySelector("svg");if(svg){svg.removeAttribute("width");svg.removeAttribute("height");svg.setAttribute("class",(svg.getAttribute("class")||"")+" pref-map");}var nodes=w.querySelectorAll("a[data-name]");for(var i=0;i<nodes.length;i++){var a=nodes[i];a.classList.remove("is-here");if(here&&a.getAttribute("data-name")===here){a.classList.add("is-here");}var href=a.getAttribute("href")||"";if(href==="./"||href==="."){var slug=(location.pathname.replace(/\\/+$/,"").split("/").pop()||"");if(slug)a.setAttribute("href","../"+slug+"/");}}}).catch(function(){w.innerHTML="<p class=\\"map-note\\">Map unavailable.</p>";});})();</script>"""
 
-H2_SPLIT_RE = re.compile(r"(<h2>[^<]*</h2>)", re.I)
+H2_SPLIT_RE = re.compile(r"(<h2(?:\s+class=\"visually-hidden\")?>[^<]*</h2>)", re.I)
+# Hubbed Eat genre pages (template_hub) label their single list with a hidden
+# <h2 class="visually-hidden">{genre}</h2>. Those lists are Dining, so they get
+# the Dining cap. Plain <h2>Section</h2> headings behave exactly as before.
+EAT_GENRE_HEADINGS = frozenset({
+    "Japanese (seafood)", "Japanese (meat)", "Japanese (noodles)", "Other Japanese",
+    "European", "Cafe", "Curry", "Casual", "Chinese & Asian", "Izakaya & bars",
+    "Sweets & bakeries", "Other",
+})
 THUMB_IMG_RE = re.compile(r'<img\b[^>]*\bclass="thumb"[^>]*>', re.I)
 THUMB_SRC_RE = re.compile(r"""\bsrc="[^"]*media/([^"?#]+)""", re.I)
 COVER_SRC_RE = re.compile(
@@ -220,6 +229,12 @@ def cap_facility_thumbs(text: str) -> tuple[str, int]:
     out: list[str] = []
     for part in H2_SPLIT_RE.split(text):
         heading = re.fullmatch(r"<h2>([^<]*)</h2>", part, re.I)
+        hidden = re.fullmatch(r"<h2\s+class=\"visually-hidden\">([^<]*)</h2>", part, re.I)
+        if hidden:
+            label = html.unescape(hidden.group(1)).strip()
+            section = "Dining" if label in EAT_GENRE_HEADINGS else label
+            out.append(part)
+            continue
         if heading:
             section = heading.group(1).strip()
             out.append(part)
