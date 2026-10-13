@@ -1542,3 +1542,22 @@ body.hubbed {
     aspect-ratio: 3 / 2;
   }
 }
+
+/* Homepage polish: unlinked (not yet published) prefectures read as inactive */
+body.home .region li > span {
+  display: flex;
+  align-items: center;
+  min-height: 3.35rem;
+  padding: 0.85rem 0.85rem 0.85rem 0;
+  font-size: 1.05rem;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  color: var(--muted);
+  cursor: default;
+}
+
+body.home .pref-map > g path,
+body.home .pref-map g[data-name] path {
+  fill: #eef0ee;
+  stroke: #8a9399;
+}
