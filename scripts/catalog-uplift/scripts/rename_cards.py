@@ -15,7 +15,7 @@ for pref in sys.argv[2:]:
     for town in sorted(glob.glob(str(root / pref / '*' / 'index.html'))):
         tdir = Path(town).parent; src = Path(town).read_text()
         muni_ja = (re.search(r'<!-- muni-ja: ([^ ]+) -->', src) or [0, None])[1]
-        muni_en = html.unescape(re.search(r'<h1 class="page-title">([^<]+)</h1>', src).group(1))
+        muni_en = html.unescape(re.search(r'<h1 class="page-title">([^<]+)</h1>', src).group(1)).split(',')[0].strip()  # H1 is now '{Town}, {Pref}: things to do...' (shared template)
         for f in [town] + glob.glob(str(tdir / '**' / 'index.html'), recursive=True)[0:]:
             t = Path(f).read_text(); t0 = t
             t = re.sub(r'&amp;(amp|#\d+|#x[0-9a-fA-F]+|quot|lt|gt|apos);', r'&\1;', t)
@@ -29,7 +29,9 @@ for pref in sys.argv[2:]:
                 elif not s: return li
                 elif s.group(1) != 'tabelog_url' and not ROMAJI_BAD.search(b.group(1)): return li
                 else: new = natural_en(html.unescape(n.group(1)), muni_ja, muni_en)
-                if not new or html.escape(new, quote=True) == b.group(1): return li
+                if not new: return li
+                if html.escape(new, quote=True) == b.group(1):  # name already right: still keep the photo alt in step
+                    return re.sub(r'(<img class="thumb"[^>]*alt=")[^"]*', lambda m2: m2.group(1) + html.escape(new, quote=True), li, count=1)
                 st['renamed'] += 1; ren[html.unescape(b.group(1))] = new
                 li = li.replace(b.group(0), f'class="place-blurb">{html.escape(new, quote=True)}</p>', 1)
                 return re.sub(r'(<img class="thumb"[^>]*alt=")[^"]*', lambda m2: m2.group(1) + html.escape(new, quote=True), li, count=1)

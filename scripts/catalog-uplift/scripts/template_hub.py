@@ -100,7 +100,7 @@ def fill_photo(li, slug, st):
     from PIL import Image
     with Image.open(dest) as im: w, h = im.size
     nm = re.search(r'<p class="place-name">[^<]*</p>', li).group(0)
-    li = li.replace(nm, nm + f'<img class="thumb" src="../../media/{dest.name}" alt="{esc(name(li))}" width="{w}" height="{h}" loading="lazy"><!-- photo-credit: 食べログ · Source {tb.group(1)} -->', 1)
+    li = li.replace(nm, nm + f'<img class="thumb" src="../../media/{dest.name}" alt="{esc(blurb(li) or name(li))}" width="{w}" height="{h}" loading="lazy"><!-- photo-credit: 食べログ · Source {tb.group(1)} -->', 1)
     st['filled'] += 1; return li
 # ---------- Stay romaji + phones
 ROMAJI_BAD = re.compile(r'(\b[A-Z] [A-Z] [A-Z]\b|Hoteru|Ryokan [A-Z]|Sou\b|Paaku|Bijinesu|Purinsu|Shitei|ruutoin|Gurando|Nyuu|Rizooto|Penshon|Gesutohausu|Hausu|Puraza|Rooyaru|Sentaa|Onsenryokan|\( |aa|ii|uu|ee|oo|ou\b| Ya\b| Kan\b| En\b)', re.I)
@@ -182,7 +182,7 @@ def build(pref, slug, st):
     foot_noscript = re.sub(r'\s*<script\b[^>]*>.*?</script>', lambda m: m.group(0) if re.search(r'beacon|cloudflareinsights', m.group(0)) else '', foot, flags=re.S)
     def tile(href, label, n, li, big=True):
         im = img(li) if li else None
-        pic = f'<img src="{im[0]}" alt="{esc(name(li))}" width="{im[1]}" height="{im[2]}" {"" if big else " loading=\"lazy\""} decoding="async">' if im else ''
+        pic = f'<img src="{im[0]}" alt="{esc(blurb(li) or name(li))}" width="{im[1]}" height="{im[2]}" {"" if big else " loading=\"lazy\""} decoding="async">' if im else ''
         return (f'<li><a class="hub-tile{"" if big else " hub-tile-sm"}" href="{href}">{pic}'
                 f'<span class="hub-tile-label"><span class="hub-tile-name">{esc(label)}</span>'
                 f'<span class="hub-tile-count">{plural(n)}</span></span></a></li>')

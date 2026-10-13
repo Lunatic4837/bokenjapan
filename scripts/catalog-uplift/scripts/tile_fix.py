@@ -26,3 +26,12 @@ for idx in sorted(glob.glob(f'{root}/{pref}/*/index.html')):
         if c: used[href] = c[0]
         print(pathlib.Path(idx).parent.name, href, cur, '->', c and c[0]); changed = True
     if changed: open(idx, 'w').write(src)
+# hub tile alt = the English name of the card the photo comes from (2026-10-14)
+for idx in sorted(glob.glob(f'{root}/{pref}/*/index.html') + glob.glob(f'{root}/{pref}/*/eat/index.html')):
+    d = os.path.dirname(idx); alts = {}
+    for f in sorted(glob.glob(d + '/*/index.html') + glob.glob(d + '/*/*/index.html')):
+        for src, alt in re.findall(r'<img class="thumb" src="/media/([^"]+)" alt="([^"]*)"', open(f).read()): alts.setdefault(src, alt)
+    t = open(idx).read()
+    t2 = re.sub(r'(<a class="hub-tile[^"]*" href="[^"]*/"><img src="(?:\.\./\.\./|/)media/)([^"]+)" alt="([^"]*)"',
+                lambda m: m.group(1) + m.group(2) + '" alt="' + alts.get(m.group(2), m.group(3)) + '"', t)
+    if t2 != t: open(idx, 'w').write(t2)
