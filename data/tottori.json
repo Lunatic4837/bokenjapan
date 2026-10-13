@@ -1,0 +1,330 @@
+{
+ "prefecture": "Tottori",
+ "slug": "tottori",
+ "url": "https://bokenjapan.com/tottori/",
+ "towns": [
+  {
+   "name": "Chizu",
+   "slug": "chizu",
+   "prefecture": "tottori",
+   "url": "https://bokenjapan.com/tottori/chizu/",
+   "official": {
+    "links": [
+     {
+      "label": "Chizu Town Hall",
+      "url": "https://www1.town.chizu.tottori.jp/"
+     }
+    ],
+    "address": "Chizu, Tottori 689-1402",
+    "phone": "0858-75-4111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Daisen",
+   "slug": "daisen",
+   "prefecture": "tottori",
+   "url": "https://bokenjapan.com/tottori/daisen/",
+   "official": {
+    "links": [
+     {
+      "label": "Daisen Town Hall",
+      "url": "https://www.daisen.jp/"
+     }
+    ],
+    "address": "Daisen, Tottori 689-3211",
+    "phone": "0859-54-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hiezu",
+   "slug": "hiezu",
+   "prefecture": "tottori",
+   "url": "https://bokenjapan.com/tottori/hiezu/",
+   "official": {
+    "links": [
+     {
+      "label": "Hiezu Village Hall",
+      "url": "https://www.hiezu.jp/"
+     }
+    ],
+    "address": "Hiezu, Tottori 689-3553",
+    "phone": "0859-27-0211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hino",
+   "slug": "hino",
+   "prefecture": "tottori",
+   "url": "https://bokenjapan.com/tottori/hino/",
+   "official": {
+    "links": [
+     {
+      "label": "Hino Town Hall",
+      "url": "https://www.town.hino.tottori.jp/"
+     }
+    ],
+    "address": "Hino, Tottori 689-4503",
+    "phone": "0859-72-0331"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hoki",
+   "slug": "hoki",
+   "prefecture": "tottori",
+   "url": "https://bokenjapan.com/tottori/hoki/",
+   "official": {
+    "links": [
+     {
+      "label": "Hoki Town Hall",
+      "url": "https://www.houki-town.jp/"
+     }
+    ],
+    "address": "Hoki, Tottori 689-4133",
+    "phone": "0859-68-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hokuei",
+   "slug": "hokuei",
+   "prefecture": "tottori",
+   "url": "https://bokenjapan.com/tottori/hokuei/",
+   "official": {
+    "links": [
+     {
+      "label": "Hokuei Town Hall",
+      "url": "https://www.e-hokuei.net/"
+     }
+    ],
+    "address": "Hokuei, Tottori 689-2292",
+    "phone": "0858-37-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Iwami",
+   "slug": "iwami",
+   "prefecture": "tottori",
+   "url": "https://bokenjapan.com/tottori/iwami/",
+   "official": {
+    "links": [
+     {
+      "label": "Iwami Town Hall",
+      "url": "https://www.iwami.gr.jp/"
+     }
+    ],
+    "address": "Iwami, Tottori 681-8501",
+    "phone": "0857-73-1411"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kofu",
+   "slug": "kofu",
+   "prefecture": "tottori",
+   "url": "https://bokenjapan.com/tottori/kofu/",
+   "official": {
+    "links": [
+     {
+      "label": "Kofu Town Hall",
+      "url": "https://www.town-kofu.jp/"
+     }
+    ],
+    "address": "Kofu, Tottori 689-4401",
+    "phone": "0859-75-2211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kotoura",
+   "slug": "kotoura",
+   "prefecture": "tottori",
+   "url": "https://bokenjapan.com/tottori/kotoura/",
+   "official": {
+    "links": [
+     {
+      "label": "Kotoura Town Hall",
+      "url": "https://www.town.kotoura.tottori.jp/"
+     }
+    ],
+    "address": "Kotoura, Tottori 689-2392",
+    "phone": "0858-52-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kurayoshi",
+   "slug": "kurayoshi",
+   "prefecture": "tottori",
+   "url": "https://bokenjapan.com/tottori/kurayoshi/",
+   "official": {
+    "links": [
+     {
+      "label": "Kurayoshi City Hall",
+      "url": "https://www.city.kurayoshi.lg.jp/"
+     }
+    ],
+    "address": "Kurayoshi, Tottori 682-8611",
+    "phone": "0858-22-8111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Misasa",
+   "slug": "misasa",
+   "prefecture": "tottori",
+   "url": "https://bokenjapan.com/tottori/misasa/",
+   "official": {
+    "links": [
+     {
+      "label": "Misasa Town Hall",
+      "url": "https://www.town.misasa.tottori.jp/"
+     }
+    ],
+    "address": "Misasa, Tottori 682-0195",
+    "phone": "0858-43-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nanbu",
+   "slug": "nanbu",
+   "prefecture": "tottori",
+   "url": "https://bokenjapan.com/tottori/nanbu/",
+   "official": {
+    "links": [
+     {
+      "label": "Nanbu Town Hall",
+      "url": "https://www.town.nanbu.tottori.jp/"
+     }
+    ],
+    "address": "Nanbu, Tottori 683-0351",
+    "phone": "0859-66-3112"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nichinan",
+   "slug": "nichinan",
+   "prefecture": "tottori",
+   "url": "https://bokenjapan.com/tottori/nichinan/",
+   "official": {
+    "links": [
+     {
+      "label": "Nichinan Town Hall",
+      "url": "https://www.town.nichinan.lg.jp/"
+     }
+    ],
+    "address": "Nichinan, Tottori 689-5292",
+    "phone": "0859-82-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sakaiminato",
+   "slug": "sakaiminato",
+   "prefecture": "tottori",
+   "url": "https://bokenjapan.com/tottori/sakaiminato/",
+   "official": {
+    "links": [
+     {
+      "label": "Sakaiminato City Hall",
+      "url": "https://www.city.sakaiminato.lg.jp/"
+     }
+    ],
+    "address": "Sakaiminato, Tottori 684-8501",
+    "phone": "0859-44-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tottori",
+   "slug": "tottori",
+   "prefecture": "tottori",
+   "url": "https://bokenjapan.com/tottori/tottori/",
+   "official": {
+    "links": [
+     {
+      "label": "Tottori City Hall",
+      "url": "https://www.city.tottori.lg.jp/"
+     }
+    ],
+    "address": "Tottori 680-8571",
+    "phone": "0857-22-8111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Wakasa",
+   "slug": "wakasa",
+   "prefecture": "tottori",
+   "url": "https://bokenjapan.com/tottori/wakasa/",
+   "official": {
+    "links": [
+     {
+      "label": "Wakasa Town Hall",
+      "url": "https://www.town.wakasa.tottori.jp/"
+     }
+    ],
+    "address": "Wakasa, Tottori 680-0792",
+    "phone": "0858-82-2211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yazu",
+   "slug": "yazu",
+   "prefecture": "tottori",
+   "url": "https://bokenjapan.com/tottori/yazu/",
+   "official": {
+    "links": [
+     {
+      "label": "Yazu Town Hall",
+      "url": "https://www.town.yazu.tottori.jp/"
+     }
+    ],
+    "address": "Yazu, Tottori 680-0493",
+    "phone": "0858-76-0201"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yonago",
+   "slug": "yonago",
+   "prefecture": "tottori",
+   "url": "https://bokenjapan.com/tottori/yonago/",
+   "official": {
+    "links": [
+     {
+      "label": "Yonago City Hall",
+      "url": "https://www.city.yonago.lg.jp/"
+     }
+    ],
+    "address": "Yonago, Tottori 683-8686",
+    "phone": "0859-22-7111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yurihama",
+   "slug": "yurihama",
+   "prefecture": "tottori",
+   "url": "https://bokenjapan.com/tottori/yurihama/",
+   "official": {
+    "links": [
+     {
+      "label": "Yurihama Town Hall",
+      "url": "https://www.yurihama.jp/"
+     }
+    ],
+    "address": "Yurihama, Tottori 682-0723",
+    "phone": "0858-35-3111"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

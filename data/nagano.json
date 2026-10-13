@@ -1,0 +1,1316 @@
+{
+ "prefecture": "Nagano",
+ "slug": "nagano",
+ "url": "https://bokenjapan.com/nagano/",
+ "towns": [
+  {
+   "name": "Achi",
+   "slug": "achi",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/achi/",
+   "official": {
+    "links": [
+     {
+      "label": "Achi Village Hall",
+      "url": "https://www.vill.achi.lg.jp"
+     }
+    ],
+    "address": "Achi, Nagano 395-0303",
+    "phone": "0265-43-2220"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Agematsu",
+   "slug": "agematsu",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/agematsu/",
+   "official": {
+    "links": [
+     {
+      "label": "Agematsu Town Hall",
+      "url": "http://www.town.agematsu.nagano.jp"
+     }
+    ],
+    "address": "Agematsu, Nagano 399-5601",
+    "phone": "0264-52-2001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Anancho",
+   "slug": "anancho",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/anancho/",
+   "official": {
+    "links": [
+     {
+      "label": "Anancho Town Hall",
+      "url": "http://www.town.anan.nagano.jp"
+     }
+    ],
+    "address": "Anancho, Nagano 399-1511",
+    "phone": "0260-22-2141"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Aoki",
+   "slug": "aoki",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/aoki/",
+   "official": {
+    "links": [
+     {
+      "label": "Aoki Village Hall",
+      "url": "http://www.vill.aoki.nagano.jp"
+     }
+    ],
+    "address": "Aoki, Nagano 386-1601",
+    "phone": "0268-49-0111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Asahimura",
+   "slug": "asahimura",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/asahimura/",
+   "official": {
+    "links": [
+     {
+      "label": "Asahimura Village Hall",
+      "url": "https://www.vill.asahi.nagano.jp"
+     }
+    ],
+    "address": "Asahimura, Nagano 390-1188",
+    "phone": "0263-99-2001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Azumino",
+   "slug": "azumino",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/azumino/",
+   "official": {
+    "links": [
+     {
+      "label": "Azumino City Hall",
+      "url": "http://www.city.azumino.nagano.jp"
+     }
+    ],
+    "address": "Azumino, Nagano 399-8281",
+    "phone": "0263-71-2000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Chikuhoku",
+   "slug": "chikuhoku",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/chikuhoku/",
+   "official": {
+    "links": [
+     {
+      "label": "Chikuhoku Village Hall",
+      "url": "http://www.vill.chikuhoku.lg.jp"
+     }
+    ],
+    "address": "Chikuhoku, Nagano 399-7501",
+    "phone": "0263-66-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Chikuma",
+   "slug": "chikuma",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/chikuma/",
+   "official": {
+    "links": [
+     {
+      "label": "Chikuma City Hall",
+      "url": "https://www.city.chikuma.lg.jp"
+     }
+    ],
+    "address": "Chikuma, Nagano 387-8511",
+    "phone": "026-273-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Chino",
+   "slug": "chino",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/chino/",
+   "official": {
+    "links": [
+     {
+      "label": "Chino City Hall",
+      "url": "https://www.city.chino.lg.jp"
+     }
+    ],
+    "address": "Chino, Nagano 391-8501",
+    "phone": "0266-72-2101"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Fujimi",
+   "slug": "fujimi",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/fujimi/",
+   "official": {
+    "links": [
+     {
+      "label": "Fujimi Town Hall",
+      "url": "https://www.town.fujimi.lg.jp"
+     }
+    ],
+    "address": "Fujimi, Nagano 399-0292",
+    "phone": "0266-62-2250"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hakuba",
+   "slug": "hakuba",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/hakuba/",
+   "official": {
+    "links": [
+     {
+      "label": "Hakuba Village Hall",
+      "url": "https://www.vill.hakuba.lg.jp"
+     }
+    ],
+    "address": "Hakuba, Nagano 399-9393",
+    "phone": "0261-72-5000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hara",
+   "slug": "hara",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/hara/",
+   "official": {
+    "links": [
+     {
+      "label": "Hara Village Hall",
+      "url": "https://www.vill.hara.lg.jp"
+     }
+    ],
+    "address": "Hara, Nagano 391-0192",
+    "phone": "0266-79-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hiraya",
+   "slug": "hiraya",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/hiraya/",
+   "official": {
+    "links": [
+     {
+      "label": "Hiraya Village Hall",
+      "url": "http://hirayamura.jp"
+     }
+    ],
+    "address": "Hiraya, Nagano 395-0601",
+    "phone": "0265-48-2211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Iida",
+   "slug": "iida",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/iida/",
+   "official": {
+    "links": [
+     {
+      "label": "Iida City Hall",
+      "url": "https://www.city.iida.lg.jp"
+     }
+    ],
+    "address": "Iida, Nagano 395-8501",
+    "phone": "0265-22-4511"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Iijima",
+   "slug": "iijima",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/iijima/",
+   "official": {
+    "links": [
+     {
+      "label": "Iijima Town Hall",
+      "url": "https://www.town.iijima.lg.jp"
+     }
+    ],
+    "address": "Iijima, Nagano 399-3797",
+    "phone": "0265-86-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Iiyama",
+   "slug": "iiyama",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/iiyama/",
+   "official": {
+    "links": [
+     {
+      "label": "Iiyama City Hall",
+      "url": "https://www.city.iiyama.nagano.jp"
+     }
+    ],
+    "address": "Iiyama, Nagano 389-2292",
+    "phone": "0269-62-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Iizuna",
+   "slug": "iizuna",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/iizuna/",
+   "official": {
+    "links": [
+     {
+      "label": "Iizuna Town Hall",
+      "url": "https://www.town.iizuna.nagano.jp"
+     }
+    ],
+    "address": "Iizuna, Nagano 389-1293",
+    "phone": "026-253-2511"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ikusaka",
+   "slug": "ikusaka",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/ikusaka/",
+   "official": {
+    "links": [
+     {
+      "label": "Ikusaka Village Hall",
+      "url": "http://www.village.ikusaka.nagano.jp"
+     }
+    ],
+    "address": "Ikusaka, Nagano 399-7201",
+    "phone": "0263-69-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ina",
+   "slug": "ina",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/ina/",
+   "official": {
+    "links": [
+     {
+      "label": "Ina City Hall",
+      "url": "http://www.inacity.jp"
+     }
+    ],
+    "address": "Ina, Nagano 396-8617",
+    "phone": "0265-78-4111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Karuizawa",
+   "slug": "karuizawa",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/karuizawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Karuizawa Town Hall",
+      "url": "https://www.town.karuizawa.lg.jp"
+     }
+    ],
+    "address": "Karuizawa, Nagano 389-0192",
+    "phone": "0267-45-8111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kawakamimura",
+   "slug": "kawakamimura",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/kawakamimura/",
+   "official": {
+    "links": [
+     {
+      "label": "Kawakamimura Village Hall",
+      "url": "http://www.vill.kawakami.nagano.jp"
+     }
+    ],
+    "address": "Kawakamimura, Nagano 384-1405",
+    "phone": "0267-97-2121"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kijimadaira",
+   "slug": "kijimadaira",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/kijimadaira/",
+   "official": {
+    "links": [
+     {
+      "label": "Kijimadaira Village Hall",
+      "url": "http://www.vill.kijimadaira.lg.jp"
+     }
+    ],
+    "address": "Kijimadaira, Nagano 389-2392",
+    "phone": "0269-82-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kisomachi",
+   "slug": "kisomachi",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/kisomachi/",
+   "official": {
+    "links": [
+     {
+      "label": "Kisomachi Town Hall",
+      "url": "https://www.town-kiso.com"
+     }
+    ],
+    "address": "Kisomachi, Nagano 397-8588",
+    "phone": "0264-22-3000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kisomura",
+   "slug": "kisomura",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/kisomura/",
+   "official": {
+    "links": [
+     {
+      "label": "Kisomura Village Hall",
+      "url": "http://www.vill.kiso.nagano.jp"
+     }
+    ],
+    "address": "Kisomura, Nagano 399-6201",
+    "phone": "0264-36-2001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kitaaiki",
+   "slug": "kitaaiki",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/kitaaiki/",
+   "official": {
+    "links": [
+     {
+      "label": "Kitaaiki Village Hall",
+      "url": "http://vill.kitaaiki.nagano.jp"
+     }
+    ],
+    "address": "Kitaaiki, Nagano 384-1201",
+    "phone": "0267-77-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Komagane",
+   "slug": "komagane",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/komagane/",
+   "official": {
+    "links": [
+     {
+      "label": "Komagane City Hall",
+      "url": "https://www.city.komagane.nagano.jp"
+     }
+    ],
+    "address": "Komagane, Nagano 399-4192",
+    "phone": "0265-83-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Komi",
+   "slug": "komi",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/komi/",
+   "official": {
+    "links": [
+     {
+      "label": "Komi Town Hall",
+      "url": "https://www.koumi-town.jp"
+     }
+    ],
+    "address": "Komi, Nagano 384-1192",
+    "phone": "0267-92-2525"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Komoro",
+   "slug": "komoro",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/komoro/",
+   "official": {
+    "links": [
+     {
+      "label": "Komoro City Hall",
+      "url": "https://www.city.komoro.lg.jp"
+     }
+    ],
+    "address": "Komoro, Nagano 384-8501",
+    "phone": "0267-22-1700"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Matsukawacho",
+   "slug": "matsukawacho",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/matsukawacho/",
+   "official": {
+    "links": [
+     {
+      "label": "Matsukawacho Town Hall",
+      "url": "https://www.town.matsukawa.lg.jp"
+     }
+    ],
+    "address": "Matsukawacho, Nagano 399-3303",
+    "phone": "0265-36-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Matsukawamura",
+   "slug": "matsukawamura",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/matsukawamura/",
+   "official": {
+    "links": [
+     {
+      "label": "Matsukawamura Village Hall",
+      "url": "http://www.vill.matsukawa.nagano.jp"
+     }
+    ],
+    "address": "Matsukawamura, Nagano 399-8501",
+    "phone": "0261-62-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Matsumoto",
+   "slug": "matsumoto",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/matsumoto/",
+   "official": {
+    "links": [
+     {
+      "label": "Matsumoto City Hall",
+      "url": "http://www.city.matsumoto.nagano.jp"
+     }
+    ],
+    "address": "Matsumoto, Nagano 390-8620",
+    "phone": "0263-34-3000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minamiaiki",
+   "slug": "minamiaiki",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/minamiaiki/",
+   "official": {
+    "links": [
+     {
+      "label": "Minamiaiki Village Hall",
+      "url": "http://www.minamiaiki.jp"
+     }
+    ],
+    "address": "Minamiaiki, Nagano 384-1211",
+    "phone": "0267-78-2121"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minamimaki",
+   "slug": "minamimaki",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/minamimaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Minamimaki Village Hall",
+      "url": "http://www.minamimakimura.jp"
+     }
+    ],
+    "address": "Minamimaki, Nagano 384-1302",
+    "phone": "0267-96-2211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minamiminowa",
+   "slug": "minamiminowa",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/minamiminowa/",
+   "official": {
+    "links": [
+     {
+      "label": "Minamiminowa Village Hall",
+      "url": "https://www.vill.minamiminowa.lg.jp"
+     }
+    ],
+    "address": "Minamiminowa, Nagano 399-4592",
+    "phone": "0265-72-2104"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minowa",
+   "slug": "minowa",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/minowa/",
+   "official": {
+    "links": [
+     {
+      "label": "Minowa Town Hall",
+      "url": "https://www.town.minowa.lg.jp"
+     }
+    ],
+    "address": "Minowa, Nagano 399-4695",
+    "phone": "0265-79-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Miyada",
+   "slug": "miyada",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/miyada/",
+   "official": {
+    "links": [
+     {
+      "label": "Miyada Village Hall",
+      "url": "https://www.vill.miyada.nagano.jp"
+     }
+    ],
+    "address": "Miyada, Nagano 399-4392",
+    "phone": "0265-85-3181"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Miyota",
+   "slug": "miyota",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/miyota/",
+   "official": {
+    "links": [
+     {
+      "label": "Miyota Town Hall",
+      "url": "https://www.town.miyota.nagano.jp"
+     }
+    ],
+    "address": "Miyota, Nagano 389-0292",
+    "phone": "0267-32-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nagano",
+   "slug": "nagano",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/nagano/",
+   "official": {
+    "links": [
+     {
+      "label": "Nagano City Hall",
+      "url": "https://www.city.nagano.nagano.jp"
+     }
+    ],
+    "address": "Nagano 380-8512",
+    "phone": "026-226-4911"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Naganoikeda",
+   "slug": "naganoikeda",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/naganoikeda/",
+   "official": {
+    "links": [
+     {
+      "label": "Naganoikeda Town Hall",
+      "url": "http://www.ikedamachi.net"
+     }
+    ],
+    "address": "Naganoikeda, Nagano 399-8696",
+    "phone": "0261-62-3131"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nagawa",
+   "slug": "nagawa",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/nagawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Nagawa Town Hall",
+      "url": "http://town.nagawa.nagano.jp"
+     }
+    ],
+    "address": "Nagawa, Nagano 386-0603",
+    "phone": "0268-68-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nagiso",
+   "slug": "nagiso",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/nagiso/",
+   "official": {
+    "links": [
+     {
+      "label": "Nagiso Town Hall",
+      "url": "http://www.town.nagiso.nagano.jp"
+     }
+    ],
+    "address": "Nagiso, Nagano 399-5301",
+    "phone": "0264-57-2001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nakagawamura",
+   "slug": "nakagawamura",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/nakagawamura/",
+   "official": {
+    "links": [
+     {
+      "label": "Nakagawamura Village Hall",
+      "url": "https://www.vill.nakagawa.nagano.jp"
+     }
+    ],
+    "address": "Nakagawamura, Nagano 399-3892",
+    "phone": "0265-88-3001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nakano",
+   "slug": "nakano",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/nakano/",
+   "official": {
+    "links": [
+     {
+      "label": "Nakano City Hall",
+      "url": "https://www.city.nakano.nagano.jp"
+     }
+    ],
+    "address": "Nakano, Nagano 383-8614",
+    "phone": "0269-22-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Neba",
+   "slug": "neba",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/neba/",
+   "official": {
+    "links": [
+     {
+      "label": "Neba Village Hall",
+      "url": "http://nebamura.jp"
+     }
+    ],
+    "address": "Neba, Nagano 395-0701",
+    "phone": "0265-49-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nozawaonsen",
+   "slug": "nozawaonsen",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/nozawaonsen/",
+   "official": {
+    "links": [
+     {
+      "label": "Nozawaonsen Village Hall",
+      "url": "http://www.vill.nozawaonsen.nagano.jp"
+     }
+    ],
+    "address": "Nozawaonsen, Nagano 389-2592",
+    "phone": "0269-85-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Obuse",
+   "slug": "obuse",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/obuse/",
+   "official": {
+    "links": [
+     {
+      "label": "Obuse Town Hall",
+      "url": "https://www.town.obuse.nagano.jp"
+     }
+    ],
+    "address": "Obuse, Nagano 381-0297",
+    "phone": "026-247-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ogawamura",
+   "slug": "ogawamura",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/ogawamura/",
+   "official": {
+    "links": [
+     {
+      "label": "Ogawamura Village Hall",
+      "url": "http://www.vill.ogawa.nagano.jp"
+     }
+    ],
+    "address": "Ogawamura, Nagano 381-3302",
+    "phone": "026-269-2323"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Okaya",
+   "slug": "okaya",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/okaya/",
+   "official": {
+    "links": [
+     {
+      "label": "Okaya City Hall",
+      "url": "https://www.city.okaya.lg.jp"
+     }
+    ],
+    "address": "Okaya, Nagano 394-8510",
+    "phone": "0266-23-4811"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Okuwa",
+   "slug": "okuwa",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/okuwa/",
+   "official": {
+    "links": [
+     {
+      "label": "Okuwa Village Hall",
+      "url": "https://www.vill.okuwa.lg.jp"
+     }
+    ],
+    "address": "Okuwa, Nagano 399-5503",
+    "phone": "0264-55-3080"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Omachishi",
+   "slug": "omachishi",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/omachishi/",
+   "official": {
+    "links": [
+     {
+      "label": "Omachishi City Hall",
+      "url": "https://www.city.omachi.nagano.jp"
+     }
+    ],
+    "address": "Omachishi, Nagano 398-8601",
+    "phone": "0261-22-0420"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Omi",
+   "slug": "omi",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/omi/",
+   "official": {
+    "links": [
+     {
+      "label": "Omi Village Hall",
+      "url": "http://www.vill.omi.nagano.jp"
+     }
+    ],
+    "address": "Omi, Nagano 399-7701",
+    "phone": "0263-67-3001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Oshika",
+   "slug": "oshika",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/oshika/",
+   "official": {
+    "links": [
+     {
+      "label": "Oshika Village Hall",
+      "url": "http://www.vill.ooshika.nagano.jp"
+     }
+    ],
+    "address": "Oshika, Nagano 399-3502",
+    "phone": "0265-39-2001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Otaki",
+   "slug": "otaki",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/otaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Otaki Village Hall",
+      "url": "http://www.vill.otaki.nagano.jp"
+     }
+    ],
+    "address": "Otaki, Nagano 397-0201",
+    "phone": "0264-48-2001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Otari",
+   "slug": "otari",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/otari/",
+   "official": {
+    "links": [
+     {
+      "label": "Otari Village Hall",
+      "url": "http://www.vill.otari.nagano.jp"
+     }
+    ],
+    "address": "Otari, Nagano 399-9494",
+    "phone": "0261-82-2001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sakaemura",
+   "slug": "sakaemura",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/sakaemura/",
+   "official": {
+    "links": [
+     {
+      "label": "Sakaemura Village Hall",
+      "url": "http://www.vill.sakae.nagano.jp"
+     }
+    ],
+    "address": "Sakaemura, Nagano 389-2792",
+    "phone": "0269-87-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sakaki",
+   "slug": "sakaki",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/sakaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Sakaki Town Hall",
+      "url": "http://www.town.sakaki.nagano.jp"
+     }
+    ],
+    "address": "Sakaki, Nagano 389-0692",
+    "phone": "0268-82-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Saku",
+   "slug": "saku",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/saku/",
+   "official": {
+    "links": [
+     {
+      "label": "Saku City Hall",
+      "url": "http://www.city.saku.nagano.jp"
+     }
+    ],
+    "address": "Saku, Nagano 385-8501",
+    "phone": "0267-62-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sakuho",
+   "slug": "sakuho",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/sakuho/",
+   "official": {
+    "links": [
+     {
+      "label": "Sakuho Town Hall",
+      "url": "https://www.town.sakuho.nagano.jp"
+     }
+    ],
+    "address": "Sakuho, Nagano 384-0697",
+    "phone": "0267-86-2525"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shimojo",
+   "slug": "shimojo",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/shimojo/",
+   "official": {
+    "links": [
+     {
+      "label": "Shimojo Village Hall",
+      "url": "http://www.vill-shimojo.jp"
+     }
+    ],
+    "address": "Shimojo, Nagano 399-2101",
+    "phone": "0260-27-2311"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shimosuwa",
+   "slug": "shimosuwa",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/shimosuwa/",
+   "official": {
+    "links": [
+     {
+      "label": "Shimosuwa Town Hall",
+      "url": "http://www.town.shimosuwa.lg.jp"
+     }
+    ],
+    "address": "Shimosuwa, Nagano 393-8501",
+    "phone": "0266-27-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shinano",
+   "slug": "shinano",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/shinano/",
+   "official": {
+    "links": [
+     {
+      "label": "Shinano Town Hall",
+      "url": "https://www.town.shinano.lg.jp"
+     }
+    ],
+    "address": "Shinano, Nagano 389-1392",
+    "phone": "026-255-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shiojiri",
+   "slug": "shiojiri",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/shiojiri/",
+   "official": {
+    "links": [
+     {
+      "label": "Shiojiri City Hall",
+      "url": "http://www.city.shiojiri.lg.jp"
+     }
+    ],
+    "address": "Shiojiri, Nagano 399-0786",
+    "phone": "0263-52-0280"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Suwa",
+   "slug": "suwa",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/suwa/",
+   "official": {
+    "links": [
+     {
+      "label": "Suwa City Hall",
+      "url": "http://www.city.suwa.lg.jp"
+     }
+    ],
+    "address": "Suwa, Nagano 392-8511",
+    "phone": "0266-52-4141"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Suzaka",
+   "slug": "suzaka",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/suzaka/",
+   "official": {
+    "links": [
+     {
+      "label": "Suzaka City Hall",
+      "url": "https://www.city.suzaka.nagano.jp"
+     }
+    ],
+    "address": "Suzaka, Nagano 382-8511",
+    "phone": "026-245-1400"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Takagi",
+   "slug": "takagi",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/takagi/",
+   "official": {
+    "links": [
+     {
+      "label": "Takagi Village Hall",
+      "url": "http://www.vill.takagi.lg.jp"
+     }
+    ],
+    "address": "Takagi, Nagano 395-1107",
+    "phone": "0265-33-2001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Takamoricho",
+   "slug": "takamoricho",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/takamoricho/",
+   "official": {
+    "links": [
+     {
+      "label": "Takamoricho Town Hall",
+      "url": "https://www.town.nagano-takamori.lg.jp"
+     }
+    ],
+    "address": "Takamoricho, Nagano 399-3193",
+    "phone": "0265-35-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Takayamamura",
+   "slug": "takayamamura",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/takayamamura/",
+   "official": {
+    "links": [
+     {
+      "label": "Takayamamura Village Hall",
+      "url": "https://www.vill.takayama.nagano.jp"
+     }
+    ],
+    "address": "Takayamamura, Nagano 382-8510",
+    "phone": "026-245-1100"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tateshina",
+   "slug": "tateshina",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/tateshina/",
+   "official": {
+    "links": [
+     {
+      "label": "Tateshina Town Hall",
+      "url": "http://www.town.tateshina.nagano.jp"
+     }
+    ],
+    "address": "Tateshina, Nagano 384-2305",
+    "phone": "0267-56-2311"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tatsunocho",
+   "slug": "tatsunocho",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/tatsunocho/",
+   "official": {
+    "links": [
+     {
+      "label": "Tatsunocho Town Hall",
+      "url": "http://www.town.tatsuno.lg.jp"
+     }
+    ],
+    "address": "Tatsunocho, Nagano 399-0493",
+    "phone": "0266-41-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tenryu",
+   "slug": "tenryu",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/tenryu/",
+   "official": {
+    "links": [
+     {
+      "label": "Tenryu Village Hall",
+      "url": "http://www.vill-tenryu.jp"
+     }
+    ],
+    "address": "Tenryu, Nagano 399-1201",
+    "phone": "0260-32-2001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tomi",
+   "slug": "tomi",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/tomi/",
+   "official": {
+    "links": [
+     {
+      "label": "Tomi City Hall",
+      "url": "https://www.city.tomi.nagano.jp"
+     }
+    ],
+    "address": "Tomi, Nagano 389-0592",
+    "phone": "0268-62-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Toyookamura",
+   "slug": "toyookamura",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/toyookamura/",
+   "official": {
+    "links": [
+     {
+      "label": "Toyookamura Village Hall",
+      "url": "https://www.vill.nagano-toyooka.lg.jp"
+     }
+    ],
+    "address": "Toyookamura, Nagano 399-3295",
+    "phone": "0265-35-3311"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ueda",
+   "slug": "ueda",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/ueda/",
+   "official": {
+    "links": [
+     {
+      "label": "Ueda City Hall",
+      "url": "https://www.city.ueda.nagano.jp"
+     }
+    ],
+    "address": "Ueda, Nagano 386-8601",
+    "phone": "0268-22-4100"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Urugi",
+   "slug": "urugi",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/urugi/",
+   "official": {
+    "links": [
+     {
+      "label": "Urugi Village Hall",
+      "url": "http://www.urugi.jp"
+     }
+    ],
+    "address": "Urugi, Nagano 399-1689",
+    "phone": "0260-28-2311"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yamagatamura",
+   "slug": "yamagatamura",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/yamagatamura/",
+   "official": {
+    "links": [
+     {
+      "label": "Yamagatamura Village Hall",
+      "url": "https://www.vill.yamagata.nagano.jp"
+     }
+    ],
+    "address": "Yamagatamura, Nagano 390-1392",
+    "phone": "0263-98-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yamanochi",
+   "slug": "yamanochi",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/yamanochi/",
+   "official": {
+    "links": [
+     {
+      "label": "Yamanochi Town Hall",
+      "url": "http://www.town.yamanouchi.nagano.jp"
+     }
+    ],
+    "address": "Yamanochi, Nagano 381-0498",
+    "phone": "0269-33-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yasuoka",
+   "slug": "yasuoka",
+   "prefecture": "nagano",
+   "url": "https://bokenjapan.com/nagano/yasuoka/",
+   "official": {
+    "links": [
+     {
+      "label": "Yasuoka Village Hall",
+      "url": "https://vill.yasuoka.nagano.jp"
+     }
+    ],
+    "address": "Yasuoka, Nagano 399-1895",
+    "phone": "0260-26-2111"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

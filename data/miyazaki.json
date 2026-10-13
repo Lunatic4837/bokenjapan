@@ -1,0 +1,449 @@
+{
+ "prefecture": "Miyazaki",
+ "slug": "miyazaki",
+ "url": "https://bokenjapan.com/miyazaki/",
+ "towns": [
+  {
+   "name": "Aya",
+   "slug": "aya",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/aya/",
+   "official": {
+    "links": [
+     {
+      "label": "Aya Town Hall",
+      "url": "https://www.town.aya.miyazaki.jp/"
+     }
+    ],
+    "address": "Aya, Miyazaki 880-1392",
+    "phone": "0985-77-1112"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ebino",
+   "slug": "ebino",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/ebino/",
+   "official": {
+    "links": [
+     {
+      "label": "Ebino City Hall",
+      "url": "https://www.city.ebino.lg.jp/"
+     }
+    ],
+    "address": "Ebino, Miyazaki 889-4292",
+    "phone": "0984-35-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Gokase",
+   "slug": "gokase",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/gokase/",
+   "official": {
+    "links": [
+     {
+      "label": "Gokase Town Hall",
+      "url": "https://www.town.gokase.miyazaki.jp/"
+     }
+    ],
+    "address": "Gokase, Miyazaki 882-1295",
+    "phone": "0982-82-1700"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hinokage",
+   "slug": "hinokage",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/hinokage/",
+   "official": {
+    "links": [
+     {
+      "label": "Hinokage Town Hall",
+      "url": "https://www.town.hinokage.lg.jp/"
+     }
+    ],
+    "address": "Hinokage, Miyazaki 882-0401",
+    "phone": "0982-87-3800"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hyuga",
+   "slug": "hyuga",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/hyuga/",
+   "official": {
+    "links": [
+     {
+      "label": "Hyuga City Hall",
+      "url": "https://www.hyugacity.jp/"
+     }
+    ],
+    "address": "Hyuga, Miyazaki 883-8555",
+    "phone": "0982-52-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kadogawa",
+   "slug": "kadogawa",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/kadogawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Kadogawa Town Hall",
+      "url": "https://www.town.kadogawa.lg.jp/"
+     }
+    ],
+    "address": "Kadogawa, Miyazaki 889-0696",
+    "phone": "0982-63-1140"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kawaminami",
+   "slug": "kawaminami",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/kawaminami/",
+   "official": {
+    "links": [
+     {
+      "label": "Kawaminami Town Hall",
+      "url": "https://www.town.kawaminami.miyazaki.jp/"
+     }
+    ],
+    "address": "Kawaminami, Miyazaki 889-1301",
+    "phone": "0983-27-8001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kijo",
+   "slug": "kijo",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/kijo/",
+   "official": {
+    "links": [
+     {
+      "label": "Kijo Town Hall",
+      "url": "https://www.town.kijo.lg.jp/"
+     }
+    ],
+    "address": "Kijo, Miyazaki 884-0101",
+    "phone": "not printed on the official homepage this pass"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kobayashi",
+   "slug": "kobayashi",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/kobayashi/",
+   "official": {
+    "links": [
+     {
+      "label": "Kobayashi City Hall",
+      "url": "https://www.city.kobayashi.lg.jp/"
+     }
+    ],
+    "address": "Kobayashi, Miyazaki 886-8501",
+    "phone": "0984-23-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kunitomi",
+   "slug": "kunitomi",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/kunitomi/",
+   "official": {
+    "links": [
+     {
+      "label": "Kunitomi Town Hall",
+      "url": "https://www.town.kunitomi.miyazaki.jp/"
+     }
+    ],
+    "address": "Kunitomi, Miyazaki 880-1192",
+    "phone": "0985-75-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kushima",
+   "slug": "kushima",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/kushima/",
+   "official": {
+    "links": [
+     {
+      "label": "Kushima City Hall",
+      "url": "https://www.city.kushima.lg.jp/"
+     }
+    ],
+    "address": "Kushima, Miyazaki 888-8555",
+    "phone": "0987-72-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mimata",
+   "slug": "mimata",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/mimata/",
+   "official": {
+    "links": [
+     {
+      "label": "Mimata Town Hall",
+      "url": "https://www.town.mimata.lg.jp/"
+     }
+    ],
+    "address": "Mimata, Miyazaki 889-1995",
+    "phone": "0986-52-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Misatocho",
+   "slug": "misatocho",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/misatocho/",
+   "official": {
+    "links": [
+     {
+      "label": "Misatocho Town Hall",
+      "url": "https://www.town.miyazaki-misato.lg.jp/"
+     }
+    ],
+    "address": "Misatocho, Miyazaki 883-1101",
+    "phone": "0982-66-3601"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Miyakonojo",
+   "slug": "miyakonojo",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/miyakonojo/",
+   "official": {
+    "links": [
+     {
+      "label": "Miyakonojo City Hall",
+      "url": "https://www.city.miyakonojo.miyazaki.jp/"
+     }
+    ],
+    "address": "Miyakonojo, Miyazaki 885-8555",
+    "phone": "0986-23-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Miyazaki",
+   "slug": "miyazaki",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/miyazaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Miyazaki City Hall",
+      "url": "https://www.city.miyazaki.miyazaki.jp/"
+     }
+    ],
+    "address": "Miyazaki 880-8505",
+    "phone": "0985-25-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Morotsuka",
+   "slug": "morotsuka",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/morotsuka/",
+   "official": {
+    "links": [
+     {
+      "label": "Morotsuka Village Hall",
+      "url": "https://www.vill.morotsuka.miyazaki.jp/"
+     }
+    ],
+    "address": "Morotsuka, Miyazaki 883-1301",
+    "phone": "not printed on the official homepage this pass"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nichinanshi",
+   "slug": "nichinanshi",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/nichinanshi/",
+   "official": {
+    "links": [
+     {
+      "label": "Nichinanshi City Hall",
+      "url": "https://www.city.nichinan.lg.jp/"
+     }
+    ],
+    "address": "Nichinanshi, Miyazaki 887-8585",
+    "phone": "0987-31-1100"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nishimera",
+   "slug": "nishimera",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/nishimera/",
+   "official": {
+    "links": [
+     {
+      "label": "Nishimera Village Hall",
+      "url": "https://www.vill.nishimera.lg.jp/"
+     }
+    ],
+    "address": "Nishimera, Miyazaki 881-1411",
+    "phone": "0983-36-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nobeoka",
+   "slug": "nobeoka",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/nobeoka/",
+   "official": {
+    "links": [
+     {
+      "label": "Nobeoka City Hall",
+      "url": "https://www.city.nobeoka.miyazaki.jp/"
+     }
+    ],
+    "address": "Nobeoka, Miyazaki 882-8686",
+    "phone": "0982-34-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Saito",
+   "slug": "saito",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/saito/",
+   "official": {
+    "links": [
+     {
+      "label": "Saito City Hall",
+      "url": "https://www.city.saito.lg.jp/"
+     }
+    ],
+    "address": "Saito, Miyazaki 881-8501",
+    "phone": "0983-43-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shiiba",
+   "slug": "shiiba",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/shiiba/",
+   "official": {
+    "links": [
+     {
+      "label": "Shiiba Village Hall",
+      "url": "https://www.vill.shiiba.miyazaki.jp/"
+     }
+    ],
+    "address": "Shiiba, Miyazaki 883-1601",
+    "phone": "0982-67-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shintomi",
+   "slug": "shintomi",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/shintomi/",
+   "official": {
+    "links": [
+     {
+      "label": "Shintomi Town Hall",
+      "url": "https://www.town.shintomi.lg.jp/"
+     }
+    ],
+    "address": "Shintomi, Miyazaki 889-1493",
+    "phone": "0983-33-6002"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Takachiho",
+   "slug": "takachiho",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/takachiho/",
+   "official": {
+    "links": [
+     {
+      "label": "Takachiho Town Hall",
+      "url": "https://www.town-takachiho.jp/"
+     }
+    ],
+    "address": "Takachiho, Miyazaki 882-1192",
+    "phone": "0982-73-1200"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Takaharu",
+   "slug": "takaharu",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/takaharu/",
+   "official": {
+    "links": [
+     {
+      "label": "Takaharu Town Hall",
+      "url": "https://www.town.takaharu.lg.jp/"
+     }
+    ],
+    "address": "Takaharu, Miyazaki 889-4492",
+    "phone": "0984-42-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Takanabe",
+   "slug": "takanabe",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/takanabe/",
+   "official": {
+    "links": [
+     {
+      "label": "Takanabe Town Hall",
+      "url": "https://www.town.takanabe.lg.jp/"
+     }
+    ],
+    "address": "Takanabe, Miyazaki 884-8655",
+    "phone": "not printed on the official homepage this pass"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tsunomachi",
+   "slug": "tsunomachi",
+   "prefecture": "miyazaki",
+   "url": "https://bokenjapan.com/miyazaki/tsunomachi/",
+   "official": {
+    "links": [
+     {
+      "label": "Tsunomachi Town Hall",
+      "url": "https://www.town.tsuno.lg.jp/"
+     }
+    ],
+    "address": "Tsunomachi, Miyazaki",
+    "phone": "not printed on the official homepage this pass"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

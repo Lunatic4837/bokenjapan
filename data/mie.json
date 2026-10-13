@@ -1,0 +1,500 @@
+{
+ "prefecture": "Mie",
+ "slug": "mie",
+ "url": "https://bokenjapan.com/mie/",
+ "towns": [
+  {
+   "name": "Asahicho",
+   "slug": "asahicho",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/asahicho/",
+   "official": {
+    "links": [
+     {
+      "label": "Asahicho Town Hall",
+      "url": "https://www2.town.asahi.mie.jp/www/"
+     }
+    ],
+    "address": "Asahicho, Mie 510-8522",
+    "phone": "059-377-5651"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Iga",
+   "slug": "iga",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/iga/",
+   "official": {
+    "links": [
+     {
+      "label": "Iga City Hall",
+      "url": "https://www.city.iga.lg.jp/"
+     }
+    ],
+    "address": "Iga, Mie 518-8501",
+    "phone": "0595-22-9611"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Inabe",
+   "slug": "inabe",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/inabe/",
+   "official": {
+    "links": [
+     {
+      "label": "Inabe City Hall",
+      "url": "https://www.city.inabe.mie.jp/"
+     }
+    ],
+    "address": "Inabe, Mie 511-0498",
+    "phone": "0594-86-7745"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ise",
+   "slug": "ise",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/ise/",
+   "official": {
+    "links": [
+     {
+      "label": "Ise City Hall",
+      "url": "https://www.city.ise.mie.jp/"
+     }
+    ],
+    "address": "Ise, Mie 516-8601",
+    "phone": "0596-23-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kameyama",
+   "slug": "kameyama",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/kameyama/",
+   "official": {
+    "links": [
+     {
+      "label": "Kameyama City Hall",
+      "url": "https://www.city.kameyama.mie.jp/"
+     }
+    ],
+    "address": "Kameyama, Mie 519-0195",
+    "phone": "0595-82-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kawagoe",
+   "slug": "kawagoe",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/kawagoe/",
+   "official": {
+    "links": [
+     {
+      "label": "Kawagoe Town Hall",
+      "url": "https://www.town.kawagoe.mie.jp/"
+     }
+    ],
+    "address": "Kawagoe, Mie 510-8588",
+    "phone": "059-366-7113"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kiho",
+   "slug": "kiho",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/kiho/",
+   "official": {
+    "links": [
+     {
+      "label": "Kiho Town Hall",
+      "url": "https://www.town.kiho.lg.jp/"
+     }
+    ],
+    "address": "Kiho, Mie 519-5701",
+    "phone": "0735-33-0333"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kihokucho",
+   "slug": "kihokucho",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/kihokucho/",
+   "official": {
+    "links": [
+     {
+      "label": "Kihokucho Town Hall",
+      "url": "https://www.town.mie-kihoku.lg.jp/"
+     }
+    ],
+    "address": "Kihokucho, Mie 519-3292",
+    "phone": "0597-46-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kisosaki",
+   "slug": "kisosaki",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/kisosaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Kisosaki Town Hall",
+      "url": "https://www.town.kisosaki.lg.jp/"
+     }
+    ],
+    "address": "Kisosaki, Mie 498-8503",
+    "phone": "0567-68-6100"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Komono",
+   "slug": "komono",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/komono/",
+   "official": {
+    "links": [
+     {
+      "label": "Komono Town Hall",
+      "url": "https://www2.town.komono.mie.jp/"
+     }
+    ],
+    "address": "Komono, Mie 510-1292",
+    "phone": "059-391-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kumanoshi",
+   "slug": "kumanoshi",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/kumanoshi/",
+   "official": {
+    "links": [
+     {
+      "label": "Kumanoshi City Hall",
+      "url": "https://www.city.kumano.lg.jp/"
+     }
+    ],
+    "address": "Kumanoshi, Mie 519-4392",
+    "phone": "0597-89-4111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kuwana",
+   "slug": "kuwana",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/kuwana/",
+   "official": {
+    "links": [
+     {
+      "label": "Kuwana City Hall",
+      "url": "https://www.city.kuwana.lg.jp/"
+     }
+    ],
+    "address": "Kuwana, Mie 511-8601",
+    "phone": "0594-24-1130"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Matsusaka",
+   "slug": "matsusaka",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/matsusaka/",
+   "official": {
+    "links": [
+     {
+      "label": "Matsusaka City Hall",
+      "url": "https://www.city.matsusaka.mie.jp/"
+     }
+    ],
+    "address": "Matsusaka, Mie 515-8515",
+    "phone": "0598-53-4321"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Meiwa",
+   "slug": "meiwa",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/meiwa/",
+   "official": {
+    "links": [
+     {
+      "label": "Meiwa Town Hall",
+      "url": "https://www.town.meiwa.mie.jp/"
+     }
+    ],
+    "address": "Meiwa, Mie 515-0332",
+    "phone": "0596-52-7111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mihamacho",
+   "slug": "mihamacho",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/mihamacho/",
+   "official": {
+    "links": [
+     {
+      "label": "Mihamacho Town Hall",
+      "url": "https://www.town.mihama.mie.jp/"
+     }
+    ],
+    "address": "Mihamacho, Mie 519-5292",
+    "phone": "05979-3-0505"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minamiise",
+   "slug": "minamiise",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/minamiise/",
+   "official": {
+    "links": [
+     {
+      "label": "Minamiise Town Hall",
+      "url": "https://www.town.minamiise.lg.jp/"
+     }
+    ],
+    "address": "Minamiise, Mie 516-0194",
+    "phone": "0599-66-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nabari",
+   "slug": "nabari",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/nabari/",
+   "official": {
+    "links": [
+     {
+      "label": "Nabari City Hall",
+      "url": "https://www.city.nabari.lg.jp/"
+     }
+    ],
+    "address": "Nabari, Mie 518-0492",
+    "phone": "0595-63-2110"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Odai",
+   "slug": "odai",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/odai/",
+   "official": {
+    "links": [
+     {
+      "label": "Odai Town Hall",
+      "url": "https://www.odaitown.jp/"
+     }
+    ],
+    "address": "Odai, Mie 519-2404",
+    "phone": "0598-82-3781"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Owase",
+   "slug": "owase",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/owase/",
+   "official": {
+    "links": [
+     {
+      "label": "Owase City Hall",
+      "url": "https://www.city.owase.lg.jp/"
+     }
+    ],
+    "address": "Owase, Mie 519-3696",
+    "phone": "0597-23-8112"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shima",
+   "slug": "shima",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/shima/",
+   "official": {
+    "links": [
+     {
+      "label": "Shima City Hall",
+      "url": "https://www.city.shima.mie.jp/"
+     }
+    ],
+    "address": "Shima, Mie 517-0592",
+    "phone": "0599-44-0201"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Suzuka",
+   "slug": "suzuka",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/suzuka/",
+   "official": {
+    "links": [
+     {
+      "label": "Suzuka City Hall",
+      "url": "https://www.city.suzuka.lg.jp/"
+     }
+    ],
+    "address": "Suzuka, Mie 513-8701",
+    "phone": "059-382-1100"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Taiki",
+   "slug": "taiki",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/taiki/",
+   "official": {
+    "links": [
+     {
+      "label": "Taiki Town Hall",
+      "url": "https://www.town.taiki.mie.jp/"
+     }
+    ],
+    "address": "Taiki, Mie 519-2703",
+    "phone": "0598-86-2212"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Taki",
+   "slug": "taki",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/taki/",
+   "official": {
+    "links": [
+     {
+      "label": "Taki Town Hall",
+      "url": "https://www.town.taki.mie.jp/"
+     }
+    ],
+    "address": "Taki, Mie 519-2181",
+    "phone": "0598-38-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tamaki",
+   "slug": "tamaki",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/tamaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Tamaki Town Hall",
+      "url": "https://kizuna.town.tamaki.mie.jp/"
+     }
+    ],
+    "address": "Tamaki, Mie 519-0495",
+    "phone": "0596-58-8200"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Toba",
+   "slug": "toba",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/toba/",
+   "official": {
+    "links": [
+     {
+      "label": "Toba City Hall",
+      "url": "https://www.city.toba.mie.jp/"
+     }
+    ],
+    "address": "Toba, Mie 517-0011",
+    "phone": "0599-25-1112"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Toin",
+   "slug": "toin",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/toin/",
+   "official": {
+    "links": [
+     {
+      "label": "Toin Town Hall",
+      "url": "https://www.town.toin.lg.jp/"
+     }
+    ],
+    "address": "Toin, Mie 511-0295",
+    "phone": "0594-86-2800"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tsu",
+   "slug": "tsu",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/tsu/",
+   "official": {
+    "links": [
+     {
+      "label": "Tsu City Hall",
+      "url": "https://www.info.city.tsu.mie.jp/"
+     }
+    ],
+    "address": "Tsu, Mie 514-8611",
+    "phone": "059-229-3100"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Watarai",
+   "slug": "watarai",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/watarai/",
+   "official": {
+    "links": [
+     {
+      "label": "Watarai Town Hall",
+      "url": "https://www.town.watarai.lg.jp/"
+     }
+    ],
+    "address": "Watarai, Mie 516-2195",
+    "phone": "0596-62-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yokkaichi",
+   "slug": "yokkaichi",
+   "prefecture": "mie",
+   "url": "https://bokenjapan.com/mie/yokkaichi/",
+   "official": {
+    "links": [
+     {
+      "label": "Yokkaichi City Hall",
+      "url": "https://www.city.yokkaichi.lg.jp/"
+     }
+    ],
+    "address": "Yokkaichi, Mie 510-8601",
+    "phone": "059-354-8104"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

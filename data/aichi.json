@@ -1,0 +1,925 @@
+{
+ "prefecture": "Aichi",
+ "slug": "aichi",
+ "url": "https://bokenjapan.com/aichi/",
+ "towns": [
+  {
+   "name": "Agui",
+   "slug": "agui",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/agui/",
+   "official": {
+    "links": [
+     {
+      "label": "Agui Town Hall",
+      "url": "https://www.town.agui.lg.jp/"
+     }
+    ],
+    "address": "Agui, Aichi 470-2292",
+    "phone": "0569-48-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Aichikonan",
+   "slug": "aichikonan",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/aichikonan/",
+   "official": {
+    "links": [
+     {
+      "label": "Aichikonan City Hall",
+      "url": "https://www.city.konan.lg.jp/"
+     }
+    ],
+    "address": "Aichikonan, Aichi 483-8701",
+    "phone": "0587-54-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Aisai",
+   "slug": "aisai",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/aisai/",
+   "official": {
+    "links": [
+     {
+      "label": "Aisai City Hall",
+      "url": "https://www.city.aisai.lg.jp/"
+     }
+    ],
+    "address": "Aisai, Aichi 496-8555",
+    "phone": "0567-26-8111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Amashi",
+   "slug": "amashi",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/amashi/",
+   "official": {
+    "links": [
+     {
+      "label": "Amashi City Hall",
+      "url": "https://www.city.ama.aichi.jp/"
+     }
+    ],
+    "address": "Amashi, Aichi 497-8602",
+    "phone": "052-444-1001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Anjo",
+   "slug": "anjo",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/anjo/",
+   "official": {
+    "links": [
+     {
+      "label": "Anjo City Hall",
+      "url": "https://www.city.anjo.aichi.jp/"
+     }
+    ],
+    "address": "Anjo, Aichi 446-8501",
+    "phone": "0566-76-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Chiryu",
+   "slug": "chiryu",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/chiryu/",
+   "official": {
+    "links": [
+     {
+      "label": "Chiryu City Hall",
+      "url": "https://www.city.chiryu.aichi.jp/"
+     }
+    ],
+    "address": "Chiryu, Aichi 472-8666",
+    "phone": "0566-83-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Chita",
+   "slug": "chita",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/chita/",
+   "official": {
+    "links": [
+     {
+      "label": "Chita City Hall",
+      "url": "https://www.city.chita.lg.jp/"
+     }
+    ],
+    "address": "Chita, Aichi 478-8601",
+    "phone": "0562-33-3151"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Chitamihama",
+   "slug": "chitamihama",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/chitamihama/",
+   "official": {
+    "links": [
+     {
+      "label": "Chitamihama Town Hall",
+      "url": "https://www.town.aichi-mihama.lg.jp/"
+     }
+    ],
+    "address": "Chitamihama, Aichi 470-2492",
+    "phone": "0569-82-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Fuso",
+   "slug": "fuso",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/fuso/",
+   "official": {
+    "links": [
+     {
+      "label": "Fuso Town Hall",
+      "url": "https://www.town.fuso.lg.jp/"
+     }
+    ],
+    "address": "Fuso, Aichi 480-0102",
+    "phone": "0587-93-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Gamagori",
+   "slug": "gamagori",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/gamagori/",
+   "official": {
+    "links": [
+     {
+      "label": "Gamagori City Hall",
+      "url": "https://www.city.gamagori.lg.jp/"
+     }
+    ],
+    "address": "Gamagori, Aichi 443-8601",
+    "phone": "0533-66-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Handa",
+   "slug": "handa",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/handa/",
+   "official": {
+    "links": [
+     {
+      "label": "Handa City Hall",
+      "url": "https://www.city.handa.lg.jp/"
+     }
+    ],
+    "address": "Handa, Aichi 475-8666",
+    "phone": "0569-21-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hekinan",
+   "slug": "hekinan",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/hekinan/",
+   "official": {
+    "links": [
+     {
+      "label": "Hekinan City Hall",
+      "url": "https://www.city.hekinan.lg.jp/"
+     }
+    ],
+    "address": "Hekinan, Aichi 447-8601",
+    "phone": "0566-41-3311"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Higashiura",
+   "slug": "higashiura",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/higashiura/",
+   "official": {
+    "links": [
+     {
+      "label": "Higashiura Town Hall",
+      "url": "https://www.town.aichi-higashiura.lg.jp/"
+     }
+    ],
+    "address": "Higashiura, Aichi 470-2192",
+    "phone": "0562-83-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ichinomiya",
+   "slug": "ichinomiya",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/ichinomiya/",
+   "official": {
+    "links": [
+     {
+      "label": "Ichinomiya City Hall",
+      "url": "https://www.city.ichinomiya.aichi.jp/"
+     }
+    ],
+    "address": "Ichinomiya, Aichi 491-8501",
+    "phone": "0586-28-8100"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Inazawa",
+   "slug": "inazawa",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/inazawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Inazawa City Hall",
+      "url": "http://www.city.inazawa.aichi.jp/"
+     }
+    ],
+    "address": "Inazawa, Aichi 492-8269",
+    "phone": "0587-32-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Inuyama",
+   "slug": "inuyama",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/inuyama/",
+   "official": {
+    "links": [
+     {
+      "label": "Inuyama City Hall",
+      "url": "https://www.city.inuyama.aichi.jp/"
+     }
+    ],
+    "address": "Inuyama, Aichi 484-8501",
+    "phone": "0568-61-1800"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Iwakura",
+   "slug": "iwakura",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/iwakura/",
+   "official": {
+    "links": [
+     {
+      "label": "Iwakura City Hall",
+      "url": "https://www.city.iwakura.aichi.jp/"
+     }
+    ],
+    "address": "Iwakura, Aichi 482-8686",
+    "phone": "0587-66-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kanie",
+   "slug": "kanie",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/kanie/",
+   "official": {
+    "links": [
+     {
+      "label": "Kanie Town Hall",
+      "url": "https://www.town.kanie.aichi.jp/"
+     }
+    ],
+    "address": "Kanie, Aichi 497-8601",
+    "phone": "0567-95-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kariya",
+   "slug": "kariya",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/kariya/",
+   "official": {
+    "links": [
+     {
+      "label": "Kariya City Hall",
+      "url": "http://www.city.kariya.lg.jp/"
+     }
+    ],
+    "address": "Kariya, Aichi 448-8501",
+    "phone": "0566-23-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kasugai",
+   "slug": "kasugai",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/kasugai/",
+   "official": {
+    "links": [
+     {
+      "label": "Kasugai City Hall",
+      "url": "https://www.city.kasugai.lg.jp/"
+     }
+    ],
+    "address": "Kasugai, Aichi 486-8686",
+    "phone": "0568-81-5111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kitanagoya",
+   "slug": "kitanagoya",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/kitanagoya/",
+   "official": {
+    "links": [
+     {
+      "label": "Kitanagoya City Hall",
+      "url": "https://www.city.kitanagoya.lg.jp/"
+     }
+    ],
+    "address": "Kitanagoya, Aichi 481-8531",
+    "phone": "0568-22-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kiyosu",
+   "slug": "kiyosu",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/kiyosu/",
+   "official": {
+    "links": [
+     {
+      "label": "Kiyosu City Hall",
+      "url": "https://www.city.kiyosu.aichi.jp/"
+     }
+    ],
+    "address": "Kiyosu, Aichi 452-8569",
+    "phone": "052-400-2911"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Komaki",
+   "slug": "komaki",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/komaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Komaki City Hall",
+      "url": "https://www.city.komaki.aichi.jp/"
+     }
+    ],
+    "address": "Komaki, Aichi 485-8650",
+    "phone": "0568-72-2101"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kota",
+   "slug": "kota",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/kota/",
+   "official": {
+    "links": [
+     {
+      "label": "Kota Town Hall",
+      "url": "https://www.town.kota.lg.jp/"
+     }
+    ],
+    "address": "Kota, Aichi 444-0192",
+    "phone": "0564-62-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minamichita",
+   "slug": "minamichita",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/minamichita/",
+   "official": {
+    "links": [
+     {
+      "label": "Minamichita Town Hall",
+      "url": "https://www.town.minamichita.lg.jp/main/"
+     }
+    ],
+    "address": "Minamichita, Aichi 470-3495",
+    "phone": "0569-65-0711"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Miyoshiaichi",
+   "slug": "miyoshiaichi",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/miyoshiaichi/",
+   "official": {
+    "links": [
+     {
+      "label": "Miyoshiaichi City Hall",
+      "url": "https://www.city.aichi-miyoshi.lg.jp/"
+     }
+    ],
+    "address": "Miyoshiaichi, Aichi 470-0295",
+    "phone": "0561-32-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nagakute",
+   "slug": "nagakute",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/nagakute/",
+   "official": {
+    "links": [
+     {
+      "label": "Nagakute City Hall",
+      "url": "https://www.city.nagakute.lg.jp/"
+     }
+    ],
+    "address": "Nagakute, Aichi 480-1196",
+    "phone": "0561-63-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nagoya",
+   "slug": "nagoya",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/nagoya/",
+   "official": {
+    "links": [
+     {
+      "label": "Nagoya City Hall",
+      "url": "http://www.city.nagoya.jp/"
+     }
+    ],
+    "address": "Nagoya, Aichi 460-8508",
+    "phone": "052-961-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nishio",
+   "slug": "nishio",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/nishio/",
+   "official": {
+    "links": [
+     {
+      "label": "Nishio City Hall",
+      "url": "https://www.city.nishio.aichi.jp/"
+     }
+    ],
+    "address": "Nishio, Aichi 445-8501",
+    "phone": "0563-56-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nisshin",
+   "slug": "nisshin",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/nisshin/",
+   "official": {
+    "links": [
+     {
+      "label": "Nisshin City Hall",
+      "url": "https://www.city.nisshin.lg.jp/"
+     }
+    ],
+    "address": "Nisshin, Aichi 470-0192",
+    "phone": "0561-73-7111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Obu",
+   "slug": "obu",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/obu/",
+   "official": {
+    "links": [
+     {
+      "label": "Obu City Hall",
+      "url": "https://www.city.obu.aichi.jp/"
+     }
+    ],
+    "address": "Obu, Aichi 474-8701",
+    "phone": "0562-47-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Oguchi",
+   "slug": "oguchi",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/oguchi/",
+   "official": {
+    "links": [
+     {
+      "label": "Oguchi Town Hall",
+      "url": "https://www.town.oguchi.lg.jp/"
+     }
+    ],
+    "address": "Oguchi, Aichi 480-0144",
+    "phone": "0587-95-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Oharu",
+   "slug": "oharu",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/oharu/",
+   "official": {
+    "links": [
+     {
+      "label": "Oharu Town Hall",
+      "url": "https://www.town.oharu.aichi.jp/"
+     }
+    ],
+    "address": "Oharu, Aichi 490-1192",
+    "phone": "052-444-2711"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Okazaki",
+   "slug": "okazaki",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/okazaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Okazaki City Hall",
+      "url": "https://www.city.okazaki.lg.jp/"
+     }
+    ],
+    "address": "Okazaki, Aichi 444-8601",
+    "phone": "0564-23-6000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Owariasahi",
+   "slug": "owariasahi",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/owariasahi/",
+   "official": {
+    "links": [
+     {
+      "label": "Owariasahi City Hall",
+      "url": "https://www.city.owariasahi.lg.jp/"
+     }
+    ],
+    "address": "Owariasahi, Aichi 488-8666",
+    "phone": "0561-53-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Seto",
+   "slug": "seto",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/seto/",
+   "official": {
+    "links": [
+     {
+      "label": "Seto City Hall",
+      "url": "http://www.city.seto.aichi.jp/"
+     }
+    ],
+    "address": "Seto, Aichi 489-8701",
+    "phone": "0561-82-7111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shinshiro",
+   "slug": "shinshiro",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/shinshiro/",
+   "official": {
+    "links": [
+     {
+      "label": "Shinshiro City Hall",
+      "url": "https://www.city.shinshiro.lg.jp/"
+     }
+    ],
+    "address": "Shinshiro, Aichi 441-1392",
+    "phone": "0536-23-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shitara",
+   "slug": "shitara",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/shitara/",
+   "official": {
+    "links": [
+     {
+      "label": "Shitara Town Hall",
+      "url": "https://www.town.shitara.lg.jp/"
+     }
+    ],
+    "address": "Shitara, Aichi 441-2301",
+    "phone": "0536-62-0511"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tahara",
+   "slug": "tahara",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/tahara/",
+   "official": {
+    "links": [
+     {
+      "label": "Tahara City Hall",
+      "url": "http://www.city.tahara.aichi.jp/"
+     }
+    ],
+    "address": "Tahara, Aichi 441-3492",
+    "phone": "0531-22-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Takahama",
+   "slug": "takahama",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/takahama/",
+   "official": {
+    "links": [
+     {
+      "label": "Takahama City Hall",
+      "url": "https://www.city.takahama.lg.jp/"
+     }
+    ],
+    "address": "Takahama, Aichi 444-1398",
+    "phone": "0566-52-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Taketoyo",
+   "slug": "taketoyo",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/taketoyo/",
+   "official": {
+    "links": [
+     {
+      "label": "Taketoyo Town Hall",
+      "url": "https://www.town.taketoyo.lg.jp/"
+     }
+    ],
+    "address": "Taketoyo, Aichi 470-2392",
+    "phone": "0569-72-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tobishima",
+   "slug": "tobishima",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/tobishima/",
+   "official": {
+    "links": [
+     {
+      "label": "Tobishima Village Hall",
+      "url": "https://www.vill.tobishima.aichi.jp/"
+     }
+    ],
+    "address": "Tobishima, Aichi 490-1436",
+    "phone": "0567-52-1231"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Toei",
+   "slug": "toei",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/toei/",
+   "official": {
+    "links": [
+     {
+      "label": "Toei Town Hall",
+      "url": "http://www.town.toei.aichi.jp/"
+     }
+    ],
+    "address": "Toei, Aichi 449-0292",
+    "phone": "0536-76-0501"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Togo",
+   "slug": "togo",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/togo/",
+   "official": {
+    "links": [
+     {
+      "label": "Togo Town Hall",
+      "url": "https://www.town.aichi-togo.lg.jp/"
+     }
+    ],
+    "address": "Togo, Aichi 470-0198",
+    "phone": "0561-38-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tokai",
+   "slug": "tokai",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/tokai/",
+   "official": {
+    "links": [
+     {
+      "label": "Tokai City Hall",
+      "url": "http://www.city.tokai.aichi.jp/"
+     }
+    ],
+    "address": "Tokai, Aichi 476-8601",
+    "phone": "052-603-2211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tokoname",
+   "slug": "tokoname",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/tokoname/",
+   "official": {
+    "links": [
+     {
+      "label": "Tokoname City Hall",
+      "url": "http://www.city.tokoname.aichi.jp/"
+     }
+    ],
+    "address": "Tokoname, Aichi 479-8610",
+    "phone": "0569-35-5111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Toyoake",
+   "slug": "toyoake",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/toyoake/",
+   "official": {
+    "links": [
+     {
+      "label": "Toyoake City Hall",
+      "url": "https://www.city.toyoake.lg.jp/"
+     }
+    ],
+    "address": "Toyoake, Aichi 470-1195",
+    "phone": "0562-92-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Toyohashi",
+   "slug": "toyohashi",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/toyohashi/",
+   "official": {
+    "links": [
+     {
+      "label": "Toyohashi City Hall",
+      "url": "https://www.city.toyohashi.lg.jp/"
+     }
+    ],
+    "address": "Toyohashi, Aichi 440-8501",
+    "phone": "0532-51-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Toyokawa",
+   "slug": "toyokawa",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/toyokawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Toyokawa City Hall",
+      "url": "https://www.city.toyokawa.lg.jp/"
+     }
+    ],
+    "address": "Toyokawa, Aichi 442-8601",
+    "phone": "0533-89-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Toyone",
+   "slug": "toyone",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/toyone/",
+   "official": {
+    "links": [
+     {
+      "label": "Toyone Village Hall",
+      "url": "http://www.vill.toyone.aichi.jp/"
+     }
+    ],
+    "address": "Toyone, Aichi 449-0403",
+    "phone": "0536-85-1311"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Toyota",
+   "slug": "toyota",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/toyota/",
+   "official": {
+    "links": [
+     {
+      "label": "Toyota City Hall",
+      "url": "https://www.city.toyota.aichi.jp/"
+     }
+    ],
+    "address": "Toyota, Aichi 471-8501",
+    "phone": "0565-31-1212"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Toyoyama",
+   "slug": "toyoyama",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/toyoyama/",
+   "official": {
+    "links": [
+     {
+      "label": "Toyoyama Town Hall",
+      "url": "https://www.town.toyoyama.lg.jp/"
+     }
+    ],
+    "address": "Toyoyama, Aichi 480-0292",
+    "phone": "0568-28-0001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tsushima",
+   "slug": "tsushima",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/tsushima/",
+   "official": {
+    "links": [
+     {
+      "label": "Tsushima City Hall",
+      "url": "https://www.city.tsushima.lg.jp/"
+     }
+    ],
+    "address": "Tsushima, Aichi 496-8686",
+    "phone": "0567-24-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yatomi",
+   "slug": "yatomi",
+   "prefecture": "aichi",
+   "url": "https://bokenjapan.com/aichi/yatomi/",
+   "official": {
+    "links": [
+     {
+      "label": "Yatomi City Hall",
+      "url": "https://www.city.yatomi.lg.jp/"
+     }
+    ],
+    "address": "Yatomi, Aichi 498-8501",
+    "phone": "0567-65-1111"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

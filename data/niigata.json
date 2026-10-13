@@ -1,0 +1,517 @@
+{
+ "prefecture": "Niigata",
+ "slug": "niigata",
+ "url": "https://bokenjapan.com/niigata/",
+ "towns": [
+  {
+   "name": "Aga",
+   "slug": "aga",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/aga/",
+   "official": {
+    "links": [
+     {
+      "label": "Aga Town Hall",
+      "url": "https://www.town.aga.niigata.jp/"
+     }
+    ],
+    "address": "Aga, Niigata 959-4495",
+    "phone": "0254-92-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Agano",
+   "slug": "agano",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/agano/",
+   "official": {
+    "links": [
+     {
+      "label": "Agano City Hall",
+      "url": "https://www.city.agano.niigata.jp/"
+     }
+    ],
+    "address": "Agano, Niigata 959-2092",
+    "phone": "0250-62-2510"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Awashimaura",
+   "slug": "awashimaura",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/awashimaura/",
+   "official": {
+    "links": [
+     {
+      "label": "Awashimaura Village Hall",
+      "url": "https://www.vill.awashimaura.lg.jp/"
+     }
+    ],
+    "address": "Awashimaura, Niigata 958-0061",
+    "phone": "0254-55-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Gosen",
+   "slug": "gosen",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/gosen/",
+   "official": {
+    "links": [
+     {
+      "label": "Gosen City Hall",
+      "url": "https://www.city.gosen.lg.jp/"
+     }
+    ],
+    "address": "Gosen, Niigata 959-1692",
+    "phone": "0250-43-3911"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Itoigawa",
+   "slug": "itoigawa",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/itoigawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Itoigawa City Hall",
+      "url": "https://www.city.itoigawa.lg.jp/"
+     }
+    ],
+    "address": "Itoigawa, Niigata 941-8501",
+    "phone": "025-552-1511"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Izumozaki",
+   "slug": "izumozaki",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/izumozaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Izumozaki Town Hall",
+      "url": "https://www.town.izumozaki.niigata.jp/"
+     }
+    ],
+    "address": "Izumozaki, Niigata 949-4392",
+    "phone": "0258-78-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Joetsu",
+   "slug": "joetsu",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/joetsu/",
+   "official": {
+    "links": [
+     {
+      "label": "Joetsu City Hall",
+      "url": "https://www.city.joetsu.niigata.jp/"
+     }
+    ],
+    "address": "Joetsu, Niigata 943-8601",
+    "phone": "025-526-5111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kamo",
+   "slug": "kamo",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/kamo/",
+   "official": {
+    "links": [
+     {
+      "label": "Kamo City Hall",
+      "url": "https://www.city.kamo.niigata.jp/"
+     }
+    ],
+    "address": "Kamo, Niigata 959-1392",
+    "phone": "0256-52-0080"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kariwa",
+   "slug": "kariwa",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/kariwa/",
+   "official": {
+    "links": [
+     {
+      "label": "Kariwa Village Hall",
+      "url": "https://www.vill.kariwa.niigata.jp/"
+     }
+    ],
+    "address": "Kariwa, Niigata 945-0397",
+    "phone": "0257-45-2244"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kashiwazaki",
+   "slug": "kashiwazaki",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/kashiwazaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Kashiwazaki City Hall",
+      "url": "https://www.city.kashiwazaki.lg.jp/"
+     }
+    ],
+    "address": "Kashiwazaki, Niigata 945-8511",
+    "phone": "0257-23-5111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minamiuonuma",
+   "slug": "minamiuonuma",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/minamiuonuma/",
+   "official": {
+    "links": [
+     {
+      "label": "Minamiuonuma City Hall",
+      "url": "https://www.city.minamiuonuma.niigata.jp/"
+     }
+    ],
+    "address": "Minamiuonuma, Niigata 949-6696",
+    "phone": "025-773-6660"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mitsuke",
+   "slug": "mitsuke",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/mitsuke/",
+   "official": {
+    "links": [
+     {
+      "label": "Mitsuke City Hall",
+      "url": "https://www.city.mitsuke.niigata.jp/"
+     }
+    ],
+    "address": "Mitsuke, Niigata 954-8686",
+    "phone": "0258-62-1700"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Murakami",
+   "slug": "murakami",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/murakami/",
+   "official": {
+    "links": [
+     {
+      "label": "Murakami City Hall",
+      "url": "https://www.city.murakami.lg.jp/"
+     }
+    ],
+    "address": "Murakami, Niigata 958-8501",
+    "phone": "0254-53-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Myoko",
+   "slug": "myoko",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/myoko/",
+   "official": {
+    "links": [
+     {
+      "label": "Myoko City Hall",
+      "url": "https://www.city.myoko.niigata.jp/"
+     }
+    ],
+    "address": "Myoko, Niigata 944-8686",
+    "phone": "0255-72-5111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nagaoka",
+   "slug": "nagaoka",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/nagaoka/",
+   "official": {
+    "links": [
+     {
+      "label": "Nagaoka City Hall",
+      "url": "https://www.city.nagaoka.niigata.jp/"
+     }
+    ],
+    "address": "Nagaoka, Niigata 940-8501",
+    "phone": "0258-35-1122"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Niigata",
+   "slug": "niigata",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/niigata/",
+   "official": {
+    "links": [
+     {
+      "label": "Niigata City Hall",
+      "url": "https://www.city.niigata.lg.jp/"
+     }
+    ],
+    "address": "Niigata 951-8550",
+    "phone": "025-228-1000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ojiya",
+   "slug": "ojiya",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/ojiya/",
+   "official": {
+    "links": [
+     {
+      "label": "Ojiya City Hall",
+      "url": "https://www.city.ojiya.niigata.jp/"
+     }
+    ],
+    "address": "Ojiya, Niigata 947-8501",
+    "phone": "0258-83-3511"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sado",
+   "slug": "sado",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/sado/",
+   "official": {
+    "links": [
+     {
+      "label": "Sado City Hall",
+      "url": "https://www.city.sado.niigata.jp/"
+     }
+    ],
+    "address": "Sado, Niigata 952-1292",
+    "phone": "0259-63-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sanjo",
+   "slug": "sanjo",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/sanjo/",
+   "official": {
+    "links": [
+     {
+      "label": "Sanjo City Hall",
+      "url": "https://www.city.sanjo.niigata.jp/"
+     }
+    ],
+    "address": "Sanjo, Niigata 955-8686",
+    "phone": "0256-34-5511"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Seiro",
+   "slug": "seiro",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/seiro/",
+   "official": {
+    "links": [
+     {
+      "label": "Seiro Town Hall",
+      "url": "https://www.town.seiro.niigata.jp/"
+     }
+    ],
+    "address": "Seiro, Niigata 957-0192",
+    "phone": "0254-27-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sekikawa",
+   "slug": "sekikawa",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/sekikawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Sekikawa Village Hall",
+      "url": "http://www.vill.sekikawa.niigata.jp/"
+     }
+    ],
+    "address": "Sekikawa, Niigata 959-3292",
+    "phone": "0254-64-1441"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shibata",
+   "slug": "shibata",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/shibata/",
+   "official": {
+    "links": [
+     {
+      "label": "Shibata City Hall",
+      "url": "https://www.city.shibata.lg.jp/"
+     }
+    ],
+    "address": "Shibata, Niigata 957-8686",
+    "phone": "0254-22-3030"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tagami",
+   "slug": "tagami",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/tagami/",
+   "official": {
+    "links": [
+     {
+      "label": "Tagami Town Hall",
+      "url": "https://www.town.tagami.niigata.jp/"
+     }
+    ],
+    "address": "Tagami, Niigata 959-1503",
+    "phone": "0256-57-6222"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tainai",
+   "slug": "tainai",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/tainai/",
+   "official": {
+    "links": [
+     {
+      "label": "Tainai City Hall",
+      "url": "https://www.city.tainai.niigata.jp/"
+     }
+    ],
+    "address": "Tainai, Niigata 959-2693",
+    "phone": "0254-43-6111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tokamachi",
+   "slug": "tokamachi",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/tokamachi/",
+   "official": {
+    "links": [
+     {
+      "label": "Tokamachi City Hall",
+      "url": "https://www.city.tokamachi.lg.jp/"
+     }
+    ],
+    "address": "Tokamachi, Niigata 948-8501",
+    "phone": "025-757-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tsubame",
+   "slug": "tsubame",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/tsubame/",
+   "official": {
+    "links": [
+     {
+      "label": "Tsubame City Hall",
+      "url": "https://www.city.tsubame.niigata.jp/"
+     }
+    ],
+    "address": "Tsubame, Niigata 959-0295",
+    "phone": "0256-92-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tsunan",
+   "slug": "tsunan",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/tsunan/",
+   "official": {
+    "links": [
+     {
+      "label": "Tsunan Town Hall",
+      "url": "https://www.town.tsunan.niigata.jp/"
+     }
+    ],
+    "address": "Tsunan, Niigata 949-8292",
+    "phone": "025-765-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Uonuma",
+   "slug": "uonuma",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/uonuma/",
+   "official": {
+    "links": [
+     {
+      "label": "Uonuma City Hall",
+      "url": "https://www.city.uonuma.lg.jp/"
+     }
+    ],
+    "address": "Uonuma, Niigata 946-8601",
+    "phone": "025-792-1000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yahiko",
+   "slug": "yahiko",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/yahiko/",
+   "official": {
+    "links": [
+     {
+      "label": "Yahiko Village Hall",
+      "url": "https://www.vill.yahiko.niigata.jp/"
+     }
+    ],
+    "address": "Yahiko, Niigata 959-0392",
+    "phone": "0256-94-3131"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yuzawa",
+   "slug": "yuzawa",
+   "prefecture": "niigata",
+   "url": "https://bokenjapan.com/niigata/yuzawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Yuzawa Town Hall",
+      "url": "https://www.town.yuzawa.lg.jp/"
+     }
+    ],
+    "address": "Yuzawa, Niigata 949-6192",
+    "phone": "025-784-3451"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

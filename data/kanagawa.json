@@ -1,0 +1,568 @@
+{
+ "prefecture": "Kanagawa",
+ "slug": "kanagawa",
+ "url": "https://bokenjapan.com/kanagawa/",
+ "towns": [
+  {
+   "name": "Aikawa",
+   "slug": "aikawa",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/aikawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Aikawa Town Hall",
+      "url": "https://www.town.aikawa.kanagawa.jp/"
+     }
+    ],
+    "address": "Aikawa, Kanagawa 243-0392",
+    "phone": "046-285-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Atsugi",
+   "slug": "atsugi",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/atsugi/",
+   "official": {
+    "links": [
+     {
+      "label": "Atsugi City Hall",
+      "url": "https://www.city.atsugi.kanagawa.jp/"
+     }
+    ],
+    "address": "Atsugi, Kanagawa 243-8511",
+    "phone": "046-223-1511"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ayase",
+   "slug": "ayase",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/ayase/",
+   "official": {
+    "links": [
+     {
+      "label": "Ayase City Hall",
+      "url": "https://www.city.ayase.kanagawa.jp/"
+     }
+    ],
+    "address": "Ayase, Kanagawa 252-1192",
+    "phone": "0467-77-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Chigasaki",
+   "slug": "chigasaki",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/chigasaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Chigasaki City Hall",
+      "url": "https://www.city.chigasaki.kanagawa.jp/"
+     }
+    ],
+    "address": "Chigasaki, Kanagawa 253-8686",
+    "phone": "0467-82-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ebina",
+   "slug": "ebina",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/ebina/",
+   "official": {
+    "links": [
+     {
+      "label": "Ebina City Hall",
+      "url": "https://www.city.ebina.kanagawa.jp"
+     }
+    ],
+    "address": "Ebina, Kanagawa 243-0492",
+    "phone": "046-231-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Fujisawa",
+   "slug": "fujisawa",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/fujisawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Fujisawa City Hall",
+      "url": "https://www.city.fujisawa.kanagawa.jp/"
+     }
+    ],
+    "address": "Fujisawa, Kanagawa 251-8601",
+    "phone": "0466-25-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hadano",
+   "slug": "hadano",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/hadano/",
+   "official": {
+    "links": [
+     {
+      "label": "Hadano City Hall",
+      "url": "https://www.city.hadano.kanagawa.jp/"
+     }
+    ],
+    "address": "Hadano, Kanagawa 257-8501",
+    "phone": "0463-82-5111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hakone",
+   "slug": "hakone",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/hakone/",
+   "official": {
+    "links": [
+     {
+      "label": "Hakone Town Hall",
+      "url": "https://www.town.hakone.kanagawa.jp/"
+     }
+    ],
+    "address": "Hakone, Kanagawa 250-0398",
+    "phone": "0460-85-7111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hayama",
+   "slug": "hayama",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/hayama/",
+   "official": {
+    "links": [
+     {
+      "label": "Hayama Town Hall",
+      "url": "https://www.town.hayama.lg.jp/"
+     }
+    ],
+    "address": "Hayama, Kanagawa 240-0192",
+    "phone": "046-876-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hiratsuka",
+   "slug": "hiratsuka",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/hiratsuka/",
+   "official": {
+    "links": [
+     {
+      "label": "Hiratsuka City Hall",
+      "url": "https://www.city.hiratsuka.kanagawa.jp/"
+     }
+    ],
+    "address": "Hiratsuka, Kanagawa 254-8686",
+    "phone": "0463-23-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Isehara",
+   "slug": "jis14214",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/jis14214/",
+   "official": {
+    "links": [
+     {
+      "label": "Isehara City Hall",
+      "url": "https://www.city.isehara.kanagawa.jp/"
+     }
+    ],
+    "address": "Isehara, Kanagawa 259-1188",
+    "phone": "0463-94-4711"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Samukawa",
+   "slug": "jis14321",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/jis14321/",
+   "official": {
+    "links": [
+     {
+      "label": "Samukawa Town Hall",
+      "url": "https://www.town.samukawa.kanagawa.jp/"
+     }
+    ],
+    "address": "Samukawa, Kanagawa 253-0196",
+    "phone": "0467-74-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yamakita",
+   "slug": "jis14364",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/jis14364/",
+   "official": {
+    "links": [
+     {
+      "label": "Yamakita Town Hall",
+      "url": "https://www.town.yamakita.kanagawa.jp/"
+     }
+    ],
+    "address": "Yamakita, Kanagawa 258-0195",
+    "phone": "0465-75-1122"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kaisei",
+   "slug": "kaisei",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/kaisei/",
+   "official": {
+    "links": [
+     {
+      "label": "Kaisei Town Hall",
+      "url": "https://www.town.kaisei.kanagawa.jp/"
+     }
+    ],
+    "address": "Kaisei, Kanagawa 258-8502",
+    "phone": "0465-83-2331"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kamakura",
+   "slug": "kamakura",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/kamakura/",
+   "official": {
+    "links": [
+     {
+      "label": "Kamakura City Hall",
+      "url": "https://www.city.kamakura.kanagawa.jp/"
+     }
+    ],
+    "address": "Kamakura, Kanagawa 248-8686",
+    "phone": "0467-23-3000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kawasakishi",
+   "slug": "kawasakishi",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/kawasakishi/",
+   "official": {
+    "links": [
+     {
+      "label": "Kawasakishi City Hall",
+      "url": "https://www.city.kawasaki.jp/"
+     }
+    ],
+    "address": "Kawasakishi, Kanagawa 210-8577",
+    "phone": "044-200-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kiyokawa",
+   "slug": "kiyokawa",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/kiyokawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Kiyokawa Village Hall",
+      "url": "https://www.town.kiyokawa.kanagawa.jp/"
+     }
+    ],
+    "address": "Kiyokawa, Kanagawa 243-0195",
+    "phone": "046-288-1211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Manazuru",
+   "slug": "manazuru",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/manazuru/",
+   "official": {
+    "links": [
+     {
+      "label": "Manazuru Town Hall",
+      "url": "https://www.town.manazuru.kanagawa.jp/"
+     }
+    ],
+    "address": "Manazuru, Kanagawa 259-0202",
+    "phone": "0465-68-1131"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Matsuda",
+   "slug": "matsuda",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/matsuda/",
+   "official": {
+    "links": [
+     {
+      "label": "Matsuda Town Hall",
+      "url": "https://town.matsuda.kanagawa.jp/"
+     }
+    ],
+    "address": "Matsuda, Kanagawa 258-8585",
+    "phone": "0465-83-1221"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minamiashigara",
+   "slug": "minamiashigara",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/minamiashigara/",
+   "official": {
+    "links": [
+     {
+      "label": "Minamiashigara City Hall",
+      "url": "https://www.city.minamiashigara.kanagawa.jp/"
+     }
+    ],
+    "address": "Minamiashigara, Kanagawa 250-0192",
+    "phone": "0465-74-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Miura",
+   "slug": "miura",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/miura/",
+   "official": {
+    "links": [
+     {
+      "label": "Miura City Hall",
+      "url": "https://www.city.miura.kanagawa.jp/"
+     }
+    ],
+    "address": "Miura, Kanagawa 238-0298",
+    "phone": "046-882-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nakai",
+   "slug": "nakai",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/nakai/",
+   "official": {
+    "links": [
+     {
+      "label": "Nakai Town Hall",
+      "url": "https://www.town.nakai.kanagawa.jp/"
+     }
+    ],
+    "address": "Nakai, Kanagawa 259-0197",
+    "phone": "0465-81-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ninomiya",
+   "slug": "ninomiya",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/ninomiya/",
+   "official": {
+    "links": [
+     {
+      "label": "Ninomiya Town Hall",
+      "url": "https://www.town.ninomiya.kanagawa.jp/"
+     }
+    ],
+    "address": "Ninomiya, Kanagawa 259-0196",
+    "phone": "0463-71-3311"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Odawara",
+   "slug": "odawara",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/odawara/",
+   "official": {
+    "links": [
+     {
+      "label": "Odawara City Hall",
+      "url": "https://www.city.odawara.kanagawa.jp/"
+     }
+    ],
+    "address": "Odawara, Kanagawa 250-8555",
+    "phone": "0465-33-1300"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Oimachi",
+   "slug": "oimachi",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/oimachi/",
+   "official": {
+    "links": [
+     {
+      "label": "Oimachi Town Hall",
+      "url": "https://www.town.oi.kanagawa.jp/"
+     }
+    ],
+    "address": "Oimachi, Kanagawa 258-8501",
+    "phone": "0465-83-1311"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Oiso",
+   "slug": "oiso",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/oiso/",
+   "official": {
+    "links": [
+     {
+      "label": "Oiso Town Hall",
+      "url": "https://www.town.oiso.kanagawa.jp/"
+     }
+    ],
+    "address": "Oiso, Kanagawa 255-8555",
+    "phone": "0463-61-4100"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sagamihara",
+   "slug": "sagamihara",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/sagamihara/",
+   "official": {
+    "links": [
+     {
+      "label": "Sagamihara City Hall",
+      "url": "https://www.city.sagamihara.kanagawa.jp/"
+     }
+    ],
+    "address": "Sagamihara, Kanagawa 252-5277",
+    "phone": "042-754-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yamatoshi",
+   "slug": "yamatoshi",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/yamatoshi/",
+   "official": {
+    "links": [
+     {
+      "label": "Yamatoshi City Hall",
+      "url": "https://www.city.yamato.lg.jp/"
+     }
+    ],
+    "address": "Yamatoshi, Kanagawa 242-8601",
+    "phone": "046-263-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yokohama",
+   "slug": "yokohama",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/yokohama/",
+   "official": {
+    "links": [
+     {
+      "label": "Yokohama City Hall",
+      "url": "https://www.city.yokohama.lg.jp/"
+     }
+    ],
+    "address": "Yokohama, Kanagawa 231-0005",
+    "phone": "045-671-2121"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yokosuka",
+   "slug": "yokosuka",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/yokosuka/",
+   "official": {
+    "links": [
+     {
+      "label": "Yokosuka City Hall",
+      "url": "https://www.city.yokosuka.kanagawa.jp/"
+     }
+    ],
+    "address": "Yokosuka, Kanagawa 238-8550",
+    "phone": "046-822-4000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yugawara",
+   "slug": "yugawara",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/yugawara/",
+   "official": {
+    "links": [
+     {
+      "label": "Yugawara Town Hall",
+      "url": "https://www.town.yugawara.kanagawa.jp/"
+     }
+    ],
+    "address": "Yugawara, Kanagawa 259-0392",
+    "phone": "0465-63-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Zama",
+   "slug": "zama",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/zama/",
+   "official": {
+    "links": [
+     {
+      "label": "Zama City Hall",
+      "url": "https://www.city.zama.kanagawa.jp/"
+     }
+    ],
+    "address": "Zama, Kanagawa 252-8566",
+    "phone": "046-255-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Zushi",
+   "slug": "zushi",
+   "prefecture": "kanagawa",
+   "url": "https://bokenjapan.com/kanagawa/zushi/",
+   "official": {
+    "links": [
+     {
+      "label": "Zushi City Hall",
+      "url": "https://www.city.zushi.kanagawa.jp/"
+     }
+    ],
+    "address": "Zushi, Kanagawa 249-8686",
+    "phone": "046-873-1111"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

@@ -1,0 +1,670 @@
+{
+ "prefecture": "Nara",
+ "slug": "nara",
+ "url": "https://bokenjapan.com/nara/",
+ "towns": [
+  {
+   "name": "Ando",
+   "slug": "ando",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/ando/",
+   "official": {
+    "links": [
+     {
+      "label": "Ando Town Hall",
+      "url": "http://www.town.ando.nara.jp/"
+     }
+    ],
+    "address": "Ando, Nara 639-1095",
+    "phone": "0743-57-1511"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Asuka",
+   "slug": "asuka",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/asuka/",
+   "official": {
+    "links": [
+     {
+      "label": "Asuka Village Hall",
+      "url": "https://asukamura.jp/"
+     }
+    ],
+    "address": "Asuka, Nara 634-0142",
+    "phone": "0744-54-2001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Gojo",
+   "slug": "gojo",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/gojo/",
+   "official": {
+    "links": [
+     {
+      "label": "Gojo City Hall",
+      "url": "http://www.city.gojo.lg.jp/"
+     }
+    ],
+    "address": "Gojo, Nara 637-8501",
+    "phone": "0747-22-4001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Gose",
+   "slug": "gose",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/gose/",
+   "official": {
+    "links": [
+     {
+      "label": "Gose City Hall",
+      "url": "http://www.city.gose.nara.jp/"
+     }
+    ],
+    "address": "Gose, Nara 639-2298",
+    "phone": "0745-62-3001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Heguri",
+   "slug": "heguri",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/heguri/",
+   "official": {
+    "links": [
+     {
+      "label": "Heguri Town Hall",
+      "url": "http://www.town.heguri.nara.jp/"
+     }
+    ],
+    "address": "Heguri, Nara 636-8585",
+    "phone": "0745-45-1001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Higashiyoshino",
+   "slug": "higashiyoshino",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/higashiyoshino/",
+   "official": {
+    "links": [
+     {
+      "label": "Higashiyoshino Village Hall",
+      "url": "http://www.vill.higashiyoshino.nara.jp/"
+     }
+    ],
+    "address": "Higashiyoshino, Nara 633-2492",
+    "phone": "0746-42-0441"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ikaruga",
+   "slug": "ikaruga",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/ikaruga/",
+   "official": {
+    "links": [
+     {
+      "label": "Ikaruga Town Hall",
+      "url": "http://www.town.ikaruga.nara.jp/"
+     }
+    ],
+    "address": "Ikaruga, Nara 636-0198",
+    "phone": "0745-74-1001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ikoma",
+   "slug": "ikoma",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/ikoma/",
+   "official": {
+    "links": [
+     {
+      "label": "Ikoma City Hall",
+      "url": "http://www.city.ikoma.lg.jp/"
+     }
+    ],
+    "address": "Ikoma, Nara 630-0288",
+    "phone": "0743-74-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kamikitayama",
+   "slug": "kamikitayama",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/kamikitayama/",
+   "official": {
+    "links": [
+     {
+      "label": "Kamikitayama Village Hall",
+      "url": "http://vill.kamikitayama.nara.jp/"
+     }
+    ],
+    "address": "Kamikitayama, Nara 639-3701",
+    "phone": "07468-2-0001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kanmaki",
+   "slug": "kanmaki",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/kanmaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Kanmaki Town Hall",
+      "url": "http://www.town.kanmaki.nara.jp/"
+     }
+    ],
+    "address": "Kanmaki, Nara 639-0293",
+    "phone": "0745-76-1001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kashiba",
+   "slug": "kashiba",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/kashiba/",
+   "official": {
+    "links": [
+     {
+      "label": "Kashiba City Hall",
+      "url": "http://www.city.kashiba.lg.jp/"
+     }
+    ],
+    "address": "Kashiba, Nara 639-0292",
+    "phone": "0745-76-2001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kashihara",
+   "slug": "kashihara",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/kashihara/",
+   "official": {
+    "links": [
+     {
+      "label": "Kashihara City Hall",
+      "url": "https://www.city.kashihara.nara.jp/"
+     }
+    ],
+    "address": "Kashihara, Nara 634-8586",
+    "phone": "0744-22-4001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Katsuragishi",
+   "slug": "katsuragishi",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/katsuragishi/",
+   "official": {
+    "links": [
+     {
+      "label": "Katsuragishi City Hall",
+      "url": "http://www.city.katsuragi.nara.jp/"
+     }
+    ],
+    "address": "Katsuragishi, Nara 639-2195",
+    "phone": "0745-69-3001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kawai",
+   "slug": "kawai",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/kawai/",
+   "official": {
+    "links": [
+     {
+      "label": "Kawai Town Hall",
+      "url": "http://www.town.kawai.nara.jp/"
+     }
+    ],
+    "address": "Kawai, Nara 636-8501",
+    "phone": "0745-57-0200"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kawakami",
+   "slug": "kawakami",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/kawakami/",
+   "official": {
+    "links": [
+     {
+      "label": "Kawakami Village Hall",
+      "url": "http://www.vill.kawakami.nara.jp/"
+     }
+    ],
+    "address": "Kawakami, Nara 639-3594",
+    "phone": "0746-52-0111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kawanishicho",
+   "slug": "kawanishicho",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/kawanishicho/",
+   "official": {
+    "links": [
+     {
+      "label": "Kawanishicho Town Hall",
+      "url": "http://www.town.nara-kawanishi.lg.jp/"
+     }
+    ],
+    "address": "Kawanishicho, Nara 636-0202",
+    "phone": "0745-44-2211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Koryo",
+   "slug": "koryo",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/koryo/",
+   "official": {
+    "links": [
+     {
+      "label": "Koryo Town Hall",
+      "url": "http://www.town.koryo.nara.jp/"
+     }
+    ],
+    "address": "Koryo, Nara 635-8515",
+    "phone": "0745-55-1001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kurotaki",
+   "slug": "kurotaki",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/kurotaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Kurotaki Village Hall",
+      "url": "http://www.vill.kurotaki.nara.jp/"
+     }
+    ],
+    "address": "Kurotaki, Nara 638-0292",
+    "phone": "0747-62-2031"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mitsue",
+   "slug": "mitsue",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/mitsue/",
+   "official": {
+    "links": [
+     {
+      "label": "Mitsue Village Hall",
+      "url": "http://www.vill.mitsue.nara.jp/"
+     }
+    ],
+    "address": "Mitsue, Nara 633-1302",
+    "phone": "0745-95-2001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Miyake",
+   "slug": "miyake",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/miyake/",
+   "official": {
+    "links": [
+     {
+      "label": "Miyake Town Hall",
+      "url": "https://www.town.miyake.lg.jp/"
+     }
+    ],
+    "address": "Miyake, Nara 636-0213",
+    "phone": "0745-44-2001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nara",
+   "slug": "nara",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/nara/",
+   "official": {
+    "links": [
+     {
+      "label": "Nara City Hall",
+      "url": "http://www.city.nara.lg.jp/"
+     }
+    ],
+    "address": "Nara 630-8580",
+    "phone": "0742-34-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nosegawa",
+   "slug": "nosegawa",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/nosegawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Nosegawa Village Hall",
+      "url": "http://www.vill.nosegawa.nara.jp/"
+     }
+    ],
+    "address": "Nosegawa, Nara 648-0392",
+    "phone": "0747-37-2101"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Oji",
+   "slug": "oji",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/oji/",
+   "official": {
+    "links": [
+     {
+      "label": "Oji Town Hall",
+      "url": "http://www.town.oji.nara.jp/"
+     }
+    ],
+    "address": "Oji, Nara 636-8511",
+    "phone": "0745-73-2001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Oyodo",
+   "slug": "oyodo",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/oyodo/",
+   "official": {
+    "links": [
+     {
+      "label": "Oyodo Town Hall",
+      "url": "https://www.town.oyodo.lg.jp/"
+     }
+    ],
+    "address": "Oyodo, Nara 638-8501",
+    "phone": "0747-52-5501"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sakurai",
+   "slug": "sakurai",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/sakurai/",
+   "official": {
+    "links": [
+     {
+      "label": "Sakurai City Hall",
+      "url": "http://www.city.sakurai.lg.jp/"
+     }
+    ],
+    "address": "Sakurai, Nara 633-8585",
+    "phone": "0744-42-9111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sango",
+   "slug": "sango",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/sango/",
+   "official": {
+    "links": [
+     {
+      "label": "Sango Town Hall",
+      "url": "http://www.town.sango.nara.jp/"
+     }
+    ],
+    "address": "Sango, Nara 636-8535",
+    "phone": "0745-73-2101"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shimoichi",
+   "slug": "shimoichi",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/shimoichi/",
+   "official": {
+    "links": [
+     {
+      "label": "Shimoichi Town Hall",
+      "url": "http://www.town.shimoichi.lg.jp/"
+     }
+    ],
+    "address": "Shimoichi, Nara 638-8510",
+    "phone": "0747-52-0001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shimokitayama",
+   "slug": "shimokitayama",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/shimokitayama/",
+   "official": {
+    "links": [
+     {
+      "label": "Shimokitayama Village Hall",
+      "url": "http://www.vill.shimokitayama.nara.jp/"
+     }
+    ],
+    "address": "Shimokitayama, Nara 639-3803",
+    "phone": "07468-6-0001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Soni",
+   "slug": "soni",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/soni/",
+   "official": {
+    "links": [
+     {
+      "label": "Soni Village Hall",
+      "url": "http://www.vill.soni.nara.jp/"
+     }
+    ],
+    "address": "Soni, Nara 633-1212",
+    "phone": "0745-94-2101"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Takatori",
+   "slug": "takatori",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/takatori/",
+   "official": {
+    "links": [
+     {
+      "label": "Takatori Town Hall",
+      "url": "http://www.town.takatori.nara.jp/"
+     }
+    ],
+    "address": "Takatori, Nara 635-0154",
+    "phone": "0744-52-3334"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tawaramoto",
+   "slug": "tawaramoto",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/tawaramoto/",
+   "official": {
+    "links": [
+     {
+      "label": "Tawaramoto Town Hall",
+      "url": "http://www.town.tawaramoto.nara.jp/"
+     }
+    ],
+    "address": "Tawaramoto, Nara 636-0392",
+    "phone": "0744-32-2901"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tenkawa",
+   "slug": "tenkawa",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/tenkawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Tenkawa Village Hall",
+      "url": "http://www.vill.tenkawa.nara.jp/"
+     }
+    ],
+    "address": "Tenkawa, Nara 638-0392",
+    "phone": "0747-63-0321"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tenri",
+   "slug": "tenri",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/tenri/",
+   "official": {
+    "links": [
+     {
+      "label": "Tenri City Hall",
+      "url": "http://www.city.tenri.nara.jp/"
+     }
+    ],
+    "address": "Tenri, Nara 632-8555",
+    "phone": "0743-63-1001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Totsukawa",
+   "slug": "totsukawa",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/totsukawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Totsukawa Village Hall",
+      "url": "http://www.vill.totsukawa.lg.jp/"
+     }
+    ],
+    "address": "Totsukawa, Nara 637-1333",
+    "phone": "0746-62-0001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Uda",
+   "slug": "uda",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/uda/",
+   "official": {
+    "links": [
+     {
+      "label": "Uda City Hall",
+      "url": "http://www.city.uda.nara.jp/"
+     }
+    ],
+    "address": "Uda, Nara 633-0292",
+    "phone": "0745-82-8000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yamatokoriyama",
+   "slug": "yamatokoriyama",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/yamatokoriyama/",
+   "official": {
+    "links": [
+     {
+      "label": "Yamatokoriyama City Hall",
+      "url": "http://www.city.yamatokoriyama.nara.jp/"
+     }
+    ],
+    "address": "Yamatokoriyama, Nara 639-1198",
+    "phone": "0743-53-1151"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yamatotakada",
+   "slug": "yamatotakada",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/yamatotakada/",
+   "official": {
+    "links": [
+     {
+      "label": "Yamatotakada City Hall",
+      "url": "http://www.city.yamatotakada.nara.jp/"
+     }
+    ],
+    "address": "Yamatotakada, Nara 635-8511",
+    "phone": "0745-22-1101"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yamazoe",
+   "slug": "yamazoe",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/yamazoe/",
+   "official": {
+    "links": [
+     {
+      "label": "Yamazoe Village Hall",
+      "url": "http://www.vill.yamazoe.nara.jp/"
+     }
+    ],
+    "address": "Yamazoe, Nara 630-2344",
+    "phone": "0743-85-0041"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yoshino",
+   "slug": "yoshino",
+   "prefecture": "nara",
+   "url": "https://bokenjapan.com/nara/yoshino/",
+   "official": {
+    "links": [
+     {
+      "label": "Yoshino Town Hall",
+      "url": "http://www.town.yoshino.nara.jp/"
+     }
+    ],
+    "address": "Yoshino, Nara 639-3192",
+    "phone": "0746-32-3081"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

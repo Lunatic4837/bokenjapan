@@ -1,0 +1,738 @@
+{
+ "prefecture": "Osaka",
+ "slug": "osaka",
+ "url": "https://bokenjapan.com/osaka/",
+ "towns": [
+  {
+   "name": "Chihayaakasaka",
+   "slug": "chihayaakasaka",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/chihayaakasaka/",
+   "official": {
+    "links": [
+     {
+      "label": "Chihayaakasaka Village Hall",
+      "url": "http://www.vill.chihayaakasaka.osaka.jp/"
+     }
+    ],
+    "address": "Chihayaakasaka, Osaka 585-8501",
+    "phone": "0721-72-0081"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Daito",
+   "slug": "daito",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/daito/",
+   "official": {
+    "links": [
+     {
+      "label": "Daito City Hall",
+      "url": "http://www.city.daito.lg.jp/"
+     }
+    ],
+    "address": "Daito, Osaka 574-8555",
+    "phone": "072-872-2181"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Fujiidera",
+   "slug": "fujiidera",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/fujiidera/",
+   "official": {
+    "links": [
+     {
+      "label": "Fujiidera City Hall",
+      "url": "http://www.city.fujiidera.lg.jp/"
+     }
+    ],
+    "address": "Fujiidera, Osaka 583-8583",
+    "phone": "072-939-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Habikino",
+   "slug": "habikino",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/habikino/",
+   "official": {
+    "links": [
+     {
+      "label": "Habikino City Hall",
+      "url": "http://www.city.habikino.lg.jp/"
+     }
+    ],
+    "address": "Habikino, Osaka 583-8585",
+    "phone": "072-958-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hannan",
+   "slug": "hannan",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/hannan/",
+   "official": {
+    "links": [
+     {
+      "label": "Hannan City Hall",
+      "url": "http://www.city.hannan.lg.jp/"
+     }
+    ],
+    "address": "Hannan, Osaka 599-0292",
+    "phone": "072-471-5678"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Higashiosaka",
+   "slug": "higashiosaka",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/higashiosaka/",
+   "official": {
+    "links": [
+     {
+      "label": "Higashiosaka City Hall",
+      "url": "http://www.city.higashiosaka.lg.jp/"
+     }
+    ],
+    "address": "Higashiosaka, Osaka 577-8521",
+    "phone": "06-4309-3000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hirakata",
+   "slug": "hirakata",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/hirakata/",
+   "official": {
+    "links": [
+     {
+      "label": "Hirakata City Hall",
+      "url": "https://www.city.hirakata.osaka.jp/"
+     }
+    ],
+    "address": "Hirakata, Osaka 573-8666",
+    "phone": "072-841-1221"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ibaraki",
+   "slug": "ibaraki",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/ibaraki/",
+   "official": {
+    "links": [
+     {
+      "label": "Ibaraki City Hall",
+      "url": "http://www.city.ibaraki.osaka.jp/"
+     }
+    ],
+    "address": "Ibaraki, Osaka 567-8505",
+    "phone": "072-622-8121"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ikeda",
+   "slug": "ikeda",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/ikeda/",
+   "official": {
+    "links": [
+     {
+      "label": "Ikeda City Hall",
+      "url": "http://www.city.ikeda.osaka.jp/"
+     }
+    ],
+    "address": "Ikeda, Osaka 563-8666",
+    "phone": "072-752-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Izumi",
+   "slug": "izumi",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/izumi/",
+   "official": {
+    "links": [
+     {
+      "label": "Izumi City Hall",
+      "url": "http://www.city.osaka-izumi.lg.jp/"
+     }
+    ],
+    "address": "Izumi, Osaka 594-8501",
+    "phone": "0725-41-1551"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Izumiotsu",
+   "slug": "izumiotsu",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/izumiotsu/",
+   "official": {
+    "links": [
+     {
+      "label": "Izumiotsu City Hall",
+      "url": "http://www.city.izumiotsu.lg.jp/"
+     }
+    ],
+    "address": "Izumiotsu, Osaka 595-8686",
+    "phone": "0725-33-1131"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Izumisano",
+   "slug": "izumisano",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/izumisano/",
+   "official": {
+    "links": [
+     {
+      "label": "Izumisano City Hall",
+      "url": "http://www.city.izumisano.lg.jp/"
+     }
+    ],
+    "address": "Izumisano, Osaka 598-8550",
+    "phone": "072-463-1212"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kadoma",
+   "slug": "kadoma",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/kadoma/",
+   "official": {
+    "links": [
+     {
+      "label": "Kadoma City Hall",
+      "url": "http://www.city.kadoma.osaka.jp/"
+     }
+    ],
+    "address": "Kadoma, Osaka 571-8585",
+    "phone": "06-6902-1231"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kaizuka",
+   "slug": "kaizuka",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/kaizuka/",
+   "official": {
+    "links": [
+     {
+      "label": "Kaizuka City Hall",
+      "url": "http://www.city.kaizuka.lg.jp/"
+     }
+    ],
+    "address": "Kaizuka, Osaka 597-8585",
+    "phone": "072-423-2151"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kanan",
+   "slug": "kanan",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/kanan/",
+   "official": {
+    "links": [
+     {
+      "label": "Kanan Town Hall",
+      "url": "http://www.town.kanan.osaka.jp/"
+     }
+    ],
+    "address": "Kanan, Osaka 585-8585",
+    "phone": "0721-93-2500"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kashiwara",
+   "slug": "kashiwara",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/kashiwara/",
+   "official": {
+    "links": [
+     {
+      "label": "Kashiwara City Hall",
+      "url": "http://www.city.kashiwara.osaka.jp/"
+     }
+    ],
+    "address": "Kashiwara, Osaka 582-8555",
+    "phone": "072-972-1501"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Katano",
+   "slug": "katano",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/katano/",
+   "official": {
+    "links": [
+     {
+      "label": "Katano City Hall",
+      "url": "http://www.city.katano.osaka.jp/"
+     }
+    ],
+    "address": "Katano, Osaka 576-8501",
+    "phone": "072-892-0121"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kawachinagano",
+   "slug": "kawachinagano",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/kawachinagano/",
+   "official": {
+    "links": [
+     {
+      "label": "Kawachinagano City Hall",
+      "url": "http://www.city.kawachinagano.lg.jp/"
+     }
+    ],
+    "address": "Kawachinagano, Osaka 586-8501",
+    "phone": "0721-53-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kishiwada",
+   "slug": "kishiwada",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/kishiwada/",
+   "official": {
+    "links": [
+     {
+      "label": "Kishiwada City Hall",
+      "url": "https://www.city.kishiwada.lg.jp/"
+     }
+    ],
+    "address": "Kishiwada, Osaka 596-8510",
+    "phone": "072-423-2121"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kumatori",
+   "slug": "kumatori",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/kumatori/",
+   "official": {
+    "links": [
+     {
+      "label": "Kumatori Town Hall",
+      "url": "http://www.town.kumatori.lg.jp/"
+     }
+    ],
+    "address": "Kumatori, Osaka 590-0495",
+    "phone": "072-452-1001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Matsubara",
+   "slug": "matsubara",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/matsubara/",
+   "official": {
+    "links": [
+     {
+      "label": "Matsubara City Hall",
+      "url": "https://www.city.matsubara.lg.jp/"
+     }
+    ],
+    "address": "Matsubara, Osaka 580-8501",
+    "phone": "072-334-1550"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minoh",
+   "slug": "minoh",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/minoh/",
+   "official": {
+    "links": [
+     {
+      "label": "Minoh City Hall",
+      "url": "http://www.city.minoh.lg.jp/"
+     }
+    ],
+    "address": "Minoh, Osaka 562-0003",
+    "phone": "072-723-2121"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Misakicho",
+   "slug": "misakicho",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/misakicho/",
+   "official": {
+    "links": [
+     {
+      "label": "Misakicho Town Hall",
+      "url": "http://www.town.misaki.osaka.jp/"
+     }
+    ],
+    "address": "Misakicho, Osaka 599-0392",
+    "phone": "072-492-2001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Moriguchi",
+   "slug": "moriguchi",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/moriguchi/",
+   "official": {
+    "links": [
+     {
+      "label": "Moriguchi City Hall",
+      "url": "http://www.city.moriguchi.osaka.jp/"
+     }
+    ],
+    "address": "Moriguchi, Osaka 570-8666",
+    "phone": "06-6992-1221"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Neyagawa",
+   "slug": "neyagawa",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/neyagawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Neyagawa City Hall",
+      "url": "http://www.city.neyagawa.osaka.jp/"
+     }
+    ],
+    "address": "Neyagawa, Osaka 572-8555",
+    "phone": "072-824-1181"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nose",
+   "slug": "nose",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/nose/",
+   "official": {
+    "links": [
+     {
+      "label": "Nose Town Hall",
+      "url": "http://www.town.nose.osaka.jp/"
+     }
+    ],
+    "address": "Nose, Osaka 563-0392",
+    "phone": "072-734-0001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Osaka",
+   "slug": "osaka",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/osaka/",
+   "official": {
+    "links": [
+     {
+      "label": "Osaka City Hall",
+      "url": "http://www.city.osaka.lg.jp/index.html"
+     }
+    ],
+    "address": "Osaka 530-8201",
+    "phone": "06-6208-8181"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Osakasayama",
+   "slug": "osakasayama",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/osakasayama/",
+   "official": {
+    "links": [
+     {
+      "label": "Osakasayama City Hall",
+      "url": "http://www.city.osakasayama.osaka.jp/"
+     }
+    ],
+    "address": "Osakasayama, Osaka 589-8501",
+    "phone": "072-366-0011"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sakai",
+   "slug": "sakai",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/sakai/",
+   "official": {
+    "links": [
+     {
+      "label": "Sakai City Hall",
+      "url": "http://www.city.sakai.lg.jp/"
+     }
+    ],
+    "address": "Sakai, Osaka 590-0078",
+    "phone": "072-233-1101"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sennan",
+   "slug": "sennan",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/sennan/",
+   "official": {
+    "links": [
+     {
+      "label": "Sennan City Hall",
+      "url": "https://www.city.sennan.lg.jp/"
+     }
+    ],
+    "address": "Sennan, Osaka 590-0592",
+    "phone": "072-483-0001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Settsu",
+   "slug": "settsu",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/settsu/",
+   "official": {
+    "links": [
+     {
+      "label": "Settsu City Hall",
+      "url": "http://www.city.settsu.osaka.jp/"
+     }
+    ],
+    "address": "Settsu, Osaka 566-8555",
+    "phone": "06-6383-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shijonawate",
+   "slug": "shijonawate",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/shijonawate/",
+   "official": {
+    "links": [
+     {
+      "label": "Shijonawate City Hall",
+      "url": "http://www.city.shijonawate.lg.jp/"
+     }
+    ],
+    "address": "Shijonawate, Osaka 575-8501",
+    "phone": "072-877-2121"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shimamoto",
+   "slug": "shimamoto",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/shimamoto/",
+   "official": {
+    "links": [
+     {
+      "label": "Shimamoto Town Hall",
+      "url": "https://www.town.shimamoto.lg.jp/"
+     }
+    ],
+    "address": "Shimamoto, Osaka 618-8570",
+    "phone": "075-961-5151"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Suita",
+   "slug": "suita",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/suita/",
+   "official": {
+    "links": [
+     {
+      "label": "Suita City Hall",
+      "url": "http://www.city.suita.osaka.jp/"
+     }
+    ],
+    "address": "Suita, Osaka 564-8550",
+    "phone": "06-6384-1231"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tadaoka",
+   "slug": "tadaoka",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/tadaoka/",
+   "official": {
+    "links": [
+     {
+      "label": "Tadaoka Town Hall",
+      "url": "http://www.town.tadaoka.osaka.jp/"
+     }
+    ],
+    "address": "Tadaoka, Osaka 595-0805",
+    "phone": "0725-22-1122"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Taishicho",
+   "slug": "taishicho",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/taishicho/",
+   "official": {
+    "links": [
+     {
+      "label": "Taishicho Town Hall",
+      "url": "http://www.town.taishi.osaka.jp/"
+     }
+    ],
+    "address": "Taishicho, Osaka 583-8580",
+    "phone": "0721-98-0300"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tajiri",
+   "slug": "tajiri",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/tajiri/",
+   "official": {
+    "links": [
+     {
+      "label": "Tajiri Town Hall",
+      "url": "http://www.town.tajiri.osaka.jp/"
+     }
+    ],
+    "address": "Tajiri, Osaka 598-8588",
+    "phone": "072-466-1000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Takaishi",
+   "slug": "takaishi",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/takaishi/",
+   "official": {
+    "links": [
+     {
+      "label": "Takaishi City Hall",
+      "url": "http://www.city.takaishi.lg.jp/"
+     }
+    ],
+    "address": "Takaishi, Osaka 592-8585",
+    "phone": "072-265-1001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Takatsuki",
+   "slug": "takatsuki",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/takatsuki/",
+   "official": {
+    "links": [
+     {
+      "label": "Takatsuki City Hall",
+      "url": "http://www.city.takatsuki.osaka.jp/"
+     }
+    ],
+    "address": "Takatsuki, Osaka 569-8501",
+    "phone": "072-674-7111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tondabayashi",
+   "slug": "tondabayashi",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/tondabayashi/",
+   "official": {
+    "links": [
+     {
+      "label": "Tondabayashi City Hall",
+      "url": "https://www.city.tondabayashi.lg.jp/"
+     }
+    ],
+    "address": "Tondabayashi, Osaka 584-8511",
+    "phone": "0721-25-1000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Toyonaka",
+   "slug": "toyonaka",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/toyonaka/",
+   "official": {
+    "links": [
+     {
+      "label": "Toyonaka City Hall",
+      "url": "http://www.city.toyonaka.osaka.jp/"
+     }
+    ],
+    "address": "Toyonaka, Osaka 561-8501",
+    "phone": "06-6858-2525"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Toyono",
+   "slug": "toyono",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/toyono/",
+   "official": {
+    "links": [
+     {
+      "label": "Toyono Town Hall",
+      "url": "http://www.town.toyono.osaka.jp/"
+     }
+    ],
+    "address": "Toyono, Osaka 563-0292",
+    "phone": "072-739-0001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yao",
+   "slug": "yao",
+   "prefecture": "osaka",
+   "url": "https://bokenjapan.com/osaka/yao/",
+   "official": {
+    "links": [
+     {
+      "label": "Yao City Hall",
+      "url": "http://www.city.yao.osaka.jp/"
+     }
+    ],
+    "address": "Yao, Osaka 581-0003",
+    "phone": "072-991-3881"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

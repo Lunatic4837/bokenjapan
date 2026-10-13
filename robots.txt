@@ -1,0 +1,78 @@
+# BokenJapan welcomes search engines and AI assistants.
+User-agent: *
+Allow: /
+Disallow: /go/
+
+User-agent: GPTBot
+Allow: /
+Disallow: /go/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /go/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /go/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /go/
+
+User-agent: Claude-User
+Allow: /
+Disallow: /go/
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /go/
+
+User-agent: anthropic-ai
+Allow: /
+Disallow: /go/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /go/
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /go/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /go/
+
+User-agent: Googlebot
+Allow: /
+Disallow: /go/
+
+User-agent: Applebot
+Allow: /
+Disallow: /go/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /go/
+
+User-agent: xAI-Bot
+Allow: /
+Disallow: /go/
+
+User-agent: GrokBot
+Allow: /
+Disallow: /go/
+
+User-agent: Grok
+Allow: /
+Disallow: /go/
+
+User-agent: CCBot
+Allow: /
+Disallow: /go/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /go/
+
+Sitemap: https://bokenjapan.com/sitemap.xml

@@ -1,0 +1,448 @@
+{
+ "prefecture": "Kyoto",
+ "slug": "kyoto",
+ "url": "https://bokenjapan.com/kyoto/",
+ "towns": [
+  {
+   "name": "Ayabe",
+   "slug": "ayabe",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/ayabe/",
+   "official": {
+    "links": [
+     {
+      "label": "Ayabe City Hall",
+      "url": "https://www.city.ayabe.lg.jp/"
+     }
+    ],
+    "address": "Ayabe, Kyoto 623-8501",
+    "phone": "0773-42-3280"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Fukuchiyama",
+   "slug": "fukuchiyama",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/fukuchiyama/",
+   "official": {
+    "links": [
+     {
+      "label": "Fukuchiyama City Hall",
+      "url": "https://www.city.fukuchiyama.lg.jp/"
+     }
+    ],
+    "address": "Fukuchiyama, Kyoto 620-8501",
+    "phone": "0773-22-6111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ide",
+   "slug": "ide",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/ide/",
+   "official": {
+    "links": [
+     {
+      "label": "Ide Town Hall",
+      "url": "https://www.town.ide.kyoto.jp/"
+     }
+    ],
+    "address": "Ide, Kyoto 610-0302",
+    "phone": "0774-82-2001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ine",
+   "slug": "ine",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/ine/",
+   "official": {
+    "links": [
+     {
+      "label": "Ine Town Hall",
+      "url": "https://www.town.ine.kyoto.jp/"
+     }
+    ],
+    "address": "Ine, Kyoto 626-0493",
+    "phone": "0772-32-0501"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Joyo",
+   "slug": "joyo",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/joyo/",
+   "official": {
+    "links": [
+     {
+      "label": "Joyo City Hall",
+      "url": "https://www.city.joyo.kyoto.jp/"
+     }
+    ],
+    "address": "Joyo, Kyoto 610-0195",
+    "phone": "0774-52-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kameoka",
+   "slug": "kameoka",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/kameoka/",
+   "official": {
+    "links": [
+     {
+      "label": "Kameoka City Hall",
+      "url": "https://www.city.kameoka.kyoto.jp/"
+     }
+    ],
+    "address": "Kameoka, Kyoto 621-8501",
+    "phone": "0771-22-3131"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kasagi",
+   "slug": "kasagi",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/kasagi/",
+   "official": {
+    "links": [
+     {
+      "label": "Kasagi Town Hall",
+      "url": "https://www.town.kasagi.lg.jp/"
+     }
+    ],
+    "address": "Kasagi, Kyoto 619-1303",
+    "phone": "0743-95-2301"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kizugawa",
+   "slug": "kizugawa",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/kizugawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Kizugawa City Hall",
+      "url": "https://www.city.kizugawa.lg.jp/"
+     }
+    ],
+    "address": "Kizugawa, Kyoto 619-0286",
+    "phone": "0774-72-0501"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kumiyama",
+   "slug": "kumiyama",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/kumiyama/",
+   "official": {
+    "links": [
+     {
+      "label": "Kumiyama Town Hall",
+      "url": "https://www.town.kumiyama.lg.jp/"
+     }
+    ],
+    "address": "Kumiyama, Kyoto 613-8585",
+    "phone": "075-631-6111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kyotamba",
+   "slug": "kyotamba",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/kyotamba/",
+   "official": {
+    "links": [
+     {
+      "label": "Kyotamba Town Hall",
+      "url": "https://www.town.kyotamba.kyoto.jp/"
+     }
+    ],
+    "address": "Kyotamba, Kyoto 622-0292",
+    "phone": "0771-82-0200"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kyotanabe",
+   "slug": "kyotanabe",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/kyotanabe/",
+   "official": {
+    "links": [
+     {
+      "label": "Kyotanabe City Hall",
+      "url": "https://www.city.kyotanabe.lg.jp/"
+     }
+    ],
+    "address": "Kyotanabe, Kyoto 610-0393",
+    "phone": "0774-63-1122"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kyotango",
+   "slug": "kyotango",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/kyotango/",
+   "official": {
+    "links": [
+     {
+      "label": "Kyotango City Hall",
+      "url": "https://www.city.kyotango.lg.jp/"
+     }
+    ],
+    "address": "Kyotango, Kyoto 627-8567",
+    "phone": "0772-69-0000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kyoto",
+   "slug": "kyoto",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/kyoto/",
+   "official": {
+    "links": [
+     {
+      "label": "Kyoto City Hall",
+      "url": "https://www.city.kyoto.lg.jp/"
+     }
+    ],
+    "address": "Kyoto 604-8571",
+    "phone": "075-222-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Maizuru",
+   "slug": "maizuru",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/maizuru/",
+   "official": {
+    "links": [
+     {
+      "label": "Maizuru City Hall",
+      "url": "https://www.city.maizuru.kyoto.jp/"
+     }
+    ],
+    "address": "Maizuru, Kyoto 625-8555",
+    "phone": "0773-62-2300"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minamiyamashiro",
+   "slug": "minamiyamashiro",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/minamiyamashiro/",
+   "official": {
+    "links": [
+     {
+      "label": "Minamiyamashiro Village Hall",
+      "url": "https://www.vill.minamiyamashiro.lg.jp/"
+     }
+    ],
+    "address": "Minamiyamashiro, Kyoto 619-1411"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Miyazu",
+   "slug": "miyazu",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/miyazu/",
+   "official": {
+    "links": [
+     {
+      "label": "Miyazu City Hall",
+      "url": "https://www.city.miyazu.kyoto.jp/"
+     }
+    ],
+    "address": "Miyazu, Kyoto 626-8501",
+    "phone": "0772-22-2121"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Muko",
+   "slug": "muko",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/muko/",
+   "official": {
+    "links": [
+     {
+      "label": "Muko City Hall",
+      "url": "https://www.city.muko.kyoto.jp/"
+     }
+    ],
+    "address": "Muko, Kyoto 617-8665",
+    "phone": "075-931-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nagaokakyo",
+   "slug": "nagaokakyo",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/nagaokakyo/",
+   "official": {
+    "links": [
+     {
+      "label": "Nagaokakyo City Hall",
+      "url": "https://www.city.nagaokakyo.lg.jp/"
+     }
+    ],
+    "address": "Nagaokakyo, Kyoto 617-8501",
+    "phone": "075-951-2121"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nantan",
+   "slug": "nantan",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/nantan/",
+   "official": {
+    "links": [
+     {
+      "label": "Nantan City Hall",
+      "url": "https://www.city.nantan.kyoto.jp/"
+     }
+    ],
+    "address": "Nantan, Kyoto 622-8651",
+    "phone": "0771-68-0001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Oyamazaki",
+   "slug": "oyamazaki",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/oyamazaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Oyamazaki Town Hall",
+      "url": "http://www.town.oyamazaki.kyoto.jp/"
+     }
+    ],
+    "address": "Oyamazaki, Kyoto 618-8501",
+    "phone": "075-956-2101"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Seika",
+   "slug": "seika",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/seika/",
+   "official": {
+    "links": [
+     {
+      "label": "Seika Town Hall",
+      "url": "https://www.town.seika.kyoto.jp/"
+     }
+    ],
+    "address": "Seika, Kyoto 619-0285",
+    "phone": "0774-94-2004"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Uji",
+   "slug": "uji",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/uji/",
+   "official": {
+    "links": [
+     {
+      "label": "Uji City Hall",
+      "url": "https://www.city.uji.kyoto.jp/"
+     }
+    ],
+    "address": "Uji, Kyoto 611-8501",
+    "phone": "0774-22-3141"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ujitawara",
+   "slug": "ujitawara",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/ujitawara/",
+   "official": {
+    "links": [
+     {
+      "label": "Ujitawara Town Hall",
+      "url": "https://www.town.ujitawara.kyoto.jp/"
+     }
+    ],
+    "address": "Ujitawara, Kyoto 610-0289",
+    "phone": "0774-88-2250"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Wazuka",
+   "slug": "wazuka",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/wazuka/",
+   "official": {
+    "links": [
+     {
+      "label": "Wazuka Town Hall",
+      "url": "https://www.town.wazuka.lg.jp/"
+     }
+    ],
+    "address": "Wazuka, Kyoto 619-1295",
+    "phone": "0774-78-2799"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yawata",
+   "slug": "yawata",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/yawata/",
+   "official": {
+    "links": [
+     {
+      "label": "Yawata City Hall",
+      "url": "https://www.city.yawata.kyoto.jp/"
+     }
+    ],
+    "address": "Yawata, Kyoto 614-8501",
+    "phone": "075-983-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yosano",
+   "slug": "yosano",
+   "prefecture": "kyoto",
+   "url": "https://bokenjapan.com/kyoto/yosano/",
+   "official": {
+    "links": [
+     {
+      "label": "Yosano Town Hall",
+      "url": "https://www.town.yosano.lg.jp/"
+     }
+    ],
+    "address": "Yosano, Kyoto 629-2292",
+    "phone": "0772-43-9000"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

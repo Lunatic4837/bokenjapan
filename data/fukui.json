@@ -1,0 +1,296 @@
+{
+ "prefecture": "Fukui",
+ "slug": "fukui",
+ "url": "https://bokenjapan.com/fukui/",
+ "towns": [
+  {
+   "name": "Awara",
+   "slug": "awara",
+   "prefecture": "fukui",
+   "url": "https://bokenjapan.com/fukui/awara/",
+   "official": {
+    "links": [
+     {
+      "label": "Awara City Hall",
+      "url": "https://www.city.awara.lg.jp/"
+     }
+    ],
+    "address": "Awara, Fukui 919-0692",
+    "phone": "0776-73-1221"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Echizen",
+   "slug": "echizen",
+   "prefecture": "fukui",
+   "url": "https://bokenjapan.com/fukui/echizen/",
+   "official": {
+    "links": [
+     {
+      "label": "Echizen City Hall",
+      "url": "https://www.city.echizen.lg.jp/"
+     }
+    ],
+    "address": "Echizen, Fukui 915-8530",
+    "phone": "0778-22-3000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Echizencho",
+   "slug": "echizencho",
+   "prefecture": "fukui",
+   "url": "https://bokenjapan.com/fukui/echizencho/",
+   "official": {
+    "links": [
+     {
+      "label": "Echizencho Town Hall",
+      "url": "https://www.town.echizen.fukui.jp/"
+     }
+    ],
+    "address": "Echizencho, Fukui 916-0192",
+    "phone": "0778-34-1234"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Eiheiji",
+   "slug": "eiheiji",
+   "prefecture": "fukui",
+   "url": "https://bokenjapan.com/fukui/eiheiji/",
+   "official": {
+    "links": [
+     {
+      "label": "Eiheiji Town Hall",
+      "url": "https://www.town.eiheiji.lg.jp/"
+     }
+    ],
+    "address": "Eiheiji, Fukui 910-1192",
+    "phone": "0776-61-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Fukui",
+   "slug": "fukui",
+   "prefecture": "fukui",
+   "url": "https://bokenjapan.com/fukui/fukui/",
+   "official": {
+    "links": [
+     {
+      "label": "Fukui City Hall",
+      "url": "https://www.city.fukui.lg.jp/"
+     }
+    ],
+    "address": "Fukui 910-8511",
+    "phone": "0776-20-5111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Fukuiikeda",
+   "slug": "fukuiikeda",
+   "prefecture": "fukui",
+   "url": "https://bokenjapan.com/fukui/fukuiikeda/",
+   "official": {
+    "links": [
+     {
+      "label": "Fukuiikeda Town Hall",
+      "url": "https://www.town.ikeda.fukui.jp/"
+     }
+    ],
+    "address": "Fukuiikeda, Fukui 910-2512",
+    "phone": "0778-44-6000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Fukuimihama",
+   "slug": "fukuimihama",
+   "prefecture": "fukui",
+   "url": "https://bokenjapan.com/fukui/fukuimihama/",
+   "official": {
+    "links": [
+     {
+      "label": "Fukuimihama Town Hall",
+      "url": "https://www.town.fukui-mihama.lg.jp/"
+     }
+    ],
+    "address": "Fukuimihama, Fukui 919-1192",
+    "phone": "0770-32-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Katsuyama",
+   "slug": "katsuyama",
+   "prefecture": "fukui",
+   "url": "https://bokenjapan.com/fukui/katsuyama/",
+   "official": {
+    "links": [
+     {
+      "label": "Katsuyama City Hall",
+      "url": "https://www.city.katsuyama.fukui.jp/"
+     }
+    ],
+    "address": "Katsuyama, Fukui 911-8501",
+    "phone": "0779-88-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minamiechizen",
+   "slug": "minamiechizen",
+   "prefecture": "fukui",
+   "url": "https://bokenjapan.com/fukui/minamiechizen/",
+   "official": {
+    "links": [
+     {
+      "label": "Minamiechizen Town Hall",
+      "url": "https://www.town.minamiechizen.lg.jp/"
+     }
+    ],
+    "address": "Minamiechizen, Fukui 919-0292",
+    "phone": "0778-47-3000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Obama",
+   "slug": "obama",
+   "prefecture": "fukui",
+   "url": "https://bokenjapan.com/fukui/obama/",
+   "official": {
+    "links": [
+     {
+      "label": "Obama City Hall",
+      "url": "https://www1.city.obama.fukui.jp/"
+     }
+    ],
+    "address": "Obama, Fukui 917-8585",
+    "phone": "0770-53-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Oi",
+   "slug": "oi",
+   "prefecture": "fukui",
+   "url": "https://bokenjapan.com/fukui/oi/",
+   "official": {
+    "links": [
+     {
+      "label": "Oi Town Hall",
+      "url": "https://www.town.ohi.fukui.jp/"
+     }
+    ],
+    "address": "Oi, Fukui 919-2111",
+    "phone": "0770-77-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Onoshi",
+   "slug": "onoshi",
+   "prefecture": "fukui",
+   "url": "https://bokenjapan.com/fukui/onoshi/",
+   "official": {
+    "links": [
+     {
+      "label": "Onoshi City Hall",
+      "url": "https://www.city.ono.fukui.jp/"
+     }
+    ],
+    "address": "Onoshi, Fukui 912-8666",
+    "phone": "0779-66-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sabae",
+   "slug": "sabae",
+   "prefecture": "fukui",
+   "url": "https://bokenjapan.com/fukui/sabae/",
+   "official": {
+    "links": [
+     {
+      "label": "Sabae City Hall",
+      "url": "https://www.city.sabae.fukui.jp/"
+     }
+    ],
+    "address": "Sabae, Fukui 916-8666",
+    "phone": "0778-51-2200"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sakaishi",
+   "slug": "sakaishi",
+   "prefecture": "fukui",
+   "url": "https://bokenjapan.com/fukui/sakaishi/",
+   "official": {
+    "links": [
+     {
+      "label": "Sakaishi City Hall",
+      "url": "https://www.city.fukui-sakai.lg.jp/"
+     }
+    ],
+    "address": "Sakaishi, Fukui 919-0592",
+    "phone": "0776-66-1500"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Takahamacho",
+   "slug": "takahamacho",
+   "prefecture": "fukui",
+   "url": "https://bokenjapan.com/fukui/takahamacho/",
+   "official": {
+    "links": [
+     {
+      "label": "Takahamacho Town Hall",
+      "url": "https://www.town.takahama.fukui.jp/"
+     }
+    ],
+    "address": "Takahamacho, Fukui 919-2292",
+    "phone": "0770-72-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tsuruga",
+   "slug": "tsuruga",
+   "prefecture": "fukui",
+   "url": "https://bokenjapan.com/fukui/tsuruga/",
+   "official": {
+    "links": [
+     {
+      "label": "Tsuruga City Hall",
+      "url": "https://www.city.tsuruga.lg.jp/"
+     }
+    ],
+    "address": "Tsuruga, Fukui 914-8501",
+    "phone": "0770-21-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Wakasacho",
+   "slug": "wakasacho",
+   "prefecture": "fukui",
+   "url": "https://bokenjapan.com/fukui/wakasacho/",
+   "official": {
+    "links": [
+     {
+      "label": "Wakasacho Town Hall",
+      "url": "https://www.town.fukui-wakasa.lg.jp/"
+     }
+    ],
+    "address": "Wakasacho, Fukui 919-1393",
+    "phone": "0770-45-1111"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

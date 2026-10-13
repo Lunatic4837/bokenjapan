@@ -1,0 +1,330 @@
+{
+ "prefecture": "Ishikawa",
+ "slug": "ishikawa",
+ "url": "https://bokenjapan.com/ishikawa/",
+ "towns": [
+  {
+   "name": "Anamizu",
+   "slug": "anamizu",
+   "prefecture": "ishikawa",
+   "url": "https://bokenjapan.com/ishikawa/anamizu/",
+   "official": {
+    "links": [
+     {
+      "label": "Anamizu Town Hall",
+      "url": "https://www.town.anamizu.lg.jp/"
+     }
+    ],
+    "address": "Anamizu, Ishikawa 927-8601",
+    "phone": "0768-52-0300"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hakui",
+   "slug": "hakui",
+   "prefecture": "ishikawa",
+   "url": "https://bokenjapan.com/ishikawa/hakui/",
+   "official": {
+    "links": [
+     {
+      "label": "Hakui City Hall",
+      "url": "https://www.city.hakui.lg.jp/"
+     }
+    ],
+    "address": "Hakui, Ishikawa 925-8501",
+    "phone": "0767-22-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hakusan",
+   "slug": "hakusan",
+   "prefecture": "ishikawa",
+   "url": "https://bokenjapan.com/ishikawa/hakusan/",
+   "official": {
+    "links": [
+     {
+      "label": "Hakusan City Hall",
+      "url": "https://www.city.hakusan.lg.jp/"
+     }
+    ],
+    "address": "Hakusan, Ishikawa 924-8688",
+    "phone": "076-276-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hodatsushimizu",
+   "slug": "hodatsushimizu",
+   "prefecture": "ishikawa",
+   "url": "https://bokenjapan.com/ishikawa/hodatsushimizu/",
+   "official": {
+    "links": [
+     {
+      "label": "Hodatsushimizu Town Hall",
+      "url": "https://www.hodatsushimizu.jp/"
+     }
+    ],
+    "address": "Hodatsushimizu, Ishikawa 929-1492",
+    "phone": "0767-29-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kaga",
+   "slug": "kaga",
+   "prefecture": "ishikawa",
+   "url": "https://bokenjapan.com/ishikawa/kaga/",
+   "official": {
+    "links": [
+     {
+      "label": "Kaga City Hall",
+      "url": "https://www.city.kaga.ishikawa.jp/"
+     }
+    ],
+    "address": "Kaga, Ishikawa 922-8622",
+    "phone": "0761-72-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kahoku",
+   "slug": "kahoku",
+   "prefecture": "ishikawa",
+   "url": "https://bokenjapan.com/ishikawa/kahoku/",
+   "official": {
+    "links": [
+     {
+      "label": "Kahoku City Hall",
+      "url": "https://www.city.kahoku.lg.jp/"
+     }
+    ],
+    "address": "Kahoku, Ishikawa 929-1195",
+    "phone": "076-283-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kanazawa",
+   "slug": "kanazawa",
+   "prefecture": "ishikawa",
+   "url": "https://bokenjapan.com/ishikawa/kanazawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Kanazawa City Hall",
+      "url": "https://www4.city.kanazawa.lg.jp/"
+     }
+    ],
+    "address": "Kanazawa, Ishikawa 920-8577",
+    "phone": "076-220-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kawakita",
+   "slug": "kawakita",
+   "prefecture": "ishikawa",
+   "url": "https://bokenjapan.com/ishikawa/kawakita/",
+   "official": {
+    "links": [
+     {
+      "label": "Kawakita Town Hall",
+      "url": "https://www.town.kawakita.ishikawa.jp/"
+     }
+    ],
+    "address": "Kawakita, Ishikawa 923-1295",
+    "phone": "076-277-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Komatsu",
+   "slug": "komatsu",
+   "prefecture": "ishikawa",
+   "url": "https://bokenjapan.com/ishikawa/komatsu/",
+   "official": {
+    "links": [
+     {
+      "label": "Komatsu City Hall",
+      "url": "https://www.city.komatsu.lg.jp/"
+     }
+    ],
+    "address": "Komatsu, Ishikawa 923-8650",
+    "phone": "0761-22-4111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nakanoto",
+   "slug": "nakanoto",
+   "prefecture": "ishikawa",
+   "url": "https://bokenjapan.com/ishikawa/nakanoto/",
+   "official": {
+    "links": [
+     {
+      "label": "Nakanoto Town Hall",
+      "url": "https://www.town.nakanoto.ishikawa.jp/"
+     }
+    ],
+    "address": "Nakanoto, Ishikawa 929-1792",
+    "phone": "0767-74-1234"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nanao",
+   "slug": "nanao",
+   "prefecture": "ishikawa",
+   "url": "https://bokenjapan.com/ishikawa/nanao/",
+   "official": {
+    "links": [
+     {
+      "label": "Nanao City Hall",
+      "url": "https://www.city.nanao.lg.jp/"
+     }
+    ],
+    "address": "Nanao, Ishikawa 926-8611",
+    "phone": "0767-53-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nomi",
+   "slug": "nomi",
+   "prefecture": "ishikawa",
+   "url": "https://bokenjapan.com/ishikawa/nomi/",
+   "official": {
+    "links": [
+     {
+      "label": "Nomi City Hall",
+      "url": "https://www.city.nomi.lg.jp/"
+     }
+    ],
+    "address": "Nomi, Ishikawa 923-1297",
+    "phone": "0761-58-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nonoichi",
+   "slug": "nonoichi",
+   "prefecture": "ishikawa",
+   "url": "https://bokenjapan.com/ishikawa/nonoichi/",
+   "official": {
+    "links": [
+     {
+      "label": "Nonoichi City Hall",
+      "url": "https://www.city.nonoichi.lg.jp/"
+     }
+    ],
+    "address": "Nonoichi, Ishikawa 921-8510",
+    "phone": "076-227-6000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Noto",
+   "slug": "noto",
+   "prefecture": "ishikawa",
+   "url": "https://bokenjapan.com/ishikawa/noto/",
+   "official": {
+    "links": [
+     {
+      "label": "Noto Town Hall",
+      "url": "https://www.town.noto.lg.jp/"
+     }
+    ],
+    "address": "Noto, Ishikawa 927-0492",
+    "phone": "0768-62-1000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shika",
+   "slug": "shika",
+   "prefecture": "ishikawa",
+   "url": "https://bokenjapan.com/ishikawa/shika/",
+   "official": {
+    "links": [
+     {
+      "label": "Shika Town Hall",
+      "url": "https://www.town.shika.lg.jp/"
+     }
+    ],
+    "address": "Shika, Ishikawa 925-0198",
+    "phone": "0767-32-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Suzu",
+   "slug": "suzu",
+   "prefecture": "ishikawa",
+   "url": "https://bokenjapan.com/ishikawa/suzu/",
+   "official": {
+    "links": [
+     {
+      "label": "Suzu City Hall",
+      "url": "https://www.city.suzu.lg.jp/"
+     }
+    ],
+    "address": "Suzu, Ishikawa 927-1295",
+    "phone": "0768-82-2222"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tsubata",
+   "slug": "tsubata",
+   "prefecture": "ishikawa",
+   "url": "https://bokenjapan.com/ishikawa/tsubata/",
+   "official": {
+    "links": [
+     {
+      "label": "Tsubata Town Hall",
+      "url": "https://www.town.tsubata.lg.jp/"
+     }
+    ],
+    "address": "Tsubata, Ishikawa 929-0393",
+    "phone": "076-288-2121"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Uchinada",
+   "slug": "uchinada",
+   "prefecture": "ishikawa",
+   "url": "https://bokenjapan.com/ishikawa/uchinada/",
+   "official": {
+    "links": [
+     {
+      "label": "Uchinada Town Hall",
+      "url": "https://www.town.uchinada.lg.jp/"
+     }
+    ],
+    "address": "Uchinada, Ishikawa 920-0292",
+    "phone": "076-286-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Wajima",
+   "slug": "wajima",
+   "prefecture": "ishikawa",
+   "url": "https://bokenjapan.com/ishikawa/wajima/",
+   "official": {
+    "links": [
+     {
+      "label": "Wajima City Hall",
+      "url": "https://www.city.wajima.ishikawa.jp/"
+     }
+    ],
+    "address": "Wajima, Ishikawa 928-8525",
+    "phone": "0768-22-2211"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

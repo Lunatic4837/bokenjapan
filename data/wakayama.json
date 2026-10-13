@@ -1,0 +1,517 @@
+{
+ "prefecture": "Wakayama",
+ "slug": "wakayama",
+ "url": "https://bokenjapan.com/wakayama/",
+ "towns": [
+  {
+   "name": "Arida",
+   "slug": "arida",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/arida/",
+   "official": {
+    "links": [
+     {
+      "label": "Arida City Hall",
+      "url": "https://www.city.arida.lg.jp/"
+     }
+    ],
+    "address": "Arida, Wakayama 649-0392",
+    "phone": "0737-83-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Aridagawa",
+   "slug": "aridagawa",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/aridagawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Aridagawa Town Hall",
+      "url": "https://www.town.aridagawa.lg.jp/"
+     }
+    ],
+    "address": "Aridagawa, Wakayama 643-0021",
+    "phone": "0737-52-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Gobo",
+   "slug": "gobo",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/gobo/",
+   "official": {
+    "links": [
+     {
+      "label": "Gobo City Hall",
+      "url": "https://www.city.gobo.lg.jp/"
+     }
+    ],
+    "address": "Gobo, Wakayama 644-8686",
+    "phone": "0738-22-4111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hashimoto",
+   "slug": "hashimoto",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/hashimoto/",
+   "official": {
+    "links": [
+     {
+      "label": "Hashimoto City Hall",
+      "url": "https://www.city.hashimoto.lg.jp/"
+     }
+    ],
+    "address": "Hashimoto, Wakayama 648-8585",
+    "phone": "0736-33-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hidakacho",
+   "slug": "hidakacho",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/hidakacho/",
+   "official": {
+    "links": [
+     {
+      "label": "Hidakacho Town Hall",
+      "url": "http://www.town.wakayama-hidaka.lg.jp/index.html"
+     }
+    ],
+    "address": "Hidakacho, Wakayama 649-1213",
+    "phone": "0738-63-2051"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hidakagawa",
+   "slug": "hidakagawa",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/hidakagawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Hidakagawa Town Hall",
+      "url": "https://www.town.hidakagawa.lg.jp/"
+     }
+    ],
+    "address": "Hidakagawa, Wakayama 649-1324",
+    "phone": "0738-22-1700"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hirogawa",
+   "slug": "hirogawa",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/hirogawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Hirogawa Town Hall",
+      "url": "https://www.town.hirogawa.wakayama.jp/"
+     }
+    ],
+    "address": "Hirogawa, Wakayama 643-0071",
+    "phone": "0737-63-1122"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Inamicho",
+   "slug": "inamicho",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/inamicho/",
+   "official": {
+    "links": [
+     {
+      "label": "Inamicho Town Hall",
+      "url": "https://www.town.wakayama-inami.lg.jp/"
+     }
+    ],
+    "address": "Inamicho, Wakayama 649-1534",
+    "phone": "0738-42-0120"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Iwade",
+   "slug": "iwade",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/iwade/",
+   "official": {
+    "links": [
+     {
+      "label": "Iwade City Hall",
+      "url": "https://www.city.iwade.lg.jp/"
+     }
+    ],
+    "address": "Iwade, Wakayama 649-6292",
+    "phone": "0736-62-2141"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kainan",
+   "slug": "kainan",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/kainan/",
+   "official": {
+    "links": [
+     {
+      "label": "Kainan City Hall",
+      "url": "https://www.city.kainan.lg.jp/"
+     }
+    ],
+    "address": "Kainan, Wakayama 642-8501",
+    "phone": "073-482-4111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kamitonda",
+   "slug": "kamitonda",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/kamitonda/",
+   "official": {
+    "links": [
+     {
+      "label": "Kamitonda Town Hall",
+      "url": "https://www.town.kamitonda.lg.jp/"
+     }
+    ],
+    "address": "Kamitonda, Wakayama 649-2192",
+    "phone": "0739-47-0550"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Katsuragi",
+   "slug": "katsuragi",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/katsuragi/",
+   "official": {
+    "links": [
+     {
+      "label": "Katsuragi Town Hall",
+      "url": "https://www.town.katsuragi.wakayama.jp/"
+     }
+    ],
+    "address": "Katsuragi, Wakayama 649-7192",
+    "phone": "0736-22-0300"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kimino",
+   "slug": "kimino",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/kimino/",
+   "official": {
+    "links": [
+     {
+      "label": "Kimino Town Hall",
+      "url": "https://www.town.kimino.wakayama.jp/"
+     }
+    ],
+    "address": "Kimino, Wakayama 640-1192",
+    "phone": "073-489-2430"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kinokawa",
+   "slug": "kinokawa",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/kinokawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Kinokawa City Hall",
+      "url": "https://www.city.kinokawa.lg.jp/"
+     }
+    ],
+    "address": "Kinokawa, Wakayama 649-6492",
+    "phone": "0736-77-2511"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kitayama",
+   "slug": "kitayama",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/kitayama/",
+   "official": {
+    "links": [
+     {
+      "label": "Kitayama Village Hall",
+      "url": "https://www.vill.kitayama.wakayama.jp/"
+     }
+    ],
+    "address": "Kitayama, Wakayama 647-1603",
+    "phone": "0735-49-2331"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Koya",
+   "slug": "koya",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/koya/",
+   "official": {
+    "links": [
+     {
+      "label": "Koya Town Hall",
+      "url": "https://www.town.koya.wakayama.jp/"
+     }
+    ],
+    "address": "Koya, Wakayama 648-0281",
+    "phone": "0736-56-3000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kozagawa",
+   "slug": "kozagawa",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/kozagawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Kozagawa Town Hall",
+      "url": "https://www.pref.wakayama.lg.jp/prefg/010600/02_gyosei/shichosonyakuba.html"
+     }
+    ],
+    "address": "Kozagawa, Wakayama 649-4104",
+    "phone": "0735-72-0180"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kudoyama",
+   "slug": "kudoyama",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/kudoyama/",
+   "official": {
+    "links": [
+     {
+      "label": "Kudoyama Town Hall",
+      "url": "https://www.town.kudoyama.lg.jp/"
+     }
+    ],
+    "address": "Kudoyama, Wakayama 648-0198",
+    "phone": "0736-54-2019"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kushimoto",
+   "slug": "kushimoto",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/kushimoto/",
+   "official": {
+    "links": [
+     {
+      "label": "Kushimoto Town Hall",
+      "url": "https://www.town.kushimoto.wakayama.jp/"
+     }
+    ],
+    "address": "Kushimoto, Wakayama 649-3592",
+    "phone": "0735-62-0555"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mihama",
+   "slug": "mihama",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/mihama/",
+   "official": {
+    "links": [
+     {
+      "label": "Mihama Town Hall",
+      "url": "http://www.town.wakayama-mihama.lg.jp/"
+     }
+    ],
+    "address": "Mihama, Wakayama 644-0044",
+    "phone": "0738-22-4123"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minabe",
+   "slug": "minabe",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/minabe/",
+   "official": {
+    "links": [
+     {
+      "label": "Minabe Town Hall",
+      "url": "https://www.town.minabe.lg.jp/"
+     }
+    ],
+    "address": "Minabe, Wakayama 645-0002",
+    "phone": "0739-72-2015"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nachikatsuura",
+   "slug": "nachikatsuura",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/nachikatsuura/",
+   "official": {
+    "links": [
+     {
+      "label": "Nachikatsuura Town Hall",
+      "url": "https://www.town.nachikatsuura.wakayama.jp/"
+     }
+    ],
+    "address": "Nachikatsuura, Wakayama 649-5392",
+    "phone": "0735-52-0555"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shingu",
+   "slug": "shingu",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/shingu/",
+   "official": {
+    "links": [
+     {
+      "label": "Shingu City Hall",
+      "url": "https://www.city.shingu.lg.jp/"
+     }
+    ],
+    "address": "Shingu, Wakayama 647-8555",
+    "phone": "0735-23-3333"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shirahama",
+   "slug": "shirahama",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/shirahama/",
+   "official": {
+    "links": [
+     {
+      "label": "Shirahama Town Hall",
+      "url": "https://www.town.shirahama.wakayama.jp/"
+     }
+    ],
+    "address": "Shirahama, Wakayama 649-2211",
+    "phone": "0739-43-5555"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Susami",
+   "slug": "susami",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/susami/",
+   "official": {
+    "links": [
+     {
+      "label": "Susami Town Hall",
+      "url": "https://www.town.susami.lg.jp/"
+     }
+    ],
+    "address": "Susami, Wakayama 649-2621",
+    "phone": "0739-55-2004"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Taiji",
+   "slug": "taiji",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/taiji/",
+   "official": {
+    "links": [
+     {
+      "label": "Taiji Town Hall",
+      "url": "https://www.town.taiji.wakayama.jp/"
+     }
+    ],
+    "address": "Taiji, Wakayama 649-5171",
+    "phone": "0735-59-2335"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tanabe",
+   "slug": "tanabe",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/tanabe/",
+   "official": {
+    "links": [
+     {
+      "label": "Tanabe City Hall",
+      "url": "https://www.city.tanabe.lg.jp/"
+     }
+    ],
+    "address": "Tanabe, Wakayama 646-8545",
+    "phone": "0739-22-5300"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Wakayama",
+   "slug": "wakayama",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/wakayama/",
+   "official": {
+    "links": [
+     {
+      "label": "Wakayama City Hall",
+      "url": "https://www.city.wakayama.wakayama.jp/"
+     }
+    ],
+    "address": "Wakayama 640-8511",
+    "phone": "073-432-0001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yuasa",
+   "slug": "yuasa",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/yuasa/",
+   "official": {
+    "links": [
+     {
+      "label": "Yuasa Town Hall",
+      "url": "https://www.town.yuasa.wakayama.jp/"
+     }
+    ],
+    "address": "Yuasa, Wakayama 643-0002",
+    "phone": "0737-63-2525"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yura",
+   "slug": "yura",
+   "prefecture": "wakayama",
+   "url": "https://bokenjapan.com/wakayama/yura/",
+   "official": {
+    "links": [
+     {
+      "label": "Yura Town Hall",
+      "url": "http://www.town.yura.wakayama.jp/"
+     }
+    ],
+    "address": "Yura, Wakayama 649-1111",
+    "phone": "0738-65-0200"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

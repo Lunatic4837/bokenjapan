@@ -1,0 +1,602 @@
+{
+ "prefecture": "Gunma",
+ "slug": "gunma",
+ "url": "https://bokenjapan.com/gunma/",
+ "towns": [
+  {
+   "name": "Annaka",
+   "slug": "annaka",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/annaka/",
+   "official": {
+    "links": [
+     {
+      "label": "Annaka City Hall",
+      "url": "https://www.city.annaka.lg.jp"
+     }
+    ],
+    "address": "Annaka, Gunma 379-0192",
+    "phone": "027-382-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Chiyodamachi",
+   "slug": "chiyodamachi",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/chiyodamachi/",
+   "official": {
+    "links": [
+     {
+      "label": "Chiyodamachi Town Hall",
+      "url": "http://www.town.chiyoda.gunma.jp/"
+     }
+    ],
+    "address": "Chiyodamachi, Gunma 370-0598",
+    "phone": "0276-86-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Fujioka",
+   "slug": "fujioka",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/fujioka/",
+   "official": {
+    "links": [
+     {
+      "label": "Fujioka City Hall",
+      "url": "http://www.city.fujioka.gunma.jp/"
+     }
+    ],
+    "address": "Fujioka, Gunma 375-8601",
+    "phone": "0274-22-1211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Higashiagatsuma",
+   "slug": "higashiagatsuma",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/higashiagatsuma/",
+   "official": {
+    "links": [
+     {
+      "label": "Higashiagatsuma Town Hall",
+      "url": "http://www.town.higashiagatsuma.gunma.jp/"
+     }
+    ],
+    "address": "Higashiagatsuma, Gunma 377-0892",
+    "phone": "0279-68-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Isesaki",
+   "slug": "isesaki",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/isesaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Isesaki City Hall",
+      "url": "http://www.city.isesaki.lg.jp/"
+     }
+    ],
+    "address": "Isesaki, Gunma 372-8501",
+    "phone": "0270-24-5111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Itakura",
+   "slug": "itakura",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/itakura/",
+   "official": {
+    "links": [
+     {
+      "label": "Itakura Town Hall",
+      "url": "http://www.town.itakura.gunma.jp/"
+     }
+    ],
+    "address": "Itakura, Gunma 374-0192",
+    "phone": "0276-82-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kanna",
+   "slug": "kanna",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/kanna/",
+   "official": {
+    "links": [
+     {
+      "label": "Kanna Town Hall",
+      "url": "http://www.town.kanna.gunma.jp/"
+     }
+    ],
+    "address": "Kanna, Gunma 370-1592",
+    "phone": "0274-57-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kanra",
+   "slug": "kanra",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/kanra/",
+   "official": {
+    "links": [
+     {
+      "label": "Kanra Town Hall",
+      "url": "http://www.town.kanra.gunma.jp/"
+     }
+    ],
+    "address": "Kanra, Gunma 370-2292",
+    "phone": "0274-74-3131"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Katashina",
+   "slug": "katashina",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/katashina/",
+   "official": {
+    "links": [
+     {
+      "label": "Katashina Village Hall",
+      "url": "http://www.vill.katashina.gunma.jp/"
+     }
+    ],
+    "address": "Katashina, Gunma 378-0498",
+    "phone": "0278-58-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kawaba",
+   "slug": "kawaba",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/kawaba/",
+   "official": {
+    "links": [
+     {
+      "label": "Kawaba Village Hall",
+      "url": "http://www.vill.kawaba.gunma.jp/"
+     }
+    ],
+    "address": "Kawaba, Gunma 378-0101",
+    "phone": "0278-52-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kiryu",
+   "slug": "kiryu",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/kiryu/",
+   "official": {
+    "links": [
+     {
+      "label": "Kiryu City Hall",
+      "url": "https://www.city.kiryu.lg.jp/"
+     }
+    ],
+    "address": "Kiryu, Gunma 376-8501",
+    "phone": "0277-46-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kusatsu",
+   "slug": "kusatsu-10426",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/kusatsu-10426/",
+   "official": {
+    "links": [
+     {
+      "label": "Kusatsu Town Hall",
+      "url": "http://www.town.kusatsu.gunma.jp/"
+     }
+    ],
+    "address": "Kusatsu, Gunma 377-1792",
+    "phone": "0279-88-0001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Maebashi",
+   "slug": "maebashi",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/maebashi/",
+   "official": {
+    "links": [
+     {
+      "label": "Maebashi City Hall",
+      "url": "http://www.city.maebashi.gunma.jp/"
+     }
+    ],
+    "address": "Maebashi, Gunma 371-8601",
+    "phone": "027-224-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Meiwamachi",
+   "slug": "meiwamachi",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/meiwamachi/",
+   "official": {
+    "links": [
+     {
+      "label": "Meiwamachi Town Hall",
+      "url": "http://www.town.meiwa.gunma.jp"
+     }
+    ],
+    "address": "Meiwamachi, Gunma 370-0795",
+    "phone": "0276-84-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Midorishi",
+   "slug": "midorishi",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/midorishi/",
+   "official": {
+    "links": [
+     {
+      "label": "Midorishi City Hall",
+      "url": "https://www.city.midori.gunma.jp/www/index.html"
+     }
+    ],
+    "address": "Midorishi, Gunma 379-2395",
+    "phone": "0277-76-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minakami",
+   "slug": "minakami",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/minakami/",
+   "official": {
+    "links": [
+     {
+      "label": "Minakami Town Hall",
+      "url": "http://www.town.minakami.gunma.jp/"
+     }
+    ],
+    "address": "Minakami, Gunma 379-1393",
+    "phone": "0278-62-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Naganohara",
+   "slug": "naganohara",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/naganohara/",
+   "official": {
+    "links": [
+     {
+      "label": "Naganohara Town Hall",
+      "url": "https://www.town.naganohara.gunma.jp/"
+     }
+    ],
+    "address": "Naganohara, Gunma 377-1392",
+    "phone": "0279-82-2244"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nakanojo",
+   "slug": "nakanojo",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/nakanojo/",
+   "official": {
+    "links": [
+     {
+      "label": "Nakanojo Town Hall",
+      "url": "http://www.town.nakanojo.gunma.jp/"
+     }
+    ],
+    "address": "Nakanojo, Gunma 377-0494",
+    "phone": "0279-75-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nanmoku",
+   "slug": "nanmoku",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/nanmoku/",
+   "official": {
+    "links": [
+     {
+      "label": "Nanmoku Village Hall",
+      "url": "http://www.nanmoku.ne.jp/"
+     }
+    ],
+    "address": "Nanmoku, Gunma 370-2806",
+    "phone": "0274-87-2011"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Numata",
+   "slug": "numata",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/numata/",
+   "official": {
+    "links": [
+     {
+      "label": "Numata City Hall",
+      "url": "http://www.city.numata.gunma.jp/"
+     }
+    ],
+    "address": "Numata, Gunma 378-8501",
+    "phone": "0278-23-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Oizumi",
+   "slug": "oizumi",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/oizumi/",
+   "official": {
+    "links": [
+     {
+      "label": "Oizumi Town Hall",
+      "url": "http://www.town.oizumi.gunma.jp/"
+     }
+    ],
+    "address": "Oizumi, Gunma 370-0595",
+    "phone": "0276-63-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ora",
+   "slug": "ora",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/ora/",
+   "official": {
+    "links": [
+     {
+      "label": "Ora Town Hall",
+      "url": "http://www.town.ora.gunma.jp/"
+     }
+    ],
+    "address": "Ora, Gunma 370-0692",
+    "phone": "0276-88-5511"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Otashi",
+   "slug": "otashi",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/otashi/",
+   "official": {
+    "links": [
+     {
+      "label": "Otashi City Hall",
+      "url": "http://www.city.ota.gunma.jp/"
+     }
+    ],
+    "address": "Otashi, Gunma 373-8718",
+    "phone": "0276-47-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shibukawa",
+   "slug": "shibukawa",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/shibukawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Shibukawa City Hall",
+      "url": "http://www.city.shibukawa.lg.jp/"
+     }
+    ],
+    "address": "Shibukawa, Gunma 377-8501",
+    "phone": "0279-22-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shimonita",
+   "slug": "shimonita",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/shimonita/",
+   "official": {
+    "links": [
+     {
+      "label": "Shimonita Town Hall",
+      "url": "http://www.town.shimonita.lg.jp/"
+     }
+    ],
+    "address": "Shimonita, Gunma 370-2601",
+    "phone": "0274-82-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shinto",
+   "slug": "shinto",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/shinto/",
+   "official": {
+    "links": [
+     {
+      "label": "Shinto Village Hall",
+      "url": "http://www.vill.shinto.gunma.jp/"
+     }
+    ],
+    "address": "Shinto, Gunma 370-3593",
+    "phone": "0279-54-2211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Showamura",
+   "slug": "showamura",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/showamura/",
+   "official": {
+    "links": [
+     {
+      "label": "Showamura Village Hall",
+      "url": "http://www.vill.showa.gunma.jp/"
+     }
+    ],
+    "address": "Showamura, Gunma 379-1298",
+    "phone": "0278-24-5111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Takasaki",
+   "slug": "takasaki",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/takasaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Takasaki City Hall",
+      "url": "http://www.city.takasaki.gunma.jp/"
+     }
+    ],
+    "address": "Takasaki, Gunma 370-8501",
+    "phone": "027-321-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Takayamamura",
+   "slug": "takayamamura-10428",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/takayamamura-10428/",
+   "official": {
+    "links": [
+     {
+      "label": "Takayamamura Village Hall",
+      "url": "http://vill.takayama.gunma.jp/"
+     }
+    ],
+    "address": "Takayamamura, Gunma 377-0792",
+    "phone": "0279-63-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tamamura",
+   "slug": "tamamura",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/tamamura/",
+   "official": {
+    "links": [
+     {
+      "label": "Tamamura Village Hall",
+      "url": "http://www.town.tamamura.lg.jp/"
+     }
+    ],
+    "address": "Tamamura, Gunma 370-1192",
+    "phone": "0270-65-2511"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tatebayashi",
+   "slug": "tatebayashi",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/tatebayashi/",
+   "official": {
+    "links": [
+     {
+      "label": "Tatebayashi City Hall",
+      "url": "http://www.city.tatebayashi.gunma.jp/"
+     }
+    ],
+    "address": "Tatebayashi, Gunma 374-8501",
+    "phone": "0276-72-4111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tomioka",
+   "slug": "tomioka",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/tomioka/",
+   "official": {
+    "links": [
+     {
+      "label": "Tomioka City Hall",
+      "url": "http://www.city.tomioka.lg.jp"
+     }
+    ],
+    "address": "Tomioka, Gunma 370-2392",
+    "phone": "0274-62-1511"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tsumagoi",
+   "slug": "tsumagoi",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/tsumagoi/",
+   "official": {
+    "links": [
+     {
+      "label": "Tsumagoi Village Hall",
+      "url": "http://www.vill.tsumagoi.gunma.jp/"
+     }
+    ],
+    "address": "Tsumagoi, Gunma 377-1692",
+    "phone": "0279-96-0511"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Uenomura",
+   "slug": "uenomura",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/uenomura/",
+   "official": {
+    "links": [
+     {
+      "label": "Uenomura Village Hall",
+      "url": "http://www.uenomura.jp/"
+     }
+    ],
+    "address": "Uenomura, Gunma 370-1614",
+    "phone": "0274-59-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yoshioka",
+   "slug": "yoshioka",
+   "prefecture": "gunma",
+   "url": "https://bokenjapan.com/gunma/yoshioka/",
+   "official": {
+    "links": [
+     {
+      "label": "Yoshioka Town Hall",
+      "url": "https://www.town.yoshioka.lg.jp/"
+     }
+    ],
+    "address": "Yoshioka, Gunma 370-3692",
+    "phone": "0279-54-3111"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

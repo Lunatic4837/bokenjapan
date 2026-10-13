@@ -1,0 +1,755 @@
+{
+ "prefecture": "Ibaraki",
+ "slug": "ibaraki",
+ "url": "https://bokenjapan.com/ibaraki/",
+ "towns": [
+  {
+   "name": "Amimachi",
+   "slug": "amimachi",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/amimachi/",
+   "official": {
+    "links": [
+     {
+      "label": "Amimachi Town Hall",
+      "url": "http://www.town.ami.lg.jp/"
+     }
+    ],
+    "address": "Amimachi, Ibaraki 300-0392",
+    "phone": "029-888-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Bando",
+   "slug": "bando",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/bando/",
+   "official": {
+    "links": [
+     {
+      "label": "Bando",
+      "url": "http://www.city.bando.lg.jp/"
+     }
+    ],
+    "address": "Bando, Ibaraki 306-0692",
+    "phone": "0297-35-2121"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Chikusei",
+   "slug": "chikusei",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/chikusei/",
+   "official": {
+    "links": [
+     {
+      "label": "Chikusei",
+      "url": "http://www.city.chikusei.lg.jp/"
+     }
+    ],
+    "address": "Chikusei, Ibaraki 308-8616",
+    "phone": "0296-24-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Daigomachi",
+   "slug": "daigomachi",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/daigomachi/",
+   "official": {
+    "links": [
+     {
+      "label": "Daigomachi Town Hall",
+      "url": "http://www.town.daigo.ibaraki.jp/"
+     }
+    ],
+    "address": "Daigomachi, Ibaraki 319-3521",
+    "phone": "0295-72-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Goka",
+   "slug": "goka",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/goka/",
+   "official": {
+    "links": [
+     {
+      "label": "Goka Town Hall",
+      "url": "http://www.town.goka.lg.jp/"
+     }
+    ],
+    "address": "Goka, Ibaraki 306-0392",
+    "phone": "0280-84-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hitachi",
+   "slug": "hitachi",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/hitachi/",
+   "official": {
+    "links": [
+     {
+      "label": "Hitachi",
+      "url": "http://www.city.hitachi.lg.jp/"
+     }
+    ],
+    "address": "Hitachi, Ibaraki 317-8601",
+    "phone": "0294-22-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hitachinaka",
+   "slug": "hitachinaka",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/hitachinaka/",
+   "official": {
+    "links": [
+     {
+      "label": "Hitachinaka",
+      "url": "http://www.city.hitachinaka.lg.jp/"
+     }
+    ],
+    "address": "Hitachinaka, Ibaraki 312-8501",
+    "phone": "029-273-0111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hitachiomiya",
+   "slug": "hitachiomiya",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/hitachiomiya/",
+   "official": {
+    "links": [
+     {
+      "label": "Hitachiomiya",
+      "url": "http://www.city.hitachiomiya.lg.jp/"
+     }
+    ],
+    "address": "Hitachiomiya, Ibaraki 319-2292",
+    "phone": "0295-52-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hitachiota",
+   "slug": "hitachiota",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/hitachiota/",
+   "official": {
+    "links": [
+     {
+      "label": "Hitachiota",
+      "url": "http://www.city.hitachiota.ibaraki.jp/"
+     }
+    ],
+    "address": "Hitachiota, Ibaraki 313-8611",
+    "phone": "0294-72-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hokota",
+   "slug": "hokota",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/hokota/",
+   "official": {
+    "links": [
+     {
+      "label": "Hokota",
+      "url": "http://www.city.hokota.lg.jp/"
+     }
+    ],
+    "address": "Hokota, Ibaraki 311-1592",
+    "phone": "0291-33-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ibarakimachi",
+   "slug": "ibarakimachi",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/ibarakimachi/",
+   "official": {
+    "links": [
+     {
+      "label": "Ibarakimachi Town Hall",
+      "url": "http://www.town.ibaraki.lg.jp/"
+     }
+    ],
+    "address": "Ibarakimachi, Ibaraki 311-3192",
+    "phone": "029-292-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Inashiki",
+   "slug": "inashiki",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/inashiki/",
+   "official": {
+    "links": [
+     {
+      "label": "Inashiki",
+      "url": "http://www.city.inashiki.lg.jp/"
+     }
+    ],
+    "address": "Inashiki, Ibaraki 300-0595",
+    "phone": "029-892-2000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ishioka",
+   "slug": "ishioka",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/ishioka/",
+   "official": {
+    "links": [
+     {
+      "label": "Ishioka",
+      "url": "http://www.city.ishioka.lg.jp/"
+     }
+    ],
+    "address": "Ishioka, Ibaraki 315-8640",
+    "phone": "0299-23-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Itako",
+   "slug": "itako",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/itako/",
+   "official": {
+    "links": [
+     {
+      "label": "Itako",
+      "url": "http://www.city.itako.lg.jp/"
+     }
+    ],
+    "address": "Itako, Ibaraki 311-2493",
+    "phone": "0299-63-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Joso",
+   "slug": "joso",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/joso/",
+   "official": {
+    "links": [
+     {
+      "label": "Joso",
+      "url": "http://www.city.joso.lg.jp/"
+     }
+    ],
+    "address": "Joso, Ibaraki 303-8501",
+    "phone": "0297-23-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kamisu",
+   "slug": "kamisu",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/kamisu/",
+   "official": {
+    "links": [
+     {
+      "label": "Kamisu",
+      "url": "http://www.city.kamisu.ibaraki.jp/"
+     }
+    ],
+    "address": "Kamisu, Ibaraki 314-0192",
+    "phone": "0299-90-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kasama",
+   "slug": "kasama",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/kasama/",
+   "official": {
+    "links": [
+     {
+      "label": "Kasama",
+      "url": "http://www.city.kasama.lg.jp/"
+     }
+    ],
+    "address": "Kasama, Ibaraki 309-1792",
+    "phone": "0296-77-1101"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kashimashi",
+   "slug": "kashimashi",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/kashimashi/",
+   "official": {
+    "links": [
+     {
+      "label": "Kashimashi",
+      "url": "http://www.city.kashima.ibaraki.jp/"
+     }
+    ],
+    "address": "Kashimashi, Ibaraki 314-8655",
+    "phone": "0299-82-2911"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kasumigaura",
+   "slug": "kasumigaura",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/kasumigaura/",
+   "official": {
+    "links": [
+     {
+      "label": "Kasumigaura",
+      "url": "https://www.city.kasumigaura.lg.jp/"
+     }
+    ],
+    "address": "Kasumigaura, Ibaraki 315-8512",
+    "phone": "0299-59-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kawachimachi",
+   "slug": "kawachimachi",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/kawachimachi/",
+   "official": {
+    "links": [
+     {
+      "label": "Kawachimachi Town Hall",
+      "url": "http://www.town.ibaraki-kawachi.lg.jp/"
+     }
+    ],
+    "address": "Kawachimachi, Ibaraki 300-1392",
+    "phone": "0297-84-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kitaibaraki",
+   "slug": "kitaibaraki",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/kitaibaraki/",
+   "official": {
+    "links": [
+     {
+      "label": "Kitaibaraki",
+      "url": "http://www.city.kitaibaraki.lg.jp/"
+     }
+    ],
+    "address": "Kitaibaraki, Ibaraki 319-1592",
+    "phone": "0293-43-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kogashi",
+   "slug": "kogashi",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/kogashi/",
+   "official": {
+    "links": [
+     {
+      "label": "Kogashi",
+      "url": "http://www.city.ibaraki-koga.lg.jp/"
+     }
+    ],
+    "address": "Kogashi, Ibaraki 306-0291",
+    "phone": "0280-92-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mihomura",
+   "slug": "mihomura",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/mihomura/",
+   "official": {
+    "links": [
+     {
+      "label": "Mihomura Village Hall",
+      "url": "http://www.vill.miho.lg.jp/"
+     }
+    ],
+    "address": "Mihomura, Ibaraki 300-0492",
+    "phone": "029-885-0340"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mito",
+   "slug": "mito",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/mito/",
+   "official": {
+    "links": [
+     {
+      "label": "Mito",
+      "url": "http://www.city.mito.lg.jp/"
+     }
+    ],
+    "address": "Mito, Ibaraki 310-8610",
+    "phone": "029-224-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Moriya",
+   "slug": "moriya",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/moriya/",
+   "official": {
+    "links": [
+     {
+      "label": "Moriya",
+      "url": "http://www.city.moriya.ibaraki.jp/"
+     }
+    ],
+    "address": "Moriya, Ibaraki 302-0198",
+    "phone": "0297-45-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nakashi",
+   "slug": "nakashi",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/nakashi/",
+   "official": {
+    "links": [
+     {
+      "label": "Nakashi",
+      "url": "http://www.city.naka.lg.jp/"
+     }
+    ],
+    "address": "Nakashi, Ibaraki 311-0192",
+    "phone": "029-298-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Namegata",
+   "slug": "namegata",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/namegata/",
+   "official": {
+    "links": [
+     {
+      "label": "Namegata",
+      "url": "http://www.city.namegata.ibaraki.jp/"
+     }
+    ],
+    "address": "Namegata, Ibaraki 311-3892",
+    "phone": "0299-72-0811"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Oarai",
+   "slug": "oarai",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/oarai/",
+   "official": {
+    "links": [
+     {
+      "label": "Oarai Town Hall",
+      "url": "http://www.town.oarai.lg.jp/"
+     }
+    ],
+    "address": "Oarai, Ibaraki 311-1392",
+    "phone": "029-267-5111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Omitama",
+   "slug": "omitama",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/omitama/",
+   "official": {
+    "links": [
+     {
+      "label": "Omitama",
+      "url": "http://www.city.omitama.lg.jp/"
+     }
+    ],
+    "address": "Omitama, Ibaraki 319-0192",
+    "phone": "0299-48-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ryugasaki",
+   "slug": "ryugasaki",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/ryugasaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Ryugasaki",
+      "url": "http://www.city.ryugasaki.ibaraki.jp/"
+     }
+    ],
+    "address": "Ryugasaki, Ibaraki 301-8611",
+    "phone": "0297-64-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sakaimachi",
+   "slug": "sakaimachi",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/sakaimachi/",
+   "official": {
+    "links": [
+     {
+      "label": "Sakaimachi Town Hall",
+      "url": "http://www.town.sakai.ibaraki.jp/"
+     }
+    ],
+    "address": "Sakaimachi, Ibaraki 306-0495",
+    "phone": "0280-81-1300"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sakuragawa",
+   "slug": "sakuragawa",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/sakuragawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Sakuragawa",
+      "url": "http://www.city.sakuragawa.lg.jp/"
+     }
+    ],
+    "address": "Sakuragawa, Ibaraki 309-1293",
+    "phone": "0296-58-5111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shimotsuma",
+   "slug": "shimotsuma",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/shimotsuma/",
+   "official": {
+    "links": [
+     {
+      "label": "Shimotsuma",
+      "url": "http://www.city.shimotsuma.lg.jp/"
+     }
+    ],
+    "address": "Shimotsuma, Ibaraki 304-8501",
+    "phone": "0296-43-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shirosato",
+   "slug": "shirosato",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/shirosato/",
+   "official": {
+    "links": [
+     {
+      "label": "Shirosato Town Hall",
+      "url": "http://www.town.shirosato.lg.jp/"
+     }
+    ],
+    "address": "Shirosato, Ibaraki 311-4391",
+    "phone": "029-288-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Takahagi",
+   "slug": "takahagi",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/takahagi/",
+   "official": {
+    "links": [
+     {
+      "label": "Takahagi",
+      "url": "https://www.city.takahagi.ibaraki.jp/"
+     }
+    ],
+    "address": "Takahagi, Ibaraki 318-8511",
+    "phone": "0293-23-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tokaimura",
+   "slug": "tokaimura",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/tokaimura/",
+   "official": {
+    "links": [
+     {
+      "label": "Tokaimura Village Hall",
+      "url": "http://www.vill.tokai.ibaraki.jp/index.html"
+     }
+    ],
+    "address": "Tokaimura, Ibaraki 319-1192",
+    "phone": "029-282-1711"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tonemachi",
+   "slug": "tonemachi",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/tonemachi/",
+   "official": {
+    "links": [
+     {
+      "label": "Tonemachi Town Hall",
+      "url": "http://www.town.tone.ibaraki.jp/"
+     }
+    ],
+    "address": "Tonemachi, Ibaraki 300-1696",
+    "phone": "0297-68-2211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Toride",
+   "slug": "toride",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/toride/",
+   "official": {
+    "links": [
+     {
+      "label": "Toride",
+      "url": "http://www.city.toride.ibaraki.jp/"
+     }
+    ],
+    "address": "Toride, Ibaraki 302-8585",
+    "phone": "0297-74-2141"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tsuchiura",
+   "slug": "tsuchiura",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/tsuchiura/",
+   "official": {
+    "links": [
+     {
+      "label": "Tsuchiura",
+      "url": "http://www.city.tsuchiura.lg.jp/"
+     }
+    ],
+    "address": "Tsuchiura, Ibaraki 300-8686",
+    "phone": "029-826-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tsukuba",
+   "slug": "tsukuba",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/tsukuba/",
+   "official": {
+    "links": [
+     {
+      "label": "Tsukuba",
+      "url": "http://www.city.tsukuba.lg.jp/"
+     }
+    ],
+    "address": "Tsukuba, Ibaraki 305-8555",
+    "phone": "029-883-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tsukubamirai",
+   "slug": "tsukubamirai",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/tsukubamirai/",
+   "official": {
+    "links": [
+     {
+      "label": "Tsukubamirai",
+      "url": "http://www.city.tsukubamirai.lg.jp/"
+     }
+    ],
+    "address": "Tsukubamirai, Ibaraki 300-2395",
+    "phone": "0297-58-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ushiku",
+   "slug": "ushiku",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/ushiku/",
+   "official": {
+    "links": [
+     {
+      "label": "Ushiku",
+      "url": "http://www.city.ushiku.lg.jp/"
+     }
+    ],
+    "address": "Ushiku, Ibaraki 300-1292",
+    "phone": "029-873-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yachiyomachi",
+   "slug": "yachiyomachi",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/yachiyomachi/",
+   "official": {
+    "links": [
+     {
+      "label": "Yachiyomachi Town Hall",
+      "url": "http://www.town.ibaraki-yachiyo.lg.jp/"
+     }
+    ],
+    "address": "Yachiyomachi, Ibaraki 300-3592",
+    "phone": "0296-48-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yuki",
+   "slug": "yuki",
+   "prefecture": "ibaraki",
+   "url": "https://bokenjapan.com/ibaraki/yuki/",
+   "official": {
+    "links": [
+     {
+      "label": "Yuki",
+      "url": "http://www.city.yuki.lg.jp/"
+     }
+    ],
+    "address": "Yuki, Ibaraki 307-8501",
+    "phone": "0296-32-1111"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

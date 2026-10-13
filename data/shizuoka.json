@@ -1,0 +1,602 @@
+{
+ "prefecture": "Shizuoka",
+ "slug": "shizuoka",
+ "url": "https://bokenjapan.com/shizuoka/",
+ "towns": [
+  {
+   "name": "Atami",
+   "slug": "atami",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/atami/",
+   "official": {
+    "links": [
+     {
+      "label": "Atami City Hall",
+      "url": "https://www.city.atami.lg.jp//"
+     }
+    ],
+    "address": "Atami, Shizuoka 413-8550",
+    "phone": "0557-86-6000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Fuji",
+   "slug": "fuji",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/fuji/",
+   "official": {
+    "links": [
+     {
+      "label": "Fuji City Hall",
+      "url": "http://www.city.fuji.shizuoka.jp/"
+     }
+    ],
+    "address": "Fuji, Shizuoka 417-8601",
+    "phone": "0545-51-0123"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Fujieda",
+   "slug": "fujieda",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/fujieda/",
+   "official": {
+    "links": [
+     {
+      "label": "Fujieda City Hall",
+      "url": "http://www.city.fujieda.shizuoka.jp/"
+     }
+    ],
+    "address": "Fujieda, Shizuoka 426-8722",
+    "phone": "054-643-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Fujinomiya",
+   "slug": "fujinomiya",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/fujinomiya/",
+   "official": {
+    "links": [
+     {
+      "label": "Fujinomiya City Hall",
+      "url": "http://www.city.fujinomiya.lg.jp/"
+     }
+    ],
+    "address": "Fujinomiya, Shizuoka 418-8601",
+    "phone": "0544-22-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Fukuroi",
+   "slug": "fukuroi",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/fukuroi/",
+   "official": {
+    "links": [
+     {
+      "label": "Fukuroi City Hall",
+      "url": "http://www.city.fukuroi.shizuoka.jp/"
+     }
+    ],
+    "address": "Fukuroi, Shizuoka 437-8666",
+    "phone": "0538-43-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Gotenba",
+   "slug": "gotenba",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/gotenba/",
+   "official": {
+    "links": [
+     {
+      "label": "Gotenba City Hall",
+      "url": "https://www.city.gotemba.lg.jp/"
+     }
+    ],
+    "address": "Gotenba, Shizuoka 412-8601",
+    "phone": "0550-83-1212"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hamamatsu",
+   "slug": "hamamatsu",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/hamamatsu/",
+   "official": {
+    "links": [
+     {
+      "label": "Hamamatsu City Hall",
+      "url": "https://www.city.hamamatsu.shizuoka.jp/"
+     }
+    ],
+    "address": "Hamamatsu, Shizuoka 430-8652",
+    "phone": "053-457-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Higashiizu",
+   "slug": "higashiizu",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/higashiizu/",
+   "official": {
+    "links": [
+     {
+      "label": "Higashiizu Town Hall",
+      "url": "https://www.town.higashiizu.lg.jp/"
+     }
+    ],
+    "address": "Higashiizu, Shizuoka 413-0411",
+    "phone": "0557-95-1100"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ito",
+   "slug": "ito",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/ito/",
+   "official": {
+    "links": [
+     {
+      "label": "Ito City Hall",
+      "url": "http://www.city.ito.shizuoka.jp/"
+     }
+    ],
+    "address": "Ito, Shizuoka 414-8555",
+    "phone": "0557-36-0111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Iwata",
+   "slug": "iwata",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/iwata/",
+   "official": {
+    "links": [
+     {
+      "label": "Iwata City Hall",
+      "url": "http://www.city.iwata.shizuoka.jp/"
+     }
+    ],
+    "address": "Iwata, Shizuoka 438-8650",
+    "phone": "0538-37-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Izu",
+   "slug": "izu",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/izu/",
+   "official": {
+    "links": [
+     {
+      "label": "Izu City Hall",
+      "url": "http://www.city.izu.shizuoka.jp/"
+     }
+    ],
+    "address": "Izu, Shizuoka 410-2413",
+    "phone": "0558-72-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Izunokuni",
+   "slug": "izunokuni",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/izunokuni/",
+   "official": {
+    "links": [
+     {
+      "label": "Izunokuni City Hall",
+      "url": "http://www.city.izunokuni.shizuoka.jp/"
+     }
+    ],
+    "address": "Izunokuni, Shizuoka 410-2292",
+    "phone": "055-948-1411"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kakegawa",
+   "slug": "kakegawa",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/kakegawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Kakegawa City Hall",
+      "url": "http://www.city.kakegawa.shizuoka.jp/"
+     }
+    ],
+    "address": "Kakegawa, Shizuoka 436-8650",
+    "phone": "0537-21-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kannami",
+   "slug": "kannami",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/kannami/",
+   "official": {
+    "links": [
+     {
+      "label": "Kannami Town Hall",
+      "url": "http://www.town.kannami.shizuoka.jp/"
+     }
+    ],
+    "address": "Kannami, Shizuoka 419-0192",
+    "phone": "055-978-2250"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kawanehon",
+   "slug": "kawanehon",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/kawanehon/",
+   "official": {
+    "links": [
+     {
+      "label": "Kawanehon Town Hall",
+      "url": "http://www.town.kawanehon.shizuoka.jp/"
+     }
+    ],
+    "address": "Kawanehon, Shizuoka 428-0313",
+    "phone": "0547-56-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kawazu",
+   "slug": "kawazu",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/kawazu/",
+   "official": {
+    "links": [
+     {
+      "label": "Kawazu Town Hall",
+      "url": "http://www.town.kawazu.shizuoka.jp/"
+     }
+    ],
+    "address": "Kawazu, Shizuoka 413-0595",
+    "phone": "0558-34-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kikugawa",
+   "slug": "kikugawa",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/kikugawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Kikugawa City Hall",
+      "url": "http://www.city.kikugawa.shizuoka.jp/"
+     }
+    ],
+    "address": "Kikugawa, Shizuoka 439-8650",
+    "phone": "0537-35-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kosai",
+   "slug": "kosai",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/kosai/",
+   "official": {
+    "links": [
+     {
+      "label": "Kosai City Hall",
+      "url": "http://www.city.kosai.shizuoka.jp/"
+     }
+    ],
+    "address": "Kosai, Shizuoka 431-0492",
+    "phone": "053-576-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Makinohara",
+   "slug": "makinohara",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/makinohara/",
+   "official": {
+    "links": [
+     {
+      "label": "Makinohara City Hall",
+      "url": "http://www.city.makinohara.shizuoka.jp/"
+     }
+    ],
+    "address": "Makinohara, Shizuoka 421-0495",
+    "phone": "0548-23-0001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Matsuzaki",
+   "slug": "matsuzaki",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/matsuzaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Matsuzaki Town Hall",
+      "url": "http://www.town.matsuzaki.shizuoka.jp/"
+     }
+    ],
+    "address": "Matsuzaki, Shizuoka 410-3696",
+    "phone": "0558-42-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minamiizu",
+   "slug": "minamiizu",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/minamiizu/",
+   "official": {
+    "links": [
+     {
+      "label": "Minamiizu Town Hall",
+      "url": "http://www.town.minamiizu.shizuoka.jp/"
+     }
+    ],
+    "address": "Minamiizu, Shizuoka 415-0392",
+    "phone": "0558-62-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mishimashi",
+   "slug": "mishimashi",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/mishimashi/",
+   "official": {
+    "links": [
+     {
+      "label": "Mishimashi City Hall",
+      "url": "https://www.city.mishima.shizuoka.jp/"
+     }
+    ],
+    "address": "Mishimashi, Shizuoka 411-8666",
+    "phone": "055-975-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Moricho",
+   "slug": "moricho",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/moricho/",
+   "official": {
+    "links": [
+     {
+      "label": "Moricho Town Hall",
+      "url": "http://www.town.morimachi.shizuoka.jp/"
+     }
+    ],
+    "address": "Moricho, Shizuoka 437-0293",
+    "phone": "0538-85-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nagaizumi",
+   "slug": "nagaizumi",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/nagaizumi/",
+   "official": {
+    "links": [
+     {
+      "label": "Nagaizumi Town Hall",
+      "url": "http://www.town.nagaizumi.lg.jp/"
+     }
+    ],
+    "address": "Nagaizumi, Shizuoka 411-8668",
+    "phone": "055-986-2131"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nishiizu",
+   "slug": "nishiizu",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/nishiizu/",
+   "official": {
+    "links": [
+     {
+      "label": "Nishiizu Town Hall",
+      "url": "http://www.town.nishiizu.shizuoka.jp/"
+     }
+    ],
+    "address": "Nishiizu, Shizuoka 410-3514",
+    "phone": "0558-52-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Numazu",
+   "slug": "numazu",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/numazu/",
+   "official": {
+    "links": [
+     {
+      "label": "Numazu City Hall",
+      "url": "http://www.city.numazu.shizuoka.jp/"
+     }
+    ],
+    "address": "Numazu, Shizuoka 410-8601",
+    "phone": "055-931-2500"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Omaezaki",
+   "slug": "omaezaki",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/omaezaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Omaezaki City Hall",
+      "url": "http://www.city.omaezaki.shizuoka.jp/"
+     }
+    ],
+    "address": "Omaezaki, Shizuoka 437-1692",
+    "phone": "0537-85-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Oyamacho",
+   "slug": "oyamacho",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/oyamacho/",
+   "official": {
+    "links": [
+     {
+      "label": "Oyamacho Town Hall",
+      "url": "http://www.fuji-oyama.jp/"
+     }
+    ],
+    "address": "Oyamacho, Shizuoka 410-1395",
+    "phone": "0550-76-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shimada",
+   "slug": "shimada",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/shimada/",
+   "official": {
+    "links": [
+     {
+      "label": "Shimada City Hall",
+      "url": "http://www.city.shimada.shizuoka.jp/index.html"
+     }
+    ],
+    "address": "Shimada, Shizuoka 427-8501",
+    "phone": "0547-37-5111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shimizucho",
+   "slug": "shimizucho",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/shimizucho/",
+   "official": {
+    "links": [
+     {
+      "label": "Shimizucho Town Hall",
+      "url": "http://www.town.shimizu.shizuoka.jp/"
+     }
+    ],
+    "address": "Shimizucho, Shizuoka 411-8650",
+    "phone": "055-973-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shimoda",
+   "slug": "shimoda",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/shimoda/",
+   "official": {
+    "links": [
+     {
+      "label": "Shimoda City Hall",
+      "url": "http://www.city.shimoda.shizuoka.jp/"
+     }
+    ],
+    "address": "Shimoda, Shizuoka 415-8501",
+    "phone": "0558-22-2211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shizuoka",
+   "slug": "shizuoka",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/shizuoka/",
+   "official": {
+    "links": [
+     {
+      "label": "Shizuoka City Hall",
+      "url": "http://www.city.shizuoka.jp/"
+     }
+    ],
+    "address": "Shizuoka 420-8602",
+    "phone": "054-254-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Susono",
+   "slug": "susono",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/susono/",
+   "official": {
+    "links": [
+     {
+      "label": "Susono City Hall",
+      "url": "http://www.city.susono.shizuoka.jp/"
+     }
+    ],
+    "address": "Susono, Shizuoka 410-1192",
+    "phone": "055-992-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yaizu",
+   "slug": "yaizu",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/yaizu/",
+   "official": {
+    "links": [
+     {
+      "label": "Yaizu City Hall",
+      "url": "https://www.city.yaizu.lg.jp/"
+     }
+    ],
+    "address": "Yaizu, Shizuoka 425-8502",
+    "phone": "054-626-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yoshidacho",
+   "slug": "yoshidacho",
+   "prefecture": "shizuoka",
+   "url": "https://bokenjapan.com/shizuoka/yoshidacho/",
+   "official": {
+    "links": [
+     {
+      "label": "Yoshidacho Town Hall",
+      "url": "http://www.town.yoshida.shizuoka.jp/"
+     }
+    ],
+    "address": "Yoshidacho, Shizuoka 421-0395",
+    "phone": "0548-33-1111"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

@@ -1,0 +1,1010 @@
+{
+ "prefecture": "Fukushima",
+ "slug": "fukushima",
+ "url": "https://bokenjapan.com/fukushima/",
+ "towns": [
+  {
+   "name": "Fukushima",
+   "slug": "jis07201",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07201/",
+   "official": {
+    "links": [
+     {
+      "label": "Fukushima",
+      "url": "http://www.city.fukushima.fukushima.jp/"
+     }
+    ],
+    "address": "Fukushima 960-8601",
+    "phone": "024-535-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Aizuwakamatsu",
+   "slug": "jis07202",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07202/",
+   "official": {
+    "links": [
+     {
+      "label": "Aizuwakamatsu",
+      "url": "http://www.city.aizuwakamatsu.fukushima.jp/"
+     }
+    ],
+    "address": "Aizuwakamatsu, Fukushima 965-8601",
+    "phone": "0242-39-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Koriyama",
+   "slug": "jis07203",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07203/",
+   "official": {
+    "links": [
+     {
+      "label": "Koriyama",
+      "url": "https://www.city.koriyama.lg.jp"
+     }
+    ],
+    "address": "Koriyama, Fukushima 963-8601",
+    "phone": "024-924-2491"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Iwaki",
+   "slug": "jis07204",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07204/",
+   "official": {
+    "links": [
+     {
+      "label": "Iwaki",
+      "url": "https://www.city.iwaki.lg.jp/www/index.html"
+     }
+    ],
+    "address": "Iwaki, Fukushima 970-8686",
+    "phone": "0246-22-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shirakawa",
+   "slug": "jis07205",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07205/",
+   "official": {
+    "links": [
+     {
+      "label": "Shirakawa",
+      "url": "http://www.city.shirakawa.fukushima.jp/"
+     }
+    ],
+    "address": "Shirakawa, Fukushima 961-8602",
+    "phone": "0248-22-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sukagawa",
+   "slug": "jis07207",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07207/",
+   "official": {
+    "links": [
+     {
+      "label": "Sukagawa",
+      "url": "http://www.city.sukagawa.fukushima.jp/"
+     }
+    ],
+    "address": "Sukagawa, Fukushima 962-8601",
+    "phone": "0248-75-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kitakata",
+   "slug": "jis07208",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07208/",
+   "official": {
+    "links": [
+     {
+      "label": "Kitakata",
+      "url": "http://www.city.kitakata.fukushima.jp/"
+     }
+    ],
+    "address": "Kitakata, Fukushima 966-8601",
+    "phone": "0241-24-5206"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Soma",
+   "slug": "jis07209",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07209/",
+   "official": {
+    "links": [
+     {
+      "label": "Soma",
+      "url": "http://www.city.soma.fukushima.jp/"
+     }
+    ],
+    "address": "Soma, Fukushima 976-8601",
+    "phone": "0244-37-2120"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nihonmatsu",
+   "slug": "jis07210",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07210/",
+   "official": {
+    "links": [
+     {
+      "label": "Nihonmatsu",
+      "url": "http://www.city.nihonmatsu.lg.jp/"
+     }
+    ],
+    "address": "Nihonmatsu, Fukushima 964-8601",
+    "phone": "0243-23-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tamura",
+   "slug": "jis07211",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07211/",
+   "official": {
+    "links": [
+     {
+      "label": "Tamura",
+      "url": "http://www.city.tamura.lg.jp/"
+     }
+    ],
+    "address": "Tamura, Fukushima 963-4393",
+    "phone": "0247-81-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minamisoma",
+   "slug": "jis07212",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07212/",
+   "official": {
+    "links": [
+     {
+      "label": "Minamisoma",
+      "url": "http://www.city.minamisoma.lg.jp/"
+     }
+    ],
+    "address": "Minamisoma, Fukushima 975-8686",
+    "phone": "0244-22-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Date",
+   "slug": "jis07213",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07213/",
+   "official": {
+    "links": [
+     {
+      "label": "Date",
+      "url": "http://www.city.fukushima-date.lg.jp/"
+     }
+    ],
+    "address": "Date, Fukushima 960-0692",
+    "phone": "024-575-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Motomiya",
+   "slug": "jis07214",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07214/",
+   "official": {
+    "links": [
+     {
+      "label": "Motomiya",
+      "url": "http://www.city.motomiya.lg.jp/"
+     }
+    ],
+    "address": "Motomiya, Fukushima 969-1192",
+    "phone": "0243-33-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Koori",
+   "slug": "jis07301",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07301/",
+   "official": {
+    "links": [
+     {
+      "label": "Koori",
+      "url": "http://www.town.koori.fukushima.jp/"
+     }
+    ],
+    "address": "Koori, Fukushima 969-1692",
+    "phone": "024-582-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kunimi",
+   "slug": "jis07303",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07303/",
+   "official": {
+    "links": [
+     {
+      "label": "Kunimi",
+      "url": "http://www.town.kunimi.fukushima.jp/"
+     }
+    ],
+    "address": "Kunimi, Fukushima 969-1792",
+    "phone": "024-585-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kawamata",
+   "slug": "jis07308",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07308/",
+   "official": {
+    "links": [
+     {
+      "label": "Kawamata",
+      "url": "http://www.town.kawamata.lg.jp/"
+     }
+    ],
+    "address": "Kawamata, Fukushima 960-1492",
+    "phone": "024-566-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Otama",
+   "slug": "jis07322",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07322/",
+   "official": {
+    "links": [
+     {
+      "label": "Otama",
+      "url": "http://www.vill.otama.fukushima.jp/"
+     }
+    ],
+    "address": "Otama, Fukushima 969-1392",
+    "phone": "0243-48-3131"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kagamiishi",
+   "slug": "jis07342",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07342/",
+   "official": {
+    "links": [
+     {
+      "label": "Kagamiishi",
+      "url": "http://www.town.kagamiishi.fukushima.jp/"
+     }
+    ],
+    "address": "Kagamiishi, Fukushima 969-0492",
+    "phone": "0248-62-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tenei",
+   "slug": "jis07344",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07344/",
+   "official": {
+    "links": [
+     {
+      "label": "Tenei",
+      "url": "http://www.vill.tenei.fukushima.jp/"
+     }
+    ],
+    "address": "Tenei, Fukushima 962-0592",
+    "phone": "0248-82-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shimogo",
+   "slug": "jis07362",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07362/",
+   "official": {
+    "links": [
+     {
+      "label": "Shimogo",
+      "url": "http://www.town.shimogo.fukushima.jp/"
+     }
+    ],
+    "address": "Shimogo, Fukushima 969-5345",
+    "phone": "0241-69-1122"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hinoemata",
+   "slug": "jis07364",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07364/",
+   "official": {
+    "links": [
+     {
+      "label": "Hinoemata",
+      "url": "http://www.hinoemata.com/"
+     }
+    ],
+    "address": "Hinoemata, Fukushima 967-0525",
+    "phone": "0241-75-2500"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tadami",
+   "slug": "jis07367",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07367/",
+   "official": {
+    "links": [
+     {
+      "label": "Tadami",
+      "url": "https://www.town.tadami.lg.jp/"
+     }
+    ],
+    "address": "Tadami, Fukushima 968-0498",
+    "phone": "0241-82-5210"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minamiaizu",
+   "slug": "jis07368",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07368/",
+   "official": {
+    "links": [
+     {
+      "label": "Minamiaizu",
+      "url": "https://www.town.minamiaizu.lg.jp/index.html"
+     }
+    ],
+    "address": "Minamiaizu, Fukushima 967-0004",
+    "phone": "0241-62-6100"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kitashiobara",
+   "slug": "jis07402",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07402/",
+   "official": {
+    "links": [
+     {
+      "label": "Kitashiobara",
+      "url": "http://www.vill.kitashiobara.fukushima.jp/"
+     }
+    ],
+    "address": "Kitashiobara, Fukushima 966-0485",
+    "phone": "0241-23-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nishiaizu",
+   "slug": "jis07405",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07405/",
+   "official": {
+    "links": [
+     {
+      "label": "Nishiaizu",
+      "url": "http://www.town.nishiaizu.fukushima.jp/"
+     }
+    ],
+    "address": "Nishiaizu, Fukushima 969-4495",
+    "phone": "0241-45-2211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Bandai",
+   "slug": "jis07407",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07407/",
+   "official": {
+    "links": [
+     {
+      "label": "Bandai",
+      "url": "http://www.town.bandai.fukushima.jp/"
+     }
+    ],
+    "address": "Bandai, Fukushima 969-3392",
+    "phone": "0242-74-1221"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Inawashiro",
+   "slug": "jis07408",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07408/",
+   "official": {
+    "links": [
+     {
+      "label": "Inawashiro",
+      "url": "http://www.town.inawashiro.fukushima.jp/"
+     }
+    ],
+    "address": "Inawashiro, Fukushima 969-3123",
+    "phone": "0242-62-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Aizubange",
+   "slug": "jis07421",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07421/",
+   "official": {
+    "links": [
+     {
+      "label": "Aizubange",
+      "url": "http://www.town.aizubange.fukushima.jp/"
+     }
+    ],
+    "address": "Aizubange, Fukushima 969-6592",
+    "phone": "0242-84-1503"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yugawa",
+   "slug": "jis07422",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07422/",
+   "official": {
+    "links": [
+     {
+      "label": "Yugawa",
+      "url": "http://www.vill.yugawa.fukushima.jp/"
+     }
+    ],
+    "address": "Yugawa, Fukushima 969-3593",
+    "phone": "0241-27-8800"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yanaizu",
+   "slug": "jis07423",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07423/",
+   "official": {
+    "links": [
+     {
+      "label": "Yanaizu",
+      "url": "http://www.town.yanaizu.fukushima.jp/"
+     }
+    ],
+    "address": "Yanaizu, Fukushima 969-7201",
+    "phone": "0241-42-2112"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mishima",
+   "slug": "jis07444",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07444/",
+   "official": {
+    "links": [
+     {
+      "label": "Mishima",
+      "url": "http://www.town.mishima.fukushima.jp/"
+     }
+    ],
+    "address": "Mishima, Fukushima 969-7511",
+    "phone": "0241-48-5511"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kaneyama",
+   "slug": "jis07445",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07445/",
+   "official": {
+    "links": [
+     {
+      "label": "Kaneyama",
+      "url": "http://www.town.kaneyama.fukushima.jp/"
+     }
+    ],
+    "address": "Kaneyama, Fukushima 968-0011",
+    "phone": "0241-54-5111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Showa",
+   "slug": "jis07446",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07446/",
+   "official": {
+    "links": [
+     {
+      "label": "Showa",
+      "url": "http://www.vill.showa.fukushima.jp/"
+     }
+    ],
+    "address": "Showa, Fukushima 968-0103",
+    "phone": "0241-57-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Aizumisato",
+   "slug": "jis07447",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07447/",
+   "official": {
+    "links": [
+     {
+      "label": "Aizumisato",
+      "url": "http://www.town.aizumisato.fukushima.jp/"
+     }
+    ],
+    "address": "Aizumisato, Fukushima 969-6292",
+    "phone": "0242-55-1122"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nishigo",
+   "slug": "jis07461",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07461/",
+   "official": {
+    "links": [
+     {
+      "label": "Nishigo",
+      "url": "http://www.vill.nishigo.fukushima.jp/"
+     }
+    ],
+    "address": "Nishigo, Fukushima 961-8501",
+    "phone": "0248-25-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Izumizaki",
+   "slug": "jis07464",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07464/",
+   "official": {
+    "links": [
+     {
+      "label": "Izumizaki",
+      "url": "http://www.vill.izumizaki.fukushima.jp/"
+     }
+    ],
+    "address": "Izumizaki, Fukushima 969-0101",
+    "phone": "0248-53-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nakajima",
+   "slug": "jis07465",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07465/",
+   "official": {
+    "links": [
+     {
+      "label": "Nakajima",
+      "url": "http://www.vill-nakajima.jp/"
+     }
+    ],
+    "address": "Nakajima, Fukushima 961-0192",
+    "phone": "0248-52-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yabuki",
+   "slug": "jis07466",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07466/",
+   "official": {
+    "links": [
+     {
+      "label": "Yabuki",
+      "url": "http://www.town.yabuki.fukushima.jp/"
+     }
+    ],
+    "address": "Yabuki, Fukushima 969-0296",
+    "phone": "0248-42-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tanagura",
+   "slug": "jis07481",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07481/",
+   "official": {
+    "links": [
+     {
+      "label": "Tanagura",
+      "url": "http://www.town.tanagura.fukushima.jp/"
+     }
+    ],
+    "address": "Tanagura, Fukushima 963-6192",
+    "phone": "0247-33-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yamatsuri",
+   "slug": "jis07482",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07482/",
+   "official": {
+    "links": [
+     {
+      "label": "Yamatsuri",
+      "url": "http://www.town.yamatsuri.fukushima.jp/"
+     }
+    ],
+    "address": "Yamatsuri, Fukushima 963-5192",
+    "phone": "0247-46-3131"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hanawa",
+   "slug": "jis07483",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07483/",
+   "official": {
+    "links": [
+     {
+      "label": "Hanawa",
+      "url": "http://www.town.hanawa.fukushima.jp/"
+     }
+    ],
+    "address": "Hanawa, Fukushima 963-5492",
+    "phone": "0247-43-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Samegawa",
+   "slug": "jis07484",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07484/",
+   "official": {
+    "links": [
+     {
+      "label": "Samegawa",
+      "url": "http://www.vill.samegawa.fukushima.jp/"
+     }
+    ],
+    "address": "Samegawa, Fukushima 963-8401",
+    "phone": "0247-49-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ishikawa",
+   "slug": "jis07501",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07501/",
+   "official": {
+    "links": [
+     {
+      "label": "Ishikawa",
+      "url": "http://www.town.ishikawa.fukushima.jp/"
+     }
+    ],
+    "address": "Ishikawa, Fukushima 963-7893",
+    "phone": "0247-26-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tamakawa",
+   "slug": "jis07502",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07502/",
+   "official": {
+    "links": [
+     {
+      "label": "Tamakawa",
+      "url": "http://www.vill.tamakawa.fukushima.jp/"
+     }
+    ],
+    "address": "Tamakawa, Fukushima 963-6392",
+    "phone": "0247-57-3101"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hirata",
+   "slug": "jis07503",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07503/",
+   "official": {
+    "links": [
+     {
+      "label": "Hirata",
+      "url": "http://www.vill.hirata.fukushima.jp/"
+     }
+    ],
+    "address": "Hirata, Fukushima 963-8292",
+    "phone": "0247-55-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Asakawa",
+   "slug": "jis07504",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07504/",
+   "official": {
+    "links": [
+     {
+      "label": "Asakawa",
+      "url": "http://www.town.asakawa.fukushima.jp/"
+     }
+    ],
+    "address": "Asakawa, Fukushima 963-6292",
+    "phone": "0247-36-4121"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Furudono",
+   "slug": "jis07505",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07505/",
+   "official": {
+    "links": [
+     {
+      "label": "Furudono",
+      "url": "http://www.town.furudono.fukushima.jp/"
+     }
+    ],
+    "address": "Furudono, Fukushima 963-8304",
+    "phone": "0247-53-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Miharu",
+   "slug": "jis07521",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07521/",
+   "official": {
+    "links": [
+     {
+      "label": "Miharu",
+      "url": "http://www.town.miharu.fukushima.jp/"
+     }
+    ],
+    "address": "Miharu, Fukushima 963-7796",
+    "phone": "0247-62-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ono",
+   "slug": "jis07522",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07522/",
+   "official": {
+    "links": [
+     {
+      "label": "Ono",
+      "url": "http://www.town.ono.fukushima.jp/"
+     }
+    ],
+    "address": "Ono, Fukushima 963-3492",
+    "phone": "0247-72-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hirono",
+   "slug": "jis07541",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07541/",
+   "official": {
+    "links": [
+     {
+      "label": "Hirono",
+      "url": "http://www.town.hirono.fukushima.jp/"
+     }
+    ],
+    "address": "Hirono, Fukushima 979-0402",
+    "phone": "0240-27-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Naraha",
+   "slug": "jis07542",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07542/",
+   "official": {
+    "links": [
+     {
+      "label": "Naraha",
+      "url": "http://www.town.naraha.lg.jp/"
+     }
+    ],
+    "address": "Naraha, Fukushima 979-0604",
+    "phone": "0240-25-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tomioka",
+   "slug": "jis07543",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07543/",
+   "official": {
+    "links": [
+     {
+      "label": "Tomioka",
+      "url": "http://www.tomioka-town.jp/"
+     }
+    ],
+    "address": "Tomioka, Fukushima 979-1192",
+    "phone": "0240-22-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kawauchi",
+   "slug": "jis07544",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07544/",
+   "official": {
+    "links": [
+     {
+      "label": "Kawauchi",
+      "url": "http://www.kawauchimura.jp/"
+     }
+    ],
+    "address": "Kawauchi, Fukushima 979-1292",
+    "phone": "0240-38-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Okuma",
+   "slug": "jis07545",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07545/",
+   "official": {
+    "links": [
+     {
+      "label": "Okuma",
+      "url": "http://www.town.okuma.fukushima.jp/"
+     }
+    ],
+    "address": "Okuma, Fukushima 979-1306",
+    "phone": "0240-23-7568"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Futaba",
+   "slug": "jis07546",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07546/",
+   "official": {
+    "links": [
+     {
+      "label": "Futaba",
+      "url": "http://www.town.fukushima-futaba.lg.jp/"
+     }
+    ],
+    "address": "Futaba, Fukushima 979-1495",
+    "phone": "0240-33-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Namie",
+   "slug": "jis07547",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07547/",
+   "official": {
+    "links": [
+     {
+      "label": "Namie",
+      "url": "http://www.town.namie.fukushima.jp/"
+     }
+    ],
+    "address": "Namie, Fukushima 979-1592",
+    "phone": "0240-34-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Katsurao",
+   "slug": "jis07548",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07548/",
+   "official": {
+    "links": [
+     {
+      "label": "Katsurao",
+      "url": "http://www.katsurao.org/"
+     }
+    ],
+    "address": "Katsurao, Fukushima 979-1602",
+    "phone": "0240-29-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shinchi",
+   "slug": "jis07561",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07561/",
+   "official": {
+    "links": [
+     {
+      "label": "Shinchi",
+      "url": "http://www.shinchi-town.jp/"
+     }
+    ],
+    "address": "Shinchi, Fukushima 979-2792",
+    "phone": "0244-62-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Iitate",
+   "slug": "jis07564",
+   "prefecture": "fukushima",
+   "url": "https://bokenjapan.com/fukushima/jis07564/",
+   "official": {
+    "links": [
+     {
+      "label": "Iitate",
+      "url": "https://www.vill.iitate.fukushima.jp/"
+     }
+    ],
+    "address": "Iitate, Fukushima 960-1892",
+    "phone": "0244-42-1611"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}
