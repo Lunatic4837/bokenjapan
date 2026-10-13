@@ -40,9 +40,15 @@ def img(li):
             with Image.open(p) as im: w, h = im.size
         except Exception: w, h = 320, 240
     return (m.group(1), int(w), int(h))
-def name(li): return html.unescape(re.search(r'class="place-name">(.*?)</p>', li).group(1))
+def unesc(s):  # sources sometimes arrive already entity-escaped (Kan&#x27;Ichi) -> unescape to a fixed point before esc()
+    for _ in range(4):
+        t = html.unescape(s)
+        if t == s: break
+        s = t
+    return s
+def name(li): return unesc(re.search(r'class="place-name">(.*?)</p>', li).group(1))
 def blurb(li):
-    m = re.search(r'class="place-blurb">(.*?)</p>', li); return html.unescape(m.group(1)) if m else ''
+    m = re.search(r'class="place-blurb">(.*?)</p>', li); return unesc(m.group(1)) if m else ''
 def classify(x):
     gs = gsplit(x['genre'])
     if gs and gs[0] in DAILY_TB: return 'daily', True
@@ -207,3 +213,7 @@ if __name__ == '__main__':
             slug = f.split('/')[-2]
             build(pref, slug, st)
         print(pref, json.dumps(dict(st)), flush=True)
+        import hub_layout
+        print(pref, 'hub_layout', dict(hub_layout.run(str(ROOT), pref)), flush=True)
+        import dining_en  # natural-EN names for every card (Dining included) + entity repair
+        print(pref, 'dining_en', {k: v for k, v in dining_en.run(str(ROOT), pref).items() if k != 'samples'}, flush=True)
