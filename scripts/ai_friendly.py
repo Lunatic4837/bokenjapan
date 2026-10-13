@@ -2,7 +2,8 @@
 """Make bokenjapan.com friendly to AI assistants and search engines. Idempotent and re-runnable.
 
 Usage (from the gh-pages checkout root):
-    python3 scripts/ai_friendly.py [--root .] [--check]
+    python3 scripts/ai_friendly.py [--root .] [--geo scripts/town-geo.json] [--check]
+  Also run automatically by scripts/build-pages-site.py on _site (shared page template pass).
   --check  only report which files would change (exit 1 if any), write nothing.
 
 Generates: llms.txt, llms-full.txt, robots.txt, sitemap.xml, data/index.json,
@@ -52,7 +53,9 @@ def url(rel): return BASE + (rel[:-10] if rel.endswith('index.html') else rel)
 
 # ---- geo: drop OSM hits whose matched name is not the municipality itself
 GEO = {}
-gp = os.path.join(ROOT, 'scripts/town-geo.json')
+gp = (sys.argv[sys.argv.index('--geo') + 1] if '--geo' in sys.argv
+      else os.path.join(ROOT, 'scripts/town-geo.json'))
+if not os.path.exists(gp): gp = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'town-geo.json')
 if os.path.exists(gp):
     for k, v in json.load(open(gp, encoding='utf-8')).items():
         src = v.get('src', '')
@@ -286,7 +289,7 @@ for rel in pages():
     if trail and '<p class="crumb"' in s:
         cn = ('<!-- bj-crumbs --><nav class="bj-crumbs crumb" aria-label="Breadcrumb">'
               + ' › '.join(a(u, n) if i < len(trail) - 1 else f'<span aria-current="page">{html.escape(n)}</span>' for i, (n, u) in enumerate(trail))
-              + '</nav><style>.bj-crumbs+p.crumb{display:none}</style><!-- /bj-crumbs -->\n')
+              + '</nav><style>.bj-crumbs~p.crumb{display:none}</style><!-- /bj-crumbs -->\n')
         s = re.sub(r'(<p class="crumb")', lambda m: cn + m.group(1), s, count=1)
     if nav: s = s.replace('</main>', f'<!-- bj-nav -->{nav}<!-- /bj-nav -->\n</main>', 1)
     wr(rel, s)
