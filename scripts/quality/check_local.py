@@ -693,6 +693,19 @@ def check_facility_cards(res, cards, kind, muni, pref, url, ctx, stats):
     for i, c in enumerate(cards, 1):
         src = c["sources"]
         p, s = src.get(primary), src.get(secondary)
+        fb = None
+        if kind == "Stay" and not p and not s:
+            # Stay fallback rule: Rakuten Travel, then official municipal/tourism-association inn list
+            fb = src.get("rakuten_url") or src.get("official_list")
+            if fb and not re.match(r"^https?://", fb):
+                fb = None
+        if fb:
+            key = fb + "|" + c["name"]
+            seen[key] += 1
+            if seen[key] >= 2:
+                dupes.append(f"#{i} {c['name']}")
+            secondary_only_seen = True
+            continue
         if not p and not s:
             unsourced.append(f"#{i} {c['name']}")
             continue
@@ -714,7 +727,7 @@ def check_facility_cards(res, cards, kind, muni, pref, url, ctx, stats):
     st["unsourced"] += len(unsourced)
     st["dupe_entries"] += len(dupes)
     st["wrong_pref"] += len(wrongpref)
-    lab = "Tabelog/TripAdvisor" if kind == "Dining" else "Ikkyu/Jalan"
+    lab = "Tabelog/TripAdvisor" if kind == "Dining" else "Ikkyu/Jalan/Rakuten/official-list"
     if unsourced:
         res.add(srule, "FAIL", f"{kind}: {len(unsourced)}/{n} entries have no {lab} source in metadata: " + ", ".join(unsourced[:4]), f"{srule}.unsourced", len(unsourced))
     if badfmt:
@@ -969,7 +982,7 @@ def check_municipality(res, soup, url, ctx):
         target = urljoin(url, a["href"])
         if is_external(target) or not re.match(r"^/[a-z-]+/[a-z0-9-]+/$", urlparse(target).path):
             res.add("R2", "FAIL", f"Stay: no-lodging line must link to a bokenjapan.com municipality page (got {short(a['href'], 50)})", "R2.no-stay-badlink")
-        elif not txt.startswith("No listed places to stay in"):
+        elif not re.match(r"^No bookable places to stay found in .+ — nearest options in .+\.$", txt):
             res.add("R2", "FAIL", f"Stay: unexpected no-lodging wording: '{short(txt, 60)}'", "R2.no-stay-wording")
         else:
             res.add("R2", "PASS", f"Stay: documented no-lodging state — '{short(txt, 80)}'", "R2.no-stay-documented")
@@ -1202,7 +1215,7 @@ def hub_merged_soup(res, soup, url, ctx):
     groups = {"Stay": [], "Dining": [], "Sights": []}
     for li in lis:
         raw = str(li)
-        if re.search(r"sources: [^>]*(jalan_url|ikyu_url)=", raw):
+        if re.search(r"sources: [^>]*(jalan_url|ikyu_url|ikkyu_url|rakuten_url|official_list)=", raw):
             groups["Stay"].append(li)
         elif re.search(r"sources: [^>]*(tabelog_url|ta_url)=", raw):
             groups["Dining"].append(li)

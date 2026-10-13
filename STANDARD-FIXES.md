@@ -15,11 +15,11 @@ Checklist derived from `/workspace/p1/aomori-review/report.md` FAIL/WARN pattern
 - No visible Tabelog/Jalan/Ikkyu/Tripadvisor chrome in the body.
 
 ### R2 — Stay sourced or documented zero
-- Stay cards from **Ikkyu ∪ Jalan** only (Ikkyu-first when both).
-- If none in-town:  
-  `No listed places to stay in {Town} — nearest options in <a href="/{pref}/{near}/">{Near}</a>.`
-- Path must match `^/[a-z-]+/[a-z0-9-]+/$` (relative site path).
-- **Note (Aomori / Oirase):** stay-none → Misawa because Jalan/Ikkyu hits for Oirase geocode to other towns.
+- Stay waterfall: **Ikkyu ∪ Jalan** first (Ikkyu-first when both). If both empty → **Rakuten Travel**, then the **official municipal / tourism-association inn list** (real names + links).
+- stay-none only when all sources are empty, worded exactly:  
+  `No bookable places to stay found in {Town} — nearest options in <a href="/{pref}/{near}/">{Near}</a>.`
+- Path must match `^/[a-z-]+/[a-z0-9-]+/$` (relative site path). Nearest by land (or ferry for islands).
+- **Note (Aomori / Oirase):** Jalan/Ikkyu hits geocode elsewhere, but Rakuten lists in-town Momoishi inns (旅館 高橋) → real Stay, not stay-none.
 
 ### R1 / locality — No out-of-town Dining padding
 - Do not pad Dining with restaurants from other municipalities.

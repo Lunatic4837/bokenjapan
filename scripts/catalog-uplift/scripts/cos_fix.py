@@ -10,7 +10,8 @@ data file passed in (--data), or (c) deletion.
 cos-data.json keys (all optional, per slug):
   sights[slug]   -> [{idx,name,desc,link,src}]  English sights rebuilt from official pages
   stay_none[slug]-> nearest slug with real lodging (writes p.stay-none line)
-  drop_stay[slug]-> true: remove unsourced (non Jalan/Ikkyu) Stay section
+  drop_stay[slug]-> true: remove unsourced Stay section (sourced = Jalan/Ikkyu, else Rakuten Travel, else official inn list)
+  stay_none: only when Jalan∪Ikkyu, Rakuten and the official list are ALL empty; nearest town must be reachable by land (ferry for islands)
   tabelog[slug]  -> {rid: {area, ...}} list-page locality, used to drop out-of-town padding
   muni_ja[slug]  -> municipality name in JA (padding filter)
   ikkyu_by_jalan -> {jalan_url: ikkyu_url}
@@ -193,11 +194,11 @@ def fix_page(path: Path, pref: str, slug: str, data: dict, media_root: Path, nop
     near = (data.get('stay_none') or {}).get(slug)
     if secs['Stay'] and 'stay-none' not in secs['Stay']:
         items = [fix_credit(li) for li in lis(secs['Stay'])]
-        sourced = [li for li in items if re.search(r'sources: [^>]*(jalan_url|ikkyu_url)=https://www\.(jalan\.net|ikyu\.com)/', li)]
+        sourced = [li for li in items if re.search(r'sources: [^>]*((jalan_url|ikkyu_url)=https://www\.(jalan\.net|ikyu\.com)/|rakuten_url=https://travel\.rakuten\.co\.jp/|official_list=https?://)', li)]
         ik = data.get('ikkyu_by_jalan') or {}
         out, seen = [], set()
         for li in sourced:
-            ju = (re.search(r'jalan_url=(\S+)', li) or [None, ''])[1]
+            ju = (re.search(r'(?:jalan|rakuten)_url=(\S+)', li) or [None, ''])[1] or ''.join(re.findall(r'href="([^"]+)"|<p class="place-name">([^<]*)', li)[0]) + (re.search(r'<p class="place-name">([^<]*)', li) or [None, ''])[1]
             if ju in seen:
                 continue
             seen.add(ju)
@@ -205,12 +206,13 @@ def fix_page(path: Path, pref: str, slug: str, data: dict, media_root: Path, nop
                 li = li.replace(f'<!-- sources: jalan_url={ju}', f'<!-- sources: ikkyu_url={ik[ju]} | jalan_url={ju}')
             li = re.sub(r'<p class="place-blurb">([^<]*)</p>', lambda m: f'<p class="place-blurb">{esc(fw_clean(H.unescape(m.group(1))))}</p>', li)
             out.append(li)
-        out.sort(key=lambda li: 0 if 'ikkyu_url=' in li else 1)     # Ikkyu-first, stable
+        # Stay rule: Jalan∪Ikkyu (Ikkyu-first) → Rakuten Travel → official municipal/tourism-association list; stable
+        out.sort(key=lambda li: 0 if 'ikkyu_url=' in li else 1 if 'jalan_url=' in li else 2 if 'rakuten_url=' in li else 3)
         secs['Stay'] = (f'<section class="place-section"><h2>Stay</h2><ul class="place-list">{"".join(renumber(out, town))}</ul></section>'
                         if out else '')
     if not secs['Stay'] and near:
         nn = (data.get('names_en') or {}).get(near, near.title())
-        secs['Stay'] = (f'<section class="place-section"><h2>Stay</h2><p class="stay-none">No listed places to stay in {esc(town)} — '
+        secs['Stay'] = (f'<section class="place-section"><h2>Stay</h2><p class="stay-none">No bookable places to stay found in {esc(town)} — '
                         f'nearest options in <a href="/{pref}/{near}/">{esc(nn)}</a>.</p></section>')
     # ---- Sights
     rows = (data.get('sights') or {}).get(slug)

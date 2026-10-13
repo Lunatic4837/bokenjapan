@@ -50,3 +50,10 @@ Steering fix (in place, folder kept):
 - Did not add Sakawa, Tano, or other Okayama towns.
 - Social footers: X, Instagram, TikTok only; network-name scrub verified clean.
 - No commit, push, or DNS change.
+
+## Aomori + Hokkaido (staging/aomori-hokkaido, 2026-10-13)
+- Stay rule (all prefs): Jalan∪Ikkyu → Rakuten Travel → official municipal/tourism-association inn list → stay-none ("No bookable places to stay found in {Town} — nearest options in {Town2}.", land/ferry-reachable).
+- Aomori: 40 munis. Real Stay restored for sai, higashidori, imabetsu, inakadate, itayanagi, nakadomari, oirase, rokunohe, shingo, yokohamacho. stay-none: fujisaki→hirosaki, hashikami→hachinohe (only an adult hotel listed), sannoe→nanbucho (no inns per town), yomogita→aomori.
+- Hokkaido: 173 munis published (Northern Territories 6 excluded). Real Stay for 29 of 31 former stay-none towns incl. okushiri (Jalan 御宿きくち + 奥尻島観光協会 list, no Setana line), oshamanbe (丸金旅館 etc.). stay-none: naie→sunagawa (北乃湯 closed), takasu→pippu (only migration-trial house).
+- Fixes: hirosaki #1 Stay photo (Jalan award banner → lobby photo), fujisaki muni-ja, honbetsu/shimizucho '＜…＞' EN lines.
+- Data: /workspace/p1/data/catalog-uplift/stay-fallback/ (stay-fallback.json, apply.py, photos.py); text-only cards logged in photos-5pref/no-photo-found.csv.
