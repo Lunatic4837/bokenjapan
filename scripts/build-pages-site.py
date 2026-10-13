@@ -352,6 +352,18 @@ def compress_one(args: tuple[str, str, int, int]) -> tuple[str, int, int, str]:
         return (src.name, 0, 0, f"err:{e}")
 
 
+def apply_template_pass(out: Path) -> int:
+    import subprocess
+    script = SCRIPTS / "ai_friendly.py"
+    r = subprocess.run(
+        [sys.executable, str(script), "--root", str(out), "--geo", str(SCRIPTS / "town-geo.json")],
+        cwd=str(ROOT),
+    )
+    if r.returncode:
+        print(f"ERROR: template pass (ai_friendly.py) exited {r.returncode}", file=sys.stderr, flush=True)
+    return r.returncode
+
+
 def main() -> int:
     global MANIFEST_KEYS, MISSING_KEYS, PLACEHOLDER_NAMES
     if not MANIFEST_PATH.is_file():
@@ -492,6 +504,15 @@ def main() -> int:
                 print(f"WARN {name}: {status}", flush=True)
             if done % 2000 == 0 or done == len(futs):
                 print(f"  compressed {done}/{len(futs)}", flush=True)
+
+    # Shared page template pass (same as live Miyagi/Ohira): Home breadcrumb,
+    # full <title>/H1, "More in <town>" / "Nearby in <pref>" / "Other towns"
+    # blocks, JSON-LD, sitemap/llms/data feeds. Runs on _site only, so every
+    # prefecture gets the blocks; idempotent (marked blocks are rewritten).
+    # Never touches styles.css or the Cloudflare beacon.
+    rc = apply_template_pass(OUT)
+    if rc:
+        return rc
 
     # Ensure CNAME / nojekyll
     (OUT / ".nojekyll").write_text("", encoding="utf-8")
