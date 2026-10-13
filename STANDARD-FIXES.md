@@ -56,7 +56,7 @@ Checklist derived from `/workspace/p1/aomori-review/report.md` FAIL/WARN pattern
 ### Slugs & publish set
 - No `jis#####` slugs when a romanized name exists (rename + update maps/index).
 - Drop code-suffix slugs when unambiguous (`hidakacho-01601` → `hidakacho`, etc.; keep true disambiguators like `esashi-01514`).
-- Northern Territories (Hokkaido `shikotan`, `tomari-nt`, `ruyobetsu`, `ryubetsu`, `shana`, `shibetoro`): **Official/Sights only**, **not** linked from pref index / not in publish crawl (map shapes may remain as non-`href` spans).
+- Northern Territories (Hokkaido `shikotan`, `tomari-nt`, `ruyobetsu`, `ryubetsu`, `shana`, `shibetoro`): **exclude from publish** — no index links, no deploy dirs (git-rm from publish tree); map shapes may remain as non-`href` spans. Real Shiribeshi Tomari stays at `tomari/`.
 
 ### Other
 - Dedupe same facility within a section.
@@ -67,3 +67,8 @@ Checklist derived from `/workspace/p1/aomori-review/report.md` FAIL/WARN pattern
 - Generic pass: `python3 scripts/catalog-uplift/scripts/cos_fix.py --root <site> --pref <pref> --data <cos-data.json>`
 - Verify: `CHECK_BASE=http://127.0.0.1:<port> python3 quality/check_local.py --pref <pref> --check-pref-index --delay 0 …` → **0 FAIL**.
 - Push: see `/workspace/p1/PUSH-HOWTO.md` (staging branches only; never `main` / `gh-pages`).
+
+
+## Filler place-desc
+- Checker: Dining/Stay missing line 4 is **WARN** (`R4.no-line4`), not FAIL — omit beats invented filler.
+- Drop lines like `Restaurant in X, Hokkaido.` / `Sushi restaurant in X, Aomori.` / `… — a place to visit in X, Hokkaido.` — use a real short English explanation or omit the line.

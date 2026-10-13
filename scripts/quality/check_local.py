@@ -872,7 +872,7 @@ def check_facility_cards(res, cards, kind, muni, pref, url, ctx, stats):
     st["noen"] += noen
     st["other_format"] += len(other)
     if nodesc:
-        res.add("R4", "FAIL", f"{kind}: {nodesc}/{n} cards missing line 4 (short English explanation)", "R4.no-line4", nodesc)
+        res.add("R4", "WARN", f"{kind}: {nodesc}/{n} cards omit line 4 (no filler; real explanation preferred)", "R4.no-line4", nodesc)
     if noen:
         res.add("R4", "FAIL", f"{kind}: {noen}/{n} cards whose line 2 (English name) is missing or Japanese", "R4.line2-not-en", noen)
     if other:
@@ -916,7 +916,7 @@ def check_other_rows(res, cards, title, stats):
     st["nodesc"] += len(nodesc)
     st["legacy"] += legacy
     if nodesc:
-        res.add("R4", "FAIL", f"{title}: {len(nodesc)}/{n} rows have no English explanation: " + ", ".join(nodesc[:3]), "R4.other-no-line4", len(nodesc))
+        res.add("R4", "WARN", f"{title}: {len(nodesc)}/{n} rows omit English explanation (no filler; real text preferred): " + ", ".join(nodesc[:3]), "R4.other-no-line4", len(nodesc))
     if legacy:
         res.add("R4", "WARN", f"{title}: {legacy}/{n} rows use the legacy layout (explanation in line 2; no p.place-desc / JA-name line)", "R4.other-legacy", legacy)
     if jpfirst:
