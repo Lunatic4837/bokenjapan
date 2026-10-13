@@ -1,0 +1,102 @@
+{
+ "saga/arita": {
+  "daily": 6,
+  "see": 22,
+  "do": 13
+ },
+ "saga/genkai": {
+  "see": 2,
+  "do": 3,
+  "daily": 3
+ },
+ "saga/imari": {
+  "do": 5,
+  "daily": 3,
+  "see": 15
+ },
+ "saga/kamimine": {
+  "daily": 2,
+  "do": 0,
+  "see": 0
+ },
+ "saga/kanzaki": {
+  "see": 14,
+  "do": 6,
+  "daily": 0
+ },
+ "saga/karatsu": {
+  "see": 52,
+  "do": 22,
+  "daily": 5
+ },
+ "saga/kashima": {
+  "see": 12,
+  "daily": 5,
+  "do": 12
+ },
+ "saga/kiyama": {
+  "see": 3,
+  "do": 1,
+  "daily": 1
+ },
+ "saga/kohoku": {
+  "do": 3,
+  "see": 1,
+  "daily": 1
+ },
+ "saga/miyaki": {
+  "see": 5,
+  "do": 4,
+  "daily": 0
+ },
+ "saga/ogi": {
+  "see": 15,
+  "do": 7,
+  "daily": 1
+ },
+ "saga/omachi": {
+  "see": 2,
+  "do": 0,
+  "daily": 0
+ },
+ "saga/saga": {
+  "do": 17,
+  "see": 54,
+  "daily": 12
+ },
+ "saga/shiroishi": {
+  "see": 12,
+  "do": 4,
+  "daily": 2
+ },
+ "saga/takeo": {
+  "see": 17,
+  "do": 14,
+  "daily": 3
+ },
+ "saga/taku": {
+  "see": 5,
+  "do": 2,
+  "daily": 0
+ },
+ "saga/tara": {
+  "see": 4,
+  "do": 6,
+  "daily": 4
+ },
+ "saga/tosu": {
+  "do": 5,
+  "see": 9,
+  "daily": 1
+ },
+ "saga/ureshino": {
+  "do": 11,
+  "daily": 3,
+  "see": 19
+ },
+ "saga/yoshinogari": {
+  "do": 3,
+  "daily": 2,
+  "see": 5
+ }
+}
