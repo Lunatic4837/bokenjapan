@@ -9,6 +9,10 @@ Structure: `/` home → `/<prefecture>/` prefecture index (map + town list) → 
 - [Prefectures](https://bokenjapan.com/data/prefectures.json): all prefectures with towns file URLs
 - [Data README](https://bokenjapan.com/data/README.md): schema notes
 
+## URL patterns
+- `/<prefecture>/` prefecture hub; `/<prefecture>/<town>/` town page (sections Official, Stay, Dining, Sights; JSON-LD WebPage + TouristDestination with isBasedOn sources and dateModified).
+- Reserved for future comparison guides (not yet published): `/best/<thing>-in-<place>/` (e.g. /best/onsen-ryokan-in-aomori/) and `/<prefecture>/<town>/getting-there/` access guides. Only real, sourced comparisons will be published there.
+
 ## Prefectures
 - [Aichi](https://bokenjapan.com/aichi/): 54 towns · [JSON](https://bokenjapan.com/data/towns/aichi.json)
 - [Akita](https://bokenjapan.com/akita/): 25 towns · [JSON](https://bokenjapan.com/data/towns/akita.json)

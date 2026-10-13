@@ -12,6 +12,22 @@ SAME=['https://x.com/bokenjapan','https://www.instagram.com/bokenjapan/','https:
 SKIP={'.git','media','go','data','scripts','node_modules'}
 GEO=json.load(open(os.path.join(ROOT,'scripts/town-geo.json'))) if os.path.exists(os.path.join(ROOT,'scripts/town-geo.json')) else {}
 M0,M1='<!-- bj-jsonld:start -->','<!-- bj-jsonld:end -->'
+N0,N1='<!-- bj-nav:start -->','<!-- bj-nav:end -->'
+D0,D1='<!-- bj-meta:start -->','<!-- bj-meta:end -->'
+import subprocess
+def git_dates():
+    # last content commit date per file; generated commits are tagged [agent-friendly] and skipped
+    try: out=subprocess.run(['git','-C',ROOT,'log','--format=@%cs','--name-only','--invert-grep','-E','--grep=\\[agent-friendly\\]|AI-agent friendly site','HEAD'],capture_output=True,text=True).stdout
+    except Exception: return {}
+    d={};cur=None
+    for l in out.splitlines():
+        if l.startswith('@'): cur=l[1:]
+        elif l and l not in d: d[l]=cur
+    return d
+DATES=git_dates()
+def crumb(s):
+    m=re.search(r'(?s)<p class="crumb">(.*?)</p>',s); return [txt(x) for x in re.split(r'\s/\s',m.group(1))] if m else []
+def strip_block(s,a,b): return re.sub(re.escape(a)+r'.*?'+re.escape(b)+r'\n?','',s,flags=re.S)
 def txt(s): return re.sub(r'\s+',' ',html.unescape(re.sub(r'<[^>]+>',' ',s or ''))).strip()
 def pages():
     for dp,dn,fn in os.walk(ROOT):
@@ -45,33 +61,74 @@ def place(t,i):
 ORG={'@type':'Organization','@id':BASE+'#org','name':'BokenJapan','url':BASE,'logo':BASE+'logo.svg','sameAs':SAME}
 SITE={'@type':'WebSite','@id':BASE+'#website','name':'BokenJapan','url':BASE,'publisher':{'@id':BASE+'#org'},'inLanguage':'en'}
 prefs={}; towns={}; allurls=[]
+# pass 1: names from breadcrumbs (stable across reruns) for sibling navigation
+NAMES={}; SIB={}
+for rel in pages():
+    parts=rel.split('/')
+    if len(parts) in (2,3) and parts[-1]=='index.html':
+        c=crumb(open(os.path.join(ROOT,rel),encoding='utf-8').read())
+        if c: NAMES['/'.join(parts[:-1])]=c[-1]
+        if len(parts)==3: SIB.setdefault(parts[0],[]).append(parts[1])
+def a(href,t): return f'<a href="{href}">{html.escape(t)}</a>'
+LABEL={"Dining":"Places to eat","Stay":"Places to stay","Sights":"Sights"}
 for rel in pages():
     p=os.path.join(ROOT,rel); s=open(p,encoding='utf-8').read(); orig=s
     s=re.sub(r'(?<![\w.+-])@boken_japan\b','@bokenjapan',s)
+    for x,y in ((M0,M1),(N0,N1),(D0,D1)): s=strip_block(s,x,y)
     noindex='name="robots" content="noindex' in s
     if not noindex: allurls.append(url(rel))
-    parts=rel.split('/'); title=txt((re.search(r'(?s)<title>(.*?)</title>',s) or [0,''])[1]).replace(' · BokenJapan','')
-    graph=None
+    parts=rel.split('/'); graph=None; title=None; h1=None; desc=None; nav=None
+    mod=DATES.get(rel)
     if rel=='index.html': graph=[ORG,SITE]
     elif len(parts)==2 and parts[1]=='index.html':
-        prefs[parts[0]]={'slug':parts[0],'name':title,'url':url(rel),'towns_file':BASE+f'data/towns/{parts[0]}.json'}
-        graph=[ORG,SITE,{'@type':'AdministrativeArea','name':title,'url':url(rel),'containedInPlace':{'@type':'Country','name':'Japan'}}]
+        pf=parts[0]; pname=NAMES.get(pf,pf.title()); n=len(SIB.get(pf,[]))
+        prefs[pf]={'slug':pf,'name':pname,'url':url(rel),'towns_file':BASE+f'data/towns/{pf}.json'}
+        title=f'{pname} Prefecture travel guide: {n} towns with sights, food and stays · BokenJapan'
+        desc=f'{pname} Prefecture, Japan: guides to {n} towns and villages, each listing sights, places to eat and places to stay with links to official sources.'
+        page={'@type':'CollectionPage','@id':url(rel)+'#page','url':url(rel),'name':title.replace(' · BokenJapan',''),'isPartOf':{'@id':BASE+'#website'},
+              'about':{'@type':'AdministrativeArea','name':f'{pname} Prefecture','url':url(rel),'containedInPlace':{'@type':'Country','name':'Japan'}},
+              'breadcrumb':{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'Japan','item':BASE},{'@type':'ListItem','position':2,'name':pname,'item':url(rel)}]}}
+        if mod: page['dateModified']=mod
+        graph=[ORG,SITE,page]
     elif len(parts)==3 and parts[2]=='index.html':
         pref,town=parts[0],parts[1]; sec=sections(s)
-        tname=title.split(' · ')[0]; pname=title.split(' · ')[1] if ' · ' in title else pref.title()
+        tname=NAMES.get(f'{pref}/{town}',town.title()); pname=NAMES.get(pref,pref.title())
+        ns,nf,nst=len(sec.get('Sights',[])),len(sec.get('Dining',[])),len(sec.get('Stay',[]))
+        bits=[f'{n} {w if n>1 else w1}' for n,w,w1 in ((ns,'sights','sight'),(nf,'places to eat','place to eat'),(nst,'stays','stay')) if n]
+        title=f'{tname}, {pname}: things to do, where to eat and stay' + (f' ({", ".join(bits)})' if bits else '') + ' · BokenJapan'
+        h1=f'{tname}, {pname}'
+        desc=f'{tname} in {pname} Prefecture, Japan' + (': '+', '.join(bits) if bits else '') + ', with links to official and source pages.'
         g=GEO.get(f'{pref}/{town}')
         dest={'@type':['TouristDestination','City'],'@id':url(rel)+'#place','name':tname,'url':url(rel),
-              'containedInPlace':{'@type':'AdministrativeArea','name':pname,'url':BASE+pref+'/'}}
+              'containedInPlace':{'@type':'AdministrativeArea','name':f'{pname} Prefecture','url':BASE+pref+'/'}}
         if g: dest['geo']={'@type':'GeoCoordinates','latitude':g['lat'],'longitude':g['lon']}
-        graph=[dest]
+        srcs=[l['url'] for l in (sec.get('Official') or {}).get('links',[]) if l['url'].startswith('http')]
+        for k in ('Stay','Dining','Sights'): srcs+=[i['source_url'] for i in sec.get(k,[]) if i.get('source_url')]
+        srcs=list(dict.fromkeys(srcs))
+        page={'@type':'WebPage','@id':url(rel)+'#page','url':url(rel),'name':title.replace(' · BokenJapan',''),'isPartOf':{'@id':BASE+'#website'},'about':{'@id':url(rel)+'#place'},
+              'breadcrumb':{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'Japan','item':BASE},{'@type':'ListItem','position':2,'name':pname,'item':BASE+pref+'/'},{'@type':'ListItem','position':3,'name':tname,'item':url(rel)}]}}
+        if srcs: page['isBasedOn']=srcs; page['citation']=srcs
+        if mod: page['dateModified']=mod
+        graph=[page,dest]
         for key,t in (('Dining','Restaurant'),('Stay','LodgingBusiness'),('Sights','TouristAttraction')):
             if sec.get(key):
-                graph.append({'@type':'ItemList','name':f'{key} in {tname}','itemListElement':[{'@type':'ListItem','position':n+1,'item':place(t,i)} for n,i in enumerate(sec[key])]})
+                graph.append({'@type':'ItemList','name':f'{LABEL[key]} in {tname}','itemListElement':[{'@type':'ListItem','position':n+1,'item':place(t,i)} for n,i in enumerate(sec[key])]})
+        sib=sorted(SIB.get(pref,[])); i=sib.index(town); others=[x for x in sib if x!=town]
+        prev_,next_=sib[i-1],sib[(i+1)%len(sib)]
+        nm=lambda x: NAMES.get(pref+'/'+x,x)
+        nav=(f'{N0}<nav class="bj-more" aria-label="More in {html.escape(pname)}"><h2>More in {html.escape(pname)}</h2>'
+             f'<p>{a("../"+prev_+"/","← "+nm(prev_))} · {a("../","All towns in "+pname)} · {a("../"+next_+"/",nm(next_)+" →")}</p>'
+             '<p>Other towns: '+' · '.join(a("../"+x+"/",nm(x)) for x in others)+f'</p><p>{a("/","Back to all prefectures")}</p></nav>{N1}\n')
         rec={'name':tname,'slug':town,'prefecture':pref,'url':url(rel),'official':sec.get('Official'),
-             'sights':sec.get('Sights',[]),'food':sec.get('Dining',[]),'stays':sec.get('Stay',[])}
+             'sights':sec.get('Sights',[]),'food':sec.get('Dining',[]),'stays':sec.get('Stay',[]),'date_modified':mod}
         if g: rec['geo']={'lat':g['lat'],'lon':g['lon']}
         towns.setdefault(pref,[]).append(rec)
-    s=re.sub(r'\n?'+re.escape(M0)+r'.*?'+re.escape(M1),'',s,flags=re.S)
+    if not noindex and title:
+        s=re.sub(r'(?s)<title>.*?</title>',f'<title>{html.escape(title,quote=False)}</title>',s,count=1)
+    if not noindex and desc and 'name="description"' not in s:
+        s=s.replace('</head>',f'{D0}<meta name="description" content="{html.escape(desc)}">{D1}\n</head>',1)
+    if h1: s=re.sub(r'<h1 class="page-title">.*?</h1>',f'<h1 class="page-title">{html.escape(h1,quote=False)}</h1>',s,count=1)
+    if nav: s=s.replace('</main>',nav+'</main>',1)
     if graph and not noindex:
         ld=json.dumps({'@context':'https://schema.org','@graph':graph},ensure_ascii=False).replace('</','<\\/')
         s=s.replace('</head>',f'{M0}<script type="application/ld+json">{ld}</script>{M1}\n</head>',1)
@@ -104,6 +161,7 @@ open(os.path.join(ROOT,'sitemap.xml'),'w').write('<?xml version="1.0" encoding="
 L=[ '# BokenJapan','',"> BokenJapan (bokenjapan.com) is an English travel guide to rural and small-town Japan: one page per prefecture and per municipality, listing sights, places to eat and places to stay, each with a link to its official or source page.",'',
  'Structure: `/` home → `/<prefecture>/` prefecture index (map + town list) → `/<prefecture>/<town>/` town page with sections Official, Stay, Dining, Sights. Pages are static; JSON-LD (schema.org) is embedded in each page head.','',
  '## Open data (JSON, CORS-enabled)',f'- [Data index]({BASE}data/index.json): entry point and counts',f'- [Prefectures]({BASE}data/prefectures.json): all prefectures with towns file URLs',f'- [Data README]({BASE}data/README.md): schema notes','',
+ '## URL patterns','- `/<prefecture>/` prefecture hub; `/<prefecture>/<town>/` town page (sections Official, Stay, Dining, Sights; JSON-LD WebPage + TouristDestination with isBasedOn sources and dateModified).','- Reserved for future comparison guides (not yet published): `/best/<thing>-in-<place>/` (e.g. /best/onsen-ryokan-in-aomori/) and `/<prefecture>/<town>/getting-there/` access guides. Only real, sourced comparisons will be published there.','',
  '## Prefectures']+[f"- [{p['name']}]({p['url']}): {p.get('town_count',0)} towns · [JSON]({p['towns_file']})" for p in PL]+['','## Key pages',f'- [Home]({BASE})',f'- [Privacy]({BASE}privacy.html)',f'- [Terms]({BASE}terms.html)',f'- [Sitemap]({BASE}sitemap.xml)','','## Social']+[f'- {u}' for u in SAME]+['','## Optional',f'- [Full town list]({BASE}llms-full.txt)','']
 open(os.path.join(ROOT,'llms.txt'),'w').write('\n'.join(L))
 F=['# BokenJapan – full town list','','> Every town page with counts of sights, food and stays. See llms.txt for structure.','']
