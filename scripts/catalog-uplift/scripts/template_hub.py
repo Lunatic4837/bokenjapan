@@ -90,7 +90,7 @@ def fill_photo(li, slug, st):
 # ---------- Stay romaji + phones
 ROMAJI_BAD = re.compile(r'(\b[A-Z] [A-Z] [A-Z]\b|Hoteru|Ryokan [A-Z]|Sou\b|Paaku|Bijinesu|Purinsu|Shitei|ruutoin|Gurando|Nyuu|Rizooto|Penshon|Gesutohausu|Hausu|Puraza|Rooyaru|Sentaa|Onsenryokan|\( |aa|ii|uu|ee|oo|ou\b| Ya\b| Kan\b| En\b)', re.I)
 def fix_stay(li, muni_ja, muni_en, st):
-    srcm = re.search(r'sources: [^>]*(jalan_url|ikkyu_url|tabelog_url|rakuten_url)=', li)
+    srcm = re.search(r'sources: [^>]*(jalan_url|ik?kyu_url|tabelog_url|rakuten_url)=', li)
     if not srcm: return li
     b = blurb(li); n = name(li)
     # lodging: only rewrite garbled romaji; dining: names are kakasi output, always re-derive
@@ -152,7 +152,7 @@ def build(pref, slug, st):
     st['no_see'] += not see_l; st['no_do'] += not do_l
     near_note = ''
     if not stay:
-        snm = re.search(r'<p class="stay-none">.*?nearest options in <a href="/[^/]+/([^/]+)/">', src, re.S)
+        snm = re.search(r'<p class="stay-none">.*?nearest options in <a href="(?:https://bokenjapan\.com)?/[^/]+/([^/]+)/">', src, re.S)
         if snm and NEAR_STAY.get(snm.group(1)):
             stay = NEAR_STAY[snm.group(1)]; SECT['stay'] = ('Stay', stay); st['stay_nearest'] += 1
             near_note = re.search(r'<p class="stay-none">.*?</p>', src, re.S).group(0)

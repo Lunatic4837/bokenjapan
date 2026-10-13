@@ -18,7 +18,7 @@ for pref in sys.argv[2:]:
             t = Path(f).read_text(); t0 = t
             t = re.sub(r'&amp;(amp|#\d+|#x[0-9a-fA-F]+|quot|lt|gt|apos);', r'&\1;', t)
             def fix(m):
-                li = m.group(0); s = re.search(r'sources: [^>]*(jalan_url|ikkyu_url|tabelog_url|rakuten_url)=', li)
+                li = m.group(0); s = re.search(r'sources: [^>]*(jalan_url|ik?kyu_url|tabelog_url|rakuten_url)=', li)
                 b = re.search(r'class="place-blurb">([^<]*)</p>', li); n = re.search(r'class="place-name">(.*?)</p>', li)
                 if not (b and n): return li
                 ja = html.unescape(n.group(1)).strip()
@@ -28,7 +28,7 @@ for pref in sys.argv[2:]:
                 else: new = natural_en(html.unescape(n.group(1)), muni_ja, muni_en)
                 if not new or html.escape(new, quote=True) == b.group(1): return li
                 st['renamed'] += 1
-                li = li.replace(b.group(0), f'<p class="place-blurb">{html.escape(new, quote=True)}</p>', 1)
+                li = li.replace(b.group(0), f'class="place-blurb">{html.escape(new, quote=True)}</p>', 1)
                 return re.sub(r'(<img class="thumb"[^>]*alt=")[^"]*', lambda m2: m2.group(1) + html.escape(new, quote=True), li, count=1)
             t = re.sub(r'<li>(?:(?!</li>).)*?class="place-name".*?</li>', fix, t, flags=re.S)
             if t != t0: Path(f).write_text(t); st['files'] += 1
