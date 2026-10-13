@@ -11,7 +11,7 @@
    "official": {
     "links": [
      {
-      "label": "City / town / village site",
+      "label": "Ainan Town Hall",
       "url": "https://www.town.ainan.ehime.jp/"
      },
      {
@@ -22,7 +22,242 @@
     "address": "2420 Johen Ko, Ainan Town, Minamiuwa District, Ehime 798-4196, Japan",
     "phone": "0895-72-1211"
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "愛南町役場",
+     "name_en": "Ainan Town Hall",
+     "description": "Ainan town hall: resident services, certificates and local information, at 2420 Johen Ko, Ainan Town, Minamiuwa District, Ehime 798-4196, Japan.",
+     "source_url": "https://www.town.ainan.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/ainan/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Shidenkai Tenjikan",
+     "source_url": "https://www.town.ainan.ehime.jp/kanko/",
+     "page": "https://bokenjapan.com/ehime/ainan/do/"
+    }
+   ],
+   "food": [
+    {
+     "name": "アンベール",
+     "name_en": "Anberu",
+     "source_url": "https://tabelog.com/ehime/A3804/A380404/38005011/",
+     "page": "https://bokenjapan.com/ehime/ainan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "華山",
+     "name_en": "Kazan",
+     "source_url": "https://tabelog.com/ehime/A3804/A380404/38000759/",
+     "page": "https://bokenjapan.com/ehime/ainan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Mimosa Cafe",
+     "name_en": "Mimosa Cafe",
+     "source_url": "https://tabelog.com/ehime/A3804/A380404/38014992/",
+     "page": "https://bokenjapan.com/ehime/ainan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "愛南 市場食堂",
+     "name_en": "Ainan Shijo Shokudo",
+     "source_url": "https://tabelog.com/ehime/A3804/A380404/38007391/",
+     "page": "https://bokenjapan.com/ehime/ainan/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "なにわ",
+     "name_en": "Naniwa",
+     "source_url": "https://tabelog.com/ehime/A3804/A380404/38000875/",
+     "page": "https://bokenjapan.com/ehime/ainan/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "お好み焼き ひらの",
+     "name_en": "Okonomiyaki Hira no",
+     "source_url": "https://tabelog.com/ehime/A3804/A380404/38007319/",
+     "page": "https://bokenjapan.com/ehime/ainan/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "フレッシュ一本松",
+     "name_en": "Fresh Ipponmatsu",
+     "source_url": "https://tabelog.com/ehime/A3804/A380404/38009311/",
+     "page": "https://bokenjapan.com/ehime/ainan/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "みかど食堂",
+     "name_en": "Mikado Shokudo",
+     "source_url": "https://tabelog.com/ehime/A3804/A380404/38010219/",
+     "page": "https://bokenjapan.com/ehime/ainan/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "豊源",
+     "name_en": "Yutaka Gen",
+     "source_url": "https://tabelog.com/ehime/A3804/A380404/38013020/",
+     "page": "https://bokenjapan.com/ehime/ainan/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "シェフミー",
+     "name_en": "Shiefumi",
+     "source_url": "https://tabelog.com/ehime/A3804/A380404/38007008/",
+     "page": "https://bokenjapan.com/ehime/ainan/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "アルファ",
+     "name_en": "Alpha",
+     "source_url": "https://tabelog.com/ehime/A3804/A380404/38000849/",
+     "page": "https://bokenjapan.com/ehime/ainan/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "大樹",
+     "name_en": "Taiju",
+     "source_url": "https://tabelog.com/ehime/A3804/A380404/38008632/",
+     "page": "https://bokenjapan.com/ehime/ainan/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "白椿",
+     "name_en": "Shirotsubaki",
+     "source_url": "https://tabelog.com/ehime/A3804/A380404/38009896/",
+     "page": "https://bokenjapan.com/ehime/ainan/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "道の駅 みしょうMIC",
+     "name_en": "Michi no Eki Misho MIC",
+     "source_url": "https://tabelog.com/ehime/A3804/A380404/38007459/",
+     "page": "https://bokenjapan.com/ehime/ainan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "山出憩いの里温泉",
+     "name_en": "Yamade Ikoi no Sato Onsen",
+     "source_url": "https://tabelog.com/ehime/A3804/A380404/38009308/",
+     "page": "https://bokenjapan.com/ehime/ainan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "あけぼの荘",
+     "name_en": "Akebo no-so",
+     "source_url": "https://tabelog.com/ehime/A3804/A380404/38009312/",
+     "page": "https://bokenjapan.com/ehime/ainan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "青い国ホテル",
+     "name_en": "Aoi Kuni Hotel",
+     "source_url": "https://tabelog.com/ehime/A3804/A380404/38009045/",
+     "page": "https://bokenjapan.com/ehime/ainan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "民宿ビーチ",
+     "name_en": "Minshuku Beach",
+     "source_url": "https://tabelog.com/ehime/A3804/A380404/38009305/",
+     "page": "https://bokenjapan.com/ehime/ainan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "ゆらり内海",
+     "name_en": "Yurari Utsumi",
+     "source_url": "https://tabelog.com/ehime/A3804/A380404/38007190/",
+     "page": "https://bokenjapan.com/ehime/ainan/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "ほっとバター",
+     "name_en": "Hotto Butter",
+     "source_url": "https://tabelog.com/ehime/A3804/A380404/38009307/",
+     "page": "https://bokenjapan.com/ehime/ainan/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "ラヴィータ",
+     "name_en": "La Vita",
+     "source_url": "https://tabelog.com/ehime/A3804/A380404/38008427/",
+     "page": "https://bokenjapan.com/ehime/ainan/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    }
+   ],
+   "sights": [
+    {
+     "name": "Ainan Town Hall",
+     "source_url": "https://www.town.ainan.ehime.jp/kanko/",
+     "page": "https://bokenjapan.com/ehime/ainan/see/"
+    },
+    {
+     "name": "Gaihaku Ishigaki Village",
+     "source_url": "https://www.town.ainan.ehime.jp/kanko/",
+     "page": "https://bokenjapan.com/ehime/ainan/see/"
+    },
+    {
+     "name": "Sozu Kawa",
+     "source_url": "https://www.town.ainan.ehime.jp/kanko/",
+     "page": "https://bokenjapan.com/ehime/ainan/see/"
+    },
+    {
+     "name": "Funakoshi (Saikai)",
+     "source_url": "https://www.town.ainan.ehime.jp/kanko/",
+     "page": "https://bokenjapan.com/ehime/ainan/see/"
+    },
+    {
+     "name": "Hikari Zendera Hondo",
+     "source_url": "https://www.town.ainan.ehime.jp/kanko/",
+     "page": "https://bokenjapan.com/ehime/ainan/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "宇和海国立公園 青い国ホテル",
+     "name_en": "Uwami Kokuritsukoen Aoi Kuni Hotel",
+     "source_url": "https://www.jalan.net/yad374459/",
+     "page": "https://bokenjapan.com/ehime/ainan/stay/"
+    },
+    {
+     "name": "HOTEL AZ 愛媛愛南店",
+     "name_en": "HOTEL AZ Ehime Ainan",
+     "description": "Inn in Mishonara, Ainan; 30-minute drive from Sukumowada IC.",
+     "source_url": "https://www.jalan.net/yad307178/",
+     "page": "https://bokenjapan.com/ehime/ainan/stay/"
+    },
+    {
+     "name": "ホテルセレクト愛媛愛南町",
+     "name_en": "Hotel Selection Ehime Ainan Machi",
+     "description": "Hotel in Hiromi, Ainan with Wi-Fi and a sauna.",
+     "source_url": "https://www.jalan.net/yad308968/",
+     "page": "https://bokenjapan.com/ehime/ainan/stay/"
+    },
+    {
+     "name": "一本松温泉 あけぼの荘",
+     "name_en": "Ipponmatsu Onsen Akebono So",
+     "description": "Inn at Ipponmatsu Onsen in Masuda, Ainan with business travelers.",
+     "source_url": "https://www.jalan.net/yad354696/",
+     "page": "https://bokenjapan.com/ehime/ainan/stay/"
+    },
+    {
+     "name": "大下民宿",
+     "name_en": "Oshita Minshuku",
+     "description": "Family-run minshuku in Nakadomari, Ainan with local seafood dinners.",
+     "source_url": "https://www.jalan.net/yad375916/",
+     "page": "https://bokenjapan.com/ehime/ainan/stay/"
+    },
+    {
+     "name": "マリンランドひらばえ",
+     "name_en": "Marine Land Hirabae",
+     "description": "Inn in Tairaha, Ainan with family-friendly stays.",
+     "source_url": "https://www.jalan.net/yad362728/",
+     "page": "https://bokenjapan.com/ehime/ainan/stay/"
+    }
+   ]
   },
   {
    "name": "Ikata",
@@ -32,7 +267,7 @@
    "official": {
     "links": [
      {
-      "label": "City / town / village site",
+      "label": "Ikata Town Hall",
       "url": "https://www.town.ikata.ehime.jp/"
      },
      {
@@ -43,7 +278,241 @@
     "address": "1993-1 Minatoura, Ikata Town, Nishiuwa District, Ehime 796-0301, Japan",
     "phone": "0894-38-0211"
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "伊方町役場",
+     "name_en": "Ikata Town Hall",
+     "description": "Ikata town hall: resident services, certificates and local information, at 1993-1 Minatoura, Ikata Town, Nishiuwa District, Ehime 796-0301, Japan.",
+     "source_url": "https://www.town.ikata.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/ikata/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Roadside Station Ikata Kirara Kan",
+     "source_url": "https://www.town.ikata.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/ikata/do/"
+    }
+   ],
+   "food": [
+    {
+     "name": "カフェ 木と樹",
+     "name_en": "Cafe Ki To Ki",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38013540/",
+     "page": "https://bokenjapan.com/ehime/ikata/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "CAFE CYANTI",
+     "name_en": "CAFE Cyanti",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38015352/",
+     "page": "https://bokenjapan.com/ehime/ikata/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "CAFE&RESTAURANT NEW PORT",
+     "name_en": "Cafe&Restaurant NEW PORT",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38017081/",
+     "page": "https://bokenjapan.com/ehime/ikata/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "しらす食堂",
+     "name_en": "Shirasu Shokudo",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38013412/",
+     "page": "https://bokenjapan.com/ehime/ikata/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "伊方じゃこてん",
+     "name_en": "Ikata Jakoten",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38006074/",
+     "page": "https://bokenjapan.com/ehime/ikata/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "マルマ食堂",
+     "name_en": "Maruma Shokudo",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38004936/",
+     "page": "https://bokenjapan.com/ehime/ikata/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Dining海",
+     "name_en": "Dining Umi",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38015495/",
+     "page": "https://bokenjapan.com/ehime/ikata/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "清海",
+     "name_en": "Kiyomi",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38004934/",
+     "page": "https://bokenjapan.com/ehime/ikata/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "三崎おみやげスーパー",
+     "name_en": "Misaki Omiyage Super",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38010454/",
+     "page": "https://bokenjapan.com/ehime/ikata/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "お料理 ひろせ",
+     "name_en": "O Cuisine Hirose",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38015351/",
+     "page": "https://bokenjapan.com/ehime/ikata/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "風車",
+     "name_en": "Fusha",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38005248/",
+     "page": "https://bokenjapan.com/ehime/ikata/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "道の駅 伊方きらら館",
+     "name_en": "Michi no Eki Ikata Kirara-kan",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38007659/",
+     "page": "https://bokenjapan.com/ehime/ikata/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "まりーな亭",
+     "name_en": "Marina-tei",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38000829/",
+     "page": "https://bokenjapan.com/ehime/ikata/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "佐田岬はなはな",
+     "name_en": "Sadamisaki Hanahana",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38010936/",
+     "page": "https://bokenjapan.com/ehime/ikata/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "清海じゃこてん部",
+     "name_en": "Kiyomi Jakoten Bu",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38012187/",
+     "page": "https://bokenjapan.com/ehime/ikata/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "みちもと",
+     "name_en": "Michimoto",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38012210/",
+     "page": "https://bokenjapan.com/ehime/ikata/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "お食事処 宇和海",
+     "name_en": "Restaurant Uwami",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38005251/",
+     "page": "https://bokenjapan.com/ehime/ikata/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "南の果樹園 ニュウズ",
+     "name_en": "Minami no Kajuen Nyuzu",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38006964/",
+     "page": "https://bokenjapan.com/ehime/ikata/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "田村菓子舗",
+     "name_en": "Tamura Kashiho",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38005947/",
+     "page": "https://bokenjapan.com/ehime/ikata/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "道の駅 佐田岬半島ミュージアム",
+     "name_en": "Michi no Eki Sadamisaki Han Shima Myujiamu",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38005249/",
+     "page": "https://bokenjapan.com/ehime/ikata/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "ジェラテリア だんだん",
+     "name_en": "Jierateria Dandan",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38015206/",
+     "page": "https://bokenjapan.com/ehime/ikata/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "金谷製菓舗",
+     "name_en": "Kanaya Seika Ho",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38009204/",
+     "page": "https://bokenjapan.com/ehime/ikata/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    }
+   ],
+   "sights": [
+    {
+     "name": "Sadamisaki Lighthouse",
+     "source_url": "https://www.town.ikata.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/ikata/see/"
+    },
+    {
+     "name": "Sadamisaki",
+     "source_url": "https://www.town.ikata.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/ikata/see/"
+    },
+    {
+     "name": "Roadside Station Sadamisaki Han Shima Museum",
+     "source_url": "https://www.town.ikata.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/ikata/see/"
+    },
+    {
+     "name": "Misaki Hachiman Shrine",
+     "source_url": "https://www.town.ikata.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/ikata/see/"
+    },
+    {
+     "name": "Sadamisaki Dai 4 Hodai Ato",
+     "source_url": "https://www.town.ikata.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/ikata/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "亀ヶ池温泉 亀乃湯別邸",
+     "name_en": "Kame Ke Ike Onsen Kame No Yu Bettei",
+     "description": "Inn at Ike Onsen in Futamikabuto, Ikata with a sauna.",
+     "source_url": "https://www.jalan.net/yad355266/",
+     "page": "https://bokenjapan.com/ehime/ikata/stay/"
+    },
+    {
+     "name": "瀬戸アグリトピア",
+     "name_en": "Seto Aguritopia",
+     "source_url": "https://www.jalan.net/yad357674/",
+     "page": "https://bokenjapan.com/ehime/ikata/stay/"
+    },
+    {
+     "name": "HANARE stay&space 佐田岬",
+     "name_en": "HANARE stay&space Sadamisaki",
+     "description": "Inn in Misaki, Ikata with one group per day.",
+     "source_url": "https://www.jalan.net/yad379884/",
+     "page": "https://bokenjapan.com/ehime/ikata/stay/"
+    },
+    {
+     "name": "えびすや旅館",
+     "name_en": "Ebisuya Ryokan",
+     "description": "Ryokan inn in Misaki, Ikata with local seafood dinners.",
+     "source_url": "https://www.jalan.net/yad327912/",
+     "page": "https://bokenjapan.com/ehime/ikata/stay/"
+    },
+    {
+     "name": "民宿大岩",
+     "name_en": "Minshuku Oiwa",
+     "source_url": "https://www.jalan.net/yad361151/",
+     "page": "https://bokenjapan.com/ehime/ikata/stay/"
+    }
+   ]
   },
   {
    "name": "Imabari",
@@ -53,7 +522,7 @@
    "official": {
     "links": [
      {
-      "label": "City / town / village site",
+      "label": "Imabari City Hall",
       "url": "https://www.city.imabari.ehime.jp/"
      },
      {
@@ -64,7 +533,296 @@
     "address": "1-4-1 Bekku-cho, Imabari City, Ehime 794-8511, Japan",
     "phone": "0898-32-5200"
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "今治市役所",
+     "name_en": "Imabari City Hall",
+     "description": "Imabari city hall: resident services, certificates and local information, at 1-4-1 Bekku-cho, Imabari City, Ehime 794-8511, Japan.",
+     "source_url": "https://www.city.imabari.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/imabari/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Kame Ro Yama",
+     "source_url": "https://www.city.imabari.ehime.jp/kanko/",
+     "page": "https://bokenjapan.com/ehime/imabari/do/"
+    }
+   ],
+   "food": [
+    {
+     "name": "来島海峡サービスエリア フードコート",
+     "name_en": "Rai Shima Kaikyo Service Area Food Court",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38000010/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "白楽天 今治本店",
+     "name_en": "Hakuraku Ten Imabari Main Store",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38000122/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "重松飯店",
+     "name_en": "Shigematsu Meshi",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38000101/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "リストランテ ソウ",
+     "name_en": "Risutorante So",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38013128/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "しまなみフレンチ Filer",
+     "name_en": "Shimanami French Filer",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38013865/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "アウストロ",
+     "name_en": "Ausutoro",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38008906/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "はち八",
+     "name_en": "Hachi Hachi",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38000085/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "鳥林",
+     "name_en": "Tori Hayashi",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38000149/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "呉本屋",
+     "name_en": "Kure Hon-ya",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38000918/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "白鳥",
+     "name_en": "Hakucho",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38004138/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "光屋",
+     "name_en": "Hikari-ya",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38005273/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "さんわ 伯方島本店",
+     "name_en": "Sanwa Hakata Shima Main Store",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38001018/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "松製麺所",
+     "name_en": "Matsu Seimen Tokoro",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38008836/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "しの田",
+     "name_en": "Shi no Ta",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38006443/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "まど居",
+     "name_en": "Mado Kyo",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38010223/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "虹吉",
+     "name_en": "Niji Kichi",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38015606/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "赤吉",
+     "name_en": "Aka Kichi",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38005035/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "延喜寿し",
+     "name_en": "Engi Hisashi Shi",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38002576/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "貴ふね寿し",
+     "name_en": "Takashi Fune Hisashi Shi",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38002590/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "海食 浜勝",
+     "name_en": "Kaishoku Hamakatsu",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38001028/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "旅館 茶梅",
+     "name_en": "Ryokan Sazanka",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38005889/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "伊豫水軍",
+     "name_en": "Iyo Suigun",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38000011/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "富士見園",
+     "name_en": "Fujimi Sono",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38001166/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "お食事処 大漁",
+     "name_en": "Restaurant Tairyo",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38005013/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
+     "category": "Japanese (seafood)"
+    }
+   ],
+   "sights": [
+    {
+     "name": "Imabari Shiro",
+     "source_url": "https://www.city.imabari.ehime.jp/kanko/",
+     "page": "https://bokenjapan.com/ehime/imabari/see/"
+    },
+    {
+     "name": "Rai Shima Kaikyo Bridge",
+     "source_url": "https://www.city.imabari.ehime.jp/kanko/",
+     "page": "https://bokenjapan.com/ehime/imabari/see/"
+    },
+    {
+     "name": "Taoru Art Museum ICHIHIRO",
+     "source_url": "https://www.city.imabari.ehime.jp/kanko/",
+     "page": "https://bokenjapan.com/ehime/imabari/see/"
+    },
+    {
+     "name": "Oyamatsumi Shrine",
+     "source_url": "https://www.city.imabari.ehime.jp/kanko/",
+     "page": "https://bokenjapan.com/ehime/imabari/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "GLAMPROOK しまなみ",
+     "name_en": "Glamprook Shimanami",
+     "source_url": "https://www.ikyu.com/00051289/",
+     "page": "https://bokenjapan.com/ehime/imabari/stay/"
+    },
+    {
+     "name": "しまなみプライムホテル今治",
+     "name_en": "Shimanami Prime- Hotel Imabari",
+     "description": "Hotel in Tokiwa, Imabari with scenic views and a sauna.",
+     "source_url": "https://www.ikyu.com/00082617/",
+     "page": "https://bokenjapan.com/ehime/imabari/stay/"
+    },
+    {
+     "name": "JRクレメントイン今治",
+     "name_en": "JR Kurementoin Imabari",
+     "source_url": "https://www.ikyu.com/00082308/",
+     "page": "https://bokenjapan.com/ehime/imabari/stay/"
+    },
+    {
+     "name": "ホテルルートイン今治",
+     "name_en": "Hotel Route Inn Imabari",
+     "description": "Hotel at Danjobetsutennen Onsen in Umakoshi, Imabari with parking and a large communal bath.",
+     "source_url": "https://www.ikyu.com/00082603/",
+     "page": "https://bokenjapan.com/ehime/imabari/stay/"
+    },
+    {
+     "name": "COZY HOTEL NUKUI shimanami",
+     "name_en": "COZY HOTEL NUKUI shimanami",
+     "description": "Inn in Nakadera, Imabari with parking and a sauna.",
+     "source_url": "https://www.ikyu.com/00082699/",
+     "page": "https://bokenjapan.com/ehime/imabari/stay/"
+    },
+    {
+     "name": "今治国際ホテル",
+     "name_en": "Imabari Kokusai Hotel",
+     "source_url": "https://www.ikyu.com/00000508/",
+     "page": "https://bokenjapan.com/ehime/imabari/stay/"
+    },
+    {
+     "name": "カドヤ別荘",
+     "name_en": "Kadoya Besso",
+     "description": "Inn at Soinoshizukana Onsen in Tamagawa, Imabari with riverside setting.",
+     "source_url": "https://www.ikyu.com/00030524/",
+     "page": "https://bokenjapan.com/ehime/imabari/stay/"
+    },
+    {
+     "name": "今治プラザホテル",
+     "name_en": "Imabari Plaza Hotel",
+     "source_url": "https://www.jalan.net/yad324168/",
+     "page": "https://bokenjapan.com/ehime/imabari/stay/"
+    },
+    {
+     "name": "HOTEL STAY +",
+     "name_en": "HOTEL STAY +",
+     "source_url": "https://www.jalan.net/yad397639/",
+     "page": "https://bokenjapan.com/ehime/imabari/stay/"
+    },
+    {
+     "name": "ホテルクラウンヒルズ今治駅前（ＢＢＨホテルグループ）",
+     "name_en": "Hotel Crown Hills Imabari Ekimae (BBH Hotel Group )",
+     "description": "Hotel in Kitahorai, Imabari with buffet meals and breakfast available.",
+     "source_url": "https://www.jalan.net/yad331144/",
+     "page": "https://bokenjapan.com/ehime/imabari/stay/"
+    },
+    {
+     "name": "今治アーバンホテル",
+     "name_en": "Imabari Urban Hotel",
+     "description": "Hotel in Kitahorai, Imabari with breakfast available and parking.",
+     "source_url": "https://www.jalan.net/yad325629/",
+     "page": "https://bokenjapan.com/ehime/imabari/stay/"
+    },
+    {
+     "name": "今治ステーションホテル★2024年6月24日グランドオープン",
+     "name_en": "Imabari Station Hotel 2024 Nen 6 Gatsu 24 Nichi Grand Opening",
+     "description": "Hotel in Kitahorai, Imabari with breakfast available.",
+     "source_url": "https://www.jalan.net/yad336492/",
+     "page": "https://bokenjapan.com/ehime/imabari/stay/"
+    }
+   ]
   },
   {
    "name": "Iyo",
@@ -74,7 +832,7 @@
    "official": {
     "links": [
      {
-      "label": "City / town / village site",
+      "label": "Iyo City Hall",
       "url": "https://www.city.iyo.lg.jp/"
      },
      {
@@ -85,7 +843,237 @@
     "address": "820 Minato, Iyo City, Ehime 799-3193, Japan",
     "phone": "089-982-1111"
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "伊予市役所",
+     "name_en": "Iyo City Hall",
+     "description": "Iyo city hall: resident services, certificates and local information, at 820 Minato, Iyo City, Ehime 799-3193, Japan.",
+     "source_url": "https://www.city.iyo.lg.jp/",
+     "page": "https://bokenjapan.com/ehime/iyo/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Man'an Minato Kyu Lighthouse",
+     "source_url": "https://iyokankou.jp/",
+     "page": "https://bokenjapan.com/ehime/iyo/do/"
+    }
+   ],
+   "food": [
+    {
+     "name": "下灘珈琲",
+     "name_en": "Shimonada Coffee",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38011835/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "DAIDOKORO CAFE MOKU",
+     "name_en": "Daidokoro CAFE MOKU",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38005343/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "三日月とカフェ 伊予店",
+     "name_en": "Mikazuki To Cafe Iyo",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38010502/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "道の駅 ふたみ",
+     "name_en": "Michi no Eki Futami",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38001419/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "朝日食堂",
+     "name_en": "Asahi Shokudo",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38002343/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "ごはん屋いづし",
+     "name_en": "Gohan-ya Izushi",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38014293/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "アイドル",
+     "name_en": "Idol",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38003355/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "ラピ",
+     "name_en": "Rapi",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38013130/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Kitchen ichi-nichi",
+     "name_en": "Kitchen ichi-nichi",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38005530/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "グランシェフ高坂",
+     "name_en": "Gran Shiefu Takasaka",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38000249/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "ふたみ渚のレストランMonde Bleu",
+     "name_en": "Futami Nagisa No Restaurant Monde Bleu",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38013924/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "シェ・ボヌール 篠﨑",
+     "name_en": "Shie Bonuru Shino Shino",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38015020/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "濱田屋",
+     "name_en": "Hamada-ya",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38001501/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "中華そば みかさ",
+     "name_en": "Chuka Soba Mikasa",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38001614/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "麺やえい吉",
+     "name_en": "Men Yaei Kichi",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38001025/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "そば道場 こねこね亭",
+     "name_en": "Soba Dojo Konekone-tei",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38002283/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "ラーメン館麺人",
+     "name_en": "Ramen Kan Men Nin",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38002113/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "大介うどん 伊予八倉店",
+     "name_en": "Daisuke Udon Iyo Hachi Kura",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38002821/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "味芳",
+     "name_en": "Aji Ho",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38000744/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "料理どころ 翠笑",
+     "name_en": "Cuisine Dokoro Sui Warai",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38010681/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "季節料理 魚吉",
+     "name_en": "Kisetsu Cuisine Sakana Kichi",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38000697/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "潮路",
+     "name_en": "Shioji",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38001388/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "messo",
+     "name_en": "messo",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38013190/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "パン工房 モンタナ",
+     "name_en": "Bread Kobo Montana",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38002239/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    }
+   ],
+   "sights": [
+    {
+     "name": "Goshiki Hama Park",
+     "source_url": "https://iyokankou.jp/",
+     "page": "https://bokenjapan.com/ehime/iyo/see/"
+    },
+    {
+     "name": "Futami Shiisaido Park",
+     "source_url": "https://iyokankou.jp/",
+     "page": "https://bokenjapan.com/ehime/iyo/see/"
+    },
+    {
+     "name": "Iyo Eki",
+     "source_url": "https://iyokankou.jp/",
+     "page": "https://bokenjapan.com/ehime/iyo/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "いよプリンスホテル",
+     "name_en": "Iyo Prince Hotel",
+     "source_url": "https://www.jalan.net/yad360320/",
+     "page": "https://bokenjapan.com/ehime/iyo/stay/"
+    },
+    {
+     "name": "HOTEL AZ 愛媛伊予店",
+     "name_en": "HOTEL AZ Ehime Iyo",
+     "description": "Inn in Inari, Iyo with business travelers.",
+     "source_url": "https://www.jalan.net/yad399235/",
+     "page": "https://bokenjapan.com/ehime/iyo/stay/"
+    },
+    {
+     "name": "ウェルピア伊予",
+     "name_en": "Uerupia Iyo",
+     "source_url": "https://www.jalan.net/yad385125/",
+     "page": "https://bokenjapan.com/ehime/iyo/stay/"
+    },
+    {
+     "name": "花の森ホテル",
+     "name_en": "Hana No Mori Hotel",
+     "source_url": "https://www.jalan.net/yad303519/",
+     "page": "https://bokenjapan.com/ehime/iyo/stay/"
+    }
+   ]
   },
   {
    "name": "Kamijima",
@@ -95,8 +1083,8 @@
    "official": {
     "links": [
      {
-      "label": "City / town / village site",
-      "url": "https://www.town.kamijima.lg.jp/"
+      "label": "Kamijima Town Hall",
+      "url": "https://www.town.kamijima.lg.jp"
      },
      {
       "label": "Tourism site",
@@ -106,7 +1094,235 @@
     "address": "210 Shimoyuge, Yuge, Kamijima Town, Ochi District, Ehime 794-2592, Japan",
     "phone": "0897-77-2500"
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "上島町役場",
+     "name_en": "Kamijima Town Hall",
+     "description": "Kamijima town hall: resident services, certificates and local information, at 210 Shimoyuge, Yuge, Kamijima Town, Ochi District, Ehime 794-2592, Japan.",
+     "source_url": "https://www.town.kamijima.lg.jp",
+     "page": "https://bokenjapan.com/ehime/kamijima/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Yumeshima Kaido (Sekizen Yama Yori)",
+     "source_url": "https://kamijima.info/",
+     "page": "https://bokenjapan.com/ehime/kamijima/do/"
+    }
+   ],
+   "food": [
+    {
+     "name": "しまでcafe",
+     "name_en": "Shimade cafe",
+     "source_url": "https://tabelog.com/ehime/A3802/A380205/38001621/",
+     "page": "https://bokenjapan.com/ehime/kamijima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "レモンハート",
+     "name_en": "Remonhato",
+     "source_url": "https://tabelog.com/ehime/A3802/A380205/38007136/",
+     "page": "https://bokenjapan.com/ehime/kamijima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "たい屋",
+     "name_en": "Tai-ya",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38014250/",
+     "page": "https://bokenjapan.com/ehime/kamijima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "キッチン 313 カミユゲ",
+     "name_en": "Kitchen 313 Kamiyuge",
+     "source_url": "https://tabelog.com/ehime/A3802/A380205/38011093/",
+     "page": "https://bokenjapan.com/ehime/kamijima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "わらしべ。 岩城島BASE",
+     "name_en": "Warashibe Iwaki Shima BASE",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38014354/",
+     "page": "https://bokenjapan.com/ehime/kamijima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "いっ福",
+     "name_en": "Itsu Fuku",
+     "source_url": "https://tabelog.com/ehime/A3802/A380205/38015058/",
+     "page": "https://bokenjapan.com/ehime/kamijima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "ミスティー亀井",
+     "name_en": "Misty Kamei",
+     "source_url": "https://tabelog.com/ehime/A3802/A380205/38008339/",
+     "page": "https://bokenjapan.com/ehime/kamijima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "ゆめしま珈琲焙煎所 侘数奇",
+     "name_en": "Yumeshima Coffee Baisen Tokoro Ta Suki",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38017325/",
+     "page": "https://bokenjapan.com/ehime/kamijima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "vida con miel",
+     "name_en": "vida con miel",
+     "source_url": "https://tabelog.com/ehime/A3802/A380205/38014803/",
+     "page": "https://bokenjapan.com/ehime/kamijima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "みちくさ",
+     "name_en": "Michikusa",
+     "source_url": "https://tabelog.com/ehime/A3802/A380205/38008233/",
+     "page": "https://bokenjapan.com/ehime/kamijima/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "ラーメン党",
+     "name_en": "Ramen To",
+     "source_url": "https://tabelog.com/ehime/A3802/A380205/38008229/",
+     "page": "https://bokenjapan.com/ehime/kamijima/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "西野",
+     "name_en": "Nishino",
+     "source_url": "https://tabelog.com/ehime/A3802/A380205/38008232/",
+     "page": "https://bokenjapan.com/ehime/kamijima/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "濱岡",
+     "name_en": "Hamaoka",
+     "source_url": "https://tabelog.com/ehime/A3802/A380205/38008234/",
+     "page": "https://bokenjapan.com/ehime/kamijima/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "イル・マーレ",
+     "name_en": "Iru Mare",
+     "source_url": "https://tabelog.com/ehime/A3802/A380205/38007782/",
+     "page": "https://bokenjapan.com/ehime/kamijima/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "TRATTORIA アル",
+     "name_en": "Trattoria Aru",
+     "source_url": "https://tabelog.com/ehime/A3802/A380205/38014335/",
+     "page": "https://bokenjapan.com/ehime/kamijima/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "ととや",
+     "name_en": "Totoya",
+     "source_url": "https://tabelog.com/ehime/A3802/A380205/38005246/",
+     "page": "https://bokenjapan.com/ehime/kamijima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "ゆげしまダイニング彩",
+     "name_en": "Yugeshima Dining Sai",
+     "source_url": "https://tabelog.com/ehime/A3802/A380205/38012221/",
+     "page": "https://bokenjapan.com/ehime/kamijima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "どんラーメン",
+     "name_en": "Don Ramen",
+     "source_url": "https://tabelog.com/ehime/A3802/A380205/38014809/",
+     "page": "https://bokenjapan.com/ehime/kamijima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "民宿 よし正",
+     "name_en": "Minshuku Yoshi Sei",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38007370/",
+     "page": "https://bokenjapan.com/ehime/kamijima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "フェスパ",
+     "name_en": "Fesupa",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38008682/",
+     "page": "https://bokenjapan.com/ehime/kamijima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "おかえりなさい",
+     "name_en": "Okaerinasai",
+     "source_url": "https://tabelog.com/ehime/A3802/A380205/38012223/",
+     "page": "https://bokenjapan.com/ehime/kamijima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "いわぎ物産センター",
+     "name_en": "Iwagi Bussan Center",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38007015/",
+     "page": "https://bokenjapan.com/ehime/kamijima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "おやつタイム",
+     "name_en": "Oyatsu Time",
+     "source_url": "https://tabelog.com/ehime/A3802/A380201/38014804/",
+     "page": "https://bokenjapan.com/ehime/kamijima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    }
+   ],
+   "sights": [
+    {
+     "name": "Sekizen Yama Lookout",
+     "source_url": "https://kamijima.info/",
+     "page": "https://bokenjapan.com/ehime/kamijima/see/"
+    },
+    {
+     "name": "Iwaki Hashi",
+     "source_url": "https://kamijima.info/",
+     "page": "https://bokenjapan.com/ehime/kamijima/see/"
+    },
+    {
+     "name": "Yuge Bridge",
+     "source_url": "https://kamijima.info/",
+     "page": "https://bokenjapan.com/ehime/kamijima/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "インランド・シー・リゾート フェスパ",
+     "name_en": "Inrando Shi Resort Fesupa",
+     "source_url": "https://www.jalan.net/yad351096/",
+     "page": "https://bokenjapan.com/ehime/kamijima/stay/"
+    },
+    {
+     "name": "ゲストハウスみちしお",
+     "name_en": "Guesthouse Michishio",
+     "source_url": "https://www.jalan.net/yad337154/",
+     "page": "https://bokenjapan.com/ehime/kamijima/stay/"
+    },
+    {
+     "name": "一棟貸の宿 さくらんぼ",
+     "name_en": "Hitomune Tai No Yado Sakuranbo",
+     "source_url": "https://www.jalan.net/yad306441/",
+     "page": "https://bokenjapan.com/ehime/kamijima/stay/"
+    },
+    {
+     "name": "活魚民宿 よし正",
+     "name_en": "Ikeuo Minshuku Yoshi Sei",
+     "source_url": "https://www.jalan.net/yad374964/",
+     "page": "https://bokenjapan.com/ehime/kamijima/stay/"
+    },
+    {
+     "name": "なたおれの木",
+     "name_en": "Nataoreno Ki",
+     "source_url": "https://www.jalan.net/yad395411/",
+     "page": "https://bokenjapan.com/ehime/kamijima/stay/"
+    }
+   ]
   },
   {
    "name": "Kihoku",
@@ -116,7 +1332,7 @@
    "official": {
     "links": [
      {
-      "label": "City / town / village site",
+      "label": "Kihoku Town Hall",
       "url": "https://www.town.kihoku.ehime.jp/"
      },
      {
@@ -127,7 +1343,228 @@
     "address": "800-1 Oaza Chikanaga, Kihoku Town, Kitauwa District, Ehime 798-1395, Japan",
     "phone": "0895-45-1111"
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "鬼北町役場",
+     "name_en": "Kihoku Town Hall",
+     "description": "Kihoku town hall: resident services, certificates and local information, at 800-1 Oaza Chikanaga, Kihoku Town, Kitauwa District, Ehime 798-1395, Japan.",
+     "source_url": "https://www.town.kihoku.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/kihoku/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Kokudo 320 Go Kihoku Hiromi Shimoono",
+     "source_url": "https://www.town.kihoku.ehime.jp/site/kihokukanko/",
+     "page": "https://bokenjapan.com/ehime/kihoku/do/"
+    }
+   ],
+   "food": [
+    {
+     "name": "HARSHA COFFEE",
+     "name_en": "Harsha Coffee",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38015484/",
+     "page": "https://bokenjapan.com/ehime/kihoku/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "かつやま",
+     "name_en": "Katsuyama",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38012281/",
+     "page": "https://bokenjapan.com/ehime/kihoku/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "サムコッペ",
+     "name_en": "Samukoppe",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38012630/",
+     "page": "https://bokenjapan.com/ehime/kihoku/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "日吉夢産地",
+     "name_en": "Hiyoshi Yume Sanchi",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38009710/",
+     "page": "https://bokenjapan.com/ehime/kihoku/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "風",
+     "name_en": "Kaze",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38005040/",
+     "page": "https://bokenjapan.com/ehime/kihoku/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "みもざ",
+     "name_en": "Mimoza",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38012495/",
+     "page": "https://bokenjapan.com/ehime/kihoku/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "うぐいす",
+     "name_en": "Uguisu",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38015795/",
+     "page": "https://bokenjapan.com/ehime/kihoku/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "ジョイフル 愛媛広見店",
+     "name_en": "Joyful Ehime Hiromi",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38005841/",
+     "page": "https://bokenjapan.com/ehime/kihoku/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "お食事処ながた",
+     "name_en": "Restaurant Nagata",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38012280/",
+     "page": "https://bokenjapan.com/ehime/kihoku/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "櫻花",
+     "name_en": "Oka",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38009527/",
+     "page": "https://bokenjapan.com/ehime/kihoku/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "オン＆オフ",
+     "name_en": "On & Ofu",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38006164/",
+     "page": "https://bokenjapan.com/ehime/kihoku/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "鬼の酒場",
+     "name_en": "Oni no Sakaba",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38014329/",
+     "page": "https://bokenjapan.com/ehime/kihoku/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "鬼北ダイニング フェザン フィレール",
+     "name_en": "Kihoku Dining Fezan Fireru",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38013945/",
+     "page": "https://bokenjapan.com/ehime/kihoku/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "安森洞そうめん流し",
+     "name_en": "An Mori Hora Somen Nagashi",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38013878/",
+     "page": "https://bokenjapan.com/ehime/kihoku/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "がんてつ",
+     "name_en": "Gantetsu",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38012044/",
+     "page": "https://bokenjapan.com/ehime/kihoku/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "麺処好屋",
+     "name_en": "Men Tokoro Ko-ya",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38005080/",
+     "page": "https://bokenjapan.com/ehime/kihoku/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "道の駅 森の三角ぼうし",
+     "name_en": "Michi no Eki Mori no Sankaku Boshi",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38011605/",
+     "page": "https://bokenjapan.com/ehime/kihoku/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "彩り茶屋",
+     "name_en": "Irodori Cha-ya",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38006945/",
+     "page": "https://bokenjapan.com/ehime/kihoku/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "杉の家",
+     "name_en": "Sugi no-ya",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38012292/",
+     "page": "https://bokenjapan.com/ehime/kihoku/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "レストラン森のまど",
+     "name_en": "Restaurant Mori Nomado",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38005524/",
+     "page": "https://bokenjapan.com/ehime/kihoku/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "パティスリー 縁",
+     "name_en": "Patisserie Heri",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38007348/",
+     "page": "https://bokenjapan.com/ehime/kihoku/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "シャーベットハウス夢奏",
+     "name_en": "Sherbet House Yume So",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38017052/",
+     "page": "https://bokenjapan.com/ehime/kihoku/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    }
+   ],
+   "sights": [
+    {
+     "name": "Kin Ei Eki",
+     "source_url": "https://www.town.kihoku.ehime.jp/site/kihokukanko/",
+     "page": "https://bokenjapan.com/ehime/kihoku/see/"
+    },
+    {
+     "name": "Bukko Tera",
+     "source_url": "https://www.town.kihoku.ehime.jp/site/kihokukanko/",
+     "page": "https://bokenjapan.com/ehime/kihoku/see/"
+    },
+    {
+     "name": "Kihoku Town Hall",
+     "source_url": "https://www.town.kihoku.ehime.jp/site/kihokukanko/",
+     "page": "https://bokenjapan.com/ehime/kihoku/see/"
+    },
+    {
+     "name": "Kihoku Chiiki Shinko Center",
+     "source_url": "https://www.town.kihoku.ehime.jp/site/kihokukanko/",
+     "page": "https://bokenjapan.com/ehime/kihoku/see/"
+    },
+    {
+     "name": "Kokudo 320 Go Kihoku Kawakami",
+     "source_url": "https://www.town.kihoku.ehime.jp/site/kihokukanko/",
+     "page": "https://bokenjapan.com/ehime/kihoku/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "鬼北町コワーキングスペースwarmth",
+     "name_en": "Kihoku Machi Coworking Space warmth",
+     "source_url": "https://www.jalan.net/yad384828/",
+     "page": "https://bokenjapan.com/ehime/kihoku/stay/"
+    },
+    {
+     "name": "もも太郎の別荘",
+     "name_en": "Momo Taro No Besso",
+     "description": "Inn in Kichinami, Kihoku with a sauna.",
+     "source_url": "https://www.jalan.net/yad357336/",
+     "page": "https://bokenjapan.com/ehime/kihoku/stay/"
+    },
+    {
+     "name": "NATURE HOTEL NARUKAWA（旧：成川渓谷休養センター）",
+     "name_en": "NATURE HOTEL NARUKAWA(Kyu : Narikawa Keikoku Kyuyo Center )",
+     "description": "Inn in Naranarikawakokuyurinnai, Kihoku with riverside setting and a large communal bath.",
+     "source_url": "https://www.jalan.net/yad325220/",
+     "page": "https://bokenjapan.com/ehime/kihoku/stay/"
+    }
+   ]
   },
   {
    "name": "Kumakogen",
@@ -137,7 +1574,7 @@
    "official": {
     "links": [
      {
-      "label": "City / town / village site",
+      "label": "Kumakogen Town Hall",
       "url": "https://www.kumakogen.jp/"
      },
      {
@@ -148,7 +1585,249 @@
     "address": "212 Kuma, Kumakogen Town, Kamiukena District, Ehime 791-1201, Japan",
     "phone": "0892-21-1111"
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "久万高原町役場",
+     "name_en": "Kumakogen Town Hall",
+     "description": "Kumakogen town hall: resident services, certificates and local information, at 212 Kuma, Kumakogen Town, Kamiukena District, Ehime 791-1201, Japan.",
+     "source_url": "https://www.kumakogen.jp/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Taiho Tera",
+     "source_url": "https://kuma-kanko.com/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/do/"
+    }
+   ],
+   "food": [
+    {
+     "name": "カルスト珈琲",
+     "name_en": "Karst Kohi",
+     "source_url": "https://tabelog.com/ehime/A3803/A380304/38013569/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "ノジリカフェ",
+     "name_en": "Nojiri Cafe",
+     "source_url": "https://tabelog.com/ehime/A3803/A380304/38014758/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "クマ カフェ",
+     "name_en": "Kuma Cafe",
+     "source_url": "https://tabelog.com/ehime/A3803/A380304/38011716/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "レストランさんさん",
+     "name_en": "Restaurant Sansan",
+     "source_url": "https://tabelog.com/ehime/A3803/A380304/38010235/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "農村活性センター みかわ",
+     "name_en": "Noson Kassei Center Mikawa",
+     "source_url": "https://tabelog.com/ehime/A3803/A380304/38007157/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "土小屋terrace",
+     "name_en": "Tsuchi Sho-ya terrace",
+     "source_url": "https://tabelog.com/ehime/A3803/A380304/38001031/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "姫鶴荘",
+     "name_en": "Hime Tsuru-so",
+     "source_url": "https://tabelog.com/ehime/A3803/A380304/38000952/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "きらら食堂",
+     "name_en": "Kirara Shokudo",
+     "source_url": "https://tabelog.com/ehime/A3803/A380304/38008676/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "タネマキ食堂",
+     "name_en": "Tanemaki Shokudo",
+     "source_url": "https://tabelog.com/ehime/A3803/A380304/38016611/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "カフェレストラン こもれび",
+     "name_en": "Cafe Restaurant Komorebi",
+     "source_url": "https://tabelog.com/ehime/A3803/A380304/38006045/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "rinascente",
+     "name_en": "rinascente",
+     "source_url": "https://tabelog.com/ehime/A3803/A380304/38013912/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "ちぐさ",
+     "name_en": "Chigusa",
+     "source_url": "https://tabelog.com/ehime/A3803/A380304/38000874/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "豚太郎 久万店",
+     "name_en": "Buta Taro Kuma",
+     "source_url": "https://tabelog.com/ehime/A3803/A380304/38011476/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "信州そばの店 十割そば",
+     "name_en": "Shinshu Soba no Ju Wari Soba",
+     "source_url": "https://tabelog.com/ehime/A3803/A380304/38012933/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "モルゲン",
+     "name_en": "Morugen",
+     "source_url": "https://tabelog.com/ehime/A3803/A380304/38015925/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "天空の郷さんさん",
+     "name_en": "Tenku no Sato Sansan",
+     "source_url": "https://tabelog.com/ehime/A3803/A380304/38011319/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "古岩屋荘",
+     "name_en": "Ko Iwa-ya-so",
+     "source_url": "https://tabelog.com/ehime/A3803/A380304/38009192/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "うまいもん屋 土居",
+     "name_en": "Umaimon-ya Tsuchi",
+     "source_url": "https://tabelog.com/ehime/A3803/A380304/38004457/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "面河茶屋",
+     "name_en": "Omogo Cha-ya",
+     "source_url": "https://tabelog.com/ehime/A3803/A380304/38009815/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "サンサンパン工房",
+     "name_en": "Sun Sun Bread Kobo",
+     "source_url": "https://tabelog.com/ehime/A3803/A380304/38010282/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "さんさんまんま",
+     "name_en": "Sansanmanma",
+     "source_url": "https://tabelog.com/ehime/A3803/A380304/38013526/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "吉野屋 菓子舗",
+     "name_en": "Yoshino-ya Kashiho",
+     "source_url": "https://tabelog.com/ehime/A3803/A380304/38009801/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    }
+   ],
+   "sights": [
+    {
+     "name": "Ko Iwaya",
+     "source_url": "https://kuma-kanko.com/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/see/"
+    },
+    {
+     "name": "Omogo Kei",
+     "source_url": "https://kuma-kanko.com/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/see/"
+    },
+    {
+     "name": "Iwaya Tera",
+     "source_url": "https://kuma-kanko.com/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "やすらぎの宿 でんこ",
+     "name_en": "Yasuragino Yado Denko",
+     "description": "Inn in Irino, Kumakogen with a quiet countryside setting.",
+     "source_url": "https://www.jalan.net/yad320210/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/stay/"
+    },
+    {
+     "name": "いやしの宿 八丁坂",
+     "name_en": "Iyashino Yado Hatcho Saka",
+     "source_url": "https://www.jalan.net/yad360544/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/stay/"
+    },
+    {
+     "name": "久万高原町ふるさと旅行村",
+     "name_en": "Kumakogen Machi Furusato Ryoko Mura",
+     "description": "Inn in Shimohatanogawaotsu, Kumakogen with a quiet countryside setting.",
+     "source_url": "https://www.jalan.net/yad375367/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/stay/"
+    },
+    {
+     "name": "お宿 狩場苑",
+     "name_en": "O Yado Kariba-en",
+     "source_url": "https://www.jalan.net/yad386952/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/stay/"
+    },
+    {
+     "name": "国民宿舎 古岩屋荘",
+     "name_en": "Kokuminshukusha Ko Iwaya So",
+     "description": "Family-run minshuku in Naoseotsu, Kumakogen with a quiet countryside setting.",
+     "source_url": "https://www.jalan.net/yad365978/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/stay/"
+    },
+    {
+     "name": "ベトナムハウス チャム",
+     "name_en": "Betonamu House Chamu",
+     "source_url": "https://www.jalan.net/yad371813/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/stay/"
+    },
+    {
+     "name": "姫鶴荘・姫鶴平コテージ",
+     "name_en": "Hime Tsuru So Hime Tsuruhei Cottage",
+     "source_url": "https://www.jalan.net/yad315932/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/stay/"
+    },
+    {
+     "name": "国民宿舎「石鎚」",
+     "name_en": "Kokuminshukusha (Ishizuchi)",
+     "source_url": "https://www.jalan.net/yad389562/",
+     "page": "https://bokenjapan.com/ehime/kumakogen/stay/"
+    }
+   ]
   },
   {
    "name": "Masaki",
@@ -158,7 +1837,7 @@
    "official": {
     "links": [
      {
-      "label": "City / town / village site",
+      "label": "Masaki Town Hall",
       "url": "https://www.town.masaki.ehime.jp/"
      },
      {
@@ -169,7 +1848,237 @@
     "address": "631 Tsutsui, Masaki Town, Iyo District, Ehime 791-3192, Japan",
     "phone": "089-985-2111"
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "松前町役場",
+     "name_en": "Masaki Town Hall",
+     "description": "Masaki town hall: resident services, certificates and local information, at 631 Tsutsui, Masaki Town, Iyo District, Ehime 791-3192, Japan.",
+     "source_url": "https://www.town.masaki.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/masaki/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Masaki Castle Ruins",
+     "source_url": "https://www.town.masaki.ehime.jp/kanko/",
+     "page": "https://bokenjapan.com/ehime/masaki/do/"
+    }
+   ],
+   "food": [
+    {
+     "name": "モカチャーゼ",
+     "name_en": "Mokachaze",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38004835/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "羅座亜留 炭火焼珈琲自家焙煎所 JACARANDA COFFEE ROASTERY",
+     "name_en": "Ra Za Aru Sumibi Yaki Coffee Ji-ya Baisen Tokoro Jacaranda Coffee Roastery",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38015103/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "川崎屋",
+     "name_en": "Kawasaki-ya",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38006131/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "のむら",
+     "name_en": "Nomura",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38000442/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "からあげのすたみな亭 松前本店",
+     "name_en": "Karagenosutamina-tei Matsumae Main Store",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38006262/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "淡路島バーガースタンド 松前店",
+     "name_en": "Awaji Shima Burger Stands Matsumae",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38015028/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "ジラソーレ",
+     "name_en": "Jirasore",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38008345/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "ピッツェリア パッショーネ",
+     "name_en": "Pizzeria Passhone",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38013102/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "リトル イタリー",
+     "name_en": "Ritoru Itari",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38013766/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "焼肉苑",
+     "name_en": "Yakiniku-en",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38002231/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "咲々亭 エミフルMASAKI店",
+     "name_en": "Saki Saki-tei Emifuru Masaki",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38013712/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "唐揚げ食堂 ごいち エミフルMASAKI店",
+     "name_en": "Karage Shokudo Goichi Emifuru Masaki",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38013646/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "手打ち蕎麦 いよ翁",
+     "name_en": "Handmade Soba Iyo Okina",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38007273/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "うどん 心",
+     "name_en": "Udon Kokoro",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38014874/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "豚太郎 松前店",
+     "name_en": "Buta Taro Matsumae",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38000195/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "中華そば 芯せかい エミフルMASAKI店",
+     "name_en": "Chuka Soba Shin Sekai Emifuru Masaki",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38013736/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "白川",
+     "name_en": "Shirakawa",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38001358/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "めん処矢磨樹 松前店",
+     "name_en": "Men Tokoro Ya Ma Ki Matsumae",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38005078/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "一風堂 エミフルMASAKI店",
+     "name_en": "Ippu Do Emifuru Masaki",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38014096/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "山崎",
+     "name_en": "Yamazaki",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38001553/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "てんてん丸 伊予松前店",
+     "name_en": "Tenten Maru Iyo Matsumae",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38006636/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "うなぎ小椋 三十三店",
+     "name_en": "Unagi Ogura Sanju San",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38013765/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "パンメゾン 松前店",
+     "name_en": "Panmezon Matsumae",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38009507/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "あるもに",
+     "name_en": "Arumoni",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38001573/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    }
+   ],
+   "sights": [
+    {
+     "name": "Emifuru MASAKI",
+     "source_url": "https://www.town.masaki.ehime.jp/kanko/",
+     "page": "https://bokenjapan.com/ehime/masaki/see/"
+    },
+    {
+     "name": "Masaki Park",
+     "source_url": "https://www.town.masaki.ehime.jp/kanko/",
+     "page": "https://bokenjapan.com/ehime/masaki/see/"
+    },
+    {
+     "name": "Shioya Coast",
+     "source_url": "https://www.town.masaki.ehime.jp/kanko/",
+     "page": "https://bokenjapan.com/ehime/masaki/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "いよプリンスホテル",
+     "name_en": "Iyo Prince Hotel",
+     "source_url": "https://www.jalan.net/yad360320/",
+     "page": "https://bokenjapan.com/ehime/masaki/stay/"
+    },
+    {
+     "name": "HOTEL AZ 愛媛伊予店",
+     "name_en": "HOTEL AZ Ehime Iyo",
+     "description": "Inn in Inari, Iyo with business travelers.",
+     "source_url": "https://www.jalan.net/yad399235/",
+     "page": "https://bokenjapan.com/ehime/masaki/stay/"
+    },
+    {
+     "name": "ウェルピア伊予",
+     "name_en": "Uerupia Iyo",
+     "source_url": "https://www.jalan.net/yad385125/",
+     "page": "https://bokenjapan.com/ehime/masaki/stay/"
+    },
+    {
+     "name": "花の森ホテル",
+     "name_en": "Hana No Mori Hotel",
+     "source_url": "https://www.jalan.net/yad303519/",
+     "page": "https://bokenjapan.com/ehime/masaki/stay/"
+    }
+   ]
   },
   {
    "name": "Matsuno",
@@ -179,7 +2088,7 @@
    "official": {
     "links": [
      {
-      "label": "City / town / village site",
+      "label": "Matsuno Town Hall",
       "url": "https://www.town.matsuno.ehime.jp/"
      },
      {
@@ -190,7 +2099,131 @@
     "address": "343 Oaza Matsumaru, Matsuno Town, Kitauwa District, Ehime 798-2192, Japan",
     "phone": "0895-42-1111"
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "松野町役場",
+     "name_en": "Matsuno Town Hall",
+     "description": "Matsuno town hall: resident services, certificates and local information, at 343 Oaza Matsumaru, Matsuno Town, Kitauwa District, Ehime 798-2192, Japan.",
+     "source_url": "https://www.town.matsuno.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/matsuno/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Misuji Falls",
+     "source_url": "https://matsuno-kankou.com/",
+     "page": "https://bokenjapan.com/ehime/matsuno/do/"
+    }
+   ],
+   "food": [
+    {
+     "name": "CAFE&PUB TOMMY",
+     "name_en": "Cafe&Pub Tommy",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38006467/",
+     "page": "https://bokenjapan.com/ehime/matsuno/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "こむぎ屋",
+     "name_en": "Komugi-ya",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38015190/",
+     "page": "https://bokenjapan.com/ehime/matsuno/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "セルバッジオ",
+     "name_en": "Serubajjio",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38013361/",
+     "page": "https://bokenjapan.com/ehime/matsuno/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "道の駅 虹の森公園まつの",
+     "name_en": "Michi no Eki Niji no Mori Koen Matsu no",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38006193/",
+     "page": "https://bokenjapan.com/ehime/matsuno/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "レストラン遊鶴羽",
+     "name_en": "Restaurant Yu Tsuruha",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38005525/",
+     "page": "https://bokenjapan.com/ehime/matsuno/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "笑食寝 たきぐち",
+     "name_en": "Warai Shokushin Takiguchi",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38015241/",
+     "page": "https://bokenjapan.com/ehime/matsuno/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "甘味 霧中",
+     "name_en": "Amami Muchu",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38015708/",
+     "page": "https://bokenjapan.com/ehime/matsuno/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "パン工房 &パン",
+     "name_en": "Bread Kobo & Bread",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38015040/",
+     "page": "https://bokenjapan.com/ehime/matsuno/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "森とパン",
+     "name_en": "Mori To Bread",
+     "source_url": "https://tabelog.com/ehime/A3804/A380403/38013521/",
+     "page": "https://bokenjapan.com/ehime/matsuno/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "木もれび庵",
+     "name_en": "Ki Morebi Iori",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38005798/",
+     "page": "https://bokenjapan.com/ehime/matsuno/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    }
+   ],
+   "sights": [
+    {
+     "name": "Yukiwa Falls",
+     "source_url": "https://matsuno-kankou.com/",
+     "page": "https://bokenjapan.com/ehime/matsuno/see/"
+    },
+    {
+     "name": "Katsu Toko Gorge",
+     "source_url": "https://matsuno-kankou.com/",
+     "page": "https://bokenjapan.com/ehime/matsuno/see/"
+    },
+    {
+     "name": "Niji no Mori Park",
+     "source_url": "https://matsuno-kankou.com/",
+     "page": "https://bokenjapan.com/ehime/matsuno/see/"
+    },
+    {
+     "name": "Niji no Mori Osakana Kan",
+     "source_url": "https://matsuno-kankou.com/",
+     "page": "https://bokenjapan.com/ehime/matsuno/see/"
+    },
+    {
+     "name": "Matsumaru Eki",
+     "source_url": "https://matsuno-kankou.com/",
+     "page": "https://bokenjapan.com/ehime/matsuno/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "四万十川源流、森の国 水際のロッジ",
+     "name_en": "Shimantogawa Genryu, Mori No Kuni Mizugiwa No Lodge",
+     "description": "Mountain lodge in Megurokatsutokokeikoku(Ashizuriuwamikokuritsukoennai,Shimantogawagenryunohotori), Matsuno with parking; 25-minute drive from Matsumaru Station.",
+     "source_url": "https://travel.rakuten.co.jp/HOTEL/178513/178513.html",
+     "page": "https://bokenjapan.com/ehime/matsuno/stay/"
+    }
+   ]
   },
   {
    "name": "Matsuyama",
@@ -200,7 +2233,7 @@
    "official": {
     "links": [
      {
-      "label": "City / town / village site",
+      "label": "Matsuyama City Hall",
       "url": "https://www.city.matsuyama.ehime.jp/"
      },
      {
@@ -211,7 +2244,312 @@
     "address": "7-2 Nibancho 4-chome, Matsuyama City, Ehime 790-8571, Japan",
     "phone": "089-948-6688"
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "松山市役所",
+     "name_en": "Matsuyama City Hall",
+     "description": "Matsuyama city hall: resident services, certificates and local information, at 7-2 Nibancho 4-chome, Matsuyama City, Ehime 790-8571, Japan.",
+     "source_url": "https://www.city.matsuyama.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Matsuyama Castle main bailey with cherry blossoms",
+     "name_en": "Matsuyama Castle main bailey with cherry blossoms",
+     "source_url": "https://matsuyama-sightseeing.com/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/do/"
+    },
+    {
+     "name": "Yuzuki Castle ruins in Dogo Park",
+     "name_en": "Yuzuki Castle ruins in Dogo Park",
+     "source_url": "https://matsuyama-sightseeing.com/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/do/"
+    }
+   ],
+   "food": [
+    {
+     "name": "上海点心 豫園",
+     "name_en": "Shanhai Tenshin Arakajime Sono",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38000161/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "名前のないイタリア料理店",
+     "name_en": "Namae Nonai Itaria Cuisine",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38009262/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Scino",
+     "name_en": "Scino",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38015208/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "洋食屋 Shii",
+     "name_en": "Yoshoku-ya Shii",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38012016/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "ラ・セーラ",
+     "name_en": "La Sera",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38000678/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "さかな工房 丸万",
+     "name_en": "Sakana Kobo Maru Man",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38005974/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "エスコバール",
+     "name_en": "Esukobaru",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38007928/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "ル・クラブ",
+     "name_en": "Ru Club",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38000143/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "さかなと地酒 KOMA",
+     "name_en": "Sakanato Jizake KOMA",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38011927/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "炭心",
+     "name_en": "Sumi Kokoro",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38001214/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "鍋焼うどん アサヒ",
+     "name_en": "Nabeyaki Udon Asahi",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38000348/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "ことり",
+     "name_en": "Kotori",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38000037/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "道後 海舟",
+     "name_en": "Dogo Kaishu",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38013243/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "馳走屋河の",
+     "name_en": "Chiso-ya Kawa no",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38004254/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "味暦 正生",
+     "name_en": "Aji Koyomi Masao",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38000637/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "道後舘",
+     "name_en": "Dogo Kan",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38001281/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "なの花",
+     "name_en": "Na no Hana",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38000602/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "酒処 ひょうどう",
+     "name_en": "Sake Tokoro Hyodo",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38015139/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "くるますし",
+     "name_en": "Kuruma Sushi",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38002524/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "鮨 いの",
+     "name_en": "Sushi Ino",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38010409/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "鮨かわなか",
+     "name_en": "Sushi Kawanaka",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38013098/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "鮨たか山",
+     "name_en": "Sushi Taka Yama",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38012541/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "大平寿司 本店",
+     "name_en": "Ohira Sushi Main Store",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38007263/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "霧の森菓子工房 松山店",
+     "name_en": "Kiri no Mori Kashi Kobo Matsuyama",
+     "source_url": "https://tabelog.com/ehime/A3801/A380101/38000209/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    }
+   ],
+   "sights": [
+    {
+     "name": "Ishite-ji Temple, Matsuyama",
+     "name_en": "Ishite-ji Temple, Matsuyama",
+     "source_url": "https://matsuyama-sightseeing.com/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/see/"
+    },
+    {
+     "name": "Isaniwa Shrine tower gate",
+     "name_en": "Isaniwa Shrine tower gate",
+     "source_url": "https://matsuyama-sightseeing.com/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/see/"
+    },
+    {
+     "name": "Saka-no-ue-no-kumo Museum",
+     "name_en": "Saka-no-ue-no-kumo Museum",
+     "source_url": "https://matsuyama-sightseeing.com/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/see/"
+    },
+    {
+     "name": "Matsuyama Comprehensive Park",
+     "name_en": "Matsuyama Comprehensive Park",
+     "source_url": "https://matsuyama-sightseeing.com/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "道後御湯",
+     "name_en": "Dogo O Yu",
+     "description": "Inn in Dogosagitani, Matsuyama with open-air baths.",
+     "source_url": "https://www.ikyu.com/00002500/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/stay/"
+    },
+    {
+     "name": "道後温泉 ふなや",
+     "name_en": "Dogo Onsen Funaya",
+     "description": "Inn at Dogo Onsen in Dogoyuyuki, Matsuyama.",
+     "source_url": "https://www.ikyu.com/00000462/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/stay/"
+    },
+    {
+     "name": "別邸 朧月夜",
+     "name_en": "Bettei Oborozukiyo",
+     "description": "Inn at Dogo Onsen in Dogosagitani, Matsuyama with open-air baths.",
+     "source_url": "https://www.ikyu.com/00001407/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/stay/"
+    },
+    {
+     "name": "大和屋別荘",
+     "name_en": "Yamatoya Besso",
+     "description": "Inn in Dogosagitani, Matsuyama with open-air baths and in-room dining.",
+     "source_url": "https://www.ikyu.com/00001157/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/stay/"
+    },
+    {
+     "name": "道後温泉 琴の庭",
+     "name_en": "Dogo Onsen Kon No Niwa",
+     "description": "Inn at Dogo Onsen in Dogoyugatsu, Matsuyama.",
+     "source_url": "https://www.ikyu.com/00002798/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/stay/"
+    },
+    {
+     "name": "大和屋本店",
+     "name_en": "Yamatoya Hon",
+     "description": "Inn at Dogo Onsen in Dogoyuyuki, Matsuyama.",
+     "source_url": "https://www.ikyu.com/00000663/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/stay/"
+    },
+    {
+     "name": "瀬戸内リトリート 青凪 by 温故知新",
+     "name_en": "Setochi Retreat Ao Nagi by Onkochishin",
+     "description": "Inn in Yanagitani, Matsuyama with a retreat concept.",
+     "source_url": "https://www.ikyu.com/00002197/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/stay/"
+    },
+    {
+     "name": "東道後のそらともり",
+     "name_en": "Azumamichi Nochino Soratomori",
+     "description": "Inn in Minamikume, Matsuyama with open-air baths.",
+     "source_url": "https://www.ikyu.com/00030532/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/stay/"
+    },
+    {
+     "name": "ダイワロイネットホテル松山",
+     "name_en": "Daiwaroinetto Hotel Matsuyama",
+     "description": "Hotel at Dogo Onsen in Matsuyama with separate bath and toilet; 1-minute walk from Sutoirebetsukyakushitsuari)Taigaimichi Station.",
+     "source_url": "https://www.ikyu.com/00081121/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/stay/"
+    },
+    {
+     "name": "道後温泉 八千代",
+     "name_en": "Dogo Onsen Yachiyo",
+     "description": "Inn at Dogo Onsen in Dogotako, Matsuyama with open-air baths and in-room dining.",
+     "source_url": "https://www.ikyu.com/00030512/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/stay/"
+    },
+    {
+     "name": "道後温泉 旅亭 うめ乃や",
+     "name_en": "Dogo Onsen Tabi-tei Ume no Ya",
+     "description": "Inn at Dogo Onsen in Kamichi, Matsuyama.",
+     "source_url": "https://www.ikyu.com/00003221/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/stay/"
+    },
+    {
+     "name": "ホテル古湧園 遥",
+     "name_en": "Hotel Ko Yu Sono Haruka",
+     "description": "Hotel at Dogo Onsen in Dogosagitani, Matsuyama.",
+     "source_url": "https://www.ikyu.com/00002800/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/stay/"
+    }
+   ]
   },
   {
    "name": "Niihama",
@@ -221,7 +2559,7 @@
    "official": {
     "links": [
      {
-      "label": "City / town / village site",
+      "label": "Niihama City Hall",
       "url": "https://www.city.niihama.lg.jp/"
      },
      {
@@ -232,7 +2570,299 @@
     "address": "1-5-1 Ichinomiya-cho, Niihama City, Ehime 792-8585, Japan",
     "phone": "0897-65-1234"
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "新居浜市役所",
+     "name_en": "Niihama City Hall",
+     "description": "Niihama city hall: resident services, certificates and local information, at 1-5-1 Ichinomiya-cho, Niihama City, Ehime 792-8585, Japan.",
+     "source_url": "https://www.city.niihama.lg.jp/",
+     "page": "https://bokenjapan.com/ehime/niihama/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Roadside Station Maintopia Besshi",
+     "source_url": "https://besshi.com/",
+     "page": "https://bokenjapan.com/ehime/niihama/do/"
+    }
+   ],
+   "food": [
+    {
+     "name": "広島風お好み焼き 石",
+     "name_en": "Hiroshima Kaze Okonomiyaki Ishi",
+     "source_url": "https://tabelog.com/ehime/A3802/A380203/38000309/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "多賀屋食堂 菊本支店",
+     "name_en": "Taga-ya Shokudo Kikumoto Branch",
+     "source_url": "https://tabelog.com/ehime/A3802/A380203/38004428/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "ばぁばのお昼ごはん",
+     "name_en": "Babano Hiru Gohan",
+     "source_url": "https://tabelog.com/ehime/A3802/A380203/38014097/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "あほだら亭",
+     "name_en": "Ahodara-tei",
+     "source_url": "https://tabelog.com/ehime/A3802/A380203/38008530/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "ぼてすけ屋 若水店",
+     "name_en": "Botesuke-ya Jakusui",
+     "source_url": "https://tabelog.com/ehime/A3802/A380203/38004348/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "バンザイミネジィ",
+     "name_en": "Banzaimineji",
+     "source_url": "https://tabelog.com/ehime/A3802/A380203/38007683/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "中国菜房 くどう",
+     "name_en": "Chugoku Na Bo Kudo",
+     "source_url": "https://tabelog.com/ehime/A3802/A380203/38011379/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "マルブン 新居浜店",
+     "name_en": "Marubun Nihama",
+     "source_url": "https://tabelog.com/ehime/A3802/A380203/38005935/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "LUMINO CaRINO",
+     "name_en": "Lumino CaRINO",
+     "source_url": "https://tabelog.com/ehime/A3802/A380203/38015334/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "ドン☆ぶり屋",
+     "name_en": "Don ☆ Buri-ya",
+     "source_url": "https://tabelog.com/ehime/A3802/A380203/38010822/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "古家",
+     "name_en": "Ko-ya",
+     "source_url": "https://tabelog.com/ehime/A3802/A380203/38006852/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "濃厚魚介らぅ麺 純",
+     "name_en": "Noko Gyokai Rau Men Jun",
+     "source_url": "https://tabelog.com/ehime/A3802/A380203/38005961/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "みやび屋",
+     "name_en": "Miyabi-ya",
+     "source_url": "https://tabelog.com/ehime/A3802/A380203/38011043/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "萩の茶屋",
+     "name_en": "Hagi no Cha-ya",
+     "source_url": "https://tabelog.com/ehime/A3802/A380203/38000048/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "浜堂 新居浜店",
+     "name_en": "Hama Do Nihama",
+     "source_url": "https://tabelog.com/ehime/A3802/A380203/38015508/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "麺処 倭",
+     "name_en": "Men Tokoro Wa",
+     "source_url": "https://tabelog.com/ehime/A3802/A380203/38012118/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "からし屋",
+     "name_en": "Karashi-ya",
+     "source_url": "https://tabelog.com/ehime/A3802/A380203/38003347/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "うどん茶屋 志道",
+     "name_en": "Udon Cha-ya Shiji",
+     "source_url": "https://tabelog.com/ehime/A3802/A380203/38009087/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "中華蕎麦つけ麺 一 新居浜店",
+     "name_en": "Chinese Soba Tsuke Men Ichi Nihama",
+     "source_url": "https://tabelog.com/ehime/A3802/A380203/38014066/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "七味",
+     "name_en": "Shichimi",
+     "source_url": "https://tabelog.com/ehime/A3802/A380203/38002324/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "ほの香",
+     "name_en": "Ho no Kaori",
+     "source_url": "https://tabelog.com/ehime/A3802/A380203/38002259/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "大鵬軒",
+     "name_en": "Taiho Ken",
+     "source_url": "https://tabelog.com/ehime/A3802/A380203/38004095/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "そばの花",
+     "name_en": "Soba no Hana",
+     "source_url": "https://tabelog.com/ehime/A3802/A380203/38006867/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "フクスケ",
+     "name_en": "Fukusuke",
+     "source_url": "https://tabelog.com/ehime/A3802/A380203/38008191/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    }
+   ],
+   "sights": [
+    {
+     "name": "Akagane Museum",
+     "source_url": "https://besshi.com/",
+     "page": "https://bokenjapan.com/ehime/niihama/see/"
+    },
+    {
+     "name": "Besshi Dozan Memorial Museum",
+     "source_url": "https://besshi.com/",
+     "page": "https://bokenjapan.com/ehime/niihama/see/"
+    },
+    {
+     "name": "Tohei",
+     "source_url": "https://besshi.com/",
+     "page": "https://bokenjapan.com/ehime/niihama/see/"
+    },
+    {
+     "name": "Kyu Yamane Seiren Tokoro Entotsu",
+     "source_url": "https://besshi.com/",
+     "page": "https://bokenjapan.com/ehime/niihama/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "リーガロイヤルホテル新居浜",
+     "name_en": "Rigaroiyaru Hotel Nihama",
+     "description": "Hotel in Maeda, Niihama with business travelers.",
+     "source_url": "https://www.ikyu.com/00000667/",
+     "page": "https://bokenjapan.com/ehime/niihama/stay/"
+    },
+    {
+     "name": "ホテルルートイン新居浜",
+     "name_en": "Hotel Route Inn Nihama",
+     "description": "Hotel in Kubota, Niihama with breakfast available and parking.",
+     "source_url": "https://www.ikyu.com/00080415/",
+     "page": "https://bokenjapan.com/ehime/niihama/stay/"
+    },
+    {
+     "name": "ホテルマックスビジョン",
+     "name_en": "Hotel Makkusubijon",
+     "description": "Hotel in Kubota, Niihama with breakfast available and parking.",
+     "source_url": "https://www.jalan.net/yad335993/",
+     "page": "https://bokenjapan.com/ehime/niihama/stay/"
+    },
+    {
+     "name": "ホテルＮｏ．１新居浜",
+     "name_en": "Hotel No. 1 Nihama",
+     "source_url": "https://www.jalan.net/yad346775/",
+     "page": "https://bokenjapan.com/ehime/niihama/stay/"
+    },
+    {
+     "name": "ホテル・アルファ－ワン新居浜",
+     "name_en": "Hotel Arufa - Wan Nihama",
+     "description": "Hotel in Kubota, Niihama; 3-minute drive from Jrnihama Station.",
+     "source_url": "https://www.jalan.net/yad340545/",
+     "page": "https://bokenjapan.com/ehime/niihama/stay/"
+    },
+    {
+     "name": "ザ・グローバルウエスト",
+     "name_en": "Za Global Waist",
+     "description": "Inn in Izumimiya, Niihama with Wi-Fi and business travelers.",
+     "source_url": "https://www.jalan.net/yad341892/",
+     "page": "https://bokenjapan.com/ehime/niihama/stay/"
+    },
+    {
+     "name": "ザ・グローバル タワー",
+     "name_en": "Za Gurobaru Tawa",
+     "source_url": "https://www.jalan.net/yad361502/",
+     "page": "https://bokenjapan.com/ehime/niihama/stay/"
+    },
+    {
+     "name": "天然温泉 伊予の湯 スーパーホテル新居浜",
+     "name_en": "Tennen Onsen Iyo No Yu Super Hotel Nihama",
+     "description": "Hotel in Takagi, Niihama with breakfast available and parking.",
+     "source_url": "https://www.jalan.net/yad374955/",
+     "page": "https://bokenjapan.com/ehime/niihama/stay/"
+    },
+    {
+     "name": "ホテル新居浜ヒルズ（ＢＢＨホテルグループ）",
+     "name_en": "Hotel Nihama Hills (BBH Hotel Group )",
+     "description": "Hotel in Minato, Niihama with buffet meals and breakfast available.",
+     "source_url": "https://www.jalan.net/yad390120/",
+     "page": "https://bokenjapan.com/ehime/niihama/stay/"
+    },
+    {
+     "name": "ホテル新居浜ヒルズプリンス館（ＢＢＨホテルグループ）",
+     "name_en": "Hotel Nihama Hills Prince Kan (BBH Hotel Group )",
+     "description": "Hotel in Shinsuga, Niihama with buffet meals and breakfast available.",
+     "source_url": "https://www.jalan.net/yad352192/",
+     "page": "https://bokenjapan.com/ehime/niihama/stay/"
+    },
+    {
+     "name": "ファミリーロッジ旅籠屋・新居浜店",
+     "name_en": "Family Lodge Hatago Ya Nihama",
+     "description": "Mountain lodge in Takinomiya, Niihama with breakfast available and family-friendly stays.",
+     "source_url": "https://www.jalan.net/yad311466/",
+     "page": "https://bokenjapan.com/ehime/niihama/stay/"
+    },
+    {
+     "name": "東横ＩＮＮ新居浜駅前",
+     "name_en": "Toyoko INN Nihama Ekimae",
+     "description": "Inn in Sakai, Niihama with breakfast available.",
+     "source_url": "https://www.jalan.net/yad323932/",
+     "page": "https://bokenjapan.com/ehime/niihama/stay/"
+    }
+   ]
   },
   {
    "name": "Ozu",
@@ -242,7 +2872,7 @@
    "official": {
     "links": [
      {
-      "label": "City / town / village site",
+      "label": "Ozu City Hall",
       "url": "https://www.city.ozu.ehime.jp/"
      },
      {
@@ -253,7 +2883,278 @@
     "address": "690-1 Ozu, Ozu City, Ehime 795-8601, Japan",
     "phone": "0893-24-2111"
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "大洲市役所",
+     "name_en": "Ozu City Hall",
+     "description": "Ozu city hall: resident services, certificates and local information, at 690-1 Ozu, Ozu City, Ehime 795-8601, Japan.",
+     "source_url": "https://www.city.ozu.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/ozu/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Nagahama Bridge",
+     "source_url": "https://www.city.ozu.ehime.jp/site/kanko/1223.html",
+     "page": "https://bokenjapan.com/ehime/ozu/do/"
+    }
+   ],
+   "food": [
+    {
+     "name": "ブレッド&コーヒー 茶蔵",
+     "name_en": "Bread & Coffee Cha Kura",
+     "source_url": "https://tabelog.com/ehime/A3803/A380301/38001124/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "羅り瑠れ櫓",
+     "name_en": "Ra Ri Ru Re Yagura",
+     "source_url": "https://tabelog.com/ehime/A3803/A380301/38001051/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "美ゆき 大洲店",
+     "name_en": "Bi Yuki Ozu",
+     "source_url": "https://tabelog.com/ehime/A3803/A380301/38004441/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "わか宮食堂",
+     "name_en": "Waka Miya Shokudo",
+     "source_url": "https://tabelog.com/ehime/A3803/A380301/38003561/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "五志喜めんそーれ",
+     "name_en": "Go Kokorozashi Ki Mensore",
+     "source_url": "https://tabelog.com/ehime/A3803/A380301/38003219/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "ルアン NIPPONIA HOTEL 大洲 城下町",
+     "name_en": "Ruan Nipponia Hotel Ozu Jokamachi",
+     "source_url": "https://tabelog.com/ehime/A3803/A380301/38013794/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "レストラン比来野",
+     "name_en": "Restaurant Hi Rai No",
+     "source_url": "https://tabelog.com/ehime/A3803/A380301/38001493/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "ビストロ サンマルシェ",
+     "name_en": "Bistro Sanmarushie",
+     "source_url": "https://tabelog.com/ehime/A3803/A380301/38006163/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "大洲炉端 油屋",
+     "name_en": "Ozu Robata Abura-ya",
+     "source_url": "https://tabelog.com/ehime/A3803/A380301/38008680/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "第八さつき丸 大洲本店",
+     "name_en": "Dai Hachi Satsuki Maru Ozu Main Store",
+     "source_url": "https://tabelog.com/ehime/A3803/A380301/38007349/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "葵",
+     "name_en": "Aoi",
+     "source_url": "https://tabelog.com/ehime/A3803/A380301/38006869/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "地鶏焼 ふかせ",
+     "name_en": "Jidori Yaki Fukase",
+     "source_url": "https://tabelog.com/ehime/A3803/A380301/38000956/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "さおや",
+     "name_en": "Saoya",
+     "source_url": "https://tabelog.com/ehime/A3803/A380301/38003797/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "AJI10",
+     "name_en": "Aji10",
+     "source_url": "https://tabelog.com/ehime/A3803/A380301/38009864/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "福ちゃんラーメン 本店",
+     "name_en": "Fuku Chan Ramen Hon",
+     "source_url": "https://tabelog.com/ehime/A3803/A380301/38002807/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "手のべうどん しらいし",
+     "name_en": "Te no Be Udon Shiraishi",
+     "source_url": "https://tabelog.com/ehime/A3803/A380301/38002853/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "大洲かめや",
+     "name_en": "Ozu Kameya",
+     "source_url": "https://tabelog.com/ehime/A3803/A380301/38005075/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "博多らーめん大郷",
+     "name_en": "Hakata Ramen Osato",
+     "source_url": "https://tabelog.com/ehime/A3803/A380301/38002109/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "との町たる井",
+     "name_en": "To no Machi Taru I",
+     "source_url": "https://tabelog.com/ehime/A3803/A380301/38000053/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "冨永松栄堂",
+     "name_en": "Tominaga Shoei Do",
+     "source_url": "https://tabelog.com/ehime/A3803/A380301/38001527/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "まちの駅 あさもや",
+     "name_en": "Machi no Eki Asamoya",
+     "source_url": "https://tabelog.com/ehime/A3803/A380301/38006951/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "稲田菓子舗",
+     "name_en": "Ineda Kashiho",
+     "source_url": "https://tabelog.com/ehime/A3803/A380301/38004619/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "うみとカモメ山下別邸",
+     "name_en": "Umito Kamome Yamashita Bettei",
+     "source_url": "https://tabelog.com/ehime/A3803/A380301/38014687/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    }
+   ],
+   "sights": [
+    {
+     "name": "Ozu Shiro",
+     "source_url": "https://www.city.ozu.ehime.jp/site/kanko/1223.html",
+     "page": "https://bokenjapan.com/ehime/ozu/see/"
+    },
+    {
+     "name": "Garyu Sanso",
+     "source_url": "https://www.city.ozu.ehime.jp/site/kanko/1223.html",
+     "page": "https://bokenjapan.com/ehime/ozu/see/"
+    },
+    {
+     "name": "Iyo Ozu Eki",
+     "source_url": "https://www.city.ozu.ehime.jp/site/kanko/1223.html",
+     "page": "https://bokenjapan.com/ehime/ozu/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "NIPPONIA HOTEL 大洲 城下町",
+     "name_en": "NIPPONIA HOTEL Ozu Jokamachi",
+     "source_url": "https://www.ikyu.com/00002792/",
+     "page": "https://bokenjapan.com/ehime/ozu/stay/"
+    },
+    {
+     "name": "大洲野田庄旅館 近田屋",
+     "name_en": "Ozu Noda Sho Ryokan Chikada-ya",
+     "source_url": "https://www.ikyu.com/00052231/",
+     "page": "https://bokenjapan.com/ehime/ozu/stay/"
+    },
+    {
+     "name": "まろや四季",
+     "name_en": "Maroya Shiki",
+     "description": "Inn in Ozu with a renovated traditional house.",
+     "source_url": "https://www.jalan.net/yad395167/",
+     "page": "https://bokenjapan.com/ehime/ozu/stay/"
+    },
+    {
+     "name": "ＮＩＰＰＯＮＩＡ ＨＯＴＥＬ 大洲 城下町",
+     "name_en": "NIPPONIA HOTEL Ozu Jokamachi",
+     "source_url": "https://www.jalan.net/yad334875/",
+     "page": "https://bokenjapan.com/ehime/ozu/stay/"
+    },
+    {
+     "name": "ホテルオータ",
+     "name_en": "Hotel Ota",
+     "source_url": "https://www.jalan.net/yad359843/",
+     "page": "https://bokenjapan.com/ehime/ozu/stay/"
+    },
+    {
+     "name": "オオズプラザホテル",
+     "name_en": "Ozu Plaza Hotel",
+     "description": "Hotel in Todaisu, Ozu with breakfast available.",
+     "source_url": "https://www.jalan.net/yad319317/",
+     "page": "https://bokenjapan.com/ehime/ozu/stay/"
+    },
+    {
+     "name": "スーパーホテル愛媛・大洲インター 天然温泉 朝霧の湯",
+     "name_en": "Super Hotel Ehime Ozu Inta Tennen Onsen Asagiri No Yu",
+     "description": "Hotel in Todaisu, Ozu with buffet meals and breakfast available.",
+     "source_url": "https://www.jalan.net/yad377042/",
+     "page": "https://bokenjapan.com/ehime/ozu/stay/"
+    },
+    {
+     "name": "小薮温泉",
+     "name_en": "Sho Yabu Onsen",
+     "description": "Inn at Shoyabu Onsen in Hijikawa, Ozu.",
+     "source_url": "https://www.jalan.net/yad344897/",
+     "page": "https://bokenjapan.com/ehime/ozu/stay/"
+    },
+    {
+     "name": "大洲市交流促進センター 鹿野川荘",
+     "name_en": "Ozu Shiko Ryu Sokushin Center Kano Kawa So",
+     "description": "Inn at No Onsen in Hijikawa, Ozu.",
+     "source_url": "https://www.jalan.net/yad330836/",
+     "page": "https://bokenjapan.com/ehime/ozu/stay/"
+    },
+    {
+     "name": "河辺ふるさとの宿",
+     "name_en": "Kawabe Furusatono Yado",
+     "description": "Inn in Kawabe, Ozu with riverside setting and local cuisine.",
+     "source_url": "https://www.jalan.net/yad371543/",
+     "page": "https://bokenjapan.com/ehime/ozu/stay/"
+    },
+    {
+     "name": "冨屋金兵衛邸",
+     "name_en": "Tomi-ya Kinbe Tei",
+     "description": "Inn in Nagahamakabuto, Ozu with one group per day.",
+     "source_url": "https://www.jalan.net/yad334834/",
+     "page": "https://bokenjapan.com/ehime/ozu/stay/"
+    }
+   ]
   },
   {
    "name": "Saijo",
@@ -263,7 +3164,7 @@
    "official": {
     "links": [
      {
-      "label": "City / town / village site",
+      "label": "Saijo City Hall",
       "url": "https://www.city.saijo.ehime.jp/"
      },
      {
@@ -274,7 +3175,303 @@
     "address": "164 Akeiyashiki, Saijo City, Ehime 793-8601, Japan",
     "phone": "0897-56-5151"
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "西条市役所",
+     "name_en": "Saijo City Hall",
+     "description": "Saijo city hall: resident services, certificates and local information, at 164 Akeiyashiki, Saijo City, Ehime 793-8601, Japan.",
+     "source_url": "https://www.city.saijo.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/saijo/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Roadside Station Komatsu Oashisu",
+     "source_url": "https://www.city.saijo.ehime.jp/soshiki/kanko/oashisu.html",
+     "page": "https://bokenjapan.com/ehime/saijo/do/"
+    }
+   ],
+   "food": [
+    {
+     "name": "アルバトロス",
+     "name_en": "Albatross",
+     "source_url": "https://tabelog.com/ehime/A3802/A380202/38004519/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "オレンジフェリー",
+     "name_en": "Orenjiferi",
+     "source_url": "https://tabelog.com/ehime/A3802/A380202/38007903/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "かどや食堂",
+     "name_en": "Kadoya Shokudo",
+     "source_url": "https://tabelog.com/ehime/A3802/A380202/38003769/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "上海軒",
+     "name_en": "Shanhai Ken",
+     "source_url": "https://tabelog.com/ehime/A3802/A380202/38003250/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "エル ビステッカーロ イト",
+     "name_en": "El Bisutekkaro Ito",
+     "source_url": "https://tabelog.com/ehime/A3802/A380202/38013640/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "カジュアルダイニング Bon",
+     "name_en": "Kajuaru Dining Bon",
+     "source_url": "https://tabelog.com/ehime/A3802/A380202/38012121/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "マルブン 小松本店",
+     "name_en": "Marubun Komatsu Main Store",
+     "source_url": "https://tabelog.com/ehime/A3802/A380202/38000050/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "オステリア アリエッタ",
+     "name_en": "Osteria Arietta",
+     "source_url": "https://tabelog.com/ehime/A3802/A380202/38002363/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "うしろのしょうめんだーれ",
+     "name_en": "Ushironoshomendare",
+     "source_url": "https://tabelog.com/ehime/A3802/A380202/38000919/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "ごかく 西条店",
+     "name_en": "Gokaku Saijo",
+     "source_url": "https://tabelog.com/ehime/A3802/A380202/38004404/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "西條そば 甲",
+     "name_en": "Saijo Soba Kabuto",
+     "source_url": "https://tabelog.com/ehime/A3802/A380202/38001193/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "竹ばやし",
+     "name_en": "Take Bayashi",
+     "source_url": "https://tabelog.com/ehime/A3802/A380202/38008340/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "蕎亭 はる",
+     "name_en": "Kyo-tei Haru",
+     "source_url": "https://tabelog.com/ehime/A3802/A380202/38001192/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "中華そば 心",
+     "name_en": "Chuka Soba Kokoro",
+     "source_url": "https://tabelog.com/ehime/A3802/A380202/38012890/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "優月",
+     "name_en": "Yu Gatsu",
+     "source_url": "https://tabelog.com/ehime/A3802/A380202/38008616/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "ラーメン亭",
+     "name_en": "Ramen Tei",
+     "source_url": "https://tabelog.com/ehime/A3802/A380202/38001295/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "さくら製麺所",
+     "name_en": "Sakura Seimen Tokoro",
+     "source_url": "https://tabelog.com/ehime/A3802/A380202/38008335/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "麺処 大田屋",
+     "name_en": "Men Tokoro Ota-ya",
+     "source_url": "https://tabelog.com/ehime/A3802/A380202/38005903/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "そば宏",
+     "name_en": "Soba Hiroshi",
+     "source_url": "https://tabelog.com/ehime/A3802/A380202/38003821/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Musubi",
+     "name_en": "Musubi",
+     "source_url": "https://tabelog.com/ehime/A3802/A380202/38016220/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "八勝亭 オリエント東予店",
+     "name_en": "Hachi Kachi-tei Oriento Toyo",
+     "source_url": "https://tabelog.com/ehime/A3802/A380202/38000696/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "わいん食堂 カゴヤ10taro",
+     "name_en": "Wain Shokudo Kagoya 10taro",
+     "source_url": "https://tabelog.com/ehime/A3802/A380202/38008979/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "マルトモ水産 鮮魚市場",
+     "name_en": "Marutomo Suisan Sengyo Shijo",
+     "source_url": "https://tabelog.com/ehime/A3802/A380202/38001646/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "おおさかや 蔵はち",
+     "name_en": "Osakaya Kura Hachi",
+     "source_url": "https://tabelog.com/ehime/A3802/A380202/38004699/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    }
+   ],
+   "sights": [
+    {
+     "name": "Ishizuchi Jinja Honsha",
+     "source_url": "https://www.city.saijo.ehime.jp/soshiki/kanko/oashisu.html",
+     "page": "https://bokenjapan.com/ehime/saijo/see/"
+    },
+    {
+     "name": "Ishizuchi Jinja Joju Sha",
+     "source_url": "https://www.city.saijo.ehime.jp/soshiki/kanko/oashisu.html",
+     "page": "https://bokenjapan.com/ehime/saijo/see/"
+    },
+    {
+     "name": "Ishizuchi Tozan Ropuei",
+     "source_url": "https://www.city.saijo.ehime.jp/soshiki/kanko/oashisu.html",
+     "page": "https://bokenjapan.com/ehime/saijo/see/"
+    },
+    {
+     "name": "Iyo Saijo Eki",
+     "source_url": "https://www.city.saijo.ehime.jp/soshiki/kanko/oashisu.html",
+     "page": "https://bokenjapan.com/ehime/saijo/see/"
+    },
+    {
+     "name": "Maegami Tera",
+     "source_url": "https://www.city.saijo.ehime.jp/soshiki/kanko/oashisu.html",
+     "page": "https://bokenjapan.com/ehime/saijo/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "ITOMACHI HOTEL 0",
+     "name_en": "ITOMACHI HOTEL 0",
+     "source_url": "https://www.ikyu.com/00003074/",
+     "page": "https://bokenjapan.com/ehime/saijo/stay/"
+    },
+    {
+     "name": "ホテルルートイン伊予西条",
+     "name_en": "Hotel Route Inn Iyo Saijo",
+     "description": "Hotel in Nitta, Saijo with a large communal bath.",
+     "source_url": "https://www.ikyu.com/00080332/",
+     "page": "https://bokenjapan.com/ehime/saijo/stay/"
+    },
+    {
+     "name": "休暇村 瀬戸内東予",
+     "name_en": "Kyukamura Setochi Toyo",
+     "description": "Inn at Shimanami Onsen in Kawaratsuotsu, Saijo.",
+     "source_url": "https://www.ikyu.com/00030879/",
+     "page": "https://bokenjapan.com/ehime/saijo/stay/"
+    },
+    {
+     "name": "西条セントラルホテル",
+     "name_en": "Saijo Central Hotel",
+     "description": "Hotel in Dai, Saijo with business travelers and long stays.",
+     "source_url": "https://www.jalan.net/yad310980/",
+     "page": "https://bokenjapan.com/ehime/saijo/stay/"
+    },
+    {
+     "name": "ホテル玉の家西条",
+     "name_en": "Hotel Tama No Ie Saijo",
+     "description": "Hotel in Dai, Saijo with parking.",
+     "source_url": "https://www.jalan.net/yad312009/",
+     "page": "https://bokenjapan.com/ehime/saijo/stay/"
+    },
+    {
+     "name": "西条アーバンホテル",
+     "name_en": "Saijo Urban Hotel",
+     "description": "Hotel in Dai, Saijo with scenic views; 1-minute walk from Jriyosaijo Station.",
+     "source_url": "https://www.jalan.net/yad341493/",
+     "page": "https://bokenjapan.com/ehime/saijo/stay/"
+    },
+    {
+     "name": "天然温泉 石鎚の湯 スーパーホテル伊予西条",
+     "name_en": "Tennen Onsen Ishizuchi No Yu Super Hotel Iyo Saijo",
+     "description": "Hotel in Sakujitsushi, Saijo with buffet meals and breakfast available.",
+     "source_url": "https://www.jalan.net/yad333644/",
+     "page": "https://bokenjapan.com/ehime/saijo/stay/"
+    },
+    {
+     "name": "西条ステーションホテル",
+     "name_en": "Saijo Station Hotel",
+     "description": "Hotel in Dai, Saijo with business travelers.",
+     "source_url": "https://www.jalan.net/yad355054/",
+     "page": "https://bokenjapan.com/ehime/saijo/stay/"
+    },
+    {
+     "name": "ホテルオレール西条",
+     "name_en": "Hotel Oreru Saijo",
+     "description": "Hotel in Dai, Saijo with business travelers.",
+     "source_url": "https://www.jalan.net/yad318539/",
+     "page": "https://bokenjapan.com/ehime/saijo/stay/"
+    },
+    {
+     "name": "エクストールイン西条駅前",
+     "name_en": "Ekusutoruin Saijo Ekimae",
+     "description": "Inn in Dai, Saijo with breakfast available and Wi-Fi.",
+     "source_url": "https://www.jalan.net/yad363837/",
+     "page": "https://bokenjapan.com/ehime/saijo/stay/"
+    },
+    {
+     "name": "ＩＴＯＭＡＣＨＩ ＨＯＴＥＬ ０",
+     "name_en": "ITOMACHI HOTEL 0",
+     "source_url": "https://www.jalan.net/yad350828/",
+     "page": "https://bokenjapan.com/ehime/saijo/stay/"
+    },
+    {
+     "name": "トレイルイン 伊予西条",
+     "name_en": "Trail Inn Iyo Saijo",
+     "source_url": "https://www.jalan.net/yad354795/",
+     "page": "https://bokenjapan.com/ehime/saijo/stay/"
+    }
+   ]
   },
   {
    "name": "Seiyo",
@@ -284,7 +3481,7 @@
    "official": {
     "links": [
      {
-      "label": "City / town / village site",
+      "label": "Seiyo City Hall",
       "url": "https://www.city.seiyo.ehime.jp/"
      },
      {
@@ -295,7 +3492,256 @@
     "address": "3-434-1 Unomachi, Uwa-cho, Seiyo City, Ehime 797-8501, Japan",
     "phone": "0894-62-1111"
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "西予市役所",
+     "name_en": "Seiyo City Hall",
+     "description": "Seiyo city hall: resident services, certificates and local information, at 3-434-1 Unomachi, Uwa-cho, Seiyo City, Ehime 797-8501, Japan.",
+     "source_url": "https://www.city.seiyo.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/seiyo/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "U Yuki Town Eki",
+     "source_url": "https://seiyojikan.jp/",
+     "page": "https://bokenjapan.com/ehime/seiyo/do/"
+    }
+   ],
+   "food": [
+    {
+     "name": "苔筵",
+     "name_en": "Koke Mushiro",
+     "source_url": "https://tabelog.com/ehime/A3804/A380402/38004624/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "ミルク園",
+     "name_en": "Milk Sono",
+     "source_url": "https://tabelog.com/ehime/A3804/A380402/38001054/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "池田屋",
+     "name_en": "Ikeda-ya",
+     "source_url": "https://tabelog.com/ehime/A3804/A380402/38001035/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "アリス",
+     "name_en": "Arisu",
+     "source_url": "https://tabelog.com/ehime/A3804/A380402/38009754/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "みのり食堂",
+     "name_en": "Minori Shokudo",
+     "source_url": "https://tabelog.com/ehime/A3804/A380402/38001213/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "レストラン いっぷく",
+     "name_en": "Restaurant Ippuku",
+     "source_url": "https://tabelog.com/ehime/A3804/A380402/38013419/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "美ゆき 宇和店",
+     "name_en": "Bi Yuki Uwa",
+     "source_url": "https://tabelog.com/ehime/A3804/A380402/38001106/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "いっぷく茶屋",
+     "name_en": "Ippuku Cha-ya",
+     "source_url": "https://tabelog.com/ehime/A3804/A380402/38001441/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "中国料理 舞華",
+     "name_en": "Chugoku Cuisine Maika",
+     "source_url": "https://tabelog.com/ehime/A3804/A380402/38012730/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "ほわいとファーム",
+     "name_en": "Howaito Farm",
+     "source_url": "https://tabelog.com/ehime/A3804/A380402/38001187/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "粋",
+     "name_en": "Sui",
+     "source_url": "https://tabelog.com/ehime/A3804/A380402/38001082/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "ゆうぼく民",
+     "name_en": "Yuboku Tami",
+     "source_url": "https://tabelog.com/ehime/A3804/A380402/38010777/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "とんかつ丸七 愛媛店",
+     "name_en": "Tonkatsu Maru Shichi Ehime",
+     "source_url": "https://tabelog.com/ehime/A3804/A380402/38015661/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "しんみや",
+     "name_en": "Shinmiya",
+     "source_url": "https://tabelog.com/ehime/A3804/A380402/38011315/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "麺や一心",
+     "name_en": "Men Ya Isshin",
+     "source_url": "https://tabelog.com/ehime/A3804/A380402/38011504/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "大介うどん 宇和店",
+     "name_en": "Daisuke Udon Uwa",
+     "source_url": "https://tabelog.com/ehime/A3804/A380402/38004622/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "停満里",
+     "name_en": "Tei Michisato",
+     "source_url": "https://tabelog.com/ehime/A3804/A380402/38007474/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "名水亭",
+     "name_en": "Meisui-tei",
+     "source_url": "https://tabelog.com/ehime/A3804/A380402/38001045/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "ペンション もみの木",
+     "name_en": "Pension Momino Ki",
+     "source_url": "https://tabelog.com/ehime/A3804/A380402/38001391/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "道の駅 どんぶり館",
+     "name_en": "Michi no Eki Donburi-kan",
+     "source_url": "https://tabelog.com/ehime/A3804/A380402/38000415/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "シーサイド うわかい",
+     "name_en": "Seaside Uwakai",
+     "source_url": "https://tabelog.com/ehime/A3804/A380402/38006305/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "ホテルみかめ本館",
+     "name_en": "Hotel Mikame Honkan",
+     "source_url": "https://tabelog.com/ehime/A3804/A380402/38011260/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "有限会社 南予てんぷら販売",
+     "name_en": "Yugengaisha Nanyo Tenpura Hanbai",
+     "source_url": "https://tabelog.com/ehime/A3804/A380402/38011860/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "山田屋まんじゅう 本店",
+     "name_en": "Yamada-ya Manju Main Store",
+     "source_url": "https://tabelog.com/ehime/A3804/A380402/38000241/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    }
+   ],
+   "sights": [
+    {
+     "name": "Kaimei Gakko",
+     "source_url": "https://seiyojikan.jp/",
+     "page": "https://bokenjapan.com/ehime/seiyo/see/"
+    },
+    {
+     "name": "Onogahara",
+     "source_url": "https://seiyojikan.jp/",
+     "page": "https://bokenjapan.com/ehime/seiyo/see/"
+    },
+    {
+     "name": "U Yuki Town no Streetscape",
+     "source_url": "https://seiyojikan.jp/",
+     "page": "https://bokenjapan.com/ehime/seiyo/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "atelier O-HUIS",
+     "name_en": "atelier O-HUIS",
+     "source_url": "https://www.ikyu.com/00002825/",
+     "page": "https://bokenjapan.com/ehime/seiyo/stay/"
+    },
+    {
+     "name": "第１ビジネスホテル松屋",
+     "name_en": "Dai 1 Business Hotel Matsuya",
+     "description": "Hotel in Uwa, Seiyo with parking and business travelers; 7-minute walk from Jrunomachi Station.",
+     "source_url": "https://www.jalan.net/yad353810/",
+     "page": "https://bokenjapan.com/ehime/seiyo/stay/"
+    },
+    {
+     "name": "宇和パークホテル",
+     "name_en": "Uwa Park Hotel",
+     "description": "Hotel in Uwa, Seiyo with a sauna.",
+     "source_url": "https://www.jalan.net/yad304883/",
+     "page": "https://bokenjapan.com/ehime/seiyo/stay/"
+    },
+    {
+     "name": "みかめ本館",
+     "name_en": "Mikame Honkan",
+     "source_url": "https://www.jalan.net/yad389220/",
+     "page": "https://bokenjapan.com/ehime/seiyo/stay/"
+    },
+    {
+     "name": "ＳｅａＳｉｄｅうわかい",
+     "name_en": "SeaSide Uwakai",
+     "source_url": "https://www.jalan.net/yad334117/",
+     "page": "https://bokenjapan.com/ehime/seiyo/stay/"
+    },
+    {
+     "name": "遊子川ゲストハウス コッコロん",
+     "name_en": "Yuko Kawa Guesthouse Kokkoro N",
+     "source_url": "https://www.jalan.net/yad334009/",
+     "page": "https://bokenjapan.com/ehime/seiyo/stay/"
+    },
+    {
+     "name": "宝泉坊ロッジ",
+     "name_en": "Hosen Bo Lodge",
+     "source_url": "https://www.jalan.net/yad331315/",
+     "page": "https://bokenjapan.com/ehime/seiyo/stay/"
+    }
+   ]
   },
   {
    "name": "Shikokuchuo",
@@ -305,7 +3751,7 @@
    "official": {
     "links": [
      {
-      "label": "City / town / village site",
+      "label": "Shikokuchuo City Hall",
       "url": "https://www.city.shikokuchuo.ehime.jp/"
      },
      {
@@ -316,7 +3762,292 @@
     "address": "4-6-55 Mishima-Miyagawa, Shikokuchuo City, Ehime 799-0497, Japan",
     "phone": "0896-28-6000"
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "四国中央市役所",
+     "name_en": "Shikokuchuo City Hall",
+     "description": "Shikokuchuo city hall: resident services, certificates and local information, at 4-6-55 Mishima-Miyagawa, Shikokuchuo City, Ehime 799-0497, Japan.",
+     "source_url": "https://www.city.shikokuchuo.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Iyo Tsuchii Eki",
+     "source_url": "https://www.shikochu-kankou.jp/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/do/"
+    }
+   ],
+   "food": [
+    {
+     "name": "霧の森 茶フェ ゆるり",
+     "name_en": "Kiri no Mori Cha Fe Yururi",
+     "source_url": "https://tabelog.com/ehime/A3802/A380204/38000975/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "珈琲蔵 本店",
+     "name_en": "Coffee Kura Main Store",
+     "source_url": "https://tabelog.com/ehime/A3802/A380204/38005006/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "ぶんぶくちゃがま",
+     "name_en": "Bunbukuchagama",
+     "source_url": "https://tabelog.com/ehime/A3802/A380204/38005693/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "熊福",
+     "name_en": "Kuma Fuku",
+     "source_url": "https://tabelog.com/ehime/A3802/A380204/38001477/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "住吉食堂",
+     "name_en": "Sumiyoshi Shokudo",
+     "source_url": "https://tabelog.com/ehime/A3802/A380204/38009643/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "中華菜館 成都",
+     "name_en": "Chinese Na-kan Seito",
+     "source_url": "https://tabelog.com/ehime/A3802/A380204/38001534/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "柘",
+     "name_en": "Tsuge",
+     "source_url": "https://tabelog.com/ehime/A3802/A380204/38007892/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "ピッツェリア エイゴロ 伊予三島",
+     "name_en": "Pizzeria Eigoro Iyo Mishima",
+     "source_url": "https://tabelog.com/ehime/A3802/A380204/38010745/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "ピッツァ モーレ",
+     "name_en": "Pittsua More",
+     "source_url": "https://tabelog.com/ehime/A3802/A380204/38010555/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "アマルフィ",
+     "name_en": "Amarufi",
+     "source_url": "https://tabelog.com/ehime/A3802/A380204/38003365/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "清花園",
+     "name_en": "Kiyoshi Hanazono",
+     "source_url": "https://tabelog.com/ehime/A3802/A380204/38002225/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "揚げ足鳥・伊予万里",
+     "name_en": "Ageashi Tori Iyo Banri",
+     "source_url": "https://tabelog.com/ehime/A3802/A380204/38002024/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "ひかり食堂",
+     "name_en": "Hikari Shokudo",
+     "source_url": "https://tabelog.com/ehime/A3802/A380204/38003879/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "菜の家",
+     "name_en": "Na no-ya",
+     "source_url": "https://tabelog.com/ehime/A3802/A380204/38006219/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "うどん 山口 伊予三島店",
+     "name_en": "Udon Yamaguchi Iyo Mishima",
+     "source_url": "https://tabelog.com/ehime/A3802/A380204/38015751/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "手打ちうどん まいど",
+     "name_en": "Handmade Udon Maido",
+     "source_url": "https://tabelog.com/ehime/A3802/A380204/38013149/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "ロケットうどん",
+     "name_en": "Rocket Udon",
+     "source_url": "https://tabelog.com/ehime/A3802/A380204/38002301/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "セルフ讃岐うどん 宮内製麺",
+     "name_en": "Self- Sanuki Udon Miyauchi Seimen",
+     "source_url": "https://tabelog.com/ehime/A3802/A380204/38013116/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "やったろうじゃん",
+     "name_en": "Yattarojan",
+     "source_url": "https://tabelog.com/ehime/A3802/A380204/38014063/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "霧の森レストラン",
+     "name_en": "Kiri No Mori Restaurant",
+     "source_url": "https://tabelog.com/ehime/A3802/A380204/38001142/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "味将",
+     "name_en": "Aji Sho",
+     "source_url": "https://tabelog.com/ehime/A3802/A380204/38002710/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "霧の森菓子工房 新宮本店",
+     "name_en": "Kiri no Mori Kashi Kobo Shingu Main Store",
+     "source_url": "https://tabelog.com/ehime/A3802/A380204/38001518/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "柴田モナカ本舗",
+     "name_en": "Shibata Monaka Honpo",
+     "source_url": "https://tabelog.com/ehime/A3802/A380204/38013295/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "ゴトウ洋菓子店",
+     "name_en": "Goto Hiroshi Confectionery",
+     "source_url": "https://tabelog.com/ehime/A3802/A380204/38004643/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    }
+   ],
+   "sights": [
+    {
+     "name": "Sui Nami Highlands",
+     "source_url": "https://www.shikochu-kankou.jp/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/see/"
+    },
+    {
+     "name": "Kawanoe Shiro",
+     "source_url": "https://www.shikochu-kankou.jp/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/see/"
+    },
+    {
+     "name": "Kami no Machi Museum",
+     "source_url": "https://www.shikochu-kankou.jp/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "ホテルルートイン四国中央 -三島川之江インター-",
+     "name_en": "Hotel Route Inn Shikokuchuo - Mishima Kawanoe Inta",
+     "description": "Hotel in Tsumatori, Shikokuchuo with a large communal bath; 2-minute drive from Mishimakawanoe IC.",
+     "source_url": "https://www.ikyu.com/00082441/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/stay/"
+    },
+    {
+     "name": "ホテルグランフォーレ",
+     "name_en": "Hotel Guranfore",
+     "description": "Hotel in Mishimaasahi, Shikokuchuo with buffet meals.",
+     "source_url": "https://www.jalan.net/yad371752/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/stay/"
+    },
+    {
+     "name": "ビジネスホテル マイルド",
+     "name_en": "Business Hotel Mild",
+     "description": "Hotel in Mishimaasahi, Shikokuchuo with business travelers.",
+     "source_url": "https://www.jalan.net/yad313062/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/stay/"
+    },
+    {
+     "name": "ホテルリブマックスBUDGET伊予三島",
+     "name_en": "Hotel Ribumakkusu BUDGET Iyo Mishima",
+     "description": "Hotel in Mishimachuo, Shikokuchuo; 1-minute walk from Iyomishima Station.",
+     "source_url": "https://www.jalan.net/yad366185/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/stay/"
+    },
+    {
+     "name": "天然温泉 旅人の湯 ホテルルートイン四国中央",
+     "name_en": "Tennen Onsen Tabibito No Yu Hotel Route Inn Shikokuchuo",
+     "description": "Hotel in Tsumatori, Shikokuchuo with a large communal bath and business travelers.",
+     "source_url": "https://www.jalan.net/yad331717/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/stay/"
+    },
+    {
+     "name": "スーパーホテル四国中央 天然温泉 東予の湯",
+     "name_en": "Super Hotel Shikokuchuo Tennen Onsen Toyo No Yu",
+     "source_url": "https://www.jalan.net/yad345912/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/stay/"
+    },
+    {
+     "name": "ＨＯＴＥＬ Ｒ９ Ｔｈｅ Ｙａｒｄ 四国中央",
+     "name_en": "HOTEL R9 The Yard Shikokuchuo",
+     "source_url": "https://www.jalan.net/yad353356/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/stay/"
+    },
+    {
+     "name": "四国セントラルホテル",
+     "name_en": "Shikoku Central Hotel",
+     "description": "Hotel in Kawanoe, Shikokuchuo with Wi-Fi and parking.",
+     "source_url": "https://www.jalan.net/yad319327/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/stay/"
+    },
+    {
+     "name": "ホテルセレクトイン四国中央",
+     "name_en": "Hotel Selection Inn Shikokuchuo",
+     "source_url": "https://www.jalan.net/yad314682/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/stay/"
+    },
+    {
+     "name": "プリンスホテル杉源",
+     "name_en": "Prince Hotel Sugi Gen",
+     "description": "Hotel in Kawanoe, Shikokuchuo; 5-minute walk from Jrkawanoe Station.",
+     "source_url": "https://www.jalan.net/yad328976/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/stay/"
+    },
+    {
+     "name": "HOTEL AZ 愛媛土居インター店",
+     "name_en": "HOTEL AZ Ehime Tsuchi Inta",
+     "description": "Inn in Tsuchi, Shikokuchuo; 3-minute drive from Ehimekenshikokuchuoshi(Tsuchi IC.",
+     "source_url": "https://www.jalan.net/yad332242/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/stay/"
+    },
+    {
+     "name": "霧の森コテージ",
+     "name_en": "Kiri No Mori Cottage",
+     "source_url": "https://www.jalan.net/yad358288/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/stay/"
+    }
+   ]
   },
   {
    "name": "Tobe",
@@ -326,7 +4057,7 @@
    "official": {
     "links": [
      {
-      "label": "City / town / village site",
+      "label": "Tobe Town Hall",
       "url": "https://www.town.tobe.ehime.jp/"
      },
      {
@@ -337,7 +4068,226 @@
     "address": "1392 Miyauchi, Tobe Town, Iyo District, Ehime 791-2195, Japan",
     "phone": "089-962-2323"
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "砥部町役場",
+     "name_en": "Tobe Town Hall",
+     "description": "Tobe town hall: resident services, certificates and local information, at 1392 Miyauchi, Tobe Town, Iyo District, Ehime 791-2195, Japan.",
+     "source_url": "https://www.town.tobe.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/tobe/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Tobe Yaki Togei Kan",
+     "source_url": "https://www.town.tobe.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/tobe/do/"
+    }
+   ],
+   "food": [
+    {
+     "name": "民芸CAFE 珈町",
+     "name_en": "Mingei CAFE Ka Machi",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38005649/",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "青空Veggy",
+     "name_en": "Aozora Veggy",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38010730/",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "珈琲貴族",
+     "name_en": "Coffee Kizoku",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38005648/",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "食堂ちとせ",
+     "name_en": "Shokudo Chitose",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38007998/",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "展望レストラン SKY GARDEN",
+     "name_en": "Tenbo Restaurant SKY GARDEN",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38005830/",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "串ノ焼鬼",
+     "name_en": "Kushi No Yaki Oni",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38016381/",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "炒飯専門店Thomas",
+     "name_en": "Chahan Thomas",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38013738/",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "ピッツェリア トレンタノーヴェ",
+     "name_en": "Pizzeria Torentanove",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38010028/",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "ボーノ",
+     "name_en": "Bono",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38005539/",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "ひろたの森",
+     "name_en": "Hirota no Mori",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38010746/",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "旬香酒踊 げん",
+     "name_en": "Shunko Sake Yo Gen",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38015628/",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "和酔食菜ｋｅｎ",
+     "name_en": "Wa Sui Shoku Na ken",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38006827/",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "蔵グルメ あこう",
+     "name_en": "Kura Gourmet Ako",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38001305/",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "焼肉水本 総本山",
+     "name_en": "Yakiniku Mizumoto Sohonzan",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38016315/",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "焼肉 慶州 原町店",
+     "name_en": "Yakiniku Keishu Haramachi",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38010203/",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "水田商店",
+     "name_en": "Suiden Shoten",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38013897/",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "ラーメン一興 砥部店",
+     "name_en": "Ramen Ikkyo Tobe",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38000421/",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "ぎやてい",
+     "name_en": "Giyatei",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38009123/",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "豚太郎 砥部店",
+     "name_en": "Buta Taro Tobe",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38005434/",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "なかまる",
+     "name_en": "Nakamaru",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38006297/",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "うどん茶屋 北斗 砥部店",
+     "name_en": "Udon Cha-ya Hokuto Tobe",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38002834/",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "変幻自在 かめりあ",
+     "name_en": "Hengen Jizai Kameria",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38011456/",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "ひだのかみ",
+     "name_en": "Hidanokami",
+     "source_url": "https://tabelog.com/ehime/A3801/A380103/38002421/",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/other-japanese/",
+     "category": "Other Japanese"
+    }
+   ],
+   "sights": [
+    {
+     "name": "Tobe Yaki Dento Sangyo Hall",
+     "source_url": "https://www.town.tobe.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/tobe/see/"
+    },
+    {
+     "name": "Tobe Zoo",
+     "source_url": "https://www.town.tobe.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/tobe/see/"
+    },
+    {
+     "name": "Tobe Yaki Taimatsu Monyumento",
+     "source_url": "https://www.town.tobe.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/tobe/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "時地人- JIJIJIN Matsuyama",
+     "name_en": "Toki Chijin - JIJIJIN Matsuyama",
+     "description": "Inn in Miyauchi, Tobe with scenic views and lakeside location.",
+     "source_url": "https://www.ikyu.com/00001642/",
+     "page": "https://bokenjapan.com/ehime/tobe/stay/"
+    },
+    {
+     "name": "南道後温泉ホテルていれぎ館 砥邸",
+     "name_en": "Nando Nochi Onsen Hotel Teiregi Kan To Tei",
+     "description": "Hotel at Nandonochi Onsen in Shu, Tobe.",
+     "source_url": "https://www.ikyu.com/00031077/",
+     "page": "https://bokenjapan.com/ehime/tobe/stay/"
+    },
+    {
+     "name": "南道後温泉ホテルていれぎ館",
+     "name_en": "Nando Nochi Onsen Hotel Teiregi Kan",
+     "description": "Hotel at Nandonochi Onsen in Shu, Tobe with free-flowing hot spring baths and parking.",
+     "source_url": "https://www.jalan.net/yad381712/",
+     "page": "https://bokenjapan.com/ehime/tobe/stay/"
+    }
+   ]
   },
   {
    "name": "Toon",
@@ -347,7 +4297,7 @@
    "official": {
     "links": [
      {
-      "label": "City / town / village site",
+      "label": "Toon City Hall",
       "url": "https://www.city.toon.ehime.jp/"
      },
      {
@@ -358,7 +4308,253 @@
     "address": "530-1 Minara, Toon City, Ehime 791-0292, Japan",
     "phone": "089-964-2001"
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "東温市役所",
+     "name_en": "Toon City Hall",
+     "description": "Toon city hall: resident services, certificates and local information, at 530-1 Minara, Toon City, Ehime 791-0292, Japan.",
+     "source_url": "https://www.city.toon.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/toon/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Takahata Kasho Taisho Roman Kan",
+     "source_url": "https://www.city.toon.ehime.jp/soshiki/13/index.html",
+     "page": "https://bokenjapan.com/ehime/toon/do/"
+    }
+   ],
+   "food": [
+    {
+     "name": "カフェレストマーズ",
+     "name_en": "Cafe Resutomazu",
+     "source_url": "https://tabelog.com/ehime/A3801/A380102/38004560/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "いちご日和",
+     "name_en": "Ichigo Hiyori",
+     "source_url": "https://tabelog.com/ehime/A3801/A380102/38010500/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "唐揚げ食堂 ごいち フジグラン重信店",
+     "name_en": "Karage Shokudo Goichi Fuji Gran Shigenobu",
+     "source_url": "https://tabelog.com/ehime/A3801/A380102/38014040/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "見奈良天然温泉 利楽",
+     "name_en": "Ken Nara Natural Onsen Riraku",
+     "source_url": "https://tabelog.com/ehime/A3801/A380102/38001634/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "老香港菜館",
+     "name_en": "Ro Honkon Na-kan",
+     "source_url": "https://tabelog.com/ehime/A3801/A380102/38000593/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Luciole",
+     "name_en": "Luciole",
+     "source_url": "https://tabelog.com/ehime/A3801/A380102/38014448/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "ペッティロッソ",
+     "name_en": "Petteirosso",
+     "source_url": "https://tabelog.com/ehime/A3801/A380102/38009497/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "OTTO",
+     "name_en": "OTTO",
+     "source_url": "https://tabelog.com/ehime/A3801/A380102/38007671/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "ペル メル",
+     "name_en": "Peru Meru",
+     "source_url": "https://tabelog.com/ehime/A3801/A380102/38013217/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "フィレンツェ",
+     "name_en": "Firentsue",
+     "source_url": "https://tabelog.com/ehime/A3801/A380102/38010167/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "マニフィーク",
+     "name_en": "Manifiku",
+     "source_url": "https://tabelog.com/ehime/A3801/A380102/38011349/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "一汁三菜 五感",
+     "name_en": "Ichi Shiru San Na Gokan",
+     "source_url": "https://tabelog.com/ehime/A3801/A380102/38011431/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "旬彩武",
+     "name_en": "Jun Sai Takeshi",
+     "source_url": "https://tabelog.com/ehime/A3801/A380102/38003242/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "芯せかい",
+     "name_en": "Shin Sekai",
+     "source_url": "https://tabelog.com/ehime/A3801/A380102/38011146/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "にしきそば",
+     "name_en": "Nishiki Soba",
+     "source_url": "https://tabelog.com/ehime/A3801/A380102/38001291/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "そばのもん",
+     "name_en": "Soba Nomon",
+     "source_url": "https://tabelog.com/ehime/A3801/A380102/38010930/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "セルフ讃岐うどん こだわり製麺",
+     "name_en": "Self- Sanuki Udon Kodawari Seimen",
+     "source_url": "https://tabelog.com/ehime/A3801/A380102/38014948/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "okinawa kitchen 美ら島160",
+     "name_en": "okinawa kitchen Bi Ra Shima 160",
+     "source_url": "https://tabelog.com/ehime/A3801/A380102/38014471/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "天天丸 重信店",
+     "name_en": "Tenten Maru Shigenobu",
+     "source_url": "https://tabelog.com/ehime/A3801/A380102/38004454/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "河内屋",
+     "name_en": "Kawauchi-ya",
+     "source_url": "https://tabelog.com/ehime/A3801/A380102/38001288/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "門田商店 かどみせ",
+     "name_en": "Kadota Shoten Kadomise",
+     "source_url": "https://tabelog.com/ehime/A3801/A380102/38005802/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "ベーカリービーンズ",
+     "name_en": "Bakery Binzu",
+     "source_url": "https://tabelog.com/ehime/A3801/A380102/38005775/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "炭焼き団子 志津かわ珈琲庵",
+     "name_en": "Sumiyaki Ki Dango Shizu Kawa Coffee Iori",
+     "source_url": "https://tabelog.com/ehime/A3801/A380102/38015757/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "母恵夢スイーツパーク",
+     "name_en": "Poemu Sweets Park",
+     "source_url": "https://tabelog.com/ehime/A3801/A380102/38011126/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    }
+   ],
+   "sights": [
+    {
+     "name": "Shirai Falls",
+     "source_url": "https://www.city.toon.ehime.jp/soshiki/13/index.html",
+     "page": "https://bokenjapan.com/ehime/toon/see/"
+    },
+    {
+     "name": "Namerikawa Gorge",
+     "source_url": "https://www.city.toon.ehime.jp/soshiki/13/index.html",
+     "page": "https://bokenjapan.com/ehime/toon/see/"
+    },
+    {
+     "name": "Botchan Gekijo",
+     "source_url": "https://www.city.toon.ehime.jp/soshiki/13/index.html",
+     "page": "https://bokenjapan.com/ehime/toon/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "瀧乃元近藤家",
+     "name_en": "Taki No Moto Kondo Ie",
+     "description": "Inn in Kawayukinai, Toon with a renovated traditional house.",
+     "source_url": "https://www.ikyu.com/00050919/",
+     "page": "https://bokenjapan.com/ehime/toon/stay/"
+    },
+    {
+     "name": "ジュラシック・スパ＆リゾート くつろぎの宿 樹楽",
+     "name_en": "Jurashikku Supa & Resort Kutsurogino Yado Ki Raku",
+     "description": "Resort hotel at Wakiderutennen Onsen in Kennara, Toon.",
+     "source_url": "https://www.jalan.net/yad378342/",
+     "page": "https://bokenjapan.com/ehime/toon/stay/"
+    },
+    {
+     "name": "フリーデイズイン横河原",
+     "name_en": "Furideizuin Yokogawa Hara",
+     "source_url": "https://www.jalan.net/yad330648/",
+     "page": "https://bokenjapan.com/ehime/toon/stay/"
+    },
+    {
+     "name": "private your resort ITTEKURAi",
+     "name_en": "private your resort ITTEKURAi",
+     "description": "Inn in Matsusekawaotsu, Toon with private baths and a sauna.",
+     "source_url": "https://www.jalan.net/yad359425/",
+     "page": "https://bokenjapan.com/ehime/toon/stay/"
+    },
+    {
+     "name": "近藤家別邸花澄",
+     "name_en": "Kondo Iebetsu Tei Hana Sumi",
+     "description": "Inn in Kawayukinaikabuto, Toon with scenic views and family-friendly stays.",
+     "source_url": "https://www.jalan.net/yad309245/",
+     "page": "https://bokenjapan.com/ehime/toon/stay/"
+    },
+    {
+     "name": "フリーデイズリゾート桜三里",
+     "name_en": "Furideizu Resort Sakura Sanri",
+     "description": "Resort hotel in Kawayukinaiotsu, Toon with pet-friendly rooms and family-friendly stays.",
+     "source_url": "https://www.jalan.net/yad365165/",
+     "page": "https://bokenjapan.com/ehime/toon/stay/"
+    }
+   ]
   },
   {
    "name": "Uchiko",
@@ -368,7 +4564,7 @@
    "official": {
     "links": [
      {
-      "label": "City / town / village site",
+      "label": "Uchiko Town Hall",
       "url": "https://www.town.uchiko.ehime.jp/"
      },
      {
@@ -379,7 +4575,284 @@
     "address": "168 Hiraoka-ko, Uchiko Town, Kita District, Ehime 795-0392, Japan",
     "phone": "0893-44-2111"
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "内子町役場",
+     "name_en": "Uchiko Town Hall",
+     "description": "Uchiko town hall: resident services, certificates and local information, at 168 Hiraoka-ko, Uchiko Town, Kita District, Ehime 795-0392, Japan.",
+     "source_url": "https://www.town.uchiko.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/uchiko/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Roadside Station Uchiko Furesshu Park Karari",
+     "source_url": "https://www.town.uchiko.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/uchiko/do/"
+    }
+   ],
+   "food": [
+    {
+     "name": "シャルム",
+     "name_en": "Charm",
+     "source_url": "https://tabelog.com/ehime/A3803/A380303/38013344/",
+     "page": "https://bokenjapan.com/ehime/uchiko/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "なるカフェ",
+     "name_en": "Naru Cafe",
+     "source_url": "https://tabelog.com/ehime/A3803/A380303/38014053/",
+     "page": "https://bokenjapan.com/ehime/uchiko/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "カフェでんじろう",
+     "name_en": "Cafe Denjiro",
+     "source_url": "https://tabelog.com/ehime/A3803/A380303/38011619/",
+     "page": "https://bokenjapan.com/ehime/uchiko/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "アグリcafe川楽里",
+     "name_en": "Agri- cafe Kawa Raku Sato",
+     "source_url": "https://tabelog.com/ehime/A3803/A380303/38015652/",
+     "page": "https://bokenjapan.com/ehime/uchiko/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "峠たこ焼",
+     "name_en": "Toge Tako Yaki",
+     "source_url": "https://tabelog.com/ehime/A3803/A380303/38001570/",
+     "page": "https://bokenjapan.com/ehime/uchiko/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "シャロン",
+     "name_en": "Sharon",
+     "source_url": "https://tabelog.com/ehime/A3803/A380303/38004613/",
+     "page": "https://bokenjapan.com/ehime/uchiko/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "かば忠 内子店",
+     "name_en": "Kaba Tadashi Uchiko",
+     "source_url": "https://tabelog.com/ehime/A3803/A380303/38001747/",
+     "page": "https://bokenjapan.com/ehime/uchiko/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "レストランからり",
+     "name_en": "Restaurant Karari",
+     "source_url": "https://tabelog.com/ehime/A3803/A380303/38000243/",
+     "page": "https://bokenjapan.com/ehime/uchiko/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "洋食マザー",
+     "name_en": "Yoshoku Maza",
+     "source_url": "https://tabelog.com/ehime/A3803/A380303/38004616/",
+     "page": "https://bokenjapan.com/ehime/uchiko/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "ツム・シュバルツェン・カイラー",
+     "name_en": "Tsumu Shubarutsuen Kaira",
+     "source_url": "https://tabelog.com/ehime/A3803/A380303/38013232/",
+     "page": "https://bokenjapan.com/ehime/uchiko/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "がっちゃん家",
+     "name_en": "Gatchan-ya",
+     "source_url": "https://tabelog.com/ehime/A3803/A380303/38007950/",
+     "page": "https://bokenjapan.com/ehime/uchiko/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "内子いなりや×ストライク軒",
+     "name_en": "Uchiko Inariya X Strike Ken",
+     "source_url": "https://tabelog.com/ehime/A3803/A380303/38000997/",
+     "page": "https://bokenjapan.com/ehime/uchiko/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "下芳我邸",
+     "name_en": "Shita Haga Tei",
+     "source_url": "https://tabelog.com/ehime/A3803/A380303/38000467/",
+     "page": "https://bokenjapan.com/ehime/uchiko/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "かじか亭",
+     "name_en": "Kajika-tei",
+     "source_url": "https://tabelog.com/ehime/A3803/A380303/38006046/",
+     "page": "https://bokenjapan.com/ehime/uchiko/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "幟立うどん",
+     "name_en": "Shi Ritsu Udon",
+     "source_url": "https://tabelog.com/ehime/A3803/A380303/38002352/",
+     "page": "https://bokenjapan.com/ehime/uchiko/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "愛媛ゴルフ倶楽部",
+     "name_en": "Ehime Golf Kurabu",
+     "source_url": "https://tabelog.com/ehime/A3803/A380303/38010319/",
+     "page": "https://bokenjapan.com/ehime/uchiko/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "そば処 石畳むら",
+     "name_en": "Soba Ishidatami Mura",
+     "source_url": "https://tabelog.com/ehime/A3803/A380303/38008262/",
+     "page": "https://bokenjapan.com/ehime/uchiko/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "道の駅 内子フレッシュパークからり",
+     "name_en": "Michi No Eki Uchiko Fresh Park Karari",
+     "source_url": "https://tabelog.com/ehime/A3803/A380303/38011478/",
+     "page": "https://bokenjapan.com/ehime/uchiko/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "ホテル エーゼット 愛媛内子店",
+     "name_en": "Hotel Ezetto Ehime Uchiko",
+     "source_url": "https://tabelog.com/ehime/A3803/A380303/38013304/",
+     "page": "https://bokenjapan.com/ehime/uchiko/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "米屋",
+     "name_en": "Kome-ya",
+     "source_url": "https://tabelog.com/ehime/A3803/A380303/38011447/",
+     "page": "https://bokenjapan.com/ehime/uchiko/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "からりパン工房",
+     "name_en": "Karari Bread Kobo",
+     "source_url": "https://tabelog.com/ehime/A3803/A380303/38010356/",
+     "page": "https://bokenjapan.com/ehime/uchiko/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "坂見輝月堂",
+     "name_en": "Saka Ken Teru Gatsu Do",
+     "source_url": "https://tabelog.com/ehime/A3803/A380303/38005954/",
+     "page": "https://bokenjapan.com/ehime/uchiko/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    }
+   ],
+   "sights": [
+    {
+     "name": "Yoka City Gokoku Dentoteki Kenzobutsu Gun Hozon Chiku",
+     "source_url": "https://www.town.uchiko.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/uchiko/see/"
+    },
+    {
+     "name": "Uchiko Za",
+     "source_url": "https://www.town.uchiko.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/uchiko/see/"
+    },
+    {
+     "name": "Mokuro Museum Ue Haga Tei",
+     "source_url": "https://www.town.uchiko.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/uchiko/see/"
+    },
+    {
+     "name": "Yoka City Gokoku Town Nami Hozon Center",
+     "source_url": "https://www.town.uchiko.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/uchiko/see/"
+    },
+    {
+     "name": "Ikazaki Tako Museum",
+     "source_url": "https://www.town.uchiko.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/uchiko/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "オーベルジュ内子",
+     "name_en": "Oberuju Uchiko",
+     "source_url": "https://www.ikyu.com/00002851/",
+     "page": "https://bokenjapan.com/ehime/uchiko/stay/"
+    },
+    {
+     "name": "内子の宿 こころ",
+     "name_en": "Uchiko No Yado Kokoro",
+     "source_url": "https://www.ikyu.com/00050808/",
+     "page": "https://bokenjapan.com/ehime/uchiko/stay/"
+    },
+    {
+     "name": "内子の宿 久",
+     "name_en": "Uchiko No Yado Kyu",
+     "source_url": "https://www.ikyu.com/00050357/",
+     "page": "https://bokenjapan.com/ehime/uchiko/stay/"
+    },
+    {
+     "name": "内子の宿 織",
+     "name_en": "Uchiko No Yado Shoku",
+     "source_url": "https://www.ikyu.com/00050356/",
+     "page": "https://bokenjapan.com/ehime/uchiko/stay/"
+    },
+    {
+     "name": "内子の宿",
+     "name_en": "Uchiko No Yado",
+     "source_url": "https://www.ikyu.com/00050170/",
+     "page": "https://bokenjapan.com/ehime/uchiko/stay/"
+    },
+    {
+     "name": "HOTEL AZ 愛媛内子店",
+     "name_en": "HOTEL AZ Ehime Uchiko",
+     "description": "Inn in Uchiko with breakfast available and Wi-Fi.",
+     "source_url": "https://www.jalan.net/yad332626/",
+     "page": "https://bokenjapan.com/ehime/uchiko/stay/"
+    },
+    {
+     "name": "HOTEL ONLY ONE",
+     "name_en": "HOTEL ONLY ONE",
+     "description": "Inn in Uchiko with a sauna and business travelers.",
+     "source_url": "https://www.jalan.net/yad359045/",
+     "page": "https://bokenjapan.com/ehime/uchiko/stay/"
+    },
+    {
+     "name": "あかり by 4S STAY",
+     "name_en": "Akari by 4S STAY",
+     "description": "Inn in Uchiko with a renovated traditional house.",
+     "source_url": "https://www.jalan.net/yad369812/",
+     "page": "https://bokenjapan.com/ehime/uchiko/stay/"
+    },
+    {
+     "name": "Ted’s",
+     "name_en": "Ted s",
+     "source_url": "https://www.jalan.net/yad378938/",
+     "page": "https://bokenjapan.com/ehime/uchiko/stay/"
+    },
+    {
+     "name": "ペンション ステラ・ミラ",
+     "name_en": "Pension Sutera Mira",
+     "source_url": "https://www.jalan.net/yad346570/",
+     "page": "https://bokenjapan.com/ehime/uchiko/stay/"
+    },
+    {
+     "name": "石畳の宿",
+     "name_en": "Ishidatami No Yado",
+     "description": "Inn in Ishidatami, Uchiko with a renovated traditional house and a quiet countryside setting.",
+     "source_url": "https://www.jalan.net/yad322015/",
+     "page": "https://bokenjapan.com/ehime/uchiko/stay/"
+    },
+    {
+     "name": "深山山荘ＤＥＮＣＨＩ",
+     "name_en": "Miyama Sanso DENCHI",
+     "source_url": "https://www.jalan.net/yad307029/",
+     "page": "https://bokenjapan.com/ehime/uchiko/stay/"
+    }
+   ]
   },
   {
    "name": "Uwajima",
@@ -389,7 +4862,7 @@
    "official": {
     "links": [
      {
-      "label": "City / town / village site",
+      "label": "Uwajima City Hall",
       "url": "https://www.city.uwajima.ehime.jp/"
      },
      {
@@ -400,7 +4873,288 @@
     "address": "1 Akebono-cho, Uwajima City, Ehime 798-8601, Japan",
     "phone": "0895-24-1111"
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "宇和島市役所",
+     "name_en": "Uwajima City Hall",
+     "description": "Uwajima city hall: resident services, certificates and local information, at 1 Akebono-cho, Uwajima City, Ehime 798-8601, Japan.",
+     "source_url": "https://www.city.uwajima.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/uwajima/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Roadside Station Minato Oashisu Uwajima Kisaiya Plaza",
+     "source_url": "https://www.city.uwajima.ehime.jp/site/uwajima-jo/",
+     "page": "https://bokenjapan.com/ehime/uwajima/do/"
+    }
+   ],
+   "food": [
+    {
+     "name": "珈琲亭 TAO",
+     "name_en": "Coffee-tei TAO",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38008217/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "富屋",
+     "name_en": "Tomi-ya",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38012170/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "きさいや広場",
+     "name_en": "Kisaiya Hiroba",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38005039/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "ほづみ亭 きさいや広場店",
+     "name_en": "Hozumi-tei Kisaiya Hiroba",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38013663/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "河内屋蒲鉾 きさいや広場店",
+     "name_en": "Kawauchi-ya Kamaboko Kisaiya Hiroba",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38007335/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "おだいし庵",
+     "name_en": "Odaishi Iori",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38013501/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "道の駅 みま",
+     "name_en": "Michi no Eki Mima",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38005807/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "中国亭",
+     "name_en": "Chugoku-tei",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38001469/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "ヴィオロン・ダングル",
+     "name_en": "Violin Danguru",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38002357/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "郷土料理 大衆割烹 ほづみ亭",
+     "name_en": "Kyodo Cuisine Taishu Kappo Hozumi-tei",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38000392/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "海鮮居酒屋 がいや 宇和島店",
+     "name_en": "Kaisen Izakaya Gaiya Uwa Shima",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38000406/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "まえの",
+     "name_en": "Mae no",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38008658/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "菊屋",
+     "name_en": "Kiku-ya",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38000245/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "にし蔵",
+     "name_en": "Nishi Kura",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38009273/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "らぐまん",
+     "name_en": "Raguman",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38000247/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "かどや 本店",
+     "name_en": "Kadoya Main Store",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38015965/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "一心",
+     "name_en": "Isshin",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38002437/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "旬膳・郷土膳 和日輔",
+     "name_en": "Jun Zen Kyodo Zen Wa Nichi Suke",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38001317/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "ありあけ",
+     "name_en": "Ariake",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38004985/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "天よし",
+     "name_en": "Ten Yoshi",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38013157/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "平家",
+     "name_en": "Taira-ya",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38002496/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "回転寿司すしえもん 宇和島本店",
+     "name_en": "Kaiten Sushi Sushi Emon Uwa Shima Main Store",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38010440/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "河合太刀魚巻店",
+     "name_en": "Kawai Tachiuo Kan",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38006058/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "寿堤夢",
+     "name_en": "Hisashi Tsutsumi Yume",
+     "source_url": "https://tabelog.com/ehime/A3804/A380401/38001019/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    }
+   ],
+   "sights": [
+    {
+     "name": "Uwajima Shiro",
+     "source_url": "https://www.city.uwajima.ehime.jp/site/uwajima-jo/",
+     "page": "https://bokenjapan.com/ehime/uwajima/see/"
+    },
+    {
+     "name": "Tensha Sono",
+     "source_url": "https://www.city.uwajima.ehime.jp/site/uwajima-jo/",
+     "page": "https://bokenjapan.com/ehime/uwajima/see/"
+    },
+    {
+     "name": "Yuko Mizu Ka Ura no Dambata",
+     "source_url": "https://www.city.uwajima.ehime.jp/site/uwajima-jo/",
+     "page": "https://bokenjapan.com/ehime/uwajima/see/"
+    },
+    {
+     "name": "Uwajima Ritsu Date Museum",
+     "source_url": "https://www.city.uwajima.ehime.jp/site/uwajima-jo/",
+     "page": "https://bokenjapan.com/ehime/uwajima/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "木屋旅館",
+     "name_en": "Kiya Ryokan",
+     "source_url": "https://www.ikyu.com/00050103/",
+     "page": "https://bokenjapan.com/ehime/uwajima/stay/"
+    },
+    {
+     "name": "ホテル イシバシ",
+     "name_en": "Hotel Ishibashi",
+     "description": "Hotel in Sakae, Uwajima with a large communal bath.",
+     "source_url": "https://www.jalan.net/yad373654/",
+     "page": "https://bokenjapan.com/ehime/uwajima/stay/"
+    },
+    {
+     "name": "ホテルCORAL宇和島",
+     "name_en": "Hotel CORAL Uwa Shima",
+     "description": "Hotel in Sumiyoshi, Uwajima with scenic views.",
+     "source_url": "https://www.jalan.net/yad354773/",
+     "page": "https://bokenjapan.com/ehime/uwajima/stay/"
+    },
+    {
+     "name": "スーパーホテル宇和島駅前天然温泉 渓流滑床の湯",
+     "name_en": "Super Hotel Uwa Shima Ekimae Tennen Onsen Keiryu Katsu Toko No Yu",
+     "description": "Hotel at Wajimaekimaetennen Onsen in Nishiki, Uwajima with buffet meals and breakfast available.",
+     "source_url": "https://www.jalan.net/yad341149/",
+     "page": "https://bokenjapan.com/ehime/uwajima/stay/"
+    },
+    {
+     "name": "宇和島オリエンタルホテル",
+     "name_en": "Uwa Shima Orientaru Hotel",
+     "source_url": "https://www.jalan.net/yad316173/",
+     "page": "https://bokenjapan.com/ehime/uwajima/stay/"
+    },
+    {
+     "name": "JRホテルクレメント宇和島",
+     "name_en": "JR Hotel Kuremento Uwa Shima",
+     "source_url": "https://www.jalan.net/yad389435/",
+     "page": "https://bokenjapan.com/ehime/uwajima/stay/"
+    },
+    {
+     "name": "宇和島リージェントホテル",
+     "name_en": "Uwa Shima Rijiento Hotel",
+     "source_url": "https://www.jalan.net/yad330550/",
+     "page": "https://bokenjapan.com/ehime/uwajima/stay/"
+    },
+    {
+     "name": "宇和島ターミナルホテル",
+     "name_en": "Uwa Shima Terminal Hotel",
+     "description": "Hotel in Tenjin, Uwajima with business travelers; 1-minute walk from Jruwashima Station.",
+     "source_url": "https://www.jalan.net/yad332808/",
+     "page": "https://bokenjapan.com/ehime/uwajima/stay/"
+    },
+    {
+     "name": "宇和島第一ホテル",
+     "name_en": "Uwa Shima Daichi Hotel",
+     "description": "Hotel in Chuo, Uwajima with business travelers.",
+     "source_url": "https://www.jalan.net/yad367319/",
+     "page": "https://bokenjapan.com/ehime/uwajima/stay/"
+    },
+    {
+     "name": "ゲストハウスGO-HIGHTAKA",
+     "name_en": "Guesthouse GO-HIGHTAKA",
+     "source_url": "https://www.jalan.net/yad385361/",
+     "page": "https://bokenjapan.com/ehime/uwajima/stay/"
+    },
+    {
+     "name": "レジャー民宿・西遊漁センター",
+     "name_en": "Reja Minshuku Saiyu Ryo Center",
+     "source_url": "https://www.jalan.net/yad338462/",
+     "page": "https://bokenjapan.com/ehime/uwajima/stay/"
+    }
+   ]
   },
   {
    "name": "Yawatahama",
@@ -410,7 +5164,7 @@
    "official": {
     "links": [
      {
-      "label": "City / town / village site",
+      "label": "Yawatahama City Hall",
       "url": "https://www.city.yawatahama.ehime.jp/"
      },
      {
@@ -421,7 +5175,251 @@
     "address": "1-1-1 Kitahama, Yawatahama City, Ehime 796-8501, Japan",
     "phone": "0894-22-3111"
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "八幡浜市役所",
+     "name_en": "Yawatahama City Hall",
+     "description": "Yawatahama city hall: resident services, certificates and local information, at 1-1-1 Kitahama, Yawatahama City, Ehime 796-8501, Japan.",
+     "source_url": "https://www.city.yawatahama.ehime.jp/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Roadside Station Minato Oashisu Yawatahama Minatto",
+     "source_url": "https://www.minatto.net/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/do/"
+    }
+   ],
+   "food": [
+    {
+     "name": "カフェ シュシュ",
+     "name_en": "Cafe Shushu",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38009575/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "PETIT PONT",
+     "name_en": "Petit PONT",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38014239/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "ぷち ぼぬーる",
+     "name_en": "Puchi Bonuru",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38013528/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "お菓しとそらしと",
+     "name_en": "O Ka Shitosorashito",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38016270/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "どーや食堂",
+     "name_en": "Doya Shokudo",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38010080/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "フジ観光",
+     "name_en": "Fuji Kanko",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38001171/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "食堂ごりらくん",
+     "name_en": "Shokudo Gorirakun",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38005840/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "白石食堂",
+     "name_en": "Shiroishi Shokudo",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38003284/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "食造り 拓味",
+     "name_en": "Shoku Tsukuri Taku Aji",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38001086/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "くいもんや３０５",
+     "name_en": "Kuimonya 305",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38001114/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "ちゃんぽん亭 イーグル",
+     "name_en": "Chanpon Tei Eagle",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38001292/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "ロンドン",
+     "name_en": "Rondon",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38001147/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "丸山ちゃんぽん",
+     "name_en": "Maruyama Chanpon",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38001149/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "清家食堂",
+     "name_en": "Kiyoshi-ya Shokudo",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38005148/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "めん処 矢磨樹 保内店",
+     "name_en": "Men Tokoro Ya Ma Ki Honai",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38001385/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "平家谷そうめん流し",
+     "name_en": "Taira-ya Tani Somen Nagashi",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38004625/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "千鳥の荘 風の樹",
+     "name_en": "Chidori no-so Kaze no Ki",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38008321/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "アゴラマルシェ",
+     "name_en": "Agora Marche",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38009539/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "海乃幸 騎虎",
+     "name_en": "Umi no Sachi Kiko",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38016118/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "パンメゾン 八幡浜店",
+     "name_en": "Panmezon Yawatahama",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38010947/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "あわしま堂",
+     "name_en": "Awashima Do",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38006378/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "菓工房 後藤",
+     "name_en": "Ka Kobo Goto",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38001195/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "石窯パン工房",
+     "name_en": "Ishigama Bread Kobo",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38009576/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "宮川菓子舗",
+     "name_en": "Miyagawa Kashiho",
+     "source_url": "https://tabelog.com/ehime/A3803/A380302/38001519/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    }
+   ],
+   "sights": [
+    {
+     "name": "Nichi Tsuchi Shogakko",
+     "source_url": "https://www.minatto.net/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/see/"
+    },
+    {
+     "name": "Yawatahama Minato",
+     "source_url": "https://www.minatto.net/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/see/"
+    },
+    {
+     "name": "Kawa Yuki Ishi no Streetscape",
+     "source_url": "https://www.minatto.net/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/see/"
+    },
+    {
+     "name": "Meiji Hashi",
+     "source_url": "https://www.minatto.net/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "ハーバープラザホテル",
+     "name_en": "Ha Bar Plaza Hotel",
+     "description": "Hotel in Chushi, Yawatahama with business travelers.",
+     "source_url": "https://www.jalan.net/yad354830/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/stay/"
+    },
+    {
+     "name": "八幡浜センチュリーホテルイトー",
+     "name_en": "Yawatahama Senchuri Hotel Ito",
+     "description": "Hotel in Tenjintori, Yawatahama with business travelers.",
+     "source_url": "https://www.jalan.net/yad367567/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/stay/"
+    },
+    {
+     "name": "スーパーホテル八幡浜",
+     "name_en": "Super Hotel Yawatahama",
+     "source_url": "https://www.jalan.net/yad357725/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/stay/"
+    },
+    {
+     "name": "COZY HOTEL NUKUI yawatahama",
+     "name_en": "COZY HOTEL NUKUI yawatahama",
+     "description": "Inn in Shohakuhinoe, Yawatahama with a sauna and a large communal bath; 1-minute walk from Jryawatahama Station.",
+     "source_url": "https://www.jalan.net/yad323125/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/stay/"
+    },
+    {
+     "name": "千鳥の荘「風の樹」",
+     "name_en": "Chidori No So (Kaze No Ki)",
+     "description": "Inn in Goda, Yawatahama with one group per day and a renovated traditional house.",
+     "source_url": "https://www.jalan.net/yad389057/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/stay/"
+    }
+   ]
   }
  ]
 }
