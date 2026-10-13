@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 from __future__ import annotations
-import json, subprocess, time
+import json, os, subprocess, time
 from pathlib import Path
 
 BASE = Path('/workspace/p1/data/catalog-uplift')  # runtime data/raw/out
@@ -8,7 +8,9 @@ REPO_HUBS = Path(__file__).resolve().parents[1] / 'hubs'
 HUBS = BASE / 'hubs' / 'aomori-hub-codes.json'  # default
 RAW = BASE / 'raw'
 OUT = BASE / 'out'
-CUTOVER = Path('/workspace/p1/bokenjapan-cutover')
+# Site root to render into. Set BJ_SITE_ROOT to YOUR worktree; never render into another
+# worker's checkout (CoS fix 2026-10-13).
+CUTOVER = Path(os.environ.get('BJ_SITE_ROOT', '/workspace/p1/bokenjapan-cutover'))
 MEDIA = CUTOVER / 'media'
 UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 

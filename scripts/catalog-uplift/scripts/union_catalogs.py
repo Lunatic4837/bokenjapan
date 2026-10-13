@@ -16,6 +16,7 @@ def build_union(slug: str, place_en: str, tb: dict, ta: dict, ik: dict, jl: dict
             'name_en': it.get('name_en') or '',
             'tabelog_url': it.get('tabelog_url') or it.get('url'),
             'tabelog_rank': it.get('tabelog_rank'),
+            'area': it.get('area', ''),
             'rst_id': it.get('rst_id'),
             'source': 'tabelog',
         })

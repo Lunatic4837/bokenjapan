@@ -17,7 +17,8 @@ def _download(url: str, dest: Path) -> bool:
              '--max-time', '25', u],
             capture_output=True, text=True)
         code = (r.stdout or '').strip()
-        if code == '200' and dest.exists() and dest.stat().st_size > 2000:
+        # 3027 B = Tabelog "no photo" stub: not a real photo (CoS R3/R8)
+        if code == '200' and dest.exists() and dest.stat().st_size > 2000 and dest.stat().st_size != 3027:
             return True
         if dest.exists():
             dest.unlink(missing_ok=True)
@@ -68,7 +69,7 @@ def attach_dining_photos(slug: str, union: dict, tabelog: dict, prefer_list: boo
         if prefer_list and rid and rid in img_map:
             if _download(img_map[rid], dest):
                 photo = f'../../media/{fname}'
-                credit = f'source · Source {tb_url}'
+                credit = f'食べログ · Source {tb_url}'
                 source_kind = 'tabelog'
         if not photo and tb_url:
             detail_path = rawdir / f'tabelog-detail-{rid}.html'
@@ -81,7 +82,7 @@ def attach_dining_photos(slug: str, union: dict, tabelog: dict, prefer_list: boo
                 meta = extract_tabelog_detail_meta(html)
                 if meta.get('og_image') and _download(meta['og_image'], dest):
                     photo = f'../../media/{fname}'
-                    credit = f'source · Source {tb_url}'
+                    credit = f'食べログ · Source {tb_url}'
                     source_kind = 'tabelog'
         if not photo and d.get('ta_url') and disk_avail_gib() >= 10.0:
             ta_path = rawdir / f'ta-detail-{d.get("ta_rank")}.html'
@@ -94,7 +95,7 @@ def attach_dining_photos(slug: str, union: dict, tabelog: dict, prefer_list: boo
                 og = re.search(r'property="og:image"\s+content="([^"]+)"', html)
                 if og and _download(og.group(1).replace('&amp;', '&'), dest):
                     photo = f'../../media/{fname}'
-                    credit = f'source · Source {d["ta_url"]}'
+                    credit = f'Tripadvisor · Source {d["ta_url"]}'
                     source_kind = 'tripadvisor'
         d['photo'] = photo
         d['photo_credit'] = credit
@@ -111,7 +112,7 @@ def attach_stay_photos(slug: str, union: dict, jalan: dict) -> dict:
         img = s.get('image')
         if img and _download(img, dest):
             photo = f'../../media/{fname}'
-            credit = f'source · Source {s.get("jalan_url")}'
+            credit = f'じゃらんnet · Source {s.get("jalan_url")}'
         if not photo and s.get('jalan_url'):
             yad = RAW / slug / f'jalan-yad-{i+1}.html'
             if not yad.exists():
@@ -122,7 +123,7 @@ def attach_stay_photos(slug: str, union: dict, jalan: dict) -> dict:
                 og = re.search(r'property="og:image"\s+content="([^"]+)"', html)
                 if og and _download(og.group(1).replace('&amp;', '&'), dest):
                     photo = f'../../media/{fname}'
-                    credit = f'source · Source {s.get("jalan_url")}'
+                    credit = f'じゃらんnet · Source {s.get("jalan_url")}'
         s['photo'] = photo
         s['photo_credit'] = credit
         if not photo:

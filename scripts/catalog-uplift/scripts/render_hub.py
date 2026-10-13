@@ -30,16 +30,21 @@ def _place_desc(it: dict, place_en: str, pref_en: str, kind: str) -> str:
     desc = (it.get('place_desc') or it.get('desc') or it.get('blurb_en') or '').strip()
     if desc:
         return desc
+    if kind != 'stay' and it.get('area'):
+        from cos_fix import genre_desc
+        gd = genre_desc(it['area'], place_en, pref_en)
+        if gd:
+            return gd
     # English 4th line fallback (no invented reviews)
     if kind == 'stay':
         return f'Lodging in {place_en}, {pref_en}.'
     return f'Restaurant in {place_en}, {pref_en}.'
 
 def neutralize_credit(credit: str) -> str:
-    if not credit:
-        return ''
-    credit = re.sub(r'\b(Tabelog|TripAdvisor|Jalan|Ikkyu|食べログ|じゃらん|一休)\b', 'source', credit, flags=re.I)
-    return credit
+    # CoS fix 2026-10-13: credits live only in an HTML comment, so they must keep the REAL
+    # source. The old brand->'source' rewrite also hit the URL (tabelog.com -> source.com,
+    # www.jalan.net -> www.source.net) and broke every credit. Do not rewrite credits.
+    return credit or ''
 
 def _photo_block(it: dict, alt: str) -> str:
     photo = it.get('photo')
@@ -153,5 +158,9 @@ def render_to_html(slug: str, pref: str, union: dict, roots: list[Path] | None =
         html = strip_visible_brands(html)
         html = https_official_links(html)
         path.write_text(html, encoding='utf-8')
+        # CoS standard pass: real credits, dedupe, no '・' in EN, Stay→Dining→Sights order,
+        # canonical/description/OG, no 'Official / source link' chrome, Jalan/Ikkyu-only Stay.
+        from cos_fix import fix_page
+        fix_page(path, pref, slug, {'names_en': {slug: place_en}}, root / 'media', [], pref_en)
         written.append(path)
     return written

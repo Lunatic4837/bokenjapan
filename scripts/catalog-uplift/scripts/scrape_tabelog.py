@@ -13,8 +13,12 @@ def parse_list_page(html: str) -> list[dict]:
         url, rid, name = m.group(1), m.group(2), m.group(3).strip()
         if not name or len(name) > 80:
             continue
+        seg = html[m.end():m.end() + 1500]
+        a = re.search(r'list-rst__area-genre[^>]*>\s*([^<]*)', seg)
+        area = a.group(1).strip() if a else ''
         items.append({'name_ja': name, 'name_en': '', 'url': url, 'rst_id': rid,
-                      'tabelog_url': url, 'tabelog_rank': len(items) + 1})
+                      'tabelog_url': url, 'tabelog_rank': len(items) + 1,
+                      'area': area, 'genre': area.split('/', 1)[1].strip() if '/' in area else ''})
     # dedupe by rst_id preserving order
     seen, out = set(), []
     for it in items:
@@ -26,10 +30,15 @@ def parse_list_page(html: str) -> list[dict]:
     return out
 
 def filter_by_muni(items: list[dict], muni_ja: str | None, html: str = '') -> list[dict]:
+    # CoS fix (2026-10-13): when a town has few restaurants Tabelog pads the list with
+    # "nearby/recommended" shops from other cities. Keep only rows whose area line names
+    # this municipality; never keep out-of-town padding (ranks would be invented).
     if not muni_ja:
         return items
-    # area_genre often contains muni; if page has area chips we keep list as-is when C-code is muni-specific
-    return items
+    kept = [it for it in items if not it.get('area') or muni_ja in it['area']]
+    for i, it in enumerate(kept, 1):
+        it['tabelog_rank'] = i
+    return kept
 
 def _scrape_one_c(slug: str, c: str, pref: str, page_max: int = 3, muni_ja: str | None = None):
     items, paths = [], []
