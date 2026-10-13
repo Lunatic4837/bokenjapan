@@ -1,0 +1,738 @@
+{
+ "prefecture": "Kagoshima",
+ "slug": "kagoshima",
+ "url": "https://bokenjapan.com/kagoshima/",
+ "towns": [
+  {
+   "name": "Aira",
+   "slug": "aira",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/aira/",
+   "official": {
+    "links": [
+     {
+      "label": "Aira City Hall",
+      "url": "http://www.city.aira.lg.jp/"
+     }
+    ],
+    "address": "Aira, Kagoshima 899-5492",
+    "phone": "0995-66-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Akune",
+   "slug": "akune",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/akune/",
+   "official": {
+    "links": [
+     {
+      "label": "Akune City Hall",
+      "url": "http://www.city.akune.kagoshima.jp/"
+     }
+    ],
+    "address": "Akune, Kagoshima 899-1696",
+    "phone": "0996-73-1211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Amagi",
+   "slug": "amagi",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/amagi/",
+   "official": {
+    "links": [
+     {
+      "label": "Row Dantaimei Amagi (Amagicho) on the prefecture Shi Town Village Ichiran. The table does not print a separate building name.",
+      "url": "https://www.town.amagi.lg.jp/"
+     }
+    ],
+    "address": "Amagi, Kagoshima 891-7692",
+    "phone": "0997-85-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Amami",
+   "slug": "amami",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/amami/",
+   "official": {
+    "links": [
+     {
+      "label": "Amami City Hall",
+      "url": "http://www.city.amami.lg.jp/"
+     }
+    ],
+    "address": "Amami, Kagoshima 894-8555",
+    "phone": "0997-52-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Chinacho",
+   "slug": "chinacho",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/chinacho/",
+   "official": {
+    "links": [
+     {
+      "label": "Row Dantaimei Chinacho (Chinacho) on the prefecture Shi Town Village Ichiran. The table does not print a separate building name.",
+      "url": "http://www.town.china.lg.jp/"
+     }
+    ],
+    "address": "Chinacho, Kagoshima 891-9295",
+    "phone": "0997-93-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Higashikushira",
+   "slug": "higashikushira",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/higashikushira/",
+   "official": {
+    "links": [
+     {
+      "label": "Row Dantaimei Higashikushira (Higashikushiracho) on the prefecture Shi Town Village Ichiran. The table does not print a separate building name.",
+      "url": "http://www.higashikushira.com/"
+     }
+    ],
+    "address": "Higashikushira, Kagoshima 893-1693",
+    "phone": "0994-63-3131"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hioki",
+   "slug": "hioki",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/hioki/",
+   "official": {
+    "links": [
+     {
+      "label": "Hioki City Hall",
+      "url": "http://www.city.hioki.kagoshima.jp/"
+     }
+    ],
+    "address": "Hioki, Kagoshima 899-2592",
+    "phone": "099-273-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ibusuki",
+   "slug": "ibusuki",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/ibusuki/",
+   "official": {
+    "links": [
+     {
+      "label": "Ibusuki City Hall",
+      "url": "https://www.city.ibusuki.lg.jp/"
+     }
+    ],
+    "address": "Ibusuki, Kagoshima 891-0497",
+    "phone": "0993-22-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ichikikushikino",
+   "slug": "ichikikushikino",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/ichikikushikino/",
+   "official": {
+    "links": [
+     {
+      "label": "Ichikikushikino City Hall",
+      "url": "http://www.city.ichikikushikino.lg.jp/"
+     }
+    ],
+    "address": "Ichikikushikino, Kagoshima 896-8601",
+    "phone": "0996-32-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Isa",
+   "slug": "isa",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/isa/",
+   "official": {
+    "links": [
+     {
+      "label": "Isa City Hall",
+      "url": "https://www.city.isa.kagoshima.jp/"
+     }
+    ],
+    "address": "Isa, Kagoshima 895-2511",
+    "phone": "0995-23-1311"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Isen",
+   "slug": "isen",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/isen/",
+   "official": {
+    "links": [
+     {
+      "label": "Row Dantaimei Isen (Isencho) on the prefecture Shi Town Village Ichiran. The table does not print a separate building name.",
+      "url": "http://www.town.isen.kagoshima.jp/"
+     }
+    ],
+    "address": "Isen, Kagoshima 891-8293",
+    "phone": "0997-86-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Izumishi",
+   "slug": "izumishi",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/izumishi/",
+   "official": {
+    "links": [
+     {
+      "label": "Izumishi City Hall",
+      "url": "https://www.city.kagoshima-izumi.lg.jp/"
+     }
+    ],
+    "address": "Izumishi, Kagoshima 899-0292",
+    "phone": "0996-63-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kagoshima",
+   "slug": "kagoshima",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/kagoshima/",
+   "official": {
+    "links": [
+     {
+      "label": "Kagoshima City Hall",
+      "url": "http://www.city.kagoshima.lg.jp/"
+     }
+    ],
+    "address": "Kagoshima 892-8677",
+    "phone": "099-224-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kanoya",
+   "slug": "kanoya",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/kanoya/",
+   "official": {
+    "links": [
+     {
+      "label": "Kanoya City Hall",
+      "url": "https://www.city.kanoya.lg.jp/"
+     }
+    ],
+    "address": "Kanoya, Kagoshima 893-8501",
+    "phone": "0994-43-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kikai",
+   "slug": "kikai",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/kikai/",
+   "official": {
+    "links": [
+     {
+      "label": "Row Dantaimei Kikai (Kikaicho) on the prefecture Shi Town Village Ichiran. The table does not print a separate building name.",
+      "url": "http://www.town.kikai.lg.jp/"
+     }
+    ],
+    "address": "Kikai, Kagoshima 891-6292",
+    "phone": "0997-65-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kimotsuki",
+   "slug": "kimotsuki",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/kimotsuki/",
+   "official": {
+    "links": [
+     {
+      "label": "Row Dantaimei Kimotsuki (Kimotsukicho) on the prefecture Shi Town Village Ichiran. The table does not print a separate building name.",
+      "url": "https://kimotsuki-town.jp/"
+     }
+    ],
+    "address": "Kimotsuki, Kagoshima 893-1207",
+    "phone": "0994-65-2511"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kinko",
+   "slug": "kinko",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/kinko/",
+   "official": {
+    "links": [
+     {
+      "label": "Row Dantaimei Kinko (Kinkocho) on the prefecture Shi Town Village Ichiran. The table does not print a separate building name.",
+      "url": "http://www.town.kinko.lg.jp/"
+     }
+    ],
+    "address": "Kinko, Kagoshima 893-2392",
+    "phone": "0994-22-0511"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kirishima",
+   "slug": "kirishima",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/kirishima/",
+   "official": {
+    "links": [
+     {
+      "label": "Kirishima City Hall",
+      "url": "http://www.city-kirishima.jp/"
+     }
+    ],
+    "address": "Kirishima, Kagoshima 899-4394",
+    "phone": "0995-45-5111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Makurazaki",
+   "slug": "makurazaki",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/makurazaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Makurazaki City Hall",
+      "url": "http://www.city.makurazaki.lg.jp/"
+     }
+    ],
+    "address": "Makurazaki, Kagoshima 898-8501",
+    "phone": "0993-72-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minamikyushu",
+   "slug": "minamikyushu",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/minamikyushu/",
+   "official": {
+    "links": [
+     {
+      "label": "Minamikyushu City Hall",
+      "url": "http://www.city.minamikyushu.lg.jp/"
+     }
+    ],
+    "address": "Minamikyushu, Kagoshima 897-0392",
+    "phone": "0993-83-2511"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minamiosumi",
+   "slug": "minamiosumi",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/minamiosumi/",
+   "official": {
+    "links": [
+     {
+      "label": "Row Dantaimei Minamiosumi (Minamiosumicho) on the prefecture Shi Town Village Ichiran. The table does not print a separate building name.",
+      "url": "http://www.town.minamiosumi.lg.jp/"
+     }
+    ],
+    "address": "Minamiosumi, Kagoshima 893-2501",
+    "phone": "0994-24-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minamisatsuma",
+   "slug": "minamisatsuma",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/minamisatsuma/",
+   "official": {
+    "links": [
+     {
+      "label": "Minamisatsuma City Hall",
+      "url": "http://www.city.minamisatsuma.lg.jp/"
+     }
+    ],
+    "address": "Minamisatsuma, Kagoshima 897-8501",
+    "phone": "0993-53-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minamitane",
+   "slug": "minamitane",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/minamitane/",
+   "official": {
+    "links": [
+     {
+      "label": "Row Dantaimei Minamitane (Minamitanecho) on the prefecture Shi Town Village Ichiran. The table does not print a separate building name.",
+      "url": "http://www.town.minamitane.kagoshima.jp/"
+     }
+    ],
+    "address": "Minamitane, Kagoshima 891-3792",
+    "phone": "0997-26-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mishima",
+   "slug": "mishima",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/mishima/",
+   "official": {
+    "links": [
+     {
+      "label": "Row Dantaimei Mishima (Mishimamura) on the prefecture Shi Town Village Ichiran. The table does not print a separate building name.",
+      "url": "http://mishimamura.com/"
+     }
+    ],
+    "address": "Mishima, Kagoshima 892-0821",
+    "phone": "099-222-3141"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nagashima",
+   "slug": "nagashima",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/nagashima/",
+   "official": {
+    "links": [
+     {
+      "label": "Row Dantaimei Nagashima (Nagashimacho) on the prefecture Shi Town Village Ichiran. The table does not print a separate building name.",
+      "url": "https://www.town.nagashima.lg.jp/"
+     }
+    ],
+    "address": "Nagashima, Kagoshima 899-1498",
+    "phone": "0996-86-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nakatane",
+   "slug": "nakatane",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/nakatane/",
+   "official": {
+    "links": [
+     {
+      "label": "Row Dantaimei Nakatane (Nakatanecho) on the prefecture Shi Town Village Ichiran. The table does not print a separate building name.",
+      "url": "http://town.nakatane.kagoshima.jp/"
+     }
+    ],
+    "address": "Nakatane, Kagoshima 891-3692",
+    "phone": "0997-27-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nishinoomote",
+   "slug": "nishinoomote",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/nishinoomote/",
+   "official": {
+    "links": [
+     {
+      "label": "Nishinoomote City Hall",
+      "url": "http://www.city.nishinoomote.lg.jp/"
+     }
+    ],
+    "address": "Nishinoomote, Kagoshima 891-3193",
+    "phone": "0997-22-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Osaki",
+   "slug": "osaki",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/osaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Row Dantaimei Osaki (Osakicho) on the prefecture Shi Town Village Ichiran. The table does not print a separate building name.",
+      "url": "http://www.town.kagoshima-osaki.lg.jp/"
+     }
+    ],
+    "address": "Osaki, Kagoshima 899-7305",
+    "phone": "099-476-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Satsuma",
+   "slug": "satsuma",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/satsuma/",
+   "official": {
+    "links": [
+     {
+      "label": "Row Dantaimei Satsuma (Satsuma Cho) on the prefecture Shi Town Village Ichiran. The table does not print a separate building name.",
+      "url": "http://www.satsuma-net.jp/"
+     }
+    ],
+    "address": "Satsuma, Kagoshima 895-1803",
+    "phone": "0996-53-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Satsumasendai",
+   "slug": "satsumasendai",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/satsumasendai/",
+   "official": {
+    "links": [
+     {
+      "label": "Satsumasendai City Hall",
+      "url": "https://www.city.satsumasendai.lg.jp/index.html"
+     }
+    ],
+    "address": "Satsumasendai, Kagoshima 895-8650",
+    "phone": "0996-23-5111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Setouchicho",
+   "slug": "setouchicho",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/setouchicho/",
+   "official": {
+    "links": [
+     {
+      "label": "Row Dantaimei Setouchicho (Setochicho) on the prefecture Shi Town Village Ichiran. The table does not print a separate building name.",
+      "url": "http://www.town.setouchi.lg.jp/"
+     }
+    ],
+    "address": "Setouchicho, Kagoshima 894-1592",
+    "phone": "0997-72-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shibushi",
+   "slug": "shibushi",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/shibushi/",
+   "official": {
+    "links": [
+     {
+      "label": "Shibushi City Hall",
+      "url": "http://www.city.shibushi.lg.jp/"
+     }
+    ],
+    "address": "Shibushi, Kagoshima 899-7192",
+    "phone": "099-472-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Soo",
+   "slug": "soo",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/soo/",
+   "official": {
+    "links": [
+     {
+      "label": "Soo City Hall",
+      "url": "https://www.city.soo.kagoshima.jp/"
+     }
+    ],
+    "address": "Soo, Kagoshima 899-8692",
+    "phone": "0986-76-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tarumizu",
+   "slug": "tarumizu",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/tarumizu/",
+   "official": {
+    "links": [
+     {
+      "label": "Tarumizu City Hall",
+      "url": "http://www.city.tarumizu.lg.jp/"
+     }
+    ],
+    "address": "Tarumizu, Kagoshima 891-2192",
+    "phone": "0994-32-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tatsugo",
+   "slug": "tatsugo",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/tatsugo/",
+   "official": {
+    "links": [
+     {
+      "label": "Row Dantaimei Tatsugo (Tatsugocho) on the prefecture Shi Town Village Ichiran. The table does not print a separate building name.",
+      "url": "http://www.town.tatsugo.lg.jp/"
+     }
+    ],
+    "address": "Tatsugo, Kagoshima 894-0192",
+    "phone": "0997-62-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tokunoshima",
+   "slug": "tokunoshima",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/tokunoshima/",
+   "official": {
+    "links": [
+     {
+      "label": "Row Dantaimei Tokunoshima (Toku no Shimacho) on the prefecture Shi Town Village Ichiran. The table does not print a separate building name.",
+      "url": "http://www.tokunoshima-town.org/"
+     }
+    ],
+    "address": "Tokunoshima, Kagoshima 891-7192",
+    "phone": "0997-82-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Toshima",
+   "slug": "toshima",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/toshima/",
+   "official": {
+    "links": [
+     {
+      "label": "Row Dantaimei Toshima (Toshimamura) on the prefecture Shi Town Village Ichiran. The table does not print a separate building name.",
+      "url": "http://www.tokara.jp/"
+     }
+    ],
+    "address": "Toshima, Kagoshima 892-0822",
+    "phone": "099-222-2101"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Uken",
+   "slug": "uken",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/uken/",
+   "official": {
+    "links": [
+     {
+      "label": "Row Dantaimei Uken (Ukenson) on the prefecture Shi Town Village Ichiran. The table does not print a separate building name.",
+      "url": "http://www.uken.net/"
+     }
+    ],
+    "address": "Uken, Kagoshima 894-3392",
+    "phone": "0997-67-2211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Wadomari",
+   "slug": "wadomari",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/wadomari/",
+   "official": {
+    "links": [
+     {
+      "label": "Row Dantaimei Wadomari (Wadomaricho) on the prefecture Shi Town Village Ichiran. The table does not print a separate building name.",
+      "url": "http://www.town.wadomari.lg.jp/"
+     }
+    ],
+    "address": "Wadomari, Kagoshima 891-9192",
+    "phone": "0997-92-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yakushima",
+   "slug": "yakushima",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/yakushima/",
+   "official": {
+    "links": [
+     {
+      "label": "Row Dantaimei Yakushima (Yakushimacho) on the prefecture Shi Town Village Ichiran. The table does not print a separate building name.",
+      "url": "http://www.town.yakushima.kagoshima.jp/"
+     }
+    ],
+    "address": "Yakushima, Kagoshima 891-4207",
+    "phone": "0997-43-5900"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yamatomura",
+   "slug": "yamatomura",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/yamatomura/",
+   "official": {
+    "links": [
+     {
+      "label": "Row Dantaimei Yamatomura (Yamatoson) on the prefecture Shi Town Village Ichiran. The table does not print a separate building name.",
+      "url": "http://www.vill.yamato.lg.jp/"
+     }
+    ],
+    "address": "Yamatomura, Kagoshima 894-3192",
+    "phone": "0997-57-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yoron",
+   "slug": "yoron",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/yoron/",
+   "official": {
+    "links": [
+     {
+      "label": "Row Dantaimei Yoron (Yoroncho) on the prefecture Shi Town Village Ichiran. The table does not print a separate building name.",
+      "url": "http://www.yoron.jp/"
+     }
+    ],
+    "address": "Yoron, Kagoshima 891-9301",
+    "phone": "0997-97-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yusui",
+   "slug": "yusui",
+   "prefecture": "kagoshima",
+   "url": "https://bokenjapan.com/kagoshima/yusui/",
+   "official": {
+    "links": [
+     {
+      "label": "Row Dantaimei Yusui (Yusuicho) on the prefecture Shi Town Village Ichiran. The table does not print a separate building name.",
+      "url": "http://www.town.yusui.kagoshima.jp/"
+     }
+    ],
+    "address": "Yusui, Kagoshima 899-6292",
+    "phone": "0995-74-3111"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

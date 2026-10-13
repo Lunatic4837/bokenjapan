@@ -1,0 +1,466 @@
+{
+ "prefecture": "Yamanashi",
+ "slug": "yamanashi",
+ "url": "https://bokenjapan.com/yamanashi/",
+ "towns": [
+  {
+   "name": "Chuo",
+   "slug": "chuo",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/chuo/",
+   "official": {
+    "links": [
+     {
+      "label": "Chuo City Hall",
+      "url": "https://www.city.chuo.yamanashi.jp/"
+     }
+    ],
+    "address": "Chuo, Yamanashi 409-3892",
+    "phone": "055-274-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Doshi",
+   "slug": "doshi",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/doshi/",
+   "official": {
+    "links": [
+     {
+      "label": "Doshi Village Hall",
+      "url": "http://www.vill.doshi.lg.jp/"
+     }
+    ],
+    "address": "Doshi, Yamanashi 402-0209",
+    "phone": "0554-52-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Fuefuki",
+   "slug": "fuefuki",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/fuefuki/",
+   "official": {
+    "links": [
+     {
+      "label": "Fuefuki City Hall",
+      "url": "https://www.city.fuefuki.yamanashi.jp/"
+     }
+    ],
+    "address": "Fuefuki, Yamanashi 406-8510",
+    "phone": "055-262-4111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Fujikawa",
+   "slug": "fujikawa",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/fujikawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Fujikawa Town Hall",
+      "url": "https://www.town.fujikawa.yamanashi.jp/"
+     }
+    ],
+    "address": "Fujikawa, Yamanashi 400-0592",
+    "phone": "0556-22-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Fujikawaguchiko",
+   "slug": "fujikawaguchiko",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/fujikawaguchiko/",
+   "official": {
+    "links": [
+     {
+      "label": "Fujikawaguchiko Town Hall",
+      "url": "https://www.town.fujikawaguchiko.lg.jp/"
+     }
+    ],
+    "address": "Fujikawaguchiko, Yamanashi 401-0392",
+    "phone": "0555-72-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Fujiyoshida",
+   "slug": "fujiyoshida",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/fujiyoshida/",
+   "official": {
+    "links": [
+     {
+      "label": "Fujiyoshida City Hall",
+      "url": "https://www.city.fujiyoshida.yamanashi.jp/"
+     }
+    ],
+    "address": "Fujiyoshida, Yamanashi 403-8601",
+    "phone": "0555-22-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hayakawa",
+   "slug": "hayakawa",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/hayakawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Hayakawa Town Hall",
+      "url": "https://www.town.hayakawa.yamanashi.jp/"
+     }
+    ],
+    "address": "Hayakawa, Yamanashi 409-2732",
+    "phone": "0556-45-2511"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hokuto",
+   "slug": "hokuto",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/hokuto/",
+   "official": {
+    "links": [
+     {
+      "label": "Hokuto City Hall",
+      "url": "https://www.city.hokuto.yamanashi.jp/"
+     }
+    ],
+    "address": "Hokuto, Yamanashi 408-0188",
+    "phone": "0551-42-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ichikawamisato",
+   "slug": "ichikawamisato",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/ichikawamisato/",
+   "official": {
+    "links": [
+     {
+      "label": "Ichikawamisato Town Hall",
+      "url": "https://www.town.ichikawamisato.yamanashi.jp/"
+     }
+    ],
+    "address": "Ichikawamisato, Yamanashi 409-3601",
+    "phone": "055-272-1101"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kai",
+   "slug": "kai",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/kai/",
+   "official": {
+    "links": [
+     {
+      "label": "Kai City Hall",
+      "url": "https://www.city.kai.yamanashi.jp/"
+     }
+    ],
+    "address": "Kai, Yamanashi 400-0192",
+    "phone": "055-276-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kofushi",
+   "slug": "kofushi",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/kofushi/",
+   "official": {
+    "links": [
+     {
+      "label": "Kofushi City Hall",
+      "url": "https://www.city.kofu.yamanashi.jp/"
+     }
+    ],
+    "address": "Kofushi, Yamanashi 400-8585",
+    "phone": "055-237-1161"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Koshu",
+   "slug": "koshu",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/koshu/",
+   "official": {
+    "links": [
+     {
+      "label": "Koshu City Hall",
+      "url": "https://www.city.koshu.yamanashi.jp/"
+     }
+    ],
+    "address": "Koshu, Yamanashi 404-8501",
+    "phone": "0553-32-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kosuge",
+   "slug": "kosuge",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/kosuge/",
+   "official": {
+    "links": [
+     {
+      "label": "Kosuge Village Hall",
+      "url": "https://www.vill.kosuge.yamanashi.jp/"
+     }
+    ],
+    "address": "Kosuge, Yamanashi 409-0211",
+    "phone": "0428-87-0111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minamiarupusu",
+   "slug": "minamiarupusu",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/minamiarupusu/",
+   "official": {
+    "links": [
+     {
+      "label": "Minamiarupusu City Hall",
+      "url": "https://www.city.minami-alps.yamanashi.jp/"
+     }
+    ],
+    "address": "Minamiarupusu, Yamanashi 400-0395",
+    "phone": "055-282-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minobu",
+   "slug": "minobu",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/minobu/",
+   "official": {
+    "links": [
+     {
+      "label": "Minobu Town Hall",
+      "url": "https://www.town.minobu.lg.jp/"
+     }
+    ],
+    "address": "Minobu, Yamanashi 409-3392",
+    "phone": "0556-42-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nambucho",
+   "slug": "nambucho",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/nambucho/",
+   "official": {
+    "links": [
+     {
+      "label": "Nambucho Town Hall",
+      "url": "https://www.town.nanbu.yamanashi.jp/"
+     }
+    ],
+    "address": "Nambucho, Yamanashi 409-2192",
+    "phone": "0556-66-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Narusawa",
+   "slug": "narusawa",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/narusawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Narusawa Village Hall",
+      "url": "https://www.vill.narusawa.yamanashi.jp/"
+     }
+    ],
+    "address": "Narusawa, Yamanashi 401-0398",
+    "phone": "0555-85-2311"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nirasaki",
+   "slug": "nirasaki",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/nirasaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Nirasaki City Hall",
+      "url": "https://www.city.nirasaki.lg.jp/"
+     }
+    ],
+    "address": "Nirasaki, Yamanashi 407-8501",
+    "phone": "0551-45-9366"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nishikatsura",
+   "slug": "nishikatsura",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/nishikatsura/",
+   "official": {
+    "links": [
+     {
+      "label": "Nishikatsura Town Hall",
+      "url": "https://www.town.nishikatsura.yamanashi.jp/"
+     }
+    ],
+    "address": "Nishikatsura, Yamanashi 403-0022",
+    "phone": "0555-25-2121"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Oshino",
+   "slug": "oshino",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/oshino/",
+   "official": {
+    "links": [
+     {
+      "label": "Oshino Village Hall",
+      "url": "https://www.vill.oshino.lg.jp/"
+     }
+    ],
+    "address": "Oshino, Yamanashi 401-0592",
+    "phone": "0555-84-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Otsukishi",
+   "slug": "otsukishi",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/otsukishi/",
+   "official": {
+    "links": [
+     {
+      "label": "Otsukishi City Hall",
+      "url": "https://www.city.otsuki.yamanashi.jp/"
+     }
+    ],
+    "address": "Otsukishi, Yamanashi 401-8601",
+    "phone": "0554-22-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Showa",
+   "slug": "showa",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/showa/",
+   "official": {
+    "links": [
+     {
+      "label": "Showa Town Hall",
+      "url": "https://www.town.showa.yamanashi.jp/"
+     }
+    ],
+    "address": "Showa, Yamanashi 409-3880",
+    "phone": "055-275-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tabayama",
+   "slug": "tabayama",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/tabayama/",
+   "official": {
+    "links": [
+     {
+      "label": "Tabayama Village Hall",
+      "url": "https://www.vill.tabayama.yamanashi.jp/"
+     }
+    ],
+    "address": "Tabayama, Yamanashi 409-0300",
+    "phone": "0428-88-0211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tsuru",
+   "slug": "tsuru",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/tsuru/",
+   "official": {
+    "links": [
+     {
+      "label": "Tsuru City Hall",
+      "url": "https://www.city.tsuru.yamanashi.jp/"
+     }
+    ],
+    "address": "Tsuru, Yamanashi 402-8501",
+    "phone": "0554-43-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Uenohara",
+   "slug": "uenohara",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/uenohara/",
+   "official": {
+    "links": [
+     {
+      "label": "Uenohara City Hall",
+      "url": "https://www.city.uenohara.yamanashi.jp/"
+     }
+    ],
+    "address": "Uenohara, Yamanashi 409-0192",
+    "phone": "0554-62-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yamanakako",
+   "slug": "yamanakako",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/yamanakako/",
+   "official": {
+    "links": [
+     {
+      "label": "Yamanakako Village Hall",
+      "url": "https://www.vill.yamanakako.lg.jp/"
+     }
+    ],
+    "address": "Yamanakako, Yamanashi 401-0595",
+    "phone": "0555-62-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yamanashishi",
+   "slug": "yamanashishi",
+   "prefecture": "yamanashi",
+   "url": "https://bokenjapan.com/yamanashi/yamanashishi/",
+   "official": {
+    "links": [
+     {
+      "label": "Yamanashishi City Hall",
+      "url": "https://www.city.yamanashi.yamanashi.jp/"
+     }
+    ],
+    "address": "Yamanashishi, Yamanashi 405-8501",
+    "phone": "0553-22-1111"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

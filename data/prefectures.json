@@ -1,305 +1,304 @@
 {
- "generated": "2026-10-14",
  "prefectures": [
   {
    "slug": "aichi",
    "name": "Aichi",
    "url": "https://bokenjapan.com/aichi/",
-   "towns_file": "https://bokenjapan.com/data/towns/aichi.json",
+   "data": "https://bokenjapan.com/data/aichi.json",
    "town_count": 54
   },
   {
    "slug": "akita",
    "name": "Akita",
    "url": "https://bokenjapan.com/akita/",
-   "towns_file": "https://bokenjapan.com/data/towns/akita.json",
+   "data": "https://bokenjapan.com/data/akita.json",
    "town_count": 25
   },
   {
    "slug": "chiba",
    "name": "Chiba",
    "url": "https://bokenjapan.com/chiba/",
-   "towns_file": "https://bokenjapan.com/data/towns/chiba.json",
+   "data": "https://bokenjapan.com/data/chiba.json",
    "town_count": 54
   },
   {
    "slug": "ehime",
    "name": "Ehime",
    "url": "https://bokenjapan.com/ehime/",
-   "towns_file": "https://bokenjapan.com/data/towns/ehime.json",
+   "data": "https://bokenjapan.com/data/ehime.json",
    "town_count": 20
   },
   {
    "slug": "fukui",
    "name": "Fukui",
    "url": "https://bokenjapan.com/fukui/",
-   "towns_file": "https://bokenjapan.com/data/towns/fukui.json",
+   "data": "https://bokenjapan.com/data/fukui.json",
    "town_count": 17
   },
   {
    "slug": "fukuoka",
    "name": "Fukuoka",
    "url": "https://bokenjapan.com/fukuoka/",
-   "towns_file": "https://bokenjapan.com/data/towns/fukuoka.json",
+   "data": "https://bokenjapan.com/data/fukuoka.json",
    "town_count": 60
   },
   {
    "slug": "fukushima",
    "name": "Fukushima",
    "url": "https://bokenjapan.com/fukushima/",
-   "towns_file": "https://bokenjapan.com/data/towns/fukushima.json",
+   "data": "https://bokenjapan.com/data/fukushima.json",
    "town_count": 59
   },
   {
    "slug": "gifu",
    "name": "Gifu",
    "url": "https://bokenjapan.com/gifu/",
-   "towns_file": "https://bokenjapan.com/data/towns/gifu.json",
+   "data": "https://bokenjapan.com/data/gifu.json",
    "town_count": 42
   },
   {
    "slug": "gunma",
    "name": "Gunma",
    "url": "https://bokenjapan.com/gunma/",
-   "towns_file": "https://bokenjapan.com/data/towns/gunma.json",
+   "data": "https://bokenjapan.com/data/gunma.json",
    "town_count": 35
   },
   {
    "slug": "hiroshima",
    "name": "Hiroshima",
    "url": "https://bokenjapan.com/hiroshima/",
-   "towns_file": "https://bokenjapan.com/data/towns/hiroshima.json",
+   "data": "https://bokenjapan.com/data/hiroshima.json",
    "town_count": 23
   },
   {
    "slug": "hyogo",
    "name": "Hyogo",
    "url": "https://bokenjapan.com/hyogo/",
-   "towns_file": "https://bokenjapan.com/data/towns/hyogo.json",
+   "data": "https://bokenjapan.com/data/hyogo.json",
    "town_count": 41
   },
   {
    "slug": "ibaraki",
    "name": "Ibaraki",
    "url": "https://bokenjapan.com/ibaraki/",
-   "towns_file": "https://bokenjapan.com/data/towns/ibaraki.json",
+   "data": "https://bokenjapan.com/data/ibaraki.json",
    "town_count": 44
   },
   {
    "slug": "ishikawa",
    "name": "Ishikawa",
    "url": "https://bokenjapan.com/ishikawa/",
-   "towns_file": "https://bokenjapan.com/data/towns/ishikawa.json",
+   "data": "https://bokenjapan.com/data/ishikawa.json",
    "town_count": 19
   },
   {
    "slug": "kagawa",
    "name": "Kagawa",
    "url": "https://bokenjapan.com/kagawa/",
-   "towns_file": "https://bokenjapan.com/data/towns/kagawa.json",
+   "data": "https://bokenjapan.com/data/kagawa.json",
    "town_count": 17
   },
   {
    "slug": "kagoshima",
    "name": "Kagoshima",
    "url": "https://bokenjapan.com/kagoshima/",
-   "towns_file": "https://bokenjapan.com/data/towns/kagoshima.json",
+   "data": "https://bokenjapan.com/data/kagoshima.json",
    "town_count": 43
   },
   {
    "slug": "kanagawa",
    "name": "Kanagawa",
    "url": "https://bokenjapan.com/kanagawa/",
-   "towns_file": "https://bokenjapan.com/data/towns/kanagawa.json",
+   "data": "https://bokenjapan.com/data/kanagawa.json",
    "town_count": 33
   },
   {
    "slug": "kochi",
    "name": "Kochi",
    "url": "https://bokenjapan.com/kochi/",
-   "towns_file": "https://bokenjapan.com/data/towns/kochi.json",
+   "data": "https://bokenjapan.com/data/kochi.json",
    "town_count": 34
   },
   {
    "slug": "kumamoto",
    "name": "Kumamoto",
    "url": "https://bokenjapan.com/kumamoto/",
-   "towns_file": "https://bokenjapan.com/data/towns/kumamoto.json",
+   "data": "https://bokenjapan.com/data/kumamoto.json",
    "town_count": 45
   },
   {
    "slug": "kyoto",
    "name": "Kyoto",
    "url": "https://bokenjapan.com/kyoto/",
-   "towns_file": "https://bokenjapan.com/data/towns/kyoto.json",
+   "data": "https://bokenjapan.com/data/kyoto.json",
    "town_count": 26
   },
   {
    "slug": "mie",
    "name": "Mie",
    "url": "https://bokenjapan.com/mie/",
-   "towns_file": "https://bokenjapan.com/data/towns/mie.json",
+   "data": "https://bokenjapan.com/data/mie.json",
    "town_count": 29
   },
   {
    "slug": "miyagi",
    "name": "Miyagi",
    "url": "https://bokenjapan.com/miyagi/",
-   "towns_file": "https://bokenjapan.com/data/towns/miyagi.json",
+   "data": "https://bokenjapan.com/data/miyagi.json",
    "town_count": 35
   },
   {
    "slug": "miyazaki",
    "name": "Miyazaki",
    "url": "https://bokenjapan.com/miyazaki/",
-   "towns_file": "https://bokenjapan.com/data/towns/miyazaki.json",
+   "data": "https://bokenjapan.com/data/miyazaki.json",
    "town_count": 26
   },
   {
    "slug": "nagano",
    "name": "Nagano",
    "url": "https://bokenjapan.com/nagano/",
-   "towns_file": "https://bokenjapan.com/data/towns/nagano.json",
+   "data": "https://bokenjapan.com/data/nagano.json",
    "town_count": 77
   },
   {
    "slug": "nagasaki",
    "name": "Nagasaki",
    "url": "https://bokenjapan.com/nagasaki/",
-   "towns_file": "https://bokenjapan.com/data/towns/nagasaki.json",
+   "data": "https://bokenjapan.com/data/nagasaki.json",
    "town_count": 21
   },
   {
    "slug": "nara",
    "name": "Nara",
    "url": "https://bokenjapan.com/nara/",
-   "towns_file": "https://bokenjapan.com/data/towns/nara.json",
+   "data": "https://bokenjapan.com/data/nara.json",
    "town_count": 39
   },
   {
    "slug": "niigata",
    "name": "Niigata",
    "url": "https://bokenjapan.com/niigata/",
-   "towns_file": "https://bokenjapan.com/data/towns/niigata.json",
+   "data": "https://bokenjapan.com/data/niigata.json",
    "town_count": 30
   },
   {
    "slug": "oita",
    "name": "Oita",
    "url": "https://bokenjapan.com/oita/",
-   "towns_file": "https://bokenjapan.com/data/towns/oita.json",
+   "data": "https://bokenjapan.com/data/oita.json",
    "town_count": 18
   },
   {
    "slug": "okayama",
    "name": "Okayama",
    "url": "https://bokenjapan.com/okayama/",
-   "towns_file": "https://bokenjapan.com/data/towns/okayama.json",
+   "data": "https://bokenjapan.com/data/okayama.json",
    "town_count": 27
   },
   {
    "slug": "okinawa",
    "name": "Okinawa",
    "url": "https://bokenjapan.com/okinawa/",
-   "towns_file": "https://bokenjapan.com/data/towns/okinawa.json",
+   "data": "https://bokenjapan.com/data/okinawa.json",
    "town_count": 41
   },
   {
    "slug": "osaka",
    "name": "Osaka",
    "url": "https://bokenjapan.com/osaka/",
-   "towns_file": "https://bokenjapan.com/data/towns/osaka.json",
+   "data": "https://bokenjapan.com/data/osaka.json",
    "town_count": 43
   },
   {
    "slug": "saga",
    "name": "Saga",
    "url": "https://bokenjapan.com/saga/",
-   "towns_file": "https://bokenjapan.com/data/towns/saga.json",
+   "data": "https://bokenjapan.com/data/saga.json",
    "town_count": 20
   },
   {
    "slug": "saitama",
    "name": "Saitama",
    "url": "https://bokenjapan.com/saitama/",
-   "towns_file": "https://bokenjapan.com/data/towns/saitama.json",
+   "data": "https://bokenjapan.com/data/saitama.json",
    "town_count": 63
   },
   {
    "slug": "shiga",
    "name": "Shiga",
    "url": "https://bokenjapan.com/shiga/",
-   "towns_file": "https://bokenjapan.com/data/towns/shiga.json",
+   "data": "https://bokenjapan.com/data/shiga.json",
    "town_count": 19
   },
   {
    "slug": "shimane",
    "name": "Shimane",
    "url": "https://bokenjapan.com/shimane/",
-   "towns_file": "https://bokenjapan.com/data/towns/shimane.json",
+   "data": "https://bokenjapan.com/data/shimane.json",
    "town_count": 19
   },
   {
    "slug": "shizuoka",
    "name": "Shizuoka",
    "url": "https://bokenjapan.com/shizuoka/",
-   "towns_file": "https://bokenjapan.com/data/towns/shizuoka.json",
+   "data": "https://bokenjapan.com/data/shizuoka.json",
    "town_count": 35
   },
   {
    "slug": "tochigi",
    "name": "Tochigi",
    "url": "https://bokenjapan.com/tochigi/",
-   "towns_file": "https://bokenjapan.com/data/towns/tochigi.json",
+   "data": "https://bokenjapan.com/data/tochigi.json",
    "town_count": 25
   },
   {
    "slug": "tokushima",
    "name": "Tokushima",
    "url": "https://bokenjapan.com/tokushima/",
-   "towns_file": "https://bokenjapan.com/data/towns/tokushima.json",
+   "data": "https://bokenjapan.com/data/tokushima.json",
    "town_count": 24
   },
   {
    "slug": "tokyo",
    "name": "Tokyo",
    "url": "https://bokenjapan.com/tokyo/",
-   "towns_file": "https://bokenjapan.com/data/towns/tokyo.json",
+   "data": "https://bokenjapan.com/data/tokyo.json",
    "town_count": 62
   },
   {
    "slug": "tottori",
    "name": "Tottori",
    "url": "https://bokenjapan.com/tottori/",
-   "towns_file": "https://bokenjapan.com/data/towns/tottori.json",
+   "data": "https://bokenjapan.com/data/tottori.json",
    "town_count": 19
   },
   {
    "slug": "toyama",
    "name": "Toyama",
    "url": "https://bokenjapan.com/toyama/",
-   "towns_file": "https://bokenjapan.com/data/towns/toyama.json",
+   "data": "https://bokenjapan.com/data/toyama.json",
    "town_count": 15
   },
   {
    "slug": "wakayama",
    "name": "Wakayama",
    "url": "https://bokenjapan.com/wakayama/",
-   "towns_file": "https://bokenjapan.com/data/towns/wakayama.json",
+   "data": "https://bokenjapan.com/data/wakayama.json",
    "town_count": 30
   },
   {
    "slug": "yamaguchi",
    "name": "Yamaguchi",
    "url": "https://bokenjapan.com/yamaguchi/",
-   "towns_file": "https://bokenjapan.com/data/towns/yamaguchi.json",
+   "data": "https://bokenjapan.com/data/yamaguchi.json",
    "town_count": 19
   },
   {
    "slug": "yamanashi",
    "name": "Yamanashi",
    "url": "https://bokenjapan.com/yamanashi/",
-   "towns_file": "https://bokenjapan.com/data/towns/yamanashi.json",
+   "data": "https://bokenjapan.com/data/yamanashi.json",
    "town_count": 27
   }
  ]

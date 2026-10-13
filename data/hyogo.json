@@ -1,0 +1,704 @@
+{
+ "prefecture": "Hyogo",
+ "slug": "hyogo",
+ "url": "https://bokenjapan.com/hyogo/",
+ "towns": [
+  {
+   "name": "Aioi",
+   "slug": "aioi",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/aioi/",
+   "official": {
+    "links": [
+     {
+      "label": "Aioi City Hall",
+      "url": "https://www.city.aioi.lg.jp/"
+     }
+    ],
+    "address": "Aioi, Hyogo 678-8585",
+    "phone": "0791-23-7111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Akashi",
+   "slug": "akashi",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/akashi/",
+   "official": {
+    "links": [
+     {
+      "label": "Akashi City Hall",
+      "url": "https://www.city.akashi.lg.jp/"
+     }
+    ],
+    "address": "Akashi, Hyogo 673-8686",
+    "phone": "078-912-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ako",
+   "slug": "ako",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/ako/",
+   "official": {
+    "links": [
+     {
+      "label": "Ako City Hall",
+      "url": "https://www.city.ako.lg.jp/"
+     }
+    ],
+    "address": "81 Kariya, Ako, Hyogo 678-0292",
+    "phone": "0791-43-3201"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Amagasaki",
+   "slug": "amagasaki",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/amagasaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Amagasaki City Hall",
+      "url": "https://www.city.amagasaki.hyogo.jp/"
+     }
+    ],
+    "address": "Amagasaki, Hyogo 660-8501",
+    "phone": "06-6375-5639"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Asago",
+   "slug": "asago",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/asago/",
+   "official": {
+    "links": [
+     {
+      "label": "Asago City Hall",
+      "url": "https://www.city.asago.hyogo.jp/"
+     }
+    ],
+    "address": "213-1 Higashitani, Wadayama-cho, Asago, Hyogo 669-5292",
+    "phone": "079-672-3301"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ashiya",
+   "slug": "ashiya",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/ashiya/",
+   "official": {
+    "links": [
+     {
+      "label": "Ashiya City Hall",
+      "url": "https://www.city.ashiya.lg.jp/"
+     }
+    ],
+    "address": "Ashiya, Hyogo 659-8501",
+    "phone": "0797-31-2121"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Awaji",
+   "slug": "awaji",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/awaji/",
+   "official": {
+    "links": [
+     {
+      "label": "Awaji City Hall",
+      "url": "https://www.city.awaji.lg.jp/"
+     }
+    ],
+    "address": "Awaji, Hyogo 656-2292",
+    "phone": "0799-64-0001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Fukusaki",
+   "slug": "fukusaki",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/fukusaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Fukusaki Town Hall",
+      "url": "https://www.town.fukusaki.hyogo.jp/"
+     }
+    ],
+    "address": "Fukusaki, Hyogo 679-2280",
+    "phone": "0790-22-0560"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Harima",
+   "slug": "harima",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/harima/",
+   "official": {
+    "links": [
+     {
+      "label": "Harima Town Hall",
+      "url": "https://www.town.harima.lg.jp/"
+     }
+    ],
+    "address": "Harima, Hyogo 675-0182",
+    "phone": "079-435-0355"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Himeji",
+   "slug": "himeji",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/himeji/",
+   "official": {
+    "links": [
+     {
+      "label": "Himeji City Hall",
+      "url": "https://www.city.himeji.lg.jp/"
+     }
+    ],
+    "address": "Himeji, Hyogo 670-8501",
+    "phone": "079-221-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ichikawa",
+   "slug": "ichikawa",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/ichikawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Ichikawa Town Hall",
+      "url": "https://www.town.ichikawa.lg.jp/"
+     }
+    ],
+    "address": "Ichikawa, Hyogo 679-2392",
+    "phone": "0790-26-1010"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Inagawa",
+   "slug": "inagawa",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/inagawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Inagawa Town Hall",
+      "url": "https://www.town.inagawa.lg.jp/"
+     }
+    ],
+    "address": "Inagawa, Hyogo 666-0292",
+    "phone": "072-766-0001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Inami",
+   "slug": "inami",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/inami/",
+   "official": {
+    "links": [
+     {
+      "label": "Inami Town Hall",
+      "url": "https://www.town.hyogo-inami.lg.jp/"
+     }
+    ],
+    "address": "Inami, Hyogo 675-1115",
+    "phone": "079-492-1212"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Itami",
+   "slug": "itami",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/itami/",
+   "official": {
+    "links": [
+     {
+      "label": "Itami City Hall",
+      "url": "https://www.city.itami.lg.jp/"
+     }
+    ],
+    "address": "Itami, Hyogo 664-8503",
+    "phone": "072-783-1234"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kakogawa",
+   "slug": "kakogawa",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/kakogawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Kakogawa City Hall",
+      "url": "https://www.city.kakogawa.lg.jp/"
+     }
+    ],
+    "address": "Kakogawa, Hyogo 675-8501",
+    "phone": "079-421-2000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kamicho",
+   "slug": "kamicho",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/kamicho/",
+   "official": {
+    "links": [
+     {
+      "label": "Kamicho Town Hall",
+      "url": "https://www.town.mikata-kami.lg.jp/www/index.html"
+     }
+    ],
+    "address": "Kamicho, Hyogo 669-6592",
+    "phone": "0796-36-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kamigori",
+   "slug": "kamigori",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/kamigori/",
+   "official": {
+    "links": [
+     {
+      "label": "Kamigori Town Hall",
+      "url": "https://www.town.kamigori.hyogo.jp/"
+     }
+    ],
+    "address": "Kamigori, Hyogo 678-1292",
+    "phone": "0791-52-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kamikawa",
+   "slug": "kamikawa",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/kamikawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Kamikawa Town Hall",
+      "url": "https://www.town.kamikawa.hyogo.jp/"
+     }
+    ],
+    "address": "Kamikawa, Hyogo 679-3116",
+    "phone": "0790-34-0001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kasai",
+   "slug": "kasai",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/kasai/",
+   "official": {
+    "links": [
+     {
+      "label": "Kasai City Hall",
+      "url": "https://www.city.kasai.hyogo.jp/"
+     }
+    ],
+    "address": "Kasai, Hyogo 675-2395",
+    "phone": "0790-42-1110"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kato",
+   "slug": "kato",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/kato/",
+   "official": {
+    "links": [
+     {
+      "label": "Kato City Hall",
+      "url": "https://www.city.kato.lg.jp/index.html"
+     }
+    ],
+    "address": "Kato, Hyogo 673-1493",
+    "phone": "0795-42-3301"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kawanishi",
+   "slug": "kawanishi",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/kawanishi/",
+   "official": {
+    "links": [
+     {
+      "label": "Kawanishi City Hall",
+      "url": "https://www.city.kawanishi.hyogo.jp/"
+     }
+    ],
+    "address": "Kawanishi, Hyogo 666-8501",
+    "phone": "072-740-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kobe",
+   "slug": "kobe",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/kobe/",
+   "official": {
+    "links": [
+     {
+      "label": "Kobe City Hall",
+      "url": "https://www.city.kobe.lg.jp/"
+     }
+    ],
+    "address": "Kobe, Hyogo 650-8570",
+    "phone": "078-331-8181"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mikishi",
+   "slug": "mikishi",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/mikishi/",
+   "official": {
+    "links": [
+     {
+      "label": "Mikishi City Hall",
+      "url": "https://www.city.miki.lg.jp/"
+     }
+    ],
+    "address": "Mikishi, Hyogo 673-0492",
+    "phone": "0794-82-2000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minamiawaji",
+   "slug": "minamiawaji",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/minamiawaji/",
+   "official": {
+    "links": [
+     {
+      "label": "Minamiawaji City Hall",
+      "url": "https://www.city.minamiawaji.hyogo.jp/"
+     }
+    ],
+    "address": "Minamiawaji, Hyogo 656-0492",
+    "phone": "0799-43-5001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nishinomiya",
+   "slug": "nishinomiya",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/nishinomiya/",
+   "official": {
+    "links": [
+     {
+      "label": "Nishinomiya City Hall",
+      "url": "https://www.nishi.or.jp/"
+     }
+    ],
+    "address": "Nishinomiya, Hyogo 662-8567",
+    "phone": "0798-35-3151"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nishiwaki",
+   "slug": "nishiwaki",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/nishiwaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Nishiwaki City Hall",
+      "url": "https://www.city.nishiwaki.lg.jp/"
+     }
+    ],
+    "address": "Nishiwaki, Hyogo 677-8511",
+    "phone": "0795-22-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ono",
+   "slug": "ono",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/ono/",
+   "official": {
+    "links": [
+     {
+      "label": "Ono City Hall",
+      "url": "https://www.city.ono.hyogo.jp/"
+     }
+    ],
+    "address": "Ono, Hyogo 675-1380",
+    "phone": "0794-63-1000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sanda",
+   "slug": "sanda",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/sanda/",
+   "official": {
+    "links": [
+     {
+      "label": "Sanda City Hall",
+      "url": "https://www.city.sanda.lg.jp/"
+     }
+    ],
+    "address": "Sanda, Hyogo 669-1595",
+    "phone": "079-563-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sayo",
+   "slug": "sayo",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/sayo/",
+   "official": {
+    "links": [
+     {
+      "label": "Sayo Town Hall",
+      "url": "https://www.town.sayo.lg.jp/"
+     }
+    ],
+    "address": "Sayo, Hyogo 679-5380",
+    "phone": "0790-82-2521"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shinonsen",
+   "slug": "shinonsen",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/shinonsen/",
+   "official": {
+    "links": [
+     {
+      "label": "Shinonsen Town Hall",
+      "url": "https://www.town.shinonsen.hyogo.jp/"
+     }
+    ],
+    "address": "2673-1 Hamasaka, Shinonsen, Mikata-gun, Hyogo 669-6792",
+    "phone": "0796-82-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shiso",
+   "slug": "shiso",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/shiso/",
+   "official": {
+    "links": [
+     {
+      "label": "Shiso City Hall",
+      "url": "https://www.city.shiso.lg.jp/"
+     }
+    ],
+    "address": "Shiso, Hyogo 671-2593",
+    "phone": "0790-63-3000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sumoto",
+   "slug": "sumoto",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/sumoto/",
+   "official": {
+    "links": [
+     {
+      "label": "Sumoto City Hall",
+      "url": "https://www.city.sumoto.lg.jp/"
+     }
+    ],
+    "address": "Sumoto, Hyogo 656-8686",
+    "phone": "0799-22-3321"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Taishi",
+   "slug": "taishi",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/taishi/",
+   "official": {
+    "links": [
+     {
+      "label": "Taishi Town Hall",
+      "url": "https://www.town.hyogo-taishi.lg.jp/"
+     }
+    ],
+    "address": "Taishi, Hyogo 671-1592",
+    "phone": "079-277-1010"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Taka",
+   "slug": "taka",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/taka/",
+   "official": {
+    "links": [
+     {
+      "label": "Taka Town Hall",
+      "url": "https://www.town.taka.lg.jp/"
+     }
+    ],
+    "address": "Taka, Hyogo 679-1192",
+    "phone": "0795-32-2380"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Takarazuka",
+   "slug": "takarazuka",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/takarazuka/",
+   "official": {
+    "links": [
+     {
+      "label": "Takarazuka City Hall",
+      "url": "https://www.city.takarazuka.hyogo.jp/"
+     }
+    ],
+    "address": "Takarazuka, Hyogo 665-8665",
+    "phone": "0797-71-1141"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Takasago",
+   "slug": "takasago",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/takasago/",
+   "official": {
+    "links": [
+     {
+      "label": "Takasago City Hall",
+      "url": "https://www.city.takasago.lg.jp/"
+     }
+    ],
+    "address": "Takasago, Hyogo 676-8501",
+    "phone": "079-442-2101"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tamba",
+   "slug": "tamba",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/tamba/",
+   "official": {
+    "links": [
+     {
+      "label": "Tamba City Hall",
+      "url": "https://www.city.tamba.lg.jp/"
+     }
+    ],
+    "address": "Tamba, Hyogo 669-3692",
+    "phone": "0795-82-1001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tambasasayama",
+   "slug": "tambasasayama",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/tambasasayama/",
+   "official": {
+    "links": [
+     {
+      "label": "Tambasasayama City Hall",
+      "url": "https://www.city.tambasasayama.lg.jp/"
+     }
+    ],
+    "address": "41 Kita-shinmachi, Tambasasayama, Hyogo 669-2397",
+    "phone": "079-552-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tatsuno",
+   "slug": "tatsuno",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/tatsuno/",
+   "official": {
+    "links": [
+     {
+      "label": "Tatsuno City Hall",
+      "url": "https://www.city.tatsuno.lg.jp/"
+     }
+    ],
+    "address": "Tatsuno, Hyogo 679-4192",
+    "phone": "0791-64-3131"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Toyooka",
+   "slug": "toyooka",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/toyooka/",
+   "official": {
+    "links": [
+     {
+      "label": "Toyooka City Hall",
+      "url": "https://www.city.toyooka.lg.jp/"
+     }
+    ],
+    "address": "2-4 Chuo-cho, Toyooka, Hyogo 668-8666",
+    "phone": "0796-23-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yabu",
+   "slug": "yabu",
+   "prefecture": "hyogo",
+   "url": "https://bokenjapan.com/hyogo/yabu/",
+   "official": {
+    "links": [
+     {
+      "label": "Yabu City Hall",
+      "url": "https://www.city.yabu.hyogo.jp/"
+     }
+    ],
+    "address": "1675 Yoka, Yoka-cho, Yabu, Hyogo 667-8651",
+    "phone": "079-662-3161"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

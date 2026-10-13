@@ -1,0 +1,262 @@
+{
+ "prefecture": "Toyama",
+ "slug": "toyama",
+ "url": "https://bokenjapan.com/toyama/",
+ "towns": [
+  {
+   "name": "Asahimachi",
+   "slug": "asahimachi",
+   "prefecture": "toyama",
+   "url": "https://bokenjapan.com/toyama/asahimachi/",
+   "official": {
+    "links": [
+     {
+      "label": "Asahimachi Town Hall",
+      "url": "https://www.town.asahi.toyama.jp/"
+     }
+    ],
+    "address": "Asahimachi, Toyama 939-0793",
+    "phone": "0765-83-1100"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Funahashi",
+   "slug": "funahashi",
+   "prefecture": "toyama",
+   "url": "https://bokenjapan.com/toyama/funahashi/",
+   "official": {
+    "links": [
+     {
+      "label": "Funahashi Village Hall",
+      "url": "https://www.vill.funahashi.toyama.jp/"
+     }
+    ],
+    "address": "Funahashi, Toyama 930-0295",
+    "phone": "076-464-1121"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Himi",
+   "slug": "himi",
+   "prefecture": "toyama",
+   "url": "https://bokenjapan.com/toyama/himi/",
+   "official": {
+    "links": [
+     {
+      "label": "Himi City Hall",
+      "url": "https://www.city.himi.toyama.jp/"
+     }
+    ],
+    "address": "Himi, Toyama 935-8686",
+    "phone": "0766-74-8100"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Imizu",
+   "slug": "imizu",
+   "prefecture": "toyama",
+   "url": "https://bokenjapan.com/toyama/imizu/",
+   "official": {
+    "links": [
+     {
+      "label": "Imizu City Hall",
+      "url": "https://www.city.imizu.toyama.jp/"
+     }
+    ],
+    "address": "Imizu, Toyama 939-0294",
+    "phone": "0766-51-6600"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kamiichi",
+   "slug": "kamiichi",
+   "prefecture": "toyama",
+   "url": "https://bokenjapan.com/toyama/kamiichi/",
+   "official": {
+    "links": [
+     {
+      "label": "Kamiichi Town Hall",
+      "url": "https://www.town.kamiichi.toyama.jp/"
+     }
+    ],
+    "address": "Kamiichi, Toyama 930-0393",
+    "phone": "076-472-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kurobe",
+   "slug": "kurobe",
+   "prefecture": "toyama",
+   "url": "https://bokenjapan.com/toyama/kurobe/",
+   "official": {
+    "links": [
+     {
+      "label": "Kurobe City Hall",
+      "url": "https://www.city.kurobe.toyama.jp/"
+     }
+    ],
+    "address": "Kurobe, Toyama 938-8555",
+    "phone": "0765-54-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Namerikawa",
+   "slug": "namerikawa",
+   "prefecture": "toyama",
+   "url": "https://bokenjapan.com/toyama/namerikawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Namerikawa City Hall",
+      "url": "https://www.city.namerikawa.toyama.jp/"
+     }
+    ],
+    "address": "Namerikawa, Toyama 936-8601",
+    "phone": "076-475-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nanto",
+   "slug": "nanto",
+   "prefecture": "toyama",
+   "url": "https://bokenjapan.com/toyama/nanto/",
+   "official": {
+    "links": [
+     {
+      "label": "Nanto City Hall",
+      "url": "https://www.city.nanto.toyama.jp/"
+     }
+    ],
+    "address": "Nanto, Toyama 939-1692",
+    "phone": "0763-23-2003"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nyuzen",
+   "slug": "nyuzen",
+   "prefecture": "toyama",
+   "url": "https://bokenjapan.com/toyama/nyuzen/",
+   "official": {
+    "links": [
+     {
+      "label": "Nyuzen Town Hall",
+      "url": "https://www.town.nyuzen.toyama.jp/"
+     }
+    ],
+    "address": "Nyuzen, Toyama 939-0693",
+    "phone": "0765-72-1100"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Oyabe",
+   "slug": "oyabe",
+   "prefecture": "toyama",
+   "url": "https://bokenjapan.com/toyama/oyabe/",
+   "official": {
+    "links": [
+     {
+      "label": "Oyabe City Hall",
+      "url": "https://www.city.oyabe.toyama.jp/"
+     }
+    ],
+    "address": "Oyabe, Toyama 932-8611",
+    "phone": "0766-67-1760"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Takaoka",
+   "slug": "takaoka",
+   "prefecture": "toyama",
+   "url": "https://bokenjapan.com/toyama/takaoka/",
+   "official": {
+    "links": [
+     {
+      "label": "Takaoka City Hall",
+      "url": "https://www.city.takaoka.toyama.jp/"
+     }
+    ],
+    "address": "Takaoka, Toyama 933-8601",
+    "phone": "0766-20-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tateyama",
+   "slug": "tateyama",
+   "prefecture": "toyama",
+   "url": "https://bokenjapan.com/toyama/tateyama/",
+   "official": {
+    "links": [
+     {
+      "label": "Tateyama Town Hall",
+      "url": "https://www.town.tateyama.toyama.jp/"
+     }
+    ],
+    "address": "Tateyama, Toyama 930-0292",
+    "phone": "076-463-1121"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tonami",
+   "slug": "tonami",
+   "prefecture": "toyama",
+   "url": "https://bokenjapan.com/toyama/tonami/",
+   "official": {
+    "links": [
+     {
+      "label": "Tonami City Hall",
+      "url": "https://www.city.tonami.toyama.jp/"
+     }
+    ],
+    "address": "Tonami, Toyama 939-1398",
+    "phone": "0763-33-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Toyama",
+   "slug": "toyama",
+   "prefecture": "toyama",
+   "url": "https://bokenjapan.com/toyama/toyama/",
+   "official": {
+    "links": [
+     {
+      "label": "Toyama City Hall",
+      "url": "https://www.city.toyama.lg.jp/"
+     }
+    ],
+    "address": "Toyama 930-8510",
+    "phone": "076-431-6111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Uozu",
+   "slug": "uozu",
+   "prefecture": "toyama",
+   "url": "https://bokenjapan.com/toyama/uozu/",
+   "official": {
+    "links": [
+     {
+      "label": "Uozu City Hall",
+      "url": "https://www.city.uozu.toyama.jp/"
+     }
+    ],
+    "address": "Uozu, Toyama 937-8555",
+    "phone": "0765-23-1118"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

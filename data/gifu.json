@@ -1,0 +1,721 @@
+{
+ "prefecture": "Gifu",
+ "slug": "gifu",
+ "url": "https://bokenjapan.com/gifu/",
+ "towns": [
+  {
+   "name": "Anpachi",
+   "slug": "anpachi",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/anpachi/",
+   "official": {
+    "links": [
+     {
+      "label": "Anpachi Town Hall",
+      "url": "http://www.town.anpachi.gifu.jp/"
+     }
+    ],
+    "address": "Anpachi, Gifu 503-0198",
+    "phone": "0584-64-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ena",
+   "slug": "ena",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/ena/",
+   "official": {
+    "links": [
+     {
+      "label": "Ena City Hall",
+      "url": "http://www.city.ena.lg.jp/"
+     }
+    ],
+    "address": "Ena, Gifu 509-7292",
+    "phone": "0573-26-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Gero",
+   "slug": "gero",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/gero/",
+   "official": {
+    "links": [
+     {
+      "label": "Gero City Hall",
+      "url": "http://www.city.gero.lg.jp/"
+     }
+    ],
+    "address": "Gero, Gifu 509-2295",
+    "phone": "0576-24-2222"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Gifu",
+   "slug": "gifu",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/gifu/",
+   "official": {
+    "links": [
+     {
+      "label": "Gifu City Hall",
+      "url": "http://www.city.gifu.lg.jp/"
+     }
+    ],
+    "address": "Gifu 500-8701",
+    "phone": "058-265-4141"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ginan",
+   "slug": "ginan",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/ginan/",
+   "official": {
+    "links": [
+     {
+      "label": "Ginan Town Hall",
+      "url": "https://www.town.ginan.lg.jp/"
+     }
+    ],
+    "address": "Ginan, Gifu 501-6197",
+    "phone": "058-247-1331"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Godo",
+   "slug": "godo",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/godo/",
+   "official": {
+    "links": [
+     {
+      "label": "Godo Town Hall",
+      "url": "http://www.town.godo.gifu.jp/"
+     }
+    ],
+    "address": "Godo, Gifu 503-2392",
+    "phone": "0584-27-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Gujo",
+   "slug": "gujo",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/gujo/",
+   "official": {
+    "links": [
+     {
+      "label": "Gujo City Hall",
+      "url": "http://www.city.gujo.gifu.jp/"
+     }
+    ],
+    "address": "Gujo, Gifu 501-4297",
+    "phone": "0575-67-1121"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hashima",
+   "slug": "hashima",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/hashima/",
+   "official": {
+    "links": [
+     {
+      "label": "Hashima City Hall",
+      "url": "https://www.city.hashima.lg.jp/"
+     }
+    ],
+    "address": "Hashima, Gifu 501-6292",
+    "phone": "058-392-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hichiso",
+   "slug": "hichiso",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/hichiso/",
+   "official": {
+    "links": [
+     {
+      "label": "Hichiso Town Hall",
+      "url": "http://www.hichiso.jp/"
+     }
+    ],
+    "address": "Hichiso, Gifu 509-0492",
+    "phone": "0574-48-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hida",
+   "slug": "hida",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/hida/",
+   "official": {
+    "links": [
+     {
+      "label": "Hida City Hall",
+      "url": "http://www.city.hida.gifu.jp/"
+     }
+    ],
+    "address": "Hida, Gifu 509-4292",
+    "phone": "0577-73-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Higashishirakawa",
+   "slug": "higashishirakawa",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/higashishirakawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Higashishirakawa Village Hall",
+      "url": "http://www.vill.higashishirakawa.gifu.jp/"
+     }
+    ],
+    "address": "Higashishirakawa, Gifu 509-1392",
+    "phone": "0574-78-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ibigawa",
+   "slug": "ibigawa",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/ibigawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Ibigawa Town Hall",
+      "url": "https://www.town.ibigawa.lg.jp/"
+     }
+    ],
+    "address": "Ibigawa, Gifu 501-0692",
+    "phone": "0585-22-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ikedacho",
+   "slug": "ikedacho",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/ikedacho/",
+   "official": {
+    "links": [
+     {
+      "label": "Ikedacho Town Hall",
+      "url": "http://www.town.ikeda.gifu.jp/"
+     }
+    ],
+    "address": "Ikedacho, Gifu 503-2492",
+    "phone": "0585-45-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kaizu",
+   "slug": "kaizu",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/kaizu/",
+   "official": {
+    "links": [
+     {
+      "label": "Kaizu City Hall",
+      "url": "https://www.city.kaizu.lg.jp/"
+     }
+    ],
+    "address": "Kaizu, Gifu 503-0695",
+    "phone": "0584-53-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kakamigahara",
+   "slug": "kakamigahara",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/kakamigahara/",
+   "official": {
+    "links": [
+     {
+      "label": "Kakamigahara City Hall",
+      "url": "http://www.city.kakamigahara.lg.jp/"
+     }
+    ],
+    "address": "Kakamigahara, Gifu 504-8555",
+    "phone": "058‐383-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kani",
+   "slug": "kani",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/kani/",
+   "official": {
+    "links": [
+     {
+      "label": "Kani City Hall",
+      "url": "http://www.city.kani.lg.jp/"
+     }
+    ],
+    "address": "Kani, Gifu 509-0292",
+    "phone": "0574-62-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kasamatsu",
+   "slug": "kasamatsu",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/kasamatsu/",
+   "official": {
+    "links": [
+     {
+      "label": "Kasamatsu Town Hall",
+      "url": "http://www.town.kasamatsu.gifu.jp/"
+     }
+    ],
+    "address": "Kasamatsu, Gifu 501-6181",
+    "phone": "058-388-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kawabe",
+   "slug": "kawabe",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/kawabe/",
+   "official": {
+    "links": [
+     {
+      "label": "Kawabe Town Hall",
+      "url": "http://www.kawabe-gifu.jp/"
+     }
+    ],
+    "address": "Kawabe, Gifu 509-0393",
+    "phone": "0574-53-2511"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kitagata",
+   "slug": "kitagata",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/kitagata/",
+   "official": {
+    "links": [
+     {
+      "label": "Kitagata Town Hall",
+      "url": "http://www.town.kitagata.gifu.jp/"
+     }
+    ],
+    "address": "Kitagata, Gifu 501-0492",
+    "phone": "058-323-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mino",
+   "slug": "mino",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/mino/",
+   "official": {
+    "links": [
+     {
+      "label": "Mino City Hall",
+      "url": "http://www.city.mino.gifu.jp/"
+     }
+    ],
+    "address": "Mino, Gifu 501-3792",
+    "phone": "0575-33-1122"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minokamo",
+   "slug": "minokamo",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/minokamo/",
+   "official": {
+    "links": [
+     {
+      "label": "Minokamo City Hall",
+      "url": "https://www.city.minokamo.lg.jp/"
+     }
+    ],
+    "address": "Minokamo, Gifu 505-8606",
+    "phone": "0574-25-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mitake",
+   "slug": "mitake",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/mitake/",
+   "official": {
+    "links": [
+     {
+      "label": "Mitake Town Hall",
+      "url": "https://www.town.mitake.lg.jp/"
+     }
+    ],
+    "address": "Mitake, Gifu 505-0192",
+    "phone": "0574-67-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mizuho",
+   "slug": "mizuho",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/mizuho/",
+   "official": {
+    "links": [
+     {
+      "label": "Mizuho City Hall",
+      "url": "http://www.city.mizuho.lg.jp/"
+     }
+    ],
+    "address": "Mizuho, Gifu 501-0293",
+    "phone": "058-327-4111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mizunami",
+   "slug": "mizunami",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/mizunami/",
+   "official": {
+    "links": [
+     {
+      "label": "Mizunami City Hall",
+      "url": "http://www.city.mizunami.lg.jp/"
+     }
+    ],
+    "address": "Mizunami, Gifu 509-6195",
+    "phone": "0572-68-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Motosu",
+   "slug": "motosu",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/motosu/",
+   "official": {
+    "links": [
+     {
+      "label": "Motosu City Hall",
+      "url": "http://www.city.motosu.lg.jp/"
+     }
+    ],
+    "address": "Motosu, Gifu 501-0491",
+    "phone": "058-323-1155"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nakatsugawa",
+   "slug": "nakatsugawa",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/nakatsugawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Nakatsugawa City Hall",
+      "url": "http://www.city.nakatsugawa.gifu.jp/"
+     }
+    ],
+    "address": "Nakatsugawa, Gifu 508-8501",
+    "phone": "0573-66-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ogaki",
+   "slug": "ogaki",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/ogaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Ogaki City Hall",
+      "url": "http://www.city.ogaki.lg.jp/"
+     }
+    ],
+    "address": "Ogaki, Gifu 503-8601",
+    "phone": "0584-81-4111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Onocho",
+   "slug": "onocho",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/onocho/",
+   "official": {
+    "links": [
+     {
+      "label": "Onocho Town Hall",
+      "url": "https://www.town-ono.jp/"
+     }
+    ],
+    "address": "Onocho, Gifu 501-0592",
+    "phone": "0585-34-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sakahogi",
+   "slug": "sakahogi",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/sakahogi/",
+   "official": {
+    "links": [
+     {
+      "label": "Sakahogi Town Hall",
+      "url": "http://www.town.sakahogi.gifu.jp/"
+     }
+    ],
+    "address": "Sakahogi, Gifu 505-8501",
+    "phone": "0574-26-7111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Seki",
+   "slug": "seki",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/seki/",
+   "official": {
+    "links": [
+     {
+      "label": "Seki City Hall",
+      "url": "http://www.city.seki.gifu.jp/"
+     }
+    ],
+    "address": "Seki, Gifu 501-3894",
+    "phone": "0575-22-3131"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sekigahara",
+   "slug": "sekigahara",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/sekigahara/",
+   "official": {
+    "links": [
+     {
+      "label": "Sekigahara Town Hall",
+      "url": "http://www.town.sekigahara.gifu.jp/"
+     }
+    ],
+    "address": "Sekigahara, Gifu 503-1592",
+    "phone": "0584-43-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shirakawa",
+   "slug": "shirakawa",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/shirakawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Shirakawa Town Hall",
+      "url": "http://www.town.shirakawa.lg.jp/"
+     }
+    ],
+    "address": "Shirakawa, Gifu 509-1192",
+    "phone": "0574-72-1311"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shirakawamura",
+   "slug": "shirakawamura",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/shirakawamura/",
+   "official": {
+    "links": [
+     {
+      "label": "Shirakawamura Village Hall",
+      "url": "http://shirakawa-go.org/"
+     }
+    ],
+    "address": "Shirakawamura, Gifu 501-5692",
+    "phone": "05769-6-1311"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tajimi",
+   "slug": "tajimi",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/tajimi/",
+   "official": {
+    "links": [
+     {
+      "label": "Tajimi City Hall",
+      "url": "http://www.city.tajimi.lg.jp/"
+     }
+    ],
+    "address": "Tajimi, Gifu 507-8703",
+    "phone": "0572-22-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Takayama",
+   "slug": "takayama",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/takayama/",
+   "official": {
+    "links": [
+     {
+      "label": "Takayama City Hall",
+      "url": "http://www.city.takayama.lg.jp/"
+     }
+    ],
+    "address": "Takayama, Gifu 506-8555",
+    "phone": "0577-32-3333"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tarui",
+   "slug": "tarui",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/tarui/",
+   "official": {
+    "links": [
+     {
+      "label": "Tarui Town Hall",
+      "url": "http://www.town.tarui.lg.jp/"
+     }
+    ],
+    "address": "Tarui, Gifu 503-2193",
+    "phone": "0584-22-1151"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Toki",
+   "slug": "toki",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/toki/",
+   "official": {
+    "links": [
+     {
+      "label": "Toki City Hall",
+      "url": "http://www.city.toki.lg.jp/"
+     }
+    ],
+    "address": "Toki, Gifu 509-5192",
+    "phone": "0572-54-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tomika",
+   "slug": "tomika",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/tomika/",
+   "official": {
+    "links": [
+     {
+      "label": "Tomika Town Hall",
+      "url": "http://www.town.tomika.gifu.jp/"
+     }
+    ],
+    "address": "Tomika, Gifu 501-3392",
+    "phone": "0574-54-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Wanouchi",
+   "slug": "wanouchi",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/wanouchi/",
+   "official": {
+    "links": [
+     {
+      "label": "Wanouchi Town Hall",
+      "url": "http://town.wanouchi.gifu.jp/"
+     }
+    ],
+    "address": "Wanouchi, Gifu 503-0292",
+    "phone": "0584-69-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yamagata",
+   "slug": "yamagata",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/yamagata/",
+   "official": {
+    "links": [
+     {
+      "label": "Yamagata City Hall",
+      "url": "http://www.city.yamagata.gifu.jp/"
+     }
+    ],
+    "address": "Yamagata, Gifu 501-2192",
+    "phone": "0581-22-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yaotsu",
+   "slug": "yaotsu",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/yaotsu/",
+   "official": {
+    "links": [
+     {
+      "label": "Yaotsu Town Hall",
+      "url": "https://www.town.yaotsu.lg.jp/"
+     }
+    ],
+    "address": "Yaotsu, Gifu 505-0392",
+    "phone": "0574-43-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yoro",
+   "slug": "yoro",
+   "prefecture": "gifu",
+   "url": "https://bokenjapan.com/gifu/yoro/",
+   "official": {
+    "links": [
+     {
+      "label": "Yoro Town Hall",
+      "url": "http://www.town.yoro.gifu.jp/"
+     }
+    ],
+    "address": "Yoro, Gifu 503-1392",
+    "phone": "0584-32-1100"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

@@ -1,0 +1,432 @@
+{
+ "prefecture": "Tochigi",
+ "slug": "tochigi",
+ "url": "https://bokenjapan.com/tochigi/",
+ "towns": [
+  {
+   "name": "Ashikaga",
+   "slug": "ashikaga",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/ashikaga/",
+   "official": {
+    "links": [
+     {
+      "label": "Ashikaga City Hall",
+      "url": "https://www.city.ashikaga.tochigi.jp/"
+     }
+    ],
+    "address": "Ashikaga, Tochigi 326-8601",
+    "phone": "0284-20-2222"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Haga",
+   "slug": "haga",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/haga/",
+   "official": {
+    "links": [
+     {
+      "label": "Haga Town Hall",
+      "url": "https://www.town.haga.tochigi.jp/"
+     }
+    ],
+    "address": "Haga, Tochigi 321-3392",
+    "phone": "028-677-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ichikai",
+   "slug": "ichikai",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/ichikai/",
+   "official": {
+    "links": [
+     {
+      "label": "Ichikai Town Hall",
+      "url": "https://www.town.ichikai.tochigi.jp/"
+     }
+    ],
+    "address": "Ichikai, Tochigi 321-3493",
+    "phone": "0285-68-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kaminokawa",
+   "slug": "kaminokawa",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/kaminokawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Kaminokawa Town Hall",
+      "url": "https://www.town.kaminokawa.lg.jp/"
+     }
+    ],
+    "address": "Kaminokawa, Tochigi 329-0696",
+    "phone": "0285-56-9111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kanuma",
+   "slug": "kanuma",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/kanuma/",
+   "official": {
+    "links": [
+     {
+      "label": "Kanuma City Hall",
+      "url": "https://www.city.kanuma.tochigi.jp/"
+     }
+    ],
+    "address": "Kanuma, Tochigi 322-8601",
+    "phone": "0289-64-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mashiko",
+   "slug": "mashiko",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/mashiko/",
+   "official": {
+    "links": [
+     {
+      "label": "Mashiko Town Hall",
+      "url": "https://www.town.mashiko.lg.jp/"
+     }
+    ],
+    "address": "Mashiko, Tochigi 321-4293",
+    "phone": "0285-72-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mibu",
+   "slug": "mibu",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/mibu/",
+   "official": {
+    "links": [
+     {
+      "label": "Mibu Town Hall",
+      "url": "https://www.town.mibu.tochigi.jp/"
+     }
+    ],
+    "address": "Mibu, Tochigi 321-0292",
+    "phone": "0282-81-1806"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Moka",
+   "slug": "moka",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/moka/",
+   "official": {
+    "links": [
+     {
+      "label": "Moka City Hall",
+      "url": "https://www.city.moka.lg.jp/"
+     }
+    ],
+    "address": "Moka, Tochigi 321-4395",
+    "phone": "0285-82-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Motegi",
+   "slug": "motegi",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/motegi/",
+   "official": {
+    "links": [
+     {
+      "label": "Motegi Town Hall",
+      "url": "https://www.town.motegi.tochigi.jp/"
+     }
+    ],
+    "address": "Motegi, Tochigi 321-3598",
+    "phone": "0285-63-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nakagawacho",
+   "slug": "nakagawacho",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/nakagawacho/",
+   "official": {
+    "links": [
+     {
+      "label": "Nakagawacho Town Hall",
+      "url": "https://www.town.tochigi-nakagawa.lg.jp/"
+     }
+    ],
+    "address": "Nakagawacho, Tochigi 324-0692",
+    "phone": "0287-92-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nasukarasuyama",
+   "slug": "nasukarasuyama",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/nasukarasuyama/",
+   "official": {
+    "links": [
+     {
+      "label": "Nasukarasuyama City Hall",
+      "url": "https://www.city.nasukarasuyama.lg.jp/"
+     }
+    ],
+    "address": "Nasukarasuyama, Tochigi 321-0692",
+    "phone": "0287-83-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nasumachi",
+   "slug": "nasumachi",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/nasumachi/",
+   "official": {
+    "links": [
+     {
+      "label": "Nasumachi Town Hall",
+      "url": "https://www.town.nasu.lg.jp/"
+     }
+    ],
+    "address": "Nasumachi, Tochigi 329-3292",
+    "phone": "0287-72-6901"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nasushiobara",
+   "slug": "nasushiobara",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/nasushiobara/",
+   "official": {
+    "links": [
+     {
+      "label": "Nasushiobara City Hall",
+      "url": "https://www.city.nasushiobara.tochigi.jp/"
+     }
+    ],
+    "address": "Nasushiobara, Tochigi 325-8501",
+    "phone": "0287-62-7111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nikko",
+   "slug": "nikko",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/nikko/",
+   "official": {
+    "links": [
+     {
+      "label": "Nikko City Hall",
+      "url": "https://www.city.nikko.lg.jp/"
+     }
+    ],
+    "address": "Nikko, Tochigi 321-1292",
+    "phone": "0288-22-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nogi",
+   "slug": "nogi",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/nogi/",
+   "official": {
+    "links": [
+     {
+      "label": "Nogi Town Hall",
+      "url": "https://www.town.nogi.lg.jp/"
+     }
+    ],
+    "address": "Nogi, Tochigi 329-0195",
+    "phone": "0280-57-4111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Otawara",
+   "slug": "otawara",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/otawara/",
+   "official": {
+    "links": [
+     {
+      "label": "Otawara City Hall",
+      "url": "https://www.city.ohtawara.tochigi.jp/"
+     }
+    ],
+    "address": "Otawara, Tochigi 324-8641",
+    "phone": "0287-23-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Oyama",
+   "slug": "oyama",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/oyama/",
+   "official": {
+    "links": [
+     {
+      "label": "Oyama City Hall",
+      "url": "https://www.city.oyama.tochigi.jp/"
+     }
+    ],
+    "address": "Oyama, Tochigi 323-8686",
+    "phone": "0285-23-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sakurashi",
+   "slug": "sakurashi",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/sakurashi/",
+   "official": {
+    "links": [
+     {
+      "label": "Sakurashi City Hall",
+      "url": "https://www.city.tochigi-sakura.lg.jp/"
+     }
+    ],
+    "address": "Sakurashi, Tochigi 329-1392",
+    "phone": "028-681-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sano",
+   "slug": "sano",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/sano/",
+   "official": {
+    "links": [
+     {
+      "label": "Sano City Hall",
+      "url": "https://www.city.sano.lg.jp/"
+     }
+    ],
+    "address": "Sano, Tochigi 327-8501",
+    "phone": "0283-24-5111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shimotsuke",
+   "slug": "shimotsuke",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/shimotsuke/",
+   "official": {
+    "links": [
+     {
+      "label": "Shimotsuke City Hall",
+      "url": "https://www.city.shimotsuke.lg.jp/"
+     }
+    ],
+    "address": "Shimotsuke, Tochigi 329-0492",
+    "phone": "0285-32-8888"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shioya",
+   "slug": "shioya",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/shioya/",
+   "official": {
+    "links": [
+     {
+      "label": "Shioya Town Hall",
+      "url": "https://www.town.shioya.tochigi.jp/"
+     }
+    ],
+    "address": "Shioya, Tochigi 329-2292",
+    "phone": "0287-45-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Takanezawa",
+   "slug": "takanezawa",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/takanezawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Takanezawa Town Hall",
+      "url": "https://www.town.takanezawa.tochigi.jp/"
+     }
+    ],
+    "address": "Takanezawa, Tochigi 329-1292",
+    "phone": "028-675-8100"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tochigi",
+   "slug": "tochigi",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/tochigi/",
+   "official": {
+    "links": [
+     {
+      "label": "Tochigi City Hall",
+      "url": "https://www.city.tochigi.lg.jp/"
+     }
+    ],
+    "address": "Tochigi 328-8686",
+    "phone": "0282-21-2224"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Utsunomiya",
+   "slug": "utsunomiya",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/utsunomiya/",
+   "official": {
+    "links": [
+     {
+      "label": "Utsunomiya City Hall",
+      "url": "https://www.city.utsunomiya.lg.jp/"
+     }
+    ],
+    "address": "Utsunomiya, Tochigi 320-8540",
+    "phone": "028-632-2222"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yaita",
+   "slug": "yaita",
+   "prefecture": "tochigi",
+   "url": "https://bokenjapan.com/tochigi/yaita/",
+   "official": {
+    "links": [
+     {
+      "label": "Yaita City Hall",
+      "url": "https://www.city.yaita.tochigi.jp/"
+     }
+    ],
+    "address": "Yaita, Tochigi 329-2192",
+    "phone": "0287-43-1111"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

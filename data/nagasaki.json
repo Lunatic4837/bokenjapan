@@ -1,0 +1,364 @@
+{
+ "prefecture": "Nagasaki",
+ "slug": "nagasaki",
+ "url": "https://bokenjapan.com/nagasaki/",
+ "towns": [
+  {
+   "name": "Goto",
+   "slug": "goto",
+   "prefecture": "nagasaki",
+   "url": "https://bokenjapan.com/nagasaki/goto/",
+   "official": {
+    "links": [
+     {
+      "label": "Goto City Hall",
+      "url": "https://www.city.goto.nagasaki.jp/"
+     }
+    ],
+    "address": "Goto, Nagasaki 853-8501",
+    "phone": "0959-72-6111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hasami",
+   "slug": "hasami",
+   "prefecture": "nagasaki",
+   "url": "https://bokenjapan.com/nagasaki/hasami/",
+   "official": {
+    "links": [
+     {
+      "label": "Hasami Town Hall",
+      "url": "https://www.town.hasami.lg.jp/"
+     }
+    ],
+    "address": "Hasami, Nagasaki 859-3791",
+    "phone": "0956-85-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Higashisonogi",
+   "slug": "higashisonogi",
+   "prefecture": "nagasaki",
+   "url": "https://bokenjapan.com/nagasaki/higashisonogi/",
+   "official": {
+    "links": [
+     {
+      "label": "Higashisonogi Town Hall",
+      "url": "https://www.town.higashisonogi.lg.jp/"
+     }
+    ],
+    "address": "Higashisonogi, Nagasaki 859-3808",
+    "phone": "0957-46-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hirado",
+   "slug": "hirado",
+   "prefecture": "nagasaki",
+   "url": "https://bokenjapan.com/nagasaki/hirado/",
+   "official": {
+    "links": [
+     {
+      "label": "Hirado City Hall",
+      "url": "https://www.city.hirado.nagasaki.jp/"
+     }
+    ],
+    "address": "Hirado, Nagasaki 859-5192",
+    "phone": "0950-22-4111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Iki",
+   "slug": "iki",
+   "prefecture": "nagasaki",
+   "url": "https://bokenjapan.com/nagasaki/iki/",
+   "official": {
+    "links": [
+     {
+      "label": "Iki City Hall",
+      "url": "https://www.city.iki.nagasaki.jp/"
+     }
+    ],
+    "address": "Iki, Nagasaki 811-5192",
+    "phone": "0920-48-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Isahaya",
+   "slug": "isahaya",
+   "prefecture": "nagasaki",
+   "url": "https://bokenjapan.com/nagasaki/isahaya/",
+   "official": {
+    "links": [
+     {
+      "label": "Isahaya City Hall",
+      "url": "https://www.city.isahaya.nagasaki.jp/"
+     }
+    ],
+    "address": "Isahaya, Nagasaki 854-8601",
+    "phone": "0957-22-1500"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kawatana",
+   "slug": "kawatana",
+   "prefecture": "nagasaki",
+   "url": "https://bokenjapan.com/nagasaki/kawatana/",
+   "official": {
+    "links": [
+     {
+      "label": "Kawatana Town Hall",
+      "url": "https://www.kawatana.jp/"
+     }
+    ],
+    "address": "Kawatana, Nagasaki 859-3692",
+    "phone": "0956-82-3131"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Matsuura",
+   "slug": "matsuura",
+   "prefecture": "nagasaki",
+   "url": "https://bokenjapan.com/nagasaki/matsuura/",
+   "official": {
+    "links": [
+     {
+      "label": "Matsuura City Hall",
+      "url": "https://www.city-matsuura.jp/"
+     }
+    ],
+    "address": "Matsuura, Nagasaki 859-4598",
+    "phone": "0956-72-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minamishimabara",
+   "slug": "minamishimabara",
+   "prefecture": "nagasaki",
+   "url": "https://bokenjapan.com/nagasaki/minamishimabara/",
+   "official": {
+    "links": [
+     {
+      "label": "Minamishimabara City Hall",
+      "url": "https://www.city.minamishimabara.lg.jp/"
+     }
+    ],
+    "address": "Minamishimabara, Nagasaki 859-2211",
+    "phone": "0957-73-6600"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nagasaki",
+   "slug": "nagasaki",
+   "prefecture": "nagasaki",
+   "url": "https://bokenjapan.com/nagasaki/nagasaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Nagasaki City Hall",
+      "url": "https://www.city.nagasaki.lg.jp/"
+     }
+    ],
+    "address": "Nagasaki 850-8685",
+    "phone": "095-822-8888"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nagayo",
+   "slug": "nagayo",
+   "prefecture": "nagasaki",
+   "url": "https://bokenjapan.com/nagasaki/nagayo/",
+   "official": {
+    "links": [
+     {
+      "label": "Nagayo Town Hall",
+      "url": "https://webtown.nagayo.jp/"
+     }
+    ],
+    "address": "Nagayo, Nagasaki 851-2185",
+    "phone": "095-883-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ojika",
+   "slug": "ojika",
+   "prefecture": "nagasaki",
+   "url": "https://bokenjapan.com/nagasaki/ojika/",
+   "official": {
+    "links": [
+     {
+      "label": "Ojika Town Hall",
+      "url": "https://www.town.ojika.lg.jp/"
+     }
+    ],
+    "address": "Ojika, Nagasaki 857-4701",
+    "phone": "0959-56-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Omura",
+   "slug": "omura",
+   "prefecture": "nagasaki",
+   "url": "https://bokenjapan.com/nagasaki/omura/",
+   "official": {
+    "links": [
+     {
+      "label": "Omura City Hall",
+      "url": "https://www.city.omura.nagasaki.jp/"
+     }
+    ],
+    "address": "Omura, Nagasaki 856-8686",
+    "phone": "0957-53-4111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Saikai",
+   "slug": "saikai",
+   "prefecture": "nagasaki",
+   "url": "https://bokenjapan.com/nagasaki/saikai/",
+   "official": {
+    "links": [
+     {
+      "label": "Saikai City Hall",
+      "url": "https://www.city.saikai.nagasaki.jp/"
+     }
+    ],
+    "address": "Saikai, Nagasaki 857-2392",
+    "phone": "0959-37-0011"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sasebo",
+   "slug": "sasebo",
+   "prefecture": "nagasaki",
+   "url": "https://bokenjapan.com/nagasaki/sasebo/",
+   "official": {
+    "links": [
+     {
+      "label": "Sasebo City Hall",
+      "url": "https://www.city.sasebo.lg.jp/"
+     }
+    ],
+    "address": "Sasebo, Nagasaki 857-8585",
+    "phone": "0956-24-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Saza",
+   "slug": "saza",
+   "prefecture": "nagasaki",
+   "url": "https://bokenjapan.com/nagasaki/saza/",
+   "official": {
+    "links": [
+     {
+      "label": "Saza Town Hall",
+      "url": "https://www.sazacho-nagasaki.jp/"
+     }
+    ],
+    "address": "Saza, Nagasaki 857-0392",
+    "phone": "0956-62-2101"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shimabara",
+   "slug": "shimabara",
+   "prefecture": "nagasaki",
+   "url": "https://bokenjapan.com/nagasaki/shimabara/",
+   "official": {
+    "links": [
+     {
+      "label": "Shimabara City Hall",
+      "url": "https://www.city.shimabara.lg.jp/"
+     }
+    ],
+    "address": "Shimabara, Nagasaki 855-8555",
+    "phone": "0957-63-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shinkamigoto",
+   "slug": "shinkamigoto",
+   "prefecture": "nagasaki",
+   "url": "https://bokenjapan.com/nagasaki/shinkamigoto/",
+   "official": {
+    "links": [
+     {
+      "label": "Shinkamigoto Town Hall",
+      "url": "https://official.shinkamigoto.net/"
+     }
+    ],
+    "address": "Shinkamigoto, Nagasaki 857-4495",
+    "phone": "0959-53-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Togitsu",
+   "slug": "togitsu",
+   "prefecture": "nagasaki",
+   "url": "https://bokenjapan.com/nagasaki/togitsu/",
+   "official": {
+    "links": [
+     {
+      "label": "Togitsu Town Hall",
+      "url": "https://www.town.togitsu.nagasaki.jp/"
+     }
+    ],
+    "address": "Togitsu, Nagasaki 851-2198",
+    "phone": "095-882-2211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tsushimashi",
+   "slug": "tsushimashi",
+   "prefecture": "nagasaki",
+   "url": "https://bokenjapan.com/nagasaki/tsushimashi/",
+   "official": {
+    "links": [
+     {
+      "label": "Tsushimashi City Hall",
+      "url": "https://www.city.tsushima.nagasaki.jp/"
+     }
+    ],
+    "address": "Tsushimashi, Nagasaki 817-8510",
+    "phone": "0920-53-6111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Unzen",
+   "slug": "unzen",
+   "prefecture": "nagasaki",
+   "url": "https://bokenjapan.com/nagasaki/unzen/",
+   "official": {
+    "links": [
+     {
+      "label": "Unzen City Hall",
+      "url": "https://www.city.unzen.nagasaki.jp/"
+     }
+    ],
+    "address": "Unzen, Nagasaki 859-1107",
+    "phone": "0957-38-3111"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

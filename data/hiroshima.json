@@ -1,0 +1,478 @@
+{
+ "prefecture": "Hiroshima",
+ "slug": "hiroshima",
+ "url": "https://bokenjapan.com/hiroshima/",
+ "towns": [
+  {
+   "name": "Akiota",
+   "slug": "akiota",
+   "prefecture": "hiroshima",
+   "url": "https://bokenjapan.com/hiroshima/akiota/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.akiota.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://cs-akiota.or.jp/"
+     }
+    ],
+    "address": "784-1 Togouchi, Akiota Town, Yamagata District, Hiroshima 731-3810, Japan",
+    "phone": "0826-28-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Akitakata",
+   "slug": "akitakata",
+   "prefecture": "hiroshima",
+   "url": "https://bokenjapan.com/hiroshima/akitakata/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.akitakata.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.akitakata.jp/"
+     }
+    ],
+    "address": "791 Yoshida, Yoshida-cho, Akitakata City, Hiroshima 731-0592, Japan",
+    "phone": "0826-42-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Etajima",
+   "slug": "etajima",
+   "prefecture": "hiroshima",
+   "url": "https://bokenjapan.com/hiroshima/etajima/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.etajima.hiroshima.jp/cms/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.city.etajima.hiroshima.jp/cms/categories/articles/134"
+     }
+    ],
+    "address": "505 Ohara, Ogaki-cho, Etajima City, Hiroshima 737-2297, Japan",
+    "phone": "0823-43-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Fuchu",
+   "slug": "fuchu",
+   "prefecture": "hiroshima",
+   "url": "https://bokenjapan.com/hiroshima/fuchu/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.fuchu.hiroshima.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://fuchu-kanko.jp/"
+     }
+    ],
+    "address": "315 Fukawa-cho, Fuchu City, Hiroshima 726-8601, Japan",
+    "phone": "0847-44-9099"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Fuchu Town",
+   "slug": "fuchucho",
+   "prefecture": "hiroshima",
+   "url": "https://bokenjapan.com/hiroshima/fuchucho/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.fuchu.hiroshima.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.town.fuchu.hiroshima.jp/life/4/33/"
+     }
+    ],
+    "address": "5-1 Odori 3-chome, Fuchu Town, Aki District, Hiroshima 735-8686, Japan",
+    "phone": "082-286-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Fukuyama",
+   "slug": "fukuyama",
+   "prefecture": "hiroshima",
+   "url": "https://bokenjapan.com/hiroshima/fukuyama/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.fukuyama.hiroshima.jp/"
+     }
+    ],
+    "address": "3-5 Higashi-Sakura-cho, Fukuyama City, Hiroshima 720-8501, Japan",
+    "phone": "084-921-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hatsukaichi",
+   "slug": "hatsukaichi",
+   "prefecture": "hiroshima",
+   "url": "https://bokenjapan.com/hiroshima/hatsukaichi/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.hatsukaichi.hiroshima.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.city.hatsukaichi.hiroshima.jp/"
+     }
+    ],
+    "address": "11-1 Shimohira 1-chome, Hatsukaichi City, Hiroshima 738-8501, Japan",
+    "phone": "0829-20-0001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Higashihiroshima",
+   "slug": "higashihiroshima",
+   "prefecture": "hiroshima",
+   "url": "https://bokenjapan.com/hiroshima/higashihiroshima/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.higashihiroshima.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://higashihiroshima-kanko.jp/"
+     }
+    ],
+    "address": "8-29 Saijo Sakae-machi, Higashihiroshima City, Hiroshima 739-8601, Japan",
+    "phone": "082-422-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hiroshima",
+   "slug": "hiroshima",
+   "prefecture": "hiroshima",
+   "url": "https://bokenjapan.com/hiroshima/hiroshima/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.hiroshima.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.hiroshima-navi.or.jp/"
+     }
+    ],
+    "address": "1-6-34 Kokutaiji-machi, Naka-ku, Hiroshima City, Hiroshima 730-8586, Japan",
+    "phone": "082-245-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Jinseikogen",
+   "slug": "jinseikogen",
+   "prefecture": "hiroshima",
+   "url": "https://bokenjapan.com/hiroshima/jinseikogen/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.jinsekigun.jp/town/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://jkougen.jp/"
+     }
+    ],
+    "address": "1701 Kobatake, Jinseikogen Town, Jinseki District, Hiroshima 720-1522, Japan",
+    "phone": "0847-89-3330"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kaita",
+   "slug": "kaita",
+   "prefecture": "hiroshima",
+   "url": "https://bokenjapan.com/hiroshima/kaita/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.kaita.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.town.kaita.lg.jp/site/kaita-info/693.html"
+     }
+    ],
+    "address": "14-17 Minami-Showacho, Kaita Town, Aki District, Hiroshima 736-8601, Japan",
+    "phone": "082-822-2121"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kitahiroshima",
+   "slug": "kitahiroshima",
+   "prefecture": "hiroshima",
+   "url": "https://bokenjapan.com/hiroshima/kitahiroshima/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.kitahiroshima.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://kitahiro.jp/"
+     }
+    ],
+    "address": "1234 Arita, Kitahiroshima Town, Yamagata District, Hiroshima 731-1595, Japan",
+    "phone": "0826-72-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kumano",
+   "slug": "kumano",
+   "prefecture": "hiroshima",
+   "url": "https://bokenjapan.com/hiroshima/kumano/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.kumano.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.town.kumano.lg.jp/11/index.html"
+     }
+    ],
+    "address": "1-1-1 Nakamizo, Kumano Town, Aki District, Hiroshima 731-4292, Japan",
+    "phone": "082-820-5600"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kure",
+   "slug": "kure",
+   "prefecture": "hiroshima",
+   "url": "https://bokenjapan.com/hiroshima/kure/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.kure.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.city.kure.lg.jp/"
+     }
+    ],
+    "address": "4-1-6 Chuo, Kure City, Hiroshima 737-8501, Japan",
+    "phone": "0823-25-3100"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mihara",
+   "slug": "miharashi",
+   "prefecture": "hiroshima",
+   "url": "https://bokenjapan.com/hiroshima/miharashi/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.mihara.hiroshima.jp/"
+     }
+    ],
+    "address": "3-5-1 Minato-machi, Mihara City, Hiroshima 723-8601, Japan",
+    "phone": "0848-64-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Miyoshi",
+   "slug": "miyoshishi",
+   "prefecture": "hiroshima",
+   "url": "https://bokenjapan.com/hiroshima/miyoshishi/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.miyoshi.hiroshima.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.miyoshi-dmo.jp/"
+     }
+    ],
+    "address": "8-1 Tokaichi-naka 2-chome, Miyoshi City, Hiroshima 728-8501, Japan",
+    "phone": "0824-62-6111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Onomichi",
+   "slug": "onomichi",
+   "prefecture": "hiroshima",
+   "url": "https://bokenjapan.com/hiroshima/onomichi/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.onomichi.hiroshima.jp/"
+     }
+    ],
+    "address": "1-15-1 Kubo, Onomichi City, Hiroshima 722-8501, Japan",
+    "phone": "0848-38-9111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Osakikamijima",
+   "slug": "osakikamijima",
+   "prefecture": "hiroshima",
+   "url": "https://bokenjapan.com/hiroshima/osakikamijima/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.osakikamijima.hiroshima.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://osakikamijima-navi.jp/"
+     }
+    ],
+    "address": "6625-1 Higashino, Osakikamijima Town, Toyota District, Hiroshima 725-0231, Japan",
+    "phone": "0846-65-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Otake",
+   "slug": "otake",
+   "prefecture": "hiroshima",
+   "url": "https://bokenjapan.com/hiroshima/otake/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.otake.hiroshima.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.city.otake.hiroshima.jp/soshiki/somu/sangyoshinko/gyomu/kanko/index.html"
+     }
+    ],
+    "address": "11-1 Ogata 1-chome, Otake City, Hiroshima 739-0692, Japan",
+    "phone": "0827-59-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Saka",
+   "slug": "saka",
+   "prefecture": "hiroshima",
+   "url": "https://bokenjapan.com/hiroshima/saka/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.saka.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.town.saka.lg.jp/charm/"
+     }
+    ],
+    "address": "1-1-1 Heiseigahama, Saka Town, Aki District, Hiroshima 731-4393, Japan",
+    "phone": "082-820-1500"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sera",
+   "slug": "sera",
+   "prefecture": "hiroshima",
+   "url": "https://bokenjapan.com/hiroshima/sera/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.sera.hiroshima.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://seranan.jp/"
+     }
+    ],
+    "address": "123-1 Nishiuehara, Sera Town, Sera District, Hiroshima 722-1192, Japan",
+    "phone": "0847-22-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shobara",
+   "slug": "shobara",
+   "prefecture": "hiroshima",
+   "url": "https://bokenjapan.com/hiroshima/shobara/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.shobara.hiroshima.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.shobara-info.com/"
+     }
+    ],
+    "address": "10-1 Nakahonmachi 1-chome, Shobara City, Hiroshima 727-8501, Japan",
+    "phone": "0824-73-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Takehara",
+   "slug": "takehara",
+   "prefecture": "hiroshima",
+   "url": "https://bokenjapan.com/hiroshima/takehara/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.takehara.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.takeharakankou.jp/"
+     }
+    ],
+    "address": "5-6-28 Chuo, Takehara City, Hiroshima 725-8666, Japan",
+    "phone": "0846-22-7719"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

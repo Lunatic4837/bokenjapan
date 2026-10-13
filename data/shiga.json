@@ -1,0 +1,330 @@
+{
+ "prefecture": "Shiga",
+ "slug": "shiga",
+ "url": "https://bokenjapan.com/shiga/",
+ "towns": [
+  {
+   "name": "Aisho",
+   "slug": "aisho",
+   "prefecture": "shiga",
+   "url": "https://bokenjapan.com/shiga/aisho/",
+   "official": {
+    "links": [
+     {
+      "label": "Aisho Town Hall",
+      "url": "https://www.town.aisho.shiga.jp/"
+     }
+    ],
+    "address": "Aisho, Shiga 529-1380",
+    "phone": "0749-42-4111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Higashiomi",
+   "slug": "higashiomi",
+   "prefecture": "shiga",
+   "url": "https://bokenjapan.com/shiga/higashiomi/",
+   "official": {
+    "links": [
+     {
+      "label": "Higashiomi City Hall",
+      "url": "https://www.city.higashiomi.shiga.jp/"
+     }
+    ],
+    "address": "Higashiomi, Shiga 527-8527",
+    "phone": "0748-24-1234"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hikone",
+   "slug": "hikone",
+   "prefecture": "shiga",
+   "url": "https://bokenjapan.com/shiga/hikone/",
+   "official": {
+    "links": [
+     {
+      "label": "Hikone City Hall",
+      "url": "https://www.city.hikone.lg.jp/"
+     }
+    ],
+    "address": "Hikone, Shiga 522-8501",
+    "phone": "0749-22-1411"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hinocho",
+   "slug": "hinocho",
+   "prefecture": "shiga",
+   "url": "https://bokenjapan.com/shiga/hinocho/",
+   "official": {
+    "links": [
+     {
+      "label": "Hinocho Town Hall",
+      "url": "https://www.town.shiga-hino.lg.jp/"
+     }
+    ],
+    "address": "Hinocho, Shiga 529-1698",
+    "phone": "0748-52-1211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Koka",
+   "slug": "koka",
+   "prefecture": "shiga",
+   "url": "https://bokenjapan.com/shiga/koka/",
+   "official": {
+    "links": [
+     {
+      "label": "Koka City Hall",
+      "url": "https://www.city.koka.lg.jp/"
+     }
+    ],
+    "address": "Koka, Shiga 528-8502",
+    "phone": "0748-65-0650"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Konanshi",
+   "slug": "konanshi",
+   "prefecture": "shiga",
+   "url": "https://bokenjapan.com/shiga/konanshi/",
+   "official": {
+    "links": [
+     {
+      "label": "Konanshi City Hall",
+      "url": "https://www.city.shiga-konan.lg.jp/"
+     }
+    ],
+    "address": "Konanshi, Shiga 520-3288",
+    "phone": "0748-72-1290"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kora",
+   "slug": "kora",
+   "prefecture": "shiga",
+   "url": "https://bokenjapan.com/shiga/kora/",
+   "official": {
+    "links": [
+     {
+      "label": "Kora Town Hall",
+      "url": "https://www.kouratown.jp/"
+     }
+    ],
+    "address": "Kora, Shiga 522-0244",
+    "phone": "0749-38-3311"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kusatsu",
+   "slug": "kusatsu",
+   "prefecture": "shiga",
+   "url": "https://bokenjapan.com/shiga/kusatsu/",
+   "official": {
+    "links": [
+     {
+      "label": "Kusatsu City Hall",
+      "url": "https://www.city.kusatsu.shiga.jp/"
+     }
+    ],
+    "address": "Kusatsu, Shiga 525-8588",
+    "phone": "077-563-1234"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Maibara",
+   "slug": "maibara",
+   "prefecture": "shiga",
+   "url": "https://bokenjapan.com/shiga/maibara/",
+   "official": {
+    "links": [
+     {
+      "label": "Maibara City Hall",
+      "url": "https://www.city.maibara.lg.jp/"
+     }
+    ],
+    "address": "Maibara, Shiga 521-8501",
+    "phone": "0749-53-5100"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Moriyama",
+   "slug": "moriyama",
+   "prefecture": "shiga",
+   "url": "https://bokenjapan.com/shiga/moriyama/",
+   "official": {
+    "links": [
+     {
+      "label": "Moriyama City Hall",
+      "url": "https://www.city.moriyama.lg.jp/"
+     }
+    ],
+    "address": "Moriyama, Shiga 524-8585",
+    "phone": "077-583-2525"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nagahama",
+   "slug": "nagahama",
+   "prefecture": "shiga",
+   "url": "https://bokenjapan.com/shiga/nagahama/",
+   "official": {
+    "links": [
+     {
+      "label": "Nagahama City Hall",
+      "url": "https://www.city.nagahama.lg.jp/"
+     }
+    ],
+    "address": "Nagahama, Shiga 526-8501",
+    "phone": "0749-62-4111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Omihachiman",
+   "slug": "omihachiman",
+   "prefecture": "shiga",
+   "url": "https://bokenjapan.com/shiga/omihachiman/",
+   "official": {
+    "links": [
+     {
+      "label": "Omihachiman City Hall",
+      "url": "https://www.city.omihachiman.lg.jp/"
+     }
+    ],
+    "address": "Omihachiman, Shiga 523-8501",
+    "phone": "0748-33-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Otsu",
+   "slug": "otsu",
+   "prefecture": "shiga",
+   "url": "https://bokenjapan.com/shiga/otsu/",
+   "official": {
+    "links": [
+     {
+      "label": "Otsu City Hall",
+      "url": "https://www.city.otsu.lg.jp/"
+     }
+    ],
+    "address": "Otsu, Shiga 520-8575",
+    "phone": "077-523-1234"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ritto",
+   "slug": "ritto",
+   "prefecture": "shiga",
+   "url": "https://bokenjapan.com/shiga/ritto/",
+   "official": {
+    "links": [
+     {
+      "label": "Ritto City Hall",
+      "url": "https://www.city.ritto.lg.jp/"
+     }
+    ],
+    "address": "Ritto, Shiga 520-3088",
+    "phone": "077-553-1234"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ryuo",
+   "slug": "ryuo",
+   "prefecture": "shiga",
+   "url": "https://bokenjapan.com/shiga/ryuo/",
+   "official": {
+    "links": [
+     {
+      "label": "Ryuo Town Hall",
+      "url": "https://www.town.ryuoh.shiga.jp/"
+     }
+    ],
+    "address": "Ryuo, Shiga 520-2592",
+    "phone": "0748-58-3700"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Taga",
+   "slug": "taga",
+   "prefecture": "shiga",
+   "url": "https://bokenjapan.com/shiga/taga/",
+   "official": {
+    "links": [
+     {
+      "label": "Taga Town Hall",
+      "url": "https://www.town.taga.lg.jp/"
+     }
+    ],
+    "address": "Taga, Shiga 522-0341",
+    "phone": "0749-48-8111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Takashima",
+   "slug": "takashima",
+   "prefecture": "shiga",
+   "url": "https://bokenjapan.com/shiga/takashima/",
+   "official": {
+    "links": [
+     {
+      "label": "Takashima City Hall",
+      "url": "https://www.city.takashima.lg.jp/"
+     }
+    ],
+    "address": "Takashima, Shiga 520-1592",
+    "phone": "0740-25-8000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Toyosato",
+   "slug": "toyosato",
+   "prefecture": "shiga",
+   "url": "https://bokenjapan.com/shiga/toyosato/",
+   "official": {
+    "links": [
+     {
+      "label": "Toyosato Town Hall",
+      "url": "https://www.town.toyosato.shiga.jp/"
+     }
+    ],
+    "address": "Toyosato, Shiga 529-1169",
+    "phone": "0749-35-8111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yasu",
+   "slug": "yasu",
+   "prefecture": "shiga",
+   "url": "https://bokenjapan.com/shiga/yasu/",
+   "official": {
+    "links": [
+     {
+      "label": "Yasu City Hall",
+      "url": "https://www.city.yasu.lg.jp/"
+     }
+    ],
+    "address": "Yasu, Shiga 520-2395",
+    "phone": "077-587-1121"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

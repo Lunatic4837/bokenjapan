@@ -1,0 +1,772 @@
+{
+ "prefecture": "Kumamoto",
+ "slug": "kumamoto",
+ "url": "https://bokenjapan.com/kumamoto/",
+ "towns": [
+  {
+   "name": "Amakusa",
+   "slug": "amakusa",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/amakusa/",
+   "official": {
+    "links": [
+     {
+      "label": "Amakusa City Hall",
+      "url": "http://www.city.amakusa.kumamoto.jp/"
+     }
+    ],
+    "address": "Amakusa, Kumamoto 863-8631",
+    "phone": "0969-23-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Arao",
+   "slug": "arao",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/arao/",
+   "official": {
+    "links": [
+     {
+      "label": "Arao City Hall",
+      "url": "http://www.city.arao.lg.jp/"
+     }
+    ],
+    "address": "Arao, Kumamoto 864-8686",
+    "phone": "0968-63-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Asagiri",
+   "slug": "asagiri",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/asagiri/",
+   "official": {
+    "links": [
+     {
+      "label": "Asagiri header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Asagiricho.",
+      "url": "https://www.town.asagiri.lg.jp/"
+     }
+    ],
+    "address": "Asagiri, Kumamoto 868-0408",
+    "phone": "0966-45-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ashikita",
+   "slug": "ashikita",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/ashikita/",
+   "official": {
+    "links": [
+     {
+      "label": "Ashikita header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Ashikitamachi.",
+      "url": "https://www.town.ashikita.lg.jp/"
+     }
+    ],
+    "address": "Ashikita, Kumamoto 869-5498",
+    "phone": "0966-82-2511"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Aso",
+   "slug": "aso",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/aso/",
+   "official": {
+    "links": [
+     {
+      "label": "Aso City Hall",
+      "url": "http://www.city.aso.kumamoto.jp/"
+     }
+    ],
+    "address": "Aso, Kumamoto 869-2695",
+    "phone": "0967-22-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Gyokuto",
+   "slug": "gyokuto",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/gyokuto/",
+   "official": {
+    "links": [
+     {
+      "label": "Gyokuto header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Gyokutomachi.",
+      "url": "http://www.town.gyokuto.kumamoto.jp/"
+     }
+    ],
+    "address": "Gyokuto, Kumamoto 869-0303",
+    "phone": "0968-85-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hikawa",
+   "slug": "hikawa",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/hikawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Hikawa header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Hikawacho.",
+      "url": "https://www.town.hikawa.kumamoto.jp/"
+     }
+    ],
+    "address": "Hikawa, Kumamoto 869-4814",
+    "phone": "0965-52-7111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hitoyoshi",
+   "slug": "hitoyoshi",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/hitoyoshi/",
+   "official": {
+    "links": [
+     {
+      "label": "Hitoyoshi City Hall",
+      "url": "http://www.city.hitoyoshi.lg.jp/"
+     }
+    ],
+    "address": "Hitoyoshi, Kumamoto 868-8601",
+    "phone": "0966-22-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Itsuki",
+   "slug": "itsuki",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/itsuki/",
+   "official": {
+    "links": [
+     {
+      "label": "Itsuki header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Itsukimura.",
+      "url": "http://www.vill.itsuki.lg.jp/"
+     }
+    ],
+    "address": "Itsuki, Kumamoto 868-0201",
+    "phone": "0966-37-2211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kamiamakusa",
+   "slug": "kamiamakusa",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/kamiamakusa/",
+   "official": {
+    "links": [
+     {
+      "label": "Kamiamakusa City Hall",
+      "url": "http://www.city.kamiamakusa.kumamoto.jp/"
+     }
+    ],
+    "address": "Kamiamakusa, Kumamoto 869-3692",
+    "phone": "0964-56-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kashimamachi",
+   "slug": "kashimamachi",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/kashimamachi/",
+   "official": {
+    "links": [
+     {
+      "label": "Kashimamachi header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Kashimamachi.",
+      "url": "http://www.town.kashima.kumamoto.jp/"
+     }
+    ],
+    "address": "Kashimamachi, Kumamoto 861-3192",
+    "phone": "096-237-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kikuchi",
+   "slug": "kikuchi",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/kikuchi/",
+   "official": {
+    "links": [
+     {
+      "label": "Kikuchi City Hall",
+      "url": "http://www.city.kikuchi.lg.jp/"
+     }
+    ],
+    "address": "Kikuchi, Kumamoto 861-1392",
+    "phone": "0968-25-7111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kikuyo",
+   "slug": "kikuyo",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/kikuyo/",
+   "official": {
+    "links": [
+     {
+      "label": "Kikuyo header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Kikuyomachi.",
+      "url": "http://www.town.kikuyo.lg.jp/"
+     }
+    ],
+    "address": "Kikuyo, Kumamoto 869-1192",
+    "phone": "096-232-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kosa",
+   "slug": "kosa",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/kosa/",
+   "official": {
+    "links": [
+     {
+      "label": "Kosa header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Kosamachi.",
+      "url": "https://www.town.kosa.lg.jp/"
+     }
+    ],
+    "address": "Kosa, Kumamoto 861-4696",
+    "phone": "096-234-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Koshi",
+   "slug": "koshi",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/koshi/",
+   "official": {
+    "links": [
+     {
+      "label": "Koshi City Hall",
+      "url": "http://www.city.koshi.lg.jp/"
+     }
+    ],
+    "address": "Koshi, Kumamoto 861-1195",
+    "phone": "096-248-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kuma",
+   "slug": "kuma",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/kuma/",
+   "official": {
+    "links": [
+     {
+      "label": "Kuma header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Kumamura.",
+      "url": "http://www.kumamura.com/"
+     }
+    ],
+    "address": "Kuma, Kumamoto 869-6401",
+    "phone": "0966-32-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kumamoto",
+   "slug": "kumamoto",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/kumamoto/",
+   "official": {
+    "links": [
+     {
+      "label": "Kumamoto City Hall",
+      "url": "http://www.city.kumamoto.jp/"
+     }
+    ],
+    "address": "Kumamoto 860-8601",
+    "phone": "096-328-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mashiki",
+   "slug": "mashiki",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/mashiki/",
+   "official": {
+    "links": [
+     {
+      "label": "Mashiki header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Mashikimachi.",
+      "url": "http://www.town.mashiki.lg.jp/"
+     }
+    ],
+    "address": "Mashiki, Kumamoto 861-2295",
+    "phone": "096-286-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mifune",
+   "slug": "mifune",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/mifune/",
+   "official": {
+    "links": [
+     {
+      "label": "Mifune header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Mifunemachi.",
+      "url": "http://www.town.mifune.kumamoto.jp/default.aspx"
+     }
+    ],
+    "address": "Mifune, Kumamoto 861-3296",
+    "phone": "096-282-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minamata",
+   "slug": "minamata",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/minamata/",
+   "official": {
+    "links": [
+     {
+      "label": "Minamata City Hall",
+      "url": "http://www.city.minamata.lg.jp/"
+     }
+    ],
+    "address": "Minamata, Kumamoto 867-8555",
+    "phone": "0966-63-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minamiaso",
+   "slug": "minamiaso",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/minamiaso/",
+   "official": {
+    "links": [
+     {
+      "label": "Minamiaso header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Minamiasomura.",
+      "url": "http://www.vill.minamiaso.lg.jp/"
+     }
+    ],
+    "address": "Minamiaso, Kumamoto 869-1404",
+    "phone": "0967-67-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minamioguni",
+   "slug": "minamioguni",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/minamioguni/",
+   "official": {
+    "links": [
+     {
+      "label": "Minamioguni header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Minamiogunimachi.",
+      "url": "https://www.town.minamioguni.lg.jp/top.html"
+     }
+    ],
+    "address": "Minamioguni, Kumamoto 869-2492",
+    "phone": "0967-42-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Misatomachi",
+   "slug": "misatomachi",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/misatomachi/",
+   "official": {
+    "links": [
+     {
+      "label": "Misatomachi header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Misatomachi.",
+      "url": "http://www.town.kumamoto-misato.lg.jp/"
+     }
+    ],
+    "address": "Misatomachi, Kumamoto 861-4492",
+    "phone": "0964-46-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mizukami",
+   "slug": "mizukami",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/mizukami/",
+   "official": {
+    "links": [
+     {
+      "label": "Mizukami header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Mizukamimura.",
+      "url": "http://www.vill.mizukami.lg.jp/"
+     }
+    ],
+    "address": "Mizukami, Kumamoto 868-0795",
+    "phone": "0966-44-0311"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nagasu",
+   "slug": "nagasu",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/nagasu/",
+   "official": {
+    "links": [
+     {
+      "label": "Nagasu header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Nagasumachi.",
+      "url": "http://www.town.nagasu.lg.jp/"
+     }
+    ],
+    "address": "Nagasu, Kumamoto 869-0198",
+    "phone": "0968-78-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nagomi",
+   "slug": "nagomi",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/nagomi/",
+   "official": {
+    "links": [
+     {
+      "label": "Nagomi header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Nagomimachi.",
+      "url": "http://www.town.nagomi.lg.jp/"
+     }
+    ],
+    "address": "Nagomi, Kumamoto 865-0192",
+    "phone": "0968-86-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nankan",
+   "slug": "nankan",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/nankan/",
+   "official": {
+    "links": [
+     {
+      "label": "Nankan header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Nankanmachi.",
+      "url": "http://www.town.nankan.lg.jp/"
+     }
+    ],
+    "address": "Nankan, Kumamoto 861-0898",
+    "phone": "0968-53-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nishihara",
+   "slug": "nishihara",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/nishihara/",
+   "official": {
+    "links": [
+     {
+      "label": "Nishihara header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Nishiharamura.",
+      "url": "http://www.vill.nishihara.kumamoto.jp/"
+     }
+    ],
+    "address": "Nishihara, Kumamoto 861-2492",
+    "phone": "096-279-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nishiki",
+   "slug": "nishiki",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/nishiki/",
+   "official": {
+    "links": [
+     {
+      "label": "Nishiki header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Nishikimachi.",
+      "url": "https://www.town.kumamoto-nishiki.lg.jp/"
+     }
+    ],
+    "address": "Nishiki, Kumamoto 868-0392",
+    "phone": "0966-38-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Oguni",
+   "slug": "oguni",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/oguni/",
+   "official": {
+    "links": [
+     {
+      "label": "Oguni header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Ogunimachi.",
+      "url": "http://www.town.kumamoto-oguni.lg.jp/"
+     }
+    ],
+    "address": "Oguni, Kumamoto 869-2592",
+    "phone": "0967-46-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ozumachi",
+   "slug": "ozumachi",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/ozumachi/",
+   "official": {
+    "links": [
+     {
+      "label": "Ozumachi header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Ozumachi.",
+      "url": "http://www.town.ozu.kumamoto.jp/"
+     }
+    ],
+    "address": "Ozumachi, Kumamoto 869-1292",
+    "phone": "096-293-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Reihoku",
+   "slug": "reihoku",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/reihoku/",
+   "official": {
+    "links": [
+     {
+      "label": "Reihoku header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Reihokumachi.",
+      "url": "https://reihoku-kumamoto.jp/"
+     }
+    ],
+    "address": "Reihoku, Kumamoto 863-2503",
+    "phone": "0969-35-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sagara",
+   "slug": "sagara",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/sagara/",
+   "official": {
+    "links": [
+     {
+      "label": "Sagara header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Sagaramura.",
+      "url": "http://www.vill.sagara.lg.jp/"
+     }
+    ],
+    "address": "Sagara, Kumamoto 868-8501",
+    "phone": "0966-35-0211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Takamori",
+   "slug": "takamori",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/takamori/",
+   "official": {
+    "links": [
+     {
+      "label": "Takamori header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Takamorimachi.",
+      "url": "http://www.town.takamori.kumamoto.jp/"
+     }
+    ],
+    "address": "Takamori, Kumamoto 869-1602",
+    "phone": "0967-62-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tamana",
+   "slug": "tamana",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/tamana/",
+   "official": {
+    "links": [
+     {
+      "label": "Tamana City Hall",
+      "url": "http://www.city.tamana.lg.jp/"
+     }
+    ],
+    "address": "Tamana, Kumamoto 865-8501",
+    "phone": "0968-75-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Taragi",
+   "slug": "taragi",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/taragi/",
+   "official": {
+    "links": [
+     {
+      "label": "Taragi header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Taragimachi.",
+      "url": "http://www.town.taragi.lg.jp/"
+     }
+    ],
+    "address": "Taragi, Kumamoto 868-0595",
+    "phone": "0966-42-6111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tsunagi",
+   "slug": "tsunagi",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/tsunagi/",
+   "official": {
+    "links": [
+     {
+      "label": "Tsunagi header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Tsunagimachi.",
+      "url": "http://www.town.tsunagi.lg.jp/"
+     }
+    ],
+    "address": "Tsunagi, Kumamoto 869-5692",
+    "phone": "0966-78-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ubuyama",
+   "slug": "ubuyama",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/ubuyama/",
+   "official": {
+    "links": [
+     {
+      "label": "Ubuyama header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Ubuyamamura.",
+      "url": "http://www.ubuyama-v.jp/"
+     }
+    ],
+    "address": "Ubuyama, Kumamoto 869-2703",
+    "phone": "0967-25-2211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Uki",
+   "slug": "uki",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/uki/",
+   "official": {
+    "links": [
+     {
+      "label": "Uki City Hall",
+      "url": "http://www.city.uki.kumamoto.jp/"
+     }
+    ],
+    "address": "Uki, Kumamoto 869-0592",
+    "phone": "0964-32-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Uto",
+   "slug": "uto",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/uto/",
+   "official": {
+    "links": [
+     {
+      "label": "Uto City Hall",
+      "url": "https://www.city.uto.lg.jp/"
+     }
+    ],
+    "address": "Uto, Kumamoto 869-0492",
+    "phone": "0964-22-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yamae",
+   "slug": "yamae",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/yamae/",
+   "official": {
+    "links": [
+     {
+      "label": "Yamae header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Yamaemura.",
+      "url": "http://www.vill.yamae.lg.jp/"
+     }
+    ],
+    "address": "Yamae, Kumamoto 868-8502",
+    "phone": "0966-23-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yamaga",
+   "slug": "yamaga",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/yamaga/",
+   "official": {
+    "links": [
+     {
+      "label": "Yamaga City Hall",
+      "url": "https://www.city.yamaga.kumamoto.jp/"
+     }
+    ],
+    "address": "Yamaga, Kumamoto 861-0592",
+    "phone": "0968-43-1117"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yamato",
+   "slug": "yamato",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/yamato/",
+   "official": {
+    "links": [
+     {
+      "label": "Yamato header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Yamatocho.",
+      "url": "http://www.town.kumamoto-yamato.lg.jp/"
+     }
+    ],
+    "address": "Yamato, Kumamoto 861-3592",
+    "phone": "0967-72-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yatsushiro",
+   "slug": "yatsushiro",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/yatsushiro/",
+   "official": {
+    "links": [
+     {
+      "label": "Yatsushiro City Hall",
+      "url": "http://www.city.yatsushiro.lg.jp/"
+     }
+    ],
+    "address": "Yatsushiro, Kumamoto 866-8601",
+    "phone": "0965-33-4111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yunomae",
+   "slug": "yunomae",
+   "prefecture": "kumamoto",
+   "url": "https://bokenjapan.com/kumamoto/yunomae/",
+   "official": {
+    "links": [
+     {
+      "label": "Yunomae header on Kumamotoken City Town Village Yoran (Reiwa 7 Nendo Han). Katakana on the header: Yu no Maemachi.",
+      "url": "https://www.town.yunomae.lg.jp/"
+     }
+    ],
+    "address": "Yunomae, Kumamoto 868-0621",
+    "phone": "0966-43-4111"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

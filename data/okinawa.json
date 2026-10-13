@@ -1,0 +1,704 @@
+{
+ "prefecture": "Okinawa",
+ "slug": "okinawa",
+ "url": "https://bokenjapan.com/okinawa/",
+ "towns": [
+  {
+   "name": "Aguni",
+   "slug": "aguni",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/aguni/",
+   "official": {
+    "links": [
+     {
+      "label": "Aguni Village Hall",
+      "url": "http://www.vill.aguni.okinawa.jp/"
+     }
+    ],
+    "address": "Aguni, Okinawa 901-3792",
+    "phone": "098-988-2016"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Chatan",
+   "slug": "chatan",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/chatan/",
+   "official": {
+    "links": [
+     {
+      "label": "Chatan Town Hall",
+      "url": "http://www.chatan.jp"
+     }
+    ],
+    "address": "Chatan, Okinawa 904-0192",
+    "phone": "098-936-1234"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ginowan",
+   "slug": "ginowan",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/ginowan/",
+   "official": {
+    "links": [
+     {
+      "label": "Ginowan City Hall",
+      "url": "https://www.city.ginowan.lg.jp"
+     }
+    ],
+    "address": "Ginowan, Okinawa 901-2710",
+    "phone": "098-893-4411"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ginoza",
+   "slug": "ginoza",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/ginoza/",
+   "official": {
+    "links": [
+     {
+      "label": "Ginoza Village Hall",
+      "url": "http://www.vill.ginoza.okinawa.jp"
+     }
+    ],
+    "address": "Ginoza, Okinawa 904-1392",
+    "phone": "098-968-5111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Haebaru",
+   "slug": "haebaru",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/haebaru/",
+   "official": {
+    "links": [
+     {
+      "label": "Haebaru Town Hall",
+      "url": "https://www.town.haebaru.lg.jp"
+     }
+    ],
+    "address": "Haebaru, Okinawa 901-1195",
+    "phone": "098-889-4415"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Higashi",
+   "slug": "higashi",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/higashi/",
+   "official": {
+    "links": [
+     {
+      "label": "Higashi Village Hall",
+      "url": "http://www.vill.higashi.okinawa.jp"
+     }
+    ],
+    "address": "Higashi, Okinawa 905-1292",
+    "phone": "0980-43-2201"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ishigaki",
+   "slug": "ishigaki",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/ishigaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Ishigaki City Hall",
+      "url": "http://www.city.ishigaki.okinawa.jp/"
+     }
+    ],
+    "address": "Ishigaki, Okinawa 907-8501",
+    "phone": "0980-82-9911"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Itoman",
+   "slug": "itoman",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/itoman/",
+   "official": {
+    "links": [
+     {
+      "label": "Itoman City Hall",
+      "url": "http://www.city.itoman.lg.jp/"
+     }
+    ],
+    "address": "Itoman, Okinawa 901-0392",
+    "phone": "098-840-8111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Izena",
+   "slug": "izena",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/izena/",
+   "official": {
+    "links": [
+     {
+      "label": "Izena Village Hall",
+      "url": "https://vill.izena.okinawa.jp"
+     }
+    ],
+    "address": "Izena, Okinawa 905-0695",
+    "phone": "0980-45-2001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Iejima",
+   "slug": "jis47315",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/jis47315/",
+   "official": {
+    "links": [
+     {
+      "label": "Iejima Village Hall",
+      "url": "http://www.iejima.org/ieson/"
+     }
+    ],
+    "address": "Iejima, Okinawa 905-0592",
+    "phone": "0980-49-2001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tokashiki",
+   "slug": "jis47353",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/jis47353/",
+   "official": {
+    "links": [
+     {
+      "label": "Tokashiki Village Hall",
+      "url": "http://www.vill.tokashiki.okinawa.jp"
+     }
+    ],
+    "address": "Tokashiki, Okinawa 901-3592",
+    "phone": "098-987-2321"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Zamami",
+   "slug": "jis47354",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/jis47354/",
+   "official": {
+    "links": [
+     {
+      "label": "Zamami Village Hall",
+      "url": "http://www.vill.zamami.okinawa.jp"
+     }
+    ],
+    "address": "Zamami, Okinawa 901-3496",
+    "phone": "098-987-2311"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minamidaito",
+   "slug": "jis47357",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/jis47357/",
+   "official": {
+    "links": [
+     {
+      "label": "Minamidaito Village Hall",
+      "url": "http://www.vill.minamidaito.okinawa.jp/"
+     }
+    ],
+    "address": "Minamidaito, Okinawa 901-3895",
+    "phone": "09802-2-2001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Iheya",
+   "slug": "jis47359",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/jis47359/",
+   "official": {
+    "links": [
+     {
+      "label": "Iheya Village Hall",
+      "url": "http://www.vill.iheya.okinawa.jp"
+     }
+    ],
+    "address": "Iheya, Okinawa 905-0793",
+    "phone": "0980-46-2001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Taketomi",
+   "slug": "jis47381",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/jis47381/",
+   "official": {
+    "links": [
+     {
+      "label": "Taketomi Town Hall",
+      "url": "https://www.town.taketomi.lg.jp/"
+     }
+    ],
+    "address": "Taketomi, Okinawa 907-8503",
+    "phone": "0980-82-6191"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kadena",
+   "slug": "kadena",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/kadena/",
+   "official": {
+    "links": [
+     {
+      "label": "Kadena Town Hall",
+      "url": "http://www.town.kadena.okinawa.jp"
+     }
+    ],
+    "address": "Kadena, Okinawa 904-0293",
+    "phone": "098-956-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kin",
+   "slug": "kin",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/kin/",
+   "official": {
+    "links": [
+     {
+      "label": "Kin Town Hall",
+      "url": "https://www.town.kin.okinawa.jp"
+     }
+    ],
+    "address": "Kin, Okinawa 904-1292",
+    "phone": "098-968-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kitadaito",
+   "slug": "kitadaito",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/kitadaito/",
+   "official": {
+    "links": [
+     {
+      "label": "Kitadaito Village Hall",
+      "url": "https://vill.kitadaito.okinawa.jp/"
+     }
+    ],
+    "address": "Kitadaito, Okinawa 901-3992",
+    "phone": "09802-3-4001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kitanakagusuku",
+   "slug": "kitanakagusuku",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/kitanakagusuku/",
+   "official": {
+    "links": [
+     {
+      "label": "Kitanakagusuku Village Hall",
+      "url": "http://www.vill.kitanakagusuku.lg.jp"
+     }
+    ],
+    "address": "Kitanakagusuku, Okinawa 901-2392",
+    "phone": "098-935-2233"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kumejima",
+   "slug": "kumejima",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/kumejima/",
+   "official": {
+    "links": [
+     {
+      "label": "Kumejima Town Hall",
+      "url": "http://www.town.kumejima.okinawa.jp/"
+     }
+    ],
+    "address": "Kumejima, Okinawa 901-3193",
+    "phone": "098-985-7121"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kunigami",
+   "slug": "kunigami",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/kunigami/",
+   "official": {
+    "links": [
+     {
+      "label": "Kunigami Village Hall",
+      "url": "http://www.vill.kunigami.okinawa.jp"
+     }
+    ],
+    "address": "Kunigami, Okinawa 905-1495",
+    "phone": "0980-41-2101"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Miyakojima",
+   "slug": "miyakojima",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/miyakojima/",
+   "official": {
+    "links": [
+     {
+      "label": "Miyakojima City Hall",
+      "url": "https://www.city.miyakojima.lg.jp/"
+     }
+    ],
+    "address": "Miyakojima, Okinawa 906-8501",
+    "phone": "0980-72-3751"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Motobu",
+   "slug": "motobu",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/motobu/",
+   "official": {
+    "links": [
+     {
+      "label": "Motobu Town Hall",
+      "url": "http://www.town.motobu.okinawa.jp/"
+     }
+    ],
+    "address": "Motobu, Okinawa 905-0292",
+    "phone": "0980-47-2101"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nago",
+   "slug": "nago",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/nago/",
+   "official": {
+    "links": [
+     {
+      "label": "Nago City Hall",
+      "url": "http://www.city.nago.okinawa.jp/"
+     }
+    ],
+    "address": "Nago, Okinawa 905-8540",
+    "phone": "0980-53-1212"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Naha",
+   "slug": "naha",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/naha/",
+   "official": {
+    "links": [
+     {
+      "label": "Naha City Hall",
+      "url": "http://www.city.naha.okinawa.jp/"
+     }
+    ],
+    "address": "Naha, Okinawa 900-8585",
+    "phone": "098-867-0111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nakagusuku",
+   "slug": "nakagusuku",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/nakagusuku/",
+   "official": {
+    "links": [
+     {
+      "label": "Nakagusuku Village Hall",
+      "url": "https://www.vill.nakagusuku.okinawa.jp"
+     }
+    ],
+    "address": "Nakagusuku, Okinawa 901-2493",
+    "phone": "098-895-2131"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nakijin",
+   "slug": "nakijin",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/nakijin/",
+   "official": {
+    "links": [
+     {
+      "label": "Nakijin Village Hall",
+      "url": "http://www.nakijin.jp"
+     }
+    ],
+    "address": "Nakijin, Okinawa 905-0492",
+    "phone": "0980-56-2101"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nanjo",
+   "slug": "nanjo",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/nanjo/",
+   "official": {
+    "links": [
+     {
+      "label": "Nanjo City Hall",
+      "url": "http://www.city.nanjo.okinawa.jp/"
+     }
+    ],
+    "address": "Nanjo, Okinawa 901-1495",
+    "phone": "098-917-5309"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nishiharacho",
+   "slug": "nishiharacho",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/nishiharacho/",
+   "official": {
+    "links": [
+     {
+      "label": "Nishiharacho Town Hall",
+      "url": "https://www.town.nishihara.okinawa.jp"
+     }
+    ],
+    "address": "Nishiharacho, Okinawa 903-0220",
+    "phone": "098-945-5011"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ogimi",
+   "slug": "ogimi",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/ogimi/",
+   "official": {
+    "links": [
+     {
+      "label": "Ogimi Village Hall",
+      "url": "https://www.vill.ogimi.okinawa.jp"
+     }
+    ],
+    "address": "Ogimi, Okinawa 905-1392",
+    "phone": "0980-44-3001"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Okinawa",
+   "slug": "okinawa",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/okinawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Okinawa City Hall",
+      "url": "https://www.city.okinawa.okinawa.jp/index.html"
+     }
+    ],
+    "address": "Okinawa 904-8501",
+    "phone": "098-939-1212"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Onna",
+   "slug": "onna",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/onna/",
+   "official": {
+    "links": [
+     {
+      "label": "Onna Village Hall",
+      "url": "http://www.vill.onna.okinawa.jp/"
+     }
+    ],
+    "address": "Onna, Okinawa 904-0492",
+    "phone": "098-966-1200"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tarama",
+   "slug": "tarama",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/tarama/",
+   "official": {
+    "links": [
+     {
+      "label": "Tarama Village Hall",
+      "url": "http://www.vill.tarama.okinawa.jp/"
+     }
+    ],
+    "address": "Tarama, Okinawa 906-0692",
+    "phone": "0980-79-2011"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tomigusuku",
+   "slug": "tomigusuku",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/tomigusuku/",
+   "official": {
+    "links": [
+     {
+      "label": "Tomigusuku City Hall",
+      "url": "https://www.city.tomigusuku.lg.jp/"
+     }
+    ],
+    "address": "Tomigusuku, Okinawa 901-0292",
+    "phone": "098-850-0024"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tonaki",
+   "slug": "tonaki",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/tonaki/",
+   "official": {
+    "links": [
+     {
+      "label": "Tonaki Village Hall",
+      "url": "http://www.vill.tonaki.okinawa.jp/"
+     }
+    ],
+    "address": "Tonaki, Okinawa 901-3692",
+    "phone": "098-989-2002"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Urasoe",
+   "slug": "urasoe",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/urasoe/",
+   "official": {
+    "links": [
+     {
+      "label": "Urasoe City Hall",
+      "url": "http://www.city.urasoe.lg.jp/"
+     }
+    ],
+    "address": "Urasoe, Okinawa 901-2501",
+    "phone": "098-876-1234"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Uruma",
+   "slug": "uruma",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/uruma/",
+   "official": {
+    "links": [
+     {
+      "label": "Uruma City Hall",
+      "url": "http://www.city.uruma.lg.jp/"
+     }
+    ],
+    "address": "Uruma, Okinawa 904-2292",
+    "phone": "098-974-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yaese",
+   "slug": "yaese",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/yaese/",
+   "official": {
+    "links": [
+     {
+      "label": "Yaese Town Hall",
+      "url": "https://www.town.yaese.lg.jp"
+     }
+    ],
+    "address": "Yaese, Okinawa 901-0492",
+    "phone": "098-998-2200"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yomitan",
+   "slug": "yomitan",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/yomitan/",
+   "official": {
+    "links": [
+     {
+      "label": "Yomitan Village Hall",
+      "url": "https://www.vill.yomitan.okinawa.jp"
+     }
+    ],
+    "address": "Yomitan, Okinawa 904-0392",
+    "phone": "098-982-9200"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yonabaru",
+   "slug": "yonabaru",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/yonabaru/",
+   "official": {
+    "links": [
+     {
+      "label": "Yonabaru Town Hall",
+      "url": "http://www.town.yonabaru.okinawa.jp/"
+     }
+    ],
+    "address": "Yonabaru, Okinawa 901-1392",
+    "phone": "098-945-2201"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yonaguni",
+   "slug": "yonaguni",
+   "prefecture": "okinawa",
+   "url": "https://bokenjapan.com/okinawa/yonaguni/",
+   "official": {
+    "links": [
+     {
+      "label": "Yonaguni Town Hall",
+      "url": "http://www.town.yonaguni.okinawa.jp"
+     }
+    ],
+    "address": "Yonaguni, Okinawa 907-1801",
+    "phone": "0980-87-2241"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

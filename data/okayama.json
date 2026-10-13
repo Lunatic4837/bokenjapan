@@ -1,0 +1,526 @@
+{
+ "prefecture": "Okayama",
+ "slug": "okayama",
+ "url": "https://bokenjapan.com/okayama/",
+ "towns": [
+  {
+   "name": "Akaiwa",
+   "slug": "akaiwa",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/akaiwa/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.akaiwa.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.okayama-kanko.jp/spot/index_1_2_10___0____.html"
+     }
+    ],
+    "address": "Akaiwa, Okayama"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Asakuchi",
+   "slug": "asakuchi",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/asakuchi/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.asakuchi.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.okayama-kanko.jp/spot/index_1_2_19___0____.html"
+     }
+    ],
+    "address": "Asakuchi, Okayama",
+    "phone": "0865-44-7000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Bizen",
+   "slug": "bizen",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/bizen/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.bizen.okayama.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.okayama-kanko.jp/spot/index_1_2_8___0____.html"
+     }
+    ],
+    "address": "Bizen, Okayama",
+    "phone": "0869-64-3301"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hayashima",
+   "slug": "hayashima",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/hayashima/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.hayashima.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.okayama-kanko.jp/spot/index_1_2_20___0____.html"
+     }
+    ],
+    "address": "Hayashima, Okayama",
+    "phone": "086-482-0611"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ibara",
+   "slug": "ibara",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/ibara/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.ibara.okayama.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.okayama-kanko.jp/spot/index_1_2_15___0____.html"
+     }
+    ],
+    "address": "Ibara, Okayama",
+    "phone": "0866-62-9500"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kagamino",
+   "slug": "kagamino",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/kagamino/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.kagamino.lg.jp/"
+     }
+    ],
+    "address": "Kagamino, Okayama",
+    "phone": "0868-54-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kasaoka",
+   "slug": "kasaoka",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/kasaoka/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.kasaoka.okayama.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.okayama-kanko.jp/spot/index_1_2_14___0____.html"
+     }
+    ],
+    "address": "1-1 Chuocho, Kasaoka City, Okayama 714-8601, Japan",
+    "phone": "0865-69-2121"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kibichuo",
+   "slug": "kibichuo",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/kibichuo/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.kibichuo.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.okayama-kanko.jp/spot/index_1_2_12___0____.html"
+     }
+    ],
+    "address": "Kibichuo, Okayama"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kumenan",
+   "slug": "kumenan",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/kumenan/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.kumenan.lg.jp/"
+     }
+    ],
+    "address": "Kumenan, Okayama",
+    "phone": "086-728-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kurashiki",
+   "slug": "kurashiki",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/kurashiki/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.kurashiki.okayama.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.kurashiki-tabi.jp/"
+     }
+    ],
+    "address": "Kurashiki, Okayama",
+    "phone": "086-426-3030"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Maniwa",
+   "slug": "maniwa",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/maniwa/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.maniwa.lg.jp/"
+     }
+    ],
+    "address": "Maniwa, Okayama",
+    "phone": "0867-42-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mimasaka",
+   "slug": "mimasaka",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/mimasaka/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.mimasaka.lg.jp/"
+     }
+    ],
+    "address": "Mimasaka, Okayama",
+    "phone": "0868-72-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Misaki",
+   "slug": "misaki",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/misaki/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.misaki.okayama.jp/"
+     }
+    ],
+    "address": "Misaki, Okayama",
+    "phone": "0868-66-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nagi",
+   "slug": "nagi",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/nagi/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.nagi.okayama.jp/"
+     }
+    ],
+    "address": "Nagi, Okayama",
+    "phone": "0868-36-4111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Niimi",
+   "slug": "niimi",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/niimi/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.niimi.okayama.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.okayama-kanko.jp/spot/index_1_2_18___0____.html"
+     }
+    ],
+    "address": "Niimi, Okayama",
+    "phone": "0867-72-6111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nishiawakura",
+   "slug": "nishiawakura",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/nishiawakura/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.vill.nishiawakura.okayama.jp/"
+     }
+    ],
+    "address": "Nishiawakura, Okayama",
+    "phone": "0868-79-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Okayama",
+   "slug": "okayama",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/okayama/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.okayama.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.okayama-kanko.jp/"
+     }
+    ],
+    "address": "Okayama",
+    "phone": "086-803-1000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Satosho",
+   "slug": "satosho",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/satosho/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.satosho.okayama.jp/"
+     }
+    ],
+    "address": "Satosho, Okayama",
+    "phone": "0865-64-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Setouchi",
+   "slug": "setouchi",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/setouchi/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.setouchi.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.okayama-kanko.jp/spot/index_1_2_9___0____.html"
+     }
+    ],
+    "address": "Setouchi, Okayama",
+    "phone": "0869-22-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shinjo",
+   "slug": "shinjo",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/shinjo/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "http://www.vill.shinjo.okayama.jp/"
+     }
+    ],
+    "address": "Shinjo, Okayama",
+    "phone": "0867-56-2626"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shoo",
+   "slug": "shoo",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/shoo/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.shoo.lg.jp/"
+     }
+    ],
+    "address": "Shoo, Okayama",
+    "phone": "0868-38-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Soja",
+   "slug": "soja",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/soja/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.soja.okayama.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.okayama-kanko.jp/spot/index_1_2_16___0____.html"
+     }
+    ],
+    "address": "Soja, Okayama",
+    "phone": "0866-92-8200"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Takahashi",
+   "slug": "takahashi",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/takahashi/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.takahashi.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.okayama-kanko.jp/spot/index_1_2_17___0____.html"
+     }
+    ],
+    "address": "Takahashi, Okayama",
+    "phone": "0866-21-0200"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tamano",
+   "slug": "tamano",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/tamano/",
+   "official": {
+    "links": [
+     {
+      "label": "Tamano Tourism Association",
+      "url": "https://tamanokankou.com/"
+     },
+     {
+      "label": "Okayama Tourism WEB",
+      "url": "https://www.okayama-kanko.jp/spot/index_1_2_7___0____.html"
+     }
+    ]
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tsuyama",
+   "slug": "tsuyama",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/tsuyama/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.tsuyama.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.tsuyamakan.jp/"
+     }
+    ],
+    "address": "Tsuyama, Okayama",
+    "phone": "0868-32-2027"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Wake",
+   "slug": "wake",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/wake/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.wake.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.okayama-kanko.jp/spot/index_1_2_11___0____.html"
+     }
+    ],
+    "address": "Wake, Okayama",
+    "phone": "0869-93-1121"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yakage",
+   "slug": "yakage",
+   "prefecture": "okayama",
+   "url": "https://bokenjapan.com/okayama/yakage/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.yakage.okayama.jp/"
+     }
+    ],
+    "address": "Yakage, Okayama",
+    "phone": "0866-82-1010"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

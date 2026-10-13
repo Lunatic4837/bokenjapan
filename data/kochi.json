@@ -1,0 +1,685 @@
+{
+ "prefecture": "Kochi",
+ "slug": "kochi",
+ "url": "https://bokenjapan.com/kochi/",
+ "towns": [
+  {
+   "name": "Aki",
+   "slug": "aki",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/aki/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.aki.kochi.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.akikanko.or.jp/"
+     }
+    ],
+    "address": "82-1 Doi, Aki City, Kochi 784-8501, Japan",
+    "phone": "0887-34-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Geisei",
+   "slug": "geisei",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/geisei/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.vill.geisei.kochi.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.vill.geisei.kochi.jp/"
+     }
+    ],
+    "address": "1262 Wajiki-ko, Geisei Village, Aki District, Kochi 781-5792, Japan",
+    "phone": "0887-33-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hidaka",
+   "slug": "hidaka",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/hidaka/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.vill.hidaka.kochi.jp/"
+     }
+    ],
+    "address": "61-1 Hongo, Hidaka Village, Takaoka District, Kochi 781-2194, Japan",
+    "phone": "0889-24-5111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ino",
+   "slug": "ino",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/ino/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.ino.kochi.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.inofan.jp/"
+     }
+    ],
+    "address": "1700-1 Ino Town, Agawa District, Kochi 781-2192, Japan",
+    "phone": "088-893-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kami",
+   "slug": "kami",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/kami/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.kami.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.city.kami.lg.jp/"
+     }
+    ],
+    "address": "1-2-1 Takaracho, Tosayamada-cho, Kami City, Kochi 782-8501, Japan",
+    "phone": "0887-53-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kitagawa",
+   "slug": "kitagawa",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/kitagawa/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.kitagawamura.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://kitagawakanko.jp/"
+     }
+    ],
+    "address": "1530 Notomo-ko, Kitagawa Village, Aki District, Kochi 781-6441, Japan",
+    "phone": "0887-32-1212"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kochi",
+   "slug": "kochi",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/kochi/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.kochi.kochi.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.city.kochi.kochi.jp/"
+     }
+    ],
+    "address": "1-45 Honmachi 5-chome, Kochi City, Kochi 780-8571, Japan",
+    "phone": "088-822-8111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Konan",
+   "slug": "konan",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/konan/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.kochi-konan.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.city.kochi-konan.lg.jp/"
+     }
+    ],
+    "address": "2706 Nishino, Noichi-cho, Konan City, Kochi 781-5292, Japan",
+    "phone": "0887-56-0511"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kuroshio",
+   "slug": "kuroshio",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/kuroshio/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.kuroshio.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.town.kuroshio.lg.jp/"
+     }
+    ],
+    "address": "5893 Irino, Kuroshio Town, Hata District, Kochi 789-1992, Japan",
+    "phone": "0880-43-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mihara",
+   "slug": "mihara",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/mihara/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.vill.mihara.kochi.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.vill.mihara.kochi.jp/kanko/"
+     }
+    ],
+    "address": "346 Kurusuno, Mihara Village, Hata District, Kochi 787-0892, Japan",
+    "phone": "0880-46-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Motoyama",
+   "slug": "motoyama",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/motoyama/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.motoyama.kochi.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.town.motoyama.kochi.jp/kanko_bunka_sports/index.html"
+     }
+    ],
+    "address": "636 Motoyama, Motoyama Town, Nagaoka District, Kochi 781-3692, Japan",
+    "phone": "0887-76-2223"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Muroto",
+   "slug": "muroto",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/muroto/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.muroto.kochi.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.city.muroto.kochi.jp/"
+     }
+    ],
+    "address": "25-1 Ukitsu, Muroto City, Kochi 781-7185, Japan",
+    "phone": "0887-22-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nahari",
+   "slug": "nahari",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/nahari/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.nahari.kochi.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.town.nahari.kochi.jp/"
+     }
+    ],
+    "address": "1659-1 Otsu, Nahari Town, Aki District, Kochi 781-6402, Japan",
+    "phone": "0887-38-4011"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nakatosa",
+   "slug": "nakatosa",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/nakatosa/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.nakatosa.lg.jp/"
+     }
+    ],
+    "address": "6663-1 Kure, Nakatosa Town, Takaoka District, Kochi 789-1301, Japan",
+    "phone": "0889-52-2211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nankoku",
+   "slug": "nankoku",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/nankoku/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.nankoku.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.city.nankoku.lg.jp/"
+     }
+    ],
+    "address": "2301 Osoe Ko, Nankoku City, Kochi 783-8501, Japan",
+    "phone": "088-863-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Niyodogawa",
+   "slug": "niyodogawa",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/niyodogawa/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.niyodogawa.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.town.niyodogawa.lg.jp/"
+     }
+    ],
+    "address": "200 Osaki, Niyodogawa Town, Agawa District, Kochi 781-1592, Japan",
+    "phone": "0889-35-0111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ochi",
+   "slug": "ochi",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/ochi/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.ochi.kochi.jp/"
+     }
+    ],
+    "address": "1970 Ochi-ko, Ochi Town, Takaoka District, Kochi 781-1301, Japan",
+    "phone": "0889-26-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Okawa",
+   "slug": "okawa",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/okawa/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.vill.okawa.kochi.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.vill.okawa.kochi.jp/life/dtl.php?hdnKey=1216"
+     }
+    ],
+    "address": "27-1 Komatsu, Okawa Village, Tosa District, Kochi 781-3703, Japan",
+    "phone": "0887-84-2211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Otoyo",
+   "slug": "otoyo",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/otoyo/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.otoyo.kochi.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.town.otoyo.kochi.jp/kanko/"
+     }
+    ],
+    "address": "1626 Tsuge, Otoyo Town, Nagaoka District, Kochi 789-0392, Japan",
+    "phone": "0887-72-0450"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Otsuki",
+   "slug": "otsuki",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/otsuki/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.otsuki.kochi.jp/"
+     }
+    ],
+    "address": "2230 Hiromi, Otsuki Town, Hata District, Kochi 788-0302, Japan",
+    "phone": "0880-73-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sakawa",
+   "slug": "sakawa",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/sakawa/",
+   "official": {
+    "links": [
+     {
+      "label": "https://www.town.sakawa.lg.jp/",
+      "url": "https://www.town.sakawa.lg.jp/"
+     }
+    ],
+    "address": "Sakawa, Kochi 789-1292",
+    "phone": "0889-22-7700"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shimanto",
+   "slug": "shimanto",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/shimanto/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.shimanto.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.shimanto-kankou.com/"
+     }
+    ],
+    "address": "4-10 Nakamura-ohashidori, Shimanto City, Kochi 787-8501, Japan",
+    "phone": "0880-34-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Shimanto Town",
+   "slug": "shimantocho",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/shimantocho/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.shimanto.lg.jp/"
+     }
+    ],
+    "address": "16-17 Kotohira-cho, Shimanto Town, Takaoka District, Kochi 786-8501, Japan",
+    "phone": "0880-22-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sukumo",
+   "slug": "sukumo",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/sukumo/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.sukumo.kochi.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.city.sukumo.kochi.jp/"
+     }
+    ],
+    "address": "1 Kibogaoka, Sukumo City, Kochi 788-8686, Japan",
+    "phone": "0880-62-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Susaki",
+   "slug": "susaki",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/susaki/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.susaki.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.city.susaki.lg.jp/"
+     }
+    ],
+    "address": "1-7 Yamate-cho, Susaki City, Kochi 785-8601, Japan",
+    "phone": "0889-42-2311"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tano",
+   "slug": "tano",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/tano/",
+   "official": {
+    "links": [
+     {
+      "label": "https://tanocho.jp/",
+      "url": "https://tanocho.jp/"
+     }
+    ],
+    "address": "Tano, Kochi 781-6410",
+    "phone": "0887-38-2811"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tosa",
+   "slug": "tosa",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/tosa/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.tosa.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://tosacity-kankou.com/"
+     }
+    ],
+    "address": "2017-1 Kō, Takaoka-cho, Tosa City, Kochi 781-1192, Japan",
+    "phone": "088-852-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tosa Town",
+   "slug": "tosacho",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/tosacho/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.tosa.kochi.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.town.tosa.kochi.jp/"
+     }
+    ],
+    "address": "194 Doi, Tosa Town, Tosa District, Kochi 781-3492, Japan",
+    "phone": "0887-82-0480"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tosashimizu",
+   "slug": "tosashimizu",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/tosashimizu/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.tosashimizu.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.city.tosashimizu.lg.jp/"
+     }
+    ],
+    "address": "11-2 Tenjin-cho, Tosashimizu City, Kochi 787-0392, Japan",
+    "phone": "0880-82-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Toyo",
+   "slug": "toyo",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/toyo/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.toyo.kochi.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.town.toyo.kochi.jp/"
+     }
+    ],
+    "address": "758-3 Ikumi, Toyo Town, Aki District, Kochi 781-7414, Japan",
+    "phone": "0887-29-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tsuno",
+   "slug": "tsuno",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/tsuno/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://town.kochi-tsuno.lg.jp/"
+     }
+    ],
+    "address": "225-1 Nagano, Tsuno Town, Takaoka District, Kochi 785-0201, Japan",
+    "phone": "0889-55-2311"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Umaji",
+   "slug": "umaji",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/umaji/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://vill.umaji.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://vill.umaji.lg.jp/"
+     }
+    ],
+    "address": "443 Umaji, Umaji Village, Aki District, Kochi 781-6201, Japan",
+    "phone": "0887-44-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yasuda",
+   "slug": "yasuda",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/yasuda/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.yasuda.kochi.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.town.yasuda.kochi.jp/"
+     }
+    ],
+    "address": "1850 Yasuda, Yasuda Town, Aki District, Kochi 781-6421, Japan",
+    "phone": "0887-38-6711"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yusuhara",
+   "slug": "yusuhara",
+   "prefecture": "kochi",
+   "url": "https://bokenjapan.com/kochi/yusuhara/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.town.yusuhara.lg.jp/"
+     }
+    ],
+    "address": "1444-1 Yusuhara, Yusuhara Town, Takaoka District, Kochi 785-0695, Japan",
+    "phone": "0889-65-1111"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

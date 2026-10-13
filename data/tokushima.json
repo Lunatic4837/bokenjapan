@@ -1,0 +1,503 @@
+{
+ "prefecture": "Tokushima",
+ "slug": "tokushima",
+ "url": "https://bokenjapan.com/tokushima/",
+ "towns": [
+  {
+   "name": "Aizumi Town",
+   "slug": "aizumi",
+   "prefecture": "tokushima",
+   "url": "https://bokenjapan.com/tokushima/aizumi/",
+   "official": {
+    "links": [
+     {
+      "label": "Aizumi Town Town Hall",
+      "url": "https://www.town.aizumi.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.town.aizumi.lg.jp/docs/2014012100052/"
+     }
+    ],
+    "address": "52-1 Yagami-mae, Okuno, Aizumi, Itano District, Tokushima 771-1292, Japan",
+    "phone": "088-637-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Anan City",
+   "slug": "anan",
+   "prefecture": "tokushima",
+   "url": "https://bokenjapan.com/tokushima/anan/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.anan.tokushima.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.city.anan.tokushima.jp/category/bunya/kankobunka/"
+     }
+    ],
+    "address": "12-3 Tonochō, Tomioka-cho, Anan, Tokushima 774-8501, Japan",
+    "phone": "0884-22-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Awa",
+   "slug": "awa",
+   "prefecture": "tokushima",
+   "url": "https://bokenjapan.com/tokushima/awa/",
+   "official": {
+    "links": [
+     {
+      "label": "Awa City Hall",
+      "url": "https://www.city.awa.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.city.awa.lg.jp/category/bunya/kanko/"
+     }
+    ],
+    "address": "201-1 Furuta, Kirihata, Ichiba-cho, Awa, Tokushima 771-1695, Japan",
+    "phone": "0883-36-8700"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Higashimiyoshi",
+   "slug": "higashimiyoshi",
+   "prefecture": "tokushima",
+   "url": "https://bokenjapan.com/tokushima/higashimiyoshi/",
+   "official": {
+    "links": [
+     {
+      "label": "Higashimiyoshi Town Hall",
+      "url": "https://www.town.higashimiyoshi.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.town.higashimiyoshi.lg.jp/docs/996.html"
+     }
+    ],
+    "address": "3360 Kamo, Higashimiyoshi, Miyoshi District, Tokushima 779-4795, Japan",
+    "phone": "0883-82-6303"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Ishii",
+   "slug": "ishii",
+   "prefecture": "tokushima",
+   "url": "https://bokenjapan.com/tokushima/ishii/",
+   "official": {
+    "links": [
+     {
+      "label": "Ishii Town Hall",
+      "url": "https://www.town.ishii.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.town.ishii.lg.jp/navi/kanko/"
+     }
+    ],
+    "address": "121-1 Takagawara, Takagawara, Ishii, Myozai District, Tokushima 779-3295, Japan",
+    "phone": "088-674-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Itano",
+   "slug": "itano",
+   "prefecture": "tokushima",
+   "url": "https://bokenjapan.com/tokushima/itano/",
+   "official": {
+    "links": [
+     {
+      "label": "Itano Town Hall",
+      "url": "http://www.town.itano.tokushima.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "http://www.town.itano.tokushima.jp/syokai/"
+     }
+    ],
+    "address": "22-2 Minami, Suita, Itano, Itano District, Tokushima 779-0192, Japan",
+    "phone": "088-672-5980"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kaiyo Town",
+   "slug": "kaiyo",
+   "prefecture": "tokushima",
+   "url": "https://bokenjapan.com/tokushima/kaiyo/",
+   "official": {
+    "links": [
+     {
+      "label": "Kaiyo Town Town Hall",
+      "url": "https://www.town.kaiyo.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.town.kaiyo.lg.jp/docs/2024082800028/"
+     }
+    ],
+    "address": "128 Kaminakasu, Osato, Kaiyo, Kaifu District, Tokushima 775-0295, Japan",
+    "phone": "0884-73-1234"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kamiita",
+   "slug": "kamiita",
+   "prefecture": "tokushima",
+   "url": "https://bokenjapan.com/tokushima/kamiita/",
+   "official": {
+    "links": [
+     {
+      "label": "Kamiita Town Hall",
+      "url": "https://www.townkamiita.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.townkamiita.jp/illustmap"
+     }
+    ],
+    "address": "42 Kyozuka, Shichijo, Kamiita, Itano District, Tokushima 771-1392, Japan",
+    "phone": "088-694-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kamikatsu",
+   "slug": "kamikatsu",
+   "prefecture": "tokushima",
+   "url": "https://bokenjapan.com/tokushima/kamikatsu/",
+   "official": {
+    "links": [
+     {
+      "label": "Kamikatsu Town Hall",
+      "url": "https://www.kamikatsu.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.tourism-kamikatsu.jp/"
+     }
+    ],
+    "address": "3-1 Shimoyokominé, Fukuhara, Kamikatsu, Katsuura District, Tokushima 771-4501, Japan",
+    "phone": "0885-46-0111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kamiyama",
+   "slug": "kamiyama",
+   "prefecture": "tokushima",
+   "url": "https://bokenjapan.com/tokushima/kamiyama/",
+   "official": {
+    "links": [
+     {
+      "label": "Kamiyama Town Hall",
+      "url": "https://www.town.kamiyama.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.town.kamiyama.lg.jp/enjoy/map/index_genre@kanko.html"
+     }
+    ],
+    "address": "100 Motonoma, Jinryo, Kamiyama, Myozai District, Tokushima 771-3395, Japan",
+    "phone": "088-676-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Katsuura",
+   "slug": "katsuura",
+   "prefecture": "tokushima",
+   "url": "https://bokenjapan.com/tokushima/katsuura/",
+   "official": {
+    "links": [
+     {
+      "label": "Katsuura Town Hall",
+      "url": "https://www.town.katsuura.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://katsuura-tourism.jp/"
+     }
+    ],
+    "address": "3 Kubota, Hisakuni, Katsuura, Katsuura District, Tokushima 771-4395, Japan",
+    "phone": "0885-42-2511"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kitajima",
+   "slug": "kitajima",
+   "prefecture": "tokushima",
+   "url": "https://bokenjapan.com/tokushima/kitajima/",
+   "official": {
+    "links": [
+     {
+      "label": "Kitajima Town Hall",
+      "url": "https://www.town.kitajima.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.town.kitajima.lg.jp/docs/61.html"
+     }
+    ],
+    "address": "23-1 Kamiichi, Nakamura, Kitajima, Itano District, Tokushima 771-0285, Japan",
+    "phone": "088-698-9801"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Komatsushima",
+   "slug": "komatsushima",
+   "prefecture": "tokushima",
+   "url": "https://bokenjapan.com/tokushima/komatsushima/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.komatsushima.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.city.komatsushima.lg.jp/kanko/kanko/"
+     }
+    ],
+    "address": "1-1 Yokosu-cho, Komatsushima, Tokushima 773-8501, Japan",
+    "phone": "0885-32-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Matsushige",
+   "slug": "matsushige",
+   "prefecture": "tokushima",
+   "url": "https://bokenjapan.com/tokushima/matsushige/",
+   "official": {
+    "links": [
+     {
+      "label": "Matsushige Town Hall",
+      "url": "https://www.town.matsushige.tokushima.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.town.matsushige.tokushima.jp/category/bunya/kanko_sangyo_rodo/kanko_shisetsu/"
+     }
+    ],
+    "address": "30 Higashiura, Hiroshima, Matsushige, Itano District, Tokushima 771-0295, Japan",
+    "phone": "088-699-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mima",
+   "slug": "mima",
+   "prefecture": "tokushima",
+   "url": "https://bokenjapan.com/tokushima/mima/",
+   "official": {
+    "links": [
+     {
+      "label": "Mima City Hall",
+      "url": "https://www.city.mima.lg.jp/"
+     }
+    ],
+    "address": "5 Kutanchi, Anabuki, Anabuki-cho, Mima, Tokushima 777-8577, Japan",
+    "phone": "0883-52-1212"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Minami Town",
+   "slug": "minami",
+   "prefecture": "tokushima",
+   "url": "https://bokenjapan.com/tokushima/minami/",
+   "official": {
+    "links": [
+     {
+      "label": "Minami Town Town Hall",
+      "url": "https://www.town.minami.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.town.minami.lg.jp/docs/182.html"
+     }
+    ],
+    "address": "18-1 Honmura, Okukawachi, Minami, Kaifu District, Tokushima 779-2395, Japan",
+    "phone": "0884-77-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Miyoshi",
+   "slug": "miyoshi",
+   "prefecture": "tokushima",
+   "url": "https://bokenjapan.com/tokushima/miyoshi/",
+   "official": {
+    "links": [
+     {
+      "label": "Miyoshi City Hall",
+      "url": "https://www.miyoshi.i-tokushima.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://miyoshi-tourism.jp/"
+     }
+    ],
+    "address": "1610-1 Sarada, Ikeda-cho, Miyoshi, Tokushima 778-8501, Japan",
+    "phone": "0883-72-7600"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Mugi Town",
+   "slug": "mugi",
+   "prefecture": "tokushima",
+   "url": "https://bokenjapan.com/tokushima/mugi/",
+   "official": {
+    "links": [
+     {
+      "label": "Mugi Town Town Hall",
+      "url": "https://www.town.tokushima-mugi.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.town.tokushima-mugi.lg.jp/category/bunya/kanko/"
+     }
+    ],
+    "address": "7-4 Honmura, Nakamura, Mugi, Kaifu District, Tokushima 775-8570, Japan",
+    "phone": "0884-72-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Naka Town",
+   "slug": "naka",
+   "prefecture": "tokushima",
+   "url": "https://bokenjapan.com/tokushima/naka/",
+   "official": {
+    "links": [
+     {
+      "label": "Naka Town Town Hall",
+      "url": "https://www.town.tokushima-naka.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.town.tokushima-naka.lg.jp/gyosei/kankoguide/"
+     }
+    ],
+    "address": "104-1 Minamigawa, Wajikigo, Naka, Naka District, Tokushima 771-5295, Japan",
+    "phone": "0884-62-1121"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Naruto",
+   "slug": "naruto",
+   "prefecture": "tokushima",
+   "url": "https://bokenjapan.com/tokushima/naruto/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.naruto.tokushima.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.city.naruto.tokushima.jp/category/bunya/kanko/"
+     }
+    ],
+    "address": "170 Higashi-hama, Minamihama, Muya-cho, Naruto, Tokushima 772-8501, Japan",
+    "phone": "088-684-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Sanagochi Village",
+   "slug": "sanagochi",
+   "prefecture": "tokushima",
+   "url": "https://bokenjapan.com/tokushima/sanagochi/",
+   "official": {
+    "links": [
+     {
+      "label": "Sanagochi Village Village Hall",
+      "url": "https://www.vill.sanagochi.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.vill.sanagochi.lg.jp/kankoevent/kanko.html"
+     }
+    ],
+    "address": "31 Nishinohana, Shimo, Sanagochi, Myodo District, Tokushima 771-4195, Japan",
+    "phone": "088-679-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tokushima",
+   "slug": "tokushima",
+   "prefecture": "tokushima",
+   "url": "https://bokenjapan.com/tokushima/tokushima/",
+   "official": {
+    "links": [
+     {
+      "label": "City / town / village site",
+      "url": "https://www.city.tokushima.tokushima.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.tokushima-kankou.or.jp/"
+     }
+    ],
+    "address": "2-5 Saiwai-cho, Tokushima, Tokushima 770-8571, Japan",
+    "phone": "088-621-5111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tsurugi",
+   "slug": "tsurugi",
+   "prefecture": "tokushima",
+   "url": "https://bokenjapan.com/tokushima/tsurugi/",
+   "official": {
+    "links": [
+     {
+      "label": "Tsurugi Town Hall",
+      "url": "https://www.town.tokushima-tsurugi.lg.jp/"
+     }
+    ],
+    "address": "1-3 Higashiura, Sadamitsu, Tsurugi, Mima District, Tokushima 779-4195, Japan",
+    "phone": "0883-62-3111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yoshinogawa",
+   "slug": "yoshinogawa",
+   "prefecture": "tokushima",
+   "url": "https://bokenjapan.com/tokushima/yoshinogawa/",
+   "official": {
+    "links": [
+     {
+      "label": "Yoshinogawa City Hall",
+      "url": "https://www.city.yoshinogawa.lg.jp/"
+     },
+     {
+      "label": "Tourism site",
+      "url": "https://www.city.yoshinogawa.lg.jp/kankoguide/"
+     }
+    ],
+    "address": "115-1 Kamojima, Kamojima-cho, Yoshinogawa, Tokushima 776-8611, Japan",
+    "phone": "0883-22-2222"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}

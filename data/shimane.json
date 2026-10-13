@@ -1,0 +1,330 @@
+{
+ "prefecture": "Shimane",
+ "slug": "shimane",
+ "url": "https://bokenjapan.com/shimane/",
+ "towns": [
+  {
+   "name": "Ama",
+   "slug": "ama",
+   "prefecture": "shimane",
+   "url": "https://bokenjapan.com/shimane/ama/",
+   "official": {
+    "links": [
+     {
+      "label": "Ama Town Hall",
+      "url": "https://www.town.ama.shimane.jp/"
+     }
+    ],
+    "address": "Ama, Shimane 684-0403",
+    "phone": "08514-2-0111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Chibu",
+   "slug": "chibu",
+   "prefecture": "shimane",
+   "url": "https://bokenjapan.com/shimane/chibu/",
+   "official": {
+    "links": [
+     {
+      "label": "Chibu Village Hall",
+      "url": "http://www.vill.chibu.lg.jp/"
+     }
+    ],
+    "address": "Chibu, Shimane 684-0102",
+    "phone": "08514-8-2211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Gotsu",
+   "slug": "gotsu",
+   "prefecture": "shimane",
+   "url": "https://bokenjapan.com/shimane/gotsu/",
+   "official": {
+    "links": [
+     {
+      "label": "Gotsu City Hall",
+      "url": "https://www.city.gotsu.lg.jp/"
+     }
+    ],
+    "address": "Gotsu, Shimane 695-8501",
+    "phone": "0855-52-2501"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Hamada",
+   "slug": "hamada",
+   "prefecture": "shimane",
+   "url": "https://bokenjapan.com/shimane/hamada/",
+   "official": {
+    "links": [
+     {
+      "label": "Hamada City Hall",
+      "url": "https://www.city.hamada.shimane.jp/"
+     }
+    ],
+    "address": "Hamada, Shimane 697-8501",
+    "phone": "0855-22-2612"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Iinan",
+   "slug": "iinan",
+   "prefecture": "shimane",
+   "url": "https://bokenjapan.com/shimane/iinan/",
+   "official": {
+    "links": [
+     {
+      "label": "Iinan Town Hall",
+      "url": "https://www.iinan.jp/"
+     }
+    ],
+    "address": "Iinan, Shimane 690-3513",
+    "phone": "0854-76-2211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Izumo",
+   "slug": "izumo",
+   "prefecture": "shimane",
+   "url": "https://bokenjapan.com/shimane/izumo/",
+   "official": {
+    "links": [
+     {
+      "label": "Izumo City Hall",
+      "url": "https://www.city.izumo.shimane.jp/"
+     }
+    ],
+    "address": "Izumo, Shimane 693-8530",
+    "phone": "0853-21-2211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Kawamoto",
+   "slug": "kawamoto",
+   "prefecture": "shimane",
+   "url": "https://bokenjapan.com/shimane/kawamoto/",
+   "official": {
+    "links": [
+     {
+      "label": "Kawamoto Town Hall",
+      "url": "https://www.town.shimane-kawamoto.lg.jp/"
+     }
+    ],
+    "address": "Kawamoto, Shimane 696-8501",
+    "phone": "0855-72-0631"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Masuda",
+   "slug": "masuda",
+   "prefecture": "shimane",
+   "url": "https://bokenjapan.com/shimane/masuda/",
+   "official": {
+    "links": [
+     {
+      "label": "Masuda City Hall",
+      "url": "https://www.city.masuda.lg.jp/"
+     }
+    ],
+    "address": "Masuda, Shimane 698-8650",
+    "phone": "0856-31-0100"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Matsue",
+   "slug": "matsue",
+   "prefecture": "shimane",
+   "url": "https://bokenjapan.com/shimane/matsue/",
+   "official": {
+    "links": [
+     {
+      "label": "Matsue City Hall",
+      "url": "https://www.city.matsue.lg.jp/"
+     }
+    ],
+    "address": "Matsue, Shimane 690-8540",
+    "phone": "0852-55-5555"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Misato",
+   "slug": "misato",
+   "prefecture": "shimane",
+   "url": "https://bokenjapan.com/shimane/misato/",
+   "official": {
+    "links": [
+     {
+      "label": "Misato Town Hall",
+      "url": "https://www.town.shimane-misato.lg.jp/"
+     }
+    ],
+    "address": "Misato, Shimane 699-4692",
+    "phone": "0855-75-1211"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Nishinoshima",
+   "slug": "nishinoshima",
+   "prefecture": "shimane",
+   "url": "https://bokenjapan.com/shimane/nishinoshima/",
+   "official": {
+    "links": [
+     {
+      "label": "Nishinoshima Town Hall",
+      "url": "https://www.town.nishinoshima.shimane.jp/"
+     }
+    ],
+    "address": "Nishinoshima, Shimane 684-0303",
+    "phone": "08514-6-0101"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Oda",
+   "slug": "oda",
+   "prefecture": "shimane",
+   "url": "https://bokenjapan.com/shimane/oda/",
+   "official": {
+    "links": [
+     {
+      "label": "Oda City Hall",
+      "url": "https://www.city.oda.lg.jp/"
+     }
+    ],
+    "address": "Oda, Shimane 694-8502",
+    "phone": "0854-82-1600"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Okinoshima",
+   "slug": "okinoshima",
+   "prefecture": "shimane",
+   "url": "https://bokenjapan.com/shimane/okinoshima/",
+   "official": {
+    "links": [
+     {
+      "label": "Okinoshima Town Hall",
+      "url": "https://www.town.okinoshima.shimane.jp/"
+     }
+    ],
+    "address": "Okinoshima, Shimane 685-8585",
+    "phone": "08512-2-2111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Okuizumo",
+   "slug": "okuizumo",
+   "prefecture": "shimane",
+   "url": "https://bokenjapan.com/shimane/okuizumo/",
+   "official": {
+    "links": [
+     {
+      "label": "Okuizumo Town Hall",
+      "url": "https://www.town.okuizumo.shimane.jp/"
+     }
+    ],
+    "address": "Okuizumo, Shimane 699-1511",
+    "phone": "0854-54-1221"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Onan",
+   "slug": "onan",
+   "prefecture": "shimane",
+   "url": "https://bokenjapan.com/shimane/onan/",
+   "official": {
+    "links": [
+     {
+      "label": "Onan Town Hall",
+      "url": "https://www.town.ohnan.lg.jp/"
+     }
+    ],
+    "address": "Onan, Shimane 696-0192",
+    "phone": "0855-95-1111"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Tsuwano",
+   "slug": "tsuwano",
+   "prefecture": "shimane",
+   "url": "https://bokenjapan.com/shimane/tsuwano/",
+   "official": {
+    "links": [
+     {
+      "label": "Tsuwano Town Hall",
+      "url": "https://www.town.tsuwano.lg.jp/"
+     }
+    ],
+    "address": "Tsuwano, Shimane 699-5292",
+    "phone": "0856-74-0021"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Unnan",
+   "slug": "unnan",
+   "prefecture": "shimane",
+   "url": "https://bokenjapan.com/shimane/unnan/",
+   "official": {
+    "links": [
+     {
+      "label": "Unnan City Hall",
+      "url": "https://www.city.unnan.shimane.jp/"
+     }
+    ],
+    "address": "Unnan, Shimane 699-1392",
+    "phone": "0854-40-1000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yasugi",
+   "slug": "yasugi",
+   "prefecture": "shimane",
+   "url": "https://bokenjapan.com/shimane/yasugi/",
+   "official": {
+    "links": [
+     {
+      "label": "Yasugi City Hall",
+      "url": "https://www.city.yasugi.shimane.jp/"
+     }
+    ],
+    "address": "Yasugi, Shimane 692-8686",
+    "phone": "0854-23-3000"
+   },
+   "date_modified": "2026-10-14"
+  },
+  {
+   "name": "Yoshika",
+   "slug": "yoshika",
+   "prefecture": "shimane",
+   "url": "https://bokenjapan.com/shimane/yoshika/",
+   "official": {
+    "links": [
+     {
+      "label": "Yoshika Town Hall",
+      "url": "https://www.town.yoshika.lg.jp/"
+     }
+    ],
+    "address": "Yoshika, Shimane 699-5513",
+    "phone": "0856-77-1111"
+   },
+   "date_modified": "2026-10-14"
+  }
+ ]
+}
