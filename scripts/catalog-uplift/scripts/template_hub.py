@@ -21,6 +21,7 @@ ap.add_argument('--rules', default='/workspace/p1/phase-d/rollout/rules.py'); A 
 exec(open(A.rules).read())   # CAT, TB, DAILY_TB, TA_ORDER, DESC, CSLUG
 ROOT = Path(A.root); MEDIA = ROOT / 'media'
 TBD = {}
+NEAR_STAY = {}
 for l in open(A.tb):
     x = json.loads(l); TBD[x['u']] = x
 def esc(s): return html.escape(s, quote=True)
@@ -54,6 +55,8 @@ def classify(x):
         if re.search(rx, d): return k, False
     return 'other', False
 def classify_sight(li, stay_bl):
+    hc = re.search(r'<!-- hub-cat: (see|do|daily) -->', li)
+    if hc: return hc.group(1)
     n = name(li); d = (re.search(r'class="place-desc">(.*?)</p>', li) or [0, ''])[1]; s = (n + ' ' + d).lower()
     if stay_bl and re.search(r'\bhotel\b', n.lower()) and n.lower() in stay_bl: return 'dup-stay'
     if re.search(r'information cent(er|re)|kankojoho|tourist info|\bja\b|farm|chokubai|market', s): return 'daily'
@@ -105,7 +108,7 @@ def fix_phone(t):
 def build(pref, slug, st):
     PAGE = f'{pref}/{slug}'; p = ROOT / PAGE / 'index.html'; src = p.read_text()
     if '<section class="hub">' in src: st['already'] += 1; return
-    src = re.sub(r'&amp;(amp|#\d+|quot|lt|gt);', r'&\1;', src)  # undo double-escaped entities
+    src = re.sub(r'&amp;(amp|#\d+|#x[0-9a-fA-F]+|quot|lt|gt|apos);', r'&\1;', src)  # undo double-escaped entities
     src = re.sub(r'(<p class="place-meta">)([^<]*)', lambda m: m.group(1) + fix_phone(m.group(2)), src)
     src = re.sub(r'(<dd>)([^<]*\d[^<]*)(</dd>)', lambda m: m.group(1) + fix_phone(m.group(2)) + m.group(3), src)
     muni_ja = (re.search(r'<!-- muni-ja: ([^ ]+) -->', src) or [0, None])[1]
@@ -131,6 +134,28 @@ def build(pref, slug, st):
     for li in sights: sg[classify_sight(li, stay_bl)].append(li)
     SECT = {'stay': ('Stay', stay), 'eat': ('Eat', [l for i, l in enumerate(dining) if i not in set(daily_d)]), 'do': ('Do', sg['do']),
             'see': ('See', sg['see'] + sg['dup-stay']), 'daily': ('Day to day', sg['daily'] + [dining[i] for i in daily_d])}
+    # every town gets See and Do (rule 2026-10-14): rebalance by a broader activity regex, else split the larger list
+    DO_RX = r'park|mountain|\bmt\.|trail|walk|hik|lake|river|beach|cycl|fishing|blossom|flowers|leaves|picking|camp|ski|onsen|hot spring|festival|experience|roadside station|brewery|farm|market|pottery|workshop|tour'
+    def sdesc(l): return ((re.search(r'class="place-desc">(.*?)</p>', l) or [0, ''])[1] + ' ' + blurb(l)).lower()
+    see_l, do_l = SECT['see'][1], SECT['do'][1]
+    if not do_l and len(see_l) >= 2:
+        mv = [l for l in see_l if re.search(DO_RX, sdesc(l))][:max(1, len(see_l) // 3)] or [see_l[-1]]
+        if len(mv) == len(see_l): mv = mv[:-1]
+        for l in mv: see_l.remove(l); do_l.append(l)
+    if not see_l and len(do_l) >= 2:
+        mv = [l for l in do_l if not re.search(DO_RX, sdesc(l))][:max(1, len(do_l) // 3)] or [do_l[0]]
+        if len(mv) == len(do_l): mv = mv[:-1]
+        for l in mv: do_l.remove(l); see_l.append(l)
+    if (not see_l or not do_l) and SECT['daily'][1]:
+        dsights = [l for l in SECT['daily'][1] if 'tabelog_url=' not in l]
+        if dsights: (do_l if not do_l else see_l).append(dsights[0]); SECT['daily'][1].remove(dsights[0])
+    st['no_see'] += not see_l; st['no_do'] += not do_l
+    near_note = ''
+    if not stay:
+        snm = re.search(r'<p class="stay-none">.*?nearest options in <a href="/[^/]+/([^/]+)/">', src, re.S)
+        if snm and NEAR_STAY.get(snm.group(1)):
+            stay = NEAR_STAY[snm.group(1)]; SECT['stay'] = ('Stay', stay); st['stay_nearest'] += 1
+            near_note = re.search(r'<p class="stay-none">.*?</p>', src, re.S).group(0)
     HEAD_END = src.index('</head>'); BODY_START = src.index('<main class="page-main">')
     head = src[:HEAD_END]; mast = src[src.index('<body'):BODY_START]
     me = src.rindex('</main>'); ls = src.rfind('\n', 0, me) + 1
@@ -182,10 +207,12 @@ def build(pref, slug, st):
         label, lis = SECT[k2]
         if not lis: continue
         rep = pick_dining([didx[id(l)] for l in lis], False) if k2 == 'eat' else first_with_img(lis, avoid=(cover,) if k2 in ('do', 'see') else ())
+        if not (rep and img(rep)): rep = next((l for l in lis if img(l)), None) or next((l for l in dining + sights + stay if img(l)), rep)
         t = tile(SLUG[k2] + '/', label, len(lis), rep)
         tiles.append(t.replace('src="../../media/', 'src="../../media/'))
         if k2 == 'eat': continue
-        write(SLUG[k2], subpage(SLUG[k2] + '/', f'{label} · {MUNI}', [esc(label)], f'{label} in {MUNI}', f'{MUNI} · {PREF} · {plural(len(lis))}', plist(lis, label), f'{label} in {MUNI}, {PREF}: ranked places.'))
+        note = near_note if k2 == 'stay' and near_note else ''
+        write(SLUG[k2], subpage(SLUG[k2] + '/', f'{label} · {MUNI}', [esc(label)], f'{label} in {MUNI}' if not note else f'{label} near {MUNI}', f'{MUNI} · {PREF} · {plural(len(lis))}', note + plist(lis, label), f'{label} in {MUNI}, {PREF}: ranked places.'))
     etiles = []
     for k, lab in CAT:
         idxs = eat.get(k, [])
@@ -200,12 +227,17 @@ def build(pref, slug, st):
     secs = list(re.finditer(r'<section class="place-section">', src))
     start = secs[0].start(); end = src.rindex('</section>') + len('</section>')
     sn = re.search(r'<section class="place-section"><h2>Stay</h2><p class="stay-none">.*?</p></section>', src, re.S)
-    hub = src[:start] + (sn.group(0) if sn and not stay else '') + f'<section class="hub"><h2 class="visually-hidden">Explore {esc(MUNI)}</h2><ul class="hub-tiles">{"".join(tiles)}</ul></section>' + src[end:]
+    hub = src[:start] + (sn.group(0) if sn and (near_note or not stay) else '') + f'<section class="hub"><h2 class="visually-hidden">Explore {esc(MUNI)}</h2><ul class="hub-tiles">{"".join(tiles)}</ul></section>' + src[end:]
     hub = hub.replace('<body>', '<body class="hubbed">', 1)
     p.write_text(hub); st['pages'] += 1
 if __name__ == '__main__':
     for pref in A.pref:
         st = collections.Counter()
+        for f in sorted(glob.glob(str(ROOT / pref / '*' / 'index.html'))):
+            sl = f.split('/')[-2]; t0 = Path(f).read_text()
+            NEAR_STAY[sl] = lis_of(t0, 'Stay') or ([] if '<section class="hub">' not in t0 or not (Path(f).parent / 'stay' / 'index.html').exists()
+                                                   else re.findall(r'<li>.*?</li>', (Path(f).parent / 'stay' / 'index.html').read_text(), re.S))
+            NEAR_STAY[sl] = [x.replace('src="/media/', 'src="../../media/') for x in NEAR_STAY[sl]]
         for f in sorted(glob.glob(str(ROOT / pref / '*' / 'index.html'))):
             slug = f.split('/')[-2]
             build(pref, slug, st)
