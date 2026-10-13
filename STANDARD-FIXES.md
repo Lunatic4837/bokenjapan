@@ -82,3 +82,5 @@ Checklist derived from `/workspace/p1/aomori-review/report.md` FAIL/WARN pattern
 - Generator: `scripts/catalog-uplift/scripts/template_hub.py --root <site> --pref <pref> --photos` (genre cache: /workspace/p1/data/template4/tb.jsonl, fetch_tb.py). Run after cos_fix/finalize; idempotent (skips pages already hubbed).
 - Self-check: `python3 scripts/quality/template_selfcheck.py <site> <pref>` must report 0 fails (compares against miyagi/ohira).
 - Analytics beacon: the generator keeps any `<script>` containing `beacon`/`cloudflareinsights` before `</body>` (hub and list pages); it never edits homepage index.html or styles.css.
+
+- 2026-10-14 Stay sources: Ikkyu, Jalan, Rakuten Travel, official facility/municipal site are all valid (checker STAY-FALLBACK). Ranks are numbered per town across all sub-pages (Dining 1..N, Stay 1..N); card img alt = English name.
