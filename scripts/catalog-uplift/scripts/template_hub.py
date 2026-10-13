@@ -30,6 +30,21 @@ def gsplit(g): return [x.strip() for x in re.split(r'[、,]', g or '') if x.stri
 def lis_of(src, name):
     m = re.search(r'<section class="place-section"><h2>' + name + r'</h2><ul class="place-list">(.*?)</ul></section>', src, re.S)
     return re.findall(r'<li>.*?</li>', m.group(1), re.S) if m else []
+_DH = {}
+def dhash(src):  # 64-bit difference hash of a media file (None if unreadable)
+    f = src.split('/')[-1]
+    if f not in _DH:
+        try:
+            from PIL import Image
+            px = Image.open(MEDIA / f).convert('L').resize((9, 8)).tobytes()
+            _DH[f] = sum(1 << i for i in range(64) if px[(i // 8) * 9 + i % 8] > px[(i // 8) * 9 + i % 8 + 1])
+        except Exception: _DH[f] = None
+    return _DH[f]
+def same_photo(a, b):  # same file or visually identical (e.g. hero cover re-encoded from a card photo)
+    if a.split('/')[-1] == b.split('/')[-1]: return True
+    x, y = dhash(a), dhash(b)
+    return x is not None and y is not None and bin(x ^ y).count('1') <= 4
+
 def img(li):
     m = re.search(r'<img class="thumb" src="([^"]+)"[^>]*?(?:width="(\d+)" height="(\d+)")?[^>]*>', li)
     if not m: return None
@@ -131,7 +146,10 @@ def build(pref, slug, st):
         (daily_d if k == 'daily' else eat[k]).append(i)
     stay_bl = [blurb(l).lower() for l in stay] + [name(l).lower() for l in stay]
     sg = collections.defaultdict(list)
-    for li in sights: sg[classify_sight(li, stay_bl)].append(li)
+    for li in sights:
+        if re.search(r'class="place-blurb">[^<]*\b(?:Katsudon|Ramen|Soba|Udon|Gyoza)</p>', li):  # a dish listed as a sight -> Eat (other)
+            dining.append(li); cards.append(dict(genre=None, desc='')); primary[len(dining) - 1] = False; eat['other'].append(len(dining) - 1); continue
+        sg[classify_sight(li, stay_bl)].append(li)
     SECT = {'stay': ('Stay', stay), 'eat': ('Eat', [l for i, l in enumerate(dining) if i not in set(daily_d)]), 'do': ('Do', sg['do']),
             'see': ('See', sg['see'] + sg['dup-stay']), 'daily': ('Day to day', sg['daily'] + [dining[i] for i in daily_d])}
     # every town gets See and Do (rule 2026-10-14): rebalance by a broader activity regex, else split the larger list
@@ -168,11 +186,13 @@ def build(pref, slug, st):
         return (f'<li><a class="hub-tile{"" if big else " hub-tile-sm"}" href="{href}">{pic}'
                 f'<span class="hub-tile-label"><span class="hub-tile-name">{esc(label)}</span>'
                 f'<span class="hub-tile-count">{plural(n)}</span></span></a></li>')
+    NONLODGE = {x.split('#')[0].strip() for x in (Path(__file__).with_name('tile_nonlodging.txt').read_text().splitlines()
+                if Path(__file__).with_name('tile_nonlodging.txt').exists() else []) if x.split('#')[0].strip()}
     def first_with_img(lis, avoid=()):
         for l in lis:
             im = img(l)
-            if im and im[0] not in avoid: return l
-        return lis[0] if lis else None
+            if im and not any(same_photo(im[0], a) for a in avoid): return l
+        return None if avoid else (lis[0] if lis else None)
     didx = {id(l): i for i, l in enumerate(dining)}
     def pick_dining(idxs, need_primary):
         for t in (lambda i: primary[i] or not need_primary, lambda i: True):
@@ -202,17 +222,25 @@ def build(pref, slug, st):
     def plist(lis, h2): return f'<section class="place-section"><h2 class="visually-hidden">{esc(h2)}</h2><ul class="place-list">{"".join(lis)}</ul></section>'
     for d in glob.glob(str(ROOT / PAGE) + '/*/'): shutil.rmtree(d)
     SLUG = {'stay': 'stay', 'eat': 'eat', 'do': 'do', 'see': 'see', 'daily': 'day-to-day'}
-    tiles = []
+    tiles = []; used_tiles = []
     for k2 in ['stay', 'eat', 'do', 'see', 'daily']:
         label, lis = SECT[k2]
         if not lis: continue
-        rep = pick_dining([didx[id(l)] for l in lis], False) if k2 == 'eat' else first_with_img(lis, avoid=(cover,) if k2 in ('do', 'see') else ())
-        if not (rep and img(rep)): rep = next((l for l in lis if img(l)), None) or next((l for l in dining + sights + stay if img(l)), rep)
+        # rule 2026-10-14: tile photo comes from this category's own cards, never the hero (same file or
+        # visually identical), never repeats another tile, Stay only lodging photos; else no image
+        avoid = tuple(([cover] if cover else []) + used_tiles)
+        if k2 == 'eat': rep = pick_dining([didx[id(l)] for l in lis], False); rep = rep if rep and img(rep) and not any(same_photo(img(rep)[0], a) for a in avoid) else first_with_img(lis, avoid)
+        elif k2 == 'stay': rep = next((l for l in lis if img(l) and os.path.basename(img(l)[0]) not in NONLODGE and not any(same_photo(img(l)[0], a) for a in avoid)), None)
+        else: rep = first_with_img(lis, avoid)
+        if rep and img(rep): used_tiles.append(img(rep)[0])
         t = tile(SLUG[k2] + '/', label, len(lis), rep)
+        if k2 == 'stay' and near_note:  # neighbour-town lodging: never counted as in this town
+            nbn = re.search(r'nearest options in <a [^>]*>([^<]+)</a>', near_note).group(1)
+            t = t.replace(f'>{esc(label)}</span>', '>Stays nearby</span>').replace(f'>{plural(len(lis))}</span>', f'>{len(lis)} in {esc(nbn)}</span>')
         tiles.append(t.replace('src="../../media/', 'src="../../media/'))
         if k2 == 'eat': continue
         note = near_note if k2 == 'stay' and near_note else ''
-        write(SLUG[k2], subpage(SLUG[k2] + '/', f'{label} · {MUNI}', [esc(label)], f'{label} in {MUNI}' if not note else f'{label} near {MUNI}', f'{MUNI} · {PREF} · {plural(len(lis))}', note + plist(lis, label), f'{label} in {MUNI}, {PREF}: ranked places.'))
+        write(SLUG[k2], subpage(SLUG[k2] + '/', f'{label} · {MUNI}' if not note else f'Stays near {MUNI}', [esc(label)], f'{label} in {MUNI}' if not note else f'Stays near {MUNI}', f'{MUNI} · {PREF} · {plural(len(lis))}' if not note else f'Near {MUNI} · {PREF} · {len(lis)} in {nbn}', note + plist(lis, label), f'{label} in {MUNI}, {PREF}: ranked places.'))
     etiles = []
     for k, lab in CAT:
         idxs = eat.get(k, [])

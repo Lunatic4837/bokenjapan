@@ -132,6 +132,9 @@ def plural(n, one, many): return f'{n} {one if n == 1 else many}'
 
 # =============== pass 1: names, per-town summaries, data files (flushed per prefecture)
 NAMES, SIB, TOWNSEC, COUNT = {}, {}, {}, {}
+# Stay pages that only list a neighbouring town's lodging (stay-none note): titled 'Stays near X', never counted as in X
+NEAR_RX = re.compile(r'class="stay-none">.*?nearest options in <a href="(?:https://bokenjapan\.com)?/([^/"]+)/([^/"]+)/">([^<]+)</a>', re.S)
+NEAR = {}
 prefs, cur_pref, cur_towns = {}, None, {}
 today = datetime.date.today().isoformat()
 
@@ -165,6 +168,8 @@ for rel in pages():
     else:
         sec = parts[2]; TOWNSEC.setdefault(key, set()).add(sec)
         its = items(s)
+        nm = NEAR_RX.search(s) if sec == 'stay' else None
+        if nm: NEAR[key] = (nm.group(3), nm.group(1) + '/' + nm.group(2)); its = []  # neighbour-town lodging: not this town's places
         if its:
             jk = SECTIONS[sec][2]
             for it in its:
@@ -243,6 +248,8 @@ for rel in pages():
                 tot = COUNT.get((key, sec), n)
                 hook = {'eat': plural(tot, 'restaurant or café', 'restaurants and cafés'), 'stay': plural(tot, 'hotel or inn', 'hotels, inns and ryokan'),
                         'see': plural(tot, 'sight', 'sights'), 'do': plural(tot, 'activity', 'activities'), 'day-to-day': plural(tot, 'place', 'places')}.get(sec)
+                if sec == 'stay' and key in NEAR:
+                    lead = f'Stays near {place}'; hook = plural(n, 'place', 'places') + f' in {NEAR[key][0]}'; tot = n
                 title = lead + (f': {hook}' if tot and hook else '') + (', by type' if sec == 'eat' and n == 0 and tot else '')
                 h1 = lead
             else:
@@ -258,7 +265,7 @@ for rel in pages():
                 graph.append({'@type': 'ItemList', 'name': h1, 'numberOfItems': n, 'itemListElement': [
                     {'@type': 'ListItem', 'position': i + 1, 'item': {k2: v2 for k2, v2 in (
                         ('@type', typ), ('name', it['name']), ('alternateName', it.get('name_en')), ('description', it.get('description')),
-                        ('url', it.get('source_url')), ('containedInPlace', {'@id': BASE + key + '/#place'})) if v2}} for i, it in enumerate(its)]})
+                        ('url', it.get('source_url')), ('containedInPlace', {'@id': BASE + (NEAR[key][1] if sec == 'stay' and key in NEAR else key) + '/#place'})) if v2}} for i, it in enumerate(its)]})
         page['name'] = title; page['breadcrumb'] = bl(trail)
         srcs = list(dict.fromkeys(srcs))
         if srcs: page['isBasedOn'] = srcs; page['citation'] = srcs

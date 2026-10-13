@@ -10,6 +10,8 @@ root = Path(sys.argv[1]); st = collections.Counter()
 for pref in sys.argv[2:]:
     ovp = Path(__file__).parent.parent / 'data' / f'en-overrides-{pref}.json'  # optional per-pref JA name -> EN overrides
     OV = json.loads(ovp.read_text()) if ovp.exists() else {}
+    rdp = Path(__file__).parent.parent / 'data' / f'en-readings-{pref}.json'  # optional wrong-reading -> right-reading fixes (place names in descs)
+    RD = json.loads(rdp.read_text()) if rdp.exists() else {}
     for town in sorted(glob.glob(str(root / pref / '*' / 'index.html'))):
         tdir = Path(town).parent; src = Path(town).read_text()
         muni_ja = (re.search(r'<!-- muni-ja: ([^ ]+) -->', src) or [0, None])[1]
@@ -17,6 +19,7 @@ for pref in sys.argv[2:]:
         for f in [town] + glob.glob(str(tdir / '**' / 'index.html'), recursive=True)[0:]:
             t = Path(f).read_text(); t0 = t
             t = re.sub(r'&amp;(amp|#\d+|#x[0-9a-fA-F]+|quot|lt|gt|apos);', r'&\1;', t)
+            ren = {}
             def fix(m):
                 li = m.group(0); s = re.search(r'sources: [^>]*(jalan_url|ik?kyu_url|tabelog_url|rakuten_url)=', li)
                 b = re.search(r'class="place-blurb">([^<]*)</p>', li); n = re.search(r'class="place-name">(.*?)</p>', li)
@@ -27,9 +30,12 @@ for pref in sys.argv[2:]:
                 elif s.group(1) != 'tabelog_url' and not ROMAJI_BAD.search(b.group(1)): return li
                 else: new = natural_en(html.unescape(n.group(1)), muni_ja, muni_en)
                 if not new or html.escape(new, quote=True) == b.group(1): return li
-                st['renamed'] += 1
+                st['renamed'] += 1; ren[html.unescape(b.group(1))] = new
                 li = li.replace(b.group(0), f'class="place-blurb">{html.escape(new, quote=True)}</p>', 1)
                 return re.sub(r'(<img class="thumb"[^>]*alt=")[^"]*', lambda m2: m2.group(1) + html.escape(new, quote=True), li, count=1)
             t = re.sub(r'<li>(?:(?!</li>).)*?class="place-name".*?</li>', fix, t, flags=re.S)
+            for old, new in ren.items():  # keep JSON-LD alternateName in step with the card
+                t = t.replace(f'"alternateName": {json.dumps(old, ensure_ascii=False)}', f'"alternateName": {json.dumps(new, ensure_ascii=False)}')
+            for bad, good in RD.items(): t = re.sub(r'\b' + re.escape(bad), good, t)
             if t != t0: Path(f).write_text(t); st['files'] += 1
 print(dict(st))
