@@ -18,6 +18,7 @@
    "https://bokenjapan.com/data/hyogo.json",
    "https://bokenjapan.com/data/ibaraki.json",
    "https://bokenjapan.com/data/ishikawa.json",
+   "https://bokenjapan.com/data/iwate.json",
    "https://bokenjapan.com/data/kagawa.json",
    "https://bokenjapan.com/data/kagoshima.json",
    "https://bokenjapan.com/data/kanagawa.json",
@@ -46,6 +47,7 @@
    "https://bokenjapan.com/data/tottori.json",
    "https://bokenjapan.com/data/toyama.json",
    "https://bokenjapan.com/data/wakayama.json",
+   "https://bokenjapan.com/data/yamagata.json",
    "https://bokenjapan.com/data/yamaguchi.json",
    "https://bokenjapan.com/data/yamanashi.json"
   ]
@@ -76,7 +78,7 @@
   ]
  },
  "counts": {
-  "prefectures": 43,
-  "towns": 1454
+  "prefectures": 45,
+  "towns": 1522
  }
 }

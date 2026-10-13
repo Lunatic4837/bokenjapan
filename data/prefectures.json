@@ -92,6 +92,13 @@
    "town_count": 19
   },
   {
+   "slug": "iwate",
+   "name": "Iwate",
+   "url": "https://bokenjapan.com/iwate/",
+   "data": "https://bokenjapan.com/data/iwate.json",
+   "town_count": 33
+  },
+  {
    "slug": "kagawa",
    "name": "Kagawa",
    "url": "https://bokenjapan.com/kagawa/",
@@ -286,6 +293,13 @@
    "url": "https://bokenjapan.com/wakayama/",
    "data": "https://bokenjapan.com/data/wakayama.json",
    "town_count": 30
+  },
+  {
+   "slug": "yamagata",
+   "name": "Yamagata",
+   "url": "https://bokenjapan.com/yamagata/",
+   "data": "https://bokenjapan.com/data/yamagata.json",
+   "town_count": 35
   },
   {
    "slug": "yamaguchi",
