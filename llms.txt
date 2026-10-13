@@ -1,0 +1,70 @@
+# BokenJapan
+
+> BokenJapan (bokenjapan.com) is an English travel guide to rural and small-town Japan: one page per prefecture and per municipality, listing sights, places to eat and places to stay, each with a link to its official or source page.
+
+Structure: `/` home → `/<prefecture>/` prefecture index (map + town list) → `/<prefecture>/<town>/` town page with sections Official, Stay, Dining, Sights. Pages are static; JSON-LD (schema.org) is embedded in each page head.
+
+## Open data (JSON, CORS-enabled)
+- [Data index](https://bokenjapan.com/data/index.json): entry point and counts
+- [Prefectures](https://bokenjapan.com/data/prefectures.json): all prefectures with towns file URLs
+- [Data README](https://bokenjapan.com/data/README.md): schema notes
+
+## Prefectures
+- [Aichi](https://bokenjapan.com/aichi/): 54 towns · [JSON](https://bokenjapan.com/data/towns/aichi.json)
+- [Akita](https://bokenjapan.com/akita/): 25 towns · [JSON](https://bokenjapan.com/data/towns/akita.json)
+- [Chiba](https://bokenjapan.com/chiba/): 54 towns · [JSON](https://bokenjapan.com/data/towns/chiba.json)
+- [Ehime](https://bokenjapan.com/ehime/): 20 towns · [JSON](https://bokenjapan.com/data/towns/ehime.json)
+- [Fukui](https://bokenjapan.com/fukui/): 17 towns · [JSON](https://bokenjapan.com/data/towns/fukui.json)
+- [Fukuoka](https://bokenjapan.com/fukuoka/): 60 towns · [JSON](https://bokenjapan.com/data/towns/fukuoka.json)
+- [Fukushima](https://bokenjapan.com/fukushima/): 59 towns · [JSON](https://bokenjapan.com/data/towns/fukushima.json)
+- [Gifu](https://bokenjapan.com/gifu/): 42 towns · [JSON](https://bokenjapan.com/data/towns/gifu.json)
+- [Gunma](https://bokenjapan.com/gunma/): 35 towns · [JSON](https://bokenjapan.com/data/towns/gunma.json)
+- [Hiroshima](https://bokenjapan.com/hiroshima/): 23 towns · [JSON](https://bokenjapan.com/data/towns/hiroshima.json)
+- [Hyogo](https://bokenjapan.com/hyogo/): 41 towns · [JSON](https://bokenjapan.com/data/towns/hyogo.json)
+- [Ibaraki](https://bokenjapan.com/ibaraki/): 44 towns · [JSON](https://bokenjapan.com/data/towns/ibaraki.json)
+- [Ishikawa](https://bokenjapan.com/ishikawa/): 19 towns · [JSON](https://bokenjapan.com/data/towns/ishikawa.json)
+- [Kagawa](https://bokenjapan.com/kagawa/): 17 towns · [JSON](https://bokenjapan.com/data/towns/kagawa.json)
+- [Kagoshima](https://bokenjapan.com/kagoshima/): 43 towns · [JSON](https://bokenjapan.com/data/towns/kagoshima.json)
+- [Kanagawa](https://bokenjapan.com/kanagawa/): 33 towns · [JSON](https://bokenjapan.com/data/towns/kanagawa.json)
+- [Kochi](https://bokenjapan.com/kochi/): 34 towns · [JSON](https://bokenjapan.com/data/towns/kochi.json)
+- [Kumamoto](https://bokenjapan.com/kumamoto/): 45 towns · [JSON](https://bokenjapan.com/data/towns/kumamoto.json)
+- [Kyoto](https://bokenjapan.com/kyoto/): 26 towns · [JSON](https://bokenjapan.com/data/towns/kyoto.json)
+- [Mie](https://bokenjapan.com/mie/): 29 towns · [JSON](https://bokenjapan.com/data/towns/mie.json)
+- [Miyagi](https://bokenjapan.com/miyagi/): 35 towns · [JSON](https://bokenjapan.com/data/towns/miyagi.json)
+- [Miyazaki](https://bokenjapan.com/miyazaki/): 26 towns · [JSON](https://bokenjapan.com/data/towns/miyazaki.json)
+- [Nagano](https://bokenjapan.com/nagano/): 77 towns · [JSON](https://bokenjapan.com/data/towns/nagano.json)
+- [Nagasaki](https://bokenjapan.com/nagasaki/): 21 towns · [JSON](https://bokenjapan.com/data/towns/nagasaki.json)
+- [Nara](https://bokenjapan.com/nara/): 39 towns · [JSON](https://bokenjapan.com/data/towns/nara.json)
+- [Niigata](https://bokenjapan.com/niigata/): 30 towns · [JSON](https://bokenjapan.com/data/towns/niigata.json)
+- [Oita](https://bokenjapan.com/oita/): 18 towns · [JSON](https://bokenjapan.com/data/towns/oita.json)
+- [Okayama](https://bokenjapan.com/okayama/): 27 towns · [JSON](https://bokenjapan.com/data/towns/okayama.json)
+- [Okinawa](https://bokenjapan.com/okinawa/): 41 towns · [JSON](https://bokenjapan.com/data/towns/okinawa.json)
+- [Osaka](https://bokenjapan.com/osaka/): 43 towns · [JSON](https://bokenjapan.com/data/towns/osaka.json)
+- [Saga](https://bokenjapan.com/saga/): 20 towns · [JSON](https://bokenjapan.com/data/towns/saga.json)
+- [Saitama](https://bokenjapan.com/saitama/): 63 towns · [JSON](https://bokenjapan.com/data/towns/saitama.json)
+- [Shiga](https://bokenjapan.com/shiga/): 19 towns · [JSON](https://bokenjapan.com/data/towns/shiga.json)
+- [Shimane](https://bokenjapan.com/shimane/): 19 towns · [JSON](https://bokenjapan.com/data/towns/shimane.json)
+- [Shizuoka](https://bokenjapan.com/shizuoka/): 35 towns · [JSON](https://bokenjapan.com/data/towns/shizuoka.json)
+- [Tochigi](https://bokenjapan.com/tochigi/): 25 towns · [JSON](https://bokenjapan.com/data/towns/tochigi.json)
+- [Tokushima](https://bokenjapan.com/tokushima/): 24 towns · [JSON](https://bokenjapan.com/data/towns/tokushima.json)
+- [Tokyo](https://bokenjapan.com/tokyo/): 62 towns · [JSON](https://bokenjapan.com/data/towns/tokyo.json)
+- [Tottori](https://bokenjapan.com/tottori/): 19 towns · [JSON](https://bokenjapan.com/data/towns/tottori.json)
+- [Toyama](https://bokenjapan.com/toyama/): 15 towns · [JSON](https://bokenjapan.com/data/towns/toyama.json)
+- [Wakayama](https://bokenjapan.com/wakayama/): 30 towns · [JSON](https://bokenjapan.com/data/towns/wakayama.json)
+- [Yamaguchi](https://bokenjapan.com/yamaguchi/): 19 towns · [JSON](https://bokenjapan.com/data/towns/yamaguchi.json)
+- [Yamanashi](https://bokenjapan.com/yamanashi/): 27 towns · [JSON](https://bokenjapan.com/data/towns/yamanashi.json)
+
+## Key pages
+- [Home](https://bokenjapan.com/)
+- [Privacy](https://bokenjapan.com/privacy.html)
+- [Terms](https://bokenjapan.com/terms.html)
+- [Sitemap](https://bokenjapan.com/sitemap.xml)
+
+## Social
+- https://x.com/bokenjapan
+- https://www.instagram.com/bokenjapan/
+- https://www.tiktok.com/@bokenjapan
+- https://www.facebook.com/profile.php?id=61595415860080
+
+## Optional
+- [Full town list](https://bokenjapan.com/llms-full.txt)

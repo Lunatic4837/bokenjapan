@@ -1,0 +1,497 @@
+{
+ "prefecture": "Miyagi",
+ "url": "https://bokenjapan.com/miyagi/",
+ "generated": "2026-10-14",
+ "towns": [
+  {
+   "name": "Higashimatsushima",
+   "slug": "higashimatsushima",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/higashimatsushima/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.4262703,
+    "lon": 141.2106265
+   }
+  },
+  {
+   "name": "Ishinomaki",
+   "slug": "ishinomaki",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/ishinomaki/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.4343308,
+    "lon": 141.3027169
+   }
+  },
+  {
+   "name": "Iwanuma",
+   "slug": "iwanuma",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/iwanuma/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.1042867,
+    "lon": 140.8701772
+   }
+  },
+  {
+   "name": "Kakuda",
+   "slug": "kakuda",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/kakuda/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 37.9770449,
+    "lon": 140.7818345
+   }
+  },
+  {
+   "name": "Kami",
+   "slug": "kamimachi",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/kamimachi/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.5717302,
+    "lon": 140.8548359
+   }
+  },
+  {
+   "name": "Kawasakicho",
+   "slug": "kawasakicho",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/kawasakicho/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.1776233,
+    "lon": 140.6433397
+   }
+  },
+  {
+   "name": "Kesennuma",
+   "slug": "kesennuma",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/kesennuma/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.9081003,
+    "lon": 141.5701228
+   }
+  },
+  {
+   "name": "Kurihara",
+   "slug": "kurihara",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/kurihara/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.730087,
+    "lon": 141.0212453
+   }
+  },
+  {
+   "name": "Marumori",
+   "slug": "marumori",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/marumori/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 37.9115166,
+    "lon": 140.7653959
+   }
+  },
+  {
+   "name": "Matsushima",
+   "slug": "matsushima",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/matsushima/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.3801954,
+    "lon": 141.0672744
+   }
+  },
+  {
+   "name": "Minamisanriku",
+   "slug": "minamisanriku",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/minamisanriku/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.6806632,
+    "lon": 141.4624589
+   }
+  },
+  {
+   "name": "Miyagimisato",
+   "slug": "miyagimisato",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/miyagimisato/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.5443942,
+    "lon": 141.0567849
+   }
+  },
+  {
+   "name": "Murata",
+   "slug": "murata",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/murata/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.118515,
+    "lon": 140.7223942
+   }
+  },
+  {
+   "name": "Natori",
+   "slug": "natori",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/natori/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.1715003,
+    "lon": 140.8919181
+   }
+  },
+  {
+   "name": "Ogawara",
+   "slug": "ogawara",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/ogawara/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.0493742,
+    "lon": 140.7307928
+   }
+  },
+  {
+   "name": "Ohira",
+   "slug": "ohira",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/ohira/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.4672682,
+    "lon": 140.879973
+   }
+  },
+  {
+   "name": "Onagawa",
+   "slug": "onagawa",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/onagawa/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.4454077,
+    "lon": 141.4431076
+   }
+  },
+  {
+   "name": "Osakishi",
+   "slug": "osakishi",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/osakishi/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.577596,
+    "lon": 140.9559668
+   }
+  },
+  {
+   "name": "Osato",
+   "slug": "osato",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/osato/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.424354,
+    "lon": 141.0045241
+   }
+  },
+  {
+   "name": "Rifu",
+   "slug": "rifu",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/rifu/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.3303256,
+    "lon": 140.9756911
+   }
+  },
+  {
+   "name": "Sendai",
+   "slug": "sendai",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/sendai/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.2682022,
+    "lon": 140.8694618
+   }
+  },
+  {
+   "name": "Shibatacho",
+   "slug": "shibatacho",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/shibatacho/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.0565181,
+    "lon": 140.7658183
+   }
+  },
+  {
+   "name": "Shichigahama",
+   "slug": "shichigahama",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/shichigahama/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.3045281,
+    "lon": 141.0591826
+   }
+  },
+  {
+   "name": "Shichikashuku",
+   "slug": "shichikashuku",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/shichikashuku/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 37.993186,
+    "lon": 140.4414709
+   }
+  },
+  {
+   "name": "Shikama",
+   "slug": "shikama",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/shikama/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.5488101,
+    "lon": 140.849929
+   }
+  },
+  {
+   "name": "Shiogama",
+   "slug": "shiogama",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/shiogama/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.3143659,
+    "lon": 141.0220875
+   }
+  },
+  {
+   "name": "Shiroishi",
+   "slug": "shiroishishi",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/shiroishishi/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.002444444,
+    "lon": 140.619888888
+   }
+  },
+  {
+   "name": "Tagajo",
+   "slug": "tagajo",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/tagajo/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.2940201,
+    "lon": 141.0042286
+   }
+  },
+  {
+   "name": "Taiwa",
+   "slug": "taiwa",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/taiwa/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.4373684,
+    "lon": 140.88639
+   }
+  },
+  {
+   "name": "Tome",
+   "slug": "tome",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/tome/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.6918814,
+    "lon": 141.1876511
+   }
+  },
+  {
+   "name": "Tomiya",
+   "slug": "tomiya",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/tomiya/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.3998725,
+    "lon": 140.8952823
+   }
+  },
+  {
+   "name": "Wakuya",
+   "slug": "wakuya",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/wakuya/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.5396927,
+    "lon": 141.1282011
+   }
+  },
+  {
+   "name": "Watari",
+   "slug": "watari",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/watari/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.0442198,
+    "lon": 140.8679265
+   }
+  },
+  {
+   "name": "Yamamoto",
+   "slug": "yamamoto",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/yamamoto/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 37.9626867,
+    "lon": 140.8780115
+   }
+  },
+  {
+   "name": "Zao",
+   "slug": "zao",
+   "prefecture": "miyagi",
+   "url": "https://bokenjapan.com/miyagi/zao/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 38.0981123,
+    "lon": 140.6586648
+   }
+  }
+ ]
+}

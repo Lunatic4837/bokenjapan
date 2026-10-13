@@ -1,0 +1,847 @@
+{
+ "prefecture": "Fukuoka",
+ "url": "https://bokenjapan.com/fukuoka/",
+ "generated": "2026-10-14",
+ "towns": [
+  {
+   "name": "Aka",
+   "slug": "akamura",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/akamura/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.616658,
+    "lon": 130.870826
+   }
+  },
+  {
+   "name": "Asakura",
+   "slug": "asakura",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/asakura/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.423451,
+    "lon": 130.665514
+   }
+  },
+  {
+   "name": "Ashiya",
+   "slug": "ashiyacho",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/ashiyacho/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.893733,
+    "lon": 130.663893
+   }
+  },
+  {
+   "name": "Buzen",
+   "slug": "buzen",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/buzen/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.611524,
+    "lon": 131.130276
+   }
+  },
+  {
+   "name": "Chikugo",
+   "slug": "chikugo",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/chikugo/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.2123596,
+    "lon": 130.5019429
+   }
+  },
+  {
+   "name": "Chikujo",
+   "slug": "chikujo",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/chikujo/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.6563785,
+    "lon": 131.0559802
+   }
+  },
+  {
+   "name": "Chikushino",
+   "slug": "chikushino",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/chikushino/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.4874205,
+    "lon": 130.526035
+   }
+  },
+  {
+   "name": "Chikuzen",
+   "slug": "chikuzen",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/chikuzen/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.457057,
+    "lon": 130.595158
+   }
+  },
+  {
+   "name": "Dazaifu",
+   "slug": "dazaifu",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/dazaifu/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.5128167,
+    "lon": 130.5239528
+   }
+  },
+  {
+   "name": "Fukuchi",
+   "slug": "fukuchi",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/fukuchi/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.6831962,
+    "lon": 130.7801886
+   }
+  },
+  {
+   "name": "Fukuoka",
+   "slug": "fukuoka",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/fukuoka/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.5900692,
+    "lon": 130.401398
+   }
+  },
+  {
+   "name": "Fukutsu",
+   "slug": "fukutsu",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/fukutsu/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.7667694,
+    "lon": 130.4913007
+   }
+  },
+  {
+   "name": "Hirokawa",
+   "slug": "hirokawa",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/hirokawa/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.241439,
+    "lon": 130.551388
+   }
+  },
+  {
+   "name": "Hisayama",
+   "slug": "hisayama",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/hisayama/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.646703,
+    "lon": 130.500022
+   }
+  },
+  {
+   "name": "Iizuka",
+   "slug": "iizuka",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/iizuka/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.6467202,
+    "lon": 130.6910638
+   }
+  },
+  {
+   "name": "Itoda",
+   "slug": "itoda",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/itoda/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.652813,
+    "lon": 130.779103
+   }
+  },
+  {
+   "name": "Itoshima",
+   "slug": "itoshima",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/itoshima/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.5572607,
+    "lon": 130.1962073
+   }
+  },
+  {
+   "name": "Kama",
+   "slug": "kama",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/kama/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.563215,
+    "lon": 130.711534
+   }
+  },
+  {
+   "name": "Kanda",
+   "slug": "kanda",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/kanda/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.775972222,
+    "lon": 130.980472222
+   }
+  },
+  {
+   "name": "Kasuga",
+   "slug": "kasuga",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/kasuga/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.5326589,
+    "lon": 130.4702594
+   }
+  },
+  {
+   "name": "Kasuya",
+   "slug": "kasuya",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/kasuya/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.6108464,
+    "lon": 130.48055
+   }
+  },
+  {
+   "name": "Kawara",
+   "slug": "kawara",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/kawara/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.667958,
+    "lon": 130.847327
+   }
+  },
+  {
+   "name": "Kawasaki",
+   "slug": "kawasaki",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/kawasaki/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.599992,
+    "lon": 130.815386
+   }
+  },
+  {
+   "name": "Keisen",
+   "slug": "keisen",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/keisen/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.578852,
+    "lon": 130.67812
+   }
+  },
+  {
+   "name": "Kitakyushu",
+   "slug": "kitakyushu",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/kitakyushu/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.883416,
+    "lon": 130.8752147
+   }
+  },
+  {
+   "name": "Koga",
+   "slug": "koga",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/koga/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.72875,
+    "lon": 130.470051
+   }
+  },
+  {
+   "name": "Koge",
+   "slug": "koge",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/koge/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.578332,
+    "lon": 131.164412
+   }
+  },
+  {
+   "name": "Kotake",
+   "slug": "kotake",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/kotake/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.6924388,
+    "lon": 130.7126718
+   }
+  },
+  {
+   "name": "Kurate",
+   "slug": "kurate",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/kurate/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.792051,
+    "lon": 130.674672
+   }
+  },
+  {
+   "name": "Kurume",
+   "slug": "kurume",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/kurume/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.319291,
+    "lon": 130.508389
+   }
+  },
+  {
+   "name": "Miyako",
+   "slug": "miyako",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/miyako/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.699205,
+    "lon": 130.920404
+   }
+  },
+  {
+   "name": "Miyama",
+   "slug": "miyama",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/miyama/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.152447,
+    "lon": 130.4747786
+   }
+  },
+  {
+   "name": "Miyawaka",
+   "slug": "miyawaka",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/miyawaka/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.7236203,
+    "lon": 130.6674343
+   }
+  },
+  {
+   "name": "Mizumaki",
+   "slug": "mizumaki",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/mizumaki/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.854743,
+    "lon": 130.694906
+   }
+  },
+  {
+   "name": "Munakata",
+   "slug": "munakata",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/munakata/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.8055565,
+    "lon": 130.5401871
+   }
+  },
+  {
+   "name": "Nakagawashi",
+   "slug": "nakagawashi",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/nakagawashi/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.4994742,
+    "lon": 130.4219545
+   }
+  },
+  {
+   "name": "Nakama",
+   "slug": "nakama",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/nakama/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.816596,
+    "lon": 130.709115
+   }
+  },
+  {
+   "name": "Nogata",
+   "slug": "nogata",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/nogata/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.7440351,
+    "lon": 130.729601
+   }
+  },
+  {
+   "name": "Ogori",
+   "slug": "ogori",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/ogori/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.396507,
+    "lon": 130.555579
+   }
+  },
+  {
+   "name": "Okagaki",
+   "slug": "okagaki",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/okagaki/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.8535151,
+    "lon": 130.6116866
+   }
+  },
+  {
+   "name": "Okawashi",
+   "slug": "okawashi",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/okawashi/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.206583333,
+    "lon": 130.383888888
+   }
+  },
+  {
+   "name": "Oki",
+   "slug": "oki",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/oki/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.210412,
+    "lon": 130.439786
+   }
+  },
+  {
+   "name": "Omuta",
+   "slug": "omuta",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/omuta/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.030348,
+    "lon": 130.446012
+   }
+  },
+  {
+   "name": "Onga",
+   "slug": "onga",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/onga/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.848045,
+    "lon": 130.668198
+   }
+  },
+  {
+   "name": "Onojo",
+   "slug": "onojo",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/onojo/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.5362756,
+    "lon": 130.4787998
+   }
+  },
+  {
+   "name": "Oto",
+   "slug": "oto",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/oto/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.6121481,
+    "lon": 130.8538551
+   }
+  },
+  {
+   "name": "Sasaguri",
+   "slug": "sasaguri",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/sasaguri/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.623844,
+    "lon": 130.526242
+   }
+  },
+  {
+   "name": "Shime",
+   "slug": "shime",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/shime/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.591443,
+    "lon": 130.479794
+   }
+  },
+  {
+   "name": "Shingucho",
+   "slug": "shingucho",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/shingucho/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.7152244,
+    "lon": 130.4464297
+   }
+  },
+  {
+   "name": "Soeda",
+   "slug": "soeda",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/soeda/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.571746,
+    "lon": 130.854079
+   }
+  },
+  {
+   "name": "Sue",
+   "slug": "sue",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/sue/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.587209,
+    "lon": 130.507246
+   }
+  },
+  {
+   "name": "Tachiarai",
+   "slug": "tachiarai",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/tachiarai/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.372399,
+    "lon": 130.622407
+   }
+  },
+  {
+   "name": "Tagawa",
+   "slug": "tagawa",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/tagawa/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.638821,
+    "lon": 130.806136
+   }
+  },
+  {
+   "name": "Toho",
+   "slug": "toho",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/toho/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.397319,
+    "lon": 130.869942
+   }
+  },
+  {
+   "name": "Ukiha",
+   "slug": "ukiha",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/ukiha/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.3473884,
+    "lon": 130.7550897
+   }
+  },
+  {
+   "name": "Umi",
+   "slug": "umi",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/umi/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.567767,
+    "lon": 130.511162
+   }
+  },
+  {
+   "name": "Yame",
+   "slug": "yame",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/yame/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.2119309,
+    "lon": 130.5577627
+   }
+  },
+  {
+   "name": "Yanagawa",
+   "slug": "yanagawa",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/yanagawa/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.1630109,
+    "lon": 130.4059041
+   }
+  },
+  {
+   "name": "Yoshitomi",
+   "slug": "yoshitomi",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/yoshitomi/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.60272,
+    "lon": 131.175967
+   }
+  },
+  {
+   "name": "Yukuhashi",
+   "slug": "yukuhashi",
+   "prefecture": "fukuoka",
+   "url": "https://bokenjapan.com/fukuoka/yukuhashi/",
+   "official": null,
+   "sights": [],
+   "food": [],
+   "stays": [],
+   "geo": {
+    "lat": 33.7287962,
+    "lon": 130.982894
+   }
+  }
+ ]
+}
