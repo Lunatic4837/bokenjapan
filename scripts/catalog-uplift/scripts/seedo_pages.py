@@ -9,7 +9,7 @@ from PIL import Image, ImageStat
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from en_natural import natural_en
 UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/124 Safari/537.36'
-JA_CAT = {'体験工房・ものづくり': 'Hands-on craft workshop', 'アウトドア・アクティビティ': 'Outdoor activity site', 'アウトドア・スポーツ': 'Outdoor sports site',
+JA_CAT = {'ホテル、旅館': 'Hotel', '体験観光-産業': 'Factory tour and local products', '交流等': 'Hands-on community experience', 'スポーツ施設・公園': 'Sports facility or park', '遊園地、テーマパーク': 'Amusement park', '動・植物園、水族館': 'Zoo, botanical garden or aquarium', '工芸': 'Craft workshop', '自然・スポーツ': 'Outdoor activity', '朝市・産直': 'Morning market and farm-direct stand', '観光案内所': 'Tourist information center', '体験工房・ものづくり': 'Hands-on craft workshop', 'アウトドア・アクティビティ': 'Outdoor activity site', 'アウトドア・スポーツ': 'Outdoor sports site',
  'スキー場': 'Ski area', '海水浴場': 'Swimming beach', 'キャンプ場': 'Campground', 'ゴルフ場': 'Golf course', '登山・ロープウェイ': 'Mountain trail and ropeway',
  '観光施設': 'Visitor facility', '動植物園・水族館・テーマパーク': 'Zoo, aquarium or theme park', '体験': 'Hands-on experience', '舟下り・遊覧船': 'River boat or sightseeing cruise',
  'ワイナリー・酒蔵見学・ビール': 'Winery or brewery tour', 'フルーツ狩り': 'Fruit-picking farm', '農村体験': 'Farm-stay experience', '児童遊戯施設': "Children's play facility",
@@ -44,8 +44,8 @@ def card(root, slug, town, pref, r):
         desc = f'{JA_CAT[sub[0]]} in {town}, {pref}.' if sub else ''
     else: desc = first_sentence(r.get('desc'))
     ph = photo(root, slug, r); host = re.sub(r'^https?://([^/]+).*', r'\1', r['url'])
-    img = (f'<img class="thumb" src="/media/{ph[0]}" alt="{html.escape(en)}" width="{ph[1]}" height="{ph[2]}" loading="lazy">'
-           f'<!-- photo-credit: {host} · Source {r["url"]} -->') if ph else ''
+    img = (f'<img class="thumb" src="/media/{ph[0]}" alt="{html.escape(en)}" width="{ph[1]}" height="{ph[2]}" loading="lazy">' +
+           (f'<!-- photo-credit: {r["credit"]} · Source {r["og"].split("?")[0]} -->' if r.get('credit') else f'<!-- photo-credit: {host} · Source {r["url"]} -->')) if ph else ''
     tel = re.sub(r'[（(].*', '', r.get('tel') or '').strip()
     meta = f'{town}, {pref}' + (f' · {tel}' if re.fullmatch(r'0\d{1,4}-\d{1,4}-\d{3,4}', tel) else '')
     blurb = f'<p class="place-blurb">{html.escape(en)}</p>' if ja else ''
@@ -58,13 +58,13 @@ def run(root, pref, data, mx):
         x = json.loads(l)
         if x.get('in_town') and x.get('name'): rows[(x['muni'], x['kind'])].append(x)
     st = collections.Counter()
-    LAB = {'see': 'See', 'do': 'Do'}
+    LAB = {'see': 'See', 'do': 'Do', 'day-to-day': 'Day to day', 'stay': 'Stay'}
     for (slug, kind) in sorted(rows):
         base = f'{root}/{pref}/{slug}'
         if os.path.exists(f'{base}/{kind}/index.html'): continue
         hub = open(f'{base}/index.html').read()
         used = set(re.findall(r'<a href="(https?://[^"]+)"', ' '.join(open(f).read() for f in glob.glob(f'{base}/*/**/index.html', recursive=True))))
-        other = 'see' if kind == 'do' else 'do'
+        other = {'do': 'see', 'see': 'do'}.get(kind, 'none')
         taken = {x['url'] for x in rows.get((slug, other), [])} if os.path.exists(f'{base}/{other}/index.html') is False else set()
         pick, seen = [], set()
         for r in rows[(slug, kind)]:

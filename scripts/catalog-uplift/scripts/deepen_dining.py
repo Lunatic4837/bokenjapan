@@ -41,7 +41,7 @@ def main():
     for pg in range(1, A.pages + 1):
         if len(dining) >= A.target: break
         lst = get(f'{A.area.rstrip("/")}/rstLst/{pg}/?SrtT=rt').decode('utf-8', 'ignore')
-        urls = list(dict.fromkeys(re.findall(r'href="(' + re.escape(A.area.rstrip('/')) + r'/(\d+)/)"', lst)))
+        urls = list(dict.fromkeys(re.findall(r'href="(' + re.escape(A.area.rstrip('/')) + r'/(?:A\d+/)?(\d+)/)"', lst)))
         if not urls: break
         for u, rid in urls:
             if rid in have or len(dining) >= A.target: continue
