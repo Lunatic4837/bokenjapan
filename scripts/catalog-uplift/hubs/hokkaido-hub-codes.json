@@ -1978,7 +1978,7 @@
       "address_filter": "東川町",
       "skip": false
     },
-    "jis01695": {
+    "shikotan": {
       "name_ja": "色丹村",
       "name_en": "Shikotan",
       "jis": "01695",
@@ -1989,24 +1989,12 @@
       "address_filter": "色丹村",
       "skip": true,
       "honest_zero_stay": true,
-      "nt": true
+      "nt": true,
+      "slug": "shikotan"
     },
-    "jis01696": {
-      "name_ja": "歯舞村",
-      "name_en": "Haku",
-      "jis": "01696",
-      "tabelog_c": "",
-      "ta_geo": "",
-      "ta_place": "",
-      "jalan_cty": "",
-      "address_filter": "歯舞村",
-      "skip": true,
-      "honest_zero_stay": true,
-      "nt": true
-    },
-    "jis01697": {
+    "ruyobetsu": {
       "name_ja": "留夜別村",
-      "name_en": "Ryu Yoru Betsu",
+      "name_en": "Ruyobetsu",
       "jis": "01697",
       "tabelog_c": "",
       "ta_geo": "",
@@ -2015,9 +2003,10 @@
       "address_filter": "留夜別村",
       "skip": true,
       "honest_zero_stay": true,
-      "nt": true
+      "nt": true,
+      "slug": "ruyobetsu"
     },
-    "jis01698": {
+    "ryubetsu": {
       "name_ja": "留別村",
       "name_en": "Ryubetsu",
       "jis": "01698",
@@ -2028,9 +2017,10 @@
       "address_filter": "留別村",
       "skip": true,
       "honest_zero_stay": true,
-      "nt": true
+      "nt": true,
+      "slug": "ryubetsu"
     },
-    "jis01699": {
+    "shana": {
       "name_ja": "紗那村",
       "name_en": "Shana",
       "jis": "01699",
@@ -2041,9 +2031,10 @@
       "address_filter": "紗那村",
       "skip": true,
       "honest_zero_stay": true,
-      "nt": true
+      "nt": true,
+      "slug": "shana"
     },
-    "jis01700": {
+    "shibetoro": {
       "name_ja": "蘂取村",
       "name_en": "Shibetoro",
       "jis": "01700",
@@ -2054,7 +2045,22 @@
       "address_filter": "蘂取村",
       "skip": true,
       "honest_zero_stay": true,
-      "nt": true
+      "nt": true,
+      "slug": "shibetoro"
+    },
+    "tomari-nt": {
+      "name_ja": "泊村",
+      "name_en": "Tomari (Chishima)",
+      "jis": "01696",
+      "tabelog_c": "",
+      "ta_geo": "",
+      "ta_place": "",
+      "jalan_cty": "",
+      "address_filter": "泊村",
+      "skip": true,
+      "honest_zero_stay": true,
+      "nt": true,
+      "slug": "tomari-nt"
     }
   }
 }
