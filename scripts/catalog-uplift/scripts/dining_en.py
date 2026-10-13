@@ -13,11 +13,21 @@ from en_natural import natural_en, _K
 KATA_ROMAJI = (r'Resutoran|Kafe|Doraibuin|Hoteru|Bijinesu|Raamen|Intaa|Sentaa|Kyapitaru|Orenji|Bukku|Keeki|Pabu|Sausu|Hiruzu|'
                r'Famirii|Sutoa|Dainingu|Kicchin|Shokudou|Chuuou|Choudou|Bisutoro|Pasuta|Karee|Makudonarudo|Doraibu|Paaku|Hausu|'
                r'Shoppu|Mooru|Gaaden|Faamu|Biiru|Kureepu|Penshon|Gesutohausu|Rizooto|Sebun|Rooson|Ionmooru')
-BAD = re.compile(r'(\b(%s)|[a-z](aa|ii|uu|ee)|\b(No|Ke|Ga|Wo|Ni)$|\bMise\b|&#x?\w+;|&amp;|&quot;)' % KATA_ROMAJI)
+BAD = re.compile(r'(\b(%s)|[a-z](aa|uu|ee)|\b(No|Ke|Ga|Wo|Ni)$|\bMise\b|&#x?\w+;|&amp;|&quot;)' % KATA_ROMAJI)
 import json as _j
 _EN = set()
 for _v in _j.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'loan_jm.json'))).values(): _EN.update(w.lower() for w in re.findall(r"[A-Za-z]+", _v))
+_SHORT_OK = {'no', 'to', 'yu', 'ya', 'an', 'the', 'and', 'of', 'de', 'la', 'le', 'du', 'bar', 'inn', 'spa', 'pub', 'cafe', 'by', 'in', 'at', 'a', 'bbq', 'kan', 'tei', 'so', 'en'}
+def split_hits(b):
+    """strict rule: broken word splits = 2+ adjacent short (1-3 letter) capitalised romaji tokens that are not English"""
+    t = re.findall(r"[A-Za-z]+(?:-[a-z]+)?", b or '')
+    sh = [bool(re.fullmatch(r'[A-Z][a-z]{0,2}', x)) and x.lower() not in _SHORT_OK and x.lower() not in _EN for x in t]
+    return any(sh[k] and sh[k + 1] for k in range(len(sh) - 1))
+from en_natural import OVERRIDES
+_OK = set(OVERRIDES.values())
 def is_stiff(b, n=''):
+    if b in _OK: return False
+    if split_hits(b): return True
     for t in re.findall(r"[A-Za-z&#;0-9]+", b or ''):
         if BAD.search(t) or (t in ('No', 'Ke', 'Ga', 'Wo', 'Ni') and b.endswith(' ' + t)):
             if t.lower() in _EN or t.lower() in (n or '').lower(): continue
@@ -34,15 +44,24 @@ def mechanical(n, b):
     if not re.search(r'[ぁ-んァ-ヴ一-龥]', n): return False
     k = ''.join(x['hepburn'] for x in _K.convert(n))
     return skel(k) == skel(b)
+_OLD = []
+for _f in ('/tmp/oldnat/en_natural_old.py', '/tmp/oldnat/en_natural_old0.py'):
+    try:
+        import importlib.util as _iu
+        _sp = _iu.spec_from_file_location(os.path.basename(_f)[:-3], _f); _m = _iu.module_from_spec(_sp); _sp.loader.exec_module(_m); _OLD.append(_m.natural_en)
+    except Exception: pass
+def _was_generated(n, b):  # output of an earlier natural_en version -> safe to regenerate with the current one
+    return any(f(n) == b for f in _OLD)
 def fix_card(li, muni_ja, muni_en, st):
     m = re.search(r'<p class="place-name">([^<]*)</p>', li); mb = re.search(r'<p class="place-blurb">([^<]*)</p>', li)
     if not m or not mb: return li
     n = unesc(m.group(1)); b = unesc(mb.group(1))
     new = b
-    if not re.search(r'[ぁ-んァ-ヴ一-龥]', n) and re.search(r'(aa|ii|uu|ee|oo)|Doraibuin|Resutoran|Kafe|Hoteru|\bMise\b', b):
+    if n.strip() in OVERRIDES: new = OVERRIDES[n.strip()]
+    elif not re.search(r'[ぁ-んァ-ヴ一-龥]', n) and re.search(r'(aa|ii|uu|ee|oo)|Doraibuin|Resutoran|Kafe|Hoteru|\bMise\b', b):
         cand = natural_en(b)
         if cand and cand != b: new = cand
-    elif mechanical(n, b) or is_stiff(b, n):
+    elif mechanical(n, b) or is_stiff(b, n) or _was_generated(n, b):
         cand = natural_en(n, muni_ja, muni_en)
         if cand and re.search(r'[A-Za-z]', cand): new = cand
     if not re.search(r'[ぁ-んァ-ヴ一-龥]', n) and re.search(r'Doraibuin|Resutoran|Kafe|Hoteru|\bMise\b', n):
