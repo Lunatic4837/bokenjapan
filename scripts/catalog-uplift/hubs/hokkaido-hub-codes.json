@@ -389,17 +389,6 @@
       "skip": false,
       "jalan_cty_note": "jalan_page_error_screen_may_be_zero"
     },
-    "hidakacho-01601": {
-      "name_ja": "日高町",
-      "name_en": "Hidakacho",
-      "jis": "01601",
-      "tabelog_c": "C01601",
-      "ta_geo": "",
-      "ta_place": "Hidakacho_Hokkaido_Hokkaido",
-      "jalan_cty": "CTY_020000000000155",
-      "address_filter": "日高町",
-      "skip": false
-    },
     "higashikagura": {
       "name_ja": "東神楽町",
       "name_en": "Higashikagura",
@@ -475,17 +464,6 @@
       "ta_place": "Horonobe_Hokkaido_Hokkaido",
       "jalan_cty": "CTY_020000000000123",
       "address_filter": "幌延町",
-      "skip": false
-    },
-    "ikedacho-01644": {
-      "name_ja": "池田町",
-      "name_en": "Ikedacho",
-      "jis": "01644",
-      "tabelog_c": "C01644",
-      "ta_geo": "",
-      "ta_place": "Ikedacho_Hokkaido_Hokkaido",
-      "jalan_cty": "CTY_020000000000174",
-      "address_filter": "池田町",
       "skip": false
     },
     "imakane": {
@@ -629,17 +607,6 @@
       "ta_place": "Kimobetsu_Hokkaido_Hokkaido",
       "jalan_cty": "CTY_020000000000071",
       "address_filter": "喜茂別町",
-      "skip": false
-    },
-    "kitahiroshima-01234": {
-      "name_ja": "北広島市",
-      "name_en": "Kitahiroshima",
-      "jis": "01234",
-      "tabelog_c": "C01234",
-      "ta_geo": "",
-      "ta_place": "Kitahiroshima_Hokkaido_Hokkaido",
-      "jalan_cty": "CTY_020000000000043",
-      "address_filter": "北広島市",
       "skip": false
     },
     "kitami": {
@@ -849,17 +816,6 @@
       "ta_place": "Monbetsu_Hokkaido_Hokkaido",
       "jalan_cty": "CTY_020000000000029",
       "address_filter": "紋別市",
-      "skip": false
-    },
-    "moricho-01345": {
-      "name_ja": "森町",
-      "name_en": "Moricho",
-      "jis": "01345",
-      "tabelog_c": "C01345",
-      "ta_geo": "",
-      "ta_place": "Moricho_Hokkaido_Hokkaido",
-      "jalan_cty": "CTY_020000000000054",
-      "address_filter": "森町",
       "skip": false
     },
     "moseushi": {
@@ -1480,17 +1436,6 @@
       "skip": false,
       "jalan_cty_note": "jalan_page_error_screen_may_be_zero"
     },
-    "shimizucho-01636": {
-      "name_ja": "清水町",
-      "name_en": "Shimizucho",
-      "jis": "01636",
-      "tabelog_c": "C01636",
-      "ta_geo": "",
-      "ta_place": "Shimizucho_Hokkaido_Hokkaido",
-      "jalan_cty": "CTY_020000000000167",
-      "address_filter": "清水町",
-      "skip": false
-    },
     "shimokawa": {
       "name_ja": "下川町",
       "name_en": "Shimokawa",
@@ -1634,17 +1579,6 @@
       "address_filter": "寿都町",
       "skip": false,
       "jalan_cty_note": "jalan_page_error_screen_may_be_zero"
-    },
-    "taiki-01641": {
-      "name_ja": "大樹町",
-      "name_en": "Taiki",
-      "jis": "01641",
-      "tabelog_c": "C01641",
-      "ta_geo": "",
-      "ta_place": "Taiki_Hokkaido_Hokkaido",
-      "jalan_cty": "CTY_020000000000171",
-      "address_filter": "大樹町",
-      "skip": false
     },
     "takasu": {
       "name_ja": "鷹栖町",
@@ -2061,6 +1995,78 @@
       "honest_zero_stay": true,
       "nt": true,
       "slug": "tomari-nt"
+    },
+    "hidakacho": {
+      "name_ja": "日高町",
+      "name_en": "Hidaka",
+      "jis": "01601",
+      "tabelog_c": "C01601",
+      "ta_geo": "",
+      "ta_place": "Hidakacho_Hokkaido_Hokkaido",
+      "jalan_cty": "CTY_020000000000155",
+      "address_filter": "日高町",
+      "skip": false,
+      "slug": "hidakacho"
+    },
+    "ikedacho": {
+      "name_ja": "池田町",
+      "name_en": "Ikeda",
+      "jis": "01644",
+      "tabelog_c": "C01644",
+      "ta_geo": "",
+      "ta_place": "Ikedacho_Hokkaido_Hokkaido",
+      "jalan_cty": "CTY_020000000000174",
+      "address_filter": "池田町",
+      "skip": false,
+      "slug": "ikedacho"
+    },
+    "kitahiroshima": {
+      "name_ja": "北広島市",
+      "name_en": "Kitahiroshima",
+      "jis": "01234",
+      "tabelog_c": "C01234",
+      "ta_geo": "",
+      "ta_place": "Kitahiroshima_Hokkaido_Hokkaido",
+      "jalan_cty": "CTY_020000000000043",
+      "address_filter": "北広島市",
+      "skip": false,
+      "slug": "kitahiroshima"
+    },
+    "moricho": {
+      "name_ja": "森町",
+      "name_en": "Mori",
+      "jis": "01345",
+      "tabelog_c": "C01345",
+      "ta_geo": "",
+      "ta_place": "Moricho_Hokkaido_Hokkaido",
+      "jalan_cty": "CTY_020000000000054",
+      "address_filter": "森町",
+      "skip": false,
+      "slug": "moricho"
+    },
+    "shimizucho": {
+      "name_ja": "清水町",
+      "name_en": "Shimizu",
+      "jis": "01636",
+      "tabelog_c": "C01636",
+      "ta_geo": "",
+      "ta_place": "Shimizucho_Hokkaido_Hokkaido",
+      "jalan_cty": "CTY_020000000000167",
+      "address_filter": "清水町",
+      "skip": false,
+      "slug": "shimizucho"
+    },
+    "taiki": {
+      "name_ja": "大樹町",
+      "name_en": "Taiki",
+      "jis": "01641",
+      "tabelog_c": "C01641",
+      "ta_geo": "",
+      "ta_place": "Taiki_Hokkaido_Hokkaido",
+      "jalan_cty": "CTY_020000000000171",
+      "address_filter": "大樹町",
+      "skip": false,
+      "slug": "taiki"
     }
   }
 }

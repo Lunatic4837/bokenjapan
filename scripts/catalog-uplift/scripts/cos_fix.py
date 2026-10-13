@@ -154,6 +154,10 @@ def fix_page(path: Path, pref: str, slug: str, data: dict, media_root: Path, nop
     town = (data.get('names_en') or {}).get(slug) or re.search(r'<h1 class="page-title">([^<]+)</h1>', html).group(1)
     page_key = f'{pref}/{slug}'
     html = fix_head(html, pref, slug, town, pref_en)
+    muni = (data.get('muni_ja') or {}).get(slug, '')
+    if muni:
+        html = re.sub(r'\s*<!-- muni-ja: [^>]*-->', '', html)
+        html = html.replace('</title>', f'</title>\n  <!-- muni-ja: {muni} -->', 1)
     html = html.replace('&amp;#39;', '&#39;').replace('&amp;amp;', '&amp;')   # double-escaped text (X5)
     secs = {}
     for t in ('Stay', 'Dining', 'Sights'):
@@ -178,6 +182,9 @@ def fix_page(path: Path, pref: str, slug: str, data: dict, media_root: Path, nop
             gd = genre_desc(area, town, pref_en)
             if gd:
                 li = re.sub(r'<p class="place-desc">Restaurant in [^<]*</p>', f'<p class="place-desc">{esc(gd)}</p>', li)
+            li = re.sub(r'<p class="place-desc">(?:Restaurant|Lodging) in [^<]+</p>', '', li)
+            if muni and area and 'locality-addr:' not in li:
+                li = li.replace('</li>', f'<!-- locality-addr: {esc(area)} --></li>')
             li = placeholder_photo(li, media_root, nophoto_log, page_key, 'Dining')
             keep.append(li)
         keep = renumber(keep, town)
