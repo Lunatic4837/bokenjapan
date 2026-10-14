@@ -18,7 +18,7 @@
     "address": "Fudai, Iwate 028-8392",
     "phone": "0194-35-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Ochiai Farm-Direct Market",
@@ -44,7 +44,7 @@
    "food": [
     {
      "name": "ピーターズ・カフェ",
-     "name_en": "Pitazu Cafe",
+     "name_en": "Peters Cafe",
      "description": "Coffee shop in Fudai, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030406/3010998/",
      "page": "https://bokenjapan.com/iwate/fudai/eat/cafe/",
@@ -60,7 +60,7 @@
     },
     {
      "name": "魚定",
-     "name_en": "Sakana Tei",
+     "name_en": "Sakanatei",
      "description": "Shokudo diner in Fudai, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030406/3001158/",
      "page": "https://bokenjapan.com/iwate/fudai/eat/casual/",
@@ -84,7 +84,7 @@
     },
     {
      "name": "いち龍",
-     "name_en": "Ichi Ryu",
+     "name_en": "Ichiryu",
      "description": "Ramen shop in Fudai, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030406/3001155/",
      "page": "https://bokenjapan.com/iwate/fudai/eat/noodles/",
@@ -280,7 +280,7 @@
     "address": "Hachimantai, Iwate 028-7397",
     "phone": "0195-74-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Kitadate Noodle Factory",
@@ -306,7 +306,7 @@
    "food": [
     {
      "name": "ノレグレット",
-     "name_en": "Noregu Let",
+     "name_en": "Nollegretto",
      "description": "Café in Hachimantai, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030501/3009379/",
      "page": "https://bokenjapan.com/iwate/hachimantai/eat/cafe/",
@@ -322,7 +322,7 @@
     },
     {
      "name": "むら重",
-     "name_en": "Mura Ju",
+     "name_en": "Muraju",
      "description": "Shokudo diner in Hachimantai, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030501/3002184/",
      "page": "https://bokenjapan.com/iwate/hachimantai/eat/casual/",
@@ -330,7 +330,7 @@
     },
     {
      "name": "岩手山サービスエリア(下り線)スナックコーナー",
-     "name_en": "Iwate Yama Service Area Kudari Sen Snack Corner",
+     "name_en": "Iwate Yama Service Area Kudarisen Snack Corner",
      "description": "Shokudo diner in Hachimantai, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030501/3005323/",
      "page": "https://bokenjapan.com/iwate/hachimantai/eat/casual/",
@@ -338,7 +338,7 @@
     },
     {
      "name": "丸初",
-     "name_en": "Maru Hatsu",
+     "name_en": "Maruhatsu",
      "description": "Shokudo diner in Hachimantai, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030501/3003463/",
      "page": "https://bokenjapan.com/iwate/hachimantai/eat/casual/",
@@ -354,7 +354,7 @@
     },
     {
      "name": "岩手山サービスエリア(上り線) スナックコーナー",
-     "name_en": "Iwate Yama Service Area Nobori Sen Snack Corner",
+     "name_en": "Iwate Yama Service Area Noborisen Snack Corner",
      "description": "Shokudo diner in Hachimantai, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030501/3005324/",
      "page": "https://bokenjapan.com/iwate/hachimantai/eat/casual/",
@@ -370,7 +370,7 @@
     },
     {
      "name": "藤七温泉 彩雲荘",
-     "name_en": "Fuji Shichi Onsen Saiun-so",
+     "name_en": "Fujishichi Onsen Saiun-so",
      "description": "Inn restaurant in Hachimantai, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030501/3004575/",
      "page": "https://bokenjapan.com/iwate/hachimantai/eat/other/",
@@ -378,7 +378,7 @@
     },
     {
      "name": "松川温泉 峡雲荘",
-     "name_en": "Matsukawa Onsen Kyo Kumo-so",
+     "name_en": "Matsukawa Onsen Kyokumo-so",
      "description": "Inn restaurant in Hachimantai, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030501/3006319/",
      "page": "https://bokenjapan.com/iwate/hachimantai/eat/other/",
@@ -386,7 +386,7 @@
     },
     {
      "name": "ANAクラウンプラザリゾート安比高原",
-     "name_en": "ANA Crown Plaza Resort Appikogen",
+     "name_en": "ANA Crown Plaza Resort An Hi Kogen",
      "description": "Hotel restaurant in Hachimantai, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030501/3006670/",
      "page": "https://bokenjapan.com/iwate/hachimantai/eat/other/",
@@ -418,7 +418,7 @@
     },
     {
      "name": "安比高原 森のホテル",
-     "name_en": "Appikogen Mori no Hotel",
+     "name_en": "An Hi Kogen Mori no Hotel",
      "description": "Hotel restaurant in Hachimantai, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030501/3011724/",
      "page": "https://bokenjapan.com/iwate/hachimantai/eat/other/",
@@ -426,7 +426,7 @@
     },
     {
      "name": "四季館 彩冬",
-     "name_en": "Shiki-kan Sai Fuyu",
+     "name_en": "Shiki-kan Saifuyu",
      "description": "Ryokan restaurant in Hachimantai, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030501/3000524/",
      "page": "https://bokenjapan.com/iwate/hachimantai/eat/other-japanese/",
@@ -442,7 +442,7 @@
     },
     {
      "name": "和食と郷土料理 七時雨",
-     "name_en": "Washoku To Kyodoryori Shichiji Ame",
+     "name_en": "Washoku to Kyodo Ryori Shichijiame",
      "description": "Local-cuisine restaurant in Hachimantai, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030501/3000754/",
      "page": "https://bokenjapan.com/iwate/hachimantai/eat/other-japanese/",
@@ -548,28 +548,28 @@
     },
     {
      "name": "天然温泉付 ペンション＆貸別荘 レンガ館",
-     "name_en": "Natural Onsen Tsuki Pension & Tai Betsu-so Renga-kan",
+     "name_en": "Natural Onsen Tsuki Pension & Taibetsu-so Renga-kan",
      "description": "Pension in Hachimantai, Iwate.",
      "source_url": "https://www.jalan.net/yad301590/",
      "page": "https://bokenjapan.com/iwate/hachimantai/stay/"
     },
     {
      "name": "八幡平温泉郷 ペンション日の出",
-     "name_en": "Hachimantai Onsen Sato Pension Hinode",
+     "name_en": "Hachimantai Onsen Sato Pension Nichi no Shutsu",
      "description": "Pension in Hachimantai, Iwate.",
      "source_url": "https://www.jalan.net/yad386148/",
      "page": "https://bokenjapan.com/iwate/hachimantai/stay/"
     },
     {
      "name": "ペンション ムース",
-     "name_en": "Pension Musu",
+     "name_en": "Pension Mousse",
      "description": "Pension in Hachimantai, Iwate.",
      "source_url": "https://www.jalan.net/yad337108/",
      "page": "https://bokenjapan.com/iwate/hachimantai/stay/"
     },
     {
      "name": "ペンションアドバンテージ",
-     "name_en": "Pension Adobanteji",
+     "name_en": "Pension Advantage",
      "description": "Pension in Hachimantai, Iwate.",
      "source_url": "https://www.jalan.net/yad313734/",
      "page": "https://bokenjapan.com/iwate/hachimantai/stay/"
@@ -583,7 +583,7 @@
     },
     {
      "name": "八幡平ライジングサンホテル",
-     "name_en": "Hachimantai Raijingusan Hotel",
+     "name_en": "Hachimantai Rising Sun Hotel",
      "description": "Hotel in Hachimantai, Iwate.",
      "source_url": "https://www.jalan.net/yad335906/",
      "page": "https://bokenjapan.com/iwate/hachimantai/stay/"
@@ -605,7 +605,7 @@
     "address": "Hanamaki, Iwate 025-8601",
     "phone": "0198-24-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Kaachan Restaurant Tsuta no Wa",
@@ -643,7 +643,7 @@
    "food": [
     {
      "name": "マルカンビル大食堂",
-     "name_en": "Markka Nbiru Dai Shokudo",
+     "name_en": "Marukan Biru Daishokudo",
      "description": "Shokudo diner in Hanamaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030201/3009561/",
      "page": "https://bokenjapan.com/iwate/hanamaki/eat/casual/",
@@ -667,7 +667,7 @@
     },
     {
      "name": "HANAMAKI モダンチャイニーズ 蓮",
-     "name_en": "Hanamaki Modern Chai Nizu Hasu",
+     "name_en": "Hanamaki Modern Chinese Ren",
      "description": "Chinese restaurant in Hanamaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030201/3010326/",
      "page": "https://bokenjapan.com/iwate/hanamaki/eat/chinese-asian/",
@@ -675,7 +675,7 @@
     },
     {
      "name": "夜来香",
-     "name_en": "Yarai Kaori",
+     "name_en": "Yaraikaori",
      "description": "Gyoza restaurant in Hanamaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030201/3004285/",
      "page": "https://bokenjapan.com/iwate/hanamaki/eat/chinese-asian/",
@@ -683,7 +683,7 @@
     },
     {
      "name": "一品香",
-     "name_en": "Ippin Kaori",
+     "name_en": "Ippinkaori",
      "description": "Chinese restaurant in Hanamaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030201/3000448/",
      "page": "https://bokenjapan.com/iwate/hanamaki/eat/chinese-asian/",
@@ -699,7 +699,7 @@
     },
     {
      "name": "ピッツェリア チンクエ",
-     "name_en": "Pittsueria Chinkue",
+     "name_en": "Pizzeria Chinkue",
      "description": "Pizzeria in Hanamaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030201/3004267/",
      "page": "https://bokenjapan.com/iwate/hanamaki/eat/european/",
@@ -707,7 +707,7 @@
     },
     {
      "name": "山猫軒",
-     "name_en": "Yamaneko Ken",
+     "name_en": "Yamanekoken",
      "description": "Yoshoku (Western-style) restaurant in Hanamaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030201/3000699/",
      "page": "https://bokenjapan.com/iwate/hanamaki/eat/european/",
@@ -715,7 +715,7 @@
     },
     {
      "name": "ポパイ",
-     "name_en": "Popai",
+     "name_en": "Popeye",
      "description": "Yoshoku (Western-style) restaurant in Hanamaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030201/3000842/",
      "page": "https://bokenjapan.com/iwate/hanamaki/eat/european/",
@@ -723,7 +723,7 @@
     },
     {
      "name": "リットワークプレイス",
-     "name_en": "Rittowakupu Wraith",
+     "name_en": "Lit Work Place",
      "description": "Beer bar in Hanamaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030201/3010781/",
      "page": "https://bokenjapan.com/iwate/hanamaki/eat/izakaya-bars/",
@@ -731,7 +731,7 @@
     },
     {
      "name": "味楽苑 本店",
-     "name_en": "Aji Raku-en main branch",
+     "name_en": "Ajiraku-en main branch",
      "description": "Yakiniku (grilled meat) restaurant in Hanamaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030201/3004487/",
      "page": "https://bokenjapan.com/iwate/hanamaki/eat/meat/",
@@ -739,7 +739,7 @@
     },
     {
      "name": "焼肉・定食・冷麺 味楽苑 道の駅店",
-     "name_en": "Yakiniku Teishoku Reimen Aji Raku-en Michi-no-Eki branch",
+     "name_en": "Yakiniku Teishoku Reimen Ajiraku-en Michi-no-Eki branch",
      "description": "Yakiniku (grilled meat) restaurant in Hanamaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030201/3011185/",
      "page": "https://bokenjapan.com/iwate/hanamaki/eat/meat/",
@@ -755,7 +755,7 @@
     },
     {
      "name": "やぶ屋総本店",
-     "name_en": "Yabu Ya So main branch",
+     "name_en": "Yabuyaso main branch",
      "description": "Soba restaurant in Hanamaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030201/3000362/",
      "page": "https://bokenjapan.com/iwate/hanamaki/eat/noodles/",
@@ -771,7 +771,7 @@
     },
     {
      "name": "嘉司屋",
-     "name_en": "Ka Tsukasa-ya",
+     "name_en": "Katsukasa-ya",
      "description": "Soba restaurant in Hanamaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030201/3000118/",
      "page": "https://bokenjapan.com/iwate/hanamaki/eat/noodles/",
@@ -787,7 +787,7 @@
     },
     {
      "name": "なめとこ山庵",
-     "name_en": "Nametoko Yama Iori",
+     "name_en": "Nametoko Yama-an",
      "description": "Soba restaurant in Hanamaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030201/3000502/",
      "page": "https://bokenjapan.com/iwate/hanamaki/eat/noodles/",
@@ -795,7 +795,7 @@
     },
     {
      "name": "佳松園",
-     "name_en": "Kasho Sono",
+     "name_en": "Kashosono",
      "description": "Ryokan restaurant in Hanamaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030201/3000983/",
      "page": "https://bokenjapan.com/iwate/hanamaki/eat/other/",
@@ -803,7 +803,7 @@
     },
     {
      "name": "いしどりや懐食 新亀家",
-     "name_en": "Ishidoriya Futokoro Shoku Shin Kame Ie",
+     "name_en": "Ishidoriya Futokoroshoku Shinkameie",
      "description": "Japanese restaurant in Hanamaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030204/3003123/",
      "page": "https://bokenjapan.com/iwate/hanamaki/eat/other-japanese/",
@@ -811,7 +811,7 @@
     },
     {
      "name": "石窯パン工房ミッシェル 花巻本店",
-     "name_en": "Ishigama Bread Kobo Mitsu Shell Hanamaki main branch",
+     "name_en": "Ishigama Pan Kobo Michel Hanamaki main branch",
      "description": "Bakery in Hanamaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030201/3001320/",
      "page": "https://bokenjapan.com/iwate/hanamaki/eat/sweets-bakeries/",
@@ -892,7 +892,7 @@
     },
     {
      "name": "ホテルグランシェール花巻",
-     "name_en": "Hotel Gran Shieru Hanamaki",
+     "name_en": "Hotel Gran Shale Hanamaki",
      "description": "Hotel in Hanamaki, Iwate.",
      "source_url": "https://www.jalan.net/yad308944/",
      "page": "https://bokenjapan.com/iwate/hanamaki/stay/"
@@ -920,7 +920,7 @@
     },
     {
      "name": "花巻温泉 ホテル千秋閣（せんしゅうかく）",
-     "name_en": "Hanamaki Onsen Hotel Senshu-kaku Senshukaku",
+     "name_en": "Hanamaki Onsen Hotel Senshukaku",
      "description": "Hotel in Hanamaki, Iwate.",
      "source_url": "https://www.jalan.net/yad302506/",
      "page": "https://bokenjapan.com/iwate/hanamaki/stay/"
@@ -942,7 +942,21 @@
     "address": "Hiraizumi, Iwate 029-4192",
     "phone": "0191-46-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "Hiraizumi Station",
+     "description": "Railway station in Hiraizumi, Nishiiwai district, Iwate prefecture, Japan.",
+     "source_url": "https://en.wikipedia.org/wiki/Hiraizumi_Station",
+     "page": "https://bokenjapan.com/iwate/hiraizumi/day-to-day/"
+    },
+    {
+     "name": "Roadside station Hiraizumi",
+     "description": "Roadside station in Hiraizumi, Nishiiwai district, Iwate prefecture, Japan.",
+     "source_url": "http://www.wikidata.org/entity/Q28685327",
+     "page": "https://bokenjapan.com/iwate/hiraizumi/day-to-day/"
+    }
+   ],
    "activities": [
     {
      "name": "Roadside Station Hiraizumi",
@@ -982,7 +996,7 @@
     },
     {
      "name": "夢乃風",
-     "name_en": "Yumeno Kaze",
+     "name_en": "Yumenokaze",
      "description": "Noodle shop in Hiraizumi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030303/3006254/",
      "page": "https://bokenjapan.com/iwate/hiraizumi/eat/noodles/",
@@ -1006,7 +1020,7 @@
     },
     {
      "name": "そば処義家",
-     "name_en": "Soba-dokoro Yoshie",
+     "name_en": "Soba-dokoro Yoshiie",
      "description": "Soba restaurant in Hiraizumi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030303/3001847/",
      "page": "https://bokenjapan.com/iwate/hiraizumi/eat/noodles/",
@@ -1030,7 +1044,7 @@
     },
     {
      "name": "泉橋庵 支店",
-     "name_en": "Senkyo Iori branch",
+     "name_en": "Senkyo-an branch",
      "description": "Soba restaurant in Hiraizumi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030303/3000471/",
      "page": "https://bokenjapan.com/iwate/hiraizumi/eat/noodles/",
@@ -1038,7 +1052,7 @@
     },
     {
      "name": "衣関屋",
-     "name_en": "Koromo Kan-ya",
+     "name_en": "Koromokan-ya",
      "description": "Soba restaurant in Hiraizumi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030303/3005425/",
      "page": "https://bokenjapan.com/iwate/hiraizumi/eat/noodles/",
@@ -1046,7 +1060,7 @@
     },
     {
      "name": "登龍門",
-     "name_en": "Toryu Mon",
+     "name_en": "Toryumon",
      "description": "Ramen shop in Hiraizumi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030303/3005760/",
      "page": "https://bokenjapan.com/iwate/hiraizumi/eat/noodles/",
@@ -1054,7 +1068,7 @@
     },
     {
      "name": "そば庵しづか亭",
-     "name_en": "Soba Iori Shizuka-tei",
+     "name_en": "Soba-an Shizuka-tei",
      "description": "Ryokan restaurant in Hiraizumi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030301/3002094/",
      "page": "https://bokenjapan.com/iwate/hiraizumi/eat/noodles/",
@@ -1062,7 +1076,7 @@
     },
     {
      "name": "麺房 高松庵 平泉店",
-     "name_en": "Men Bo Takamatsu Iori Hiraizumi branch",
+     "name_en": "Menbo Takamatsu-an Hiraizumi branch",
      "description": "Soba restaurant in Hiraizumi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030303/3006986/",
      "page": "https://bokenjapan.com/iwate/hiraizumi/eat/noodles/",
@@ -1070,7 +1084,7 @@
     },
     {
      "name": "泉橋庵 総本店",
-     "name_en": "Senkyo Iori So main branch",
+     "name_en": "Senkyo-an So main branch",
      "description": "Udon restaurant in Hiraizumi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030303/3003930/",
      "page": "https://bokenjapan.com/iwate/hiraizumi/eat/noodles/",
@@ -1078,7 +1092,7 @@
     },
     {
      "name": "松風庵",
-     "name_en": "Matsukaze Iori",
+     "name_en": "Shofu-an",
      "description": "Soba restaurant in Hiraizumi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030303/3006713/",
      "page": "https://bokenjapan.com/iwate/hiraizumi/eat/noodles/",
@@ -1086,7 +1100,7 @@
     },
     {
      "name": "ラーメン あさひ野",
-     "name_en": "Ramen Asahi",
+     "name_en": "Ramen Asahino",
      "description": "Ramen shop in Hiraizumi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030303/3012438/",
      "page": "https://bokenjapan.com/iwate/hiraizumi/eat/noodles/",
@@ -1102,7 +1116,7 @@
     },
     {
      "name": "武蔵坊",
-     "name_en": "Musashi Bo",
+     "name_en": "Musashibo",
      "description": "Hotel restaurant in Hiraizumi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030303/3004596/",
      "page": "https://bokenjapan.com/iwate/hiraizumi/eat/other/",
@@ -1118,7 +1132,7 @@
     },
     {
      "name": "奥の細道展",
-     "name_en": "Oku no Hosomichi branch",
+     "name_en": "Oku no Hosomichiten",
      "description": "Japanese sweets café in Hiraizumi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030303/3006888/",
      "page": "https://bokenjapan.com/iwate/hiraizumi/eat/sweets-bakeries/",
@@ -1134,7 +1148,7 @@
     },
     {
      "name": "(有)千葉恵製菓",
-     "name_en": "Chiba Megumi Seika",
+     "name_en": "Chibamegumi Seika",
      "description": "Japanese sweets shop in Hiraizumi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030301/3006118/",
      "page": "https://bokenjapan.com/iwate/hiraizumi/eat/sweets-bakeries/",
@@ -1142,7 +1156,7 @@
     },
     {
      "name": "松栄堂 弁慶園",
-     "name_en": "Shoei Do Benkei Sono",
+     "name_en": "Shoeido Benkeisono",
      "description": "Japanese sweets shop in Hiraizumi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030303/3007230/",
      "page": "https://bokenjapan.com/iwate/hiraizumi/eat/sweets-bakeries/",
@@ -1308,14 +1322,14 @@
     },
     {
      "name": "平泉ホテル武蔵坊",
-     "name_en": "Hiraizumi Hotel Musashi Bo",
+     "name_en": "Hiraizumi Hotel Musashibo",
      "description": "Hotel in Hiraizumi, Iwate.",
      "source_url": "https://www.jalan.net/yad319505/",
      "page": "https://bokenjapan.com/iwate/hiraizumi/stay/"
     },
     {
      "name": "奥州平泉温泉 そば庵 しづか亭",
-     "name_en": "Oshu Hiraizumi Onsen Soba Iori Shizuka-tei",
+     "name_en": "Oshu Hiraizumi Onsen Soba-an Shizuka-tei",
      "description": "Onsen lodging in Hiraizumi, Iwate.",
      "source_url": "https://www.jalan.net/yad316812/",
      "page": "https://bokenjapan.com/iwate/hiraizumi/stay/"
@@ -1337,7 +1351,7 @@
     "address": "Hirono, Iwate 028-7995",
     "phone": "0194-65-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Yume Milk / Yume Yogurt",
@@ -1381,7 +1395,7 @@
    "food": [
     {
      "name": "カフェ オッホ",
-     "name_en": "Cafe Ohho",
+     "name_en": "Cafe oHHo",
      "description": "Café in Hirono, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030404/3009017/",
      "page": "https://bokenjapan.com/iwate/hironocho/eat/cafe/",
@@ -1389,7 +1403,7 @@
     },
     {
      "name": "喫茶とスペース ヒロノバ",
-     "name_en": "Kissa To Supesu Hironoba",
+     "name_en": "Kissa to Space Hironoba",
      "description": "Café in Hirono, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030404/3011656/",
      "page": "https://bokenjapan.com/iwate/hironocho/eat/cafe/",
@@ -1413,7 +1427,7 @@
     },
     {
      "name": "きのこの駅",
-     "name_en": "Kinoko no Eki",
+     "name_en": "Kinokono Eki",
      "description": "Shokudo diner in Hirono, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030404/3011173/",
      "page": "https://bokenjapan.com/iwate/hironocho/eat/casual/",
@@ -1429,7 +1443,7 @@
     },
     {
      "name": "梅乃家食堂",
-     "name_en": "Umeno Ie Shokudo",
+     "name_en": "Umenoie Shokudo",
      "description": "Shokudo diner in Hirono, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3008977/",
      "page": "https://bokenjapan.com/iwate/hironocho/eat/casual/",
@@ -1437,7 +1451,7 @@
     },
     {
      "name": "宏八屋",
-     "name_en": "Hiroshi Hachi-ya",
+     "name_en": "Hiroshihachi-ya",
      "description": "Deli in Hirono, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030404/3011953/",
      "page": "https://bokenjapan.com/iwate/hironocho/eat/casual/",
@@ -1477,7 +1491,7 @@
     },
     {
      "name": "お食事処かみの",
-     "name_en": "Oshokujidokoro Kami",
+     "name_en": "Oshokujidokoro Kamino",
      "description": "Ramen shop in Hirono, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030404/3009062/",
      "page": "https://bokenjapan.com/iwate/hironocho/eat/noodles/",
@@ -1485,7 +1499,7 @@
     },
     {
      "name": "麺介",
-     "name_en": "Men Suke",
+     "name_en": "Mensuke",
      "description": "Ramen shop in Hirono, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030404/3006054/",
      "page": "https://bokenjapan.com/iwate/hironocho/eat/noodles/",
@@ -1493,7 +1507,7 @@
     },
     {
      "name": "グリーンヒルおおの",
-     "name_en": "Green Hiru Ono",
+     "name_en": "Green Hill Ono",
      "description": "Hotel restaurant in Hirono, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030404/3009013/",
      "page": "https://bokenjapan.com/iwate/hironocho/eat/other/",
@@ -1501,7 +1515,7 @@
     },
     {
      "name": "アグリパークおおさわ",
-     "name_en": "Agri- Park Osawa",
+     "name_en": "Agri Park Osawa",
      "description": "Inn restaurant in Hirono, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030404/3009010/",
      "page": "https://bokenjapan.com/iwate/hironocho/eat/other/",
@@ -1509,7 +1523,7 @@
     },
     {
      "name": "喜利屋 ひろの水産会館店 ウニーク",
-     "name_en": "Ki Ri-ya Hiro no Suisan Kai Kan Shop Uniku",
+     "name_en": "Kiri-ya Hirono Suisan Kaikan Shop Unique",
      "description": "Local-cuisine restaurant in Hirono, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030404/3007845/",
      "page": "https://bokenjapan.com/iwate/hironocho/eat/other-japanese/",
@@ -1525,7 +1539,7 @@
     },
     {
      "name": "旬魚旬菜かめふく",
-     "name_en": "Shungyo Jun Na Kamefuku",
+     "name_en": "Shungyoshunsai Kamefuku",
      "description": "Seafood restaurant in Hirono, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030404/3005020/",
      "page": "https://bokenjapan.com/iwate/hironocho/eat/seafood/",
@@ -1533,7 +1547,7 @@
     },
     {
      "name": "磯料理 喜利屋",
-     "name_en": "Iso Ryori Ki Ri-ya",
+     "name_en": "Isoryori Kiri-ya",
      "description": "Seafood restaurant in Hirono, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030404/3000735/",
      "page": "https://bokenjapan.com/iwate/hironocho/eat/seafood/",
@@ -1671,7 +1685,7 @@
     "address": "Ichinohe, Iwate 028-5311",
     "phone": "0195-33-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Soba Restaurant Kozuya",
@@ -1703,7 +1717,7 @@
    "food": [
     {
      "name": "カフェ 里やま",
-     "name_en": "Cafe Sato Yama",
+     "name_en": "Cafe Satoyama",
      "description": "Café in Ichinohe, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3011833/",
      "page": "https://bokenjapan.com/iwate/ichinohe/eat/cafe/",
@@ -1759,7 +1773,7 @@
     },
     {
      "name": "常前食堂",
-     "name_en": "Tsune Mae Shokudo",
+     "name_en": "Tsunemae Shokudo",
      "description": "Shokudo diner in Ichinohe, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3002521/",
      "page": "https://bokenjapan.com/iwate/ichinohe/eat/casual/",
@@ -1767,7 +1781,7 @@
     },
     {
      "name": "レストラン カシオペア",
-     "name_en": "Restaurant Kashiopea",
+     "name_en": "Restaurant Cassiopeia",
      "description": "Shokudo diner in Ichinohe, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3012449/",
      "page": "https://bokenjapan.com/iwate/ichinohe/eat/casual/",
@@ -1823,7 +1837,7 @@
     },
     {
      "name": "ラーメン麺太",
-     "name_en": "Ramen Men Ta",
+     "name_en": "Ramen Menta",
      "description": "Ramen shop in Ichinohe, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3010329/",
      "page": "https://bokenjapan.com/iwate/ichinohe/eat/noodles/",
@@ -1831,7 +1845,7 @@
     },
     {
      "name": "風の谷",
-     "name_en": "Kazenotani",
+     "name_en": "Kaze no Tani",
      "description": "Local-cuisine restaurant in Ichinohe, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3008003/",
      "page": "https://bokenjapan.com/iwate/ichinohe/eat/other-japanese/",
@@ -1839,7 +1853,7 @@
     },
     {
      "name": "雪あかり",
-     "name_en": "Yuki Akari",
+     "name_en": "Yukiakari",
      "description": "Gelato and ice-cream shop in Ichinohe, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3007266/",
      "page": "https://bokenjapan.com/iwate/ichinohe/eat/sweets-bakeries/",
@@ -1847,7 +1861,7 @@
     },
     {
      "name": "クレムリ",
-     "name_en": "Kuremuri",
+     "name_en": "Kremlin",
      "description": "Soft-serve stand in Ichinohe, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3009381/",
      "page": "https://bokenjapan.com/iwate/ichinohe/eat/sweets-bakeries/",
@@ -1863,7 +1877,7 @@
     },
     {
      "name": "北館菓子舗",
-     "name_en": "Kita Kan Kashi Ho",
+     "name_en": "Kitadate Kashiho",
      "description": "Japanese sweets shop in Ichinohe, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3005682/",
      "page": "https://bokenjapan.com/iwate/ichinohe/eat/sweets-bakeries/",
@@ -1935,7 +1949,7 @@
    "stays": [
     {
      "name": "ホテル奥中山高原",
-     "name_en": "Hotel Okunaka Yamataka Hara",
+     "name_en": "Hotel Oku Nakayama Kogen",
      "description": "Hotel in Ichinohe, Iwate.",
      "source_url": "https://www.jalan.net/yad354254/",
      "page": "https://bokenjapan.com/iwate/ichinohe/stay/"
@@ -1957,7 +1971,7 @@
     "address": "Ichinoseki, Iwate 021-8501",
     "phone": "0191-21-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Farmhouse Restaurant Yumemiru Otome no Yakata",
@@ -1982,6 +1996,56 @@
      "description": "In the Ichinoseki region, which is a rich rice-growing region, rice cakes have traditionally been used not only for ceremonial occasions, but also to mark off farm work, to entertain guests, or even just because it's cold.",
      "source_url": "https://iwatetabi.jp/en/spots/16530/",
      "page": "https://bokenjapan.com/iwate/ichinoseki/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Higamori Campsite",
+     "description": "Higamori, which spreads out at the foot of the magnificent Mt.",
+     "source_url": "https://iwatetabi.jp/en/spots/6515/",
+     "page": "https://bokenjapan.com/iwate/ichinoseki/do/"
+    },
+    {
+     "name": "Boyodaira Campsite",
+     "description": "Boyodaira Campsite is a highland campsite located at the 8th station on the east side of Mt.",
+     "source_url": "https://iwatetabi.jp/en/spots/6508/",
+     "page": "https://bokenjapan.com/iwate/ichinoseki/do/"
+    },
+    {
+     "name": "Koganeyama Campsite",
+     "description": "Located at the southernmost tip of Senmaya, Ichinoseki City, it is known as a gold producing area that once supported the prosperity of the Oshu Fujiwara clan.",
+     "source_url": "https://iwatetabi.jp/en/spots/6517/",
+     "page": "https://bokenjapan.com/iwate/ichinoseki/do/"
+    },
+    {
+     "name": "Sugawa campground",
+     "description": "Sugawa Plateau, which stretches at the northern foot of Mt.",
+     "source_url": "https://iwatetabi.jp/en/spots/6533/",
+     "page": "https://bokenjapan.com/iwate/ichinoseki/do/"
+    },
+    {
+     "name": "Ichinoseki Country Club",
+     "description": "One of the most prestigious courses in the Tohoku region, Ichinoseki Country Club, boasts history and tradition, and is located on the lush green hills of Ichinoseki…",
+     "source_url": "https://iwatetabi.jp/en/spots/6726/",
+     "page": "https://bokenjapan.com/iwate/ichinoseki/do/"
+    },
+    {
+     "name": "Nico Nico Dome",
+     "description": "It is one of the few facilities in the prefecture that is fully equipped with a squash room, a multipurpose hall, and a Japanese-style room that can be used for meetings.",
+     "source_url": "https://iwatetabi.jp/en/spots/6728/",
+     "page": "https://bokenjapan.com/iwate/ichinoseki/do/"
+    },
+    {
+     "name": "Astro Roman Daito",
+     "description": "Astro Roman Daito is a forest recreation facility that takes advantage of nature.",
+     "source_url": "https://iwatetabi.jp/en/spots/6729/",
+     "page": "https://bokenjapan.com/iwate/ichinoseki/do/"
+    },
+    {
+     "name": "Kawasaki Sports Square (Ground, Sports Center, Tennis Court)",
+     "description": "This facility was established for the purpose of improving health and physical strength, promoting sports exchange with local people, providing purpose in life for the…",
+     "source_url": "https://iwatetabi.jp/en/spots/6736/",
+     "page": "https://bokenjapan.com/iwate/ichinoseki/do/"
     }
    ],
    "food": [
@@ -2043,7 +2107,7 @@
     },
     {
      "name": "小角食堂",
-     "name_en": "Kosumi Shokudo",
+     "name_en": "Ozunu Shokudo",
      "description": "Katsudon restaurant in Ichinoseki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030301/3002177/",
      "page": "https://bokenjapan.com/iwate/ichinoseki/eat/meat/",
@@ -2051,7 +2115,7 @@
     },
     {
      "name": "丑舎 格之進 総本店",
-     "name_en": "Ushi Sha Kakunoshin So main branch",
+     "name_en": "Ushisha Kakunoshin So main branch",
      "description": "Yakiniku (grilled meat) restaurant in Ichinoseki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030301/3000363/",
      "page": "https://bokenjapan.com/iwate/ichinoseki/eat/meat/",
@@ -2075,7 +2139,7 @@
     },
     {
      "name": "丸長",
-     "name_en": "Maru Cho",
+     "name_en": "Marucho",
      "description": "Ramen shop in Ichinoseki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030301/3001143/",
      "page": "https://bokenjapan.com/iwate/ichinoseki/eat/noodles/",
@@ -2091,7 +2155,7 @@
     },
     {
      "name": "青葉 直利庵",
-     "name_en": "Aoba Naotoshi Iori",
+     "name_en": "Aoba Naotoshi-an",
      "description": "Soba restaurant in Ichinoseki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030301/3000150/",
      "page": "https://bokenjapan.com/iwate/ichinoseki/eat/noodles/",
@@ -2099,7 +2163,7 @@
     },
     {
      "name": "菜のはな",
-     "name_en": "Na Nohana",
+     "name_en": "Na no Hana",
      "description": "Standing soba counter in Ichinoseki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030301/3007831/",
      "page": "https://bokenjapan.com/iwate/ichinoseki/eat/noodles/",
@@ -2107,7 +2171,7 @@
     },
     {
      "name": "庵どう",
-     "name_en": "Iori Do",
+     "name_en": "Iorido",
      "description": "Soba restaurant in Ichinoseki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030301/3003421/",
      "page": "https://bokenjapan.com/iwate/ichinoseki/eat/noodles/",
@@ -2115,7 +2179,7 @@
     },
     {
      "name": "喜の川",
-     "name_en": "Yoroko no Kawa",
+     "name_en": "Ki no Kawa",
      "description": "Japanese restaurant in Ichinoseki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030301/3001099/",
      "page": "https://bokenjapan.com/iwate/ichinoseki/eat/other-japanese/",
@@ -2139,7 +2203,7 @@
     },
     {
      "name": "ペッタンくん",
-     "name_en": "Pettan Kun",
+     "name_en": "Pettan-kun",
      "description": "Local-cuisine restaurant in Ichinoseki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030301/3000926/",
      "page": "https://bokenjapan.com/iwate/ichinoseki/eat/other-japanese/",
@@ -2261,7 +2325,7 @@
     },
     {
      "name": "一関温泉 山桜桃の湯",
-     "name_en": "Ichinoseki Onsen Yamazakura Momo no Yu",
+     "name_en": "Ichinoseki Onsen Yamazakuramomo no Yu",
      "description": "Onsen lodging in Ichinoseki, Iwate.",
      "source_url": "https://www.jalan.net/yad355274/",
      "page": "https://bokenjapan.com/iwate/ichinoseki/stay/"
@@ -2283,7 +2347,7 @@
     "address": "Iwaizumi, Iwate 027-0595",
     "phone": "0194-22-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Yotteke Market",
@@ -2333,7 +2397,7 @@
     },
     {
      "name": "しょおじょお食堂 上町店",
-     "name_en": "Shojo Shokudo Uemachi branch",
+     "name_en": "Shojo Shokudo Kamimachi branch",
      "description": "Shokudo diner in Iwaizumi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030405/3003873/",
      "page": "https://bokenjapan.com/iwate/iwaizumi/eat/casual/",
@@ -2365,7 +2429,7 @@
     },
     {
      "name": "アックア モンテ",
-     "name_en": "Akkua Monte",
+     "name_en": "Acqua Monte",
      "description": "Italian restaurant in Iwaizumi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030405/3008842/",
      "page": "https://bokenjapan.com/iwate/iwaizumi/eat/european/",
@@ -2381,7 +2445,7 @@
     },
     {
      "name": "カンティーナ",
-     "name_en": "Kanteina",
+     "name_en": "Cantina",
      "description": "Italian restaurant in Iwaizumi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030405/3002209/",
      "page": "https://bokenjapan.com/iwate/iwaizumi/eat/european/",
@@ -2405,7 +2469,7 @@
     },
     {
      "name": "道の駅 三田貝分校",
-     "name_en": "Michi-no-Eki Mita Kai Bunko",
+     "name_en": "Michi-no-Eki Mitakai Bunko",
      "description": "Roadside-station eatery in Iwaizumi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030405/3004213/",
      "page": "https://bokenjapan.com/iwate/iwaizumi/eat/other/",
@@ -2429,7 +2493,7 @@
     },
     {
      "name": "ゆう竹食堂",
-     "name_en": "Yu Take Shokudo",
+     "name_en": "Yutake Shokudo",
      "description": "Japanese restaurant in Iwaizumi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030405/3010353/",
      "page": "https://bokenjapan.com/iwate/iwaizumi/eat/other-japanese/",
@@ -2437,7 +2501,7 @@
     },
     {
      "name": "浜の駅おもと愛土館",
-     "name_en": "Hama no Eki Omoto Ai Tsuchi-kan",
+     "name_en": "Hama no Eki Omoto Aitsuchi-kan",
      "description": "Seafood restaurant in Iwaizumi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030405/3009928/",
      "page": "https://bokenjapan.com/iwate/iwaizumi/eat/seafood/",
@@ -2453,7 +2517,7 @@
     },
     {
      "name": "栗菓子 中松屋",
-     "name_en": "Kuri Kashi Naka Matsuya",
+     "name_en": "Kurikashi Naka Matsuya",
      "description": "Japanese sweets shop in Iwaizumi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030405/3004787/",
      "page": "https://bokenjapan.com/iwate/iwaizumi/eat/sweets-bakeries/",
@@ -2461,7 +2525,7 @@
     },
     {
      "name": "中洞牧場",
-     "name_en": "Naka Hora Bokujo",
+     "name_en": "Chudo Bokujo",
      "description": "Gelato and ice-cream shop in Iwaizumi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030405/3007556/",
      "page": "https://bokenjapan.com/iwate/iwaizumi/eat/sweets-bakeries/",
@@ -2477,7 +2541,7 @@
     },
     {
      "name": "志たあめや",
-     "name_en": "Kokorozashi Tameya",
+     "name_en": "Kokorozashi Taameya",
      "description": "Japanese sweets shop in Iwaizumi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030405/3009155/",
      "page": "https://bokenjapan.com/iwate/iwaizumi/eat/sweets-bakeries/",
@@ -2630,7 +2694,7 @@
     },
     {
      "name": "岩泉龍泉洞ホテル 龍のすみか（旧龍泉洞温泉ホテル）",
-     "name_en": "Iwaizumi Ryusendo Hotel Ryu Nosumika",
+     "name_en": "Iwaizumi Ryusendo Hotel Ryu no Sumika",
      "description": "Hotel in Iwaizumi, Iwate.",
      "source_url": "https://www.jalan.net/yad383586/",
      "page": "https://bokenjapan.com/iwate/iwaizumi/stay/"
@@ -2652,7 +2716,59 @@
     "address": "Iwate Town, Iwate 028-4395",
     "phone": "0195-62-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "Roadside station Ishigaminooka",
+     "description": "Roadside station in Iwate, Iwate district, Iwate prefecture, Japan.",
+     "source_url": "http://www.wikidata.org/entity/Q11641423",
+     "page": "https://bokenjapan.com/iwate/iwatemachi/day-to-day/"
+    },
+    {
+     "name": "Iwate-Numakunai Station",
+     "description": "Railway station in Iwate, Iwate district, Iwate Prefecture, Japan.",
+     "source_url": "https://en.wikipedia.org/wiki/Iwate-Numakunai_Station",
+     "page": "https://bokenjapan.com/iwate/iwatemachi/day-to-day/"
+    },
+    {
+     "name": "Midō Station",
+     "description": "Railway station in Iwate, Iwate district, Iwate prefecture, Japan.",
+     "source_url": "https://en.wikipedia.org/wiki/Mid%C5%8D_Station",
+     "page": "https://bokenjapan.com/iwate/iwatemachi/day-to-day/"
+    },
+    {
+     "name": "Iwate-Kawaguchi Station",
+     "description": "Railway station in Iwate, Iwate district, Iwate prefecture, Japan.",
+     "source_url": "https://en.wikipedia.org/wiki/Iwate-Kawaguchi_Station",
+     "page": "https://bokenjapan.com/iwate/iwatemachi/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Iwate Numa Miyauchi Country Club",
+     "description": "The course offers a panoramic view of mountains such as Mt.",
+     "source_url": "https://iwatetabi.jp/en/spots/6723/",
+     "page": "https://bokenjapan.com/iwate/iwatemachi/do/"
+    },
+    {
+     "name": "roseland country club",
+     "description": "The course is surrounded by red pines that are over 100 years old, and is located on a hill overlooking the mountains of Mt.",
+     "source_url": "https://iwatetabi.jp/en/spots/6727/",
+     "page": "https://bokenjapan.com/iwate/iwatemachi/do/"
+    },
+    {
+     "name": "Iwatemachi Blueberry Tourist Farm",
+     "description": "Iwate Town, which boasts the largest shipment of blueberries for processing in Iwate Prefecture, has opened five blueberry farms for sightseeing in the town, where…",
+     "source_url": "https://iwatetabi.jp/en/spots/6611/",
+     "page": "https://bokenjapan.com/iwate/iwatemachi/do/"
+    },
+    {
+     "name": "Kuroishi hot spring",
+     "description": "An old-fashioned wooden hot spring surrounded by forests.",
+     "source_url": "https://iwatetabi.jp/en/spots/68672/",
+     "page": "https://bokenjapan.com/iwate/iwatemachi/do/"
+    }
+   ],
    "food": [
     {
      "name": "珈琲 薺",
@@ -2680,7 +2796,7 @@
     },
     {
      "name": "川原新田ドライブイン",
-     "name_en": "Kawara Nitta Drive-In",
+     "name_en": "Kawahara Shinden Drive-In",
      "description": "Shokudo diner in Iwate Town, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030503/3001260/",
      "page": "https://bokenjapan.com/iwate/iwatemachi/eat/casual/",
@@ -2704,7 +2820,7 @@
     },
     {
      "name": "肉のふがね",
-     "name_en": "Niku Nofugane",
+     "name_en": "Niku no Fugane",
      "description": "Bento shop in Iwate Town, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030503/3006937/",
      "page": "https://bokenjapan.com/iwate/iwatemachi/eat/casual/",
@@ -2768,7 +2884,7 @@
     },
     {
      "name": "茶屋っこ",
-     "name_en": "Cha-ya Kko",
+     "name_en": "Chayakko",
      "description": "Soba restaurant in Iwate Town, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030503/3007113/",
      "page": "https://bokenjapan.com/iwate/iwatemachi/eat/noodles/",
@@ -2784,7 +2900,7 @@
     },
     {
      "name": "宝介 岩手町店",
-     "name_en": "Takara Suke Iwate Machi branch",
+     "name_en": "Takarasuke Iwate Machi branch",
      "description": "Ramen shop in Iwate Town, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030503/3007181/",
      "page": "https://bokenjapan.com/iwate/iwatemachi/eat/noodles/",
@@ -2792,7 +2908,7 @@
     },
     {
      "name": "まる八食堂",
-     "name_en": "Maru Hachi Shokudo",
+     "name_en": "Maruhachi Shokudo",
      "description": "Ramen shop in Iwate Town, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030503/3003363/",
      "page": "https://bokenjapan.com/iwate/iwatemachi/eat/noodles/",
@@ -2808,7 +2924,7 @@
     },
     {
      "name": "小銭すし 沼宮内店",
-     "name_en": "Kozeni Sushi Numakunai branch",
+     "name_en": "Kozenisushi Numakunai branch",
      "description": "Sushi restaurant in Iwate Town, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030503/3008901/",
      "page": "https://bokenjapan.com/iwate/iwatemachi/eat/seafood/",
@@ -2824,7 +2940,7 @@
     },
     {
      "name": "菓子司 丸中",
-     "name_en": "Kashi Tsukasa Maru Naka",
+     "name_en": "Kashitsukasa Marunaka",
      "description": "Japanese sweets shop in Iwate Town, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030503/3005254/",
      "page": "https://bokenjapan.com/iwate/iwatemachi/eat/sweets-bakeries/",
@@ -2924,7 +3040,7 @@
     },
     {
      "name": "Numakunai Seven Dances",
-     "description": "It was originally handed down in the Shinmachi district of Numamiya, but it is said that when Inari Shrine was moved from the former Midomura Kawabaraki area to its current location, the area of ​​tradition was moved from the Shinmachi district to the…",
+     "description": "It was originally handed down in the Shinmachi district of Numamiya, but it is said that when Inari Shrine was moved from the former Midomura Kawabaraki area to its current location, the area of tradition was moved from the Shinmachi district to the…",
      "source_url": "https://iwatetabi.jp/en/spots/5362/",
      "page": "https://bokenjapan.com/iwate/iwatemachi/see/"
     },
@@ -2966,7 +3082,7 @@
     "address": "Kamaishi, Iwate 026-8686",
     "phone": "0193-52-0100"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Ekimae Kyojo Market Sun Fish Kamaishi",
@@ -3030,7 +3146,7 @@
     },
     {
      "name": "麺飯店 喜楽",
-     "name_en": "Men Meshi Shop Kiraku",
+     "name_en": "Menmeshi Shop Kiraku",
      "description": "Shokudo diner in Kamaishi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030402/3011323/",
      "page": "https://bokenjapan.com/iwate/kamaishi/eat/casual/",
@@ -3038,7 +3154,7 @@
     },
     {
      "name": "新華園本店",
-     "name_en": "Shinka Sono main branch",
+     "name_en": "Shinkasono main branch",
      "description": "Chinese restaurant in Kamaishi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030402/3005938/",
      "page": "https://bokenjapan.com/iwate/kamaishi/eat/chinese-asian/",
@@ -3054,7 +3170,7 @@
     },
     {
      "name": "新華園 支店",
-     "name_en": "Shinka Sono branch",
+     "name_en": "Shinkasono branch",
      "description": "Chinese restaurant in Kamaishi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030402/3008685/",
      "page": "https://bokenjapan.com/iwate/kamaishi/eat/chinese-asian/",
@@ -3062,7 +3178,7 @@
     },
     {
      "name": "お食事ハウス あゆとく",
-     "name_en": "O Shokuji House Ayutoku",
+     "name_en": "Oshokuji House Ayutoku",
      "description": "Curry restaurant in Kamaishi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030402/3004653/",
      "page": "https://bokenjapan.com/iwate/kamaishi/eat/curry/",
@@ -3086,7 +3202,7 @@
     },
     {
      "name": "新来軒",
-     "name_en": "Shinrai Ken",
+     "name_en": "Shinraiken",
      "description": "Horumon (offal) grill in Kamaishi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030402/3007104/",
      "page": "https://bokenjapan.com/iwate/kamaishi/eat/meat/",
@@ -3102,7 +3218,7 @@
     },
     {
      "name": "牛牛",
-     "name_en": "Ushi Ushi",
+     "name_en": "Ushiushi",
      "description": "Yakiniku (grilled meat) restaurant in Kamaishi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030402/3001820/",
      "page": "https://bokenjapan.com/iwate/kamaishi/eat/meat/",
@@ -3126,7 +3242,7 @@
     },
     {
      "name": "煮干し中華そば 元翔",
-     "name_en": "Niboshi Shi Chuka Soba Moto Sho",
+     "name_en": "Niboshi Shi Chuka Soba Motosho",
      "description": "Ramen shop in Kamaishi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030402/3012785/",
      "page": "https://bokenjapan.com/iwate/kamaishi/eat/noodles/",
@@ -3142,7 +3258,7 @@
     },
     {
      "name": "道の駅 釜石仙人峠",
-     "name_en": "Michi-no-Eki Kamaishi Sennin Toge",
+     "name_en": "Michi-no-Eki Kamaishi Sennintoge",
      "description": "Roadside-station eatery in Kamaishi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030402/3008346/",
      "page": "https://bokenjapan.com/iwate/kamaishi/eat/other/",
@@ -3158,7 +3274,7 @@
     },
     {
      "name": "和の膳 みや川",
-     "name_en": "Nago no Zen Miya Kawa",
+     "name_en": "Wa no Zen Miyakawa",
      "description": "Japanese restaurant in Kamaishi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030402/3003746/",
      "page": "https://bokenjapan.com/iwate/kamaishi/eat/other-japanese/",
@@ -3220,7 +3336,7 @@
     },
     {
      "name": "Uogashi Terrace",
-     "description": "A facility opened in 2019 as a base to create liveliness around the waterfront area of ​​Kamaishi City.",
+     "description": "A facility opened in 2019 as a base to create liveliness around the waterfront area of Kamaishi City.",
      "source_url": "https://iwatetabi.jp/en/spots/70932/",
      "page": "https://bokenjapan.com/iwate/kamaishi/see/"
     },
@@ -3250,7 +3366,7 @@
     },
     {
      "name": "Miracle Stone",
-     "description": "This stone is located in the Ryōishi area of ​​Kamaishi City and withstood the massive tsunami of March 11, 2011.",
+     "description": "This stone is located in the Ryoishi area of Kamaishi City and withstood the massive tsunami of March 11, 2011.",
      "source_url": "https://iwatetabi.jp/en/spots/61128/",
      "page": "https://bokenjapan.com/iwate/kamaishi/see/"
     },
@@ -3301,7 +3417,7 @@
     },
     {
      "name": "備長炭の湯 ホテルクラウンヒルズ釜石(BBHホテルグループ)",
-     "name_en": "Bincho Sumi no Yu Hotel Crown Hills Kamaishi",
+     "name_en": "Binchosumi no Yu Hotel Crown Hills Kamaishi",
      "description": "Hotel in Kamaishi, Iwate.",
      "source_url": "https://www.jalan.net/yad329873/",
      "page": "https://bokenjapan.com/iwate/kamaishi/stay/"
@@ -3322,7 +3438,7 @@
     },
     {
      "name": "光明石温泉 ホテル釜石ヒルズリバーサイド店 BBHホテルグループ",
-     "name_en": "Komyo Ishi Onsen Hotel Kamaishi Hills Riverside Shop BBH Hotel Group",
+     "name_en": "Komyoishi Onsen Hotel Kamaishi Hills Riverside BBH Hotel Group",
      "description": "Hotel in Kamaishi, Iwate.",
      "source_url": "https://www.jalan.net/yad318531/",
      "page": "https://bokenjapan.com/iwate/kamaishi/stay/"
@@ -3358,7 +3474,53 @@
     "address": "Kanegasaki, Iwate 029-4592",
     "phone": "0197-42-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "Kanegasaki Station",
+     "description": "Railway station in Kanegasaki, Isawa district, Iwate prefecture, Japan.",
+     "source_url": "https://en.wikipedia.org/wiki/Kanegasaki_Station",
+     "page": "https://bokenjapan.com/iwate/kanegasaki/day-to-day/"
+    },
+    {
+     "name": "Rokuhara Station",
+     "description": "Railway station in Kanegasaki, Isawa district, Iwate prefecture, Japan.",
+     "source_url": "https://en.wikipedia.org/wiki/Rokuhara_Station",
+     "page": "https://bokenjapan.com/iwate/kanegasaki/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Kanegasaki Golf Course",
+     "description": "This is an 18-hole course designed by the famous American player Arnold Palmer.",
+     "source_url": "https://iwatetabi.jp/en/spots/6756/",
+     "page": "https://bokenjapan.com/iwate/kanegasaki/do/"
+    },
+    {
+     "name": "Kurikoma Golf Club",
+     "description": "This is a 27-hole course that takes full advantage of the natural topography, including scattered ponds and gently undulating fairways.",
+     "source_url": "https://iwatetabi.jp/en/spots/6600/",
+     "page": "https://bokenjapan.com/iwate/kanegasaki/do/"
+    },
+    {
+     "name": "Kanegasaki Town Town Citizens Garden Park",
+     "description": "The Food and Agriculture Experience Center is equipped with 60 plots of \"Townsman's Vegetable Garden,\" an agricultural processing experience room, a training room, etc.,…",
+     "source_url": "https://iwatetabi.jp/en/spots/5950/",
+     "page": "https://bokenjapan.com/iwate/kanegasaki/do/"
+    },
+    {
+     "name": "Nagaoka Onsen Yume no Yu",
+     "description": "Boasting a gushing rate of 720 liters per minute, it is a hot spring that uses 100% source water without circulation (filtration), heating, disinfection, or adding a…",
+     "source_url": "https://iwatetabi.jp/en/spots/6053/",
+     "page": "https://bokenjapan.com/iwate/kanegasaki/do/"
+    },
+    {
+     "name": "Senganishi Onsen",
+     "description": "This hot spring is equipped with a large bath filled with 680 liters of hot water per minute, and you can enjoy a day trip bath.",
+     "source_url": "https://iwatetabi.jp/en/spots/67251/",
+     "page": "https://bokenjapan.com/iwate/kanegasaki/do/"
+    }
+   ],
    "food": [
     {
      "name": "stand cafe KICHI",
@@ -3386,7 +3548,7 @@
     },
     {
      "name": "侍屋敷大松沢家",
-     "name_en": "Samurai Yashiki Omatsuzawa Ie",
+     "name_en": "Samuraiyashiki Omatsuzawaka",
      "description": "Shokudo diner in Kanegasaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030304/3008926/",
      "page": "https://bokenjapan.com/iwate/kanegasaki/eat/casual/",
@@ -3394,7 +3556,7 @@
     },
     {
      "name": "鎌田ガーデン",
-     "name_en": "Kamada Garden",
+     "name_en": "Kamata Garden",
      "description": "Shokudo diner in Kanegasaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030304/3003458/",
      "page": "https://bokenjapan.com/iwate/kanegasaki/eat/casual/",
@@ -3418,7 +3580,7 @@
     },
     {
      "name": "タージマハル",
-     "name_en": "Tajimaharu",
+     "name_en": "Taj Mahal",
      "description": "Indian restaurant in Kanegasaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030304/3009446/",
      "page": "https://bokenjapan.com/iwate/kanegasaki/eat/curry/",
@@ -3426,7 +3588,7 @@
     },
     {
      "name": "サバービア",
-     "name_en": "Sababia",
+     "name_en": "Suburbia",
      "description": "Pasta restaurant in Kanegasaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030304/3001038/",
      "page": "https://bokenjapan.com/iwate/kanegasaki/eat/european/",
@@ -3466,7 +3628,7 @@
     },
     {
      "name": "盛絽屋",
-     "name_en": "Jo Ro-ya",
+     "name_en": "Joro-ya",
      "description": "Soba restaurant in Kanegasaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030304/3000858/",
      "page": "https://bokenjapan.com/iwate/kanegasaki/eat/noodles/",
@@ -3474,7 +3636,7 @@
     },
     {
      "name": "にんたまラーメン 金ヶ崎店",
-     "name_en": "Kanegasaki Shop",
+     "name_en": "Nintama Ramen Kanegasaki branch",
      "description": "Ramen shop in Kanegasaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030304/3008648/",
      "page": "https://bokenjapan.com/iwate/kanegasaki/eat/noodles/",
@@ -3482,7 +3644,7 @@
     },
     {
      "name": "千貫石温泉 湯元 東館",
-     "name_en": "Sengan Ishi Onsen Yumoto Higashi-kan",
+     "name_en": "Senganishi Onsen Yumoto Higashikan",
      "description": "Hotel restaurant in Kanegasaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030202/3006584/",
      "page": "https://bokenjapan.com/iwate/kanegasaki/eat/other/",
@@ -3506,7 +3668,7 @@
     },
     {
      "name": "和風レストラン星萬",
-     "name_en": "Wafu Restaurant Hoshi Man",
+     "name_en": "Wafu Restaurant Hoshiman",
      "description": "Sushi restaurant in Kanegasaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030304/3008696/",
      "page": "https://bokenjapan.com/iwate/kanegasaki/eat/seafood/",
@@ -3579,7 +3741,7 @@
     },
     {
      "name": "森と湖の里 千貫石温泉 湯元東館",
-     "name_en": "Mori To Mizumi no Sato Sengan Ishi Onsen Yumoto Higashi-kan",
+     "name_en": "Mori to Mizumi no Sato Senganishi Onsen Yumotohigashi-kan",
      "description": "Onsen lodging in Kanegasaki, Iwate.",
      "source_url": "https://www.jalan.net/yad359833/",
      "page": "https://bokenjapan.com/iwate/kanegasaki/stay/"
@@ -3601,7 +3763,7 @@
     "address": "Karumai, Iwate 028-6302",
     "phone": "0195-46-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Harutaka Dondon Market",
@@ -3618,7 +3780,7 @@
     },
     {
      "name": "ミニストップ 折爪SA上り店",
-     "name_en": "Mini Stop Oritsume SA Nobori branch",
+     "name_en": "Ministop Oritsume SA Nobori branch",
      "description": "Convenience store in Karumai, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3009320/",
      "page": "https://bokenjapan.com/iwate/karumai/day-to-day/"
@@ -3629,6 +3791,26 @@
      "description": "Convenience store in Karumai, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3009572/",
      "page": "https://bokenjapan.com/iwate/karumai/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Millet Park Campground",
+     "description": "Millet Park Campground is located halfway up Mt.",
+     "source_url": "https://iwatetabi.jp/en/spots/6715/",
+     "page": "https://bokenjapan.com/iwate/karumai/do/"
+    },
+    {
+     "name": "New Karumai Country Club",
+     "description": "New Karume Country Club is a golf course that utilizes the natural terrain as it is.",
+     "source_url": "https://iwatetabi.jp/en/spots/6720/",
+     "page": "https://bokenjapan.com/iwate/karumai/do/"
+    },
+    {
+     "name": "Millet Park",
+     "description": "Millet Park, located halfway up Mt.",
+     "source_url": "https://iwatetabi.jp/en/spots/5202/",
+     "page": "https://bokenjapan.com/iwate/karumai/do/"
     }
    ],
    "food": [
@@ -3650,7 +3832,7 @@
     },
     {
      "name": "内まる屋",
-     "name_en": "Nai Maru-ya",
+     "name_en": "Naimaru-ya",
      "description": "Shokudo diner in Karumai, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3008956/",
      "page": "https://bokenjapan.com/iwate/karumai/eat/casual/",
@@ -3674,7 +3856,7 @@
     },
     {
      "name": "味彩のいのうえ",
-     "name_en": "Aji Sai Noinoe",
+     "name_en": "Ajisai no Inoe",
      "description": "Bento shop in Karumai, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3008951/",
      "page": "https://bokenjapan.com/iwate/karumai/eat/casual/",
@@ -3682,7 +3864,7 @@
     },
     {
      "name": "ビーノカプチーノ",
-     "name_en": "Bino Cappuccino",
+     "name_en": "Vino Cappuccino",
      "description": "Hamburg-steak restaurant in Karumai, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3013447/",
      "page": "https://bokenjapan.com/iwate/karumai/eat/meat/",
@@ -3698,7 +3880,7 @@
     },
     {
      "name": "ロッキー 24",
-     "name_en": "Rokki 24",
+     "name_en": "Rocky 24",
      "description": "Ramen shop in Karumai, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3012029/",
      "page": "https://bokenjapan.com/iwate/karumai/eat/noodles/",
@@ -3714,7 +3896,7 @@
     },
     {
      "name": "鮨禅",
-     "name_en": "Sushi Zen",
+     "name_en": "Sushizen",
      "description": "Sushi restaurant in Karumai, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3008960/",
      "page": "https://bokenjapan.com/iwate/karumai/eat/seafood/",
@@ -3722,7 +3904,7 @@
     },
     {
      "name": "千本松本舗",
-     "name_en": "Senbon Matsumoto Ho",
+     "name_en": "Senbonmatsu Honpo",
      "description": "Western sweets shop in Karumai, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3008970/",
      "page": "https://bokenjapan.com/iwate/karumai/eat/sweets-bakeries/",
@@ -3850,7 +4032,7 @@
     "address": "Kitakami, Iwate 024-8501",
     "phone": "0197-64-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Kitakami Strawberry Farm",
@@ -3918,7 +4100,7 @@
     },
     {
      "name": "ビアレストラン アリーブ 北上店",
-     "name_en": "Bia Restaurant A Leave Kitakami branch",
+     "name_en": "Beer Restaurant A Leave Kitakami branch",
      "description": "European restaurant in Kitakami, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030202/3000335/",
      "page": "https://bokenjapan.com/iwate/kitakami/eat/european/",
@@ -3934,7 +4116,7 @@
     },
     {
      "name": "巓升郭",
-     "name_en": "Ten Masu Kaku",
+     "name_en": "Tenmasukaku",
      "description": "Robatayaki grill in Kitakami, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030202/3002084/",
      "page": "https://bokenjapan.com/iwate/kitakami/eat/izakaya-bars/",
@@ -3942,7 +4124,7 @@
     },
     {
      "name": "魚と酒と飯 マコトヤ",
-     "name_en": "Sakana To Sake To Meshi Makotoya",
+     "name_en": "Sakana to Sake to Meshi Makotoya",
      "description": "Izakaya in Kitakami, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030202/3011611/",
      "page": "https://bokenjapan.com/iwate/kitakami/eat/izakaya-bars/",
@@ -3950,7 +4132,7 @@
     },
     {
      "name": "スランジバール",
-     "name_en": "Suranji Bar",
+     "name_en": "Slangibar",
      "description": "Bar in Kitakami, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030202/3000067/",
      "page": "https://bokenjapan.com/iwate/kitakami/eat/izakaya-bars/",
@@ -3958,7 +4140,7 @@
     },
     {
      "name": "鳥ん坊",
-     "name_en": "Tori N Bo",
+     "name_en": "Torinbo",
      "description": "Chicken restaurant in Kitakami, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030202/3004609/",
      "page": "https://bokenjapan.com/iwate/kitakami/eat/meat/",
@@ -3966,7 +4148,7 @@
     },
     {
      "name": "カケタ養鶏場直売所",
-     "name_en": "Kaketa Yokei Ba Farm Stand",
+     "name_en": "Kaketa Yokeiba Farm Stand",
      "description": "Chicken restaurant in Kitakami, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030202/3001406/",
      "page": "https://bokenjapan.com/iwate/kitakami/eat/meat/",
@@ -3982,7 +4164,7 @@
     },
     {
      "name": "岩鷲",
-     "name_en": "Iwa Washi",
+     "name_en": "Iwawashi",
      "description": "Ramen shop in Kitakami, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030202/3001222/",
      "page": "https://bokenjapan.com/iwate/kitakami/eat/noodles/",
@@ -4014,7 +4196,7 @@
     },
     {
      "name": "晴れる屋",
-     "name_en": "Hare Ru-ya",
+     "name_en": "Hareru-ya",
      "description": "Ramen shop in Kitakami, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030202/3008819/",
      "page": "https://bokenjapan.com/iwate/kitakami/eat/noodles/",
@@ -4022,7 +4204,7 @@
     },
     {
      "name": "麺屋 樫乃木",
-     "name_en": "Men-ya Kashi Nogi",
+     "name_en": "Menya Kashinogi",
      "description": "Ramen shop in Kitakami, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030202/3011957/",
      "page": "https://bokenjapan.com/iwate/kitakami/eat/noodles/",
@@ -4030,7 +4212,7 @@
     },
     {
      "name": "ヤンセン",
-     "name_en": "Yansen",
+     "name_en": "Janssen",
      "description": "Ramen shop in Kitakami, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030202/3000644/",
      "page": "https://bokenjapan.com/iwate/kitakami/eat/noodles/",
@@ -4038,7 +4220,7 @@
     },
     {
      "name": "深山亭",
-     "name_en": "Miyama-tei",
+     "name_en": "Fukayama-tei",
      "description": "Soba restaurant in Kitakami, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030202/3007871/",
      "page": "https://bokenjapan.com/iwate/kitakami/eat/noodles/",
@@ -4046,7 +4228,7 @@
     },
     {
      "name": "御料理 寺沢",
-     "name_en": "Goryo Ri Terasawa",
+     "name_en": "Goryori Terasawa",
      "description": "Japanese restaurant in Kitakami, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030202/3005625/",
      "page": "https://bokenjapan.com/iwate/kitakami/eat/other-japanese/",
@@ -4070,7 +4252,7 @@
     },
     {
      "name": "ブールドゥ・ネージュ",
-     "name_en": "Boule Do Neju",
+     "name_en": "Boule de Neige",
      "description": "Cake shop in Kitakami, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030202/3002207/",
      "page": "https://bokenjapan.com/iwate/kitakami/eat/sweets-bakeries/",
@@ -4078,7 +4260,7 @@
     },
     {
      "name": "ミッシェル 北上店",
-     "name_en": "Mitsu Shell Kitakami branch",
+     "name_en": "Michel Kitakami branch",
      "description": "Bakery in Kitakami, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030202/3009790/",
      "page": "https://bokenjapan.com/iwate/kitakami/eat/sweets-bakeries/",
@@ -4212,7 +4394,7 @@
     },
     {
      "name": "アパホテル〈北上駅西〉",
-     "name_en": "APA Hotel < Kitakami Eki Nishi >",
+     "name_en": "APA Hotel Kitakami Ekinishi",
      "description": "Hotel in Kitakami, Iwate.",
      "source_url": "https://www.jalan.net/yad308576/",
      "page": "https://bokenjapan.com/iwate/kitakami/stay/"
@@ -4255,7 +4437,7 @@
     "address": "Kuji, Iwate 028-8030",
     "phone": "0194-52-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Heromachi Farm-Direct Hall",
@@ -4311,7 +4493,7 @@
    "food": [
     {
      "name": "モカ",
-     "name_en": "Moka",
+     "name_en": "Mocha",
      "description": "Coffee shop in Kuji, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030404/3004107/",
      "page": "https://bokenjapan.com/iwate/kuji/eat/cafe/",
@@ -4335,7 +4517,7 @@
     },
     {
      "name": "秋田比内や 久慈店",
-     "name_en": "Akita Hinai Ya Kuji branch",
+     "name_en": "Akitahinai Ya Kuji branch",
      "description": "Chicken restaurant in Kuji, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030404/3004756/",
      "page": "https://bokenjapan.com/iwate/kuji/eat/casual/",
@@ -4343,7 +4525,7 @@
     },
     {
      "name": "アゼリア",
-     "name_en": "Azeria",
+     "name_en": "Azalea",
      "description": "Chinese restaurant in Kuji, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030404/3006113/",
      "page": "https://bokenjapan.com/iwate/kuji/eat/chinese-asian/",
@@ -4391,7 +4573,7 @@
     },
     {
      "name": "康海庵",
-     "name_en": "Yasushi Umi Iori",
+     "name_en": "Yasushiumi-an",
      "description": "Soba restaurant in Kuji, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030404/3010923/",
      "page": "https://bokenjapan.com/iwate/kuji/eat/noodles/",
@@ -4399,7 +4581,7 @@
     },
     {
      "name": "道の駅 いわて北三陸",
-     "name_en": "Michi-no-Eki Iwate Kita Sanriku",
+     "name_en": "Michi-no-Eki Iwatekita Sanriku",
      "description": "Roadside-station eatery in Kuji, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030404/3012206/",
      "page": "https://bokenjapan.com/iwate/kuji/eat/other/",
@@ -4407,7 +4589,7 @@
     },
     {
      "name": "道の駅くじ やませ土風館",
-     "name_en": "Michi-no-Eki Kuji Yamase Tsuchi Kaze-kan",
+     "name_en": "Michi-no-Eki Kuji Yamase Tsuchikaze-kan",
      "description": "Roadside-station eatery in Kuji, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030404/3008298/",
      "page": "https://bokenjapan.com/iwate/kuji/eat/other/",
@@ -4415,7 +4597,7 @@
     },
     {
      "name": "山海里",
-     "name_en": "Sankai Sato",
+     "name_en": "Sankaisato",
      "description": "Seafood restaurant in Kuji, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030404/3004555/",
      "page": "https://bokenjapan.com/iwate/kuji/eat/seafood/",
@@ -4439,7 +4621,7 @@
     },
     {
      "name": "寿々喜",
-     "name_en": "Hisashi Hisashi Ki",
+     "name_en": "Hisashihisashiki",
      "description": "Seafood restaurant in Kuji, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030404/3002019/",
      "page": "https://bokenjapan.com/iwate/kuji/eat/seafood/",
@@ -4447,7 +4629,7 @@
     },
     {
      "name": "鮨処 きよ田",
-     "name_en": "Sushi Tokoro Kiyo Ta",
+     "name_en": "Sushitokoro Kiyota",
      "description": "Sushi restaurant in Kuji, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030404/3000554/",
      "page": "https://bokenjapan.com/iwate/kuji/eat/seafood/",
@@ -4602,14 +4784,14 @@
     },
     {
      "name": "新山根温泉べっぴんの湯",
-     "name_en": "Shinzan Ne Onsen Beppin no Yu",
+     "name_en": "Shinzanne Onsen Beppinno Yu",
      "description": "Onsen lodging in Kuji, Iwate.",
      "source_url": "https://www.jalan.net/yad336390/",
      "page": "https://bokenjapan.com/iwate/kuji/stay/"
     },
     {
      "name": "平庭山荘",
-     "name_en": "Hiraniwa Yama-so",
+     "name_en": "Hiraniwayama-so",
      "description": "Lodge in Kuji, Iwate.",
      "source_url": "https://www.jalan.net/yad354448/",
      "page": "https://bokenjapan.com/iwate/kuji/stay/"
@@ -4631,7 +4813,7 @@
     "address": "Kunohe, Iwate 028-6502",
     "phone": "0195-42-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Furusato Sozokan",
@@ -4691,7 +4873,7 @@
     },
     {
      "name": "オドデ館食堂",
-     "name_en": "Odode Kan Shokudo",
+     "name_en": "Ododekan Shokudo",
      "description": "Shokudo diner in Kunohe, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3007030/",
      "page": "https://bokenjapan.com/iwate/kunohe/eat/casual/",
@@ -4707,7 +4889,7 @@
     },
     {
      "name": "高松魚店",
-     "name_en": "Takamatsu Sakana Shop",
+     "name_en": "Takamatsusakana Shop",
      "description": "Bento shop in Kunohe, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3012025/",
      "page": "https://bokenjapan.com/iwate/kunohe/eat/casual/",
@@ -4739,7 +4921,7 @@
     },
     {
      "name": "ジェラテリアなかいち",
-     "name_en": "Jiera Terrier Nakaichi",
+     "name_en": "Gelateria Nakaichi",
      "description": "Gelato and ice-cream shop in Kunohe, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3012005/",
      "page": "https://bokenjapan.com/iwate/kunohe/eat/sweets-bakeries/",
@@ -4747,7 +4929,7 @@
     },
     {
      "name": "小笠原菓子舗 本店",
-     "name_en": "Ogasawara Kashi Ho main branch",
+     "name_en": "Ogasawara Kashiho main branch",
      "description": "Cake shop in Kunohe, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3011653/",
      "page": "https://bokenjapan.com/iwate/kunohe/eat/sweets-bakeries/",
@@ -4755,7 +4937,7 @@
     },
     {
      "name": "アムール",
-     "name_en": "Amuru",
+     "name_en": "Amour",
      "description": "Cake shop in Kunohe, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3009228/",
      "page": "https://bokenjapan.com/iwate/kunohe/eat/sweets-bakeries/",
@@ -4843,7 +5025,7 @@
     "address": "Kuzumaki, Iwate 028-5495",
     "phone": "0195-66-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Kuzumaki Kogen Ice Cream",
@@ -4891,7 +5073,7 @@
     },
     {
      "name": "Cafe やどり木",
-     "name_en": "Cafe Yadori Ki",
+     "name_en": "Cafe Yadorigi",
      "description": "Café in Kuzumaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030503/3011121/",
      "page": "https://bokenjapan.com/iwate/kuzumaki/eat/cafe/",
@@ -4899,7 +5081,7 @@
     },
     {
      "name": "産直ハウス くずまき高原",
-     "name_en": "Sanchoku House Kuzumaki Kogen",
+     "name_en": "Sanchoku House Kuzumaki Takahara",
      "description": "Roadside-station eatery in Kuzumaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030503/3012784/",
      "page": "https://bokenjapan.com/iwate/kuzumaki/eat/casual/",
@@ -4907,7 +5089,7 @@
     },
     {
      "name": "近亀",
-     "name_en": "Kin Kame",
+     "name_en": "Kinkame",
      "description": "Izakaya in Kuzumaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030503/3004517/",
      "page": "https://bokenjapan.com/iwate/kuzumaki/eat/izakaya-bars/",
@@ -4963,7 +5145,7 @@
     },
     {
      "name": "くずまき高原ちゃや",
-     "name_en": "Kuzumaki Kogen Chaya",
+     "name_en": "Kuzumaki Takahara Chaya",
      "description": "Soba restaurant in Kuzumaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030503/3010378/",
      "page": "https://bokenjapan.com/iwate/kuzumaki/eat/noodles/",
@@ -4979,7 +5161,7 @@
     },
     {
      "name": "グリーンテージ",
-     "name_en": "Green Teji",
+     "name_en": "Green Teiji",
      "description": "Hotel restaurant in Kuzumaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030503/3000827/",
      "page": "https://bokenjapan.com/iwate/kuzumaki/eat/other/",
@@ -5003,7 +5185,7 @@
     },
     {
      "name": "茶香",
-     "name_en": "Cha Kaori",
+     "name_en": "Chakaori",
      "description": "Sushi restaurant in Kuzumaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030503/3004520/",
      "page": "https://bokenjapan.com/iwate/kuzumaki/eat/seafood/",
@@ -5027,7 +5209,7 @@
     },
     {
      "name": "くずまき高原牧場",
-     "name_en": "Kuzumaki Kogen Bokujo",
+     "name_en": "Kuzumaki Takahara Bokujo",
      "description": "Gelato and ice-cream shop in Kuzumaki, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030503/3001312/",
      "page": "https://bokenjapan.com/iwate/kuzumaki/eat/sweets-bakeries/",
@@ -5109,7 +5291,69 @@
     "address": "Miyako, Iwate 027-8501",
     "phone": "0193-62-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "Yagisawa Miyakotandai Station",
+     "description": "Railway station in Miyako, Iwate Prefecture, Japan.",
+     "source_url": "https://en.wikipedia.org/wiki/Yagisawa-Miyakotandai_Station",
+     "page": "https://bokenjapan.com/iwate/miyakoshi/day-to-day/"
+    },
+    {
+     "name": "Haraigawa Station",
+     "description": "Railway station in Miyako, Iwate Prefecture, Japan.",
+     "source_url": "https://en.wikipedia.org/wiki/Haraigawa_Station",
+     "page": "https://bokenjapan.com/iwate/miyakoshi/day-to-day/"
+    },
+    {
+     "name": "Tarō Station",
+     "description": "Railway station in Miyako, Iwate prefecture, Japan.",
+     "source_url": "https://en.wikipedia.org/wiki/Tar%C5%8D_Station",
+     "page": "https://bokenjapan.com/iwate/miyakoshi/day-to-day/"
+    },
+    {
+     "name": "Settai Station",
+     "description": "Railway station in Miyako, Iwate prefecture, Japan.",
+     "source_url": "https://en.wikipedia.org/wiki/Settai_Station",
+     "page": "https://bokenjapan.com/iwate/miyakoshi/day-to-day/"
+    },
+    {
+     "name": "Tsugaruishi Station",
+     "description": "Railway station in Miyako, Iwate prefecture, Japan.",
+     "source_url": "https://en.wikipedia.org/wiki/Tsugaruishi_Station",
+     "page": "https://bokenjapan.com/iwate/miyakoshi/day-to-day/"
+    },
+    {
+     "name": "Shin-Tarō Station",
+     "description": "Railway station in Miyako, Japan.",
+     "source_url": "https://en.wikipedia.org/wiki/Shin-Tar%C5%8D_Station",
+     "page": "https://bokenjapan.com/iwate/miyakoshi/day-to-day/"
+    },
+    {
+     "name": "Roadside station Taro",
+     "description": "Roadside station in Miyako, Iwate, Japan.",
+     "source_url": "http://www.wikidata.org/entity/Q11640821",
+     "page": "https://bokenjapan.com/iwate/miyakoshi/day-to-day/"
+    },
+    {
+     "name": "Roadside station Miyako",
+     "description": "Roadside station in Miyako, Iwate, Japan.",
+     "source_url": "http://www.wikidata.org/entity/Q11640955",
+     "page": "https://bokenjapan.com/iwate/miyakoshi/day-to-day/"
+    },
+    {
+     "name": "Roadside station Yamabikokan",
+     "description": "Roadside station in Miyako, Iwate prefecture, Japan.",
+     "source_url": "http://www.wikidata.org/entity/Q11640981",
+     "page": "https://bokenjapan.com/iwate/miyakoshi/day-to-day/"
+    },
+    {
+     "name": "Roadside station Kuzakaikogen",
+     "description": "Roadside station in Miyako, Iwate prefecture, Japan.",
+     "source_url": "http://www.wikidata.org/entity/Q11641173",
+     "page": "https://bokenjapan.com/iwate/miyakoshi/day-to-day/"
+    }
+   ],
    "activities": [
     {
      "name": "Omoe Fisheries Experience Center Enyaa Dotto",
@@ -5141,7 +5385,7 @@
     },
     {
      "name": "丼の店 おいかわ 宮古市魚菜市場店",
-     "name_en": "Donburi Shop Oikawa Miyako Shi Gyosai Shijo branch",
+     "name_en": "Donburi Shop Oikawa Miyako Shigyosai Shijo branch",
      "description": "Rice-bowl restaurant in Miyako, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030401/3007197/",
      "page": "https://bokenjapan.com/iwate/miyakoshi/eat/casual/",
@@ -5165,7 +5409,7 @@
     },
     {
      "name": "レストラン汐菜",
-     "name_en": "Restaurant Shio Na",
+     "name_en": "Restaurant Shiona",
      "description": "Shokudo diner in Miyako, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030401/3008637/",
      "page": "https://bokenjapan.com/iwate/miyakoshi/eat/casual/",
@@ -5173,7 +5417,7 @@
     },
     {
      "name": "善助屋食堂",
-     "name_en": "Zensuke Ya Shokudo",
+     "name_en": "Zensukeya Shokudo",
      "description": "Shokudo diner in Miyako, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030401/3009585/",
      "page": "https://bokenjapan.com/iwate/miyakoshi/eat/casual/",
@@ -5181,7 +5425,7 @@
     },
     {
      "name": "冨士乃屋",
-     "name_en": "Fuji no-ya",
+     "name_en": "Fujino-ya",
      "description": "Chinese restaurant in Miyako, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030401/3000426/",
      "page": "https://bokenjapan.com/iwate/miyakoshi/eat/chinese-asian/",
@@ -5197,7 +5441,7 @@
     },
     {
      "name": "魚彩亭 すみよし",
-     "name_en": "Sakana Sai-tei Sumiyoshi",
+     "name_en": "Sakanasai-tei Sumiyoshi",
      "description": "Izakaya in Miyako, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030401/3000646/",
      "page": "https://bokenjapan.com/iwate/miyakoshi/eat/izakaya-bars/",
@@ -5221,7 +5465,7 @@
     },
     {
      "name": "多良福",
-     "name_en": "Tara Fuku",
+     "name_en": "Tarafuku",
      "description": "Ramen shop in Miyako, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030401/3000108/",
      "page": "https://bokenjapan.com/iwate/miyakoshi/eat/noodles/",
@@ -5285,7 +5529,7 @@
     },
     {
      "name": "魚正",
-     "name_en": "Sakana Sei",
+     "name_en": "Sakanasei",
      "description": "Sushi restaurant in Miyako, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030401/3000045/",
      "page": "https://bokenjapan.com/iwate/miyakoshi/eat/seafood/",
@@ -5301,7 +5545,7 @@
     },
     {
      "name": "パティスリー レ・ド・シェーブル",
-     "name_en": "Patisserie Re Do Shieburu",
+     "name_en": "Patisserie Lait de Chevre",
      "description": "Cake shop in Miyako, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030401/3010731/",
      "page": "https://bokenjapan.com/iwate/miyakoshi/eat/sweets-bakeries/",
@@ -5394,7 +5638,7 @@
     },
     {
      "name": "備長炭の湯 ホテル宮古ヒルズ（ＢＢＨホテルグループ）",
-     "name_en": "Bincho Sumi no Yu Hotel Miyako Hills",
+     "name_en": "Binchosumi no Yu Hotel Miyako Hills",
      "description": "Hotel in Miyako, Iwate.",
      "source_url": "https://www.jalan.net/yad324567/",
      "page": "https://bokenjapan.com/iwate/miyakoshi/stay/"
@@ -5422,7 +5666,7 @@
     },
     {
      "name": "ホテルアートシティ",
-     "name_en": "Hotel Aato City",
+     "name_en": "Hotel Art City",
      "description": "Hotel in Miyako, Iwate.",
      "source_url": "https://www.jalan.net/yad374462/",
      "page": "https://bokenjapan.com/iwate/miyakoshi/stay/"
@@ -5451,7 +5695,7 @@
     "address": "Morioka, Iwate 020-8530",
     "phone": "019-651-4111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Zaimokucho Yo-ichi Evening Market",
@@ -5460,14 +5704,214 @@
      "page": "https://bokenjapan.com/iwate/morioka/day-to-day/"
     }
    ],
+   "activities": [
+    {
+     "name": "Iwate prefectural skating rink",
+     "description": "The large grounds are spaciously equipped with an ice hockey rink, a figure rink, and a speed rink.",
+     "source_url": "https://iwatetabi.jp/en/spots/6564/",
+     "page": "https://bokenjapan.com/iwate/morioka/do/"
+    },
+    {
+     "name": "Iwate Prefectural Sports Park",
+     "description": "A comprehensive sports park that includes an athletics field, auxiliary field, baseball field (rubber ball), rugby field, soccer field, tennis court, Japanese garden,…",
+     "source_url": "https://iwatetabi.jp/en/spots/6758/",
+     "page": "https://bokenjapan.com/iwate/morioka/do/"
+    },
+    {
+     "name": "Morioka Country Club",
+     "description": "At the foot of a rocky mountain located to the east of the city.",
+     "source_url": "https://iwatetabi.jp/en/spots/6722/",
+     "page": "https://bokenjapan.com/iwate/morioka/do/"
+    },
+    {
+     "name": "Morioka City Residual Heat Utilization Health Promotion Center Yupiasu",
+     "description": "The facility utilizes waste incineration heat generated from the adjacent clean center, and has a pool, sauna, open-air bath, and bathhouse on the first floor, and an…",
+     "source_url": "https://iwatetabi.jp/en/spots/6041/",
+     "page": "https://bokenjapan.com/iwate/morioka/do/"
+    },
+    {
+     "name": "Morioka City Children’s Science Museum",
+     "description": "It was built in 1981 to help children deepen their knowledge and understanding of science while having fun.",
+     "source_url": "https://iwatetabi.jp/en/spots/4645/",
+     "page": "https://bokenjapan.com/iwate/morioka/do/"
+    }
+   ],
    "food": [
     {
      "name": "光原社 可否館",
-     "name_en": "Kogen Sha Kahi-kan",
+     "name_en": "Kogensha Kahi-kan",
      "description": "Coffee shop in Morioka, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030101/3000261/",
      "page": "https://bokenjapan.com/iwate/morioka/eat/cafe/",
      "category": "Cafe"
+    },
+    {
+     "name": "カプチーノ詩季 （カプチーノ シキ）",
+     "name_en": "Cappuccino Shiki",
+     "description": "Coffee shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000653/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "NAGASAWA COFFEE",
+     "name_en": "Nagasawa Coffee",
+     "description": "Café in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3006887/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "羅針盤 （らしんばん）",
+     "name_en": "Rashinban",
+     "description": "Coffee shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3010259/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "ティーハウス リーベ",
+     "name_en": "Tea House Liebe",
+     "description": "Coffee shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3001184/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "茶廊車門 （さろうしゃもん）",
+     "name_en": "Saroshamon",
+     "description": "Coffee shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000121/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "クラムボン",
+     "name_en": "Clam Bon",
+     "description": "Café in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000655/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "カフェレストラン 瑠奈",
+     "name_en": "Cafe Restaurant Runa",
+     "description": "Café in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3001283/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "みよし食堂",
+     "name_en": "Miyoshi Shokudo",
+     "description": "Shokudo diner in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000248/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "ももどり伝説 盛岡南店",
+     "name_en": "Momodori Densetsu Morioka Minami branch",
+     "description": "Chicken restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3001011/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "食堂 田舎家",
+     "name_en": "Shokudo Inakaya",
+     "description": "Shokudo diner in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3001315/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "新茶屋 （呑み喰い処 新茶屋）",
+     "name_en": "Shincha-ya Don Mi Shoku I Tokoro Shincha-ya",
+     "description": "Shokudo diner in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000512/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "つぼ半",
+     "name_en": "Tsubohan",
+     "description": "Chinese restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000296/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "中国料理 豪華",
+     "name_en": "Chugoku Ryori Goka",
+     "description": "Chinese restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000457/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "仙龍",
+     "name_en": "Senryu",
+     "description": "Chinese restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000314/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "白乾児 （パイカル）",
+     "name_en": "Paikaru",
+     "description": "Gyoza restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000547/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "シーアン",
+     "name_en": "Xi'an",
+     "description": "Chinese restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3006850/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "中国料理 空",
+     "name_en": "Chugoku Ryori Sora",
+     "description": "Chinese restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3008725/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "ねぎぼーず",
+     "name_en": "Negibozu",
+     "description": "Chinese restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3004568/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "ら生門 （らしょうもん）",
+     "name_en": "Ranamamon Rashomon",
+     "description": "Gyoza restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000171/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "三代目福建楼",
+     "name_en": "Sandaime Fukkenro",
+     "description": "Chinese restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3005303/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "カレー工房 Chalten （カレーコウボウ チャルテン）",
+     "name_en": "Curry Kobo Chalten",
+     "description": "Indian curry restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000919/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/curry/",
+     "category": "Curry"
     },
     {
      "name": "Ristorante SHIKAZAWA",
@@ -5487,7 +5931,7 @@
     },
     {
      "name": "シェムラブルリス",
-     "name_en": "Shiemurabururisu",
+     "name_en": "Chez Mura Bleu Lis",
      "description": "French restaurant in Morioka, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030101/3007052/",
      "page": "https://bokenjapan.com/iwate/morioka/eat/european/",
@@ -5506,6 +5950,78 @@
      "name_en": "Azumanesoko Morioka branch",
      "description": "Bistro in Morioka, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030101/3012837/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "ポンコツ酒場",
+     "name_en": "Ponkotsu Sakaba",
+     "description": "Italian restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3012270/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "ピッツェリア ピアーチェ",
+     "name_en": "PIZZERIA Piace",
+     "description": "Pizzeria in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000434/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "プラッサッジョ",
+     "name_en": "Pullassaggio",
+     "description": "Italian restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3011378/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "アンティカ トラットリア イナバ",
+     "name_en": "ANTICA TRATTORIA INABA",
+     "description": "Italian restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3010273/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "フランス料理 モン･フレーブ",
+     "name_en": "French Restaurant Mon Furebu",
+     "description": "French restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000525/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "ベルクール",
+     "name_en": "Restaurant Bellecoure",
+     "description": "French restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000145/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "洋食 金宝堂",
+     "name_en": "Yoshoku Kintakarado",
+     "description": "Yoshoku (Western-style) restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000483/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "フレスキッシマ",
+     "name_en": "FRESCHISSIMA",
+     "description": "Pasta restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000211/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "モンタン",
+     "name_en": "Montan",
+     "description": "Pasta restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3001047/",
      "page": "https://bokenjapan.com/iwate/morioka/eat/european/",
      "category": "European"
     },
@@ -5543,15 +6059,151 @@
     },
     {
      "name": "番屋ながさわ",
-     "name_en": "Ban-ya Nagasawa",
+     "name_en": "Banya Nagasawa",
      "description": "Izakaya in Morioka, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030101/3000400/",
      "page": "https://bokenjapan.com/iwate/morioka/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
     {
+     "name": "移転 里伊 （sai） 移転前の店舗情報です。新しい店舗は 里伊（sai） をご参照ください。",
+     "name_en": "Iten Satoi sai Itenmae Shop Hojoho Desu Atarashii Shop Hoha Satoi sai Wogo Sansho Kudasai",
+     "description": "Izakaya in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3008656/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "根菜屋",
+     "name_en": "Konsai-ya",
+     "description": "Izakaya in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3005435/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "吉浜食堂 （キッピンショクドウ）",
+     "name_en": "Kippin Shokudo",
+     "description": "Izakaya in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3009821/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "ビア ベース ベアレン 盛岡駅前",
+     "name_en": "BEER BASE BAEREN",
+     "description": "Beer bar in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3011019/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "ももどり駅前食堂",
+     "name_en": "Momodori Ekimae Shokudo",
+     "description": "Izakaya in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3004262/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "南部ビストロ うんめのす",
+     "name_en": "Nanbu Bistro Unmenosu",
+     "description": "Izakaya in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3009598/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "網玄 （あみげん）",
+     "name_en": "Amigen Amigen",
+     "description": "Izakaya in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000095/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Beer front BAEREN 盛岡駅前 （ビアフロント ベアレン）",
+     "name_en": "Beer Front Baeren Morioka Ekimae",
+     "description": "Beer bar in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3012348/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "もつ焼き 本塁打 （ホームラン）",
+     "name_en": "Motsuyaki Honruida Home Run",
+     "description": "Izakaya in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3011293/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "立呑 えびすけ （たちのみ えびすけ）",
+     "name_en": "Ritsudon Ebisuke Tachinomi Ebisuke",
+     "description": "Standing bar in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000069/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "かしら",
+     "name_en": "Kashira",
+     "description": "Izakaya in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3008558/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "ダイニング&バー ジョバンニ",
+     "name_en": "Dining & Bar Giovanni",
+     "description": "Dining bar in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000893/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "大衆酒場 丸富士",
+     "name_en": "Taishu Sakaba Marufuji",
+     "description": "Izakaya in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3011135/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Lit work place 盛岡駅店",
+     "name_en": "Lit work place Morioka Eki branch",
+     "description": "Beer bar in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3013020/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "ゑん （【旧店名】かぐや）",
+     "name_en": "En Kaguya",
+     "description": "Izakaya in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3006822/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "三枚目 助五郎 大通り店",
+     "name_en": "Sanmaime Sukegoro Odori branch",
+     "description": "Izakaya in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3006561/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "にっか亭",
+     "name_en": "Nikka-tei",
+     "description": "Bar in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000666/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "盛楼閣",
-     "name_en": "Jo Ro-kaku",
+     "name_en": "Joro-kaku",
      "description": "Yakiniku (grilled meat) restaurant in Morioka, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030101/3000020/",
      "page": "https://bokenjapan.com/iwate/morioka/eat/meat/",
@@ -5567,7 +6219,7 @@
     },
     {
      "name": "食道園",
-     "name_en": "Shokudo Sono",
+     "name_en": "Shokudosono",
      "description": "Yakiniku (grilled meat) restaurant in Morioka, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030101/3000025/",
      "page": "https://bokenjapan.com/iwate/morioka/eat/meat/",
@@ -5575,7 +6227,7 @@
     },
     {
      "name": "玉山支所前食堂",
-     "name_en": "Tamayama Shisho Mae Shokudo",
+     "name_en": "Tamayama Shishomae Shokudo",
      "description": "Motsunabe restaurant in Morioka, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030101/3000651/",
      "page": "https://bokenjapan.com/iwate/morioka/eat/meat/",
@@ -5583,7 +6235,7 @@
     },
     {
      "name": "ステーキ・鉄板料理 和かな 盛岡本店",
-     "name_en": "Steak Teppan Ryori Wa Kana Morioka main branch",
+     "name_en": "Steak Teppan Ryori Nikoyakana Morioka main branch",
      "description": "Steakhouse in Morioka, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030101/3000116/",
      "page": "https://bokenjapan.com/iwate/morioka/eat/meat/",
@@ -5599,7 +6251,7 @@
     },
     {
      "name": "虎きよ",
-     "name_en": "Tora Kiyo",
+     "name_en": "Torakiyo",
      "description": "Yakiniku (grilled meat) restaurant in Morioka, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030101/3012217/",
      "page": "https://bokenjapan.com/iwate/morioka/eat/meat/",
@@ -5610,6 +6262,118 @@
      "name_en": "Yakiniku Segawa",
      "description": "Yakiniku (grilled meat) restaurant in Morioka, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030101/3000295/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "焼肉レストラン 米内 （ヨナイ）",
+     "name_en": "Yakiniku Restaurant Yonai",
+     "description": "Yakiniku (grilled meat) restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3012066/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "髭",
+     "name_en": "Hige",
+     "description": "Yakiniku (grilled meat) restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000011/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "とんかつ むら八",
+     "name_en": "Tonkatsu Murahachi",
+     "description": "Tonkatsu restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000519/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "牛たん炭火焼 仁 盛岡分店 （ギュウタンスミヤキ ジン）",
+     "name_en": "Gyutan Sumiyaki Jin Morioka branch",
+     "description": "Beef-tongue restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3009272/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "香月 （こうげつ）",
+     "name_en": "Kogetsu",
+     "description": "Teppanyaki restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000152/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "すきや 川また",
+     "name_en": "Sukiya Kawamata",
+     "description": "Sukiyaki restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3010889/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "龍泉",
+     "name_en": "Ryusen",
+     "description": "Horumon (offal) grill in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3005972/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "東家 駅前店 （あずまや）",
+     "name_en": "Azumaya Ekimae Shop Azumaya",
+     "description": "Katsudon restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000021/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "ハンバーグレストラン ベル 大通店",
+     "name_en": "Hamburg Steak Restaurant Bell Daitsu branch",
+     "description": "Hamburg-steak restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000238/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "むら八 フェザン店 （むらはち）",
+     "name_en": "Murahachi Fezan branch",
+     "description": "Tonkatsu restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000087/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "焼鳥・居酒屋 とり",
+     "name_en": "Yakitori Izakaya Tori",
+     "description": "Yakitori restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000435/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "遠野食肉センター 盛岡木伏店",
+     "name_en": "Tono Shokuniku Center Morioka Kifushi branch",
+     "description": "Jingisukan (lamb BBQ) restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3010841/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "ブッチャー軒",
+     "name_en": "Butcher Ken",
+     "description": "Yakiniku (grilled meat) restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3007533/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "盛岡食堂 （モリオカショクドウ）",
+     "name_en": "Morioka Shokudo",
+     "description": "Yakiniku (grilled meat) restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000378/",
      "page": "https://bokenjapan.com/iwate/morioka/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -5630,10 +6394,418 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "麺屋 いおり",
+     "name_en": "Menya Iori",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3010917/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "開運橋通 ふじ原",
+     "name_en": "Kaiunhashitsu Fujihara",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3011664/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "柳家 フェザン店",
+     "name_en": "Yanagiya Fezan branch",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3005987/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "たかみ屋",
+     "name_en": "Takami-ya",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000016/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "人力俥 （じんりきしゃ）",
+     "name_en": "Jinrikisha",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3006660/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "に干し屋 SINCHAN",
+     "name_en": "Nihoshi-ya Sinchan",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3011372/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "めん処 きよ洲",
+     "name_en": "Mentokoro Kiyosu",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3011389/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "中河 （なかがわ）",
+     "name_en": "Nakagawa Nakagawa",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000451/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "もりしげ",
+     "name_en": "Morishige",
+     "description": "Yakiniku (grilled meat) restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000035/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "ラーメン イッケン",
+     "name_en": "Ramen Ikken",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3010450/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "白龍 本店 （パイロン）",
+     "name_en": "Hakuryu main branch",
+     "description": "Noodle shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000037/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "東家 本店 （あずまや）",
+     "name_en": "Azumaya main branch Azumaya",
+     "description": "Soba restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000030/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "白龍 フェザン分店",
+     "name_en": "Hakuryu Fezan branch",
+     "description": "Noodle shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3009618/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "ぴょんぴょん舎 盛岡駅前店 （ピョンピョンシャ）",
+     "name_en": "Pyonpyon-sha Morioka Ekimae branch",
+     "description": "Korean restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000023/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "盛岡じゃじゃめん 小吃店 フェザン店 （もりおかじゃじゃめん しょうすうてん）",
+     "name_en": "Morioka Jajamen Shosuten Fezan branch",
+     "description": "Noodle shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000753/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "盛岡冷麺 寿々苑",
+     "name_en": "Morioka Reimen Hisashihisashi-en",
+     "description": "Korean restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3006094/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "直利庵 （ちょくりあん）",
+     "name_en": "Chokurian",
+     "description": "Soba restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000028/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "柳家 総本店",
+     "name_en": "Yanagiya main branch",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3011300/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "中華そば 弥太郎",
+     "name_en": "Chuka Soba Yataro",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3010553/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "大同苑 盛岡フェザン店 （だいどうえん）",
+     "name_en": "Daido-en Morioka Fezan branch",
+     "description": "Yakiniku (grilled meat) restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3009771/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "盛岡じゃじゃ麺 あきを。",
+     "name_en": "Morioka Jaja Men Akiwo",
+     "description": "Noodle shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3005382/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "香醤 （コウジャン）",
+     "name_en": "Kojan",
+     "description": "Noodle shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000264/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "麺の極 はなみち",
+     "name_en": "Men no Kyoku Hanamichi",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3005369/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "そばの花",
+     "name_en": "Soba no Hana",
+     "description": "Soba restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3011030/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "木偶の坊 （噂のひっつみ）",
+     "name_en": "Mokugu no Bo Uwasa no Hittsumi",
+     "description": "Noodle shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3006831/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "ぴょんぴょん舎 稲荷町本店 （ピョンピョンシャ）",
+     "name_en": "Pyonpyonsha Inaricho main branch",
+     "description": "Korean restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000008/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "白龍 カワトク分店 （パイロン）",
+     "name_en": "Pailong Kawatoku branch",
+     "description": "Noodle shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000233/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "明明家 （ミョンミョンヤ）",
+     "name_en": "Myonmyonya",
+     "description": "Yakiniku (grilled meat) restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000217/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "南部屋路ばた 盛岡市上太田店",
+     "name_en": "Minami Heyaji Bata Morioka Shijo Ota branch",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3004252/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "蔵人家",
+     "name_en": "Kurabitoie",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3008799/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "東座",
+     "name_en": "Higashiza",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3007182/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "盛岡じゃじゃ麺 ちーたん",
+     "name_en": "Morioka Jaja Men Chitan",
+     "description": "Noodle shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3001147/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "栗林",
+     "name_en": "Kuribayashi",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3008624/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "はすの屋 （はすのや）",
+     "name_en": "Hasuno-ya Hasunoya",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000770/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "コツコツラーメン 三十六番",
+     "name_en": "Kotsukotsu Ramen Sanjurokuban",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3011657/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "極上拉麺専門店 穴場",
+     "name_en": "Gokujo Ramen Senmon Shop Anaba",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3009999/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "初駒 （はつこま）",
+     "name_en": "Hatsukoma",
+     "description": "Soba restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000357/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "濃厚タンメン きむらや",
+     "name_en": "Noko Tanmen Kimuraya",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3011976/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "ラーメン くどう",
+     "name_en": "Ramen Kudo",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3012616/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "不来方じゃじゃ麺 （こずかたじゃじゃめん）",
+     "name_en": "Kozukata Jaja Men",
+     "description": "Noodle shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3001151/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "うどん工房かたつむり",
+     "name_en": "Udon Kobo Katatsumuri",
+     "description": "Udon restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3010065/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "こまつ中華蕎麦",
+     "name_en": "Komatsu Chuka Soba",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3012996/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "やぶ屋 フェザン店 （やぶや）",
+     "name_en": "Yabuya Fezan branch",
+     "description": "Soba restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000454/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "中華そば 正太郎 （しょうたろう）",
+     "name_en": "Chuka Soba Shotaro",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000226/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "初代 （ショダイ）",
+     "name_en": "Shodai",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000904/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "蕎麦将軍",
+     "name_en": "Soba Shogun",
+     "description": "Soba restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3010912/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "ふじわら屋",
+     "name_en": "Fujiwara-ya",
+     "description": "Ramen shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000214/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "雨宿り",
+     "name_en": "Amayadori",
+     "description": "Restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3012896/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "ななしの庵",
-     "name_en": "Nanashi no Iori",
+     "name_en": "Nanashino-an",
      "description": "Creative-cuisine restaurant in Morioka, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030101/3010322/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "燈弥 （とうや）",
+     "name_en": "Toya Toya",
+     "description": "Japanese restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3005549/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "和久 （わきゅう）",
+     "name_en": "Waku Wakyu",
+     "description": "Japanese restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000126/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "沢内甚句 （さわうちじんく）",
+     "name_en": "Sawauchi Jinku Sawauchijinku",
+     "description": "Local-cuisine restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000703/",
      "page": "https://bokenjapan.com/iwate/morioka/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -5646,10 +6818,122 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "鮨懐石 重兵衛 （じゅうべい）",
+     "name_en": "Sushikaiseki Jubei",
+     "description": "Sushi restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000187/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "三寿司 総本店 （さんずし）",
+     "name_en": "San Sushi So Main Branch",
+     "description": "Sushi restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000015/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "どん兵衛",
+     "name_en": "Donbe",
+     "description": "Seafood restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3005422/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "海ごはん しまか",
+     "name_en": "Umigohan Shimaka",
+     "description": "Seafood restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3010124/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "回転寿司すノ家 南大通店 （すのや）",
+     "name_en": "Kaiten Sushi Su No Ie Minamiodori Shop Sunoya",
+     "description": "Conveyor-belt sushi in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3002510/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "すし源",
+     "name_en": "Sushigen",
+     "description": "Sushi restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000424/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "鮨 かぐら",
+     "name_en": "Sushi Kagura",
+     "description": "Sushi restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3011508/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "浜味屋",
+     "name_en": "Hamaaji-ya",
+     "description": "Seafood restaurant in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3007186/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "福田パン 長田町本店",
-     "name_en": "Fukuda Bread Nagata Machi main branch",
+     "name_en": "Fukuda Bread Nagatamachi main branch",
      "description": "Bakery in Morioka, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030101/3001022/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "銀河堂1890 Sweets&Bakery （ギンガドウイチハチキュウゼロスイーツアンドベーカリー）",
+     "name_en": "Gingado 1890 Sweets & Bakery",
+     "description": "Cake shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3009411/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "チーズケーキのチロル 大通店",
+     "name_en": "TIROL",
+     "description": "Cake shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3000140/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "福田パン 中ノ橋店",
+     "name_en": "Fukuda Bread Naka no Hashi branch",
+     "description": "Bakery in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3012016/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "福田パン みたけ店",
+     "name_en": "Fukuda Bread Mitake branch",
+     "description": "Bakery in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3010425/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "ミッシェル 大通店",
+     "name_en": "Michel Odori branch",
+     "description": "Bakery in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3007398/",
+     "page": "https://bokenjapan.com/iwate/morioka/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "チーズケーキのチロル 盛岡駅ビルフェザン店",
+     "name_en": "Cheesecake no Tirol Morioka Station Building Fezan branch",
+     "description": "Western sweets shop in Morioka, Iwate.",
+     "source_url": "https://tabelog.com/iwate/A0301/A030101/3009851/",
      "page": "https://bokenjapan.com/iwate/morioka/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -5825,7 +7109,27 @@
     "address": "Ninohe, Iwate 028-6192",
     "phone": "0195-23-3111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "Ninohe Station",
+     "description": "Railway station in Ninohe, Iwate prefecture, Japan.",
+     "source_url": "https://en.wikipedia.org/wiki/Ninohe_Station",
+     "page": "https://bokenjapan.com/iwate/ninohe/day-to-day/"
+    },
+    {
+     "name": "Kintaichi-Onsen Station",
+     "description": "Railway station in Ninohe, Iwate prefecture, Japan.",
+     "source_url": "https://en.wikipedia.org/wiki/Kintaichi-Onsen_Station",
+     "page": "https://bokenjapan.com/iwate/ninohe/day-to-day/"
+    },
+    {
+     "name": "Tomai Station",
+     "description": "Railway station in Ninohe, Iwate prefecture, Japan.",
+     "source_url": "https://en.wikipedia.org/wiki/Tomai_Station",
+     "page": "https://bokenjapan.com/iwate/ninohe/day-to-day/"
+    }
+   ],
    "activities": [
     {
      "name": "Ninohe Citizen’s Forest",
@@ -5885,7 +7189,7 @@
     },
     {
      "name": "食事処竹はる",
-     "name_en": "Shokujidokoro Take Haru",
+     "name_en": "Shokujidokoro Takeharu",
      "description": "Chinese restaurant in Ninohe, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3001535/",
      "page": "https://bokenjapan.com/iwate/ninohe/eat/chinese-asian/",
@@ -5901,7 +7205,7 @@
     },
     {
      "name": "ボヌール",
-     "name_en": "Bonuru",
+     "name_en": "Bonheur",
      "description": "Hamburg-steak restaurant in Ninohe, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3012161/",
      "page": "https://bokenjapan.com/iwate/ninohe/eat/meat/",
@@ -5909,7 +7213,7 @@
     },
     {
      "name": "麺じや",
-     "name_en": "Men Jiya",
+     "name_en": "Menjiya",
      "description": "Ramen shop in Ninohe, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3012331/",
      "page": "https://bokenjapan.com/iwate/ninohe/eat/noodles/",
@@ -5925,7 +7229,7 @@
     },
     {
      "name": "支那そば幸道",
-     "name_en": "Shina Soba Yukimichi",
+     "name_en": "Shina Soba Kodo",
      "description": "Ramen shop in Ninohe, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3001774/",
      "page": "https://bokenjapan.com/iwate/ninohe/eat/noodles/",
@@ -5933,7 +7237,7 @@
     },
     {
      "name": "町家の食べ処 福わらし",
-     "name_en": "Choka no Tabedokoro Fuku Warashi",
+     "name_en": "Machiya no Tabedokoro Fukuwarashi",
      "description": "Soba restaurant in Ninohe, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3006617/",
      "page": "https://bokenjapan.com/iwate/ninohe/eat/noodles/",
@@ -5941,7 +7245,7 @@
     },
     {
      "name": "味彩工房逢坂",
-     "name_en": "Aji Sai Kobo Hosaka",
+     "name_en": "Ajisai Kobo Osaka",
      "description": "Ramen shop in Ninohe, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3011837/",
      "page": "https://bokenjapan.com/iwate/ninohe/eat/noodles/",
@@ -5989,7 +7293,7 @@
     },
     {
      "name": "北のチョコレート工場ツードア",
-     "name_en": "Kita no Chocolate Kojo Tsudoa",
+     "name_en": "Kita no Chocolate Kojo Two Door",
      "description": "Senbei cracker shop in Ninohe, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3009474/",
      "page": "https://bokenjapan.com/iwate/ninohe/eat/sweets-bakeries/",
@@ -5997,7 +7301,7 @@
     },
     {
      "name": "丹市パン",
-     "name_en": "Tan Shi Bread",
+     "name_en": "Tanshi Bread",
      "description": "Bakery in Ninohe, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3003488/",
      "page": "https://bokenjapan.com/iwate/ninohe/eat/sweets-bakeries/",
@@ -6013,7 +7317,7 @@
     },
     {
      "name": "橋本屋食堂 隠れ家キッチンSORA",
-     "name_en": "Hashimoto Ya Shokudo Kakure Ie Kitchen SORA",
+     "name_en": "Hashimotoya Shokudo Kakurega Kitchen SORA",
      "description": "Sandwich shop in Ninohe, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0305/A030502/3011646/",
      "page": "https://bokenjapan.com/iwate/ninohe/eat/sweets-bakeries/",
@@ -6129,7 +7433,7 @@
     },
     {
      "name": "金田一温泉 仙養舘",
-     "name_en": "Kindaichi Onsen Sen Yo Kan",
+     "name_en": "Kindaichi Onsen Senyokan",
      "description": "Onsen lodging in Ninohe, Iwate.",
      "source_url": "https://www.jalan.net/yad328295/",
      "page": "https://bokenjapan.com/iwate/ninohe/stay/"
@@ -6158,7 +7462,7 @@
     "address": "Nishiwaga, Iwate 029-5512",
     "phone": "0197-82-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "スーパーオセン 湯本本店",
@@ -6225,7 +7529,7 @@
     },
     {
      "name": "十割そばの店 湯夢プラザ",
-     "name_en": "Ju Wari Soba Shop Yu Yume Plaza",
+     "name_en": "Juwari Soba Shop Yuyume Plaza",
      "description": "Soba restaurant in Nishiwaga, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030205/3006539/",
      "page": "https://bokenjapan.com/iwate/nishiwaga/eat/noodles/",
@@ -6233,7 +7537,7 @@
     },
     {
      "name": "母ちゃんの店 わがや",
-     "name_en": "Kachan Shop Wagaya",
+     "name_en": "Kaachan Shop Wagaya",
      "description": "Soba restaurant in Nishiwaga, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030205/3006083/",
      "page": "https://bokenjapan.com/iwate/nishiwaga/eat/noodles/",
@@ -6241,7 +7545,7 @@
     },
     {
      "name": "春乃家",
-     "name_en": "Haruno Ie",
+     "name_en": "Harunoie",
      "description": "Soba restaurant in Nishiwaga, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030205/3010463/",
      "page": "https://bokenjapan.com/iwate/nishiwaga/eat/noodles/",
@@ -6249,7 +7553,7 @@
     },
     {
      "name": "利久庵",
-     "name_en": "Toshihisa Iori",
+     "name_en": "Rikyu-an",
      "description": "Soba restaurant in Nishiwaga, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030205/3011580/",
      "page": "https://bokenjapan.com/iwate/nishiwaga/eat/noodles/",
@@ -6265,7 +7569,7 @@
     },
     {
      "name": "道の駅 錦秋湖",
-     "name_en": "Michi-no-Eki Kinshu Mizumi",
+     "name_en": "Michi-no-Eki Kinshumizumi",
      "description": "Roadside-station eatery in Nishiwaga, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030205/3000721/",
      "page": "https://bokenjapan.com/iwate/nishiwaga/eat/other/",
@@ -6273,7 +7577,7 @@
     },
     {
      "name": "四季彩の宿 ふる里",
-     "name_en": "Furu Sato",
+     "name_en": "Furusato",
      "description": "Inn restaurant in Nishiwaga, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030205/3005468/",
      "page": "https://bokenjapan.com/iwate/nishiwaga/eat/other/",
@@ -6281,7 +7585,7 @@
     },
     {
      "name": "萬鷹旅館",
-     "name_en": "Man Taka Ryokan",
+     "name_en": "Mantaka Ryokan",
      "description": "Inn restaurant in Nishiwaga, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030205/3006381/",
      "page": "https://bokenjapan.com/iwate/nishiwaga/eat/other/",
@@ -6289,7 +7593,7 @@
     },
     {
      "name": "新清館",
-     "name_en": "Shin Kiyoshi-kan",
+     "name_en": "Shinkiyoshi-kan",
      "description": "Inn restaurant in Nishiwaga, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030205/3006394/",
      "page": "https://bokenjapan.com/iwate/nishiwaga/eat/other/",
@@ -6297,7 +7601,7 @@
     },
     {
      "name": "高繁旅館",
-     "name_en": "Taka Han Ryokan",
+     "name_en": "Takahan Ryokan",
      "description": "Inn restaurant in Nishiwaga, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030205/3009141/",
      "page": "https://bokenjapan.com/iwate/nishiwaga/eat/other/",
@@ -6321,7 +7625,7 @@
     },
     {
      "name": "お菓子処 たかはし",
-     "name_en": "O Kashi Tokoro Takahashi",
+     "name_en": "Okashitokoro Takahashi",
      "description": "Japanese sweets shop in Nishiwaga, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030205/3008054/",
      "page": "https://bokenjapan.com/iwate/nishiwaga/eat/sweets-bakeries/",
@@ -6337,7 +7641,7 @@
     },
     {
      "name": "雪国のだんご屋 団平",
-     "name_en": "Yukiguni Nodango-ya Dan Taira",
+     "name_en": "Yukiguni no Dango-ya Dantaira",
      "description": "Japanese sweets shop in Nishiwaga, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030205/3008009/",
      "page": "https://bokenjapan.com/iwate/nishiwaga/eat/sweets-bakeries/",
@@ -6401,7 +7705,7 @@
     },
     {
      "name": "Kagura Offering at Sakamoto Shrine",
-     "description": "The Maegō Summer Festival, a festival held at Sakamoto Shrine in August, is a lively event with Sakamoto Kagura offerings, Bon dances, night stalls, and more.",
+     "description": "The Maego Summer Festival, a festival held at Sakamoto Shrine in August, is a lively event with Sakamoto Kagura offerings, Bon dances, night stalls, and more.",
      "source_url": "https://iwatetabi.jp/en/spots/5643/",
      "page": "https://bokenjapan.com/iwate/nishiwaga/see/"
     }
@@ -6409,7 +7713,7 @@
    "stays": [
     {
      "name": "旅館 一城",
-     "name_en": "Ryokan Ichijo",
+     "name_en": "Ryokan Kazuki",
      "description": "Ryokan inn in Nishiwaga, Iwate.",
      "source_url": "https://www.jalan.net/yad355280/",
      "page": "https://bokenjapan.com/iwate/nishiwaga/stay/"
@@ -6423,28 +7727,28 @@
     },
     {
      "name": "世寿美屋旅館",
-     "name_en": "Yo Sumi Ya Ryokan",
+     "name_en": "Yo Sumiya Ryokan",
      "description": "Ryokan inn in Nishiwaga, Iwate.",
      "source_url": "https://www.jalan.net/yad361750/",
      "page": "https://bokenjapan.com/iwate/nishiwaga/stay/"
     },
     {
      "name": "【山人-yamado-】温泉と森の滋味を愉しむ大人の隠れ宿",
-     "name_en": "Sanjin -Yamado",
+     "name_en": "Sanjin Y A M A D O",
      "description": "Onsen lodging in Nishiwaga, Iwate.",
      "source_url": "https://www.jalan.net/yad302565/",
      "page": "https://bokenjapan.com/iwate/nishiwaga/stay/"
     },
     {
      "name": "湯川温泉 食べる宿 萬鷹旅館",
-     "name_en": "Yukawa Onsen Tabe Ru Yado Man Taka Ryokan",
+     "name_en": "Yukawa Onsen Taberuyado Mantaka Ryokan",
      "description": "Ryokan inn in Nishiwaga, Iwate.",
      "source_url": "https://www.jalan.net/yad392060/",
      "page": "https://bokenjapan.com/iwate/nishiwaga/stay/"
     },
     {
      "name": "湯川温泉 湯治 高繁旅館",
-     "name_en": "Yukawa Onsen Toji Taka Han Ryokan",
+     "name_en": "Yukawa Onsen Toji Takahan Ryokan",
      "description": "Ryokan inn in Nishiwaga, Iwate.",
      "source_url": "https://www.jalan.net/yad380196/",
      "page": "https://bokenjapan.com/iwate/nishiwaga/stay/"
@@ -6473,7 +7777,7 @@
     "address": "Noda, Iwate 028-8201",
     "phone": "0194-78-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "LAWSON 岩手野田店",
@@ -6510,7 +7814,7 @@
     },
     {
      "name": "苫屋",
-     "name_en": "Toma-ya",
+     "name_en": "Tomaya",
      "description": "Café in Noda, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030406/3007375/",
      "page": "https://bokenjapan.com/iwate/nodamura/eat/cafe/",
@@ -6534,7 +7838,7 @@
     },
     {
      "name": "洋食・旬彩料理 みなみ",
-     "name_en": "Yoshoku Jun Sairyo Ri Minami",
+     "name_en": "Yoshoku Shun Irodori Ryori Minami",
      "description": "Yoshoku (Western-style) restaurant in Noda, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030406/3004096/",
      "page": "https://bokenjapan.com/iwate/nodamura/eat/european/",
@@ -6558,7 +7862,7 @@
     },
     {
      "name": "道の駅のだ ぱあぷる",
-     "name_en": "Michi-no-Eki Noda Papuru",
+     "name_en": "Michi-no-Eki Noda Paapuru",
      "description": "Ramen shop in Noda, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030406/3013073/",
      "page": "https://bokenjapan.com/iwate/nodamura/eat/noodles/",
@@ -6574,7 +7878,7 @@
     },
     {
      "name": "産直 ぱあぷる",
-     "name_en": "Sanchoku Papuru",
+     "name_en": "Sanchoku Paapuru",
      "description": "Local-cuisine restaurant in Noda, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030406/3007907/",
      "page": "https://bokenjapan.com/iwate/nodamura/eat/other-japanese/",
@@ -6678,7 +7982,7 @@
     "address": "Ofunato, Iwate 022-8501",
     "phone": "0192-27-3111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Farmhouse Restaurant Ajidokoro Yasumiishi",
@@ -6712,7 +8016,7 @@
     },
     {
      "name": "ルポゼ",
-     "name_en": "Rupoze",
+     "name_en": "Repos",
      "description": "Café in Ofunato, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3008237/",
      "page": "https://bokenjapan.com/iwate/ofunato/eat/cafe/",
@@ -6728,7 +8032,7 @@
     },
     {
      "name": "百樹屋",
-     "name_en": "Hyaku Ki-ya",
+     "name_en": "Hyakuki-ya",
      "description": "Shokudo diner in Ofunato, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3006201/",
      "page": "https://bokenjapan.com/iwate/ofunato/eat/casual/",
@@ -6744,7 +8048,7 @@
     },
     {
      "name": "浜どこ",
-     "name_en": "Hama Doko",
+     "name_en": "Hamadoko",
      "description": "Shokudo diner in Ofunato, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3011299/",
      "page": "https://bokenjapan.com/iwate/ofunato/eat/casual/",
@@ -6760,7 +8064,7 @@
     },
     {
      "name": "ポルコ・ロッソ",
-     "name_en": "Poruko Rosso",
+     "name_en": "Porco Rosso",
      "description": "Italian restaurant in Ofunato, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3000175/",
      "page": "https://bokenjapan.com/iwate/ofunato/eat/european/",
@@ -6768,7 +8072,7 @@
     },
     {
      "name": "四季旬彩 中村",
-     "name_en": "Shiki Jun Sai Nakamura",
+     "name_en": "Shikishunaya Nakamura",
      "description": "Izakaya in Ofunato, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3004824/",
      "page": "https://bokenjapan.com/iwate/ofunato/eat/izakaya-bars/",
@@ -6784,7 +8088,7 @@
     },
     {
      "name": "呑み食い処 かぁさん",
-     "name_en": "Nomi Kui Tokoro Kasan",
+     "name_en": "Don Mi Shoku I Tokoro Kaasan",
      "description": "Izakaya in Ofunato, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3012554/",
      "page": "https://bokenjapan.com/iwate/ofunato/eat/izakaya-bars/",
@@ -6808,7 +8112,7 @@
     },
     {
      "name": "貝だしラーメン黒船 SECOND",
-     "name_en": "Kai Dashi Ramen Kurofune Second",
+     "name_en": "Kaidashi Ramen Kurofune Second",
      "description": "Ramen shop in Ofunato, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3009631/",
      "page": "https://bokenjapan.com/iwate/ofunato/eat/noodles/",
@@ -6824,7 +8128,7 @@
     },
     {
      "name": "千秋庵",
-     "name_en": "Senshu Iori",
+     "name_en": "Chiaki-an",
      "description": "Soba restaurant in Ofunato, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3001874/",
      "page": "https://bokenjapan.com/iwate/ofunato/eat/noodles/",
@@ -6848,7 +8152,7 @@
     },
     {
      "name": "鮨処ささき",
-     "name_en": "Sushi Shosa Saki",
+     "name_en": "Sushitokoro Sasaki",
      "description": "Sushi restaurant in Ofunato, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3009719/",
      "page": "https://bokenjapan.com/iwate/ofunato/eat/seafood/",
@@ -6856,7 +8160,7 @@
     },
     {
      "name": "丸清食堂",
-     "name_en": "Maru Kiyoshi Shokudo",
+     "name_en": "Marukiyoshi Shokudo",
      "description": "Seafood restaurant in Ofunato, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3004608/",
      "page": "https://bokenjapan.com/iwate/ofunato/eat/seafood/",
@@ -7027,7 +8331,7 @@
     },
     {
      "name": "海鮮の宿ごいし荘別邸 海さんぽ",
-     "name_en": "Kaisen no Yado Goishi So Bettei Umi Sanpo",
+     "name_en": "Kaisen no Yado Goishi Sobettei Umisanpo",
      "description": "Lodge in Ofunato, Iwate.",
      "source_url": "https://www.jalan.net/yad347733/",
      "page": "https://bokenjapan.com/iwate/ofunato/stay/"
@@ -7049,7 +8353,7 @@
     "address": "Oshu, Iwate 023-8501",
     "phone": "0197-24-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Farmhouse restaurant Mada Kurusuta",
@@ -7076,6 +8380,62 @@
      "page": "https://bokenjapan.com/iwate/oshu/day-to-day/"
     }
    ],
+   "activities": [
+    {
+     "name": "Kunimidaira Ski Resort",
+     "description": "Excellent snow quality! From the ski slopes, you can see the magnificent scenery of the Isawa plains, and the varied courses can be enjoyed by everyone from beginners to…",
+     "source_url": "https://iwatetabi.jp/en/spots/6573/",
+     "page": "https://bokenjapan.com/iwate/oshu/do/"
+    },
+    {
+     "name": "Michinoku Koto Country Club",
+     "description": "Each highly strategic course takes advantage of nature.",
+     "source_url": "https://iwatetabi.jp/en/spots/6724/",
+     "page": "https://bokenjapan.com/iwate/oshu/do/"
+    },
+    {
+     "name": "Esashi Country Club",
+     "description": "The course is flat, yet strategically well calculated.",
+     "source_url": "https://iwatetabi.jp/en/spots/6730/",
+     "page": "https://bokenjapan.com/iwate/oshu/do/"
+    },
+    {
+     "name": "Tsutsunumuma Campsite",
+     "description": "A large grassy campground. There are also free car sites (for 5 cars) where you can have a good time with your friends.",
+     "source_url": "https://iwatetabi.jp/en/spots/6578/",
+     "page": "https://bokenjapan.com/iwate/oshu/do/"
+    },
+    {
+     "name": "Iwate famous brew",
+     "description": "The sake produced by Maezawa's only sake brewery, Iwate Meijo, is delicious and has a track record of winning awards in various competitions every year.",
+     "source_url": "https://iwatetabi.jp/en/spots/6926/",
+     "page": "https://bokenjapan.com/iwate/oshu/do/"
+    },
+    {
+     "name": "Kinugawa Furusato Nature School",
+     "description": "If you spend time doing various things in nature, you may discover something new.",
+     "source_url": "https://iwatetabi.jp/en/spots/4268/",
+     "page": "https://bokenjapan.com/iwate/oshu/do/"
+    },
+    {
+     "name": "Miwamori Park",
+     "description": "Located west of Mizusawa, Green Hill Miibumori is like a nature park with athletic courses and nature trails utilizing the gentle hilly terrain.",
+     "source_url": "https://iwatetabi.jp/en/spots/4338/",
+     "page": "https://bokenjapan.com/iwate/oshu/do/"
+    },
+    {
+     "name": "Yaishishidake",
+     "description": "The Yakeishi Mountain Range occupies the northern part of Kurikoma National Park and has 13 peaks over 1,000 meters high.",
+     "source_url": "https://iwatetabi.jp/en/spots/4365/",
+     "page": "https://bokenjapan.com/iwate/oshu/do/"
+    },
+    {
+     "name": "Kunimiyama",
+     "description": "With an altitude of 778m, the Ou Mountains to the west and the Isawa Plain below, the Kunimidaira Ski Resort is crowded with skiers in winter.",
+     "source_url": "https://iwatetabi.jp/en/spots/4171/",
+     "page": "https://bokenjapan.com/iwate/oshu/do/"
+    }
+   ],
    "food": [
     {
      "name": "まるぶん",
@@ -7095,7 +8455,7 @@
     },
     {
      "name": "前沢サービスエリア（上り線） レストラン",
-     "name_en": "Maesawa Service Area Nobori Sen Restaurant",
+     "name_en": "Maesawa Service Area Noborisen Restaurant",
      "description": "Shokudo diner in Oshu, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030302/3000897/",
      "page": "https://bokenjapan.com/iwate/oshu/eat/casual/",
@@ -7103,7 +8463,7 @@
     },
     {
      "name": "前沢サービスエリア（下り線）スナックコーナー",
-     "name_en": "Maesawa Service Area Kudari Sen Snack Corner",
+     "name_en": "Maesawa Service Area Kudarisen Snack Corner",
      "description": "Shokudo diner in Oshu, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030302/3005276/",
      "page": "https://bokenjapan.com/iwate/oshu/eat/casual/",
@@ -7119,7 +8479,7 @@
     },
     {
      "name": "エルミタージュ",
-     "name_en": "Erumitaju",
+     "name_en": "Hermitage",
      "description": "French restaurant in Oshu, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030302/3001423/",
      "page": "https://bokenjapan.com/iwate/oshu/eat/european/",
@@ -7143,7 +8503,7 @@
     },
     {
      "name": "食道園",
-     "name_en": "Shokudo Sono",
+     "name_en": "Shokudosono",
      "description": "Yakiniku (grilled meat) restaurant in Oshu, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030302/3011433/",
      "page": "https://bokenjapan.com/iwate/oshu/eat/meat/",
@@ -7151,7 +8511,7 @@
     },
     {
      "name": "牛匠おがた 駅東店",
-     "name_en": "Ushi Takumi Ogata Eki Higashi branch",
+     "name_en": "Ushitakumi Ogata Ekihigashi branch",
      "description": "Yakiniku (grilled meat) restaurant in Oshu, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030302/3000819/",
      "page": "https://bokenjapan.com/iwate/oshu/eat/meat/",
@@ -7175,7 +8535,7 @@
     },
     {
      "name": "銀蝶",
-     "name_en": "Gin Cho",
+     "name_en": "Gincho",
      "description": "Ramen shop in Oshu, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030302/3001097/",
      "page": "https://bokenjapan.com/iwate/oshu/eat/noodles/",
@@ -7183,7 +8543,7 @@
     },
     {
      "name": "会津喜多方ラーメン坂内 小法師 水沢店",
-     "name_en": "Aizu Kitakata Ramen Sakauchi Koboshi Mizusawa branch",
+     "name_en": "Aizu Kitakata Ramen Bannai Koboshi Mizusawa branch",
      "description": "Ramen shop in Oshu, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030302/3000125/",
      "page": "https://bokenjapan.com/iwate/oshu/eat/noodles/",
@@ -7199,7 +8559,7 @@
     },
     {
      "name": "手打ち蕎麦わ",
-     "name_en": "Teuchi Chi Soba Wa",
+     "name_en": "Teuchi Soba Wa",
      "description": "Soba restaurant in Oshu, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030302/3007053/",
      "page": "https://bokenjapan.com/iwate/oshu/eat/noodles/",
@@ -7207,7 +8567,7 @@
     },
     {
      "name": "菊亭",
-     "name_en": "Kiku-tei",
+     "name_en": "Kikutei",
      "description": "Ramen shop in Oshu, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030302/3003477/",
      "page": "https://bokenjapan.com/iwate/oshu/eat/noodles/",
@@ -7215,7 +8575,7 @@
     },
     {
      "name": "麺屋 琥珀",
-     "name_en": "Men-ya Kohaku",
+     "name_en": "Menya Kohaku",
      "description": "Ramen shop in Oshu, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030302/3011574/",
      "page": "https://bokenjapan.com/iwate/oshu/eat/noodles/",
@@ -7223,7 +8583,7 @@
     },
     {
      "name": "瑳山",
-     "name_en": "Sa Yama",
+     "name_en": "Sayama",
      "description": "Soba restaurant in Oshu, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030302/3000527/",
      "page": "https://bokenjapan.com/iwate/oshu/eat/noodles/",
@@ -7239,7 +8599,7 @@
     },
     {
      "name": "岡山らぁめん 麺屋照清",
-     "name_en": "Okayama Ramen Men Ya Sho Kiyoshi",
+     "name_en": "Okayama Ramen Menya Shokiyoshi",
      "description": "Ramen shop in Oshu, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030302/3001100/",
      "page": "https://bokenjapan.com/iwate/oshu/eat/noodles/",
@@ -7247,7 +8607,7 @@
     },
     {
      "name": "日本料理 新茶家",
-     "name_en": "Nihonryori Shincha Ie",
+     "name_en": "Nippon Ryori Shinchaie",
      "description": "Japanese restaurant in Oshu, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030302/3006494/",
      "page": "https://bokenjapan.com/iwate/oshu/eat/other-japanese/",
@@ -7255,7 +8615,7 @@
     },
     {
      "name": "助八寿司",
-     "name_en": "Jo Hachi Sushi",
+     "name_en": "Johachi Sushi",
      "description": "Sushi restaurant in Oshu, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030302/3000329/",
      "page": "https://bokenjapan.com/iwate/oshu/eat/seafood/",
@@ -7263,7 +8623,7 @@
     },
     {
      "name": "回進堂",
-     "name_en": "Kai Susumu Do",
+     "name_en": "Kaisusumudo",
      "description": "Japanese sweets shop in Oshu, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0303/A030302/3005202/",
      "page": "https://bokenjapan.com/iwate/oshu/eat/sweets-bakeries/",
@@ -7396,7 +8756,7 @@
     },
     {
      "name": "水沢翠明荘",
-     "name_en": "Mizusawa Sui Mei-so",
+     "name_en": "Mizusawa Suimei-so",
      "description": "Lodge in Oshu, Iwate.",
      "source_url": "https://www.jalan.net/yad315326/",
      "page": "https://bokenjapan.com/iwate/oshu/stay/"
@@ -7445,7 +8805,7 @@
     },
     {
      "name": "民宿姫乃屋",
-     "name_en": "Minshuku Hime no-ya",
+     "name_en": "Minshuku Himeno-ya",
      "description": "Guesthouse (minshuku) in Oshu, Iwate.",
      "source_url": "https://www.jalan.net/yad352244/",
      "page": "https://bokenjapan.com/iwate/oshu/stay/"
@@ -7467,7 +8827,27 @@
     "address": "Otsuchi, Iwate 028-1115",
     "phone": "0193-42-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "Kirikiri Station",
+     "description": "Railway station in Ōtsuchi, Kamihei district, Iwate Prefecture, Japan.",
+     "source_url": "https://en.wikipedia.org/wiki/Kirikiri_Station",
+     "page": "https://bokenjapan.com/iwate/otsuchi/day-to-day/"
+    },
+    {
+     "name": "Ōtsuchi Station",
+     "description": "Railway station in Ōtsuchi, Kamihei district, Iwate Prefecture, Japan.",
+     "source_url": "https://en.wikipedia.org/wiki/%C5%8Ctsuchi_Station",
+     "page": "https://bokenjapan.com/iwate/otsuchi/day-to-day/"
+    },
+    {
+     "name": "Namiita-Kaigan Station",
+     "description": "Railway station in Ōtsuchi, Kamihei district, Iwate Prefecture, Japan.",
+     "source_url": "https://en.wikipedia.org/wiki/Namiitakaigan_Station",
+     "page": "https://bokenjapan.com/iwate/otsuchi/day-to-day/"
+    }
+   ],
    "activities": [
     {
      "name": "Ankoro Persimmons",
@@ -7479,7 +8859,7 @@
    "food": [
     {
      "name": "ムーミン",
-     "name_en": "Mumin",
+     "name_en": "Moomin",
      "description": "Coffee shop in Otsuchi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030402/3002909/",
      "page": "https://bokenjapan.com/iwate/otsuchi/eat/cafe/",
@@ -7487,7 +8867,7 @@
     },
     {
      "name": "凛々家",
-     "name_en": "Rin Rin Ie",
+     "name_en": "Rinrinie",
      "description": "Shokudo diner in Otsuchi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030402/3005109/",
      "page": "https://bokenjapan.com/iwate/otsuchi/eat/casual/",
@@ -7495,7 +8875,7 @@
     },
     {
      "name": "お食事処 蓬莱島",
-     "name_en": "Oshokujidokoro Horai Shima",
+     "name_en": "Oshokujidokoro Horaishima",
      "description": "Shokudo diner in Otsuchi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030402/3011552/",
      "page": "https://bokenjapan.com/iwate/otsuchi/eat/casual/",
@@ -7527,7 +8907,7 @@
     },
     {
      "name": "七福食堂",
-     "name_en": "Shichi Fuku Shokudo",
+     "name_en": "Shichifuku Shokudo",
      "description": "Shokudo diner in Otsuchi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030402/3003557/",
      "page": "https://bokenjapan.com/iwate/otsuchi/eat/casual/",
@@ -7543,7 +8923,7 @@
     },
     {
      "name": "どんりゅう庵",
-     "name_en": "Donryu Iori",
+     "name_en": "Donryu-an",
      "description": "Curry restaurant in Otsuchi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030402/3010794/",
      "page": "https://bokenjapan.com/iwate/otsuchi/eat/curry/",
@@ -7551,7 +8931,7 @@
     },
     {
      "name": "食処 居酒屋 おおとら",
-     "name_en": "Shoku Tokoro Izakaya Otora",
+     "name_en": "Shokutokoro Izakaya Otora",
      "description": "Izakaya in Otsuchi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030402/3012989/",
      "page": "https://bokenjapan.com/iwate/otsuchi/eat/izakaya-bars/",
@@ -7575,7 +8955,7 @@
     },
     {
      "name": "一膳",
-     "name_en": "Ichi Zen",
+     "name_en": "Ichizen",
      "description": "Standing soba counter in Otsuchi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030402/3013347/",
      "page": "https://bokenjapan.com/iwate/otsuchi/eat/noodles/",
@@ -7583,7 +8963,7 @@
     },
     {
      "name": "麺匠 ときしらず",
-     "name_en": "Men Takumi Tokishirazu",
+     "name_en": "Mentakumi Tokishirazu",
      "description": "Ramen shop in Otsuchi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030402/3010612/",
      "page": "https://bokenjapan.com/iwate/otsuchi/eat/noodles/",
@@ -7599,7 +8979,7 @@
     },
     {
      "name": "大光そば",
-     "name_en": "Omitsu Soba",
+     "name_en": "Taiko Soba",
      "description": "Noodle shop in Otsuchi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030402/3007085/",
      "page": "https://bokenjapan.com/iwate/otsuchi/eat/noodles/",
@@ -7607,7 +8987,7 @@
     },
     {
      "name": "母ちゃんハウスだぁすこ 沿岸店",
-     "name_en": "Kachan House Dasuko Engan branch",
+     "name_en": "Kaachan House Daasuko Engan branch",
      "description": "Ramen shop in Otsuchi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030402/3009021/",
      "page": "https://bokenjapan.com/iwate/otsuchi/eat/noodles/",
@@ -7639,7 +9019,7 @@
     },
     {
      "name": "鮨辰",
-     "name_en": "Sushi Tatsu",
+     "name_en": "Sushitatsu",
      "description": "Sushi restaurant in Otsuchi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030402/3011304/",
      "page": "https://bokenjapan.com/iwate/otsuchi/eat/seafood/",
@@ -7756,7 +9136,7 @@
     "address": "Rikuzentakata, Iwate 029-2292",
     "phone": "0192-54-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Strawberry Park",
@@ -7834,7 +9214,7 @@
     },
     {
      "name": "天然の湯 黒崎仙峡温泉 食堂 さんきょう",
-     "name_en": "Tennen no Yu Kurosaki Sen Kyo Onsen Shokudo Sankyo",
+     "name_en": "Tennen no Yu Kurosakisenkyo Onsen Shokudo Sankyo",
      "description": "Shokudo diner in Rikuzentakata, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3004224/",
      "page": "https://bokenjapan.com/iwate/rikuzentakata/eat/casual/",
@@ -7842,7 +9222,7 @@
     },
     {
      "name": "中華食堂熊谷",
-     "name_en": "Chuka Shokudo Kumagaya",
+     "name_en": "Chuka Shokudo Kumagai",
      "description": "Chinese restaurant in Rikuzentakata, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3009949/",
      "page": "https://bokenjapan.com/iwate/rikuzentakata/eat/chinese-asian/",
@@ -7850,7 +9230,7 @@
     },
     {
      "name": "昇龍厨房 四海楼",
-     "name_en": "Noboru Ryu Chubo Shikai Ro",
+     "name_en": "Shoryu Chubo Shikairo",
      "description": "Chinese restaurant in Rikuzentakata, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3010659/",
      "page": "https://bokenjapan.com/iwate/rikuzentakata/eat/chinese-asian/",
@@ -7858,7 +9238,7 @@
     },
     {
      "name": "みつわ飯店",
-     "name_en": "Mitsuwa Meshi Shop",
+     "name_en": "Mitsuwameshi Shop",
      "description": "Chinese restaurant in Rikuzentakata, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3010175/",
      "page": "https://bokenjapan.com/iwate/rikuzentakata/eat/chinese-asian/",
@@ -7866,7 +9246,7 @@
     },
     {
      "name": "俺っ家",
-     "name_en": "Ore Tsu Ie",
+     "name_en": "Oretsuie",
      "description": "Izakaya in Rikuzentakata, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3009736/",
      "page": "https://bokenjapan.com/iwate/rikuzentakata/eat/izakaya-bars/",
@@ -7890,7 +9270,7 @@
     },
     {
      "name": "十割麺処なんばんや",
-     "name_en": "Ju Wari Men Tokoro Nanbanya",
+     "name_en": "Juwarimensho Nanbanya",
      "description": "Soba restaurant in Rikuzentakata, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3012539/",
      "page": "https://bokenjapan.com/iwate/rikuzentakata/eat/noodles/",
@@ -7914,7 +9294,7 @@
     },
     {
      "name": "かき小屋 広田湾",
-     "name_en": "Kaki Sho-ya Hirota Wan",
+     "name_en": "Kakisho-ya Hirotawan",
      "description": "Seafood restaurant in Rikuzentakata, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3010487/",
      "page": "https://bokenjapan.com/iwate/rikuzentakata/eat/seafood/",
@@ -7922,7 +9302,7 @@
     },
     {
      "name": "丼屋 さかぐち",
-     "name_en": "Donburi-ya Sakaguchi",
+     "name_en": "Donburiya Sakaguchi",
      "description": "Seafood-bowl restaurant in Rikuzentakata, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3011422/",
      "page": "https://bokenjapan.com/iwate/rikuzentakata/eat/seafood/",
@@ -7938,7 +9318,7 @@
     },
     {
      "name": "旬味旬彩 鮨まつ田",
-     "name_en": "Jun Aji Jun Sai Sushi Matsu Ta",
+     "name_en": "Shunmishunirodori Sushimatsuta",
      "description": "Sushi restaurant in Rikuzentakata, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3011246/",
      "page": "https://bokenjapan.com/iwate/rikuzentakata/eat/seafood/",
@@ -7946,7 +9326,7 @@
     },
     {
      "name": "鶴亀鮨",
-     "name_en": "Tsurukame Sushi",
+     "name_en": "Tsurukamesushi",
      "description": "Sushi restaurant in Rikuzentakata, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3010476/",
      "page": "https://bokenjapan.com/iwate/rikuzentakata/eat/seafood/",
@@ -7978,12 +9358,12 @@
     },
     {
      "name": "Rikuzentakata Fermentation Park CAMOCY",
-     "description": "In the Imaizumi area of ​​Rikuzentakata City, where the brewing industry has flourished since the Edo period, fermentation has been closely connected to the lives of the residents since ancient times.",
+     "description": "In the Imaizumi area of Rikuzentakata City, where the brewing industry has flourished since the Edo period, fermentation has been closely connected to the lives of the residents since ancient times.",
      "source_url": "https://iwatetabi.jp/en/spots/70502/",
      "page": "https://bokenjapan.com/iwate/rikuzentakata/see/"
     },
     {
-     "name": "Shikairou Chinese Restaurant",
+     "name": "Shikairo Chinese Restaurant",
      "description": "We have continued to provide the same taste since our founding, using a collagen-rich soup made with local chicken.",
      "source_url": "https://iwatetabi.jp/en/spots/67573/",
      "page": "https://bokenjapan.com/iwate/rikuzentakata/see/"
@@ -8135,7 +9515,7 @@
     },
     {
      "name": "Snow Peak 陸前高田キャンプフィールド",
-     "name_en": "Snow Peak Rikuzentakata Camp Fiirudo",
+     "name_en": "Snow Peak Rikuzentakata Camp Field",
      "description": "Campsite lodging in Rikuzentakata, Iwate.",
      "source_url": "https://www.jalan.net/yad368998/",
      "page": "https://bokenjapan.com/iwate/rikuzentakata/stay/"
@@ -8157,7 +9537,7 @@
     "address": "Shiwa, Iwate 028-3392",
     "phone": "019-672-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Tsuki no Wa Local Sake",
@@ -8172,10 +9552,36 @@
      "page": "https://bokenjapan.com/iwate/shiwa/day-to-day/"
     }
    ],
+   "activities": [
+    {
+     "name": "Recreation facility Kikyoso [Azumane Onsen]",
+     "description": "Azumane Onsen is an alkaline simple hot spring that is well known as a beauty's hot spring because it makes the skin smooth and smooth after bathing.",
+     "source_url": "https://iwatetabi.jp/en/spots/6043/",
+     "page": "https://bokenjapan.com/iwate/shiwa/do/"
+    },
+    {
+     "name": "La France Hot Spring Museum",
+     "description": "La France Onsenkan boasts over 10 different types of Japanese and Western style baths, as well as open-air baths and saunas.",
+     "source_url": "https://iwatetabi.jp/en/spots/6071/",
+     "page": "https://bokenjapan.com/iwate/shiwa/do/"
+    },
+    {
+     "name": "La France Onsenkan Hotel Yurara [Azumane Onsen]",
+     "description": "La France Onsenkan boasts more than a dozen baths in Japanese and Western styles, as well as open-air baths and saunas.",
+     "source_url": "https://iwatetabi.jp/en/spots/71202/",
+     "page": "https://bokenjapan.com/iwate/shiwa/do/"
+    },
+    {
+     "name": "Hot spring recreation park (Curpark La France)",
+     "description": "The approximately 14-hectare hot spring recreation park includes a hot spring and pool, La France Onsenkan, and accommodation facilities, Yuraku, as well as tennis…",
+     "source_url": "https://iwatetabi.jp/en/spots/5137/",
+     "page": "https://bokenjapan.com/iwate/shiwa/do/"
+    }
+   ],
    "food": [
     {
      "name": "おひさま食堂ひなた家",
-     "name_en": "Ohisama Shokudo Hinata Ie",
+     "name_en": "Ohisama Shokudo Hinataie",
      "description": "Shokudo diner in Shiwa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030103/3012783/",
      "page": "https://bokenjapan.com/iwate/shiwa/eat/casual/",
@@ -8183,7 +9589,7 @@
     },
     {
      "name": "満腹工房 福龍",
-     "name_en": "Manpuku Kobo Fuku Ryu",
+     "name_en": "Manpuku Kobo Fukuryu",
      "description": "Shokudo diner in Shiwa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030103/3000952/",
      "page": "https://bokenjapan.com/iwate/shiwa/eat/casual/",
@@ -8199,7 +9605,7 @@
     },
     {
      "name": "七久保食堂",
-     "name_en": "Shichi Kubo Shokudo",
+     "name_en": "Shichikubo Shokudo",
      "description": "Shokudo diner in Shiwa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030103/3003555/",
      "page": "https://bokenjapan.com/iwate/shiwa/eat/casual/",
@@ -8207,7 +9613,7 @@
     },
     {
      "name": "オガールイン レストラン",
-     "name_en": "Oga Ruins Restaurant",
+     "name_en": "Ogal Inn Restaurant",
      "description": "Buffet restaurant in Shiwa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030103/3008400/",
      "page": "https://bokenjapan.com/iwate/shiwa/eat/casual/",
@@ -8215,7 +9621,7 @@
     },
     {
      "name": "中国料理 jiu",
-     "name_en": "Chugokuryori jiu",
+     "name_en": "Chugoku Ryori jiu",
      "description": "Chinese restaurant in Shiwa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030103/3011716/",
      "page": "https://bokenjapan.com/iwate/shiwa/eat/chinese-asian/",
@@ -8223,7 +9629,7 @@
     },
     {
      "name": "中華食堂 彩々華",
-     "name_en": "Chuka Shokudo Sai Ayaka",
+     "name_en": "Chuka Shokudo Saiayaka",
      "description": "Chinese restaurant in Shiwa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030103/3012337/",
      "page": "https://bokenjapan.com/iwate/shiwa/eat/chinese-asian/",
@@ -8231,7 +9637,7 @@
     },
     {
      "name": "ルッシュ",
-     "name_en": "Russhu",
+     "name_en": "Lush",
      "description": "Yoshoku (Western-style) restaurant in Shiwa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030103/3010332/",
      "page": "https://bokenjapan.com/iwate/shiwa/eat/european/",
@@ -8279,7 +9685,7 @@
     },
     {
      "name": "麺処 いっちょう",
-     "name_en": "Men Tokoro Itcho",
+     "name_en": "Mentokoro Itcho",
      "description": "Ramen shop in Shiwa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030103/3012131/",
      "page": "https://bokenjapan.com/iwate/shiwa/eat/noodles/",
@@ -8295,7 +9701,7 @@
     },
     {
      "name": "藤屋食堂",
-     "name_en": "Fuji Ya Shokudo",
+     "name_en": "Fujiya Shokudo",
      "description": "Ramen shop in Shiwa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030103/3002581/",
      "page": "https://bokenjapan.com/iwate/shiwa/eat/noodles/",
@@ -8327,7 +9733,7 @@
     },
     {
      "name": "紫波サービスエリア（下り線）スナックコーナー",
-     "name_en": "Shiwa Service Area Kudari Sen Snack Corner",
+     "name_en": "Shiwa Service Area Kudarisen Snack Corner",
      "description": "Gelato and ice-cream shop in Shiwa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030103/3005270/",
      "page": "https://bokenjapan.com/iwate/shiwa/eat/sweets-bakeries/",
@@ -8351,7 +9757,7 @@
     },
     {
      "name": "ヨンハチサンニー ザ シュガー コーヒー アンド クレープス",
-     "name_en": "Yonhachisanni Za Shuga Coffee Ando Crepe Su",
+     "name_en": "4832 The Sugar Coffee & Crepes",
      "description": "Crêpe shop in Shiwa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030103/3010231/",
      "page": "https://bokenjapan.com/iwate/shiwa/eat/sweets-bakeries/",
@@ -8476,7 +9882,7 @@
     "address": "Shizukuishi, Iwate 020-0595",
     "phone": "019-692-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Handmade Ice Cream Bokusha Matsubokkuri",
@@ -8520,7 +9926,7 @@
    "food": [
     {
      "name": "風光舎",
-     "name_en": "Fuko Sha",
+     "name_en": "Fukosha",
      "description": "Café in Shizukuishi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030102/3001940/",
      "page": "https://bokenjapan.com/iwate/shizukuishi/eat/cafe/",
@@ -8536,7 +9942,7 @@
     },
     {
      "name": "山麓館農場レストラン",
-     "name_en": "Sanroku Kan Nojo Restaurant",
+     "name_en": "Sanrokukan Nojo Restaurant",
      "description": "Yoshoku (Western-style) restaurant in Shizukuishi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030102/3000763/",
      "page": "https://bokenjapan.com/iwate/shizukuishi/eat/european/",
@@ -8568,7 +9974,7 @@
     },
     {
      "name": "十割そば しんざん",
-     "name_en": "Ju Wari Soba Shinzan",
+     "name_en": "Juwari Soba Shinzan",
      "description": "Soba restaurant in Shizukuishi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030102/3003147/",
      "page": "https://bokenjapan.com/iwate/shizukuishi/eat/noodles/",
@@ -8576,7 +9982,7 @@
     },
     {
      "name": "手打ちそば極楽乃 雫石本店",
-     "name_en": "Teuchi Chi Soba Gokuraku no Shizukuishi main branch",
+     "name_en": "Teuchi Soba Gokurakuno Shizukuishi main branch",
      "description": "Soba restaurant in Shizukuishi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030102/3000259/",
      "page": "https://bokenjapan.com/iwate/shizukuishi/eat/noodles/",
@@ -8584,7 +9990,7 @@
     },
     {
      "name": "麺や おもり",
-     "name_en": "Men Ya Omori",
+     "name_en": "Menya Omori",
      "description": "Ramen shop in Shizukuishi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030102/3010674/",
      "page": "https://bokenjapan.com/iwate/shizukuishi/eat/noodles/",
@@ -8592,7 +9998,7 @@
     },
     {
      "name": "麺屋 隹",
-     "name_en": "Men-ya Sui",
+     "name_en": "Menya Sui",
      "description": "Ramen shop in Shizukuishi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030102/3010961/",
      "page": "https://bokenjapan.com/iwate/shizukuishi/eat/noodles/",
@@ -8600,7 +10006,7 @@
     },
     {
      "name": "玄武洞茶屋",
-     "name_en": "Genbu Hora Cha-ya",
+     "name_en": "Genbudocha-ya",
      "description": "Soba restaurant in Shizukuishi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030102/3000639/",
      "page": "https://bokenjapan.com/iwate/shizukuishi/eat/noodles/",
@@ -8608,7 +10014,7 @@
     },
     {
      "name": "しずく庵",
-     "name_en": "Shizuku Iori",
+     "name_en": "Shizuku-an",
      "description": "Soba restaurant in Shizukuishi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030102/3000526/",
      "page": "https://bokenjapan.com/iwate/shizukuishi/eat/noodles/",
@@ -8688,7 +10094,7 @@
     },
     {
      "name": "千秋堂",
-     "name_en": "Senshu Do",
+     "name_en": "Senshudo",
      "description": "Japanese sweets shop in Shizukuishi, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030101/3009369/",
      "page": "https://bokenjapan.com/iwate/shizukuishi/eat/sweets-bakeries/",
@@ -8728,7 +10134,7 @@
     },
     {
      "name": "Sennumagahara",
-     "description": "A high-rise wetland with an area of ​​approximately 46 hectares located in a pine forest.",
+     "description": "A high-rise wetland with an area of approximately 46 hectares located in a pine forest.",
      "source_url": "https://iwatetabi.jp/en/spots/4652/",
      "page": "https://bokenjapan.com/iwate/shizukuishi/see/"
     },
@@ -8798,7 +10204,7 @@
     },
     {
      "name": "温泉民宿 あけぼの荘",
-     "name_en": "Onsen Minshuku Akebo no-so",
+     "name_en": "Onsen Minshuku Akebono-so",
      "description": "Guesthouse (minshuku) in Shizukuishi, Iwate.",
      "source_url": "https://www.jalan.net/yad340037/",
      "page": "https://bokenjapan.com/iwate/shizukuishi/stay/"
@@ -8812,14 +10218,14 @@
     },
     {
      "name": "温泉民宿 栄弥",
-     "name_en": "Onsen Minshuku Sakae Ya",
+     "name_en": "Onsen Minshuku Sakaeya",
      "description": "Guesthouse (minshuku) in Shizukuishi, Iwate.",
      "source_url": "https://www.jalan.net/yad346305/",
      "page": "https://bokenjapan.com/iwate/shizukuishi/stay/"
     },
     {
      "name": "民宿高見荘",
-     "name_en": "Minshuku Takami-so",
+     "name_en": "Minshuku Koken-so",
      "description": "Guesthouse (minshuku) in Shizukuishi, Iwate.",
      "source_url": "https://www.jalan.net/yad355570/",
      "page": "https://bokenjapan.com/iwate/shizukuishi/stay/"
@@ -8841,7 +10247,21 @@
     "address": "Sumita, Iwate 029-2396",
     "phone": "0192-46-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "Roadside station Taneyamagahara",
+     "description": "Roadside station in Sumita, Kesen district, Iwate prefecture, Japan.",
+     "source_url": "http://www.wikidata.org/entity/Q11641432",
+     "page": "https://bokenjapan.com/iwate/sumita/day-to-day/"
+    },
+    {
+     "name": "Kami-Arisu Station",
+     "description": "Railway station in Sumita, Kesen district, Iwate Prefecture, Japan.",
+     "source_url": "https://en.wikipedia.org/wiki/Kamiarisu_Station",
+     "page": "https://bokenjapan.com/iwate/sumita/day-to-day/"
+    }
+   ],
    "activities": [
     {
      "name": "Sumita Chicken Harami",
@@ -8869,7 +10289,7 @@
     },
     {
      "name": "けせんのだいどころ ケラッセ",
-     "name_en": "Kesennodaidokoro Kerasse",
+     "name_en": "Kesen no Daidokoro Kerasse",
      "description": "Shokudo diner in Sumita, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3011071/",
      "page": "https://bokenjapan.com/iwate/sumita/eat/casual/",
@@ -8877,7 +10297,7 @@
     },
     {
      "name": "おらいの滝観洞",
-     "name_en": "Orai no Taki Kan Hora",
+     "name_en": "Oraino Takikanhora",
      "description": "Shokudo diner in Sumita, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030203/3013031/",
      "page": "https://bokenjapan.com/iwate/sumita/eat/casual/",
@@ -8893,7 +10313,7 @@
     },
     {
      "name": "寿美多うおまさ",
-     "name_en": "Sumi O Omasa",
+     "name_en": "Sumita Uomasa",
      "description": "Shokudo diner in Sumita, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3007220/",
      "page": "https://bokenjapan.com/iwate/sumita/eat/casual/",
@@ -8925,7 +10345,7 @@
     },
     {
      "name": "松嶋家",
-     "name_en": "Matsushima Ie",
+     "name_en": "Matsushimaie",
      "description": "Noodle shop in Sumita, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3006146/",
      "page": "https://bokenjapan.com/iwate/sumita/eat/noodles/",
@@ -8933,7 +10353,7 @@
     },
     {
      "name": "味噌屋 麺太",
-     "name_en": "Miso-ya Men Ta",
+     "name_en": "Miso-ya Menta",
      "description": "Ramen shop in Sumita, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3000197/",
      "page": "https://bokenjapan.com/iwate/sumita/eat/noodles/",
@@ -8949,7 +10369,7 @@
     },
     {
      "name": "和風レストラン 味求",
-     "name_en": "Wafu Restaurant Aji Kyu",
+     "name_en": "Wafu Restaurant Ajikyu",
      "description": "Japanese restaurant in Sumita, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3009934/",
      "page": "https://bokenjapan.com/iwate/sumita/eat/other-japanese/",
@@ -8957,7 +10377,7 @@
     },
     {
      "name": "お菓子工房 イートプラス",
-     "name_en": "O Kashi Kobo Ito Plus",
+     "name_en": "Okashi Kobo Eat Plus",
      "description": "Cake shop in Sumita, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030403/3010506/",
      "page": "https://bokenjapan.com/iwate/sumita/eat/sweets-bakeries/",
@@ -9009,7 +10429,7 @@
    "stays": [
     {
      "name": "ホテルグリーンベル高勘",
-     "name_en": "Hotel Green Bell Taka Kan",
+     "name_en": "Hotel Green Bell Takakan",
      "description": "Hotel in Sumita, Iwate.",
      "source_url": "https://www.jalan.net/yad310976/",
      "page": "https://bokenjapan.com/iwate/sumita/stay/"
@@ -9031,7 +10451,7 @@
     "address": "Takizawa, Iwate 020-0692",
     "phone": "019-684-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Fureai Joint Farm-Produce Market",
@@ -9069,7 +10489,7 @@
    "food": [
     {
      "name": "ペレニアルロックガーデン春子谷地 cafe ミルクの里",
-     "name_en": "Pereniaru Rock Garden Haruko Yachi cafe Milk no Sato",
+     "name_en": "Perennial Rock Garden Harukoyachi Cafe Miruku no Sato",
      "description": "Café in Takizawa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030104/3005306/",
      "page": "https://bokenjapan.com/iwate/takizawa/eat/cafe/",
@@ -9077,7 +10497,7 @@
     },
     {
      "name": "北都茶屋",
-     "name_en": "Hokuto Cha-ya",
+     "name_en": "Hokutocha-ya",
      "description": "Shokudo diner in Takizawa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030104/3003698/",
      "page": "https://bokenjapan.com/iwate/takizawa/eat/casual/",
@@ -9101,7 +10521,7 @@
     },
     {
      "name": "柏屋",
-     "name_en": "Kashiwa-ya",
+     "name_en": "Kashiwaya",
      "description": "Izakaya in Takizawa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030104/3012436/",
      "page": "https://bokenjapan.com/iwate/takizawa/eat/izakaya-bars/",
@@ -9109,7 +10529,7 @@
     },
     {
      "name": "かつ壱 大釜店",
-     "name_en": "Katsu Ichi Okama branch",
+     "name_en": "Katsuichi Okama branch",
      "description": "Tonkatsu restaurant in Takizawa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030104/3003869/",
      "page": "https://bokenjapan.com/iwate/takizawa/eat/meat/",
@@ -9125,7 +10545,7 @@
     },
     {
      "name": "旨いとんかつ あけと",
-     "name_en": "Umai Tonkatsu Aketo",
+     "name_en": "Mune Itonkatsu Aketo",
      "description": "Tonkatsu restaurant in Takizawa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030104/3010720/",
      "page": "https://bokenjapan.com/iwate/takizawa/eat/meat/",
@@ -9133,7 +10553,7 @@
     },
     {
      "name": "満州ニラら～めんの店 さかえや 盛岡本店",
-     "name_en": "Manshu Nira Ra Men Shop Sakaeya Morioka main branch",
+     "name_en": "Manshu Nira Ramen Shop Sakaeya Morioka main branch",
      "description": "Ramen shop in Takizawa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030104/3000418/",
      "page": "https://bokenjapan.com/iwate/takizawa/eat/noodles/",
@@ -9141,7 +10561,7 @@
     },
     {
      "name": "佐野家",
-     "name_en": "Sano Ie",
+     "name_en": "Sanoie",
      "description": "Ramen shop in Takizawa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030104/3000498/",
      "page": "https://bokenjapan.com/iwate/takizawa/eat/noodles/",
@@ -9149,7 +10569,7 @@
     },
     {
      "name": "ごはん屋 山ひろ",
-     "name_en": "Gohan-ya Yama Hiro",
+     "name_en": "Gohan-ya Yamahiro",
      "description": "Chicken restaurant in Takizawa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030104/3001152/",
      "page": "https://bokenjapan.com/iwate/takizawa/eat/noodles/",
@@ -9165,7 +10585,7 @@
     },
     {
      "name": "畠山旅館 更科八",
-     "name_en": "Hatakeyama Ryokan Sarashina Hachi",
+     "name_en": "Hatakeyama Ryokan Sarashinahachi",
      "description": "Ryokan restaurant in Takizawa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030104/3001313/",
      "page": "https://bokenjapan.com/iwate/takizawa/eat/noodles/",
@@ -9173,7 +10593,7 @@
     },
     {
      "name": "そば処 熊谷",
-     "name_en": "Soba-dokoro Kumagaya",
+     "name_en": "Soba-dokoro Kumagai",
      "description": "Soba restaurant in Takizawa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030104/3000599/",
      "page": "https://bokenjapan.com/iwate/takizawa/eat/noodles/",
@@ -9197,7 +10617,7 @@
     },
     {
      "name": "滝沢手打ちそば道場",
-     "name_en": "Takizawa Teuchi Chi Soba Dojo",
+     "name_en": "Takizawa Teuchi Soba Dojo",
      "description": "Soba restaurant in Takizawa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030104/3008607/",
      "page": "https://bokenjapan.com/iwate/takizawa/eat/noodles/",
@@ -9205,7 +10625,7 @@
     },
     {
      "name": "たぬ吉",
-     "name_en": "Tanu Kichi",
+     "name_en": "Tanukichi",
      "description": "Soba restaurant in Takizawa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030104/3011206/",
      "page": "https://bokenjapan.com/iwate/takizawa/eat/noodles/",
@@ -9213,7 +10633,7 @@
     },
     {
      "name": "中華そば 松風",
-     "name_en": "Chuka Soba Matsukaze",
+     "name_en": "Chuka Soba Shofu",
      "description": "Ramen shop in Takizawa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030104/3009296/",
      "page": "https://bokenjapan.com/iwate/takizawa/eat/noodles/",
@@ -9221,7 +10641,7 @@
     },
     {
      "name": "天ぷら桂",
-     "name_en": "Tenpura Katsura",
+     "name_en": "Tenpurakatsura",
      "description": "Tempura restaurant in Takizawa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030104/3000397/",
      "page": "https://bokenjapan.com/iwate/takizawa/eat/other-japanese/",
@@ -9229,7 +10649,7 @@
     },
     {
      "name": "回転寿司すノ家 国分店",
-     "name_en": "Kaiten Sushi Su No Ie Kokubun branch",
+     "name_en": "Kaiten Sushi Su No Ie Kokubu branch",
      "description": "Conveyor-belt sushi in Takizawa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030104/3001477/",
      "page": "https://bokenjapan.com/iwate/takizawa/eat/seafood/",
@@ -9237,7 +10657,7 @@
     },
     {
      "name": "すし松",
-     "name_en": "Sushi Matsu",
+     "name_en": "Sushimatsu",
      "description": "Sushi restaurant in Takizawa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030104/3010871/",
      "page": "https://bokenjapan.com/iwate/takizawa/eat/seafood/",
@@ -9245,7 +10665,7 @@
     },
     {
      "name": "マイヤーリング",
-     "name_en": "Maiya Ring",
+     "name_en": "Mayerling",
      "description": "Cake shop in Takizawa, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030104/3000685/",
      "page": "https://bokenjapan.com/iwate/takizawa/eat/sweets-bakeries/",
@@ -9333,7 +10753,7 @@
     },
     {
      "name": "ミズバショウ",
-     "name_en": "Mizuba Show",
+     "name_en": "Mizubasho",
      "description": "Holiday lodging in Takizawa, Iwate.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/191634/191634.html",
      "page": "https://bokenjapan.com/iwate/takizawa/stay/"
@@ -9355,7 +10775,7 @@
     "address": "Tanohata, Iwate 028-8407",
     "phone": "0194-34-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Tanohata Dairy Products",
@@ -9383,7 +10803,7 @@
     },
     {
      "name": "北山崎レストハウス",
-     "name_en": "Kitayama Saki Rest House",
+     "name_en": "Kitayamasaki Rest House",
      "description": "Shokudo diner in Tanohata, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030406/3007234/",
      "page": "https://bokenjapan.com/iwate/tanohata/eat/casual/",
@@ -9391,7 +10811,7 @@
     },
     {
      "name": "松乃屋食堂",
-     "name_en": "Matsuno Ya Shokudo",
+     "name_en": "Matsunoya Shokudo",
      "description": "Shokudo diner in Tanohata, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030406/3006152/",
      "page": "https://bokenjapan.com/iwate/tanohata/eat/casual/",
@@ -9399,7 +10819,7 @@
     },
     {
      "name": "浜茶や食堂",
-     "name_en": "Hama Cha Ya Shokudo",
+     "name_en": "Hamachaya Shokudo",
      "description": "Shokudo diner in Tanohata, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030406/3006706/",
      "page": "https://bokenjapan.com/iwate/tanohata/eat/casual/",
@@ -9407,7 +10827,7 @@
     },
     {
      "name": "ロレオール田野畑",
-     "name_en": "Rore Oar Tanohata",
+     "name_en": "L'Oreal Tanohata",
      "description": "French restaurant in Tanohata, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030406/3008755/",
      "page": "https://bokenjapan.com/iwate/tanohata/eat/european/",
@@ -9415,7 +10835,7 @@
     },
     {
      "name": "ラーメン風風",
-     "name_en": "Ramen Kaze Kaze",
+     "name_en": "Ramen Kazekaze",
      "description": "Ramen shop in Tanohata, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030406/3003405/",
      "page": "https://bokenjapan.com/iwate/tanohata/eat/noodles/",
@@ -9423,7 +10843,7 @@
     },
     {
      "name": "道の駅たのはた 思惟の風",
-     "name_en": "Michi-no-Eki Tanohata Shi no Kaze",
+     "name_en": "Michi-no-Eki Tanohata Shii no Kaze",
      "description": "Roadside-station eatery in Tanohata, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030406/3011413/",
      "page": "https://bokenjapan.com/iwate/tanohata/eat/other/",
@@ -9447,7 +10867,7 @@
     },
     {
      "name": "白花シャクナゲ荘",
-     "name_en": "Shirobana Shakunage-so",
+     "name_en": "Shirahana Shakunage-so",
      "description": "Seafood restaurant in Tanohata, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030406/3006418/",
      "page": "https://bokenjapan.com/iwate/tanohata/eat/seafood/",
@@ -9471,7 +10891,7 @@
     },
     {
      "name": "ハックルカフェ",
-     "name_en": "Hack Ru Cafe",
+     "name_en": "Hakkuru Cafe",
      "description": "Bakery in Tanohata, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030406/3011560/",
      "page": "https://bokenjapan.com/iwate/tanohata/eat/sweets-bakeries/",
@@ -9555,7 +10975,7 @@
    "stays": [
     {
      "name": "ホテル羅賀荘",
-     "name_en": "Hotel Ra Ga-so",
+     "name_en": "Hotel Raga-so",
      "description": "Hotel in Tanohata, Iwate.",
      "source_url": "https://www.jalan.net/yad329348/",
      "page": "https://bokenjapan.com/iwate/tanohata/stay/"
@@ -9577,7 +10997,7 @@
     "address": "Tono, Iwate 028-0592",
     "phone": "0198-62-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Yumesaki Chaya",
@@ -9635,7 +11055,7 @@
     },
     {
      "name": "ごはん屋 花りん",
-     "name_en": "Gohan-ya Hana Rin",
+     "name_en": "Gohan-ya Hanarin",
      "description": "Shokudo diner in Tono, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030203/3006194/",
      "page": "https://bokenjapan.com/iwate/tono/eat/casual/",
@@ -9675,7 +11095,7 @@
     },
     {
      "name": "遠野ジンギスカン羊丸・道",
-     "name_en": "Tono Jingisukan Hitsuji Maru Michi",
+     "name_en": "Tono Jingisukan Hitsujimaru Michi",
      "description": "Jingisukan (lamb BBQ) restaurant in Tono, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030203/3001308/",
      "page": "https://bokenjapan.com/iwate/tono/eat/meat/",
@@ -9715,7 +11135,7 @@
     },
     {
      "name": "伊藤家",
-     "name_en": "Ito Ie",
+     "name_en": "Itoie",
      "description": "Soba restaurant in Tono, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030203/3006515/",
      "page": "https://bokenjapan.com/iwate/tono/eat/noodles/",
@@ -9747,7 +11167,7 @@
     },
     {
      "name": "日本料理 旬菜和田",
-     "name_en": "Nihonryori Jun Na Wada",
+     "name_en": "Nippon Ryori Shunsai Wada",
      "description": "Japanese restaurant in Tono, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030203/3004481/",
      "page": "https://bokenjapan.com/iwate/tono/eat/other-japanese/",
@@ -9755,7 +11175,7 @@
     },
     {
      "name": "伝承園",
-     "name_en": "Densho Sono",
+     "name_en": "Denshosono",
      "description": "Local-cuisine restaurant in Tono, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030203/3001340/",
      "page": "https://bokenjapan.com/iwate/tono/eat/other-japanese/",
@@ -9771,7 +11191,7 @@
     },
     {
      "name": "語りべ",
-     "name_en": "Katari Be",
+     "name_en": "Kataribe",
      "description": "Seafood restaurant in Tono, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030203/3003516/",
      "page": "https://bokenjapan.com/iwate/tono/eat/seafood/",
@@ -9787,7 +11207,7 @@
     },
     {
      "name": "まつだ松林堂",
-     "name_en": "Matsuda Matsubayashi Do",
+     "name_en": "Matsuda Matsubayashido",
      "description": "Japanese sweets shop in Tono, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030203/3004845/",
      "page": "https://bokenjapan.com/iwate/tono/eat/sweets-bakeries/",
@@ -9803,7 +11223,7 @@
     },
     {
      "name": "かっぱの茶屋",
-     "name_en": "Kappa no Cha-ya",
+     "name_en": "Kappano Cha-ya",
      "description": "Soft-serve stand in Tono, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0302/A030203/3011290/",
      "page": "https://bokenjapan.com/iwate/tono/eat/sweets-bakeries/",
@@ -9918,7 +11338,7 @@
     },
     {
      "name": "コテージランド かしわぎ",
-     "name_en": "Cottage Rando Kashiwagi",
+     "name_en": "Cottage Land Kashiwagi",
      "description": "Cottage in Tono, Iwate.",
      "source_url": "https://www.jalan.net/yad365030/",
      "page": "https://bokenjapan.com/iwate/tono/stay/"
@@ -9940,7 +11360,15 @@
     "address": "Yahaba, Iwate 028-3692",
     "phone": "019-697-2111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
+   "day_to_day": [
+    {
+     "name": "Yahaba Station",
+     "description": "Railway station in Yahaba, Shiwa district, Iwate prefecture, Japan.",
+     "source_url": "https://en.wikipedia.org/wiki/Yahaba_Station",
+     "page": "https://bokenjapan.com/iwate/yahaba/day-to-day/"
+    }
+   ],
    "activities": [
     {
      "name": "Hyakumangoku [Fudo Onsen] (one-day bathing facility)",
@@ -9974,7 +11402,7 @@
     },
     {
      "name": "お食事処 広味家",
-     "name_en": "Oshokujidokoro Ko Aji Ie",
+     "name_en": "Oshokujidokoro Koajiie",
      "description": "Bento shop in Yahaba, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030103/3011110/",
      "page": "https://bokenjapan.com/iwate/yahaba/eat/casual/",
@@ -10006,7 +11434,7 @@
     },
     {
      "name": "ほっこり処 雪華",
-     "name_en": "Hokkori Tokoro Yuki Hana",
+     "name_en": "Hokkori Tokoro Yukihana",
      "description": "Izakaya in Yahaba, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030103/3006609/",
      "page": "https://bokenjapan.com/iwate/yahaba/eat/izakaya-bars/",
@@ -10046,7 +11474,7 @@
     },
     {
      "name": "俺のじゃじゃ",
-     "name_en": "Ore Nojaja",
+     "name_en": "Ore no Jaja",
      "description": "Noodle shop in Yahaba, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030103/3003339/",
      "page": "https://bokenjapan.com/iwate/yahaba/eat/noodles/",
@@ -10086,7 +11514,7 @@
     },
     {
      "name": "麺処 しな川",
-     "name_en": "Men Tokoro Shina Kawa",
+     "name_en": "Mentokoro Shinakawa",
      "description": "Ramen shop in Yahaba, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030103/3012861/",
      "page": "https://bokenjapan.com/iwate/yahaba/eat/noodles/",
@@ -10094,7 +11522,7 @@
     },
     {
      "name": "北川庵",
-     "name_en": "Kitagawa Iori",
+     "name_en": "Kitagawa-an",
      "description": "Soba restaurant in Yahaba, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0301/A030103/3010928/",
      "page": "https://bokenjapan.com/iwate/yahaba/eat/noodles/",
@@ -10232,14 +11660,14 @@
    "stays": [
     {
      "name": "ホテルルートイン矢巾-岩手医大病院前-",
-     "name_en": "Hotel Route Inn Yahaba - Iwate Idai Byoin Mae",
+     "name_en": "Hotel Route Inn Yahaba Iwate Idai Byoinmae",
      "description": "Hotel in Yahaba, Iwate.",
      "source_url": "https://www.ikyu.com/00081825/",
      "page": "https://bokenjapan.com/iwate/yahaba/stay/"
     },
     {
      "name": "天然温泉 百万石の湯 スーパーホテル矢巾駅東口",
-     "name_en": "Natural Onsen Hyakumangoku no Yu Super Hotel Yahaba Eki Higashiguchi",
+     "name_en": "Natural Onsen Hyakumangoku no Yu Super Hotel Yahaba Ekihigashiguchi",
      "description": "Hotel in Yahaba, Iwate.",
      "source_url": "https://www.jalan.net/yad369528/",
      "page": "https://bokenjapan.com/iwate/yahaba/stay/"
@@ -10268,7 +11696,7 @@
     "address": "Yamada, Iwate 028-1392",
     "phone": "0193-82-3111"
    },
-   "date_modified": "2026-10-13",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Farm Direct Plaza Fureai Park Yamada",
@@ -10310,7 +11738,7 @@
     },
     {
      "name": "梅乃家",
-     "name_en": "Umeno Ie",
+     "name_en": "Umenoie",
      "description": "Shokudo diner in Yamada, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030401/3007969/",
      "page": "https://bokenjapan.com/iwate/yamadacho/eat/casual/",
@@ -10318,7 +11746,7 @@
     },
     {
      "name": "三陸味処三五十",
-     "name_en": "Sanriku Ajidokoro San Goju",
+     "name_en": "Sanriku Ajidokorosan Goju",
      "description": "Shokudo diner in Yamada, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030401/3004413/",
      "page": "https://bokenjapan.com/iwate/yamadacho/eat/casual/",
@@ -10366,7 +11794,7 @@
     },
     {
      "name": "六もん",
-     "name_en": "Roku Mon",
+     "name_en": "Rokumon",
      "description": "Izakaya in Yamada, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030401/3009755/",
      "page": "https://bokenjapan.com/iwate/yamadacho/eat/izakaya-bars/",
@@ -10382,7 +11810,7 @@
     },
     {
      "name": "釜揚げ屋",
-     "name_en": "Kama Age-ya",
+     "name_en": "Kamaage-ya",
      "description": "Udon restaurant in Yamada, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030401/3006465/",
      "page": "https://bokenjapan.com/iwate/yamadacho/eat/noodles/",
@@ -10390,7 +11818,7 @@
     },
     {
      "name": "藤七屋",
-     "name_en": "Fuji Shichi-ya",
+     "name_en": "Fujishichi-ya",
      "description": "Ramen shop in Yamada, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030401/3010996/",
      "page": "https://bokenjapan.com/iwate/yamadacho/eat/noodles/",
@@ -10398,7 +11826,7 @@
     },
     {
      "name": "豪ーめん 山田店",
-     "name_en": "Go - Men Yamada branch",
+     "name_en": "Goumen Yamada branch",
      "description": "Ramen shop in Yamada, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030401/3011651/",
      "page": "https://bokenjapan.com/iwate/yamadacho/eat/noodles/",
@@ -10406,7 +11834,7 @@
     },
     {
      "name": "颯-龍 山田店",
-     "name_en": "Satsu - Ryu Yamada branch",
+     "name_en": "Satsu Ryu Yamada branch",
      "description": "Ramen shop in Yamada, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030401/3007161/",
      "page": "https://bokenjapan.com/iwate/yamadacho/eat/noodles/",
@@ -10422,7 +11850,7 @@
     },
     {
      "name": "和海味処 いっぷく",
-     "name_en": "Wa Umi Ajidokoro Ippuku",
+     "name_en": "Wakai Ajidokoro Ippuku",
      "description": "Japanese restaurant in Yamada, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030401/3009023/",
      "page": "https://bokenjapan.com/iwate/yamadacho/eat/other-japanese/",
@@ -10430,7 +11858,7 @@
     },
     {
      "name": "三陸山田 かき小屋",
-     "name_en": "Sanriku Yamada Kaki Sho-ya",
+     "name_en": "Sanriku Yamada Kakisho-ya",
      "description": "Seafood restaurant in Yamada, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030401/3006564/",
      "page": "https://bokenjapan.com/iwate/yamadacho/eat/seafood/",
@@ -10438,7 +11866,7 @@
     },
     {
      "name": "和海浜処 いっぷく 山田船越店",
-     "name_en": "Wa Kaihin Tokoro Ippuku Yamada Funakoshi branch",
+     "name_en": "Wa Kaihinsho Ippuku Yamada Funakoshi branch",
      "description": "Seafood restaurant in Yamada, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030401/3008289/",
      "page": "https://bokenjapan.com/iwate/yamadacho/eat/seafood/",
@@ -10462,7 +11890,7 @@
     },
     {
      "name": "山田湾ベーカリー",
-     "name_en": "Yamada Wan Bakery",
+     "name_en": "Yamada Bay Bakery",
      "description": "Bakery in Yamada, Iwate.",
      "source_url": "https://tabelog.com/iwate/A0304/A030401/3011492/",
      "page": "https://bokenjapan.com/iwate/yamadacho/eat/sweets-bakeries/",
@@ -10571,7 +11999,7 @@
     },
     {
      "name": "光山温石泉 旅館岳泉荘",
-     "name_en": "Koyama Onjaku Izumi Ryokan Gaku Izumi-so",
+     "name_en": "Ryokan Gakusen-so",
      "description": "Ryokan inn in Yamada, Iwate.",
      "source_url": "https://www.jalan.net/yad362239/",
      "page": "https://bokenjapan.com/iwate/yamadacho/stay/"
