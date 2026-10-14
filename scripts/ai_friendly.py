@@ -243,6 +243,8 @@ for rel in pages():
                 tot = COUNT.get((key, sec), n)
                 hook = {'eat': plural(tot, 'restaurant or café', 'restaurants and cafés'), 'stay': plural(tot, 'hotel or inn', 'hotels, inns and ryokan'),
                         'see': plural(tot, 'sight', 'sights'), 'do': plural(tot, 'activity', 'activities'), 'day-to-day': plural(tot, 'place', 'places')}.get(sec)
+                if sec == 'stay' and 'class="stay-none"' in orig:  # neighbour-town stays
+                    lead = f'Stays near {place}'
                 title = lead + (f': {hook}' if tot and hook else '') + (', by type' if sec == 'eat' and n == 0 and tot else '')
                 h1 = lead
             else:
