@@ -1,0 +1,423 @@
+<!DOCTYPE html><html lang="ja"> <head prefix="og://ogp.me/ns# fb: //ogp.me/ns/fb# article: //ogp.me/ns/article#"><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"飲食店開業・経営・集客支援サイト | テンポスドットコム","item":"https://support.tenpos.com/"},{"@type":"ListItem","position":2,"name":"テンポスドットコム | 会社情報","item":"https://support.tenpos.com/company/"}]}</script><meta charset="utf-8"><!-- Google Tag Manager --><script>
+			(function (w, d, s, l, i) {
+				w[l] = w[l] || [];
+				w[l].push({
+					"gtm.start": new Date().getTime(),
+					event: "gtm.js",
+				});
+				var f = d.getElementsByTagName(s)[0],
+					j = d.createElement(s),
+					dl = l != "dataLayer" ? "&l=" + l : "";
+				j.async = true;
+				j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+				f.parentNode.insertBefore(j, f);
+			})(window, document, "script", "dataLayer", "GTM-NXBVCP8");
+		</script><!-- End Google Tag Manager --><!-- タイトル・ディスクリプション・キーワード --><title>飲食店開業・経営・集客支援サイト | テンポスドットコム</title><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="サイトの概要を記入"><link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-iKbFRxucmOHIcpWdX9NTZ5WETOPm0Goy0WmfyNcl52qSYtc2Buk0NCe6jU1sWWNB" crossorigin="anonymous"><link rel="canonical" href="https://support.tenpos.com/"><!--ファビコン、IOSタイコン--><link rel="icon" href="https://support.tenpos.com/asset/favicon.ico"><link rel="apple-touch-icon" sizes="180x180" href="https://support.tenpos.com/asset/apple-touch-icon.png"><!-- OGP --><meta property="og:title" content="飲食店開業・経営・集客支援サイト | テンポスドットコム"><meta property="og:type" content="website"><meta property="og:url" content="https://support.tenpos.com/"><meta property="og:image" content="サムネイル画像のURL"><meta property="og:site_name" content="サイト名"><meta property="og:description"><!-- OGP Twitter共通設定 --><meta name="twitter:card" content="Summary Card with Large Image"><!-- 下層フォント --><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap" rel="stylesheet"><!-- 全ページ共通CSS --><link rel="stylesheet" href="/asset/css/jquery.fatNav.css?v=20260520"><link rel="stylesheet" href="/asset/css/style.css"><!-- 下層CSS --><link rel="stylesheet" href="/asset/css/freepage.css?0114"><!-- TOP CSS --><!-- フォーム自動チェック --><script>
+			// URLパラメーターを解析する関数
+			function getUrlParams() {
+				let params = {};
+				let queryString = window.location.search.substring(1);
+				let queries = queryString.split("&");
+
+				for (let i = 0; i < queries.length; i++) {
+					let pair = queries[i].split("=");
+					params[pair[0]] = pair[1];
+				}
+				return params;
+			}
+
+			// チェックボックスを制御する関数
+			function setInitialCheckboxState() {
+				let params = getUrlParams();
+				if (params.checked) {
+					// checkedパラメーターの値をカンマで分割して配列にする
+					let checkedValues = params.checked.split(",");
+
+					// 各チェックボックスを確認し、該当するものをチェックする
+					checkedValues.forEach(function (value) {
+						let checkbox = document.querySelector(
+							`input[type="checkbox"][value="${value}"]`,
+						);
+						if (checkbox) {
+							checkbox.checked = true;
+						}
+					});
+				}
+			}
+
+			// ページがロードされた後にチェックボックスを制御
+			window.onload = function () {
+				setInitialCheckboxState();
+			};
+		</script><link rel="stylesheet" href="/_astro/TopFrontSlider.CHnJsdj7.css">
+<style>.tenposdotcom[data-astro-cid-3nvww4em]{font-size:16px;color:#333;text-align:center;font-weight:700;margin-bottom:20px}.tenposdotcom[data-astro-cid-3nvww4em] a[data-astro-cid-3nvww4em]{color:#f50}.tenposdotcom[data-astro-cid-ryokhc5l]{font-size:15px;color:#333;text-align:center;font-weight:700;margin-bottom:20px}.tenposdotcom[data-astro-cid-ryokhc5l] a[data-astro-cid-ryokhc5l]{color:#f50}
+</style>
+<link rel="stylesheet" href="/_astro/index.CGFkbSxS.css"></head> <body class="__wave"> <!-- Google Tag Manager (noscript) --> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NXBVCP8" height="0" width="0" style="display: none; visibility: hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) --> <header class="sp-header flex"> <p class="Thumb"> <a href="/"><img src="/asset/images/top/logo.svg" alt="TENPOS Foodplace" width="85" height="30" class="imgauto"></a> </p> <ul class="sp-header__iconlist flex"> <li class="__blue"> <a class="click_btn_spHeader_tel" href="tel:050-3174-1366"> <img src="/asset/images/top/icon_phone_white.svg" alt="phone" width="20" height="20" class="imgauto"> </a> </li> <li class="__white"> <a id="contactBtn-sp" class="click_btn_spHeader_mail" href="/contact/"> <img src="/asset/images/top/icon_mail.svg" alt="mail" width="40" height="40" class="imgauto"> </a> </li> <li class="__green"> <a class="click_btn_spHeader_line" href="https://lin.ee/WkULqzl"> <img src="/asset/images/top/icon_line.png" alt="line" width="40" height="40" class="imgauto"> </a> </li> </ul> </header> <div class="fat-nav" data-astro-cid-ryokhc5l> <div class="sp-contactArea" data-astro-cid-ryokhc5l> <p class="tenposdotcom" data-astro-cid-ryokhc5l> <a class="click_link_tenposdotcom" href="https://www.tenpos.com/" target="_blank" data-astro-cid-ryokhc5l><img src="/asset/images/top/bnr_tenpos.png" alt="TENPOS Foodplace" width="189" height="66" class="imgauto" data-astro-cid-ryokhc5l></a> </p> <p class="txt" data-astro-cid-ryokhc5l>まずはお気軽にご相談ください</p> <div class="Phonearea" data-astro-cid-ryokhc5l> <p class="Sub" data-astro-cid-ryokhc5l>営業時間 平日9:00〜18:00</p> <p class="Min" data-astro-cid-ryokhc5l> <a class="click_link_fat_tel" href="tel:05031741366" data-astro-cid-ryokhc5l>050-3174-1366</a> </p> </div> <p class="Btn" data-astro-cid-ryokhc5l> <a id="contactBtn-sp02" class="click_link_fat_mail" href="/contact/" data-astro-cid-ryokhc5l>お問い合わせ</a> </p> </div> <ul class="fat-navList" data-astro-cid-ryokhc5l> <li data-astro-cid-ryokhc5l> <p class="fat-restaurant__Ttl Icon __haschild" data-astro-cid-ryokhc5l>
+飲食店のお客様<span data-astro-cid-ryokhc5l></span> </p> <div class="g-accordion" data-astro-cid-ryokhc5l> <div class="fat-restaurant__accordion" data-astro-cid-ryokhc5l> <div class="Ttl __padding" data-astro-cid-ryokhc5l> <div class="accordion__ttl" data-astro-cid-ryokhc5l>開業相談</div> <div class="Icon __circle" data-astro-cid-ryokhc5l><span data-astro-cid-ryokhc5l></span></div> </div> <!-- ◆開業相談+を開いたとき --> <div class="Body" data-astro-cid-ryokhc5l> <ul class="fat-accordion__list __under" data-astro-cid-ryokhc5l> <li data-astro-cid-ryokhc5l> <a href="/open/" data-astro-cid-ryokhc5l>すべての開業相談</a> </li> <!-- <li>
+                                <a href="https://support.tenpos.com/lp/lp_line-diagnosis/">開業費用相談</a>
+                            </li> --> <!-- <li>
+                                <a href="/open/kitchen-car/">キッチンカー</a>
+                            </li> --> <!-- <li>
+							<a href="">飲食店専門学校</a>
+						</li> --> <li data-astro-cid-ryokhc5l> <a href="/open/bukken/" data-astro-cid-ryokhc5l>飲食店物件紹介</a> </li> <!-- <li>
+                                <a href="/open/ghost-restaurant/">ゴーストレストラン</a>
+                            </li> --> <li data-astro-cid-ryokhc5l> <a href="/open/interior/" data-astro-cid-ryokhc5l>飲食店内装工事</a> </li> </ul> </div> <div class="Ttl" data-astro-cid-ryokhc5l> <div class="accordion__ttl" data-astro-cid-ryokhc5l>食材仕入れ</div> <div class="Icon __circle" data-astro-cid-ryokhc5l><span data-astro-cid-ryokhc5l></span></div> </div> <!-- ◆食材仕入れ+を開いたとき --> <div class="Body" data-astro-cid-ryokhc5l> <ul class="fat-accordion__list __under" data-astro-cid-ryokhc5l> <li data-astro-cid-ryokhc5l> <a href="/menu/" data-astro-cid-ryokhc5l>すべての食材仕入れ</a> </li> <!-- <li>
+                                <a href="https://www.tenpos.com/food-search/" target="_blank">テンポスフードサーチ</a>
+                            </li> --> <!-- <li>
+							<a href="/menu/ingredient/">ビールサーバー</a>
+						</li> --> <li data-astro-cid-ryokhc5l> <a href="/menu/kakuyasu/" data-astro-cid-ryokhc5l>業務用酒販店「カクヤス」</a> </li> <li data-astro-cid-ryokhc5l> <a href="/menu/micreed/" data-astro-cid-ryokhc5l>食材通販</a> <!-- <a href="/menu/micreed/">食材通販「ミクリード」</a> --> </li> <!-- <li>
+							<a href="/menu/wain-pro/">ワインの仕入れPRO</a>
+						</li> --> <li data-astro-cid-ryokhc5l> <a href="https://support.tenpos.com/lp/service/op-celebration/" data-astro-cid-ryokhc5l>開業祝い調味料セット</a> </li> <!-- <li>
+                                <a href="https://support.tenpos.com/lp/service/order_gate/">価格削減＆WEB発注</a>
+                            </li> --> <li data-astro-cid-ryokhc5l> <a href="/menu/beer-server/" data-astro-cid-ryokhc5l>ビールサーバー</a> <!-- <a href="/menu/micreed/">食材通販「ミクリード」</a> --> </li> <li data-astro-cid-ryokhc5l> <a href="/menu/wain-pro/" data-astro-cid-ryokhc5l>ワイン通販</a> </li> </ul> </div> <div class="Ttl" data-astro-cid-ryokhc5l> <div class="accordion__ttl" data-astro-cid-ryokhc5l>店舗インフラ</div> <div class="Icon __circle" data-astro-cid-ryokhc5l><span data-astro-cid-ryokhc5l></span></div> </div> <!-- ◆店舗インフラ+を開いたとき --> <div class="Body" data-astro-cid-ryokhc5l> <ul class="fat-accordion__list __under" data-astro-cid-ryokhc5l> <li data-astro-cid-ryokhc5l> <a href="/telecom/" data-astro-cid-ryokhc5l>すべての店舗インフラ</a> </li> <li data-astro-cid-ryokhc5l> <a href="/telecom/internetline/" data-astro-cid-ryokhc5l>インターネット回線</a> </li> <li data-astro-cid-ryokhc5l> <a href="/telecom/karaoke/" data-astro-cid-ryokhc5l>カラオケ</a> </li> <li data-astro-cid-ryokhc5l> <a href="/telecom/cashless/" data-astro-cid-ryokhc5l>キャッシュレス決済</a> </li> <li data-astro-cid-ryokhc5l> <a href="/telecom/cashless-machine/" data-astro-cid-ryokhc5l>キャッシュレス券売機</a> </li> <li data-astro-cid-ryokhc5l> <a href="/telecom/mobileorder/" data-astro-cid-ryokhc5l>モバイルオーダー</a> </li> <!-- <li>
+                                <a href="/telecom/selforder/">配膳ロボット</a>
+                            </li> --> <li data-astro-cid-ryokhc5l> <a href="/telecom/ip-telephone/" data-astro-cid-ryokhc5l>IP電話</a> </li> <li data-astro-cid-ryokhc5l> <a href="/telecom/music/" data-astro-cid-ryokhc5l>店舗BGM</a> </li> <li data-astro-cid-ryokhc5l> <a href="/telecom/security-camera/" data-astro-cid-ryokhc5l>防犯カメラ</a> </li> </ul> </div> <!-- <div class="Ttl">
+                        <div class="accordion__ttl">人材・求人</div>
+                        <div class="Icon __circle"><span></span></div>
+                    </div>
+                    <div class="Body">
+                        <ul class="fat-accordion__list __under">
+                            <li>
+                                <a href="/resources/">すべての人材・求人</a>
+                            </li>
+                            <li>
+                                <a href="/resources/job-ads/">求人広告</a>
+                            </li>
+                            <li>
+                                <a href="/resources/staffing/">人材派遣</a>
+                            </li>
+                            <li>
+                                <a href="/resources/web-sns_check/">Web・SNSチェック</a>
+                            </li>
+                        </ul>
+                    </div> --> <div class="Ttl" data-astro-cid-ryokhc5l> <div class="accordion__ttl" data-astro-cid-ryokhc5l>衛生管理</div> <div class="Icon __circle" data-astro-cid-ryokhc5l><span data-astro-cid-ryokhc5l></span></div> </div> <!-- ◆衛生管理+を開いたとき --> <div class="Body" data-astro-cid-ryokhc5l> <ul class="fat-accordion__list __under" data-astro-cid-ryokhc5l> <li data-astro-cid-ryokhc5l> <a href="/hygiene/" data-astro-cid-ryokhc5l>すべての衛生管理</a> </li> <li data-astro-cid-ryokhc5l> <a href="/hygiene/sanitary-rental/" data-astro-cid-ryokhc5l>衛生用品レンタル</a> </li> <li data-astro-cid-ryokhc5l> <a href="/hygiene/shop_cleaning/" data-astro-cid-ryokhc5l>飲食店清掃</a> </li> <li data-astro-cid-ryokhc5l> <a href="/hygiene/waste-oil/" data-astro-cid-ryokhc5l>廃油無料回収</a> </li> <li data-astro-cid-ryokhc5l> <a href="/hygiene/garbage-collection/" data-astro-cid-ryokhc5l>ゴミ回収</a> </li> <!-- <li>
+                                <a href="/hygiene/wet-towel/">布おしぼりレンタル</a>
+                            </li> --> </ul> </div> <div class="Ttl" data-astro-cid-ryokhc5l> <div class="accordion__ttl" data-astro-cid-ryokhc5l>経費削減</div> <div class="Icon __circle" data-astro-cid-ryokhc5l><span data-astro-cid-ryokhc5l></span></div> </div> <!-- ◆経費削減+を開いたとき --> <div class="Body" data-astro-cid-ryokhc5l> <ul class="fat-accordion__list __under" data-astro-cid-ryokhc5l> <li data-astro-cid-ryokhc5l> <a href="/cost/" data-astro-cid-ryokhc5l>すべての経費削減</a> </li> <li data-astro-cid-ryokhc5l> <a href="/cost/electricity/" data-astro-cid-ryokhc5l>電気代削減</a> </li> <!-- <li>
+                                <a href="/cost/gas-bill/">ガス代削減</a>
+                            </li> --> <!-- <li>
+							<a href="/cost/fair-rent/">店舗賃料減額交渉サービス</a>
+						</li> --> <li data-astro-cid-ryokhc5l> <a href="/cost/recipe/" data-astro-cid-ryokhc5l>レシピ原価管理</a> </li> <li data-astro-cid-ryokhc5l> <a href="/cost/fryer-oil/" data-astro-cid-ryokhc5l>フライヤー油削減</a> </li> </ul> </div> <div class="__noborder Ttl" data-astro-cid-ryokhc5l> <div class="accordion__ttl" data-astro-cid-ryokhc5l>店舗運営支援</div> <div class="Icon __circle" data-astro-cid-ryokhc5l><span data-astro-cid-ryokhc5l></span></div> </div> <!-- ◆店舗運営支援+を開いたとき --> <div class="Body" data-astro-cid-ryokhc5l> <ul class="fat-accordion__list __under" data-astro-cid-ryokhc5l> <li data-astro-cid-ryokhc5l> <a href="/management/" data-astro-cid-ryokhc5l>すべての店舗運営支援</a> </li> <li data-astro-cid-ryokhc5l> <a href="/management/insurance/" data-astro-cid-ryokhc5l>店舗用保険</a> </li> <!-- <li>
+                                <a href="/management/sharosi/">社労士紹介</a>
+                            </li> --> <li data-astro-cid-ryokhc5l> <a href="/management/tax-accountant/" data-astro-cid-ryokhc5l>飲食専門税理士紹介</a> </li> <!-- <li>
+							<a href="/management/mystery-shopping/">飲食店覆面調査</a>
+						</li> --> <!-- <li>
+                                <a href="/management/q-navi/">店舗トラブル解決アプリ</a>
+                            </li>
+                            <li>
+                                <a href="/management/vendingmachine/">自動販売機</a>
+                            </li>
+                            <li>
+                                <a href="/management/credit-card/">テンポス<br />クレジットカード</a>
+                            </li>
+                            <li>
+                                <a href="https://www.tenpos.com/joseikin/">事業再構築補助金<br />申請サポート</a>
+                            </li> --> <li data-astro-cid-ryokhc5l> <a href="https://www.tenpos.com/kaitori/" target="_blank" data-astro-cid-ryokhc5l>厨房機器買取</a> </li> <li data-astro-cid-ryokhc5l> <a href="https://www.smbc.co.jp/hojin/kouza/special/kaisetsu/general.html?utm_source=ptno&utm_medium=TPD&utm_campaign=WSCP00002_PAptnoTPD_CT00604_img" data-astro-cid-ryokhc5l>法人口座開設</a> </li> </ul> </div> </div> </div> </li> <li data-astro-cid-ryokhc5l> <p class="fat-restaurant__Ttl Icon __beginner" data-astro-cid-ryokhc5l> <a href="/before_opening/" data-astro-cid-ryokhc5l>開業前の方</a> </p> </li> <li data-astro-cid-ryokhc5l> <p class="fat-restaurant__Ttl Icon __veteran" data-astro-cid-ryokhc5l> <a href="/after_opening/" data-astro-cid-ryokhc5l>開業後の方</a> </p> </li> <li data-astro-cid-ryokhc5l> <p class="fat-restaurant__Ttl __haschild" data-astro-cid-ryokhc5l>企業情報</p> <ul class="fat-accordion__list __upper" data-astro-cid-ryokhc5l> <li data-astro-cid-ryokhc5l> <a href="/company/corporate_data/" data-astro-cid-ryokhc5l>会社概要</a> </li> <li data-astro-cid-ryokhc5l> <a href="/company/recruit/" data-astro-cid-ryokhc5l>採用情報</a> </li> <li data-astro-cid-ryokhc5l> <a href="/company/group/" data-astro-cid-ryokhc5l>グループ会社一覧</a> </li> </ul> </li> <li data-astro-cid-ryokhc5l> <p class="fat-restaurant__Ttl __haschild" data-astro-cid-ryokhc5l>法人のお客様</p> <ul class="fat-accordion__list __upper" data-astro-cid-ryokhc5l> <li data-astro-cid-ryokhc5l> <a href="/company/partner/" data-astro-cid-ryokhc5l>協業をお考えの方</a> </li> </ul> </li> <li data-astro-cid-ryokhc5l> <p class="fat-restaurant__Ttl Icon __mail" data-astro-cid-ryokhc5l> <a class="click_link_fat_mail" href="/contact/" data-astro-cid-ryokhc5l>お問い合わせ</a> </p> </li> </ul> </div> <script>
+    document.addEventListener("DOMContentLoaded", function () {
+        class FatNav {
+            constructor(options = {}) {
+                this.settings = Object.assign({}, FatNav.defaults, options);
+                this._name = "fatNav";
+                this.init();
+            }
+
+            init() {
+                this.$nav = document.querySelector(".fat-nav");
+                this.$hamburger = document.createElement("a");
+                this.$hamburger.href = "javascript:void(0)";
+                this.$hamburger.classList.add("hamburger");
+                this.$hamburger.innerHTML =
+                    '<div class="hamburger__icon"></div>';
+
+                this._bodyOverflow = document.body.style.overflow;
+
+                /* if (/iPad|iPhone|iPod/.test(navigator.userAgent)) {
+                    this.$nav.children[0].style.height = "110%";
+                    this.$nav.children[0].style.transform = "translateY(-5%)";
+                }*/
+
+                document.body.appendChild(this.$hamburger);
+
+                // クリックイベントを登録
+                [this.$hamburger, ...this.$nav.querySelectorAll("a")].forEach(
+                    (el) => {
+                        el.addEventListener("click", () => this.toggleNav());
+                    },
+                );
+            }
+
+            toggleNav() {
+                this.$nav.classList.toggle("active");
+                this.$nav.style.display = this.$nav.classList.contains("active")
+                    ? "block"
+                    : "none";
+                this.toggleBodyOverflow();
+                this.$hamburger.classList.toggle("active");
+            }
+
+            toggleBodyOverflow() {
+                document.body.classList.toggle("no-scroll");
+                const isNoScroll =
+                    document.body.classList.contains("no-scroll");
+                document.body.style.overflow = isNoScroll
+                    ? "hidden"
+                    : this._bodyOverflow;
+            }
+        }
+
+        FatNav.defaults = {};
+
+        if (typeof window.fatNav === "undefined") {
+            window.fatNav = function (options) {
+                return new FatNav(options);
+            };
+        }
+
+        document.addEventListener("click", function (event) {
+            const target = event.target;
+            if (
+                document.body.classList.contains("no-scroll") &&
+                target.classList.contains("no-scroll")
+            ) {
+                document.body.classList.remove("no-scroll");
+                document.body.style.overflow = "visible";
+                document.querySelector(".fat-nav").classList.remove("active");
+                document.querySelector(".hamburger").classList.remove("active");
+
+                // `.hamburger-ps` に `.hamburger` を追加（存在する場合）
+                const hamburgerPs = document.querySelector(".hamburger-ps");
+                if (hamburgerPs) {
+                    hamburgerPs.appendChild(
+                        document.querySelector(".hamburger"),
+                    );
+                }
+            }
+        });
+
+        // FatNav インスタンスを作成
+        fatNav();
+    });
+</script>   <main class="g-wrapper __2col"> <div class="asidearea" data-astro-cid-3nvww4em> <div class="aside-container" data-astro-cid-3nvww4em> <nav class="aside-nav" data-astro-cid-3nvww4em> <div class="aside-contact__container" data-astro-cid-3nvww4em> <h1 class="Thumb" data-astro-cid-3nvww4em> <a href="/" data-astro-cid-3nvww4em> <img src="/asset/images/top/logo.svg" alt="TENPOS Foodplace" width="189" height="66" class="imgauto" data-astro-cid-3nvww4em> </a> </h1> <p class="tenposdotcom" data-astro-cid-3nvww4em> <a class="click_link_tenposdotcom" href="https://www.tenpos.com/" target="_blank" data-astro-cid-3nvww4em><img src="/asset/images/top/bnr_tenpos.png" alt="TENPOS Foodplace" width="189" height="66" class="imgauto" data-astro-cid-3nvww4em></a> </p> <div class="Phonearea" data-astro-cid-3nvww4em> <p class="Sub" data-astro-cid-3nvww4em>営業時間 平日9:00〜18:00</p> <p class="Min" data-astro-cid-3nvww4em>050-3174-1366</p> </div> <p class="Btn" data-astro-cid-3nvww4em> <a id="contactBtn" class="click_link_aside_mail" href="/contact/" data-astro-cid-3nvww4em>お問い合わせ</a> </p> </div> <ul class="aside-navList" data-astro-cid-3nvww4em> <li data-astro-cid-3nvww4em> <p class="aside-restaurant__Ttl Icon __haschild" data-astro-cid-3nvww4em>
+飲食店のお客様<span data-astro-cid-3nvww4em></span> </p> <div class="g-accordion" data-astro-cid-3nvww4em> <div class="aside-restaurant__accordion" data-astro-cid-3nvww4em> <div class="Ttl" data-astro-cid-3nvww4em> <a href="" data-astro-cid-3nvww4em>開業相談</a> <div class="Icon __circle" data-astro-cid-3nvww4em><span data-astro-cid-3nvww4em></span></div> </div> <!-- ◆開業相談+を開いたとき --> <div class="Body" data-astro-cid-3nvww4em> <ul class="fat-accordion__list __under" data-astro-cid-3nvww4em> <li data-astro-cid-3nvww4em> <a href="/open/" data-astro-cid-3nvww4em>すべての開業相談</a> </li> <!-- <li>
+                  <a href="https://support.tenpos.com/lp/lp_line-diagnosis/">開業費用相談</a>
+                </li> --> <!-- <li>
+                  <a href="/open/kitchen-car/">キッチンカー</a>
+                </li> --> <!-- <li>
+							<a href="">飲食店専門学校</a>
+						</li> --> <li data-astro-cid-3nvww4em> <a href="/open/bukken/" data-astro-cid-3nvww4em>飲食店物件紹介</a> </li> <!-- <li>
+                  <a href="/open/ghost-restaurant/">ゴーストレストラン</a>
+                </li> --> <li data-astro-cid-3nvww4em> <a href="/open/interior/" data-astro-cid-3nvww4em>飲食店内装工事</a> </li> </ul> </div> <div class="Ttl" data-astro-cid-3nvww4em> <a href="" data-astro-cid-3nvww4em>食材仕入れ</a> <div class="Icon __circle" data-astro-cid-3nvww4em><span data-astro-cid-3nvww4em></span></div> </div> <!-- ◆食材仕入れ+を開いたとき --> <div class="Body" data-astro-cid-3nvww4em> <ul class="fat-accordion__list __under" data-astro-cid-3nvww4em> <li data-astro-cid-3nvww4em> <a href="/menu/" data-astro-cid-3nvww4em>すべての食材仕入れ</a> </li> <!-- <li>
+                  <a href="https://www.tenpos.com/food-search/" target="_blank">テンポスフードサーチ</a>
+                </li> --> <!-- <li>
+                  <a href="/menu/ingredient/">ビールサーバー</a>
+                </li> --> <li data-astro-cid-3nvww4em> <a href="/menu/kakuyasu/" data-astro-cid-3nvww4em>業務用酒販店<br data-astro-cid-3nvww4em>「カクヤス」</a> </li> <li data-astro-cid-3nvww4em> <a href="/menu/beer-server/" data-astro-cid-3nvww4em>ビールサーバー</a> </li> <li data-astro-cid-3nvww4em> <a href="/menu/wain-pro/" data-astro-cid-3nvww4em>ワイン通販</a> </li> <li data-astro-cid-3nvww4em> <a href="/menu/micreed/" data-astro-cid-3nvww4em>食材通販<br class="pc" data-astro-cid-3nvww4em>「ミクリード」</a> </li> <!-- <li>
+                  <a href="/menu/wain-pro/">ワインの仕入れPRO</a>
+                </li> --> <li data-astro-cid-3nvww4em> <a href="/lp/service/op-celebration/" data-astro-cid-3nvww4em>「味の素」<br class="pc" data-astro-cid-3nvww4em>開業祝い調味料セット</a> </li> <!-- <li>
+                  <a href="/lp/service/order_gate/">価格削減＆WEB発注</a>
+                </li> --> </ul> </div> <div class="Ttl" data-astro-cid-3nvww4em> <a href="" data-astro-cid-3nvww4em>店舗インフラ</a> <div class="Icon __circle" data-astro-cid-3nvww4em><span data-astro-cid-3nvww4em></span></div> </div> <!-- ◆店舗インフラ+を開「味の素」開業祝い調味料セットたとき --> <div class="Body" data-astro-cid-3nvww4em> <ul class="fat-accordion__list __under" data-astro-cid-3nvww4em> <li data-astro-cid-3nvww4em> <a href="/telecom/" data-astro-cid-3nvww4em>すべての<br data-astro-cid-3nvww4em>店舗インフラ</a> </li> <li data-astro-cid-3nvww4em> <a href="/telecom/internetline/" data-astro-cid-3nvww4em>インターネット回線</a> </li> <li data-astro-cid-3nvww4em> <a href="/telecom/karaoke/" data-astro-cid-3nvww4em>カラオケ</a> </li> <li data-astro-cid-3nvww4em> <a href="/telecom/cashless/" data-astro-cid-3nvww4em>キャッシュレス決済</a> </li> <li data-astro-cid-3nvww4em> <a href="/telecom/cashless-machine/" data-astro-cid-3nvww4em>キャッシュレス<br data-astro-cid-3nvww4em>券売機</a> </li> <li data-astro-cid-3nvww4em> <a href="/telecom/mobileorder/" data-astro-cid-3nvww4em>モバイルオーダー</a> </li> <!-- <li>
+                  <a href="/telecom/selforder/">配膳ロボット</a>
+                </li> --> <li data-astro-cid-3nvww4em> <a href="/telecom/ip-telephone/" data-astro-cid-3nvww4em>IP電話</a> </li> <li data-astro-cid-3nvww4em> <a href="/telecom/music/" data-astro-cid-3nvww4em>店舗BGM</a> </li> <li data-astro-cid-3nvww4em> <a href="/telecom/security-camera/" data-astro-cid-3nvww4em>防犯カメラ</a> </li> </ul> </div> <div class="Ttl" data-astro-cid-3nvww4em> <a href="" data-astro-cid-3nvww4em>衛生管理</a> <div class="Icon __circle" data-astro-cid-3nvww4em><span data-astro-cid-3nvww4em></span></div> </div> <!-- ◆衛生管理+を開いたとき --> <div class="Body" data-astro-cid-3nvww4em> <ul class="fat-accordion__list __under" data-astro-cid-3nvww4em> <li data-astro-cid-3nvww4em> <a href="/hygiene/" data-astro-cid-3nvww4em>すべての衛生管理</a> </li> <li data-astro-cid-3nvww4em> <a href="/hygiene/sanitary-rental/" data-astro-cid-3nvww4em>衛生用品レンタル</a> </li> <li data-astro-cid-3nvww4em> <a href="/hygiene/shop_cleaning/" data-astro-cid-3nvww4em>飲食店清掃</a> </li> <li data-astro-cid-3nvww4em> <a href="/hygiene/waste-oil/" data-astro-cid-3nvww4em>廃油無料回収</a> </li> <li data-astro-cid-3nvww4em> <a href="/hygiene/garbage-collection/" data-astro-cid-3nvww4em>ゴミ回収</a> </li> <!-- <li>
+                  <a href="/hygiene/wet-towel/">布おしぼりレンタル</a>
+                </li> --> </ul> </div> <div class="Ttl" data-astro-cid-3nvww4em> <a href="" data-astro-cid-3nvww4em>経費削減</a> <div class="Icon __circle" data-astro-cid-3nvww4em><span data-astro-cid-3nvww4em></span></div> </div> <!-- ◆経費削減+を開いたとき --> <div class="Body" data-astro-cid-3nvww4em> <ul class="fat-accordion__list __under" data-astro-cid-3nvww4em> <li data-astro-cid-3nvww4em> <a href="/cost/" data-astro-cid-3nvww4em>すべての経費削減</a> </li> <li data-astro-cid-3nvww4em> <a href="/cost/electricity/" data-astro-cid-3nvww4em>電気代削減</a> </li> <!-- <li>
+                  <a href="/cost/fair-rent/">店舗賃料減額<br>交渉サービス</a>
+                </li> --> <!-- <li>
+                  <a href="/cost/recipe/">レシピ原価管理</a>
+                </li> --> <li data-astro-cid-3nvww4em> <a href="/cost/fryer-oil/" data-astro-cid-3nvww4em>フライヤー油削減</a> </li> </ul> </div> <div class="__noborder Ttl" data-astro-cid-3nvww4em> <a href="" data-astro-cid-3nvww4em>店舗運営支援</a> <div class="Icon __circle" data-astro-cid-3nvww4em><span data-astro-cid-3nvww4em></span></div> </div> <!-- ◆店舗運営支援+を開いたとき --> <div class="Body" data-astro-cid-3nvww4em> <ul class="fat-accordion__list __under" data-astro-cid-3nvww4em> <li data-astro-cid-3nvww4em> <a href="/management/" data-astro-cid-3nvww4em>すべての<br data-astro-cid-3nvww4em>店舗運営支援</a> </li> <li data-astro-cid-3nvww4em> <a href="/management/insurance/" data-astro-cid-3nvww4em>店舗用保険</a> </li> <!-- <li>
+                  <a href="/management/sharosi/">社労士紹介</a>
+                </li> --> <li data-astro-cid-3nvww4em> <a href="/management/tax-accountant/" data-astro-cid-3nvww4em>飲食専門税理士紹介</a> </li> <!-- <li>
+                  <a href="/management/mystery-shopping/">飲食店覆面調査</a>
+                </li> --> <!-- <li>
+                  <a href="/management/q-navi/">店舗トラブル<br>解決アプリ</a>
+                </li>
+                <li>
+                  <a href="/management/credit-card/">テンポス<br>クレジットカード</a>
+                </li>
+                <li>
+                  <a href="/management/vendingmachine/">自動販売機</a>
+                </li> --> <!-- <li>
+							　　<a href="/management/credit-card/">テンポス<br>クレジットカード発行</a>
+            　　</li> --> <!-- <li>
+                  <a href="https://www.tenpos.com/joseikin/">事業再構築補助金<br>申請サポート</a>
+                </li> --> <li data-astro-cid-3nvww4em> <a href="https://www.tenpos.com/kaitori/" target="_blank" data-astro-cid-3nvww4em>厨房機器買取</a> </li> <li data-astro-cid-3nvww4em> <a href="https://www.smbc.co.jp/hojin/kouza/special/kaisetsu/general.html?utm_source=ptno&utm_medium=TPD&utm_campaign=WSCP00002_PAptnoTPD_CT00604_img" data-astro-cid-3nvww4em>法人口座開設</a> </li> </ul> </div> </div> </div> </li> <li data-astro-cid-3nvww4em> <p class="aside-restaurant__Ttl Icon __beginner" data-astro-cid-3nvww4em> <a href="/before_opening/" data-astro-cid-3nvww4em>開業前の方</a> </p> </li> <li data-astro-cid-3nvww4em> <p class="aside-restaurant__Ttl Icon __veteran" data-astro-cid-3nvww4em> <a href="/after_opening/" data-astro-cid-3nvww4em>開業後の方</a> </p> </li> <li data-astro-cid-3nvww4em> <p class="aside-restaurant__Ttl __haschild" data-astro-cid-3nvww4em>企業情報</p> <ul class="aside-accordion__list __upper" data-astro-cid-3nvww4em> <li data-astro-cid-3nvww4em> <a href="/company/corporate_data/" data-astro-cid-3nvww4em>会社概要</a> </li> <li data-astro-cid-3nvww4em> <a href="/company/recruit/" data-astro-cid-3nvww4em>採用情報</a> </li> <li data-astro-cid-3nvww4em> <a href="/company/group/" data-astro-cid-3nvww4em>グループ会社一覧</a> </li> </ul> </li> <li data-astro-cid-3nvww4em> <p class="aside-restaurant__Ttl __haschild" data-astro-cid-3nvww4em>法人のお客様</p> <ul class="aside-accordion__list __upper" data-astro-cid-3nvww4em> <li data-astro-cid-3nvww4em> <a href="/company/partner/" data-astro-cid-3nvww4em>協業をお考えの方</a> </li> </ul> </li> <li data-astro-cid-3nvww4em> <p class="aside-restaurant__Ttl Icon __mail" data-astro-cid-3nvww4em> <a id="contactBtn" class="click_link_aside_mail" href="/contact/" data-astro-cid-3nvww4em>お問い合わせ</a> </p> </li> </ul> </nav> </div> <div class="aside-bannerarea" data-astro-cid-3nvww4em> <!-- <p>
+    <a href="" target="_blank">
+      <img src="/asset/images/top/banner01.svg" alt="IPPOME" width="260" height="110" loading="lazy" class="imgauto">
+    </a>
+  </p> --> <p data-astro-cid-3nvww4em> <a href="https://www.tenpos.com/foodmedia/" target="_blank" data-astro-cid-3nvww4em> <picture data-astro-cid-3nvww4em> <source media="(max-width:767px)" srcset="/asset/images/top/banner02_sp.png" data-astro-cid-3nvww4em> <img src="/asset/images/top/banner02.png" srcset="/asset/images/top/banner02.png 1x,/asset/images/top/2x/banner02@2x.png 2x" alt="TENPOS food media" width="260" height="110" loading="lazy" class="imgauto" data-astro-cid-3nvww4em> </picture> </a> </p> <!--<p>
+    <a href="https://www.tenposstar.com/static/tenpo-about/" target="_blank">
+      <picture>
+        <source media="(max-width:767px)" srcset="/asset/images/top/banner03_sp.png">
+        <img src="/asset/images/top/banner03.png"
+          srcset="/asset/images/top/banner03.png 1x,/asset/images/top/2x/banner03@2x.png 2x" alt="テンポススター" width="260"
+          height="110" loading="lazy" class="imgauto">
+      </picture>
+    </a>
+  </p>--> <!--<p>
+            <a href="https://support.tenpos.com/sptools/" target="_blank">
+                <picture>
+                    <source
+                        media="(max-width:767px)"
+                        srcset="/asset/images/top/banner04_sp.png"
+                    />
+                    <img
+                        src="/asset/images/top/banner04.png"
+                        srcset="/asset/images/top/banner04.png 1x,/asset/images/top/2x/banner04@2x.png 2x"
+                        alt="販促デザインで集客"
+                        width="260"
+                        height="110"
+                        loading="lazy"
+                        class="imgauto"
+                    />
+                </picture>
+            </a>
+        </p>--> <p data-astro-cid-3nvww4em> <a href="https://support.tenpos.com/lp/service/op-celebration/" target="_blank" data-astro-cid-3nvww4em> <picture data-astro-cid-3nvww4em> <source media="(max-width:767px)" srcset="/asset/images/top/banner05_sp.png" data-astro-cid-3nvww4em> <img src="/asset/images/top/banner05.png" srcset="/asset/images/top/banner05.png 1x,/asset/images/top/2x/banner05@2x.png 2x" alt="開業祝い味の素" width="260" height="110" loading="lazy" class="imgauto" data-astro-cid-3nvww4em> </picture> </a> </p> <!--<p>
+            <a href="https://support.tenpos.com/sns-template/" target="_blank">
+                <picture>
+                    <source
+                        media="(max-width:767px)"
+                        srcset="/asset/images/top/sp/banner06_sp.png"
+                    />
+                    <img
+                        src="/asset/images/top/banner06.png"
+                        srcset="/asset/images/top/banner06.png 1x,/asset/images/top/2x/banner06.png 2x"
+                        alt="SNS投稿文章テンプレ集"
+                        width="260"
+                        height="110"
+                        loading="lazy"
+                        class="imgauto"
+                    />
+                </picture>
+            </a>
+        </p>--> <!--<p>
+            <a
+                href="https://support.tenpos.com/lp/lp_line-aircon.html"
+                target="_blank"
+            >
+                <picture>
+                    <source
+                        media="(max-width:767px)"
+                        srcset="/asset/images/top/sp/banner07_sp.png"
+                    />
+                    <img
+                        src="/asset/images/top/banner07.png"
+                        srcset="/asset/images/top/banner07.png 1x,/asset/images/top/2x/banner07.png 2x"
+                        alt="エアコン購入費用診断"
+                        width="260"
+                        height="110"
+                        loading="lazy"
+                        class="imgauto"
+                    />
+                </picture>
+            </a>
+        </p>--> <!-- <p>
+    <a href="/resources/web-sns_check.html" target="_blank">
+      <picture>
+        <source media="(max-width:767px)" srcset="/asset/images/top/sp/banner08_sp.png">
+        <img src="/asset/images/top/banner08.png"
+          srcset="/asset/images/top/banner08.png 1x,/asset/images/top/2x/banner08.png 2x" alt="Web・SNSチェック" width="260"
+          height="110" loading="lazy" class="imgauto">
+      </picture>
+    </a>
+  </p> --> <p data-astro-cid-3nvww4em> <a href="/lp/service/ad_service/" target="_blank" data-astro-cid-3nvww4em> <picture data-astro-cid-3nvww4em> <source media="(max-width:767px)" srcset="/asset/images/top/sp/banner09_sp.png" data-astro-cid-3nvww4em> <img src="/asset/images/top/banner09.png" srcset="/asset/images/top/banner09.png 1x,/asset/images/top/2x/banner09.png 2x" alt="Web・SNSチェック" width="260" height="110" loading="lazy" class="imgauto" data-astro-cid-3nvww4em> </picture> </a> </p> </div> </div>  <article id="mainarea"> <div class="top-front__section generalsec"> <ul class="top-front__performance flex" data-astro-cid-e5jx7nn7> <li data-astro-cid-e5jx7nn7> <picture data-astro-cid-e5jx7nn7> <source media="(max-width:767px)" srcset="/asset/images/top/sp/performance01_sp.png" data-astro-cid-e5jx7nn7> <img src="/asset/images/top/performance01.png" srcset="/asset/images/top/performance01.png 1x,/asset/images/top/2x/performance01@2x.png 2x" alt="導入実績" width="106" height="106" class="imgauto" data-astro-cid-e5jx7nn7> </picture> </li><li data-astro-cid-e5jx7nn7> <picture data-astro-cid-e5jx7nn7> <source media="(max-width:767px)" srcset="/asset/images/top/sp/performance02_sp.png" data-astro-cid-e5jx7nn7> <img src="/asset/images/top/performance02.png" srcset="/asset/images/top/performance02.png 1x,/asset/images/top/2x/performance02@2x.png 2x" alt="テンポスブランド" width="106" height="106" class="imgauto" data-astro-cid-e5jx7nn7> </picture> </li><li data-astro-cid-e5jx7nn7> <picture data-astro-cid-e5jx7nn7> <source media="(max-width:767px)" srcset="/asset/images/top/sp/performance03_sp.png" data-astro-cid-e5jx7nn7> <img src="/asset/images/top/performance03.png" srcset="/asset/images/top/performance03.png 1x,/asset/images/top/2x/performance03@2x.png 2x" alt="開業から経営まで" width="106" height="106" class="imgauto" data-astro-cid-e5jx7nn7> </picture> </li> </ul>  <div class="top-front__slider__cont"> <div class="swiper top-front__slider"> <div class="swiper-wrapper"> <article class="swiper-slide"> <a href="/telecom/cashless/" class="click_slide_banner" target="_self"> <picture> <source media="(max-width:767px)" srcset="/asset/images/top/sp/front05.png"> <img src="/asset/images/top/front05.png" srcset="/asset/images/top/front05.png 1x,/asset/images/top/2x/front05.png 2x" alt="キャッシュレス" width="338" height="190" class="imgauto"> </picture> </a> </article><article class="swiper-slide"> <a href="/cost/" class="click_slide_banner" target="_self"> <picture> <source media="(max-width:767px)" srcset="/asset/images/top/sp/front06.png"> <img src="/asset/images/top/front06.png" srcset="/asset/images/top/front06.png 1x,/asset/images/top/2x/front06.png 2x" alt="経費削減" width="338" height="190" class="imgauto"> </picture> </a> </article><article class="swiper-slide"> <a href="https://www.tenpos.com/cushion/genie/" class="click_slide_banner" target="_blank"> <picture> <source media="(max-width:767px)" srcset="/asset/images/top/sp/front10.png"> <img src="/asset/images/top/front10.png" srcset="/asset/images/top/front10.png 1x,/asset/images/top/2x/front10.png 2x" alt="マネーのランプ" width="338" height="190" class="imgauto"> </picture> </a> </article> </div> </div> <div class="swiper-pagination top_front_slider_pagination"></div> <div class="swiper-button-prev"></div> <div class="swiper-button-next"></div> </div> <!--スライダーのJS --> <script type="module" src="/_astro/TopFrontSlider.astro_astro_type_script_index_0_lang.DG3h1w-t.js"></script>  </div> <!-- 重要なお知らせ ここから --> <!--<ImportantNews /> --> <!-- 重要なお知らせ ここまで --> <section class="top-banner__section generalsec flex" data-astro-cid-d5komjgr> <a href="/before_opening/" class="top-banner __beginner linkbox" data-astro-cid-d5komjgr> <h2 class="Thumb" data-astro-cid-d5komjgr> <span class="Img_01" data-astro-cid-d5komjgr> <picture data-astro-cid-d5komjgr> <source media="(max-width:767px)" srcset="/asset/images/top/sp/ms_beginner_human_sp.png" data-astro-cid-d5komjgr> <img src="/asset/images/top/ms_beginner_human.png" srcset="/asset/images/top/ms_beginner_human.png 1x,/asset/images/top/2x/ms_beginner_human@2x.png 2x" alt="" width="63" height="92" loading="lazy" class="imgauto-h" data-astro-cid-d5komjgr> </picture> </span> <span class="Txt" data-astro-cid-d5komjgr> <span class="Txt__top" data-astro-cid-d5komjgr>飲食店開業前</span><br data-astro-cid-d5komjgr> <span class="Txt__bottom" data-astro-cid-d5komjgr>の方はこちら</span> </span> <span class="Img_02" data-astro-cid-d5komjgr> <picture data-astro-cid-d5komjgr> <source media="(max-width:767px)" srcset="/asset/images/top/sp/ms_beginner_balloon_sp.png" data-astro-cid-d5komjgr> <img src="/asset/images/top/ms_beginner_balloon.png" srcset="/asset/images/top/ms_beginner_balloon.png 1x,/asset/images/top/2x/ms_beginner_balloon@2x.png 2x" alt="" width="61" height="61" loading="lazy" class="imgauto" data-astro-cid-d5komjgr> </picture> </span> </h2> <ul class="top-banner__list fxw" data-astro-cid-d5komjgr> <li class="top-banner__listItem" data-url="/open/" data-astro-cid-d5komjgr>開業相談</li> <li class="top-banner__listItem" data-url="/telecom/" data-astro-cid-d5komjgr>
+店舗インフラ
+</li> <li class="top-banner__listItem" data-url="/promotion/" data-astro-cid-d5komjgr>
+販促デザイン
+</li> </ul> </a> <a href="/after_opening/" class="top-banner __veteran linkbox" data-astro-cid-d5komjgr> <h2 class="Thumb" data-astro-cid-d5komjgr> <span class="Img_01" data-astro-cid-d5komjgr> <picture data-astro-cid-d5komjgr> <source media="(max-width:767px)" srcset="/asset/images/top/sp/msg_veteran_human_sp.png" data-astro-cid-d5komjgr> <img src="/asset/images/top/msg_veteran_human.png" srcset="/asset/images/top/msg_veteran_human.png 1x,/asset/images/top/2x/msg_veteran_human@2x.png 2x" alt="" width="59" height="105" loading="lazy" class="imgauto-h" data-astro-cid-d5komjgr> </picture> </span> <span class="Txt" data-astro-cid-d5komjgr> <span class="Txt__top" data-astro-cid-d5komjgr>飲食店開業後</span><br data-astro-cid-d5komjgr> <span class="Txt__bottom" data-astro-cid-d5komjgr>の方はこちら</span> </span> <span class="Img_02" data-astro-cid-d5komjgr> <picture data-astro-cid-d5komjgr> <source media="(max-width:767px)" srcset="/asset/images/top/sp/msg_veteran_balloon_sp.png" data-astro-cid-d5komjgr> <img src="/asset/images/top/msg_veteran_balloon.png" srcset="/asset/images/top/msg_veteran_balloon.png 1x,/asset/images/top/2x/msg_veteran_balloon@2x.png 2x" alt="" width="61" height="61" loading="lazy" class="imgauto" data-astro-cid-d5komjgr> </picture> </span> </h2> <ul class="top-banner__list fxw" data-astro-cid-d5komjgr> <li class="top-banner__listItem" data-url="/marketing/" data-astro-cid-d5komjgr>集客</li> <li class="top-banner__listItem" data-url="/cost/" data-astro-cid-d5komjgr>経費削減</li> <li class="top-banner__listItem" data-url="/management/" data-astro-cid-d5komjgr>
+店舗運営支援
+</li> </ul> </a> </section> <script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const beginnerBanner = document.querySelector(
+            ".top-banner__section .top-banner.__beginner",
+        );
+        const veteranBanner = document.querySelector(
+            ".top-banner__section .top-banner.__veteran",
+        );
+        const bannerItems = document.querySelectorAll(
+            ".top-banner__section .top-banner__listItem",
+        );
+
+        const beginnerURL = beginnerBanner
+            ? beginnerBanner.getAttribute("href")
+            : "";
+        const veteranURL = veteranBanner
+            ? veteranBanner.getAttribute("href")
+            : "";
+
+        bannerItems.forEach((item) => {
+            item.addEventListener("mouseenter", function () {
+                let changeURL = this.getAttribute("data-url");
+                let parentBanner = this.closest(".top-banner");
+                if (parentBanner && changeURL) {
+                    parentBanner.setAttribute("href", changeURL);
+                }
+            });
+
+            item.addEventListener("mouseleave", function () {
+                let parentBanner = this.closest(".top-banner");
+                if (parentBanner) {
+                    if (parentBanner.classList.contains("__beginner")) {
+                        parentBanner.setAttribute("href", beginnerURL);
+                    } else if (parentBanner.classList.contains("__veteran")) {
+                        parentBanner.setAttribute("href", veteranURL);
+                    }
+                }
+            });
+        });
+    });
+</script>  <section class="top-service__section generalsec" data-astro-cid-yw37p6q3> <h2 class="top-service__ttl g-ttl" data-astro-cid-yw37p6q3>人気のサービス</h2> <ul class="top-service__list" data-astro-cid-yw37p6q3> <li data-astro-cid-yw37p6q3> <a href="/management/tax-accountant/" class="flex" data-astro-cid-yw37p6q3> <p class="Thumb" data-astro-cid-yw37p6q3> <picture data-astro-cid-yw37p6q3> <source media="(max-width:767px)" srcset="/asset/images/top/sp/service03_sp.png" data-astro-cid-yw37p6q3> <img src="/asset/images/top/service03.png" srcset="/asset/images/top/service03.png 1x,/asset/images/top/2x/service03@2x.png 2x" alt="ホームページ作成" width="49" height="27" loading="lazy" class="imgauto" data-astro-cid-yw37p6q3> </picture> </p> <div class="top-service__listTxt" data-astro-cid-yw37p6q3> <p class="Msg" data-astro-cid-yw37p6q3>業界最安値水準</p> <h3 class="Local" data-astro-cid-yw37p6q3><span data-astro-cid-yw37p6q3>飲食専門<br data-astro-cid-yw37p6q3>税理士紹介</span></h3> </div> </a> </li> <li data-astro-cid-yw37p6q3> <a href="/telecom/cashless/" class="flex" data-astro-cid-yw37p6q3> <p class="Thumb" data-astro-cid-yw37p6q3> <picture data-astro-cid-yw37p6q3> <source media="(max-width:767px)" srcset="/asset/images/top/sp/service02_sp.png" data-astro-cid-yw37p6q3> <img src="/asset/images/top/service02.png" srcset="/asset/images/top/service02.png 1x,/asset/images/top/2x/service02@2x.png 2x" alt="キャッシュレス導入支援" width="61" height="110" loading="lazy" class="imgauto" data-astro-cid-yw37p6q3> </picture> </p> <div class="top-service__listTxt" data-astro-cid-yw37p6q3> <p class="Msg" data-astro-cid-yw37p6q3>導入実績1万店舗以上</p> <h3 class="Local" data-astro-cid-yw37p6q3> <span data-astro-cid-yw37p6q3>キャッシュレス<br data-astro-cid-yw37p6q3>導入支援</span> </h3> </div> </a> </li> <li data-astro-cid-yw37p6q3> <a href="/hygiene/waste-oil/" class="flex" data-astro-cid-yw37p6q3> <p class="Thumb" data-astro-cid-yw37p6q3> <picture data-astro-cid-yw37p6q3> <source media="(max-width:767px)" srcset="/asset/images/top/sp/service07_sp.png" data-astro-cid-yw37p6q3> <img src="/asset/images/top/service07.png" srcset="/asset/images/top/service07.png 1x,/asset/images/top/2x/service07@2x.png 2x" alt="廃油無料回収" width="52" height="67" loading="lazy" class="imgauto" data-astro-cid-yw37p6q3> </picture> </p> <div class="top-service__listTxt listTxt_pc" data-astro-cid-yw37p6q3> <p class="Msg__wrapper" data-astro-cid-yw37p6q3>
+専門容器も無料で<span class="Msg" data-astro-cid-yw37p6q3>貸し出し可能</span> </p> <h3 class="Local" data-astro-cid-yw37p6q3> <span data-astro-cid-yw37p6q3>廃油無料回収</span> </h3> </div> <div class="top-service__listTxt listTxt_sp" data-astro-cid-yw37p6q3> <p class="Msg" data-astro-cid-yw37p6q3>専門容器も無料で貸し出し可能</p> <h3 class="Local" data-astro-cid-yw37p6q3> <span data-astro-cid-yw37p6q3>廃油無料回収</span> </h3> </div> </a> </li> <li data-astro-cid-yw37p6q3> <a href="/cost/electricity/" class="flex" data-astro-cid-yw37p6q3> <p class="Thumb" data-astro-cid-yw37p6q3> <picture data-astro-cid-yw37p6q3> <source media="(max-width:767px)" srcset="/asset/images/top/sp/service04_sp.png" data-astro-cid-yw37p6q3> <img src="/asset/images/top/service04.png" srcset="/asset/images/top/service04.png 1x,/asset/images/top/2x/service04@2x.png 2x" alt="電気代削減" width="40" height="48" loading="lazy" class="imgauto" data-astro-cid-yw37p6q3> </picture> </p> <div class="top-service__listTxt" data-astro-cid-yw37p6q3> <p class="Msg" data-astro-cid-yw37p6q3>月々1万円以上なら</p> <h3 class="Local" data-astro-cid-yw37p6q3> <span data-astro-cid-yw37p6q3>電気代削減</span> </h3> </div> </a> </li> </ul> </section>  <section class="top-news__section generalsec" data-astro-cid-funkll5r> <div class="top-news__ttlbox" data-astro-cid-funkll5r> <h2 class="top-news__ttl g-ttl" data-astro-cid-funkll5r>お知らせ</h2> <p class="Caselink pc" data-astro-cid-funkll5r> <a href="/news/" data-astro-cid-funkll5r>全てのお知らせを見る</a> </p> </div> <div class="top-news__container" data-astro-cid-funkll5r> <ul class="top-news__list" data-astro-cid-funkll5r> <li data-astro-cid-funkll5r> <a href="/news/oj_jd4xyk0d/" data-astro-cid-funkll5r> <span class="Date" data-astro-cid-funkll5r> <time itemprop="datePublished" datetime="2025-08-04" data-astro-cid-funkll5r> 2025.08.04 </time> </span> <span class="Caption" data-astro-cid-funkll5r>株式会社テンポスフードプレイスの事業譲渡に関しますお知らせ</span> </a> </li> </ul> </div> <p class="top-news__Caselink sp" data-astro-cid-funkll5r> <a href="/news/" data-astro-cid-funkll5r>全てのお知らせを見る</a> </p> </section>  </article> </main>    <section class="top_purpose__section g-wrapper generalsec" data-astro-cid-fnc4urcd> <div class="top-purpose__container" data-astro-cid-fnc4urcd> <h2 class="top-purpose__ttl g-ttl" data-astro-cid-fnc4urcd>
+目的に合わせて<br class="sp" data-astro-cid-fnc4urcd>サービスを選ぶ
+</h2> <ul class="top-purpose__list" data-astro-cid-fnc4urcd> <li data-astro-cid-fnc4urcd> <h3 class="Caption" data-astro-cid-fnc4urcd> <span data-astro-cid-fnc4urcd>お店をつくる</span> </h3> <div class="spflex" data-astro-cid-fnc4urcd> <p class="Thumb" data-astro-cid-fnc4urcd> <picture data-astro-cid-fnc4urcd> <source media="(max-width:767px)" srcset="/asset/images/top/sp/purpose01_sp.png" data-astro-cid-fnc4urcd> <img src="/asset/images/top/purpose01.png" srcset="/asset/images/top/purpose01.png 1x,/asset/images/top/2x/purpose01@2x.png 2x" alt="お店を作る" width="83" height="110" loading="lazy" class="imgauto-h" data-astro-cid-fnc4urcd> </picture> </p> <ul class="top-purpose__listLink" data-astro-cid-fnc4urcd> <li data-astro-cid-fnc4urcd> <a href="/open/bukken/" data-astro-cid-fnc4urcd>飲食店物件紹介</a> </li> <li data-astro-cid-fnc4urcd> <a href="/open/interior/" data-astro-cid-fnc4urcd>飲食店内装工事</a> </li> </ul> </div> </li> <li data-astro-cid-fnc4urcd> <h3 class="Caption" data-astro-cid-fnc4urcd> <span data-astro-cid-fnc4urcd>食材を仕入れる</span> </h3> <div class="spflex" data-astro-cid-fnc4urcd> <p class="Thumb" data-astro-cid-fnc4urcd> <picture data-astro-cid-fnc4urcd> <source media="(max-width:767px)" srcset="/asset/images/top/sp/purpose02_sp.png" data-astro-cid-fnc4urcd> <img src="/asset/images/top/purpose02.png" srcset="/asset/images/top/purpose02.png 1x,/asset/images/top/2x/purpose02@2x.png 2x" alt="食材を仕入れる" width="83" height="110" loading="lazy" class="imgauto-h" data-astro-cid-fnc4urcd> </picture> </p> <ul class="top-purpose__listLink" data-astro-cid-fnc4urcd> <li data-astro-cid-fnc4urcd> <a href="/menu/micreed/" data-astro-cid-fnc4urcd>食材通販「ミクリード」</a> </li> <li data-astro-cid-fnc4urcd> <a href="/menu/kakuyasu/" data-astro-cid-fnc4urcd>お酒の通販・配達<br class="sp" data-astro-cid-fnc4urcd>「カクヤス」</a> </li> <li data-astro-cid-fnc4urcd> <a href="/menu/wain-pro/" data-astro-cid-fnc4urcd>ワインの通販<br data-astro-cid-fnc4urcd>ワインの仕入れPRO</a> </li> </ul> </div> </li> <li data-astro-cid-fnc4urcd> <h3 class="Caption" data-astro-cid-fnc4urcd> <span data-astro-cid-fnc4urcd>経営を改善する</span> </h3> <div class="spflex" data-astro-cid-fnc4urcd> <p class="Thumb" data-astro-cid-fnc4urcd> <picture data-astro-cid-fnc4urcd> <source media="(max-width:767px)" srcset="/asset/images/top/sp/purpose04_sp.png" data-astro-cid-fnc4urcd> <img src="/asset/images/top/purpose04.png" srcset="/asset/images/top/purpose04.png 1x,/asset/images/top/2x/purpose04@2x.png 2x" alt="経営を改善する" width="83" height="110" loading="lazy" class="imgauto-h" data-astro-cid-fnc4urcd> </picture> </p> <ul class="top-purpose__listLink" data-astro-cid-fnc4urcd> <li data-astro-cid-fnc4urcd> <a href="/cost/electricity/" data-astro-cid-fnc4urcd>店舗電気代削減</a> </li> <li data-astro-cid-fnc4urcd> <a href="/management/tax-accountant/" data-astro-cid-fnc4urcd>飲食専門税理士紹介</a> </li> <li data-astro-cid-fnc4urcd> <a href="/hygiene/garbage-collection/" data-astro-cid-fnc4urcd>ゴミ回収</a> </li> <li data-astro-cid-fnc4urcd> <a href="/hygiene/waste-oil/" data-astro-cid-fnc4urcd>廃油無料回収</a> </li> <li data-astro-cid-fnc4urcd> <a href="/telecom/security-camera/" data-astro-cid-fnc4urcd>防犯カメラ設置</a> </li> </ul> </div> </li> </ul> </div> </section>  <!-- 税務サポートバナーモーダル --><div id="popup-modal-taxation" style="display: none;" data-astro-cid-mszrn7in> <div class="popup-modal-overlay" data-astro-cid-mszrn7in></div> <div class="popup-modal-banner" data-astro-cid-mszrn7in> <button class="popup-modal-close" aria-label="閉じる" data-astro-cid-mszrn7in>&times;</button> <a href="https://docs.google.com/forms/d/e/1FAIpQLSeZjwBQcUB8DtdDtK3OX_txuteblG3QV_nDWZz1UEPLLRYpRw/viewform" target="_blank" class="click_popup_modal_bnr" data-astro-cid-mszrn7in> <picture data-astro-cid-mszrn7in> <img src="/asset/images/common/bnr_popup_taxation.png?ver=2025052216" srcset="/asset/images/common/bnr_popup_taxation.png?ver=2025052216 1x,/asset/images/common/2x/bnr_popup_taxation@2x.png?ver=2025052216 2x" alt="AI記帳、顧問、月次決算、税務サポートがぜんぶ揃って、月額10,000円（税込）" width="500" height="409" loading="eager" class="popup-modal-img" data-astro-cid-mszrn7in> </picture> </a> </div> </div> <script src="/asset/js/modal-control.js"></script>   <footer class="footerarea"> <div class="ft-container g-wrapper flex __bannerarea"> <div class="ft__bannerarea no-pc"> <!-- <p>
+			<a href="">
+				<img src="/asset/images/top/banner01.svg" alt="IPPOME" width="165" height="70" loading="lazy"
+					class="imgauto">
+			</a>
+		</p> --> <p> <a href="https://www.tenpos.com/foodmedia/" target="_blank"> <img src="/asset/images/top/sp/banner02_sp.png" alt="TENPOS food media" width="260" height="110" loading="lazy" class="imgauto"> </a> </p> <!--<p>
+			<a href="https://www.tenposstar.com/static/tenpo-about/" target="_blank">
+				<img src="/asset/images/top/sp/banner03_sp.png" alt="テンポススター" width="260" height="110" loading="lazy" class="imgauto">
+			</a>
+		</p>--> <!-- <p>
+			<a href="/sptools/" target="_blank">
+				<img src="/asset/images/top/sp/banner04_sp.png" alt="販促デザインで集客" width="260" height="110" loading="lazy"
+					class="imgauto">
+			</a>
+		</p> --> <p> <a href="/lp/service/op-celebration/" target="_blank"> <img src="/asset/images/top/sp/banner05_sp.png" alt="開業祝い味の素" width="260" height="110" loading="lazy" class="imgauto"> </a> </p> <p> <a href="/sns-template/" target="_blank"> <picture> <source media="(max-width:767px)" srcset="/asset/images/top/sp/banner06_sp.png"> <img src="/asset/images/top/banner06.png" srcset="/asset/images/top/banner06.png 1x,/asset/images/top/2x/banner06.png 2x" alt="SNS投稿文章テンプレ集" width="260" height="110" loading="lazy" class="imgauto"> </picture> </a> </p> <!--<p>
+			<a href="/lp/lp_line-aircon.html" target="_blank">
+				<picture>
+					<source media="(max-width:767px)" srcset="/asset/images/top/sp/banner07_sp.png">
+					<img src="/asset/images/top/banner07.png"
+						srcset="/asset/images/top/banner07.png 1x,/asset/images/top/2x/banner07.png 2x" alt="エアコン購入費用診断"
+						width="260" height="110" loading="lazy" class="imgauto">
+				</picture>
+			</a>
+		</p>--> <!-- <p>
+			<a href="/resources/web-sns_check.html" target="_blank">
+				<picture>
+					<source media="(max-width:767px)" srcset="/asset/images/top/sp/banner08_sp.png">
+					<img src="/asset/images/top/banner08.png"
+						srcset="/asset/images/top/banner08.png 1x,/asset/images/top/2x/banner08.png 2x" alt="Web・SNSチェック"
+						width="260" height="110" loading="lazy" class="imgauto">
+				</picture>
+			</a>
+		</p> --> <p> <a href="/lp/service/ad_service/" target="_blank"> <picture> <source media="(max-width:767px)" srcset="/asset/images/top/sp/banner09_sp.png"> <img src="/asset/images/top/banner09.png" srcset="/asset/images/top/banner09.png 1x,/asset/images/top/2x/banner09.png 2x" alt="Web・SNSチェック" width="260" height="110" loading="lazy" class="imgauto"> </picture> </a> </p> </div> <!-- 追加ここから --> </div> <div class="ft-container g-wrapper flex ft-mTop"> <!-- 追加ここかまで --> <p class="Thumb"> <img src="/asset/images/top/logo.svg" alt="TENPOS Foodplace" width="165" height="60" loading="lazy" class="imgauto"> </p> <div class="ft-contact"> <p class="Caption">株式会社テンポスドットコム</p> <p class="Local">〒144-0035</p> <p class="Local">
+東京都大田区南蒲田1-1-25 <br class="sp">蒲田東日本ビル7階
+</p> <p class="Local">TEL:050-3174-1366</p> </div> <nav class="ft-nav"> <ul class="ft-navList"> <li> <a href="/company/corporate_data.html"> 会社概要 </a> </li> <li> <a href="/company/recruit.html"> 採用 </a> </li> <li> <a href="/company//group.html"> グループ会社一覧 </a> </li> <li> <a class="click_link_footer_mail" href="/contact/">
+お問い合わせ
+</a> </li> <li> <a href="/privacypolicy/"> プライバシーポリシー </a> </li> </ul> </nav> </div> <div class="ft-snsarea flex g-wrapper flex"> <div class="ft-sns__icon flex"> <p class="Local">公式</p> <ul class="List flex"> <li> <a href="https://x.com/tenpos_dc" target="_blank"> <picture> <source media="(max-width:767px)" srcset="/asset/images/top/sp/ico_x_sp.png"> <img src="/asset/images/top/ico_x.png" srcset="/asset/images/top/ico_x.png 1x,/asset/images/top/2x/ico_x@2x.png 2x" alt="X" width="32" height="32" loading="lazy" class="imgauto"> </picture> </a> </li> <li> <a href="https://liff.line.me/2008036523-jlmeDbYq/landing?follow=%40lhl9324w&lp=N0KlMj&liff_id=2008036523-jlmeDbYq" target="_blank"> <picture> <source media="(max-width:767px)" srcset="/asset/images/top/sp/ico_line_sp.png"> <img src="/asset/images/top/ico_line.png" srcset="/asset/images/top/ico_line.png 1x,/asset/images/top/2x/ico_line@2x.png 2x" alt="line" width="32" height="32" loading="lazy" class="imgauto"> </picture> </a> </li> </ul> </div> </div> <small class="ft-copyright">
+Copyright (C) TENPOS.COM,Inc. All rights reserved.
+</small> </footer> <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> <script src="/asset/js/contact.js"></script> <script src="/asset/js/subpage.js"></script> <script>
+	// ナビゲーションアコーディオン PC
+	$(function () {
+		$(".aside-restaurant__accordion .Ttl > *").click(function (e) {
+			e.preventDefault();
+			$(this).parent().next(".Body").slideToggle("fast");
+			$(this).toggleClass("active");
+			$(this).parent().toggleClass("active");
+		});
+		// ナビゲーションアコーディオン SP
+		$(".fat-restaurant__accordion .Ttl > *").click(function (e) {
+			e.preventDefault();
+			$(this).parent().next(".Body").slideToggle("fast");
+			$(this).toggleClass("active");
+			$(this).parent().toggleClass("active");
+		});
+	});
+</script></body></html> 

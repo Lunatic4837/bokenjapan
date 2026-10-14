@@ -1,0 +1,372 @@
+<!doctype html>
+<html class="no-js" lang="ja">
+<head>
+	<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="format-detection" content="telephone=no">
+<meta name="author" content="株式会社アクアイグニス">
+<link rel="stylesheet" type="text/css" href="/css/reset.css">
+<link rel="stylesheet" type="text/css" href="/css/classes.css">
+<link rel="stylesheet" type="text/css" href="/css/webfonts.css">
+<link rel="stylesheet" type="text/css" href="/css/site.css">
+<link rel="stylesheet" type="text/css" href="/css/page/directin.css?ver=2.4.16">
+<link rel="stylesheet" type="text/css" href="/css/mainframe.css?ver=2.5.1">
+<link rel="stylesheet" type="text/css" href="/css/page/reservation.css?ver=2.4.16">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="/images/favicon/manifest.json" crossorigin="use-credentials">
+<link rel="mask-icon" href="/images/favicon/safari-pinned-tab.svg" color="#17234D">
+<meta name="theme-color" content="#17234D">
+<title>マリアージュ ドゥ ファリーヌ | 湯の山温泉 アクアイグニス</title>
+<meta name="Keywords" content="三重県,辻口博啓,マリアージュドゥファリーヌ,パン,湯の山温泉">
+<meta name="Description" content="湯の山温泉アクアイグニスの「マリアージュ ドゥ ファリーヌ」は辻口博啓プロデュースのベーカリー。厳選した食材を用いたこだわりのパンをお楽しみください。">
+<meta content="" property="og:title" title="マリアージュ ドゥ ファリーヌ | 湯の山温泉 アクアイグニス">
+<meta property="og:url" content="https://aquaignis.jp/mariage.php/images/favicon/opg_img.jpg">
+<meta property="og:image" content="/images/favicon/opg_img.jpg">
+<meta property="og:site_name" content="アクアイグニス -aqua×ignis-">
+<meta property="og:type" content="article">
+<link href="" rel="stylesheet" type="text/css">
+<link rel="alternate" hreflang="en" href="https://aquaignis.jp/en/mariage.php/images/favicon/opg_img.jpg">
+<link rel="alternate" hreflang="ja" href="https://aquaignis.jp/mariage.php/images/favicon/opg_img.jpg">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5M3VTQS');</script>
+<!-- font -->
+<script src="https://use.typekit.net/fhy7bec.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<script type="text/javascript" src="//webfont.fontplus.jp/accessor/script/fontplus.js?hBN7D--CBbg%3D&box=IVgTQfIFy1c%3D&aa=1" charset="utf-8"></script>
+	<link href="css/page/otherShop.css" rel="stylesheet" type="text/css">
+	<link href="css/page/mariage.css?ver=2.6.5" rel="stylesheet" type="text/css">
+</head>
+<body class="mariage">
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5M3VTQS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>	<a id="pagetop" name="pagetop"></a>
+	<div id="loaderBG">
+		<div id="loader"><img src="/images/mainframe/logo.png" alt="Now Loading..." /></div>
+	</div><!-- //#loaderBG -->
+	<div id="bodyWrapper">
+		<div id="onlineReservBox">
+	<div id="onlineReservWrapper">
+	<article id="onlineReserv">
+		<div id="closeBtn"><p><span></span><span></span></p></div>
+		<div id="reservTitle"><h1 class="tit05">ご予約</h1></div>
+		<div id="chicePlan" class="choiceText">
+			<p>【プランから選ぶ】</p>
+		</div>
+		<div class="inner">
+			<div class="btn02"><a href="https://reserve.489ban.net/client/aquaignis-kataoka/0/plan?redirect=1">プランを見る<div class="btnArrow"><div class="arrowInner"><span class="line01"></span><span class="line02"></span></div></div></a></div>
+		</div>
+		<div id="dateChoice" class="choiceText">
+			<p>【日付から選ぶ】</p>
+		</div>
+	</article>
+	<article id="calendar">
+		<div class="inner">
+			<div class="reservationWrap">
+				<div id="ka_headerReservationBox" class="ka_ReservationBox">
+					<div class="acenter" style="padding:15px;"><img src="/images/mainframe/spinner_32.gif" /></div>
+				</div>
+				<ul class="marginBottom65">
+					<li>宿泊棟(和布団、ユニットバス、大浴場利用)</li>
+					<li>離れ宿(露天風呂付)</li>
+				</ul>
+			</div>
+			<div class="reservationWrap">
+				<div id="so_headerReservationBox" class="so_ReservationBox">
+					<div class="acenter" style="padding:15px;"><img src="/images/mainframe/spinner_32.gif" /></div>
+				</div>
+			</div>
+			<p>宿泊のご予約は上記予約状況をご確認の上お電話ください。</p>
+		</div>
+		<!-- //.inner -->
+	</article>
+</div>
+</div>
+<header id="header">
+	<div id="headerInner">
+		<p id="headerLogo"><a href="/"><img src="/images/mainframe/menu_logo.gif" alt="AQUAIGNIS"></a></p>
+		<nav id="gMenu">
+			<p id="languageSP"><a href="/">JP</a> | <a href="/en/">EN</a></p>
+			<ul id="mainMenu">
+				<li class="pcNone"><a href="/">トップ</a></li>
+				<li class="concept spNone"><a href="/concept.php">コンセプト</a></li>
+				<li class="bath"><a href="/spa_kataoka.php#infoBox">日帰り入浴</a></li>
+				<li class="meal parentMenu"><a href="javascript:;" class="parentLink">お食事</a>
+					<ul class="subMenu">
+						<li class="sweets"><a href="/confitureH/">スイーツ</a></li>
+						<li class="cakery"><a href="/mariage.php">ベーカリー</a></li>
+						<li class="italian"><a href="/italian.php">イタリアン</a></li>
+						<li class="japanese"><a href="/jp_kasaan.php">和食レストラン</a></li>
+						<li class="kappou"><a href="/jp_roan.php">カウンター割烹</a></li>
+					</ul>
+				</li>
+				<li class="plantation  parentMenu"><a href="javascript:;" class="parentLink">苺狩り</a>
+					<ul class="subMenu">
+						<li class="farm"><a href="/spa_farm.php">FARM</a></li>
+						<li class="strawberryReserv"><a href="/spa_farm.php#farmCalendar">苺狩り予約</a></li>
+					</ul>
+				</li>
+				<li class="marche"><a href="/marche.php">マルシェ</a></li>
+				<li class="healing parentMenu"><a href="/spa.php" class="parentLink">癒し</a>
+					<ul class="subMenu">
+						<li class="spa"><a href="/spa.php">SPA</a></li>
+						<li class="kataoka"><a href="/spa_kataoka.php">片岡温泉</a></li>
+						<li class="kataoka"><a href="/spa_lefuro.php">ミネラルミスト浴</a></li>
+						<li class="cafe"><a href="/spa_cafe.php">温泉カフェ</a></li>
+						<li class="yoga"><a href="/spa_yoga.php">朝ヨガ教室</a></li>
+						<li class="kataoka"><a href="/spa_mimc.php">MiMCエステサロン</a></li>
+						<li class="relax"><a href="/spa_relax.php">リラクゼーション</a></li>
+					</ul>
+				</li>
+				<li class="gallery"><a href="/gallery.php">ギャラリー</a>
+				<li class="stay parentMenu"><a href="/stay.php" class="parentLink">ご宿泊</a>
+					<ul class="subMenu">
+						<li class="lodging"><a href="/stay.php">LODGING</a></li>
+						<li class="shukuhakuto"><a href="/stay_shukuhakuto.php">宿泊棟</a></li>
+						<li class="sugi"><a href="/stay_sugi.php">離れ宿 杉</a></li>
+						<li class="matsu"><a href="/stay_matsu.php">離れ宿 松</a></li>
+						<li class="kuri"><a href="/stay_kuri.php">離れ宿 栗</a></li>
+						<li class="hinoki"><a href="/stay_hinoki.php">離れ宿 檜</a></li>
+						<li class="rvpark"><a href="https://rvpark-aquaignis.snack.chillnn.com/ja/" target="_blank" rel="noreferrer noopener">RVパーク</a></li>
+						<li class="sosuikyo spNone"><a href="https://sosuikyo.com/guest_rooms_top.php" target="_blank" rel="noreferrer noopener">アクアイグニス別邸 素粋居</a></li>
+					</ul>
+				</li>
+				<li class="souvenir spNone"><a href="/store/">お土産</a></li>
+				<li class="sosuikyo pcNone"><a href="https://sosuikyo.com/guest_rooms_top.php" target="_blank" rel="noreferrer noopener">ご宿泊 (アクアイグニス別邸 素粋居)</a></i>
+				<li class="souvenir parentMenu"><a href="/" class="parentLink">通販</a>
+					<ul class="subMenu">
+						<li class="shop"><a href="/store/">温泉ショップ</a></li>
+						<li class="sweets"><a href="/confitureH/onlineShop_list.php">スイーツ</a></li>
+						<li class="bakery"><a href="https://aquaignis-mariage.stores.jp/">ベーカリー</a></li>
+						<li><a href="https://kasaan.stores.jp" target="_blank" rel="noreferrer noopener">和食</a></li>
+					</ul>
+				</li>
+				<li class="access"><a href="/access.php">アクセス</a></li>
+				<li class="contact"><a href="/contact.php">お問合せ(Q&amp;A)</a></li>
+			</ul>
+		</nav>
+		<p id="language"><a href="/">JP</a> | <a href="/en/">EN</a></p>
+		<div id="spBtnWrapper">
+			<p id="reserveBtn"><a href="/confitureH/reserve_list.php">スイーツ予約</a></p>
+			<p id="lunchBtn"><a href="javascript:;" target="_blank">食事予約</a></p>
+			<p id="onlineBtn"><a href="javascript:;">宿泊予約</a></p>
+			<p id="menuBtn"><span></span><span></span><span></span></p>
+		</div>
+	</div>
+</header>
+		<div id="container">
+			<div class="mainImageS"><span class="bgImage" style="background-image: url(images/mariage/mariage_image01.jpg);"></span></div>
+			<article id="leadBox">
+				<header class="titLogo">
+					<div><img src="images/mariage/logo.png" alt="MARIAGE DE FARINE"/></div>
+					<h2>マリアージュ ドゥ ファリーヌ</h2>
+				</header>
+				<p class="catch">厳選した食材を用いた、<br>こだわりのあるパン。</p>
+				<p class="lead">辻口博啓シェフの大人気ベーカリー。<br class="spNone">国産小麦を使用し、石窯で焼き上げたこだわりのパンが並びます。<br class="spNone">イートインでもお召し上がりいただけます。</p>
+			</article><!-- //#leadBox -->
+			<article class="imageContents">
+				<div class="imageBox" style="background-image: url(images/mariage/mariage_image02.jpg);"></div>
+				<div class="textWrapper rBox">
+					<div class="textBox">
+						<h3>おいしさの秘密は石窯</h3>
+					</div>
+				</div><!-- //.textWrapper -->
+			</article><!-- //.imageContents -->
+			<article class="imageContents">
+				<div class="imageBox" style="background-image: url(images/mariage/mariage_image03.jpg);"></div>
+				<div class="textWrapper lBox">
+					<div class="textBox">
+						<h3>厳選した国産小麦を使用</h3>
+					</div>
+				</div><!-- //.textWrapper -->
+			</article><!-- //.imageContents -->
+			<article class="imageContents">
+				<div class="imageBox" style="background-image: url(images/mariage/mariage_image04.jpg);">></div>
+				<div class="textWrapper rBox">
+					<div class="textBox">
+						<h3>小麦のうまみを活かしたパン</h3>
+					</div>
+				</div><!-- //.textWrapper -->
+			</article><!-- //.imageContents -->
+			<article id="infoBox">
+				<div class="clearfix inner">
+				<seciton class="textBox">
+					<header class="tit02">
+						<p>INFORMATION</p>
+						<h3>基本情報</h3>
+					</header>
+					<table width="100%" border="0">
+						<tbody>
+							<tr>
+								<th scope="row">営業時間</th>
+								<td>8：00～17：00</td>
+							</tr>
+							<tr>
+								<th scope="row">定休日</th>
+								<td>無休</td>
+							</tr>
+							<tr>
+								<th scope="row">座席</th>
+								<td>46席、テラス28席</td>
+							</tr>
+							<tr>
+								<th scope="row">電話番号</th>
+								<td><a href="tel:0593947729">059-394-7729</a></td>
+							</tr>
+						</tbody>
+					</table>
+					<div class="btn02"><a href="https://aquaignis-mariage.stores.jp/" target="_blank">オンラインショップ
+						<div class="btnArrow">
+							<div class="arrowInner"> <span class="line01"></span> <span class="line02"></span> </div>
+						</div>
+					</a></div>
+				</seciton>
+					<div class="image"><span style="background-image: url(images/mariage/info_image.jpg);"></span></div>
+				</div><!-- //.clearfix -->
+			</article><!-- //#infoBox -->
+			<article id="chefBox">
+				<section class="lImage clearfix">
+					<div class="image"><img src="images/confi/tsujiguchi.jpg?=20220222" alt="辻口 博啓"/></div>
+					<div class="textBox">
+						<h3>辻口 博啓</h3>
+						<p class="margin1"><a href="https://www.instagram.com/htsujiguchi/" target="_blank"><span class="icon-instagram"></span>＠htsujiguchi</a></p>
+						<p>マリアージュ ドゥ ファリーヌは直訳するとフランス語で「粉の結婚」という意味です。国産小麦を結婚させるがごとく組み合わせてオリジナルの小麦粉を作り出し、さらに熟成発酵させることで、ここでしか生み出せない粉の持つ旨みや深みを引き出しています。</p>
+					</div>
+				</section>
+				<section class="rImage clearfix">
+					<div class="image"><img src="images/mariage/mariage_image06.jpg" alt="中西 智彦"/></div>
+					<div class="textBox">
+						<h3>中西 智彦<span>｜ ブーランジェ ｜</span></h3>
+						<p>毎日食べても飽きないパンを目指し、小麦の旨みを活かしたパン作りをしています。ほとんどの商品で国産小麦を使用するなど素材にはこだわっています。お客様に喜んで頂ける商品作り、接客を目指し、スタッフ一同努力していきます。</p>
+					</div>
+				</section>
+			</article><!-- //#chefBox -->
+			<article id="otherShop" class="foodShopList">
+				<header class="tit01">
+					<p>OTHER SHOP</p>
+					<h3>その他のお店</h3>
+				</header>
+				<ul>
+					<li><a href="confitureH/"><img src="images/othershop/confi.jpg" alt="Confiture H"/><span>Confiture H</span></a></li>
+					<li><a href="mariage.php"><img src="images/othershop/mariage.jpg" alt="Mariage de Farine"/><span>Mariage de Farine</span></a></li>
+					<li><a href="it_alche.php"><img src="images/othershop/alche.jpg" alt="Sa-la bianchi  Al-ché-cciano"/><span>Sa-la bianchi  Al-ché-cciano</span></a></li>
+					<li><a href="it_ilche.php"><img src="images/othershop/ilche.jpg" alt="il-ché-cciano mie-le"/><span>il-ché-cciano mie-le</span></a></li>
+					<li><a href="jp_kasaan.php"><img src="images/othershop/kasaan.jpg" alt="「笠庵」賛否両論"/><span>「笠庵」賛否両論</span></a></li>
+					<li><a href="jp_roan.php"><img src="images/othershop/roan.jpg" alt="露庵温味"/><span>露庵温味</span></a></li>
+				</ul>
+			</article><!-- //#otherShop -->
+		</div><!-- //#container -->
+		<footer id="footer">
+	<div id="footerInner01">
+		<section>
+			<h3 class="close">概要</h3>
+			<ul>
+				<li><a href="/concept.php">コンセプト</a></li>
+				<li><a href="/access.php">アクセス</a></li>
+				<li class="spNone"><a href="/recruit_list.php">リクルート</a></li>
+				<li><a href="/questions.php">Q&amp;A</a></li>
+				<li><a href="https://aquaignis-company.jp/" target="_blank">運営会社</a></li>
+				<li><a href="/law.php">特定商取引法表記</a></li>
+				<li><a href="/privacy.php">個人情報保護方針</a></li>
+				<li><a href="/images/mainframe/policy.pdf" target="_blank">ポリシー</a></li>
+			</ul>
+		</section>
+		<div class="pcNone recruitLink"><a href="/recruit_list.php">リクルート</a></div>
+		<section>
+			<h3 class="close">ニュース</h3>
+			<ul>
+				<li><a href="/article_list.php?cid=1">トピックス</a></li>
+				<li><a href="/article_list.php?cid=2">イベント</a></li>
+				<li><a href="/article_list.php?cid=5">メディア</a></li>
+			</ul>
+		</section>
+		<section>
+			<h3 class="close">食事</h3>
+			<ul>
+				<li><a href="/confitureH/">コンフィチュール  アッシュ</a></li>
+				<li><a href="/mariage.php">マリアージュドゥファリーヌ</a></li>
+				<li><a href="/it_alche.php">サーラ ビアンキ  アル・ケッチァーノ</a></li>
+				<li><a href="/it_ilche.php">イル・ケッチァーノ ミエーレ</a></li>
+				<li><a href="/jp_roan.php">露庵温味</a></li>
+				<li><a href="/jp_kasaan.php">「笠庵」賛否両論</a></li>
+			</ul>
+		</section>
+		<section>
+			<h3 class="close">宿泊</h3>
+			<ul>
+				<li><a href="/stay.php">宿泊棟</a></li>
+				<li><a href="/stay_sugi.php">オーガニック離れ宿　杉</a></li>
+				<li><a href="/stay_matsu.php">オーガニック離れ宿　松</a></li>
+				<li><a href="/stay_kuri.php">オーガニック離れ宿　栗</a></li>
+				<li><a href="/stay_hinoki.php">オーガニック離れ宿　檜</a></li>
+				<li><a href="https://rvpark-aquaignis.snack.chillnn.com/ja/" target="_blank" rel="noreferrer noopener">RVパーク</a></li>
+			</ul>
+		</section>
+		<section>
+			<h3 class="close">癒し</h3>
+			<ul>
+				<li><a href="/spa_kataoka.php">片岡温泉</a></li>
+				<li><a href="/spa_lefuro.php">ミネラルミスト浴</a></li>
+				<li><a href="/spa_cafe.php">温泉カフェ</a></li>
+				<li><a href="/spa_yoga.php">朝ヨガ教室</a></li>
+				<li><a href="/spa_mimc.php">MiMCエステサロン</a></li>
+				<li><a href="/spa_relax.php">RELAXATION</a></li>
+				<li><a href="/spa_farm.php">FARM</a></li>
+				<li><a href="/marche.php">マルシェ</a></li>
+				<li><a href="/store/">お土産</a></li>
+				<li><a href="/gallery.php">ギャラリー</a></li>
+			</ul>
+		</section>
+		<section>
+			<h3 class="close">関連サイト</h3>
+			<ul>
+				<li><a href="https://vison.jp/" target="_blank">ヴィソン [ VISON ]</a></li>
+				<li><a href="https://sosuikyo.com/" target="_blank">湯の山　素粋居(そすいきょ)</a></li>
+				<li><a href="https://hacienda-vison.jp/" target="_blank">HACIENDA VISON</a></li>
+				<li><a href="https://kanshukuen.com/" target="_blank">歓宿縁 ESHIKOTO</a></li>
+				<li><a href="https://aichita.com/" target="_blank">愛知多の種</a></li>
+				<li><a href="https://aquaignis.jp/yoshikawaminami/" target="_blank">アクアイグニス吉川美南</a></li>
+				<li><a href="https://aquaignis-sendai.jp/" target="_blank">アクアイグニス仙台</a></li>
+				<li><a href="https://www.aquaignis-awaji.jp/" target="_blank">アクアイグニス淡路島</a></li>
+				<li><a href="https://aquaignis-awaji-trailerpark.jp/" target="_blank">アクアイグニス淡路島 Trailer Park</a></li>
+				<li><a href="https://aquaignis-karuizawa.jp/" target="_blank">AQUAIGNIS GARDEN SPA</a></li>
+				<li><a href="https://hacienda-karuizawa.jp/" target="_blank">HACIENDA KARUIZAWA</a></li>
+				<li><a href="https://fecr.jp/" target="_blank">FREE AND EASY CAMP RESORT</a></li>
+			</ul>
+		</section>
+	</div><!-- //#footerInner01 -->
+	<div id="footerInner02">
+		<section id="logoBoxPC">
+			<h3><a href="/"><img src="/images/mainframe/logo.png" alt="AQUAIGNIS"></a></h3>
+			<address>三重県三重郡菰野町菰野4800-1</address>
+		</section><!-- //#logoBoxPC -->
+		<div id="footerTelBox">
+			<span>TEL</span> <a href="tel:059-394-7733">059-394-7733</a>
+		</div>
+		<p id="footerContact" class="btn01"><a href="/contact.php">お問合せ</a></p>
+		<section id="logoBoxSP">
+			<h3><a href="/"><img src="/images/mainframe/logo.png" alt="AQUAIGNIS"></a></h3>
+			<ul>
+				<li><a href="https://www.instagram.com/aquaignis_official/?hl=ja" target="_blank"><span class="icon-instagram"></span></a></li>
+				<li><a href="https://www.facebook.com/aquaignis.official/" target="_blank"><span class="icon-facebook2"></span></a></li>
+				<li><a href="https://x.com/AQUAxIGNIS" target="_blank"><span class="icon-x"></span></a></li>
+				<li><a href="https://line.me/R/ti/p/NIXqguSjRf" target="_blank"><span class="lineat"></span></a></li>
+				<li><a href="https://www.youtube.com/channel/UCsSTx7h608IX8jAdi_9RDqA?view_as=subscriber" target="_blank"><span class="icon-youtube"></span></a></li>
+			</ul>
+		</section>
+	</div>
+	<p id="copyRight">copyright © 2017 aquaignis All Rights Reserved.</p>
+</footer>
+	</div><!-- //#bodyWrapper -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script type="text/javascript" src="https://code.jquery.com/ui/1.11.0/jquery-ui.js"></script>
+	<script type="text/javascript" src="/js/page/analytics.js"></script>
+	<script type="text/javascript" src="/js/page/mainframe.js"></script>
+	<script type="text/javascript" src="/js/page/reservation.js?ver=2.4.12"></script>
+</body>
+</html>
