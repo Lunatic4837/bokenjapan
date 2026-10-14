@@ -679,6 +679,350 @@
   "lon": 130.982894,
   "src": "osm:行橋市役所"
  },
+ "kagoshima/aira": {
+  "en": "Aira",
+  "ja": "姶良市",
+  "code": "462250",
+  "lat": 31.7283662,
+  "lon": 130.6277081,
+  "src": "osm:姶良市役所"
+ },
+ "kagoshima/akune": {
+  "en": "Akune",
+  "ja": "阿久根市",
+  "code": "462063",
+  "lat": 32.0142688,
+  "lon": 130.1927791,
+  "src": "osm:阿久根市役所"
+ },
+ "kagoshima/amagi": {
+  "en": "Amagi",
+  "ja": "天城町",
+  "code": "465313",
+  "lat": 27.8117259,
+  "lon": 128.8977798,
+  "src": "osm:天城町役場"
+ },
+ "kagoshima/amami": {
+  "en": "Amami",
+  "ja": "奄美市",
+  "code": "462225",
+  "lat": 28.3776052,
+  "lon": 129.4938816,
+  "src": "osm:奄美市役所"
+ },
+ "kagoshima/chinacho": {
+  "en": "Chinacho",
+  "ja": "知名町",
+  "code": "465348",
+  "lat": 27.3384823,
+  "lon": 128.5738367,
+  "src": "osm:知名町役場"
+ },
+ "kagoshima/higashikushira": {
+  "en": "Higashikushira",
+  "ja": "東串良町",
+  "code": "464821",
+  "lat": 31.3856759,
+  "lon": 130.9733063,
+  "src": "osm:東串良町役場"
+ },
+ "kagoshima/hioki": {
+  "en": "Hioki",
+  "ja": "日置市",
+  "code": "462160",
+  "lat": 31.63373,
+  "lon": 130.402204,
+  "src": "osm:日置市役所"
+ },
+ "kagoshima/ibusuki": {
+  "en": "Ibusuki",
+  "ja": "指宿市",
+  "code": "462101",
+  "lat": 31.252803,
+  "lon": 130.633117,
+  "src": "osm:指宿市役所"
+ },
+ "kagoshima/ichikikushikino": {
+  "en": "Ichikikushikino",
+  "ja": "いちき串木野市",
+  "code": "462195",
+  "lat": 31.7146067,
+  "lon": 130.2720395,
+  "src": "osm:いちき串木野市役所"
+ },
+ "kagoshima/isa": {
+  "en": "Isa",
+  "ja": "伊佐市",
+  "code": "462241",
+  "lat": 32.0571271,
+  "lon": 130.6130905,
+  "src": "osm:伊佐市役所"
+ },
+ "kagoshima/isen": {
+  "en": "Isen",
+  "ja": "伊仙町",
+  "code": "465321",
+  "lat": 27.673141,
+  "lon": 128.937661,
+  "src": "osm:伊仙町役場"
+ },
+ "kagoshima/izumishi": {
+  "en": "Izumishi",
+  "ja": "出水市",
+  "code": "462080",
+  "lat": 32.090461,
+  "lon": 130.352691,
+  "src": "osm:出水市役所"
+ },
+ "kagoshima/kagoshima": {
+  "en": "Kagoshima",
+  "ja": "鹿児島市",
+  "code": "462012",
+  "lat": 31.5967401,
+  "lon": 130.5574345,
+  "src": "osm:鹿児島市役所本館"
+ },
+ "kagoshima/kanoya": {
+  "en": "Kanoya",
+  "ja": "鹿屋市",
+  "code": "462039",
+  "lat": 31.378267,
+  "lon": 130.852208,
+  "src": "osm:鹿屋市役所 (Kanoya City Hall)"
+ },
+ "kagoshima/kikai": {
+  "en": "Kikai",
+  "ja": "喜界町",
+  "code": "465291",
+  "lat": 28.3169096,
+  "lon": 129.9401296,
+  "src": "osm:喜界町役場"
+ },
+ "kagoshima/kimotsuki": {
+  "en": "Kimotsuki",
+  "ja": "肝付町",
+  "code": "464929",
+  "lat": 31.344426,
+  "lon": 130.945222,
+  "src": "osm:肝付町役場"
+ },
+ "kagoshima/kinko": {
+  "en": "Kinko",
+  "ja": "錦江町",
+  "code": "464902",
+  "lat": 31.243502,
+  "lon": 130.787634,
+  "src": "osm:錦江町役場"
+ },
+ "kagoshima/kirishima": {
+  "en": "Kirishima",
+  "ja": "霧島市",
+  "code": "462187",
+  "lat": 31.7406882,
+  "lon": 130.7635453,
+  "src": "osm:霧島市役所"
+ },
+ "kagoshima/makurazaki": {
+  "en": "Makurazaki",
+  "ja": "枕崎市",
+  "code": "462047",
+  "lat": 31.2728481,
+  "lon": 130.2968187,
+  "src": "osm:枕崎市役所"
+ },
+ "kagoshima/minamikyushu": {
+  "en": "Minamikyushu",
+  "ja": "南九州市",
+  "code": "462233",
+  "lat": 31.378277777,
+  "lon": 130.441666666,
+  "src": "wikidata P625 (Q19701)"
+ },
+ "kagoshima/minamiosumi": {
+  "en": "Minamiosumi",
+  "ja": "南大隅町",
+  "code": "464910",
+  "lat": 31.2172009,
+  "lon": 130.7686125,
+  "src": "osm:南大隅町役場"
+ },
+ "kagoshima/minamisatsuma": {
+  "en": "Minamisatsuma",
+  "ja": "南さつま市",
+  "code": "462209",
+  "lat": 31.4166896,
+  "lon": 130.3232219,
+  "src": "osm:南さつま市役所"
+ },
+ "kagoshima/minamitane": {
+  "en": "Minamitane",
+  "ja": "南種子町",
+  "code": "465020",
+  "lat": 30.4139132,
+  "lon": 130.900752,
+  "src": "osm:南種子町役場"
+ },
+ "kagoshima/mishima": {
+  "en": "Mishima",
+  "ja": "三島村",
+  "code": "463035",
+  "lat": 31.594502,
+  "lon": 130.560712,
+  "src": "osm:三島村役場"
+ },
+ "kagoshima/nagashima": {
+  "en": "Nagashima",
+  "ja": "長島町",
+  "code": "464040",
+  "lat": 32.1552215,
+  "lon": 130.1187046,
+  "src": "osm:長島町役場　指江庁舎"
+ },
+ "kagoshima/nakatane": {
+  "en": "Nakatane",
+  "ja": "中種子町",
+  "code": "465011",
+  "lat": 30.533071,
+  "lon": 130.9585901,
+  "src": "osm:中種子町役場"
+ },
+ "kagoshima/nishinoomote": {
+  "en": "Nishinoomote",
+  "ja": "西之表市",
+  "code": "462136",
+  "lat": 30.7323275,
+  "lon": 130.9968837,
+  "src": "osm:西之表市役所"
+ },
+ "kagoshima/osaki": {
+  "en": "Osaki",
+  "ja": "大崎町",
+  "code": "464686",
+  "lat": 31.429239,
+  "lon": 131.005859,
+  "src": "osm:大崎町役場"
+ },
+ "kagoshima/satsuma": {
+  "en": "Satsuma",
+  "ja": "さつま町",
+  "code": "463922",
+  "lat": 31.9057636,
+  "lon": 130.4558156,
+  "src": "osm:さつま町役場"
+ },
+ "kagoshima/satsumasendai": {
+  "en": "Satsumasendai",
+  "ja": "薩摩川内市",
+  "code": "462152",
+  "lat": 31.8134137,
+  "lon": 130.3041159,
+  "src": "osm:薩摩川内市役所"
+ },
+ "kagoshima/setouchicho": {
+  "en": "Setouchicho",
+  "ja": "瀬戸内町",
+  "code": "465259",
+  "lat": 28.14651,
+  "lon": 129.314721,
+  "src": "osm:瀬戸内町役場"
+ },
+ "kagoshima/shibushi": {
+  "en": "Shibushi",
+  "ja": "志布志市",
+  "code": "462217",
+  "lat": 31.495344,
+  "lon": 131.045436,
+  "src": "osm:志布志市役所"
+ },
+ "kagoshima/soo": {
+  "en": "Soo",
+  "ja": "曽於市",
+  "code": "462179",
+  "lat": 31.65349,
+  "lon": 131.019182,
+  "src": "osm:曽於市役所"
+ },
+ "kagoshima/tarumizu": {
+  "en": "Tarumizu",
+  "ja": "垂水市",
+  "code": "462144",
+  "lat": 31.492723,
+  "lon": 130.70102,
+  "src": "osm:垂水市役所"
+ },
+ "kagoshima/tatsugo": {
+  "en": "Tatsugo",
+  "ja": "龍郷町",
+  "code": "465275",
+  "lat": 28.4132177,
+  "lon": 129.5894722,
+  "src": "osm:龍郷町役場"
+ },
+ "kagoshima/tokunoshima": {
+  "en": "Tokunoshima",
+  "ja": "徳之島町",
+  "code": "465305",
+  "lat": 27.7263787,
+  "lon": 129.0186294,
+  "src": "osm:徳之島町役場"
+ },
+ "kagoshima/toshima": {
+  "en": "Toshima",
+  "ja": "十島村",
+  "code": "463043",
+  "lat": 31.5931928,
+  "lon": 130.5605784,
+  "src": "osm:十島村役場"
+ },
+ "kagoshima/uken": {
+  "en": "Uken",
+  "ja": "宇検村",
+  "code": "465240",
+  "lat": 28.2807129,
+  "lon": 129.297357,
+  "src": "osm:宇検村役場"
+ },
+ "kagoshima/wadomari": {
+  "en": "Wadomari",
+  "ja": "和泊町",
+  "code": "465330",
+  "lat": 27.392029,
+  "lon": 128.655511,
+  "src": "osm:和泊町役場"
+ },
+ "kagoshima/yakushima": {
+  "en": "Yakushima",
+  "ja": "屋久島町",
+  "code": "465054",
+  "lat": 30.39025,
+  "lon": 130.6515,
+  "src": "wikidata P625 (Q1350724)"
+ },
+ "kagoshima/yamatomura": {
+  "en": "Yamatomura",
+  "ja": "大和村",
+  "code": "465232",
+  "lat": 28.358022,
+  "lon": 129.395235,
+  "src": "osm:大和村役場"
+ },
+ "kagoshima/yoron": {
+  "en": "Yoron",
+  "ja": "与論町",
+  "code": "465356",
+  "lat": 27.0449395,
+  "lon": 128.4217007,
+  "src": "osm:与論町役場"
+ },
+ "kagoshima/yusui": {
+  "en": "Yusui",
+  "ja": "湧水町",
+  "code": "464520",
+  "lat": 31.9516604,
+  "lon": 130.7210307,
+  "src": "osm:湧水町役場 栗野庁舎"
+ },
  "miyagi/higashimatsushima": {
   "en": "Higashimatsushima",
   "ja": "東松島市",
