@@ -1103,6 +1103,510 @@
   "lon": 131.4266925,
   "src": "osm:由布市役所"
  },
+ "saitama/ageo": {
+  "en": "Ageo",
+  "ja": "上尾市",
+  "code": "112194",
+  "lat": 35.977385,
+  "lon": 139.5931651,
+  "src": "osm:上尾市役所"
+ },
+ "saitama/asaka": {
+  "en": "Asaka",
+  "ja": "朝霞市",
+  "code": "112275",
+  "lat": 35.7971329,
+  "lon": 139.5938974,
+  "src": "osm:朝霞市役所"
+ },
+ "saitama/chichibu": {
+  "en": "Chichibu",
+  "ja": "秩父市",
+  "code": "112070",
+  "lat": 35.9916563,
+  "lon": 139.0856113,
+  "src": "osm:秩父市役所"
+ },
+ "saitama/fujimi-11235": {
+  "en": "Fujimi",
+  "ja": "富士見市",
+  "code": "112356",
+  "lat": 35.8567092,
+  "lon": 139.5490862,
+  "src": "osm:富士見市役所"
+ },
+ "saitama/fujimino": {
+  "en": "Fujimino",
+  "ja": "ふじみ野市",
+  "code": "112453",
+  "lat": 35.8794314,
+  "lon": 139.5195717,
+  "src": "osm:ふじみ野市役所本庁舎"
+ },
+ "saitama/fukaya": {
+  "en": "Fukaya",
+  "ja": "深谷市",
+  "code": "112186",
+  "lat": 36.1973705,
+  "lon": 139.2818466,
+  "src": "osm:深谷市役所"
+ },
+ "saitama/gyoda": {
+  "en": "Gyoda",
+  "ja": "行田市",
+  "code": "112062",
+  "lat": 36.1389563,
+  "lon": 139.4556786,
+  "src": "osm:行田市役所"
+ },
+ "saitama/hanno": {
+  "en": "Hanno",
+  "ja": "飯能市",
+  "code": "112097",
+  "lat": 35.8556782,
+  "lon": 139.3277526,
+  "src": "osm:飯能市役所"
+ },
+ "saitama/hanyu": {
+  "en": "Hanyu",
+  "ja": "羽生市",
+  "code": "112160",
+  "lat": 36.1726178,
+  "lon": 139.5483923,
+  "src": "osm:羽生市役所"
+ },
+ "saitama/hasuda": {
+  "en": "Hasuda",
+  "ja": "蓮田市",
+  "code": "112380",
+  "lat": 35.9942818,
+  "lon": 139.662127,
+  "src": "osm:蓮田市役所"
+ },
+ "saitama/hatoyama": {
+  "en": "Hatoyama",
+  "ja": "鳩山町",
+  "code": "113484",
+  "lat": 35.9814569,
+  "lon": 139.3339406,
+  "src": "osm:鳩山町役場"
+ },
+ "saitama/hidaka-11242": {
+  "en": "Hidaka",
+  "ja": "日高市",
+  "code": "112429",
+  "lat": 35.9076402,
+  "lon": 139.3391234,
+  "src": "osm:日高市役所"
+ },
+ "saitama/higashichichibu": {
+  "en": "Higashichichibu",
+  "ja": "東秩父村",
+  "code": "113697",
+  "lat": 36.0583164,
+  "lon": 139.1947436,
+  "src": "osm:東秩父村役場"
+ },
+ "saitama/higashimatsuyama": {
+  "en": "Higashimatsuyama",
+  "ja": "東松山市",
+  "code": "112127",
+  "lat": 36.0421229,
+  "lon": 139.3999854,
+  "src": "osm:東松山市役所"
+ },
+ "saitama/honjo": {
+  "en": "Honjo",
+  "ja": "本庄市",
+  "code": "112119",
+  "lat": 36.2435214,
+  "lon": 139.1906702,
+  "src": "osm:本庄市役所"
+ },
+ "saitama/inamachi": {
+  "en": "Inamachi",
+  "ja": "伊奈町",
+  "code": "113018",
+  "lat": 35.999964,
+  "lon": 139.624004,
+  "src": "osm:伊奈町役場"
+ },
+ "saitama/iruma": {
+  "en": "Iruma",
+  "ja": "入間市",
+  "code": "112259",
+  "lat": 35.8358942,
+  "lon": 139.3910527,
+  "src": "osm:入間市役所"
+ },
+ "saitama/kamikawa-11383": {
+  "en": "Kamikawa",
+  "ja": "神川町",
+  "code": "113832",
+  "lat": 36.2134962,
+  "lon": 139.1017972,
+  "src": "osm:神川町役場"
+ },
+ "saitama/kamisato": {
+  "en": "Kamisato",
+  "ja": "上里町",
+  "code": "113859",
+  "lat": 36.2516421,
+  "lon": 139.1449346,
+  "src": "osm:上里町役場"
+ },
+ "saitama/kasukabe": {
+  "en": "Kasukabe",
+  "ja": "春日部市",
+  "code": "112143",
+  "lat": 35.9740077,
+  "lon": 139.755144,
+  "src": "osm:春日部市役所"
+ },
+ "saitama/kawagoe-11201": {
+  "en": "Kawagoe",
+  "ja": "川越市",
+  "code": "112011",
+  "lat": 35.9250051,
+  "lon": 139.4859039,
+  "src": "osm:川越市役所"
+ },
+ "saitama/kawaguchi": {
+  "en": "Kawaguchi",
+  "ja": "川口市",
+  "code": "112038",
+  "lat": 35.80672,
+  "lon": 139.7233922,
+  "src": "osm:川口市役所"
+ },
+ "saitama/kawajima": {
+  "en": "Kawajima",
+  "ja": "川島町",
+  "code": "113468",
+  "lat": 35.9924723,
+  "lon": 139.4842895,
+  "src": "osm:川島町役場"
+ },
+ "saitama/kazo": {
+  "en": "Kazo",
+  "ja": "加須市",
+  "code": "112100",
+  "lat": 36.131381,
+  "lon": 139.6017419,
+  "src": "osm:加須市役所"
+ },
+ "saitama/kitamoto": {
+  "en": "Kitamoto",
+  "ja": "北本市",
+  "code": "112330",
+  "lat": 36.0268315,
+  "lon": 139.5301435,
+  "src": "osm:北本市役所"
+ },
+ "saitama/konosu": {
+  "en": "Konosu",
+  "ja": "鴻巣市",
+  "code": "112178",
+  "lat": 36.0658618,
+  "lon": 139.5221642,
+  "src": "osm:鴻巣市役所"
+ },
+ "saitama/koshigaya": {
+  "en": "Koshigaya",
+  "ja": "越谷市",
+  "code": "112224",
+  "lat": 35.891072,
+  "lon": 139.79084,
+  "src": "osm:越谷市役所"
+ },
+ "saitama/kuki": {
+  "en": "Kuki",
+  "ja": "久喜市",
+  "code": "112321",
+  "lat": 36.0621351,
+  "lon": 139.6668639,
+  "src": "osm:久喜市役所"
+ },
+ "saitama/kumagaya": {
+  "en": "Kumagaya",
+  "ja": "熊谷市",
+  "code": "112020",
+  "lat": 36.1474927,
+  "lon": 139.3887112,
+  "src": "osm:熊谷市役所"
+ },
+ "saitama/matsubushi": {
+  "en": "Matsubushi",
+  "ja": "松伏町",
+  "code": "114650",
+  "lat": 35.9257014,
+  "lon": 139.8151848,
+  "src": "osm:松伏町役場"
+ },
+ "saitama/minano": {
+  "en": "Minano",
+  "ja": "皆野町",
+  "code": "113620",
+  "lat": 36.0708376,
+  "lon": 139.0987362,
+  "src": "osm:皆野町役場"
+ },
+ "saitama/misato-saitama": {
+  "en": "Misato",
+  "ja": "三郷市",
+  "code": "112372",
+  "lat": 35.830127,
+  "lon": 139.872286,
+  "src": "osm:三郷市役所"
+ },
+ "saitama/miyashiro": {
+  "en": "Miyashiro",
+  "ja": "宮代町",
+  "code": "114421",
+  "lat": 36.0227261,
+  "lon": 139.7226845,
+  "src": "osm:宮代町役場"
+ },
+ "saitama/miyoshimachi": {
+  "en": "Miyoshimachi",
+  "ja": "三芳町",
+  "code": "113247",
+  "lat": 35.8282293,
+  "lon": 139.5264601,
+  "src": "osm:三芳町役場"
+ },
+ "saitama/moroyama": {
+  "en": "Moroyama",
+  "ja": "毛呂山町",
+  "code": "113263",
+  "lat": 35.94152777777778,
+  "lon": 139.316,
+  "src": "wikidata:Q1354799 P625"
+ },
+ "saitama/nagatoro": {
+  "en": "Nagatoro",
+  "ja": "長瀞町",
+  "code": "113638",
+  "lat": 36.1147753,
+  "lon": 139.1096163,
+  "src": "osm:長瀞町役場"
+ },
+ "saitama/namegawa": {
+  "en": "Namegawa",
+  "ja": "滑川町",
+  "code": "113417",
+  "lat": 36.0659877,
+  "lon": 139.3608544,
+  "src": "osm:滑川町役場"
+ },
+ "saitama/niiza": {
+  "en": "Niiza",
+  "ja": "新座市",
+  "code": "112305",
+  "lat": 35.7929884,
+  "lon": 139.5656125,
+  "src": "osm:新座市役所"
+ },
+ "saitama/ogano": {
+  "en": "Ogano",
+  "ja": "小鹿野町",
+  "code": "113654",
+  "lat": 36.0171121,
+  "lon": 139.0087587,
+  "src": "osm:小鹿野町役場"
+ },
+ "saitama/ogawamachi": {
+  "en": "Ogawamachi",
+  "ja": "小川町",
+  "code": "113433",
+  "lat": 36.0566539,
+  "lon": 139.2618653,
+  "src": "osm:小川町役場"
+ },
+ "saitama/ogose": {
+  "en": "Ogose",
+  "ja": "越生町",
+  "code": "113271",
+  "lat": 35.9646201,
+  "lon": 139.2940497,
+  "src": "osm:越生町役場"
+ },
+ "saitama/okegawa": {
+  "en": "Okegawa",
+  "ja": "桶川市",
+  "code": "112313",
+  "lat": 36.00283,
+  "lon": 139.558274,
+  "src": "osm:桶川市役所"
+ },
+ "saitama/ranzan": {
+  "en": "Ranzan",
+  "ja": "嵐山町",
+  "code": "113425",
+  "lat": 36.0565519,
+  "lon": 139.3202562,
+  "src": "osm:嵐山町役場"
+ },
+ "saitama/saitama": {
+  "en": "Saitama",
+  "ja": "さいたま市",
+  "code": "111007",
+  "lat": 35.8616072,
+  "lon": 139.6456408,
+  "src": "osm:さいたま市役所"
+ },
+ "saitama/saitama-misato": {
+  "en": "Misato (Kodama)",
+  "ja": "美里町",
+  "code": "113816",
+  "lat": 36.1771993,
+  "lon": 139.1815315,
+  "src": "osm:美里町役場"
+ },
+ "saitama/sakado": {
+  "en": "Sakado",
+  "ja": "坂戸市",
+  "code": "112399",
+  "lat": 35.957333,
+  "lon": 139.4030341,
+  "src": "osm:坂戸市役所"
+ },
+ "saitama/satte": {
+  "en": "Satte",
+  "ja": "幸手市",
+  "code": "112402",
+  "lat": 36.0779849,
+  "lon": 139.7256621,
+  "src": "osm:幸手市役所"
+ },
+ "saitama/sayama": {
+  "en": "Sayama",
+  "ja": "狭山市",
+  "code": "112151",
+  "lat": 35.8529786,
+  "lon": 139.4121127,
+  "src": "osm:狭山市役所"
+ },
+ "saitama/shiki": {
+  "en": "Shiki",
+  "ja": "志木市",
+  "code": "112283",
+  "lat": 35.8366458,
+  "lon": 139.5801184,
+  "src": "osm:志木市役所"
+ },
+ "saitama/shiraoka": {
+  "en": "Shiraoka",
+  "ja": "白岡市",
+  "code": "112461",
+  "lat": 36.0190846,
+  "lon": 139.6768976,
+  "src": "osm:白岡市役所"
+ },
+ "saitama/soka": {
+  "en": "Soka",
+  "ja": "草加市",
+  "code": "112216",
+  "lat": 35.8253986,
+  "lon": 139.8053661,
+  "src": "osm:草加市役所"
+ },
+ "saitama/sugito": {
+  "en": "Sugito",
+  "ja": "杉戸町",
+  "code": "114642",
+  "lat": 36.0255752,
+  "lon": 139.737393,
+  "src": "osm:杉戸町役場"
+ },
+ "saitama/toda": {
+  "en": "Toda",
+  "ja": "戸田市",
+  "code": "112240",
+  "lat": 35.8176367,
+  "lon": 139.677922,
+  "src": "osm:戸田市役所"
+ },
+ "saitama/tokigawa": {
+  "en": "Tokigawa",
+  "ja": "ときがわ町",
+  "code": "113492",
+  "lat": 36.0085405,
+  "lon": 139.2966931,
+  "src": "osm:ときがわ町役場"
+ },
+ "saitama/tokorozawa": {
+  "en": "Tokorozawa",
+  "ja": "所沢市",
+  "code": "112089",
+  "lat": 35.7994559,
+  "lon": 139.468649,
+  "src": "osm:所沢市役所"
+ },
+ "saitama/tsurugashima": {
+  "en": "Tsurugashima",
+  "ja": "鶴ヶ島市",
+  "code": "112410",
+  "lat": 35.9343502,
+  "lon": 139.3933992,
+  "src": "osm:鶴ヶ島市役所"
+ },
+ "saitama/wako": {
+  "en": "Wako",
+  "ja": "和光市",
+  "code": "112291",
+  "lat": 35.7815128,
+  "lon": 139.6058445,
+  "src": "osm:和光市役所"
+ },
+ "saitama/warabi": {
+  "en": "Warabi",
+  "ja": "蕨市",
+  "code": "112232",
+  "lat": 35.8254965,
+  "lon": 139.6796897,
+  "src": "osm:蕨市役所"
+ },
+ "saitama/yashio": {
+  "en": "Yashio",
+  "ja": "八潮市",
+  "code": "112348",
+  "lat": 35.8226203,
+  "lon": 139.8393115,
+  "src": "osm:八潮市役所"
+ },
+ "saitama/yokoze": {
+  "en": "Yokoze",
+  "ja": "横瀬町",
+  "code": "113611",
+  "lat": 35.987325,
+  "lon": 139.1000705,
+  "src": "osm:横瀬町役場"
+ },
+ "saitama/yorii": {
+  "en": "Yorii",
+  "ja": "寄居町",
+  "code": "114081",
+  "lat": 36.1184296,
+  "lon": 139.1931973,
+  "src": "osm:寄居町役場"
+ },
+ "saitama/yoshikawa": {
+  "en": "Yoshikawa",
+  "ja": "吉川市",
+  "code": "112437",
+  "lat": 35.8959588,
+  "lon": 139.8556423,
+  "src": "osm:吉川市役所"
+ },
+ "saitama/yoshimi": {
+  "en": "Yoshimi",
+  "ja": "吉見町",
+  "code": "113476",
+  "lat": 36.039851,
+  "lon": 139.4537031,
+  "src": "osm:吉見町役場"
+ },
  "yamaguchi/abu": {
   "en": "Abu",
   "ja": "阿武町",
