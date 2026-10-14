@@ -16,6 +16,7 @@
    "https://bokenjapan.com/data/gifu.json",
    "https://bokenjapan.com/data/gunma.json",
    "https://bokenjapan.com/data/hiroshima.json",
+   "https://bokenjapan.com/data/hokkaido.json",
    "https://bokenjapan.com/data/hyogo.json",
    "https://bokenjapan.com/data/ibaraki.json",
    "https://bokenjapan.com/data/ishikawa.json",
@@ -79,7 +80,7 @@
   ]
  },
  "counts": {
-  "prefectures": 46,
-  "towns": 1562
+  "prefectures": 47,
+  "towns": 1741
  }
 }

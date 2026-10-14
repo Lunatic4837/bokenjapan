@@ -78,6 +78,13 @@
    "town_count": 23
   },
   {
+   "slug": "hokkaido",
+   "name": "Hokkaido",
+   "url": "https://bokenjapan.com/hokkaido/",
+   "data": "https://bokenjapan.com/data/hokkaido.json",
+   "town_count": 179
+  },
+  {
    "slug": "hyogo",
    "name": "Hyogo",
    "url": "https://bokenjapan.com/hyogo/",
