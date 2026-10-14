@@ -2998,5 +2998,269 @@
   "lat": 33.9637359,
   "lon": 132.1014178,
   "src": "osm:柳井市役所"
+ },
+ "kanagawa/aikawa": {
+  "en": "Aikawa",
+  "ja": "愛川町",
+  "code": "144010",
+  "lat": 35.528918,
+  "lon": 139.321561,
+  "src": "osm:愛川町役場"
+ },
+ "kanagawa/atsugi": {
+  "en": "Atsugi",
+  "ja": "厚木市",
+  "code": "142123",
+  "lat": 35.443095,
+  "lon": 139.36253,
+  "src": "osm:厚木市役所"
+ },
+ "kanagawa/ayase": {
+  "en": "Ayase",
+  "ja": "綾瀬市",
+  "code": "142182",
+  "lat": 35.437097,
+  "lon": 139.426831,
+  "src": "osm:綾瀬市役所"
+ },
+ "kanagawa/chigasaki": {
+  "en": "Chigasaki",
+  "ja": "茅ヶ崎市",
+  "code": "142077",
+  "lat": 35.3338565,
+  "lon": 139.4037343,
+  "src": "osm:茅ヶ崎市役所"
+ },
+ "kanagawa/ebina": {
+  "en": "Ebina",
+  "ja": "海老名市",
+  "code": "142158",
+  "lat": 35.4463129,
+  "lon": 139.39081,
+  "src": "osm:海老名市役所"
+ },
+ "kanagawa/fujisawa": {
+  "en": "Fujisawa",
+  "ja": "藤沢市",
+  "code": "142050",
+  "lat": 35.3388671,
+  "lon": 139.4911237,
+  "src": "osm:藤沢市役所"
+ },
+ "kanagawa/hadano": {
+  "en": "Hadano",
+  "ja": "秦野市",
+  "code": "142115",
+  "lat": 35.3747484,
+  "lon": 139.2200021,
+  "src": "osm:秦野市役所"
+ },
+ "kanagawa/hakone": {
+  "en": "Hakone",
+  "ja": "箱根町",
+  "code": "143820",
+  "lat": 35.232394,
+  "lon": 139.106837,
+  "src": "osm:箱根町役場"
+ },
+ "kanagawa/hayama": {
+  "en": "Hayama",
+  "ja": "葉山町",
+  "code": "143014",
+  "lat": 35.272026,
+  "lon": 139.586142,
+  "src": "osm:葉山町役場"
+ },
+ "kanagawa/hiratsuka": {
+  "en": "Hiratsuka",
+  "ja": "平塚市",
+  "code": "142034",
+  "lat": 35.3352474,
+  "lon": 139.3495223,
+  "src": "osm:平塚市役所"
+ },
+ "kanagawa/jis14214": {
+  "en": "Isehara",
+  "ja": "伊勢原市",
+  "code": "142140",
+  "lat": 35.4029916,
+  "lon": 139.3149635,
+  "src": "osm:伊勢原市役所"
+ },
+ "kanagawa/jis14321": {
+  "en": "Samukawa",
+  "ja": "寒川町",
+  "code": "143219",
+  "lat": 35.372964,
+  "lon": 139.384278,
+  "src": "osm:寒川町役場"
+ },
+ "kanagawa/jis14364": {
+  "en": "Yamakita",
+  "ja": "山北町",
+  "code": "143642",
+  "lat": 35.3606108,
+  "lon": 139.0838152,
+  "src": "osm:山北町役場"
+ },
+ "kanagawa/kaisei": {
+  "en": "Kaisei",
+  "ja": "開成町",
+  "code": "143669",
+  "lat": 35.3360218,
+  "lon": 139.123315,
+  "src": "osm:開成町役場"
+ },
+ "kanagawa/kamakura": {
+  "en": "Kamakura",
+  "ja": "鎌倉市",
+  "code": "142042",
+  "lat": 35.3191745,
+  "lon": 139.5472898,
+  "src": "osm:鎌倉市役所"
+ },
+ "kanagawa/kawasakishi": {
+  "en": "Kawasaki",
+  "ja": "川崎市",
+  "code": "141305",
+  "lat": 35.5307684,
+  "lon": 139.7030342,
+  "src": "osm:川崎市役所"
+ },
+ "kanagawa/kiyokawa": {
+  "en": "Kiyokawa",
+  "ja": "清川村",
+  "code": "144029",
+  "lat": 35.4823818,
+  "lon": 139.2762508,
+  "src": "osm:清川村役場"
+ },
+ "kanagawa/manazuru": {
+  "en": "Manazuru",
+  "ja": "真鶴町",
+  "code": "143839",
+  "lat": 35.1584326,
+  "lon": 139.1371268,
+  "src": "osm:真鶴町役場"
+ },
+ "kanagawa/matsuda": {
+  "en": "Matsuda",
+  "ja": "松田町",
+  "code": "143634",
+  "lat": 35.3482055,
+  "lon": 139.1393936,
+  "src": "osm:松田町役場"
+ },
+ "kanagawa/minamiashigara": {
+  "en": "Minamiashigara",
+  "ja": "南足柄市",
+  "code": "142174",
+  "lat": 35.3205513,
+  "lon": 139.0997836,
+  "src": "osm:南足柄市役所"
+ },
+ "kanagawa/miura": {
+  "en": "Miura",
+  "ja": "三浦市",
+  "code": "142107",
+  "lat": 35.1446902,
+  "lon": 139.620726,
+  "src": "osm:三浦市役所　第2分館"
+ },
+ "kanagawa/nakai": {
+  "en": "Nakai",
+  "ja": "中井町",
+  "code": "143618",
+  "lat": 35.3307576,
+  "lon": 139.2188221,
+  "src": "osm:中井町役場"
+ },
+ "kanagawa/ninomiya": {
+  "en": "Ninomiya",
+  "ja": "二宮町",
+  "code": "143421",
+  "lat": 35.2995074,
+  "lon": 139.2555979,
+  "src": "osm:二宮町役場"
+ },
+ "kanagawa/odawara": {
+  "en": "Odawara",
+  "ja": "小田原市",
+  "code": "142069",
+  "lat": 35.264669,
+  "lon": 139.152275,
+  "src": "osm:小田原市役所"
+ },
+ "kanagawa/oimachi": {
+  "en": "Oimachi",
+  "ja": "大井町",
+  "code": "143626",
+  "lat": 35.326465,
+  "lon": 139.156049,
+  "src": "osm:大井町役場"
+ },
+ "kanagawa/oiso": {
+  "en": "Oiso",
+  "ja": "大磯町",
+  "code": "143413",
+  "lat": 35.3068325,
+  "lon": 139.3113078,
+  "src": "osm:大磯町役場"
+ },
+ "kanagawa/sagamihara": {
+  "en": "Sagamihara",
+  "ja": "相模原市",
+  "code": "141500",
+  "lat": 35.5715822,
+  "lon": 139.3728572,
+  "src": "osm:相模原市役所"
+ },
+ "kanagawa/yamatoshi": {
+  "en": "Yamato",
+  "ja": "大和市",
+  "code": "142131",
+  "lat": 35.4875449,
+  "lon": 139.457983,
+  "src": "osm:大和市役所"
+ },
+ "kanagawa/yokohama": {
+  "en": "Yokohama",
+  "ja": "横浜市",
+  "code": "141003",
+  "lat": 35.4506678,
+  "lon": 139.6342996,
+  "src": "osm:横浜市市庁舎"
+ },
+ "kanagawa/yokosuka": {
+  "en": "Yokosuka",
+  "ja": "横須賀市",
+  "code": "142018",
+  "lat": 35.2707002,
+  "lon": 139.6393167,
+  "src": "osm:横須賀市役所　上下水道局　施設"
+ },
+ "kanagawa/yugawara": {
+  "en": "Yugawara",
+  "ja": "湯河原町",
+  "code": "143847",
+  "lat": 35.147874,
+  "lon": 139.108342,
+  "src": "osm:湯河原町役場"
+ },
+ "kanagawa/zama": {
+  "en": "Zama",
+  "ja": "座間市",
+  "code": "142166",
+  "lat": 35.4886504,
+  "lon": 139.4076305,
+  "src": "osm:座間市役所"
+ },
+ "kanagawa/zushi": {
+  "en": "Zushi",
+  "ja": "逗子市",
+  "code": "142085",
+  "lat": 35.2955833,
+  "lon": 139.5804221,
+  "src": "osm:逗子市役所"
  }
 }
