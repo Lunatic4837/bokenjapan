@@ -7,6 +7,7 @@
   "by_prefecture": [
    "https://bokenjapan.com/data/aichi.json",
    "https://bokenjapan.com/data/akita.json",
+   "https://bokenjapan.com/data/aomori.json",
    "https://bokenjapan.com/data/chiba.json",
    "https://bokenjapan.com/data/ehime.json",
    "https://bokenjapan.com/data/fukui.json",
@@ -78,7 +79,7 @@
   ]
  },
  "counts": {
-  "prefectures": 45,
-  "towns": 1522
+  "prefectures": 46,
+  "towns": 1562
  }
 }
