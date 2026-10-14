@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <!-- [Phase1] SEO-08: タイトルに地域名追加 -->
+  <title>沖縄そば 悠愉樹庵（ゆうゆじゅあん）｜中城村の古民家沖縄そば専門店</title>
+
+  <!-- SEO・OGP -->
+  <meta name="description" content="中城城跡から車5分。沖縄古民家で味わう自家製沖縄そば専門店『悠愉樹庵』。化学調味料不使用の出汁と県産豚肉のソーキ・テビチが自慢。駐車場15台・全69席。テレビ朝日『人生の楽園』紹介店。">
+  <!-- [Phase1] SEO-02: og:type 追加 -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="沖縄そば 悠愉樹庵" />
+  <meta property="og:description" content="中城城跡から車5分。沖縄古民家で味わう化学調味料不使用の沖縄そば。駐車場15台・全69席。" />
+  <meta property="og:image" content="https://jyuan.jp/ogp.jpg" />
+  <meta property="og:url" content="https://jyuan.jp/" />
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+
+  <link rel="canonical" href="https://jyuan.jp/">
+  <link rel="alternate" hreflang="ja" href="https://jyuan.jp/">
+  <link rel="alternate" hreflang="en" href="https://jyuan.jp/en/">
+
+  <!-- [Phase1] PERF-01: LCP画像プリロード -->
+  <link rel="preload" as="image" href="images/exterior1.jpg" fetchpriority="high">
+
+  <!-- TailwindCSS (ビルド版) -->
+  <link rel="stylesheet" href="/css/style.css">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sawarabi+Mincho&display=swap" rel="stylesheet">
+
+  <!-- [Phase2] SEO-03 + [Phase4] SEO-07: JSON-LD 拡充（全カテゴリ網羅） -->
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "name": "悠愉樹庵（ゆうゆじゅあん）",
+  "image": "https://jyuan.jp/ogp.jpg",
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "JP",
+    "addressRegion": "沖縄県",
+    "addressLocality": "中頭郡中城村",
+    "streetAddress": "屋宜824-1",
+    "postalCode": "901-2405"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 26.2680,
+    "longitude": 127.7945
+  },
+  "telephone": "098-895-2280",
+  "url": "https://jyuan.jp/",
+  "servesCuisine": ["沖縄そば", "沖縄料理", "郷土料理", "Okinawa Soba"],
+  "priceRange": "¥900〜¥1,600",
+  "acceptsReservations": "False",
+  "hasMenu": {
+    "@type": "Menu",
+    "url": "https://jyuan.jp/#menu",
+    "hasMenuSection": [
+      {
+        "@type": "MenuSection",
+        "name": "沖縄そば",
+        "hasMenuItem": [
+          { "@type": "MenuItem", "name": "悠愉（ゆうゆ）そば", "description": "軟骨ソーキ・三枚肉・かまぼこを贅沢にのせた当店イチオシの沖縄そば", "offers": { "@type": "Offer", "price": "1200", "priceCurrency": "JPY" } },
+          { "@type": "MenuItem", "name": "軟骨ソーキそば", "description": "とろけるような柔らかさに煮込んだ特大ボリュームの軟骨ソーキそば", "offers": { "@type": "Offer", "price": "1250", "priceCurrency": "JPY" } },
+          { "@type": "MenuItem", "name": "テビチそば", "description": "ぷるぷるのテビチを贅沢に使った一杯", "offers": { "@type": "Offer", "price": "1200", "priceCurrency": "JPY" } },
+          { "@type": "MenuItem", "name": "三枚肉そば", "description": "三枚肉とかまぼこをのせた王道の沖縄そば", "offers": { "@type": "Offer", "price": "900", "priceCurrency": "JPY" } },
+          { "@type": "MenuItem", "name": "お子様そば", "description": "ミニ三枚肉そばとじゅーしーのセット", "offers": { "@type": "Offer", "price": "550", "priceCurrency": "JPY" } }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "定食",
+        "hasMenuItem": [
+          { "@type": "MenuItem", "name": "テビチ定食", "description": "トロトロのテビチに大根・昆布・豆腐を加えたボリューム満点の定食", "offers": { "@type": "Offer", "price": "1600", "priceCurrency": "JPY" } },
+          { "@type": "MenuItem", "name": "軟骨ソーキ定食", "description": "特大ボリュームの軟骨ソーキ定食", "offers": { "@type": "Offer", "price": "1600", "priceCurrency": "JPY" } },
+          { "@type": "MenuItem", "name": "イナムドゥチ定食", "description": "沖縄のお祝い料理イナムドゥチの定食", "offers": { "@type": "Offer", "price": "1600", "priceCurrency": "JPY" } },
+          { "@type": "MenuItem", "name": "ゆし豆腐定食", "description": "ニラと自家製味噌のゆし豆腐定食", "offers": { "@type": "Offer", "price": "1000", "priceCurrency": "JPY" } },
+          { "@type": "MenuItem", "name": "へちま定食", "description": "へちまを自家製味噌で煮込んだ定食", "offers": { "@type": "Offer", "price": "1200", "priceCurrency": "JPY" } }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "チャンプルー",
+        "hasMenuItem": [
+          { "@type": "MenuItem", "name": "豆腐チャンプルー", "description": "島豆腐と県産彩り野菜のチャンプルー", "offers": { "@type": "Offer", "price": "1000", "priceCurrency": "JPY" } },
+          { "@type": "MenuItem", "name": "ゴーヤーチャンプルー", "description": "ゴーヤーと島豆腐のチャンプルー", "offers": { "@type": "Offer", "price": "1000", "priceCurrency": "JPY" } },
+          { "@type": "MenuItem", "name": "フーチャンプルー", "description": "車麩と県産野菜のチャンプルー", "offers": { "@type": "Offer", "price": "1000", "priceCurrency": "JPY" } }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "単品",
+        "hasMenuItem": [
+          { "@type": "MenuItem", "name": "ジーマミ豆腐", "description": "自家製のもちもちピーナッツ豆腐", "offers": { "@type": "Offer", "price": "300", "priceCurrency": "JPY" } },
+          { "@type": "MenuItem", "name": "もずく天ぷら", "description": "沖縄産もずくの天ぷら", "offers": { "@type": "Offer", "price": "60", "priceCurrency": "JPY" } },
+          { "@type": "MenuItem", "name": "イリチャー", "description": "切り干し大根と昆布の炒め煮", "offers": { "@type": "Offer", "price": "400", "priceCurrency": "JPY" } }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "デザート",
+        "hasMenuItem": [
+          { "@type": "MenuItem", "name": "自家製チーズケーキ", "description": "紅芋または里芋を使った季節の自家製チーズケーキ", "offers": { "@type": "Offer", "price": "400", "priceCurrency": "JPY" } },
+          { "@type": "MenuItem", "name": "ケーキセット", "description": "自家製チーズケーキとコーヒーまたは紅茶のセット", "offers": { "@type": "Offer", "price": "700", "priceCurrency": "JPY" } },
+          { "@type": "MenuItem", "name": "黒糖ぜんざい", "description": "沖縄産黒糖のかき氷ぜんざい", "offers": { "@type": "Offer", "price": "500", "priceCurrency": "JPY" } }
+        ]
+      }
+    ]
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+      "opens": "11:00",
+      "closes": "15:00"
+    }
+  ],
+  "sameAs": [
+    "https://maps.app.goo.gl/viwUGsYm7mVw3dFz6",
+    "https://www.instagram.com/yuyu_jyuan/",
+    "https://tabelog.com/okinawa/A4704/A470405/47005254/"
+  ]
+}
+</script>
+
+  <!-- [Phase1] BUG-01: gtag 統合（1回のみ読み込み） -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-B07XFP4Y65"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-B07XFP4Y65');
+    gtag('config', 'AW-17680654611');
+  </script>
+  <!-- conversion はユーザー行動（電話タップ・地図クリック）で発火。app.js の initActionConversionTracking() で管理 -->
+</head>
+
+<body class="bg-gray-100 text-gray-800 min-h-screen" style="background-image: url('images/bingata-strong.png'); background-repeat: repeat; background-position: center; background-size: 100% auto;">
+
+<!-- Header -->
+<header class="bg-white bg-opacity-90 shadow fixed w-full z-50">
+  <div class="max-w-6xl mx-auto px-4 py-3 flex justify-between items-center">
+    <h1 class="text-2xl font-bold text-red-700">悠愉樹庵（ゆうゆじゅあん）</h1>
+    <button id="menuToggle"
+        class="md:hidden text-2xl"
+        onclick="toggleMenu()"
+        aria-controls="navMobile"
+        aria-expanded="false">
+        &#9776;
+    </button>
+    <nav id="main-nav" class="hidden md:flex space-x-4 text-sm items-center">
+      <a href="#menu" class="hover:text-red-600">お品書き</a>
+      <a href="#concept" class="hover:text-red-600">こだわり</a>
+      <a href="#info" class="hover:text-red-600">店舗案内</a>
+      <a href="#access" class="hover:text-red-600">アクセス</a>
+      <a href="#interior" class="hover:text-red-600">店舗内観（客席）</a>
+      <a href="#exterior" class="hover:text-red-600">店舗外観</a>
+      <a href="#publicity" class="hover:text-red-600">お知らせ</a>
+      <a href="#store-origin" class="hover:text-red-600">店名の由来</a>
+      <a href="/en/" class="text-white px-3 py-1 rounded hover:opacity-90" style="background-color: #2f3591;">English</a>
+    </nav>
+  </div>
+  <div id="navMobile" class="sm:hidden hidden px-4 pb-4">
+    <a href="#menu" class="block py-2 border-b" onclick="closeMobileMenu()">お品書き</a>
+    <a href="#concept" class="block py-2 border-b" onclick="closeMobileMenu()">こだわり</a>
+    <a href="#info" class="block py-2 border-b" onclick="closeMobileMenu()">店舗案内</a>
+    <a href="#access" class="block py-2 border-b" onclick="closeMobileMenu()">アクセス</a>
+    <a href="#publicity" class="block py-2 border-b" onclick="closeMobileMenu()">お知らせ</a>
+    <a href="#interior" class="block py-2 border-b" onclick="closeMobileMenu()">店舗内観（客席）</a>
+    <a href="#exterior" class="block py-2 border-b" onclick="closeMobileMenu()">店舗外観</a>
+    <a href="#store-origin" class="block py-2 border-b" onclick="closeMobileMenu()">店名の由来</a>
+    <a href="/en/" class="block py-2 font-bold" style="color: #2f3591;" onclick="closeMobileMenu()">English Menu</a>
+  </div>
+</header>
+
+<!-- Hero -->
+<section id="hp-top" class="h-screen flex items-center justify-center relative text-white text-center pt-20 overflow-hidden">
+  <!-- [Phase2] SEO-04: 全画像に具体的な alt テキスト設定 -->
+  <!-- [Phase3] PERF-02: 2枚目以降に loading="lazy" 追加 -->
+  <div id="heroSlider" class="absolute inset-0 w-full h-full z-0">
+    <img src="images/exterior1.jpg" alt="悠愉樹庵の外観 - 緑に囲まれた沖縄の古民家" width="1920" height="1200"
+      class="w-full h-full object-cover scale-100 absolute transition-opacity duration-1000 opacity-100 transition-transform ease-in-out duration-[5000ms]" style="z-index:-1;" />
+    <img src="images/exterior2.jpg" alt="悠愉樹庵の入口 - 木々に囲まれた石畳のアプローチ" width="1920" height="1200" loading="lazy"
+      class="w-full h-full object-cover scale-100 absolute transition-opacity duration-1000 opacity-0 transition-transform ease-in-out duration-[5000ms]" style="z-index:-1;" />
+    <img src="images/yuyu-soba.jpg" alt="悠愉（ゆうゆ）そば - 軟骨ソーキ・三枚肉・かまぼこを贅沢にのせた当店イチオシの沖縄そば" width="1920" height="1200" loading="lazy"
+      class="w-full h-full object-cover scale-100 absolute transition-opacity duration-1000 opacity-0 transition-transform ease-in-out duration-[5000ms]" style="z-index:-1;" />
+    <img src="images/exterior3.JPG" alt="悠愉樹庵の庭 - 自然豊かな中城村の風景" width="1920" height="1200" loading="lazy"
+      class="w-full h-full object-cover scale-100 absolute transition-opacity duration-1000 opacity-0 transition-transform ease-in-out duration-[5000ms]" style="z-index:-1;" />
+    <img src="images/nankotsu-soba.jpg" alt="軟骨ソーキそば - とろけるような柔らかさの特大軟骨ソーキ" width="1920" height="1200" loading="lazy"
+      class="w-full h-full object-cover scale-100 absolute transition-opacity duration-1000 opacity-0 transition-transform ease-in-out duration-[5000ms]" style="z-index:-1;" />
+    <img src="images/exterior4.JPG" alt="悠愉樹庵の外観 - 赤瓦屋根の伝統的な沖縄古民家" width="1920" height="1200" loading="lazy"
+      class="w-full h-full object-cover scale-100 absolute transition-opacity duration-1000 opacity-0 transition-transform ease-in-out duration-[5000ms]" style="z-index:-1;" />
+    <img src="images/exterior5.JPG" alt="悠愉樹庵の看板と外観 - 沖縄そば専門店" width="1920" height="1200" loading="lazy"
+      class="w-full h-full object-cover scale-100 absolute transition-opacity duration-1000 opacity-0 transition-transform ease-in-out duration-[5000ms]" style="z-index:-1;" />
+    <img src="images/exterior6.JPG" alt="悠愉樹庵の駐車場周辺 - 緑豊かな敷地" width="1920" height="1200" loading="lazy"
+      class="w-full h-full object-cover scale-100 absolute transition-opacity duration-1000 opacity-0 transition-transform ease-in-out duration-[5000ms]" style="z-index:-1;" />
+    <img src="images/exterior7.JPG" alt="悠愉樹庵の全景 - 中城村屋宜の古民家レストラン" width="1920" height="1200" loading="lazy"
+      class="w-full h-full object-cover scale-100 absolute transition-opacity duration-1000 opacity-0 transition-transform ease-in-out duration-[5000ms]" style="z-index:-1;" />
+  </div>
+  <div class="bg-black bg-opacity-40 absolute inset-0"></div>
+  <div class="z-10 px-4">
+    <h2 class="text-[1.6875rem] md:text-[3.375rem] font-semibold mb-6">悠愉樹庵（ゆうゆじゅあん）</h2>
+    <p class="text-[1.125rem] md:text-[1.6875rem] leading-relaxed">
+      木々に囲まれたどこか懐かしい古民家で、<br>県産食材で織りなす心あたたまる沖縄そばを。
+    </p>
+  </div>
+</section>
+
+<!-- [Phase3] CODE-01: キャラクターロゴ位置修正（left-[-55px]→left-4） yuyu-updated.html から採用 -->
+<a href="#hp-top" class="fixed bottom-[70px] left-2 w-[100px] md:bottom-4 md:left-4 md:w-[300px] z-[9999] cursor-pointer rounded-lg">
+  <img src="images/yuyu-chara.png" alt="悠愉樹庵 ロゴ - ページトップへ戻る" class="w-full h-auto">
+</a>
+
+<!-- Menu -->
+<section id="menu" class="bg-blue-50/90 py-16 px-4 text-center">
+  <div class="max-w-6xl mx-auto">
+    <h2 class="text-3xl font-bold text-center mb-8">お品書き</h2>
+    <div class="flex flex-wrap justify-center mb-6 gap-2">
+      <button class="filter-btn bg-gray-300 px-4 py-2 rounded" data-category="all">すべて</button>
+      <button class="filter-btn bg-gray-300 px-4 py-2 rounded" data-category="soba">沖縄そば</button>
+      <button class="filter-btn bg-gray-300 px-4 py-2 rounded" data-category="topping">付け合せ</button>
+      <button class="filter-btn bg-gray-300 px-4 py-2 rounded" data-category="chanple">チャンプルー</button>
+      <button class="filter-btn bg-gray-300 px-4 py-2 rounded" data-category="set">定食</button>
+      <button class="filter-btn bg-gray-300 px-4 py-2 rounded" data-category="just">単品</button>
+      <button class="filter-btn bg-gray-300 px-4 py-2 rounded" data-category="sweet">デザート</button>
+    </div>
+    <div class="max-w-3xl mx-auto mb-6 p-4 bg-yellow-50 border border-yellow-300 rounded text-left text-sm text-gray-800">
+      <p class="font-bold mb-1">【アレルゲン表示について】</p>
+      <p class="mb-1">各メニューの表示は、<strong>特定原材料8品目</strong>（えび・かに・くるみ・小麦・そば・卵・乳・落花生）を対象としています。</p>
+      <p class="mb-1"><strong>重篤なアレルギーをお持ちの方は、必ずご来店時にスタッフへお申し出ください。</strong>調理器具・油の共用による微量混入の可能性があります。</p>
+    </div>
+    <div id="menu-container" class="grid grid-cols-1 sm:grid-cols-2 gap-6 w-full md:w-[1350px] mx-auto"></div>
+  </div>
+</section>
+
+<!-- Concept -->
+<section id="concept" class="bg-gray-700/95 py-12 text-white">
+  <div class="max-w-4xl mx-auto text-left">
+    <h2 class="text-3xl font-bold mb-6">スープのこだわり</h2>
+    <p class="text-lg leading-relaxed">
+      豚だし骨、鶏ガラ、カツオ節をベースに化学調味料を一切使わずに丁寧に心を込めて仕上げました。
+    </p>
+    <h2 class="text-3xl font-bold mb-6 mt-10">お肉のこだわり</h2>
+    <p class="text-lg leading-relaxed">
+      三枚肉、テビチ、軟骨ソーキはいずれもスープとの相性にこだわった自家製タレでじっくり煮込んで仕上げました。
+    </p>
+    <h2 class="text-3xl font-bold mb-6 mt-10">お店のこだわり</h2>
+    <p class="text-lg leading-relaxed">
+      新鮮な県産食材を厳選し、食の安全に徹底してこだわった調理法から生まれる自然であっさりとした独特の風味をお届けします。<br>
+      木々に囲まれた古民家にて心ほどける沖縄郷土料理をご用意して皆さまのお越しを心よりお待ちしております。
+    </p>
+  </div>
+</section>
+
+<!-- Interior -->
+<section id="interior" class="bg-blue-50/90 py-16 px-4 text-center">
+  <div class="max-w-4xl mx-auto text-center">
+    <h2 class="text-2xl font-bold mb-6">店舗の内観（客席）</h2>
+    <div class="relative w-full overflow-hidden rounded shadow aspect-[16/9]">
+      <button onclick="prevInteriorSlide()" class="absolute left-0 top-1/2 -translate-y-1/2 z-10 px-2" aria-label="前へ">←</button>
+      <img id="interiorSlide" src="images/interior1.jpg" alt="悠愉樹庵の店内 - 落ち着いた雰囲気の客席" width="1920" height="1080"
+        class="w-full h-full object-cover cursor-pointer" onclick="nextInteriorSlide()">
+      <button onclick="nextInteriorSlide()" class="absolute right-0 top-1/2 -translate-y-1/2 z-10 px-2" aria-label="次へ">→</button>
+    </div>
+  </div>
+</section>
+
+<!-- Exterior -->
+<section id="exterior" class="bg-gray-700/95 py-12 text-white">
+  <div class="max-w-4xl mx-auto text-center">
+    <h2 class="text-2xl font-bold mb-6">店舗の外観</h2>
+    <div class="relative w-full overflow-hidden rounded shadow">
+      <button onclick="prevExteriorSlide()" class="absolute left-0 top-1/2 -translate-y-1/2 z-10 px-2" aria-label="前へ">←</button>
+      <img id="exteriorSlide" src="images/exterior1.jpg" alt="悠愉樹庵の外観 - 中城村の古民家沖縄そば店"
+        class="w-full h-auto object-contain bg-black" loading="lazy" onclick="nextExteriorSlide()">
+      <button onclick="nextExteriorSlide()" class="absolute right-0 top-1/2 -translate-y-1/2 z-10 px-2" aria-label="次へ">→</button>
+    </div>
+  </div>
+</section>
+
+<!-- Info -->
+<section id="info" class="bg-blue-50/90 py-16 px-4 text-left" data-collapsible>
+  <div class="max-w-4xl mx-auto text-left">
+    <h2 class="text-3xl font-bold mb-6">店舗案内</h2>
+    <div class="collapsible-body">
+    <p><strong>住所：</strong>沖縄県中城村屋宜824-1</p>
+    <p><strong>営業時間：</strong>11:00〜15:00</p>
+    <p><strong>電話番号：</strong><a href="tel:098-895-2280" class="underline hover:text-red-600" data-track="tel">098-895-2280</a></p>
+    <p><strong>定休日：</strong>日曜日</p>
+    <p><strong>座席：</strong>テーブル6卓（5席）30席、座敷20席、掘りごたつ15席、カウンター4席</p>
+    <p><strong>駐車場：</strong>あり（約15台）</p>
+    </div>
+  </div>
+</section>
+
+<!-- Access -->
+<!-- [Phase3] PERF-04: Maps iframe を data-src で遅延読み込み -->
+<section id="access" class="bg-gray-700/95 py-12 text-white">
+  <div class="max-w-5xl mx-auto space-y-10">
+    <div class="max-w-4xl mx-auto text-center">
+      <h2 class="text-3xl font-bold mb-6">アクセス</h2>
+      <div class="relative">
+        <div class="map-placeholder">地図を読み込み中…</div>
+        <iframe title="悠愉樹庵の所在地（Googleマップ）"
+          data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7155.391648000203!2d127.78891810706097!3d26.271533781037977!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34e56d4c215e6a23%3A0x75f0d8bc425ab4b3!2z5oKg5oSJ5qi55bq1!5e0!3m2!1sja!2sjp!4v1751432270780!5m2!1sja!2sjp"
+          class="w-full h-72 sm:h-96 md:h-[600px]"
+          style="border:0;" allowfullscreen
+          referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
+    </div>
+    <div class="aspect-w-16 aspect-h-9 w-full relative">
+      <div class="map-placeholder">ストリートビューを読み込み中…</div>
+      <iframe title="悠愉樹庵の周辺ストリートビュー（Googleマップ）"
+        data-src="https://www.google.com/maps/embed?pb=!4v1751432078744!6m8!1m7!1sX4Ri_ommBsBFJ6CJhJlrsg!2m2!1d26.26797515423022!2d127.7936794259053!3f161.40314281025584!4f-0.38539987167409606!5f2.299968626952992"
+        class="w-full h-72 sm:h-96 md:h-[600px]"
+        style="border:0;" allowfullscreen
+        referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <div class="aspect-w-16 aspect-h-9 w-full relative">
+      <div class="map-placeholder">店内ビューを読み込み中…</div>
+      <iframe title="悠愉樹庵の店内ストリートビュー（Googleマップ）"
+        data-src="https://www.google.com/maps/embed?pb=!4v1757669572224!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJQzRqdUs5NUFF!2m2!1d26.26813174427315!2d127.7944657526565!3f349.47!4f-9.61!5f0.7820865974627469"
+        class="w-full h-72 sm:h-96 md:h-[600px]"
+        style="border:0;" allowfullscreen
+        referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+  </div>
+</section>
+
+<!-- Store Origin -->
+<section id="store-origin" class="bg-blue-50/90 py-16 px-4 text-left" data-collapsible>
+  <div class="max-w-4xl mx-auto text-left">
+    <h2 class="text-3xl font-bold mb-6">悠愉樹庵（ゆうゆじゅあん）の由来</h2>
+    <div class="collapsible-body">
+    <p class="text-lg leading-relaxed">
+      『悠愉』とは、ゆったり食を愉しみ癒やされるという意を込めております。<br>
+      また、『樹庵』は、木々の緑に囲われた場所を表しております。<br>
+      「木々の緑に囲まれ、小鳥のさえずりが聞こえる静かな空間」で、
+      お客様がゆったりとくつろぎながら食し、語らうことが出来る『場』を創出し、
+      心も晴れやかにすることが出来れば・・・<br>
+      との願いを込めて  『悠愉樹庵』 と命名いたしました。
+    </p>
+    </div>
+  </div>
+</section>
+
+<!-- Publicity -->
+<section id="publicity" class="bg-gray-700/95 py-12 text-white" data-collapsible>
+  <div class="max-w-4xl mx-auto text-left">
+    <h2 class="text-3xl font-bold mb-6">お知らせ</h2>
+    <div class="collapsible-body">
+    <p class="mb-4">2025年10月1日にリニューアルオープンしました。</p>
+    <p class="mb-4">2010年4月、〜 家族で受け継ぐ琉球の味 〜 をテーマにテレビ朝日系「人生の楽園」で紹介されました。</p>
+    <p class="mb-4">出典：テレビ朝日『人生の楽園』</p>
+    <a href="https://www.tv-asahi.co.jp/rakuen_2016/contents/past/0066/" target="_blank" rel="noopener">『人生の楽園 公式HP』</a>
+    </div>
+  </div>
+</section>
+
+<!-- Image Modal -->
+<div id="imageModal" class="modal" role="dialog" aria-modal="true" aria-label="画像拡大表示">
+  <span class="close" id="modalClose" tabindex="0" role="button" aria-label="閉じる">&times;</span>
+  <img class="modal-content cursor-pointer" id="modalImage" alt="拡大画像">
+</div>
+
+<!-- お知らせモーダル -->
+<div id="noticeModal" class="hidden fixed inset-0 z-[10000] flex items-center justify-center" role="dialog" aria-modal="true" aria-label="お知らせ">
+  <div class="absolute inset-0 bg-black bg-opacity-30" id="noticeOverlay"></div>
+  <div class="relative bg-white rounded-lg shadow-xl mx-4 max-w-lg w-full max-h-[80vh] overflow-y-auto z-10">
+    <div class="text-white px-6 py-3 rounded-t-lg flex justify-between items-center" style="background-color: #f295f5;">
+      <h2 class="text-lg font-bold" id="noticeModalTitle">お知らせ</h2>
+      <button id="noticeClose" class="text-white text-2xl leading-none hover:opacity-70" aria-label="閉じる">&times;</button>
+    </div>
+    <div class="px-6 py-5" id="noticeModalBody"></div>
+    <div class="px-6 pb-5 text-center">
+      <button id="noticeCloseBtn" class="text-white px-8 py-2 rounded text-sm font-bold hover:opacity-90" style="background-color: #f295f5;">閉じる</button>
+    </div>
+  </div>
+</div>
+
+<!-- [Phase3] CODE-03: 全スクリプトを外部ファイルに統合 -->
+<script src="/js/notice.js"></script>
+<script src="/js/notice-modal.js" defer></script>
+<script src="/js/menu.js" defer></script>
+<script src="/js/app.js" defer></script>
+
+<!-- Mobile CTA Bar -->
+<div class="fixed bottom-0 left-0 right-0 z-50 md:hidden bg-white border-t shadow-lg">
+  <div class="flex">
+    <a href="tel:098-895-2280" data-track="tel" class="flex-1 flex items-center justify-center gap-1 py-3 text-sm font-bold text-white bg-red-700 hover:bg-red-800">
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
+      電話する
+    </a>
+    <a href="https://maps.app.goo.gl/viwUGsYm7mVw3dFz6" target="_blank" rel="noopener" class="flex-1 flex items-center justify-center gap-1 py-3 text-sm font-bold text-white bg-blue-600 hover:bg-blue-700">
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+      地図
+    </a>
+  </div>
+</div>
+
+<!-- Footer -->
+<footer class="bg-gray-800 text-white py-8 text-sm mb-14 md:mb-0">
+  <div class="max-w-4xl mx-auto px-4 space-y-4">
+    <div class="flex flex-col md:flex-row md:justify-between md:items-start gap-4">
+      <div>
+        <p class="font-bold text-base mb-1">悠愉樹庵（ゆうゆじゅあん）</p>
+        <p>〒901-2405 沖縄県中城村屋宜824-1</p>
+        <p>TEL：<a href="tel:098-895-2280" class="underline hover:text-red-400" data-track="tel">098-895-2280</a></p>
+      </div>
+      <div>
+        <p><strong>営業時間：</strong>11:00〜15:00</p>
+        <p><strong>定休日：</strong>日曜日</p>
+        <p><strong>駐車場：</strong>あり（約15台）</p>
+      </div>
+    </div>
+    <p class="text-center text-gray-400 pt-2 border-t border-gray-600">&copy; 悠愉樹庵（ゆうゆじゅあん）. All rights reserved.</p>
+  </div>
+</footer>
+
+</body>
+</html>
