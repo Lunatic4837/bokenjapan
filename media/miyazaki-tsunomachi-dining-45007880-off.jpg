@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        <title>道の駅つの</title>
+        <meta name="description" content="道の駅つの公式ホームページ" />
+        <meta name="format-detection" content="telephone=no" />
+
+        <!-- ogp -->
+        <meta property="og:url" content="https://michinoeki-tsuno.com/" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content=" 道の駅つの" />
+        <meta property="og:description" content="道の駅つの公式ホームページ" />
+        <meta property="og:site_name" content="道の駅つの" />
+        <meta property="og:image" content="https://michinoeki-tsuno.com/" />
+        <meta property="og:locale" content="ja_JP" />
+        <meta name="twitter:card" content="summary_large_image or summary" />
+		<meta name="twitter:description" content="道の駅つの公式ホームページ" />
+		<meta name="twitter:image:src" content="https://michinoeki-tsuno.com/" />
+
+        <!-- favicon -->
+        <link rel="icon" href="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/img/favicon.ico">
+
+        <!-- css -->
+        <link rel="stylesheet" href="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/css/reset.css"><!-- リセットCSS -->
+        <link rel="stylesheet" href="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/tablet.css" media="screen and (max-width:960px)">
+        <link rel="stylesheet" href="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/smart.css" media="screen and (max-width:480px)">
+        <link rel="stylesheet" href="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/style.css" media="screen and (min-width:960px)">
+
+         <!-- js -->
+        <script type="text/javascript" src="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/js/jquery-3.7.1.min.js"></script>
+        <script src="https://kit.fontawesome.com/69f103a0bc.js" crossorigin="anonymous"></script><!--フォントオーサム-->
+        <script type="text/javascript" src="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/js/main.js"></script>
+         
+        <meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/michinoeki-tsuno.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='sbi_styles-css' href='https://michinoeki-tsuno.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://michinoeki-tsuno.com/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="https://api.w.org/" href="https://michinoeki-tsuno.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://michinoeki-tsuno.com/xmlrpc.php?rsd" />
+<link rel="icon" href="https://michinoeki-tsuno.com/wp-content/uploads/2024/10/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://michinoeki-tsuno.com/wp-content/uploads/2024/10/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://michinoeki-tsuno.com/wp-content/uploads/2024/10/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://michinoeki-tsuno.com/wp-content/uploads/2024/10/cropped-favicon-270x270.png" />
+    </head>
+
+    <body>
+        <header id="js-hamburger" class="header">
+            <a href="https://michinoeki-tsuno.com/" class="logo">
+                <h1>
+                    <img src="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/img/logo.png" alt="道の駅つの">
+                </h1>
+            </a>
+            <div class="hd_inner">
+                <nav id="js-nav">
+                    <ul class="nav-items pc">
+                        <li><a href="https://michinoeki-tsuno.com/about">道の駅つのについて</a></li>
+                        <li><a href="https://michinoeki-tsuno.com/osusume">おすすめ商品</a></li>
+                        <li><a href="https://michinoeki-tsuno.com/shipper">出荷者募集</a></li>
+                        <li><a href="https://michinoeki-tsuno.com/floor">施設紹介</a></li>
+                        <a href="https://www.instagram.com/michinoeki_tsuno/" target="_blank" class="inst_icon"><img src="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/img/inst.png" alt=""></a>
+                    </ul>
+
+                    <ul class="nav-items smart">
+                        <li><a href="https://michinoeki-tsuno.com/">トップページ</a></li>
+                        <li><a href="https://michinoeki-tsuno.com/about">道の駅つのについて</a></li>
+                        <li><a href="https://michinoeki-tsuno.com/osusume">おすすめ商品</a></li>
+                        <li><a href="https://michinoeki-tsuno.com/shipper">出荷者募集</a></li>
+                        <li><a href="https://michinoeki-tsuno.com/floor">施設紹介</a></li>
+                        <a href="https://www.instagram.com/michinoeki_tsuno/" target="_blank" class="inst_icon"><i class="fa-brands fa-instagram"></i></a>
+                    </ul>
+                </nav>
+                
+                
+                <!-- ハンバーガーメニュー -->
+                <button class="hd_ham" id="js-ham">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            </div>
+        </header>
+        <a href="https://michinoeki-tsuno.com/shipper" class="listing_top">
+            <img src="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/img/listing_icon.png" alt="出品案内">
+        </a>
+    </body><link rel="stylesheet" href="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/css/slick.css"><!-- slick -->
+<link rel="stylesheet" href="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/css/slick-theme.css"><!-- slick -->
+<script type="text/javascript" src="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/js/slick.min.js"></script>
+<script type="text/javascript" src="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/js/top-slider.js"></script>
+
+<div class="top">
+    <main class="wrap_slider relative">
+        <div class="fv_text">
+            <picture>
+                <source srcset="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/img/top/fv_text_sp.png" media="(max-width: 480px)"/>
+                <img src="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/img/top/fv_text.png" alt="総勢350名を超える生産者さんからとっておきの旬な地元フルーツ＆野菜が勢ぞろい♪">
+            <picture>
+        </div>
+                <ul id="top_slider" class="slider">
+                            <li class="slider_item">
+                    <img src="https://michinoeki-tsuno.com/wp-content/uploads/2024/10/fv.jpg">
+                </li>
+                                        <li class="slider_item">
+                    <img src="https://michinoeki-tsuno.com/wp-content/uploads/2024/10/DSC02206-scaled.jpg">
+                </li>
+                                        <li class="slider_item">
+                    <img src="https://michinoeki-tsuno.com/wp-content/uploads/2024/10/SDIM4174-scaled.jpg">
+                </li class="slider_item">
+                                        <li class="slider_item">
+                    <img src="https://michinoeki-tsuno.com/wp-content/uploads/2024/10/IMG_0147-scaled.jpg">
+                </li class="slider_item">
+                    </ul>
+            </main>
+
+    <section id="inst" class="top_inst">        
+        <b class="poppins">INSTAGRAM<span class="normal">インスタグラム</span></b>
+        <div class="contents_in">
+            <div class="inst_account">
+                
+<div id="sb_instagram"  class="sbi sbi_mob_col_2 sbi_tab_col_2 sbi_col_4 sbi_width_resp" style="padding-bottom: 10px;" data-feedid="*1"  data-res="auto" data-cols="4" data-colsmobile="2" data-colstablet="2" data-num="4" data-nummobile="4" data-item-padding="5" data-shortcode-atts="{&quot;feed&quot;:&quot;1&quot;}"  data-postid="31" data-locatornonce="a99e154668" data-sbi-flags="favorLocal">
+	
+    <div id="sbi_images"  style="gap: 10px;">
+		<div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_17882581863691588" data-date="1791378872">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/DeMcR_Rjz8f/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-nrt6-1.cdninstagram.com/v/t51.82787-15/841140091_18178977049427373_6145959383102940773_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=111&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&#038;_nc_ohc=F6PjZHOWoXYQ7kNvwE_v4xB&#038;_nc_oc=AdrW3pEmvQnycvywU1dFaKYynt19jP44tPdEZTz1KMuF6oDYTOCINq4cAPg1HV1_kEE&#038;_nc_zt=23&#038;_nc_ht=scontent-nrt6-1.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=WGzafbxsIdfXJQH3VPzYZA&#038;_nc_tpa=Q5bMBQK__gBtwkwXnC3zCvggZZHGzwHiTQtGHfrVhIFyhGXJiVsBsjIuYJXp8ODlfml6LI8S5l9FtEK8JA&#038;oh=00_AQNHRbrzRdelrRZgG7_zurlLYmuxXbxK4yLJjhLnUXVZFg&#038;oe=6AD487D3" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-nrt6-1.cdninstagram.com\/v\/t51.82787-15\/841140091_18178977049427373_6145959383102940773_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=111&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=F6PjZHOWoXYQ7kNvwE_v4xB&amp;_nc_oc=AdrW3pEmvQnycvywU1dFaKYynt19jP44tPdEZTz1KMuF6oDYTOCINq4cAPg1HV1_kEE&amp;_nc_zt=23&amp;_nc_ht=scontent-nrt6-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=WGzafbxsIdfXJQH3VPzYZA&amp;_nc_tpa=Q5bMBQK__gBtwkwXnC3zCvggZZHGzwHiTQtGHfrVhIFyhGXJiVsBsjIuYJXp8ODlfml6LI8S5l9FtEK8JA&amp;oh=00_AQNHRbrzRdelrRZgG7_zurlLYmuxXbxK4yLJjhLnUXVZFg&amp;oe=6AD487D3&quot;,&quot;150&quot;:&quot;https:\/\/scontent-nrt6-1.cdninstagram.com\/v\/t51.82787-15\/841140091_18178977049427373_6145959383102940773_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=111&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=F6PjZHOWoXYQ7kNvwE_v4xB&amp;_nc_oc=AdrW3pEmvQnycvywU1dFaKYynt19jP44tPdEZTz1KMuF6oDYTOCINq4cAPg1HV1_kEE&amp;_nc_zt=23&amp;_nc_ht=scontent-nrt6-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=WGzafbxsIdfXJQH3VPzYZA&amp;_nc_tpa=Q5bMBQK__gBtwkwXnC3zCvggZZHGzwHiTQtGHfrVhIFyhGXJiVsBsjIuYJXp8ODlfml6LI8S5l9FtEK8JA&amp;oh=00_AQNHRbrzRdelrRZgG7_zurlLYmuxXbxK4yLJjhLnUXVZFg&amp;oe=6AD487D3&quot;,&quot;320&quot;:&quot;https:\/\/scontent-nrt6-1.cdninstagram.com\/v\/t51.82787-15\/841140091_18178977049427373_6145959383102940773_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=111&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=F6PjZHOWoXYQ7kNvwE_v4xB&amp;_nc_oc=AdrW3pEmvQnycvywU1dFaKYynt19jP44tPdEZTz1KMuF6oDYTOCINq4cAPg1HV1_kEE&amp;_nc_zt=23&amp;_nc_ht=scontent-nrt6-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=WGzafbxsIdfXJQH3VPzYZA&amp;_nc_tpa=Q5bMBQK__gBtwkwXnC3zCvggZZHGzwHiTQtGHfrVhIFyhGXJiVsBsjIuYJXp8ODlfml6LI8S5l9FtEK8JA&amp;oh=00_AQNHRbrzRdelrRZgG7_zurlLYmuxXbxK4yLJjhLnUXVZFg&amp;oe=6AD487D3&quot;,&quot;640&quot;:&quot;https:\/\/scontent-nrt6-1.cdninstagram.com\/v\/t51.82787-15\/841140091_18178977049427373_6145959383102940773_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=111&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=F6PjZHOWoXYQ7kNvwE_v4xB&amp;_nc_oc=AdrW3pEmvQnycvywU1dFaKYynt19jP44tPdEZTz1KMuF6oDYTOCINq4cAPg1HV1_kEE&amp;_nc_zt=23&amp;_nc_ht=scontent-nrt6-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=WGzafbxsIdfXJQH3VPzYZA&amp;_nc_tpa=Q5bMBQK__gBtwkwXnC3zCvggZZHGzwHiTQtGHfrVhIFyhGXJiVsBsjIuYJXp8ODlfml6LI8S5l9FtEK8JA&amp;oh=00_AQNHRbrzRdelrRZgG7_zurlLYmuxXbxK4yLJjhLnUXVZFg&amp;oe=6AD487D3&quot;}">
+            <span class="sbi-screenreader"></span>
+            <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+	            </svg>	                    <img src="https://michinoeki-tsuno.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="📅 10月7日（水）
+📍 道の駅つの
+＼ 冬季限定⛄️ トマトスープ販売開始🍅／
+
+道の駅つので販売中の「トマトスープ」
+トマトのほどよい酸味と旨みが楽しめる
+ほっと温まる1品です😌✨
+
+朝食やランチのお供にはもちろん
+ちょっと小腹が空いた時にもおすすめ♩
+
+・トマトスープ 250円(税込)
+
+ソフト＆ドリームでお待ちしております😊
+
+道の駅つの店内ではなんと、こちらのトマトスープ4食入りが490円（税込）で販売していますので、こちらもぜひご購入下さい！
+
+______________________________
+
+\ 都農町の旬を発信 /
+都農町×生産者約300名
+地元の『おいしい』をそのまま🍽️
+🍇フルーツ｜🍅野菜｜🎁お得情報
+
+📍宮崎県都農町大字川北5129
+🕘9:00-18:00(年中無休)
+🍴フードコート10:30-15:00
+
+お問い合わせはお電話にて☎️
+0983-25-5055
+______________________________
+
+#道の駅つの#トマト#トマトスープ
+#道の駅#宮崎グルメ">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_18095454569404665" data-date="1791340206">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/reel/DeLSl0FBzlX/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-nrt1-1.cdninstagram.com/v/t51.82787-15/837659345_18178863232427373_6910867768291991172_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=103&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&#038;_nc_ohc=n185zHatTywQ7kNvwF3FKw9&#038;_nc_oc=Adp3CffQRCOMDygSoV1I72MZdUjCjPyjZaSBVqiaeNe7buS5D9sNzYBs-edUkK4oxsw&#038;_nc_zt=23&#038;_nc_ht=scontent-nrt1-1.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=WGzafbxsIdfXJQH3VPzYZA&#038;_nc_tpa=Q5bMBQKZF9sRuRowYTHZjako_ZDPzXw4oegI2FFATeKcrGR4fHr97-WrbjhBhcAiurYeu8Y_CwEjK-eIfA&#038;oh=00_AQPNtny_g-Nk9gQ4Zowqe1iL7woQRbhlA4pYGXr50IL-cg&#038;oe=6AD48BEA" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-nrt1-1.cdninstagram.com\/v\/t51.82787-15\/837659345_18178863232427373_6910867768291991172_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=n185zHatTywQ7kNvwF3FKw9&amp;_nc_oc=Adp3CffQRCOMDygSoV1I72MZdUjCjPyjZaSBVqiaeNe7buS5D9sNzYBs-edUkK4oxsw&amp;_nc_zt=23&amp;_nc_ht=scontent-nrt1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=WGzafbxsIdfXJQH3VPzYZA&amp;_nc_tpa=Q5bMBQKZF9sRuRowYTHZjako_ZDPzXw4oegI2FFATeKcrGR4fHr97-WrbjhBhcAiurYeu8Y_CwEjK-eIfA&amp;oh=00_AQPNtny_g-Nk9gQ4Zowqe1iL7woQRbhlA4pYGXr50IL-cg&amp;oe=6AD48BEA&quot;,&quot;150&quot;:&quot;https:\/\/scontent-nrt1-1.cdninstagram.com\/v\/t51.82787-15\/837659345_18178863232427373_6910867768291991172_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=n185zHatTywQ7kNvwF3FKw9&amp;_nc_oc=Adp3CffQRCOMDygSoV1I72MZdUjCjPyjZaSBVqiaeNe7buS5D9sNzYBs-edUkK4oxsw&amp;_nc_zt=23&amp;_nc_ht=scontent-nrt1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=WGzafbxsIdfXJQH3VPzYZA&amp;_nc_tpa=Q5bMBQKZF9sRuRowYTHZjako_ZDPzXw4oegI2FFATeKcrGR4fHr97-WrbjhBhcAiurYeu8Y_CwEjK-eIfA&amp;oh=00_AQPNtny_g-Nk9gQ4Zowqe1iL7woQRbhlA4pYGXr50IL-cg&amp;oe=6AD48BEA&quot;,&quot;320&quot;:&quot;https:\/\/scontent-nrt1-1.cdninstagram.com\/v\/t51.82787-15\/837659345_18178863232427373_6910867768291991172_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=n185zHatTywQ7kNvwF3FKw9&amp;_nc_oc=Adp3CffQRCOMDygSoV1I72MZdUjCjPyjZaSBVqiaeNe7buS5D9sNzYBs-edUkK4oxsw&amp;_nc_zt=23&amp;_nc_ht=scontent-nrt1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=WGzafbxsIdfXJQH3VPzYZA&amp;_nc_tpa=Q5bMBQKZF9sRuRowYTHZjako_ZDPzXw4oegI2FFATeKcrGR4fHr97-WrbjhBhcAiurYeu8Y_CwEjK-eIfA&amp;oh=00_AQPNtny_g-Nk9gQ4Zowqe1iL7woQRbhlA4pYGXr50IL-cg&amp;oe=6AD48BEA&quot;,&quot;640&quot;:&quot;https:\/\/scontent-nrt1-1.cdninstagram.com\/v\/t51.82787-15\/837659345_18178863232427373_6910867768291991172_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=103&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=n185zHatTywQ7kNvwF3FKw9&amp;_nc_oc=Adp3CffQRCOMDygSoV1I72MZdUjCjPyjZaSBVqiaeNe7buS5D9sNzYBs-edUkK4oxsw&amp;_nc_zt=23&amp;_nc_ht=scontent-nrt1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=WGzafbxsIdfXJQH3VPzYZA&amp;_nc_tpa=Q5bMBQKZF9sRuRowYTHZjako_ZDPzXw4oegI2FFATeKcrGR4fHr97-WrbjhBhcAiurYeu8Y_CwEjK-eIfA&amp;oh=00_AQPNtny_g-Nk9gQ4Zowqe1iL7woQRbhlA4pYGXr50IL-cg&amp;oe=6AD48BEA&quot;}">
+            <span class="sbi-screenreader"></span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="https://michinoeki-tsuno.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="🍅＼ 「トマトスープ」販売開始／🍅
+
+都農町産の旨味がぎゅっと詰まった
+「トマトスープ」の販売がスタートいたしました！👏🏻
+
+お湯を注ぐだけで手軽に味わえる
+トマトの優しい酸味とコクがたまらない一品です！
+
+これからの肌寒い季節のお供にぴったり！
+ぜひ店頭でチェックしてみてくださいね✨
+
+そして！
+
+「道の駅つの 周年祭」期間中
+沢山の写真を投稿して頂き
+誠にありがとうございました！😊
+
+皆様の笑顔や美味しい食事が詰まった
+素敵なお写真ばかりで
+スタッフ一同大変嬉しく拝見いたしました📷
+⁡
+
+厳選なる審査の結果
+見事当選された3名様が決定いたしました！🏆✨
+
+🏆 最優秀賞
+
+@tomo_159 さん
+
+🏅 優秀賞
+
+@yuki.8konkon さん
+@sumikei.cooking さん
+
+当選された皆様、おめでとうございます！
+
+お送りしたオリジナル商品とともに
+都農町の『おいしい』をご堪能ください🎁
+
+※当選者の皆様には、InstagramのDMにて
+今後の流れに関するご連絡をお送りしております📩
+
+今後とも「道の駅つの」をよろしくお願いいたします！
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+\ 都農町の旬を発信 /
+都農町×生産者約300名
+地元の『おいしい』をそのまま🍽️
+🍇フルーツ｜🍅野菜｜🎁お得情報
+
+📍宮崎県都農町大字川北5129
+🕘9:00-18:00(年中無休)
+🍴フードコート10:30-15:00
+
+お問い合わせはお電話にて☎️
+0983-25-5055
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+#都農町 #道の駅 #宮崎 #トマトスープ #コンテスト">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_18092720570438646" data-date="1790307005">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/reel/Ddsf4H3y34l/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-nrt1-2.cdninstagram.com/v/t51.71878-15/819383924_1425536569506669_7116164252310759238_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=107&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&#038;_nc_ohc=42rx73FKnV8Q7kNvwF4NFOE&#038;_nc_oc=AdqTy2_FsIso0DCIeQC66nwE4xy7mXheBGl3lFj8HbxsgB6YCKUpog1d9bT_F3CjBbs&#038;_nc_zt=23&#038;_nc_ht=scontent-nrt1-2.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=WGzafbxsIdfXJQH3VPzYZA&#038;_nc_tpa=Q5bMBQJDNboPB7nL1og0cSKuTIWwaibFa9Qg5oa7VZvBLaNptrRgHVLlFutDoxPexMLbjW7SZur2Zg4RfQ&#038;oh=00_AQMfYbJrANAA5UUlOs91ktv8BtKq7PrTesgM0OkbkT1azg&#038;oe=6AD4840B" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-nrt1-2.cdninstagram.com\/v\/t51.71878-15\/819383924_1425536569506669_7116164252310759238_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=42rx73FKnV8Q7kNvwF4NFOE&amp;_nc_oc=AdqTy2_FsIso0DCIeQC66nwE4xy7mXheBGl3lFj8HbxsgB6YCKUpog1d9bT_F3CjBbs&amp;_nc_zt=23&amp;_nc_ht=scontent-nrt1-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=WGzafbxsIdfXJQH3VPzYZA&amp;_nc_tpa=Q5bMBQJDNboPB7nL1og0cSKuTIWwaibFa9Qg5oa7VZvBLaNptrRgHVLlFutDoxPexMLbjW7SZur2Zg4RfQ&amp;oh=00_AQMfYbJrANAA5UUlOs91ktv8BtKq7PrTesgM0OkbkT1azg&amp;oe=6AD4840B&quot;,&quot;150&quot;:&quot;https:\/\/scontent-nrt1-2.cdninstagram.com\/v\/t51.71878-15\/819383924_1425536569506669_7116164252310759238_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=42rx73FKnV8Q7kNvwF4NFOE&amp;_nc_oc=AdqTy2_FsIso0DCIeQC66nwE4xy7mXheBGl3lFj8HbxsgB6YCKUpog1d9bT_F3CjBbs&amp;_nc_zt=23&amp;_nc_ht=scontent-nrt1-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=WGzafbxsIdfXJQH3VPzYZA&amp;_nc_tpa=Q5bMBQJDNboPB7nL1og0cSKuTIWwaibFa9Qg5oa7VZvBLaNptrRgHVLlFutDoxPexMLbjW7SZur2Zg4RfQ&amp;oh=00_AQMfYbJrANAA5UUlOs91ktv8BtKq7PrTesgM0OkbkT1azg&amp;oe=6AD4840B&quot;,&quot;320&quot;:&quot;https:\/\/scontent-nrt1-2.cdninstagram.com\/v\/t51.71878-15\/819383924_1425536569506669_7116164252310759238_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=42rx73FKnV8Q7kNvwF4NFOE&amp;_nc_oc=AdqTy2_FsIso0DCIeQC66nwE4xy7mXheBGl3lFj8HbxsgB6YCKUpog1d9bT_F3CjBbs&amp;_nc_zt=23&amp;_nc_ht=scontent-nrt1-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=WGzafbxsIdfXJQH3VPzYZA&amp;_nc_tpa=Q5bMBQJDNboPB7nL1og0cSKuTIWwaibFa9Qg5oa7VZvBLaNptrRgHVLlFutDoxPexMLbjW7SZur2Zg4RfQ&amp;oh=00_AQMfYbJrANAA5UUlOs91ktv8BtKq7PrTesgM0OkbkT1azg&amp;oe=6AD4840B&quot;,&quot;640&quot;:&quot;https:\/\/scontent-nrt1-2.cdninstagram.com\/v\/t51.71878-15\/819383924_1425536569506669_7116164252310759238_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=42rx73FKnV8Q7kNvwF4NFOE&amp;_nc_oc=AdqTy2_FsIso0DCIeQC66nwE4xy7mXheBGl3lFj8HbxsgB6YCKUpog1d9bT_F3CjBbs&amp;_nc_zt=23&amp;_nc_ht=scontent-nrt1-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=WGzafbxsIdfXJQH3VPzYZA&amp;_nc_tpa=Q5bMBQJDNboPB7nL1og0cSKuTIWwaibFa9Qg5oa7VZvBLaNptrRgHVLlFutDoxPexMLbjW7SZur2Zg4RfQ&amp;oh=00_AQMfYbJrANAA5UUlOs91ktv8BtKq7PrTesgM0OkbkT1azg&amp;oe=6AD4840B&quot;}">
+            <span class="sbi-screenreader"></span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="https://michinoeki-tsuno.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="＼ドライブ帰りに絶対寄って！🚙✨／
+
+都農町に来たら「道の駅つの」で
+お土産はいかがですか？
+
+都農町ならではの地元の美味しいものが
+ズラリと勢ぞろい！🍎🥬🍅  
+
+スタッフのおすすめは…
+「蜜芋ドーナツ」🍩✨
+自分用のおやつにも
+お土産にも大人気なんです！🙌  
+
+都農ワイナリーで絶景を楽しんだ後や
+都農神社でパワーチャージした後に
+立ち寄るのにもぴったり⛩️🍷  
+
+ぜひ「道の駅つの」で
+お気に入りの特産品をゲットしてくださいね！
+⁡
+皆様のお越しをお待ちしております✨
+⁡
+ーーーーーーーーーーーーーーーーー
+
+\ 都農町の旬を発信 /
+都農町×生産者約300名
+地元の『おいしい』をそのまま🍽️
+🍇フルーツ｜🍅野菜｜🎁お得情報
+
+📍宮崎県都農町大字川北5129
+🕘9:00-18:00(年中無休)
+🍴フードコート10:30-15:00
+
+お問い合わせはお電話にて☎️
+0983-25-5055
+ーーーーーーーーーーーーーーーー⁡
+#ドライブ #風景 #パワースポット #絶景 #お土産">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_18148127884536982" data-date="1789725604">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/DdbLA4Nj_L-/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-nrt1-2.cdninstagram.com/v/t51.82787-15/810518949_18176728528427373_5930397964364831897_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=101&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&#038;_nc_ohc=0OCmL8o3lCoQ7kNvwGVEPMz&#038;_nc_oc=AdrZXNvf8r2vcUDhI90fqESO7SuN5p6CqIMBl-dohIjGI2kMQLSi_vR_cl2rrxdy-r4&#038;_nc_zt=23&#038;_nc_ht=scontent-nrt1-2.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=WGzafbxsIdfXJQH3VPzYZA&#038;_nc_tpa=Q5bMBQKJ6HbAvQ4swS9abcRAAm1pkeURlbR3j4nfnb76ZNc07J4OmQe2VpumshEOHvPEGSJosZTPMI7ABw&#038;oh=00_AQPFiza2NYqKYl7QoQvIy2P6yYLmR0xa2QgSibq1XPpgHA&#038;oe=6AD48181" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-nrt1-2.cdninstagram.com\/v\/t51.82787-15\/810518949_18176728528427373_5930397964364831897_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=0OCmL8o3lCoQ7kNvwGVEPMz&amp;_nc_oc=AdrZXNvf8r2vcUDhI90fqESO7SuN5p6CqIMBl-dohIjGI2kMQLSi_vR_cl2rrxdy-r4&amp;_nc_zt=23&amp;_nc_ht=scontent-nrt1-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=WGzafbxsIdfXJQH3VPzYZA&amp;_nc_tpa=Q5bMBQKJ6HbAvQ4swS9abcRAAm1pkeURlbR3j4nfnb76ZNc07J4OmQe2VpumshEOHvPEGSJosZTPMI7ABw&amp;oh=00_AQPFiza2NYqKYl7QoQvIy2P6yYLmR0xa2QgSibq1XPpgHA&amp;oe=6AD48181&quot;,&quot;150&quot;:&quot;https:\/\/scontent-nrt1-2.cdninstagram.com\/v\/t51.82787-15\/810518949_18176728528427373_5930397964364831897_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=0OCmL8o3lCoQ7kNvwGVEPMz&amp;_nc_oc=AdrZXNvf8r2vcUDhI90fqESO7SuN5p6CqIMBl-dohIjGI2kMQLSi_vR_cl2rrxdy-r4&amp;_nc_zt=23&amp;_nc_ht=scontent-nrt1-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=WGzafbxsIdfXJQH3VPzYZA&amp;_nc_tpa=Q5bMBQKJ6HbAvQ4swS9abcRAAm1pkeURlbR3j4nfnb76ZNc07J4OmQe2VpumshEOHvPEGSJosZTPMI7ABw&amp;oh=00_AQPFiza2NYqKYl7QoQvIy2P6yYLmR0xa2QgSibq1XPpgHA&amp;oe=6AD48181&quot;,&quot;320&quot;:&quot;https:\/\/scontent-nrt1-2.cdninstagram.com\/v\/t51.82787-15\/810518949_18176728528427373_5930397964364831897_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=0OCmL8o3lCoQ7kNvwGVEPMz&amp;_nc_oc=AdrZXNvf8r2vcUDhI90fqESO7SuN5p6CqIMBl-dohIjGI2kMQLSi_vR_cl2rrxdy-r4&amp;_nc_zt=23&amp;_nc_ht=scontent-nrt1-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=WGzafbxsIdfXJQH3VPzYZA&amp;_nc_tpa=Q5bMBQKJ6HbAvQ4swS9abcRAAm1pkeURlbR3j4nfnb76ZNc07J4OmQe2VpumshEOHvPEGSJosZTPMI7ABw&amp;oh=00_AQPFiza2NYqKYl7QoQvIy2P6yYLmR0xa2QgSibq1XPpgHA&amp;oe=6AD48181&quot;,&quot;640&quot;:&quot;https:\/\/scontent-nrt1-2.cdninstagram.com\/v\/t51.82787-15\/810518949_18176728528427373_5930397964364831897_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=0OCmL8o3lCoQ7kNvwGVEPMz&amp;_nc_oc=AdrZXNvf8r2vcUDhI90fqESO7SuN5p6CqIMBl-dohIjGI2kMQLSi_vR_cl2rrxdy-r4&amp;_nc_zt=23&amp;_nc_ht=scontent-nrt1-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=WGzafbxsIdfXJQH3VPzYZA&amp;_nc_tpa=Q5bMBQKJ6HbAvQ4swS9abcRAAm1pkeURlbR3j4nfnb76ZNc07J4OmQe2VpumshEOHvPEGSJosZTPMI7ABw&amp;oh=00_AQPFiza2NYqKYl7QoQvIy2P6yYLmR0xa2QgSibq1XPpgHA&amp;oe=6AD48181&quot;}">
+            <span class="sbi-screenreader"></span>
+            <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+	            </svg>	                    <img src="https://michinoeki-tsuno.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="🌿✨ 軒下マルシェ開催のお知らせ ✨🌿
+
+📅 2026年9月22日（火）
+⏰ 10:00〜
+
+今回の軒下マルシェでは
+🪴 苔玉
+🧵 手芸品
+👜 革製品
+🍦 アイスつかみどりなど
+楽しいものをたくさんご用意しています♡
+
+ひとつひとつ
+心を込めて作った苔玉や革製品は
+自分用にはもちろん
+大切な人への贈り物にもおすすめです🎁✨
+
+ぜひお気に入りを探しに
+お気軽に遊びに来てください☺️🌿
+
+皆さまのお越しをお待ちしています！
+______________________________
+
+\ 都農町の旬を発信 /
+都農町×生産者約300名
+地元の『おいしい』をそのまま🍽️
+🍇フルーツ｜🍅野菜｜🎁お得情報
+
+📍宮崎県都農町大字川北5129
+🕘9:00-18:00(年中無休)
+🍴フードコート10:30-15:00
+
+お問い合わせはお電話にて☎️
+0983-25-5055
+______________________________
+
+#道の駅つの#道の駅
+#都農町#宮崎イベント#軒下マルシェ">
+        </a>
+    </div>
+</div>    </div>
+
+	<div id="sbi_load" >
+
+			<a class="sbi_load_btn" href="javascript:void(0);" style="background: rgb(96,21,23);">
+			<span class="sbi_btn_text">もっと見る</span>
+			<span class="sbi_loader sbi_hidden" style="background-color: rgb(255, 255, 255);" aria-hidden="true"></span>
+		</a>
+	
+			<span class="sbi_follow_btn sbi_custom">
+        <a href="https://www.instagram.com/michinoeki_tsuno/" style="background: rgb(0,140,61);" target="_blank" rel="nofollow noopener">
+            <svg class="svg-inline--fa fa-instagram fa-w-14" aria-hidden="true" data-fa-processed="" aria-label="Instagram" data-prefix="fab" data-icon="instagram" role="img" viewBox="0 0 448 512">
+	                <path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path>
+	            </svg>            <span>でフォロー</span>
+        </a>
+    </span>
+	
+</div>
+
+	    <span class="sbi_resized_image_data" data-feed-id="*1" data-resized="{&quot;18148127884536982&quot;:{&quot;id&quot;:&quot;810518949_18176728528427373_5930397964364831897_n&quot;,&quot;ratio&quot;:&quot;0.75&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150},&quot;extension&quot;:&quot;.webp&quot;},&quot;18092720570438646&quot;:{&quot;id&quot;:&quot;819383924_1425536569506669_7116164252310759238_n&quot;,&quot;ratio&quot;:&quot;0.56&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150},&quot;extension&quot;:&quot;.webp&quot;},&quot;18095454569404665&quot;:{&quot;id&quot;:&quot;837659345_18178863232427373_6910867768291991172_n&quot;,&quot;ratio&quot;:&quot;0.56&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150},&quot;extension&quot;:&quot;.webp&quot;},&quot;17882581863691588&quot;:{&quot;id&quot;:&quot;841140091_18178977049427373_6145959383102940773_n&quot;,&quot;ratio&quot;:&quot;0.75&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150},&quot;extension&quot;:&quot;.webp&quot;}}">
+	</span>
+	</div>
+
+	<style type="text/css">
+				#sb_instagram #sbi_load .sbi_load_btn:hover{
+			outline: none;
+			box-shadow: inset 0 0 20px 20px #601517;
+		}
+				
+		#sb_instagram .sbi_follow_btn a:hover,
+		#sb_instagram .sbi_follow_btn a:focus{
+			outline: none;
+			box-shadow: inset 0 0 10px 20px #008c3d;
+		}
+			</style>
+	            </div>
+        </div>
+    </section>
+    <section id="welcome" class="bk_beige top_01">
+        <h2>ようこそ！道の駅つのへ</h2>
+        <div class="bk_beige relative">
+            <div class="contents_in">
+                <div class="flex">
+                    <div class="img">
+                        <picture>
+                            <source srcset="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/img/top/top01_sp.png" media="(max-width: 480px)"/>
+                            <img src="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/img/top/top01.png" alt="">
+                        </picture>
+                    </div>
+                    <div class="text">
+                        <p>日頃から「道の駅つの」をご愛顧いただきありがとうございます。</p>
+                        <p>宮崎県15番目に登録された当駅は、宮崎市と延岡市の真ん中に位置し、西に「尾鈴連山(おすずれんざん)」、東に「日向灘(ひゅうがなだ)」、また隣接する「日向国一之宮都農神社(ひゅうがのくにいちのみや 都農神社)」と豊かな自然と由緒ある歴史に囲まれた都農町の道の駅です。</p>
+                    </div>
+                </div>
+                <div class="flex">
+                    <div class="img">
+                        <picture>
+                            <source srcset="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/img/top/top02_sp.png" media="(max-width: 480px)"/>
+                            <img src="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/img/top/top02.png" alt="">
+                        </picture>
+                    </div>
+                    <div class="text">
+                        <p>都農インターチェンジから車で5分、また国道10号線沿いにあり、東九州自動車道が全面開通したことで、遠方からのアクセスも容易になりました。物産館「門前市場」では、毎朝、都農町(つのちょう)・川南町(かわみなみちょう)の生産者さんのご協力の下、新鮮な旬の野菜・果物のほか、加工品やお土産品など、都農町・川南町ならではの、「オンリーワン」商品が盛り沢山です。<br>
+                        併せて、施設内には緊急時の情報発信する「情報休憩コーナー」、県内随一のきれいで清潔なトイレなど完備しています。<br>
+                        【館内の最新の営業情報は<a href="https://www.instagram.com/michinoeki_tsuno/" class="green" target="_blank">Instagram</a>をご確認下さい】</p>
+                        <a href="https://michinoeki-tsuno.com/about" id="btn">
+                            <p>道の駅つのについて</p>
+                            <div class="btn_arr">
+                                <i class="fa-solid fa-arrow-right"></i>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="top_about" class="top_02">
+        <h2>「<span class="green">道の駅つの</span>」こんなトコロ</h2>
+        <div class="bk_white relative">
+            <div class="contents_in">
+                <div class="flex">
+                    <div class="img no1">
+                        <picture>
+                            <source srcset="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/img/top/top_no1_sp.png" media="(max-width: 480px)"/>
+                            <img src="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/img/top/top_no1.png" alt="">
+                        </picture>
+                    </div>
+                    <div class="text">
+                        <b>とっておきの<br>お買い物が楽しめる！</b>
+                        <p>九州は宮崎県児湯郡にある都農町・川南の総勢350名を超える生産者さんからフルーツ、野菜が毎朝届いています。
+                            <br>とれたての生鮮食品・加工品が合計500アイテム以上並んでおり、人気商品は午前中には完売してしまうほどの人気です！</p>
+                        <a href="https://michinoeki-tsuno.com/osusume" id="btn">
+                            <p>おすすめ商品紹介へ</p>
+                            <div class="btn_arr">
+                                <i class="fa-solid fa-arrow-right"></i>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="flex">
+                    <div class="img no2">
+                        <picture>
+                            <source srcset="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/img/top/top_no2_sp.png" media="(max-width: 480px)"/>
+                            <img src="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/img/top/top_no2.png" alt="">
+                        </picture>
+                    </div>
+                    <div class="text">
+                        <b>バリエーション豊富！<br>様々なグルメに大満足♪</b>
+                        <p>フードコートでは道の駅つのでしか味わえない定食・丼・麺類をご用意しております。
+                            <br>地獲れの食材を贅沢に使った限定メニューも豊富で、胃袋をがっちりつかまれること間違いなしです！</p>
+                        <a href="https://michinoeki-tsuno.com/osusume/#food_menu" id="btn">
+                            <p>フードコート紹介へ</p>
+                            <div class="btn_arr">
+                                <i class="fa-solid fa-arrow-right"></i>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="top_lunch">
+                    <div class="lunch_item">
+                        <p class="bk_green_en">ラーメン家一道</p>
+                        <div class="img">
+                            <img src="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/img/top/lunch01.png" alt="ラーメン家一道">
+                        </div>
+                        <div class="text">
+                            <p>本格豚骨スープのチャーシューメン+チャーシュー丼がイチオシ！<br>お米も都農産なので安心です。</p>
+                        </div>
+                    </div>
+                    <div class="lunch_item">
+                        <p class="bk_green_en">福浦食堂</p>
+                        <div class="img">
+                            <img src="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/img/top/lunch02.png" alt="福浦食堂">
+                        </div>
+                        <div class="text">
+                            <p>地元・日向灘で取れた新鮮な魚介類がオススメ！都農の隠れた名産品ウニ丼は必食！季節限定(2月末～5月)</p>
+                        </div>
+                    </div>
+                    <div class="lunch_item">
+                        <p class="bk_green_en ">尾鈴庵</p>
+                        <div class="img">
+                            <img src="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/img/top/lunch03.png" alt="尾鈴庵">
+                        </div>
+                        <div class="text">
+                            <p>都農町産玄蕎麦の殻を丁寧に石臼でひいています。日向灘獲れの鱧を使ったメニューがイチオシ。</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="bk_beige relative">
+            <div class="contents_in">
+                <div class="flex">
+                    <div class="img no3">
+                        <picture>
+                            <source srcset="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/img/top/top_no3_sp.png" media="(max-width: 480px)"/>
+                            <img src="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/img/top/top_no3.png" alt="">
+                        </picture>
+                    </div>
+                    <div class="text">
+                        <b>「ソフト＆ドリーム」で、珍しい<br>トマトソフトクリームを食べる</b>
+                        <p>都農町の名産品トマトを使ったソフトクリームに「トマトひねり揚げ」をトッピング。トマトを使ったソフトクリームはここでしか味わえない逸品です。</p>
+                        <p>ソフトクリームショップですが、なんと宝くじの購入もできてしまいます！</p>
+                        <a href="https://michinoeki-tsuno.com//about#kaitai" id="btn">
+                            <p>トマトソフト紹介へ</p>
+                            <div class="btn_arr">
+                                <i class="fa-solid fa-arrow-right"></i>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="flex">
+                    <div class="img no4">
+                        <picture>
+                            <source srcset="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/img/top/top_no4_sp.png" media="(max-width: 480px)"/>
+                            <img src="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/img/top/top_no4.png" alt="">
+                        </picture>
+                    </div>
+                    <div class="text">
+                        <b>都農神社<br>神武天皇が国土平安・武運長久等を<br>祈念したと伝わる神社</b>
+                        <p>宮崎県で一番格式の高い「日向国一之宮」に位置付けられた都農神社。「石持ち神事」という由緒あるお参り方法があるので是非お参りしてみてください！宮司さんが願いを込めた「神の石」は道の駅つのにも置いています。</p>
+                        <a href="https://michinoeki-tsuno.com/about/#jinja" id="btn">
+                            <p>都農神社とは？</p>
+                            <div class="btn_arr">
+                                <i class="fa-solid fa-arrow-right"></i>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+        </div>
+    </section>
+    <section id="information" class="top_03">
+        <h2 class="poppins">INFORMATION<span class="block normal">旬鮮インフォメーション</span></h2>
+        <div class="contents_in">
+            <div class="flex">
+                <div class="img">
+                    <a href="https://michinoeki-tsuno.com/tomato_lp/" target="_blank">
+                        <img src="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/img/top/lp01.png" alt="都農町と川南町の奥深いトマト">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="map">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3373.9093857305693!2d131.55624926527145!3d32.26052019044693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3547432bcf11d52d%3A0x8911c0fab3085c9c!2z6YGT44Gu6aeFIOOBpOOBrg!5e0!3m2!1sja!2sjp!4v1729169165887!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+
+</div>
+	<section class="foot bk_beige">
+		<div class="logo">
+			<img src="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/img/logo.png" alt="道の駅つの">
+		</div>
+		<div class="inst_icon">
+			<a href="https://www.instagram.com/michinoeki_tsuno/" target="_blank">
+				<img src="https://michinoeki-tsuno.com/wp-content/themes/mitinoeki-tsuno/img/inst.png" alt="インスタグラム">
+			</a>
+		</div>
+		<p>〒889-1201 宮崎県児湯郡都農町大字川北5129</p>
+		<p class="hours"><span class="bk_winered white">営業時間</span><b class="poppins">9:00～18:00</b></p>
+		<b class="tel relative poppins">0983-25-5055</b>
+	</section>
+	<footer class="bk_winered white">
+		<small>Copyright &copy; michino eki TSUNO. All rights reserved.</small>
+	</footer>
+		<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://michinoeki-tsuno.com/wp-admin/admin-ajax.php";
+</script>
+<script type="text/javascript" src="https://michinoeki-tsuno.com/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://michinoeki-tsuno.com/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="sbi_scripts-js-extra">
+/* <![CDATA[ */
+var sb_instagram_js_options = {"font_method":"svg","resized_url":"https:\/\/michinoeki-tsuno.com\/wp-content\/uploads\/sb-instagram-feed-images\/","placeholder":"https:\/\/michinoeki-tsuno.com\/wp-content\/plugins\/instagram-feed\/img\/placeholder.png","ajax_url":"https:\/\/michinoeki-tsuno.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://michinoeki-tsuno.com/wp-content/plugins/instagram-feed/js/sbi-scripts.min.js" id="sbi_scripts-js"></script>
+	</body>
+</html>
