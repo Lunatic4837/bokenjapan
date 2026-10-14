@@ -1561,3 +1561,14 @@ body.home .pref-map g[data-name] path {
   fill: #eef0ee;
   stroke: #8a9399;
 }
+
+/* homepage: X account not active yet, shown unlinked */
+body.home .hero-sns .sns-off {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 2.75rem; height: 2.75rem; background: #fff; border-radius: 0.28rem;
+  opacity: 0.45; box-shadow: 0 1px 0 rgba(28, 25, 22, 0.04), 0 8px 18px rgba(28, 25, 22, 0.16);
+}
+body.home .site-foot .sns-off { color: var(--muted); }
+
+/* homepage: spacing between CTA and hero photo after ask box removal */
+body.home p.next { margin-bottom: 1.75rem; }

@@ -51,30 +51,17 @@
       <div class="hero-copy">
         <p class="eyebrow">Japan, by prefecture</p>
         <h1 id="hero-title">Design your customized Japan adventure</h1>
-        <p class="lede">Pick a prefecture. Find the places you thought you never could</p>
+        <p class="lede">Pick a prefecture. Find the places you thought you never could.</p>
         <p class="next"><a class="cta" href="#prefectures">Open the prefecture list</a></p>
-      </div>
-      <div class="ask-box" id="ask">
-        <div class="ask-box-inner">
-          <h2 id="ask-title">Ask about rural Japan</h2>
-          <form class="ask-form" action="#ask" method="post">
-            <label class="visually-hidden" for="ask-question">Ask about rural Japan</label>
-            <div class="ask-controls">
-              <textarea id="ask-question" name="question" rows="2" placeholder="I want to stay in a Japanese castle. Is that possible?" autocomplete="off"></textarea>
-              <button type="submit">Ask</button>
-            </div>
-            <p class="ask-status" role="status" aria-live="polite" hidden>Answers are not connected yet.</p>
-          </form>
-        </div>
       </div>
       <figure class="hero-photo">
         <div class="hero-frame">
           <div class="hero-stage">
-            <img src="https://img.bokenjapan.com/hero-himeji.jpg" alt="Himeji Castle after the repair" width="5177" height="3200">
+            <img src="https://img.bokenjapan.com/hero-himeji.jpg" alt="Himeji Castle, Hyogo" width="5177" height="3200">
             <nav class="hero-sns" aria-label="BokenJapan social media">
-              <a href="https://x.com/bokenjapan" rel="me" aria-label="X (@bokenjapan)">
+              <span class="sns-off" role="img" aria-label="X (@bokenjapan)">
                 <svg class="hero-mark" viewBox="0 0 300 271" aria-hidden="true" focusable="false"><path fill="#000000" d="m236 0h46l-101 115 118 156h-92.6l-72.5-94.8-83 94.8h-46l107-123-113-148h94.9l65.5 86.6zm-16.1 244h25.5l-165-218h-27.4z"/></svg>
-              </a>
+              </span>
               <a href="https://www.instagram.com/bokenjapan/" rel="me" aria-label="Instagram (@bokenjapan)">
                 <svg class="hero-mark" viewBox="0 0 134 134" aria-hidden="true" focusable="false">
 	<defs>
@@ -184,7 +171,7 @@
           <li>
             <p class="how-step-num" aria-hidden="true">1</p>
             <h3>Pick a prefecture</h3>
-            <p>Choose from the map or the list of forty-seven prefectures.</p>
+            <p>Choose from the map or the list. Hokkaido and Aomori are greyed out until their pages are published.</p>
           </li>
           <li>
             <p class="how-step-num" aria-hidden="true">2</p>
@@ -203,7 +190,7 @@
     <section class="directory" id="prefectures" aria-labelledby="pref-title">
       <div class="directory-head">
         <h2 id="pref-title">Prefectures</h2>
-        <p>Forty-seven prefecture pages, grouped by region. Municipality names are links where a list exists. Some pages may still be in Japanese so try translating in your browser.</p>
+        <p>Forty-five of the 47 prefectures have pages, grouped by region below. Municipality lists are on each prefecture page. Some pages may still be in Japanese, so try translating in your browser.</p>
       </div>
       <!-- These pages are still in Japanese and will be replaced with English pages. -->
       <nav aria-label="Prefectures">
@@ -302,7 +289,7 @@
     <div class="brand-foot"><img src="https://img.bokenjapan.com/logo.svg" width="88" height="88" alt="冒険日本"><p class="foot-name">BokenJapan</p></div>
     <nav class="social-row" aria-label="BokenJapan social media">
       <span class="social-label">SNS</span>
-      <a href="https://x.com/bokenjapan" rel="me">X<span class="visually-hidden"> (@bokenjapan)</span></a>
+      <span class="sns-off">X<span class="visually-hidden"> (@bokenjapan)</span></span>
       <a href="https://www.instagram.com/bokenjapan/" rel="me">Instagram<span class="visually-hidden"> (@bokenjapan)</span></a>
       <a href="https://www.tiktok.com/@bokenjapan" rel="me">TikTok<span class="visually-hidden"> (@bokenjapan)</span></a>
       <a href="https://www.facebook.com/profile.php?id=61595415860080" target="_blank" rel="noopener" aria-label="Boken Japan on Facebook">Facebook</a>
@@ -310,15 +297,6 @@
     <nav class="foot-legal" aria-label="Legal"><a href="/privacy.html">Privacy</a> · <a href="/terms.html">Terms</a></nav>
     <p class="foot-disclaimer">Rankings and listing data may reflect publicly available restaurant and lodging directories.</p>
   </footer>
-
-  <script>
-    document.querySelector(".ask-form").addEventListener("submit", function (event) {
-      event.preventDefault();
-      var status = this.querySelector(".ask-status");
-      status.hidden = false;
-      status.textContent = "Answers are not connected yet.";
-    });
-  </script>
 
   <script>
     (function () {
