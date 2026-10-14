@@ -679,6 +679,366 @@
   "lon": 130.982894,
   "src": "osm:行橋市役所"
  },
+ "kumamoto/amakusa": {
+  "en": "Amakusa",
+  "ja": "天草市",
+  "code": "432156",
+  "lat": 32.45893,
+  "lon": 130.1934637,
+  "src": "osm:天草市役所"
+ },
+ "kumamoto/arao": {
+  "en": "Arao",
+  "ja": "荒尾市",
+  "code": "432040",
+  "lat": 32.986741,
+  "lon": 130.433181,
+  "src": "osm:荒尾市役所"
+ },
+ "kumamoto/asagiri": {
+  "en": "Asagiri",
+  "ja": "あさぎり町",
+  "code": "435147",
+  "lat": 32.240259,
+  "lon": 130.897794,
+  "src": "osm:あさぎり町役場"
+ },
+ "kumamoto/ashikita": {
+  "en": "Ashikita",
+  "ja": "芦北町",
+  "code": "434825",
+  "lat": 32.2990292,
+  "lon": 130.4927879,
+  "src": "osm:芦北町役場"
+ },
+ "kumamoto/aso": {
+  "en": "Aso",
+  "ja": "阿蘇市",
+  "code": "432148",
+  "lat": 32.9520778,
+  "lon": 131.1214276,
+  "src": "osm:阿蘇市役所"
+ },
+ "kumamoto/gyokuto": {
+  "en": "Gyokuto",
+  "ja": "玉東町",
+  "code": "433640",
+  "lat": 32.918865,
+  "lon": 130.628529,
+  "src": "osm:玉東町役場"
+ },
+ "kumamoto/hikawa": {
+  "en": "Hikawa",
+  "ja": "氷川町",
+  "code": "434680",
+  "lat": 32.5823322,
+  "lon": 130.6739365,
+  "src": "osm:氷川町役場"
+ },
+ "kumamoto/hitoyoshi": {
+  "en": "Hitoyoshi",
+  "ja": "人吉市",
+  "code": "432032",
+  "lat": 32.2057018,
+  "lon": 130.7601285,
+  "src": "osm:人吉市役所"
+ },
+ "kumamoto/itsuki": {
+  "en": "Itsuki",
+  "ja": "五木村",
+  "code": "435112",
+  "lat": 32.397387,
+  "lon": 130.827848,
+  "src": "osm:五木村役場"
+ },
+ "kumamoto/kamiamakusa": {
+  "en": "Kamiamakusa",
+  "ja": "上天草市",
+  "code": "432121",
+  "lat": 32.5874695,
+  "lon": 130.4304853,
+  "src": "osm:上天草市役所"
+ },
+ "kumamoto/kashimamachi": {
+  "en": "Kashimamachi",
+  "ja": "嘉島町",
+  "code": "434426",
+  "lat": 32.739934,
+  "lon": 130.757301,
+  "src": "osm:嘉島町役場"
+ },
+ "kumamoto/kikuchi": {
+  "en": "Kikuchi",
+  "ja": "菊池市",
+  "code": "432105",
+  "lat": 32.979386,
+  "lon": 130.813292,
+  "src": "osm:菊池市役所"
+ },
+ "kumamoto/kikuyo": {
+  "en": "Kikuyo",
+  "ja": "菊陽町",
+  "code": "434043",
+  "lat": 32.862507,
+  "lon": 130.828682,
+  "src": "osm:菊陽町役場"
+ },
+ "kumamoto/kosa": {
+  "en": "Kosa",
+  "ja": "甲佐町",
+  "code": "434442",
+  "lat": 32.6514271,
+  "lon": 130.8114145,
+  "src": "osm:甲佐町役場"
+ },
+ "kumamoto/koshi": {
+  "en": "Koshi",
+  "ja": "合志市",
+  "code": "432164",
+  "lat": 32.8862622,
+  "lon": 130.7897372,
+  "src": "osm:合志市役所"
+ },
+ "kumamoto/kuma": {
+  "en": "Kuma",
+  "ja": "球磨村",
+  "code": "435139",
+  "lat": 32.252672,
+  "lon": 130.651357,
+  "src": "osm:球磨村役場"
+ },
+ "kumamoto/kumamoto": {
+  "en": "Kumamoto",
+  "ja": "熊本市",
+  "code": "431001",
+  "lat": 32.8032975,
+  "lon": 130.7080255,
+  "src": "osm:熊本市役所"
+ },
+ "kumamoto/mashiki": {
+  "en": "Mashiki",
+  "ja": "益城町",
+  "code": "434434",
+  "lat": 32.791402,
+  "lon": 130.816407,
+  "src": "osm:益城町役場"
+ },
+ "kumamoto/mifune": {
+  "en": "Mifune",
+  "ja": "御船町",
+  "code": "434418",
+  "lat": 32.714521,
+  "lon": 130.801883,
+  "src": "osm:御船町役場"
+ },
+ "kumamoto/minamata": {
+  "en": "Minamata",
+  "ja": "水俣市",
+  "code": "432059",
+  "lat": 32.2117978,
+  "lon": 130.4085851,
+  "src": "osm:水俣市役所"
+ },
+ "kumamoto/minamiaso": {
+  "en": "Minamiaso",
+  "ja": "南阿蘇村",
+  "code": "434337",
+  "lat": 32.8451282,
+  "lon": 131.0177683,
+  "src": "osm:南阿蘇村役場"
+ },
+ "kumamoto/minamioguni": {
+  "en": "Minamioguni",
+  "ja": "南小国町",
+  "code": "434230",
+  "lat": 33.0985863,
+  "lon": 131.0704509,
+  "src": "osm:南小国町役場"
+ },
+ "kumamoto/misatomachi": {
+  "en": "Misatomachi",
+  "ja": "美里町",
+  "code": "433489",
+  "lat": 32.6401329,
+  "lon": 130.7888488,
+  "src": "osm:美里町役場 中央庁舎"
+ },
+ "kumamoto/mizukami": {
+  "en": "Mizukami",
+  "ja": "水上村",
+  "code": "435074",
+  "lat": 32.314293,
+  "lon": 131.009436,
+  "src": "osm:水上村役場"
+ },
+ "kumamoto/nagasu": {
+  "en": "Nagasu",
+  "ja": "長洲町",
+  "code": "433683",
+  "lat": 32.9297392,
+  "lon": 130.4527256,
+  "src": "osm:長洲町役場"
+ },
+ "kumamoto/nagomi": {
+  "en": "Nagomi",
+  "ja": "和水町",
+  "code": "433691",
+  "lat": 32.9781167,
+  "lon": 130.6057848,
+  "src": "osm:和水町役場"
+ },
+ "kumamoto/nankan": {
+  "en": "Nankan",
+  "ja": "南関町",
+  "code": "433675",
+  "lat": 33.0598642,
+  "lon": 130.5441005,
+  "src": "osm:南関町役場"
+ },
+ "kumamoto/nishihara": {
+  "en": "Nishihara",
+  "ja": "西原村",
+  "code": "434329",
+  "lat": 32.834706,
+  "lon": 130.903065,
+  "src": "osm:西原村役場"
+ },
+ "kumamoto/nishiki": {
+  "en": "Nishiki",
+  "ja": "錦町",
+  "code": "435015",
+  "lat": 32.201215,
+  "lon": 130.841159,
+  "src": "osm:錦町役場"
+ },
+ "kumamoto/oguni": {
+  "en": "Oguni",
+  "ja": "小国町",
+  "code": "434248",
+  "lat": 33.121517,
+  "lon": 131.068296,
+  "src": "osm:小国町役場"
+ },
+ "kumamoto/ozumachi": {
+  "en": "Ozumachi",
+  "ja": "大津町",
+  "code": "434035",
+  "lat": 32.8779458,
+  "lon": 130.868608,
+  "src": "osm:大津町役場"
+ },
+ "kumamoto/reihoku": {
+  "en": "Reihoku",
+  "ja": "苓北町",
+  "code": "435317",
+  "lat": 32.5135317,
+  "lon": 130.0552258,
+  "src": "osm:苓北町役場"
+ },
+ "kumamoto/sagara": {
+  "en": "Sagara",
+  "ja": "相良村",
+  "code": "435104",
+  "lat": 32.235344,
+  "lon": 130.798067,
+  "src": "osm:相良村役場"
+ },
+ "kumamoto/takamori": {
+  "en": "Takamori",
+  "ja": "高森町",
+  "code": "434280",
+  "lat": 32.8272577,
+  "lon": 131.1219008,
+  "src": "osm:高森町役場"
+ },
+ "kumamoto/tamana": {
+  "en": "Tamana",
+  "ja": "玉名市",
+  "code": "432067",
+  "lat": 32.9352331,
+  "lon": 130.5627768,
+  "src": "osm:玉名市役所"
+ },
+ "kumamoto/taragi": {
+  "en": "Taragi",
+  "ja": "多良木町",
+  "code": "435058",
+  "lat": 32.264018,
+  "lon": 130.935858,
+  "src": "osm:多良木町役場"
+ },
+ "kumamoto/tsunagi": {
+  "en": "Tsunagi",
+  "ja": "津奈木町",
+  "code": "434841",
+  "lat": 32.2338454,
+  "lon": 130.4395992,
+  "src": "osm:津奈木町役場"
+ },
+ "kumamoto/ubuyama": {
+  "en": "Ubuyama",
+  "ja": "産山村",
+  "code": "434256",
+  "lat": 32.995501,
+  "lon": 131.216787,
+  "src": "osm:産山村役場"
+ },
+ "kumamoto/uki": {
+  "en": "Uki",
+  "ja": "宇城市",
+  "code": "432130",
+  "lat": 32.64787,
+  "lon": 130.684362,
+  "src": "osm:宇城市本庁舎"
+ },
+ "kumamoto/uto": {
+  "en": "Uto",
+  "ja": "宇土市",
+  "code": "432113",
+  "lat": 32.6880174,
+  "lon": 130.6597163,
+  "src": "osm:宇土市役所"
+ },
+ "kumamoto/yamae": {
+  "en": "Yamae",
+  "ja": "山江村",
+  "code": "435120",
+  "lat": 32.246342,
+  "lon": 130.767319,
+  "src": "osm:山江村役場"
+ },
+ "kumamoto/yamaga": {
+  "en": "Yamaga",
+  "ja": "山鹿市",
+  "code": "432083",
+  "lat": 33.0176296,
+  "lon": 130.6913693,
+  "src": "osm:山鹿市役所"
+ },
+ "kumamoto/yamato": {
+  "en": "Yamato",
+  "ja": "山都町",
+  "code": "434477",
+  "lat": 32.6855226,
+  "lon": 130.9904029,
+  "src": "osm:山都町役場"
+ },
+ "kumamoto/yatsushiro": {
+  "en": "Yatsushiro",
+  "ja": "八代市",
+  "code": "432024",
+  "lat": 32.507589,
+  "lon": 130.601821,
+  "src": "osm:八代市役所"
+ },
+ "kumamoto/yunomae": {
+  "en": "Yunomae",
+  "ja": "湯前町",
+  "code": "435066",
+  "lat": 32.2761781,
+  "lon": 130.980865,
+  "src": "osm:湯前町役場"
+ },
  "miyagi/higashimatsushima": {
   "en": "Higashimatsushima",
   "ja": "東松島市",
