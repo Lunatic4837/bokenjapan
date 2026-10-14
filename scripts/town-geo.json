@@ -1103,6 +1103,334 @@
   "lon": 131.4266925,
   "src": "osm:由布市役所"
  },
+ "okinawa/aguni": {
+  "en": "Aguni",
+  "ja": "粟国村",
+  "code": "473553",
+  "lat": 26.5817432,
+  "lon": 127.2288004,
+  "src": "osm:粟国村役場"
+ },
+ "okinawa/chatan": {
+  "en": "Chatan",
+  "ja": "北谷町",
+  "code": "473260",
+  "lat": 26.3201189,
+  "lon": 127.7638227,
+  "src": "osm:北谷町役場"
+ },
+ "okinawa/ginowan": {
+  "en": "Ginowan",
+  "ja": "宜野湾市",
+  "code": "472050",
+  "lat": 26.2814386,
+  "lon": 127.7785127,
+  "src": "osm:宜野湾市役所"
+ },
+ "okinawa/ginoza": {
+  "en": "Ginoza",
+  "ja": "宜野座村",
+  "code": "473138",
+  "lat": 26.4816134,
+  "lon": 127.9755322,
+  "src": "osm:Ginoza Village Office"
+ },
+ "okinawa/haebaru": {
+  "en": "Haebaru",
+  "ja": "南風原町",
+  "code": "473502",
+  "lat": 26.1911382,
+  "lon": 127.728515,
+  "src": "osm:南風原町役場"
+ },
+ "okinawa/higashi": {
+  "en": "Higashi",
+  "ja": "東村",
+  "code": "473030",
+  "lat": 26.6330812,
+  "lon": 128.1571572,
+  "src": "osm:東村役場"
+ },
+ "okinawa/iejima": {
+  "en": "Iejima",
+  "ja": "伊江村",
+  "code": "473154",
+  "lat": 26.7135569,
+  "lon": 127.8070754,
+  "src": "osm:伊江村役場"
+ },
+ "okinawa/iheya": {
+  "en": "Iheya",
+  "ja": "伊平屋村",
+  "code": "473596",
+  "lat": 27.039089,
+  "lon": 127.9686103,
+  "src": "osm:伊平屋村役場"
+ },
+ "okinawa/ishigaki": {
+  "en": "Ishigaki",
+  "ja": "石垣市",
+  "code": "472077",
+  "lat": 24.3443624,
+  "lon": 124.1852031,
+  "src": "osm:石垣市役所"
+ },
+ "okinawa/itoman": {
+  "en": "Itoman",
+  "ja": "糸満市",
+  "code": "472107",
+  "lat": 26.1235554,
+  "lon": 127.665127,
+  "src": "osm:糸満市役所 水道局"
+ },
+ "okinawa/izena": {
+  "en": "Izena",
+  "ja": "伊是名村",
+  "code": "473600",
+  "lat": 26.92368,
+  "lon": 127.9413359,
+  "src": "osm:伊是名村役場"
+ },
+ "okinawa/kadena": {
+  "en": "Kadena",
+  "ja": "嘉手納町",
+  "code": "473251",
+  "lat": 26.3618415,
+  "lon": 127.7553678,
+  "src": "osm:嘉手納町役場"
+ },
+ "okinawa/kin": {
+  "en": "Kin",
+  "ja": "金武町",
+  "code": "473146",
+  "lat": 26.45621,
+  "lon": 127.925975,
+  "src": "osm:金武町役場"
+ },
+ "okinawa/kitadaito": {
+  "en": "Kitadaito",
+  "ja": "北大東村",
+  "code": "473588",
+  "lat": 25.945754,
+  "lon": 131.298763,
+  "src": "osm:北大東村役場"
+ },
+ "okinawa/kitanakagusuku": {
+  "en": "Kitanakagusuku",
+  "ja": "北中城村",
+  "code": "473278",
+  "lat": 26.3007959,
+  "lon": 127.7929819,
+  "src": "osm:北中城村役場"
+ },
+ "okinawa/kumejima": {
+  "en": "Kumejima",
+  "ja": "久米島町",
+  "code": "473618",
+  "lat": 26.340694444,
+  "lon": 126.804944444,
+  "src": "wikidata P625 (Q1206086)"
+ },
+ "okinawa/kunigami": {
+  "en": "Kunigami",
+  "ja": "国頭村",
+  "code": "473014",
+  "lat": 26.7457256,
+  "lon": 128.1782966,
+  "src": "osm:国頭村役場"
+ },
+ "okinawa/minamidaito": {
+  "en": "Minamidaito",
+  "ja": "南大東村",
+  "code": "473570",
+  "lat": 25.8287378,
+  "lon": 131.2320368,
+  "src": "osm:南大東村役場"
+ },
+ "okinawa/miyakojima": {
+  "en": "Miyakojima",
+  "ja": "宮古島市",
+  "code": "472140",
+  "lat": 24.7899856,
+  "lon": 125.2947128,
+  "src": "osm:宮古島市役所"
+ },
+ "okinawa/motobu": {
+  "en": "Motobu",
+  "ja": "本部町",
+  "code": "473081",
+  "lat": 26.6575372,
+  "lon": 127.8977857,
+  "src": "osm:本部町役場"
+ },
+ "okinawa/nago": {
+  "en": "Nago",
+  "ja": "名護市",
+  "code": "472093",
+  "lat": 26.5916091,
+  "lon": 127.9776118,
+  "src": "osm:名護市役所"
+ },
+ "okinawa/naha": {
+  "en": "Naha",
+  "ja": "那覇市",
+  "code": "472018",
+  "lat": 26.2123329,
+  "lon": 127.6792,
+  "src": "osm:那覇市役所"
+ },
+ "okinawa/nakagusuku": {
+  "en": "Nakagusuku",
+  "ja": "中城村",
+  "code": "473286",
+  "lat": 26.2620067,
+  "lon": 127.7896161,
+  "src": "osm:中城村役場"
+ },
+ "okinawa/nakijin": {
+  "en": "Nakijin",
+  "ja": "今帰仁村",
+  "code": "473065",
+  "lat": 26.6827915,
+  "lon": 127.9729218,
+  "src": "osm:今帰仁村役場"
+ },
+ "okinawa/nanjo": {
+  "en": "Nanjo",
+  "ja": "南城市",
+  "code": "472158",
+  "lat": 26.1631853,
+  "lon": 127.7706639,
+  "src": "osm:南城市役所"
+ },
+ "okinawa/nishiharacho": {
+  "en": "Nishiharacho",
+  "ja": "西原町",
+  "code": "473294",
+  "lat": 26.2227581,
+  "lon": 127.7588121,
+  "src": "osm:西原町役場"
+ },
+ "okinawa/ogimi": {
+  "en": "Ogimi",
+  "ja": "大宜味村",
+  "code": "473022",
+  "lat": 26.7020931,
+  "lon": 128.1192618,
+  "src": "osm:大宜味村役場 (仮庁舎)"
+ },
+ "okinawa/okinawa": {
+  "en": "Okinawa",
+  "ja": "沖縄市",
+  "code": "472115",
+  "lat": 26.3343576,
+  "lon": 127.8055735,
+  "src": "osm:沖縄市役所"
+ },
+ "okinawa/onna": {
+  "en": "Onna",
+  "ja": "恩納村",
+  "code": "473111",
+  "lat": 26.497399,
+  "lon": 127.853646,
+  "src": "osm:恩納村役場"
+ },
+ "okinawa/taketomi": {
+  "en": "Taketomi",
+  "ja": "竹富町",
+  "code": "473812",
+  "lat": 24.3395527,
+  "lon": 124.1543922,
+  "src": "osm:竹富町役場"
+ },
+ "okinawa/tarama": {
+  "en": "Tarama",
+  "ja": "多良間村",
+  "code": "473758",
+  "lat": 24.6694532,
+  "lon": 124.7016036,
+  "src": "osm:多良間村役場"
+ },
+ "okinawa/tokashiki": {
+  "en": "Tokashiki",
+  "ja": "渡嘉敷村",
+  "code": "473537",
+  "lat": 26.197385,
+  "lon": 127.364333,
+  "src": "osm:渡嘉敷村役場"
+ },
+ "okinawa/tomigusuku": {
+  "en": "Tomigusuku",
+  "ja": "豊見城市",
+  "code": "472123",
+  "lat": 26.1771332,
+  "lon": 127.6812301,
+  "src": "osm:豊見城市役所"
+ },
+ "okinawa/tonaki": {
+  "en": "Tonaki",
+  "ja": "渡名喜村",
+  "code": "473561",
+  "lat": 26.3721154,
+  "lon": 127.1410589,
+  "src": "osm:渡名喜村役場"
+ },
+ "okinawa/urasoe": {
+  "en": "Urasoe",
+  "ja": "浦添市",
+  "code": "472085",
+  "lat": 26.2457678,
+  "lon": 127.7217794,
+  "src": "osm:浦添市役所"
+ },
+ "okinawa/uruma": {
+  "en": "Uruma",
+  "ja": "うるま市",
+  "code": "472131",
+  "lat": 26.3786013,
+  "lon": 127.8581421,
+  "src": "osm:うるま市役所"
+ },
+ "okinawa/yaese": {
+  "en": "Yaese",
+  "ja": "八重瀬町",
+  "code": "473626",
+  "lat": 26.1581872,
+  "lon": 127.718702,
+  "src": "osm:八重瀬町役場"
+ },
+ "okinawa/yomitan": {
+  "en": "Yomitan",
+  "ja": "読谷村",
+  "code": "473243",
+  "lat": 26.3961984,
+  "lon": 127.7445655,
+  "src": "osm:読谷村役場"
+ },
+ "okinawa/yonabaru": {
+  "en": "Yonabaru",
+  "ja": "与那原町",
+  "code": "473480",
+  "lat": 26.1995469,
+  "lon": 127.7544877,
+  "src": "osm:与那原町役場"
+ },
+ "okinawa/yonaguni": {
+  "en": "Yonaguni",
+  "ja": "与那国町",
+  "code": "473820",
+  "lat": 24.4679081,
+  "lon": 123.0045091,
+  "src": "osm:与那国町役場"
+ },
+ "okinawa/zamami": {
+  "en": "Zamami",
+  "ja": "座間味村",
+  "code": "473545",
+  "lat": 26.2288715,
+  "lon": 127.3032288,
+  "src": "osm:座間味村役場"
+ },
  "yamaguchi/abu": {
   "en": "Abu",
   "ja": "阿武町",
