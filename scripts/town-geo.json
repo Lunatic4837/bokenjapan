@@ -959,6 +959,214 @@
   "lon": 140.6586648,
   "src": "osm:蔵王町役場"
  },
+ "miyazaki/aya": {
+  "en": "Aya",
+  "ja": "綾町",
+  "code": "453838",
+  "lat": 31.999074,
+  "lon": 131.253009,
+  "src": "osm:綾町役場"
+ },
+ "miyazaki/ebino": {
+  "en": "Ebino",
+  "ja": "えびの市",
+  "code": "452092",
+  "lat": 32.0454213,
+  "lon": 130.8110582,
+  "src": "osm:えびの市役所"
+ },
+ "miyazaki/gokase": {
+  "en": "Gokase",
+  "ja": "五ヶ瀬町",
+  "code": "454435",
+  "lat": 32.6833444,
+  "lon": 131.1968713,
+  "src": "osm:五ヶ瀬町役場"
+ },
+ "miyazaki/hinokage": {
+  "en": "Hinokage",
+  "ja": "日之影町",
+  "code": "454427",
+  "lat": 32.653788,
+  "lon": 131.388084,
+  "src": "osm:日之影町役場"
+ },
+ "miyazaki/hyuga": {
+  "en": "Hyuga",
+  "ja": "日向市",
+  "code": "452068",
+  "lat": 32.4224876,
+  "lon": 131.6244302,
+  "src": "osm:日向市役所"
+ },
+ "miyazaki/kadogawa": {
+  "en": "Kadogawa",
+  "ja": "門川町",
+  "code": "454214",
+  "lat": 32.4709491,
+  "lon": 131.6465301,
+  "src": "osm:門川町役場"
+ },
+ "miyazaki/kawaminami": {
+  "en": "Kawaminami",
+  "ja": "川南町",
+  "code": "454052",
+  "lat": 32.192061,
+  "lon": 131.525896,
+  "src": "osm:川南町役場"
+ },
+ "miyazaki/kijo": {
+  "en": "Kijo",
+  "ja": "木城町",
+  "code": "454044",
+  "lat": 32.1639113,
+  "lon": 131.4734435,
+  "src": "osm:木城町役場"
+ },
+ "miyazaki/kobayashi": {
+  "en": "Kobayashi",
+  "ja": "小林市",
+  "code": "452050",
+  "lat": 31.99665,
+  "lon": 130.972726,
+  "src": "osm:小林市役所"
+ },
+ "miyazaki/kunitomi": {
+  "en": "Kunitomi",
+  "ja": "国富町",
+  "code": "453820",
+  "lat": 31.99066,
+  "lon": 131.323561,
+  "src": "osm:国富町役場"
+ },
+ "miyazaki/kushima": {
+  "en": "Kushima",
+  "ja": "串間市",
+  "code": "452076",
+  "lat": 31.4645443,
+  "lon": 131.228393,
+  "src": "osm:串間市役所"
+ },
+ "miyazaki/mimata": {
+  "en": "Mimata",
+  "ja": "三股町",
+  "code": "453412",
+  "lat": 31.7306381,
+  "lon": 131.1250413,
+  "src": "osm:三股町役場"
+ },
+ "miyazaki/misatocho": {
+  "en": "Misato",
+  "ja": "美郷町",
+  "code": "454311",
+  "lat": 32.440255,
+  "lon": 131.423201,
+  "src": "osm:美郷町役場"
+ },
+ "miyazaki/miyakonojo": {
+  "en": "Miyakonojo",
+  "ja": "都城市",
+  "code": "452025",
+  "lat": 31.7195745,
+  "lon": 131.0618272,
+  "src": "osm:都城市役所"
+ },
+ "miyazaki/miyazaki": {
+  "en": "Miyazaki",
+  "ja": "宮崎市",
+  "code": "452017",
+  "lat": 31.907658,
+  "lon": 131.4204615,
+  "src": "osm:宮崎市役所"
+ },
+ "miyazaki/morotsuka": {
+  "en": "Morotsuka",
+  "ja": "諸塚村",
+  "code": "454290",
+  "lat": 32.512189,
+  "lon": 131.330318,
+  "src": "osm:諸塚村役場"
+ },
+ "miyazaki/nichinanshi": {
+  "en": "Nichinan",
+  "ja": "日南市",
+  "code": "452041",
+  "lat": 31.601949,
+  "lon": 131.378738,
+  "src": "osm:日南市役所"
+ },
+ "miyazaki/nishimera": {
+  "en": "Nishimera",
+  "ja": "西米良村",
+  "code": "454036",
+  "lat": 32.2262928,
+  "lon": 131.1544176,
+  "src": "osm:西米良村役場"
+ },
+ "miyazaki/nobeoka": {
+  "en": "Nobeoka",
+  "ja": "延岡市",
+  "code": "452033",
+  "lat": 32.5821773,
+  "lon": 131.6650601,
+  "src": "osm:延岡市役所"
+ },
+ "miyazaki/saito": {
+  "en": "Saito",
+  "ja": "西都市",
+  "code": "452084",
+  "lat": 32.1078698,
+  "lon": 131.4009284,
+  "src": "osm:西都市役所"
+ },
+ "miyazaki/shiiba": {
+  "en": "Shiiba",
+  "ja": "椎葉村",
+  "code": "454303",
+  "lat": 32.4673129,
+  "lon": 131.1582577,
+  "src": "osm:椎葉村役場"
+ },
+ "miyazaki/shintomi": {
+  "en": "Shintomi",
+  "ja": "新富町",
+  "code": "454028",
+  "lat": 32.0690058,
+  "lon": 131.4879902,
+  "src": "osm:新富町役場"
+ },
+ "miyazaki/takachiho": {
+  "en": "Takachiho",
+  "ja": "高千穂町",
+  "code": "454419",
+  "lat": 32.711726,
+  "lon": 131.307756,
+  "src": "osm:高千穂町役場"
+ },
+ "miyazaki/takaharu": {
+  "en": "Takaharu",
+  "ja": "高原町",
+  "code": "453617",
+  "lat": 31.928379,
+  "lon": 131.007865,
+  "src": "osm:高原町役場"
+ },
+ "miyazaki/takanabe": {
+  "en": "Takanabe",
+  "ja": "高鍋町",
+  "code": "454010",
+  "lat": 32.128066,
+  "lon": 131.503287,
+  "src": "osm:高鍋町役場"
+ },
+ "miyazaki/tsunomachi": {
+  "en": "Tsuno",
+  "ja": "都農町",
+  "code": "454060",
+  "lat": 32.256556,
+  "lon": 131.559695,
+  "src": "osm:都農町役場"
+ },
  "oita/beppu": {
   "en": "Beppu",
   "ja": "別府市",
