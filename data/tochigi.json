@@ -411,6 +411,14 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "鮪音",
+     "name_en": "MAGURONE",
+     "description": "Tuna bowl restaurant in the outer-market building of the Maruashi wholesale market in Ashikaga, serving market-fresh tuna, scallop and salmon, with an all-toppings luxury bowl as the favourite. Takeout and delivery are available. Closed Wednesdays.",
+     "source_url": "https://www.ashikaga-kankou.jp/eat/magurone",
+     "page": "https://bokenjapan.com/tochigi/ashikaga/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "香雲堂本店",
      "name_en": "Koun Do Main Store",
      "description": "Japanese sweets shop in Ashikaga; dinner ¥1,000–¥1,999.",
@@ -2431,6 +2439,14 @@
      "category": "Other"
     },
     {
+     "name": "日本料理 あおき",
+     "name_en": "Nihon Ryori Aoki",
+     "description": "Japanese restaurant in Kanuma serving course meals in all-tatami rooms suited to banquets, with set courses from ¥2,500 to ¥5,000. Advance reservations are required.",
+     "source_url": "https://kanuma-kanko.jp/purpose/%e6%97%a5%e6%9c%ac%e6%96%99%e7%90%86%e3%81%82%e3%81%8a%e3%81%8d/",
+     "page": "https://bokenjapan.com/tochigi/kanuma/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "SWEETS ATELIER Miel",
      "name_en": "Sweets Atelier Miel",
      "description": "Gelato shop in Kanuma.",
@@ -3094,14 +3110,6 @@
      "name_en": "Ue no Handmade Soba",
      "description": "Soba restaurant in Mashiko; lunch ¥1,000–¥1,999.",
      "source_url": "https://tabelog.com/tochigi/A0904/A090401/9004354/",
-     "page": "https://bokenjapan.com/tochigi/mashiko/eat/noodles/",
-     "category": "Japanese (noodles)"
-    },
-    {
-     "name": "カレーキッチン yamani",
-     "name_en": "Curry Kitchen yamani",
-     "description": "Soba restaurant in Mashiko; lunch ¥1,000–¥1,999.",
-     "source_url": "https://tabelog.com/tochigi/A0904/A090401/9013238/",
      "page": "https://bokenjapan.com/tochigi/mashiko/eat/noodles/",
      "category": "Japanese (noodles)"
     },
@@ -6832,170 +6840,10 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "手打 焔",
-     "name_en": "Teuchi Hono",
-     "description": "Ramen shop in Nasushiobara; lunch up to ¥999, dinner up to ¥999.",
-     "source_url": "https://tabelog.com/tochigi/A0905/A090501/9011436/",
-     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
-     "category": "Other"
-    },
-    {
-     "name": "胡桃亭",
-     "name_en": "Kurumi-tei",
-     "description": "Soba restaurant in Nasushiobara; lunch ¥1,000–¥1,999, dinner ¥2,000–¥2,999.",
-     "source_url": "https://tabelog.com/tochigi/A0905/A090501/9001316/",
-     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
-     "category": "Other"
-    },
-    {
-     "name": "NAOZO",
-     "name_en": "Naozo",
-     "description": "Bakery in Nasushiobara; lunch ¥1,000–¥1,999, dinner ¥1,000–¥1,999.",
-     "source_url": "https://tabelog.com/tochigi/A0905/A090501/9002708/",
-     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
-     "category": "Other"
-    },
-    {
-     "name": "元祖チキンハウス",
-     "name_en": "Ganso Chicken House",
-     "description": "Yakiniku (grilled meat) restaurant in Nasushiobara; lunch ¥1,000–¥1,999, dinner ¥3,000–¥3,999.",
-     "source_url": "https://tabelog.com/tochigi/A0905/A090501/9002778/",
-     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
-     "category": "Other"
-    },
-    {
-     "name": "カネルブレッド",
-     "name_en": "Kaneru Bread",
-     "description": "Bakery in Nasushiobara; lunch up to ¥999.",
-     "source_url": "https://tabelog.com/tochigi/A0905/A090501/9013302/",
-     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
-     "category": "Other"
-    },
-    {
-     "name": "ヴィンチ",
-     "name_en": "Vinchi",
-     "description": "Italian restaurant in Nasushiobara; lunch ¥3,000–¥3,999, dinner ¥10,000–¥14,999.",
-     "source_url": "https://tabelog.com/tochigi/A0905/A090501/9011681/",
-     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
-     "category": "Other"
-    },
-    {
-     "name": "くいものや 花水木",
-     "name_en": "Kuimonoya Kasui Ki",
-     "description": "Italian restaurant in Nasushiobara; lunch ¥1,000–¥1,999, dinner ¥2,000–¥2,999.",
-     "source_url": "https://tabelog.com/tochigi/A0905/A090501/9002374/",
-     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
-     "category": "Other"
-    },
-    {
-     "name": "森の鉄板ダイニング まるやま苑",
-     "name_en": "Mori no Teppan Dining Maruyama-en",
-     "description": "Teppanyaki restaurant in Nasushiobara; lunch ¥2,000–¥2,999, dinner ¥6,000–¥7,999.",
-     "source_url": "https://tabelog.com/tochigi/A0905/A090501/9019215/",
-     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
-     "category": "Other"
-    },
-    {
-     "name": "れん",
-     "name_en": "Ren",
-     "description": "Japanese restaurant in Nasushiobara; dinner ¥5,000–¥5,999.",
-     "source_url": "https://tabelog.com/tochigi/A0905/A090501/9002802/",
-     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
-     "category": "Other"
-    },
-    {
      "name": "割烹旅館 湯の花荘",
      "name_en": "Kappo Ryokan Yunohanaso",
      "description": "Kappo ryokan in Nasushiobara; dinner ¥30,000–¥39,999.",
      "source_url": "https://tabelog.com/tochigi/A0905/A090501/9002403/",
-     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
-     "category": "Other"
-    },
-    {
-     "name": "森商店",
-     "name_en": "Mori Shoten",
-     "description": "Ramen shop in Nasushiobara; lunch up to ¥999.",
-     "source_url": "https://tabelog.com/tochigi/A0905/A090501/9012460/",
-     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
-     "category": "Other"
-    },
-    {
-     "name": "美食工房 ラトリエ･ムッシュー",
-     "name_en": "Bishoku Kobo Ratorie Musshu",
-     "description": "French restaurant in Nasushiobara; lunch ¥10,000–¥14,999, dinner ¥20,000–¥29,999.",
-     "source_url": "https://tabelog.com/tochigi/A0905/A090501/9013959/",
-     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
-     "category": "Other"
-    },
-    {
-     "name": "店内製麺 さくら",
-     "name_en": "In-house Noodles Sakura",
-     "description": "Ramen shop in Nasushiobara; lunch up to ¥999, dinner up to ¥999.",
-     "source_url": "https://tabelog.com/tochigi/A0905/A090501/9014762/",
-     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
-     "category": "Other"
-    },
-    {
-     "name": "明治屋",
-     "name_en": "Meiji-ya",
-     "description": "Japanese sweets shop in Nasushiobara; lunch up to ¥999, dinner ¥1,000–¥1,999.",
-     "source_url": "https://tabelog.com/tochigi/A0905/A090501/9002915/",
-     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
-     "category": "Other"
-    },
-    {
-     "name": "フランシーズ ナチュール",
-     "name_en": "Furanshizu Nachuru",
-     "description": "Yoshoku (Western-style) restaurant in Nasushiobara; lunch ¥2,000–¥2,999, dinner ¥2,000–¥2,999.",
-     "source_url": "https://tabelog.com/tochigi/A0905/A090501/9011216/",
-     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
-     "category": "Other"
-    },
-    {
-     "name": "丸信 本家",
-     "name_en": "Maru-shin Honke",
-     "description": "Ramen shop in Nasushiobara; lunch up to ¥999, dinner up to ¥999.",
-     "source_url": "https://tabelog.com/tochigi/A0905/A090501/9006802/",
-     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
-     "category": "Other"
-    },
-    {
-     "name": "おおもり",
-     "name_en": "Omori",
-     "description": "Ramen shop in Nasushiobara; lunch ¥1,000–¥1,999, dinner ¥1,000–¥1,999.",
-     "source_url": "https://tabelog.com/tochigi/A0905/A090501/9002744/",
-     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
-     "category": "Other"
-    },
-    {
-     "name": "千本松牧場ソフトクリームショップ 本店",
-     "name_en": "Senbon Matsu Bokujo Soft Serve Shop Main Store",
-     "description": "Gelato shop in Nasushiobara.",
-     "source_url": "https://tabelog.com/tochigi/A0905/A090501/9011404/",
-     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
-     "category": "Other"
-    },
-    {
-     "name": "こばや食堂",
-     "name_en": "Kobaya Shokudo",
-     "description": "Diner in Nasushiobara; lunch up to ¥999.",
-     "source_url": "https://tabelog.com/tochigi/A0905/A090501/9001046/",
-     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
-     "category": "Other"
-    },
-    {
-     "name": "釜彦",
-     "name_en": "Kama Hiko",
-     "description": "Local-cuisine restaurant in Nasushiobara; lunch ¥1,000–¥1,999, dinner up to ¥999.",
-     "source_url": "https://tabelog.com/tochigi/A0905/A090501/9011468/",
-     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
-     "category": "Other"
-    },
-    {
-     "name": "千本松牧場売店",
-     "name_en": "Senbon Matsu Bokujo Bai",
-     "description": "Gelato shop in Nasushiobara; dinner up to ¥999.",
-     "source_url": "https://tabelog.com/tochigi/A0905/A090501/9013594/",
      "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
      "category": "Other"
     },
@@ -7016,18 +6864,18 @@
      "category": "Other"
     },
     {
+     "name": "百華園",
+     "name_en": "Hyakkaen",
+     "description": "Chinese restaurant in Nasushiobara known for its katsu gyoza, a hearty signature dish devised by the first owner. Closed Thursdays.",
+     "source_url": "https://nasushiobara-kanko.jp/gourmet-list/1541/",
+     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "元祖チキンハウス",
      "name_en": "Ganso Chicken House",
      "description": "Yakiniku (grilled meat) restaurant in Nasushiobara; lunch ¥1,000–¥1,999, dinner ¥3,000–¥3,999.",
      "source_url": "https://tabelog.com/tochigi/A0905/A090501/9002778/",
-     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/seafood/",
-     "category": "Japanese (seafood)"
-    },
-    {
-     "name": "1988 CAFE SHOZO",
-     "name_en": "1988 CAFE Shozo",
-     "description": "Café in Nasushiobara; lunch up to ¥999, dinner ¥1,000–¥1,999.",
-     "source_url": "https://tabelog.com/tochigi/A0905/A090501/9000095/",
      "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -7156,6 +7004,30 @@
      "name_en": "Cafe Do Gran Bowa",
      "description": "Café in Nasushiobara; lunch ¥1,000–¥1,999, dinner ¥1,000–¥1,999.",
      "source_url": "https://tabelog.com/tochigi/A0905/A090501/9002298/",
+     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "池寿し",
+     "name_en": "Ike Sushi",
+     "description": "Sushi restaurant in Nasushiobara, five minutes on foot from the west exit of JR Kuroiso Station, known for generously sized toppings, with tatami seating and semi-private rooms that suit families.",
+     "source_url": "https://nasushiobara-kanko.jp/gourmet-list/1615/",
+     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "つき邑",
+     "name_en": "Tsukimura",
+     "description": "Japanese restaurant in a residential area of Nasushiobara serving course meals, wappa-meshi, unaju and hitsumabushi, with blowfish and soft-shelled turtle dishes by advance reservation. Closed Sundays.",
+     "source_url": "https://nasushiobara-kanko.jp/gourmet-list/1619/",
+     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "和食屋なすの",
+     "name_en": "Washokuya Nasuno",
+     "description": "Japanese restaurant in Nasushiobara serving Kuroiso Makigari-nabe, a hot pot recreating a historic dish with local duck, free-range chicken, wild boar and venison, plus Tochigi wagyu. Closed Sundays.",
+     "source_url": "https://nasushiobara-kanko.jp/gourmet-list/1520/",
      "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -15242,6 +15114,14 @@
      "category": "Cafe"
     },
     {
+     "name": "悟理道珈琲工房",
+     "name_en": "Gorido Coffee Kobo",
+     "description": "Coffee shop in the Tochigi kura district, set in a renovated merchant house more than 80 years old, serving house-roasted coffee. Open Wednesday to Sunday from midday.",
+     "source_url": "https://www.tochigi-kankou.or.jp/spot/%e6%82%9f%e7%90%86%e9%81%93%e7%8f%88%e7%90%b2%e5%b7%a5%e6%88%bf",
+     "page": "https://bokenjapan.com/tochigi/tochigi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "菜嘉村",
      "name_en": "Na Kamura",
      "description": "Diner in Tochigi; lunch up to ¥999.",
@@ -15294,6 +15174,14 @@
      "name_en": "Chuka Yuraku Shubo Komadori-ro",
      "description": "Chinese restaurant in Tochigi City serving yugao ramen and spicy garlic-chive yugao soba made with kanpyo-powder noodles, closed Mondays or the next day on holidays.",
      "source_url": "https://akr2338533094.owst.jp/",
+     "page": "https://bokenjapan.com/tochigi/tochigi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "成都酒家",
+     "name_en": "Chengdu Restaurant",
+     "description": "Chinese restaurant in Tochigi that is nearly full at lunchtime, recommended for its boiled dumplings, with parking for 60 cars. Closed Wednesdays.",
+     "source_url": "https://www.tochigi-kankou.or.jp/spot/seitoshuka",
      "page": "https://bokenjapan.com/tochigi/tochigi/eat/chinese-asian/",
      "category": "Chinese & Asian"
     },
@@ -15574,6 +15462,14 @@
      "name_en": "Sushi Kashiwa",
      "description": "Sushi bar in Tochigi; lunch ¥10,000–¥14,999, dinner ¥10,000–¥14,999.",
      "source_url": "https://tabelog.com/tochigi/A0902/A090201/9005123/",
+     "page": "https://bokenjapan.com/tochigi/tochigi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "竹寿し",
+     "name_en": "Take Sushi",
+     "description": "Sushi restaurant in the Iwafune area of Tochigi, known for large toppings and its chawanmushi, with a range of other dishes, banquet use and a free shuttle bus. Closed Wednesdays.",
+     "source_url": "https://www.tochigi-kankou.or.jp/spot/takezushi",
      "page": "https://bokenjapan.com/tochigi/tochigi/eat/seafood/",
      "category": "Japanese (seafood)"
     },
