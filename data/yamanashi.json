@@ -39,6 +39,7 @@
     {
      "name": "とらきち食堂",
      "name_en": "Torakichi Shokudo",
+     "description": "Casual restaurant in Chuo.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19013457/",
      "page": "https://bokenjapan.com/yamanashi/chuo/eat/casual/",
      "category": "Casual"
@@ -46,6 +47,7 @@
     {
      "name": "天花",
      "name_en": "Tenka",
+     "description": "Casual restaurant in Chuo.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19014108/",
      "page": "https://bokenjapan.com/yamanashi/chuo/eat/casual/",
      "category": "Casual"
@@ -53,6 +55,7 @@
     {
      "name": "四川菜館",
      "name_en": "Shisen Na-kan",
+     "description": "Chinese or Asian restaurant in Chuo.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19000732/",
      "page": "https://bokenjapan.com/yamanashi/chuo/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -60,6 +63,7 @@
     {
      "name": "台湾料理 吉祥",
      "name_en": "Taiwan Cuisine Kichijo",
+     "description": "Chinese or Asian restaurant in Chuo.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19007952/",
      "page": "https://bokenjapan.com/yamanashi/chuo/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -67,6 +71,7 @@
     {
      "name": "メゾン ド サトウ ミラベル",
      "name_en": "Mezon Do Sato Miraberu",
+     "description": "European restaurant in Chuo.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19001659/",
      "page": "https://bokenjapan.com/yamanashi/chuo/eat/european/",
      "category": "European"
@@ -74,6 +79,7 @@
     {
      "name": "イタリアンダイニング コネル",
      "name_en": "Italian Dining Koneru",
+     "description": "European restaurant in Chuo.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19007333/",
      "page": "https://bokenjapan.com/yamanashi/chuo/eat/european/",
      "category": "European"
@@ -81,6 +87,7 @@
     {
      "name": "フレンチブルドッグ",
      "name_en": "French Buru Dog",
+     "description": "European restaurant in Chuo.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19000339/",
      "page": "https://bokenjapan.com/yamanashi/chuo/eat/european/",
      "category": "European"
@@ -88,6 +95,7 @@
     {
      "name": "トラットリア・ロズマリーノ",
      "name_en": "Trattoria Rozumarino",
+     "description": "European restaurant in Chuo.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19004575/",
      "page": "https://bokenjapan.com/yamanashi/chuo/eat/european/",
      "category": "European"
@@ -95,6 +103,7 @@
     {
      "name": "カジュアルレストラン竹林亭",
      "name_en": "Kajuaru Restaurant Chikurin-tei",
+     "description": "Meat restaurant in Chuo.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19002703/",
      "page": "https://bokenjapan.com/yamanashi/chuo/eat/meat/",
      "category": "Japanese (meat)"
@@ -102,6 +111,7 @@
     {
      "name": "網網",
      "name_en": "Ami Ami",
+     "description": "Meat restaurant in Chuo.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19001027/",
      "page": "https://bokenjapan.com/yamanashi/chuo/eat/meat/",
      "category": "Japanese (meat)"
@@ -109,6 +119,7 @@
     {
      "name": "むらまさ",
      "name_en": "Muramasa",
+     "description": "Noodle restaurant in Chuo.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19008682/",
      "page": "https://bokenjapan.com/yamanashi/chuo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -116,6 +127,7 @@
     {
      "name": "めん丸豊富店",
      "name_en": "Men Maru Hofu",
+     "description": "Noodle restaurant in Chuo.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19000333/",
      "page": "https://bokenjapan.com/yamanashi/chuo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -123,6 +135,7 @@
     {
      "name": "蕎麦遊膳 初花",
      "name_en": "Soba Yu Zen Hatsuhana",
+     "description": "Noodle restaurant in Chuo.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19000723/",
      "page": "https://bokenjapan.com/yamanashi/chuo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -130,6 +143,7 @@
     {
      "name": "甚六",
      "name_en": "Jinroku",
+     "description": "Noodle restaurant in Chuo.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19001627/",
      "page": "https://bokenjapan.com/yamanashi/chuo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -137,6 +151,7 @@
     {
      "name": "円熟屋",
      "name_en": "Enjuku-ya",
+     "description": "Noodle restaurant in Chuo.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19000407/",
      "page": "https://bokenjapan.com/yamanashi/chuo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -144,6 +159,7 @@
     {
      "name": "手打・十割蕎麦 きはち",
      "name_en": "Teuchi Ju Wari Soba Kihachi",
+     "description": "Noodle restaurant in Chuo.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19009136/",
      "page": "https://bokenjapan.com/yamanashi/chuo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -151,6 +167,7 @@
     {
      "name": "麺や卯",
      "name_en": "Men Ya U",
+     "description": "Noodle restaurant in Chuo.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19006226/",
      "page": "https://bokenjapan.com/yamanashi/chuo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -158,6 +175,7 @@
     {
      "name": "道の駅 とよとみ",
      "name_en": "Michi no Eki Toyotomi",
+     "description": "Restaurant in Chuo.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19001067/",
      "page": "https://bokenjapan.com/yamanashi/chuo/eat/other/",
      "category": "Other"
@@ -165,6 +183,7 @@
     {
      "name": "エヴァム・エヴァ・ヤマナシ・アジ",
      "name_en": "Evamu Eva Yamanashi Aji",
+     "description": "Japanese restaurant in Chuo.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19009933/",
      "page": "https://bokenjapan.com/yamanashi/chuo/eat/other-japanese/",
      "category": "Other Japanese"
@@ -172,6 +191,7 @@
     {
      "name": "うなふじ",
      "name_en": "Unafuji",
+     "description": "Seafood restaurant in Chuo.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19013498/",
      "page": "https://bokenjapan.com/yamanashi/chuo/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -179,6 +199,7 @@
     {
      "name": "ル・ヴァン",
      "name_en": "Ru Van",
+     "description": "Sweets and bakery shop in Chuo.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19004941/",
      "page": "https://bokenjapan.com/yamanashi/chuo/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -186,6 +207,7 @@
     {
      "name": "サンセリテ",
      "name_en": "Sanserite",
+     "description": "Sweets and bakery shop in Chuo.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19005290/",
      "page": "https://bokenjapan.com/yamanashi/chuo/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -193,6 +215,7 @@
     {
      "name": "Amber bakery&coffee roastery",
      "name_en": "Amber bakery&coffee roastery",
+     "description": "Sweets and bakery shop in Chuo.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19014199/",
      "page": "https://bokenjapan.com/yamanashi/chuo/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -200,6 +223,7 @@
     {
      "name": "パウリスタ",
      "name_en": "Paurisuta",
+     "description": "Sweets and bakery shop in Chuo.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19009380/",
      "page": "https://bokenjapan.com/yamanashi/chuo/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -285,6 +309,7 @@
     {
      "name": "よっちぇ場 おばぁの台所",
      "name_en": "Yotchie Ba Oba no Daidokoro",
+     "description": "Cafe in Doshi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19009692/",
      "page": "https://bokenjapan.com/yamanashi/doshi/eat/cafe/",
      "category": "Cafe"
@@ -292,6 +317,7 @@
     {
      "name": "Log Cabin",
      "name_en": "Log Cabin",
+     "description": "Cafe in Doshi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19012908/",
      "page": "https://bokenjapan.com/yamanashi/doshi/eat/cafe/",
      "category": "Cafe"
@@ -299,6 +325,7 @@
     {
      "name": "Doshi Cafe",
      "name_en": "Doshi Cafe",
+     "description": "Cafe in Doshi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19012118/",
      "page": "https://bokenjapan.com/yamanashi/doshi/eat/cafe/",
      "category": "Cafe"
@@ -306,6 +333,7 @@
     {
      "name": "もくめ書店",
      "name_en": "Mokume Kaki",
+     "description": "Cafe in Doshi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19012907/",
      "page": "https://bokenjapan.com/yamanashi/doshi/eat/cafe/",
      "category": "Cafe"
@@ -313,6 +341,7 @@
     {
      "name": "きく家",
      "name_en": "Kiku-ya",
+     "description": "Casual restaurant in Doshi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19010555/",
      "page": "https://bokenjapan.com/yamanashi/doshi/eat/casual/",
      "category": "Casual"
@@ -320,6 +349,7 @@
     {
      "name": "湯川屋",
      "name_en": "Yukawa-ya",
+     "description": "Casual restaurant in Doshi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19006381/",
      "page": "https://bokenjapan.com/yamanashi/doshi/eat/casual/",
      "category": "Casual"
@@ -327,6 +357,7 @@
     {
      "name": "家庭Dining NAGOMI",
      "name_en": "Katei Dining Nagomi",
+     "description": "Casual restaurant in Doshi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19010510/",
      "page": "https://bokenjapan.com/yamanashi/doshi/eat/casual/",
      "category": "Casual"
@@ -334,6 +365,7 @@
     {
      "name": "レストハウス貴純",
      "name_en": "Resuto House Takashi Jun",
+     "description": "Casual restaurant in Doshi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19010031/",
      "page": "https://bokenjapan.com/yamanashi/doshi/eat/casual/",
      "category": "Casual"
@@ -341,6 +373,7 @@
     {
      "name": "与里道",
      "name_en": "Yori Michi",
+     "description": "Casual restaurant in Doshi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19000467/",
      "page": "https://bokenjapan.com/yamanashi/doshi/eat/casual/",
      "category": "Casual"
@@ -348,6 +381,7 @@
     {
      "name": "両国屋",
      "name_en": "Ryogoku-ya",
+     "description": "Casual restaurant in Doshi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19005874/",
      "page": "https://bokenjapan.com/yamanashi/doshi/eat/casual/",
      "category": "Casual"
@@ -355,6 +389,7 @@
     {
      "name": "THE TEPPAN 静庵",
      "name_en": "THE Teppan Sei Iori",
+     "description": "Casual restaurant in Doshi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19009566/",
      "page": "https://bokenjapan.com/yamanashi/doshi/eat/casual/",
      "category": "Casual"
@@ -362,6 +397,7 @@
     {
      "name": "麴料理と地酒 粋",
      "name_en": "Kiku Cuisine To Jizake Sui",
+     "description": "Izakaya or bar in Doshi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19013495/",
      "page": "https://bokenjapan.com/yamanashi/doshi/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -369,6 +405,7 @@
     {
      "name": "横浜家系 みーたん家",
      "name_en": "Yokohama-ya Kei Mitan-ya",
+     "description": "Noodle restaurant in Doshi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19013019/",
      "page": "https://bokenjapan.com/yamanashi/doshi/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -376,6 +413,7 @@
     {
      "name": "道志宿",
      "name_en": "Doshi Yado",
+     "description": "Noodle restaurant in Doshi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19007620/",
      "page": "https://bokenjapan.com/yamanashi/doshi/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -383,6 +421,7 @@
     {
      "name": "道の駅 どうし",
      "name_en": "Michi no Eki Doshi",
+     "description": "Restaurant in Doshi.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19008263/",
      "page": "https://bokenjapan.com/yamanashi/doshi/eat/other/",
      "category": "Other"
@@ -390,6 +429,7 @@
     {
      "name": "紅椿の湯",
      "name_en": "Benitsubaki no Yu",
+     "description": "Restaurant in Doshi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19007048/",
      "page": "https://bokenjapan.com/yamanashi/doshi/eat/other/",
      "category": "Other"
@@ -397,6 +437,7 @@
     {
      "name": "KOKI",
      "name_en": "KOKI",
+     "description": "Restaurant in Doshi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19014478/",
      "page": "https://bokenjapan.com/yamanashi/doshi/eat/other/",
      "category": "Other"
@@ -404,6 +445,7 @@
     {
      "name": "道の駅 どうし 手づくりキッチン",
      "name_en": "Michi no Eki Doshi Tezu Kuri Kitchen",
+     "description": "Japanese restaurant in Doshi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19000482/",
      "page": "https://bokenjapan.com/yamanashi/doshi/eat/other-japanese/",
      "category": "Other Japanese"
@@ -411,6 +453,7 @@
     {
      "name": "どうし家",
      "name_en": "Doshi-ya",
+     "description": "Japanese restaurant in Doshi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19013814/",
      "page": "https://bokenjapan.com/yamanashi/doshi/eat/other-japanese/",
      "category": "Other Japanese"
@@ -418,6 +461,7 @@
     {
      "name": "手作り田舎の味 酒まんじゅう 直売所",
      "name_en": "Tezukuri Inaka no Aji Sake Manju Chokubai Tokoro",
+     "description": "Sweets and bakery shop in Doshi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19011546/",
      "page": "https://bokenjapan.com/yamanashi/doshi/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -425,6 +469,7 @@
     {
      "name": "ツバメパン",
      "name_en": "Tsubamepan",
+     "description": "Sweets and bakery shop in Doshi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19013026/",
      "page": "https://bokenjapan.com/yamanashi/doshi/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -692,6 +737,7 @@
     {
      "name": "ピーチカフェなかにし",
      "name_en": "Pichi Cafe Nakanishi",
+     "description": "Cafe in Fuefuki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190103/19005460/",
      "page": "https://bokenjapan.com/yamanashi/fuefuki/eat/cafe/",
      "category": "Cafe"
@@ -699,6 +745,7 @@
     {
      "name": "グレープショップ ココロ",
      "name_en": "Gurepu Shop Kokoro",
+     "description": "Cafe in Fuefuki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190103/19011162/",
      "page": "https://bokenjapan.com/yamanashi/fuefuki/eat/cafe/",
      "category": "Cafe"
@@ -706,6 +753,7 @@
     {
      "name": "HanGing",
      "name_en": "HanGing",
+     "description": "Cafe in Fuefuki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190103/19012296/",
      "page": "https://bokenjapan.com/yamanashi/fuefuki/eat/cafe/",
      "category": "Cafe"
@@ -713,6 +761,7 @@
     {
      "name": "農カフェ クルール",
      "name_en": "no Cafe Kururu",
+     "description": "Cafe in Fuefuki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190103/19004032/",
      "page": "https://bokenjapan.com/yamanashi/fuefuki/eat/cafe/",
      "category": "Cafe"
@@ -720,6 +769,7 @@
     {
      "name": "男の厨房",
      "name_en": "Otoko no Chubo",
+     "description": "Casual restaurant in Fuefuki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190103/19002375/",
      "page": "https://bokenjapan.com/yamanashi/fuefuki/eat/casual/",
      "category": "Casual"
@@ -727,6 +777,7 @@
     {
      "name": "境川パーキングエリア （上り線）",
      "name_en": "Sakaigawa Pakingueria Nobori Sen",
+     "description": "Casual restaurant in Fuefuki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190103/19000493/",
      "page": "https://bokenjapan.com/yamanashi/fuefuki/eat/casual/",
      "category": "Casual"
@@ -734,6 +785,7 @@
     {
      "name": "百音",
      "name_en": "Hyaku Oto",
+     "description": "Casual restaurant in Fuefuki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190103/19013779/",
      "page": "https://bokenjapan.com/yamanashi/fuefuki/eat/casual/",
      "category": "Casual"
@@ -741,6 +793,7 @@
     {
      "name": "新中国料理 大三元",
      "name_en": "Shinchugoku Cuisine Daisangen",
+     "description": "Chinese or Asian restaurant in Fuefuki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190103/19003848/",
      "page": "https://bokenjapan.com/yamanashi/fuefuki/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -748,6 +801,7 @@
     {
      "name": "レストランゼルコバ",
      "name_en": "Restaurant Zerukoba",
+     "description": "European restaurant in Fuefuki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190104/19005258/",
      "page": "https://bokenjapan.com/yamanashi/fuefuki/eat/european/",
      "category": "European"
@@ -763,6 +817,7 @@
     {
      "name": "やわらかとんかつ かつ玄 石和店",
      "name_en": "Yawaraka Tonkatsu Katsu Gen Isawa",
+     "description": "Meat restaurant in Fuefuki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190103/19000254/",
      "page": "https://bokenjapan.com/yamanashi/fuefuki/eat/meat/",
      "category": "Japanese (meat)"
@@ -770,6 +825,7 @@
     {
      "name": "沢のそば 灯",
      "name_en": "Sawa no Soba Tomoshibi",
+     "description": "Noodle restaurant in Fuefuki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190103/19012967/",
      "page": "https://bokenjapan.com/yamanashi/fuefuki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -777,6 +833,7 @@
     {
      "name": "みしま",
      "name_en": "Mishima",
+     "description": "Noodle restaurant in Fuefuki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190103/19013255/",
      "page": "https://bokenjapan.com/yamanashi/fuefuki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -784,6 +841,7 @@
     {
      "name": "釈迦堂パーキングエリア（下り線）スナックコーナー",
      "name_en": "Shaka Do Pakingueria Outbound Snack Corner",
+     "description": "Noodle restaurant in Fuefuki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190103/19001075/",
      "page": "https://bokenjapan.com/yamanashi/fuefuki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -791,6 +849,7 @@
     {
      "name": "手打ちうどん ろくでなし",
      "name_en": "Handmade Udon Rokudenashi",
+     "description": "Noodle restaurant in Fuefuki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190103/19010701/",
      "page": "https://bokenjapan.com/yamanashi/fuefuki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -838,6 +897,7 @@
     {
      "name": "石和名湯館 糸柳",
      "name_en": "Isawa Meito-kan Itoyanagi",
+     "description": "Restaurant in Fuefuki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190103/19004874/",
      "page": "https://bokenjapan.com/yamanashi/fuefuki/eat/other/",
      "category": "Other"
@@ -845,6 +905,7 @@
     {
      "name": "甲州ほうとう小作 石和駅前通り店",
      "name_en": "Koshu Hoto Ozaku Isawa Ekimae Tori",
+     "description": "Restaurant in Fuefuki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190103/19006610/",
      "page": "https://bokenjapan.com/yamanashi/fuefuki/eat/other/",
      "category": "Other"
@@ -852,6 +913,7 @@
     {
      "name": "甲州ほうとう 百間",
      "name_en": "Koshu Hoto Hyakken",
+     "description": "Japanese restaurant in Fuefuki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190103/19009923/",
      "page": "https://bokenjapan.com/yamanashi/fuefuki/eat/other-japanese/",
      "category": "Other Japanese"
@@ -859,6 +921,7 @@
     {
      "name": "郷土料理とお食事処 赤富士",
      "name_en": "Kyodo Cuisine To Restaurant Aka Fuji",
+     "description": "Japanese restaurant in Fuefuki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190103/19006247/",
      "page": "https://bokenjapan.com/yamanashi/fuefuki/eat/other-japanese/",
      "category": "Other Japanese"
@@ -866,6 +929,7 @@
     {
      "name": "お食事処 石",
      "name_en": "Restaurant Ishi",
+     "description": "Japanese restaurant in Fuefuki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190103/19004414/",
      "page": "https://bokenjapan.com/yamanashi/fuefuki/eat/other-japanese/",
      "category": "Other Japanese"
@@ -873,6 +937,7 @@
     {
      "name": "食いもん屋 北甲斐道",
      "name_en": "Kui Mon-ya Kita Kai Michi",
+     "description": "Seafood restaurant in Fuefuki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190103/19005167/",
      "page": "https://bokenjapan.com/yamanashi/fuefuki/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -880,6 +945,7 @@
     {
      "name": "桔梗屋 本社",
      "name_en": "Kikyo-ya Honsha",
+     "description": "Sweets and bakery shop in Fuefuki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190103/19000866/",
      "page": "https://bokenjapan.com/yamanashi/fuefuki/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -887,6 +953,7 @@
     {
      "name": "槌や",
      "name_en": "Tsuchi Ya",
+     "description": "Sweets and bakery shop in Fuefuki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190103/19004951/",
      "page": "https://bokenjapan.com/yamanashi/fuefuki/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -894,6 +961,7 @@
     {
      "name": "社員特価販売1/2",
      "name_en": "Shain Tokka Hanbai 1 / 2",
+     "description": "Sweets and bakery shop in Fuefuki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190103/19007509/",
      "page": "https://bokenjapan.com/yamanashi/fuefuki/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -901,6 +969,7 @@
     {
      "name": "nouto 工場直売所",
      "name_en": "nouto Kojo Chokubai Tokoro",
+     "description": "Sweets and bakery shop in Fuefuki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190103/19014164/",
      "page": "https://bokenjapan.com/yamanashi/fuefuki/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -1890,6 +1959,7 @@
     {
      "name": "真庵",
      "name_en": "Makoto Iori",
+     "description": "Cafe in Fujikawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19013238/",
      "page": "https://bokenjapan.com/yamanashi/fujikawa/eat/cafe/",
      "category": "Cafe"
@@ -1897,6 +1967,7 @@
     {
      "name": "富士川キッチン",
      "name_en": "Fujigawa Kitchen",
+     "description": "Casual restaurant in Fujikawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19008010/",
      "page": "https://bokenjapan.com/yamanashi/fujikawa/eat/casual/",
      "category": "Casual"
@@ -1904,6 +1975,7 @@
     {
      "name": "富士川ドライブイン",
      "name_en": "Fujigawa Drive-in",
+     "description": "Casual restaurant in Fujikawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19009489/",
      "page": "https://bokenjapan.com/yamanashi/fujikawa/eat/casual/",
      "category": "Casual"
@@ -1911,6 +1983,7 @@
     {
      "name": "まほら亭",
      "name_en": "Mahora-tei",
+     "description": "Casual restaurant in Fujikawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19006057/",
      "page": "https://bokenjapan.com/yamanashi/fujikawa/eat/casual/",
      "category": "Casual"
@@ -1918,6 +1991,7 @@
     {
      "name": "台湾料理 吉祥 増穂店",
      "name_en": "Taiwan Cuisine Kichijo Masuho",
+     "description": "Chinese or Asian restaurant in Fujikawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19005670/",
      "page": "https://bokenjapan.com/yamanashi/fujikawa/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -1925,6 +1999,7 @@
     {
      "name": "RESTAURANT NOAH'S ARK",
      "name_en": "Restaurant Noah'S ARK",
+     "description": "European restaurant in Fujikawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19003625/",
      "page": "https://bokenjapan.com/yamanashi/fujikawa/eat/european/",
      "category": "European"
@@ -1932,6 +2007,7 @@
     {
      "name": "アンク",
      "name_en": "Anku",
+     "description": "European restaurant in Fujikawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19004810/",
      "page": "https://bokenjapan.com/yamanashi/fujikawa/eat/european/",
      "category": "European"
@@ -1947,6 +2023,7 @@
     {
      "name": "みさき耕舎",
      "name_en": "Misaki Ko Sha",
+     "description": "Noodle restaurant in Fujikawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19000446/",
      "page": "https://bokenjapan.com/yamanashi/fujikawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1954,6 +2031,7 @@
     {
      "name": "みやこいち フォレストモール富士川店",
      "name_en": "Miyakoichi Forest Moru Fujigawa",
+     "description": "Noodle restaurant in Fujikawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19008201/",
      "page": "https://bokenjapan.com/yamanashi/fujikawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1961,6 +2039,7 @@
     {
      "name": "生そば柳",
      "name_en": "Nama Soba Yanagi",
+     "description": "Noodle restaurant in Fujikawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19001651/",
      "page": "https://bokenjapan.com/yamanashi/fujikawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1968,6 +2047,7 @@
     {
      "name": "BAUM ARURA",
      "name_en": "BAUM Arura",
+     "description": "Restaurant in Fujikawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19012454/",
      "page": "https://bokenjapan.com/yamanashi/fujikawa/eat/other/",
      "category": "Other"
@@ -1975,6 +2055,7 @@
     {
      "name": "道の駅 富士川",
      "name_en": "Michi no Eki Fujigawa",
+     "description": "Restaurant in Fujikawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19008048/",
      "page": "https://bokenjapan.com/yamanashi/fujikawa/eat/other/",
      "category": "Other"
@@ -1982,6 +2063,7 @@
     {
      "name": "杏と梅の木",
      "name_en": "Anzu To Ume no Ki",
+     "description": "Japanese restaurant in Fujikawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19014011/",
      "page": "https://bokenjapan.com/yamanashi/fujikawa/eat/other-japanese/",
      "category": "Other Japanese"
@@ -1989,6 +2071,7 @@
     {
      "name": "つくたべかん",
      "name_en": "Tsukutabekan",
+     "description": "Japanese restaurant in Fujikawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19000466/",
      "page": "https://bokenjapan.com/yamanashi/fujikawa/eat/other-japanese/",
      "category": "Other Japanese"
@@ -1996,6 +2079,7 @@
     {
      "name": "食彩 しん坊",
      "name_en": "Shokusai Shin Bo",
+     "description": "Seafood restaurant in Fujikawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19008350/",
      "page": "https://bokenjapan.com/yamanashi/fujikawa/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -2003,6 +2087,7 @@
     {
      "name": "うな吉",
      "name_en": "Una Kichi",
+     "description": "Seafood restaurant in Fujikawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19000283/",
      "page": "https://bokenjapan.com/yamanashi/fujikawa/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -2010,6 +2095,7 @@
     {
      "name": "國本屋",
      "name_en": "Kunimoto-ya",
+     "description": "Seafood restaurant in Fujikawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19000754/",
      "page": "https://bokenjapan.com/yamanashi/fujikawa/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -2017,6 +2103,7 @@
     {
      "name": "寿司・和食 おかめ",
      "name_en": "Sushi Washoku Okame",
+     "description": "Seafood restaurant in Fujikawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19001047/",
      "page": "https://bokenjapan.com/yamanashi/fujikawa/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -2024,6 +2111,7 @@
     {
      "name": "アデムク亭",
      "name_en": "Ademuku-tei",
+     "description": "Sweets and bakery shop in Fujikawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19004873/",
      "page": "https://bokenjapan.com/yamanashi/fujikawa/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -2031,6 +2119,7 @@
     {
      "name": "松月堂",
      "name_en": "Matsuzuki Do",
+     "description": "Sweets and bakery shop in Fujikawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19004194/",
      "page": "https://bokenjapan.com/yamanashi/fujikawa/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -2038,6 +2127,7 @@
     {
      "name": "ベーカリー デッセム",
      "name_en": "Bakery Dessemu",
+     "description": "Sweets and bakery shop in Fujikawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19010147/",
      "page": "https://bokenjapan.com/yamanashi/fujikawa/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -2045,6 +2135,7 @@
     {
      "name": "竹林堂",
      "name_en": "Chikurin Do",
+     "description": "Sweets and bakery shop in Fujikawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19007658/",
      "page": "https://bokenjapan.com/yamanashi/fujikawa/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -2052,6 +2143,7 @@
     {
      "name": "セレンゲティ",
      "name_en": "Serengetei",
+     "description": "Sweets and bakery shop in Fujikawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19006056/",
      "page": "https://bokenjapan.com/yamanashi/fujikawa/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -2185,6 +2277,7 @@
     {
      "name": "葡萄屋kofu ハナテラスcafe",
      "name_en": "Budo-ya kofu Hana Terrace cafe",
+     "description": "Cafe in Fujikawaguchiko.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19010076/",
      "page": "https://bokenjapan.com/yamanashi/fujikawaguchiko/eat/cafe/",
      "category": "Cafe"
@@ -2192,6 +2285,7 @@
     {
      "name": "CISCO",
      "name_en": "Cisco",
+     "description": "Cafe in Fujikawaguchiko.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19008006/",
      "page": "https://bokenjapan.com/yamanashi/fujikawaguchiko/eat/cafe/",
      "category": "Cafe"
@@ -2199,6 +2293,7 @@
     {
      "name": "オルソンさんのいちご",
      "name_en": "Oruson Sannoichigo",
+     "description": "Cafe in Fujikawaguchiko.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19000277/",
      "page": "https://bokenjapan.com/yamanashi/fujikawaguchiko/eat/cafe/",
      "category": "Cafe"
@@ -2206,6 +2301,7 @@
     {
      "name": "toe",
      "name_en": "toe",
+     "description": "Cafe in Fujikawaguchiko.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19010642/",
      "page": "https://bokenjapan.com/yamanashi/fujikawaguchiko/eat/cafe/",
      "category": "Cafe"
@@ -2229,6 +2325,7 @@
     {
      "name": "ムースヒルズバーガー",
      "name_en": "Musu Hills Burger",
+     "description": "Casual restaurant in Fujikawaguchiko.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19003886/",
      "page": "https://bokenjapan.com/yamanashi/fujikawaguchiko/eat/casual/",
      "category": "Casual"
@@ -2236,6 +2333,7 @@
     {
      "name": "お惣菜の店 ふるや",
      "name_en": "O Sozai no Furuya",
+     "description": "Casual restaurant in Fujikawaguchiko.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19005101/",
      "page": "https://bokenjapan.com/yamanashi/fujikawaguchiko/eat/casual/",
      "category": "Casual"
@@ -2243,6 +2341,7 @@
     {
      "name": "富士山パンケーキ",
      "name_en": "Fujisan Bread Cake",
+     "description": "Curry restaurant in Fujikawaguchiko.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19010644/",
      "page": "https://bokenjapan.com/yamanashi/fujikawaguchiko/eat/curry/",
      "category": "Curry"
@@ -2250,6 +2349,7 @@
     {
      "name": "オステリア ドラマティコ",
      "name_en": "Osteria Doramateiko",
+     "description": "European restaurant in Fujikawaguchiko.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19011120/",
      "page": "https://bokenjapan.com/yamanashi/fujikawaguchiko/eat/european/",
      "category": "European"
@@ -2257,6 +2357,7 @@
     {
      "name": "mieux restaurant",
      "name_en": "mieux restaurant",
+     "description": "European restaurant in Fujikawaguchiko.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19013134/",
      "page": "https://bokenjapan.com/yamanashi/fujikawaguchiko/eat/european/",
      "category": "European"
@@ -2264,6 +2365,7 @@
     {
      "name": "RESTAURANT ASADOR CarneSio",
      "name_en": "Restaurant Asador CarneSio",
+     "description": "Meat restaurant in Fujikawaguchiko.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19013409/",
      "page": "https://bokenjapan.com/yamanashi/fujikawaguchiko/eat/meat/",
      "category": "Japanese (meat)"
@@ -2271,6 +2373,7 @@
     {
      "name": "ほうとう不動 東恋路店",
      "name_en": "Hoto Fudo Higashi Koiji",
+     "description": "Meat restaurant in Fujikawaguchiko.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19004418/",
      "page": "https://bokenjapan.com/yamanashi/fujikawaguchiko/eat/meat/",
      "category": "Japanese (meat)"
@@ -2278,6 +2381,7 @@
     {
      "name": "山麓園",
      "name_en": "Sanroku Sono",
+     "description": "Meat restaurant in Fujikawaguchiko.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19000257/",
      "page": "https://bokenjapan.com/yamanashi/fujikawaguchiko/eat/meat/",
      "category": "Japanese (meat)"
@@ -2285,6 +2389,7 @@
     {
      "name": "たけ川うどん",
      "name_en": "Take Kawa Udon",
+     "description": "Noodle restaurant in Fujikawaguchiko.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19000815/",
      "page": "https://bokenjapan.com/yamanashi/fujikawaguchiko/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2292,6 +2397,7 @@
     {
      "name": "彩花",
      "name_en": "Ayahana",
+     "description": "Noodle restaurant in Fujikawaguchiko.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19000050/",
      "page": "https://bokenjapan.com/yamanashi/fujikawaguchiko/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2299,6 +2405,7 @@
     {
      "name": "小作 河口湖店",
      "name_en": "Ozaku Kawaguchiko",
+     "description": "Noodle restaurant in Fujikawaguchiko.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19000046/",
      "page": "https://bokenjapan.com/yamanashi/fujikawaguchiko/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2322,6 +2429,7 @@
     {
      "name": "きじ亭",
      "name_en": "Kiji-tei",
+     "description": "Japanese restaurant in Fujikawaguchiko.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19000366/",
      "page": "https://bokenjapan.com/yamanashi/fujikawaguchiko/eat/other-japanese/",
      "category": "Other Japanese"
@@ -2329,6 +2437,7 @@
     {
      "name": "湖山亭うぶや",
      "name_en": "Koyama-tei Ubuya",
+     "description": "Japanese restaurant in Fujikawaguchiko.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19005600/",
      "page": "https://bokenjapan.com/yamanashi/fujikawaguchiko/eat/other-japanese/",
      "category": "Other Japanese"
@@ -2336,6 +2445,7 @@
     {
      "name": "ほうとう蔵 歩成 河口湖店",
      "name_en": "Hoto Kura Ho Sei Kawaguchiko",
+     "description": "Japanese restaurant in Fujikawaguchiko.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19010099/",
      "page": "https://bokenjapan.com/yamanashi/fujikawaguchiko/eat/other-japanese/",
      "category": "Other Japanese"
@@ -2343,6 +2453,7 @@
     {
      "name": "ほうとう不動 河口湖北本店",
      "name_en": "Hoto Fudo Kawaguchiko Kita Main Store",
+     "description": "Japanese restaurant in Fujikawaguchiko.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19000116/",
      "page": "https://bokenjapan.com/yamanashi/fujikawaguchiko/eat/other-japanese/",
      "category": "Other Japanese"
@@ -2358,6 +2469,7 @@
     {
      "name": "レイクベイク",
      "name_en": "Lake Beiku",
+     "description": "Sweets and bakery shop in Fujikawaguchiko.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19004468/",
      "page": "https://bokenjapan.com/yamanashi/fujikawaguchiko/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -2365,6 +2477,7 @@
     {
      "name": "信水堂",
      "name_en": "Shinsui Do",
+     "description": "Sweets and bakery shop in Fujikawaguchiko.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19008027/",
      "page": "https://bokenjapan.com/yamanashi/fujikawaguchiko/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -2372,6 +2485,7 @@
     {
      "name": "パン・ダニエル",
      "name_en": "Bread Danieru",
+     "description": "Sweets and bakery shop in Fujikawaguchiko.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19012543/",
      "page": "https://bokenjapan.com/yamanashi/fujikawaguchiko/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -2379,6 +2493,7 @@
     {
      "name": "crepe & gelato MONT",
      "name_en": "crepe & gelato MONT",
+     "description": "Sweets and bakery shop in Fujikawaguchiko.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19013093/",
      "page": "https://bokenjapan.com/yamanashi/fujikawaguchiko/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -2386,6 +2501,7 @@
     {
      "name": "GELATERIA Angela",
      "name_en": "Gelateria Angela",
+     "description": "Sweets and bakery shop in Fujikawaguchiko.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19012695/",
      "page": "https://bokenjapan.com/yamanashi/fujikawaguchiko/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -3979,6 +4095,7 @@
     {
      "name": "もんぶらん",
      "name_en": "Monburan",
+     "description": "Cafe in Fujiyoshida.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19003678/",
      "page": "https://bokenjapan.com/yamanashi/fujiyoshida/eat/cafe/",
      "category": "Cafe"
@@ -3986,6 +4103,7 @@
     {
      "name": "ファブカフェ フジ",
      "name_en": "Fabu Cafe Fuji",
+     "description": "Cafe in Fujiyoshida.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19012749/",
      "page": "https://bokenjapan.com/yamanashi/fujiyoshida/eat/cafe/",
      "category": "Cafe"
@@ -4001,6 +4119,7 @@
     {
      "name": "大黒天",
      "name_en": "Daikoku Ten",
+     "description": "Chinese or Asian restaurant in Fujiyoshida.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19001141/",
      "page": "https://bokenjapan.com/yamanashi/fujiyoshida/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -4032,6 +4151,7 @@
     {
      "name": "焼肉 幸",
      "name_en": "Yakiniku Sachi",
+     "description": "Meat restaurant in Fujiyoshida.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19013387/",
      "page": "https://bokenjapan.com/yamanashi/fujiyoshida/eat/meat/",
      "category": "Japanese (meat)"
@@ -4055,6 +4175,7 @@
     {
      "name": "みうらうどん",
      "name_en": "Miura Udon",
+     "description": "Noodle restaurant in Fujiyoshida.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19000359/",
      "page": "https://bokenjapan.com/yamanashi/fujiyoshida/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4062,6 +4183,7 @@
     {
      "name": "麺許皆伝",
      "name_en": "Men Moto Kaiden",
+     "description": "Noodle restaurant in Fujiyoshida.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19000136/",
      "page": "https://bokenjapan.com/yamanashi/fujiyoshida/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4069,6 +4191,7 @@
     {
      "name": "桜井うどん",
      "name_en": "Sakurai Udon",
+     "description": "Noodle restaurant in Fujiyoshida.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19000357/",
      "page": "https://bokenjapan.com/yamanashi/fujiyoshida/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4076,6 +4199,7 @@
     {
      "name": "白須うどん",
      "name_en": "Shirasu Udon",
+     "description": "Noodle restaurant in Fujiyoshida.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19000055/",
      "page": "https://bokenjapan.com/yamanashi/fujiyoshida/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4083,6 +4207,7 @@
     {
      "name": "くれちうどん",
      "name_en": "Kurechi Udon",
+     "description": "Noodle restaurant in Fujiyoshida.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19004114/",
      "page": "https://bokenjapan.com/yamanashi/fujiyoshida/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4090,6 +4215,7 @@
     {
      "name": "道の駅 富士吉田 軽食コーナー",
      "name_en": "Michi no Eki Fujiyoshida Keishoku Corner",
+     "description": "Noodle restaurant in Fujiyoshida.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19000948/",
      "page": "https://bokenjapan.com/yamanashi/fujiyoshida/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4097,6 +4223,7 @@
     {
      "name": "ふもとや",
      "name_en": "Fumotoya",
+     "description": "Noodle restaurant in Fujiyoshida.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19000926/",
      "page": "https://bokenjapan.com/yamanashi/fujiyoshida/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4104,6 +4231,7 @@
     {
      "name": "吉田のうどん とがわ",
      "name_en": "Yoshida no Udon Togawa",
+     "description": "Noodle restaurant in Fujiyoshida.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19008461/",
      "page": "https://bokenjapan.com/yamanashi/fujiyoshida/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4111,6 +4239,7 @@
     {
      "name": "ひがしうら",
      "name_en": "Higashiura",
+     "description": "Noodle restaurant in Fujiyoshida.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19000923/",
      "page": "https://bokenjapan.com/yamanashi/fujiyoshida/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4118,6 +4247,7 @@
     {
      "name": "山崎家うどん",
      "name_en": "Yamazaki-ya Udon",
+     "description": "Noodle restaurant in Fujiyoshida.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19000606/",
      "page": "https://bokenjapan.com/yamanashi/fujiyoshida/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4125,6 +4255,7 @@
     {
      "name": "玉喜亭",
      "name_en": "Tamaki-tei",
+     "description": "Noodle restaurant in Fujiyoshida.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19000241/",
      "page": "https://bokenjapan.com/yamanashi/fujiyoshida/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4132,6 +4263,7 @@
     {
      "name": "美也川",
      "name_en": "Miya Kawa",
+     "description": "Noodle restaurant in Fujiyoshida.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19000508/",
      "page": "https://bokenjapan.com/yamanashi/fujiyoshida/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4139,6 +4271,7 @@
     {
      "name": "たかちゃんうどん",
      "name_en": "Takachan Udon",
+     "description": "Noodle restaurant in Fujiyoshida.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19000919/",
      "page": "https://bokenjapan.com/yamanashi/fujiyoshida/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4146,6 +4279,7 @@
     {
      "name": "つるや食堂",
      "name_en": "Tsuruya Shokudo",
+     "description": "Noodle restaurant in Fujiyoshida.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19000819/",
      "page": "https://bokenjapan.com/yamanashi/fujiyoshida/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4153,6 +4287,7 @@
     {
      "name": "ふじや",
      "name_en": "Fujiya",
+     "description": "Noodle restaurant in Fujiyoshida.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19004115/",
      "page": "https://bokenjapan.com/yamanashi/fujiyoshida/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4160,6 +4295,7 @@
     {
      "name": "山梨ほうとう 浅間茶屋 富士吉田本店",
      "name_en": "Yamanashi Hoto Asama Cha-ya Fujiyoshida Main Store",
+     "description": "Noodle restaurant in Fujiyoshida.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19004211/",
      "page": "https://bokenjapan.com/yamanashi/fujiyoshida/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4167,6 +4303,7 @@
     {
      "name": "源氏",
      "name_en": "Genji",
+     "description": "Noodle restaurant in Fujiyoshida.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19000897/",
      "page": "https://bokenjapan.com/yamanashi/fujiyoshida/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4294,6 +4431,7 @@
     {
      "name": "甲州 うなよし",
      "name_en": "Koshu Unayoshi",
+     "description": "Seafood restaurant in Fujiyoshida.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19003949/",
      "page": "https://bokenjapan.com/yamanashi/fujiyoshida/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -4301,6 +4439,7 @@
     {
      "name": "レ レーヴ サロン・ド・テ",
      "name_en": "Re Revu Saron Do Te",
+     "description": "Sweets and bakery shop in Fujiyoshida.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19008725/",
      "page": "https://bokenjapan.com/yamanashi/fujiyoshida/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -4308,6 +4447,7 @@
     {
      "name": "道の駅富士吉田 物産館",
      "name_en": "Michi no Eki Fujiyoshida Bussan-kan",
+     "description": "Sweets and bakery shop in Fujiyoshida.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19008089/",
      "page": "https://bokenjapan.com/yamanashi/fujiyoshida/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -4694,6 +4834,7 @@
     {
      "name": "古民家カフェ鍵屋",
      "name_en": "Ko Tami-ya Cafe Kagi-ya",
+     "description": "Cafe in Hayakawa.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190204/19009232/",
      "page": "https://bokenjapan.com/yamanashi/hayakawa/eat/cafe/",
      "category": "Cafe"
@@ -4701,6 +4842,7 @@
     {
      "name": "赤沢宿 宿の駅 清水屋",
      "name_en": "Akazawa Yado Yado no Eki Shimizu-ya",
+     "description": "Cafe in Hayakawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19008015/",
      "page": "https://bokenjapan.com/yamanashi/hayakawa/eat/cafe/",
      "category": "Cafe"
@@ -4708,6 +4850,7 @@
     {
      "name": "cafe Baden Garden",
      "name_en": "cafe Baden Garden",
+     "description": "Cafe in Hayakawa.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190204/19014432/",
      "page": "https://bokenjapan.com/yamanashi/hayakawa/eat/cafe/",
      "category": "Cafe"
@@ -4715,6 +4858,7 @@
     {
      "name": "南アルプスプラザ",
      "name_en": "Minami Arupusu Plaza",
+     "description": "Casual restaurant in Hayakawa.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190204/19000495/",
      "page": "https://bokenjapan.com/yamanashi/hayakawa/eat/casual/",
      "category": "Casual"
@@ -4722,6 +4866,7 @@
     {
      "name": "奈良田温泉女帝の湯 食事処",
      "name_en": "Narada Onsen Jotei no Yu Restaurant",
+     "description": "Casual restaurant in Hayakawa.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190204/19014168/",
      "page": "https://bokenjapan.com/yamanashi/hayakawa/eat/casual/",
      "category": "Casual"
@@ -4729,6 +4874,7 @@
     {
      "name": "やまと",
      "name_en": "Yamato",
+     "description": "Meat restaurant in Hayakawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19009460/",
      "page": "https://bokenjapan.com/yamanashi/hayakawa/eat/meat/",
      "category": "Japanese (meat)"
@@ -4736,6 +4882,7 @@
     {
      "name": "手打ち蕎麦と山の食 おすくに",
      "name_en": "Handmade Soba To Yama no Shoku Osukuni",
+     "description": "Noodle restaurant in Hayakawa.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190204/19010877/",
      "page": "https://bokenjapan.com/yamanashi/hayakawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4743,6 +4890,7 @@
     {
      "name": "そば処 武蔵屋",
      "name_en": "Soba Musashi-ya",
+     "description": "Noodle restaurant in Hayakawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19004256/",
      "page": "https://bokenjapan.com/yamanashi/hayakawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4750,6 +4898,7 @@
     {
      "name": "こんぼうす",
      "name_en": "Konbosu",
+     "description": "Noodle restaurant in Hayakawa.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190204/19000847/",
      "page": "https://bokenjapan.com/yamanashi/hayakawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4757,6 +4906,7 @@
     {
      "name": "慶雲館",
      "name_en": "Keiun-kan",
+     "description": "Restaurant in Hayakawa.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190204/19005025/",
      "page": "https://bokenjapan.com/yamanashi/hayakawa/eat/other/",
      "category": "Other"
@@ -4764,6 +4914,7 @@
     {
      "name": "ヘルシー美里",
      "name_en": "Herushi Misato",
+     "description": "Restaurant in Hayakawa.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190204/19006789/",
      "page": "https://bokenjapan.com/yamanashi/hayakawa/eat/other/",
      "category": "Other"
@@ -4771,6 +4922,7 @@
     {
      "name": "ヴィラ雨畑",
      "name_en": "Villa Ame Hatake",
+     "description": "Restaurant in Hayakawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19013036/",
      "page": "https://bokenjapan.com/yamanashi/hayakawa/eat/other/",
      "category": "Other"
@@ -4778,6 +4930,7 @@
     {
      "name": "秘境冒険民宿 山人砦",
      "name_en": "Hikyo Boken Minshuku Sanjin Toride",
+     "description": "Restaurant in Hayakawa.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190204/19012728/",
      "page": "https://bokenjapan.com/yamanashi/hayakawa/eat/other/",
      "category": "Other"
@@ -4785,6 +4938,7 @@
     {
      "name": "江戸屋旅館",
      "name_en": "Edo-ya Ryokan",
+     "description": "Restaurant in Hayakawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19009317/",
      "page": "https://bokenjapan.com/yamanashi/hayakawa/eat/other/",
      "category": "Other"
@@ -4792,6 +4946,7 @@
     {
      "name": "えびなや",
      "name_en": "Ebinaya",
+     "description": "Restaurant in Hayakawa.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190204/19009318/",
      "page": "https://bokenjapan.com/yamanashi/hayakawa/eat/other/",
      "category": "Other"
@@ -4799,6 +4954,7 @@
     {
      "name": "豆風坊",
      "name_en": "Mame Kaze Bo",
+     "description": "Japanese restaurant in Hayakawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19008934/",
      "page": "https://bokenjapan.com/yamanashi/hayakawa/eat/other-japanese/",
      "category": "Other Japanese"
@@ -4806,6 +4962,7 @@
     {
      "name": "竹寿司",
      "name_en": "Take Sushi",
+     "description": "Seafood restaurant in Hayakawa.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19006436/",
      "page": "https://bokenjapan.com/yamanashi/hayakawa/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -4813,6 +4970,7 @@
     {
      "name": "おんみつ堂",
      "name_en": "Onmitsu Do",
+     "description": "Sweets and bakery shop in Hayakawa.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190204/19011202/",
      "page": "https://bokenjapan.com/yamanashi/hayakawa/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -5074,6 +5232,7 @@
     {
      "name": "自然屋",
      "name_en": "Shizen-ya",
+     "description": "Casual restaurant in Hokuto.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19008497/",
      "page": "https://bokenjapan.com/yamanashi/hokuto/eat/casual/",
      "category": "Casual"
@@ -5081,6 +5240,7 @@
     {
      "name": "中村農場",
      "name_en": "Nakamura Nojo",
+     "description": "Casual restaurant in Hokuto.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19000151/",
      "page": "https://bokenjapan.com/yamanashi/hokuto/eat/casual/",
      "category": "Casual"
@@ -5088,6 +5248,7 @@
     {
      "name": "ヴィラ・アフガン",
      "name_en": "Villa Afugan",
+     "description": "Curry restaurant in Hokuto.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19000083/",
      "page": "https://bokenjapan.com/yamanashi/hokuto/eat/curry/",
      "category": "Curry"
@@ -5095,6 +5256,7 @@
     {
      "name": "Terroir愛と胃袋",
      "name_en": "Terroir Ai To Ibukuro",
+     "description": "European restaurant in Hokuto.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19009934/",
      "page": "https://bokenjapan.com/yamanashi/hokuto/eat/european/",
      "category": "European"
@@ -5102,6 +5264,7 @@
     {
      "name": "OTTO SETTE",
      "name_en": "OTTO Sette",
+     "description": "European restaurant in Hokuto.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19000325/",
      "page": "https://bokenjapan.com/yamanashi/hokuto/eat/european/",
      "category": "European"
@@ -5109,6 +5272,7 @@
     {
      "name": "亜絲花",
      "name_en": "A Ito Hana",
+     "description": "European restaurant in Hokuto.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19010473/",
      "page": "https://bokenjapan.com/yamanashi/hokuto/eat/european/",
      "category": "European"
@@ -5116,6 +5280,7 @@
     {
      "name": "ビストロ バガブー",
      "name_en": "Bistro Bagabu",
+     "description": "European restaurant in Hokuto.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19009254/",
      "page": "https://bokenjapan.com/yamanashi/hokuto/eat/european/",
      "category": "European"
@@ -5123,6 +5288,7 @@
     {
      "name": "プロシュッテリアモリモト",
      "name_en": "Puroshutteriamorimoto",
+     "description": "European restaurant in Hokuto.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19011503/",
      "page": "https://bokenjapan.com/yamanashi/hokuto/eat/european/",
      "category": "European"
@@ -5130,6 +5296,7 @@
     {
      "name": "ROCK",
      "name_en": "ROCK",
+     "description": "European restaurant in Hokuto.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19000072/",
      "page": "https://bokenjapan.com/yamanashi/hokuto/eat/european/",
      "category": "European"
@@ -5137,6 +5304,7 @@
     {
      "name": "グラタン専門店 アミ",
      "name_en": "Guratan Ami",
+     "description": "European restaurant in Hokuto.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19000343/",
      "page": "https://bokenjapan.com/yamanashi/hokuto/eat/european/",
      "category": "European"
@@ -5144,6 +5312,7 @@
     {
      "name": "Salute",
      "name_en": "Salute",
+     "description": "European restaurant in Hokuto.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19013627/",
      "page": "https://bokenjapan.com/yamanashi/hokuto/eat/european/",
      "category": "European"
@@ -5151,6 +5320,7 @@
     {
      "name": "メーラレン",
      "name_en": "Meraren",
+     "description": "European restaurant in Hokuto.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19000581/",
      "page": "https://bokenjapan.com/yamanashi/hokuto/eat/european/",
      "category": "European"
@@ -5174,6 +5344,7 @@
     {
      "name": "Hakushu Terrace",
      "name_en": "Hakushu Terrace",
+     "description": "Izakaya or bar in Hokuto.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19013733/",
      "page": "https://bokenjapan.com/yamanashi/hokuto/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -5181,6 +5352,7 @@
     {
      "name": "サントリー白州蒸溜所",
      "name_en": "Santori Shirasu Joryu Tokoro",
+     "description": "Izakaya or bar in Hokuto.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19007298/",
      "page": "https://bokenjapan.com/yamanashi/hokuto/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -5188,6 +5360,7 @@
     {
      "name": "秀よし",
      "name_en": "Shu Yoshi",
+     "description": "Izakaya or bar in Hokuto.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19001098/",
      "page": "https://bokenjapan.com/yamanashi/hokuto/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -5195,6 +5368,7 @@
     {
      "name": "PAUSE",
      "name_en": "Pause",
+     "description": "Noodle restaurant in Hokuto.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19011328/",
      "page": "https://bokenjapan.com/yamanashi/hokuto/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5202,6 +5376,7 @@
     {
      "name": "白州手打ち蕎麦 くぼ田",
      "name_en": "Shirasu Handmade Soba Kubo Ta",
+     "description": "Noodle restaurant in Hokuto.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19007608/",
      "page": "https://bokenjapan.com/yamanashi/hokuto/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5209,6 +5384,7 @@
     {
      "name": "蕎麦 Hajime",
      "name_en": "Soba Hajime",
+     "description": "Noodle restaurant in Hokuto.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19010491/",
      "page": "https://bokenjapan.com/yamanashi/hokuto/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5216,6 +5392,7 @@
     {
      "name": "翁",
      "name_en": "Okina",
+     "description": "Noodle restaurant in Hokuto.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19000089/",
      "page": "https://bokenjapan.com/yamanashi/hokuto/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5287,6 +5464,7 @@
     {
      "name": "古守宿一作",
      "name_en": "Komori Yado Issaku",
+     "description": "Restaurant in Hokuto.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19002316/",
      "page": "https://bokenjapan.com/yamanashi/hokuto/eat/other/",
      "category": "Other"
@@ -5302,6 +5480,7 @@
     {
      "name": "八ヶ岳 えさき",
      "name_en": "Yatsugatake Esaki",
+     "description": "Japanese restaurant in Hokuto.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19010716/",
      "page": "https://bokenjapan.com/yamanashi/hokuto/eat/other-japanese/",
      "category": "Other Japanese"
@@ -5309,6 +5488,7 @@
     {
      "name": "仙人小屋",
      "name_en": "Sennin Sho-ya",
+     "description": "Japanese restaurant in Hokuto.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19013524/",
      "page": "https://bokenjapan.com/yamanashi/hokuto/eat/other-japanese/",
      "category": "Other Japanese"
@@ -5332,6 +5512,7 @@
     {
      "name": "小淵沢 井筒屋",
      "name_en": "Obuchizawa Izutsu-ya",
+     "description": "Seafood restaurant in Hokuto.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19000064/",
      "page": "https://bokenjapan.com/yamanashi/hokuto/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -5339,6 +5520,7 @@
     {
      "name": "台ヶ原金精軒 本店",
      "name_en": "Dai Ke Hara Kinsei Ken Main Store",
+     "description": "Sweets and bakery shop in Hokuto.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19000135/",
      "page": "https://bokenjapan.com/yamanashi/hokuto/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -6678,6 +6860,7 @@
     {
      "name": "二藍",
      "name_en": "Futai",
+     "description": "Cafe in Ichikawamisato.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19013157/",
      "page": "https://bokenjapan.com/yamanashi/ichikawamisato/eat/cafe/",
      "category": "Cafe"
@@ -6685,6 +6868,7 @@
     {
      "name": "湖畔cafe NATIVE GARDEN+",
      "name_en": "Kohan cafe Native Garden +",
+     "description": "Cafe in Ichikawamisato.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19011907/",
      "page": "https://bokenjapan.com/yamanashi/ichikawamisato/eat/cafe/",
      "category": "Cafe"
@@ -6692,6 +6876,7 @@
     {
      "name": "茶話堂 shion",
      "name_en": "Sawa Do shion",
+     "description": "Cafe in Ichikawamisato.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19009077/",
      "page": "https://bokenjapan.com/yamanashi/ichikawamisato/eat/cafe/",
      "category": "Cafe"
@@ -6699,6 +6884,7 @@
     {
      "name": "カフェ リベルタ",
      "name_en": "Cafe Riberuta",
+     "description": "Cafe in Ichikawamisato.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19011880/",
      "page": "https://bokenjapan.com/yamanashi/ichikawamisato/eat/cafe/",
      "category": "Cafe"
@@ -6706,6 +6892,7 @@
     {
      "name": "みはらし亭",
      "name_en": "Miharashi-tei",
+     "description": "Casual restaurant in Ichikawamisato.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19001003/",
      "page": "https://bokenjapan.com/yamanashi/ichikawamisato/eat/casual/",
      "category": "Casual"
@@ -6713,6 +6900,7 @@
     {
      "name": "竹田屋",
      "name_en": "Takeda-ya",
+     "description": "Casual restaurant in Ichikawamisato.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19002780/",
      "page": "https://bokenjapan.com/yamanashi/ichikawamisato/eat/casual/",
      "category": "Casual"
@@ -6720,6 +6908,7 @@
     {
      "name": "あめ家食堂",
      "name_en": "Ame-ya Shokudo",
+     "description": "Casual restaurant in Ichikawamisato.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19002445/",
      "page": "https://bokenjapan.com/yamanashi/ichikawamisato/eat/casual/",
      "category": "Casual"
@@ -6727,6 +6916,7 @@
     {
      "name": "風の国",
      "name_en": "Kaze no Kuni",
+     "description": "Chinese or Asian restaurant in Ichikawamisato.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19013880/",
      "page": "https://bokenjapan.com/yamanashi/ichikawamisato/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -6734,6 +6924,7 @@
     {
      "name": "台湾料理 鴻福",
      "name_en": "Taiwan Cuisine Ko Fuku",
+     "description": "Chinese or Asian restaurant in Ichikawamisato.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19013602/",
      "page": "https://bokenjapan.com/yamanashi/ichikawamisato/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -6741,6 +6932,7 @@
     {
      "name": "イルポッジョ",
      "name_en": "Irupojjo",
+     "description": "European restaurant in Ichikawamisato.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19006434/",
      "page": "https://bokenjapan.com/yamanashi/ichikawamisato/eat/european/",
      "category": "European"
@@ -6748,6 +6940,7 @@
     {
      "name": "レストラン ニューポート",
      "name_en": "Restaurant New Port",
+     "description": "Meat restaurant in Ichikawamisato.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19000705/",
      "page": "https://bokenjapan.com/yamanashi/ichikawamisato/eat/meat/",
      "category": "Japanese (meat)"
@@ -6755,6 +6948,7 @@
     {
      "name": "とりしん",
      "name_en": "Torishin",
+     "description": "Meat restaurant in Ichikawamisato.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19002528/",
      "page": "https://bokenjapan.com/yamanashi/ichikawamisato/eat/meat/",
      "category": "Japanese (meat)"
@@ -6762,6 +6956,7 @@
     {
      "name": "ラーメン専科 市川三郷グンゼタウン店",
      "name_en": "Ramen Senka Ichikawamisato Gunzetaun",
+     "description": "Noodle restaurant in Ichikawamisato.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19010389/",
      "page": "https://bokenjapan.com/yamanashi/ichikawamisato/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -6769,6 +6964,7 @@
     {
      "name": "かわち",
      "name_en": "Kawachi",
+     "description": "Restaurant in Ichikawamisato.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19002480/",
      "page": "https://bokenjapan.com/yamanashi/ichikawamisato/eat/other/",
      "category": "Other"
@@ -6776,6 +6972,7 @@
     {
      "name": "四尾連湖 水明荘",
      "name_en": "Shi Biren Mizumi Suimei-so",
+     "description": "Restaurant in Ichikawamisato.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19010501/",
      "page": "https://bokenjapan.com/yamanashi/ichikawamisato/eat/other/",
      "category": "Other"
@@ -6783,6 +6980,7 @@
     {
      "name": "ホテル丹頂館",
      "name_en": "Hotel Tancho-kan",
+     "description": "Restaurant in Ichikawamisato.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19006792/",
      "page": "https://bokenjapan.com/yamanashi/ichikawamisato/eat/other/",
      "category": "Other"
@@ -6798,6 +6996,7 @@
     {
      "name": "凪",
      "name_en": "Nagi",
+     "description": "Seafood restaurant in Ichikawamisato.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19001993/",
      "page": "https://bokenjapan.com/yamanashi/ichikawamisato/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -6805,6 +7004,7 @@
     {
      "name": "きんこう堂",
      "name_en": "Kinko Do",
+     "description": "Sweets and bakery shop in Ichikawamisato.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19009188/",
      "page": "https://bokenjapan.com/yamanashi/ichikawamisato/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -6812,6 +7012,7 @@
     {
      "name": "パンのはな",
      "name_en": "Bread Nohana",
+     "description": "Sweets and bakery shop in Ichikawamisato.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19009408/",
      "page": "https://bokenjapan.com/yamanashi/ichikawamisato/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -6819,6 +7020,7 @@
     {
      "name": "太田屋",
      "name_en": "Ota-ya",
+     "description": "Sweets and bakery shop in Ichikawamisato.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19009310/",
      "page": "https://bokenjapan.com/yamanashi/ichikawamisato/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -6826,6 +7028,7 @@
     {
      "name": "shareBAKE LAB",
      "name_en": "shareBAKE LAB",
+     "description": "Sweets and bakery shop in Ichikawamisato.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19013156/",
      "page": "https://bokenjapan.com/yamanashi/ichikawamisato/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -6833,6 +7036,7 @@
     {
      "name": "四季の創作菓子 斉木製菓",
      "name_en": "Shiki no Sosaku Kashi Saiki Seika",
+     "description": "Sweets and bakery shop in Ichikawamisato.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19014111/",
      "page": "https://bokenjapan.com/yamanashi/ichikawamisato/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -6925,6 +7129,7 @@
     {
      "name": "お食事処 ぼんち",
      "name_en": "Restaurant Bonchi",
+     "description": "Casual restaurant in Kai.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19000147/",
      "page": "https://bokenjapan.com/yamanashi/kai/eat/casual/",
      "category": "Casual"
@@ -6932,6 +7137,7 @@
     {
      "name": "あかつき食堂",
      "name_en": "Akatsuki Shokudo",
+     "description": "Casual restaurant in Kai.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19002439/",
      "page": "https://bokenjapan.com/yamanashi/kai/eat/casual/",
      "category": "Casual"
@@ -6939,6 +7145,7 @@
     {
      "name": "旬菜キッチン のんちゃん",
      "name_en": "Jun Na Kitchen Nonchan",
+     "description": "Casual restaurant in Kai.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19011173/",
      "page": "https://bokenjapan.com/yamanashi/kai/eat/casual/",
      "category": "Casual"
@@ -6946,6 +7153,7 @@
     {
      "name": "桃 敷島店",
      "name_en": "Momo Shikishima",
+     "description": "Chinese or Asian restaurant in Kai.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19004642/",
      "page": "https://bokenjapan.com/yamanashi/kai/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -6953,6 +7161,7 @@
     {
      "name": "キングスウェル",
      "name_en": "Kingusueru",
+     "description": "European restaurant in Kai.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19006036/",
      "page": "https://bokenjapan.com/yamanashi/kai/eat/european/",
      "category": "European"
@@ -6960,6 +7169,7 @@
     {
      "name": "ブレーメン",
      "name_en": "Buremen",
+     "description": "European restaurant in Kai.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19000321/",
      "page": "https://bokenjapan.com/yamanashi/kai/eat/european/",
      "category": "European"
@@ -6975,6 +7185,7 @@
     {
      "name": "サントリー 登美の丘ワイナリー",
      "name_en": "Santori Tomi no Oka Winery",
+     "description": "Izakaya or bar in Kai.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19002543/",
      "page": "https://bokenjapan.com/yamanashi/kai/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -6982,6 +7193,7 @@
     {
      "name": "ぶう亭",
      "name_en": "Bu-tei",
+     "description": "Meat restaurant in Kai.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19002984/",
      "page": "https://bokenjapan.com/yamanashi/kai/eat/meat/",
      "category": "Japanese (meat)"
@@ -6989,6 +7201,7 @@
     {
      "name": "麺屋 しん道",
      "name_en": "Men-ya Shin Michi",
+     "description": "Noodle restaurant in Kai.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19011325/",
      "page": "https://bokenjapan.com/yamanashi/kai/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -6996,6 +7209,7 @@
     {
      "name": "カレーうどん屋 咲々 響が丘店",
      "name_en": "Curry Udon-ya Saki Saki Kyo Ga Oka",
+     "description": "Noodle restaurant in Kai.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19012920/",
      "page": "https://bokenjapan.com/yamanashi/kai/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -7003,6 +7217,7 @@
     {
      "name": "鶏出汁中華そば 珀寛流",
      "name_en": "Niwatori Dejiru Chuka Soba Haku Hiroshi Ryu",
+     "description": "Noodle restaurant in Kai.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19013713/",
      "page": "https://bokenjapan.com/yamanashi/kai/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -7010,6 +7225,7 @@
     {
      "name": "藤義",
      "name_en": "Fuji Gi",
+     "description": "Noodle restaurant in Kai.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19001640/",
      "page": "https://bokenjapan.com/yamanashi/kai/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -7017,6 +7233,7 @@
     {
      "name": "全開まぐちゃん",
      "name_en": "Zenkai Maguchan",
+     "description": "Noodle restaurant in Kai.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19012167/",
      "page": "https://bokenjapan.com/yamanashi/kai/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -7024,6 +7241,7 @@
     {
      "name": "麺や壱進",
      "name_en": "Men Ya Isshin",
+     "description": "Noodle restaurant in Kai.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19014307/",
      "page": "https://bokenjapan.com/yamanashi/kai/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -7031,6 +7249,7 @@
     {
      "name": "奥藤 竜王分店",
      "name_en": "Okudo Ryuo Fun",
+     "description": "Noodle restaurant in Kai.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19002131/",
      "page": "https://bokenjapan.com/yamanashi/kai/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -7038,6 +7257,7 @@
     {
      "name": "行者ラーメン 熱人G麺",
      "name_en": "Gyoja Ramen Netsu Nin G Men",
+     "description": "Noodle restaurant in Kai.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19006125/",
      "page": "https://bokenjapan.com/yamanashi/kai/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -7045,6 +7265,7 @@
     {
      "name": "双葉サービスエリア（下り） フードコート",
      "name_en": "Futaba Service Area Kudari Food Court",
+     "description": "Noodle restaurant in Kai.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19005184/",
      "page": "https://bokenjapan.com/yamanashi/kai/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -7052,6 +7273,7 @@
     {
      "name": "双葉サービスエリア 上り フードコート",
      "name_en": "Futaba Service Area Nobori Food Court",
+     "description": "Noodle restaurant in Kai.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19008570/",
      "page": "https://bokenjapan.com/yamanashi/kai/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -7059,6 +7281,7 @@
     {
      "name": "うどんダイニング らんたん",
      "name_en": "Udon Dining Rantan",
+     "description": "Noodle restaurant in Kai.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19011133/",
      "page": "https://bokenjapan.com/yamanashi/kai/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -7082,6 +7305,7 @@
     {
      "name": "小作 双葉バイパス店",
      "name_en": "Ozaku Futaba Baipasu",
+     "description": "Japanese restaurant in Kai.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19000193/",
      "page": "https://bokenjapan.com/yamanashi/kai/eat/other-japanese/",
      "category": "Other Japanese"
@@ -7089,6 +7313,7 @@
     {
      "name": "小作 竜王玉川店",
      "name_en": "Ozaku Ryuo Tamagawa",
+     "description": "Japanese restaurant in Kai.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19003489/",
      "page": "https://bokenjapan.com/yamanashi/kai/eat/other-japanese/",
      "category": "Other Japanese"
@@ -7096,6 +7321,7 @@
     {
      "name": "やわらかとんかつ かつ玄 竜王玉川店",
      "name_en": "Yawaraka Tonkatsu Katsu Gen Ryuo Tamagawa",
+     "description": "Japanese restaurant in Kai.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19004646/",
      "page": "https://bokenjapan.com/yamanashi/kai/eat/other-japanese/",
      "category": "Other Japanese"
@@ -7103,6 +7329,7 @@
     {
      "name": "ふかふかぱん",
      "name_en": "Fukafukapan",
+     "description": "Sweets and bakery shop in Kai.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19007617/",
      "page": "https://bokenjapan.com/yamanashi/kai/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -7110,6 +7337,7 @@
     {
      "name": "双葉サービスエリア（下り線）パン工房ふたば",
      "name_en": "Futaba Service Area Outbound Bread Kobo Futaba",
+     "description": "Sweets and bakery shop in Kai.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19000874/",
      "page": "https://bokenjapan.com/yamanashi/kai/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -7353,6 +7581,7 @@
     {
      "name": "寺崎コーヒー",
      "name_en": "Terasaki Coffee",
+     "description": "Cafe in Kofushi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19007255/",
      "page": "https://bokenjapan.com/yamanashi/kofushi/eat/cafe/",
      "category": "Cafe"
@@ -7368,6 +7597,7 @@
     {
      "name": "Chinese Dining 正宗",
      "name_en": "Chinese Dining Masamune",
+     "description": "Chinese or Asian restaurant in Kofushi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19013591/",
      "page": "https://bokenjapan.com/yamanashi/kofushi/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -7383,6 +7613,7 @@
     {
      "name": "サドヤレストラン レアル・ドール",
      "name_en": "Sadoya Restaurant Rearu Doru",
+     "description": "European restaurant in Kofushi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19007697/",
      "page": "https://bokenjapan.com/yamanashi/kofushi/eat/european/",
      "category": "European"
@@ -7390,6 +7621,7 @@
     {
      "name": "NOST",
      "name_en": "NOST",
+     "description": "European restaurant in Kofushi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19011954/",
      "page": "https://bokenjapan.com/yamanashi/kofushi/eat/european/",
      "category": "European"
@@ -7397,6 +7629,7 @@
     {
      "name": "山梨レストラン メリメロ",
      "name_en": "Yamanashi Restaurant Merimero",
+     "description": "European restaurant in Kofushi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19007453/",
      "page": "https://bokenjapan.com/yamanashi/kofushi/eat/european/",
      "category": "European"
@@ -7404,6 +7637,7 @@
     {
      "name": "トラットリア ジラソーレ",
      "name_en": "Trattoria Jirasore",
+     "description": "European restaurant in Kofushi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19012662/",
      "page": "https://bokenjapan.com/yamanashi/kofushi/eat/european/",
      "category": "European"
@@ -7451,6 +7685,7 @@
     {
      "name": "たん焼 与平",
      "name_en": "Tan Yaki Yohei",
+     "description": "Izakaya or bar in Kofushi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19011233/",
      "page": "https://bokenjapan.com/yamanashi/kofushi/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -7458,6 +7693,7 @@
     {
      "name": "酒場日々",
      "name_en": "Sakaba Hibi",
+     "description": "Izakaya or bar in Kofushi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19010075/",
      "page": "https://bokenjapan.com/yamanashi/kofushi/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -7465,6 +7701,7 @@
     {
      "name": "甲州居酒屋 佐藤さん家",
      "name_en": "Koshu Izakaya Sato San-ya",
+     "description": "Izakaya or bar in Kofushi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19012394/",
      "page": "https://bokenjapan.com/yamanashi/kofushi/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -7472,6 +7709,7 @@
     {
      "name": "炉端 ウラハラ",
      "name_en": "Robata Urahara",
+     "description": "Izakaya or bar in Kofushi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19011502/",
      "page": "https://bokenjapan.com/yamanashi/kofushi/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -7479,6 +7717,7 @@
     {
      "name": "飲み喰い処 のんでけし",
      "name_en": "Nomikui Tokoro Nondekeshi",
+     "description": "Izakaya or bar in Kofushi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19012212/",
      "page": "https://bokenjapan.com/yamanashi/kofushi/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -7566,6 +7805,7 @@
     {
      "name": "キッチン美味小家",
      "name_en": "Kitchen Bimi Sho-ya",
+     "description": "Meat restaurant in Kofushi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19000291/",
      "page": "https://bokenjapan.com/yamanashi/kofushi/eat/meat/",
      "category": "Japanese (meat)"
@@ -7573,6 +7813,7 @@
     {
      "name": "焼鳥 58",
      "name_en": "Yakitori 58",
+     "description": "Meat restaurant in Kofushi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19013380/",
      "page": "https://bokenjapan.com/yamanashi/kofushi/eat/meat/",
      "category": "Japanese (meat)"
@@ -7588,6 +7829,7 @@
     {
      "name": "専心庵",
      "name_en": "Senshin Iori",
+     "description": "Noodle restaurant in Kofushi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19000330/",
      "page": "https://bokenjapan.com/yamanashi/kofushi/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -7595,6 +7837,7 @@
     {
      "name": "蓬来軒 本店",
      "name_en": "Yomogi Rai Ken Main Store",
+     "description": "Noodle restaurant in Kofushi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19000014/",
      "page": "https://bokenjapan.com/yamanashi/kofushi/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -7602,6 +7845,7 @@
     {
      "name": "手打ち工房 凌駕",
      "name_en": "Teuchi Chi Kobo Ryoga",
+     "description": "Noodle restaurant in Kofushi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19000611/",
      "page": "https://bokenjapan.com/yamanashi/kofushi/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -7697,6 +7941,7 @@
     {
      "name": "リストランテ コエン",
      "name_en": "Risutorante Koen",
+     "description": "Japanese restaurant in Kofushi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19009806/",
      "page": "https://bokenjapan.com/yamanashi/kofushi/eat/other-japanese/",
      "category": "Other Japanese"
@@ -7704,6 +7949,7 @@
     {
      "name": "岡",
      "name_en": "Oka",
+     "description": "Japanese restaurant in Kofushi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19010053/",
      "page": "https://bokenjapan.com/yamanashi/kofushi/eat/other-japanese/",
      "category": "Other Japanese"
@@ -7711,6 +7957,7 @@
     {
      "name": "和食あかざわ",
      "name_en": "Washoku Akazawa",
+     "description": "Japanese restaurant in Kofushi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19008207/",
      "page": "https://bokenjapan.com/yamanashi/kofushi/eat/other-japanese/",
      "category": "Other Japanese"
@@ -7718,6 +7965,7 @@
     {
      "name": "天松",
      "name_en": "Tenmatsu",
+     "description": "Japanese restaurant in Kofushi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19000289/",
      "page": "https://bokenjapan.com/yamanashi/kofushi/eat/other-japanese/",
      "category": "Other Japanese"
@@ -7725,6 +7973,7 @@
     {
      "name": "ITSUKU",
      "name_en": "Itsuku",
+     "description": "Japanese restaurant in Kofushi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19013630/",
      "page": "https://bokenjapan.com/yamanashi/kofushi/eat/other-japanese/",
      "category": "Other Japanese"
@@ -7740,6 +7989,7 @@
     {
      "name": "春日鮨",
      "name_en": "Kasuga Sushi",
+     "description": "Seafood restaurant in Kofushi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19001927/",
      "page": "https://bokenjapan.com/yamanashi/kofushi/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -7747,6 +7997,7 @@
     {
      "name": "若鮨",
      "name_en": "Jaku Sushi",
+     "description": "Seafood restaurant in Kofushi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19000008/",
      "page": "https://bokenjapan.com/yamanashi/kofushi/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -7762,6 +8013,7 @@
     {
      "name": "丸十パン 本店",
      "name_en": "Maru Ju Bread Main Store",
+     "description": "Sweets and bakery shop in Kofushi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19000559/",
      "page": "https://bokenjapan.com/yamanashi/kofushi/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -8669,6 +8921,7 @@
     {
      "name": "98WINEs",
      "name_en": "98WINEs",
+     "description": "Cafe in Koshu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190104/19011254/",
      "page": "https://bokenjapan.com/yamanashi/koshu/eat/cafe/",
      "category": "Cafe"
@@ -8676,6 +8929,7 @@
     {
      "name": "IWAI TERRACE",
      "name_en": "IWAI Terrace",
+     "description": "Cafe in Koshu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190104/19013520/",
      "page": "https://bokenjapan.com/yamanashi/koshu/eat/cafe/",
      "category": "Cafe"
@@ -8691,6 +8945,7 @@
     {
      "name": "あかり食堂",
      "name_en": "Akari Shokudo",
+     "description": "Casual restaurant in Koshu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190104/19013869/",
      "page": "https://bokenjapan.com/yamanashi/koshu/eat/casual/",
      "category": "Casual"
@@ -8698,6 +8953,7 @@
     {
      "name": "菊亭",
      "name_en": "Kiku-tei",
+     "description": "Chinese or Asian restaurant in Koshu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190104/19002650/",
      "page": "https://bokenjapan.com/yamanashi/koshu/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -8705,6 +8961,7 @@
     {
      "name": "レストランテ 風",
      "name_en": "Restaurant Te Kaze",
+     "description": "European restaurant in Koshu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190104/19000024/",
      "page": "https://bokenjapan.com/yamanashi/koshu/eat/european/",
      "category": "European"
@@ -8712,6 +8969,7 @@
     {
      "name": "ビストロ・ミル・プランタン",
      "name_en": "Bistro Miru Purantan",
+     "description": "European restaurant in Koshu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190104/19005215/",
      "page": "https://bokenjapan.com/yamanashi/koshu/eat/european/",
      "category": "European"
@@ -8719,6 +8977,7 @@
     {
      "name": "ぶどうの丘 展望ワインレストラン",
      "name_en": "Budo no Oka Tenbo Wine Restaurant",
+     "description": "European restaurant in Koshu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190104/19000025/",
      "page": "https://bokenjapan.com/yamanashi/koshu/eat/european/",
      "category": "European"
@@ -8726,6 +8985,7 @@
     {
      "name": "レストラン鳥居平",
      "name_en": "Restaurant Tori Taira",
+     "description": "European restaurant in Koshu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190104/19000808/",
      "page": "https://bokenjapan.com/yamanashi/koshu/eat/european/",
      "category": "European"
@@ -8741,6 +9001,7 @@
     {
      "name": "メルシャン ワインギャラリー",
      "name_en": "Merushan Wine Gyarari",
+     "description": "Izakaya or bar in Koshu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190104/19005211/",
      "page": "https://bokenjapan.com/yamanashi/koshu/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -8748,6 +9009,7 @@
     {
      "name": "信玄",
      "name_en": "Shingen",
+     "description": "Izakaya or bar in Koshu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190102/19001624/",
      "page": "https://bokenjapan.com/yamanashi/koshu/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -8755,6 +9017,7 @@
     {
      "name": "花藤",
      "name_en": "Hana Fuji",
+     "description": "Izakaya or bar in Koshu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190104/19003082/",
      "page": "https://bokenjapan.com/yamanashi/koshu/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -8762,6 +9025,7 @@
     {
      "name": "皆吉",
      "name_en": "Minayoshi",
+     "description": "Meat restaurant in Koshu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190104/19000108/",
      "page": "https://bokenjapan.com/yamanashi/koshu/eat/meat/",
      "category": "Japanese (meat)"
@@ -8769,6 +9033,7 @@
     {
      "name": "そば丸",
      "name_en": "Soba Maru",
+     "description": "Noodle restaurant in Koshu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190104/19000295/",
      "page": "https://bokenjapan.com/yamanashi/koshu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -8776,6 +9041,7 @@
     {
      "name": "平和園",
      "name_en": "Heiwa Sono",
+     "description": "Noodle restaurant in Koshu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190104/19001054/",
      "page": "https://bokenjapan.com/yamanashi/koshu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -8783,6 +9049,7 @@
     {
      "name": "塩山館食堂",
      "name_en": "Enzan-kan Shokudo",
+     "description": "Noodle restaurant in Koshu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190104/19000140/",
      "page": "https://bokenjapan.com/yamanashi/koshu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -8790,6 +9057,7 @@
     {
      "name": "味処 そばの実 【旧店名】惣菜村2248",
      "name_en": "Ajidokoro Soba no Mi Sozai Mura 2248",
+     "description": "Noodle restaurant in Koshu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190104/19007728/",
      "page": "https://bokenjapan.com/yamanashi/koshu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -8837,6 +9105,7 @@
     {
      "name": "頑固おやじの手打ちほうとう",
      "name_en": "Ganko Oyaji no Teuchi Chihoto",
+     "description": "Restaurant in Koshu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190104/19000877/",
      "page": "https://bokenjapan.com/yamanashi/koshu/eat/other/",
      "category": "Other"
@@ -8844,6 +9113,7 @@
     {
      "name": "ほうとう処 いしはら",
      "name_en": "Hoto Tokoro Ishihara",
+     "description": "Restaurant in Koshu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190104/19004496/",
      "page": "https://bokenjapan.com/yamanashi/koshu/eat/other/",
      "category": "Other"
@@ -8851,6 +9121,7 @@
     {
      "name": "甲州ほうとう 完熟屋 本店",
      "name_en": "Koshu Hoto Kanjuku-ya Main Store",
+     "description": "Japanese restaurant in Koshu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190104/19008019/",
      "page": "https://bokenjapan.com/yamanashi/koshu/eat/other-japanese/",
      "category": "Other Japanese"
@@ -8858,6 +9129,7 @@
     {
      "name": "ほうとう処 慶千庵",
      "name_en": "Hoto Tokoro Yoshi Sen Iori",
+     "description": "Japanese restaurant in Koshu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190104/19006668/",
      "page": "https://bokenjapan.com/yamanashi/koshu/eat/other-japanese/",
      "category": "Other Japanese"
@@ -8865,6 +9137,7 @@
     {
      "name": "パン工房鳥居平",
      "name_en": "Bread Kobo Tori Taira",
+     "description": "Sweets and bakery shop in Koshu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190104/19005990/",
      "page": "https://bokenjapan.com/yamanashi/koshu/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -8872,6 +9145,7 @@
     {
      "name": "パンテーブル",
      "name_en": "Bread Table",
+     "description": "Sweets and bakery shop in Koshu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190104/19000281/",
      "page": "https://bokenjapan.com/yamanashi/koshu/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -8879,6 +9153,7 @@
     {
      "name": "山梨パン工房 モンマーロ",
      "name_en": "Yamanashi Bread Kobo Monmaro",
+     "description": "Sweets and bakery shop in Koshu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190104/19008289/",
      "page": "https://bokenjapan.com/yamanashi/koshu/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -8886,6 +9161,7 @@
     {
      "name": "Nelk",
      "name_en": "Nelk",
+     "description": "Sweets and bakery shop in Koshu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190104/19012881/",
      "page": "https://bokenjapan.com/yamanashi/koshu/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -9956,6 +10232,7 @@
     {
      "name": "豆のちはれ",
      "name_en": "Mame Nochihare",
+     "description": "Cafe in Kosuge.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19013007/",
      "page": "https://bokenjapan.com/yamanashi/kosuge/eat/cafe/",
      "category": "Cafe"
@@ -9963,6 +10240,7 @@
     {
      "name": "kadoya cafe",
      "name_en": "kadoya cafe",
+     "description": "Cafe in Kosuge.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19014835/",
      "page": "https://bokenjapan.com/yamanashi/kosuge/eat/cafe/",
      "category": "Cafe"
@@ -9970,6 +10248,7 @@
     {
      "name": "小菅の湯 ひのき",
      "name_en": "Kosuge no Yu Hinoki",
+     "description": "Casual restaurant in Kosuge.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19000348/",
      "page": "https://bokenjapan.com/yamanashi/kosuge/eat/casual/",
      "category": "Casual"
@@ -9977,6 +10256,7 @@
     {
      "name": "マサラ ジェイコ",
      "name_en": "Masara Jieiko",
+     "description": "Curry restaurant in Kosuge.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19013863/",
      "page": "https://bokenjapan.com/yamanashi/kosuge/eat/curry/",
      "category": "Curry"
@@ -9984,6 +10264,7 @@
     {
      "name": "源流レストラン",
      "name_en": "Genryu Restaurant",
+     "description": "European restaurant in Kosuge.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19008409/",
      "page": "https://bokenjapan.com/yamanashi/kosuge/eat/european/",
      "category": "European"
@@ -9991,6 +10272,7 @@
     {
      "name": "THE FAR YEAST Beer Adventure",
      "name_en": "THE FAR Yeast Beer Adventure",
+     "description": "Izakaya or bar in Kosuge.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19014475/",
      "page": "https://bokenjapan.com/yamanashi/kosuge/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -9998,6 +10280,7 @@
     {
      "name": "食事処 ムッカ",
      "name_en": "Restaurant Mukka",
+     "description": "Meat restaurant in Kosuge.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19011999/",
      "page": "https://bokenjapan.com/yamanashi/kosuge/eat/meat/",
      "category": "Japanese (meat)"
@@ -10005,6 +10288,7 @@
     {
      "name": "麺屋 梅ノ木",
      "name_en": "Men-ya Ume No Ki",
+     "description": "Noodle restaurant in Kosuge.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19012554/",
      "page": "https://bokenjapan.com/yamanashi/kosuge/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -10012,6 +10296,7 @@
     {
      "name": "小金持ち工房",
      "name_en": "Kogane Mochi Kobo",
+     "description": "Noodle restaurant in Kosuge.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19007533/",
      "page": "https://bokenjapan.com/yamanashi/kosuge/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -10019,6 +10304,7 @@
     {
      "name": "チャーちゃん",
      "name_en": "Cha Chan",
+     "description": "Noodle restaurant in Kosuge.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19013870/",
      "page": "https://bokenjapan.com/yamanashi/kosuge/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -10026,6 +10312,7 @@
     {
      "name": "廣瀬屋",
      "name_en": "Hirose-ya",
+     "description": "Restaurant in Kosuge.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19007057/",
      "page": "https://bokenjapan.com/yamanashi/kosuge/eat/other/",
      "category": "Other"
@@ -10033,6 +10320,7 @@
     {
      "name": "チャーちゃんまんじゅう",
      "name_en": "Cha Chanmanju",
+     "description": "Restaurant in Kosuge.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19008384/",
      "page": "https://bokenjapan.com/yamanashi/kosuge/eat/other/",
      "category": "Other"
@@ -10040,6 +10328,7 @@
     {
      "name": "近江屋",
      "name_en": "Omi-ya",
+     "description": "Restaurant in Kosuge.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19012033/",
      "page": "https://bokenjapan.com/yamanashi/kosuge/eat/other/",
      "category": "Other"
@@ -10150,6 +10439,7 @@
     {
      "name": "アニーズ",
      "name_en": "Anizu",
+     "description": "Cafe in Minamiarupusu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19009483/",
      "page": "https://bokenjapan.com/yamanashi/minamiarupusu/eat/cafe/",
      "category": "Cafe"
@@ -10157,6 +10447,7 @@
     {
      "name": "マロニエ亭",
      "name_en": "Maronie-tei",
+     "description": "Casual restaurant in Minamiarupusu.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190203/19004795/",
      "page": "https://bokenjapan.com/yamanashi/minamiarupusu/eat/casual/",
      "category": "Casual"
@@ -10164,6 +10455,7 @@
     {
      "name": "北岳 肩の小屋",
      "name_en": "Kitadake Kata no Sho-ya",
+     "description": "Casual restaurant in Minamiarupusu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19004259/",
      "page": "https://bokenjapan.com/yamanashi/minamiarupusu/eat/casual/",
      "category": "Casual"
@@ -10171,6 +10463,7 @@
     {
      "name": "丸福",
      "name_en": "Marufuku",
+     "description": "Chinese or Asian restaurant in Minamiarupusu.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190203/19003898/",
      "page": "https://bokenjapan.com/yamanashi/minamiarupusu/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -10178,6 +10471,7 @@
     {
      "name": "チャイナレストラン 揚子江",
      "name_en": "Chaina Restaurant Yosuko",
+     "description": "Chinese or Asian restaurant in Minamiarupusu.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190203/19011480/",
      "page": "https://bokenjapan.com/yamanashi/minamiarupusu/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -10185,6 +10479,7 @@
     {
      "name": "吉祥 白根店",
      "name_en": "Kichijo Shirone",
+     "description": "Chinese or Asian restaurant in Minamiarupusu.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190203/19007520/",
      "page": "https://bokenjapan.com/yamanashi/minamiarupusu/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -10192,6 +10487,7 @@
     {
      "name": "こくりや",
      "name_en": "Kokuriya",
+     "description": "European restaurant in Minamiarupusu.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190203/19011745/",
      "page": "https://bokenjapan.com/yamanashi/minamiarupusu/eat/european/",
      "category": "European"
@@ -10199,6 +10495,7 @@
     {
      "name": "シェフ・ド・フランス",
      "name_en": "Shiefu Do France",
+     "description": "European restaurant in Minamiarupusu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19000605/",
      "page": "https://bokenjapan.com/yamanashi/minamiarupusu/eat/european/",
      "category": "European"
@@ -10206,6 +10503,7 @@
     {
      "name": "HOME’S PASTA 南アルプス店",
      "name_en": "HOME ’ S Pasta Minami Arupusu",
+     "description": "European restaurant in Minamiarupusu.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190203/19014881/",
      "page": "https://bokenjapan.com/yamanashi/minamiarupusu/eat/european/",
      "category": "European"
@@ -10213,6 +10511,7 @@
     {
      "name": "明作",
      "name_en": "Mei Saku",
+     "description": "Izakaya or bar in Minamiarupusu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19004796/",
      "page": "https://bokenjapan.com/yamanashi/minamiarupusu/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -10220,6 +10519,7 @@
     {
      "name": "まぐちゃんラーメン",
      "name_en": "Maguchan Ramen",
+     "description": "Noodle restaurant in Minamiarupusu.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190203/19008507/",
      "page": "https://bokenjapan.com/yamanashi/minamiarupusu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -10227,6 +10527,7 @@
     {
      "name": "中華そば 秋山",
      "name_en": "Chuka Soba Akiyama",
+     "description": "Noodle restaurant in Minamiarupusu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19011090/",
      "page": "https://bokenjapan.com/yamanashi/minamiarupusu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -10234,6 +10535,7 @@
     {
      "name": "たっちゃんうどん",
      "name_en": "Tatchan Udon",
+     "description": "Noodle restaurant in Minamiarupusu.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190203/19010369/",
      "page": "https://bokenjapan.com/yamanashi/minamiarupusu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -10241,6 +10543,7 @@
     {
      "name": "ふうりん 南アルプス店",
      "name_en": "Furin Minami Arupusu",
+     "description": "Noodle restaurant in Minamiarupusu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19007879/",
      "page": "https://bokenjapan.com/yamanashi/minamiarupusu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -10248,6 +10551,7 @@
     {
      "name": "麺 あかざわ",
      "name_en": "Men Akazawa",
+     "description": "Noodle restaurant in Minamiarupusu.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190203/19013646/",
      "page": "https://bokenjapan.com/yamanashi/minamiarupusu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -10255,6 +10559,7 @@
     {
      "name": "乙蕎麦",
      "name_en": "Otsu Soba",
+     "description": "Noodle restaurant in Minamiarupusu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19011255/",
      "page": "https://bokenjapan.com/yamanashi/minamiarupusu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -10262,6 +10567,7 @@
     {
      "name": "喜多方ラーメン 風",
      "name_en": "Kitakata Ramen Kaze",
+     "description": "Noodle restaurant in Minamiarupusu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19010652/",
      "page": "https://bokenjapan.com/yamanashi/minamiarupusu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -10269,6 +10575,7 @@
     {
      "name": "うどん實",
      "name_en": "Udon Jitsu",
+     "description": "Noodle restaurant in Minamiarupusu.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19013934/",
      "page": "https://bokenjapan.com/yamanashi/minamiarupusu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -10276,6 +10583,7 @@
     {
      "name": "めん処愛や",
      "name_en": "Men Tokoro Ai Ya",
+     "description": "Noodle restaurant in Minamiarupusu.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190203/19009158/",
      "page": "https://bokenjapan.com/yamanashi/minamiarupusu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -10283,6 +10591,7 @@
     {
      "name": "そば八",
      "name_en": "Soba Hachi",
+     "description": "Noodle restaurant in Minamiarupusu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19008200/",
      "page": "https://bokenjapan.com/yamanashi/minamiarupusu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -10290,6 +10599,7 @@
     {
      "name": "fumotto DINING",
      "name_en": "fumotto Dining",
+     "description": "Restaurant in Minamiarupusu.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190203/19013697/",
      "page": "https://bokenjapan.com/yamanashi/minamiarupusu/eat/other/",
      "category": "Other"
@@ -10297,6 +10607,7 @@
     {
      "name": "おうちごはん処 ふたば食堂",
      "name_en": "Ochigohan Tokoro Futaba Shokudo",
+     "description": "Japanese restaurant in Minamiarupusu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19002395/",
      "page": "https://bokenjapan.com/yamanashi/minamiarupusu/eat/other-japanese/",
      "category": "Other Japanese"
@@ -10304,6 +10615,7 @@
     {
      "name": "かえで",
      "name_en": "Kaede",
+     "description": "Japanese restaurant in Minamiarupusu.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190203/19006161/",
      "page": "https://bokenjapan.com/yamanashi/minamiarupusu/eat/other-japanese/",
      "category": "Other Japanese"
@@ -10311,6 +10623,7 @@
     {
      "name": "CAFE ROPPE",
      "name_en": "CAFE Roppe",
+     "description": "Sweets and bakery shop in Minamiarupusu.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190203/19013344/",
      "page": "https://bokenjapan.com/yamanashi/minamiarupusu/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -10680,6 +10993,7 @@
     {
      "name": "園林",
      "name_en": "Enrin",
+     "description": "Cafe in Minobu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19005702/",
      "page": "https://bokenjapan.com/yamanashi/minobu/eat/cafe/",
      "category": "Cafe"
@@ -10687,6 +11001,7 @@
     {
      "name": "農カフェ ZENCHO",
      "name_en": "no Cafe Zencho",
+     "description": "Cafe in Minobu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19011902/",
      "page": "https://bokenjapan.com/yamanashi/minobu/eat/cafe/",
      "category": "Cafe"
@@ -10694,6 +11009,7 @@
     {
      "name": "レストラン＆カフェ daisy",
      "name_en": "Restaurant & Cafe daisy",
+     "description": "Cafe in Minobu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19014043/",
      "page": "https://bokenjapan.com/yamanashi/minobu/eat/cafe/",
      "category": "Cafe"
@@ -10709,6 +11025,7 @@
     {
      "name": "丸一食堂",
      "name_en": "Maruichi Shokudo",
+     "description": "Casual restaurant in Minobu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19002644/",
      "page": "https://bokenjapan.com/yamanashi/minobu/eat/casual/",
      "category": "Casual"
@@ -10716,6 +11033,7 @@
     {
      "name": "パセリ×タニタカフェ しもべの湯店",
      "name_en": "Paseri X Tanita Cafe Shimobe no Yu",
+     "description": "Casual restaurant in Minobu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19013000/",
      "page": "https://bokenjapan.com/yamanashi/minobu/eat/casual/",
      "category": "Casual"
@@ -10723,6 +11041,7 @@
     {
      "name": "山頂展望食堂 身延庵",
      "name_en": "Sancho Tenbo Shokudo Minobu Iori",
+     "description": "Casual restaurant in Minobu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19005977/",
      "page": "https://bokenjapan.com/yamanashi/minobu/eat/casual/",
      "category": "Casual"
@@ -10730,6 +11049,7 @@
     {
      "name": "KICQ DETOX CURRY 身延ファクトリー",
      "name_en": "KICQ Detox Curry Minobu Factory",
+     "description": "Curry restaurant in Minobu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19012551/",
      "page": "https://bokenjapan.com/yamanashi/minobu/eat/curry/",
      "category": "Curry"
@@ -10737,6 +11057,7 @@
     {
      "name": "下部温泉 ボロネーゼ",
      "name_en": "Kabu Onsen Boroneze",
+     "description": "European restaurant in Minobu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19012042/",
      "page": "https://bokenjapan.com/yamanashi/minobu/eat/european/",
      "category": "European"
@@ -10744,6 +11065,7 @@
     {
      "name": "カフェ＆鉄板レストラン 藤川",
      "name_en": "Cafe & Teppan Restaurant Fujikawa",
+     "description": "Meat restaurant in Minobu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19000363/",
      "page": "https://bokenjapan.com/yamanashi/minobu/eat/meat/",
      "category": "Japanese (meat)"
@@ -10751,6 +11073,7 @@
     {
      "name": "菊寿美",
      "name_en": "Kiku Sumi",
+     "description": "Noodle restaurant in Minobu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19001599/",
      "page": "https://bokenjapan.com/yamanashi/minobu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -10758,6 +11081,7 @@
     {
      "name": "手打そば処あずみの",
      "name_en": "Handmade Soba Tokoro Azumi no",
+     "description": "Noodle restaurant in Minobu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19003790/",
      "page": "https://bokenjapan.com/yamanashi/minobu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -10765,6 +11089,7 @@
     {
      "name": "麺や 響",
      "name_en": "Men Ya Kyo",
+     "description": "Noodle restaurant in Minobu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19007777/",
      "page": "https://bokenjapan.com/yamanashi/minobu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -10772,6 +11097,7 @@
     {
      "name": "そば処 かど久",
      "name_en": "Soba Kado Kyu",
+     "description": "Noodle restaurant in Minobu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19000437/",
      "page": "https://bokenjapan.com/yamanashi/minobu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -10779,6 +11105,7 @@
     {
      "name": "古湯坊 源泉館",
      "name_en": "Koto Bo Gensen-kan",
+     "description": "Restaurant in Minobu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19006506/",
      "page": "https://bokenjapan.com/yamanashi/minobu/eat/other/",
      "category": "Other"
@@ -10786,6 +11113,7 @@
     {
      "name": "道の駅 しもべ",
      "name_en": "Michi no Eki Shimobe",
+     "description": "Restaurant in Minobu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19005344/",
      "page": "https://bokenjapan.com/yamanashi/minobu/eat/other/",
      "category": "Other"
@@ -10793,6 +11121,7 @@
     {
      "name": "道の駅 にしじま和紙の里 かみすきパーク",
      "name_en": "Michi no Eki Nishijima Washi no Sato Kamisuki Park",
+     "description": "Restaurant in Minobu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19014176/",
      "page": "https://bokenjapan.com/yamanashi/minobu/eat/other/",
      "category": "Other"
@@ -10800,6 +11129,7 @@
     {
      "name": "浩庵",
      "name_en": "Hiroshi Iori",
+     "description": "Restaurant in Minobu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190401/19006796/",
      "page": "https://bokenjapan.com/yamanashi/minobu/eat/other/",
      "category": "Other"
@@ -10807,6 +11137,7 @@
     {
      "name": "覚林坊",
      "name_en": "Kaku Hayashi Bo",
+     "description": "Japanese restaurant in Minobu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19000027/",
      "page": "https://bokenjapan.com/yamanashi/minobu/eat/other-japanese/",
      "category": "Other Japanese"
@@ -10814,6 +11145,7 @@
     {
      "name": "清流",
      "name_en": "Seiryu",
+     "description": "Japanese restaurant in Minobu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19000631/",
      "page": "https://bokenjapan.com/yamanashi/minobu/eat/other-japanese/",
      "category": "Other Japanese"
@@ -10821,6 +11153,7 @@
     {
      "name": "栄昇堂",
      "name_en": "Eisho Do",
+     "description": "Sweets and bakery shop in Minobu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19000888/",
      "page": "https://bokenjapan.com/yamanashi/minobu/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -10828,6 +11161,7 @@
     {
      "name": "身延屋",
      "name_en": "Minobu-ya",
+     "description": "Sweets and bakery shop in Minobu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19005882/",
      "page": "https://bokenjapan.com/yamanashi/minobu/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -10835,6 +11169,7 @@
     {
      "name": "甘養亭河喜",
      "name_en": "Kan Yo-tei Kawa Ki",
+     "description": "Sweets and bakery shop in Minobu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19002778/",
      "page": "https://bokenjapan.com/yamanashi/minobu/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -10842,6 +11177,7 @@
     {
      "name": "ニュー梅月",
      "name_en": "New Baigetsu",
+     "description": "Sweets and bakery shop in Minobu.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19008626/",
      "page": "https://bokenjapan.com/yamanashi/minobu/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -11063,6 +11399,7 @@
     {
      "name": "古民家喫茶店 油屋",
      "name_en": "Ko Tami-ya Cafe Abura-ya",
+     "description": "Cafe in Nambucho.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19013027/",
      "page": "https://bokenjapan.com/yamanashi/nambucho/eat/cafe/",
      "category": "Cafe"
@@ -11070,6 +11407,7 @@
     {
      "name": "南部よろこび茶食堂",
      "name_en": "Nanbu Yorokobi Cha Shokudo",
+     "description": "Casual restaurant in Nambucho.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19010643/",
      "page": "https://bokenjapan.com/yamanashi/nambucho/eat/casual/",
      "category": "Casual"
@@ -11077,6 +11415,7 @@
     {
      "name": "なんぶの湯 おんせんカフェ",
      "name_en": "Nanbu no Yu Onsen Cafe",
+     "description": "Casual restaurant in Nambucho.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19011370/",
      "page": "https://bokenjapan.com/yamanashi/nambucho/eat/casual/",
      "category": "Casual"
@@ -11084,6 +11423,7 @@
     {
      "name": "さかや食堂",
      "name_en": "Sakaya Shokudo",
+     "description": "Casual restaurant in Nambucho.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19002894/",
      "page": "https://bokenjapan.com/yamanashi/nambucho/eat/casual/",
      "category": "Casual"
@@ -11091,6 +11431,7 @@
     {
      "name": "やがわ",
      "name_en": "Yagawa",
+     "description": "Casual restaurant in Nambucho.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19002586/",
      "page": "https://bokenjapan.com/yamanashi/nambucho/eat/casual/",
      "category": "Casual"
@@ -11098,6 +11439,7 @@
     {
      "name": "随縁カントリークラブ レストラン センチュリー富士コース",
      "name_en": "Zuien Country Club Restaurant Senchuri Fuji Kosu",
+     "description": "Casual restaurant in Nambucho.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19007353/",
      "page": "https://bokenjapan.com/yamanashi/nambucho/eat/casual/",
      "category": "Casual"
@@ -11105,6 +11447,7 @@
     {
      "name": "めしや千里",
      "name_en": "Meshiya Senri",
+     "description": "Casual restaurant in Nambucho.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19007705/",
      "page": "https://bokenjapan.com/yamanashi/nambucho/eat/casual/",
      "category": "Casual"
@@ -11112,6 +11455,7 @@
     {
      "name": "珍竹林",
      "name_en": "Chin Chikurin",
+     "description": "Chinese or Asian restaurant in Nambucho.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19001198/",
      "page": "https://bokenjapan.com/yamanashi/nambucho/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -11119,6 +11463,7 @@
     {
      "name": "南部路",
      "name_en": "Nanbu Michi",
+     "description": "Meat restaurant in Nambucho.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19003238/",
      "page": "https://bokenjapan.com/yamanashi/nambucho/eat/meat/",
      "category": "Japanese (meat)"
@@ -11126,6 +11471,7 @@
     {
      "name": "峠のラーメン",
      "name_en": "Toge no Ramen",
+     "description": "Noodle restaurant in Nambucho.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19007570/",
      "page": "https://bokenjapan.com/yamanashi/nambucho/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -11133,6 +11479,7 @@
     {
      "name": "小林やきそば店",
      "name_en": "Kobayashi Yaki Soba",
+     "description": "Noodle restaurant in Nambucho.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19005009/",
      "page": "https://bokenjapan.com/yamanashi/nambucho/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -11140,6 +11487,7 @@
     {
      "name": "手打蕎麦 雲平",
      "name_en": "Teuchi Soba Unpei",
+     "description": "Noodle restaurant in Nambucho.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19006627/",
      "page": "https://bokenjapan.com/yamanashi/nambucho/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -11147,6 +11495,7 @@
     {
      "name": "味里",
      "name_en": "Aji Sato",
+     "description": "Noodle restaurant in Nambucho.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19009586/",
      "page": "https://bokenjapan.com/yamanashi/nambucho/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -11154,6 +11503,7 @@
     {
      "name": "竹王",
      "name_en": "Take O",
+     "description": "Noodle restaurant in Nambucho.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19011603/",
      "page": "https://bokenjapan.com/yamanashi/nambucho/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -11161,6 +11511,7 @@
     {
      "name": "そば処 ひのき",
      "name_en": "Soba Hinoki",
+     "description": "Noodle restaurant in Nambucho.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19000681/",
      "page": "https://bokenjapan.com/yamanashi/nambucho/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -11168,6 +11519,7 @@
     {
      "name": "道の駅なんぶ",
      "name_en": "Michi no Eki Nanbu",
+     "description": "Restaurant in Nambucho.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19010640/",
      "page": "https://bokenjapan.com/yamanashi/nambucho/eat/other/",
      "category": "Other"
@@ -11175,6 +11527,7 @@
     {
      "name": "道の駅 とみざわ",
      "name_en": "Michi no Eki Tomizawa",
+     "description": "Restaurant in Nambucho.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19005188/",
      "page": "https://bokenjapan.com/yamanashi/nambucho/eat/other/",
      "category": "Other"
@@ -11182,6 +11535,7 @@
     {
      "name": "佐野川温泉",
      "name_en": "Sanokawa Onsen",
+     "description": "Restaurant in Nambucho.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19009258/",
      "page": "https://bokenjapan.com/yamanashi/nambucho/eat/other/",
      "category": "Other"
@@ -11189,6 +11543,7 @@
     {
      "name": "奥山温泉 食事処",
      "name_en": "Okuyama Onsen Restaurant",
+     "description": "Japanese restaurant in Nambucho.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19008750/",
      "page": "https://bokenjapan.com/yamanashi/nambucho/eat/other-japanese/",
      "category": "Other Japanese"
@@ -11196,6 +11551,7 @@
     {
      "name": "うな富士",
      "name_en": "Una Fuji",
+     "description": "Seafood restaurant in Nambucho.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19000777/",
      "page": "https://bokenjapan.com/yamanashi/nambucho/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -11203,6 +11559,7 @@
     {
      "name": "たまるや製菓舗",
      "name_en": "Tamaruya Seika Ho",
+     "description": "Sweets and bakery shop in Nambucho.",
      "source_url": "https://tabelog.com/yamanashi/A1904/A190402/19007569/",
      "page": "https://bokenjapan.com/yamanashi/nambucho/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -11363,6 +11720,7 @@
     {
      "name": "ジューデンコーヒー",
      "name_en": "Juden Coffee",
+     "description": "Cafe in Narusawa.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19011829/",
      "page": "https://bokenjapan.com/yamanashi/narusawa/eat/cafe/",
      "category": "Cafe"
@@ -11370,6 +11728,7 @@
     {
      "name": "鳴沢氷穴売店",
      "name_en": "Narusawa Hyoketsu Bai",
+     "description": "Cafe in Narusawa.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19004264/",
      "page": "https://bokenjapan.com/yamanashi/narusawa/eat/cafe/",
      "category": "Cafe"
@@ -11377,6 +11736,7 @@
     {
      "name": "もぐら珈琲",
      "name_en": "Mogura Coffee",
+     "description": "Cafe in Narusawa.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19013120/",
      "page": "https://bokenjapan.com/yamanashi/narusawa/eat/cafe/",
      "category": "Cafe"
@@ -11384,6 +11744,7 @@
     {
      "name": "ふる里のけむり 鳴沢村富士山店",
      "name_en": "Furu Sato Nokemuri Narusawa Mura Fujisan",
+     "description": "Casual restaurant in Narusawa.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19011512/",
      "page": "https://bokenjapan.com/yamanashi/narusawa/eat/casual/",
      "category": "Casual"
@@ -11391,6 +11752,7 @@
     {
      "name": "ふじざくら",
      "name_en": "Fujizakura",
+     "description": "Casual restaurant in Narusawa.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19004866/",
      "page": "https://bokenjapan.com/yamanashi/narusawa/eat/casual/",
      "category": "Casual"
@@ -11398,6 +11760,7 @@
     {
      "name": "道の駅 なるさわ 軽食堂",
      "name_en": "Michi no Eki Narusawa Kei Shokudo",
+     "description": "Casual restaurant in Narusawa.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19000800/",
      "page": "https://bokenjapan.com/yamanashi/narusawa/eat/casual/",
      "category": "Casual"
@@ -11405,6 +11768,7 @@
     {
      "name": "鳴沢ゴルフ倶楽部",
      "name_en": "Narusawa Gorufu Kurabu",
+     "description": "Casual restaurant in Narusawa.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19006259/",
      "page": "https://bokenjapan.com/yamanashi/narusawa/eat/casual/",
      "category": "Casual"
@@ -11412,6 +11776,7 @@
     {
      "name": "富士急雲上閣 レストラン",
      "name_en": "Fujikyu Unjo-kaku Restaurant",
+     "description": "Casual restaurant in Narusawa.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19006327/",
      "page": "https://bokenjapan.com/yamanashi/narusawa/eat/casual/",
      "category": "Casual"
@@ -11419,6 +11784,7 @@
     {
      "name": "丸尾の里 直売所",
      "name_en": "Maruo no Sato Chokubai Tokoro",
+     "description": "Casual restaurant in Narusawa.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19014269/",
      "page": "https://bokenjapan.com/yamanashi/narusawa/eat/casual/",
      "category": "Casual"
@@ -11426,6 +11792,7 @@
     {
      "name": "ケルン",
      "name_en": "Kerun",
+     "description": "Casual restaurant in Narusawa.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19005339/",
      "page": "https://bokenjapan.com/yamanashi/narusawa/eat/casual/",
      "category": "Casual"
@@ -11433,6 +11800,7 @@
     {
      "name": "五合園レストハウス",
      "name_en": "Gogo Sono Resuto House",
+     "description": "Curry restaurant in Narusawa.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19005720/",
      "page": "https://bokenjapan.com/yamanashi/narusawa/eat/curry/",
      "category": "Curry"
@@ -11440,6 +11808,7 @@
     {
      "name": "富士山麓スモーク工房",
      "name_en": "Fujisanroku Sumoku Kobo",
+     "description": "European restaurant in Narusawa.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19012415/",
      "page": "https://bokenjapan.com/yamanashi/narusawa/eat/european/",
      "category": "European"
@@ -11447,6 +11816,7 @@
     {
      "name": "ヨーデル",
      "name_en": "Yoderu",
+     "description": "European restaurant in Narusawa.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19005340/",
      "page": "https://bokenjapan.com/yamanashi/narusawa/eat/european/",
      "category": "European"
@@ -11454,6 +11824,7 @@
     {
      "name": "忠ちゃん",
      "name_en": "Tadashi Chan",
+     "description": "Izakaya or bar in Narusawa.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19009242/",
      "page": "https://bokenjapan.com/yamanashi/narusawa/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -11461,6 +11832,7 @@
     {
      "name": "あづま",
      "name_en": "Azuma",
+     "description": "Noodle restaurant in Narusawa.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19000628/",
      "page": "https://bokenjapan.com/yamanashi/narusawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -11468,6 +11840,7 @@
     {
      "name": "お狩場",
      "name_en": "O Kariba",
+     "description": "Japanese restaurant in Narusawa.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19000146/",
      "page": "https://bokenjapan.com/yamanashi/narusawa/eat/other-japanese/",
      "category": "Other Japanese"
@@ -11475,6 +11848,7 @@
     {
      "name": "あまの屋",
      "name_en": "Ama no-ya",
+     "description": "Sweets and bakery shop in Narusawa.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19005084/",
      "page": "https://bokenjapan.com/yamanashi/narusawa/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -11482,6 +11856,7 @@
     {
      "name": "うづらや",
      "name_en": "Uzuraya",
+     "description": "Sweets and bakery shop in Narusawa.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19011751/",
      "page": "https://bokenjapan.com/yamanashi/narusawa/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -11710,6 +12085,7 @@
     {
      "name": "青竹食堂",
      "name_en": "Aotake Shokudo",
+     "description": "Casual restaurant in Nirasaki.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19003499/",
      "page": "https://bokenjapan.com/yamanashi/nirasaki/eat/casual/",
      "category": "Casual"
@@ -11717,6 +12093,7 @@
     {
      "name": "フレンズ",
      "name_en": "Furenzu",
+     "description": "Casual restaurant in Nirasaki.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190202/19002569/",
      "page": "https://bokenjapan.com/yamanashi/nirasaki/eat/casual/",
      "category": "Casual"
@@ -11724,6 +12101,7 @@
     {
      "name": "食道 やま輝",
      "name_en": "Shokudo Yama Teru",
+     "description": "Casual restaurant in Nirasaki.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190202/19007484/",
      "page": "https://bokenjapan.com/yamanashi/nirasaki/eat/casual/",
      "category": "Casual"
@@ -11731,6 +12109,7 @@
     {
      "name": "TSUSHIMI",
      "name_en": "Tsushimi",
+     "description": "European restaurant in Nirasaki.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190202/19012518/",
      "page": "https://bokenjapan.com/yamanashi/nirasaki/eat/european/",
      "category": "European"
@@ -11738,6 +12117,7 @@
     {
      "name": "キュイエット",
      "name_en": "Kyuietto",
+     "description": "European restaurant in Nirasaki.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190202/19000052/",
      "page": "https://bokenjapan.com/yamanashi/nirasaki/eat/european/",
      "category": "European"
@@ -11745,6 +12125,7 @@
     {
      "name": "SEI OTTO",
      "name_en": "SEI OTTO",
+     "description": "European restaurant in Nirasaki.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190202/19012603/",
      "page": "https://bokenjapan.com/yamanashi/nirasaki/eat/european/",
      "category": "European"
@@ -11752,6 +12133,7 @@
     {
      "name": "マイルストーン",
      "name_en": "Mairusuton",
+     "description": "European restaurant in Nirasaki.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190202/19000280/",
      "page": "https://bokenjapan.com/yamanashi/nirasaki/eat/european/",
      "category": "European"
@@ -11759,6 +12141,7 @@
     {
      "name": "TAP8",
      "name_en": "TAP8",
+     "description": "Izakaya or bar in Nirasaki.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190202/19012428/",
      "page": "https://bokenjapan.com/yamanashi/nirasaki/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -11766,6 +12149,7 @@
     {
      "name": "魚屋 ちから 韮崎店",
      "name_en": "Sakana-ya Chikara Nirasaki",
+     "description": "Izakaya or bar in Nirasaki.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190202/19012863/",
      "page": "https://bokenjapan.com/yamanashi/nirasaki/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -11773,6 +12157,7 @@
     {
      "name": "居酒屋 さんばん",
      "name_en": "Izakaya Sanban",
+     "description": "Izakaya or bar in Nirasaki.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190202/19002204/",
      "page": "https://bokenjapan.com/yamanashi/nirasaki/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -11780,6 +12165,7 @@
     {
      "name": "韮崎むぎとろ",
      "name_en": "Nirasaki Mugitoro",
+     "description": "Meat restaurant in Nirasaki.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190202/19009111/",
      "page": "https://bokenjapan.com/yamanashi/nirasaki/eat/meat/",
      "category": "Japanese (meat)"
@@ -11787,6 +12173,7 @@
     {
      "name": "とんかつ一力",
      "name_en": "Tonkatsu Ichiriki",
+     "description": "Meat restaurant in Nirasaki.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190202/19005607/",
      "page": "https://bokenjapan.com/yamanashi/nirasaki/eat/meat/",
      "category": "Japanese (meat)"
@@ -11794,6 +12181,7 @@
     {
      "name": "富来亭",
      "name_en": "Togi-tei",
+     "description": "Meat restaurant in Nirasaki.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190202/19003257/",
      "page": "https://bokenjapan.com/yamanashi/nirasaki/eat/meat/",
      "category": "Japanese (meat)"
@@ -11801,6 +12189,7 @@
     {
      "name": "アルプス食堂",
      "name_en": "Arupusu Shokudo",
+     "description": "Noodle restaurant in Nirasaki.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190202/19000100/",
      "page": "https://bokenjapan.com/yamanashi/nirasaki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -11808,6 +12197,7 @@
     {
      "name": "みどりや食堂",
      "name_en": "Midoriya Shokudo",
+     "description": "Noodle restaurant in Nirasaki.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190202/19000101/",
      "page": "https://bokenjapan.com/yamanashi/nirasaki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -11815,6 +12205,7 @@
     {
      "name": "吉田のうどん さくら",
      "name_en": "Yoshida no Udon Sakura",
+     "description": "Noodle restaurant in Nirasaki.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190202/19009019/",
      "page": "https://bokenjapan.com/yamanashi/nirasaki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -11822,6 +12213,7 @@
     {
      "name": "長浜ラーメン 松吉",
      "name_en": "Nagahama Ramen Matsuyoshi",
+     "description": "Noodle restaurant in Nirasaki.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190201/19000309/",
      "page": "https://bokenjapan.com/yamanashi/nirasaki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -11829,6 +12221,7 @@
     {
      "name": "丸政そば 韮崎店",
      "name_en": "Maru Matsurigoto Soba Nirasaki",
+     "description": "Noodle restaurant in Nirasaki.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190202/19007753/",
      "page": "https://bokenjapan.com/yamanashi/nirasaki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -11836,6 +12229,7 @@
     {
      "name": "豚骨ラーメン頂",
      "name_en": "Tonkotsu Ramen Itadaki",
+     "description": "Noodle restaurant in Nirasaki.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190202/19008349/",
      "page": "https://bokenjapan.com/yamanashi/nirasaki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -11843,6 +12237,7 @@
     {
      "name": "中華そば ゆら吉 韮崎店",
      "name_en": "Chuka Soba Yura Kichi Nirasaki",
+     "description": "Noodle restaurant in Nirasaki.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190202/19012004/",
      "page": "https://bokenjapan.com/yamanashi/nirasaki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -11850,6 +12245,7 @@
     {
      "name": "和こう",
      "name_en": "Wa Ko",
+     "description": "Restaurant in Nirasaki.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190202/19000727/",
      "page": "https://bokenjapan.com/yamanashi/nirasaki/eat/other/",
      "category": "Other"
@@ -11857,6 +12253,7 @@
     {
      "name": "うなぎ馳走 八嶋",
      "name_en": "Unagi Chiso Yashima",
+     "description": "Seafood restaurant in Nirasaki.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190202/19000776/",
      "page": "https://bokenjapan.com/yamanashi/nirasaki/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -11864,6 +12261,7 @@
     {
      "name": "金精軒 韮崎店",
      "name_en": "Kinsei Ken Nirasaki",
+     "description": "Sweets and bakery shop in Nirasaki.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190202/19001002/",
      "page": "https://bokenjapan.com/yamanashi/nirasaki/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -11871,6 +12269,7 @@
     {
      "name": "コーナーポケット",
      "name_en": "Corner Poketto",
+     "description": "Sweets and bakery shop in Nirasaki.",
      "source_url": "https://tabelog.com/yamanashi/A1902/A190202/19004022/",
      "page": "https://bokenjapan.com/yamanashi/nirasaki/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -12136,6 +12535,7 @@
     {
      "name": "ここからcafe",
      "name_en": "Kokokara cafe",
+     "description": "Cafe in Nishikatsura.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19014045/",
      "page": "https://bokenjapan.com/yamanashi/nishikatsura/eat/cafe/",
      "category": "Cafe"
@@ -12143,6 +12543,7 @@
     {
      "name": "Meets to get",
      "name_en": "Meets to get",
+     "description": "Cafe in Nishikatsura.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19014887/",
      "page": "https://bokenjapan.com/yamanashi/nishikatsura/eat/cafe/",
      "category": "Cafe"
@@ -12150,6 +12551,7 @@
     {
      "name": "カフェ もくせい",
      "name_en": "Cafe Mokusei",
+     "description": "Cafe in Nishikatsura.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19012797/",
      "page": "https://bokenjapan.com/yamanashi/nishikatsura/eat/cafe/",
      "category": "Cafe"
@@ -12157,6 +12559,7 @@
     {
      "name": "もつ亭 おかずや",
      "name_en": "Motsu-tei Okazuya",
+     "description": "Casual restaurant in Nishikatsura.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19008869/",
      "page": "https://bokenjapan.com/yamanashi/nishikatsura/eat/casual/",
      "category": "Casual"
@@ -12164,6 +12567,7 @@
     {
      "name": "味よし",
      "name_en": "Aji Yoshi",
+     "description": "Casual restaurant in Nishikatsura.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19009182/",
      "page": "https://bokenjapan.com/yamanashi/nishikatsura/eat/casual/",
      "category": "Casual"
@@ -12171,6 +12575,7 @@
     {
      "name": "まるふく食堂",
      "name_en": "Marufuku Shokudo",
+     "description": "Casual restaurant in Nishikatsura.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19014376/",
      "page": "https://bokenjapan.com/yamanashi/nishikatsura/eat/casual/",
      "category": "Casual"
@@ -12178,6 +12583,7 @@
     {
      "name": "撫子",
      "name_en": "Nadeshiko",
+     "description": "Casual restaurant in Nishikatsura.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19006546/",
      "page": "https://bokenjapan.com/yamanashi/nishikatsura/eat/casual/",
      "category": "Casual"
@@ -12185,6 +12591,7 @@
     {
      "name": "三ツ峠食堂",
      "name_en": "San Tsu Toge Shokudo",
+     "description": "Casual restaurant in Nishikatsura.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19013641/",
      "page": "https://bokenjapan.com/yamanashi/nishikatsura/eat/casual/",
      "category": "Casual"
@@ -12192,6 +12599,7 @@
     {
      "name": "旬菜旬酒 わず",
      "name_en": "Jun Na Jun Sake Wazu",
+     "description": "Izakaya or bar in Nishikatsura.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19014628/",
      "page": "https://bokenjapan.com/yamanashi/nishikatsura/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -12199,6 +12607,7 @@
     {
      "name": "サカバル コア",
      "name_en": "Sakabaru Koa",
+     "description": "Izakaya or bar in Nishikatsura.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19010439/",
      "page": "https://bokenjapan.com/yamanashi/nishikatsura/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -12206,6 +12615,7 @@
     {
      "name": "やきとりうめちゃん",
      "name_en": "Yakitori Umechan",
+     "description": "Meat restaurant in Nishikatsura.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19013997/",
      "page": "https://bokenjapan.com/yamanashi/nishikatsura/eat/meat/",
      "category": "Japanese (meat)"
@@ -12213,6 +12623,7 @@
     {
      "name": "駅裏",
      "name_en": "Ekiura",
+     "description": "Meat restaurant in Nishikatsura.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19001405/",
      "page": "https://bokenjapan.com/yamanashi/nishikatsura/eat/meat/",
      "category": "Japanese (meat)"
@@ -12220,6 +12631,7 @@
     {
      "name": "うどんの駅",
      "name_en": "Udon no Eki",
+     "description": "Noodle restaurant in Nishikatsura.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19005223/",
      "page": "https://bokenjapan.com/yamanashi/nishikatsura/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -12227,6 +12639,7 @@
     {
      "name": "本格手打ち讃岐うどん ふうが",
      "name_en": "Honkaku Teuchi Chi Sanuki Udon Fuga",
+     "description": "Noodle restaurant in Nishikatsura.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19012387/",
      "page": "https://bokenjapan.com/yamanashi/nishikatsura/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -12234,6 +12647,7 @@
     {
      "name": "しょうちゃんうどん",
      "name_en": "Shochan Udon",
+     "description": "Noodle restaurant in Nishikatsura.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19001572/",
      "page": "https://bokenjapan.com/yamanashi/nishikatsura/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -12241,6 +12655,7 @@
     {
      "name": "平井屋",
      "name_en": "Hirai-ya",
+     "description": "Restaurant in Nishikatsura.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19009023/",
      "page": "https://bokenjapan.com/yamanashi/nishikatsura/eat/other/",
      "category": "Other"
@@ -12248,6 +12663,7 @@
     {
      "name": "前田商店",
      "name_en": "Maeda Shoten",
+     "description": "Sweets and bakery shop in Nishikatsura.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19010440/",
      "page": "https://bokenjapan.com/yamanashi/nishikatsura/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -12310,6 +12726,7 @@
     {
      "name": "里庵",
      "name_en": "Sato Iori",
+     "description": "Cafe in Oshino.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19004946/",
      "page": "https://bokenjapan.com/yamanashi/oshino/eat/cafe/",
      "category": "Cafe"
@@ -12317,6 +12734,7 @@
     {
      "name": "丸天さかな屋",
      "name_en": "Maruten Sakana-ya",
+     "description": "Casual restaurant in Oshino.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19002575/",
      "page": "https://bokenjapan.com/yamanashi/oshino/eat/casual/",
      "category": "Casual"
@@ -12324,6 +12742,7 @@
     {
      "name": "お食事処 いろり",
      "name_en": "Restaurant Irori",
+     "description": "Casual restaurant in Oshino.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19000419/",
      "page": "https://bokenjapan.com/yamanashi/oshino/eat/casual/",
      "category": "Casual"
@@ -12331,6 +12750,7 @@
     {
      "name": "たまご食堂・田吾作",
      "name_en": "Tamago Shokudo Tagosaku",
+     "description": "Casual restaurant in Oshino.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19012539/",
      "page": "https://bokenjapan.com/yamanashi/oshino/eat/casual/",
      "category": "Casual"
@@ -12338,6 +12758,7 @@
     {
      "name": "レストラン いねや",
      "name_en": "Restaurant Ineya",
+     "description": "European restaurant in Oshino.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19002739/",
      "page": "https://bokenjapan.com/yamanashi/oshino/eat/european/",
      "category": "European"
@@ -12345,6 +12766,7 @@
     {
      "name": "炙り焼肉 おさ",
      "name_en": "Aburi Yakiniku Osa",
+     "description": "Meat restaurant in Oshino.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19005779/",
      "page": "https://bokenjapan.com/yamanashi/oshino/eat/meat/",
      "category": "Japanese (meat)"
@@ -12352,6 +12774,7 @@
     {
      "name": "牛舎",
      "name_en": "Gyusha",
+     "description": "Meat restaurant in Oshino.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19000164/",
      "page": "https://bokenjapan.com/yamanashi/oshino/eat/meat/",
      "category": "Japanese (meat)"
@@ -12359,6 +12782,7 @@
     {
      "name": "天祥庵",
      "name_en": "Tensho Iori",
+     "description": "Noodle restaurant in Oshino.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19000368/",
      "page": "https://bokenjapan.com/yamanashi/oshino/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -12366,6 +12790,7 @@
     {
      "name": "池本茶屋",
      "name_en": "Ikemoto Cha-ya",
+     "description": "Noodle restaurant in Oshino.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19001633/",
      "page": "https://bokenjapan.com/yamanashi/oshino/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -12373,6 +12798,7 @@
     {
      "name": "柳原うどん",
      "name_en": "Yanagihara Udon",
+     "description": "Noodle restaurant in Oshino.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19000809/",
      "page": "https://bokenjapan.com/yamanashi/oshino/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -12380,6 +12806,7 @@
     {
      "name": "彦兵衛うどん",
      "name_en": "Hikobe Udon",
+     "description": "Noodle restaurant in Oshino.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19000928/",
      "page": "https://bokenjapan.com/yamanashi/oshino/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -12387,6 +12814,7 @@
     {
      "name": "手打ちうどん いなか",
      "name_en": "Handmade Udon Inaka",
+     "description": "Noodle restaurant in Oshino.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19000468/",
      "page": "https://bokenjapan.com/yamanashi/oshino/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -12394,6 +12822,7 @@
     {
      "name": "麺処びわ",
      "name_en": "Men Tokoro Biwa",
+     "description": "Noodle restaurant in Oshino.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19001650/",
      "page": "https://bokenjapan.com/yamanashi/oshino/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -12401,6 +12830,7 @@
     {
      "name": "おしの製麺所",
      "name_en": "Oshi no Seimen Tokoro",
+     "description": "Noodle restaurant in Oshino.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19000480/",
      "page": "https://bokenjapan.com/yamanashi/oshino/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -12408,6 +12838,7 @@
     {
      "name": "弥生庵",
      "name_en": "Yayoi Iori",
+     "description": "Noodle restaurant in Oshino.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19005856/",
      "page": "https://bokenjapan.com/yamanashi/oshino/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -12415,6 +12846,7 @@
     {
      "name": "旭うどん",
      "name_en": "Asahi Udon",
+     "description": "Noodle restaurant in Oshino.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19004973/",
      "page": "https://bokenjapan.com/yamanashi/oshino/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -12422,6 +12854,7 @@
     {
      "name": "nôtori",
      "name_en": "n O tori",
+     "description": "Restaurant in Oshino.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19013791/",
      "page": "https://bokenjapan.com/yamanashi/oshino/eat/other/",
      "category": "Other"
@@ -12429,6 +12862,7 @@
     {
      "name": "大吉屋",
      "name_en": "Daikichi-ya",
+     "description": "Restaurant in Oshino.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19011131/",
      "page": "https://bokenjapan.com/yamanashi/oshino/eat/other/",
      "category": "Other"
@@ -12436,6 +12870,7 @@
     {
      "name": "手焼堂",
      "name_en": "Teyaki Do",
+     "description": "Restaurant in Oshino.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190301/19005798/",
      "page": "https://bokenjapan.com/yamanashi/oshino/eat/other/",
      "category": "Other"
@@ -12443,6 +12878,7 @@
     {
      "name": "忍野八洲",
      "name_en": "Oshino Hasshu",
+     "description": "Japanese restaurant in Oshino.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19000038/",
      "page": "https://bokenjapan.com/yamanashi/oshino/eat/other-japanese/",
      "category": "Other Japanese"
@@ -12450,6 +12886,7 @@
     {
      "name": "忍野八海池本",
      "name_en": "Oshino Hakkai Ikemoto",
+     "description": "Sweets and bakery shop in Oshino.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19007737/",
      "page": "https://bokenjapan.com/yamanashi/oshino/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -12457,6 +12894,7 @@
     {
      "name": "ニューヨークスティック 忍野工場直営店",
      "name_en": "New Yokusuteikku Oshino Kojo Chokuei",
+     "description": "Sweets and bakery shop in Oshino.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19004880/",
      "page": "https://bokenjapan.com/yamanashi/oshino/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -12464,6 +12902,7 @@
     {
      "name": "八海とうふ",
      "name_en": "Hakkai Tofu",
+     "description": "Sweets and bakery shop in Oshino.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19005181/",
      "page": "https://bokenjapan.com/yamanashi/oshino/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -12642,6 +13081,7 @@
     {
      "name": "マインドルフ",
      "name_en": "Maindorufu",
+     "description": "Cafe in Otsukishi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19003664/",
      "page": "https://bokenjapan.com/yamanashi/otsukishi/eat/cafe/",
      "category": "Cafe"
@@ -12649,6 +13089,7 @@
     {
      "name": "初狩パーキングエリア （上り線） 峠の茶屋",
      "name_en": "Hatsugari Pakingueria Nobori Sen Toge no Cha-ya",
+     "description": "Casual restaurant in Otsukishi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19004081/",
      "page": "https://bokenjapan.com/yamanashi/otsukishi/eat/casual/",
      "category": "Casual"
@@ -12656,6 +13097,7 @@
     {
      "name": "ひろさと",
      "name_en": "Hirosato",
+     "description": "Casual restaurant in Otsukishi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19002982/",
      "page": "https://bokenjapan.com/yamanashi/otsukishi/eat/casual/",
      "category": "Casual"
@@ -12663,6 +13105,7 @@
     {
      "name": "みやじま",
      "name_en": "Miyajima",
+     "description": "Casual restaurant in Otsukishi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19003018/",
      "page": "https://bokenjapan.com/yamanashi/otsukishi/eat/casual/",
      "category": "Casual"
@@ -12670,6 +13113,7 @@
     {
      "name": "大月カントリークラブ",
      "name_en": "Otsuki Country Club",
+     "description": "Casual restaurant in Otsukishi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19007762/",
      "page": "https://bokenjapan.com/yamanashi/otsukishi/eat/casual/",
      "category": "Casual"
@@ -12677,6 +13121,7 @@
     {
      "name": "いなだや",
      "name_en": "Inadaya",
+     "description": "Casual restaurant in Otsukishi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19003367/",
      "page": "https://bokenjapan.com/yamanashi/otsukishi/eat/casual/",
      "category": "Casual"
@@ -12684,6 +13129,7 @@
     {
      "name": "浜田屋食堂",
      "name_en": "Hamada-ya Shokudo",
+     "description": "Casual restaurant in Otsukishi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19003254/",
      "page": "https://bokenjapan.com/yamanashi/otsukishi/eat/casual/",
      "category": "Casual"
@@ -12691,6 +13137,7 @@
     {
      "name": "喜楽",
      "name_en": "Kiraku",
+     "description": "Chinese or Asian restaurant in Otsukishi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19003961/",
      "page": "https://bokenjapan.com/yamanashi/otsukishi/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -12698,6 +13145,7 @@
     {
      "name": "アルブル ヴェール",
      "name_en": "Aruburu Veru",
+     "description": "European restaurant in Otsukishi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19000103/",
      "page": "https://bokenjapan.com/yamanashi/otsukishi/eat/european/",
      "category": "European"
@@ -12705,6 +13153,7 @@
     {
      "name": "月Cafe",
      "name_en": "Gatsu Cafe",
+     "description": "European restaurant in Otsukishi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19000122/",
      "page": "https://bokenjapan.com/yamanashi/otsukishi/eat/european/",
      "category": "European"
@@ -12712,6 +13161,7 @@
     {
      "name": "焼肉 一路",
      "name_en": "Yakiniku Ichiro",
+     "description": "Meat restaurant in Otsukishi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19005109/",
      "page": "https://bokenjapan.com/yamanashi/otsukishi/eat/meat/",
      "category": "Japanese (meat)"
@@ -12719,6 +13169,7 @@
     {
      "name": "吉田屋",
      "name_en": "Yoshida-ya",
+     "description": "Noodle restaurant in Otsukishi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19005802/",
      "page": "https://bokenjapan.com/yamanashi/otsukishi/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -12726,6 +13177,7 @@
     {
      "name": "宝来軒",
      "name_en": "Horai Ken",
+     "description": "Noodle restaurant in Otsukishi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19001160/",
      "page": "https://bokenjapan.com/yamanashi/otsukishi/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -12733,6 +13185,7 @@
     {
      "name": "初狩パーキングエリア（下り線）スナックコーナー",
      "name_en": "Hatsugari Pakingueria Outbound Snack Corner",
+     "description": "Noodle restaurant in Otsukishi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19005362/",
      "page": "https://bokenjapan.com/yamanashi/otsukishi/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -12740,6 +13193,7 @@
     {
      "name": "古民家麺処 かつら",
      "name_en": "Ko Tami-ya Men Tokoro Katsura",
+     "description": "Noodle restaurant in Otsukishi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19001018/",
      "page": "https://bokenjapan.com/yamanashi/otsukishi/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -12747,6 +13201,7 @@
     {
      "name": "くらざき",
      "name_en": "Kurazaki",
+     "description": "Noodle restaurant in Otsukishi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19008144/",
      "page": "https://bokenjapan.com/yamanashi/otsukishi/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -12754,6 +13209,7 @@
     {
      "name": "大黒屋",
      "name_en": "Daikoku-ya",
+     "description": "Noodle restaurant in Otsukishi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19000476/",
      "page": "https://bokenjapan.com/yamanashi/otsukishi/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -12761,6 +13217,7 @@
     {
      "name": "そば処大和",
      "name_en": "Soba Yamato",
+     "description": "Noodle restaurant in Otsukishi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19003787/",
      "page": "https://bokenjapan.com/yamanashi/otsukishi/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -12768,6 +13225,7 @@
     {
      "name": "笹一酒造 酒遊館",
      "name_en": "Sasa Ichi Brewery Sake Yu-kan",
+     "description": "Restaurant in Otsukishi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19006029/",
      "page": "https://bokenjapan.com/yamanashi/otsukishi/eat/other/",
      "category": "Other"
@@ -12775,6 +13233,7 @@
     {
      "name": "花咲カントリー倶楽部",
      "name_en": "Hanasaki Country Kurabu",
+     "description": "Restaurant in Otsukishi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19008611/",
      "page": "https://bokenjapan.com/yamanashi/otsukishi/eat/other/",
      "category": "Other"
@@ -12782,6 +13241,7 @@
     {
      "name": "to-mo.",
      "name_en": "to-mo.",
+     "description": "Restaurant in Otsukishi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19002436/",
      "page": "https://bokenjapan.com/yamanashi/otsukishi/eat/other/",
      "category": "Other"
@@ -12789,6 +13249,7 @@
     {
      "name": "粋膳 和ダイニング 濱野屋",
      "name_en": "Sui Zen Wa Dining Hamano-ya",
+     "description": "Japanese restaurant in Otsukishi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19009995/",
      "page": "https://bokenjapan.com/yamanashi/otsukishi/eat/other-japanese/",
      "category": "Other Japanese"
@@ -12796,6 +13257,7 @@
     {
      "name": "そば・ほうとう・郷土料理 信玄 大月店",
      "name_en": "Soba Hoto Kyodo Cuisine Shingen Otsuki",
+     "description": "Japanese restaurant in Otsukishi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19010879/",
      "page": "https://bokenjapan.com/yamanashi/otsukishi/eat/other-japanese/",
      "category": "Other Japanese"
@@ -12803,6 +13265,7 @@
     {
      "name": "みどりや",
      "name_en": "Midoriya",
+     "description": "Sweets and bakery shop in Otsukishi.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19003765/",
      "page": "https://bokenjapan.com/yamanashi/otsukishi/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -12979,6 +13442,7 @@
     {
      "name": "SPRECT COFFEE",
      "name_en": "Sprect Coffee",
+     "description": "Cafe in Showa.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19013969/",
      "page": "https://bokenjapan.com/yamanashi/showa/eat/cafe/",
      "category": "Cafe"
@@ -12986,6 +13450,7 @@
     {
      "name": "安西食堂",
      "name_en": "Anzai Shokudo",
+     "description": "Casual restaurant in Showa.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19013095/",
      "page": "https://bokenjapan.com/yamanashi/showa/eat/casual/",
      "category": "Casual"
@@ -12993,6 +13458,7 @@
     {
      "name": "ちから水産",
      "name_en": "Chikara Suisan",
+     "description": "Casual restaurant in Showa.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19013460/",
      "page": "https://bokenjapan.com/yamanashi/showa/eat/casual/",
      "category": "Casual"
@@ -13000,6 +13466,7 @@
     {
      "name": "かかし",
      "name_en": "Kakashi",
+     "description": "Chinese or Asian restaurant in Showa.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19001199/",
      "page": "https://bokenjapan.com/yamanashi/showa/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -13007,6 +13474,7 @@
     {
      "name": "中華料理 藪",
      "name_en": "Chinese Restaurant Yabu",
+     "description": "Chinese or Asian restaurant in Showa.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19011069/",
      "page": "https://bokenjapan.com/yamanashi/showa/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -13014,6 +13482,7 @@
     {
      "name": "ハングリーゲート",
      "name_en": "Hangurigeto",
+     "description": "European restaurant in Showa.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19006366/",
      "page": "https://bokenjapan.com/yamanashi/showa/eat/european/",
      "category": "European"
@@ -13021,6 +13490,7 @@
     {
      "name": "甲州地どり 鶏焼の幸修",
      "name_en": "Koshu Chi Dori Niwatori Yaki no Sachi Osamu",
+     "description": "Izakaya or bar in Showa.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19012183/",
      "page": "https://bokenjapan.com/yamanashi/showa/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -13028,6 +13498,7 @@
     {
      "name": "地産地笑＆個室ダイニング ぐらがら 甲府・昭和店",
      "name_en": "Chisan Chi Warai & Koshitsu Dining Guragara Kofu Showa",
+     "description": "Izakaya or bar in Showa.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19000255/",
      "page": "https://bokenjapan.com/yamanashi/showa/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -13035,6 +13506,7 @@
     {
      "name": "甲州直治朗",
      "name_en": "Koshu Naoji Akira",
+     "description": "Meat restaurant in Showa.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19000686/",
      "page": "https://bokenjapan.com/yamanashi/showa/eat/meat/",
      "category": "Japanese (meat)"
@@ -13042,6 +13514,7 @@
     {
      "name": "ステーキセンター 昭和町西条店",
      "name_en": "Steak Center Showacho Saijo",
+     "description": "Meat restaurant in Showa.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19011727/",
      "page": "https://bokenjapan.com/yamanashi/showa/eat/meat/",
      "category": "Japanese (meat)"
@@ -13049,6 +13522,7 @@
     {
      "name": "肉のたけむら",
      "name_en": "Niku Notakemura",
+     "description": "Meat restaurant in Showa.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19007926/",
      "page": "https://bokenjapan.com/yamanashi/showa/eat/meat/",
      "category": "Japanese (meat)"
@@ -13056,6 +13530,7 @@
     {
      "name": "中華蕎麦うゑず",
      "name_en": "Chinese Soba Uezu",
+     "description": "Noodle restaurant in Showa.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19008413/",
      "page": "https://bokenjapan.com/yamanashi/showa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13063,6 +13538,7 @@
     {
      "name": "麺の虜",
      "name_en": "Men no Toriko",
+     "description": "Noodle restaurant in Showa.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19011689/",
      "page": "https://bokenjapan.com/yamanashi/showa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13070,6 +13546,7 @@
     {
      "name": "家系ラーメン 心道家",
      "name_en": "Kakei Ramen Kokoro Michi-ya",
+     "description": "Noodle restaurant in Showa.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19013562/",
      "page": "https://bokenjapan.com/yamanashi/showa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13077,6 +13554,7 @@
     {
      "name": "はねだ家",
      "name_en": "Haneda-ya",
+     "description": "Noodle restaurant in Showa.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19005017/",
      "page": "https://bokenjapan.com/yamanashi/showa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13084,6 +13562,7 @@
     {
      "name": "つけそばさんぷく 昭和店",
      "name_en": "Tsuke Soba Sanpuku Showa",
+     "description": "Noodle restaurant in Showa.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19005820/",
      "page": "https://bokenjapan.com/yamanashi/showa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13091,6 +13570,7 @@
     {
      "name": "らぁめん・つけめん 豚火",
      "name_en": "Ramen Tsukemen Buta Hi",
+     "description": "Noodle restaurant in Showa.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19008757/",
      "page": "https://bokenjapan.com/yamanashi/showa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13098,6 +13578,7 @@
     {
      "name": "山さんラーメン",
      "name_en": "Yama San Ramen",
+     "description": "Noodle restaurant in Showa.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19009789/",
      "page": "https://bokenjapan.com/yamanashi/showa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13105,6 +13586,7 @@
     {
      "name": "初花 昭和店",
      "name_en": "Hatsuhana Showa",
+     "description": "Noodle restaurant in Showa.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19000865/",
      "page": "https://bokenjapan.com/yamanashi/showa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13112,6 +13594,7 @@
     {
      "name": "Wez Noodles",
      "name_en": "Wez Noodles",
+     "description": "Noodle restaurant in Showa.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19012535/",
      "page": "https://bokenjapan.com/yamanashi/showa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13119,6 +13602,7 @@
     {
      "name": "大黒家 昭和本店",
      "name_en": "Daikoku-ya Showa Main Store",
+     "description": "Noodle restaurant in Showa.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19007309/",
      "page": "https://bokenjapan.com/yamanashi/showa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13126,6 +13610,7 @@
     {
      "name": "みやこいち 本店",
      "name_en": "Miyakoichi Main Store",
+     "description": "Noodle restaurant in Showa.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19004047/",
      "page": "https://bokenjapan.com/yamanashi/showa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13133,6 +13618,7 @@
     {
      "name": "日本料理 こうしゅう庵",
      "name_en": "Nippon Cuisine Koshu Iori",
+     "description": "Japanese restaurant in Showa.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19004244/",
      "page": "https://bokenjapan.com/yamanashi/showa/eat/other-japanese/",
      "category": "Other Japanese"
@@ -13140,6 +13626,7 @@
     {
      "name": "麩の岡田屋",
      "name_en": "Fu no Okada-ya",
+     "description": "Japanese restaurant in Showa.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19007931/",
      "page": "https://bokenjapan.com/yamanashi/showa/eat/other-japanese/",
      "category": "Other Japanese"
@@ -13220,6 +13707,7 @@
     {
      "name": "TABA CAFE",
      "name_en": "TABA CAFE",
+     "description": "Cafe in Tabayama.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19012540/",
      "page": "https://bokenjapan.com/yamanashi/tabayama/eat/cafe/",
      "category": "Cafe"
@@ -13227,6 +13715,7 @@
     {
      "name": "亀泉庵",
      "name_en": "Kame Izumi Iori",
+     "description": "Cafe in Tabayama.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19006588/",
      "page": "https://bokenjapan.com/yamanashi/tabayama/eat/cafe/",
      "category": "Cafe"
@@ -13234,6 +13723,7 @@
     {
      "name": "TABAテラス",
      "name_en": "TABA Terrace",
+     "description": "Casual restaurant in Tabayama.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19005206/",
      "page": "https://bokenjapan.com/yamanashi/tabayama/eat/casual/",
      "category": "Casual"
@@ -13241,6 +13731,7 @@
     {
      "name": "のめこい湯 レストラン",
      "name_en": "Nomekoi Yu Restaurant",
+     "description": "Casual restaurant in Tabayama.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19000548/",
      "page": "https://bokenjapan.com/yamanashi/tabayama/eat/casual/",
      "category": "Casual"
@@ -13248,6 +13739,7 @@
     {
      "name": "木洩れ日",
      "name_en": "Komorebi",
+     "description": "Casual restaurant in Tabayama.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19010121/",
      "page": "https://bokenjapan.com/yamanashi/tabayama/eat/casual/",
      "category": "Casual"
@@ -13255,6 +13747,7 @@
     {
      "name": "灯里",
      "name_en": "Tomoshibi Sato",
+     "description": "Casual restaurant in Tabayama.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19012248/",
      "page": "https://bokenjapan.com/yamanashi/tabayama/eat/casual/",
      "category": "Casual"
@@ -13262,6 +13755,7 @@
     {
      "name": "やまびこ食堂",
      "name_en": "Yamabiko Shokudo",
+     "description": "Casual restaurant in Tabayama.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19005204/",
      "page": "https://bokenjapan.com/yamanashi/tabayama/eat/casual/",
      "category": "Casual"
@@ -13269,6 +13763,7 @@
     {
      "name": "オオカミ印の里山ごはん",
      "name_en": "Okami In no Satoyama Gohan",
+     "description": "Casual restaurant in Tabayama.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19012451/",
      "page": "https://bokenjapan.com/yamanashi/tabayama/eat/casual/",
      "category": "Casual"
@@ -13276,6 +13771,7 @@
     {
      "name": "Wolves Brewing",
      "name_en": "Wolves Brewing",
+     "description": "Izakaya or bar in Tabayama.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19014368/",
      "page": "https://bokenjapan.com/yamanashi/tabayama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -13283,6 +13779,7 @@
     {
      "name": "かどや旅館",
      "name_en": "Kadoya Ryokan",
+     "description": "Restaurant in Tabayama.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19006576/",
      "page": "https://bokenjapan.com/yamanashi/tabayama/eat/other/",
      "category": "Other"
@@ -13290,6 +13787,7 @@
     {
      "name": "きのしたベーカリー",
      "name_en": "Kinoshita Bakery",
+     "description": "Sweets and bakery shop in Tabayama.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19010394/",
      "page": "https://bokenjapan.com/yamanashi/tabayama/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -13297,6 +13795,7 @@
     {
      "name": "のめこい湯 売店",
      "name_en": "Nomekoi Yu Bai",
+     "description": "Sweets and bakery shop in Tabayama.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190503/19008848/",
      "page": "https://bokenjapan.com/yamanashi/tabayama/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -13365,6 +13864,7 @@
     {
      "name": "Cafe 織水",
      "name_en": "Cafe Shoku Mizu",
+     "description": "Cafe in Tsuru.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19011121/",
      "page": "https://bokenjapan.com/yamanashi/tsuru/eat/cafe/",
      "category": "Cafe"
@@ -13372,6 +13872,7 @@
     {
      "name": "バンカム、ツル",
      "name_en": "Bankamu Tsuru",
+     "description": "Cafe in Tsuru.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19003634/",
      "page": "https://bokenjapan.com/yamanashi/tsuru/eat/cafe/",
      "category": "Cafe"
@@ -13379,6 +13880,7 @@
     {
      "name": "松鶴",
      "name_en": "Shokaku",
+     "description": "Casual restaurant in Tsuru.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19004914/",
      "page": "https://bokenjapan.com/yamanashi/tsuru/eat/casual/",
      "category": "Casual"
@@ -13386,6 +13888,7 @@
     {
      "name": "食堂 くろき",
      "name_en": "Shokudo Kuroki",
+     "description": "Casual restaurant in Tsuru.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19004356/",
      "page": "https://bokenjapan.com/yamanashi/tsuru/eat/casual/",
      "category": "Casual"
@@ -13393,6 +13896,7 @@
     {
      "name": "ことぶき",
      "name_en": "Kotobuki",
+     "description": "Casual restaurant in Tsuru.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19002493/",
      "page": "https://bokenjapan.com/yamanashi/tsuru/eat/casual/",
      "category": "Casual"
@@ -13400,6 +13904,7 @@
     {
      "name": "地産地消レストラン お勝手場",
      "name_en": "Chisan Chisho Restaurant O Katteba",
+     "description": "Casual restaurant in Tsuru.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19009894/",
      "page": "https://bokenjapan.com/yamanashi/tsuru/eat/casual/",
      "category": "Casual"
@@ -13407,6 +13912,7 @@
     {
      "name": "おむすびのおおみや 禾生店",
      "name_en": "Omusubinoomiya Nogi Nama",
+     "description": "Casual restaurant in Tsuru.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19004225/",
      "page": "https://bokenjapan.com/yamanashi/tsuru/eat/casual/",
      "category": "Casual"
@@ -13414,6 +13920,7 @@
     {
      "name": "じゅーり",
      "name_en": "Juri",
+     "description": "Chinese or Asian restaurant in Tsuru.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19005618/",
      "page": "https://bokenjapan.com/yamanashi/tsuru/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -13421,6 +13928,7 @@
     {
      "name": "谷村パーキングエリア（上り） フードコート",
      "name_en": "Tanimura Pakingueria Nobori Food Court",
+     "description": "Curry restaurant in Tsuru.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19005006/",
      "page": "https://bokenjapan.com/yamanashi/tsuru/eat/curry/",
      "category": "Curry"
@@ -13428,6 +13936,7 @@
     {
      "name": "ハンドメイドレストラン 鎌倉",
      "name_en": "Handomeido Restaurant Kamakura",
+     "description": "European restaurant in Tsuru.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19000691/",
      "page": "https://bokenjapan.com/yamanashi/tsuru/eat/european/",
      "category": "European"
@@ -13435,6 +13944,7 @@
     {
      "name": "いざかやごはん ナカヤン",
      "name_en": "Izakayagohan Nakayan",
+     "description": "Izakaya or bar in Tsuru.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19009903/",
      "page": "https://bokenjapan.com/yamanashi/tsuru/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -13442,6 +13952,7 @@
     {
      "name": "手打ち 山もとうどん",
      "name_en": "Teuchi Chi Yama Moto Udon",
+     "description": "Noodle restaurant in Tsuru.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19000292/",
      "page": "https://bokenjapan.com/yamanashi/tsuru/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13449,6 +13960,7 @@
     {
      "name": "手打うどん こみや",
      "name_en": "Teuchi Udon Komiya",
+     "description": "Noodle restaurant in Tsuru.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19001614/",
      "page": "https://bokenjapan.com/yamanashi/tsuru/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13456,6 +13968,7 @@
     {
      "name": "手打うどん 石井",
      "name_en": "Teuchi Udon Ishi",
+     "description": "Noodle restaurant in Tsuru.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19000532/",
      "page": "https://bokenjapan.com/yamanashi/tsuru/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13463,6 +13976,7 @@
     {
      "name": "手打うどん 小俣",
      "name_en": "Teuchi Udon Omata",
+     "description": "Noodle restaurant in Tsuru.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19001064/",
      "page": "https://bokenjapan.com/yamanashi/tsuru/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13470,6 +13984,7 @@
     {
      "name": "本格手打うどん 荻窪",
      "name_en": "Honkaku Teuchi Udon Ogikubo",
+     "description": "Noodle restaurant in Tsuru.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19010753/",
      "page": "https://bokenjapan.com/yamanashi/tsuru/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13477,6 +13992,7 @@
     {
      "name": "谷村パーキングエリア（下り） フードコート",
      "name_en": "Tanimura Pakingueria Kudari Food Court",
+     "description": "Noodle restaurant in Tsuru.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19005763/",
      "page": "https://bokenjapan.com/yamanashi/tsuru/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13484,6 +14000,7 @@
     {
      "name": "自家製麺しゅん作",
      "name_en": "Ji-ya Seimen Shun Saku",
+     "description": "Noodle restaurant in Tsuru.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19008823/",
      "page": "https://bokenjapan.com/yamanashi/tsuru/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13491,6 +14008,7 @@
     {
      "name": "道の駅つる",
      "name_en": "Michi no Eki Tsuru",
+     "description": "Restaurant in Tsuru.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19010237/",
      "page": "https://bokenjapan.com/yamanashi/tsuru/eat/other/",
      "category": "Other"
@@ -13498,6 +14016,7 @@
     {
      "name": "中央都留カントリークラブ レストラン",
      "name_en": "Chuo Tsuru Country Club Restaurant",
+     "description": "Restaurant in Tsuru.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190303/19007772/",
      "page": "https://bokenjapan.com/yamanashi/tsuru/eat/other/",
      "category": "Other"
@@ -13505,6 +14024,7 @@
     {
      "name": "炭香ふぁ～む",
      "name_en": "Sumi Kaori Fa Mu",
+     "description": "Sweets and bakery shop in Tsuru.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19010238/",
      "page": "https://bokenjapan.com/yamanashi/tsuru/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -13512,6 +14032,7 @@
     {
      "name": "自家製酵母パン パン工房 稔",
      "name_en": "Ji-ya Sei Kobo Bread Bread Kobo Minoru",
+     "description": "Sweets and bakery shop in Tsuru.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19005248/",
      "page": "https://bokenjapan.com/yamanashi/tsuru/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -13519,6 +14040,7 @@
     {
      "name": "ならや",
      "name_en": "Naraya",
+     "description": "Sweets and bakery shop in Tsuru.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19004562/",
      "page": "https://bokenjapan.com/yamanashi/tsuru/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -13526,6 +14048,7 @@
     {
      "name": "御菓子司 すがや",
      "name_en": "O Kashi Tsukasa Sugaya",
+     "description": "Sweets and bakery shop in Tsuru.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190501/19005067/",
      "page": "https://bokenjapan.com/yamanashi/tsuru/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -13784,6 +14307,7 @@
     {
      "name": "めし処 甲州亭",
      "name_en": "Meshi Tokoro Koshu-tei",
+     "description": "Casual restaurant in Uenohara.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19010883/",
      "page": "https://bokenjapan.com/yamanashi/uenohara/eat/casual/",
      "category": "Casual"
@@ -13791,6 +14315,7 @@
     {
      "name": "一福食堂",
      "name_en": "Ichi Fuku Shokudo",
+     "description": "Casual restaurant in Uenohara.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19003066/",
      "page": "https://bokenjapan.com/yamanashi/uenohara/eat/casual/",
      "category": "Casual"
@@ -13798,6 +14323,7 @@
     {
      "name": "ごはんどころ 談合坂定食亭",
      "name_en": "Gohandokoro Dango Saka Teishoku-tei",
+     "description": "Casual restaurant in Uenohara.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19011454/",
      "page": "https://bokenjapan.com/yamanashi/uenohara/eat/casual/",
      "category": "Casual"
@@ -13805,6 +14331,7 @@
     {
      "name": "上野原カントリークラブ レストラン",
      "name_en": "Uenohara Country Club Restaurant",
+     "description": "Casual restaurant in Uenohara.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19005816/",
      "page": "https://bokenjapan.com/yamanashi/uenohara/eat/casual/",
      "category": "Casual"
@@ -13812,6 +14339,7 @@
     {
      "name": "メイプルポイントゴルフクラブ レストラン",
      "name_en": "Meipurupointogorufu Club Restaurant",
+     "description": "Casual restaurant in Uenohara.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19005379/",
      "page": "https://bokenjapan.com/yamanashi/uenohara/eat/casual/",
      "category": "Casual"
@@ -13819,6 +14347,7 @@
     {
      "name": "オリムピックカントリークラブ",
      "name_en": "Orimupikku Country Club",
+     "description": "Casual restaurant in Uenohara.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19007832/",
      "page": "https://bokenjapan.com/yamanashi/uenohara/eat/casual/",
      "category": "Casual"
@@ -13826,6 +14355,7 @@
     {
      "name": "レイク相模カントリークラブ レストラン永光",
      "name_en": "Lake Sagami Country Club Restaurant Nagamitsu",
+     "description": "Casual restaurant in Uenohara.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19004007/",
      "page": "https://bokenjapan.com/yamanashi/uenohara/eat/casual/",
      "category": "Casual"
@@ -13833,6 +14363,7 @@
     {
      "name": "桂山",
      "name_en": "Katsura Yama",
+     "description": "Noodle restaurant in Uenohara.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19000633/",
      "page": "https://bokenjapan.com/yamanashi/uenohara/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13840,6 +14371,7 @@
     {
      "name": "鶏だし 中華そば 百蔵 談合坂店",
      "name_en": "Niwatori Dashi Chuka Soba Hyaku Kura Dango Saka",
+     "description": "Noodle restaurant in Uenohara.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19010114/",
      "page": "https://bokenjapan.com/yamanashi/uenohara/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13847,6 +14379,7 @@
     {
      "name": "来々軒",
      "name_en": "Rairai Ken",
+     "description": "Noodle restaurant in Uenohara.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19007503/",
      "page": "https://bokenjapan.com/yamanashi/uenohara/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13854,6 +14387,7 @@
     {
      "name": "羽置の里 びりゅう館",
      "name_en": "Hane Chi no Sato Biryu-kan",
+     "description": "Noodle restaurant in Uenohara.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19000549/",
      "page": "https://bokenjapan.com/yamanashi/uenohara/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13861,6 +14395,7 @@
     {
      "name": "麺屋 かとう",
      "name_en": "Men-ya Kato",
+     "description": "Noodle restaurant in Uenohara.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19013639/",
      "page": "https://bokenjapan.com/yamanashi/uenohara/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13868,6 +14403,7 @@
     {
      "name": "麺工房",
      "name_en": "Men Kobo",
+     "description": "Noodle restaurant in Uenohara.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19009937/",
      "page": "https://bokenjapan.com/yamanashi/uenohara/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13875,6 +14411,7 @@
     {
      "name": "ラーメン大皇",
      "name_en": "Ramen Dai Ko",
+     "description": "Noodle restaurant in Uenohara.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19009846/",
      "page": "https://bokenjapan.com/yamanashi/uenohara/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13890,6 +14427,7 @@
     {
      "name": "ビーワンチャンピオン",
      "name_en": "Biwanchanpion",
+     "description": "Restaurant in Uenohara.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19008025/",
      "page": "https://bokenjapan.com/yamanashi/uenohara/eat/other/",
      "category": "Other"
@@ -13897,6 +14435,7 @@
     {
      "name": "ゆるり庵",
      "name_en": "Yururi Iori",
+     "description": "Japanese restaurant in Uenohara.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19010255/",
      "page": "https://bokenjapan.com/yamanashi/uenohara/eat/other-japanese/",
      "category": "Other Japanese"
@@ -13904,6 +14443,7 @@
     {
      "name": "桔梗信玄堂 談合坂店",
      "name_en": "Kikyo Shingen Do Dango Saka",
+     "description": "Sweets and bakery shop in Uenohara.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19010133/",
      "page": "https://bokenjapan.com/yamanashi/uenohara/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -13911,6 +14451,7 @@
     {
      "name": "世界一のアップルパイ 鎌倉 mille mele EXPASA談合坂下り店",
      "name_en": "Sekaichi no Appurupai Kamakura mille mele Expasa Dango Bange Ri",
+     "description": "Sweets and bakery shop in Uenohara.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19013103/",
      "page": "https://bokenjapan.com/yamanashi/uenohara/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -13918,6 +14459,7 @@
     {
      "name": "ベーカリー EXPASA談合坂 下り線",
      "name_en": "Bakery Expasa Dango Saka Outbound",
+     "description": "Sweets and bakery shop in Uenohara.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19011308/",
      "page": "https://bokenjapan.com/yamanashi/uenohara/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -13925,6 +14467,7 @@
     {
      "name": "談合坂サービスエリア（下り線）Ｈ'ｓ ＣＲＥAM",
      "name_en": "Dango Saka Service Area Outbound H's Cream",
+     "description": "Sweets and bakery shop in Uenohara.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19008539/",
      "page": "https://bokenjapan.com/yamanashi/uenohara/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -13932,6 +14475,7 @@
     {
      "name": "パン デ モンテ",
      "name_en": "Bread De Monte",
+     "description": "Sweets and bakery shop in Uenohara.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19007932/",
      "page": "https://bokenjapan.com/yamanashi/uenohara/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -13939,6 +14483,7 @@
     {
      "name": "ソフトクリーム工房",
      "name_en": "Soft Serve Kobo",
+     "description": "Sweets and bakery shop in Uenohara.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19006625/",
      "page": "https://bokenjapan.com/yamanashi/uenohara/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -13946,6 +14491,7 @@
     {
      "name": "山梨 スイーツ DO",
      "name_en": "Yamanashi Sweets DO",
+     "description": "Sweets and bakery shop in Uenohara.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19011231/",
      "page": "https://bokenjapan.com/yamanashi/uenohara/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -13953,6 +14499,7 @@
     {
      "name": "植松",
      "name_en": "Uematsu",
+     "description": "Sweets and bakery shop in Uenohara.",
      "source_url": "https://tabelog.com/yamanashi/A1905/A190502/19006569/",
      "page": "https://bokenjapan.com/yamanashi/uenohara/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -14073,6 +14620,7 @@
     {
      "name": "ペーパームーン",
      "name_en": "Pepamun",
+     "description": "Cafe in Yamanakako.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19000035/",
      "page": "https://bokenjapan.com/yamanashi/yamanakako/eat/cafe/",
      "category": "Cafe"
@@ -14080,6 +14628,7 @@
     {
      "name": "ザ パーク",
      "name_en": "Za Park",
+     "description": "Cafe in Yamanakako.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19010672/",
      "page": "https://bokenjapan.com/yamanashi/yamanakako/eat/cafe/",
      "category": "Cafe"
@@ -14087,6 +14636,7 @@
     {
      "name": "Patisserie HACONIWA",
      "name_en": "Patisserie Haconiwa",
+     "description": "Cafe in Yamanakako.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19013275/",
      "page": "https://bokenjapan.com/yamanashi/yamanakako/eat/cafe/",
      "category": "Cafe"
@@ -14094,6 +14644,7 @@
     {
      "name": "天野屋山中湖三号店",
      "name_en": "Amano-ya Yamanakako Sango",
+     "description": "Cafe in Yamanakako.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19012602/",
      "page": "https://bokenjapan.com/yamanashi/yamanakako/eat/cafe/",
      "category": "Cafe"
@@ -14181,6 +14732,7 @@
     {
      "name": "中国料理 翆陽",
      "name_en": "Chugoku Cuisine Sui Yo",
+     "description": "Chinese or Asian restaurant in Yamanakako.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19003752/",
      "page": "https://bokenjapan.com/yamanashi/yamanakako/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -14188,6 +14740,7 @@
     {
      "name": "オーベルジュ秋桜",
      "name_en": "Oberuju Kosumosu",
+     "description": "European restaurant in Yamanakako.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19006031/",
      "page": "https://bokenjapan.com/yamanashi/yamanakako/eat/european/",
      "category": "European"
@@ -14195,6 +14748,7 @@
     {
      "name": "イルコローレ",
      "name_en": "Irukorore",
+     "description": "European restaurant in Yamanakako.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19006179/",
      "page": "https://bokenjapan.com/yamanashi/yamanakako/eat/european/",
      "category": "European"
@@ -14202,6 +14756,7 @@
     {
      "name": "PIZZA NEW MID",
      "name_en": "Pizza NEW MID",
+     "description": "European restaurant in Yamanakako.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19012677/",
      "page": "https://bokenjapan.com/yamanashi/yamanakako/eat/european/",
      "category": "European"
@@ -14209,6 +14764,7 @@
     {
      "name": "レストラン古志路",
      "name_en": "Restaurant Koshi Michi",
+     "description": "European restaurant in Yamanakako.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19000037/",
      "page": "https://bokenjapan.com/yamanashi/yamanakako/eat/european/",
      "category": "European"
@@ -14216,6 +14772,7 @@
     {
      "name": "フジヤマ キッチン",
      "name_en": "Fujiyama Kitchen",
+     "description": "European restaurant in Yamanakako.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19000878/",
      "page": "https://bokenjapan.com/yamanashi/yamanakako/eat/european/",
      "category": "European"
@@ -14223,6 +14780,7 @@
     {
      "name": "ルッチコーレ",
      "name_en": "Rutchikore",
+     "description": "European restaurant in Yamanakako.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19000237/",
      "page": "https://bokenjapan.com/yamanashi/yamanakako/eat/european/",
      "category": "European"
@@ -14230,6 +14788,7 @@
     {
      "name": "ヨーロピアンカフェ グータン",
      "name_en": "Yoropian Cafe Gutan",
+     "description": "European restaurant in Yamanakako.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19004049/",
      "page": "https://bokenjapan.com/yamanashi/yamanakako/eat/european/",
      "category": "European"
@@ -14285,6 +14844,7 @@
     {
      "name": "山中湖畔のステーキ酒場",
      "name_en": "Yamanakako Aze no Steak Sakaba",
+     "description": "Meat restaurant in Yamanakako.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19009109/",
      "page": "https://bokenjapan.com/yamanashi/yamanakako/eat/meat/",
      "category": "Japanese (meat)"
@@ -14316,6 +14876,7 @@
     {
      "name": "湖麺屋 リールカフェ",
      "name_en": "Mizumi Men-ya Riru Cafe",
+     "description": "Noodle restaurant in Yamanakako.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19006446/",
      "page": "https://bokenjapan.com/yamanashi/yamanakako/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -14323,6 +14884,7 @@
     {
      "name": "やまさと",
      "name_en": "Yamasato",
+     "description": "Noodle restaurant in Yamanakako.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19009802/",
      "page": "https://bokenjapan.com/yamanashi/yamanakako/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -14330,6 +14892,7 @@
     {
      "name": "和十郎",
      "name_en": "Wajuro",
+     "description": "Noodle restaurant in Yamanakako.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19008925/",
      "page": "https://bokenjapan.com/yamanashi/yamanakako/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -14337,6 +14900,7 @@
     {
      "name": "麺処 天めん",
      "name_en": "Men Tokoro Ten Men",
+     "description": "Noodle restaurant in Yamanakako.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19000464/",
      "page": "https://bokenjapan.com/yamanashi/yamanakako/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -14376,6 +14940,7 @@
     {
      "name": "TACOS 3Hermanos Yamanakako",
      "name_en": "Tacos 3Hermanos Yamanakako",
+     "description": "Restaurant in Yamanakako.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19012781/",
      "page": "https://bokenjapan.com/yamanashi/yamanakako/eat/other/",
      "category": "Other"
@@ -14407,6 +14972,7 @@
     {
      "name": "小作 山中湖店",
      "name_en": "Ozaku Yamanakako",
+     "description": "Japanese restaurant in Yamanakako.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19000031/",
      "page": "https://bokenjapan.com/yamanashi/yamanakako/eat/other-japanese/",
      "category": "Other Japanese"
@@ -14414,6 +14980,7 @@
     {
      "name": "庄ヤ",
      "name_en": "Sho Ya",
+     "description": "Japanese restaurant in Yamanakako.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19000030/",
      "page": "https://bokenjapan.com/yamanashi/yamanakako/eat/other-japanese/",
      "category": "Other Japanese"
@@ -14421,6 +14988,7 @@
     {
      "name": "日本料理 花木鳥",
      "name_en": "Nippon Cuisine Kaboku Tori",
+     "description": "Japanese restaurant in Yamanakako.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19005282/",
      "page": "https://bokenjapan.com/yamanashi/yamanakako/eat/other-japanese/",
      "category": "Other Japanese"
@@ -14428,6 +14996,7 @@
     {
      "name": "海馬",
      "name_en": "Kaiba",
+     "description": "Japanese restaurant in Yamanakako.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19000033/",
      "page": "https://bokenjapan.com/yamanashi/yamanakako/eat/other-japanese/",
      "category": "Other Japanese"
@@ -14483,6 +15052,7 @@
     {
      "name": "大豊",
      "name_en": "Taiho",
+     "description": "Seafood restaurant in Yamanakako.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19000905/",
      "page": "https://bokenjapan.com/yamanashi/yamanakako/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -14490,6 +15060,7 @@
     {
      "name": "ZEIT BAKERY CAFE",
      "name_en": "ZEIT Bakery CAFE",
+     "description": "Sweets and bakery shop in Yamanakako.",
      "source_url": "https://tabelog.com/yamanashi/A1903/A190302/19013494/",
      "page": "https://bokenjapan.com/yamanashi/yamanakako/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -15523,6 +16094,7 @@
     {
      "name": "桃の農家カフェ ラペスカ",
      "name_en": "Momo no no-ya Cafe Rapesuka",
+     "description": "Cafe in Yamanashishi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190102/19006624/",
      "page": "https://bokenjapan.com/yamanashi/yamanashishi/eat/cafe/",
      "category": "Cafe"
@@ -15530,6 +16102,7 @@
     {
      "name": "カフェ ベラヴィスタ",
      "name_en": "Cafe Beravisuta",
+     "description": "Cafe in Yamanashishi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190102/19009587/",
      "page": "https://bokenjapan.com/yamanashi/yamanashishi/eat/cafe/",
      "category": "Cafe"
@@ -15537,6 +16110,7 @@
     {
      "name": "蔵元ごはん&カフェ 酒蔵 櫂",
      "name_en": "Kuramoto Gohan & Cafe Shuzo Kai",
+     "description": "Cafe in Yamanashishi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190102/19006315/",
      "page": "https://bokenjapan.com/yamanashi/yamanashishi/eat/cafe/",
      "category": "Cafe"
@@ -15544,6 +16118,7 @@
     {
      "name": "山歩",
      "name_en": "Yama Ho",
+     "description": "Cafe in Yamanashishi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19011735/",
      "page": "https://bokenjapan.com/yamanashi/yamanashishi/eat/cafe/",
      "category": "Cafe"
@@ -15551,6 +16126,7 @@
     {
      "name": "トランクウィル",
      "name_en": "Torankuiru",
+     "description": "Cafe in Yamanashishi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190102/19008230/",
      "page": "https://bokenjapan.com/yamanashi/yamanashishi/eat/cafe/",
      "category": "Cafe"
@@ -15558,6 +16134,7 @@
     {
      "name": "御食事処 歩成 本店",
      "name_en": "O Restaurant Ho Sei Main Store",
+     "description": "Casual restaurant in Yamanashishi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190102/19001412/",
      "page": "https://bokenjapan.com/yamanashi/yamanashishi/eat/casual/",
      "category": "Casual"
@@ -15565,6 +16142,7 @@
     {
      "name": "気まぐれ屋",
      "name_en": "Kimagure-ya",
+     "description": "Casual restaurant in Yamanashishi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19002481/",
      "page": "https://bokenjapan.com/yamanashi/yamanashishi/eat/casual/",
      "category": "Casual"
@@ -15572,6 +16150,7 @@
     {
      "name": "味平",
      "name_en": "Ajihei",
+     "description": "Chinese or Asian restaurant in Yamanashishi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190102/19001158/",
      "page": "https://bokenjapan.com/yamanashi/yamanashishi/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -15579,6 +16158,7 @@
     {
      "name": "白楽天",
      "name_en": "Hakuraku Ten",
+     "description": "Chinese or Asian restaurant in Yamanashishi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190102/19003985/",
      "page": "https://bokenjapan.com/yamanashi/yamanashishi/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -15586,6 +16166,7 @@
     {
      "name": "デリーベイ",
      "name_en": "Deribei",
+     "description": "Curry restaurant in Yamanashishi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190102/19003617/",
      "page": "https://bokenjapan.com/yamanashi/yamanashishi/eat/curry/",
      "category": "Curry"
@@ -15593,6 +16174,7 @@
     {
      "name": "展望･星屑レストラン ガイア",
      "name_en": "Tenbo Hoshikuzu Restaurant Gaia",
+     "description": "European restaurant in Yamanashishi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190102/19009748/",
      "page": "https://bokenjapan.com/yamanashi/yamanashishi/eat/european/",
      "category": "European"
@@ -15600,6 +16182,7 @@
     {
      "name": "ジンベエ",
      "name_en": "Jinbe",
+     "description": "European restaurant in Yamanashishi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190102/19002434/",
      "page": "https://bokenjapan.com/yamanashi/yamanashishi/eat/european/",
      "category": "European"
@@ -15607,6 +16190,7 @@
     {
      "name": "中華そば おかめ",
      "name_en": "Chuka Soba Okame",
+     "description": "Noodle restaurant in Yamanashishi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190102/19005038/",
      "page": "https://bokenjapan.com/yamanashi/yamanashishi/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -15614,6 +16198,7 @@
     {
      "name": "たけ川うどん 山梨店",
      "name_en": "Take Kawa Udon Yamanashi",
+     "description": "Noodle restaurant in Yamanashishi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190103/19011779/",
      "page": "https://bokenjapan.com/yamanashi/yamanashishi/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -15621,6 +16206,7 @@
     {
      "name": "えのきや 山梨店",
      "name_en": "Enokiya Yamanashi",
+     "description": "Noodle restaurant in Yamanashishi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190102/19004106/",
      "page": "https://bokenjapan.com/yamanashi/yamanashishi/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -15628,6 +16214,7 @@
     {
      "name": "らーめん 麺結び",
      "name_en": "Ramen Men Musubi",
+     "description": "Noodle restaurant in Yamanashishi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190102/19013246/",
      "page": "https://bokenjapan.com/yamanashi/yamanashishi/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -15635,6 +16222,7 @@
     {
      "name": "桃太郎",
      "name_en": "Momotaro",
+     "description": "Noodle restaurant in Yamanashishi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190101/19003777/",
      "page": "https://bokenjapan.com/yamanashi/yamanashishi/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -15642,6 +16230,7 @@
     {
      "name": "のんきばぁーば",
      "name_en": "Nonkibaba",
+     "description": "Japanese restaurant in Yamanashishi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190102/19000391/",
      "page": "https://bokenjapan.com/yamanashi/yamanashishi/eat/other-japanese/",
      "category": "Other Japanese"
@@ -15649,6 +16238,7 @@
     {
      "name": "ほうとう蔵 歩成 フルーツライン店",
      "name_en": "Hoto Kura Ho Sei Fruit La Inn",
+     "description": "Japanese restaurant in Yamanashishi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190102/19005334/",
      "page": "https://bokenjapan.com/yamanashi/yamanashishi/eat/other-japanese/",
      "category": "Other Japanese"
@@ -15656,6 +16246,7 @@
     {
      "name": "日本料理 笛吹川",
      "name_en": "Nippon Cuisine Usui Kawa",
+     "description": "Japanese restaurant in Yamanashishi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190102/19000758/",
      "page": "https://bokenjapan.com/yamanashi/yamanashishi/eat/other-japanese/",
      "category": "Other Japanese"
@@ -15663,6 +16254,7 @@
     {
      "name": "正徳寺温泉 初花",
      "name_en": "Masanori Tera Onsen Hatsuhana",
+     "description": "Seafood restaurant in Yamanashishi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190102/19000017/",
      "page": "https://bokenjapan.com/yamanashi/yamanashishi/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -15670,6 +16262,7 @@
     {
      "name": "いづ屋",
      "name_en": "Izu-ya",
+     "description": "Seafood restaurant in Yamanashishi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190102/19001674/",
      "page": "https://bokenjapan.com/yamanashi/yamanashishi/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -15677,6 +16270,7 @@
     {
      "name": "丸山パン",
      "name_en": "Maruyama Bread",
+     "description": "Sweets and bakery shop in Yamanashishi.",
      "source_url": "https://tabelog.com/yamanashi/A1901/A190102/19010534/",
      "page": "https://bokenjapan.com/yamanashi/yamanashishi/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
