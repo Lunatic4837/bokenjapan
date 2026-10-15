@@ -115,6 +115,14 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "光楽菜館",
+     "name_en": "Koraku Saikan",
+     "description": "Chinese restaurant in Ashikaga serving a dim sum lunch. Closed Mondays, Sundays, and holidays.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s3748",
+     "page": "https://bokenjapan.com/tochigi/ashikaga/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "レストランゆり",
      "name_en": "Restaurant Yuri",
      "description": "Yoshoku (Western-style) restaurant in Ashikaga; lunch ¥2,000–¥2,999, dinner ¥2,000–¥2,999.",
@@ -275,6 +283,14 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "手もみそば いけもり",
+     "name_en": "Temomi Soba Ikemori",
+     "description": "Soba restaurant in Ashikaga serving hand-cut soba made with groundwater from stone-milled flour, with a second-floor banquet hall for 40 and group bus meals. Closed Tuesdays except holidays.",
+     "source_url": "http://www.watv.ne.jp/~ikemori/",
+     "page": "https://bokenjapan.com/tochigi/ashikaga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "まつむら",
      "name_en": "Matsumura",
      "description": "Tempura restaurant in Ashikaga; lunch ¥20,000–¥29,999, dinner ¥20,000–¥29,999.",
@@ -339,6 +355,22 @@
      "category": "Other"
     },
     {
+     "name": "La Belle Vue（スカイレストラン ラ・ベルビュー）",
+     "name_en": "La Belle Vue",
+     "description": "Restaurant on the 9th floor of New Miyako Hotel Ashikaga Main Building, overlooking the city and serving a breakfast buffet from 7:00 to 9:30, closed Mondays except breakfast.",
+     "source_url": "http://www.newmiyakohotel.co.jp/restaurant/",
+     "page": "https://bokenjapan.com/tochigi/ashikaga/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "樹洞",
+     "name_en": "Uro",
+     "description": "Izakaya near Watarase Bridge in Ashikaga serving beef motsu nabe year-round, fried Ashikaga shumai, homemade yose tofu and basashi, with local sake and honkaku shochu, closed Mondays.",
+     "source_url": "http://www.watv.ne.jp/~uro/",
+     "page": "https://bokenjapan.com/tochigi/ashikaga/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "京かのこ",
      "name_en": "Kyo Kanoko",
      "description": "Japanese restaurant in Ashikaga; lunch ¥4,000–¥4,999, dinner ¥6,000–¥7,999.",
@@ -359,6 +391,14 @@
      "name_en": "Maguro Don Ka Ichi",
      "description": "Japanese restaurant in Ashikaga; lunch ¥2,000–¥2,999, dinner ¥1,000–¥1,999.",
      "source_url": "https://tabelog.com/tochigi/A0902/A090202/9003502/",
+     "page": "https://bokenjapan.com/tochigi/ashikaga/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "蓮岱館",
+     "name_en": "Rendaikan",
+     "description": "Kaiseki restaurant in Ashikaga founded in Meiji 44, serving seasonal cuisine in private rooms, closed Thursdays except holidays.",
+     "source_url": "http://www.rendaikan.net/",
      "page": "https://bokenjapan.com/tochigi/ashikaga/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -751,7 +791,7 @@
     {
      "name": "ロマンの湯",
      "name_en": "Roman no Yu",
-     "description": "Diner in Haga.",
+     "description": "Diner in Haga, Tochigi.",
      "source_url": "https://tabelog.com/tochigi/A0904/A090401/9014671/",
      "page": "https://bokenjapan.com/tochigi/haga/eat/casual/",
      "category": "Casual"
@@ -1609,6 +1649,14 @@
      "category": "Casual"
     },
     {
+     "name": "食楽処 シャレード",
+     "name_en": "Shokurakudokoro Sharedo",
+     "description": "Restaurant in Kaminokawa serving handmade dishes and fine sake, including local black fried rice, closed on Tuesdays and Wednesdays.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s3115",
+     "page": "https://bokenjapan.com/tochigi/kaminokawa/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "チャーハン専門店 こう米",
      "name_en": "Chahan Ko Kome",
      "description": "Chinese restaurant in Kaminokawa; lunch ¥1,000–¥1,999, dinner ¥1,000–¥1,999.",
@@ -2075,6 +2123,14 @@
      "name_en": "Nikko Coffee Kyo Cha Iori Main Store",
      "description": "Café in Kanuma; lunch ¥1,000–¥1,999.",
      "source_url": "https://tabelog.com/tochigi/A0901/A090102/9000072/",
+     "page": "https://bokenjapan.com/tochigi/kanuma/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Bonsai Cafe",
+     "name_en": "Bonsai Cafe",
+     "description": "Cafe in the octagonal hall of the Kanuma Flower and Tree Center, serving gelato made with strawberries grown on site, coffee and light meals. Open 10:00-15:00 on weekdays and until 15:30 on weekends and holidays; closed Mondays and Thursdays.",
+     "source_url": "https://kaboku.or.jp/publics/index/51/detail=1/b_id=108/r_id=38/",
      "page": "https://bokenjapan.com/tochigi/kanuma/eat/cafe/",
      "category": "Cafe"
     },
@@ -3562,6 +3618,14 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "蕎麦とスイーツ みかど",
+     "name_en": "Soba and Sweets Mikado",
+     "description": "Soba restaurant in Mibu serving pure handmade soba from home-grown, home-milled local flour and handmade sweets, closed on Sundays and Mondays.",
+     "source_url": "https://www.instagram.com/soba1113mikado/",
+     "page": "https://bokenjapan.com/tochigi/mibu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "ミッブタウン",
      "name_en": "Mibbutaun",
      "description": "Restaurant in Mibu; lunch up to ¥999.",
@@ -3855,6 +3919,14 @@
      "category": "Casual"
     },
     {
+     "name": "真岡市まちのお休み処もめん茶屋",
+     "name_en": "Moka-shi Machi no Oyasumidokoro Momen Chaya",
+     "description": "Hamburger restaurant in Moka that serves hamburgers, avocado cheese burgers, and sweets, and is closed on Tuesdays.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s5084",
+     "page": "https://bokenjapan.com/tochigi/moka/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "天竜飯店",
      "name_en": "Tenryu Meshi",
      "description": "Chinese restaurant in Moka; dinner ¥1,000–¥1,999.",
@@ -4007,6 +4079,14 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "讃岐手打ちうどん 丸まさ",
+     "name_en": "Sanuki Teuchi Udon Marumasa",
+     "description": "Udon restaurant in Moka serving Sanuki udon made with iriko, katsuobushi and soy sauce from Kagawa, plus regional sake selected by the owner.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s5014",
+     "page": "https://bokenjapan.com/tochigi/moka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "宇都宮みんみん 真岡店",
      "name_en": "Utsunomiya Minmin Moka",
      "description": "Gyoza restaurant in Moka; lunch up to ¥999, dinner up to ¥999.",
@@ -4095,10 +4175,34 @@
      "category": "Other"
     },
     {
+     "name": "Trattoria COCORO",
+     "name_en": "Trattoria Cocoro",
+     "description": "Italian restaurant in Moka serving French-based creative Italian dishes in a renovated former Kubo-family Western-style house, with takeout; closed Tuesdays.",
+     "source_url": "http://www.kubokinen.net/cocoro/",
+     "page": "https://bokenjapan.com/tochigi/moka/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "古民家食堂 テットグランデ",
+     "name_en": "Kominka Shokudo Tetto Gurande",
+     "description": "Southern European restaurant in Moka serving Italian, Spanish and southern French home cooking in a restored late-Meiji farmhouse, closed Tuesdays and Wednesdays unless those days are holidays.",
+     "source_url": "https://tetto-grande.com/",
+     "page": "https://bokenjapan.com/tochigi/moka/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "田吾作亭",
      "name_en": "Tagosaku-tei",
      "description": "Japanese restaurant in Moka; lunch ¥1,000–¥1,999.",
      "source_url": "https://tabelog.com/tochigi/A0904/A090401/9005750/",
+     "page": "https://bokenjapan.com/tochigi/moka/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "お好み焼ARIGATO",
+     "name_en": "Okonomiyaki Arigato",
+     "description": "Okonomiyaki restaurant in an old back alley in Moka serving okonomiyaki, monjayaki, and handmade drinks, closed Thursdays.",
+     "source_url": "https://www.instagram.com/okonomiyaki_arigato",
      "page": "https://bokenjapan.com/tochigi/moka/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -4139,6 +4243,22 @@
      "name_en": "Beniya Miyake",
      "description": "Japanese sweets shop in Moka.",
      "source_url": "https://tabelog.com/tochigi/A0904/A090401/9015040/",
+     "page": "https://bokenjapan.com/tochigi/moka/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Entre_verite",
+     "name_en": "Antoru Verite",
+     "description": "Sweets shop in Moka offering takeout Western and Japanese confectionery, including baked donuts and summer-only whole peach balls, and closed Mondays except holidays.",
+     "source_url": "https://www.instagram.com/entre_verite_staff/",
+     "page": "https://bokenjapan.com/tochigi/moka/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "寿氷-juhyo- 世界一を目指すかき氷",
+     "name_en": "Juhyo Kakigori Aiming to Be the World's Best",
+     "description": "Shaved-ice shop in Moka serving year-round kakigori with syrup made to order from freshly picked strawberries, open in winter with irregular closing days.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s5078",
      "page": "https://bokenjapan.com/tochigi/moka/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -4229,7 +4349,7 @@
     {
      "name": "HOTEL R9 The Yard 真岡荒町",
      "name_en": "HOTEL R9 The Yard Mokaramachi",
-     "description": "Inn in Moka.",
+     "description": "Inn in the Aramachi area of Moka.",
      "source_url": "https://www.jalan.net/yad386152/",
      "page": "https://bokenjapan.com/tochigi/moka/stay/"
     },
@@ -5238,7 +5358,7 @@
     {
      "name": "栃木 那須 馬頭温泉郷 南平台温泉ホテル",
      "name_en": "Tochigi Nasu Mezu Onsen Sato Nanpeidai Onsen Hotel",
-     "description": "Onsen hotel in Bato Onsen, Nakagawa.",
+     "description": "Onsen hotel in the Bato Onsen area of Nakagawacho.",
      "source_url": "https://www.jalan.net/yad369995/",
      "page": "https://bokenjapan.com/tochigi/nakagawacho/stay/"
     },
@@ -6325,7 +6445,7 @@
     {
      "name": "悠久の宿 別邸 蜉蝣の月",
      "name_en": "Yukyu no Yado Bettei Kagero no Gatsu",
-     "description": "Private seven-room inn in Yumoto, Nasu Onsen.",
+     "description": "Private seven-room inn at Yumoto, Nasumachi.",
      "source_url": "https://www.ikyu.com/00002876/",
      "page": "https://bokenjapan.com/tochigi/nasumachi/stay/"
     },
@@ -6339,14 +6459,14 @@
     {
      "name": "那須別邸 回",
      "name_en": "Nasubettei Kai",
-     "description": "All-suite inn with 10 rooms on a 2,000-tsubo site in Yumoto, Nasu.",
+     "description": "All-suite inn with 10 rooms on a 2,000-tsubo site at Yumoto, Nasumachi.",
      "source_url": "https://www.ikyu.com/00001830/",
      "page": "https://bokenjapan.com/tochigi/nasumachi/stay/"
     },
     {
      "name": "ホテル四季の館那須",
      "name_en": "Hotel Shiki-no-kan Nasu",
-     "description": "Auberge in Nasu serving French cuisine with seasonal Nasu ingredients.",
+     "description": "Auberge in Nasumachi serving French cuisine with seasonal Nasu ingredients.",
      "source_url": "https://www.ikyu.com/00002530/",
      "page": "https://bokenjapan.com/tochigi/nasumachi/stay/"
     },
@@ -6360,7 +6480,7 @@
     {
      "name": "ホテルハーヴェスト那須",
      "name_en": "Hotel Havesuto Nasu",
-     "description": "Resort hotel beside the imperial villa in Nasu, with a golf course.",
+     "description": "Resort hotel beside the imperial villa in Nasumachi, with a golf course.",
      "source_url": "https://www.ikyu.com/00001611/",
      "page": "https://bokenjapan.com/tochigi/nasumachi/stay/"
     },
@@ -6374,7 +6494,7 @@
     {
      "name": "NOTE/NASU",
      "name_en": "NOTE NASU",
-     "description": "Small seven-room hotel in Yumoto, Nasu.",
+     "description": "Small seven-room hotel at Yumoto, Nasumachi.",
      "source_url": "https://www.ikyu.com/00031105/",
      "page": "https://bokenjapan.com/tochigi/nasumachi/stay/"
     },
@@ -6388,7 +6508,7 @@
     {
      "name": "ホテル・フロラシオン那須",
      "name_en": "Hotel Furorashion Nasu",
-     "description": "Hotel in Takaku, Nasu.",
+     "description": "Hotel in Takaku, Nasumachi.",
      "source_url": "https://www.ikyu.com/00000509/",
      "page": "https://bokenjapan.com/tochigi/nasumachi/stay/"
     },
@@ -6402,7 +6522,7 @@
     {
      "name": "那須 無垢の音",
      "name_en": "Nasu Muku no Oto",
-     "description": "Forest resort in Takaku, Nasu.",
+     "description": "Forest resort in Takaku, Nasumachi.",
      "source_url": "https://www.ikyu.com/00003193/",
      "page": "https://bokenjapan.com/tochigi/nasumachi/stay/"
     }
@@ -6552,6 +6672,30 @@
      "category": "Cafe"
     },
     {
+     "name": "榮太楼",
+     "name_en": "Eitaro",
+     "description": "Sweets cafe in Nasushiobara, founded in 1926, offering salty walnut monaka and also recommending tote-yaki and shimotsu curry, with irregular closing days.",
+     "source_url": "https://ankotarou8181.com/",
+     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "鈴木屋 SUZUの森 cafe",
+     "name_en": "Suzukiya Suzu no Mori Cafe",
+     "description": "Cafe in Shiobara Onsen, a Nordic-style riverside terrace cafe with Tochiotome dishes including tote-yaki and house-made sansho tsukudani.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s2421",
+     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "しおばら千二百年物語／BLESS",
+     "name_en": "Shiobara Sennihyakunen Monogatari / BLESS",
+     "description": "Cafe in Nasushiobara themed on Shiobara Onsen, comprising a tea room, sweets room, and sake room, with no fixed closing day.",
+     "source_url": "http://shiobara1200.com/",
+     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "手打 焔",
      "name_en": "Teuchi Hono",
      "description": "Ramen shop in Nasushiobara; lunch up to ¥999, dinner up to ¥999.",
@@ -6668,6 +6812,22 @@
      "name_en": "Kadoya",
      "description": "Soba restaurant in Nasushiobara; lunch up to ¥999.",
      "source_url": "https://tabelog.com/tochigi/A0905/A090501/9004362/",
+     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "そば処 やしお",
+     "name_en": "Sobadokoro Yashio",
+     "description": "Soba restaurant in Nasushiobara serving handmade Tochigi soba, walnut-sesame sauce soba and karami-daikon oroshi soba, plus yuba, wild vegetables and iwana, closed Tuesdays.",
+     "source_url": "https://www.nasuyashiosoba.com/",
+     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "そば八",
+     "name_en": "Soba Hachi",
+     "description": "Soba restaurant five minutes on foot from Momijidani Great Suspension Bridge, recommending hitasashi soba and motsu-ni; closed on Wednesdays in winter only.",
+     "source_url": "https://sobahachi.net/",
      "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/noodles/",
      "category": "Japanese (noodles)"
     },
@@ -6836,6 +6996,22 @@
      "name_en": "Senbon Matsu Bokujo Bai",
      "description": "Gelato shop in Nasushiobara; dinner up to ¥999.",
      "source_url": "https://tabelog.com/tochigi/A0905/A090501/9013594/",
+     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "森の中のお野菜レストラン クオーレデルソル",
+     "name_en": "Vegetable Restaurant in the Forest Kuore Deru Soru",
+     "description": "Vegetarian Italian restaurant in Nasushiobara serving local organic Italian food and sweets with no animal products, chemical seasonings, or additives, closed Thursdays and Fridays.",
+     "source_url": "https://www.cuore-delsol.com/",
+     "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "アグリパル塩原",
+     "name_en": "Aguriparu Shiobara",
+     "description": "Rural restaurant in a facility at the gateway to Shiobara Onsen, with a produce direct-sales shop.",
+     "source_url": "http://agripal-shiobara.com/",
      "page": "https://bokenjapan.com/tochigi/nasushiobara/eat/other/",
      "category": "Other"
     },
@@ -7521,7 +7697,7 @@
     {
      "name": "HOTEL R9 The Yard 那須塩原",
      "name_en": "HOTEL R9 The Yard Nasushiobara",
-     "description": "HOTEL R9 The Yard Nasushiobara is a hotel in Nishimishima, Nasushiobara.",
+     "description": "Hotel in Nishimishima, Nasushiobara.",
      "source_url": "https://www.jalan.net/yad311114/",
      "page": "https://bokenjapan.com/tochigi/nasushiobara/stay/"
     },
@@ -7775,10 +7951,66 @@
      "category": "Cafe"
     },
     {
+     "name": "ギャラリーカフェ Painto E",
+     "name_en": "Gallery Cafe Pantoe",
+     "description": "Gallery cafe about 3 minutes on foot from Kinugawa-Onsen Station serving a HIMITSU pork chashu sandwich, handmade meals, and freshly brewed coffee, closed Wednesdays.",
+     "source_url": "https://paintoe-kinugawa.com/",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "（有）わらく茶屋 茶迎館",
+     "name_en": "Yugen Gaisha Waraku Chaya Chageikan",
+     "description": "Tea shop in Nikko made by a tea seller, serving tea with tamari-pickled daikon and beans and selling revolving kyusu and Mashiko ware; closed irregularly.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s5736",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "キヌガワコーヒー",
+     "name_en": "Kinugawa Coffee",
+     "description": "Cafe inside Kinugawa Okashi no Shiro serving coffee, espresso, sweets and light meals such as pizza, closed only on New Year's Day.",
+     "source_url": "https://www.nikko-okashinoshiro.com/kinugawacoffee",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Aru de Coco",
+     "name_en": "Aru de Coco",
+     "description": "Bakery cafe in Nikko, just off the cedar avenue of the Reheishi Kaido, serving house-roasted coffee, natural-yeast bread, and seasonal cakes; closed Sundays and Mondays.",
+     "source_url": "https://www.instagram.com/aru_de_coco/",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe&Diningbar 珈茶話 kashiwa",
+     "name_en": "Cafe & Dining Bar Kashiwa",
+     "description": "Cafe in Imaichi serving roasted coffee, tea, Nikko Cola, cakes, and shaved ice, with monthly live music. Closed every Wednesday.",
+     "source_url": "http://www.kashiwa.cc/",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "日光珈琲 西参道",
+     "name_en": "Nikko Coffee Nishisando",
+     "description": "Cafe in Yasukawacho, opened in March 2020, serving coffee, summer natural-ice shaved ice, and wagyu manju from mid-October. Closed Fridays.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s6114",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "眺遊楼",
      "name_en": "Cho Yu Ro",
      "description": "Chinese restaurant in Nikko; dinner ¥15,000–¥19,999.",
      "source_url": "https://tabelog.com/tochigi/A0903/A090302/9023998/",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "栄山",
+     "name_en": "Eizan",
+     "description": "Chinese restaurant in Ashio whose owner trained for over 10 years in Akasaka, Tokyo. Closed Thursdays and December 30 to January 2.",
+     "source_url": "https://r.goope.jp/eizan/about",
      "page": "https://bokenjapan.com/tochigi/nikko/eat/chinese-asian/",
      "category": "Chinese & Asian"
     },
@@ -7823,6 +8055,38 @@
      "category": "European"
     },
     {
+     "name": "レストラン まこ",
+     "name_en": "Restaurant Mako",
+     "description": "Western restaurant in an old-fashioned brick building in Nikko serving handmade Western dishes, closed Tuesdays except holidays.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s7957",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "トラットリアカミーノ",
+     "name_en": "Torattoria Kamino",
+     "description": "Italian restaurant about 10 minutes on foot from Kinugawa Onsen Station serving stone-oven pizza and seasonal pasta, closed Wednesdays unless a holiday.",
+     "source_url": "https://camino.gorp.jp/",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "カフェレストラン ふじもと",
+     "name_en": "Cafe Restaurant Fujimoto",
+     "description": "Cafe restaurant inside Nikko Fudoen, near the World Heritage shrines and temples, where a French chef cooks with local ingredients. Closed Wednesdays.",
+     "source_url": "https://www.meiji-yakata.com/ja/fujimoto/",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "カテッジイン・レストラン",
+     "name_en": "Katejjiin Restaurant",
+     "description": "Restaurant in Nikko adjacent to the Kanaya Hotel History Museum, serving dishes made with Kanaya Hotel Bakery bread, breakfast sets, lunch plates, and three curries.",
+     "source_url": "http://nikko-kanaya-history.jp/restaurant/",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "バウムクーヘン工房 はちや",
      "name_en": "Baumukuhen Kobo Hachiya",
      "description": "Bar in Nikko; lunch ¥1,000–¥1,999, dinner ¥1,000–¥1,999.",
@@ -7847,6 +8111,14 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "栃木地酒館 登屋本店",
+     "name_en": "Tochigi Jizakekan Noboruya Honten",
+     "description": "Sake bar in Kinugawa Onsen offering comparison tastings of 30 or more Tochigi local sakes, closed every Wednesday.",
+     "source_url": "https://www.noboruya.jp/",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "とんかつ あづま",
      "name_en": "Tonkatsu Azuma",
      "description": "Tonkatsu restaurant in Nikko; lunch ¥2,000–¥2,999, dinner ¥2,000–¥2,999.",
@@ -7859,6 +8131,30 @@
      "name_en": "Katsu Izumi",
      "description": "Tonkatsu restaurant in Nikko; lunch ¥2,000–¥2,999, dinner ¥2,000–¥2,999.",
      "source_url": "https://tabelog.com/tochigi/A0903/A090302/9007707/",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "ステーキハウスみはし",
+     "name_en": "Steak House Mihashi",
+     "description": "Steakhouse in Nikko, beside Shinkyo Bridge and in front of Kanaya Hotel, that serves beefsteak and is closed on Thursdays.",
+     "source_url": "http://www.meiji-yakata.com/mihashi/",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "焼肉 山道",
+     "name_en": "Yakiniku Yamamichi",
+     "description": "Yakiniku restaurant in Yunishigawa, Nikko serving yakiniku, ramen, rice bowls, venison steak and sashimi, stone-grilled bibimbap, and wild char and yamame, closed on Wednesdays.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s5591",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "manten chicken grill nikko",
+     "name_en": "Manten Chicken Grill Nikko",
+     "description": "Chicken grill on Nishi-sando, opened in March 2020, serving charcoal-grilled chicken with Nikko soy sauce and koji, salad, grilled rice balls, and lemonade, closed on Thursdays.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s6071",
      "page": "https://bokenjapan.com/tochigi/nikko/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -7915,6 +8211,62 @@
      "name_en": "Soba Kobo Okage",
      "description": "Soba restaurant in Nikko; lunch up to ¥999.",
      "source_url": "https://tabelog.com/tochigi/A0903/A090301/9018389/",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "日光そば処 たくみ庵",
+     "name_en": "Nikko Sobadokoro Takumi-an",
+     "description": "Soba restaurant in Nikko that serves seasonal soba made with local vegetables and yuba, plus soba sweets, and is closed on Tuesdays or the next day if Tuesday is a holiday.",
+     "source_url": "https://www.instagram.com/takumian_the_3rd/",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "野州そば処 いなりや",
+     "name_en": "Yashu Sobadokoro Inariya",
+     "description": "Soba restaurant on the shore of Lake Chuzenji serving soba made from Kanuma buckwheat flour with broth from saba-bushi, honbushi, and Rishiri kelp.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s5962",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "ゆばそば日光もみぢ庵",
+     "name_en": "Yuba Soba Nikko Momiji-an",
+     "description": "Soba restaurant near Nikko Sannai serving yuba-focused soba and udon, close to Toshogu, closed Mondays and Fridays.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s6103",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "和風らぁめん いかり",
+     "name_en": "Wafu Ramen Ikari",
+     "description": "Ramen restaurant in Kawaji Onsen serving soy-based ramen with slightly thin curly noodles, plus Japanese and Western dishes and fried chicken, closed Wednesdays and Thursdays (days off may vary).",
+     "source_url": "https://www.tochigiji.or.jp/spot/s12507",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "そば処 瀬戸合峡",
+     "name_en": "Soba Dokoro Setoaikyo",
+     "description": "Soba restaurant in Nikko serving traditional soba and maitake rice. Closed on irregular days.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s7442",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "茶そばの店 やぶ定",
+     "name_en": "Chasoba no Mise Yabusada",
+     "description": "Chasoba restaurant in Imaichi, Nikko, founded in 1911, kneading soba with local water and Uji matcha from Koyamaen in Kyoto, closed one irregular day a month.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s6409",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "かんまんの茶屋",
+     "name_en": "Kanman no Chaya",
+     "description": "Soba teahouse in Nikko serving miso-dare soba dumplings, where local spring water brings out the flavor of unhulled buckwheat; closed Wednesdays.",
+     "source_url": "http://www.nikko-kanmangafuchi.com/",
      "page": "https://bokenjapan.com/tochigi/nikko/eat/noodles/",
      "category": "Japanese (noodles)"
     },
@@ -8023,6 +8375,22 @@
      "category": "Other"
     },
     {
+     "name": "竜王峡食堂",
+     "name_en": "Ryuokyo Shokudo",
+     "description": "Cafeteria in Nikko beside the great torii at the entrance to Ryuokyo National Park, serving homemade chashu, soba, and summer-only natural shaved ice, with irregular closing days.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s5744",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "ないとう食堂",
+     "name_en": "Naito Shokudo",
+     "description": "Shokudo in Ashio serving Chinese noodles, Chinese set meals, and Japanese rice bowls. Closed Thursdays.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s7618",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "日本料理 by ザ・リッツ・カールトン日光",
      "name_en": "Nippon Cuisine by Za Rittsu Karuton Nikko",
      "description": "Japanese restaurant in Nikko; lunch ¥8,000–¥9,999, dinner ¥20,000–¥29,999.",
@@ -8035,6 +8403,62 @@
      "name_en": "Yamauchi Charyo Omitsu Bo",
      "description": "Japanese restaurant in Nikko; lunch ¥2,000–¥2,999.",
      "source_url": "https://tabelog.com/tochigi/A0903/A090301/9021900/",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "食堂すゞき",
+     "name_en": "Shokudo Suzuki",
+     "description": "Shokudo in Nikko serving creative yuba dishes, Italian and Chinese dishes, and set meals including Waton Mochibuta pork, closed Wednesdays and one irregular day a month.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s6295",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "油源",
+     "name_en": "Aburagen",
+     "description": "Ekiben (station-bento) shop in Nikko, founded in Ansei 6 of the Edo period, selling yuba chirashi bento and simmered young sansho leaves, with in-shop dining; closed Wednesdays.",
+     "source_url": "http://www.aburagen.jp/index.html",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "和風レストラン こだか",
+     "name_en": "Japanese-style Restaurant Kodaka",
+     "description": "Japanese restaurant serving yuba gozen, soba, and salt-grilled river fish, about 3 minutes on foot from Kinugawa-Onsen Station, with irregular closing days.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s5735",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "ゆば御膳みやざき",
+     "name_en": "Yuba Gozen Miyazaki",
+     "description": "Yuba-gozen restaurant along the Kinugawa gorge serving the proprietress's handmade yuba dishes made with selected Nikko yuba.",
+     "source_url": "https://www.hotelnikko-kinugawainnmiyasaki.jp/",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "つるや",
+     "name_en": "Tsuruya",
+     "description": "Japanese restaurant about 1 minute on foot from Kinugawa-Onsen Station serving the Kinuhime set of maitake tempura and mixed rice, plus yuba sashimi and soba, closed on Tuesdays.",
+     "source_url": "https://www.kinugawa-tsuruya.com/",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "めし処 龍王",
+     "name_en": "Meshidokoro Ryuo",
+     "description": "Japanese restaurant at the entrance to the Ryuokyo nature walking path serving ayu set meals, fresh yuba, yuba soba, homemade motsu stew, and shaved ice made with Nikko natural ice.",
+     "source_url": "http://kinugawa-ryuo.com/index.html",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "日本料理 日光 高井家",
+     "name_en": "Japanese Cuisine Nikko Takaiya",
+     "description": "Japanese restaurant in Nikko serving local yuba dishes in private rooms by an Edo-period moss garden near the World Heritage shrines and temples; founded in 1805, reservation only.",
+     "source_url": "http://www.nikko-takaiya.jp/",
      "page": "https://bokenjapan.com/tochigi/nikko/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -8067,6 +8491,14 @@
      "name_en": "Meiji no-kan Cake Shop",
      "description": "Cake shop in Nikko; lunch up to ¥999, dinner up to ¥999.",
      "source_url": "https://tabelog.com/tochigi/A0903/A090301/9000398/",
+     "page": "https://bokenjapan.com/tochigi/nikko/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "てんとう虫",
+     "name_en": "Tentomushi",
+     "description": "Crepe shop in Nikko offering customizable sweet crepes (fresh cream, chocolate, fruit, fruit sauce) and salad crepes (lettuce, ham, cheese), currently takeout only.",
+     "source_url": "https://www.facebook.com/Tentoumushimushi",
      "page": "https://bokenjapan.com/tochigi/nikko/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -9032,7 +9464,7 @@
     {
      "name": "NIKKO TEN STAY",
      "name_en": "NIKKO TEN STAY",
-     "description": "NIKKO TEN STAY is lodging in Hagigakimen, Nikko.",
+     "description": "Lodging in Hagigakimen, Nikko.",
      "source_url": "https://www.jalan.net/yad329622/",
      "page": "https://bokenjapan.com/tochigi/nikko/stay/"
     },
@@ -9319,7 +9751,7 @@
     {
      "name": "ＺＥＮ ＲＥＳＯＲＴ ＮＩＫＫＯ",
      "name_en": "ZEN RESORT NIKKO",
-     "description": "ZEN RESORT NIKKO is a resort in Chugushi, Nikko, in the Oku-Nikko area.",
+     "description": "Resort in Chugushi, Nikko, in the Oku-Nikko area.",
      "source_url": "https://www.jalan.net/yad315745/",
      "page": "https://bokenjapan.com/tochigi/nikko/stay/"
     },
@@ -9410,7 +9842,7 @@
     {
      "name": "和朗庵",
      "name_en": "Kazuo-an",
-     "description": "Kazuo-an is a renovated condominium in Shimomato, Ashio, Nikko.",
+     "description": "Renovated condominium lodging in the Ashio area of Nikko.",
      "source_url": "https://www.jalan.net/yad381221/",
      "page": "https://bokenjapan.com/tochigi/nikko/stay/"
     },
@@ -9655,7 +10087,7 @@
     {
      "name": "足尾の宿 かじか",
      "name_en": "Sokubi no Yado Kajika",
-     "description": "Sokubi no Yado Kajika is an inn among greenery in Ginzan-daira, Ashio, Nikko.",
+     "description": "Inn among greenery at Ginzan-daira in the Ashio area of Nikko.",
      "source_url": "https://www.jalan.net/yad368037/",
      "page": "https://bokenjapan.com/tochigi/nikko/stay/"
     },
@@ -10475,6 +10907,14 @@
      "category": "Other"
     },
     {
+     "name": "美酒佳肴 荒喜家",
+     "name_en": "Bishu Kako Arakiya",
+     "description": "Kappo restaurant in Otawara founded in 1904, serving Chinese soba and other lunches by day and kaiseki with local sake at night, closed Mondays.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s4454",
+     "page": "https://bokenjapan.com/tochigi/otawara/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "なまけもののパン屋",
      "name_en": "Namakemono no Bread-ya",
      "description": "Bakery in Otawara.",
@@ -10811,7 +11251,7 @@
     {
      "name": "HOTEL R9 The Yard 大田原",
      "name_en": "HOTEL R9 The Yard Otawara",
-     "description": "HOTEL R9 The Yard Otawara is a hotel in Fujimi, Otawara.",
+     "description": "Hotel in Fujimi, Otawara.",
      "source_url": "https://www.jalan.net/yad356841/",
      "page": "https://bokenjapan.com/tochigi/otawara/stay/"
     },
@@ -10839,7 +11279,7 @@
     {
      "name": "ホテルタマノ",
      "name_en": "Hotel Tamano",
-     "description": "Hotel Tamano in Nozaki, Otawara has wired LAN and Wi-Fi in all rooms and large parking, near Nozaki industrial park and Nasu.",
+     "description": "Hotel at Nozaki, Otawara, with wired LAN and Wi-Fi in all rooms and large parking, near Nozaki industrial park.",
      "source_url": "https://www.jalan.net/yad327639/",
      "page": "https://bokenjapan.com/tochigi/otawara/stay/"
     },
@@ -10867,7 +11307,7 @@
     {
      "name": "NASU SATOYAMA FIELD",
      "name_en": "NASU SATOYAMA FIELD",
-     "description": "NASU SATOYAMA FIELD is a lodging facility in Yuzukami, Otawara.",
+     "description": "Lodging facility in Yuzukami, Otawara.",
      "source_url": "https://www.jalan.net/yad372317/",
      "page": "https://bokenjapan.com/tochigi/otawara/stay/"
     },
@@ -11026,6 +11466,14 @@
      "name_en": "Kaki Kori Cafe Symphony",
      "description": "Restaurant in Oyama.",
      "source_url": "https://tabelog.com/tochigi/A0902/A090203/9020264/",
+     "page": "https://bokenjapan.com/tochigi/oyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "CAFE FUJINUMA",
+     "name_en": "Cafe Fujinuma",
+     "description": "Cafe in Oyama serving coffee available for takeout, open year-round.",
+     "source_url": "http://cafefujinuma.com/",
      "page": "https://bokenjapan.com/tochigi/oyama/eat/cafe/",
      "category": "Cafe"
     },
@@ -11206,6 +11654,14 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "安田製麺所（お食事処安田）",
+     "name_en": "Yasuda Seimenjo (Oshokujidokoro Yasuda)",
+     "description": "Noodle restaurant in Oyama serving a menu centered on local produce, with over 100 years of noodle-making; closed Mondays.",
+     "source_url": "https://www.tochinavi.net/spot/home/?id=13947",
+     "page": "https://bokenjapan.com/tochigi/oyama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "ビストロ オチアイ",
      "name_en": "Bistro Ochiai",
      "description": "Bistro in Oyama.",
@@ -11270,6 +11726,14 @@
      "category": "Other"
     },
     {
+     "name": "ビストロポワブル",
+     "name_en": "Bistro Powaburu",
+     "description": "French bistro in Oyama serving creative French dishes and hayashi rice topped with wagyu steak; closed Mondays, or the next Tuesday if Monday is a holiday.",
+     "source_url": "https://bistropoivre.com/",
+     "page": "https://bokenjapan.com/tochigi/oyama/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "新八",
      "name_en": "Shinpachi",
      "description": "Japanese restaurant in Oyama; dinner ¥4,000–¥4,999.",
@@ -11294,6 +11758,14 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "なまずのたたきだんご",
+     "name_en": "Namazu no Tataki Dango",
+     "description": "Catfish restaurant in Oyama serving the local dish namazu no tataki dango, closed Wednesdays with advance reservation required.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s7628",
+     "page": "https://bokenjapan.com/tochigi/oyama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "森のパン屋",
      "name_en": "Mori no Bread-ya",
      "description": "Bakery in Oyama; lunch ¥1,000–¥1,999, dinner ¥1,000–¥1,999.",
@@ -11314,6 +11786,14 @@
      "name_en": "Ichigo Hiyori Ri",
      "description": "Sweets shop in Oyama; lunch up to ¥999.",
      "source_url": "https://tabelog.com/tochigi/A0902/A090203/9019758/",
+     "page": "https://bokenjapan.com/tochigi/oyama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Clione+",
+     "name_en": "Clione+",
+     "description": "Patisserie in Oyama with an eat-in cafe space and parking, selling cakes, macarons, ice cream, parfaits and baked goods, including pastries made with Tochigi strawberries. Open 10:00-19:00, closed Tuesdays.",
+     "source_url": "https://clioneplus.com",
      "page": "https://bokenjapan.com/tochigi/oyama/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -11588,7 +12068,7 @@
     {
      "name": "ＨＯＴＥＬ Ｒ９ Ｔｈｅ Ｙａｒｄ 小山天神",
      "name_en": "HOTEL R9 The Yard Oyamatenjin",
-     "description": "HOTEL R9 The Yard Oyamatenjin is a hotel in Tenjin-cho, Oyama.",
+     "description": "Hotel in Tenjin-cho, Oyama.",
      "source_url": "https://www.jalan.net/yad395193/",
      "page": "https://bokenjapan.com/tochigi/oyama/stay/"
     },
@@ -11644,14 +12124,14 @@
     {
      "name": "ＨＯＴＥＬ Ｒ９ Ｔｈｅ Ｙａｒｄ 小山喜沢",
      "name_en": "HOTEL R9 The Yard Oyamakisawa",
-     "description": "HOTEL R9 The Yard Oyamakisawa is a hotel in Kisawa, Oyama.",
+     "description": "Hotel in Kisawa, Oyama.",
      "source_url": "https://www.jalan.net/yad387223/",
      "page": "https://bokenjapan.com/tochigi/oyama/stay/"
     },
     {
      "name": "ＨＯＴＥＬ Ｒ９ Ｔｈｅ Ｙａｒｄ 小山横倉",
      "name_en": "HOTEL R9 The Yard Oyamayokokura",
-     "description": "HOTEL R9 The Yard Oyamayokokura is a hotel in Yokokura, Oyama.",
+     "description": "Hotel in Yokokura, Oyama.",
      "source_url": "https://www.jalan.net/yad332855/",
      "page": "https://bokenjapan.com/tochigi/oyama/stay/"
     }
@@ -12539,7 +13019,7 @@
     {
      "name": "HOTEL R9 The Yard さくら",
      "name_en": "HOTEL R9 The Yard Sakura",
-     "description": "HOTEL R9 The Yard Sakura is a hotel in Baba, Sakura.",
+     "description": "Hotel at Baba, Sakurashi.",
      "source_url": "https://www.jalan.net/yad383534/",
      "page": "https://bokenjapan.com/tochigi/sakurashi/stay/"
     },
@@ -12967,6 +13447,30 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "永華 佐野店",
+     "name_en": "Eika Sano Shop",
+     "description": "Ramen restaurant serving Sano ramen and Sano gyoza, closed Mondays and busy on Saturdays, Sundays and holidays.",
+     "source_url": "http://w01.tp1.jp/~a187082417/profile9.html",
+     "page": "https://bokenjapan.com/tochigi/sano/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "佐野やつや",
+     "name_en": "Sano Yatsuya",
+     "description": "Ramen restaurant in Sano serving green-bamboo hand-made ramen and gyoza with handmade skins and fillings, closed Mondays.",
+     "source_url": "http://s-yatsuya.com/",
+     "page": "https://bokenjapan.com/tochigi/sano/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "青竹手打ち佐野らーめん 萬（Ｂａｎ）",
+     "name_en": "Aotake Teuchi Sano Ramen Ban",
+     "description": "Ramen restaurant in Sano serving pure handmade green-bamboo ramen since 1962; closed Tuesdays.",
+     "source_url": "https://sanoramenkai.jp/ban/",
+     "page": "https://bokenjapan.com/tochigi/sano/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "ジェラート倶楽部",
      "name_en": "Gelato Kurabu",
      "description": "Gelato shop in Sano; lunch up to ¥999, dinner up to ¥999.",
@@ -13215,7 +13719,7 @@
     {
      "name": "ＨＯＴＥＬ Ｒ９ Ｔｈｅ Ｙａｒｄ 佐野天神",
      "name_en": "HOTEL R9 The Yard Sanotenjin",
-     "description": "HOTEL R9 The Yard Sanotenjin is a hotel in Tenjin-cho, Sano.",
+     "description": "Hotel in Tenjin-cho, Sano.",
      "source_url": "https://www.jalan.net/yad303552/",
      "page": "https://bokenjapan.com/tochigi/sano/stay/"
     },
@@ -13413,6 +13917,22 @@
      "name_en": "Foru Obu Za Rifu",
      "description": "Café in Shimotsuke; lunch ¥1,000–¥1,999.",
      "source_url": "https://tabelog.com/tochigi/A0902/A090203/9019443/",
+     "page": "https://bokenjapan.com/tochigi/shimotsuke/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "おとなに向けた隠れ家カフェrust",
+     "name_en": "Hideaway Cafe Rust",
+     "description": "Cafe in a residential area of Shimotsuke serving house-roasted coffee, homemade cakes, and light minced-meat curry, plus leather wallets and accessories, closed on Wednesdays and Thursdays.",
+     "source_url": "https://www.instagram.com/rust.at/",
+     "page": "https://bokenjapan.com/tochigi/shimotsuke/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "10 picnic tables（古民家「夜明け前」）",
+     "name_en": "10 Picnic Tables (Old House Yoake Mae)",
+     "description": "Cafe in a renovated old farmhouse in Shimotsuke, with creative Italian deli dishes, bento, coffee and sweets for picnics at Tenpyo no Oka Park. Closed the third Wednesday.",
+     "source_url": "https://www.tenpyopark.com/",
      "page": "https://bokenjapan.com/tochigi/shimotsuke/eat/cafe/",
      "category": "Cafe"
     },
@@ -14464,6 +14984,14 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "高根沢ちゃんぽん",
+     "name_en": "Takanezawa Champon",
+     "description": "Champon restaurant in Takanezawa serving Nagasaki champon noodles in a mild green soup of komatsuna paste and rich soy milk with local vegetables, closed on Thursdays.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s3044",
+     "page": "https://bokenjapan.com/tochigi/takanezawa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "ローストポークわん",
      "name_en": "Rosutopoku Wan",
      "description": "Restaurant in Takanezawa; lunch ¥1,000–¥1,999, dinner ¥1,000–¥1,999.",
@@ -14620,7 +15148,7 @@
     {
      "name": "GOOD DAYS INN",
      "name_en": "GOOD DAYS INN",
-     "description": "GOOD DAYS INN is in Kami-Kashiwazaki, Takanezawa.",
+     "description": "Inn in Kami-Kashiwazaki, Takanezawa.",
      "source_url": "https://www.jalan.net/yad333683/",
      "page": "https://bokenjapan.com/tochigi/takanezawa/stay/"
     }
@@ -14706,6 +15234,14 @@
      "category": "Cafe"
     },
     {
+     "name": "物華 工藝と喫茶",
+     "name_en": "Bukka Kogei to Kissa",
+     "description": "Cafe in Kaemon-cho serving coffee, tea and handmade sweets in a renovated storehouse over 100 years old, closed Wednesdays with occasional temporary closures.",
+     "source_url": "https://bucca.jp/",
+     "page": "https://bokenjapan.com/tochigi/tochigi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "菜嘉村",
      "name_en": "Na Kamura",
      "description": "Diner in Tochigi; lunch up to ¥999.",
@@ -14754,6 +15290,14 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "中華遊楽酒房 こまどり樓",
+     "name_en": "Chuka Yuraku Shubo Komadori-ro",
+     "description": "Chinese restaurant in Tochigi City serving yugao ramen and spicy garlic-chive yugao soba made with kanpyo-powder noodles, closed Mondays or the next day on holidays.",
+     "source_url": "https://akr2338533094.owst.jp/",
+     "page": "https://bokenjapan.com/tochigi/tochigi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "赤城亭",
      "name_en": "Akagi-tei",
      "description": "Yoshoku (Western-style) restaurant in Tochigi; lunch ¥1,000–¥1,999, dinner ¥1,000–¥1,999.",
@@ -14774,6 +15318,14 @@
      "name_en": "Yamato Pizza",
      "description": "Pizzeria in Tochigi; lunch ¥1,000–¥1,999, dinner ¥1,000–¥1,999.",
      "source_url": "https://tabelog.com/tochigi/A0902/A090201/9017195/",
+     "page": "https://bokenjapan.com/tochigi/tochigi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "蔵のビストロ いち井",
+     "name_en": "Kura no Bistro Ichii",
+     "description": "Bistro in a renovated Meiji-era storehouse in Tochigi, opened in April 2024. Closed every Wednesday.",
+     "source_url": "https://ichii1974.foodre.jp/",
      "page": "https://bokenjapan.com/tochigi/tochigi/eat/european/",
      "category": "European"
     },
@@ -14946,6 +15498,38 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "岩本屋",
+     "name_en": "Iwamotoya",
+     "description": "Soba restaurant in Tochigi City serving Izuru soba and the Tochigi Edo dish soba-inari, closed Fridays.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s3246",
+     "page": "https://bokenjapan.com/tochigi/tochigi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "もみじ庵",
+     "name_en": "Momiji-an",
+     "description": "Soba restaurant in Tochigi City serving handmade soba, yakitori, dango and tamagoyaki, with views from Mount Taihei.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s3287",
+     "page": "https://bokenjapan.com/tochigi/tochigi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "日乃出家",
+     "name_en": "Hinodeya",
+     "description": "Soba restaurant in Tochigi City overlooking the Kanto Plain, serving handmade prayer soba and three specialties, with sign-language service available, closed on Mondays.",
+     "source_url": "https://ameblo.jp/hinodeya-kenshin",
+     "page": "https://bokenjapan.com/tochigi/tochigi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "好古壱番館",
+     "name_en": "Koko Ichibankan",
+     "description": "Soba restaurant in a renovated Taisho-era Western-style building in Tochigi, serving handmade soba set menus with local ingredients and gobo mochi. Closed Tuesdays (open on holidays).",
+     "source_url": "https://www.tochigiji.or.jp/spot/s3394",
+     "page": "https://bokenjapan.com/tochigi/tochigi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "肉のふきあげ",
      "name_en": "Niku Nofukiage",
      "description": "Restaurant in Tochigi; lunch ¥2,000–¥2,999, dinner ¥6,000–¥7,999.",
@@ -15006,6 +15590,22 @@
      "name_en": "Patisserie SOIR",
      "description": "Cake shop in Tochigi.",
      "source_url": "https://tabelog.com/tochigi/A0902/A090201/9003552/",
+     "page": "https://bokenjapan.com/tochigi/tochigi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "蔵の菓 栃木本店",
+     "name_en": "Kura no Ka Tochigi Main Shop",
+     "description": "Sweets shop beside the north exit of JR Tochigi Station in a renovated 80-year-old Oya-stone warehouse, selling baumkuchen, kanpyo sweets and house-roasted coffee beans, and open daily.",
+     "source_url": "https://otomeya.co.jp/kurano-ka/",
+     "page": "https://bokenjapan.com/tochigi/tochigi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "武平作だんご 栃木駅前店",
+     "name_en": "Buheisaku Dango Tochigi Ekimae Ten",
+     "description": "Dango shop immediately outside Tochigi Station, steaming and pounding non-glutinous rice dango morning and noon for over 50 years, open daily.",
+     "source_url": "https://buheisaku.com/",
      "page": "https://bokenjapan.com/tochigi/tochigi/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -15256,7 +15856,7 @@
     {
      "name": "FAIREAT 栃木ヶ丘ゴルフ倶楽部",
      "name_en": "FAIREAT Tochigi Ke Oka Gorufu Kurabu",
-     "description": "FAIREAT Tochigi Ke Oka Gorufu Kurabu in Tochigi is golf-course lodging limited to one group per day.",
+     "description": "Golf-course lodging in Tochigi, limited to one group per day.",
      "source_url": "https://www.ikyu.com/00052690/",
      "page": "https://bokenjapan.com/tochigi/tochigi/stay/"
     },
@@ -15284,14 +15884,14 @@
     {
      "name": "business＆activity chanvre(ホテル シャンブル)",
      "name_en": "business&activity chanvre Hotel Shanburu",
-     "description": "business&activity chanvre Hotel Shanburu is a hotel zero minutes on foot from Tochigi Station.",
+     "description": "Hotel next to Tochigi Station.",
      "source_url": "https://www.jalan.net/yad310238/",
      "page": "https://bokenjapan.com/tochigi/tochigi/stay/"
     },
     {
      "name": "HOTEL R9 The Yard 栃木大平",
      "name_en": "HOTEL R9 The Yard Tochigiohira",
-     "description": "HOTEL R9 The Yard Tochigiohira is a hotel in Ohira, Tochigi.",
+     "description": "Hotel in Ohira, Tochigi.",
      "source_url": "https://www.jalan.net/yad343868/",
      "page": "https://bokenjapan.com/tochigi/tochigi/stay/"
     },
@@ -15312,7 +15912,7 @@
     {
      "name": "栃木県立みかも自然の家",
      "name_en": "Tochigi Prefectural Mikamo Nature House",
-     "description": "Tochigi Prefectural Mikamo Nature House is in Shimotsubara, Iwafune, Tochigi.",
+     "description": "Prefectural nature house at Shimotsubara, within Tochigi.",
      "source_url": "https://www.jalan.net/yad373939/",
      "page": "https://bokenjapan.com/tochigi/tochigi/stay/"
     }
@@ -15414,6 +16014,22 @@
      "category": "Cafe"
     },
     {
+     "name": "キジハジメテナク",
+     "name_en": "Kiji Hajimete Naku",
+     "description": "Japanese tea cafe in a renovated Oya-stone storehouse about 5 minutes by car from Oya Museum, serving Japanese tea, food, and Kijihaji Mont Blanc with Japanese chestnuts, closed Mondays and Tuesdays.",
+     "source_url": "https://kiji-hajimete-naku.studio.site/",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "悠日カフェ",
+     "name_en": "Yujitsu Cafe",
+     "description": "Cafe in an Oya-stone storehouse in Utsunomiya that also serves handmade soba and has been used for music-video shoots, closed Wednesdays though it may open during solo exhibitions.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s6889",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "オトワ レストラン",
      "name_en": "Otowa Restaurant",
      "description": "French restaurant in Utsunomiya; lunch ¥20,000–¥29,999, dinner ¥20,000–¥29,999.",
@@ -15474,6 +16090,78 @@
      "name_en": "Cuisine & Sake oto",
      "description": "Izakaya in Utsunomiya; dinner ¥5,000–¥5,999.",
      "source_url": "https://tabelog.com/tochigi/A0901/A090101/9019118/",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "INDULZ DREAM",
+     "name_en": "Indulz Dream",
+     "description": "Jazz bar in Higashi-Shukugo, Utsunomiya, serving drinks and original seasonal dishes with live jazz, closed Tuesdays.",
+     "source_url": "https://geo-buono.com/indulzdream/",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "DINIG BAR SUKATTO",
+     "name_en": "Dining Bar Sukatto",
+     "description": "Dining bar in Utsunomiya, founded in 1966, serving over 500 whiskies and cocktails with food also available, with irregular closing days.",
+     "source_url": "https://www.diningbar-sukatto.com/",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "THE FLAIR BAR （ザ・フレアバー）",
+     "name_en": "The Flair Bar",
+     "description": "Bar in Utsunomiya offering classical cocktails with mixology and flair bartending in an entertainment-filled adult space, closed Sundays and irregular holidays.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s6946",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "酔楽酔家",
+     "name_en": "Suiraku Yoiya",
+     "description": "Japanese bar in Utsunomiya serving creative Japanese cuisine and alcohol, with live jazz on Tuesdays and closed Sundays.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s6909",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "FREIHEIT（フライハイト）",
+     "name_en": "Freiheit",
+     "description": "Bar in Utsunomiya along the Kamagawa, serving cocktails, many kinds of alcohol, homemade bacon, and homemade bread, and closed on Wednesdays.",
+     "source_url": "https://y19651975.wixsite.com/mysite",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "パイプのけむり 池上町店",
+     "name_en": "Paipu no Kemuri Ikegamicho-ten",
+     "description": "Cocktail bar in Utsunomiya with a spacious, calm English-pub interior on the 5th floor of Platinum Building, open year-round.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s6959",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "BAR 五楽",
+     "name_en": "Bar Goraku",
+     "description": "Bar in Utsunomiya focusing on vegetable and fish dishes, with health and beauty menu items, counter seating and a wide drink selection; open daily.",
+     "source_url": "http://www.bargoraku.jp/",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "ＢＡＮＢＩＮＡ（バンビーナ）",
+     "name_en": "Banbina",
+     "description": "Bar in Utsunomiya with only female bartenders, serving cocktails, whiskey, wine and most other alcohol, piano every Tuesday and irregular jazz about twice a month, closed Sundays and holidays.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s7006",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "BLUE・J（ブルージェイ）",
+     "name_en": "Blue J",
+     "description": "Jazz bar in Utsunomiya where drinks are enjoyed with jazz, with weekend live jazz and weekday records, own records welcome on weekdays, closed the 2nd, 3rd, 4th and 5th Sundays.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s7012",
      "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -15630,6 +16318,22 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "麺々市場",
+     "name_en": "Menmen Ichiba",
+     "description": "Noodle shop run by a noodle maker inside Okajima Seimenjo in Utsunomiya, serving chewy yakisoba and nirakko gyoza with chives in the wrapper, and selling fresh udon and soba.",
+     "source_url": "https://www.okajima-seimenjo.com/",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "手打ちうどん 榛名",
+     "name_en": "Teuchi Udon Haruna",
+     "description": "Udon restaurant in Utsunomiya serving heartfelt home-style local specialty udon.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s9740",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "正嗣 宮島本店",
      "name_en": "Masatsugu Miyajima Main Store",
      "description": "Gyoza restaurant in Utsunomiya; lunch up to ¥999, dinner up to ¥999.",
@@ -15694,10 +16398,106 @@
      "category": "Other"
     },
     {
+     "name": "宇都宮餃子館 バンバ通り店",
+     "name_en": "Utsunomiya Gyoza-kan Bamba-dori Shop",
+     "description": "Gyoza restaurant in Utsunomiya on Bamba-dori, founded in 1995, making 0.75 mm skins and fillings at its own factory after resting meat and spices for a day, with no closing days.",
+     "source_url": "https://www.gyozakan.jp/",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "来らっせ 本店",
+     "name_en": "Kirasse Honten",
+     "description": "Gyoza restaurant on the first basement floor of MEGA Don Quijote La Park Utsunomiya serving gyoza from about 30 shops on a daily rotation, open every day.",
+     "source_url": "https://www.gyozakai.com/",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "レストラン「下野農園」",
+     "name_en": "Restaurant Shimotsuke Noen",
+     "description": "Restaurant in Utsunomiya serving dishes made with fresh vegetables and ingredients from dedicated Tochigi farmers, closed Mondays or the next day if Monday is a holiday.",
+     "source_url": "http://shimotsukefarm.com/",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "味一番",
+     "name_en": "Aji Ichiban",
+     "description": "Casual diner in Utsunomiya founded in 1958, serving ramen and gyoza with homemade wrappers, dried scallop and miso, plus gyoza udon limited to 30 servings a day, with irregular closing days.",
+     "source_url": "https://www.gyozakai.com/shop/1",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "宇都宮みんみん 本店",
+     "name_en": "Utsunomiya Minmin Honten",
+     "description": "Gyoza restaurant in Utsunomiya founded in 1958, serving gyoza with fillings at least 70 percent vegetables, especially napa cabbage.",
+     "source_url": "https://www.minmin.co.jp/",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "豚嘻嘻（とんきっき）",
+     "name_en": "Tonkikki",
+     "description": "Gyoza restaurant on Baba-dori, Utsunomiya, run by Futaba Foods, serving pork-belly lettuce-wrap gyoza and Sacre ice candy, open daily.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s7054",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "飯城園",
+     "name_en": "Hanjoen",
+     "description": "Chinese restaurant serving ramen and gyoza, a Utsunomiya Gyoza Association member, closed on Wednesdays and currently closed long-term.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s6498",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "さつき 徳次郎本店",
+     "name_en": "Satsuki Tokujiro Honten",
+     "description": "Gyoza restaurant in a renovated old house near Utsunomiya IC, serving locally sourced gyoza such as yuzu, Shimotsuke, vegan and halal varieties, with gyoza-making experiences; open daily.",
+     "source_url": "http://www.satsuki-gyoza.com/",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "カレーハウス BAKKA",
+     "name_en": "Curry House Bakka",
+     "description": "Curry restaurant in Utsunomiya serving old-style curry rice in a homey setting, with all items available for takeout, closed on Saturdays, Sundays and holidays.",
+     "source_url": "https://www.tochigiji.or.jp/spot/s6939",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "一八(ARAKAWA）",
      "name_en": "Ichihatsu Arakawa",
      "description": "Japanese restaurant in Utsunomiya; lunch ¥2,000–¥2,999.",
      "source_url": "https://tabelog.com/tochigi/A0901/A090101/9000337/",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "県庁15階展望レストランダイニング十五家",
+     "name_en": "Prefectural Office 15th Floor Observation Restaurant Dining Jugoya",
+     "description": "Creative Japanese restaurant on the 15th floor of the prefectural office in Utsunomiya, using local ingredients, closed Tuesdays and office closing days.",
+     "source_url": "https://jyugo-ya.com/",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "一八 ARAKAWA",
+     "name_en": "Ippachi Arakawa",
+     "description": "Kaiseki restaurant off the entertainment district in Utsunomiya serving seasonal Japanese cuisine with selected ingredients and fresh fish from Kyushu; closed Mondays, reservation required.",
+     "source_url": "https://ippachi.gorp.jp/",
+     "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "ダイニング蔵おしゃらく",
+     "name_en": "Dining Kura Osharaku",
+     "description": "Dining restaurant in Utsunomiya serving dishes made with Tochigi ingredients and alcohol amid Oya-stone warmth and faint light and shadow.",
+     "source_url": "http://www.osharaku.jp/",
      "page": "https://bokenjapan.com/tochigi/utsunomiya/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -15861,14 +16661,14 @@
     {
      "name": "ＨＯＴＥＬ Ｒ９ Ｔｈｅ Ｙａｒｄ 宇都宮中央",
      "name_en": "HOTEL R9 The Yard Utsunomiyachuo",
-     "description": "HOTEL R9 The Yard Utsunomiyachuo is a hotel in Fudomae, Utsunomiya.",
+     "description": "Hotel in Fudomae, Utsunomiya.",
      "source_url": "https://www.jalan.net/yad326463/",
      "page": "https://bokenjapan.com/tochigi/utsunomiya/stay/"
     },
     {
      "name": "TOKA HOTEL（東花ホテル）宇都宮",
      "name_en": "TOKA Hotel Toka Hotel Utsunomiya",
-     "description": "TOKA Hotel Toka Hotel Utsunomiya is a small hotel in Utsunomiya with free parking and air purifiers.",
+     "description": "Small hotel in Utsunomiya with free parking and air purifiers.",
      "source_url": "https://www.jalan.net/yad312808/",
      "page": "https://bokenjapan.com/tochigi/utsunomiya/stay/"
     },
@@ -15931,7 +16731,7 @@
     {
      "name": "THE KNOT UTSUNOMIYA（ザ ノット 宇都宮）",
      "name_en": "THE KNOT Utsunomiya",
-     "description": "THE KNOT Utsunomiya opened on January 23, 2026, in front of JR Utsunomiya Station.",
+     "description": "Hotel in front of JR Utsunomiya Station, opened on January 23, 2026.",
      "source_url": "https://www.jalan.net/yad322565/",
      "page": "https://bokenjapan.com/tochigi/utsunomiya/stay/"
     },
@@ -15959,14 +16759,14 @@
     {
      "name": "ＡＲＳ ＨＯＴＥＬ ＵＴＳＵＮＯＭＩＹＡ",
      "name_en": "ARS HOTEL UTSUNOMIYA",
-     "description": "ARS HOTEL UTSUNOMIYA in Utsunomiya is fully renovated, with free reserved parking and exclusive floor rental.",
+     "description": "Fully renovated hotel in Utsunomiya with free reserved parking and exclusive floor rental.",
      "source_url": "https://www.jalan.net/yad398253/",
      "page": "https://bokenjapan.com/tochigi/utsunomiya/stay/"
     },
     {
      "name": "JR東日本ホテルメッツ 宇都宮",
      "name_en": "JR Higashinihon Hotel Mettsu Utsunomiya",
-     "description": "JR Higashinihon Hotel Mettsu Utsunomiya is one minute's walk from JR Utsunomiya Station west exit, in the same building as Utsunomiya PASEO.",
+     "description": "Hotel, one minute's walk from JR Utsunomiya Station west exit, in the same building as Utsunomiya PASEO.",
      "source_url": "https://www.jalan.net/yad355222/",
      "page": "https://bokenjapan.com/tochigi/utsunomiya/stay/"
     },
@@ -16008,7 +16808,7 @@
     {
      "name": "MARIA HOTEL",
      "name_en": "MARIA HOTEL",
-     "description": "MARIA HOTEL in Utsunomiya is a four-minute walk from JR Utsunomiya Station east exit, with a 5LDK and karaoke.",
+     "description": "Lodging in Utsunomiya, a four-minute walk from JR Utsunomiya Station east exit, with a 5LDK and karaoke.",
      "source_url": "https://www.jalan.net/yad382412/",
      "page": "https://bokenjapan.com/tochigi/utsunomiya/stay/"
     },
@@ -16029,7 +16829,7 @@
     {
      "name": "アパホテル〈宇都宮駅前〉",
      "name_en": "APA Hotel < Utsunomiyaeki Mae >",
-     "description": "APA Hotel < Utsunomiyaeki Mae > is a five-minute walk from JR Utsunomiya Station east exit, two minutes' walk from Higashi-Shukugo light-rail station.",
+     "description": "Hotel, a five-minute walk from JR Utsunomiya Station east exit, two minutes' walk from Higashi-Shukugo light-rail station.",
      "source_url": "https://www.jalan.net/yad310501/",
      "page": "https://bokenjapan.com/tochigi/utsunomiya/stay/"
     },
@@ -16043,7 +16843,7 @@
     {
      "name": "ＨＯＴＥＬ ＥＬ Ｕｔｓｕｎｏｍｉｙａ７",
      "name_en": "HOTEL EL Utsunomiya7",
-     "description": "HOTEL EL Utsunomiya7 in Higashi-Shukugo, Utsunomiya, has 4LDK and 3LDK rooms, limited to one group per floor per day.",
+     "description": "Lodging in Higashi-Shukugo, Utsunomiya, with 4LDK and 3LDK rooms, limited to one group per floor per day.",
      "source_url": "https://www.jalan.net/yad351824/",
      "page": "https://bokenjapan.com/tochigi/utsunomiya/stay/"
     },
@@ -16835,14 +17635,14 @@
     {
      "name": "ＨＯＴＥＬ Ｒ９ Ｔｈｅ Ｙａｒｄ 矢板",
      "name_en": "HOTEL R9 The Yard Yaita",
-     "description": "HOTEL R9 The Yard Yaita is a hotel in Higashimachi, Yaita.",
+     "description": "Hotel in Higashimachi, Yaita.",
      "source_url": "https://www.jalan.net/yad381348/",
      "page": "https://bokenjapan.com/tochigi/yaita/stay/"
     },
     {
      "name": "矢板温泉まことの湯",
      "name_en": "Yaita Onsen Makoto no Yu",
-     "description": "Yaita Onsen Makoto no Yu in Tatenokawa, Yaita has a hot spring, glamping, and rental mountain villas.",
+     "description": "Hot spring lodging at Tatenokawa in Yaita, with glamping and rental mountain villas.",
      "source_url": "https://www.jalan.net/yad317065/",
      "page": "https://bokenjapan.com/tochigi/yaita/stay/"
     },
@@ -16863,7 +17663,7 @@
     {
      "name": "５８ロハスクラブ ラスティックキャンプ場",
      "name_en": "58 Rohasukurabu Rasuteikkukyanpu Ba",
-     "description": "58 Rohasukurabu Rasuteikkukyanpu Ba is glamping in Yaita, limited to 10 buildings, with tent sites.",
+     "description": "Glamping and camping lodging in Yaita, limited to 10 buildings, with tent sites.",
      "source_url": "https://www.jalan.net/yad380314/",
      "page": "https://bokenjapan.com/tochigi/yaita/stay/"
     }
