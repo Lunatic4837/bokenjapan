@@ -5,7 +5,7 @@ Usage (from the gh-pages checkout root):
     python3 scripts/ai_friendly.py [--root .] [--check]
   --check  only report which files would change (exit 1 if any), write nothing.
 
-Generates: llms.txt, llms-full.txt, robots.txt, sitemap.xml, data/index.json,
+Generates: llms.txt, llms-full.txt, robots.txt, sitemap.xml (flat; scripts/split_sitemap.py turns it into an index + sitemaps/<pref>.xml), data/index.json,
 data/prefectures.json, data/<pref>.json, data/README.md. In every HTML page it rewrites
 only marked blocks (<!-- bj-jsonld -->..<!-- /bj-jsonld -->, bj-crumbs, bj-nav, bj-meta),
 the <title> and the page H1, all derived from facts already on that page (breadcrumb,
@@ -229,7 +229,7 @@ for rel in pages():
         srcs = []
         if k == 'town':
             cp = counts_phrase(key)
-            title = f'{place}: things to do, where to eat and stay' + (f' ({cp})' if cp else '')
+            title = f'{place}: things to do, food and stays'  # short for search results; counts live in the description
             h1 = f'{tn}, {pn}: things to do, food and stays'
             desc = f'Travel guide to {tn} in {pn} Prefecture, Japan' + (f': {cp}' if cp else '') + ', with links to official and source pages.'
             o = official(s)
@@ -356,5 +356,7 @@ for x in PL:
         F.append(f"- [{NAMES.get(key, t)}]({BASE}{key}/)" + (f': {cp}' if cp else ''))
     F.append('')
 wr('llms-full.txt', '\n'.join(F))
+if not CHECK:
+    subprocess.run([sys.executable, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'split_sitemap.py'), '--root', ROOT], check=True)
 print(f"pages={len(allurls)} prefectures={len(PL)} towns={sum(x['town_count'] for x in PL)} files_changed={len(changed)}" + (' (check only)' if CHECK else ''))
 if CHECK and changed: sys.exit(1)
