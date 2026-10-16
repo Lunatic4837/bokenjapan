@@ -34,7 +34,7 @@
 <p class="crumb"><a href="/">Japan</a> / Nara</p>
     <h1 class="page-title">Nara</h1>
     <p class="page-sub">Nara · Pick a municipality on the map or from the list.</p>
-    <div class="map-wrap" data-map="_map.svg" data-here=""></div>
+    <div class="map-wrap" data-map="_map.svg" data-here="" style="aspect-ratio: 720 / 640"></div>
       <script>(function(){var w=document.currentScript.previousElementSibling;if(!w||!w.dataset.map)return;var here=w.dataset.here||"";fetch(w.dataset.map).then(function(r){return r.text()}).then(function(t){w.innerHTML=t;var svg=w.querySelector("svg");if(svg){svg.removeAttribute("width");svg.removeAttribute("height");svg.setAttribute("class",(svg.getAttribute("class")||"")+" pref-map");}var nodes=w.querySelectorAll("a[data-name]");for(var i=0;i<nodes.length;i++){var a=nodes[i];a.classList.remove("is-here");if(here&&a.getAttribute("data-name")===here){a.classList.add("is-here");}var href=a.getAttribute("href")||"";if(href==="./"||href==="."){var slug=(location.pathname.replace(/\/+$/,"").split("/").pop()||"");if(slug)a.setAttribute("href","../"+slug+"/");}}}).catch(function(){w.innerHTML="<p class=\"map-note\">Map unavailable.</p>";});})();</script>
     <p class="map-name" id="map-name" aria-live="polite"></p>
     <h2>Municipalities</h2>

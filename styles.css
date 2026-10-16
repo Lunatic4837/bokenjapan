@@ -1870,3 +1870,11 @@ body.home .explore-lede {
 @media (max-width: 720px) {
   .muni-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
+
+/* Prefecture maps load after the page; the wrapper reserves the map's own ratio (set by scripts/site_chrome.py). */
+.map-wrap[style*="aspect-ratio"] {
+  width: 100%;
+  max-width: 54rem;
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -9,7 +9,9 @@ Touches only chrome, never page content:
   2. header and footer logo: /logo.svg from this site instead of a second origin (img.bokenjapan.com);
   3. <img> tags: loading="lazy" decoding="async" on every image except the logo and the first two
      content images (those may be the LCP image);
-  4. head: a marked <!-- bj-share --> block adds only the share tags the page lacks
+  4. map placeholder: the prefecture map is fetched after load, so each .map-wrap gets the map's own
+     aspect-ratio (from <pref>/_map.svg viewBox) to stop the layout jumping (CLS);
+  5. head: a marked <!-- bj-share --> block adds only the share tags the page lacks
      (canonical, og:*, twitter:*), copied from the page's own <title>, description and URL.
 Pages under go/, media/, data/, scripts/ and the --skip prefectures (default: tokyo) are left alone.
 """
@@ -57,7 +59,20 @@ def fix(s, rel):
         add = ' loading="lazy"' + ('' if 'decoding=' in tag else ' decoding="async"')
         return tag[:-2].rstrip() + add + ' />' if tag.endswith('/>') else tag[:-1].rstrip() + add + '>'
     s = re.sub(r'<img\b[^>]*>', lazy, s)
-    # 4. share tags
+    # 4. reserve the map's space
+    def mapbox(mm):
+        tag, src = mm.group(0), mm.group(2)
+        svg = os.path.normpath(os.path.join(ROOT, os.path.dirname(rel), src))
+        if not os.path.isfile(svg): return tag
+        with open(svg, encoding='utf-8') as f: head = f.read(2000)
+        vb = re.search(r'viewBox="\s*[-\d.]+[ ,]+[-\d.]+[ ,]+([\d.]+)[ ,]+([\d.]+)\s*"', head)
+        if not vb: return tag
+        w, h = float(vb.group(1)), float(vb.group(2))
+        ar = f' style="aspect-ratio: {w:g} / {h:g}"'
+        tag = re.sub(r' style="aspect-ratio:[^"]*"', '', tag)
+        return tag[:-1] + ar + '>'
+    s = re.sub(r'<div class="map-wrap"( data-map="([^"]+)"[^>]*)>', mapbox, s)
+    # 5. share tags
     head_end = s.find('</head>')
     if head_end > 0:
         s = re.sub(r'<!-- bj-share -->.*?<!-- /bj-share -->\n?', '', s, flags=re.S)
