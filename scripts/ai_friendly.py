@@ -148,6 +148,7 @@ for rel in pages():
     pf = parts[0]
     if pf != cur_pref: flush(cur_pref); cur_pref, cur_towns = pf, {}
     s = rd(os.path.join(ROOT, rel)); c = crumb(s)
+    if re.search(r'name="robots" content="[^"]*noindex', s): continue  # placeholder stubs are not towns
     if k == 'pref':
         NAMES[pf] = c[-1] if c else pf.title()
         prefs[pf] = {'slug': pf, 'name': NAMES[pf], 'url': url(rel), 'data': BASE + f'data/{pf}.json'}
