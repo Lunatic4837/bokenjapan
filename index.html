@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="canonical" href="https://bokenjapan.com/">
-  <title>BokenJapan</title>
+  <title>BokenJapan · Design your customized Japan adventure</title>
   <link rel="icon" href="https://img.bokenjapan.com/favicon.ico" sizes="any">
   <link rel="icon" href="https://img.bokenjapan.com/logo.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="https://img.bokenjapan.com/apple-touch-icon.png">
@@ -12,19 +12,19 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://bokenjapan.com/">
   <meta property="og:site_name" content="BokenJapan">
-  <meta property="og:title" content="BokenJapan">
+  <meta property="og:title" content="BokenJapan · Design your customized Japan adventure">
   <meta property="og:description" content="Design your customized Japan adventure. Find the places you thought you never could.">
   <meta property="og:image" content="https://img.bokenjapan.com/og.png">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta property="og:image:alt" content="BokenJapan logo">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="BokenJapan">
+  <meta name="twitter:title" content="BokenJapan · Design your customized Japan adventure">
   <meta name="twitter:description" content="Design your customized Japan adventure. Find the places you thought you never could.">
   <meta name="twitter:image" content="https://img.bokenjapan.com/og.png">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,500;0,600;1,400&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+  <link rel="preload" href="fonts/source-sans-3-normal-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/source-serif-4-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" as="image" type="image/webp" href="assets/hero-himeji-1024.webp" imagesrcset="assets/hero-himeji-640.webp 640w, assets/hero-himeji-1024.webp 1024w, assets/hero-himeji-1440.webp 1440w, assets/hero-himeji-2000.webp 2000w" imagesizes="(min-width: 76rem) 1104px, 100vw" fetchpriority="high">
   <link rel="stylesheet" href="styles.css">
 <!-- bj-jsonld --><script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "@id": "https://bokenjapan.com/#org", "name": "BokenJapan", "url": "https://bokenjapan.com/", "logo": "https://bokenjapan.com/logo.svg", "sameAs": ["https://x.com/bokenjapan", "https://www.instagram.com/bokenjapan/", "https://www.tiktok.com/@bokenjapan", "https://www.facebook.com/profile.php?id=61595415860080"]}, {"@type": "WebSite", "@id": "https://bokenjapan.com/#website", "name": "BokenJapan", "url": "https://bokenjapan.com/", "inLanguage": "en", "publisher": {"@id": "https://bokenjapan.com/#org"}}]}</script><!-- /bj-jsonld -->
 </head>
@@ -32,7 +32,7 @@
   <a class="skip" href="#main">Skip to content</a>
   <header class="mast">
     <div class="mast-inner">
-      <a class="brand" href="/"><img class="brand-mark" src="https://img.bokenjapan.com/logo.svg" width="168" height="168" alt="冒険日本">BokenJapan</a>
+      <a class="brand" href="/"><img class="brand-mark" src="logo.svg" width="168" height="168" alt="冒険日本">BokenJapan</a>
       <nav class="mast-nav" aria-label="Regions">
         <a href="#hokkaido-region">Hokkaido</a>
         <a href="#tohoku">Tohoku</a>
@@ -57,7 +57,7 @@
       <figure class="hero-photo">
         <div class="hero-frame">
           <div class="hero-stage">
-            <img src="https://img.bokenjapan.com/hero-himeji.jpg" alt="Himeji Castle, Hyogo" width="5177" height="3200">
+            <img src="assets/hero-himeji-1440.webp" srcset="assets/hero-himeji-640.webp 640w, assets/hero-himeji-1024.webp 1024w, assets/hero-himeji-1440.webp 1440w, assets/hero-himeji-2000.webp 2000w" sizes="(min-width: 76rem) 1104px, 100vw" alt="Himeji Castle, Hyogo" width="2000" height="1000" fetchpriority="high" decoding="async">
             <nav class="hero-sns" aria-label="BokenJapan social media">
               <span class="sns-off" role="img" aria-label="X (@bokenjapan)">
                 <svg class="hero-mark" viewBox="0 0 300 271" aria-hidden="true" focusable="false"><path fill="#000000" d="m236 0h46l-101 115 118 156h-92.6l-72.5-94.8-83 94.8h-46l107-123-113-148h94.9l65.5 86.6zm-16.1 244h25.5l-165-218h-27.4z"/></svg>
@@ -100,6 +100,7 @@
 
     <section class="explore" id="explore" aria-labelledby="explore-title">
       <h2 id="explore-title">Where do you want to explore?</h2>
+      <p class="explore-lede">Select a prefecture to open its page. The colours show the eight regions.</p>
       <!--
       Prefecture boundaries: Natural Earth public-domain admin-1, file ne_10m_admin_1_states_provinces, version 5.1.1 (1:10m).
       Source: https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-1-states-provinces/
@@ -159,7 +160,17 @@
       <a href="/okinawa/" data-name="Okinawa" aria-label="Okinawa"><title>Okinawa</title><rect class="inset-frame" x="8.0" y="761.5" width="325.6" height="240.0"/><text class="inset-label" font-size="18" fill="#5e5a52" x="16.0" y="775.5">Okinawa</text><path fill-rule="evenodd" d="M59.0 981.6 L64.0 982.8 L64.1 984.0 L61.4 987.9 L52.9 986.1 L53.5 984.8 L56.0 985.0 L57.1 980.4 L59.0 981.6 Z M25.0 977.8 L25.6 978.5 L24.8 979.4 L22.3 979.2 L23.0 977.8 L25.0 977.8 Z M80.5 972.7 L78.2 977.1 L76.9 982.9 L75.6 984.2 L72.6 984.0 L71.9 983.1 L72.7 982.0 L70.0 979.6 L72.2 978.0 L73.3 979.3 L75.6 979.1 L79.9 972.5 L80.5 972.7 Z M124.8 963.4 L127.6 965.1 L124.7 966.0 L119.5 965.7 L120.1 959.9 L119.5 958.6 L120.9 959.3 L123.6 963.4 L124.8 963.4 Z M184.4 890.0 L183.5 892.3 L179.7 889.2 L182.7 888.3 L184.4 890.0 Z M248.4 869.2 L247.1 873.7 L244.4 876.9 L240.9 877.5 L239.8 879.3 L240.0 880.6 L236.6 880.7 L232.0 885.4 L228.0 885.8 L227.5 886.6 L230.9 892.0 L227.0 891.7 L224.6 896.3 L224.8 897.8 L226.8 897.7 L225.7 899.9 L224.0 900.6 L222.7 902.3 L219.6 902.5 L219.1 896.4 L220.7 895.7 L223.4 891.5 L222.6 886.4 L226.1 885.5 L227.1 883.6 L231.6 881.6 L232.6 880.1 L232.4 878.7 L229.4 877.5 L229.1 874.0 L233.7 874.1 L234.0 876.6 L236.6 876.3 L238.9 875.0 L238.9 873.6 L243.7 869.0 L244.9 865.0 L248.4 869.2 Z M263.6 838.5 L259.9 842.7 L257.7 843.3 L256.3 842.3 L256.8 840.2 L260.1 840.3 L263.6 838.5 Z M275.6 821.8 L277.1 823.0 L277.1 824.4 L275.1 827.2 L273.2 827.6 L271.5 825.0 L271.9 823.8 L271.0 821.2 L271.7 818.1 L273.9 817.0 L275.6 821.8 Z M288.5 807.4 L289.7 807.2 L290.8 808.9 L289.7 809.3 L288.7 808.3 L287.8 809.4 L287.1 808.4 L285.4 808.4 L283.7 804.1 L285.6 803.9 L285.4 804.8 L287.4 804.8 L286.6 806.3 L288.5 807.4 Z M319.2 795.5 L317.8 799.4 L314.4 799.1 L319.2 795.5 Z M305.7 791.4 L306.1 792.9 L302.0 794.3 L297.0 799.5 L294.8 799.4 L294.9 800.5 L293.7 801.3 L295.7 802.9 L293.1 804.4 L292.9 805.4 L290.8 805.5 L291.8 807.4 L288.1 804.7 L287.4 802.3 L286.3 803.0 L282.2 801.3 L287.4 801.0 L288.3 799.7 L285.6 798.7 L287.2 797.6 L290.0 795.9 L295.0 794.7 L296.0 793.3 L297.7 794.6 L298.4 792.9 L302.3 790.4 L301.9 792.5 L303.1 792.4 L304.3 789.2 L305.7 791.4 Z M226.3 872.1 L226.3 873.4 L224.1 873.1 L224.0 872.4 L226.3 872.1 Z M234.0 855.4 L233.2 857.9 L231.1 859.3 L234.0 855.4 Z M253.3 857.5 L253.0 858.8 L250.8 857.8 L252.2 856.6 L253.3 857.5 Z M117.1 960.4 L117.7 961.8 L117.2 962.3 L114.5 961.8 L115.5 960.0 L117.1 960.4 Z M207.8 896.4 L207.2 899.3 L206.9 896.8 L207.8 896.4 Z"/></a>
     </svg>
 
-      <p class="map-name" id="map-name" aria-live="polite">Select a prefecture on the map.</p>
+      <p class="map-name" id="map-name" aria-live="polite">Point at a prefecture to see its name.</p>
+            <ul class="region-legend" aria-label="Regions">
+        <li><a href="#hokkaido-region"><i style="--sw:#c9d9e4" aria-hidden="true"></i>Hokkaido</a></li>
+        <li><a href="#tohoku"><i style="--sw:#d3e0cf" aria-hidden="true"></i>Tohoku</a></li>
+        <li><a href="#kanto"><i style="--sw:#ecdcc0" aria-hidden="true"></i>Kanto</a></li>
+        <li><a href="#chubu"><i style="--sw:#dcd5e6" aria-hidden="true"></i>Chubu</a></li>
+        <li><a href="#kinki"><i style="--sw:#efcfca" aria-hidden="true"></i>Kinki</a></li>
+        <li><a href="#chugoku"><i style="--sw:#c8e1dc" aria-hidden="true"></i>Chugoku</a></li>
+        <li><a href="#shikoku"><i style="--sw:#eadfae" aria-hidden="true"></i>Shikoku</a></li>
+        <li><a href="#kyushu"><i style="--sw:#efcdb9" aria-hidden="true"></i>Kyushu and Okinawa</a></li>
+      </ul>
       <p class="map-note">Okinawa is in the box. Ogasawara, Minami-Tori, and the Daito islands are left off this drawing so the main islands stay readable.</p>
     </section>
 
@@ -190,9 +201,8 @@
     <section class="directory" id="prefectures" aria-labelledby="pref-title">
       <div class="directory-head">
         <h2 id="pref-title">Prefectures</h2>
-        <p>Forty-six of the 47 prefectures have pages, grouped by region below. Municipality lists are on each prefecture page. Some pages may still be in Japanese, so try translating in your browser.</p>
+        <p>All 47 prefectures have a page, grouped by region below. Each prefecture page lists its municipalities.</p>
       </div>
-      <!-- These pages are still in Japanese and will be replaced with English pages. -->
       <nav aria-label="Prefectures">
 <section class="region" id="hokkaido-region" aria-labelledby="hokkaido-region-h">
         <h3 id="hokkaido-region-h">Hokkaido</h3>
@@ -286,7 +296,7 @@
   </main>
 
   <footer class="site-foot">
-    <div class="brand-foot"><img src="https://img.bokenjapan.com/logo.svg" width="88" height="88" alt="冒険日本"><p class="foot-name">BokenJapan</p></div>
+    <div class="brand-foot"><img src="logo.svg" loading="lazy" width="88" height="88" alt="冒険日本"><p class="foot-name">BokenJapan</p></div>
     <nav class="social-row" aria-label="BokenJapan social media">
       <span class="social-label">SNS</span>
       <span class="sns-off">X<span class="visually-hidden"> (@bokenjapan)</span></span>
@@ -303,11 +313,20 @@
       var map = document.querySelector(".pref-map");
       var out = document.getElementById("map-name");
       if (!map || !out) return;
-      var idle = "Select a prefecture on the map.";
+      var idle = "Point at a prefecture to see its name.";
+      var regionOf = {};
+      Array.prototype.forEach.call(document.querySelectorAll(".directory .region"), function (sec) {
+        var h = sec.querySelector("h3");
+        Array.prototype.forEach.call(sec.querySelectorAll("a[href]"), function (a) {
+          regionOf[a.getAttribute("href")] = h ? h.textContent : "";
+        });
+      });
       function label(node) {
         var link = node && node.closest ? node.closest("a") : null;
         if (!link || !map.contains(link)) return "";
-        return link.getAttribute("data-name") || "";
+        var name = link.getAttribute("data-name") || "";
+        var reg = regionOf[link.getAttribute("href")];
+        return reg ? name + " · " + reg : name;
       }
       map.addEventListener("pointerover", function (event) {
         var name = label(event.target);

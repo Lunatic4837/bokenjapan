@@ -1,5 +1,59 @@
 /* BokenJapan. Homepage follows an editorial layout; shared by prefecture pages. */
 
+/* Self-hosted fonts (SIL OFL): Source Sans 3 and Source Serif 4, Latin + Latin Extended (macrons). */
+@font-face {
+  font-family: "Source Sans 3";
+  font-style: normal;
+  font-weight: 400 600;
+  font-display: swap;
+  src: url("fonts/source-sans-3-normal-latin-ext.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: "Source Sans 3";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("fonts/source-sans-3-italic-latin-ext.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  font-style: normal;
+  font-weight: 500 600;
+  font-display: swap;
+  src: url("fonts/source-serif-4-latin-ext.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: "Source Sans 3";
+  font-style: normal;
+  font-weight: 400 600;
+  font-display: swap;
+  src: url("fonts/source-sans-3-normal-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Source Sans 3";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("fonts/source-sans-3-italic-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  font-style: normal;
+  font-weight: 500 600;
+  font-display: swap;
+  src: url("fonts/source-serif-4-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* Fallbacks sized from the fonts' own metrics (avg lowercase width, hhea ascent/descent vs Arial / Times New Roman) so text does not jump when the web fonts arrive. */
+@font-face { font-family: "Source Sans 3 Fallback"; src: local("Arial"), local("Liberation Sans"); size-adjust: 91.1%; ascent-override: 112.4%; descent-override: 43.9%; line-gap-override: 0%; }
+@font-face { font-family: "Source Serif 4 Fallback"; src: local("Times New Roman"), local("Liberation Serif"); size-adjust: 108.1%; ascent-override: 95.8%; descent-override: 31%; line-gap-override: 0%; }
+
 :root {
   --paper: #e6e2db;
   --card: #fbf8f4;
@@ -11,8 +65,8 @@
   --seal: #c43026;
   --max: 72rem;
   --text: 44rem;
-  --serif: "Source Serif 4", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Hiragino Mincho ProN", serif;
-  --sans: "Source Sans 3", "Segoe UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic UI", "Noto Sans", "Noto Sans CJK JP", sans-serif;
+  --serif: "Source Serif 4", "Source Serif 4 Fallback", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Hiragino Mincho ProN", serif;
+  --sans: "Source Sans 3", "Source Sans 3 Fallback", "Segoe UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic UI", "Noto Sans", "Noto Sans CJK JP", sans-serif;
 }
 
 *,
@@ -1572,3 +1626,223 @@ body.home .site-foot .sns-off { color: var(--muted); }
 
 /* homepage: spacing between CTA and hero photo after ask box removal */
 body.home p.next { margin-bottom: 1.75rem; }
+
+/* ==== Site polish (2026-10-17): mobile header, hero social row, tap targets ==== */
+@media (max-width: 1100px) {
+  /* The ask box is gone, so the social stack can stay in the photo's top-right corner. */
+  .hero-sns {
+    top: 0.7rem;
+    right: 0.7rem;
+    left: auto;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: flex-end;
+    justify-content: flex-start;
+  }
+}
+
+@media (max-width: 720px) {
+  /* Social icons sit in the dark strip under the photo instead of covering the castle. */
+  .hero-sns,
+  body.home .hero-sns {
+    position: static;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.65rem 0 0.2rem;
+  }
+
+  /* One scrollable row of regions instead of a three-line wrapped block. */
+  .mast-nav {
+    flex: 1 1 100%;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    gap: 0;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    scrollbar-width: none;
+    margin: 0 -0.35rem;
+    -webkit-mask-image: linear-gradient(90deg, #000 0, #000 calc(100% - 1.75rem), transparent 100%);
+    mask-image: linear-gradient(90deg, #000 0, #000 calc(100% - 1.75rem), transparent 100%);
+  }
+  .mast-nav::-webkit-scrollbar { display: none; }
+  body.home .mast-nav { justify-content: flex-start; gap: 0; }
+  .mast-nav a,
+  body.home .mast-nav a {
+    flex: 0 0 auto;
+    white-space: nowrap;
+    min-height: 2.75rem;
+    padding: 0.2rem 0.7rem;
+  }
+}
+
+/* Homepage map: prefectures tinted by region (colours mirror the region list below the map). */
+body.home .pref-map {
+  --r-hokkaido-region: #c9d9e4;
+  --r-tohoku: #d3e0cf;
+  --r-kanto: #ecdcc0;
+  --r-chubu: #dcd5e6;
+  --r-kinki: #efcfca;
+  --r-chugoku: #c8e1dc;
+  --r-shikoku: #eadfae;
+  --r-kyushu: #efcdb9;
+}
+body.home .pref-map a[href="/hokkaido/"] path { fill: var(--r-hokkaido-region); }
+body.home .pref-map a[href="/aomori/"] path { fill: var(--r-tohoku); }
+body.home .pref-map a[href="/iwate/"] path { fill: var(--r-tohoku); }
+body.home .pref-map a[href="/miyagi/"] path { fill: var(--r-tohoku); }
+body.home .pref-map a[href="/akita/"] path { fill: var(--r-tohoku); }
+body.home .pref-map a[href="/yamagata/"] path { fill: var(--r-tohoku); }
+body.home .pref-map a[href="/fukushima/"] path { fill: var(--r-tohoku); }
+body.home .pref-map a[href="/ibaraki/"] path { fill: var(--r-kanto); }
+body.home .pref-map a[href="/tochigi/"] path { fill: var(--r-kanto); }
+body.home .pref-map a[href="/gunma/"] path { fill: var(--r-kanto); }
+body.home .pref-map a[href="/saitama/"] path { fill: var(--r-kanto); }
+body.home .pref-map a[href="/chiba/"] path { fill: var(--r-kanto); }
+body.home .pref-map a[href="/tokyo/"] path { fill: var(--r-kanto); }
+body.home .pref-map a[href="/kanagawa/"] path { fill: var(--r-kanto); }
+body.home .pref-map a[href="/niigata/"] path { fill: var(--r-chubu); }
+body.home .pref-map a[href="/toyama/"] path { fill: var(--r-chubu); }
+body.home .pref-map a[href="/ishikawa/"] path { fill: var(--r-chubu); }
+body.home .pref-map a[href="/fukui/"] path { fill: var(--r-chubu); }
+body.home .pref-map a[href="/yamanashi/"] path { fill: var(--r-chubu); }
+body.home .pref-map a[href="/nagano/"] path { fill: var(--r-chubu); }
+body.home .pref-map a[href="/gifu/"] path { fill: var(--r-chubu); }
+body.home .pref-map a[href="/shizuoka/"] path { fill: var(--r-chubu); }
+body.home .pref-map a[href="/aichi/"] path { fill: var(--r-chubu); }
+body.home .pref-map a[href="/mie/"] path { fill: var(--r-kinki); }
+body.home .pref-map a[href="/shiga/"] path { fill: var(--r-kinki); }
+body.home .pref-map a[href="/kyoto/"] path { fill: var(--r-kinki); }
+body.home .pref-map a[href="/osaka/"] path { fill: var(--r-kinki); }
+body.home .pref-map a[href="/hyogo/"] path { fill: var(--r-kinki); }
+body.home .pref-map a[href="/nara/"] path { fill: var(--r-kinki); }
+body.home .pref-map a[href="/wakayama/"] path { fill: var(--r-kinki); }
+body.home .pref-map a[href="/tottori/"] path { fill: var(--r-chugoku); }
+body.home .pref-map a[href="/shimane/"] path { fill: var(--r-chugoku); }
+body.home .pref-map a[href="/okayama/"] path { fill: var(--r-chugoku); }
+body.home .pref-map a[href="/hiroshima/"] path { fill: var(--r-chugoku); }
+body.home .pref-map a[href="/yamaguchi/"] path { fill: var(--r-chugoku); }
+body.home .pref-map a[href="/tokushima/"] path { fill: var(--r-shikoku); }
+body.home .pref-map a[href="/kagawa/"] path { fill: var(--r-shikoku); }
+body.home .pref-map a[href="/ehime/"] path { fill: var(--r-shikoku); }
+body.home .pref-map a[href="/kochi/"] path { fill: var(--r-shikoku); }
+body.home .pref-map a[href="/fukuoka/"] path { fill: var(--r-kyushu); }
+body.home .pref-map a[href="/saga/"] path { fill: var(--r-kyushu); }
+body.home .pref-map a[href="/nagasaki/"] path { fill: var(--r-kyushu); }
+body.home .pref-map a[href="/kumamoto/"] path { fill: var(--r-kyushu); }
+body.home .pref-map a[href="/oita/"] path { fill: var(--r-kyushu); }
+body.home .pref-map a[href="/miyazaki/"] path { fill: var(--r-kyushu); }
+body.home .pref-map a[href="/kagoshima/"] path { fill: var(--r-kyushu); }
+body.home .pref-map a[href="/okinawa/"] path { fill: var(--r-kyushu); }
+
+body.home .pref-map a path {
+  stroke: #4b565c;
+  stroke-width: 1px;
+  transition: fill 0.15s ease;
+}
+body.home .pref-map a:hover path,
+body.home .pref-map a:focus path {
+  fill: var(--seal);
+  stroke: var(--ink);
+}
+body.home .pref-map a:focus-visible path {
+  fill: var(--seal);
+  stroke: var(--ink);
+  stroke-width: 2px;
+}
+body.home .pref-map .inset-frame { fill: transparent; stroke: #b9b2a4; }
+body.home .pref-map a:hover .inset-frame,
+body.home .pref-map a:focus .inset-frame { fill: transparent; stroke: var(--ink); }
+
+.region-legend {
+  list-style: none;
+  margin: 1.1rem 0 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+}
+.region-legend a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: 2.75rem;
+  padding: 0.25rem 0.9rem 0.25rem 0.7rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--card);
+  color: var(--ink);
+  font-size: 0.95rem;
+  text-decoration: none;
+}
+.region-legend a:hover { border-color: var(--ink); color: var(--ink); }
+.region-legend i {
+  width: 0.85rem;
+  height: 0.85rem;
+  border-radius: 50%;
+  border: 1px solid rgba(28, 25, 22, 0.35);
+  background: var(--sw);
+}
+
+body.home .explore-lede {
+  margin: 0 auto 1.25rem;
+  max-width: 36rem;
+  text-align: center;
+  color: var(--muted);
+}
+
+@media (min-width: 62rem) {
+  body.home .explore {
+    display: grid;
+    grid-template-columns: minmax(0, 30rem) minmax(0, 1fr);
+    grid-template-areas:
+      "map head"
+      "map lede"
+      "map name"
+      "map legend"
+      "map note"
+      "map .";
+    grid-template-rows: auto auto auto auto auto 1fr;
+    column-gap: clamp(2.5rem, 6vw, 5.5rem);
+    align-items: start;
+    max-width: 66rem;
+  }
+  body.home .explore > h2 { grid-area: head; text-align: left; margin: 3.5rem 0 0.75rem; }
+  body.home .explore > .explore-lede { grid-area: lede; text-align: left; margin: 0; }
+  body.home .explore > .pref-map { grid-area: map; max-width: 30rem; margin: 0; }
+  body.home .explore > .map-name {
+    grid-area: name;
+    text-align: left;
+    margin: 1.75rem 0 0;
+    min-height: 3.2rem;
+    font-family: var(--serif);
+    font-size: clamp(1.7rem, 2.6vw, 2.2rem);
+    line-height: 1.2;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+  }
+  body.home .explore > .region-legend { grid-area: legend; justify-content: flex-start; margin-top: 1rem; }
+  body.home .explore > .map-note { grid-area: note; text-align: left; margin: 1.5rem 0 0; }
+}
+
+@media (hover: none) {
+  body.home .map-name { display: none; }
+}
+
+/* Footer links: comfortable tap targets on touch screens */
+.site-foot .social-row a,
+.site-foot .foot-legal a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  padding: 0 0.35rem;
+}
+
+@media (max-width: 720px) {
+  /* Two columns of prefectures on phones instead of one long list. */
+  body.home .region ul { grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 1.25rem; }
+  body.home .region ul:has(> li:only-child) { grid-template-columns: minmax(0, 1fr); }
+  body.home .region a { min-height: 3rem; padding-top: 0.6rem; padding-bottom: 0.6rem; }
+}
