@@ -19,7 +19,8 @@ import os, re, json, html, sys, datetime, subprocess
 ROOT = sys.argv[sys.argv.index('--root') + 1] if '--root' in sys.argv else '.'
 CHECK = '--check' in sys.argv
 BASE = 'https://bokenjapan.com/'
-SAME = ['https://x.com/bokenjapan', 'https://www.instagram.com/bokenjapan/',
+SAME = ['https://www.instagram.com/bokenjapan/',  # X (@bokenjapan) is left out until the account is confirmed live (homepage shows it unlinked)
+        
         'https://www.tiktok.com/@bokenjapan', 'https://www.facebook.com/profile.php?id=61595415860080']
 SKIP = {'.git', 'media', 'go', 'data', 'scripts', 'node_modules'}
 SECTIONS = {  # dir -> (label, schema type, json key)
@@ -203,7 +204,11 @@ for rel in pages():
     graph = title = h1 = desc = nav = None; trail = None
     mod = modified(rel)
     if k == 'home':
-        graph = [ORG, SITE]
+        hp = [{'@type': 'ListItem', 'position': i + 1, 'name': NAMES[pf], 'url': BASE + pf + '/'}
+              for i, pf in enumerate(sorted(k2 for k2 in NAMES if '/' not in k2))]
+        graph = [ORG, SITE, {'@type': 'CollectionPage', '@id': BASE + '#page', 'url': BASE, 'name': 'BokenJapan: Japan by prefecture',
+                             'isPartOf': {'@id': BASE + '#website'}, 'about': {'@type': 'Country', 'name': 'Japan'},
+                             'mainEntity': {'@type': 'ItemList', 'name': 'Prefectures', 'numberOfItems': len(hp), 'itemListElement': hp}}]
     elif k == 'pref':
         pf = parts[0]; pn = NAMES[pf]; n = len(SIB.get(pf, []))
         title = f'{pn} Prefecture travel guide: {plural(n, "town", "towns")} with sights, food and places to stay'
