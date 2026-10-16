@@ -60,7 +60,7 @@
   --ink: #1c1916;
   --muted: #5c564e;
   --line: #d4cfc6;
-  --link: #c43026;
+  --link: #b82a21; /* 4.8:1 on --paper (the old #c43026 was 4.3:1) */
   --link-hover: #8e241c;
   --seal: #c43026;
   --max: 72rem;
@@ -867,11 +867,11 @@ body.home .site-foot > p.foot-disclaimer {
   max-width: none;
   margin: 0;
   padding: 0;
-  font-size: 8px;
-  line-height: 1.35;
+  font-size: 0.75rem; /* small and quiet, but readable (was 8px at 1.4:1 contrast) */
+  line-height: 1.45;
   font-weight: 400;
   letter-spacing: 0.01em;
-  color: #c4bfb6;
+  color: var(--muted);
 }
 
 .brand-foot {
