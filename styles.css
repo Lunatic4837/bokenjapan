@@ -867,7 +867,7 @@ body.home .site-foot > p.foot-disclaimer {
   max-width: none;
   margin: 0;
   padding: 0;
-  font-size: 0.75rem; /* small and quiet, but readable (was 8px at 1.4:1 contrast) */
+  font-size: 10px; /* tiny per R6 (max 10px), but AA contrast now (was 8px at 1.4:1) */
   line-height: 1.45;
   font-weight: 400;
   letter-spacing: 0.01em;
