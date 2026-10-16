@@ -38,6 +38,15 @@ def collect():
     return out
 
 SKIP = {'media', 'go', 'data', 'scripts', 'assets', 'fonts', 'sitemaps'}
+# noindex stub pages (placeholder municipalities, no content): never list them. If the page file is checked out
+# its own robots meta decides; otherwise the known stub pattern does.
+STUB = re.compile(r'^okinawa/jis\d+/index\.html$')
+
+def noindex(f):
+    p = os.path.join(ROOT, f)
+    if os.path.isfile(p):
+        with open(p, encoding='utf-8', errors='ignore') as fh: return 'noindex' in fh.read(6000)
+    return bool(STUB.match(f))
 
 def from_git():
     ls = subprocess.run(['git', '-C', ROOT, 'ls-tree', '-r', '--name-only', 'HEAD'], capture_output=True, text=True, check=True).stdout.split('\n')
@@ -52,6 +61,7 @@ def from_git():
     for f in ls:
         parts = f.split('/')
         if parts[0] in SKIP or not f.endswith('.html'): continue
+        if noindex(f): continue
         if len(parts) == 1 and f != 'index.html' and f not in ('privacy.html', 'terms.html'): continue
         u = BASE + (f[:-10] if f.endswith('index.html') else f)
         out.append((u, max(old.get(u, ''), dates.get(f) or '')))
