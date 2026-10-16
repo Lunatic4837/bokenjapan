@@ -1882,3 +1882,7 @@ body.home .explore-lede {
 /* 404 page: compact region lists */
 .page-main > .directory { padding: 1rem 0 0; max-width: none; }
 .page-main > .directory .region + .region { margin-top: 1.25rem; }
+
+/* Keyboard users: jump past the 47 map links to the text list. */
+.skip-map { position: fixed; top: 0.75rem; left: 0.75rem; z-index: 10; transform: translateY(-300%); box-shadow: 0 6px 18px rgba(28, 25, 22, 0.2); }
+.skip-map:focus { transform: none; }
