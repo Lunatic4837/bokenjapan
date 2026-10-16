@@ -1392,6 +1392,22 @@
      "category": "Cafe"
     },
     {
+     "name": "福吉カフェ 旭橋本店",
+     "name_en": "Fukuyoshi Cafe",
+     "description": "A cafe in Asahikawa, open Mo-Su 10:00-18:00.",
+     "source_url": "https://fukuyoshicafe.com/",
+     "page": "https://bokenjapan.com/hokkaido/asahikawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "カフェ・ドゥ・コリンズ",
+     "name_en": "Cafe du Collins",
+     "description": "A cafe in Asahikawa, open Mo-Su 10:00-20:30.",
+     "source_url": "https://asahikawacoffee.mystrikingly.com/",
+     "page": "https://bokenjapan.com/hokkaido/asahikawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "おいしい美術館eight",
      "name_en": "Oishii Bijutsukan eight",
      "description": "Italian restaurant in Asahikawa, Hokkaido.",
@@ -1520,6 +1536,14 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "つぼ八 ツインハープ店",
+     "name_en": "Tsubohachi Twin Harp Branch",
+     "description": "A pub in Asahikawa, operated by Tsubohachi.",
+     "source_url": "https://tsubohachitsuin-hapu.owst.jp/",
+     "page": "https://bokenjapan.com/hokkaido/asahikawa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "旭川ジンギスカンと北海道和牛 肉ビストロ ユキトニクト",
      "name_en": "Asahikawa Jingisukan and Hokkaido Wagyu Meat Bistro Yukitonikuto",
      "description": "Meat restaurant in Asahikawa, Hokkaido.",
@@ -1560,6 +1584,70 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "山頭火",
+     "name_en": "Santoka",
+     "description": "Santoka is a noodle and ramen restaurant in Asahikawa, open 11:00-22:00, with no outdoor seating.",
+     "source_url": "https://www.openstreetmap.org/node/601395933",
+     "page": "https://bokenjapan.com/hokkaido/asahikawa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "梅光軒",
+     "name_en": "Baikoken",
+     "description": "A ramen restaurant in Asahikawa with no internet access.",
+     "source_url": "https://www.openstreetmap.org/node/2580325825",
+     "page": "https://bokenjapan.com/hokkaido/asahikawa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "秘蔵",
+     "name_en": "Hizo",
+     "description": "A noodle restaurant in Asahikawa.",
+     "source_url": "https://www.openstreetmap.org/node/3112137230",
+     "page": "https://bokenjapan.com/hokkaido/asahikawa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "あさひかわラーメン村",
+     "name_en": "Asahikawa Ramen Village",
+     "description": "A restaurant in Asahikawa.",
+     "source_url": "https://www.ramenmura.com/",
+     "page": "https://bokenjapan.com/hokkaido/asahikawa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "大黑屋 五丁目支店",
+     "name_en": "Daikokuya Gochome Branch",
+     "description": "A restaurant in Asahikawa, open Mo-Su 17:00-00:00.",
+     "source_url": "https://daikoku-jgs.com/",
+     "page": "https://bokenjapan.com/hokkaido/asahikawa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "やよい軒 旭川永山店",
+     "name_en": "Yayoiken Asahikawa Nagayama Branch",
+     "description": "A Japanese restaurant in Asahikawa, open Mo-Th 10:00-22:00; Fr-Sa 10:00-23:00; Su 10:00-22:00, operated by Plenus.",
+     "source_url": "https://www.yayoiken.com/",
+     "page": "https://bokenjapan.com/hokkaido/asahikawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "焼肉きんぐ 旭川永山店",
+     "name_en": "Yakiniku King Asahikawa Nagayama Branch",
+     "description": "A Japanese restaurant in Asahikawa, open Mo-Fr 17:00-23:00; Sa-Su 11:00-23:00; PH 11:00-23:00, operated by Monogatari Corporation.",
+     "source_url": "https://www.yakiniku-king.jp/",
+     "page": "https://bokenjapan.com/hokkaido/asahikawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "井泉",
+     "name_en": "Isen",
+     "description": "A Japanese restaurant in Asahikawa.",
+     "source_url": "https://www.openstreetmap.org/node/2422875769",
+     "page": "https://bokenjapan.com/hokkaido/asahikawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "髭 北海道居酒屋 酔い処",
      "name_en": "Hige Hokkaido Izakaya Yoidokoro",
      "description": "Seafood restaurant in Asahikawa, Hokkaido.",
@@ -1574,6 +1662,30 @@
      "source_url": "https://tabelog.com/hokkaido/A0104/A010401/1061735/",
      "page": "https://bokenjapan.com/hokkaido/asahikawa/eat/seafood/",
      "category": "Japanese (seafood)"
+    },
+    {
+     "name": "和処つたもり",
+     "name_en": "Tsutamori",
+     "description": "A sushi restaurant in Asahikawa.",
+     "source_url": "https://www.tsutamori.net",
+     "page": "https://bokenjapan.com/hokkaido/asahikawa/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "北々亭",
+     "name_en": "Hokuhokutei",
+     "description": "A sushi restaurant in Asahikawa.",
+     "source_url": "https://www.kaitenmaru.com/shop/",
+     "page": "https://bokenjapan.com/hokkaido/asahikawa/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "ミスタードーナツ",
+     "name_en": "Mister Donut",
+     "description": "A donut fast food restaurant in Asahikawa, open 10:00-23:00 Monday to Sunday and public holidays, with takeaway.",
+     "source_url": "https://www.openstreetmap.org/node/2090879091",
+     "page": "https://bokenjapan.com/hokkaido/asahikawa/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "sights": [
@@ -4558,6 +4670,14 @@
      "category": "Casual"
     },
     {
+     "name": "びっくりドンキー 千歳店",
+     "name_en": "Bikkuri Donkey Chitose Branch",
+     "description": "A burger restaurant in Chitose, open 10:00-03:00, with limited wheelchair access.",
+     "source_url": "https://www.bikkuri-donkey.com/",
+     "page": "https://bokenjapan.com/hokkaido/chitose/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "北海道増毛漁港直送 遠藤水産 千歳千代田町店",
      "name_en": "Hokkaido Mashike Fishing Port Direct Delivery Endo Suisan Chitose Chiyoda-cho Branch",
      "description": "Izakaya in Chitose, Hokkaido.",
@@ -4686,6 +4806,30 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "ラーメン山岡家 千歳店",
+     "name_en": "Ramen Yamaokaya Chitose Branch",
+     "description": "A ramen restaurant in Chitose, open 24/7, with capacity 61.",
+     "source_url": "https://www.yamaokaya.com/",
+     "page": "https://bokenjapan.com/hokkaido/chitose/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "丸亀製麺 千歳店",
+     "name_en": "Marugame Seimen Chitose Branch",
+     "description": "A fast-food noodle shop in Chitose, open 11:00-22:00, with takeaway.",
+     "source_url": "https://www.marugame-seimen.com/",
+     "page": "https://bokenjapan.com/hokkaido/chitose/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "アジアンバーラマイ 千歳店",
+     "name_en": "Asian Bar Ramai Chitose Branch",
+     "description": "A sour curry restaurant in Chitose, open 11:30-21:30.",
+     "source_url": "https://www.ramai.co.jp/",
+     "page": "https://bokenjapan.com/hokkaido/chitose/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "串揚げ くずみ",
      "name_en": "Kushiage Kuzumi",
      "description": "Kushiage restaurant in Chitose, Hokkaido.",
@@ -4724,6 +4868,14 @@
      "source_url": "https://tabelog.com/hokkaido/A0107/A010701/1057796/",
      "page": "https://bokenjapan.com/hokkaido/chitose/eat/seafood/",
      "category": "Japanese (seafood)"
+    },
+    {
+     "name": "ミルティーロ",
+     "name_en": "MIRTILLO",
+     "description": "An ice cream fast-food place in Chitose, open Apr-Sep Mo-Su 10:00-19:00, Oct-Mar Mo-Su 11:00-18:00, and closed Wednesday from Oct-Mar.",
+     "source_url": "https://mirtillo.tank.jp/",
+     "page": "https://bokenjapan.com/hokkaido/chitose/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "stays": [
@@ -5416,6 +5568,14 @@
      "name_en": "Koropokkuru Mountain Lodge",
      "description": "Soba restaurant in Ebetsu, Hokkaido.",
      "source_url": "https://tabelog.com/hokkaido/A0107/A010703/1019183/",
+     "page": "https://bokenjapan.com/hokkaido/ebetsu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "ラーメン山岡家 野幌店",
+     "name_en": "Ramen Yamaokaya Nopporo Branch",
+     "description": "A ramen restaurant in Ebetsu.",
+     "source_url": "https://www.yamaokaya.com/",
      "page": "https://bokenjapan.com/hokkaido/ebetsu/eat/noodles/",
      "category": "Japanese (noodles)"
     },
@@ -8100,6 +8260,70 @@
    "date_modified": "2026-10-15",
    "food": [
     {
+     "name": "タリーズコーヒー 函館駅店",
+     "name_en": "Tully's Coffee Hakodate Station Branch",
+     "description": "Coffee shop in Hakodate, open daily 07:30-19:00, with wireless internet.",
+     "source_url": "https://shop.tullys.co.jp/detail/5170885",
+     "page": "https://bokenjapan.com/hokkaido/hakodate/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "cafe DripDrop",
+     "name_en": "Cafe DripDrop",
+     "description": "Cafe in Hakodate, open 10:00-17:00 Monday, Tuesday, Thursday to Sunday and public holidays; Wednesday and December 29 to January 4 closed; December 28 10:00-15:00.",
+     "source_url": "https://hakomachi.com/annai/1f-cafe/",
+     "page": "https://bokenjapan.com/hokkaido/hakodate/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "ラッキーピエロ ベイエリア本店",
+     "name_en": "Lucky Pierrot",
+     "description": "A burger fast-food restaurant in Hakodate, open Mo-Su 10:00-00:30, with takeaway.",
+     "source_url": "http://luckypierrot.jp/bayarea",
+     "page": "https://bokenjapan.com/hokkaido/hakodate/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "ラッキーピエロマリーナ末広店",
+     "name_en": "Lucky Pierrot Marina Suehiro Shop",
+     "description": "A burger fast-food restaurant in Hakodate, open Mo-Fr 10:00-00:30; Sa-Su 10:00-01:30, with takeaway.",
+     "source_url": "http://www.luckypierrot.jp/",
+     "page": "https://bokenjapan.com/hokkaido/hakodate/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "一花亭 たびじ",
+     "name_en": "Ichihanatei Tabiji",
+     "description": "Japanese fast-food restaurant in Hakodate, with wheelchair access and no outdoor seating.",
+     "source_url": "https://donburiyokocho.com/01_14.html",
+     "page": "https://bokenjapan.com/hokkaido/hakodate/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "レストラン雪河亭",
+     "name_en": "Restaurant Sekkatei",
+     "description": "Curry, Western, French, Russian, and British restaurant in Hakodate.",
+     "source_url": "https://gotoken1879.jp/restaurant/",
+     "page": "https://bokenjapan.com/hokkaido/hakodate/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "五島軒本店",
+     "name_en": "Restaurant Gotoken",
+     "description": "A restaurant in Hakodate serving curry, Western, French, Russian, and British cuisine.",
+     "source_url": "https://gotoken1879.jp/",
+     "page": "https://bokenjapan.com/hokkaido/hakodate/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "カリフォルニアべイビー",
+     "name_en": "California Baby",
+     "description": "American diner restaurant in Hakodate, open Monday to Friday 11:00-23:00 and Saturday to Sunday 10:00-23:00.",
+     "source_url": "https://www.hakobura.jp/db/db-food/2009/03/post-79.html",
+     "page": "https://bokenjapan.com/hokkaido/hakodate/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "やきとりおでんの寿楽",
      "name_en": "Yakitori Oden no Juraku",
      "description": "Izakaya in Hakodate, Hokkaido.",
@@ -8212,6 +8436,14 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "根ぼっけ",
+     "name_en": "Nebokke",
+     "description": "Japanese pub in Hakodate, open Monday to Saturday 17:00-23:00 and Sunday 17:00-22:00, with wheelchair access.",
+     "source_url": "https://www.nebokke.jp/",
+     "page": "https://bokenjapan.com/hokkaido/hakodate/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "ステーキ・海鮮 鉄板焼 北風",
      "name_en": "Steak / Seafood Teppanyaki Kitakaze",
      "description": "Teppanyaki restaurant in Hakodate, Hokkaido.",
@@ -8244,6 +8476,22 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "函館ひかりの屋台 大門横丁",
+     "name_en": "Daimon Yokocho",
+     "description": "Restaurant in Hakodate, open daily 17:00-00:00.",
+     "source_url": "https://www.hakodate-yatai.com/",
+     "page": "https://bokenjapan.com/hokkaido/hakodate/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Hakodate Beer Hall",
+     "name_en": "Hakodate Beer Hall",
+     "description": "A restaurant in Hakodate, open Thursday to Tuesday 11:00-14:30 and 17:00-21:30, with no outdoor seating.",
+     "source_url": "https://www.hakodate-factory.com/beer/",
+     "page": "https://bokenjapan.com/hokkaido/hakodate/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "竹葉新葉亭",
      "name_en": "Chikuyo Shin-yotei",
      "description": "Ryokan restaurant in Hakodate, Hokkaido.",
@@ -8268,6 +8516,14 @@
      "category": "Other Japanese"
     },
     {
+     "name": "旬花",
+     "name_en": "Shunka",
+     "description": "Japanese restaurant in Hakodate, open 11:00-15:30 and 17:00-21:30, with limited wheelchair access.",
+     "source_url": "https://www.shunka.jp/",
+     "page": "https://bokenjapan.com/hokkaido/hakodate/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "箱館居酒屋 熾美",
      "name_en": "Hakodate Izakaya Shibi",
      "description": "Seafood restaurant in Hakodate, Hokkaido.",
@@ -8288,6 +8544,22 @@
      "name_en": "Hakodate Dining Miyabiya Bay Area Branch",
      "description": "Seafood restaurant in Hakodate, Hokkaido.",
      "source_url": "https://tabelog.com/hokkaido/A0105/A010501/1076730/",
+     "page": "https://bokenjapan.com/hokkaido/hakodate/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "函館海鮮料理 海光房",
+     "name_en": "Kaikoubou",
+     "description": "Seafood restaurant in Hakodate.",
+     "source_url": "https://www.hakodate-kaikoubo.com/",
+     "page": "https://bokenjapan.com/hokkaido/hakodate/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "回転寿司 根室花まる キラリス函館店",
+     "name_en": "Conveyor Belt Sushi Nemuro Hanamaru Kiraris Hakodate Branch",
+     "description": "Sushi restaurant in Hakodate, open daily 11:00-22:00.",
+     "source_url": "https://www.sushi-hanamaru.com/store/details/s16.html?p=a#store",
      "page": "https://bokenjapan.com/hokkaido/hakodate/eat/seafood/",
      "category": "Japanese (seafood)"
     }
@@ -15339,6 +15611,38 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "味覚園銀座店",
+     "name_en": "Mikakuen Ginza",
+     "description": "Mikakuen Ginza is a barbecue restaurant in Kitami operated by Life Corporation.",
+     "source_url": "https://life-v.co.jp/shop/mikakuenkitamiginza/",
+     "page": "https://bokenjapan.com/hokkaido/kitami/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "炭焼味覚園総本店",
+     "name_en": "Mikakuen Souhonten",
+     "description": "Mikakuen Souhonten is a steak house in Kitami operated by Life Corporation.",
+     "source_url": "https://life-v.co.jp/shop/mikakuensouhonten/",
+     "page": "https://bokenjapan.com/hokkaido/kitami/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "板門店",
+     "name_en": "Panmunjom",
+     "description": "A barbecue restaurant in Kitami.",
+     "source_url": "https://www.openstreetmap.org/node/12749060043",
+     "page": "https://bokenjapan.com/hokkaido/kitami/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "オホーツクビアファクトリー",
+     "name_en": "Okhotsk Beer Factory",
+     "description": "Okhotsk Beer Factory is a restaurant in Kitami operated by Okhotsk Beer Co., Ltd.",
+     "source_url": "https://www.beers.co.jp/",
+     "page": "https://bokenjapan.com/hokkaido/kitami/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "日本料理 雲",
      "name_en": "Japanese Cuisine Kumo",
      "description": "Japanese restaurant in Kitami, Hokkaido.",
@@ -15359,6 +15663,14 @@
      "name_en": "Seafood Dining BiKuRa Route Inn Grand Kitami Station Front Branch",
      "description": "Seafood restaurant in Kitami, Hokkaido.",
      "source_url": "https://tabelog.com/hokkaido/A0110/A011003/1054515/",
+     "page": "https://bokenjapan.com/hokkaido/kitami/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "回転寿司くるくる 柏陽店",
+     "name_en": "Kaiten-sushi Kurukuru Hakuyo Branch",
+     "description": "Kaiten-sushi Kurukuru Hakuyo Branch is a sushi restaurant in Kitami offering takeaway.",
+     "source_url": "https://mr-kurukuru.jp/",
      "page": "https://bokenjapan.com/hokkaido/kitami/eat/seafood/",
      "category": "Japanese (seafood)"
     }
@@ -16671,10 +16983,26 @@
    "date_modified": "2026-10-15",
    "food": [
     {
+     "name": "CAFE The Lucky Boots",
+     "name_en": "CAFE The Lucky Boots",
+     "description": "This cafe in Kushiro is open Mo-Su 11:00-22:00.",
+     "source_url": "https://cafetheluckyboots.com/",
+     "page": "https://bokenjapan.com/hokkaido/kushiro/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "BISTRO AMUSE",
      "name_en": "BISTRO AMUSE",
      "description": "Italian restaurant in Kushiro, Hokkaido.",
      "source_url": "https://tabelog.com/hokkaido/A0112/A011201/1085327/",
+     "page": "https://bokenjapan.com/hokkaido/kushiro/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "泉屋",
+     "name_en": "Izumiya",
+     "description": "A pasta restaurant in Kushiro.",
+     "source_url": "https://www.openstreetmap.org/node/5326417921",
      "page": "https://bokenjapan.com/hokkaido/kushiro/eat/european/",
      "category": "European"
     },
@@ -16837,6 +17165,22 @@
      "source_url": "https://tabelog.com/hokkaido/A0112/A011201/1081721/",
      "page": "https://bokenjapan.com/hokkaido/kushiro/eat/meat/",
      "category": "Japanese (meat)"
+    },
+    {
+     "name": "ジョイパックチキン釧路昭和店",
+     "name_en": "Joypack Chicken Kushiro Showa Branch",
+     "description": "This chicken fast-food shop in Kushiro is open 11:00-19:00.",
+     "source_url": "https://joypackchicken.com/",
+     "page": "https://bokenjapan.com/hokkaido/kushiro/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "竹老園 東家総本店",
+     "name_en": "Chikuroen Azumaya Main Store",
+     "description": "This noodle restaurant in Kushiro is open We-Mo 11:00-16:00 and offers takeaway.",
+     "source_url": "https://chikurouen.com/",
+     "page": "https://bokenjapan.com/hokkaido/kushiro/eat/noodles/",
+     "category": "Japanese (noodles)"
     },
     {
      "name": "天ぷら料理 さくら",
@@ -20688,6 +21032,14 @@
      "source_url": "https://tabelog.com/hokkaido/A0108/A010803/1020294/",
      "page": "https://bokenjapan.com/hokkaido/muroran/eat/meat/",
      "category": "Japanese (meat)"
+    },
+    {
+     "name": "味の大王",
+     "name_en": "Aji no Daio",
+     "description": "A restaurant in Muroran, open 11:00-21:00, offering takeaway.",
+     "source_url": "https://www.openstreetmap.org/node/4752456906",
+     "page": "https://bokenjapan.com/hokkaido/muroran/eat/other/",
+     "category": "Other"
     },
     {
      "name": "四季ダイニング和薫",
@@ -26643,6 +26995,22 @@
    "date_modified": "2026-10-15",
    "food": [
     {
+     "name": "可否茶館 小樽店",
+     "name_en": "Kahisakan Otaru Branch",
+     "description": "Kahisakan Otaru Branch is a cafe in Otaru, open Monday to Sunday 10:00-17:00.",
+     "source_url": "https://www.kahisakan.jp/",
+     "page": "https://bokenjapan.com/hokkaido/otaru/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "ルタオ 運河プラザ店",
+     "name_en": "LeTAO Unga Plaza Branch",
+     "description": "LeTAO Unga Plaza Branch is a cafe in Otaru.",
+     "source_url": "https://www.letao-brand.jp/shop/unga/",
+     "page": "https://bokenjapan.com/hokkaido/otaru/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "ISO",
      "name_en": "ISO",
      "description": "Italian restaurant in Otaru, Hokkaido.",
@@ -26787,6 +27155,22 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "なると",
+     "name_en": "Naruto",
+     "description": "A restaurant serving chicken and fried food in Otaru with takeaway and wheelchair access.",
+     "source_url": "https://www.openstreetmap.org/node/2936327401",
+     "page": "https://bokenjapan.com/hokkaido/otaru/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "伊勢鮨",
+     "name_en": "Isezushi",
+     "description": "Isezushi is a Japanese restaurant in Otaru, open Thursday to Monday 11:30-14:30 and 17:00-20:30.",
+     "source_url": "https://www.isezushi.com/",
+     "page": "https://bokenjapan.com/hokkaido/otaru/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "おたる鮨処 伊藤",
      "name_en": "Otaru Sushidokoro Ito",
      "description": "Sushi restaurant in Otaru, Hokkaido.",
@@ -26823,6 +27207,22 @@
      "name_en": "Otaru Cuisine Kurage",
      "description": "Seafood restaurant in Otaru, Hokkaido.",
      "source_url": "https://tabelog.com/hokkaido/A0106/A010601/1028800/",
+     "page": "https://bokenjapan.com/hokkaido/otaru/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "ふじ鮨",
+     "name_en": "Fujizushi",
+     "description": "Fujizushi is a sushi restaurant in Otaru, open Friday to Wednesday 11:00-20:00.",
+     "source_url": "https://fujizushi.co.jp/",
+     "page": "https://bokenjapan.com/hokkaido/otaru/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "北の漁場",
+     "name_en": "Kita no Gyojo",
+     "description": "Kita no Gyojo is a seafood restaurant in Otaru, open Monday to Sunday 11:00-17:00.",
+     "source_url": "https://www.uedabussan.co.jp/",
      "page": "https://bokenjapan.com/hokkaido/otaru/eat/seafood/",
      "category": "Japanese (seafood)"
     }
@@ -30554,6 +30954,206 @@
    ],
    "food": [
     {
+     "name": "純喫茶オリンピア",
+     "name_en": "JUN-KISSA Olympia",
+     "description": "A coffee shop in Chuo Ward, Sapporo, open Mo-Fr 10:00-18:00, with WLAN internet access.",
+     "source_url": "https://www.olympia-coffee.jp/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "タリーズコーヒー 札幌STV北2条店",
+     "name_en": "Tully's Coffee Sapporo STV Kita 2-jo Branch",
+     "description": "A coffee shop in Chuo Ward, Sapporo, open Mo-Fr 07:30-20:00, Sa 09:00-18:00 and Su 10:00-17:00, with wheelchair access.",
+     "source_url": "https://shop.tullys.co.jp/detail/1320139",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "コメダ珈琲店 二十四軒店",
+     "name_en": "Komeda's Coffee Nijuyonken Branch",
+     "description": "Coffee shop in Nishi Ward, Sapporo, open 07:00-23:00, with takeaway.",
+     "source_url": "https://www.komeda.co.jp/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "上島珈琲店 札幌アピア店",
+     "name_en": "Ueshima Coffee House Sapporo Apia Branch",
+     "description": "Coffee shop in Chuo Ward, Sapporo, open 08:00-21:00, with takeaway.",
+     "source_url": "https://www.ueshima-coffee-ten.jp/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "PRONTO 日本生命札幌ビル店",
+     "name_en": "PRONTO Nihon Seimei Sapporo Building Branch",
+     "description": "Coffee shop in Chuo Ward, Sapporo, open 07:30-23:00, with takeaway.",
+     "source_url": "https://shop.pronto.co.jp/detail/1006/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "サンマルクカフェ 札幌ル・トロワ店",
+     "name_en": "Saint Marc Cafe Sapporo Le Trois Branch",
+     "description": "Coffee shop in Chuo Ward, Sapporo, open 07:30-21:00, with takeaway.",
+     "source_url": "https://www.saint-marc-hd.com/saintmarccafe/shop/763/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "花論珈琲茶房 藻岩本店",
+     "name_en": "Karon Coffee House Moiwa Main Branch",
+     "description": "A coffee shop cafe in Minami Ward, Sapporo.",
+     "source_url": "https://www.karon-cafe.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "オニヤンマ コーヒー＆ビア",
+     "name_en": "ONIYANMA COFFEE&BEAR",
+     "description": "A cafe in Chuo Ward, Sapporo, open Mo-Sa 08:00-20:00; Su,PH 08:00-18:00, with vegetarian food.",
+     "source_url": "https://oniyanmacoffee.jp/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "CAFE NOYMOND",
+     "name_en": "CAFE NOYMOND",
+     "description": "A cafe in Chuo Ward, Sapporo, open 13:00-23:00.",
+     "source_url": "https://noymond.owst.jp/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "宇治園 札幌直営店",
+     "name_en": "Ujien Sapporo Directly Managed Store",
+     "description": "A tea cafe in Chuo Ward, Sapporo.",
+     "source_url": "https://ujien-tea.jp/cafe/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "CAFE YOSHIMI",
+     "name_en": "CAFE YOSHIMI",
+     "description": "Cafe in Chuo Ward, Sapporo, open 07:30-23:30, with wheelchair access.",
+     "source_url": "https://www.yoshimi-ism.com/restaurant/cy.php",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "GAGNON CAFÉ",
+     "name_en": "Gagnon Cafe",
+     "description": "Cafe in Chuo Ward, Sapporo, open Tu-Su 11:00-18:00; PH 11:00-18:00.",
+     "source_url": "https://www.gagnon-jp.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "guupee",
+     "name_en": "guupee",
+     "description": "A cafe in Chuo Ward, Sapporo, open We-Su 11:00-18:00; Mo-Tu off.",
+     "source_url": "https://guupee.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "サンドリア",
+     "name_en": "Sandria",
+     "description": "Takeaway-only sandwich fast food in Chuo Ward, Sapporo, open 24/7; Dec 31-Jan 02 off.",
+     "source_url": "https://www.s-sandwich.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "モスバーガー 札幌琴似店",
+     "name_en": "MOS Burger Sapporo Kotoni Branch",
+     "description": "Burger fast food in Sapporo, open 07:00-22:00, takeaway available.",
+     "source_url": "https://www.mos.jp/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "築地銀だこ 札幌すすきの店",
+     "name_en": "Gindaco Sapporo Susukino Branch",
+     "description": "Takoyaki fast food in Chuo Ward, Sapporo, open 17:00-04:00, takeaway available.",
+     "source_url": "https://www.gindaco.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "フレッシュネスバーガー サッポロファクトリー店",
+     "name_en": "Freshness Burger Sapporo Factory Branch",
+     "description": "Burger fast food in Chuo Ward, Sapporo, open Mo-Su,PH 10:00-22:00, takeaway available.",
+     "source_url": "https://search.freshnessburger.co.jp/detail/3013449/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "仕出し弁当のはちわか 苗穂支店",
+     "name_en": "Hachiwaka Catering Bento Naebo Branch",
+     "description": "Japanese fast food in Chuo Ward, Sapporo, open 10:00-13:00, takeaway only.",
+     "source_url": "https://8waka.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "皆招楼",
+     "name_en": "Kaishoro",
+     "description": "A Chinese restaurant in Chuo Ward, Sapporo, open Mo-Sa 13:00-04:00 and Su, PH 13:00-01:00.",
+     "source_url": "https://kaishourou.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "ViVA LA ViDA",
+     "name_en": "ViVA LA ViDA",
+     "description": "Mexican restaurant in Chuo Ward, Sapporo.",
+     "source_url": "https://www.vivalavida2015.jp/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Picante",
+     "name_en": "Picante",
+     "description": "A curry restaurant in Chuo Ward, Sapporo, open 11:00-16:00.",
+     "source_url": "https://www.picante2009.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "lavi 琴似店",
+     "name_en": "lavi Kotoni Branch",
+     "description": "Curry restaurant in Nishi Ward, Sapporo, open 11:30-22:30.",
+     "source_url": "https://011bros.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "松のや すすきの店",
+     "name_en": "Matsunoya Susukino Branch",
+     "description": "Japanese and curry restaurant in Chuo Ward, Sapporo, open 24/7, with takeaway.",
+     "source_url": "https://www.matsuyafoods.co.jp/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "アース 札幌市西岡店",
+     "name_en": "earth Sapporo Nishioka Branch",
+     "description": "Nepalese, Indian, and curry restaurant in Sapporo.",
+     "source_url": "https://earthinc.co/sapporo-city/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "チャンピオンカレー 札幌白石店",
+     "name_en": "Champion Curry Sapporo Shiroishi Branch",
+     "description": "Curry fast food in Shiroishi Ward, Sapporo, open Mo-Su 11:00-21:00.",
+     "source_url": "https://chancurry.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/curry/",
+     "category": "Curry"
+    },
+    {
      "name": "PIZZA ＆ Cheese RITORNO",
      "name_en": "PIZZA & Cheese RITORNO",
      "description": "Italian restaurant in Sapporo, Hokkaido.",
@@ -30574,6 +31174,86 @@
      "name_en": "Osteria Da Boo.",
      "description": "Italian restaurant in Sapporo, Hokkaido.",
      "source_url": "https://tabelog.com/hokkaido/A0101/A010102/1076576/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "カフェdeごはん",
+     "name_en": "Cafe de GOHAN",
+     "description": "A sandwich, Italian and Japanese cafe in Kita Ward, Sapporo, with outdoor seating, open Mo-Fr 07:45-23:00 and Sa-Su 08:30-21:00.",
+     "source_url": "https://cafedegohan.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "バンケット",
+     "name_en": "French Restaurant Banquet",
+     "description": "French restaurant in Sapporo, open 12:00-13:00,18:00-20:00; Mo,Tu off, with limited wheelchair access.",
+     "source_url": "https://banquet-s.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "カプリチョーザ",
+     "name_en": "Capricciosa",
+     "description": "An Italian restaurant in Chuo Ward, Sapporo, open 11:30-15:00, 17:00-21:00.",
+     "source_url": "https://capricciosa.com/location/%e6%9c%ad%e5%b9%8c%e5%8c%971%e6%9d%a1%e5%ba%97/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "CAFE ＆ RESTAURANT ORGALI",
+     "name_en": "CAFE & RESTAURANT ORGALI",
+     "description": "An Italian restaurant in Chuo Ward, Sapporo.",
+     "source_url": "https://washidu-collaboact.com/orgali/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "ベビーフェイスプラネッツ 札幌宮の森店",
+     "name_en": "Baby Face Planets Sapporo Miyanomori Branch",
+     "description": "An Italian restaurant in Chuo Ward, Sapporo.",
+     "source_url": "https://babyface-planets.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "エッセンサッポロ平岸本店",
+     "name_en": "ESSEN Sapporo Hiragishi main store",
+     "description": "Burger and German fast food in Toyohira Ward, Sapporo, open Mo-Su 11:00-15:00,17:00-23:00.",
+     "source_url": "https://www.essen-sapporo.jp/shop/essen/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "HOKKAIDO CUISINE KAMUY",
+     "name_en": "HOKKAIDO CUISINE KAMUY",
+     "description": "French restaurant in Chuo Ward, Sapporo.",
+     "source_url": "https://www.aquaplannet.com/brands/kamuy/shops/sapporo/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "チロリン村 麻生店",
+     "name_en": "Chirorin Village Asabu Branch",
+     "description": "Italian restaurant in Kita Ward, Sapporo, open Mo-Tu, Th-Su 11:00-21:30; We off.",
+     "source_url": "https://chirorin.do-kyu.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Bistaurant Fuji",
+     "name_en": "Bistaurant Fuji",
+     "description": "A French restaurant in Chuo Ward, Sapporo.",
+     "source_url": "https://sapporo-bonvoyage.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "カジュアルフレンチ ル・シュクレ",
+     "name_en": "Le Sucre (Casual French)",
+     "description": "French restaurant in Sapporo.",
+     "source_url": "https://le-sucre.info/sp/index.html",
      "page": "https://bokenjapan.com/hokkaido/sapporo/eat/european/",
      "category": "European"
     },
@@ -30634,6 +31314,14 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "海鮮家はこだて 本店",
+     "name_en": "Seafood House Hakodate Main Branch",
+     "description": "A pub in Chuo Ward, Sapporo, open 17:00-27:30.",
+     "source_url": "https://k-hakodate.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "すき焼 しゃぶしゃぶ 牛のいしざき",
      "name_en": "Sukiyaki Shabu-Shabu Ushi no Ishizaki",
      "description": "Sukiyaki restaurant in Sapporo, Hokkaido.",
@@ -30674,6 +31362,262 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "だるま 本店",
+     "name_en": "Daruma Main Branch",
+     "description": "A barbecue restaurant in Chuo Ward, Sapporo, open Mo-Su 17:00-03:00.",
+     "source_url": "https://sapporo-jingisukan.info/main",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "いきなり！ステーキ 札幌南店",
+     "name_en": "Ikinari Steak Sapporo Minami Branch",
+     "description": "A steak house restaurant in Chuo Ward, Sapporo, open 11:00-23:00, seating 31.",
+     "source_url": "https://ikinaristeak.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "叙々苑 札幌駅前店",
+     "name_en": "Jojoen Sapporo Ekimae Branch",
+     "description": "Barbecue restaurant in Chuo Ward, Sapporo, open Mo-Fr 11:30-16:00, 17:00-21:30; Sa-Su,PH 11:30-21:30.",
+     "source_url": "https://www.jojoen.co.jp/shop/jojoen/sapporo-ekimae/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "牛角 藻岩店",
+     "name_en": "Gyu-Kaku Moiwa Branch",
+     "description": "Barbecue restaurant in Minami Ward, Sapporo, open 17:00-00:00, with a capacity of 68.",
+     "source_url": "https://www.gyukaku.ne.jp/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "ウエスタン 平岸店",
+     "name_en": "Western Hiragishi Branch",
+     "description": "Yakiniku restaurant in Toyohira Ward, Sapporo, open 11:00-23:45, with isolated smoking.",
+     "source_url": "https://western-v.co.jp/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "ヴィクトリアステーション 栄町店",
+     "name_en": "Victoria Station Sakaemachi Branch",
+     "description": "Steak house in Higashi Ward, Sapporo, open 10:00-02:00, operated by Big Boy Japan.",
+     "source_url": "https://www.bigboyjapan.co.jp/menu-victoria/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "松尾ジンギスカン 札幌大通南1条店",
+     "name_en": "Matsuo Gengis Khan restaurant Sapporo Odori Minami 1-jo Branch",
+     "description": "A barbecue restaurant in Chuo Ward, Sapporo, open Mo-Su 11:00-14:30, 17:00-22:30, with capacity 50.",
+     "source_url": "https://www.matsuo1956.jp/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "焼肉ダイニング MEGUMI",
+     "name_en": "Yakinishi Dinning MEGUMI",
+     "description": "A barbecue restaurant in Chuo Ward, Sapporo.",
+     "source_url": "https://yakiniku-megumi.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Steak and Hamburg ひげ 札幌南6条店",
+     "name_en": "Steak and Hamburg Hige Sapporo Minami 6-jo Branch",
+     "description": "A steak house in Chuo Ward, Sapporo, open Mo-Su 11:00-16:00, 16:00-04:00.",
+     "source_url": "https://hige-style.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "炭火焼肉 味覚園",
+     "name_en": "Charcoal-Grilled Yakiniku Mikakuen",
+     "description": "A barbecue restaurant in Chuo Ward, Sapporo, open Mo-Fr 17:00-23:00 and Sa-Su 16:00-23:00.",
+     "source_url": "https://life-v.co.jp/shop/mikakuenminami2jo/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "七輪焼肉 安安 札幌麻生店",
+     "name_en": "anan Sapporo Asabu Branch",
+     "description": "A barbecue restaurant in Kita Ward, Sapporo.",
+     "source_url": "https://anan.fuji-tatsu.co.jp/shop/sapporo-asabu/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "焼肉ホルモン 新なるぼんず すすきの路地裏店",
+     "name_en": "Yakiniku Horumon Shin Narubonzu Susukino Rojiura Branch",
+     "description": "A barbecue restaurant in Chuo Ward, Sapporo, open 16:30-00:00.",
+     "source_url": "https://bonzurojiura.owst.jp/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "南光園 オークラ店",
+     "name_en": "Nankouen (Okura) Okura Branch",
+     "description": "Barbecue restaurant in Sapporo, open Mo-Su 17:00-04:30.",
+     "source_url": "https://nankouen-okura.owst.jp/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "札幌ジンギスカン 羊屋えびす",
+     "name_en": "Sapporo Jingisukan Hitsujiya Ebisu",
+     "description": "A barbecue restaurant in Chuo Ward, Sapporo.",
+     "source_url": "https://hitsujiyaebisu.foodre.jp/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "ぶあいそ 別邸",
+     "name_en": "Buaiso Bettei",
+     "description": "A restaurant serving Japanese regional chicken and mizutaki in Sapporo, open Mo-Fr 11:30-15:00, 17:00-23:00; Sa-Su 11:30-23:00.",
+     "source_url": "https://buaiso-bettei.owst.jp/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "味覚園 東苗穂店",
+     "name_en": "Mikakuen Higashinaebo Branch",
+     "description": "Yakiniku restaurant in Higashi Ward, Sapporo.",
+     "source_url": "https://www.life-v.co.jp/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "らーめん吉山商店 創成橋店",
+     "name_en": "Ramen Yoshiyama shoten Soseibashi Branch",
+     "description": "A ramen restaurant in Chuo Ward, Sapporo, open Mo-Fr 11:00-15:00 and 17:00-21:00, and Sa-Su and public holidays 11:00-21:00.",
+     "source_url": "https://www.yosiyama-shouten.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "ラーメン山岡家 東雁来店",
+     "name_en": "Ramen Yamaokaya Higashikariki Branch",
+     "description": "Ramen restaurant in Higashi Ward, Sapporo, open 24/7, with a capacity of 36.",
+     "source_url": "https://www.yamaokaya.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "ラーメン山岡家 新道店",
+     "name_en": "Ramen Yamaokaya Shindo Branch",
+     "description": "Ramen restaurant in Higashi Ward, Sapporo, open 24/7, with a capacity of 51.",
+     "source_url": "https://www.yamaokaya.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "麺のひな詩",
+     "name_en": "Men no Hinauta",
+     "description": "A ramen restaurant in Chuo Ward, Sapporo, open Monday to Saturday 11:00-20:00 and closed Sunday.",
+     "source_url": "https://mennohinauta-sapporo.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "丸亀製麺 札幌栄町店",
+     "name_en": "Marugame Seimen Sapporo Sakaemachi Branch",
+     "description": "A noodle fast food shop in Higashi Ward, Sapporo, open 11:00-22:00, with takeaway.",
+     "source_url": "https://marugame.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "もいわ太陽食堂",
+     "name_en": "Moiwa Taiyo Shokudo",
+     "description": "Okinawan restaurant in Chuo Ward, Sapporo, open Mo-Tu 11:30-15:00, Th-Su 11:30-15:00,17:00-21:00, with no outdoor seating.",
+     "source_url": "https://islandtyda.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "おむすび きゅうさん",
+     "name_en": "Omusubi Kyusan",
+     "description": "Restaurant serving rice in Higashi Ward, Sapporo, open Mo-Su 10:00-19:00, with takeaway.",
+     "source_url": "https://satsubei.co.jp/omusubi.php",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "十勝豚丼いっぴん 札幌北十条店",
+     "name_en": "Tokachi Butadon Ippin Sapporo Kitajujo Branch",
+     "description": "Restaurant in Higashi Ward, Sapporo, open 11:00-23:00, with takeaway.",
+     "source_url": "https://www.butadon-ippin.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "やよい軒 二十四軒店",
+     "name_en": "Yayoiken Nijuyonken Branch",
+     "description": "A Japanese restaurant in Nishi Ward, Sapporo, open 08:00-23:00, with no takeaway.",
+     "source_url": "https://www.yayoiken.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "旬采割烹くるみ澤",
+     "name_en": "Syunsai-Kappou Kurumisawa",
+     "description": "A Japanese restaurant in Chuo Ward, Sapporo, seating 16, open 17:30-22:30 except Wednesday.",
+     "source_url": "https://www.kurumisawa.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "十勝豚丼いっぴん ニッセイビル店",
+     "name_en": "Tokachi Butadon Ippin Nissay Building Branch",
+     "description": "Japanese restaurant in Chuo Ward, Sapporo, open 11:00-15:30, 17:00-21:30, with takeaway.",
+     "source_url": "https://butadon-ippin.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "とんかつ玉藤",
+     "name_en": "Tonkatsu Tamafuji",
+     "description": "Japanese restaurant in Higashi Ward, Sapporo, open 11:00-22:00, operated by Do-kyu.",
+     "source_url": "https://tamafuji.do-kyu.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "揚げたて串揚げと焼き鳥てっちゃん南1条店",
+     "name_en": "Freshly Fried Kushiage and Yakitori Tecchan Minami 1-jo Branch",
+     "description": "A Japanese restaurant in Chuo Ward, Sapporo, open 12:00-24:00.",
+     "source_url": "https://tecchan-minami1.owst.jp/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "酒とそば まるき",
+     "name_en": "Sake and Soba Maruki",
+     "description": "A Japanese restaurant in Chuo Ward, Sapporo, open Tuesday to Saturday 11:30-21:30 and Sunday 11:30-19:30, with wheelchair access.",
+     "source_url": "https://mado-sapporo.jp/maruki/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "釧路ふく亭 櫂梯樓",
+     "name_en": "Fukutei",
+     "description": "A Japanese restaurant in Chuo Ward, Sapporo, operated by Fukutei.",
+     "source_url": "https://www.fukutei.net/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "徳寿 平岡店",
+     "name_en": "Tokuju Hiraoka Branch",
+     "description": "Japanese restaurant in Sapporo, open Mo-Fr 11:30-15:00,17:00-22:30; Sa 11:30-23:00; Su,PH 11:30-22:30.",
+     "source_url": "https://www.tokuju.com/shop/hiraoka/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "かにと道産料理 雪華亭",
      "name_en": "Kani to Dosan Ryori Sekkatei",
      "description": "Seafood restaurant in Sapporo, Hokkaido.",
@@ -30688,6 +31632,126 @@
      "source_url": "https://tabelog.com/hokkaido/A0101/A010103/1004712/",
      "page": "https://bokenjapan.com/hokkaido/sapporo/eat/seafood/",
      "category": "Japanese (seafood)"
+    },
+    {
+     "name": "回転寿司 和楽 山鼻店",
+     "name_en": "Waraku Yamahana Branch",
+     "description": "Sushi restaurant in Chuo Ward, Sapporo, open 11:00-22:00, with takeaway.",
+     "source_url": "https://www.waraku1.jp/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "魚吉札幌駅前本店",
+     "name_en": "Uokichi Sapporo Station Front Main Store",
+     "description": "A pub serving fish and Japanese cuisine in Kita Ward, Sapporo, with wheelchair access and no outdoor seating.",
+     "source_url": "https://uokichi.owst.jp/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "町のすし家 四季花まる",
+     "name_en": "Shiki Hanamaru",
+     "description": "A sushi restaurant in Chuo Ward, Sapporo.",
+     "source_url": "https://www.sushi-hanamaru.com/store/details/s05.html",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "蟹工船",
+     "name_en": "Kani Kosen",
+     "description": "A seafood restaurant in Chuo Ward, Sapporo, open Monday and Wednesday to Friday 08:30-14:30, Saturday and Sunday 08:30-15:00, and closed Tuesday.",
+     "source_url": "https://www.sapporokanikosen.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "うに専門店世壱屋 札幌南二条店",
+     "name_en": "Yoichiya Uni Specialty Store Sapporo Minami Nijo Branch",
+     "description": "A seafood restaurant in Chuo Ward, Sapporo.",
+     "source_url": "https://yoichiya.info/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "札幌二条市場 大磯 2号店",
+     "name_en": "Sapporo Nijo Market Oiso No. 2 Branch",
+     "description": "A seafood restaurant in Chuo Ward, Sapporo, open Monday, Wednesday to Sunday, and public holidays 08:00-15:00.",
+     "source_url": "https://ohiso.jp/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "海鮮バイキング 難陀",
+     "name_en": "Seafood Buffet Restaurant NANDA",
+     "description": "Seafood and local restaurant in Chuo Ward, Sapporo.",
+     "source_url": "https://g-nanda.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "回転寿司根室花まる 手稲前田店",
+     "name_en": "Conveyor-belt Sushi Nemuro Hanamaru Teine-Maeda Branch",
+     "description": "Sushi restaurant in Teine Ward, Sapporo, open 11:00-22:00.",
+     "source_url": "https://www.sushi-hanamaru.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "回転寿し 和楽 本店",
+     "name_en": "Waraku Main Branch",
+     "description": "A sushi fast food shop in Higashi Ward, Sapporo, open 11:00-22:00, with takeaway.",
+     "source_url": "https://www.waraku1.jp/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "海味 羅臼料理 はちきょう",
+     "name_en": "Umi Hachikyo",
+     "description": "Seafood and sushi restaurant in Sapporo.",
+     "source_url": "https://hachikyo.com",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Armor",
+     "name_en": "Breton Restaurant Armor",
+     "description": "A Breton crepe restaurant in Chuo Ward, Sapporo, open 11:30-15:00 and 18:00-22:00 except Monday, with takeaway.",
+     "source_url": "https://armor-sapporo.com/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "コッコテラス",
+     "name_en": "COCCO terrace",
+     "description": "Cafe in Kiyota Ward, Sapporo, serving pancakes, dessert, ice cream, and Japanese food, with takeaway, operated by Nagamitsu Farm.",
+     "source_url": "https://nagamitsufarm.com/cocco/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "雪印パーラー",
+     "name_en": "Yukijirushi Parlour",
+     "description": "Ice cream restaurant in Chuo Ward, Sapporo, open 10:00-21:00, with wheelchair access.",
+     "source_url": "https://www.snowbrand-p.co.jp/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "ミスタードーナツ すすきのショップ",
+     "name_en": "Mister Donut Susukino Shop",
+     "description": "A donut fast-food shop in Chuo Ward, Sapporo, open Monday to Thursday and Sunday 10:30-23:00, Friday and Saturday 10:30-00:30, with takeaway.",
+     "source_url": "https://www.misterdonut.jp/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "ミスタードーナツ コーチャンフォーミュンヘン大橋ショップ",
+     "name_en": "Mister Donut Kochanfo Myunhen Ohashi Shop",
+     "description": "A donut fast food shop in Toyohira Ward, Sapporo, open 09:00-23:00, with takeaway.",
+     "source_url": "https://www.misterdonut.jp/",
+     "page": "https://bokenjapan.com/hokkaido/sapporo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "sights": [
@@ -40650,6 +41714,22 @@
    "date_modified": "2026-10-15",
    "food": [
     {
+     "name": "ココトマカフェ",
+     "name_en": "Cocotoma Cafe",
+     "description": "Cafe in Tomakomai, open daily and public holidays 09:00-22:00, closed Dec 29-Jan 3.",
+     "source_url": "https://cocotoma.jp/",
+     "page": "https://bokenjapan.com/hokkaido/tomakomai/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "モスバーガー 苫小牧柳町店",
+     "name_en": "MOS Burger Tomakomai Yanagicho Branch",
+     "description": "Burger fast-food outlet in Tomakomai, open daily and public holidays 10:00-20:00, with takeaway.",
+     "source_url": "https://www.mos.jp/",
+     "page": "https://bokenjapan.com/hokkaido/tomakomai/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "樂食中華 孝",
      "name_en": "Rakushoku Chinese Ko",
      "description": "Chinese restaurant in Tomakomai, Hokkaido.",
@@ -40802,10 +41882,50 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "金剛園 maimai亭",
+     "name_en": "Kongoen Maimai Tei",
+     "description": "Barbecue restaurant in Tomakomai, open daily and public holidays 11:00-22:30.",
+     "source_url": "https://kongo-en.com/",
+     "page": "https://bokenjapan.com/hokkaido/tomakomai/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "金剛園 和み亭",
+     "name_en": "Kongoen Nagomi Tei",
+     "description": "Barbecue restaurant in Tomakomai, open daily and public holidays 11:00-22:30.",
+     "source_url": "https://kongo-en.com/",
+     "page": "https://bokenjapan.com/hokkaido/tomakomai/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "香るつけ蕎麦 蕎麦花 王子町店",
      "name_en": "Kaoru Tsuke Soba Sobahana Ojicho Branch",
      "description": "Soba restaurant in Tomakomai, Hokkaido.",
      "source_url": "https://tabelog.com/hokkaido/A0108/A010802/1047366/",
+     "page": "https://bokenjapan.com/hokkaido/tomakomai/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "ラーメン山岡家 苫小牧船見店",
+     "name_en": "Ramen Yamaokaya Tomakomai Funami Branch",
+     "description": "Ramen restaurant in Tomakomai, open 24/7.",
+     "source_url": "https://www.yamaokaya.com",
+     "page": "https://bokenjapan.com/hokkaido/tomakomai/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "ラーメン山岡家 苫小牧糸井店",
+     "name_en": "Ramen Yamaokaya Tomakomai Itoi Branch",
+     "description": "Ramen restaurant in Tomakomai, open 11:00-03:00 daily including public holidays.",
+     "source_url": "https://www.yamaokaya.com/",
+     "page": "https://bokenjapan.com/hokkaido/tomakomai/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "味の大王",
+     "name_en": "Aji no Daio",
+     "description": "This is a noodle restaurant in Tomakomai.",
+     "source_url": "https://www.openstreetmap.org/way/561320322",
      "page": "https://bokenjapan.com/hokkaido/tomakomai/eat/noodles/",
      "category": "Japanese (noodles)"
     },
@@ -40822,6 +41942,30 @@
      "name_en": "Sekihara",
      "description": "Local-cuisine restaurant in Tomakomai, Hokkaido.",
      "source_url": "https://tabelog.com/hokkaido/A0108/A010802/1003145/",
+     "page": "https://bokenjapan.com/hokkaido/tomakomai/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "やよい軒 苫小牧明野新町店",
+     "name_en": "Yayoiken Tomakomai Akenoshinmachi Branch",
+     "description": "Japanese restaurant in Tomakomai, open daily 10:00-23:00, with delivery.",
+     "source_url": "https://www.yayoiken.com/",
+     "page": "https://bokenjapan.com/hokkaido/tomakomai/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "焼肉きんぐ 苫小牧店",
+     "name_en": "Yakiniku King Tomakomai Branch",
+     "description": "Japanese restaurant in Tomakomai, open 17:00-23:00 on weekdays and 11:00-23:00 on weekends and public holidays.",
+     "source_url": "https://www.yakiniku-king.jp/",
+     "page": "https://bokenjapan.com/hokkaido/tomakomai/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "マルトマ食堂",
+     "name_en": "Marutoma Restaurant",
+     "description": "A Japanese restaurant in Tomakomai, open Monday-Saturday 05:00-14:00 and closed Sunday and public holidays.",
+     "source_url": "http://marutoma-shokudo.com/index.html",
      "page": "https://bokenjapan.com/hokkaido/tomakomai/eat/other-japanese/",
      "category": "Other Japanese"
     },
