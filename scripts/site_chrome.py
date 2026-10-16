@@ -1,0 +1,108 @@
+#!/usr/bin/env python3
+"""Deterministic shared-chrome pass for bokenjapan.com. Idempotent; run after ai_friendly.py.
+
+    python3 scripts/site_chrome.py [--root .] [--check] [--only aomori,akita] [--skip tokyo]
+
+Touches only chrome, never page content:
+  1. footer: one canonical SNS row (same as the homepage: X unlinked until the account is live,
+     Instagram @bokenjapan, TikTok, Facebook) plus the Privacy / Terms row;
+  2. header and footer logo: /logo.svg from this site instead of a second origin (img.bokenjapan.com);
+  3. <img> tags: loading="lazy" decoding="async" on every image except the logo and the first two
+     content images (those may be the LCP image);
+  4. head: a marked <!-- bj-share --> block adds only the share tags the page lacks
+     (canonical, og:*, twitter:*), copied from the page's own <title>, description and URL.
+Pages under go/, media/, data/, scripts/ and the --skip prefectures (default: tokyo) are left alone.
+"""
+import os, re, sys, html
+
+ROOT = sys.argv[sys.argv.index('--root') + 1] if '--root' in sys.argv else '.'
+CHECK = '--check' in sys.argv
+ONLY = set(sys.argv[sys.argv.index('--only') + 1].split(',')) if '--only' in sys.argv else None
+SKIP_PREFS = set(sys.argv[sys.argv.index('--skip') + 1].split(',')) if '--skip' in sys.argv else {'tokyo'}
+BASE = 'https://bokenjapan.com/'
+SKIP_DIRS = {'.git', 'media', 'go', 'data', 'scripts', 'assets', 'fonts', 'sitemaps', 'node_modules'}
+OG_IMAGE = 'https://img.bokenjapan.com/og.png'
+
+SOCIAL = ('<nav class="social-row" aria-label="BokenJapan social media">\n'
+          '      <span class="social-label">SNS</span>\n'
+          '      <span class="sns-off">X<span class="visually-hidden"> (@bokenjapan)</span></span>\n'
+          '      <a href="https://www.instagram.com/bokenjapan/" rel="me">Instagram<span class="visually-hidden"> (@bokenjapan)</span></a>\n'
+          '      <a href="https://www.tiktok.com/@bokenjapan" rel="me">TikTok<span class="visually-hidden"> (@bokenjapan)</span></a>\n'
+          '      <a href="https://www.facebook.com/profile.php?id=61595415860080" target="_blank" rel="noopener" aria-label="Boken Japan on Facebook">Facebook</a>\n'
+          '    </nav>')
+LEGAL = '<nav class="foot-legal" aria-label="Legal"><a href="/privacy.html">Privacy</a> · <a href="/terms.html">Terms</a></nav>'
+
+changed = []
+
+def fix(s, rel):
+    # 1. footer SNS + legal
+    m = re.search(r'<footer class="site-foot">.*?</footer>', s, re.S)
+    if m:
+        f = m.group(0)
+        f2 = re.sub(r'<nav class="social-row".*?</nav>', lambda _: SOCIAL, f, count=1, flags=re.S)
+        if 'class="foot-legal"' not in f2 and 'class="social-row"' in f2:
+            f2 = f2.replace(SOCIAL, SOCIAL + '\n    ' + LEGAL, 1)
+        # 2. footer logo
+        f2 = re.sub(r'(<img src=")[^"]*logo\.svg"', r'\1/logo.svg"', f2, count=1)
+        s = s.replace(f, f2, 1)
+    # 2. header logo
+    s = re.sub(r'(<img class="brand-mark" src=")[^"]*logo\.svg"', r'\1/logo.svg"', s, count=1)
+    # 3. lazy images (not the logo, not the first two content images)
+    seen = [0]
+    def lazy(mm):
+        tag = mm.group(0)
+        if 'brand-mark' in tag or 'logo.svg' in tag: return tag
+        seen[0] += 1
+        if seen[0] <= 2 or 'loading=' in tag or 'fetchpriority' in tag: return tag
+        add = ' loading="lazy"' + ('' if 'decoding=' in tag else ' decoding="async"')
+        return tag[:-2].rstrip() + add + ' />' if tag.endswith('/>') else tag[:-1].rstrip() + add + '>'
+    s = re.sub(r'<img\b[^>]*>', lazy, s)
+    # 4. share tags
+    head_end = s.find('</head>')
+    if head_end > 0:
+        s = re.sub(r'<!-- bj-share -->.*?<!-- /bj-share -->\n?', '', s, flags=re.S)
+        head = s[:s.find('</head>')]
+        def has(p): return re.search(p, head) is not None
+        title = re.search(r'<title>(.*?)</title>', head, re.S)
+        title = html.unescape(title.group(1)).strip() if title else ''
+        d = re.search(r'<meta name="description" content="([^"]*)"', head)
+        desc = html.unescape(d.group(1)) if d else ''
+        parts = rel.split('/')
+        url = BASE + ('' if rel == 'index.html' else (rel[:-10] if rel.endswith('index.html') else rel))
+        noindex = has(r'name="robots" content="[^"]*noindex')
+        out = []
+        if not has(r'<link rel="canonical"') and not noindex: out.append(f'<link rel="canonical" href="{url}">')
+        if title and not noindex:
+            og = [('og:type', 'website'), ('og:url', url), ('og:title', title), ('og:description', desc), ('og:image', OG_IMAGE)]
+            for k, v in og:
+                if v and not has(r'property="%s"' % re.escape(k)): out.append(f'<meta property="{k}" content="{html.escape(v, quote=True)}">')
+            tw = [('twitter:card', 'summary_large_image'), ('twitter:title', title), ('twitter:description', desc), ('twitter:image', OG_IMAGE)]
+            for k, v in tw:
+                if v and not has(r'name="%s"' % re.escape(k)): out.append(f'<meta name="{k}" content="{html.escape(v, quote=True)}">')
+        if out:
+            s = s.replace('</head>', '<!-- bj-share -->' + ''.join(out) + '<!-- /bj-share -->\n</head>', 1)
+    return s
+
+def pages():
+    for dp, dn, fn in os.walk(ROOT):
+        dn[:] = sorted(d for d in dn if d not in SKIP_DIRS and not d.startswith('.'))
+        rel_dir = os.path.relpath(dp, ROOT).replace(os.sep, '/')
+        top = rel_dir.split('/')[0]
+        if rel_dir != '.' and (top in SKIP_PREFS or (ONLY and top not in ONLY)): dn[:] = []; continue
+        for f in sorted(fn):
+            if f.endswith('.html') and (rel_dir != '.' or ONLY is None):
+                yield (f if rel_dir == '.' else rel_dir + '/' + f)
+
+n = 0
+for rel in pages():
+    p = os.path.join(ROOT, rel)
+    with open(p, encoding='utf-8') as f: s = f.read()
+    n += 1
+    if rel == 'index.html': t = fix(s, rel)   # homepage already has this chrome; the pass only normalises it
+    else: t = fix(s, rel)
+    if t != s:
+        changed.append(rel)
+        if not CHECK:
+            with open(p, 'w', encoding='utf-8') as f: f.write(t)
+print(f'pages={n} changed={len(changed)}' + (' (check only)' if CHECK else ''))
+if CHECK and changed: sys.exit(1)

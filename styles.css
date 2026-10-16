@@ -1846,3 +1846,27 @@ body.home .explore-lede {
   body.home .region ul:has(> li:only-child) { grid-template-columns: minmax(0, 1fr); }
   body.home .region a { min-height: 3rem; padding-top: 0.6rem; padding-bottom: 0.6rem; }
 }
+
+/* ==== Shared chrome (all pages) ==== */
+/* Pages carry both a JSON-LD-backed breadcrumb and an older "Japan / Town" line: show one. */
+.bj-crumbs ~ p.crumb { display: none; }
+
+.foot-legal {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+.foot-legal a { color: var(--muted); text-decoration: none; }
+.foot-legal a:hover { color: var(--ink); text-decoration: underline; text-underline-offset: 0.18em; }
+.site-foot .sns-off {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  padding: 0 0.35rem;
+  color: var(--muted);
+  cursor: default;
+}
+
+@media (max-width: 720px) {
+  .muni-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
