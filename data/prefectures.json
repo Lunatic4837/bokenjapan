@@ -5,329 +5,752 @@
    "name": "Aichi",
    "url": "https://bokenjapan.com/aichi/",
    "data": "https://bokenjapan.com/data/aichi.json",
-   "town_count": 54
+   "town_count": 54,
+   "counts": {
+    "sights": 267,
+    "activities": 72,
+    "food": 1244,
+    "stays": 491,
+    "access": 0,
+    "day_to_day": 31
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "akita",
    "name": "Akita",
    "url": "https://bokenjapan.com/akita/",
    "data": "https://bokenjapan.com/data/akita.json",
-   "town_count": 25
+   "town_count": 25,
+   "counts": {
+    "sights": 209,
+    "activities": 110,
+    "food": 8607,
+    "stays": 201,
+    "access": 0,
+    "day_to_day": 205
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "aomori",
    "name": "Aomori",
    "url": "https://bokenjapan.com/aomori/",
    "data": "https://bokenjapan.com/data/aomori.json",
-   "town_count": 40
+   "town_count": 40,
+   "counts": {
+    "sights": 200,
+    "activities": 80,
+    "food": 844,
+    "stays": 142,
+    "access": 0,
+    "day_to_day": 92
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "chiba",
    "name": "Chiba",
    "url": "https://bokenjapan.com/chiba/",
    "data": "https://bokenjapan.com/data/chiba.json",
-   "town_count": 54
+   "town_count": 54,
+   "counts": {
+    "sights": 646,
+    "activities": 86,
+    "food": 1267,
+    "stays": 394,
+    "access": 0,
+    "day_to_day": 103
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "ehime",
    "name": "Ehime",
    "url": "https://bokenjapan.com/ehime/",
    "data": "https://bokenjapan.com/data/ehime.json",
-   "town_count": 20
+   "town_count": 20,
+   "counts": {
+    "sights": 77,
+    "activities": 21,
+    "food": 452,
+    "stays": 312,
+    "access": 0,
+    "day_to_day": 20
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "fukui",
    "name": "Fukui",
    "url": "https://bokenjapan.com/fukui/",
    "data": "https://bokenjapan.com/data/fukui.json",
-   "town_count": 17
+   "town_count": 17,
+   "counts": {
+    "sights": 778,
+    "activities": 97,
+    "food": 399,
+    "stays": 154,
+    "access": 0,
+    "day_to_day": 24
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "fukuoka",
    "name": "Fukuoka",
    "url": "https://bokenjapan.com/fukuoka/",
    "data": "https://bokenjapan.com/data/fukuoka.json",
-   "town_count": 60
+   "town_count": 60,
+   "counts": {
+    "sights": 1355,
+    "activities": 160,
+    "food": 8989,
+    "stays": 246,
+    "access": 0,
+    "day_to_day": 315
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "fukushima",
    "name": "Fukushima",
    "url": "https://bokenjapan.com/fukushima/",
    "data": "https://bokenjapan.com/data/fukushima.json",
-   "town_count": 59
+   "town_count": 59,
+   "counts": {
+    "sights": 667,
+    "activities": 146,
+    "food": 1440,
+    "stays": 239,
+    "access": 0,
+    "day_to_day": 64
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "gifu",
    "name": "Gifu",
    "url": "https://bokenjapan.com/gifu/",
    "data": "https://bokenjapan.com/data/gifu.json",
-   "town_count": 42
+   "town_count": 42,
+   "counts": {
+    "sights": 839,
+    "activities": 257,
+    "food": 959,
+    "stays": 186,
+    "access": 0,
+    "day_to_day": 103
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "gunma",
    "name": "Gunma",
    "url": "https://bokenjapan.com/gunma/",
    "data": "https://bokenjapan.com/data/gunma.json",
-   "town_count": 35
+   "town_count": 35,
+   "counts": {
+    "sights": 510,
+    "activities": 131,
+    "food": 917,
+    "stays": 596,
+    "access": 0,
+    "day_to_day": 71
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "hiroshima",
    "name": "Hiroshima",
    "url": "https://bokenjapan.com/hiroshima/",
    "data": "https://bokenjapan.com/data/hiroshima.json",
-   "town_count": 23
+   "town_count": 23,
+   "counts": {
+    "sights": 94,
+    "activities": 23,
+    "food": 971,
+    "stays": 487,
+    "access": 0,
+    "day_to_day": 23
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "hokkaido",
    "name": "Hokkaido",
    "url": "https://bokenjapan.com/hokkaido/",
    "data": "https://bokenjapan.com/data/hokkaido.json",
-   "town_count": 179
+   "town_count": 179,
+   "counts": {
+    "sights": 154,
+    "activities": 23,
+    "food": 3914,
+    "stays": 1327,
+    "access": 0,
+    "day_to_day": 238
+   },
+   "date_modified": "2026-10-17"
   },
   {
    "slug": "hyogo",
    "name": "Hyogo",
    "url": "https://bokenjapan.com/hyogo/",
    "data": "https://bokenjapan.com/data/hyogo.json",
-   "town_count": 41
+   "town_count": 41,
+   "counts": {
+    "sights": 92,
+    "activities": 20,
+    "food": 967,
+    "stays": 485,
+    "access": 0,
+    "day_to_day": 46
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "ibaraki",
    "name": "Ibaraki",
    "url": "https://bokenjapan.com/ibaraki/",
    "data": "https://bokenjapan.com/data/ibaraki.json",
-   "town_count": 44
+   "town_count": 44,
+   "counts": {
+    "sights": 1086,
+    "activities": 99,
+    "food": 1021,
+    "stays": 239,
+    "access": 0,
+    "day_to_day": 109
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "ishikawa",
    "name": "Ishikawa",
    "url": "https://bokenjapan.com/ishikawa/",
    "data": "https://bokenjapan.com/data/ishikawa.json",
-   "town_count": 19
+   "town_count": 19,
+   "counts": {
+    "sights": 1304,
+    "activities": 150,
+    "food": 433,
+    "stays": 103,
+    "access": 0,
+    "day_to_day": 26
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "iwate",
    "name": "Iwate",
    "url": "https://bokenjapan.com/iwate/",
    "data": "https://bokenjapan.com/data/iwate.json",
-   "town_count": 33
+   "town_count": 33,
+   "counts": {
+    "sights": 449,
+    "activities": 96,
+    "food": 818,
+    "stays": 117,
+    "access": 0,
+    "day_to_day": 79
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "kagawa",
    "name": "Kagawa",
    "url": "https://bokenjapan.com/kagawa/",
    "data": "https://bokenjapan.com/data/kagawa.json",
-   "town_count": 17
+   "town_count": 17,
+   "counts": {
+    "sights": 90,
+    "activities": 17,
+    "food": 401,
+    "stays": 149,
+    "access": 0,
+    "day_to_day": 17
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "kagoshima",
    "name": "Kagoshima",
    "url": "https://bokenjapan.com/kagoshima/",
    "data": "https://bokenjapan.com/data/kagoshima.json",
-   "town_count": 43
+   "town_count": 43,
+   "counts": {
+    "sights": 647,
+    "activities": 477,
+    "food": 990,
+    "stays": 268,
+    "access": 0,
+    "day_to_day": 274
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "kanagawa",
    "name": "Kanagawa",
    "url": "https://bokenjapan.com/kanagawa/",
    "data": "https://bokenjapan.com/data/kanagawa.json",
-   "town_count": 33
+   "town_count": 33,
+   "counts": {
+    "sights": 812,
+    "activities": 495,
+    "food": 790,
+    "stays": 204,
+    "access": 0,
+    "day_to_day": 387
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "kochi",
    "name": "Kochi",
    "url": "https://bokenjapan.com/kochi/",
    "data": "https://bokenjapan.com/data/kochi.json",
-   "town_count": 34
+   "town_count": 34,
+   "counts": {
+    "sights": 212,
+    "activities": 38,
+    "food": 575,
+    "stays": 140,
+    "access": 0,
+    "day_to_day": 34
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "kumamoto",
    "name": "Kumamoto",
    "url": "https://bokenjapan.com/kumamoto/",
    "data": "https://bokenjapan.com/data/kumamoto.json",
-   "town_count": 45
+   "town_count": 45,
+   "counts": {
+    "sights": 551,
+    "activities": 474,
+    "food": 989,
+    "stays": 223,
+    "access": 0,
+    "day_to_day": 294
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "kyoto",
    "name": "Kyoto",
    "url": "https://bokenjapan.com/kyoto/",
    "data": "https://bokenjapan.com/data/kyoto.json",
-   "town_count": 26
+   "town_count": 26,
+   "counts": {
+    "sights": 0,
+    "activities": 0,
+    "food": 0,
+    "stays": 0,
+    "access": 0,
+    "day_to_day": 0
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "mie",
    "name": "Mie",
    "url": "https://bokenjapan.com/mie/",
    "data": "https://bokenjapan.com/data/mie.json",
-   "town_count": 29
+   "town_count": 29,
+   "counts": {
+    "sights": 1429,
+    "activities": 92,
+    "food": 671,
+    "stays": 213,
+    "access": 0,
+    "day_to_day": 41
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "miyagi",
    "name": "Miyagi",
    "url": "https://bokenjapan.com/miyagi/",
    "data": "https://bokenjapan.com/data/miyagi.json",
-   "town_count": 35
+   "town_count": 35,
+   "counts": {
+    "sights": 272,
+    "activities": 76,
+    "food": 8999,
+    "stays": 203,
+    "access": 0,
+    "day_to_day": 409
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "miyazaki",
    "name": "Miyazaki",
    "url": "https://bokenjapan.com/miyazaki/",
    "data": "https://bokenjapan.com/data/miyazaki.json",
-   "town_count": 26
+   "town_count": 26,
+   "counts": {
+    "sights": 192,
+    "activities": 347,
+    "food": 580,
+    "stays": 132,
+    "access": 0,
+    "day_to_day": 53
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "nagano",
    "name": "Nagano",
    "url": "https://bokenjapan.com/nagano/",
    "data": "https://bokenjapan.com/data/nagano.json",
-   "town_count": 77
+   "town_count": 77,
+   "counts": {
+    "sights": 1102,
+    "activities": 211,
+    "food": 1477,
+    "stays": 452,
+    "access": 0,
+    "day_to_day": 189
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "nagasaki",
    "name": "Nagasaki",
    "url": "https://bokenjapan.com/nagasaki/",
    "data": "https://bokenjapan.com/data/nagasaki.json",
-   "town_count": 21
+   "town_count": 21,
+   "counts": {
+    "sights": 553,
+    "activities": 214,
+    "food": 501,
+    "stays": 181,
+    "access": 0,
+    "day_to_day": 66
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "nara",
    "name": "Nara",
    "url": "https://bokenjapan.com/nara/",
    "data": "https://bokenjapan.com/data/nara.json",
-   "town_count": 39
+   "town_count": 39,
+   "counts": {
+    "sights": 529,
+    "activities": 44,
+    "food": 752,
+    "stays": 276,
+    "access": 0,
+    "day_to_day": 39
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "niigata",
    "name": "Niigata",
    "url": "https://bokenjapan.com/niigata/",
    "data": "https://bokenjapan.com/data/niigata.json",
-   "town_count": 30
+   "town_count": 30,
+   "counts": {
+    "sights": 2043,
+    "activities": 489,
+    "food": 669,
+    "stays": 227,
+    "access": 0,
+    "day_to_day": 97
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "oita",
    "name": "Oita",
    "url": "https://bokenjapan.com/oita/",
    "data": "https://bokenjapan.com/data/oita.json",
-   "town_count": 18
+   "town_count": 18,
+   "counts": {
+    "sights": 837,
+    "activities": 182,
+    "food": 1688,
+    "stays": 255,
+    "access": 0,
+    "day_to_day": 52
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "okayama",
    "name": "Okayama",
    "url": "https://bokenjapan.com/okayama/",
    "data": "https://bokenjapan.com/data/okayama.json",
-   "town_count": 27
+   "town_count": 27,
+   "counts": {
+    "sights": 483,
+    "activities": 58,
+    "food": 1055,
+    "stays": 381,
+    "access": 0,
+    "day_to_day": 43
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "okinawa",
    "name": "Okinawa",
    "url": "https://bokenjapan.com/okinawa/",
    "data": "https://bokenjapan.com/data/okinawa.json",
-   "town_count": 41
+   "town_count": 41,
+   "counts": {
+    "sights": 336,
+    "activities": 543,
+    "food": 939,
+    "stays": 268,
+    "access": 0,
+    "day_to_day": 314
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "osaka",
    "name": "Osaka",
    "url": "https://bokenjapan.com/osaka/",
    "data": "https://bokenjapan.com/data/osaka.json",
-   "town_count": 43
+   "town_count": 43,
+   "counts": {
+    "sights": 0,
+    "activities": 0,
+    "food": 0,
+    "stays": 0,
+    "access": 0,
+    "day_to_day": 0
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "saga",
    "name": "Saga",
    "url": "https://bokenjapan.com/saga/",
    "data": "https://bokenjapan.com/data/saga.json",
-   "town_count": 20
+   "town_count": 20,
+   "counts": {
+    "sights": 195,
+    "activities": 151,
+    "food": 475,
+    "stays": 96,
+    "access": 0,
+    "day_to_day": 124
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "saitama",
    "name": "Saitama",
    "url": "https://bokenjapan.com/saitama/",
    "data": "https://bokenjapan.com/data/saitama.json",
-   "town_count": 63
+   "town_count": 63,
+   "counts": {
+    "sights": 226,
+    "activities": 145,
+    "food": 1510,
+    "stays": 195,
+    "access": 0,
+    "day_to_day": 101
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "shiga",
    "name": "Shiga",
    "url": "https://bokenjapan.com/shiga/",
    "data": "https://bokenjapan.com/data/shiga.json",
-   "town_count": 19
+   "town_count": 19,
+   "counts": {
+    "sights": 1246,
+    "activities": 83,
+    "food": 437,
+    "stays": 127,
+    "access": 0,
+    "day_to_day": 20
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "shimane",
    "name": "Shimane",
    "url": "https://bokenjapan.com/shimane/",
    "data": "https://bokenjapan.com/data/shimane.json",
-   "town_count": 19
+   "town_count": 19,
+   "counts": {
+    "sights": 1179,
+    "activities": 215,
+    "food": 388,
+    "stays": 140,
+    "access": 0,
+    "day_to_day": 27
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "shizuoka",
    "name": "Shizuoka",
    "url": "https://bokenjapan.com/shizuoka/",
    "data": "https://bokenjapan.com/data/shizuoka.json",
-   "town_count": 35
+   "town_count": 35,
+   "counts": {
+    "sights": 305,
+    "activities": 85,
+    "food": 807,
+    "stays": 407,
+    "access": 0,
+    "day_to_day": 41
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "tochigi",
    "name": "Tochigi",
    "url": "https://bokenjapan.com/tochigi/",
    "data": "https://bokenjapan.com/data/tochigi.json",
-   "town_count": 25
+   "town_count": 25,
+   "counts": {
+    "sights": 620,
+    "activities": 108,
+    "food": 1072,
+    "stays": 451,
+    "access": 0,
+    "day_to_day": 132
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "tokushima",
    "name": "Tokushima",
    "url": "https://bokenjapan.com/tokushima/",
    "data": "https://bokenjapan.com/data/tokushima.json",
-   "town_count": 24
+   "town_count": 24,
+   "counts": {
+    "sights": 619,
+    "activities": 46,
+    "food": 502,
+    "stays": 108,
+    "access": 0,
+    "day_to_day": 27
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "tokyo",
    "name": "Tokyo",
    "url": "https://bokenjapan.com/tokyo/",
    "data": "https://bokenjapan.com/data/tokyo.json",
-   "town_count": 62
+   "town_count": 62,
+   "counts": {
+    "sights": 0,
+    "activities": 0,
+    "food": 0,
+    "stays": 0,
+    "access": 0,
+    "day_to_day": 0
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "tottori",
    "name": "Tottori",
    "url": "https://bokenjapan.com/tottori/",
    "data": "https://bokenjapan.com/data/tottori.json",
-   "town_count": 19
+   "town_count": 19,
+   "counts": {
+    "sights": 334,
+    "activities": 79,
+    "food": 405,
+    "stays": 116,
+    "access": 0,
+    "day_to_day": 19
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "toyama",
    "name": "Toyama",
    "url": "https://bokenjapan.com/toyama/",
    "data": "https://bokenjapan.com/data/toyama.json",
-   "town_count": 15
+   "town_count": 15,
+   "counts": {
+    "sights": 1121,
+    "activities": 131,
+    "food": 325,
+    "stays": 117,
+    "access": 0,
+    "day_to_day": 22
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "wakayama",
    "name": "Wakayama",
    "url": "https://bokenjapan.com/wakayama/",
    "data": "https://bokenjapan.com/data/wakayama.json",
-   "town_count": 30
+   "town_count": 30,
+   "counts": {
+    "sights": 265,
+    "activities": 55,
+    "food": 628,
+    "stays": 177,
+    "access": 0,
+    "day_to_day": 32
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "yamagata",
    "name": "Yamagata",
    "url": "https://bokenjapan.com/yamagata/",
    "data": "https://bokenjapan.com/data/yamagata.json",
-   "town_count": 35
+   "town_count": 35,
+   "counts": {
+    "sights": 146,
+    "activities": 203,
+    "food": 888,
+    "stays": 103,
+    "access": 0,
+    "day_to_day": 98
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "yamaguchi",
    "name": "Yamaguchi",
    "url": "https://bokenjapan.com/yamaguchi/",
    "data": "https://bokenjapan.com/data/yamaguchi.json",
-   "town_count": 19
+   "town_count": 19,
+   "counts": {
+    "sights": 1420,
+    "activities": 235,
+    "food": 2307,
+    "stays": 202,
+    "access": 0,
+    "day_to_day": 125
+   },
+   "date_modified": "2026-10-15"
   },
   {
    "slug": "yamanashi",
    "name": "Yamanashi",
    "url": "https://bokenjapan.com/yamanashi/",
    "data": "https://bokenjapan.com/data/yamanashi.json",
-   "town_count": 27
+   "town_count": 27,
+   "counts": {
+    "sights": 736,
+    "activities": 83,
+    "food": 729,
+    "stays": 648,
+    "access": 0,
+    "day_to_day": 109
+   },
+   "date_modified": "2026-10-15"
   }
  ]
 }
