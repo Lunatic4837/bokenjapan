@@ -11,8 +11,8 @@ Touches only chrome, never page content:
      content images (those may be the LCP image);
   4. map placeholder: the prefecture map is fetched after load, so each .map-wrap gets the map's own
      aspect-ratio (from <pref>/_map.svg viewBox) to stop the layout jumping (CLS);
-  5. head: a marked <!-- bj-share --> block adds only the share tags the page lacks
-     (canonical, og:*, twitter:*), copied from the page's own <title>, description and URL.
+  5. head: a marked <!-- bj-share --> block adds only the tags the page lacks
+     (canonical, og:*, twitter:*, icons, theme-color), copied from the page's own <title>, description and URL.
 Pages under go/, media/, data/, scripts/ and the --skip prefectures (default: tokyo) are left alone.
 """
 import os, re, sys, html
@@ -94,6 +94,12 @@ def fix(s, rel):
             tw = [('twitter:card', 'summary_large_image'), ('twitter:title', title), ('twitter:description', desc), ('twitter:image', OG_IMAGE)]
             for k, v in tw:
                 if v and not has(r'name="%s"' % re.escape(k)): out.append(f'<meta name="{k}" content="{html.escape(v, quote=True)}">')
+        if not has(r'rel="icon"') and not noindex:
+            out.append('<link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" href="/logo.svg" type="image/svg+xml">')
+        if not has(r'rel="apple-touch-icon"') and not noindex:
+            out.append('<link rel="apple-touch-icon" href="/apple-touch-icon.png">')
+        if not has(r'name="theme-color"') and not noindex:
+            out.append('<meta name="theme-color" content="#e6e2db">')
         if out:
             s = s.replace('</head>', '<!-- bj-share -->' + ''.join(out) + '<!-- /bj-share -->\n</head>', 1)
     return s

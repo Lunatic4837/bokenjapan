@@ -1878,3 +1878,7 @@ body.home .explore-lede {
   margin-left: auto;
   margin-right: auto;
 }
+
+/* 404 page: compact region lists */
+.page-main > .directory { padding: 1rem 0 0; max-width: none; }
+.page-main > .directory .region + .region { margin-top: 1.25rem; }
