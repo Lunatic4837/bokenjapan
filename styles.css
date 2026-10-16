@@ -1842,8 +1842,10 @@ body.home .explore-lede {
 
 @media (max-width: 720px) {
   /* Two columns of prefectures on phones instead of one long list. */
-  body.home .region ul { grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 1.25rem; }
-  body.home .region ul:has(> li:only-child) { grid-template-columns: minmax(0, 1fr); }
+  body.home .region ul,
+  .page-main > .directory .region ul { grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 1.25rem; }
+  body.home .region ul:has(> li:only-child),
+  .page-main > .directory .region ul:has(> li:only-child) { grid-template-columns: minmax(0, 1fr); }
   body.home .region a { min-height: 3rem; padding-top: 0.6rem; padding-bottom: 0.6rem; }
 }
 
