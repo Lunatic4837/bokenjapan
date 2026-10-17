@@ -1382,8 +1382,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Restaurant in Hinokage (#18)",
-     "name_en": "Restaurant in Hinokage (#18)",
+     "name": "Restaurant Hinokage",
+     "name_en": "Restaurant Hinokage",
      "name_ja": "レストラン ひのおかげ",
      "description": "Restaurant in Hinokage.",
      "source_url": "https://tabelog.com/miyazaki/A4505/A450502/45013029/",
@@ -1391,8 +1391,8 @@
      "category": "Other"
     },
     {
-     "name": "Restaurant in Hinokage (#19)",
-     "name_en": "Restaurant in Hinokage (#19)",
+     "name": "Kurino Ki",
+     "name_en": "Kurino Ki",
      "name_ja": "くりの木",
      "description": "Restaurant in Hinokage.",
      "source_url": "https://tabelog.com/miyazaki/A4505/A450502/45002551/",
@@ -1542,7 +1542,7 @@
     "lat": 32.4224876,
     "lon": 131.6244302
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside Station Togo",
@@ -1678,6 +1678,40 @@
      "category": "Cafe"
     },
     {
+     "name": "ame morimichi",
+     "name_en": "ame morimichi",
+     "description": "Cafe in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/way/1111764139",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Hyuga (#1)",
+     "name_en": "Cafe in Hyuga (#1)",
+     "name_ja": "ネットジョーズ",
+     "description": "Cafe in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/2855431201",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Omoiire cafe",
+     "name_en": "Omoiire cafe",
+     "description": "Cafe in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/11777669425",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Zakka&Cafe Tami",
+     "name_en": "Zakka&Cafe Tami",
+     "name_ja": "雑貨＆カフェ民",
+     "description": "Cafe in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/4284107190",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Kanegahama Shokudo",
      "name_en": "Kanegahama Shokudo",
      "name_ja": "金ヶ浜食堂",
@@ -1741,6 +1775,24 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Chuka Ryori Horai Sono",
+     "name_en": "Chuka Ryori Horai Sono",
+     "name_ja": "中華料理 宝来園",
+     "description": "Asian restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/5057888521",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Indo Ryori Specialty Shop Muna",
+     "name_en": "Indo Ryori Specialty Shop Muna",
+     "name_ja": "インド料理専門店ムーナ",
+     "description": "Asian restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/4278151689",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Glover Tei",
      "name_en": "Glover Tei",
      "name_ja": "グラバー亭",
@@ -1750,11 +1802,29 @@
      "category": "European"
     },
     {
+     "name": "Western-style restaurant in Hyuga",
+     "name_en": "Western-style restaurant in Hyuga",
+     "name_ja": "ビストロ南蛮亭",
+     "description": "Western-style restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/4281804096",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Robatayaki Hachiman",
      "name_en": "Robatayaki Hachiman",
      "name_ja": "炉ばた焼 八幡",
      "description": "Robatayaki, shochu bar, and izakaya in Hyuga.",
      "source_url": "https://tabelog.com/miyazaki/A4504/A450403/45000630/",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Rakki Sakaba",
+     "name_en": "Rakki Sakaba",
+     "name_ja": "ラッキー酒場",
+     "description": "Izakaya restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/4281768317",
      "page": "https://bokenjapan.com/miyazaki/hyuga/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -1804,6 +1874,51 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Murao Hakata Tonkotsu Ramen",
+     "name_en": "Murao Hakata Tonkotsu Ramen",
+     "name_ja": "村尾 博多とんこつラーメン",
+     "description": "Ramen restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/4613576289",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Shop Hyuga Branch",
+     "name_en": "Ramen Shop Hyuga Branch",
+     "name_ja": "ラーメンショップ 日向店",
+     "description": "Ramen restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/way/1434819392",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Sankai Udon",
+     "name_en": "Sankai Udon",
+     "name_ja": "山海うどん",
+     "description": "Udon restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/4280086193",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tenryo Udon",
+     "name_en": "Tenryo Udon",
+     "name_ja": "天領うどん",
+     "description": "Udon restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/4278098395",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon restaurant in Hyuga",
+     "name_en": "Udon restaurant in Hyuga",
+     "name_ja": "天領うどん梶木支店",
+     "description": "Udon restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/4281674402",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Umi no Eki Hososhima",
      "name_en": "Umi no Eki Hososhima",
      "name_ja": "海の駅 ほそしま",
@@ -1822,11 +1937,171 @@
      "category": "Other"
     },
     {
+     "name": "Restaurant in Hyuga (#2)",
+     "name_en": "Restaurant in Hyuga (#2)",
+     "name_ja": "チャイニーズレストラン青島",
+     "description": "Restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/4281790812",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Hyuga (#1)",
+     "name_en": "Restaurant in Hyuga (#1)",
+     "name_ja": "フェリーチェ",
+     "description": "Restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/4280036391",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Fuji Katsu Hyuga Main Store",
+     "name_en": "Fuji Katsu Hyuga Main Store",
+     "name_ja": "不二かつ日向本店",
+     "description": "Restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/4281743417",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Guraba Tei",
+     "name_en": "Guraba Tei",
+     "name_ja": "グラバー亭",
+     "description": "Restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/4281742911",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Ikesu Restaurant Tairyo Maru",
+     "name_en": "Ikesu Restaurant Tairyo Maru",
+     "name_ja": "いけすレストラン大漁丸",
+     "description": "Restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/4284141489",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Iso no Aji Kurosusumu",
+     "name_en": "Iso no Aji Kurosusumu",
+     "name_ja": "磯の味 黒進",
+     "description": "Restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/4278125592",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kami Tagawa Gurume Kan",
+     "name_en": "Kami Tagawa Gurume Kan",
+     "name_ja": "神田川グルメ館",
+     "description": "Restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/4273137590",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kyochiku Sono Hyuga Branch",
+     "name_en": "Kyochiku Sono Hyuga Branch",
+     "name_ja": "夾竹園 日向店",
+     "description": "Restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/4273127092",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Mambo Jambo",
+     "name_en": "Mambo Jambo",
+     "description": "Restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/4280043189",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Miyakoya",
+     "name_en": "Miyakoya",
+     "name_ja": "みやこ屋",
+     "description": "Restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/4278364493",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Miyazaki Himuka Jidori",
+     "name_en": "Miyazaki Himuka Jidori",
+     "name_ja": "宮崎ひむか地鶏",
+     "description": "Restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/4286937890",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Oshokuji no Branch Nagatomo",
+     "name_en": "Oshokuji no Branch Nagatomo",
+     "name_ja": "お食事の店長友",
+     "description": "Restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/4278151089",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Seafood restaurant",
+     "name_en": "Seafood restaurant",
+     "description": "Restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/11777739821",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Shanhai Garden",
+     "name_en": "Shanhai Garden",
+     "name_ja": "上海ガーデン",
+     "description": "Restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/4281742823",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Takecha Iori",
+     "name_en": "Takecha Iori",
+     "name_ja": "竹茶庵",
+     "description": "Restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/4280042490",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Umase Chaya",
+     "name_en": "Umase Chaya",
+     "name_ja": "馬ヶ背茶屋",
+     "description": "Restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/way/515743721",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Kissui Kushidokoro",
      "name_en": "Kissui Kushidokoro",
      "name_ja": "吉粋串どころ",
      "description": "Kissui Kushidokoro — kushiage restaurant in Hyuga, Miyazaki.",
      "source_url": "https://tabelog.com/miyazaki/A4504/A450403/45002905/",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Bokusui Iori",
+     "name_en": "Bokusui Iori",
+     "name_ja": "牧水庵",
+     "description": "Japanese restaurant in Togo Chonotsubo Tani, Hyuga. Open Thu-Sun 11:00-14:00; closed Mon-Wed.",
+     "source_url": "https://www.openstreetmap.org/way/769940419",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kappo Ryokan Yashio",
+     "name_en": "Kappo Ryokan Yashio",
+     "name_ja": "割烹旅館八潮",
+     "description": "Japanese restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/4280042690",
      "page": "https://bokenjapan.com/miyazaki/hyuga/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -1863,6 +2138,15 @@
      "name_ja": "いけすの大漁や",
      "description": "Seafood, sushi, and izakaya in Hyuga.",
      "source_url": "https://tabelog.com/miyazaki/A4504/A450403/45003717/",
+     "page": "https://bokenjapan.com/miyazaki/hyuga/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kaisen Tonya",
+     "name_en": "Kaisen Tonya",
+     "name_ja": "海鮮問屋",
+     "description": "Seafood restaurant in Hyuga.",
+     "source_url": "https://www.openstreetmap.org/node/4281813389",
      "page": "https://bokenjapan.com/miyazaki/hyuga/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -2936,7 +3220,7 @@
     "lat": 31.99665,
     "lon": 130.972726
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside Station Yuparu Nojiri",
@@ -3192,6 +3476,15 @@
      "source_url": "https://tabelog.com/miyazaki/A4503/A450301/45000155/",
      "page": "https://bokenjapan.com/miyazaki/kobayashi/eat/noodles/",
      "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Joyful Kobaya Hosono Branch",
+     "name_en": "Joyful Kobaya Hosono Branch",
+     "name_ja": "ジョイフル小林細野店",
+     "description": "Restaurant in Kobayashi. Open daily 08:00-25:00.",
+     "source_url": "https://www.openstreetmap.org/way/1537906980",
+     "page": "https://bokenjapan.com/miyazaki/kobayashi/eat/other/",
+     "category": "Other"
     },
     {
      "name": "Kirishima Service Area (Outbound) Restaurant",
@@ -4076,7 +4369,7 @@
     "lat": 31.7306381,
     "lon": 131.1250413
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Mimata Town Hall",
@@ -4182,6 +4475,24 @@
      "category": "Casual"
     },
     {
+     "name": "Daifuku",
+     "name_en": "Daifuku",
+     "name_ja": "大福",
+     "description": "Fast-food restaurant in Mimata.",
+     "source_url": "https://www.openstreetmap.org/node/10298247444",
+     "page": "https://bokenjapan.com/miyazaki/mimata/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Magokoro Bento",
+     "name_en": "Magokoro Bento",
+     "name_ja": "まごころ弁当",
+     "description": "Fast-food restaurant in Mimata.",
+     "source_url": "https://www.openstreetmap.org/node/10298247466",
+     "page": "https://bokenjapan.com/miyazaki/mimata/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Gyoza restaurant in Mimata",
      "name_en": "Gyoza restaurant in Mimata",
      "name_ja": "生餃子製造直売 ハチサンイチ 三股店",
@@ -4196,6 +4507,15 @@
      "name_ja": "一品香 三股店",
      "description": "Chinese cuisine in Mimata.",
      "source_url": "https://tabelog.com/miyazaki/A4503/A450302/45003270/",
+     "page": "https://bokenjapan.com/miyazaki/mimata/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Fukue Nama Gyoza Branch",
+     "name_en": "Fukue Nama Gyoza Branch",
+     "name_ja": "福栄生餃子店",
+     "description": "Chinese restaurant in Mimata.",
+     "source_url": "https://www.openstreetmap.org/node/10298247507",
      "page": "https://bokenjapan.com/miyazaki/mimata/eat/chinese-asian/",
      "category": "Chinese & Asian"
     },
@@ -4253,6 +4573,15 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Toraji",
+     "name_en": "Toraji",
+     "name_ja": "とらじ",
+     "description": "Barbecue restaurant in Mimata.",
+     "source_url": "https://www.openstreetmap.org/way/532457082",
+     "page": "https://bokenjapan.com/miyazaki/mimata/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Menkui Mimata Main Store",
      "name_en": "Menkui Mimata Main Store",
      "name_ja": "めんくい 三股本店",
@@ -4280,6 +4609,24 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Enokidaya",
+     "name_en": "Enokidaya",
+     "name_ja": "えのきだや",
+     "description": "Ramen restaurant in Mimata.",
+     "source_url": "https://www.openstreetmap.org/node/10298247475",
+     "page": "https://bokenjapan.com/miyazaki/mimata/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kurofune",
+     "name_en": "Kurofune",
+     "name_ja": "黒船",
+     "description": "Restaurant in Mimata.",
+     "source_url": "https://www.openstreetmap.org/node/5172482526",
+     "page": "https://bokenjapan.com/miyazaki/mimata/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Ohashidokoro Kitamoro Mimata Store",
      "name_en": "Ohashidokoro Kitamoro Mimata Store",
      "name_ja": "お箸処 北諸 三股店",
@@ -4294,6 +4641,15 @@
      "name_ja": "エム ズキッチン 森の雫",
      "description": "M's Kitchen Mori no Shizuku — creative cuisine restaurant in Mimata, Miyazaki.",
      "source_url": "https://tabelog.com/miyazaki/A4503/A450302/45008087/",
+     "page": "https://bokenjapan.com/miyazaki/mimata/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kitasho",
+     "name_en": "Kitasho",
+     "name_ja": "北諸",
+     "description": "Japanese restaurant in Mimata.",
+     "source_url": "https://www.openstreetmap.org/node/10298247423",
      "page": "https://bokenjapan.com/miyazaki/mimata/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -4329,6 +4685,24 @@
      "name_ja": "菓子工房クルール",
      "description": "Cake in Mimata.",
      "source_url": "https://tabelog.com/miyazaki/A4503/A450302/45004115/",
+     "page": "https://bokenjapan.com/miyazaki/mimata/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Jujiya",
+     "name_en": "Jujiya",
+     "name_ja": "十字屋",
+     "description": "Pastry shop in Mimata.",
+     "source_url": "https://www.openstreetmap.org/node/5172513137",
+     "page": "https://bokenjapan.com/miyazaki/mimata/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Pastry shop in Mimata",
+     "name_en": "Pastry shop in Mimata",
+     "name_ja": "クルール",
+     "description": "Pastry shop in Mimata.",
+     "source_url": "https://www.openstreetmap.org/node/10300425749",
      "page": "https://bokenjapan.com/miyazaki/mimata/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -4739,7 +5113,7 @@
     "lat": 31.7195745,
     "lon": 131.0618272
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside Station Miyakonojo NiQLL",
@@ -4980,6 +5354,67 @@
    ],
    "food": [
     {
+     "name": "Cockapoo",
+     "name_en": "Cockapoo Cafe",
+     "description": "Cafe in Miyakonojo. Open Fri-Sun 11:00-17:00.",
+     "source_url": "https://www.openstreetmap.org/node/4953851722",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Doutor Coffee Shop",
+     "name_en": "Doutor Coffee Shop",
+     "name_ja": "ドトールコーヒーショップ",
+     "description": "Cafe in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/4757386210",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Komeda's Coffee",
+     "name_en": "Komeda's Coffee",
+     "name_ja": "コメダ珈琲店",
+     "description": "Cafe in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/8475649788",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Mall Market",
+     "name_en": "Mall Market",
+     "description": "Cafe in Nakamachi, Miyakonojo. Open daily 10:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/7238607902",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Miyakonojo",
+     "name_en": "Cafe in Miyakonojo",
+     "name_ja": "シグナル",
+     "description": "Cafe in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/13907308568",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Hirae Machi, Miyakonojo",
+     "name_en": "Cafe in Hirae Machi, Miyakonojo",
+     "name_ja": "タマチャンショップ",
+     "description": "Cafe in Hirae Machi, Miyakonojo. Open daily 10:00-18:00.",
+     "source_url": "https://www.openstreetmap.org/node/7818667358",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Tully's Coffee",
+     "name_en": "Tully's Coffee",
+     "name_ja": "タリーズコーヒー",
+     "description": "Cafe in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/4757163389",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Bikkuri-tei Miyakonojo Store",
      "name_en": "Bikkuri-tei Miyakonojo Store",
      "name_ja": "びっくり亭 都城店",
@@ -4996,6 +5431,96 @@
      "source_url": "https://tabelog.com/miyazaki/A4503/A450301/45005708/",
      "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/casual/",
      "category": "Casual"
+    },
+    {
+     "name": "Hotto Motto",
+     "name_en": "Hotto Motto",
+     "name_ja": "ほっともっと",
+     "description": "Fast-food restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/10651632788",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Katsuya",
+     "name_en": "Katsuya",
+     "name_ja": "かつや",
+     "description": "Fast-food restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1360121757",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "name_ja": "マクドナルド",
+     "description": "Burger fast-food restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/4757163384",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "MOS Burger",
+     "name_en": "MOS Burger",
+     "name_ja": "モスバーガー",
+     "description": "Burger fast-food restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/4757176453",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Nipponichi Tai Yaki",
+     "name_en": "Nipponichi Tai Yaki",
+     "name_ja": "日本一たい焼",
+     "description": "Fast-food restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1376982594",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Sukiya",
+     "name_en": "Sukiya",
+     "name_ja": "すき家",
+     "description": "Fast-food restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/4757342670",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Ryu no Sho",
+     "name_en": "Ryu no Sho",
+     "name_ja": "龍の醤",
+     "description": "Chinese restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1375994492",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Curry restaurant in Miyakonojo (#1)",
+     "name_en": "Curry restaurant in Miyakonojo (#1)",
+     "name_ja": "CoCo壱番屋",
+     "description": "Curry restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/4757163386",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Curry restaurant in Miyakonojo (#2)",
+     "name_en": "Curry restaurant in Miyakonojo (#2)",
+     "name_ja": "カレー倶楽部ルウ",
+     "description": "Curry restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1361178298",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Go!Go!Curry",
+     "name_en": "Go!Go!Curry",
+     "name_ja": "ゴーゴーカレー",
+     "description": "Curry restaurant in Hiratsuka Machi, Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1265783008",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/curry/",
+     "category": "Curry"
     },
     {
      "name": "PEM",
@@ -5040,6 +5565,51 @@
      "category": "European"
     },
     {
+     "name": "Coco's",
+     "name_en": "Coco's",
+     "name_ja": "ココス",
+     "description": "Western-style restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/4757342655",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Pizza restaurant in Miyakonojo",
+     "name_en": "Pizza restaurant in Miyakonojo",
+     "name_ja": "ドミノ・ピザ",
+     "description": "Pizza restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/8475649793",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Gusto",
+     "name_en": "Gusto",
+     "name_ja": "ガスト",
+     "description": "Western-style restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1360121756",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Italian restaurant in Miyakonojo",
+     "name_en": "Italian restaurant in Miyakonojo",
+     "name_ja": "イタリア料理 リストランテ星の空",
+     "description": "Italian restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/6503141638",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Joyfull",
+     "name_en": "Joyfull",
+     "name_ja": "ジョイフル",
+     "description": "Western-style restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/4757051022",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Sakebito Sakana Hitomugi",
      "name_en": "Sakebito Sakana Hitomugi",
      "name_ja": "酒人肴 ひと麦",
@@ -5063,6 +5633,50 @@
      "name_ja": "霧の蔵ブルワリー",
      "description": "Beer hall, izakaya, and beer garden in Miyakonojo.",
      "source_url": "https://tabelog.com/miyazaki/A4503/A450301/45000717/",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "B1",
+     "name_en": "B1",
+     "description": "Pub in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/5222709124",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Honjin",
+     "name_en": "Honjin",
+     "name_ja": "本陣",
+     "description": "Bar in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/5222709125",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Bar in Miyakonojo",
+     "name_en": "Bar in Miyakonojo",
+     "name_ja": "おでん ジャングル",
+     "description": "Bar in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/5222735922",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Oden Ritsu Chan",
+     "name_en": "Oden Ritsu Chan",
+     "name_ja": "おでん 律ちゃん",
+     "description": "Bar in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/5222736021",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Seikameya",
+     "name_en": "Seikameya",
+     "name_ja": "成亀屋",
+     "description": "Bar in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/5222709126",
      "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -5130,6 +5744,69 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Horumon Yokocho Masao",
+     "name_en": "Horumon Yokocho Masao",
+     "name_ja": "ホルモン横丁雅王",
+     "description": "Yakiniku bar in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/5222735921",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Teppan Baru Nidaime Kokoroaji",
+     "name_en": "Teppan Baru Nidaime Kokoroaji",
+     "name_ja": "鉄板バル二代目心味",
+     "description": "Meat restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/13388644313",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Fuku Rakuen",
+     "name_en": "Yakiniku Fuku Rakuen",
+     "name_ja": "やきにく福楽園",
+     "description": "Barbecue restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1374700417",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Fukuju Sono",
+     "name_en": "Yakiniku Fukuju Sono",
+     "name_ja": "焼肉福寿園",
+     "description": "Barbecue restaurant in Tohokucho, Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1144384925",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Kume Mura",
+     "name_en": "Yakiniku Kume Mura",
+     "name_ja": "焼肉久米村",
+     "description": "Yakiniku restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/5760134921",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Kyochiku Sono",
+     "name_en": "Yakiniku Kyochiku Sono",
+     "name_ja": "焼肉夾竹園",
+     "description": "Yakiniku restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1375994483",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Nabeshima",
+     "name_en": "Yakiniku Nabeshima",
+     "name_ja": "焼肉なべしま",
+     "description": "Yakiniku restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/4757342677",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Ittetsu",
      "name_en": "Ittetsu",
      "name_ja": "いってつ",
@@ -5146,6 +5823,213 @@
      "source_url": "https://tabelog.com/miyazaki/A4503/A450301/45000759/",
      "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/noodles/",
      "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Futami Udon Kenkyusho",
+     "name_en": "Futami Udon Kenkyusho",
+     "name_ja": "ふたみうどん研究所",
+     "description": "Udon restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/533108246",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Gamako Iori soba restaurant",
+     "name_en": "Gamako Iori soba restaurant",
+     "name_ja": "がまこう庵 soba restaurant",
+     "description": "Soba restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/4773807176",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kama Gen",
+     "name_en": "Kama Gen",
+     "name_ja": "かま源",
+     "description": "Ramen restaurant in Kurahara Machi, Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1361178299",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kitcho Udon",
+     "name_en": "Kitcho Udon",
+     "name_ja": "きっちょううどん",
+     "description": "Udon restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/6019343031",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kurume Ramen",
+     "name_en": "Kurume Ramen",
+     "name_ja": "久留米ラーメン",
+     "description": "Ramen restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1378360852",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menba Tadokoro Shoten",
+     "name_en": "Menba Tadokoro Shoten",
+     "name_ja": "麺場 田所商店",
+     "description": "Ramen restaurant in Hirae Machi, Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1411468834",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menkachi",
+     "name_en": "Menkachi",
+     "name_ja": "麺勝",
+     "description": "Noodle restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1381654342",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Rairai Tei",
+     "name_en": "Ramen Rairai Tei",
+     "name_ja": "ラーメン来来亭",
+     "description": "Ramen restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1501037097",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Ryoma Ie",
+     "name_en": "Ramen Ryoma Ie",
+     "name_ja": "ラーメン龍馬家",
+     "description": "Ramen restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1501037098",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Sukesan Udon",
+     "name_en": "Sukesan Udon",
+     "name_ja": "資さんうどん",
+     "description": "Udon restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1376982739",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tsurunoya",
+     "name_en": "Tsurunoya",
+     "name_ja": "鶴乃屋",
+     "description": "Ramen restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1369823034",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Yabushige Udon",
+     "name_en": "Yabushige Udon",
+     "name_ja": "やぶしげうどん",
+     "description": "Udon restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1367518823",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Yamanaka",
+     "name_en": "Yamanaka",
+     "name_ja": "やまなか",
+     "description": "Noodle restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/6503141639",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Restaurant in Miyakonojo (#2)",
+     "name_en": "Restaurant in Miyakonojo (#2)",
+     "name_ja": "バッファロー",
+     "description": "Restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1369823058",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Hisashi Shimadoka",
+     "name_en": "Hisashi Shimadoka",
+     "name_ja": "寿しまどか",
+     "description": "Restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1375994482",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Hotokecho Men",
+     "name_en": "Hotokecho Men",
+     "name_ja": "仏跳麺",
+     "description": "Restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/8475649799",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kami Tagawa Gurume Kan",
+     "name_en": "Kami Tagawa Gurume Kan",
+     "name_ja": "神田川グルメ館",
+     "description": "Restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/1670254224",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Megumiya Plus",
+     "name_en": "Megumiya Plus",
+     "name_ja": "恵屋プラス",
+     "description": "Restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1380693885",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Musashino",
+     "name_en": "Musashino",
+     "name_ja": "武蔵野",
+     "description": "Restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/4757163387",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Oishinbo",
+     "name_en": "Oishinbo",
+     "name_ja": "美味しんぼ",
+     "description": "Restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1450301221",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Miyakonojo (#1)",
+     "name_en": "Restaurant in Miyakonojo (#1)",
+     "name_ja": "ポレンタ",
+     "description": "Restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/5222709123",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Senri Jusato",
+     "name_en": "Senri Jusato",
+     "name_ja": "千里十里",
+     "description": "Restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/5222708727",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Yumemi Gaoka Miyama Kirishima Kitchen",
+     "name_en": "Yumemi Gaoka Miyama Kirishima Kitchen",
+     "name_ja": "夢見が丘深山・霧島キッチン",
+     "description": "Restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/5489779560",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/other/",
+     "category": "Other"
     },
     {
      "name": "Amekaze",
@@ -5184,6 +6068,51 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Hiratsuka Chaya",
+     "name_en": "Hiratsuka Chaya",
+     "name_ja": "平塚茶や",
+     "description": "Japanese restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1378338194",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Oshokujidokoro Himeshiro",
+     "name_en": "Oshokujidokoro Himeshiro",
+     "name_ja": "お食事処ひめしろ",
+     "description": "Japanese restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/12728643893",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ringer Hut",
+     "name_en": "Ringer Hut",
+     "name_ja": "リンガーハット",
+     "description": "Japanese restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1366433740",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Tonkatsu Mine",
+     "name_en": "Tonkatsu Mine",
+     "name_ja": "とんかつ峯",
+     "description": "Japanese restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1374993837",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Miyakonojo",
+     "name_en": "Japanese restaurant in Miyakonojo",
+     "name_ja": "とんかつ濵かつ",
+     "description": "Japanese restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1367518826",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Tema Sushi",
      "name_en": "Tema Sushi",
      "name_ja": "てま鮨",
@@ -5191,6 +6120,132 @@
      "source_url": "https://tabelog.com/miyazaki/A4503/A450301/45012573/",
      "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/seafood/",
      "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Hamasushi",
+     "name_en": "Hamasushi",
+     "name_ja": "はま寿司",
+     "description": "Sushi restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/4757342640",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kura Sushi",
+     "name_en": "Kura Sushi",
+     "name_ja": "くら寿司",
+     "description": "Sushi restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1144384927",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Osushiya San",
+     "name_en": "Osushiya San",
+     "name_ja": "お寿司屋さん",
+     "description": "Sushi restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/488623933",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Madoka",
+     "name_en": "Sushi Madoka",
+     "name_ja": "寿司まどか",
+     "description": "Sushi restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/4757342675",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi restaurant in Miyakonojo",
+     "name_en": "Sushi restaurant in Miyakonojo",
+     "name_ja": "スシロー",
+     "description": "Sushi restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/4757163413",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Baskin-Robbins",
+     "name_en": "Baskin-Robbins",
+     "name_ja": "サーティワンアイスクリーム",
+     "description": "Ice cream ice cream shop in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/4757163388",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bakery in Miyakonojo",
+     "name_en": "Bakery in Miyakonojo",
+     "name_ja": "ファヴォリ",
+     "description": "Bakery in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/5222666123",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Inetani Dango",
+     "name_en": "Inetani Dango",
+     "name_ja": "稲谷団子",
+     "description": "Sweets shop in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/489494992",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Mister Donut",
+     "name_en": "Mister Donut",
+     "name_ja": "ミスタードーナツ",
+     "description": "Donut restaurant in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/4757342630",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Nakajima Pan Hompo",
+     "name_en": "Nakajima Pan Hompo",
+     "name_ja": "中島パン本舗",
+     "description": "Bakery in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/13907308534",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Okashi no Minamikaori",
+     "name_en": "Okashi no Minamikaori",
+     "name_ja": "お菓子の南香",
+     "description": "Sweets shop in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1374993758",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Pan Cake no Muko Gawa",
+     "name_en": "Pan Cake no Muko Gawa",
+     "name_ja": "パンケーキの向こうがわ",
+     "description": "Sweets shop in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/12969606433",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Shinyanodango",
+     "name_en": "Shinyanodango",
+     "name_ja": "しんやのだんご",
+     "description": "Sweets shop in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/node/13965641230",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets shop in Miyakonojo",
+     "name_en": "Sweets shop in Miyakonojo",
+     "name_ja": "昭栄堂",
+     "description": "Sweets shop in Miyakonojo.",
+     "source_url": "https://www.openstreetmap.org/way/1374993757",
+     "page": "https://bokenjapan.com/miyazaki/miyakonojo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "sights": [
@@ -5379,7 +6434,7 @@
     "lat": 31.907658,
     "lon": 131.4204615
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside Station Phoenix",
@@ -5932,6 +6987,79 @@
    ],
    "food": [
     {
+     "name": "Always Cafe",
+     "name_en": "Always Cafe",
+     "description": "Cafe in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/way/719289955",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "AOSHIMAYA",
+     "name_en": "AOSHIMAYA",
+     "description": "Cafe in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/14113910050",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Bobjordan",
+     "name_en": "Bobjordan",
+     "description": "Cafe in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/5923343716",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Curry＆cage KUH",
+     "name_en": "Curry&cage KUH",
+     "description": "Curry cafe in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/5923239845",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Life Time",
+     "name_en": "Jazzspot Lifetime",
+     "description": "Cafe in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/5063606422",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "The BEACH BURGER HOUSE",
+     "name_en": "The BEACH BURGER HOUSE",
+     "description": "Burger restaurant in Miyazaki.",
+     "source_url": "https://thebeachburgerhouse.com/",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "MOS Burger",
+     "name_en": "MOS Burger",
+     "name_ja": "モスバーガー",
+     "description": "Burger fast-food restaurant in Miyazaki.",
+     "source_url": "https://www.mos.co.jp/",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Corner",
+     "name_en": "Corner",
+     "description": "Fast-food restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/5923437706",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "doyasa",
+     "name_en": "doyasa",
+     "description": "Fast-food restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/2912494001",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Mangoya",
      "name_en": "Mangoya",
      "name_ja": "まんごや",
@@ -5939,6 +7067,42 @@
      "source_url": "https://tabelog.com/miyazaki/A4501/A450101/45003434/",
      "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/chinese-asian/",
      "category": "Chinese & Asian"
+    },
+    {
+     "name": "CHINESE RESTAURANT Rioto",
+     "name_en": "CHINESE RESTAURANT Rioto",
+     "name_ja": "CHINESE RESTAURANT 璃音",
+     "description": "Chinese restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/way/718760235",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Toten Kaku",
+     "name_en": "Toten Kaku",
+     "name_ja": "東天閣",
+     "description": "Chinese restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/12109452700",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Indian restaurant Muna",
+     "name_en": "Indian restaurant Muna",
+     "name_ja": "インド料理専門 ムーナ",
+     "description": "Indian restaurant in Miyazaki. Open Mon-Fri 11:00-14:30, 17:00-22:30.",
+     "source_url": "https://www.openstreetmap.org/way/1114859667",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Indo Ryori Specialty Shop Muna",
+     "name_en": "Indo Ryori Specialty Shop Muna",
+     "name_ja": "インド料理専門店 ムーナ",
+     "description": "Indian restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/7187049222",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/curry/",
+     "category": "Curry"
     },
     {
      "name": "Iwanaga Shokudo",
@@ -6002,11 +7166,69 @@
      "category": "European"
     },
     {
+     "name": "CUCINA",
+     "name_en": "CUCINA",
+     "description": "Italian restaurant in Miyazaki. Open Mon, Sat-Sun 11:30-14:00, 18:00-22:00; Thu-Fri 18:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/14286801492",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Italian restaurant in Miyazaki (#2)",
+     "name_en": "Italian restaurant in Miyazaki (#2)",
+     "name_ja": "菜園ブッフェPISOLINO ピソリーノ フェニックスガーデン店",
+     "description": "Italian restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/way/722127107",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Italian restaurant in Miyazaki (#1)",
+     "name_en": "Italian restaurant in Miyazaki (#1)",
+     "name_ja": "サレルーナ",
+     "description": "Italian restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/12109670128",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Tenichi",
      "name_en": "Tenichi",
      "name_ja": "天一",
      "description": "Izakaya in Miyazaki.",
      "source_url": "https://tabelog.com/miyazaki/A4501/A450101/45002069/",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "AQUA",
+     "name_en": "AQUA",
+     "description": "Bar in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/7013149540",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "bar rai",
+     "name_en": "bar rai",
+     "description": "Pub in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/5923350023",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "CELTS",
+     "name_en": "CELTS",
+     "description": "Pub in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/2912465613",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "LDK",
+     "name_en": "LDK",
+     "description": "Pub in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/13006301960",
      "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -6056,6 +7278,78 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Aji no Ogura Main Store",
+     "name_en": "Aji no Ogura Main Store",
+     "name_ja": "味のおぐら本店",
+     "description": "Chicken restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/9720779687",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "ARASHI-YA",
+     "name_en": "ARASHI-YA",
+     "name_ja": "嵐や",
+     "description": "Chicken restaurant in Chuo Tori, Miyazaki. Open daily 19:00-02:00.",
+     "source_url": "https://www.openstreetmap.org/node/9720783650",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Heike no Sato Miyazaki Minamidate",
+     "name_en": "Heike no Sato Miyazaki Minamidate",
+     "name_ja": "平家の郷 宮崎南館",
+     "description": "Steak restaurant in Miyazaki. Open Mon-Fri 11:30-15:00, 17:30-21:30; Sat, Sun, public holidays 11:00-15:00, 17:00-21:30.",
+     "source_url": "https://www.openstreetmap.org/node/11810716345",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Miyazaki Niku Hompo",
+     "name_en": "Miyazaki Niku Hompo",
+     "name_ja": "宮崎肉本舗",
+     "description": "Barbecue restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/12109482905",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Okazaki Bokujo Steak Branch&Yakiniku Branch",
+     "name_en": "Okazaki Bokujo Steak Branch&Yakiniku Branch",
+     "name_ja": "岡崎牧場ステーキ店&焼肉店",
+     "description": "Steak restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/12109482952",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Sumibi Yaki Hamburg Steak Botchi",
+     "name_en": "Sumibi Yaki Hamburg Steak Botchi",
+     "name_ja": "炭火焼ハンバーグぼっち",
+     "description": "Steak restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/12109698063",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku no Sachika Sono",
+     "name_en": "Yakiniku no Sachika Sono",
+     "name_ja": "焼肉の幸加園",
+     "description": "Barbecue restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/12109699794",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Shoya",
+     "name_en": "Yakiniku Shoya",
+     "name_ja": "焼肉しょうや",
+     "description": "Yakiniku restaurant in Miyazaki. Open Tue-Sun 11:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/8530377017",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Sobadokoro Shimizu",
      "name_en": "Sobadokoro Shimizu",
      "name_ja": "蕎麦處 しみず",
@@ -6072,6 +7366,231 @@
      "source_url": "https://tabelog.com/miyazaki/A4501/A450101/45000172/",
      "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/noodles/",
      "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kamage Udon Togakushi Honten",
+     "name_en": "Kamage Udon Togakushi Honten",
+     "name_ja": "釜揚げうどん戸隠本店",
+     "description": "Noodle restaurant in Chuo Tori, Miyazaki. Open daily 19:00-26:00.",
+     "source_url": "http://www.miyazaki-togakushi.com/",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Agetake Tempura",
+     "name_en": "Agetake Tempura",
+     "name_ja": "武蔵野",
+     "description": "Soba restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/way/1351755862",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Fukuya",
+     "name_en": "Fukuya",
+     "name_ja": "ふくや",
+     "description": "Udon restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/5923298407",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Hakata Menya Dai Takumi",
+     "name_en": "Hakata Menya Dai Takumi",
+     "name_ja": "博多麺屋台 た組",
+     "description": "Ramen restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/12109721156",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Hiroki Ie",
+     "name_en": "Hiroki Ie",
+     "name_ja": "ひろき家",
+     "description": "Ramen restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/5923238287",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kama Gen",
+     "name_en": "Kama Gen",
+     "name_ja": "かま源",
+     "description": "Ramen restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/5923343721",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Karamenya Masumoto Akae",
+     "name_en": "Karamenya Masumoto Akae",
+     "name_ja": "辛麺屋桝元 赤江店",
+     "description": "Ramen restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/8043077485",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Soba restaurant in Miyazaki",
+     "name_en": "Soba restaurant in Miyazaki",
+     "name_ja": "紀州屋支店",
+     "description": "Soba restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/5923343724",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "KOBARA-MITASU",
+     "name_en": "KOBARA-MITASU",
+     "name_ja": "立ち食いうどんそば 小腹満ス",
+     "description": "Noodle and soba restaurant in Miyazaki. Open daily 08:00-20:00.",
+     "source_url": "https://www.openstreetmap.org/node/3889210415",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menkachi Aoba Branch",
+     "name_en": "Menkachi Aoba Branch",
+     "name_ja": "麺勝 青葉店",
+     "description": "Noodle restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/way/718771949",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Mentakumi Sanada",
+     "name_en": "Mentakumi Sanada",
+     "name_ja": "麺匠 真田",
+     "description": "Ramen restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/12109670148",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Nobuya Ramen",
+     "name_en": "Nobuya Ramen",
+     "name_ja": "のぶやラーメン",
+     "description": "Ramen restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/2912488801",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Ichiban Hone",
+     "name_en": "Ramen Ichiban Hone",
+     "name_ja": "らあめん一番骨",
+     "description": "Ramen restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/2912487602",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Shinmenya Masumoto",
+     "name_en": "Shinmenya Masumoto",
+     "name_ja": "辛麺屋 桝元",
+     "description": "Ramen restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/12769984665",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Shinmenya Masumoto Miyazaki Chuo Tori Branch",
+     "name_en": "Shinmenya Masumoto Miyazaki Chuo Tori Branch",
+     "name_ja": "辛麵屋 桝元 宮崎中央通店",
+     "description": "Noodle restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/7161442614",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Toyokichi Udon",
+     "name_en": "Toyokichi Udon",
+     "name_ja": "豊吉うどん",
+     "description": "Noodle restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/5923237881",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Heike no Sato Otsuka Honkan",
+     "name_en": "Heike no Sato Otsuka Honkan",
+     "name_ja": "平家の郷 大塚本館",
+     "description": "Restaurant in Otsuka Machi Miyata, Miyazaki.",
+     "source_url": "http://www.heikenosato.jp/index.html",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kura Zushi",
+     "name_en": "Kura Zushi",
+     "description": "Restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/6756989685",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Miyazaki Jerk Shack",
+     "name_en": "Miyazaki Jerk Shack",
+     "description": "Restaurant in Miyazaki. Open Tue-Sun 17:00-02:00.",
+     "source_url": "https://www.openstreetmap.org/node/14090336103",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Oyster Hut & Seafood",
+     "name_en": "Oyster Hut & Seafood",
+     "description": "Restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/6813796787",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Oysters Hut & Seafood",
+     "name_en": "Oysters Hut & Seafood",
+     "description": "Restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/6813828090",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "PHASE☆ONE",
+     "name_en": "PHASE☆ONE",
+     "description": "Restaurant in Miyazaki. Closed Mon; Tue-Sun 11:00-14:00, 18:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/14280876490",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Porto Fino",
+     "name_en": "Porto Fino",
+     "description": "Restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/way/100818660",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Seafood A",
+     "name_en": "Seafood A",
+     "description": "Restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/6813787988",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Sinbad",
+     "name_en": "Sinbad",
+     "description": "Restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/5219077483",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "TamariBar",
+     "name_en": "TamariBar",
+     "description": "Restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/12109750551",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/other/",
+     "category": "Other"
     },
     {
      "name": "Sachiuo",
@@ -6119,6 +7638,123 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Royal Host",
+     "name_en": "Royal Host",
+     "name_ja": "ロイヤルホスト",
+     "description": "Japanese restaurant in Miyazaki.",
+     "source_url": "https://locations.royalhost.jp/",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "En encounter",
+     "name_en": "En encounter",
+     "name_ja": "えん encounter",
+     "description": "Japanese restaurant in Tachibanatori Nishi, Miyazaki. Open Mon, Thu-Sun 17:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/14274400031",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Hakata Tanya",
+     "name_en": "Hakata Tanya",
+     "name_ja": "博多 たんや",
+     "description": "Japanese restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/8937795520",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Heike no Sato",
+     "name_en": "Heike no Sato",
+     "name_ja": "平家の郷",
+     "description": "Japanese restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/8937795518",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Miyazaki",
+     "name_en": "Japanese restaurant in Miyazaki",
+     "name_ja": "割烹浜乃瀬",
+     "description": "Japanese restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/12109698062",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kiyomori",
+     "name_en": "Kiyomori",
+     "name_ja": "清盛",
+     "description": "Japanese restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/way/719494755",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kodawari Tonkatsu Mine",
+     "name_en": "Kodawari Tonkatsu Mine",
+     "name_ja": "こだわり とんかつ 峯",
+     "description": "Japanese restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/way/287665646",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Miyazaki Teppanyaki Rakui",
+     "name_en": "Miyazaki Teppanyaki Rakui",
+     "name_ja": "みやざき鉄板焼らくい",
+     "description": "Japanese restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/8937795523",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Nippon Ryori Shikisai Tomoe Seri",
+     "name_en": "Nippon Ryori Shikisai Tomoe Seri",
+     "name_ja": "日本料理四季菜 巴せり",
+     "description": "Japanese restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/way/279681491",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Oyodo Kahan Miyachiku",
+     "name_en": "Oyodo Kahan Miyachiku",
+     "name_ja": "大淀河畔 みやちく",
+     "description": "Japanese restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/6754390795",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ryotei Yamabuki",
+     "name_en": "Ryotei Yamabuki",
+     "name_ja": "料亭 山吹",
+     "description": "Japanese restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/way/719491559",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Tempiyo Shokudo",
+     "name_en": "Tempiyo Shokudo",
+     "name_ja": "天平食堂",
+     "description": "Japanese restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/way/287804857",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Tomiyoshi Shokudo",
+     "name_en": "Tomiyoshi Shokudo",
+     "name_ja": "とみよし食堂",
+     "description": "Japanese restaurant in Miyazaki. Open Mon-Fri 10:00-14:00.",
+     "source_url": "https://www.openstreetmap.org/way/1267592076",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Isshin Sushi Koyo",
      "name_en": "Isshin Sushi Koyo",
      "name_ja": "一心鮨 光洋",
@@ -6144,6 +7780,85 @@
      "source_url": "https://tabelog.com/miyazaki/A4501/A450101/45013429/",
      "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/seafood/",
      "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Edo Gin",
+     "name_en": "Edo Gin",
+     "name_ja": "江戸銀",
+     "description": "Sushi restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/2912491901",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Fuku Sushi",
+     "name_en": "Fuku Sushi",
+     "name_ja": "福鮨",
+     "description": "Sushi restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/12109470592",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Gyoren Maru",
+     "name_en": "Gyoren Maru",
+     "name_ja": "ぎょれん丸",
+     "description": "Fish restaurant in Miyazaki. Open daily 11:00-15:00; Sat-Sun 17:00-21:00; public holidays 17:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/way/1311511232",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Isshin Sushi Koyo",
+     "name_en": "Isshin Sushi Koyo",
+     "name_ja": "一心鮨 光洋",
+     "description": "Sushi restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/way/718762510",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "kura sushi",
+     "name_en": "kura sushi",
+     "description": "Sushi restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/6757402387",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Tokoro Kitsuru",
+     "name_en": "Sushi Tokoro Kitsuru",
+     "name_ja": "すし処 喜鶴",
+     "description": "Sushi restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/12109470591",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Tora",
+     "name_en": "Sushi Tora",
+     "name_ja": "寿司虎",
+     "description": "Sushi restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/way/1310079180",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Tachigui Sushi Tokoro In",
+     "name_en": "Tachigui Sushi Tokoro In",
+     "name_ja": "立ち食い寿司処 印",
+     "description": "Sushi restaurant in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/12109721157",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "136Bakery",
+     "name_en": "136Bakery",
+     "description": "Bakery in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/12109482929",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "sights": [
@@ -6441,6 +8156,58 @@
      "description": "T25 — lodging in Miyazaki, Miyazaki.",
      "source_url": "https://www.jalan.net/yad300288/",
      "page": "https://bokenjapan.com/miyazaki/miyazaki/stay/"
+    },
+    {
+     "name": "Hostel in Miyazaki",
+     "name_en": "Hostel in Miyazaki",
+     "name_ja": "ゲストハウス平和",
+     "description": "Hostel in Miyazaki.",
+     "source_url": "https://ghouse-heiwa.webnode.jp",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/stay/"
+    },
+    {
+     "name": "Phoenix Seagaia Ocean Tower",
+     "name_en": "Phoenix Seagaia Ocean Tower",
+     "name_ja": "フェニックス・シーガイア・オーシャン・タワー",
+     "description": "Hotel in Miyazaki (Yamazaki Machi Hamayama).",
+     "source_url": "https://seagaia.co.jp/",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/stay/"
+    },
+    {
+     "name": "Toyoko Inn",
+     "name_en": "Toyoko Inn",
+     "name_ja": "東横INN宮崎駅前",
+     "description": "Hotel in Miyazaki.",
+     "source_url": "https://www.toyoko-inn.com/search/detail/00101/",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/stay/"
+    },
+    {
+     "name": "KAEDA SURF BASE",
+     "name_en": "KAEDA SURF BASE",
+     "description": "Chalet in Miyazaki (Kae Ta).",
+     "source_url": "https://kaeda-surf-base.com/",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/stay/"
+    },
+    {
+     "name": "Art Hotel Miyasaki Sky Tower",
+     "name_en": "Art Hotel Miyasaki Sky Tower",
+     "description": "Hotel in Miyazaki.",
+     "source_url": "https://art-miyazaki-skytower.com/",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/stay/"
+    },
+    {
+     "name": "camping villa PILLOWS",
+     "name_en": "camping villa PILLOWS",
+     "description": "Chalet in Miyazaki (Utsumi).",
+     "source_url": "https://www.cinema-heaven.com/",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/stay/"
+    },
+    {
+     "name": "Aoshima guesthouse Hooju",
+     "name_en": "Aoshima guesthouse Hooju",
+     "description": "Hostel in Miyazaki.",
+     "source_url": "https://www.openstreetmap.org/node/4761917427",
+     "page": "https://bokenjapan.com/miyazaki/miyazaki/stay/"
     }
    ]
   },
@@ -6612,7 +8379,7 @@
     "lat": 31.601949,
     "lon": 131.378738
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside Station Nango",
@@ -6841,6 +8608,49 @@
      "category": "Cafe"
     },
     {
+     "name": "Ku ru mu",
+     "name_en": "Ku ru mu",
+     "description": "Cafe in Nichinanshi.",
+     "source_url": "https://www.openstreetmap.org/node/5919682579",
+     "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "nana",
+     "name_en": "nana",
+     "description": "Cafe in Nichinanshi.",
+     "source_url": "https://www.openstreetmap.org/node/5919722731",
+     "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Ocha Tokoro Kusa",
+     "name_en": "Ocha Tokoro Kusa",
+     "name_ja": "お茶処 草",
+     "description": "Cafe in Nichinanshi. Open daily 10:00-16:30.",
+     "source_url": "https://www.openstreetmap.org/node/5919790769",
+     "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Ohino Chaya",
+     "name_en": "Ohino Chaya",
+     "name_ja": "おひの茶屋",
+     "description": "Cafe in Nichinanshi.",
+     "source_url": "https://www.openstreetmap.org/node/5919682786",
+     "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Shangurira",
+     "name_en": "Shangurira",
+     "name_ja": "しゃんぐりら",
+     "description": "Cafe in Nichinanshi.",
+     "source_url": "https://www.openstreetmap.org/node/5919792438",
+     "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Nikoniko Shop",
      "name_en": "Nikoniko Shop",
      "name_ja": "にこにこショップ",
@@ -6864,6 +8674,15 @@
      "name_ja": "三代目まんりょう",
      "description": "Izakaya, eel, and shokudo in Nichinan.",
      "source_url": "https://tabelog.com/miyazaki/A4502/A450202/45002653/",
+     "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Nakamuraya",
+     "name_en": "Nakamuraya",
+     "name_ja": "中村屋",
+     "description": "Pub in Nichinanshi.",
+     "source_url": "https://www.openstreetmap.org/node/5919990819",
      "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -6931,6 +8750,78 @@
      "category": "Other"
     },
     {
+     "name": "Ajisai",
+     "name_en": "Ajisai",
+     "name_ja": "あじさい",
+     "description": "Restaurant in Nichinanshi.",
+     "source_url": "https://www.openstreetmap.org/node/5919599451",
+     "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Daiakira",
+     "name_en": "Daiakira",
+     "name_ja": "大晃",
+     "description": "Restaurant in Nichinanshi.",
+     "source_url": "https://www.openstreetmap.org/node/5923146722",
+     "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Gallery Kodama",
+     "name_en": "Gallery Kodama",
+     "name_ja": "ギャラリーこだま",
+     "description": "Restaurant in Nichinanshi.",
+     "source_url": "https://www.openstreetmap.org/node/5919682580",
+     "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Ito Tei",
+     "name_en": "Ito Tei",
+     "name_ja": "伊東邸",
+     "description": "Restaurant in Nichinanshi.",
+     "source_url": "https://www.openstreetmap.org/node/5919722747",
+     "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kiraku",
+     "name_en": "Kiraku",
+     "name_ja": "季楽",
+     "description": "Restaurant in Nichinanshi.",
+     "source_url": "https://www.openstreetmap.org/node/5919722734",
+     "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Matsuman",
+     "name_en": "Matsuman",
+     "name_ja": "松万",
+     "description": "Restaurant in Nichinanshi.",
+     "source_url": "https://www.openstreetmap.org/node/5919990823",
+     "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Obi Ten Chaya",
+     "name_en": "Obi Ten Chaya",
+     "name_ja": "おび天茶屋",
+     "description": "Restaurant in Nichinanshi.",
+     "source_url": "https://www.openstreetmap.org/node/5919764331",
+     "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Tairaiori",
+     "name_en": "Tairaiori",
+     "name_ja": "平庵",
+     "description": "Restaurant in Nichinanshi.",
+     "source_url": "https://www.openstreetmap.org/node/5919682572",
+     "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Japanese cuisine in Nichinan",
      "name_en": "Japanese cuisine in Nichinan",
      "name_ja": "喜庵 一能",
@@ -6972,6 +8863,24 @@
      "name_ja": "武家屋敷 伊東邸 おび茶寮",
      "description": "Japanese cuisine in Nichinan.",
      "source_url": "https://tabelog.com/miyazaki/A4502/A450201/45009546/",
+     "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kyodo Ryori Obi Tenkura",
+     "name_en": "Kyodo Ryori Obi Tenkura",
+     "name_ja": "郷土料理 おび天蔵",
+     "description": "Japanese restaurant in Nichinanshi.",
+     "source_url": "https://www.openstreetmap.org/way/399803042",
+     "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Nichinanshi",
+     "name_en": "Japanese restaurant in Nichinanshi",
+     "name_ja": "シャンシャン茶屋",
+     "description": "Japanese restaurant in Nichinanshi.",
+     "source_url": "https://www.openstreetmap.org/node/4859389568",
      "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -7490,7 +9399,7 @@
     "lat": 32.5821773,
     "lon": 131.6650601
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Kitaura Roadside Station",
@@ -7659,6 +9568,24 @@
    ],
    "food": [
     {
+     "name": "Komeda's Coffee",
+     "name_en": "Komeda's Coffee",
+     "name_ja": "コメダ珈琲店",
+     "description": "Cafe in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/1462832061",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Starbucks",
+     "name_en": "Starbucks",
+     "name_ja": "スターバックス",
+     "description": "Cafe in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/node/7073890012",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Naochan",
      "name_en": "Naochan",
      "name_ja": "直ちゃん",
@@ -7704,6 +9631,60 @@
      "category": "Casual"
     },
     {
+     "name": "Fast-food restaurant in Nobeoka",
+     "name_en": "Fast-food restaurant in Nobeoka",
+     "name_ja": "CoCo壱番屋",
+     "description": "Fast-food restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/1108534269",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Hotto Motto",
+     "name_en": "Hotto Motto",
+     "name_ja": "ほっともっと",
+     "description": "Fast-food restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/1108556916",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "name_ja": "マクドナルド",
+     "description": "Burger fast-food restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/node/10132529442",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "MOS Burger",
+     "name_en": "MOS Burger",
+     "name_ja": "モスバーガー",
+     "description": "Burger fast-food restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/1107077514",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Sukiya",
+     "name_en": "Sukiya",
+     "name_ja": "すき家",
+     "description": "Fast-food restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/1108988778",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Yoshinoya",
+     "name_en": "Yoshinoya",
+     "name_ja": "吉野家",
+     "description": "Fast-food restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/1108988777",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Kurobee",
      "name_en": "Kurobee",
      "name_ja": "黒兵衛",
@@ -7731,6 +9712,60 @@
      "category": "European"
     },
     {
+     "name": "Pizza restaurant in Nobeoka",
+     "name_en": "Pizza restaurant in Nobeoka",
+     "name_ja": "ドミノ",
+     "description": "Pizza restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/1108988795",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Gusto",
+     "name_en": "Gusto",
+     "name_ja": "ガスト",
+     "description": "Western-style restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/1109011333",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Jolly-Pasta",
+     "name_en": "Jolly-Pasta",
+     "name_ja": "ジョリーパスタ",
+     "description": "Pasta restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/1108995731",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Jolly–Pasta",
+     "name_en": "Jolly–Pasta",
+     "name_ja": "ジョリーパスタ 南延岡店",
+     "description": "Pasta restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/node/5183080022",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Joyfull",
+     "name_en": "Joyfull",
+     "name_ja": "ジョイフル",
+     "description": "Western-style restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/1105214379",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Italian restaurant in Nobeoka",
+     "name_en": "Italian restaurant in Nobeoka",
+     "name_ja": "キャナリィ・ロウ 延岡店",
+     "description": "Italian restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/1108988801",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Minato Makanai Daishumaru",
      "name_en": "Minato Makanai Daishumaru",
      "name_ja": "港まかない大周丸",
@@ -7754,6 +9789,15 @@
      "name_ja": "網基",
      "description": "Izakaya, fried food, and seafood in Nobeoka.",
      "source_url": "https://tabelog.com/miyazaki/A4505/A450501/45003069/",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Pub in Nobeoka",
+     "name_en": "Pub in Nobeoka",
+     "name_ja": "自在な整体院",
+     "description": "Pub in Heigen Machi, Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/node/4958187896",
      "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -7790,6 +9834,51 @@
      "name_ja": "不二かつ 延岡本店",
      "description": "Fuji Katsu Nobeoka Main Store — tonkatsu restaurant in Nobeoka, Miyazaki.",
      "source_url": "https://tabelog.com/miyazaki/A4505/A450501/45000249/",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Ganso Chicken-Nanban Naochan",
+     "name_en": "Ganso Chicken-Nanban Naochan",
+     "name_ja": "元祖チキン南蛮 直ちゃん",
+     "description": "Chicken restaurant in Sakaemachi, Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/1057798844",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "KFC",
+     "name_en": "KFC",
+     "name_ja": "ケンタッキーフライドチキン",
+     "description": "Chicken restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/508039153",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Kyochiku Sono",
+     "name_en": "Kyochiku Sono",
+     "name_ja": "夾竹園",
+     "description": "Barbecue restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/1110568508",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku King",
+     "name_en": "Yakiniku King",
+     "name_ja": "焼肉きんぐ",
+     "description": "Yakiniku restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/1108988800",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Marumaru Nichi no Shutsu Branch",
+     "name_en": "Yakiniku Marumaru Nichi no Shutsu Branch",
+     "name_ja": "焼肉 丸丸 日の出店",
+     "description": "Yakiniku restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/849203639",
      "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -7848,11 +9937,164 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Furai Ken",
+     "name_en": "Furai Ken",
+     "name_ja": "風来軒",
+     "description": "Ramen restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/1109611030",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Marugame Seimen",
+     "name_en": "Marugame Seimen",
+     "name_ja": "丸亀製麺",
+     "description": "Noodle restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/849198688",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Shibaraku",
+     "name_en": "Shibaraku",
+     "name_ja": "しばらく",
+     "description": "Ramen restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/1108988793",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tenryo Udon Showacho Branch",
+     "name_en": "Tenryo Udon Showacho Branch",
+     "name_ja": "天領うどん 昭和町店",
+     "description": "Udon restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/849198690",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon Soba Yama Shin",
+     "name_en": "Udon Soba Yama Shin",
+     "name_ja": "うどんそば やま信",
+     "description": "Noodle restaurant in Heigen Machi, Nobeoka. Open daily 06:30-19:30.",
+     "source_url": "https://www.openstreetmap.org/node/4871958259",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Aji no Ogura Chen Asahigaoka Branch",
+     "name_en": "Aji no Ogura Chen Asahigaoka Branch",
+     "name_ja": "味のおぐらチェーン 旭ヶ丘店",
+     "description": "Restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/1123798455",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Joyful Nobeoka Shutsukita Branch",
+     "name_en": "Joyful Nobeoka Shutsukita Branch",
+     "name_ja": "ジョイフル延岡出北店",
+     "description": "Restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/849198701",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Katsu Iori Minami Nobeoka Branch",
+     "name_en": "Katsu Iori Minami Nobeoka Branch",
+     "name_ja": "かつ庵 南延岡店",
+     "description": "Restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/node/5183080021",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant Hayuma",
+     "name_en": "Restaurant Hayuma",
+     "name_ja": "レストランはゆま",
+     "description": "Restaurant in Nobeoka. Open Mon-Fri 08:30-18:00; Sat, Sun 08:30-19:00.",
+     "source_url": "https://www.openstreetmap.org/node/7070396380",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Nobeoka",
+     "name_en": "Restaurant in Nobeoka",
+     "name_ja": "レストラン海市場",
+     "description": "Restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/node/8447664153",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Kitaura Zenryo",
      "name_en": "Kitaura Zenryo",
      "name_ja": "きたうら善漁。",
      "description": "Kitaura Zenryo — japanese restaurant in Nobeoka, Miyazaki.",
      "source_url": "https://tabelog.com/miyazaki/A4505/A450501/45004060/",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Aji no Ogura",
+     "name_en": "Aji no Ogura",
+     "name_ja": "味のおぐら",
+     "description": "Japanese restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/1104106886",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Junshoku Kichiiori",
+     "name_en": "Junshoku Kichiiori",
+     "name_ja": "旬食 吉庵",
+     "description": "Japanese restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/525316161",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kami Tagawa",
+     "name_en": "Kami Tagawa",
+     "name_ja": "神田川",
+     "description": "Japanese restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/node/10131921510",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Katsu Iori",
+     "name_en": "Katsu Iori",
+     "name_ja": "かつ庵",
+     "description": "Japanese restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/1108995730",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Masumoto",
+     "name_en": "Masumoto",
+     "name_ja": "桝元",
+     "description": "Japanese restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/node/10130130859",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ringer Hut",
+     "name_en": "Ringer Hut",
+     "name_ja": "リンガーハット",
+     "description": "Japanese restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/node/10185329840",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yama Shin",
+     "name_en": "Yama Shin",
+     "name_ja": "やま信",
+     "description": "Japanese restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/1109470318",
      "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -7866,11 +10108,74 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Kaki Ie",
+     "name_en": "Kaki Ie",
+     "name_ja": "牡蠣家",
+     "description": "Seafood restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/1111514886",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kura Sushi",
+     "name_en": "Kura Sushi",
+     "name_ja": "くら寿司",
+     "description": "Sushi restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/1108534268",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi restaurant in Nobeoka",
+     "name_en": "Sushi restaurant in Nobeoka",
+     "name_ja": "スシロー",
+     "description": "Sushi restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/1108534238",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Kaze no Kashi Torahiko Saiwaimachi Main Store",
      "name_en": "Kaze no Kashi Torahiko Saiwaimachi Main Store",
      "name_ja": "風の菓子 虎彦 幸町本店",
      "description": "Japanese sweets, cake, and shaved ice in Nobeoka.",
      "source_url": "https://tabelog.com/miyazaki/A4505/A450501/45004801/",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Baskin-Robbins",
+     "name_en": "Baskin-Robbins",
+     "name_ja": "サーティワンアイスクリーム",
+     "description": "Ice cream ice cream shop in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/node/10185329844",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Chateraise",
+     "name_en": "Chateraise",
+     "name_ja": "シャトレーゼ",
+     "description": "Sweets shop in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/way/1108556917",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Crepe restaurant in Nobeoka",
+     "name_en": "Crepe restaurant in Nobeoka",
+     "name_ja": "クレープ ティファニー",
+     "description": "Crepe restaurant in Heigen Machi, Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/node/4880239461",
+     "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Mister Donut",
+     "name_en": "Mister Donut",
+     "name_ja": "ミスタードーナツ",
+     "description": "Donut restaurant in Nobeoka.",
+     "source_url": "https://www.openstreetmap.org/node/10185329843",
      "page": "https://bokenjapan.com/miyazaki/nobeoka/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -8109,7 +10414,7 @@
     "lat": 32.1078698,
     "lon": 131.4009284
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Saitobaru Guidance Center Konohana-kan",
@@ -8169,6 +10474,15 @@
      "name_ja": "恋花亭",
      "description": "Cafe, cake, and bread in Saito.",
      "source_url": "https://tabelog.com/miyazaki/A4504/A450402/45003859/",
+     "page": "https://bokenjapan.com/miyazaki/saito/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kissa Daiana",
+     "name_en": "Kissa Daiana",
+     "name_ja": "喫茶ダイアナ",
+     "description": "Cafe in Saito.",
+     "source_url": "https://www.openstreetmap.org/way/645499491",
      "page": "https://bokenjapan.com/miyazaki/saito/eat/cafe/",
      "category": "Cafe"
     },
@@ -8272,6 +10586,23 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "FoodBar OaSiS",
+     "name_en": "FoodBar OaSiS",
+     "description": "Pub in Saito.",
+     "source_url": "https://www.openstreetmap.org/node/11773144607",
+     "page": "https://bokenjapan.com/miyazaki/saito/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Hanjo",
+     "name_en": "Hanjo",
+     "name_ja": "繁助",
+     "description": "Pub in Saito.",
+     "source_url": "https://www.openstreetmap.org/node/11772767044",
+     "page": "https://bokenjapan.com/miyazaki/saito/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Arita Sanchi no Onikuyasan",
      "name_en": "Arita Sanchi no Onikuyasan",
      "name_ja": "有田さんちのお肉やさん",
@@ -8286,6 +10617,15 @@
      "name_ja": "お肉の直売所 西都",
      "description": "Meat Direct Sales Shop Saito — yakiniku restaurant in Saito, Miyazaki.",
      "source_url": "https://tabelog.com/miyazaki/A4504/A450401/45013213/",
+     "page": "https://bokenjapan.com/miyazaki/saito/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Bincho Sumi Sumibi Yakitori Megumiya Plus Saito Branch",
+     "name_en": "Bincho Sumi Sumibi Yakitori Megumiya Plus Saito Branch",
+     "name_ja": "備長炭炭火やきとり恵屋プラス 西都店",
+     "description": "Yakitori pub in Saito.",
+     "source_url": "https://www.openstreetmap.org/node/11771914052",
      "page": "https://bokenjapan.com/miyazaki/saito/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -8335,11 +10675,46 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Fukutaro",
+     "name_en": "Fukutaro",
+     "name_ja": "福太郎",
+     "description": "Ramen restaurant in Saito.",
+     "source_url": "https://www.openstreetmap.org/way/1535224082",
+     "page": "https://bokenjapan.com/miyazaki/saito/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kitcho Udon",
+     "name_en": "Kitcho Udon",
+     "name_ja": "きっちょううどん",
+     "description": "Udon restaurant in Saito.",
+     "source_url": "https://www.openstreetmap.org/way/646370379",
+     "page": "https://bokenjapan.com/miyazaki/saito/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon Soba Tokoro Urashima",
+     "name_en": "Udon Soba Tokoro Urashima",
+     "name_ja": "うどん・そば処 うらしま",
+     "description": "Udon and soba restaurant in Saito.",
+     "source_url": "https://www.openstreetmap.org/way/1535224081",
+     "page": "https://bokenjapan.com/miyazaki/saito/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Saito Onsen",
      "name_en": "Saito Onsen",
      "name_ja": "さいと温泉",
      "description": "Ryokan and minshuku in Saito.",
      "source_url": "https://tabelog.com/miyazaki/A4504/A450401/45006277/",
+     "page": "https://bokenjapan.com/miyazaki/saito/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Akanoya",
+     "name_en": "Akanoya",
+     "description": "Restaurant in Saito.",
+     "source_url": "https://www.openstreetmap.org/node/11773239456",
      "page": "https://bokenjapan.com/miyazaki/saito/eat/other/",
      "category": "Other"
     },
@@ -8371,11 +10746,38 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Unagino Irifune",
+     "name_en": "Unagino Irifune",
+     "name_ja": "うなぎの入船",
+     "description": "Seafood restaurant in Saito.",
+     "source_url": "https://www.openstreetmap.org/node/9796242018",
+     "page": "https://bokenjapan.com/miyazaki/saito/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Wagashi Mizunoya Saito Main Store",
      "name_en": "Wagashi Mizunoya Saito Main Store",
      "name_ja": "和菓子 水野屋 西都本店",
      "description": "Wagashi Mizunoya Saito Main Store — wagashi shop in Saito, Miyazaki.",
      "source_url": "https://tabelog.com/miyazaki/A4504/A450401/45005084/",
+     "page": "https://bokenjapan.com/miyazaki/saito/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Chausubaru Bakery",
+     "name_en": "Chausubaru Bakery",
+     "name_ja": "茶臼原ベーカリー",
+     "description": "Bakery in Saito.",
+     "source_url": "https://www.openstreetmap.org/node/11811553626",
+     "page": "https://bokenjapan.com/miyazaki/saito/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Morinofu Ice",
+     "name_en": "Morinofu Ice",
+     "name_ja": "もりのふうアイス",
+     "description": "Sweets ice cream shop in Saito.",
+     "source_url": "https://www.openstreetmap.org/node/11772761925",
      "page": "https://bokenjapan.com/miyazaki/saito/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -10202,6 +12604,15 @@
      "name_ja": "げんこつラーメン",
      "description": "Genkotsu Ramen — ramen restaurant in Takanabe, Miyazaki.",
      "source_url": "https://tabelog.com/miyazaki/A4504/A450402/45000520/",
+     "page": "https://bokenjapan.com/miyazaki/takanabe/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Shop Takanabe Main Store",
+     "name_en": "Ramen Shop Takanabe Main Store",
+     "name_ja": "ラーメンショップ 高鍋本店",
+     "description": "Ramen restaurant in Takanabe.",
+     "source_url": "https://www.openstreetmap.org/way/1434819393",
      "page": "https://bokenjapan.com/miyazaki/takanabe/eat/noodles/",
      "category": "Japanese (noodles)"
     },

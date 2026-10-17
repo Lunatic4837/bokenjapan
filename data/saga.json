@@ -835,7 +835,7 @@
     "address": "Imari, Saga 848-8501",
     "phone": "0955-23-2111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Michi-no-Eki Imari (Imari Furusato-mura)",
@@ -917,11 +917,55 @@
      "category": "Cafe"
     },
     {
+     "name": "CJ CAFE",
+     "name_en": "CJ CAFE",
+     "description": "Cafe in Tachibana Machi, Imari.",
+     "source_url": "https://cj-cafe.jimdo.com/",
+     "page": "https://bokenjapan.com/saga/imari/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "KO:HI:KAN",
+     "name_en": "KO:HI:KAN",
+     "name_ja": "珈琲館",
+     "description": "Cafe in Imari.",
+     "source_url": "https://www.openstreetmap.org/node/2516191284",
+     "page": "https://bokenjapan.com/saga/imari/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Tsukemonya Hachibin",
      "name_en": "Tsukemonya Hachibin",
      "name_ja": "漬もん屋 鉢瓶",
      "description": "Shokudo in Imari.",
      "source_url": "https://tabelog.com/saga/A4102/A410202/41006968/",
+     "page": "https://bokenjapan.com/saga/imari/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "name_ja": "マクドナルド",
+     "description": "Fast-food restaurant in Imari.",
+     "source_url": "https://www.openstreetmap.org/node/2516185331",
+     "page": "https://bokenjapan.com/saga/imari/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Ringer Hut",
+     "name_en": "Ringer Hut",
+     "name_ja": "リンガーハット",
+     "description": "Fast-food restaurant in Imari.",
+     "source_url": "https://www.openstreetmap.org/node/2516187833",
+     "page": "https://bokenjapan.com/saga/imari/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Sukiya",
+     "name_en": "Sukiya",
+     "name_ja": "すき家",
+     "description": "Fast-food restaurant in Imari.",
+     "source_url": "https://www.openstreetmap.org/node/3748986525",
      "page": "https://bokenjapan.com/saga/imari/eat/casual/",
      "category": "Casual"
     },
@@ -934,11 +978,29 @@
      "category": "European"
     },
     {
+     "name": "Joyfull",
+     "name_en": "Joyfull",
+     "name_ja": "ジョイフル",
+     "description": "Western-style restaurant in Imari.",
+     "source_url": "https://www.openstreetmap.org/node/2516183719",
+     "page": "https://bokenjapan.com/saga/imari/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Kira Hiiragi",
      "name_en": "Kira Hiiragi",
      "name_ja": "きら・柊",
      "description": "Izakaya, dining bar, and kushiage in Imari.",
      "source_url": "https://tabelog.com/saga/A4102/A410202/41002887/",
+     "page": "https://bokenjapan.com/saga/imari/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Inaka Mura",
+     "name_en": "Inaka Mura",
+     "name_ja": "いなか村",
+     "description": "Pub in Imari.",
+     "source_url": "https://www.openstreetmap.org/node/2949063833",
      "page": "https://bokenjapan.com/saga/imari/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -1024,6 +1086,15 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Imari Yakiniku Kan Kachi",
+     "name_en": "Imari Yakiniku Kan Kachi",
+     "name_ja": "伊万里 焼肉館・勝",
+     "description": "Yakiniku restaurant in Imari. Open Mon-Fri 11:30-14:30, 17:00-21:20.",
+     "source_url": "https://www.openstreetmap.org/way/959810202",
+     "page": "https://bokenjapan.com/saga/imari/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Imari Champon Imari Store",
      "name_en": "Imari Champon Imari Store",
      "name_ja": "伊万里ちゃんぽん 伊万里店",
@@ -1060,11 +1131,74 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Soba Sachi",
+     "name_en": "Soba Sachi",
+     "name_ja": "そば幸",
+     "description": "Soba restaurant in Imari.",
+     "source_url": "https://www.openstreetmap.org/node/3749091726",
+     "page": "https://bokenjapan.com/saga/imari/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Central Hotel Imari",
      "name_en": "Central Hotel Imari",
      "name_ja": "セントラルホテル伊万里",
      "description": "Hotel in Imari.",
      "source_url": "https://tabelog.com/saga/A4102/A410202/41004446/",
+     "page": "https://bokenjapan.com/saga/imari/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Dondon Tei",
+     "name_en": "Dondon Tei",
+     "name_ja": "どんどん亭",
+     "description": "Restaurant in Imari.",
+     "source_url": "https://www.openstreetmap.org/node/2949047333",
+     "page": "https://bokenjapan.com/saga/imari/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kachi",
+     "name_en": "Kachi",
+     "name_ja": "勝",
+     "description": "Restaurant in Imari.",
+     "source_url": "https://www.openstreetmap.org/node/2517105002",
+     "page": "https://bokenjapan.com/saga/imari/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Monja Yaki",
+     "name_en": "Monja Yaki",
+     "name_ja": "もんじゃ焼き",
+     "description": "Restaurant in Imari.",
+     "source_url": "https://www.openstreetmap.org/node/2517102632",
+     "page": "https://bokenjapan.com/saga/imari/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Ruraru",
+     "name_en": "Ruraru",
+     "name_ja": "るーらる",
+     "description": "Restaurant in Imari.",
+     "source_url": "https://www.openstreetmap.org/node/793881035",
+     "page": "https://bokenjapan.com/saga/imari/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Shijakku",
+     "name_en": "Shijakku",
+     "name_ja": "しーじゃっく",
+     "description": "Restaurant in Imari.",
+     "source_url": "https://www.openstreetmap.org/node/3748966684",
+     "page": "https://bokenjapan.com/saga/imari/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Toki Sato",
+     "name_en": "Toki Sato",
+     "name_ja": "とき里",
+     "description": "Restaurant in Imari.",
+     "source_url": "https://www.openstreetmap.org/node/2516174288",
      "page": "https://bokenjapan.com/saga/imari/eat/other/",
      "category": "Other"
     },
@@ -1092,6 +1226,15 @@
      "name_ja": "海鮮丼 とろ作",
      "description": "Kaisendon Torosaku — seafood rice bowl restaurant in Imari, Saga.",
      "source_url": "https://tabelog.com/saga/A4102/A410202/41006171/",
+     "page": "https://bokenjapan.com/saga/imari/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kaiten Sushi Wakatake Maru",
+     "name_en": "Kaiten Sushi Wakatake Maru",
+     "name_ja": "回転すし 若竹丸",
+     "description": "Sushi restaurant in Imari.",
+     "source_url": "https://www.openstreetmap.org/node/2949043735",
      "page": "https://bokenjapan.com/saga/imari/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -1564,7 +1707,7 @@
     "address": "Kanzaki, Saga 842-8601",
     "phone": "0952-52-1111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Ume no Hana Oshitori",
@@ -1801,6 +1944,15 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Ume no Hana",
+     "name_en": "Ume no Hana",
+     "name_ja": "梅の花",
+     "description": "Restaurant in Kanzaki.",
+     "source_url": "https://www.openstreetmap.org/way/910328158",
+     "page": "https://bokenjapan.com/saga/kanzaki/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Yagura Sushi",
      "name_en": "Yagura Sushi",
      "name_ja": "やぐら寿し",
@@ -1923,6 +2075,14 @@
      "description": "HOTEL R9 The Yard Kanzaki, a hotel in Kanzaki.",
      "source_url": "https://www.jalan.net/yad355398/",
      "page": "https://bokenjapan.com/saga/kanzaki/stay/"
+    },
+    {
+     "name": "Kuboyama Lodge",
+     "name_en": "Kuboyama Lodge",
+     "name_ja": "久保山ロッジ",
+     "description": "Guest house in Kanzaki (Sefuri Machi Haramaki).",
+     "source_url": "https://www.openstreetmap.org/node/14287575912",
+     "page": "https://bokenjapan.com/saga/kanzaki/stay/"
     }
    ]
   },
@@ -1941,7 +2101,7 @@
     "address": "Karatsu, Saga 847-8511",
     "phone": "0955-72-9111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Yobuko Morning Market",
@@ -2188,11 +2348,115 @@
    ],
    "food": [
     {
+     "name": "Cafe Elster",
+     "name_en": "Cafe Elster",
+     "description": "Cafe in Karatsu. Open daily 12:30-18:00.",
+     "source_url": "https://www.openstreetmap.org/node/4417430910",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Caffe Luna",
+     "name_en": "Caffe Luna",
+     "description": "Cafe in Kyomachi, Karatsu.",
+     "source_url": "https://www.openstreetmap.org/way/492716456",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "KARAE TABLE",
+     "name_en": "KARAE TABLE",
+     "description": "Cafe in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/12738199092",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Karatsu Baga Karatsu Chiku Matsubara Main Store",
+     "name_en": "Karatsu Baga Karatsu Chiku Matsubara Main Store",
+     "name_ja": "からつバーガー唐津地区・松原本店",
+     "description": "Cafe in Karatsu. Open daily 10:00-20:00.",
+     "source_url": "https://www.openstreetmap.org/node/4564343601",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "ONIX CAFE",
+     "name_en": "ONIX CAFE",
+     "description": "Cafe in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/8846928896",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Starbucks",
+     "name_en": "Starbucks",
+     "name_ja": "スターバックス",
+     "description": "Cafe in Karatsu. Open Mon-Sun, public holidays 08:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/12247305652",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Tea&Space Motosachi Iori",
+     "name_en": "Tea&Space Motosachi Iori",
+     "name_ja": "Tea & Space 基幸庵",
+     "description": "Cafe in Higashi Karatsu, Karatsu.",
+     "source_url": "https://www.openstreetmap.org/way/492714973",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Yamaguchi Okonomiya",
      "name_en": "Yamaguchi Okonomiya",
      "name_ja": "山口お好み屋",
      "description": "Yamaguchi Okonomiya — okonomiyaki and yakisoba restaurant in Karatsu, Saga.",
      "source_url": "https://tabelog.com/saga/A4102/A410201/41000467/",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Dondontei",
+     "name_en": "Dondontei",
+     "name_ja": "どんどん亭",
+     "description": "Fast-food restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/way/951820872",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Karatsu Baga",
+     "name_en": "Karatsu Baga",
+     "name_ja": "唐津バーガー",
+     "description": "Burger fast-food restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/6708905080",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "LOTTERIA",
+     "name_en": "LOTTERIA",
+     "name_ja": "ロッテリア",
+     "description": "Fast-food restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/778185121",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "name_ja": "マクドナルド",
+     "description": "Burger fast-food restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/way/466069257",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Yoshinoya",
+     "name_en": "Yoshinoya",
+     "name_ja": "吉野家",
+     "description": "Fast-food restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/7081938048",
      "page": "https://bokenjapan.com/saga/karatsu/eat/casual/",
      "category": "Casual"
     },
@@ -2215,6 +2479,23 @@
      "category": "European"
     },
     {
+     "name": "Western-style restaurant in Karatsu",
+     "name_en": "Western-style restaurant in Karatsu",
+     "name_ja": "田舎のビストロポポット",
+     "description": "Western-style restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/4611764980",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "TRATTORIA Legare",
+     "name_en": "TRATTORIA Legare",
+     "description": "Italian restaurant in Karatsu. Open daily 11:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/12518868638",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Genkai Sakanadokoro Shunpu",
      "name_en": "Genkai Sakanadokoro Shunpu",
      "name_ja": "玄海肴処旬風",
@@ -2229,6 +2510,42 @@
      "name_ja": "居酒屋大八車",
      "description": "Izakaya in Karatsu.",
      "source_url": "https://tabelog.com/saga/A4102/A410201/41002385/",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Manjo En",
+     "name_en": "Manjo En",
+     "name_ja": "萬盛奄",
+     "description": "Pub in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/7081938034",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Saketokoro Aya",
+     "name_en": "Saketokoro Aya",
+     "name_ja": "酒処A屋",
+     "description": "Izakaya bar in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/8811008160",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Snack Chie",
+     "name_en": "Snack Chie",
+     "name_ja": "スナックちえ",
+     "description": "Izakaya bar in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/8811008120",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Wareraku Taiko Hakuba Kuruma (Snack Hakuba Kuruma)",
+     "name_en": "Wareraku Taiko Hakuba Kuruma (Snack Hakuba Kuruma)",
+     "name_ja": "我楽太閤白馬車（スナック白馬車）",
+     "description": "Izakaya bar in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/8811007671",
      "page": "https://bokenjapan.com/saga/karatsu/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -2269,6 +2586,24 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Steak restaurant in Karatsu",
+     "name_en": "Steak restaurant in Karatsu",
+     "name_ja": "キャラバン ステーキ専門店",
+     "description": "Steak restaurant in Nakamachi, Karatsu.",
+     "source_url": "https://www.openstreetmap.org/way/492717790",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Matabei",
+     "name_en": "Matabei",
+     "name_ja": "又兵衛",
+     "description": "Yakitori restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/way/1069903375",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Tanohisa",
      "name_en": "Tanohisa",
      "name_ja": "田の久",
@@ -2276,6 +2611,212 @@
      "source_url": "https://tabelog.com/saga/A4102/A410201/41000495/",
      "page": "https://bokenjapan.com/saga/karatsu/eat/noodles/",
      "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kannon Chaya Yumeya",
+     "name_en": "Kannon Chaya Yumeya",
+     "name_ja": "観音茶屋夢屋",
+     "description": "Noodle restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/way/665737557",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ryuko Ken",
+     "name_en": "Ryuko Ken",
+     "name_ja": "龍虎軒",
+     "description": "Ramen restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/11505387028",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Soba Tokoro Seiei Iori",
+     "name_en": "Soba Tokoro Seiei Iori",
+     "name_ja": "そば処 清栄庵",
+     "description": "Soba restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/14159637101",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen restaurant in Karatsu",
+     "name_en": "Ramen restaurant in Karatsu",
+     "name_ja": "田の久",
+     "description": "Ramen restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/7081938033",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Arigataya",
+     "name_en": "Arigataya",
+     "name_ja": "ありがたや",
+     "description": "Restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/8811008138",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Karatsu",
+     "name_en": "Restaurant in Karatsu",
+     "name_ja": "亜呂覇",
+     "description": "Restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/8846928897",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Baru Keyaki",
+     "name_en": "Baru Keyaki",
+     "name_ja": "バール欅",
+     "description": "Restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/8811008159",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Gusto",
+     "name_en": "Gusto",
+     "name_ja": "ガスト",
+     "description": "Restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/2517059848",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Ika Honke",
+     "name_en": "Ika Honke",
+     "name_ja": "いか本家",
+     "description": "Restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/4417579304",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Ikano Iki Tsukuri Yamatomura",
+     "name_en": "Ikano Iki Tsukuri Yamatomura",
+     "name_ja": "いかの活き造り大和",
+     "description": "Restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/way/331315315",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Joyful Karatsu Kagami Branch",
+     "name_en": "Joyful Karatsu Kagami Branch",
+     "name_ja": "ジョイフル 唐津鏡店",
+     "description": "Restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/4621821736",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "joyfull",
+     "name_en": "joyfull",
+     "description": "Restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/4092524752",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kaihin Kan",
+     "name_en": "Kaihin Kan",
+     "name_ja": "海浜館",
+     "description": "Restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/way/964168523",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kaishu",
+     "name_en": "Kaishu",
+     "name_ja": "海舟",
+     "description": "Restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/way/330569244",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kashihara Sanbo Mizumishuya",
+     "name_en": "Kashihara Sanbo Mizumishuya",
+     "name_ja": "樫原山房湖守屋",
+     "description": "Restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/way/561127155",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kawashima Tofu Branch Zaru Tofu",
+     "name_en": "Kawashima Tofu Branch Zaru Tofu",
+     "name_ja": "川島豆腐店 ざる豆腐",
+     "description": "Restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/8811008154",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kawataro (Ika Ryori)",
+     "name_en": "Kawataro (Ika Ryori)",
+     "name_ja": "河太郎（イカ料理）",
+     "description": "Restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/793862363",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Matsu Zushi",
+     "name_en": "Matsu Zushi",
+     "name_ja": "松ずし",
+     "description": "Restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/way/331366121",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Matsubara Okoshi Aso Honke",
+     "name_en": "Matsubara Okoshi Aso Honke",
+     "name_ja": "松原おこし 麻生本家",
+     "description": "Restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/8846928902",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Tanaka",
+     "name_en": "Tanaka",
+     "name_ja": "たなか",
+     "description": "Restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/way/952661319",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Yamashigeru",
+     "name_en": "Yamashigeru",
+     "name_ja": "山茂",
+     "description": "Restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/8811008146",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Yamashiroya",
+     "name_en": "Yamashiroya",
+     "name_ja": "山城屋",
+     "description": "Restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/8811008127",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Yobuko Manbo (Ika Ryori)",
+     "name_en": "Yobuko Manbo (Ika Ryori)",
+     "name_ja": "呼子萬坊（イカ料理）",
+     "description": "Restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/way/130939651",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other/",
+     "category": "Other"
     },
     {
      "name": "Amegen",
@@ -2310,6 +2851,77 @@
      "name_ja": "日本料理 川島",
      "description": "Nihon Ryori Kawashima — japanese and seafood restaurant in Karatsu, Saga.",
      "source_url": "https://tabelog.com/saga/A4102/A410201/41000027/",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "MIRUKASHI Salon",
+     "name_en": "MIRUKASHI Salon",
+     "description": "Japanese restaurant in Karatsu.",
+     "source_url": "https://mirukashi.life",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Hiuraya",
+     "name_en": "Hiuraya",
+     "name_ja": "日浦屋",
+     "description": "Japanese restaurant in Machida, Karatsu.",
+     "source_url": "http://www.hiuraya.jp/",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Karatsu (#1)",
+     "name_en": "Japanese restaurant in Karatsu (#1)",
+     "name_ja": "木の花",
+     "description": "Japanese restaurant in Karatsu.",
+     "source_url": "https://cafeprana.com/konohana/",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ginga Shokudo no Yoru",
+     "name_en": "Ginga Shokudo no Yoru",
+     "name_ja": "銀河食堂の夜",
+     "description": "Japanese restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/way/1165113021",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Gyosan Nin",
+     "name_en": "Gyosan Nin",
+     "name_ja": "魚山人",
+     "description": "Japanese restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/11012454768",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Miyako Shokudo",
+     "name_en": "Miyako Shokudo",
+     "name_ja": "みやこ食堂",
+     "description": "Japanese restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/8811007683",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Karatsu (#3)",
+     "name_en": "Japanese restaurant in Karatsu (#3)",
+     "name_ja": "清流荘",
+     "description": "Regional Japanese restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/way/818248399",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Karatsu (#2)",
+     "name_en": "Japanese restaurant in Karatsu (#2)",
+     "name_ja": "多の四季",
+     "description": "Japanese restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/way/665737161",
      "page": "https://bokenjapan.com/saga/karatsu/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -2402,6 +3014,103 @@
      "source_url": "https://tabelog.com/saga/A4102/A410201/41000053/",
      "page": "https://bokenjapan.com/saga/karatsu/eat/seafood/",
      "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Esaki",
+     "name_en": "Esaki",
+     "name_ja": "からつ鮨 笑咲喜",
+     "description": "Sushi restaurant in Karatsu. Open Tue-Sat 17:00-22:00; Sun 12:00-14:00; closed Mon.",
+     "source_url": "https://www.openstreetmap.org/node/9786747818",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Genyo",
+     "name_en": "Genyo",
+     "name_ja": "玄洋",
+     "description": "Seafood restaurant in Kitashiro Nai, Karatsu.",
+     "source_url": "https://www.openstreetmap.org/way/492714242",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kura Sushi",
+     "name_en": "Kura Sushi",
+     "name_ja": "くら寿司",
+     "description": "Sushi restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/6702558885",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Zen",
+     "name_en": "Sushi Zen",
+     "name_ja": "すし善",
+     "description": "Sushi restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/9897265590",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Tengu Hisashishi",
+     "name_en": "Tengu Hisashishi",
+     "name_ja": "天宮寿し",
+     "description": "Sushi restaurant in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/12513709003",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Moulin Rouge",
+     "name_en": "Moulin Rouge",
+     "name_ja": "Moulin Rouge(むーらんるーじゅ)",
+     "description": "Bakery in Karatsu.",
+     "source_url": "https://www.moulinrouge-saga.com/",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets shop in Karatsu",
+     "name_en": "Sweets shop in Karatsu",
+     "name_ja": "菓子舗池田屋",
+     "description": "Sweets shop in Nakamachi, Karatsu.",
+     "source_url": "https://www.openstreetmap.org/way/492510030",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Lazy bird bakery",
+     "name_en": "Lazy bird bakery",
+     "description": "Bakery in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/13800397502",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Nufu Bakery",
+     "name_en": "Nufu Bakery",
+     "name_ja": "ヌフ・ベーカリー",
+     "description": "Bakery in Kitashiro Nai, Karatsu.",
+     "source_url": "https://www.openstreetmap.org/way/492714528",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bakery in Karatsu",
+     "name_en": "Bakery in Karatsu",
+     "name_ja": "田上菓子舗",
+     "description": "Bakery in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/way/951820839",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Viennoiserie Selfish",
+     "name_en": "Viennoiserie Selfish",
+     "description": "Bakery in Karatsu.",
+     "source_url": "https://www.openstreetmap.org/node/13282468901",
+     "page": "https://bokenjapan.com/saga/karatsu/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "sights": [
@@ -2751,7 +3460,7 @@
     "address": "Kashima, Saga 849-1312",
     "phone": "0954-63-2111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Michi-no-Eki Kashima",
@@ -2968,6 +3677,15 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Meat restaurant in Kashima",
+     "name_en": "Meat restaurant in Kashima",
+     "name_ja": "お好み焼き鉄板焼き 風車",
+     "description": "Meat restaurant in Kashima.",
+     "source_url": "https://www.openstreetmap.org/node/11760424054",
+     "page": "https://bokenjapan.com/saga/kashima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Matsufuku",
      "name_en": "Matsufuku",
      "name_ja": "松福",
@@ -3031,6 +3749,15 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Restaurant Kazoku Tei",
+     "name_en": "Restaurant Kazoku Tei",
+     "name_ja": "レストラン家族亭",
+     "description": "Japanese restaurant in Oaza Tsunehiro, Kashima.",
+     "source_url": "https://www.openstreetmap.org/node/4731578104",
+     "page": "https://bokenjapan.com/saga/kashima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Sushi Masa",
      "name_en": "Sushi Masa",
      "name_ja": "寿し政",
@@ -3067,6 +3794,15 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Gatakko House",
+     "name_en": "Gatakko House",
+     "name_ja": "ガタッコハウス",
+     "description": "Seafood restaurant in Kashima.",
+     "source_url": "https://www.openstreetmap.org/way/1085151992",
+     "page": "https://bokenjapan.com/saga/kashima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Shin Aburaya",
      "name_en": "Shin Aburaya",
      "name_ja": "新油屋",
@@ -3081,6 +3817,15 @@
      "name_ja": "カメヤ ベーカリー",
      "description": "Bread and sandwich bakery in Kashima.",
      "source_url": "https://tabelog.com/saga/A4104/A410402/41006369/",
+     "page": "https://bokenjapan.com/saga/kashima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Kashi Kobo",
+     "name_en": "Kashi Kobo",
+     "name_ja": "菓子工房",
+     "description": "Sweets shop in Kashima.",
+     "source_url": "https://www.openstreetmap.org/node/9943171103",
      "page": "https://bokenjapan.com/saga/kashima/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -3768,7 +4513,7 @@
     "address": "Miyaki, Saga 849-0113",
     "phone": "0942-89-1651"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Hanasaki Jitchama",
@@ -3934,6 +4679,24 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Kazuyoshi Udon",
+     "name_en": "Kazuyoshi Udon",
+     "name_ja": "一吉うどん",
+     "description": "Udon restaurant in Miyaki.",
+     "source_url": "https://www.openstreetmap.org/node/5154577022",
+     "page": "https://bokenjapan.com/saga/miyaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Nagahama Ramen Kirakuya",
+     "name_en": "Nagahama Ramen Kirakuya",
+     "name_ja": "長浜ラーメン喜楽屋",
+     "description": "Ramen restaurant in Miyaki.",
+     "source_url": "https://www.openstreetmap.org/node/6164909400",
+     "page": "https://bokenjapan.com/saga/miyaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Aji no Magokoro",
      "name_en": "Aji no Magokoro",
      "name_ja": "味のまごころ",
@@ -4063,7 +4826,7 @@
     "address": "Ogi, Saga 845-8511",
     "phone": "0952-37-6111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Tomomasu Inryo",
@@ -4157,6 +4920,15 @@
      "category": "Cafe"
     },
     {
+     "name": "Cafe in Ogi",
+     "name_en": "Cafe in Ogi",
+     "name_ja": "ルージュ・エ・ノアール",
+     "description": "Cafe in Ogi.",
+     "source_url": "https://www.openstreetmap.org/node/3396954900",
+     "page": "https://bokenjapan.com/saga/ogi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Drive-In Ippei",
      "name_en": "Drive-In Ippei",
      "name_ja": "ドライブイン一平",
@@ -4183,6 +4955,15 @@
      "category": "Casual"
     },
     {
+     "name": "Burger restaurant in Ogi",
+     "name_en": "Burger restaurant in Ogi",
+     "name_ja": "唐津バーガー さくら号",
+     "description": "Burger restaurant in Ogi.",
+     "source_url": "https://www.openstreetmap.org/node/3393362050",
+     "page": "https://bokenjapan.com/saga/ogi/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Chuka Shokudo Kokoka",
      "name_en": "Chuka Shokudo Kokoka",
      "name_ja": "中華食堂 口口香",
@@ -4201,6 +4982,15 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Tetsudomokei to Curry Yaki&Hana An Hisashi",
+     "name_en": "Tetsudomokei to Curry Yaki&Hana An Hisashi",
+     "name_ja": "鉄道模型とカレー焼き&華あん寿",
+     "description": "Curry restaurant in Ogi. Open daily 11:00-17:00.",
+     "source_url": "https://www.openstreetmap.org/node/13653642402",
+     "page": "https://bokenjapan.com/saga/ogi/eat/curry/",
+     "category": "Curry"
+    },
+    {
      "name": "White House",
      "name_en": "White House",
      "name_ja": "ホワイトハウス",
@@ -4215,6 +5005,33 @@
      "name_ja": "おさかな処 小山",
      "description": "Izakaya, shokudo, and seafood restaurant in Ogi.",
      "source_url": "https://tabelog.com/saga/A4103/A410303/41006724/",
+     "page": "https://bokenjapan.com/saga/ogi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya bar in Ogi",
+     "name_en": "Izakaya bar in Ogi",
+     "name_ja": "大衆酒場 ニュームラハチ 小城店",
+     "description": "Izakaya bar in Ogi. Open Tue-Sun 17:00-00:00.",
+     "source_url": "https://new-murahachi-ogi.foodre.jp/",
+     "page": "https://bokenjapan.com/saga/ogi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Pub in Ogi",
+     "name_en": "Pub in Ogi",
+     "name_ja": "美（ちゅら）",
+     "description": "Pub in Ogi.",
+     "source_url": "https://www.openstreetmap.org/node/3396954906",
+     "page": "https://bokenjapan.com/saga/ogi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Oreno ryuugi",
+     "name_en": "Oreno ryuugi",
+     "name_ja": "俺のryuugi",
+     "description": "Pub in Ogi.",
+     "source_url": "https://www.openstreetmap.org/way/334123370",
      "page": "https://bokenjapan.com/saga/ogi/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -4273,6 +5090,33 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Take Chan Ramen",
+     "name_en": "Take Chan Ramen",
+     "name_ja": "竹ちゃんラーメン",
+     "description": "Ramen restaurant in Ogi.",
+     "source_url": "https://www.openstreetmap.org/node/4041274390",
+     "page": "https://bokenjapan.com/saga/ogi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Restaurant in Ogi",
+     "name_en": "Restaurant in Ogi",
+     "name_ja": "キッチンオズ",
+     "description": "Restaurant in Ogi.",
+     "source_url": "https://www.openstreetmap.org/node/3398579959",
+     "page": "https://bokenjapan.com/saga/ogi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Shoku Doraku Mikazuki Branch",
+     "name_en": "Shoku Doraku Mikazuki Branch",
+     "name_ja": "喰道楽三日月店",
+     "description": "Restaurant in Ogi.",
+     "source_url": "https://www.openstreetmap.org/way/332359569",
+     "page": "https://bokenjapan.com/saga/ogi/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Takimiya",
      "name_en": "Takimiya",
      "name_ja": "滝見屋",
@@ -4287,6 +5131,15 @@
      "name_ja": "清水屋",
      "description": "Japanese and local cuisine in Ogi.",
      "source_url": "https://tabelog.com/saga/A4103/A410303/41001404/",
+     "page": "https://bokenjapan.com/saga/ogi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shirataki",
+     "name_en": "Shirataki",
+     "name_ja": "白滝",
+     "description": "Japanese restaurant in Ogi.",
+     "source_url": "https://www.openstreetmap.org/way/995212511",
      "page": "https://bokenjapan.com/saga/ogi/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -4359,6 +5212,60 @@
      "name_ja": "パンシュクル",
      "description": "Pan Shukuru — bread and sandwich shop in Ogi, Saga.",
      "source_url": "https://tabelog.com/saga/A4103/A410303/41006717/",
+     "page": "https://bokenjapan.com/saga/ogi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Kochi Seipan",
+     "name_en": "Kochi Seipan",
+     "name_ja": "幸地製パン",
+     "description": "Bakery in Ogi.",
+     "source_url": "https://www.openstreetmap.org/way/401706610",
+     "page": "https://bokenjapan.com/saga/ogi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Masuda no Ogi Yokan",
+     "name_en": "Masuda no Ogi Yokan",
+     "name_ja": "増田の小城羊羹",
+     "description": "Sweets shop in Ogi.",
+     "source_url": "https://www.openstreetmap.org/way/400345553",
+     "page": "https://bokenjapan.com/saga/ogi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Muraoka Mizu Yokan Hompo",
+     "name_en": "Muraoka Mizu Yokan Hompo",
+     "name_ja": "村岡水羊羹本舗",
+     "description": "Sweets shop in Ogi.",
+     "source_url": "https://www.openstreetmap.org/node/4758897948",
+     "page": "https://bokenjapan.com/saga/ogi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets shop in Ogi",
+     "name_en": "Sweets shop in Ogi",
+     "name_ja": "村岡総本舗小城中央店",
+     "description": "Sweets shop in Ogi.",
+     "source_url": "https://www.openstreetmap.org/way/400345600",
+     "page": "https://bokenjapan.com/saga/ogi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Nakajima Yokan",
+     "name_en": "Nakajima Yokan",
+     "name_ja": "中島羊羹",
+     "description": "Sweets shop in Ogi.",
+     "source_url": "https://www.openstreetmap.org/node/3398494524",
+     "page": "https://bokenjapan.com/saga/ogi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Yasukawa no Ogi Yokan",
+     "name_en": "Yasukawa no Ogi Yokan",
+     "name_ja": "安川の小城羊羹",
+     "description": "Sweets shop in Ogi.",
+     "source_url": "https://www.openstreetmap.org/way/401171327",
      "page": "https://bokenjapan.com/saga/ogi/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -4732,7 +5639,7 @@
     "address": "Saga 840-8501",
     "phone": "0952-24-3151"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Michi-no-Eki Yamato \"Soyokaze-kan\"",
@@ -5057,6 +5964,57 @@
    ],
    "food": [
     {
+     "name": "Cafe AIX",
+     "name_en": "Cafe AIX",
+     "description": "Cafe in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/5361145961",
+     "page": "https://bokenjapan.com/saga/saga/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Tomita",
+     "name_en": "Cafe Tomita",
+     "description": "Cafe in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/13227261676",
+     "page": "https://bokenjapan.com/saga/saga/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe TRES",
+     "name_en": "Cafe TRES",
+     "description": "Cafe in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/5554236126",
+     "page": "https://bokenjapan.com/saga/saga/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Saga",
+     "name_en": "Cafe in Saga",
+     "name_ja": "JiJIの風",
+     "description": "Cafe in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/13773197345",
+     "page": "https://bokenjapan.com/saga/saga/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "starbucks coffee",
+     "name_en": "starbucks coffee",
+     "name_ja": "星巴克咖啡",
+     "description": "Cafe in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/6183929785",
+     "page": "https://bokenjapan.com/saga/saga/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Café in Saga",
+     "name_en": "Café in Saga",
+     "name_ja": "トネリコカフェ",
+     "description": "Cafe in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/13227284445",
+     "page": "https://bokenjapan.com/saga/saga/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Wakayanagi Shokudo",
      "name_en": "Wakayanagi Shokudo",
      "name_ja": "若柳食堂",
@@ -5066,11 +6024,82 @@
      "category": "Casual"
     },
     {
+     "name": "Burger fast-food restaurant in Saga",
+     "name_en": "Burger fast-food restaurant in Saga",
+     "name_ja": "ゼッテリア佐賀駅店",
+     "description": "Burger fast-food restaurant in Saga. Open daily 07:30-21:00.",
+     "source_url": "https://maps.zetteria.jp/shop/shop5103.html",
+     "page": "https://bokenjapan.com/saga/saga/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Ide Champon",
+     "name_en": "Ide Champon",
+     "name_ja": "井手ちゃんぽん",
+     "description": "Fast-food restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/12091275134",
+     "page": "https://bokenjapan.com/saga/saga/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "need",
+     "name_en": "need",
+     "description": "Sandwich fast-food restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/13773277431",
+     "page": "https://bokenjapan.com/saga/saga/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Korean restaurant in Saga",
+     "name_en": "Korean restaurant in Saga",
+     "name_ja": "チング",
+     "description": "Korean restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/5362646286",
+     "page": "https://bokenjapan.com/saga/saga/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Shinfuku Gen",
+     "name_en": "Shinfuku Gen",
+     "name_ja": "新福源",
+     "description": "Chinese restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/11295025705",
+     "page": "https://bokenjapan.com/saga/saga/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Ume no Hana",
+     "name_en": "Ume no Hana",
+     "name_ja": "梅の花",
+     "description": "Chinese restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/11295025686",
+     "page": "https://bokenjapan.com/saga/saga/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Hakusan Bunga",
      "name_en": "Hakusan Bunga",
      "name_ja": "白山文雅",
      "description": "Hakusan Bunga — curry restaurant in Saga, Saga.",
      "source_url": "https://tabelog.com/saga/A4101/A410101/41000017/",
+     "page": "https://bokenjapan.com/saga/saga/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Indian restaurant in Saga (#1)",
+     "name_en": "Indian restaurant in Saga (#1)",
+     "name_ja": "アビスカー",
+     "description": "Indian restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/11278767263",
+     "page": "https://bokenjapan.com/saga/saga/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Indian restaurant in Saga (#2)",
+     "name_en": "Indian restaurant in Saga (#2)",
+     "name_ja": "ビスヌ",
+     "description": "Indian restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/5350681440",
      "page": "https://bokenjapan.com/saga/saga/eat/curry/",
      "category": "Curry"
     },
@@ -5110,6 +6139,58 @@
      "category": "European"
     },
     {
+     "name": "Italian restaurant in Saga",
+     "name_en": "Italian restaurant in Saga",
+     "name_ja": "サイゼリヤ",
+     "description": "Italian restaurant in Kose Machi Oaza Ushijima, Saga. Open daily 10:00-22:00.",
+     "source_url": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=1384",
+     "page": "https://bokenjapan.com/saga/saga/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Hakusan Bunga",
+     "name_en": "Hakusan Bunga",
+     "name_ja": "白山文雅",
+     "description": "French restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/way/349577603",
+     "page": "https://bokenjapan.com/saga/saga/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Jolly-Pasta Saga Nishi Branch",
+     "name_en": "Jolly-Pasta Saga Nishi Branch",
+     "name_ja": "ジョリーパスタ佐賀西店",
+     "description": "Italian restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/way/401784587",
+     "page": "https://bokenjapan.com/saga/saga/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "PIZZA CALIFORNIA",
+     "name_en": "PIZZA CALIFORNIA",
+     "description": "Pizza restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/11294700353",
+     "page": "https://bokenjapan.com/saga/saga/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "R Style Dining",
+     "name_en": "R Style Dining",
+     "description": "Italian restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/5358930063",
+     "page": "https://bokenjapan.com/saga/saga/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Satsu",
+     "name_en": "Satsu",
+     "name_ja": "颯",
+     "description": "Pizza and pasta restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/5358383912",
+     "page": "https://bokenjapan.com/saga/saga/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Gochiso Manma",
      "name_en": "Gochiso Manma",
      "name_ja": "ご馳走 まんま",
@@ -5124,6 +6205,48 @@
      "name_ja": "旨飯よか酒 ナナホシテントウ",
      "description": "Izakaya, seafood, and horse-meat dishes.",
      "source_url": "https://tabelog.com/saga/A4101/A410101/41007455/",
+     "page": "https://bokenjapan.com/saga/saga/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Pub in Saga",
+     "name_en": "Pub in Saga",
+     "name_ja": "ハイカラヤ",
+     "description": "Pub in Saga.",
+     "source_url": "http://www.g-food.co.jp/haikaraya/shop/kyushu-okinama/saga/saga-honjyo.html",
+     "page": "https://bokenjapan.com/saga/saga/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Dining Dai",
+     "name_en": "Dining Dai",
+     "description": "Pub in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/5350868228",
+     "page": "https://bokenjapan.com/saga/saga/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "izaka&sportsbar CRON",
+     "name_en": "izaka&sportsbar CRON",
+     "description": "Bar in Saga. Open daily 18:00-26:00.",
+     "source_url": "https://www.openstreetmap.org/node/3992159802",
+     "page": "https://bokenjapan.com/saga/saga/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "La pause",
+     "name_en": "La pause",
+     "description": "Bar in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/5358383914",
+     "page": "https://bokenjapan.com/saga/saga/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Motoya",
+     "name_en": "Motoya",
+     "name_ja": "元屋",
+     "description": "Pub in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/5361145960",
      "page": "https://bokenjapan.com/saga/saga/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -5160,6 +6283,78 @@
      "name_ja": "焼肉 炎壽",
      "description": "Yakiniku, izakaya, and horumon.",
      "source_url": "https://tabelog.com/saga/A4101/A410101/41000090/",
+     "page": "https://bokenjapan.com/saga/saga/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Drive-in Tori",
+     "name_en": "Drive-in Tori",
+     "name_ja": "ドライブイン鳥",
+     "description": "Chicken restaurant in Sakaemachi, Saga. Open Mon, Wed-Thu 11:00-21:30; Fri-Sun, public holidays 11:00-22:30.",
+     "source_url": "https://driveintori-saga.jp/",
+     "page": "https://bokenjapan.com/saga/saga/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Aoiya",
+     "name_en": "Aoiya",
+     "name_ja": "葵屋",
+     "description": "Yakitori pub in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/5362905717",
+     "page": "https://bokenjapan.com/saga/saga/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Kamon",
+     "name_en": "Kamon",
+     "name_ja": "花紋",
+     "description": "Barbecue restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/11278563931",
+     "page": "https://bokenjapan.com/saga/saga/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Kushikatsu pub in Saga",
+     "name_en": "Kushikatsu pub in Saga",
+     "name_ja": "串カツ イマイ",
+     "description": "Kushikatsu pub in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/5350829891",
+     "page": "https://bokenjapan.com/saga/saga/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Steak&Hamburg Steak EBISU",
+     "name_en": "Steak&Hamburg Steak EBISU",
+     "name_ja": "ステーキ＆ハンバーグ EBISU",
+     "description": "Barbecue and steak restaurant in Saga. Open Tue-Sat 11:30-15:00, 17:00-22:00; Sun 11:30-14:00.",
+     "source_url": "https://www.openstreetmap.org/node/14083853001",
+     "page": "https://bokenjapan.com/saga/saga/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Ushiwarai Horumon",
+     "name_en": "Ushiwarai Horumon",
+     "name_ja": "牛笑ホルモン",
+     "description": "Yakiniku pub in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/5362880108",
+     "page": "https://bokenjapan.com/saga/saga/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Eito",
+     "name_en": "Yakiniku Eito",
+     "name_ja": "焼肉えいと",
+     "description": "Barbecue restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/13227261675",
+     "page": "https://bokenjapan.com/saga/saga/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yora Nkan",
+     "name_en": "Yora Nkan",
+     "name_ja": "与羅ん館",
+     "description": "Barbecue restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/way/612712025",
      "page": "https://bokenjapan.com/saga/saga/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -5218,6 +6413,210 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Kyofu Sabo Ochobo Hakusan Branch",
+     "name_en": "Kyofu Sabo Ochobo Hakusan Branch",
+     "name_ja": "京風茶房おちょぼ白山店",
+     "description": "Noodle restaurant in Saga. Open Fri-Wed 11:00-20:00.",
+     "source_url": "https://ochobo1979.com",
+     "page": "https://bokenjapan.com/saga/saga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kamayo Jinriki Udon",
+     "name_en": "Kamayo Jinriki Udon",
+     "name_ja": "釜揚 人力うどん",
+     "description": "Udon restaurant in Saga.",
+     "source_url": "https://www.jinrikiudon.co.jp/shop/contents?contents_id=158630",
+     "page": "https://bokenjapan.com/saga/saga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Arima Udon",
+     "name_en": "Arima Udon",
+     "name_ja": "有馬うどん",
+     "description": "Noodle and udon restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/11278782361",
+     "page": "https://bokenjapan.com/saga/saga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Azumi No",
+     "name_en": "Azumi No",
+     "name_ja": "あずみ野",
+     "description": "Noodle and soba restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/11295025727",
+     "page": "https://bokenjapan.com/saga/saga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Azumi Udon Hyogo Branch",
+     "name_en": "Azumi Udon Hyogo Branch",
+     "name_ja": "あずみうどん 兵庫店",
+     "description": "Udon restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/way/574309596",
+     "page": "https://bokenjapan.com/saga/saga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Burakkupiggu Menie",
+     "name_en": "Burakkupiggu Menie",
+     "name_ja": "ぶらっくぴっぐ麺家",
+     "description": "Ramen restaurant in Honjo Machi Oaza Fukuro, Saga. Open Wed-Mon 11:30-20:00.",
+     "source_url": "https://www.openstreetmap.org/node/4225315493",
+     "page": "https://bokenjapan.com/saga/saga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Noodle restaurant in Saga",
+     "name_en": "Noodle restaurant in Saga",
+     "name_ja": "長太呂",
+     "description": "Noodle restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/way/299248985",
+     "page": "https://bokenjapan.com/saga/saga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Daihachi Udon",
+     "name_en": "Daihachi Udon",
+     "name_ja": "大八うどん",
+     "description": "Udon restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/1869491659",
+     "page": "https://bokenjapan.com/saga/saga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Fukuno Ie",
+     "name_en": "Fukuno Ie",
+     "name_ja": "ふくの家",
+     "description": "Ramen restaurant in Honjo Machi, Saga.",
+     "source_url": "https://www.openstreetmap.org/node/5298875586",
+     "page": "https://bokenjapan.com/saga/saga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Hirochan Ramen",
+     "name_en": "Hirochan Ramen",
+     "name_ja": "ひろちゃんラーメン",
+     "description": "Noodle and ramen restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/11278512189",
+     "page": "https://bokenjapan.com/saga/saga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ikkyu Ken",
+     "name_en": "Ikkyu Ken",
+     "name_ja": "一休軒",
+     "description": "Ramen restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/5351950425",
+     "page": "https://bokenjapan.com/saga/saga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kadoya Ramen Shokudo",
+     "name_en": "Kadoya Ramen Shokudo",
+     "name_ja": "かどやらーめん食道",
+     "description": "Ramen restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/5254062090",
+     "page": "https://bokenjapan.com/saga/saga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Nagahama Ichiban",
+     "name_en": "Nagahama Ichiban",
+     "name_ja": "長浜一番",
+     "description": "Ramen restaurant in Koichi Chome, Saga. Open Tue-Sun 10:00-11:00, 22:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/4225313493",
+     "page": "https://bokenjapan.com/saga/saga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "noodle studio Kurakura",
+     "name_en": "noodle studio Kurakura",
+     "name_ja": "noodle studio くらくら",
+     "description": "Ramen restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/way/580419151",
+     "page": "https://bokenjapan.com/saga/saga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Shoku Doraku Saga Ramen Saga Nambu Baipasu Branch",
+     "name_en": "Shoku Doraku Saga Ramen Saga Nambu Baipasu Branch",
+     "name_ja": "喰道楽佐賀ラーメン佐賀南部バイパス店",
+     "description": "Ramen restaurant in Honjo Machi Oaza Honjo, Saga. Open daily 10:30-00:00.",
+     "source_url": "https://www.openstreetmap.org/node/4225292293",
+     "page": "https://bokenjapan.com/saga/saga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ton Bee",
+     "name_en": "Ton Bee",
+     "name_ja": "飩兵衛",
+     "description": "Noodle restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/3387748080",
+     "page": "https://bokenjapan.com/saga/saga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon Dainingu Dobashi",
+     "name_en": "Udon Dainingu Dobashi",
+     "name_ja": "うどんだいにんぐ土橋",
+     "description": "Udon pub in Saga. Open daily 21:00-05:00.",
+     "source_url": "https://www.openstreetmap.org/node/11549081165",
+     "page": "https://bokenjapan.com/saga/saga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Umakadon",
+     "name_en": "Umakadon",
+     "name_ja": "うまかどん",
+     "description": "Noodle and udon restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/11278567170",
+     "page": "https://bokenjapan.com/saga/saga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Suizuki",
+     "name_en": "Suizuki",
+     "name_ja": "すいづき",
+     "description": "Restaurant in Saga.",
+     "source_url": "https://suizuki.foodre.jp",
+     "page": "https://bokenjapan.com/saga/saga/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Satoshidai",
+     "name_en": "Satoshidai",
+     "name_ja": "悟大",
+     "description": "Restaurant in Saga.",
+     "source_url": "http://search.daisyo.co.jp/shop.php?shop_cd=1920",
+     "page": "https://bokenjapan.com/saga/saga/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "coco's",
+     "name_en": "coco's",
+     "description": "Restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/13800517702",
+     "page": "https://bokenjapan.com/saga/saga/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "HAMBURGMAN",
+     "name_en": "HAMBURGMAN",
+     "description": "Restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/11278553465",
+     "page": "https://bokenjapan.com/saga/saga/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "MK",
+     "name_en": "MK",
+     "description": "Restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/11295025698",
+     "page": "https://bokenjapan.com/saga/saga/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "5",
      "name_en": "5",
      "description": "Creative and Japanese cuisine.",
@@ -5262,6 +6661,96 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Furukawa",
+     "name_en": "Furukawa",
+     "name_ja": "ふるかわ",
+     "description": "Japanese restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/way/587809058",
+     "page": "https://bokenjapan.com/saga/saga/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Hamako",
+     "name_en": "Hamako",
+     "name_ja": "浜幸",
+     "description": "Japanese restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/way/584941616",
+     "page": "https://bokenjapan.com/saga/saga/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Honjo Unagiya",
+     "name_en": "Honjo Unagiya",
+     "name_ja": "本庄うなぎ屋",
+     "description": "Japanese restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/way/574309636",
+     "page": "https://bokenjapan.com/saga/saga/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kawabi",
+     "name_en": "Kawabi",
+     "name_ja": "川美",
+     "description": "Japanese restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/way/580419246",
+     "page": "https://bokenjapan.com/saga/saga/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Nana",
+     "name_en": "Nana",
+     "name_ja": "菜菜",
+     "description": "Japanese restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/way/560308042",
+     "page": "https://bokenjapan.com/saga/saga/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Oshokujidokoro Marutoku Main Store",
+     "name_en": "Oshokujidokoro Marutoku Main Store",
+     "name_ja": "お食事処 丸徳 本店",
+     "description": "Japanese restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/way/589461356",
+     "page": "https://bokenjapan.com/saga/saga/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Saga (#1)",
+     "name_en": "Japanese restaurant in Saga (#1)",
+     "name_ja": "トリヤマルハチ 佐賀本庄店",
+     "description": "Japanese and Regional Japanese restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/way/588935571",
+     "page": "https://bokenjapan.com/saga/saga/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Tsudaya",
+     "name_en": "Tsudaya",
+     "name_ja": "津田屋",
+     "description": "Japanese restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/way/631040596",
+     "page": "https://bokenjapan.com/saga/saga/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Saga (#2)",
+     "name_en": "Japanese restaurant in Saga (#2)",
+     "name_ja": "うみおと(魚亭菊や 川副店)",
+     "description": "Japanese restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/way/604000130",
+     "page": "https://bokenjapan.com/saga/saga/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yotteko Jukan Kutsu",
+     "name_en": "Yotteko Jukan Kutsu",
+     "name_ja": "よってこ十間掘",
+     "description": "Japanese restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/3554307201",
+     "page": "https://bokenjapan.com/saga/saga/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Sushi Nagato",
      "name_en": "Sushi Nagato",
      "name_ja": "鮨 ながと",
@@ -5269,6 +6758,94 @@
      "source_url": "https://tabelog.com/saga/A4101/A410101/41007929/",
      "page": "https://bokenjapan.com/saga/saga/eat/seafood/",
      "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Ekubo Ie",
+     "name_en": "Ekubo Ie",
+     "name_ja": "えくぼ家",
+     "description": "Seafood pub in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/5353575430",
+     "page": "https://bokenjapan.com/saga/saga/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi restaurant in Saga",
+     "name_en": "Sushi restaurant in Saga",
+     "name_ja": "蛇の目鮨",
+     "description": "Sushi restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/5350723006",
+     "page": "https://bokenjapan.com/saga/saga/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Osakana Tengoku",
+     "name_en": "Osakana Tengoku",
+     "name_ja": "おさかな天国",
+     "description": "Fish restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/4620408640",
+     "page": "https://bokenjapan.com/saga/saga/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Don",
+     "name_en": "Sushi Don",
+     "name_ja": "寿司どん",
+     "description": "Sushi restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/way/585943248",
+     "page": "https://bokenjapan.com/saga/saga/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Yagi",
+     "name_en": "Sushi Yagi",
+     "name_ja": "鮨 八木",
+     "description": "Sushi restaurant in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/11549081166",
+     "page": "https://bokenjapan.com/saga/saga/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sweets shop in Saga",
+     "name_en": "Sweets shop in Saga",
+     "name_ja": "村岡総本舗",
+     "description": "Sweets shop in Saga.",
+     "source_url": "https://muraoka-sohonpo.co.jp/",
+     "page": "https://bokenjapan.com/saga/saga/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Yatoji Denkichi",
+     "name_en": "Yatoji Denkichi",
+     "description": "Sweets shop in Saga.",
+     "source_url": "https://yatojishop.jp/",
+     "page": "https://bokenjapan.com/saga/saga/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Muraokaya",
+     "name_en": "Muraokaya",
+     "name_ja": "村岡屋",
+     "description": "Sweets shop in Saga.",
+     "source_url": "https://www.muraokaya.co.jp/",
+     "page": "https://bokenjapan.com/saga/saga/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Kog a BAKES",
+     "name_en": "Kog a BAKES",
+     "description": "Noodle bakery in Saga.",
+     "source_url": "https://www.openstreetmap.org/node/5573339614",
+     "page": "https://bokenjapan.com/saga/saga/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Ufufu",
+     "name_en": "Ufufu",
+     "name_ja": "うふふ",
+     "description": "Cake cafe in Saga. Open daily 10:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/7080459375",
+     "page": "https://bokenjapan.com/saga/saga/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "sights": [
@@ -5565,7 +7142,7 @@
     "address": "Shiroishi, Saga 849-1192",
     "phone": "0952-84-2111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Michi-no-Eki Shiroishi",
@@ -5660,6 +7237,24 @@
      "category": "Cafe"
     },
     {
+     "name": "Karin Tei",
+     "name_en": "Karin Tei",
+     "name_ja": "かりん亭",
+     "description": "Cafe in Shiroishi.",
+     "source_url": "https://www.openstreetmap.org/node/4171388151",
+     "page": "https://bokenjapan.com/saga/shiroishi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Shiroishi",
+     "name_en": "Cafe in Shiroishi",
+     "name_ja": "たんなかcafe360°(サンロクマル)",
+     "description": "Cafe in Shiroishi.",
+     "source_url": "https://www.openstreetmap.org/node/9025535101",
+     "page": "https://bokenjapan.com/saga/shiroishi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Inaho",
      "name_en": "Inaho",
      "name_ja": "いな穂",
@@ -5701,6 +7296,15 @@
      "name_ja": "白石屋",
      "description": "Shokudo in Shiroishi.",
      "source_url": "https://tabelog.com/saga/A4104/A410403/41002013/",
+     "page": "https://bokenjapan.com/saga/shiroishi/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Kitchen Tsutsuratsu",
+     "name_en": "Kitchen Tsutsuratsu",
+     "name_ja": "キッチンつーつらつー",
+     "description": "Fast-food restaurant in Shiroishi.",
+     "source_url": "https://www.openstreetmap.org/node/13715131206",
      "page": "https://bokenjapan.com/saga/shiroishi/eat/casual/",
      "category": "Casual"
     },
@@ -5766,6 +7370,15 @@
      "source_url": "https://tabelog.com/saga/A4104/A410403/41002619/",
      "page": "https://bokenjapan.com/saga/shiroishi/eat/noodles/",
      "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Restaurant in Shiroishi",
+     "name_en": "Restaurant in Shiroishi",
+     "name_ja": "四季のごはん 紘",
+     "description": "Restaurant in Shiroishi.",
+     "source_url": "https://www.openstreetmap.org/node/4111540996",
+     "page": "https://bokenjapan.com/saga/shiroishi/eat/other/",
+     "category": "Other"
     },
     {
      "name": "Roadside Station Shiroishi",
@@ -5921,7 +7534,7 @@
     "address": "Takeo, Saga 843-8639",
     "phone": "0954-23-9111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Takeo Onsen Bussankan",
@@ -6069,6 +7682,14 @@
      "category": "Cafe"
     },
     {
+     "name": "Qmari Coffee",
+     "name_en": "Qmari Coffee",
+     "description": "Cafe in Takeo.",
+     "source_url": "https://www.openstreetmap.org/node/12182533171",
+     "page": "https://bokenjapan.com/saga/takeo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Oshokujidokoro Kamiya",
      "name_en": "Oshokujidokoro Kamiya",
      "name_ja": "お食事処 かみや",
@@ -6087,6 +7708,14 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Coco Ichiban, Curry Rice",
+     "name_en": "Coco Ichiban, Curry Rice",
+     "description": "Curry restaurant in Takeo.",
+     "source_url": "https://www.openstreetmap.org/node/6814283187",
+     "page": "https://bokenjapan.com/saga/takeo/eat/curry/",
+     "category": "Curry"
+    },
+    {
      "name": "Kaji Synergy Restaurant",
      "name_en": "Kaji Synergy Restaurant",
      "name_ja": "カジ シナジー レストラン",
@@ -6101,6 +7730,14 @@
      "name_ja": "御茶屋Bar",
      "description": "Ochaya Bar — bar in Takeo, Saga.",
      "source_url": "https://tabelog.com/saga/A4103/A410301/41005367/",
+     "page": "https://bokenjapan.com/saga/takeo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Guild",
+     "name_en": "Guild",
+     "description": "Pub in Takeo.",
+     "source_url": "https://www.openstreetmap.org/node/12194136947",
      "page": "https://bokenjapan.com/saga/takeo/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -6177,6 +7814,33 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Ganso Korakuen",
+     "name_en": "Ganso Korakuen",
+     "name_ja": "元祖後楽園",
+     "description": "Noodle restaurant in Takeo.",
+     "source_url": "https://www.openstreetmap.org/node/12186211292",
+     "page": "https://bokenjapan.com/saga/takeo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Gyoza Kaikan",
+     "name_en": "Gyoza Kaikan",
+     "name_ja": "餃子会館（もしもしラーメン）",
+     "description": "Noodle restaurant in Takeo.",
+     "source_url": "https://www.openstreetmap.org/node/6460514538",
+     "page": "https://bokenjapan.com/saga/takeo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Sanuki Udon Don Taiko",
+     "name_en": "Sanuki Udon Don Taiko",
+     "name_ja": "讃岐うどん どん太鼓",
+     "description": "Udon restaurant in Takeo.",
+     "source_url": "https://www.openstreetmap.org/node/10115384652",
+     "page": "https://bokenjapan.com/saga/takeo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Mifuneyama Rakuen Hotel",
      "name_en": "Mifuneyama Rakuen Hotel",
      "name_ja": "御船山楽園ホテル",
@@ -6200,6 +7864,40 @@
      "name_ja": "セントラルホテル武雄温泉駅前",
      "description": "Hotel in Takeo.",
      "source_url": "https://tabelog.com/saga/A4103/A410301/41004816/",
+     "page": "https://bokenjapan.com/saga/takeo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Takeo",
+     "name_en": "Restaurant in Takeo",
+     "name_ja": "野のもてなし料理「なな菜」",
+     "description": "Restaurant in Takeo.",
+     "source_url": "http://www.michinoeki-yamauchi.com/#intro",
+     "page": "https://bokenjapan.com/saga/takeo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Buranko",
+     "name_en": "Buranko",
+     "name_ja": "ぶらんこ",
+     "description": "Restaurant in Takeo.",
+     "source_url": "https://www.openstreetmap.org/node/12186211288",
+     "page": "https://bokenjapan.com/saga/takeo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "EL COLOMBIANO",
+     "name_en": "EL COLOMBIANO",
+     "description": "Restaurant in Takeo.",
+     "source_url": "https://www.openstreetmap.org/node/12194829994",
+     "page": "https://bokenjapan.com/saga/takeo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Joyfull restaurant",
+     "name_en": "Joyfull restaurant",
+     "description": "Restaurant in Takeo.",
+     "source_url": "https://www.openstreetmap.org/node/6780439385",
      "page": "https://bokenjapan.com/saga/takeo/eat/other/",
      "category": "Other"
     },
@@ -6240,6 +7938,42 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Japanese restaurant in Takeo (#2)",
+     "name_en": "Japanese restaurant in Takeo (#2)",
+     "name_ja": "那かむら",
+     "description": "Japanese restaurant in Takeo.",
+     "source_url": "https://www.openstreetmap.org/node/6741841086",
+     "page": "https://bokenjapan.com/saga/takeo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Takeo (#1)",
+     "name_en": "Japanese restaurant in Takeo (#1)",
+     "name_ja": "佐嘉平川屋",
+     "description": "Japanese restaurant in Takeo.",
+     "source_url": "https://www.openstreetmap.org/node/12190324814",
+     "page": "https://bokenjapan.com/saga/takeo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shoya",
+     "name_en": "Shoya",
+     "name_ja": "庄屋",
+     "description": "Japanese restaurant in Takeo.",
+     "source_url": "https://www.openstreetmap.org/node/6741838087",
+     "page": "https://bokenjapan.com/saga/takeo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shungyo Junsai Masazen",
+     "name_en": "Shungyo Junsai Masazen",
+     "name_ja": "旬魚旬彩 雅膳",
+     "description": "Japanese restaurant in Takeo.",
+     "source_url": "https://www.openstreetmap.org/node/12186228013",
+     "page": "https://bokenjapan.com/saga/takeo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Izakaya Jinpachi",
      "name_en": "Izakaya Jinpachi",
      "name_ja": "居酒屋 甚八",
@@ -6249,11 +7983,28 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Suesada",
+     "name_en": "Suesada",
+     "name_ja": "末貞",
+     "description": "Sushi restaurant in Takeo.",
+     "source_url": "https://www.openstreetmap.org/node/12194136950",
+     "page": "https://bokenjapan.com/saga/takeo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Bakery Charman Takeo Store",
      "name_en": "Bakery Charman Takeo Store",
      "name_ja": "ベーカリーシャルマン 武雄店",
      "description": "Bread, sandwiches, and bagels in Takeo.",
      "source_url": "https://tabelog.com/saga/A4103/A410301/41006432/",
+     "page": "https://bokenjapan.com/saga/takeo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bake Story",
+     "name_en": "Bake Story",
+     "description": "Pastry shop in Takeo.",
+     "source_url": "https://www.openstreetmap.org/node/12194136946",
      "page": "https://bokenjapan.com/saga/takeo/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -7164,7 +8915,7 @@
     "address": "Tosu, Saga 841-8511",
     "phone": "0942-85-3500"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Tosu Premium Outlets",
@@ -7242,6 +8993,41 @@
      "category": "Cafe"
     },
     {
+     "name": "Kissa Jemini",
+     "name_en": "Kissa Jemini",
+     "name_ja": "喫茶ジェミニ",
+     "description": "Cafe in Tosu.",
+     "source_url": "https://www.openstreetmap.org/way/477061626",
+     "page": "https://bokenjapan.com/saga/tosu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Tetsudo Cafe Mon Tosu",
+     "name_en": "Tetsudo Cafe Mon Tosu",
+     "name_ja": "鉄道カフェ 門トス",
+     "description": "Cafe in Tosu.",
+     "source_url": "https://www.openstreetmap.org/way/395296886",
+     "page": "https://bokenjapan.com/saga/tosu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Train d'or",
+     "name_en": "Train d'or",
+     "description": "Pastry shop in Tosu. Open daily 06:30-19:30.",
+     "source_url": "https://www.openstreetmap.org/node/6797844191",
+     "page": "https://bokenjapan.com/saga/tosu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Tosu",
+     "name_en": "Cafe in Tosu",
+     "name_ja": "和saburo",
+     "description": "Cafe in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/4730205740",
+     "page": "https://bokenjapan.com/saga/tosu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Classic China Hakuryu",
      "name_en": "Classic China Hakuryu",
      "name_ja": "クラシック チャイナ 白龍",
@@ -7249,6 +9035,102 @@
      "source_url": "https://tabelog.com/saga/A4101/A410103/41003754/",
      "page": "https://bokenjapan.com/saga/tosu/eat/chinese-asian/",
      "category": "Chinese & Asian"
+    },
+    {
+     "name": "CURRY CAFE SABURO",
+     "name_en": "CURRY CAFE SABURO",
+     "description": "Curry restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/4730155674",
+     "page": "https://bokenjapan.com/saga/tosu/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Curry no Ahashi",
+     "name_en": "Curry no Ahashi",
+     "name_ja": "カレーの亜橋",
+     "description": "Curry restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/817508635",
+     "page": "https://bokenjapan.com/saga/tosu/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Italian restaurant in Tosu",
+     "name_en": "Italian restaurant in Tosu",
+     "name_ja": "サイゼリヤ",
+     "description": "Italian restaurant in Hon Tosu Machi, Tosu. Open daily 11:00-22:00.",
+     "source_url": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=1390",
+     "page": "https://bokenjapan.com/saga/tosu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Itaria Ryori Branch Shisato Iori",
+     "name_en": "Itaria Ryori Branch Shisato Iori",
+     "name_ja": "イタリア料理店 詩ヶ里庵",
+     "description": "Western-style restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/way/394747167",
+     "page": "https://bokenjapan.com/saga/tosu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "APPLAUTIR",
+     "name_en": "APPLAUTIR",
+     "description": "Bar in Tosu.",
+     "source_url": "https://www.openstreetmap.org/way/479984444",
+     "page": "https://bokenjapan.com/saga/tosu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kan (TARAI)",
+     "name_en": "Kan (TARAI)",
+     "name_ja": "盥（TARAI）",
+     "description": "Pub in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/4730163722",
+     "page": "https://bokenjapan.com/saga/tosu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Nakamuraya",
+     "name_en": "Nakamuraya",
+     "name_ja": "中村屋",
+     "description": "Pub in Tosu.",
+     "source_url": "https://www.openstreetmap.org/way/480034205",
+     "page": "https://bokenjapan.com/saga/tosu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Shotokoro",
+     "name_en": "Shotokoro",
+     "name_ja": "宵処",
+     "description": "Pub in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/4730163092",
+     "page": "https://bokenjapan.com/saga/tosu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Takenoya",
+     "name_en": "Takenoya",
+     "name_ja": "竹乃屋",
+     "description": "Pub in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/13891268383",
+     "page": "https://bokenjapan.com/saga/tosu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "VERSATILE",
+     "name_en": "VERSATILE",
+     "description": "Bar in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/4730157289",
+     "page": "https://bokenjapan.com/saga/tosu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Pub in Tosu",
+     "name_en": "Pub in Tosu",
+     "name_ja": "和と印こころのえき",
+     "description": "Pub in Tosu.",
+     "source_url": "https://www.openstreetmap.org/way/477061606",
+     "page": "https://bokenjapan.com/saga/tosu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
     },
     {
      "name": "Sumiyaki Hamburg Gyusen",
@@ -7283,6 +9165,24 @@
      "name_ja": "ハンバーグ専門店 つばきグリル 鳥栖店",
      "description": "Hamburg steak and Western food in Tosu.",
      "source_url": "https://tabelog.com/saga/A4101/A410103/41007157/",
+     "page": "https://bokenjapan.com/saga/tosu/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Sutamina Teppan Daikoku Chan",
+     "name_en": "Sutamina Teppan Daikoku Chan",
+     "name_ja": "スタミナ鉄板大黒ちゃん",
+     "description": "Meat restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/5212259828",
+     "page": "https://bokenjapan.com/saga/tosu/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Steak restaurant in Tosu",
+     "name_en": "Steak restaurant in Tosu",
+     "name_ja": "ワンダーステーキ",
+     "description": "Steak restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/13020401298",
      "page": "https://bokenjapan.com/saga/tosu/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -7395,11 +9295,278 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Chuka Soba Minoru",
+     "name_en": "Chuka Soba Minoru",
+     "name_ja": "中華そば みのる",
+     "description": "Ramen restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/way/479984438",
+     "page": "https://bokenjapan.com/saga/tosu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Chuo Ken",
+     "name_en": "Chuo Ken",
+     "name_ja": "中央軒",
+     "description": "Udon and soba restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/6797844287",
+     "page": "https://bokenjapan.com/saga/tosu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Hitoaji Ramen Tosu Branch",
+     "name_en": "Hitoaji Ramen Tosu Branch",
+     "name_ja": "一味ラーメン鳥栖店",
+     "description": "Ramen restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/4569893690",
+     "page": "https://bokenjapan.com/saga/tosu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Katsumiya",
+     "name_en": "Katsumiya",
+     "name_ja": "かつみ屋",
+     "description": "Noodle restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/10902293461",
+     "page": "https://bokenjapan.com/saga/tosu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kinryu Ramen",
+     "name_en": "Kinryu Ramen",
+     "name_ja": "金龍ラーメン",
+     "description": "Ramen restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/4569866609",
+     "page": "https://bokenjapan.com/saga/tosu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Maki no Udon",
+     "name_en": "Maki no Udon",
+     "name_ja": "牧のうどん",
+     "description": "Udon restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/6165466001",
+     "page": "https://bokenjapan.com/saga/tosu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Noodle restaurant in Tosu",
+     "name_en": "Noodle restaurant in Tosu",
+     "name_ja": "マルトクラーメン",
+     "description": "Noodle restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/6169982787",
+     "page": "https://bokenjapan.com/saga/tosu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Mitsuhisa Ramen",
+     "name_en": "Mitsuhisa Ramen",
+     "name_ja": "三久ラーメン",
+     "description": "Ramen restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/way/479984510",
+     "page": "https://bokenjapan.com/saga/tosu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Nikuniku Udon",
+     "name_en": "Nikuniku Udon",
+     "name_ja": "肉肉うどん",
+     "description": "Udon restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/13020440029",
+     "page": "https://bokenjapan.com/saga/tosu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Ebisu",
+     "name_en": "Ramen Ebisu",
+     "name_ja": "ラーメン恵比須",
+     "description": "Ramen restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/5211698621",
+     "page": "https://bokenjapan.com/saga/tosu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tadokoro Shoten",
+     "name_en": "Tadokoro Shoten",
+     "name_ja": "田所商店",
+     "description": "Ramen restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/13020440028",
+     "page": "https://bokenjapan.com/saga/tosu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tairyu Ramen",
+     "name_en": "Tairyu Ramen",
+     "name_ja": "大龍ラーメン",
+     "description": "Noodle restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/way/828136099",
+     "page": "https://bokenjapan.com/saga/tosu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tosu Ekimei Mono Chuo Ken",
+     "name_en": "Tosu Ekimei Mono Chuo Ken",
+     "name_ja": "鳥栖駅名物 中央軒",
+     "description": "Udon and soba restaurant in Tosu. Open daily 07:00-19:00.",
+     "source_url": "https://www.openstreetmap.org/node/6797843173",
+     "page": "https://bokenjapan.com/saga/tosu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon Soba Chuo Ken",
+     "name_en": "Udon Soba Chuo Ken",
+     "name_ja": "うどん そば 中央軒",
+     "description": "Udon and soba restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/6797844227",
+     "page": "https://bokenjapan.com/saga/tosu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Dining Toride",
+     "name_en": "Dining Toride",
+     "description": "Restaurant in Taisho Machi, Tosu.",
+     "source_url": "https://www.openstreetmap.org/way/395296892",
+     "page": "https://bokenjapan.com/saga/tosu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Joyful",
+     "name_en": "Joyful",
+     "description": "Restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/4569898189",
+     "page": "https://bokenjapan.com/saga/tosu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kakashi",
+     "name_en": "Kakashi",
+     "name_ja": "かかし",
+     "description": "Restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/way/394747155",
+     "page": "https://bokenjapan.com/saga/tosu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kushigen",
+     "name_en": "Kushigen",
+     "name_ja": "串源",
+     "description": "Restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/way/395296871",
+     "page": "https://bokenjapan.com/saga/tosu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Tosu",
+     "name_en": "Restaurant in Tosu",
+     "name_ja": "満州屋が一番",
+     "description": "Restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/5187499722",
+     "page": "https://bokenjapan.com/saga/tosu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Nahasu Main Store",
+     "name_en": "Nahasu Main Store",
+     "name_ja": "菜蓮本店",
+     "description": "Restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/way/479984225",
+     "page": "https://bokenjapan.com/saga/tosu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Ramburu",
+     "name_en": "Ramburu",
+     "name_ja": "らんぶる",
+     "description": "Restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/way/394747179",
+     "page": "https://bokenjapan.com/saga/tosu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Shingen",
+     "name_en": "Shingen",
+     "name_ja": "信玄",
+     "description": "Restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/way/394747125",
+     "page": "https://bokenjapan.com/saga/tosu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Shoku Doraku",
+     "name_en": "Shoku Doraku",
+     "name_ja": "喰道楽",
+     "description": "Restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/6169972377",
+     "page": "https://bokenjapan.com/saga/tosu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Sofu Koi",
+     "name_en": "Sofu Koi",
+     "name_ja": "想夫恋",
+     "description": "Restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/4569891389",
+     "page": "https://bokenjapan.com/saga/tosu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Takahira",
+     "name_en": "Takahira",
+     "name_ja": "たかひら",
+     "description": "Restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/6164902481",
+     "page": "https://bokenjapan.com/saga/tosu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Tsubaki Grill",
+     "name_en": "Tsubaki Grill",
+     "name_ja": "つばきグリル",
+     "description": "Restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/13020401299",
+     "page": "https://bokenjapan.com/saga/tosu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "VOYAGE",
+     "name_en": "VOYAGE",
+     "description": "Restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/4730158887",
+     "page": "https://bokenjapan.com/saga/tosu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Yakinin",
+     "name_en": "Yakinin",
+     "name_ja": "焼人",
+     "description": "Restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/4730177931",
+     "page": "https://bokenjapan.com/saga/tosu/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Tempura Maki",
      "name_en": "Tempura Maki",
      "name_ja": "天ぷらまき",
      "description": "Tempura and tendon in Tosu.",
      "source_url": "https://tabelog.com/saga/A4101/A410103/41002643/",
+     "page": "https://bokenjapan.com/saga/tosu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Tosu Tonkatsu Kimura",
+     "name_en": "Tosu Tonkatsu Kimura",
+     "name_ja": "とすのとんかつきむら本店",
+     "description": "Japanese restaurant in Yabu Machi, Tosu. Open daily 11:00-21:00.",
+     "source_url": "http://www.kumin.ne.jp/sprit/homepage.htm",
+     "page": "https://bokenjapan.com/saga/tosu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Terinu Shokudo",
+     "name_en": "Terinu Shokudo",
+     "name_ja": "テリーヌ食堂",
+     "description": "Japanese restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/way/477061641",
      "page": "https://bokenjapan.com/saga/tosu/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -7422,6 +9589,15 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Sushi Daijin",
+     "name_en": "Sushi Daijin",
+     "name_ja": "すし大臣",
+     "description": "Sushi restaurant in Tosu.",
+     "source_url": "https://www.openstreetmap.org/way/658994268",
+     "page": "https://bokenjapan.com/saga/tosu/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Creebrats Yayoigaoka Store",
      "name_en": "Creebrats Yayoigaoka Store",
      "name_ja": "クリーブラッツ 弥生が丘店",
@@ -7436,6 +9612,24 @@
      "name_ja": "パティスリー アンジェココ",
      "description": "Patisserie Angecoco — cake and cafe in Tosu, Saga.",
      "source_url": "https://tabelog.com/saga/A4101/A410103/41000348/",
+     "page": "https://bokenjapan.com/saga/tosu/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bakery in Tosu",
+     "name_en": "Bakery in Tosu",
+     "name_ja": "パナセ",
+     "description": "Bakery in Tosu.",
+     "source_url": "https://www.openstreetmap.org/way/480026164",
+     "page": "https://bokenjapan.com/saga/tosu/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Suidenya",
+     "name_en": "Suidenya",
+     "name_ja": "水田屋",
+     "description": "Sweets shop in Tosu.",
+     "source_url": "https://www.openstreetmap.org/node/4725340412",
      "page": "https://bokenjapan.com/saga/tosu/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -7568,7 +9762,7 @@
     "address": "Ureshino, Saga 849-1492",
     "phone": "0954-66-3111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Ureshino Ochacha-mura",
@@ -7751,6 +9945,14 @@
      "category": "Cafe"
     },
     {
+     "name": "Link",
+     "name_en": "Link",
+     "description": "Cafe in Ureshino.",
+     "source_url": "https://www.openstreetmap.org/node/13819685374",
+     "page": "https://bokenjapan.com/saga/ureshino/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Tre Colonne",
      "name_en": "Tre Colonne",
      "name_ja": "トレ・コローネ",
@@ -7765,6 +9967,15 @@
      "name_ja": "ハミルトン 宇礼志野",
      "description": "Italian auberge in Ureshino.",
      "source_url": "https://tabelog.com/saga/A4104/A410401/41007388/",
+     "page": "https://bokenjapan.com/saga/ureshino/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Joyfull",
+     "name_en": "Joyfull",
+     "name_ja": "ジョイフル",
+     "description": "Western-style restaurant in Ureshino.",
+     "source_url": "https://www.openstreetmap.org/node/13153908932",
      "page": "https://bokenjapan.com/saga/ureshino/eat/european/",
      "category": "European"
     },
@@ -7859,6 +10070,15 @@
      "category": "Other"
     },
     {
+     "name": "Taishoya yudofu honpo",
+     "name_en": "Taishoya yudofu honpo",
+     "name_ja": "大正屋 湯どうふ本舗",
+     "description": "Restaurant in Ureshino. Open Thu-Tue 09:00-17:00.",
+     "source_url": "https://www.openstreetmap.org/node/5998956885",
+     "page": "https://bokenjapan.com/saga/ureshino/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Soan Yokonaga",
      "name_en": "Soan Yokonaga",
      "name_ja": "宗庵 よこ長",
@@ -7922,6 +10142,15 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Soan Yoko Cho",
+     "name_en": "Soan Yoko Cho",
+     "name_ja": "宗庵 よこ長",
+     "description": "Japanese restaurant in Ureshino. Open Thu-Tue 10:30-15:30, 17:30-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/5305373224",
+     "page": "https://bokenjapan.com/saga/ureshino/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Taka Sushi",
      "name_en": "Taka Sushi",
      "name_ja": "鷹鮨",
@@ -7938,6 +10167,24 @@
      "source_url": "https://tabelog.com/saga/A4104/A410401/41002829/",
      "page": "https://bokenjapan.com/saga/ureshino/eat/seafood/",
      "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Bakery Ichifuku",
+     "name_en": "Bakery Ichifuku",
+     "name_ja": "パン工房いちふく",
+     "description": "Bakery in Ureshino. Open Fri-Tue 08:00-18:00.",
+     "source_url": "https://www.openstreetmap.org/node/13240387101",
+     "page": "https://bokenjapan.com/saga/ureshino/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Ureshino SHUpudding",
+     "name_en": "Ureshino SHUpudding",
+     "name_ja": "うれしの SHUpudding",
+     "description": "Pastry shop in Ureshino.",
+     "source_url": "https://www.openstreetmap.org/node/13300852609",
+     "page": "https://bokenjapan.com/saga/ureshino/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "sights": [

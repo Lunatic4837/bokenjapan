@@ -1895,7 +1895,7 @@
     "address": "5-1 Odori 3-chome, Fuchu Town, Aki District, Hiroshima 735-8686, Japan",
     "phone": "082-286-3111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Fuchu Town Town Hall",
@@ -1938,6 +1938,24 @@
      "name_ja": "スマッジ コミュ",
      "description": "Café 125 m from Koyo Station, Fuchu Town.",
      "source_url": "https://tabelog.com/hiroshima/A3401/A340105/34014789/",
+     "page": "https://bokenjapan.com/hiroshima/fuchucho/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Tully's Coffee",
+     "name_en": "Tully's Coffee",
+     "name_ja": "タリーズコーヒー",
+     "description": "Cafe in Fuchu Town. Open Mon-Fri 10:00-22:00; Sat, Sun, public holidays 09:00-22:00.",
+     "source_url": "https://www.tullys.co.jp/",
+     "page": "https://bokenjapan.com/hiroshima/fuchucho/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Renren Coffee",
+     "name_en": "Renren Coffee",
+     "name_ja": "レンレンコーヒー",
+     "description": "Cafe in Fuchu Town.",
+     "source_url": "https://www.openstreetmap.org/way/222096285",
      "page": "https://bokenjapan.com/hiroshima/fuchucho/eat/cafe/",
      "category": "Cafe"
     },
@@ -1996,6 +2014,15 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Chiego Ie",
+     "name_en": "Chiego Ie",
+     "name_ja": "ちぇご家",
+     "description": "Korean restaurant in Fuchu Town.",
+     "source_url": "https://www.openstreetmap.org/node/14163307434",
+     "page": "https://bokenjapan.com/hiroshima/fuchucho/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Curry restaurant in Fuchu Town",
      "name_en": "Curry restaurant in Fuchu Town",
      "name_ja": "インドダイニング ドルガ",
@@ -2010,6 +2037,15 @@
      "name_ja": "ケララ食堂",
      "description": "Curry restaurant 603 m from Yaga Station, Fuchu Town.",
      "source_url": "https://tabelog.com/hiroshima/A3401/A340105/34023534/",
+     "page": "https://bokenjapan.com/hiroshima/fuchucho/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Doruga Fuchu Branch",
+     "name_en": "Doruga Fuchu Branch",
+     "name_ja": "ドルガ 府中店",
+     "description": "Indian and curry restaurant in Fuchu Town.",
+     "source_url": "https://www.openstreetmap.org/node/14161989040",
      "page": "https://bokenjapan.com/hiroshima/fuchucho/eat/curry/",
      "category": "Curry"
     },
@@ -2037,6 +2073,14 @@
      "name_ja": "AWkitchen イオンモール広島府中店",
      "description": "Italian restaurant 466 m from Yaga Station, Fuchu Town; dinner ¥1,000–¥1,999.",
      "source_url": "https://tabelog.com/hiroshima/A3401/A340105/34031589/",
+     "page": "https://bokenjapan.com/hiroshima/fuchucho/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "CARNELIA IL MATTO",
+     "name_en": "CARNELIA IL MATTO",
+     "description": "Italian restaurant in Fuchu Town.",
+     "source_url": "https://www.openstreetmap.org/node/14163307429",
      "page": "https://bokenjapan.com/hiroshima/fuchucho/eat/european/",
      "category": "European"
     },
@@ -2158,6 +2202,33 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Chikara Sanribu Fuchu Branch",
+     "name_en": "Chikara Sanribu Fuchu Branch",
+     "name_ja": "ちから サンリブ府中店",
+     "description": "Noodle and udon restaurant in Fuchu Town.",
+     "source_url": "https://www.openstreetmap.org/node/14162300828",
+     "page": "https://bokenjapan.com/hiroshima/fuchucho/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menya Jifu",
+     "name_en": "Menya Jifu",
+     "name_ja": "麺や時風",
+     "description": "Ramen restaurant in Fuchu Town.",
+     "source_url": "https://www.openstreetmap.org/node/14161756692",
+     "page": "https://bokenjapan.com/hiroshima/fuchucho/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menya OPPO",
+     "name_en": "Menya OPPO",
+     "name_ja": "麺屋 OPPO",
+     "description": "Ramen restaurant in Fuchu Town.",
+     "source_url": "https://www.openstreetmap.org/node/14162300834",
+     "page": "https://bokenjapan.com/hiroshima/fuchucho/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Akatsuki Fuchu",
      "name_en": "Akatsuki Fuchu",
      "name_ja": "暁 府中店",
@@ -2199,6 +2270,33 @@
      "name_ja": "明石",
      "description": "Japanese restaurant 818 m from Yaga Station, Fuchu Town; dinner ¥3,000–¥3,999.",
      "source_url": "https://tabelog.com/hiroshima/A3401/A340105/34000943/",
+     "page": "https://bokenjapan.com/hiroshima/fuchucho/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Choji Ie",
+     "name_en": "Choji Ie",
+     "name_ja": "長次家",
+     "description": "Japanese restaurant in Fuchu Town.",
+     "source_url": "https://www.openstreetmap.org/node/14162300838",
+     "page": "https://bokenjapan.com/hiroshima/fuchucho/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Fuchu Town",
+     "name_en": "Japanese restaurant in Fuchu Town",
+     "name_ja": "和創作料理 楽洸",
+     "description": "Japanese restaurant in Fuchu Town.",
+     "source_url": "https://www.openstreetmap.org/node/14167007807",
+     "page": "https://bokenjapan.com/hiroshima/fuchucho/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Washoku Aka",
+     "name_en": "Washoku Aka",
+     "name_ja": "和食 明石",
+     "description": "Japanese restaurant in Fuchu Town.",
+     "source_url": "https://www.openstreetmap.org/node/14167007803",
      "page": "https://bokenjapan.com/hiroshima/fuchucho/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -2303,6 +2401,14 @@
      "description": "Hotel in Osuichi, Fuchu Town; 5-minute walk from Hiroshimaekikarahitoekitenjinkawa Station.",
      "source_url": "https://www.jalan.net/yad342214/",
      "page": "https://bokenjapan.com/hiroshima/fuchucho/stay/"
+    },
+    {
+     "name": "SOCIO RESIDENTIAL HOTEL",
+     "name_en": "SOCIO RESIDENTIAL HOTEL",
+     "name_ja": "SOCIO RESIDENTIAL HOTEL(ソシオ レジデンシャル ホテル)",
+     "description": "Hotel in Fuchu Town.",
+     "source_url": "https://www.openstreetmap.org/node/14161756695",
+     "page": "https://bokenjapan.com/hiroshima/fuchucho/stay/"
     }
    ]
   },
@@ -2321,7 +2427,7 @@
     "address": "3-5 Higashi-Sakura-cho, Fukuyama City, Hiroshima 720-8501, Japan",
     "phone": "084-921-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Fukuyama City Hall",
@@ -2359,11 +2465,104 @@
      "category": "Cafe"
     },
     {
+     "name": "Starbucks",
+     "name_en": "Starbucks",
+     "name_ja": "スターバックス",
+     "description": "Cafe in Fukuyama. Open daily 10:00-21:00.",
+     "source_url": "https://www.starbucks.co.jp/",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Tully's Coffee",
+     "name_en": "Tully's Coffee",
+     "name_ja": "タリーズコーヒー",
+     "description": "Cafe in Fukuyama. Open daily 10:00-24:00.",
+     "source_url": "https://www.tullys.co.jp/",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "@cafe",
+     "name_en": "@cafe",
+     "description": "Cafe in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/4570272541",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "an cafe 205",
+     "name_en": "an cafe 205",
+     "description": "Cafe in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/9871201299",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Higashi Coffee Shop",
+     "name_en": "Higashi Coffee Shop",
+     "name_ja": "東珈琲店",
+     "description": "Cafe in Fukuyama. Open Tue-Sat 10:00-18:00.",
+     "source_url": "https://www.openstreetmap.org/way/1041572068",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kin Coffee",
+     "name_en": "Kin Coffee",
+     "description": "Cafe in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/14168699501",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "LITTLE WING COFFEE FUKUYAMA",
+     "name_en": "LITTLE WING COFFEE FUKUYAMA",
+     "description": "Cafe in Fukuyama. Open Wed-Sun 12:00-18:00.",
+     "source_url": "https://www.openstreetmap.org/node/9588992749",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Localo cafe",
+     "name_en": "Localo cafe",
+     "description": "Cafe in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/14138707765",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "OUR HOUSE",
+     "name_en": "OUR HOUSE",
+     "description": "Cafe in Fukuyama. Open daily 09:00-19:00.",
+     "source_url": "https://www.openstreetmap.org/node/4570272563",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Taira no-ya",
      "name_en": "Taira no-ya",
      "name_ja": "平の家",
      "description": "Okonomiyaki restaurant in Fukuyama; dinner ¥1,000–¥1,999.",
      "source_url": "https://tabelog.com/hiroshima/A3403/A340308/34002597/",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Fast-food restaurant in Fukuyama",
+     "name_en": "Fast-food restaurant in Fukuyama",
+     "name_ja": "パンダ",
+     "description": "Fast-food restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/9566231839",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Tako Yaki Toraja",
+     "name_en": "Tako Yaki Toraja",
+     "name_ja": "たこ焼きトラジャ",
+     "description": "Fast-food restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/9555971417",
      "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/casual/",
      "category": "Casual"
     },
@@ -2386,8 +2585,53 @@
      "category": "Chinese & Asian"
     },
     {
-     "name": "French restaurant in Fukuyama (#7)",
-     "name_en": "French restaurant in Fukuyama (#7)",
+     "name": "Vietnamese restaurant in Fukuyama",
+     "name_en": "Vietnamese restaurant in Fukuyama",
+     "name_ja": "ベトナムゴハンアンバー Anh Ba",
+     "description": "Vietnamese restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/13838227605",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Fukuno Ie",
+     "name_en": "Fukuno Ie",
+     "name_ja": "ふくの家",
+     "description": "Chinese restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/11448990106",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Juhachiban Sankichi Branch",
+     "name_en": "Juhachiban Sankichi Branch",
+     "name_ja": "十八番 三吉店",
+     "description": "Chinese restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/9555756900",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Yokihi",
+     "name_en": "Yokihi",
+     "name_ja": "楊貴妃",
+     "description": "Chinese restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/9876529478",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Curry restaurant in Fukuyama",
+     "name_en": "Curry restaurant in Fukuyama",
+     "name_ja": "タンドール",
+     "description": "Curry restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/9569041065",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Ru Mirowaru",
+     "name_en": "Ru Mirowaru",
      "name_ja": "ル・ミロワール",
      "description": "French restaurant in Fukuyama; dinner ¥10,000–¥14,999.",
      "source_url": "https://tabelog.com/hiroshima/A3403/A340301/34000816/",
@@ -2403,8 +2647,8 @@
      "category": "European"
     },
     {
-     "name": "French restaurant in Fukuyama (#20)",
-     "name_en": "French restaurant in Fukuyama (#20)",
+     "name": "Verudyu Miyako",
+     "name_en": "Verudyu Miyako",
      "name_ja": "ヴェルデュ都",
      "description": "French restaurant in Fukuyama; dinner ¥6,000–¥7,999.",
      "source_url": "https://tabelog.com/hiroshima/A3403/A340305/34000863/",
@@ -2439,6 +2683,68 @@
      "category": "European"
     },
     {
+     "name": "Italian restaurant in Nishimachi, Fukuyama",
+     "name_en": "Italian restaurant in Nishimachi, Fukuyama",
+     "name_ja": "サイゼリヤ",
+     "description": "Italian restaurant in Nishimachi, Fukuyama. Open daily 10:00-22:00.",
+     "source_url": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=1180",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Italian restaurant in Fukuyama (#1)",
+     "name_en": "Italian restaurant in Fukuyama (#1)",
+     "name_ja": "アルデンタ",
+     "description": "Italian restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/5245733662",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Pasta restaurant in Fukuyama",
+     "name_en": "Pasta restaurant in Fukuyama",
+     "name_ja": "ベイビーフェイスプラネッツ",
+     "description": "Pasta restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/9568945988",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Bistorot Beurre Blanc Cuisinier Eiji Fujitani",
+     "name_en": "Bistorot Beurre Blanc Cuisinier Eiji Fujitani",
+     "description": "French restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/way/1073491422",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Grill Murakami",
+     "name_en": "Grill Murakami",
+     "name_ja": "グリル むらかみ",
+     "description": "Italian restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/9569069337",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Pasta and pizza restaurant in Fukuyama",
+     "name_en": "Pasta and pizza restaurant in Fukuyama",
+     "name_ja": "キャナリーロウ",
+     "description": "Pasta and pizza restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/9568939415",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Pizza restaurant in Fukuyama",
+     "name_en": "Pizza restaurant in Fukuyama",
+     "name_ja": "ピザ・ロイヤルハット 神辺店",
+     "description": "Pizza restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/9876587614",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Sakesokyosakana-ya Kisake",
      "name_en": "Sakesokyosakana-ya Kisake",
      "name_ja": "酒奏居肴家 季酒",
@@ -2462,6 +2768,15 @@
      "name_ja": "自由軒",
      "description": "Izakaya in Fukuyama; dinner ¥3,000–¥3,999.",
      "source_url": "https://tabelog.com/hiroshima/A3403/A340301/34000921/",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "MIL GRACIAS",
+     "name_en": "MIL GRACIAS",
+     "name_ja": "ミル・グラシアス",
+     "description": "Bar in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/4570272518",
      "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -2507,6 +2822,96 @@
      "name_ja": "豊道園",
      "description": "Yakiniku (grilled meat) restaurant in Fukuyama; dinner ¥8,000–¥9,999.",
      "source_url": "https://tabelog.com/hiroshima/A3403/A340308/34003397/",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Kodawari Tonkatsu Katsu Sho",
+     "name_en": "Kodawari Tonkatsu Katsu Sho",
+     "name_ja": "こだわりとんかつ かつ将",
+     "description": "Meat restaurant in Fukuyama.",
+     "source_url": "https://porushe.jp/?page_id=44",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Shabushabu Remon",
+     "name_en": "Shabushabu Remon",
+     "name_ja": "しゃぶしゃぶ檸檬",
+     "description": "Meat restaurant in Fukuyama.",
+     "source_url": "https://www.good-promise.co.jp/shabushabu-lemon/",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Kentucky Fried Chicken",
+     "name_en": "Kentucky Fried Chicken",
+     "name_ja": "ケンタッキーフライドチキン",
+     "description": "Chicken restaurant in Fukuyama. Open daily 10:00-21:00.",
+     "source_url": "https://www.kfc.co.jp/",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Janjaka",
+     "name_en": "Janjaka",
+     "name_ja": "じゃんじゃか",
+     "description": "Barbecue restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/13496106610",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Katsuretsu Taisho Tei",
+     "name_en": "Katsuretsu Taisho Tei",
+     "name_ja": "かつれつ大正亭",
+     "description": "Barbecue restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/9876675120",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Barbecue restaurant in Fukuyama",
+     "name_en": "Barbecue restaurant in Fukuyama",
+     "name_ja": "食辛房",
+     "description": "Barbecue restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/13838227615",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Steak Domburi Specialty Shop Kuro Beesan",
+     "name_en": "Steak Domburi Specialty Shop Kuro Beesan",
+     "name_ja": "ステーキ丼専門店黒べぇさん",
+     "description": "Steak restaurant in Minamimoto Sho, Fukuyama. Open Tue-Sun 11:00-14:00, 17:30-22:00.",
+     "source_url": "https://www.openstreetmap.org/way/601155691",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Steak Domburi Specialty Shop Kuro Beesan Teshiro Branch",
+     "name_en": "Steak Domburi Specialty Shop Kuro Beesan Teshiro Branch",
+     "name_ja": "ステーキ丼専門店黒べぇさん手城店",
+     "description": "Steak restaurant in Teshiro Machi, Fukuyama. Open daily 11:00-15:00, 17:30-22:00.",
+     "source_url": "https://www.openstreetmap.org/way/601158168",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Ushirakuya",
+     "name_en": "Ushirakuya",
+     "name_ja": "牛楽屋",
+     "description": "Barbecue restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/11449022362",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Janjaka",
+     "name_en": "Yakiniku Janjaka",
+     "name_ja": "焼肉 じゃんじゃか",
+     "description": "Barbecue restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/9569003907",
      "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -2583,6 +2988,60 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Marugen Ramen",
+     "name_en": "Marugen Ramen",
+     "name_ja": "丸源ラーメン",
+     "description": "Ramen restaurant in Fukuyama.",
+     "source_url": "https://www.syodai-marugen.jp/",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Burakku Ramen Shoya",
+     "name_en": "Burakku Ramen Shoya",
+     "name_ja": "ぶらっく ラー麺 しょうや",
+     "description": "Ramen restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/9569041063",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Hakata Ramen Tonton",
+     "name_en": "Hakata Ramen Tonton",
+     "name_ja": "博多ラーメンとんとん",
+     "description": "Noodle restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/5169008661",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kyoku Ton Ramen",
+     "name_en": "Kyoku Ton Ramen",
+     "name_ja": "極とんラーメン",
+     "description": "Ramen restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/9569003904",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Daikinboshi",
+     "name_en": "Ramen Daikinboshi",
+     "name_ja": "らーめん 大金星",
+     "description": "Ramen restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/9876527699",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tonton",
+     "name_en": "Tonton",
+     "name_ja": "とんとん",
+     "description": "Ramen restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/14096442578",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Miyako Akebo no",
      "name_en": "Miyako Akebo no",
      "name_ja": "都あけぼの",
@@ -2606,6 +3065,15 @@
      "name_ja": "ゴールデンケチャップ",
      "description": "Pasta restaurant in Fukuyama; dinner ¥1,000–¥1,999.",
      "source_url": "https://tabelog.com/hiroshima/A3403/A340308/34023873/",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Tokugawa",
+     "name_en": "Tokugawa",
+     "name_ja": "徳川",
+     "description": "Restaurant in Fukuyama.",
+     "source_url": "http://www.tokugawa.jp/web/",
      "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/other/",
      "category": "Other"
     },
@@ -2664,6 +3132,95 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Ajiwai Tokoro Men",
+     "name_en": "Ajiwai Tokoro Men",
+     "name_ja": "あじわい処 麺",
+     "description": "Japanese restaurant in Fukuyama.",
+     "source_url": "https://sn-okayama.co.jp/store/",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Butadonya TONTON",
+     "name_en": "Butadonya TONTON",
+     "name_ja": "豚丼屋 TONTON",
+     "description": "Japanese restaurant in Fukuyama.",
+     "source_url": "https://www.butadon-tonton.jp/",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Dekitateomusubi Komekome",
+     "name_en": "Dekitateomusubi Komekome",
+     "name_ja": "できたておむすび米米",
+     "description": "Japanese restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/13351145849",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "IPPO",
+     "name_en": "IPPO",
+     "description": "Japanese restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/way/1233768456",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Mikage",
+     "name_en": "Mikage",
+     "name_ja": "みかげ",
+     "description": "Japanese restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/9846503971",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Nishikimizu Sono",
+     "name_en": "Nishikimizu Sono",
+     "name_ja": "錦水園",
+     "description": "Japanese restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/5168891613",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ryoriya Okan",
+     "name_en": "Ryoriya Okan",
+     "name_ja": "料理屋おゝ貫",
+     "description": "Japanese restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/9876607151",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shokudo",
+     "name_en": "Shokudo",
+     "name_ja": "食堂",
+     "description": "Japanese restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/4658735328",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Sudachiya",
+     "name_en": "Sudachiya",
+     "name_ja": "すだち屋",
+     "description": "Japanese restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/way/178103516",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Tendon Tenya",
+     "name_en": "Tendon Tenya",
+     "name_ja": "天丼てんや",
+     "description": "Japanese restaurant in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/9568846701",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Unagi Naka Kachi",
      "name_en": "Unagi Naka Kachi",
      "name_ja": "うなぎ なか勝",
@@ -2691,11 +3248,90 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Kaisen Sushi Shimanami Kannabe Branch",
+     "name_en": "Kaisen Sushi Shimanami Kannabe Branch",
+     "name_ja": "廻鮮寿司しまなみ 神辺店",
+     "description": "Sushi restaurant in Fukuyama. Open daily 11:00-21:30.",
+     "source_url": "https://shimanami-sushi.jp/",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kaiten Sushi Sushi Maru",
+     "name_en": "Kaiten Sushi Sushi Maru",
+     "name_ja": "回転寿司すし丸",
+     "description": "Sushi restaurant in Fukuyama.",
+     "source_url": "https://susi-maru.co.jp/shopinfo/index.html",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kani Ryori Kora Main Store",
+     "name_en": "Kani Ryori Kora Main Store",
+     "name_ja": "かに料理 甲羅本店",
+     "description": "Seafood restaurant in Fukuyama.",
+     "source_url": "https://www.kamogata.com/kora/",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Shimanami",
+     "name_en": "Shimanami",
+     "name_ja": "しまなみ",
+     "description": "Sushi restaurant in Fukuyama.",
+     "source_url": "https://shimanami-sushi.jp/",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Bakery in Fukuyama",
      "name_en": "Bakery in Fukuyama",
      "name_ja": "グラマー・ペイン 本店",
      "description": "Bakery in Fukuyama.",
      "source_url": "https://tabelog.com/hiroshima/A3403/A340308/34003801/",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Doruse Yogashi",
+     "name_en": "Doruse Yogashi",
+     "name_ja": "ドルセ洋菓子店",
+     "description": "Sweets shop in Fukuyama.",
+     "source_url": "https://www.doruse.jp/shop/",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets shop in Fukuyama",
+     "name_en": "Sweets shop in Fukuyama",
+     "name_ja": "にしき堂",
+     "description": "Sweets shop in Fukuyama.",
+     "source_url": "http://nisikido.co.jp/shop/#8",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Okashi Hompo Fukuyama Sankichi Branch",
+     "name_en": "Okashi Hompo Fukuyama Sankichi Branch",
+     "name_ja": "おかし本舗 福山三吉店",
+     "description": "Sweets shop in Sankichi Machi, Fukuyama. Open daily 09:00-19:00.",
+     "source_url": "http://www.okashi-honpo.jp/tenpo.html",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Susie Bagel",
+     "name_en": "Susie Bagel",
+     "description": "Bakery in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/9869689382",
+     "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "tete",
+     "name_en": "tete",
+     "description": "Ice cream shop in Fukuyama.",
+     "source_url": "https://www.openstreetmap.org/node/11449022371",
      "page": "https://bokenjapan.com/hiroshima/fukuyama/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -3095,7 +3731,7 @@
     "address": "11-1 Shimohira 1-chome, Hatsukaichi City, Hiroshima 738-8501, Japan",
     "phone": "0829-20-0001"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Hatsukaichi City Hall",
@@ -3151,11 +3787,149 @@
      "category": "Cafe"
     },
     {
+     "name": "Sarasvati",
+     "name_en": "Sarasvati",
+     "description": "Cafe in Hatsukaichi. Open daily 08:30-19:00.",
+     "source_url": "https://itsuki-miyajima.com/",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Hatsukaichi",
+     "name_en": "Cafe in Hatsukaichi",
+     "name_ja": "バンビノ",
+     "description": "Cafe in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/node/4809609424",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Café",
+     "name_en": "Cafe",
+     "description": "Cafe in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/way/395020016",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe YAMADA",
+     "name_en": "Cafe YAMADA",
+     "description": "Cafe in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/way/309724089",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "COFFEE HOUSE Ishii",
+     "name_en": "COFFEE HOUSE Ishii",
+     "name_ja": "コーヒーハウス イシイ",
+     "description": "Cafe in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/way/241629528",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Ebisuya",
+     "name_en": "Ebisuya",
+     "name_ja": "えびすや",
+     "description": "Cafe in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/node/12089999235",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Hiramastu chaya",
+     "name_en": "Hiramastu chaya",
+     "description": "Cafe in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/node/6420538683",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "kitchen&drink yuba",
+     "name_en": "kitchen&drink yuba",
+     "description": "Cafe in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/node/9558290324",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Machikado",
+     "name_en": "Machikado",
+     "name_ja": "まちかど",
+     "description": "Cafe in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/node/4809627521",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Shima",
+     "name_en": "Shima",
+     "name_ja": "しま",
+     "description": "Cafe in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/node/4809627321",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Yamato Coffee",
+     "name_en": "Yamato Coffee",
+     "name_ja": "大和珈琲",
+     "description": "Cafe in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/node/9518358617",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Anagomeshi Wada",
      "name_en": "Anagomeshi Wada",
      "name_ja": "あなごめし 和田",
      "description": "Rice-bowl (donburi) shop in Hatsukaichi.",
      "source_url": "https://tabelog.com/hiroshima/A3402/A340202/34002191/",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Bakery Katsutani-pan",
+     "name_en": "Bakery Katsutani-pan",
+     "name_ja": "勝谷菓子パン舗",
+     "description": "Sandwich fast-food restaurant in Hatsukaichi.",
+     "source_url": "https://katsutanipan.jp/",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "my Calbee",
+     "name_en": "my Calbee",
+     "description": "Fast-food restaurant in Hatsukaichi. Open daily 09:00-22:00.",
+     "source_url": "https://www.calbee.co.jp/mycalbee/",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Fukuhiro",
+     "name_en": "Fukuhiro",
+     "name_ja": "ふくひろ",
+     "description": "Fast-food restaurant in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/way/390372396",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Miyajima Kiraku",
+     "name_en": "Miyajima Kiraku",
+     "name_ja": "宮島きらく",
+     "description": "Fast-food restaurant in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/node/10742638890",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Okonomi House MIE",
+     "name_en": "Okonomi House MIE",
+     "name_ja": "お好みハウスMIE",
+     "description": "Fast-food restaurant in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/way/1131974446",
      "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/casual/",
      "category": "Casual"
     },
@@ -3166,6 +3940,48 @@
      "source_url": "https://tabelog.com/hiroshima/A3402/A340201/34027524/",
      "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/chinese-asian/",
      "category": "Chinese & Asian"
+    },
+    {
+     "name": "Fukurai Jun",
+     "name_en": "Fukurai Jun",
+     "name_ja": "福来順",
+     "description": "Taiwanese restaurant in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/node/1677814310",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Cucina italiana Amici",
+     "name_en": "Cucina italiana Amici",
+     "description": "Italian restaurant in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/way/393083023",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "cucina vegetale otto",
+     "name_en": "cucina vegetale otto",
+     "description": "Italian restaurant in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/way/1389429296",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Italian restaurant in Hatsukaichi",
+     "name_en": "Italian restaurant in Hatsukaichi",
+     "name_ja": "カナダカン",
+     "description": "Italian restaurant in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/way/392906709",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Ruzzo",
+     "name_en": "Ruzzo",
+     "description": "Italian restaurant in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/way/132896214",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/european/",
+     "category": "European"
     },
     {
      "name": "GEBURA",
@@ -3193,11 +4009,143 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Hiyajima Brewery",
+     "name_en": "Hiyajima Brewery",
+     "description": "Bar in Hatsukaichi. Open daily 10:30-17:00.",
+     "source_url": "https://miyajima-brewery.com/",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Ikoru",
+     "name_en": "Ikoru",
+     "name_ja": "いこる",
+     "description": "Japanese pub in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/way/1381574927",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "ito ke no shokutaku",
+     "name_en": "ito ke no shokutaku",
+     "description": "Japanese pub in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/way/1381593717",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Koshitsu Izakaya Kaisen Ryori Sakanaya Dojo",
+     "name_en": "Koshitsu Izakaya Kaisen Ryori Sakanaya Dojo",
+     "name_ja": "個室居酒屋 海鮮料理 さかなや道場",
+     "description": "Japanese pub in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/way/1381570753",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Miho",
+     "name_en": "Miho",
+     "name_ja": "みほ",
+     "description": "Japanese pub in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/way/1381580452",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Umami Tokoro Tomo",
+     "name_en": "Umami Tokoro Tomo",
+     "name_ja": "旨味処 朋",
+     "description": "Japanese pub in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/way/1381570757",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yadai Zushi",
+     "name_en": "Yadai Zushi",
+     "name_ja": "や台ずし",
+     "description": "Japanese pub in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/way/1381570770",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kentucky Fried Chicken",
+     "name_en": "Kentucky Fried Chicken",
+     "name_ja": "ケンタッキーフライドチキン",
+     "description": "Chicken restaurant in Hatsukaichi. Open daily 10:00-21:00.",
+     "source_url": "https://www.kfc.co.jp/",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Barbecue restaurant in Hatsukaichi",
+     "name_en": "Barbecue restaurant in Hatsukaichi",
+     "name_ja": "バルバコア",
+     "description": "Barbecue restaurant in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/way/1309529218",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakitori Senichi",
+     "name_en": "Yakitori Senichi",
+     "name_ja": "焼鳥 千一",
+     "description": "Chicken pub in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/way/391871112",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yatsurugi Den",
+     "name_en": "Yatsurugi Den",
+     "name_ja": "八剣伝",
+     "description": "Yakitori restaurant in Hatsukaichi. Open Mon-Sun, public holidays 17:00-02:00.",
+     "source_url": "https://www.openstreetmap.org/way/412356672",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Miyajima Daruma",
      "name_en": "Miyajima Daruma",
      "name_ja": "みやじま達磨",
      "description": "Soba restaurant in Hatsukaichi; dinner ¥1,000–¥1,999.",
      "source_url": "https://tabelog.com/hiroshima/A3402/A340201/34021037/",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Fujiya",
+     "name_en": "Fujiya",
+     "name_ja": "ふじや",
+     "description": "Noodle and ramen restaurant in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/way/1381580491",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Maboroshi no Ramen",
+     "name_en": "Maboroshi no Ramen",
+     "name_ja": "幻のラーメン",
+     "description": "Ramen restaurant in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/way/1037749872",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Sanukiya",
+     "name_en": "Sanukiya",
+     "name_ja": "讃岐屋",
+     "description": "Udon and soba restaurant in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/node/13012451735",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tori-no Suke",
+     "name_en": "Tori-no Suke",
+     "description": "Soba restaurant in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/way/393619026",
      "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/noodles/",
      "category": "Japanese (noodles)"
     },
@@ -3263,6 +4211,78 @@
      "category": "Other"
     },
     {
+     "name": "Otani",
+     "name_en": "Otani",
+     "name_ja": "大たに",
+     "description": "Restaurant in Hatsukaichi. Open daily 11:00-16:00.",
+     "source_url": "https://miyajima-ohtani.sakura.ne.jp/",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Resutoran Higashiyama",
+     "name_en": "Resutoran Higashiyama",
+     "name_ja": "れすとらん 東山",
+     "description": "Restaurant in Hatsukaichi.",
+     "source_url": "https://www.mominoki.or.jp/",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "mitchan",
+     "name_en": "mitchan",
+     "name_ja": "みっちゃん総本店",
+     "description": "Restaurant in Hatsukaichi. Open daily 11:00-22:00.",
+     "source_url": "https://www.okonomi.co.jp/shop6.html",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Hatsukaichi (#1)",
+     "name_en": "Restaurant in Hatsukaichi (#1)",
+     "name_ja": "オーソレ・ミオ",
+     "description": "Restaurant in Hatsukaichi.",
+     "source_url": "http://www.maplecity.jp/osolemio/",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Hatsukaichi (#2)",
+     "name_en": "Restaurant in Hatsukaichi (#2)",
+     "name_ja": "味のサファイヤ",
+     "description": "Restaurant in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/way/1337158069",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Onigiri",
+     "name_en": "Onigiri",
+     "name_ja": "おにぎり屋三兎",
+     "description": "Restaurant in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/node/13994826201",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Oshokujidokoro Yosakoi",
+     "name_en": "Oshokujidokoro Yosakoi",
+     "name_ja": "お食事処 よさこい",
+     "description": "Restaurant in Miyajima Machi, Hatsukaichi. Open Thu-Tue 17:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/4758848721",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Yamatoya",
+     "name_en": "Yamatoya",
+     "name_ja": "大和屋",
+     "description": "Restaurant in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/node/3710510714",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Yaki Gaki no Hayashi",
      "name_en": "Yaki Gaki no Hayashi",
      "name_ja": "焼がきの はやし",
@@ -3286,6 +4306,103 @@
      "name_ja": "いな忠",
      "description": "Japanese restaurant in Hatsukaichi.",
      "source_url": "https://tabelog.com/hiroshima/A3402/A340202/34007506/",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Okonomiyaki Denko Sekka",
+     "name_en": "Okonomiyaki Denko Sekka",
+     "name_ja": "電光石火",
+     "description": "Japanese and okonomiyaki restaurant in Shi Shingu, Hatsukaichi. Open daily 11:00-22:00.",
+     "source_url": "https://okonomiyaki-denko-sekka.com/",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Toriiya Restaurant",
+     "name_en": "Toriiya Restaurant",
+     "name_ja": "鳥居屋食堂",
+     "description": "Japanese restaurant in Hatsukaichi. Open daily 08:30-17:00.",
+     "source_url": "https://toriiya.co.jp",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kurawanka",
+     "name_en": "Kurawanka",
+     "name_ja": "くらわんか",
+     "description": "Japanese restaurant in Hatsukaichi. Open daily 11:00-17:00.",
+     "source_url": "https://www.openstreetmap.org/node/4281627689",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Miyajima Syokudo",
+     "name_en": "Miyajima Syokudo",
+     "name_ja": "みやじま食堂",
+     "description": "Japanese restaurant in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/node/4809619021",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Nakano Ie",
+     "name_en": "Nakano Ie",
+     "name_ja": "中野家",
+     "description": "Japanese and okonomiyaki restaurant in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/node/13012417599",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Hatsukaichi (#1)",
+     "name_en": "Japanese restaurant in Hatsukaichi (#1)",
+     "name_ja": "お好み焼き フジモト",
+     "description": "Japanese restaurant in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/node/2558539254",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Hatsukaichi (#2)",
+     "name_en": "Japanese restaurant in Hatsukaichi (#2)",
+     "name_ja": "お好み焼き とん子",
+     "description": "Japanese restaurant in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/way/940741192",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Okonomiyaki Kishibe",
+     "name_en": "Okonomiyaki Kishibe",
+     "description": "Japanese restaurant in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/node/4758848621",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Sonoma",
+     "name_en": "Sonoma",
+     "name_ja": "素の間",
+     "description": "Japanese restaurant in Hatsukaichi. Open Mon-Sat 11:00-17:00.",
+     "source_url": "https://www.openstreetmap.org/node/13423732639",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Tachi hana",
+     "name_en": "Tachi hana",
+     "name_ja": "たち花",
+     "description": "Japanese restaurant in Hatsukaichi. Open daily 10:00-17:00.",
+     "source_url": "https://www.openstreetmap.org/node/6894560285",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Zipang",
+     "name_en": "Zipang",
+     "description": "Japanese restaurant in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/node/10635435968",
      "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -3358,6 +4475,24 @@
      "name_ja": "みやじま華屋敷",
      "description": "Seafood restaurant in Hatsukaichi; dinner –¥999.",
      "source_url": "https://tabelog.com/hiroshima/A3402/A340202/34011869/",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Fuji Sushi",
+     "name_en": "Fuji Sushi",
+     "name_ja": "ふじ寿司",
+     "description": "Sushi restaurant in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/node/9562774531",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Miyajima Sushi Maimon",
+     "name_en": "Miyajima Sushi Maimon",
+     "name_ja": "宮島鮨まいもん",
+     "description": "Sushi restaurant in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/way/391695946",
      "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -3439,6 +4574,57 @@
      "name_ja": "ビッグ セット 宮島本店",
      "description": "Bakery in Hatsukaichi.",
      "source_url": "https://tabelog.com/hiroshima/A3402/A340202/34019849/",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Momiji-manju",
+     "name_en": "Momiji-manju",
+     "name_ja": "岩村もみじ屋",
+     "description": "Sweets shop in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/node/5006121124",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bakery Gretel",
+     "name_en": "Bakery Gretel",
+     "description": "Bakery in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/way/1037714601",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "CORORO",
+     "name_en": "CORORO",
+     "description": "Bakery in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/node/9557935658",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Itsuki Drops",
+     "name_en": "Itsuki Drops",
+     "description": "Ice cream shop in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/node/13996966821",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets shop in Hatsukaichi",
+     "name_en": "Sweets shop in Hatsukaichi",
+     "name_ja": "紅葉堂",
+     "description": "Sweets shop in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/node/9019548100",
+     "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sakuramoto Kashiho",
+     "name_en": "Sakuramoto Kashiho",
+     "name_ja": "坂本菓子舗",
+     "description": "Bakery in Hatsukaichi.",
+     "source_url": "https://www.openstreetmap.org/node/6339760585",
      "page": "https://bokenjapan.com/hiroshima/hatsukaichi/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -4016,7 +5202,7 @@
     "address": "8-29 Saijo Sakae-machi, Higashihiroshima City, Hiroshima 739-8601, Japan",
     "phone": "082-422-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Higashihiroshima City Hall",
@@ -4068,6 +5254,57 @@
      "name_ja": "スターバックス 小谷サービスエリア(上り線)店",
      "description": "Café in Higashihiroshima.",
      "source_url": "https://tabelog.com/hiroshima/A3407/A340702/34022096/",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Koti-",
+     "name_en": "Koti-",
+     "description": "Cafe in Higashihiroshima. Open daily 08:00-18:00.",
+     "source_url": "https://www.openstreetmap.org/node/9830150990",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kugurimon Coffee",
+     "name_en": "Kugurimon Coffee",
+     "name_ja": "くぐり門珈琲店",
+     "description": "Cafe in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/4664649554",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Mermaid Cafe",
+     "name_en": "Mermaid Cafe",
+     "name_ja": "マーメイド カフェ",
+     "description": "Cafe in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/1909963832",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Tom’s Coffee",
+     "name_en": "Tom’s Coffee",
+     "description": "Cafe in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/5901299597",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Trecasa",
+     "name_en": "Trecasa",
+     "description": "Cafe in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/4664649558",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Yakiniku MANPUKU",
+     "name_en": "Yakiniku MANPUKU",
+     "name_ja": "焼肉カフェ萬福",
+     "description": "Barbecue cafe in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/way/606429868",
      "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/cafe/",
      "category": "Cafe"
     },
@@ -4135,6 +5372,24 @@
      "category": "Casual"
     },
     {
+     "name": "Hokka Hokka Tei",
+     "name_en": "Hokka Hokka Tei",
+     "name_ja": "ほっかほっか亭",
+     "description": "Fast-food restaurant in Higashihiroshima.",
+     "source_url": "https://store.hokkahokka-tei.jp/store/342104",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Fast-food restaurant in Higashihiroshima",
+     "name_en": "Fast-food restaurant in Higashihiroshima",
+     "name_ja": "からあげやカリッジュ",
+     "description": "Fast-food restaurant in Higashihiroshima. Open daily 11:00-20:00.",
+     "source_url": "https://www.openstreetmap.org/way/1437061173",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Fuji Sho",
      "name_en": "Fuji Sho",
      "name_ja": "藤椒",
@@ -4144,11 +5399,46 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Fukusho Jun",
+     "name_en": "Fukusho Jun",
+     "name_ja": "福祥順",
+     "description": "Taiwanese restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/5901192062",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Tantammen Maabodofu Tanjo",
+     "name_en": "Tantammen Maabodofu Tanjo",
+     "name_ja": "担々麺・麻婆豆腐 藤椒（たんじょう）",
+     "description": "Chinese restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/13069874301",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Sapporo Soup Kari Aratani Shoten",
      "name_en": "Sapporo Soup Kari Aratani Shoten",
      "name_ja": "札幌スープカリー 荒谷商店",
      "description": "Curry restaurant in Higashihiroshima; dinner ¥1,000–¥1,999.",
      "source_url": "https://tabelog.com/hiroshima/A3407/A340701/34022011/",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Tandoor",
+     "name_en": "TANDOOR",
+     "description": "Indian restaurant in Higashihiroshima. Open daily 11:00-15:00, 17:00-22:00.",
+     "source_url": "https://tandoor-curry.jp",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Kiton Kurose Branch",
+     "name_en": "Kiton Kurose Branch",
+     "name_ja": "キートン 黒瀬店",
+     "description": "Indian restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/14079509978",
      "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/curry/",
      "category": "Curry"
     },
@@ -4189,6 +5479,15 @@
      "category": "European"
     },
     {
+     "name": "Western-style restaurant in Higashihiroshima",
+     "name_en": "Western-style restaurant in Higashihiroshima",
+     "name_ja": "ビストロパパ",
+     "description": "Western-style restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/11096803857",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Sumiyaki Robata Fujiyama",
      "name_en": "Sumiyaki Robata Fujiyama",
      "name_ja": "炭焼炉端ふじやま",
@@ -4207,11 +5506,105 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Bar Pretty vacant",
+     "name_en": "Bar Pretty vacant",
+     "description": "Bar in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/5901299606",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Bokka",
+     "name_en": "Bokka",
+     "name_ja": "歩花",
+     "description": "Pub in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/5901299601",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "eight",
+     "name_en": "eight",
+     "description": "Bar in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/5901299593",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "enishi",
+     "name_en": "enishi",
+     "description": "Bar in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/5901322081",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "kazumaru",
+     "name_en": "kazumaru",
+     "name_ja": "和○",
+     "description": "Pub in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/5902886347",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Pegasus",
+     "name_en": "Pegasus",
+     "description": "Bar in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/5902886358",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Smore",
+     "name_en": "Smore",
+     "description": "Pub in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/5901192048",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Tonkatsu Nichi Kari",
      "name_en": "Tonkatsu Nichi Kari",
      "name_ja": "とんかつ日刈り",
      "description": "Tonkatsu restaurant in Higashihiroshima; dinner ¥1,000–¥1,999.",
      "source_url": "https://tabelog.com/hiroshima/A3407/A340701/34028829/",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "KFC",
+     "name_en": "KFC",
+     "name_ja": "ケンタッキーフライドチキン",
+     "description": "Chicken restaurant in Higashihiroshima. Open daily 10:00-21:00.",
+     "source_url": "https://www.kfc.co.jp/",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Hommamon",
+     "name_en": "Hommamon",
+     "name_ja": "ほんまもん",
+     "description": "Barbecue restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/5902886360",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Sumibiyakiniku Manmaru Saijoten",
+     "name_en": "Sumibiyakiniku Manmaru Saijoten",
+     "name_ja": "炭火焼肉 萬まる 西条店",
+     "description": "Yakiniku restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/way/610536798",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Furusato Saijo Branch",
+     "name_en": "Yakiniku Furusato Saijo Branch",
+     "name_ja": "焼肉ふるさと 西条店",
+     "description": "Yakiniku restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/way/1196298477",
      "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -4297,6 +5690,123 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Tonkotsu Niwatori Gara Shoyu Bari Saijo Jike Branch",
+     "name_en": "Tonkotsu Niwatori Gara Shoyu Bari Saijo Jike Branch",
+     "name_ja": "とんこつ鶏ガラ醤油 ばり嗎 西条寺家店",
+     "description": "Ramen restaurant in Higashihiroshima. Open daily 11:00-22:00.",
+     "source_url": "https://www.bariuma.biz/area/detail/?id=132",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Aozo",
+     "name_en": "Aozo",
+     "name_ja": "あおぞう",
+     "description": "Ramen restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/5901342995",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ekimenya",
+     "name_en": "Ekimenya",
+     "name_ja": "駅麺屋",
+     "description": "Noodle restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/5901192032",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ichiryu",
+     "name_en": "Ichiryu",
+     "name_ja": "一龍",
+     "description": "Ramen restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/5901192003",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen restaurant in Higashihiroshima (#2)",
+     "name_en": "Ramen restaurant in Higashihiroshima (#2)",
+     "name_ja": "いな穂",
+     "description": "Ramen restaurant in Higashihiroshima. Open Fri-Sun 11:30-13:00; Tue-Wed 11:30-13:00.",
+     "source_url": "https://www.openstreetmap.org/way/1444489727",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen restaurant in Higashihiroshima (#1)",
+     "name_en": "Ramen restaurant in Higashihiroshima (#1)",
+     "name_ja": "一風堂",
+     "description": "Ramen restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/11282758355",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Gaba Saijo",
+     "name_en": "Ramen Gaba Saijo",
+     "name_ja": "ラーメン我馬 西条店",
+     "description": "Ramen restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/way/679766086",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Gyouza Ichi Rakuten",
+     "name_en": "Ramen Gyouza Ichi Rakuten",
+     "name_ja": "ラーメン・ギョウザ 一楽天",
+     "description": "Ramen restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/13208304482",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Shop KANTO Takaya Branch",
+     "name_en": "Ramen Shop KANTO Takaya Branch",
+     "name_ja": "ラーメンショップKANTO 高屋店",
+     "description": "Ramen restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/way/606087879",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Noodle and soba restaurant in Higashihiroshima",
+     "name_en": "Noodle and soba restaurant in Higashihiroshima",
+     "name_ja": "手打ちそば 出雲屋",
+     "description": "Noodle and soba restaurant in Higashihiroshima. Open daily 11:00-15:00, 17:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/way/1422180442",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Noodle restaurant in Higashihiroshima",
+     "name_en": "Noodle restaurant in Higashihiroshima",
+     "name_ja": "唐々亭",
+     "description": "Noodle restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/5901299617",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon Noten Jike Branch",
+     "name_en": "Udon Noten Jike Branch",
+     "name_ja": "うどんの天寺家店",
+     "description": "Udon restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/13071670302",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Umamori",
+     "name_en": "Umamori",
+     "name_ja": "うまもり",
+     "description": "Ramen restaurant in Higashihiroshima. Open daily 11:30-14:30, 18:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/13288381704",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Restaurant in Higashihiroshima",
      "name_en": "Restaurant in Higashihiroshima",
      "name_ja": "アンデルセン レストラン 小谷サービスエリア（上り線)",
@@ -4333,6 +5843,32 @@
      "category": "Other"
     },
     {
+     "name": "Aspetta!!",
+     "name_en": "Aspetta!!",
+     "description": "Restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/5903045094",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Emme",
+     "name_en": "Emme",
+     "name_ja": "エンメ",
+     "description": "Restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/9961089022",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Torisaburo Saijo Shitami",
+     "name_en": "Torisaburo Saijo Shitami",
+     "name_ja": "鳥三郎 西条下見店",
+     "description": "Restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/way/1195565214",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Cuisine-ya Sobiki",
      "name_en": "Cuisine-ya Sobiki",
      "name_ja": "料理屋そうびき",
@@ -4351,6 +5887,132 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Aka Chosan Saijo Branch",
+     "name_en": "Aka Chosan Saijo Branch",
+     "name_ja": "赤ちょうさん西条店",
+     "description": "Japanese restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/way/610525702",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kushi Age Sakaba Tomoe Omae",
+     "name_en": "Kushi Age Sakaba Tomoe Omae",
+     "name_ja": "串揚げ酒場 巴御前",
+     "description": "Japanese restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/13071670306",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Nisshoku",
+     "name_en": "Nisshoku",
+     "name_ja": "日食",
+     "description": "Japanese restaurant in Higashihiroshima. Open Mon-Sat 18:00-08:00.",
+     "source_url": "https://www.openstreetmap.org/way/611789376",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Okonomi House Tamago",
+     "name_en": "Okonomi House Tamago",
+     "name_ja": "お好みハウス たまご",
+     "description": "Japanese and okonomiyaki restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/11096803856",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Okonomiyaki Kenchan",
+     "name_en": "Okonomiyaki Kenchan",
+     "name_ja": "お好み焼 けんちゃん",
+     "description": "Okonomiyaki restaurant in Higashihiroshima. Open Mon, Thu 11:00-14:00; Fri-Sun 11:00-14:00, 17:00-20:00.",
+     "source_url": "https://www.openstreetmap.org/way/1431624190",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Okonomiyaki restaurant in Higashihiroshima (#3)",
+     "name_en": "Okonomiyaki restaurant in Higashihiroshima (#3)",
+     "name_ja": "お好み焼き 月ヶ瀬",
+     "description": "Okonomiyaki restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/13159131667",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Okonomiyaki restaurant in Higashihiroshima (#1)",
+     "name_en": "Okonomiyaki restaurant in Higashihiroshima (#1)",
+     "name_ja": "お好み焼き一身 味壱",
+     "description": "Okonomiyaki restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/13071670301",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Okonomiyaki restaurant in Higashihiroshima (#4)",
+     "name_en": "Okonomiyaki restaurant in Higashihiroshima (#4)",
+     "name_ja": "お好み焼き 小春",
+     "description": "Okonomiyaki restaurant in Higashihiroshima. Open Mon-Sat 10:00-14:00, 17:00-19:00.",
+     "source_url": "https://www.openstreetmap.org/node/13323536124",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Higashihiroshima",
+     "name_en": "Japanese restaurant in Higashihiroshima",
+     "name_ja": "お好み焼き Q 西条店",
+     "description": "Japanese restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/way/1204628536",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Okonomiyaki restaurant in Higashihiroshima (#5)",
+     "name_en": "Okonomiyaki restaurant in Higashihiroshima (#5)",
+     "name_ja": "お好み焼き 楽",
+     "description": "Okonomiyaki restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/5902886350",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Okonomiyaki restaurant in Higashihiroshima (#2)",
+     "name_en": "Okonomiyaki restaurant in Higashihiroshima (#2)",
+     "name_ja": "お好み焼き・鉄板焼 安芸ノ屋",
+     "description": "Okonomiyaki restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/13071670304",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Okonomiyaki Teppanyaki Nakamuraya Main Store",
+     "name_en": "Okonomiyaki Teppanyaki Nakamuraya Main Store",
+     "name_ja": "お好み焼き 鉄板焼き 中村屋 本店",
+     "description": "Japanese restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/9709224075",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ryoma",
+     "name_en": "Ryoma",
+     "name_ja": "龍馬",
+     "description": "Japanese restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/way/609925162",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yakitori Kushiiro",
+     "name_en": "Yakitori Kushiiro",
+     "name_ja": "焼鳥串色",
+     "description": "Japanese restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/11164692848",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Fuku Matsurigoto",
      "name_en": "Fuku Matsurigoto",
      "name_ja": "ふく政",
@@ -4365,6 +6027,24 @@
      "name_ja": "すし遊館 あさひ ゆめモール西条店",
      "description": "Conveyor-belt sushi in Higashihiroshima; dinner ¥5,000–¥5,999.",
      "source_url": "https://tabelog.com/hiroshima/A3407/A340701/34030201/",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Yukan",
+     "name_en": "Sushi Yukan",
+     "name_ja": "すし遊館",
+     "description": "Sushi restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/11282758353",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Yadai Zushi",
+     "name_en": "Yadai Zushi",
+     "name_ja": "や台ずし",
+     "description": "Sushi restaurant in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/5901192072",
      "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -4391,6 +6071,41 @@
      "name_en": "Patisserie NOEL",
      "description": "Cake shop in Higashihiroshima; dinner –¥999.",
      "source_url": "https://tabelog.com/hiroshima/A3407/A340701/34000540/",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bakery in Higashihiroshima (#1)",
+     "name_en": "Bakery in Higashihiroshima (#1)",
+     "name_ja": "焼き立て食パン専門 一本堂 西条酒蔵通り店",
+     "description": "Bakery in Higashihiroshima. Open Wed-Mon 10:00-18:00.",
+     "source_url": "https://shokupan-ippondo.jp/",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Lapain",
+     "name_en": "Lapain",
+     "name_ja": "ラパン",
+     "description": "Bakery in Higashihiroshima. Open Tue-Sun 06:00-18:00.",
+     "source_url": "https://www.openstreetmap.org/way/610803345",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "melon & melon",
+     "name_en": "melon & melon",
+     "description": "Bakery in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/node/5901299618",
+     "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Okashi honpo",
+     "name_en": "Okashi honpo",
+     "name_ja": "おかし本舗 西条店",
+     "description": "Sweets shop in Higashihiroshima.",
+     "source_url": "https://www.openstreetmap.org/way/610525704",
      "page": "https://bokenjapan.com/hiroshima/higashihiroshima/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -5174,8 +6889,8 @@
      "category": "Other"
     },
     {
-     "name": "Okonomiyaki restaurant in Hiroshima (#60)",
-     "name_en": "Okonomiyaki restaurant in Hiroshima (#60)",
+     "name": "OKO Ja",
+     "name_en": "OKO Ja",
      "name_ja": "OKOじゃ",
      "description": "Okonomiyaki restaurant in Hiroshima; dinner ¥1,000–¥1,999.",
      "source_url": "https://tabelog.com/hiroshima/A3401/A340127/34014181/",
@@ -5219,8 +6934,8 @@
      "category": "Other"
     },
     {
-     "name": "Okonomiyaki restaurant in Hiroshima (#71)",
-     "name_en": "Okonomiyaki restaurant in Hiroshima (#71)",
+     "name": "Okonomiyaki Ki Gi",
+     "name_en": "Okonomiyaki Ki Gi",
      "name_ja": "お好み焼き 義",
      "description": "Okonomiyaki restaurant in Hiroshima; dinner ¥1,000–¥1,999.",
      "source_url": "https://tabelog.com/hiroshima/A3401/A340126/34020968/",
@@ -5641,8 +7356,8 @@
      "page": "https://bokenjapan.com/hiroshima/hiroshima/stay/"
     },
     {
-     "name": "Hotel in Hiroshima (#17)",
-     "name_en": "Hotel in Hiroshima (#17)",
+     "name": "Kandeohoteruzu Hiroshima Hatchobori",
+     "name_en": "Kandeohoteruzu Hiroshima Hatchobori",
      "name_ja": "カンデオホテルズ広島八丁堀",
      "description": "Hotel in Hiroshima.",
      "source_url": "https://www.ikyu.com/00003478/",
@@ -6383,8 +8098,8 @@
      "page": "https://bokenjapan.com/hiroshima/hiroshima/stay/"
     },
     {
-     "name": "Hotel in Hiroshima (#111)",
-     "name_en": "Hotel in Hiroshima (#111)",
+     "name": "Hiroshima Pashifikkuhoteru",
+     "name_en": "Hiroshima Pashifikkuhoteru",
      "name_ja": "広島パシフィックホテル",
      "description": "Hotel in Hiroshima with a sauna.",
      "source_url": "https://www.jalan.net/yad327675/",
@@ -7278,7 +8993,7 @@
     "address": "14-17 Minami-Showacho, Kaita Town, Aki District, Hiroshima 736-8601, Japan",
     "phone": "082-822-2121"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Kaita Town Hall",
@@ -7691,6 +9406,13 @@
      "description": "Hotel in Minamitaisho, Kaita.",
      "source_url": "https://www.jalan.net/yad335487/",
      "page": "https://bokenjapan.com/hiroshima/kaita/stay/"
+    },
+    {
+     "name": "Genba Kaita Expressway Project Genba",
+     "name_en": "Genba Kaita Expressway Project Genba",
+     "description": "Apartment stay in Kaita.",
+     "source_url": "https://www.openstreetmap.org/node/6861409986",
+     "page": "https://bokenjapan.com/hiroshima/kaita/stay/"
     }
    ]
   },
@@ -7760,8 +9482,8 @@
      "category": "Cafe"
     },
     {
-     "name": "no no Hana Kafe",
-     "name_en": "no no Hana Kafe",
+     "name": "no no Hana Cafe",
+     "name_en": "no no Hana Cafe",
      "name_ja": "野の花かふぇ",
      "description": "Café in Kitahiroshima.",
      "source_url": "https://tabelog.com/hiroshima/A3408/A340801/34014932/",
@@ -8759,7 +10481,7 @@
     "address": "4-1-6 Chuo, Kure City, Hiroshima 737-8501, Japan",
     "phone": "0823-25-3100"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Kure City Hall",
@@ -8819,6 +10541,134 @@
      "name_ja": "レスト喫茶店",
      "description": "Coffee house in Kure; dinner –¥999.",
      "source_url": "https://tabelog.com/hiroshima/A3404/A340401/34009522/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Kure",
+     "name_en": "Cafe in Kure",
+     "name_ja": "和かふぇ遅々",
+     "description": "Cafe in Kure.",
+     "source_url": "https://mamiya-yokan.jp/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Beacon Seaside Cafe",
+     "name_en": "Beacon Seaside Cafe",
+     "description": "Cafe in Kure. Open Mon-Tue, Thu-Sun 11:00-18:00; closed Wed.",
+     "source_url": "https://kure-kaijicurry.com/shop/shop02/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe DoDo",
+     "name_en": "Cafe DoDo",
+     "description": "Cafe in Kure. Open daily 11:00-14:00.",
+     "source_url": "http://www.c-port-kousei.or.jp/newpage7.html",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "cafe Gohan Read",
+     "name_en": "cafe Gohan Read",
+     "name_ja": "cafeごはん Read",
+     "description": "Cafe in Kure.",
+     "source_url": "http://www.pepe.co.jp/read.html",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "CAFE&LUNCH Resuto",
+     "name_en": "CAFE&LUNCH Resuto",
+     "name_ja": "CAFE&LUNCHレスト",
+     "description": "Cafe in Chuo Itchome, Kure. Open daily 07:30-22:00.",
+     "source_url": "https://cafelunch-rest.jimdosite.com/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Coffee Shop&Raida House J's",
+     "name_en": "Coffee Shop&Raida House J's",
+     "name_ja": "コーヒーショップ＆ライダーハウス J's",
+     "description": "Cafe in Ondo Machisaki Oku, Kure. Open daily 10:00-16:00; closed Tue-Wed.",
+     "source_url": "https://riderhouse-js.jp/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Mikawaya Coffee Gochu Tori Branch",
+     "name_en": "Mikawaya Coffee Gochu Tori Branch",
+     "name_ja": "三河屋珈琲呉中通店",
+     "description": "Cafe in Nakadori, Kure. Open daily 08:30-20:00.",
+     "source_url": "https://www.goodness-gb.co.jp/mikawaya_kure/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Café in Kure (#1)",
+     "name_en": "Café in Kure (#1)",
+     "name_ja": "オールカフェ×タニタカフェ",
+     "description": "Cafe in Kure.",
+     "source_url": "https://owl-pharmacy.jp/owlcafe-tanitacafe-kure",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Tully's Coffee",
+     "name_en": "Tully's Coffee",
+     "name_ja": "タリーズコーヒー",
+     "description": "Cafe in Kure. Open daily 09:00-22:00.",
+     "source_url": "https://www.tullys.co.jp/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Bar&Cafe ISOROQ",
+     "name_en": "Bar&Cafe ISOROQ",
+     "name_ja": "瀬戸内バル五十六",
+     "description": "Cafe pub in Takaramachi, Kure. Open daily 17:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/9000970338",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "cafe Restaurant SOGNO",
+     "name_en": "cafe Restaurant SOGNO",
+     "description": "Cafe in Kure.",
+     "source_url": "https://www.openstreetmap.org/node/9001472357",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Memphis Gangs Cafe",
+     "name_en": "Memphis Gangs Cafe",
+     "description": "Cafe in Kure.",
+     "source_url": "https://www.openstreetmap.org/node/9719507565",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "RePLAY Moto Service",
+     "name_en": "RePLAY Moto Service",
+     "description": "Cafe in Yoshiura Shimmachi, Kure. Open Fri-Wed 11:00-17:00.",
+     "source_url": "https://www.openstreetmap.org/node/8398579662",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Waka-Cho",
+     "name_en": "Waka-Cho",
+     "description": "Cafe in Kure.",
+     "source_url": "https://www.openstreetmap.org/node/3507851947",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Y's cafe",
+     "name_en": "Y's cafe",
+     "description": "Cafe in Chuo, Kure. Open daily 07:00-10:00, 14:00-17:00.",
+     "source_url": "https://www.openstreetmap.org/node/9000970344",
      "page": "https://bokenjapan.com/hiroshima/kure/eat/cafe/",
      "category": "Cafe"
     },
@@ -8885,6 +10735,24 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Manfukuyen",
+     "name_en": "Manfukuyen",
+     "name_ja": "中華料理万福園",
+     "description": "Chinese restaurant in Kure.",
+     "source_url": "https://www.openstreetmap.org/node/9008023671",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Kari Restaurant MokuMoku",
+     "name_en": "Kari Restaurant MokuMoku",
+     "name_ja": "カリーレストランMokuMoku",
+     "description": "Indian restaurant in Nakadori, Kure.",
+     "source_url": "http://mokumoku-curry.com/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/curry/",
+     "category": "Curry"
+    },
+    {
      "name": "French restaurant in Kure",
      "name_en": "French restaurant in Kure",
      "name_ja": "アミラル",
@@ -8899,6 +10767,49 @@
      "name_ja": "田舎洋食 いせ屋",
      "description": "Yoshoku (Western-style) restaurant in Kure; dinner ¥1,000–¥1,999.",
      "source_url": "https://tabelog.com/hiroshima/A3404/A340401/34002809/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Italian restaurant in Kure",
+     "name_en": "Italian restaurant in Kure",
+     "name_ja": "サイゼリヤ",
+     "description": "Italian restaurant in Kureshi Ko Koshin Kai, Kure. Open daily 11:00-01:00.",
+     "source_url": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=573",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "ITALICO",
+     "name_en": "ITALICO",
+     "name_ja": "イタリコ",
+     "description": "Italian restaurant in Chuo, Kure.",
+     "source_url": "https://www.openstreetmap.org/node/9000970348",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "NANO",
+     "name_en": "NANO",
+     "description": "Italian restaurant in Kure.",
+     "source_url": "https://www.openstreetmap.org/node/9720327321",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "PIZZERRIA NALIPO",
+     "name_en": "PIZZERRIA NALIPO",
+     "description": "Pizza restaurant in Higashinaka O, Kure. Open daily 11:00-14:30, 17:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/9688949981",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Restaurant Belle Fleur",
+     "name_en": "Restaurant Belle Fleur",
+     "name_ja": "ベルフルール",
+     "description": "French restaurant in Nakadori, Kure.",
+     "source_url": "https://www.openstreetmap.org/node/9688940948",
      "page": "https://bokenjapan.com/hiroshima/kure/eat/european/",
      "category": "European"
     },
@@ -8920,6 +10831,51 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Izakaya Kashima Main Store",
+     "name_en": "Izakaya Kashima Main Store",
+     "name_ja": "居酒屋かしま本店",
+     "description": "Izakaya pub in Nakadori, Kure.",
+     "source_url": "https://www.checkure.jp/kashima-h.html",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Saketanuki",
+     "name_en": "Saketanuki",
+     "name_ja": "酒狸",
+     "description": "Pub in Nakadori, Kure. Open daily 17:00-23:00.",
+     "source_url": "https://saketanuki.gorp.jp/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Taishu Niku Sakaba Honde",
+     "name_en": "Taishu Niku Sakaba Honde",
+     "name_ja": "大衆肉酒場ほんで",
+     "description": "Izakaya restaurant in Nakadori, Kure. Open daily 11:30-23:00.",
+     "source_url": "https://izakaya-honde.com/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Pub in Kure",
+     "name_en": "Pub in Kure",
+     "name_ja": "ウタカタ",
+     "description": "Pub in Kure.",
+     "source_url": "https://utakata.business.site/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Nene",
+     "name_en": "Nene",
+     "name_ja": "柑橘酒屋檸々",
+     "description": "Pub in Nakadori, Kure. Open daily 11:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/9688940942",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Kanpaku",
      "name_en": "Kanpaku",
      "name_ja": "關白",
@@ -8934,6 +10890,24 @@
      "name_ja": "呉もん",
      "description": "Yakiniku (grilled meat) restaurant in Kure; dinner ¥3,000–¥3,999.",
      "source_url": "https://tabelog.com/hiroshima/A3404/A340401/34025794/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "KFC",
+     "name_en": "KFC",
+     "name_ja": "ケンタッキーフライドチキン",
+     "description": "Chicken restaurant in Kure. Open daily 10:00-22:00.",
+     "source_url": "https://www.kfc.co.jp/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "ayahiro",
+     "name_en": "ayahiro",
+     "name_ja": "焼鳥と春夏秋冬 文弘",
+     "description": "Yakitori pub in Kure.",
+     "source_url": "https://www.openstreetmap.org/node/9720327322",
      "page": "https://bokenjapan.com/hiroshima/kure/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -9019,6 +10993,60 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Dashi Doraku",
+     "name_en": "Dashi Doraku",
+     "name_ja": "だし道楽",
+     "description": "Noodle restaurant in Keigoya, Kure. Open daily 10:30-14:30.",
+     "source_url": "https://dashidouraku.com/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Soba to Jizake Ayaka",
+     "name_en": "Soba to Jizake Ayaka",
+     "name_ja": "そばと地酒 彩華",
+     "description": "Soba pub in Nakadori Sanchome, Kure.",
+     "source_url": "https://saika244555.jp/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen restaurant in Kure",
+     "name_en": "Ramen restaurant in Kure",
+     "name_ja": "どさん子ラーメン",
+     "description": "Ramen restaurant in Kure.",
+     "source_url": "https://dskgroup.co.jp/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Champon Noodle Restaurant",
+     "name_en": "Champon Noodle Restaurant",
+     "name_ja": "長崎ちゃんめん広島呉広店",
+     "description": "Noodle restaurant in Kure.",
+     "source_url": "https://www.openstreetmap.org/way/608545168",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Chuka Soba Morisu",
+     "name_en": "Chuka Soba Morisu",
+     "name_ja": "中華そばモリス",
+     "description": "Ramen restaurant in Hondori, Kure. Open daily 10:30-15:00.",
+     "source_url": "https://www.openstreetmap.org/node/9008023664",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kureryu",
+     "name_en": "Kureryu",
+     "name_ja": "呉龍",
+     "description": "Noodle restaurant in Nishinaka O, Kure. Open daily 11:30-15:30.",
+     "source_url": "https://www.openstreetmap.org/node/9688938223",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Okonomiyaki Teppan Kyo Shoku-ya Tokubyoe Kure Eki Building",
      "name_en": "Okonomiyaki Teppan Kyo Shoku-ya Tokubyoe Kure Eki Building",
      "name_ja": "お好み焼き・鉄板居食家 徳兵衛 呉駅ビル店",
@@ -9064,6 +11092,68 @@
      "category": "Other"
     },
     {
+     "name": "Restaurant in Chuo, Kure",
+     "name_en": "Restaurant in Chuo, Kure",
+     "name_ja": "小さな料理店Kou",
+     "description": "Restaurant in Chuo, Kure.",
+     "source_url": "https://chisana-kou.com/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Chinrai Ken",
+     "name_en": "Chinrai Ken",
+     "name_ja": "珍来軒",
+     "description": "Restaurant in Kure.",
+     "source_url": "https://www.kure-reimen.com/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Mentokoro Itsuka",
+     "name_en": "Mentokoro Itsuka",
+     "name_ja": "麺処いつか",
+     "description": "Restaurant in Chuo, Kure. Open daily 11:00-15:00.",
+     "source_url": "https://itsuka-style.com/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Nagasaki Chammen",
+     "name_en": "Nagasaki Chammen",
+     "name_ja": "長崎ちゃんめん",
+     "description": "Restaurant in Hondori, Kure. Open daily 11:00-22:00.",
+     "source_url": "https://ys-holdings.co.jp/nagasakichanmen/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "City plaza Sugiya",
+     "name_en": "City plaza Sugiya",
+     "description": "Restaurant in Chuo, Kure. Open daily 11:00-17:00.",
+     "source_url": "https://cp-sugiya.com/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Kure",
+     "name_en": "Restaurant in Kure",
+     "name_ja": "トッキー",
+     "description": "Restaurant in Kure.",
+     "source_url": "https://okonomiyaki-restaurant-1002.business.site/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Watashibune",
+     "name_en": "Watashibune",
+     "name_ja": "渡し船",
+     "description": "Restaurant in Kure.",
+     "source_url": "http://popolo-kure.co.jp/shopguide/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Setomi",
      "name_en": "Setomi",
      "name_ja": "せとみ",
@@ -9082,6 +11172,86 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Japanese restaurant in Kure",
+     "name_en": "Japanese restaurant in Kure",
+     "name_ja": "海軍さんの料亭五月荘",
+     "description": "Japanese restaurant in Hondori, Kure.",
+     "source_url": "https://www.satsuki-so.com/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kure Haikara Shokudo",
+     "name_en": "Kure Haikara Shokudo",
+     "name_ja": "呉ハイカラ食堂",
+     "description": "Japanese restaurant in Kure.",
+     "source_url": "https://kurefine.com/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Tokubyoe",
+     "name_en": "Tokubyoe",
+     "name_ja": "徳兵衛",
+     "description": "Regional Japanese restaurant in Kure.",
+     "source_url": "https://tokubei-kure.com/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Cold Noodle Restaurant",
+     "name_en": "Cold Noodle Restaurant",
+     "name_ja": "食育 オカダ",
+     "description": "Japanese restaurant in Kure.",
+     "source_url": "https://www.openstreetmap.org/way/608603138",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Izakaya Restaurant",
+     "name_en": "Izakaya Restaurant",
+     "name_ja": "絆",
+     "description": "Japanese restaurant in Kure.",
+     "source_url": "https://www.openstreetmap.org/way/608920196",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kagetsu",
+     "name_en": "Kagetsu",
+     "name_ja": "花月",
+     "description": "Japanese restaurant in Hondori, Kure. Open daily 11:30-14:00, 17:00-21:30.",
+     "source_url": "https://www.openstreetmap.org/node/9688894079",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Nagomi-Tei & Gallery",
+     "name_en": "Nagomi-Tei & Gallery",
+     "description": "Japanese restaurant in Kure.",
+     "source_url": "https://www.openstreetmap.org/node/3507847205",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Nakau",
+     "name_en": "Nakau",
+     "name_ja": "なか卯 呉広店",
+     "description": "Japanese restaurant in Kure.",
+     "source_url": "https://www.openstreetmap.org/way/608488374",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Takoyaki Daihachi",
+     "name_en": "Takoyaki Daihachi",
+     "name_ja": "たこやき大八・広店",
+     "description": "Japanese restaurant in Kure.",
+     "source_url": "https://www.openstreetmap.org/way/608603139",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Shirasu AQUA",
      "name_en": "Shirasu AQUA",
      "name_ja": "しーらすAQUA",
@@ -9096,6 +11266,33 @@
      "name_ja": "漁師料理 かつら亭 蒲刈本店",
      "description": "Seafood restaurant in Kure; dinner ¥2,000–¥2,999.",
      "source_url": "https://tabelog.com/hiroshima/A3404/A340401/34002866/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sasa Bee",
+     "name_en": "Sasa Bee",
+     "name_ja": "笹兵衛",
+     "description": "Sushi restaurant in Nakadori Shitei Me, Kure. Open daily 11:00-21:00.",
+     "source_url": "https://sasabee.co.jp/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Ichi",
+     "name_en": "Sushi Ichi",
+     "name_ja": "鮨一",
+     "description": "Sushi restaurant in Kure. Open daily 17:00-24:00.",
+     "source_url": "http://rengadori.net/info/shopinfo/%E5%AD%A3%E5%91%B3%E3%81%AE%E5%BA%97%E3%80%80%E9%AE%A8%E4%B8%80",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Katsu",
+     "name_en": "Sushi Katsu",
+     "name_ja": "すし活",
+     "description": "Sushi restaurant in Takaramachi, Kure. Open daily 11:00-14:30, 16:30-21:30.",
+     "source_url": "https://www.openstreetmap.org/node/9688938222",
      "page": "https://bokenjapan.com/hiroshima/kure/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -9132,6 +11329,60 @@
      "name_ja": "バターケーキ 合歓",
      "description": "Cake shop in Kure; dinner ¥1,000–¥1,999.",
      "source_url": "https://tabelog.com/hiroshima/A3404/A340401/34011912/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets shop in Kure (#2)",
+     "name_en": "Sweets shop in Kure (#2)",
+     "name_ja": "エーデルワイス洋菓子店",
+     "description": "Sweets shop in Kure.",
+     "source_url": "https://www.ownerchef-sweets.com/hiroshima/edelweiss/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets shop in Kure (#1)",
+     "name_en": "Sweets shop in Kure (#1)",
+     "name_ja": "びっくり堂",
+     "description": "Sweets shop in Kure.",
+     "source_url": "https://rengadori.net/archives/shopinfo/%e3%81%b3%e3%81%a3%e3%81%8f%e3%82%8a%e5%a0%82",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Fukuzumi Furai Cake",
+     "name_en": "Fukuzumi Furai Cake",
+     "name_ja": "福住フライケーキ",
+     "description": "Sweets shop in Nakadori, Kure. Open daily 10:00-19:00.",
+     "source_url": "http://rengadori.net/info/shopinfo/%E7%A6%8F%E4%BD%8F%E3%83%95%E3%83%A9%E3%82%A4%E3%82%B1%E3%83%BC%E3%82%AD",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Konoya",
+     "name_en": "Konoya",
+     "name_ja": "幸野屋",
+     "description": "Sweets shop in Kure.",
+     "source_url": "https://www.atengineer.com/pr/kounoya/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bakery in Kure (#1)",
+     "name_en": "Bakery in Kure (#1)",
+     "name_ja": "メロンパン本店",
+     "description": "Bakery in Kure.",
+     "source_url": "https://kuremelon.com/",
+     "page": "https://bokenjapan.com/hiroshima/kure/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Mitsuya",
+     "name_en": "Mitsuya",
+     "name_ja": "密屋",
+     "description": "Sweets shop in Nakadori Sanchome, Kure. Open Wed-Mon 09:00-18:00.",
+     "source_url": "https://mitsuya-honpo.jp/",
      "page": "https://bokenjapan.com/hiroshima/kure/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -9419,7 +11670,7 @@
     "address": "3-5-1 Minato-machi, Mihara City, Hiroshima 723-8601, Japan",
     "phone": "0848-64-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Mihara City Hall",
@@ -9471,6 +11722,33 @@
      "name_ja": "八天堂cafe",
      "description": "Café in Mihara.",
      "source_url": "https://tabelog.com/hiroshima/A3404/A340303/34031916/",
+     "page": "https://bokenjapan.com/hiroshima/miharashi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Aka Tonbo",
+     "name_en": "Aka Tonbo",
+     "name_ja": "赤とんぼ",
+     "description": "Cafe in Mihara.",
+     "source_url": "https://www.openstreetmap.org/node/6919579686",
+     "page": "https://bokenjapan.com/hiroshima/miharashi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Minatomachi",
+     "name_en": "Cafe Minatomachi",
+     "name_ja": "カフェみなとまち",
+     "description": "Cafe in Mihara.",
+     "source_url": "https://www.openstreetmap.org/node/6926001588",
+     "page": "https://bokenjapan.com/hiroshima/miharashi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Mihara",
+     "name_en": "Cafe in Mihara",
+     "name_ja": "もみの木",
+     "description": "Cafe in Mihara.",
+     "source_url": "https://www.openstreetmap.org/node/6925993686",
      "page": "https://bokenjapan.com/hiroshima/miharashi/eat/cafe/",
      "category": "Cafe"
     },
@@ -9528,6 +11806,15 @@
      "category": "Casual"
     },
     {
+     "name": "Gohanya",
+     "name_en": "Gohanya",
+     "name_ja": "ごはんや",
+     "description": "Fast-food restaurant in Mihara.",
+     "source_url": "https://www.openstreetmap.org/node/9371551436",
+     "page": "https://bokenjapan.com/hiroshima/miharashi/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "FuSHI'nRu",
      "name_en": "FuSHI'nRu",
      "description": "Chinese restaurant in Mihara.",
@@ -9552,6 +11839,15 @@
      "category": "European"
     },
     {
+     "name": "Italian restaurant in Mihara",
+     "name_en": "Italian restaurant in Mihara",
+     "name_ja": "サイゼリヤ",
+     "description": "Italian restaurant in Shiromachi, Mihara. Open daily 10:00-22:00.",
+     "source_url": "https://shop.saizeriya.co.jp/sz_restaurant/spot/detail?code=1256",
+     "page": "https://bokenjapan.com/hiroshima/miharashi/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Murakabi",
      "name_en": "Murakabi",
      "name_ja": "むらか美",
@@ -9561,11 +11857,65 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Beecho",
+     "name_en": "Beecho",
+     "name_ja": "べえちょう",
+     "description": "Pub in Mihara.",
+     "source_url": "https://www.openstreetmap.org/node/10240161963",
+     "page": "https://bokenjapan.com/hiroshima/miharashi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Hajime",
+     "name_en": "Hajime",
+     "name_ja": "はじめ",
+     "description": "Pub in Mihara.",
+     "source_url": "https://www.openstreetmap.org/node/10240184115",
+     "page": "https://bokenjapan.com/hiroshima/miharashi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Tachi Nomi hiro-chan",
+     "name_en": "Tachi Nomi hiro-chan",
+     "name_ja": "立ち呑み hiro-chan",
+     "description": "Izakaya pub in Mihara.",
+     "source_url": "https://www.openstreetmap.org/node/10240161964",
+     "page": "https://bokenjapan.com/hiroshima/miharashi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Teki",
+     "name_en": "Teki",
+     "name_ja": "狄",
+     "description": "Bar in Mihara.",
+     "source_url": "https://www.openstreetmap.org/node/6919569385",
+     "page": "https://bokenjapan.com/hiroshima/miharashi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Ishi-tei",
      "name_en": "Ishi-tei",
      "name_ja": "石亭",
      "description": "Teppanyaki restaurant in Mihara; dinner ¥2,000–¥2,999.",
      "source_url": "https://tabelog.com/hiroshima/A3404/A340303/34000448/",
+     "page": "https://bokenjapan.com/hiroshima/miharashi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Kentucky Fried Chicken",
+     "name_en": "Kentucky Fried Chicken",
+     "name_ja": "ケンタッキーフライドチキン",
+     "description": "Chicken restaurant in Mihara. Open daily 10:00-21:00.",
+     "source_url": "https://www.kfc.co.jp/",
+     "page": "https://bokenjapan.com/hiroshima/miharashi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Daikichi",
+     "name_en": "Daikichi",
+     "name_ja": "大吉",
+     "description": "Chicken pub in Mihara.",
+     "source_url": "https://www.openstreetmap.org/node/6926001587",
      "page": "https://bokenjapan.com/hiroshima/miharashi/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -9642,6 +11992,15 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Yokohama Kakei Ramen Tsuruno Ie",
+     "name_en": "Yokohama Kakei Ramen Tsuruno Ie",
+     "name_ja": "横浜家系ラーメン鶴乃家",
+     "description": "Ramen restaurant in Mihara.",
+     "source_url": "https://www.openstreetmap.org/node/10240161955",
+     "page": "https://bokenjapan.com/hiroshima/miharashi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Sunami Minato Bai",
      "name_en": "Sunami Minato Bai",
      "name_ja": "すなみ港売店",
@@ -9696,6 +12055,59 @@
      "category": "Other"
     },
     {
+     "name": "Hyotan",
+     "name_en": "Hyotan",
+     "name_ja": "ひょうたん",
+     "description": "Restaurant in Mihara.",
+     "source_url": "https://www.openstreetmap.org/node/7834988648",
+     "page": "https://bokenjapan.com/hiroshima/miharashi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kandaya",
+     "name_en": "Kandaya",
+     "name_ja": "神田屋",
+     "description": "Restaurant in Mihara. Open daily 11:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/10240161992",
+     "page": "https://bokenjapan.com/hiroshima/miharashi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kura",
+     "name_en": "Kura",
+     "name_ja": "蔵",
+     "description": "Restaurant in Mihara.",
+     "source_url": "https://www.openstreetmap.org/node/7765235385",
+     "page": "https://bokenjapan.com/hiroshima/miharashi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Miyama",
+     "name_en": "Miyama",
+     "name_ja": "深山",
+     "description": "Restaurant in Mihara.",
+     "source_url": "https://www.openstreetmap.org/node/10240161965",
+     "page": "https://bokenjapan.com/hiroshima/miharashi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Taiho",
+     "name_en": "Taiho",
+     "name_ja": "大鵬",
+     "description": "Restaurant in Mihara.",
+     "source_url": "https://www.openstreetmap.org/node/10240161999",
+     "page": "https://bokenjapan.com/hiroshima/miharashi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Teppan Diner6",
+     "name_en": "Teppan Diner6",
+     "description": "Restaurant in Mihara.",
+     "source_url": "https://www.openstreetmap.org/node/6919569485",
+     "page": "https://bokenjapan.com/hiroshima/miharashi/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Shiro Machi Fuji Moto",
      "name_en": "Shiro Machi Fuji Moto",
      "name_ja": "城町 藤もと",
@@ -9710,6 +12122,33 @@
      "name_ja": "ひょこめ",
      "description": "Japanese restaurant in Mihara; dinner ¥5,000–¥5,999.",
      "source_url": "https://tabelog.com/hiroshima/A3404/A340303/34008422/",
+     "page": "https://bokenjapan.com/hiroshima/miharashi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Mihara",
+     "name_en": "Japanese restaurant in Mihara",
+     "name_ja": "お好み焼き てっちゃん",
+     "description": "Japanese restaurant in Mihara.",
+     "source_url": "https://www.openstreetmap.org/node/6919403085",
+     "page": "https://bokenjapan.com/hiroshima/miharashi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Suzushiro",
+     "name_en": "Suzushiro",
+     "name_ja": "すずしろ",
+     "description": "Japanese restaurant in Mihara.",
+     "source_url": "https://www.openstreetmap.org/node/10240161956",
+     "page": "https://bokenjapan.com/hiroshima/miharashi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Toki Sho",
+     "name_en": "Toki Sho",
+     "name_ja": "登喜将",
+     "description": "Japanese restaurant in Mihara.",
+     "source_url": "https://www.openstreetmap.org/node/12088174770",
      "page": "https://bokenjapan.com/hiroshima/miharashi/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -9791,6 +12230,15 @@
      "name_ja": "ムカイ製パン",
      "description": "Bakery in Mihara.",
      "source_url": "https://tabelog.com/hiroshima/A3404/A340303/34024131/",
+     "page": "https://bokenjapan.com/hiroshima/miharashi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bakery in Mihara",
+     "name_en": "Bakery in Mihara",
+     "name_ja": "サンエトワール",
+     "description": "Bakery in Mihara.",
+     "source_url": "https://www.openstreetmap.org/node/6919735986",
      "page": "https://bokenjapan.com/hiroshima/miharashi/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -10373,7 +12821,7 @@
      "page": "https://bokenjapan.com/hiroshima/miyoshishi/see/"
     },
     {
-     "name": "Hiroshima Miyoshi Wainarii",
+     "name": "Hiroshima Miyoshi Winery",
      "source_url": "https://www.miyoshi-dmo.jp/",
      "page": "https://bokenjapan.com/hiroshima/miyoshishi/see/"
     },
@@ -10449,7 +12897,7 @@
     "address": "1-15-1 Kubo, Onomichi City, Hiroshima 722-8501, Japan",
     "phone": "0848-38-9111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Onomichi City Hall",
@@ -10496,6 +12944,126 @@
      "category": "Cafe"
     },
     {
+     "name": "Café in Onomichi",
+     "name_en": "Café in Onomichi",
+     "name_ja": "レストラン尾道レスポワールドゥカフェ",
+     "description": "Cafe in Nishi Gose Machi, Onomichi.",
+     "source_url": "https://www.s1group.jp/onomichilespoir.html",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Overview Coffee",
+     "name_en": "Overview Coffee",
+     "description": "Cafe in Onomichi.",
+     "source_url": "https://overviewcoffee.jp/pages/location_setoda",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Soil Minatoya",
+     "name_en": "Soil Minatoya",
+     "description": "Cafe in Onomichi.",
+     "source_url": "https://soilis.co/en/locations-en/setoda-en/",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Zenwa Iori",
+     "name_en": "Zenwa Iori",
+     "name_ja": "禅和庵",
+     "description": "Cafe in Onomichi. Closed Mon-Tue; Wed-Sun 11:00-16:00, 18:00-21:00.",
+     "source_url": "https://zenna-an.crayonsite.net/",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Onomichi",
+     "name_en": "Cafe in Onomichi",
+     "name_ja": "ボ レモネード",
+     "description": "Cafe in Onomichi. Closed Mon-Tue; Wed-Fri 11:00-15:00; Sat-Sun 11:00-17:30.",
+     "source_url": "https://www.openstreetmap.org/node/13407030062",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Chai Salon Dragon",
+     "name_en": "Chai Salon Dragon",
+     "name_ja": "チャイサロン ドラゴン",
+     "description": "Cafe in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/5271593509",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Common",
+     "name_en": "Common",
+     "description": "Cafe in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/4254019466",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Coyote",
+     "name_en": "Coyote",
+     "description": "Cafe in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/6206987972",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "HAKKO Gate",
+     "name_en": "HAKKO Gate",
+     "description": "Cafe in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/13143762901",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Burger cafe in Onomichi",
+     "name_en": "Burger cafe in Onomichi",
+     "name_ja": "ジョンバーガー",
+     "description": "Burger cafe in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/5169212274",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kujaku-so",
+     "name_en": "Kujaku-so",
+     "name_ja": "孔雀荘",
+     "description": "Cafe in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/5164320325",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Owlhouse",
+     "name_en": "Owlhouse",
+     "name_ja": "梟の館",
+     "description": "Tea cafe in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/13406981678",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Sakajam",
+     "name_en": "Sakajam",
+     "name_ja": "サカジャムベース",
+     "description": "Cafe in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/5271609362",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "shima-SA",
+     "name_en": "shima-SA",
+     "description": "Cafe in Koshima Machi, Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/6191240049",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Okonomiyaki Murakami",
      "name_en": "Okonomiyaki Murakami",
      "name_ja": "お好み焼 村上",
@@ -10503,6 +13071,75 @@
      "source_url": "https://tabelog.com/hiroshima/A3406/A340302/34002148/",
      "page": "https://bokenjapan.com/hiroshima/onomichi/eat/casual/",
      "category": "Casual"
+    },
+    {
+     "name": "Ｐａｃｕ―Ｐａｃｕ",
+     "name_en": "Pacu―Pacu",
+     "description": "Fast-food restaurant in Onomichi.",
+     "source_url": "http://www.urban.ne.jp/home/orchids/",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Poplemon",
+     "name_en": "Poplemon",
+     "description": "Fast-food restaurant in Onomichi. Open daily 11:00-16:30.",
+     "source_url": "https://www.openstreetmap.org/node/13694599292",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Chinese restaurant in Onomichi",
+     "name_en": "Chinese restaurant in Onomichi",
+     "name_ja": "一楽のちまき",
+     "description": "Chinese restaurant in Onomichi.",
+     "source_url": "https://chimaki.jcom.to/",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Banrai Ken",
+     "name_en": "Banrai Ken",
+     "name_ja": "万来軒",
+     "description": "Chinese restaurant in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/3207082695",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Songoku",
+     "name_en": "Songoku",
+     "name_ja": "孫悟空",
+     "description": "Chinese restaurant in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/3996689393",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Thai restaurant in Onomichi",
+     "name_en": "Thai restaurant in Onomichi",
+     "name_ja": "タンタワン",
+     "description": "Thai restaurant in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/3130901809",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Tohoki",
+     "name_en": "Tohoki",
+     "description": "Chinese restaurant in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/4254019987",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Curry Rurryon",
+     "name_en": "Curry Rurryon",
+     "name_ja": "ルリヲン",
+     "description": "Indian restaurant in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/way/334449196",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/curry/",
+     "category": "Curry"
     },
     {
      "name": "Blanchemin",
@@ -10513,11 +13150,63 @@
      "category": "European"
     },
     {
+     "name": "Porta di Mare",
+     "name_en": "Porta di Mare",
+     "description": "Italian restaurant in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/9024975598",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Italian restaurant in Onomichi",
+     "name_en": "Italian restaurant in Onomichi",
+     "name_ja": "トレ・バンビーニ",
+     "description": "Italian restaurant in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/3397966065",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "TRANQUILLO PIZZA",
+     "name_en": "TRANQUILLO PIZZA",
+     "description": "Pizza restaurant in Onomichi. Open Mon, Thu-Sun 11:30-14:00, 17:30-21:00; closed Tue-Wed.",
+     "source_url": "https://www.openstreetmap.org/node/12569762683",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Onomichi Yakitori Nikugoro",
+     "name_en": "Onomichi Yakitori Nikugoro",
+     "name_ja": "肉吾郎",
+     "description": "Japanese bar in Onomichi.",
+     "source_url": "https://nikugoro.boo.jp",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Ushi Chan Onomichi",
      "name_en": "Ushi Chan Onomichi",
      "name_ja": "牛ちゃん 尾道店",
      "description": "Yakiniku (grilled meat) restaurant in Onomichi; dinner ¥3,000–¥3,999.",
      "source_url": "https://tabelog.com/hiroshima/A3406/A340302/34000710/",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "KFC",
+     "name_en": "KFC",
+     "name_ja": "ケンタッキーフライドチキン",
+     "description": "Chicken restaurant in Kurihara Machi, Onomichi. Open daily 10:00-22:00.",
+     "source_url": "https://www.kfc.co.jp/",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Onomichi Niku Teppan Emibi",
+     "name_en": "Onomichi Niku Teppan Emibi",
+     "name_ja": "尾道肉鉄板笑みび",
+     "description": "Teppanyaki restaurant in Onomichi. Open Wed-Sun 17:30-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/9722588717",
      "page": "https://bokenjapan.com/hiroshima/onomichi/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -10648,6 +13337,69 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Onomichi Ramen Eijun",
+     "name_en": "Onomichi Ramen Eijun",
+     "name_ja": "尾道ラーメン 永潤 本店（中華そば）",
+     "description": "Ramen restaurant in Onomichi. Open daily 11:00-19:00.",
+     "source_url": "https://eijun-onomichi.com/",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Onomichi Ramen Specialty Shop Maru Boshi",
+     "name_en": "Onomichi Ramen Specialty Shop Maru Boshi",
+     "name_ja": "尾道ラーメン専門店 丸ぼし",
+     "description": "Ramen restaurant in Tsuchido, Onomichi. Open Wed-Mon 10:30-20:10.",
+     "source_url": "http://onomichiramen-maruboshi.jp/",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Monshita Hanten Higashinaka Hanaso",
+     "name_en": "Monshita Hanten Higashinaka Hanaso",
+     "name_ja": "悶舌飯店 東中華惣",
+     "description": "Noodle restaurant in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/6189863135",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Onomichi Ramen Ajimen",
+     "name_en": "Onomichi Ramen Ajimen",
+     "name_ja": "尾道ラーメン 味麺",
+     "description": "Noodle restaurant in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/5169178349",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Onomichi Ramen Tani",
+     "name_en": "Onomichi Ramen Tani",
+     "name_ja": "尾道ラーメン たに",
+     "description": "Ramen restaurant in Onomichi. Open Mon-Wed, Fri-Sun, public holidays 11:00-21:00; closed Thu.",
+     "source_url": "https://www.openstreetmap.org/node/5169192224",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Noodle restaurant in Onomichi",
+     "name_en": "Noodle restaurant in Onomichi",
+     "name_ja": "ラーメン シゲ",
+     "description": "Noodle restaurant in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/6189863136",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Senkotei",
+     "name_en": "Senkotei",
+     "name_ja": "千光亭",
+     "description": "Ramen restaurant in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/13406989359",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Hassaku-ya",
      "name_en": "Hassaku-ya",
      "name_ja": "はっさく屋",
@@ -10670,6 +13422,50 @@
      "name_en": "The Restaurant",
      "description": "Restaurant in Onomichi; dinner ¥4,000–¥4,999.",
      "source_url": "https://tabelog.com/hiroshima/A3406/A340302/34019254/",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Onomichi",
+     "name_en": "Restaurant in Onomichi",
+     "name_ja": "野の葡萄",
+     "description": "Restaurant in Onomichi. Open Mon-Fri 11:00-15:00; Sat-Sun, public holidays 11:00-16:00.",
+     "source_url": "https://crossroad-mitsugi.com/restaurant/",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "SEABRIDGE",
+     "name_en": "SEABRIDGE",
+     "name_ja": "渚の交番",
+     "description": "Restaurant in Onomichi.",
+     "source_url": "https://sea-bridge.jp/",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Taquiera Jardin",
+     "name_en": "Taquiera Jardin",
+     "description": "Restaurant in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/4254019988",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "TEN-SAKU",
+     "name_en": "TEN-SAKU",
+     "name_ja": "天咲",
+     "description": "Restaurant in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/6203045306",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Tenten",
+     "name_en": "Tenten",
+     "name_ja": "てんてん",
+     "description": "Restaurant in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/5164319019",
      "page": "https://bokenjapan.com/hiroshima/onomichi/eat/other/",
      "category": "Other"
     },
@@ -10737,6 +13533,122 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Okonomiyaki Chiichan",
+     "name_en": "Okonomiyaki Chiichan",
+     "name_ja": "お好み焼き ちーちゃん",
+     "description": "Japanese restaurant in Sangenya Machi, Onomichi. Open Fri-Tue 16:30-22:00.",
+     "source_url": "https://okonomiyaki-chiichan.com/",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Okonomiyaki Kagimasa",
+     "name_en": "Okonomiyaki Kagimasa",
+     "name_ja": "お好み焼き かぎまさ",
+     "description": "Japanese restaurant in Kubo Nichome, Onomichi. Open Wed-Sat 11:00-14:00, 18:00-21:00; Sun 11:00-14:00.",
+     "source_url": "https://www.kagimasa.com",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Onomichi Okonomiyaki Poppoya",
+     "name_en": "Onomichi Okonomiyaki Poppoya",
+     "name_ja": "尾道 お好み焼き ぽっぽ家",
+     "description": "Japanese restaurant in Tsuchido, Onomichi. Open Thu-Mon 11:30-15:00, 17:00-22:00.",
+     "source_url": "https://onomichipoppoya.com/",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Sen",
+     "name_en": "Sen",
+     "name_ja": "千",
+     "description": "Japanese restaurant in Kubo, Onomichi. Closed Mon, Tue; Wed, Thu, Fri, Sat, Sun 11:30-14:00, 18:00-23:00.",
+     "source_url": "https://teppan1000.webnode.jp/",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Aji Sai",
+     "name_en": "Aji Sai",
+     "name_ja": "味さい",
+     "description": "Japanese restaurant in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/6191275118",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Azuma Shokudo",
+     "name_en": "Azuma Shokudo",
+     "name_ja": "あずま食堂",
+     "description": "Japanese restaurant in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/way/448813111",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "CoCoICHI",
+     "name_en": "CoCoICHI",
+     "description": "Japanese restaurant in Onomichi. Open daily 10:30-22:30.",
+     "source_url": "https://www.openstreetmap.org/node/12374712279",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Hokkyoku",
+     "name_en": "Hokkyoku",
+     "name_ja": "北極",
+     "description": "Japanese restaurant in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/3207073021",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Jiguzagu",
+     "name_en": "Jiguzagu",
+     "name_ja": "じぐざぐ",
+     "description": "Regional Japanese restaurant in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/5169212279",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kofuku",
+     "name_en": "Kofuku",
+     "name_ja": "粉福",
+     "description": "Japanese restaurant in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/11936953571",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Michi Kusa",
+     "name_en": "Michi Kusa",
+     "name_ja": "みち草",
+     "description": "Japanese restaurant in Onomichi. Open Mon-Wed, Fri-Sun 12:00-14:00, 17:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/5172206823",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Okonomiyaki Teppanyaki Mari",
+     "name_en": "Okonomiyaki Teppanyaki Mari",
+     "name_ja": "お好み焼き 鉄板焼き まり",
+     "description": "Japanese restaurant in Niihama, Onomichi. Open Tue-Sun 11:30-14:00, 17:00-20:00.",
+     "source_url": "https://www.openstreetmap.org/node/6925992585",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Umiyama",
+     "name_en": "Umiyama",
+     "name_ja": "海山",
+     "description": "Japanese restaurant in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/3207073022",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Sushi Yakushido",
      "name_en": "Sushi Yakushido",
      "name_ja": "鮨 やくしどう",
@@ -10760,6 +13672,42 @@
      "name_ja": "鮨と魚料理 保広",
      "description": "Sushi bar in Onomichi; dinner ¥10,000–¥14,999.",
      "source_url": "https://tabelog.com/hiroshima/A3406/A340302/34007829/",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Naniwa Sushi",
+     "name_en": "Naniwa Sushi",
+     "name_ja": "なにわ寿司",
+     "description": "Sushi restaurant in Kubo Nichome, Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/5843410512",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Maru",
+     "name_en": "Sushi Maru",
+     "name_ja": "すし丸",
+     "description": "Sushi restaurant in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/3207072781",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Restaurant",
+     "name_en": "Sushi Restaurant",
+     "name_ja": "保広",
+     "description": "Sushi restaurant in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/4820142631",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Yasumoto",
+     "name_en": "Yasumoto",
+     "name_ja": "やすもと",
+     "description": "Fish restaurant in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/5169178345",
      "page": "https://bokenjapan.com/hiroshima/onomichi/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -10814,6 +13762,42 @@
      "name_ja": "島ごころ SETODA",
      "description": "Cake shop in Onomichi.",
      "source_url": "https://tabelog.com/hiroshima/A3406/A340603/34021786/",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Dolce",
+     "name_en": "Dolce",
+     "name_ja": "ジェラート専門店ドルチェ",
+     "description": "Sweets ice cream shop in Onomichi.",
+     "source_url": "https://www.openstreetmap.org/node/3710276019",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Little Mermaid",
+     "name_en": "Little Mermaid",
+     "name_ja": "リトルマーメイド",
+     "description": "Bakery in Onomichi. Open daily 07:30-19:00.",
+     "source_url": "https://www.openstreetmap.org/way/532734310",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bakery in Onomichi (#1)",
+     "name_en": "Bakery in Onomichi (#1)",
+     "name_ja": "ネコノテパン工場",
+     "description": "Bakery in Onomichi. Open Thu-Mon 10:00-16:00.",
+     "source_url": "https://www.openstreetmap.org/node/3128664810",
+     "page": "https://bokenjapan.com/hiroshima/onomichi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Pan_no_naruki",
+     "name_en": "Pan_no_naruki",
+     "name_ja": "パンのなる木",
+     "description": "Bakery in Higashi Gose Machi, Onomichi. Open daily 07:00-19:00; closed Tue, Wed.",
+     "source_url": "https://www.openstreetmap.org/node/3139421390",
      "page": "https://bokenjapan.com/hiroshima/onomichi/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -12580,7 +15564,7 @@
     "address": "123-1 Nishiuehara, Sera Town, Sera District, Hiroshima 722-1192, Japan",
     "phone": "0847-22-1111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Sera Town Hall",
@@ -12934,7 +15918,7 @@
    ],
    "sights": [
     {
-     "name": "Sera Wainarii",
+     "name": "Sera Winery",
      "source_url": "https://seranan.jp/",
      "page": "https://bokenjapan.com/hiroshima/sera/see/"
     },

@@ -22,11 +22,11 @@
     "lat": 33.2846373,
     "lon": 131.4913461
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
-     "name": "Convenience store or supermarket in Beppu (#61)",
-     "name_en": "Convenience store or supermarket in Beppu (#61)",
+     "name": "Marumiyasutoa Beppu Eki Branch",
+     "name_en": "Marumiyasutoa Beppu Eki Branch",
      "name_ja": "マルミヤストア 別府駅店",
      "description": "Convenience store or supermarket.",
      "source_url": "https://tabelog.com/oita/A4402/A440202/44013320/",
@@ -41,8 +41,8 @@
      "page": "https://bokenjapan.com/oita/beppu/day-to-day/"
     },
     {
-     "name": "Convenience store or supermarket in Beppu (#63)",
-     "name_en": "Convenience store or supermarket in Beppu (#63)",
+     "name": "Marushoku Yamanami Branch",
+     "name_en": "Marushoku Yamanami Branch",
      "name_ja": "マルショク やまなみ店",
      "description": "Convenience store or supermarket.",
      "source_url": "https://tabelog.com/oita/A4402/A440202/44009962/",
@@ -254,6 +254,31 @@
      "category": "Cafe"
     },
     {
+     "name": "Ranzu Cafe Beppu",
+     "name_en": "Ranzu Cafe Beppu",
+     "name_ja": "ランズ珈琲 別府店",
+     "description": "Cafe in Beppu.",
+     "source_url": "https://ranzucafe.jp/",
+     "page": "https://bokenjapan.com/oita/beppu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Space Beppu",
+     "name_en": "Space Beppu",
+     "description": "Cafe in Beppu. Open Mon-Tue, Wed-Fri, Sun 10:00-17:00; Sat 10:00-20:00.",
+     "source_url": "https://space-beppu.jp/",
+     "page": "https://bokenjapan.com/oita/beppu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Spice Cafe Cuhponosu",
+     "name_en": "Spice Cafe Cuhponosu",
+     "description": "Cafe in Beppu. Open Mon-Wed, Fri-Sun 11:00-15:00; closed Thu.",
+     "source_url": "https://www.cuhponosu.com/",
+     "page": "https://bokenjapan.com/oita/beppu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Beppu Bold Kitchen",
      "name_en": "Beppu Bold Kitchen",
      "description": "Buffet restaurant, 4-minute walk from Beppu Station; dinner ¥4,000–4,999.",
@@ -286,6 +311,31 @@
      "source_url": "https://tabelog.com/oita/A4402/A440202/44004088/",
      "page": "https://bokenjapan.com/oita/beppu/eat/chinese-asian/",
      "category": "Chinese & Asian"
+    },
+    {
+     "name": "Rokusei",
+     "name_en": "Rokusei Cold Noodle Main Branch",
+     "description": "Korean restaurant in Matsubara Machi, Beppu. Open Mon-Tue, Thu-Sat 11:30-13:45, 18:00-19:45; Sun 11:30-13:45, 18:00-19:45; closed Wed.",
+     "source_url": "https://www.6-sei.com/",
+     "page": "https://bokenjapan.com/oita/beppu/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Korean restaurant in Kitahama, Beppu",
+     "name_en": "Korean restaurant in Kitahama, Beppu",
+     "name_ja": "サムギョプサル食べ放題 うさぎととら",
+     "description": "Korean restaurant in Kitahama, Beppu. Open Tue-Sun 17:00-23:30.",
+     "source_url": "https://usagitotora.ut-corporation.com/samgyupsal",
+     "page": "https://bokenjapan.com/oita/beppu/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Norary-Crary",
+     "name_en": "Norary-Crary",
+     "description": "Indian restaurant in Motomachi, Beppu. Open daily 12:00-16:00.",
+     "source_url": "https://norary-crary.com/",
+     "page": "https://bokenjapan.com/oita/beppu/eat/curry/",
+     "category": "Curry"
     },
     {
      "name": "TABOS",
@@ -465,6 +515,85 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Art Deco",
+     "name_en": "Art Deco",
+     "name_ja": "アールデコ",
+     "description": "Japanese bar in Beppu. Open daily 19:00-24:00.",
+     "source_url": "https://art-deco1993.com/",
+     "page": "https://bokenjapan.com/oita/beppu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "BAR Viva Beppu",
+     "name_en": "BAR Viva Beppu",
+     "description": "Bar in Beppu. Open Tue-Sun 19:00-03:00; closed Mon.",
+     "source_url": "https://nanafuku-honten.com/bar_viva_beeps.html",
+     "page": "https://bokenjapan.com/oita/beppu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Beppu Gyoza Obono",
+     "name_en": "Beppu Gyoza Obono",
+     "name_ja": "別府餃子 おぼの",
+     "description": "Izakaya restaurant in Beppu.",
+     "source_url": "https://gyozaobono.owst.jp/",
+     "page": "https://bokenjapan.com/oita/beppu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Beppu Rooftop Beer Garden Gloria",
+     "name_en": "Beppu Rooftop Beer Garden Gloria",
+     "name_ja": "別府屋上ビアガーデン グロリア",
+     "description": "Izakaya restaurant in Motomachi, Beppu. Open Mon-Sat 17:30-22:00; Sun 17:30-20:30.",
+     "source_url": "https://beppu-beer.com/",
+     "page": "https://bokenjapan.com/oita/beppu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya restaurant in Kitahama, Beppu (#1)",
+     "name_en": "Izakaya restaurant in Kitahama, Beppu (#1)",
+     "name_ja": "一風舎",
+     "description": "Izakaya restaurant in Kitahama, Beppu. Open Tue-Sun 16:00-24:00; closed Mon.",
+     "source_url": "https://akr1786343581.owst.jp/",
+     "page": "https://bokenjapan.com/oita/beppu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya restaurant in Kitahama, Beppu (#2)",
+     "name_en": "Izakaya restaurant in Kitahama, Beppu (#2)",
+     "name_ja": "居酒屋きんたろう",
+     "description": "Izakaya restaurant in Kitahama, Beppu. Open Tue-Sun 18:00-24:00.",
+     "source_url": "https://beppu-izakayakintarou.owst.jp/",
+     "page": "https://bokenjapan.com/oita/beppu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Jiny House",
+     "name_en": "Jiny House Irish Pub",
+     "description": "Pub in Kitahama, Beppu. Open Tue-Sun 18:00-24:00.",
+     "source_url": "https://jiny-house.com/",
+     "page": "https://bokenjapan.com/oita/beppu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yataizushi Beppu",
+     "name_en": "Yataizushi Beppu",
+     "name_ja": "や台ずし 別府駅前町",
+     "description": "Izakaya restaurant in Beppu. Open daily 16:00-01:00.",
+     "source_url": "https://yossix-shop.com/detail/4098/",
+     "page": "https://bokenjapan.com/oita/beppu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yumesoko",
+     "name_en": "Yumesoko",
+     "name_ja": "夢倉庫",
+     "description": "Izakaya restaurant in Kitahama, Beppu. Open Mon, Wed-Sun 18:00-02:30; closed Tue.",
+     "source_url": "https://yumesouko.owst.jp/",
+     "page": "https://bokenjapan.com/oita/beppu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Yakiniku Bon",
      "name_en": "Yakiniku Bon",
      "name_ja": "焼き肉 凡",
@@ -608,11 +737,46 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Omatsuri Ichibankan Oita Beppu Branch",
+     "name_en": "Omatsuri Ichibankan Oita Beppu Branch",
+     "name_ja": "お祭り一番館 大分別府店",
+     "description": "Yakiniku restaurant in Hamacho, Beppu. Open daily 11:30-22:30.",
+     "source_url": "https://www.az-hotel.com/ichibankan/",
+     "page": "https://bokenjapan.com/oita/beppu/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Uta no Main Branch",
      "name_en": "Uta no Main Branch",
      "name_ja": "うた乃 総本店",
      "description": "Champon noodle restaurant, 15-minute walk from Beppu Daigaku Station; dinner ¥2,000–2,999.",
      "source_url": "https://tabelog.com/oita/A4402/A440202/44012571/",
+     "page": "https://bokenjapan.com/oita/beppu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kurume Taiho Ramen Beppu Kaigandori Branch",
+     "name_en": "Kurume Taiho Ramen Beppu Kaigandori Branch",
+     "name_ja": "久留米大砲ラーメン別府海岸通り店",
+     "description": "Ramen restaurant in Hamacho, Beppu. Open Mon-Wed, Fri-Sun 11:00-22:00; closed Thu.",
+     "source_url": "https://www.taiho.net/",
+     "page": "https://bokenjapan.com/oita/beppu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Taidashi Taikoku",
+     "name_en": "Taidashi Taikoku",
+     "description": "Ramen restaurant in Beppu. Open Mon-Tue, Thu-Sun 11:00-17:00.",
+     "source_url": "https://taidashi-taikoku.com/",
+     "page": "https://bokenjapan.com/oita/beppu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tantanmen Kumahachitei",
+     "name_en": "Tantanmen Kumahachitei",
+     "name_ja": "担々麺 熊八亭",
+     "description": "Ramen restaurant in Chuocho, Beppu. Open daily 11:30-14:00, 18:30-22:00.",
+     "source_url": "https://kamenoi-hotels.com/beppu/restaurant/tantanmen/",
      "page": "https://bokenjapan.com/oita/beppu/eat/noodles/",
      "category": "Japanese (noodles)"
     },
@@ -658,6 +822,24 @@
      "name_ja": "ホテルシーウェーブ",
      "description": "Food spot, 77 m from Beppu Station.",
      "source_url": "https://tabelog.com/oita/A4402/A440202/44007214/",
+     "page": "https://bokenjapan.com/oita/beppu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "L'amant de aile",
+     "name_en": "L'amant de aile",
+     "name_ja": "ラマンデール",
+     "description": "Restaurant in Beppu.",
+     "source_url": "https://www.hotel-aile.jp/restaurant/",
+     "page": "https://bokenjapan.com/oita/beppu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Niji no Yume",
+     "name_en": "Niji no Yume",
+     "name_ja": "虹の夢",
+     "description": "Restaurant in Beppu. Open daily 11:00-23:00.",
+     "source_url": "https://nijinoyume7.wixsite.com/-site-3",
      "page": "https://bokenjapan.com/oita/beppu/eat/other/",
      "category": "Other"
     },
@@ -751,6 +933,51 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Takoyaki restaurant in Beppu",
+     "name_en": "Takoyaki restaurant in Beppu",
+     "name_ja": "ごっち",
+     "description": "Takoyaki restaurant in Beppu. Open Tue-Sun 18:00-22:00; closed Mon.",
+     "source_url": "https://www.lets-begin.info/beppu/gotti/",
+     "page": "https://bokenjapan.com/oita/beppu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Robata Jin Takegawara Yokocho Branch",
+     "name_en": "Robata Jin Takegawara Yokocho Branch",
+     "name_ja": "ろばた仁竹瓦横丁店",
+     "description": "Japanese restaurant in Kitahama, Beppu. Open Mon-Sat 17:00-23:00.",
+     "source_url": "https://robata-jin.com/",
+     "page": "https://bokenjapan.com/oita/beppu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Suiten Beppu Yamanoteten",
+     "name_en": "Suiten Beppu Yamanoteten",
+     "name_ja": "水天・別府 山の手店",
+     "description": "Japanese restaurant in Beppu. Open Mon-Fri 11:00-14:30, 17:00-21:30; Sat-Sun 11:00-15:00, 17:00-21:30.",
+     "source_url": "https://www.suiten.top/",
+     "page": "https://bokenjapan.com/oita/beppu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Tosaka",
+     "name_en": "Tosaka",
+     "name_ja": "食道楽とさか",
+     "description": "Japanese restaurant in Kitahama, Beppu. Open Tue-Sun 18:00-24:00.",
+     "source_url": "https://tosaka-beppu.com/",
+     "page": "https://bokenjapan.com/oita/beppu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yorimichi",
+     "name_en": "Yorimichi",
+     "name_ja": "お好み焼き より道",
+     "description": "Okonomiyaki restaurant in Akiba Machi, Beppu. Open Mon-Wed, Fri-Sun 18:00-22:00.",
+     "source_url": "https://beppu.asia/spot/2157",
+     "page": "https://bokenjapan.com/oita/beppu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Beppu Onsen Hotel Sansenkaku",
      "name_en": "Beppu Onsen Hotel Sansenkaku",
      "name_ja": "別府温泉 ホテル三泉閣",
@@ -838,6 +1065,24 @@
      "name_en": "Hasshin Zushi",
      "description": "Fine-dining Japanese seafood restaurant.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g298219-d3818298-Reviews-Hasshin_Zushi-Beppu_Oita_Prefecture_Kyushu.html",
+     "page": "https://bokenjapan.com/oita/beppu/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sakanaya Dojo",
+     "name_en": "Sakanaya Dojo",
+     "name_ja": "さかなや道場",
+     "description": "Seafood restaurant in Beppu. Open Sun-Fri 16:00-23:00; Sat 16:00-24:00.",
+     "source_url": "https://sakanayadojo.com/beppu/",
+     "page": "https://bokenjapan.com/oita/beppu/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Shige Sushi",
+     "name_en": "Shige Sushi",
+     "name_ja": "しげ寿司",
+     "description": "Sushi restaurant in Kitahama, Beppu. Open Tue-Sun 18:00-02:00; closed Mon.",
+     "source_url": "https://shigezushi.owst.jp/",
      "page": "https://bokenjapan.com/oita/beppu/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -1393,25 +1638,25 @@
    ]
   },
   {
-   "name": "Bungoono",
+   "name": "Bungo-Ono",
    "slug": "bungoono",
    "prefecture": "oita",
    "url": "https://bokenjapan.com/oita/bungoono/",
    "official": {
     "links": [
      {
-      "label": "Bungoono City Hall",
+      "label": "Bungo-Ono City Hall",
       "url": "https://www.bungo-ohno.jp/"
      }
     ],
-    "address": "Bungoono, Oita 879-7198",
+    "address": "Bungo-Ono, Oita 879-7198",
     "phone": "0974-22-1001"
    },
    "geo": {
     "lat": 32.9776795,
     "lon": 131.5841042
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "7-Eleven Bungo-ono Mie Kosaka",
@@ -1441,13 +1686,13 @@
    "activities": [
     {
      "name": "Roadside Station Harajiri Falls Area",
-     "description": "Local sight in Bungoono, Oita.",
+     "description": "Local sight in Bungo-Ono, Oita.",
      "source_url": "https://www.ogatakanko.com/",
      "page": "https://bokenjapan.com/oita/bungoono/do/"
     },
     {
      "name": "Fujii Jozo FUJII BREWERY",
-     "description": "A brewery in Bungoono, Oita prefecture.",
+     "description": "A brewery in Bungo-Ono, Oita prefecture.",
      "source_url": "https://www.taimei-fujii.co.jp/",
      "page": "https://bokenjapan.com/oita/bungoono/do/"
     },
@@ -1459,7 +1704,7 @@
     },
     {
      "name": "Roadside Station Asaji",
-     "description": "Local sight in Bungoono, Oita.",
+     "description": "Local sight in Bungo-Ono, Oita.",
      "source_url": "https://michinoeki-asaji.com/",
      "page": "https://bokenjapan.com/oita/bungoono/do/"
     },
@@ -1503,8 +1748,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Bento shop in Bungoono",
-     "name_en": "Bento shop in Bungoono",
+     "name": "Bento shop in Bungo-Ono",
+     "name_en": "Bento shop in Bungo-Ono",
      "name_ja": "コウタロー",
      "description": "Bento shop, 361 m from Miemachi Station.",
      "source_url": "https://tabelog.com/oita/A4401/A440103/44013651/",
@@ -1521,8 +1766,8 @@
      "category": "Casual"
     },
     {
-     "name": "Casual restaurant in Bungoono",
-     "name_en": "Casual restaurant in Bungoono",
+     "name": "Casual restaurant in Bungo-Ono",
+     "name_en": "Casual restaurant in Bungo-Ono",
      "name_ja": "kitchen 福来ろう",
      "description": "Diner, 552 m from Miemachi Station.",
      "source_url": "https://tabelog.com/oita/A4401/A440103/44013077/",
@@ -1602,8 +1847,8 @@
      "category": "Casual"
     },
     {
-     "name": "Hottomotto Mie Bypass Branch",
-     "name_en": "Hottomotto Mie Bypass Branch",
+     "name": "Hotto Motto Mie Bypass Branch",
+     "name_en": "Hotto Motto Mie Bypass Branch",
      "name_ja": "ほっともっと 三重バイパス店",
      "description": "Bento shop, 1,056 m from Miemachi Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/oita/A4401/A440103/44008512/",
@@ -1770,8 +2015,8 @@
      "category": "Japanese (meat)"
     },
     {
-     "name": "Fried-chicken (karaage) shop in Bungoono",
-     "name_en": "Fried-chicken (karaage) shop in Bungoono",
+     "name": "Fried-chicken (karaage) shop in Bungo-Ono",
+     "name_en": "Fried-chicken (karaage) shop in Bungo-Ono",
      "name_ja": "からあげ家 ま～ちゃん",
      "description": "Fried-chicken (karaage) shop, 1,856 m from Sugao Station.",
      "source_url": "https://tabelog.com/oita/A4401/A440103/44010852/",
@@ -1993,8 +2238,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Japanese restaurant in Bungoono",
-     "name_en": "Japanese restaurant in Bungoono",
+     "name": "Japanese restaurant in Bungo-Ono",
+     "name_en": "Japanese restaurant in Bungo-Ono",
      "name_ja": "四季彩料理 伊勢家",
      "description": "Japanese restaurant, 2,500 m from Miemachi Station; dinner ¥5,000–5,999.",
      "source_url": "https://tabelog.com/oita/A4401/A440101/44005661/",
@@ -2100,8 +2345,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Sushi restaurant in Bungoono",
-     "name_en": "Sushi restaurant in Bungoono",
+     "name": "Sushi restaurant in Bungo-Ono",
+     "name_en": "Sushi restaurant in Bungo-Ono",
      "name_ja": "けん坊",
      "description": "Sushi restaurant, 1,838 m from Miemachi Station.",
      "source_url": "https://tabelog.com/oita/A4401/A440103/44001813/",
@@ -2215,8 +2460,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Western-style sweets shop in Bungoono",
-     "name_en": "Western-style sweets shop in Bungoono",
+     "name": "Western-style sweets shop in Bungo-Ono",
+     "name_en": "Western-style sweets shop in Bungo-Ono",
      "name_ja": "モロゾフ トキハインダストリーアクロプラザ三重店",
      "description": "Western-style sweets shop, 492 m from Miemachi Station.",
      "source_url": "https://tabelog.com/oita/A4401/A440103/44007307/",
@@ -2249,13 +2494,13 @@
     },
     {
      "name": "Kawakami Gorge",
-     "description": "A gorge in Bungoono, Oita prefecture.",
+     "description": "A gorge in Bungo-Ono, Oita prefecture.",
      "source_url": "https://sato-no-tabi.jp/introduce/%E5%B7%9D%E4%B8%8A%E6%B8%93%E8%B0%B7/",
      "page": "https://bokenjapan.com/oita/bungoono/see/"
     },
     {
      "name": "Komori Falls",
-     "description": "A waterfall in Bungoono, Oita prefecture.",
+     "description": "A waterfall in Bungo-Ono, Oita prefecture.",
      "source_url": "https://sato-no-tabi.jp/news/20250903spot-bungoono/",
      "page": "https://bokenjapan.com/oita/bungoono/see/"
     },
@@ -2291,7 +2536,7 @@
     },
     {
      "name": "Treasure House of Living Things Selected for the Sobo-Katamuki Range UNESCO Eco-Park",
-     "description": "A park in Bungoono, Oita prefecture.",
+     "description": "A park in Bungo-Ono, Oita prefecture.",
      "source_url": "http://www.bungo-ohno.com/",
      "page": "https://bokenjapan.com/oita/bungoono/see/"
     },
@@ -2317,7 +2562,7 @@
     },
     {
      "name": "Harajiri Falls Sobo Gorge Okuzure UNESCO Eco Park Highlights",
-     "description": "A waterfall in Bungoono, Oita prefecture.",
+     "description": "A waterfall in Bungo-Ono, Oita prefecture.",
      "source_url": "https://sato-no-tabi.jp/introduce/%E5%8E%9F%E5%B0%BB%E3%81%AE%E6%BB%9D/",
      "page": "https://bokenjapan.com/oita/bungoono/see/"
     },
@@ -2327,7 +2572,7 @@
      "page": "https://bokenjapan.com/oita/bungoono/see/"
     },
     {
-     "name": "Rojji Kiyokawa",
+     "name": "Lodge Kiyokawa",
      "source_url": "https://lodge-kiyokawa.jp/",
      "page": "https://bokenjapan.com/oita/bungoono/see/"
     },
@@ -2338,7 +2583,7 @@
     },
     {
      "name": "Takeosha",
-     "description": "A park in Bungoono, Oita prefecture.",
+     "description": "A park in Bungo-Ono, Oita prefecture.",
      "source_url": "http://sobokatamuki-br-council.org/",
      "page": "https://bokenjapan.com/oita/bungoono/see/"
     },
@@ -2354,7 +2599,7 @@
     },
     {
      "name": "Hakusan Gorge",
-     "description": "A gorge in Bungoono, Oita prefecture.",
+     "description": "A gorge in Bungo-Ono, Oita prefecture.",
      "source_url": "https://sato-no-tabi.jp/news/20250901spot-mie/",
      "page": "https://bokenjapan.com/oita/bungoono/see/"
     },
@@ -2375,7 +2620,7 @@
     },
     {
      "name": "Chinda Falls",
-     "description": "A waterfall in Bungoono, Oita prefecture.",
+     "description": "A waterfall in Bungo-Ono, Oita prefecture.",
      "source_url": "https://sato-no-tabi.jp/introduce/%E6%B2%88%E5%A0%95%E3%81%AE%E6%BB%9D/",
      "page": "https://bokenjapan.com/oita/bungoono/see/"
     },
@@ -2391,7 +2636,7 @@
     },
     {
      "name": "Eboshi Park",
-     "description": "A park in Bungoono, Oita prefecture.",
+     "description": "A park in Bungo-Ono, Oita prefecture.",
      "source_url": "https://sato-no-tabi.jp/introduce/%E3%81%88%E3%81%BC%E3%81%97%E5%85%AC%E5%9C%92/",
      "page": "https://bokenjapan.com/oita/bungoono/see/"
     },
@@ -2457,7 +2702,7 @@
     },
     {
      "name": "Ta Village Stone Buddhas",
-     "description": "A village in Bungoono, Oita prefecture.",
+     "description": "A village in Bungo-Ono, Oita prefecture.",
      "source_url": "http://sato-no-tabi.jp/",
      "page": "https://bokenjapan.com/oita/bungoono/see/"
     },
@@ -2473,25 +2718,25 @@
     },
     {
      "name": "Yujaku Park",
-     "description": "A park in Bungoono, Oita prefecture.",
+     "description": "A park in Bungo-Ono, Oita prefecture.",
      "source_url": "https://sato-no-tabi.jp/introduce/%E7%94%A8%E4%BD%9C%E5%85%AC%E5%9C%92/",
      "page": "https://bokenjapan.com/oita/bungoono/see/"
     },
     {
-     "name": "Inazumi Hakusan Kawa Kyanpu Village",
-     "description": "A village in Bungoono, Oita prefecture.",
+     "name": "Inazumi Hakusan Kawa Camp Village",
+     "description": "A village in Bungo-Ono, Oita prefecture.",
      "source_url": "https://inazumi.com/camp/",
      "page": "https://bokenjapan.com/oita/bungoono/see/"
     },
     {
      "name": "Asakura Fumio Memorial Museum",
-     "description": "A memorial in Bungoono, Oita prefecture.",
+     "description": "A memorial in Bungo-Ono, Oita prefecture.",
      "source_url": "http://www.bungo-ohno.jp/categories/shisetsu/asakura/",
      "page": "https://bokenjapan.com/oita/bungoono/see/"
     },
     {
-     "name": "Bungoono Museum",
-     "description": "A museum in Bungoono, Oita prefecture.",
+     "name": "Bungo-Ono Museum",
+     "description": "A museum in Bungo-Ono, Oita prefecture.",
      "source_url": "https://www.bungo-ohno.jp/categories/shisetsu/shiryoukan/",
      "page": "https://bokenjapan.com/oita/bungoono/see/"
     },
@@ -2503,7 +2748,7 @@
     },
     {
      "name": "Izumi Suichu Limestone Cave",
-     "description": "A cave in Bungoono, Oita prefecture.",
+     "description": "A cave in Bungo-Ono, Oita prefecture.",
      "source_url": "http://www.inazumi.com/",
      "page": "https://bokenjapan.com/oita/bungoono/see/"
     },
@@ -2514,13 +2759,13 @@
     },
     {
      "name": "Fureai Learning Forest Bungo-ono Museum",
-     "description": "A museum in Bungoono, Oita prefecture.",
+     "description": "A museum in Bungo-Ono, Oita prefecture.",
      "source_url": "https://www.bungo-ohno.jp/categories/shisetsu/shiryoukan/",
      "page": "https://bokenjapan.com/oita/bungoono/see/"
     },
     {
      "name": "Izumi Underwater Limestone Cave",
-     "description": "A cave in Bungoono, Oita prefecture.",
+     "description": "A cave in Bungo-Ono, Oita prefecture.",
      "source_url": "http://www.inazumi.com/",
      "page": "https://bokenjapan.com/oita/bungoono/see/"
     },
@@ -2532,25 +2777,25 @@
     },
     {
      "name": "Riba Park Inukai",
-     "description": "A park in Bungoono, Oita prefecture.",
+     "description": "A park in Bungo-Ono, Oita prefecture.",
      "source_url": "https://rinukai.com/",
      "page": "https://bokenjapan.com/oita/bungoono/see/"
     },
     {
      "name": "Oita Bungo-ono Geopark: Tale of the Reviving Earth",
-     "description": "A park in Bungoono, Oita prefecture.",
+     "description": "A park in Bungo-Ono, Oita prefecture.",
      "source_url": "http://www.bungo-ohno.com/",
      "page": "https://bokenjapan.com/oita/bungoono/see/"
     },
     {
      "name": "Roadside Station Harajiri Falls",
-     "description": "A waterfall in Bungoono, Oita prefecture.",
+     "description": "A waterfall in Bungo-Ono, Oita prefecture.",
      "source_url": "http://www.qsr.mlit.go.jp/n-michi/michi_no_eki/kobetu/harajiri/harajiri.html",
      "page": "https://bokenjapan.com/oita/bungoono/see/"
     },
     {
      "name": "Kagura Hall",
-     "description": "A hall in Bungoono, Oita prefecture.",
+     "description": "A hall in Bungo-Ono, Oita prefecture.",
      "source_url": "https://www.visit-oita.jp/spots/detail/8605",
      "page": "https://bokenjapan.com/oita/bungoono/see/"
     },
@@ -2560,7 +2805,7 @@
      "page": "https://bokenjapan.com/oita/bungoono/see/"
     },
     {
-     "name": "Bungoono Yakusho",
+     "name": "Bungo-Ono Yakusho",
      "source_url": "https://www.bungo-ohno.jp/",
      "page": "https://bokenjapan.com/oita/bungoono/see/"
     }
@@ -2611,7 +2856,7 @@
     "lat": 33.5562851,
     "lon": 131.4470943
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Kaisambutsu Direct Sales Place San Western",
@@ -2949,8 +3194,8 @@
      "category": "Casual"
     },
     {
-     "name": "Hottomotto Bungotakada Branch",
-     "name_en": "Hottomotto Bungotakada Branch",
+     "name": "Hotto Motto Bungotakada Branch",
+     "name_en": "Hotto Motto Bungotakada Branch",
      "name_ja": "ほっともっと 豊後高田店",
      "description": "Bento shop, 3,646 m from Usa Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/oita/A4404/A440402/44008507/",
@@ -4866,7 +5111,7 @@
     "lat": 33.369412,
     "lon": 131.5323875
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Sekiguchi Tourist Farm",
@@ -5261,8 +5506,8 @@
      "category": "Casual"
     },
     {
-     "name": "Hottomotto Oita Hiji Branch",
-     "name_en": "Hottomotto Oita Hiji Branch",
+     "name": "Hotto Motto Oita Hiji Branch",
+     "name_en": "Hotto Motto Oita Hiji Branch",
      "name_ja": "ほっともっと 大分日出店",
      "description": "Bento shop, 350 m from Yokoku Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/oita/A4403/A440301/44008517/",
@@ -6874,7 +7119,7 @@
     "lat": 33.7244985,
     "lon": 131.6451044
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Convenience store or supermarket in Himeshima",
@@ -7176,7 +7421,7 @@
     "lat": 33.321136,
     "lon": 130.941355
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Hita Tourist Information",
@@ -8149,7 +8394,7 @@
      "page": "https://bokenjapan.com/oita/hita/see/"
     },
     {
-     "name": "Foresutoadobencha Oku Hita",
+     "name": "Forest Adventure Oku Hita",
      "source_url": "https://www.visit-oita.jp/spots/detail/9202",
      "page": "https://bokenjapan.com/oita/hita/see/"
     },
@@ -8457,7 +8702,7 @@
     "lat": 33.4460878,
     "lon": 131.5013005
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Kitsuki Tourist Information",
@@ -8877,8 +9122,8 @@
      "category": "Casual"
     },
     {
-     "name": "Hottomotto Oita Kitsuki Branch",
-     "name_en": "Hottomotto Oita Kitsuki Branch",
+     "name": "Hotto Motto Oita Kitsuki Branch",
+     "name_en": "Hotto Motto Oita Kitsuki Branch",
      "name_ja": "ほっともっと 大分杵築店",
      "description": "Bento shop; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/oita/A4403/A440301/44008508/",
@@ -9970,8 +10215,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Seafood restaurant in Kitsuki (#53)",
-     "name_en": "Seafood restaurant in Kitsuki (#53)",
+     "name": "Honcho Bingoya",
+     "name_en": "Honcho Bingoya",
      "name_ja": "本町備後屋",
      "description": "Seafood restaurant; dinner ¥4,000–4,999.",
      "source_url": "https://tabelog.com/oita/A4403/A440301/44005967/",
@@ -9979,8 +10224,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Seafood restaurant in Kitsuki (#59)",
-     "name_en": "Seafood restaurant in Kitsuki (#59)",
+     "name": "Hyugaya",
+     "name_en": "Hyugaya",
      "name_ja": "日向屋",
      "description": "Seafood restaurant.",
      "source_url": "https://tabelog.com/oita/A4403/A440301/44005962/",
@@ -10425,7 +10670,7 @@
     "lat": 33.2284538,
     "lon": 131.1887719
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Village Station Kokonoe Hometown Hall",
@@ -11437,8 +11682,8 @@
    ],
    "stays": [
     {
-     "name": "Ryokan in Kokonoe (#1)",
-     "name_en": "Ryokan in Kokonoe (#1)",
+     "name": "Kabe Yuon Izumi Fukumotoya",
+     "name_en": "Kabe Yuon Izumi Fukumotoya",
      "name_ja": "壁湯温泉 福元屋",
      "description": "Ryokan with free-flowing hot-spring baths and an open-air bath, 7 rooms, free parking.",
      "source_url": "https://www.jalan.net/yad346611/",
@@ -11461,16 +11706,16 @@
      "page": "https://bokenjapan.com/oita/kokonoe/stay/"
     },
     {
-     "name": "Ryokan in Kokonoe (#4)",
-     "name_en": "Ryokan in Kokonoe (#4)",
+     "name": "Hosen Tera Onsen Pet to Toma Reru Yado Ki no Sato Yama no Yu",
+     "name_en": "Hosen Tera Onsen Pet to Toma Reru Yado Ki no Sato Yama no Yu",
      "name_ja": "宝泉寺温泉 ペットと泊まれる宿 季の郷 山の湯",
      "description": "Ryokan with free-flowing hot-spring baths and an open-air bath, 18 rooms, free parking.",
      "source_url": "https://www.jalan.net/yad332454/",
      "page": "https://bokenjapan.com/oita/kokonoe/stay/"
     },
     {
-     "name": "Ryokan in Kokonoe (#5)",
-     "name_en": "Ryokan in Kokonoe (#5)",
+     "name": "Hosen Jikan Hikari Hotel Yumotoya",
+     "name_en": "Hosen Jikan Hikari Hotel Yumotoya",
      "name_ja": "宝泉寺観光ホテル 湯本屋",
      "description": "Ryokan with free-flowing hot-spring baths and an open-air bath, 21 rooms, free parking.",
      "source_url": "https://www.jalan.net/yad316060/",
@@ -11673,7 +11918,7 @@
     "lat": 33.565266,
     "lon": 131.731673
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Furusato Market R213",
@@ -12162,8 +12407,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Japanese restaurant in Kunisaki (#25)",
-     "name_en": "Japanese restaurant in Kunisaki (#25)",
+     "name": "Heiyaya",
+     "name_en": "Heiyaya",
      "name_ja": "平野屋",
      "description": "Japanese restaurant, open 10:00–22:00.",
      "source_url": "https://tabelog.com/oita/A4403/A440302/44006377/",
@@ -12171,8 +12416,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Japanese restaurant in Kunisaki (#30)",
-     "name_en": "Japanese restaurant in Kunisaki (#30)",
+     "name": "Kokorozashi Maru",
+     "name_en": "Kokorozashi Maru",
      "name_ja": "志まる",
      "description": "Japanese restaurant, open 11:30–14:00 and 18:00–22:00.",
      "source_url": "https://tabelog.com/oita/A4403/A440302/44006897/",
@@ -12807,7 +13052,7 @@
     "lat": 33.283282,
     "lon": 131.151283
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside Station Fairy Tale Village Kusu",
@@ -13873,7 +14118,7 @@
     "lat": 33.598305555,
     "lon": 131.188277777
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Nakatsu Yaba Kei (Yabakei) Tourist Information",
@@ -14025,6 +14270,15 @@
      "category": "Cafe"
     },
     {
+     "name": "Mametake Caffee",
+     "name_en": "Mametake Caffee",
+     "name_ja": "豆岳珈琲",
+     "description": "Cafe in Nakatsu. Open Wed-Sun 10:00-19:00.",
+     "source_url": "http://mametake.com/top",
+     "page": "https://bokenjapan.com/oita/nakatsu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Spice Aeon Mall Sanko Branch",
      "name_en": "Spice Aeon Mall Sanko Branch",
      "name_ja": "Spice イオンモール三光店",
@@ -14070,6 +14324,24 @@
      "category": "Casual"
     },
     {
+     "name": "Karageno Tori Shin",
+     "name_en": "Karageno Tori Shin",
+     "name_ja": "からあげの鳥しん",
+     "description": "Fast-food restaurant in Miyaotto, Nakatsu. Open Tue-Sun 11:00-19:00.",
+     "source_url": "https://nakatsu-karaage.com/",
+     "page": "https://bokenjapan.com/oita/nakatsu/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Obentoya",
+     "name_en": "Obentoya",
+     "name_ja": "おべんと屋",
+     "description": "Fast-food restaurant in Nakatsu.",
+     "source_url": "https://www.openstreetmap.org/node/2419470216",
+     "page": "https://bokenjapan.com/oita/nakatsu/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Abura",
      "name_en": "Abura",
      "name_ja": "油",
@@ -14093,6 +14365,15 @@
      "name_ja": "福寿宴中国料理店",
      "description": "Chinese restaurant, 1,100 m from Nakatsu Station.",
      "source_url": "https://tabelog.com/oita/A4404/A440401/44002043/",
+     "page": "https://bokenjapan.com/oita/nakatsu/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Chuka Ichiban Tei",
+     "name_en": "Chuka Ichiban Tei",
+     "name_ja": "中華壱番亭",
+     "description": "Chinese restaurant in Nakatsu.",
+     "source_url": "https://www.openstreetmap.org/node/2419470637",
      "page": "https://bokenjapan.com/oita/nakatsu/eat/chinese-asian/",
      "category": "Chinese & Asian"
     },
@@ -14374,6 +14655,42 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Moriyama",
+     "name_en": "Moriyama",
+     "name_ja": "もり山",
+     "description": "Chicken restaurant in Nakatsu. Open daily 11:00-20:00.",
+     "source_url": "https://morikara.net/",
+     "page": "https://bokenjapan.com/oita/nakatsu/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Karage Daikichi",
+     "name_en": "Karage Daikichi",
+     "name_ja": "からあげ大吉",
+     "description": "Barbecue restaurant in Nakatsu.",
+     "source_url": "https://www.openstreetmap.org/node/2419470594",
+     "page": "https://bokenjapan.com/oita/nakatsu/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Karage Ganko",
+     "name_en": "Karage Ganko",
+     "name_ja": "からあげ がんこ",
+     "description": "Barbecue restaurant in Nakatsu.",
+     "source_url": "https://www.openstreetmap.org/node/2419485541",
+     "page": "https://bokenjapan.com/oita/nakatsu/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Toyokarage",
+     "name_en": "Toyokarage",
+     "name_ja": "とよからあげ",
+     "description": "Barbecue restaurant in Nakatsu.",
+     "source_url": "https://www.openstreetmap.org/node/2419470037",
+     "page": "https://bokenjapan.com/oita/nakatsu/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Ichi Tsuya",
      "name_en": "Ichi Tsuya",
      "name_ja": "一ツ家",
@@ -14415,6 +14732,24 @@
      "name_ja": "翔天食堂",
      "description": "Ramen shop, 3,100 m from Higashi-Nakatsu Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/oita/A4404/A440401/44010039/",
+     "page": "https://bokenjapan.com/oita/nakatsu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Noodle restaurant in Nakatsu",
+     "name_en": "Noodle restaurant in Nakatsu",
+     "name_ja": "手打ちうどん如水庵",
+     "description": "Noodle restaurant in Nakatsu.",
+     "source_url": "https://www.openstreetmap.org/node/2419470613",
+     "page": "https://bokenjapan.com/oita/nakatsu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon West",
+     "name_en": "Udon West",
+     "name_ja": "うどん ウェスト",
+     "description": "Noodle restaurant in Nakatsu.",
+     "source_url": "https://www.openstreetmap.org/node/2419479788",
      "page": "https://bokenjapan.com/oita/nakatsu/eat/noodles/",
      "category": "Japanese (noodles)"
     },
@@ -14507,6 +14842,24 @@
      "name_en": "Zenkaichaya",
      "description": "Inexpensive Japanese restaurant.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1023431-d10423103-Reviews-Zenkaichaya-Nakatsu_Oita_Prefecture_Kyushu.html",
+     "page": "https://bokenjapan.com/oita/nakatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Hinode grill",
+     "name_en": "Hinode grill",
+     "name_ja": "ひのでグリル",
+     "description": "Japanese restaurant in Nakatsu.",
+     "source_url": "https://www.openstreetmap.org/node/10772391705",
+     "page": "https://bokenjapan.com/oita/nakatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Tanirashi",
+     "name_en": "Tanirashi",
+     "name_ja": "たにあらし",
+     "description": "Japanese restaurant in Nakatsu.",
+     "source_url": "https://www.openstreetmap.org/node/2419481002",
      "page": "https://bokenjapan.com/oita/nakatsu/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -14901,7 +15254,7 @@
     "lat": 33.2396786,
     "lon": 131.608804
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Oita Tourist Information",
@@ -16712,7 +17065,7 @@
     "lat": 32.9598421,
     "lon": 131.9000408
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Saiki Sea Market",
@@ -17931,8 +18284,8 @@
      "page": "https://bokenjapan.com/oita/saiki/stay/"
     },
     {
-     "name": "Vacation rental house in Saiki (#6)",
-     "name_en": "Vacation rental house in Saiki (#6)",
+     "name": "Nagisahaku RENACIDO Hamaya",
+     "name_en": "Nagisahaku RENACIDO Hamaya",
      "name_ja": "渚泊 RENACIDO 浜や",
      "description": "Vacation rental house.",
      "source_url": "https://www.jalan.net/yad323828/",
@@ -17947,8 +18300,8 @@
      "page": "https://bokenjapan.com/oita/saiki/stay/"
     },
     {
-     "name": "Vacation rental house in Saiki (#8)",
-     "name_en": "Vacation rental house in Saiki (#8)",
+     "name": "Saiki Shi Ume Camp Mura",
+     "name_en": "Saiki Shi Ume Camp Mura",
      "name_ja": "佐伯市うめキャンプ村",
      "description": "Vacation rental house, free parking.",
      "source_url": "https://www.jalan.net/yad353726/",
@@ -17975,7 +18328,7 @@
     "lat": 32.9735317,
     "lon": 131.3980295
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Convenience store or supermarket in Taketa",
@@ -18515,8 +18868,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Japanese restaurant in Taketa (#20)",
-     "name_en": "Japanese restaurant in Taketa (#20)",
+     "name": "Sarimosu",
+     "name_en": "Sarimosu",
      "name_ja": "サリモス",
      "description": "Japanese restaurant.",
      "source_url": "https://tabelog.com/oita/A4401/A440102/44004382/",
@@ -18524,8 +18877,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Japanese restaurant in Taketa (#25)",
-     "name_en": "Japanese restaurant in Taketa (#25)",
+     "name": "Ryoiori Kawase Bi",
+     "name_en": "Ryoiori Kawase Bi",
      "name_ja": "料庵 川瀬美",
      "description": "Japanese restaurant.",
      "source_url": "https://tabelog.com/oita/A4401/A440102/44000079/",
@@ -19289,8 +19642,8 @@
      "page": "https://bokenjapan.com/oita/taketa/stay/"
     },
     {
-     "name": "Ryokan in Taketa (#19)",
-     "name_en": "Ryokan in Taketa (#19)",
+     "name": "Nagayu Onsen Yasuragino Yado Kadoya Re",
+     "name_en": "Nagayu Onsen Yasuragino Yado Kadoya Re",
      "name_ja": "長湯温泉 やすらぎの宿 かどやRe",
      "description": "Ryokan with free-flowing hot-spring baths and an open-air bath, 6 Japanese-style rooms, free parking.",
      "source_url": "https://www.jalan.net/yad369770/",
@@ -19305,8 +19658,8 @@
      "page": "https://bokenjapan.com/oita/taketa/stay/"
     },
     {
-     "name": "Ryokan in Taketa (#21)",
-     "name_en": "Ryokan in Taketa (#21)",
+     "name": "Onjuku Tomoki Biso",
+     "name_en": "Onjuku Tomoki Biso",
      "name_ja": "御宿 友喜美荘",
      "description": "Ryokan with free-flowing hot-spring baths and an open-air bath, 7 Japanese-style rooms, free parking.",
      "source_url": "https://www.jalan.net/yad304332/",
@@ -19405,7 +19758,7 @@
     "lat": 33.0722265,
     "lon": 131.8610819
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "JA Nozomi Market Dandan",
@@ -19458,8 +19811,8 @@
      "category": "Casual"
     },
     {
-     "name": "Hottomotto Tsukumi Ekimae Branch",
-     "name_en": "Hottomotto Tsukumi Ekimae Branch",
+     "name": "Hotto Motto Tsukumi Ekimae Branch",
+     "name_en": "Hotto Motto Tsukumi Ekimae Branch",
      "name_ja": "ほっともっと 津久見駅前店",
      "description": "Bento shop, 86 m from Tsukumi Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/oita/A4401/A440104/44009451/",
@@ -20160,7 +20513,7 @@
     "lat": 33.53201,
     "lon": 131.349481
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Sen Zai Farm",
@@ -20338,8 +20691,8 @@
      "category": "Casual"
     },
     {
-     "name": "Restaurant in Usa (#29)",
-     "name_en": "Restaurant in Usa (#29)",
+     "name": "B&B Restaurant Mujika",
+     "name_en": "B&B Restaurant Mujika",
      "name_ja": "B & B レストラン ムジカ",
      "description": "Diner with parking.",
      "source_url": "https://tabelog.com/oita/A4404/A440402/44005416/",
@@ -20569,8 +20922,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Restaurant in Usa (#6)",
-     "name_en": "Restaurant in Usa (#6)",
+     "name": "Natto Kobo Oki Namame no Ki",
+     "name_en": "Natto Kobo Oki Namame no Ki",
      "name_ja": "納豆工房 大きな豆の木",
      "description": "Restaurant with parking.",
      "source_url": "https://tabelog.com/oita/A4404/A440402/44009709/",
@@ -21272,7 +21625,7 @@
     "lat": 33.1260147,
     "lon": 131.8049923
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Lawson Usuki Suehiro Branch",
@@ -21371,8 +21724,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Hottomotto Oita Usuki Branch",
-     "name_en": "Hottomotto Oita Usuki Branch",
+     "name": "Hotto Motto Oita Usuki Branch",
+     "name_en": "Hotto Motto Oita Usuki Branch",
      "name_ja": "ほっともっと 大分臼杵店",
      "description": "Bento shop, 1,277 m from Kami-Usuki Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/oita/A4401/A440104/44008503/",
@@ -21407,8 +21760,8 @@
      "category": "Casual"
     },
     {
-     "name": "Hottomotto Usuki Noda Branch",
-     "name_en": "Hottomotto Usuki Noda Branch",
+     "name": "Hotto Motto Usuki Noda Branch",
+     "name_en": "Hotto Motto Usuki Noda Branch",
      "name_ja": "ほっともっと 臼杵野田店",
      "description": "Bento shop, 788 m from Kami-Usuki Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/oita/A4401/A440104/44008502/",
@@ -21513,8 +21866,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Raamen Banri Usuki Branch",
-     "name_en": "Raamen Banri Usuki Branch",
+     "name": "Ramen Banri Usuki Branch",
+     "name_en": "Ramen Banri Usuki Branch",
      "name_ja": "らーめんBANRI 臼杵店",
      "description": "Ramen shop, 20-minute walk from Kami-Usuki Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/oita/A4401/A440104/44001506/",
@@ -22242,7 +22595,7 @@
     "lat": 33.1803013,
     "lon": 131.4266925
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Nosambutsu Chokubai Tokoro Yo Damari Shokudo",
@@ -23210,8 +23563,8 @@
      "page": "https://bokenjapan.com/oita/yufu/stay/"
     },
     {
-     "name": "Ryokan in Yufu (#18)",
-     "name_en": "Ryokan in Yufu (#18)",
+     "name": "Yufu In Onsen Ryokan Mebae So",
+     "name_en": "Yufu In Onsen Ryokan Mebae So",
      "name_ja": "由布院温泉 旅館 めばえ荘",
      "description": "Ryokan with free-flowing hot-spring baths and an open-air bath, 18 rooms, free parking.",
      "source_url": "https://www.jalan.net/yad328491/",
@@ -23266,8 +23619,8 @@
      "page": "https://bokenjapan.com/oita/yufu/stay/"
     },
     {
-     "name": "Ryokan in Yufu (#25)",
-     "name_en": "Ryokan in Yufu (#25)",
+     "name": "Ryokan Takao So",
+     "name_en": "Ryokan Takao So",
      "name_ja": "旅館 高尾荘",
      "description": "Ryokan with free-flowing hot-spring baths and an open-air bath, 5 Japanese-style rooms, free parking.",
      "source_url": "https://www.jalan.net/yad300808/",

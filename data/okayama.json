@@ -76,17 +76,17 @@
      "category": "Cafe"
     },
     {
-     "name": "Restaurant in Akaiwa (#1)",
-     "name_en": "Restaurant in Akaiwa (#1)",
+     "name": "Tabi no Restaurant Nishi Noya Kikutoge Branch",
+     "name_en": "Tabi no Restaurant Nishi Noya Kikutoge Branch",
      "name_ja": "旅のレストラン「西の屋」菊ヶ峠店",
-     "description": "Restaurant in Akaiwa. Official website listed.",
+     "description": "Restaurant in Akaiwa.",
      "source_url": "https://nishinoya.co.jp/",
      "page": "https://bokenjapan.com/okayama/akaiwa/eat/casual/",
      "category": "Casual"
     },
     {
-     "name": "Restaurant in Akaiwa (#2)",
-     "name_en": "Restaurant in Akaiwa (#2)",
+     "name": "Restaurant Kurone",
+     "name_en": "Restaurant Kurone",
      "name_ja": "レストラン クローネ",
      "description": "Restaurant in Akaiwa.",
      "source_url": "https://www.openstreetmap.org/node/4018337076",
@@ -97,7 +97,7 @@
      "name": "Tsuru-ya",
      "name_en": "Tsuru-ya",
      "name_ja": "つるや",
-     "description": "Restaurant in Akaiwa. Official website listed.",
+     "description": "Restaurant in Akaiwa.",
      "source_url": "https://tsuruya-tsuruya.co.jp/",
      "page": "https://bokenjapan.com/okayama/akaiwa/eat/casual/",
      "category": "Casual"
@@ -155,16 +155,16 @@
      "category": "European"
     },
     {
-     "name": "European restaurant in Akaiwa (#11)",
-     "name_en": "European restaurant in Akaiwa (#11)",
+     "name": "Akka",
+     "name_en": "Akka",
      "name_ja": "アッカ",
      "source_url": "https://tabelog.com/okayama/A3301/A330104/33002011/",
      "page": "https://bokenjapan.com/okayama/akaiwa/eat/european/",
      "category": "European"
     },
     {
-     "name": "European restaurant in Akaiwa (#15)",
-     "name_en": "European restaurant in Akaiwa (#15)",
+     "name": "Omu Rice no Branch Sanyo Branch",
+     "name_en": "Omu Rice no Branch Sanyo Branch",
      "name_ja": "オムライスの店 山陽店",
      "source_url": "https://tabelog.com/okayama/A3301/A330104/33010940/",
      "page": "https://bokenjapan.com/okayama/akaiwa/eat/european/",
@@ -182,22 +182,22 @@
      "name": "KFC",
      "name_en": "KFC",
      "name_ja": "ケンタッキーフライドチキン",
-     "description": "Chicken fast-food restaurant in Akaiwa. Part of the KFC brand. Tagged with takeaway.",
+     "description": "Chicken fast-food restaurant in Akaiwa. Part of the KFC brand. Takeaway available.",
      "source_url": "https://www.openstreetmap.org/way/1500129840",
      "page": "https://bokenjapan.com/okayama/akaiwa/eat/meat/",
      "category": "Japanese (meat)"
     },
     {
-     "name": "Noodle restaurant in Akaiwa (#2)",
-     "name_en": "Noodle restaurant in Akaiwa (#2)",
+     "name": "Soba Kiri Raiwa",
+     "name_en": "Soba Kiri Raiwa",
      "name_ja": "そば切り 來輪",
      "source_url": "https://tabelog.com/okayama/A3301/A330104/33020445/",
      "page": "https://bokenjapan.com/okayama/akaiwa/eat/noodles/",
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Noodle restaurant in Akaiwa (#3)",
-     "name_en": "Noodle restaurant in Akaiwa (#3)",
+     "name": "Wantan Chintan Anpontan",
+     "name_en": "Wantan Chintan Anpontan",
      "name_ja": "ワンタン チンタン アンポンタン",
      "source_url": "https://tabelog.com/okayama/A3301/A330104/33019024/",
      "page": "https://bokenjapan.com/okayama/akaiwa/eat/noodles/",
@@ -244,8 +244,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Noodle restaurant in Akaiwa (#17)",
-     "name_en": "Noodle restaurant in Akaiwa (#17)",
+     "name": "Senjo",
+     "name_en": "Senjo",
      "name_ja": "仙助",
      "source_url": "https://tabelog.com/okayama/A3301/A330104/33002052/",
      "page": "https://bokenjapan.com/okayama/akaiwa/eat/noodles/",
@@ -450,7 +450,7 @@
      "page": "https://bokenjapan.com/okayama/akaiwa/see/"
     },
     {
-     "name": "Koresato Wainarii",
+     "name": "Koresato Winery",
      "source_url": "https://www.okayama-kanko.jp/spot/detail_14351.html",
      "page": "https://bokenjapan.com/okayama/akaiwa/see/"
     },
@@ -510,7 +510,7 @@
      "page": "https://bokenjapan.com/okayama/akaiwa/see/"
     },
     {
-     "name": "Akasaka Kantorii Club",
+     "name": "Akasaka Country Club",
      "source_url": "https://www.okayama-kanko.jp/spot/detail_11234.html",
      "page": "https://bokenjapan.com/okayama/akaiwa/see/"
     },
@@ -568,7 +568,7 @@
     "address": "Asakuchi, Okayama",
     "phone": "0865-44-7000"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Yori Shima Kaki Chokubai Tokoro",
@@ -671,7 +671,7 @@
      "name": "Kaiten Sushi Sushimaru",
      "name_en": "Kaiten Sushi Sushimaru",
      "name_ja": "回転寿司 すし丸",
-     "description": "Restaurant in Asakuchi. Official website listed.",
+     "description": "Restaurant in Asakuchi.",
      "source_url": "https://susi-maru.co.jp/takeout/index.html",
      "page": "https://bokenjapan.com/okayama/asakuchi/eat/casual/",
      "category": "Casual"
@@ -757,7 +757,7 @@
      "name": "Yakiniku Kotetsu",
      "name_en": "Yakiniku Kotetsu",
      "name_ja": "焼肉こてつ",
-     "description": "Barbecue restaurant in Asakuchi. Official website listed.",
+     "description": "Barbecue restaurant in Asakuchi.",
      "source_url": "http://kotetsu.main.jp/",
      "page": "https://bokenjapan.com/okayama/asakuchi/eat/meat/",
      "category": "Japanese (meat)"
@@ -847,7 +847,7 @@
      "name": "Kurashiki Udon Bukkakefuruichi",
      "name_en": "Kurashiki Udon Bukkakefuruichi",
      "name_ja": "倉敷うどん ぶっかけふるいち",
-     "description": "Udon restaurant in Asakuchi. Official website listed.",
+     "description": "Udon restaurant in Asakuchi.",
      "source_url": "https://marubu.com/menu/konko.html",
      "page": "https://bokenjapan.com/okayama/asakuchi/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -874,7 +874,7 @@
      "name": "Joyfull",
      "name_en": "Joyfull",
      "name_ja": "ジョイフル",
-     "description": "Western restaurant in Asakuchi. Part of the Joyfull brand. Official website listed.",
+     "description": "Western restaurant in Asakuchi. Part of the Joyfull brand.",
      "source_url": "https://www.joyfull.co.jp/",
      "page": "https://bokenjapan.com/okayama/asakuchi/eat/other/",
      "category": "Other"
@@ -891,7 +891,7 @@
      "name": "Hokka Hokka Tei",
      "name_en": "Hokka Hokka Tei",
      "name_ja": "ほっかほっか亭",
-     "description": "Japanese fast-food restaurant in Asakuchi. Part of the Hokka Hokka Tei brand. Tagged with takeaway.",
+     "description": "Japanese fast-food restaurant in Asakuchi. Part of the Hokka Hokka Tei brand. Takeaway available.",
      "source_url": "https://www.openstreetmap.org/node/13120985973",
      "page": "https://bokenjapan.com/okayama/asakuchi/eat/other-japanese/",
      "category": "Other Japanese"
@@ -1141,6 +1141,14 @@
      "description": "Inn in Kanemitsu, Asakuchi with local seafood dinners.",
      "source_url": "https://www.jalan.net/yad353978/",
      "page": "https://bokenjapan.com/okayama/asakuchi/stay/"
+    },
+    {
+     "name": "Hotel in Asakuchi",
+     "name_en": "Hotel in Asakuchi",
+     "name_ja": "鴨方グリーンホテル",
+     "description": "Hotel in Asakuchi.",
+     "source_url": "http://k-green-hotel.com/",
+     "page": "https://bokenjapan.com/okayama/asakuchi/stay/"
     }
    ]
   },
@@ -1221,7 +1229,7 @@
      "name": "Tsubamerai-an",
      "name_en": "Tsubamerai-an",
      "name_ja": "燕来庵",
-     "description": "Café in Bizen. Opening hours (OSM): Mo-Su 10:00-18:00. Official website listed.",
+     "description": "Café in Bizen. Opening hours (OSM): Mo-Su 10:00-18:00.",
      "source_url": "https://takatori-shoyu.co.jp/",
      "page": "https://bokenjapan.com/okayama/bizen/eat/cafe/",
      "category": "Cafe"
@@ -1302,7 +1310,7 @@
      "name": "Horiokonomiyaki",
      "name_en": "Horiokonomiyaki",
      "name_ja": "ほりお好み焼き店",
-     "description": "Restaurant in Bizen. Tagged with takeaway. Official website listed.",
+     "description": "Restaurant in Bizen. Takeaway available.",
      "source_url": "https://bizen-asobo.com/eat/hori/",
      "page": "https://bokenjapan.com/okayama/bizen/eat/casual/",
      "category": "Casual"
@@ -1311,7 +1319,7 @@
      "name": "Restaurant Yudachi",
      "name_en": "Restaurant Yudachi",
      "name_ja": "レストラン 夕立",
-     "description": "Restaurant in Bizen. Official website listed.",
+     "description": "Restaurant in Bizen.",
      "source_url": "https://yudaci.srp5.com/",
      "page": "https://bokenjapan.com/okayama/bizen/eat/casual/",
      "category": "Casual"
@@ -1320,7 +1328,7 @@
      "name": "Orenji House",
      "name_en": "Orenji House",
      "name_ja": "オレンジハウス",
-     "description": "Restaurant in Bizen. Official website listed.",
+     "description": "Restaurant in Bizen.",
      "source_url": "https://bizen-asobo.com/eat/orangehouse/",
      "page": "https://bokenjapan.com/okayama/bizen/eat/casual/",
      "category": "Casual"
@@ -1394,7 +1402,7 @@
      "name": "Italian restaurant in Bizen",
      "name_en": "Italian restaurant in Bizen",
      "name_ja": "レストラン レマーニ",
-     "description": "Italian restaurant in Bizen. Tagged with outdoor seating. Official website listed.",
+     "description": "Italian restaurant in Bizen. Offers outdoor seating.",
      "source_url": "https://mtaika.jp/lemani.php",
      "page": "https://bokenjapan.com/okayama/bizen/eat/european/",
      "category": "European"
@@ -1428,7 +1436,7 @@
      "name": "Soba Sanrin",
      "name_en": "Soba Sanrin",
      "name_ja": "そば三凛",
-     "description": "Soba restaurant in Bizen. Official website listed.",
+     "description": "Soba restaurant in Bizen.",
      "source_url": "https://soba-mirin.com/",
      "page": "https://bokenjapan.com/okayama/bizen/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1446,7 +1454,7 @@
      "name": "CROISEMENT",
      "name_en": "CROISEMENT",
      "name_ja": "クロワズモン",
-     "description": "カレー restaurant in Bizen. Official website listed.",
+     "description": "カレー restaurant in Bizen.",
      "source_url": "https://www.ateliercroisement.com/",
      "page": "https://bokenjapan.com/okayama/bizen/eat/other/",
      "category": "Other"
@@ -1455,7 +1463,7 @@
      "name": "Yuyusha",
      "name_en": "Yuyusha",
      "name_ja": "ゆうゆう舎",
-     "description": "Japanese restaurant in Bizen. Official website listed.",
+     "description": "Japanese restaurant in Bizen.",
      "source_url": "http://www.toubikodomo-npo.com/",
      "page": "https://bokenjapan.com/okayama/bizen/eat/other-japanese/",
      "category": "Other Japanese"
@@ -1464,7 +1472,7 @@
      "name": "Mikekoto Dokoro Hamashin",
      "name_en": "Mikekoto Dokoro Hamashin",
      "name_ja": "御食事処 はましん",
-     "description": "Japanese restaurant in Bizen. Official website listed.",
+     "description": "Japanese restaurant in Bizen.",
      "source_url": "https://hamasin.com/",
      "page": "https://bokenjapan.com/okayama/bizen/eat/other-japanese/",
      "category": "Other Japanese"
@@ -1720,7 +1728,7 @@
      "page": "https://bokenjapan.com/okayama/bizen/see/"
     },
     {
-     "name": "Bizen Yaki Gyararii Sanroku Kama",
+     "name": "Bizen Yaki Gallery Sanroku Kama",
      "source_url": "https://www.okayama-kanko.jp/spot/detail_11038.html",
      "page": "https://bokenjapan.com/okayama/bizen/see/"
     },
@@ -1760,7 +1768,7 @@
      "page": "https://bokenjapan.com/okayama/bizen/see/"
     },
     {
-     "name": "Gyararii Shozan",
+     "name": "Gallery Shozan",
      "source_url": "https://www.okayama-kanko.jp/spot/detail_11009.html",
      "page": "https://bokenjapan.com/okayama/bizen/see/"
     },
@@ -1860,8 +1868,8 @@
      "page": "https://bokenjapan.com/okayama/bizen/stay/"
     },
     {
-     "name": "Okayama Nissei Cuisine Ryokan Sakana Bimi Kurabu Miharu",
-     "name_en": "Okayama Nissei Cuisine Ryokan Sakana Bimi Kurabu Miharu",
+     "name": "Okayama Nissei Cuisine Ryokan Sakana Bimi Club Miharu",
+     "name_en": "Okayama Nissei Cuisine Ryokan Sakana Bimi Club Miharu",
      "name_ja": "岡山日生 料理旅館 魚美味倶楽部 美晴",
      "description": "Ryokan in Hinase, Bizen, overlooking Hinase Port from the entrance.",
      "source_url": "https://www.jalan.net/yad343554/",
@@ -1987,24 +1995,24 @@
      "category": "Casual"
     },
     {
-     "name": "Casual restaurant in Hayashima (#16)",
-     "name_en": "Casual restaurant in Hayashima (#16)",
+     "name": "Hayashima Machi Kanko Center",
+     "name_en": "Hayashima Machi Kanko Center",
      "name_ja": "早島町観光センター",
      "source_url": "https://tabelog.com/okayama/A3302/A330203/33022188/",
      "page": "https://bokenjapan.com/okayama/hayashima/eat/casual/",
      "category": "Casual"
     },
     {
-     "name": "Casual restaurant in Hayashima (#17)",
-     "name_en": "Casual restaurant in Hayashima (#17)",
+     "name": "Roiyaruhosuto Hayashima Inter Branch",
+     "name_en": "Roiyaruhosuto Hayashima Inter Branch",
      "name_ja": "ロイヤルホスト 早島インター店",
      "source_url": "https://tabelog.com/okayama/A3302/A330203/33009914/",
      "page": "https://bokenjapan.com/okayama/hayashima/eat/casual/",
      "category": "Casual"
     },
     {
-     "name": "Casual restaurant in Hayashima (#21)",
-     "name_en": "Casual restaurant in Hayashima (#21)",
+     "name": "Yoshinoya 2 Gosen Hayashima Branch",
+     "name_en": "Yoshinoya 2 Gosen Hayashima Branch",
      "name_ja": "吉野家 ２号線早島店",
      "source_url": "https://tabelog.com/okayama/A3302/A330203/33007116/",
      "page": "https://bokenjapan.com/okayama/hayashima/eat/casual/",
@@ -2319,8 +2327,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Casual restaurant in Ibara (#9)",
-     "name_en": "Casual restaurant in Ibara (#9)",
+     "name": "Nipponichi",
+     "name_en": "Nipponichi",
      "name_ja": "日本一",
      "source_url": "https://tabelog.com/okayama/A3302/A330205/33011784/",
      "page": "https://bokenjapan.com/okayama/ibara/eat/casual/",
@@ -2346,7 +2354,7 @@
      "name": "Sakana-ya",
      "name_en": "Sakana-ya",
      "name_ja": "魚家",
-     "description": "Restaurant in Ibara. Official website listed.",
+     "description": "Restaurant in Ibara.",
      "source_url": "https://food-sty.jp/uoya/",
      "page": "https://bokenjapan.com/okayama/ibara/eat/casual/",
      "category": "Casual"
@@ -2388,8 +2396,8 @@
      "category": "Casual"
     },
     {
-     "name": "Casual restaurant in Ibara (#2)",
-     "name_en": "Casual restaurant in Ibara (#2)",
+     "name": "Kitchen House Korune",
+     "name_en": "Kitchen House Korune",
      "name_ja": "キッチンハウスコルネ",
      "description": "Restaurant in Ibara.",
      "source_url": "https://www.openstreetmap.org/node/13707184922",
@@ -2994,8 +3002,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Sweets and bakery shop in Kagamino (#3)",
-     "name_en": "Sweets and bakery shop in Kagamino (#3)",
+     "name": "Hijiriman Do",
+     "name_en": "Hijiriman Do",
      "name_ja": "聖萬堂",
      "source_url": "https://tabelog.com/okayama/A3304/A330401/33009146/",
      "page": "https://bokenjapan.com/okayama/kagamino/eat/sweets-bakeries/",
@@ -3034,8 +3042,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Sweets and bakery shop in Kagamino (#18)",
-     "name_en": "Sweets and bakery shop in Kagamino (#18)",
+     "name": "Yamada Yoho Ba Mitsubachi Noen",
+     "name_en": "Yamada Yoho Ba Mitsubachi Noen",
      "name_ja": "山田養蜂場 みつばち農園",
      "source_url": "https://tabelog.com/okayama/A3304/A330401/33012904/",
      "page": "https://bokenjapan.com/okayama/kagamino/eat/sweets-bakeries/",
@@ -3750,16 +3758,16 @@
      "category": "Curry"
     },
     {
-     "name": "European restaurant in Kibichuo (#2)",
-     "name_en": "European restaurant in Kibichuo (#2)",
+     "name": "Arabiata Manma",
+     "name_en": "Arabiata Manma",
      "name_ja": "アラビアータ マンマ",
      "source_url": "https://tabelog.com/okayama/A3301/A330103/33013387/",
      "page": "https://bokenjapan.com/okayama/kibichuo/eat/european/",
      "category": "European"
     },
     {
-     "name": "European restaurant in Kibichuo (#5)",
-     "name_en": "European restaurant in Kibichuo (#5)",
+     "name": "Beruneze",
+     "name_en": "Beruneze",
      "name_ja": "ベルネーゼ",
      "source_url": "https://tabelog.com/okayama/A3303/A330302/33001166/",
      "page": "https://bokenjapan.com/okayama/kibichuo/eat/european/",
@@ -3968,7 +3976,7 @@
      "page": "https://bokenjapan.com/okayama/kibichuo/see/"
     },
     {
-     "name": "Kibi Kogen Kantorii Club",
+     "name": "Kibi Kogen Country Club",
      "source_url": "https://www.okayama-kanko.jp/spot/detail_11926.html",
      "page": "https://bokenjapan.com/okayama/kibichuo/see/"
     },
@@ -4289,7 +4297,7 @@
     "address": "Kurashiki, Okayama",
     "phone": "086-426-3030"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Kurashiki City Hall",
@@ -4344,7 +4352,7 @@
      "name": "Cafe Aoyama",
      "name_en": "Cafe Aoyama",
      "name_ja": "カフェ青山",
-     "description": "Café in Kurashiki. Official website listed.",
+     "description": "Café in Kurashiki.",
      "source_url": "https://cafe-aoyama.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/cafe/",
      "category": "Cafe"
@@ -4353,7 +4361,7 @@
      "name": "Motomachi Coffee",
      "name_en": "Motomachi Coffee",
      "name_ja": "元町珈琲",
-     "description": "Café in Kurashiki. Opening hours (OSM): 07:00-23:00. Official website listed.",
+     "description": "Café in Kurashiki. Opening hours (OSM): 07:00-23:00.",
      "source_url": "https://motomachi-coffee.jp/map/kurashiki/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/cafe/",
      "category": "Cafe"
@@ -4362,7 +4370,7 @@
      "name": "Aroma Cafe Felicita",
      "name_en": "Aroma Cafe Felicita",
      "name_ja": "AromaカフェFelicita",
-     "description": "Café in Kurashiki. Opening hours (OSM): 10:00-16:00; Sa-Su off; PH off. Official website listed.",
+     "description": "Café in Kurashiki. Opening hours (OSM): 10:00-16:00; Sa-Su off; PH off.",
      "source_url": "https://www.felicita-kuu.com/index.html",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/cafe/",
      "category": "Cafe"
@@ -4370,7 +4378,7 @@
     {
      "name": "GreenBeansCafe",
      "name_en": "GreenBeansCafe",
-     "description": "Café in Kurashiki. Opening hours (OSM): 09:00-16:30;Su-Mo off. Official website listed.",
+     "description": "Café in Kurashiki. Opening hours (OSM): 09:00-16:30;Su-Mo off.",
      "source_url": "https://greenbeanscafe.jimdo.com/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/cafe/",
      "category": "Cafe"
@@ -4378,7 +4386,7 @@
     {
      "name": "NEIGHBOR COFEE COMPANY",
      "name_en": "NEIGHBOR COFEE COMPANY",
-     "description": "Café in Kurashiki. Opening hours (OSM): 08:00-20:00; Th off. Official website listed.",
+     "description": "Café in Kurashiki. Opening hours (OSM): 08:00-20:00; Th off.",
      "source_url": "http://www.neighbor-coffee.com/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/cafe/",
      "category": "Cafe"
@@ -4387,7 +4395,7 @@
      "name": "Cafe Buriki no Raion",
      "name_en": "Cafe Buriki no Raion",
      "name_ja": "cafeぶりきのらいおん",
-     "description": "Café in Kurashiki. Opening hours (OSM): 12:00-15:00; Fr off. Official website listed.",
+     "description": "Café in Kurashiki. Opening hours (OSM): 12:00-15:00; Fr off.",
      "source_url": "http://chiharubiyori0525.blog.fc2.com/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/cafe/",
      "category": "Cafe"
@@ -4396,7 +4404,7 @@
      "name": "Café in Kurashiki",
      "name_en": "Café in Kurashiki",
      "name_ja": "アンティークカフェ フェリシテ",
-     "description": "Café in Kurashiki. Opening hours (OSM): 10:30-17:00; Mo-Tu off. Official website listed.",
+     "description": "Café in Kurashiki. Opening hours (OSM): 10:30-17:00; Mo-Tu off.",
      "source_url": "http://www.kurashiki-felicite.com/index.html",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/cafe/",
      "category": "Cafe"
@@ -4405,7 +4413,7 @@
      "name": "neko cat cafe",
      "name_en": "neko cat cafe",
      "name_ja": "美観neko",
-     "description": "Café in Kurashiki. Opening hours (OSM): 11:00-21:00; Mo off. Official website listed.",
+     "description": "Café in Kurashiki. Opening hours (OSM): 11:00-21:00; Mo off.",
      "source_url": "http://mikanneko-299.com/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/cafe/",
      "category": "Cafe"
@@ -4422,7 +4430,7 @@
      "name": "Fast-food restaurant in Kurashiki",
      "name_en": "Fast-food restaurant in Kurashiki",
      "name_ja": "うの花食堂",
-     "description": "Fast-food restaurant in Kurashiki. Official website listed.",
+     "description": "Fast-food restaurant in Kurashiki.",
      "source_url": "https://uno-hana.com/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/casual/",
      "category": "Casual"
@@ -4431,7 +4439,7 @@
      "name": "Katsuizumi",
      "name_en": "Katsuizumi",
      "name_ja": "かつ泉",
-     "description": "Restaurant in Kurashiki. Official website listed.",
+     "description": "Restaurant in Kurashiki.",
      "source_url": "https://www.katsusen.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/casual/",
      "category": "Casual"
@@ -4440,7 +4448,7 @@
      "name": "Cafe Rante",
      "name_en": "Cafe Rante",
      "name_ja": "カフェランテ",
-     "description": "Fast-food restaurant in Kurashiki. Official website listed.",
+     "description": "Fast-food restaurant in Kurashiki.",
      "source_url": "https://caferrant.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/casual/",
      "category": "Casual"
@@ -4449,7 +4457,7 @@
      "name": "Restaurant in Kurashiki",
      "name_en": "Restaurant in Kurashiki",
      "name_ja": "レストラン 蔦",
-     "description": "Restaurant in Kurashiki. Official website listed.",
+     "description": "Restaurant in Kurashiki.",
      "source_url": "https://www.ivysquare.co.jp/restaurant/tsuta.html",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/casual/",
      "category": "Casual"
@@ -4458,7 +4466,7 @@
      "name": "Taiyo no Jidai",
      "name_en": "Taiyo no Jidai",
      "name_ja": "太陽の時代",
-     "description": "Restaurant in Kurashiki. Official website listed.",
+     "description": "Restaurant in Kurashiki.",
      "source_url": "https://www.taiyonojidai.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/casual/",
      "category": "Casual"
@@ -4467,7 +4475,7 @@
      "name": "Casual restaurant in Kurashiki",
      "name_en": "Casual restaurant in Kurashiki",
      "name_ja": "麺や廣",
-     "description": "Restaurant in Kurashiki. Official website listed.",
+     "description": "Restaurant in Kurashiki.",
      "source_url": "https://kouchin.jp/men-ya-hiro/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/casual/",
      "category": "Casual"
@@ -4475,7 +4483,7 @@
     {
      "name": "paco",
      "name_en": "paco",
-     "description": "Restaurant in Kurashiki. Opening hours (OSM): 11:00-22:00. Official website listed.",
+     "description": "Restaurant in Kurashiki. Opening hours (OSM): 11:00-22:00.",
      "source_url": "https://cafe-paco.com/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/casual/",
      "category": "Casual"
@@ -4484,7 +4492,7 @@
      "name": "Korean restaurant in Kurashiki",
      "name_en": "Korean restaurant in Kurashiki",
      "name_ja": "コリアンダイニング 貴仙",
-     "description": "Korean restaurant in Kurashiki. Official website listed.",
+     "description": "Korean restaurant in Kurashiki.",
      "source_url": "https://akr8897435514.owst.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -4493,7 +4501,7 @@
      "name": "Chuka Shokudo Kouchin",
      "name_en": "Chuka Shokudo Kouchin",
      "name_ja": "中華食堂コウチン",
-     "description": "Chinese restaurant in Kurashiki. Official website listed.",
+     "description": "Chinese restaurant in Kurashiki.",
      "source_url": "https://kouchin.jp/cd-kouchin/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -4502,7 +4510,7 @@
      "name": "Mataraiken",
      "name_en": "Mataraiken",
      "name_ja": "又来軒",
-     "description": "Chinese restaurant in Kurashiki. Official website listed.",
+     "description": "Chinese restaurant in Kurashiki.",
      "source_url": "https://www.yurai.com/%E5%80%89%E6%95%B7%E5%A4%A9%E6%BA%80%E5%B1%8B%E5%BA%97%E3%80%80/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -4511,7 +4519,7 @@
      "name": "Indian restaurant in Kurashiki",
      "name_en": "Indian restaurant in Kurashiki",
      "name_ja": "インドダイニングカフェ マター",
-     "description": "Indian restaurant in Kurashiki. Opening hours (OSM): 11:00-15:00, 17:00-22:00. Official website listed.",
+     "description": "Indian restaurant in Kurashiki. Opening hours (OSM): 11:00-15:00, 17:00-22:00.",
      "source_url": "http://www.dinningindo.com/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -4520,7 +4528,7 @@
      "name": "Kanhiroshi STYLE NOBU",
      "name_en": "Kanhiroshi STYLE NOBU",
      "name_ja": "韓洋STYLE NOBU",
-     "description": "Korean restaurant in Kurashiki. Opening hours (OSM): 11:30-14:30, 18:00-01:00; Su off. Official website listed.",
+     "description": "Korean restaurant in Kurashiki. Opening hours (OSM): 11:30-14:30, 18:00-01:00; Su off.",
      "source_url": "https://mimatu.wixsite.com/nobu",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -4529,7 +4537,7 @@
      "name": "Curry restaurant in Kurashiki",
      "name_en": "Curry restaurant in Kurashiki",
      "name_ja": "ナッシュサーフアメリカン",
-     "description": "Curry restaurant in Kurashiki. Opening hours (OSM): Tu-Fr 11:00-16:00; Sa 11:00-21:30; Su 11:00-20:30. Official website listed.",
+     "description": "Curry restaurant in Kurashiki. Opening hours (OSM): Tu-Fr 11:00-16:00; Sa 11:00-21:30; Su 11:00-20:30.",
      "source_url": "http://www.naish-curry.com/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/curry/",
      "category": "Curry"
@@ -4554,25 +4562,25 @@
      "name": "PIZZA Dokoro NOLA",
      "name_en": "PIZZA Dokoro NOLA",
      "name_ja": "PIZZAドコロNOLA",
-     "description": "Pizza restaurant in Kurashiki. Official website listed.",
+     "description": "Pizza restaurant in Kurashiki.",
      "source_url": "https://www.pizzadokoronola.info/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/european/",
      "category": "European"
     },
     {
-     "name": "Italian restaurant in Kurashiki (#1)",
-     "name_en": "Italian restaurant in Kurashiki (#1)",
+     "name": "Itaria Ryori Gurankarro",
+     "name_en": "Itaria Ryori Gurankarro",
      "name_ja": "イタリア料理グランカッロ",
-     "description": "Italian restaurant in Kurashiki. Opening hours (OSM): 11:30-15:00,17:30-22:00; Mo off. Official website listed.",
+     "description": "Italian restaurant in Kurashiki. Opening hours (OSM): 11:30-15:00,17:30-22:00; Mo off.",
      "source_url": "https://grancarro.net/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/european/",
      "category": "European"
     },
     {
-     "name": "Italian restaurant in Kurashiki (#2)",
-     "name_en": "Italian restaurant in Kurashiki (#2)",
+     "name": "Nokka",
+     "name_en": "Nokka",
      "name_ja": "ノッカ",
-     "description": "Italian restaurant in Kurashiki. Official website listed.",
+     "description": "Italian restaurant in Kurashiki.",
      "source_url": "https://www.nocca33.com/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/european/",
      "category": "European"
@@ -4581,7 +4589,7 @@
      "name": "Rentenchi",
      "name_en": "Rentenchi",
      "name_ja": "煉天地",
-     "description": "Italian restaurant in Kurashiki. Opening hours (OSM): 11:30-14:00,18:00-22:00; Tu off. Official website listed.",
+     "description": "Italian restaurant in Kurashiki. Opening hours (OSM): 11:30-14:00,18:00-22:00; Tu off.",
      "source_url": "http://www.rentenchi.com/index.html",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/european/",
      "category": "European"
@@ -4613,7 +4621,7 @@
     {
      "name": "Avenue",
      "name_en": "Avenue",
-     "description": "Bar in Kurashiki. Official website listed.",
+     "description": "Bar in Kurashiki.",
      "source_url": "https://sound.jp/avenue/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -4622,7 +4630,7 @@
      "name": "Yorokonde",
      "name_en": "Yorokonde",
      "name_ja": "よろこんで",
-     "description": "Pub in Kurashiki. Official website listed.",
+     "description": "Pub in Kurashiki.",
      "source_url": "https://yorokonde.owst.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -4631,7 +4639,7 @@
      "name": "Toriden",
      "name_en": "Toriden",
      "name_ja": "とりでん",
-     "description": "Pub in Kurashiki. Opening hours (OSM): 17:00-24:00. Official website listed.",
+     "description": "Pub in Kurashiki. Opening hours (OSM): 17:00-24:00.",
      "source_url": "https://toriden-sasaoki.owst.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -4640,7 +4648,7 @@
      "name": "Toritori",
      "name_en": "Toritori",
      "name_ja": "とり鳥",
-     "description": "Pub in Kurashiki. Opening hours (OSM): 17:30-24:00; Su off. Official website listed.",
+     "description": "Pub in Kurashiki. Opening hours (OSM): 17:30-24:00; Su off.",
      "source_url": "https://toritorikurashiki.owst.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -4649,7 +4657,7 @@
      "name": "Irayoi Yoichi",
      "name_en": "Irayoi Yoichi",
      "name_ja": "イラヨイ夜市",
-     "description": "Pub in Kurashiki. Opening hours (OSM): 12:00-14:30, 17:30-24:00; Su off. Official website listed.",
+     "description": "Pub in Kurashiki. Opening hours (OSM): 12:00-14:30, 17:30-24:00; Su off.",
      "source_url": "https://akr7504797540.owst.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -4674,7 +4682,7 @@
      "name": "Karagezenchan",
      "name_en": "Karagezenchan",
      "name_ja": "からあげぜんちゃん",
-     "description": "Chicken fast-food restaurant in Kurashiki. Official website listed.",
+     "description": "Chicken fast-food restaurant in Kurashiki.",
      "source_url": "https://karaagez.official.ec/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/meat/",
      "category": "Japanese (meat)"
@@ -4683,7 +4691,7 @@
      "name": "Kojiro",
      "name_en": "Kojiro",
      "name_ja": "小次郎",
-     "description": "Chicken restaurant in Kurashiki. Official website listed.",
+     "description": "Chicken restaurant in Kurashiki.",
      "source_url": "https://kojirouturajima.owst.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/meat/",
      "category": "Japanese (meat)"
@@ -4692,7 +4700,7 @@
      "name": "Yakitori Ai",
      "name_en": "Yakitori Ai",
      "name_ja": "焼き鳥あい",
-     "description": "Chicken restaurant in Kurashiki. Official website listed.",
+     "description": "Chicken restaurant in Kurashiki.",
      "source_url": "https://yakitori-ai.com/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/meat/",
      "category": "Japanese (meat)"
@@ -4701,7 +4709,7 @@
      "name": "Yakiniku Guriguri-ya",
      "name_en": "Yakiniku Guriguri-ya",
      "name_ja": "焼肉ぐりぐり屋",
-     "description": "Barbecue restaurant in Kurashiki. Official website listed.",
+     "description": "Barbecue restaurant in Kurashiki.",
      "source_url": "https://griglia.fresca-co.jp/store/ario/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/meat/",
      "category": "Japanese (meat)"
@@ -4710,7 +4718,7 @@
      "name": "Yakiniku Dondon-tei",
      "name_en": "Yakiniku Dondon-tei",
      "name_ja": "焼肉どんどん亭",
-     "description": "Barbecue restaurant in Kurashiki. Opening hours (OSM): 11:00-15:00,17:00-22:30; Sa-Su 11:00-22:30. Official website listed.",
+     "description": "Barbecue restaurant in Kurashiki. Opening hours (OSM): 11:00-15:00,17:00-22:30; Sa-Su 11:00-22:30.",
      "source_url": "https://dondontei.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/meat/",
      "category": "Japanese (meat)"
@@ -4719,7 +4727,7 @@
      "name": "Yakiniku Dondon-tei",
      "name_en": "Yakiniku Dondon-tei",
      "name_ja": "焼肉どんどん亭",
-     "description": "Barbecue restaurant in Kurashiki. Official website listed.",
+     "description": "Barbecue restaurant in Kurashiki.",
      "source_url": "https://dondontei-horinan-kurashiki.com/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/meat/",
      "category": "Japanese (meat)"
@@ -4728,7 +4736,7 @@
      "name": "Yakiniku Yugen",
      "name_en": "Yakiniku Yugen",
      "name_ja": "焼肉ゆう玄",
-     "description": "Barbecue restaurant in Kurashiki. Opening hours (OSM): 17:00-23:30. Official website listed.",
+     "description": "Barbecue restaurant in Kurashiki. Opening hours (OSM): 17:00-23:30.",
      "source_url": "https://yuugen.owst.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/meat/",
      "category": "Japanese (meat)"
@@ -4737,7 +4745,7 @@
      "name": "Yakiniku-tei Katsura",
      "name_en": "Yakiniku-tei Katsura",
      "name_ja": "焼肉亭桂",
-     "description": "Barbecue restaurant in Kurashiki. Opening hours (OSM): 11:30-14:00,17:00-22:30. Official website listed.",
+     "description": "Barbecue restaurant in Kurashiki. Opening hours (OSM): 11:30-14:00,17:00-22:30.",
      "source_url": "https://www.katsura-4129.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/meat/",
      "category": "Japanese (meat)"
@@ -4746,7 +4754,7 @@
      "name": "Yakiniku Ushicho",
      "name_en": "Yakiniku Ushicho",
      "name_ja": "焼肉牛長",
-     "description": "Barbecue restaurant in Kurashiki. Opening hours (OSM): 11:00-14:15,17:00-22:30;Tu off. Official website listed.",
+     "description": "Barbecue restaurant in Kurashiki. Opening hours (OSM): 11:00-14:15,17:00-22:30;Tu off.",
      "source_url": "https://www.gyu-cho.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/meat/",
      "category": "Japanese (meat)"
@@ -4755,7 +4763,7 @@
      "name": "Kaorirakusono",
      "name_en": "Kaorirakusono",
      "name_ja": "香洛園",
-     "description": "Barbecue restaurant in Kurashiki. Opening hours (OSM): 11:00-23:00. Official website listed.",
+     "description": "Barbecue restaurant in Kurashiki. Opening hours (OSM): 11:00-23:00.",
      "source_url": "https://kohrakuen.co.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/meat/",
      "category": "Japanese (meat)"
@@ -4764,7 +4772,7 @@
      "name": "Chicken restaurant in Kurashiki",
      "name_en": "Chicken restaurant in Kurashiki",
      "name_ja": "やきとり 蒼",
-     "description": "Chicken restaurant in Kurashiki. Opening hours (OSM): 18:00-23:00; We off. Official website listed.",
+     "description": "Chicken restaurant in Kurashiki. Opening hours (OSM): 18:00-23:00; We off.",
      "source_url": "https://yakitori-sou.gorp.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/meat/",
      "category": "Japanese (meat)"
@@ -4773,7 +4781,7 @@
      "name": "Barbecue restaurant in Kurashiki",
      "name_en": "Barbecue restaurant in Kurashiki",
      "name_ja": "焼肉モランボン",
-     "description": "Barbecue restaurant in Kurashiki. Opening hours (OSM): 11:30-14:00,17:00-22:00; We off. Official website listed.",
+     "description": "Barbecue restaurant in Kurashiki. Opening hours (OSM): 11:30-14:00,17:00-22:00; We off.",
      "source_url": "http://www.moranbon-0124.com/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/meat/",
      "category": "Japanese (meat)"
@@ -4805,16 +4813,16 @@
     {
      "name": "KASUYA",
      "name_en": "KASUYA",
-     "description": "Udon restaurant in Kurashiki. Official website listed.",
+     "description": "Udon restaurant in Kurashiki.",
      "source_url": "https://www.aburakasu.com/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/noodles/",
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Noodle restaurant in Kurashiki (#2)",
-     "name_en": "Noodle restaurant in Kurashiki (#2)",
+     "name": "Torino Jo",
+     "name_en": "Torino Jo",
      "name_ja": "とりの助",
-     "description": "Noodle restaurant in Kurashiki. Opening hours (OSM): 11:00-01:00. Official website listed.",
+     "description": "Noodle restaurant in Kurashiki. Opening hours (OSM): 11:00-01:00.",
      "source_url": "https://www.torinosuke.biz/area/detail/?id=8",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4823,7 +4831,7 @@
      "name": "Bari",
      "name_en": "Bari",
      "name_ja": "ばり嗎",
-     "description": "Ramen restaurant in Kurashiki. Official website listed.",
+     "description": "Ramen restaurant in Kurashiki.",
      "source_url": "https://www.bariuma.biz/area/detail/?id=131",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4832,7 +4840,7 @@
      "name": "Serufu Udon Temari",
      "name_en": "Serufu Udon Temari",
      "name_ja": "セルフうどん てまり",
-     "description": "Udon restaurant in Kurashiki. Official website listed.",
+     "description": "Udon restaurant in Kurashiki.",
      "source_url": "https://nijiiro-tamano.jp/minato.html",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4841,7 +4849,7 @@
      "name": "Ramen restaurant in Kurashiki",
      "name_en": "Ramen restaurant in Kurashiki",
      "name_ja": "ラー麺ずんどう屋",
-     "description": "Ramen restaurant in Kurashiki. Official website listed.",
+     "description": "Ramen restaurant in Kurashiki.",
      "source_url": "https://zundouya.com/shop/111",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4850,7 +4858,7 @@
      "name": "Hakata Ramen Barikata-ya",
      "name_en": "Hakata Ramen Barikata-ya",
      "name_ja": "博多ラーメン ばりかた屋",
-     "description": "Ramen restaurant in Kurashiki. Official website listed.",
+     "description": "Ramen restaurant in Kurashiki.",
      "source_url": "https://kurashiki.ario.jp/shop/2800000065/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4859,7 +4867,7 @@
      "name": "Abura Soba Utakokorozashiken",
      "name_en": "Abura Soba Utakokorozashiken",
      "name_ja": "油そば 歌志軒",
-     "description": "Restaurant serving noodle and ramen in Kurashiki. Official website listed.",
+     "description": "Restaurant serving noodle and ramen in Kurashiki.",
      "source_url": "https://www.kajiken.biz/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4868,7 +4876,7 @@
      "name": "Manmarusho",
      "name_en": "Manmarusho",
      "name_ja": "満丸商店",
-     "description": "Ramen restaurant in Kurashiki. Official website listed.",
+     "description": "Ramen restaurant in Kurashiki.",
      "source_url": "https://nbf94802ty.wixsite.com/my-site",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4877,7 +4885,7 @@
      "name": "Mensakekazuteru-an",
      "name_en": "Mensakekazuteru-an",
      "name_ja": "麺酒一照庵",
-     "description": "Ramen restaurant in Kurashiki. Official website listed.",
+     "description": "Ramen restaurant in Kurashiki.",
      "source_url": "https://www.mensake-issyoan.com/kurashiki.html",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4886,16 +4894,16 @@
      "name": "Koganeseimentokoro",
      "name_en": "Koganeseimentokoro",
      "name_ja": "こがね製麺所",
-     "description": "Noodle restaurant in Kurashiki. Opening hours (OSM): 09:00-21:00. Official website listed.",
+     "description": "Noodle restaurant in Kurashiki. Opening hours (OSM): 09:00-21:00.",
      "source_url": "http://www.koganeseimensyo.com/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/noodles/",
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Noodle restaurant in Kurashiki (#1)",
-     "name_en": "Noodle restaurant in Kurashiki (#1)",
+     "name": "Chuka Soba Katayama",
+     "name_en": "Chuka Soba Katayama",
      "name_ja": "中華蕎麦かたやま",
-     "description": "Noodle restaurant in Kurashiki. Opening hours (OSM): 11:00-15:00,18:00-22:00; We off. Official website listed.",
+     "description": "Noodle restaurant in Kurashiki. Opening hours (OSM): 11:00-15:00,18:00-22:00; We off.",
      "source_url": "https://chuukasoba-katayama.com/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4904,7 +4912,7 @@
      "name": "Teuchichi Udon Tanaka-ya",
      "name_en": "Teuchichi Udon Tanaka-ya",
      "name_ja": "手打ちうどん田中屋",
-     "description": "Noodle restaurant in Kurashiki. Opening hours (OSM): 11:30-15:00, 17:30-20:30. Official website listed.",
+     "description": "Noodle restaurant in Kurashiki. Opening hours (OSM): 11:30-15:00, 17:30-20:30.",
      "source_url": "http://www.udon-tanakaya.com/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4913,7 +4921,7 @@
      "name": "Okonomiyaki Teppanyakiki Sen",
      "name_en": "Okonomiyaki Teppanyakiki Sen",
      "name_ja": "お好み焼き・鉄板焼き 千",
-     "description": "Savory pancakes restaurant in Kurashiki. Opening hours (OSM): 17:00-23:30; Fr-Sa 17:00-00:30; Su off. Official website listed.",
+     "description": "Savory pancakes restaurant in Kurashiki. Opening hours (OSM): 17:00-23:30; Fr-Sa 17:00-00:30; Su off.",
      "source_url": "https://akr9099133822.owst.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/other/",
      "category": "Other"
@@ -4922,7 +4930,7 @@
      "name": "Okonomiyakifukuchan",
      "name_en": "Okonomiyakifukuchan",
      "name_ja": "お好み焼き福ちゃん",
-     "description": "Savory pancakes restaurant in Kurashiki. Opening hours (OSM): 11:00-20:00; Tu off. Official website listed.",
+     "description": "Savory pancakes restaurant in Kurashiki. Opening hours (OSM): 11:00-20:00; Tu off.",
      "source_url": "http://bizho.jp/fukuchann/home.html",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/other/",
      "category": "Other"
@@ -4931,7 +4939,7 @@
      "name": "Katsunami",
      "name_en": "Katsunami",
      "name_ja": "かつ波",
-     "description": "Friture restaurant in Kurashiki. Opening hours (OSM): 11:00-15:00,17:30-22:00; Th off. Official website listed.",
+     "description": "Friture restaurant in Kurashiki. Opening hours (OSM): 11:00-15:00,17:30-22:00; Th off.",
      "source_url": "https://katsunami.jimdo.com/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/other/",
      "category": "Other"
@@ -4940,7 +4948,7 @@
      "name": "Tonkatsu Butasho-ya",
      "name_en": "Tonkatsu Butasho-ya",
      "name_ja": "とんかつ豚小屋",
-     "description": "Friture restaurant in Kurashiki. Opening hours (OSM): 10:50-22:00. Official website listed.",
+     "description": "Friture restaurant in Kurashiki. Opening hours (OSM): 10:50-22:00.",
      "source_url": "https://kurashiki-butagoya.gorp.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/other/",
      "category": "Other"
@@ -4949,14 +4957,14 @@
      "name": "Gama",
      "name_en": "Gama",
      "name_ja": "蝦蟇",
-     "description": "Savory pancakes restaurant in Kurashiki. Opening hours (OSM): 11:30-15:00,17:30-22:30; Mo[2] off; Mo[4-5] off. Official website listed.",
+     "description": "Savory pancakes restaurant in Kurashiki. Opening hours (OSM): 11:30-15:00,17:30-22:30; Mo[2] off; Mo[4-5] off.",
      "source_url": "http://www.gama-m.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/other/",
      "category": "Other"
     },
     {
-     "name": "Japanese restaurant in Kurashiki (#1)",
-     "name_en": "Japanese restaurant in Kurashiki (#1)",
+     "name": "Burikoru",
+     "name_en": "Burikoru",
      "name_ja": "ブリコール",
      "source_url": "https://tabelog.com/okayama/A3302/A330201/33016536/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/other-japanese/",
@@ -4971,8 +4979,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Japanese restaurant in Kurashiki (#7)",
-     "name_en": "Japanese restaurant in Kurashiki (#7)",
+     "name": "Chisoya Nano Hana",
+     "name_en": "Chisoya Nano Hana",
      "name_ja": "馳走屋 菜乃花",
      "source_url": "https://tabelog.com/okayama/A3302/A330201/33000965/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/other-japanese/",
@@ -5006,7 +5014,7 @@
      "name": "Hokkahokka-tei",
      "name_en": "Hokkahokka-tei",
      "name_ja": "ほっかほっか亭",
-     "description": "Bento fast-food restaurant in Kurashiki. Tagged with takeaway. Official website listed.",
+     "description": "Bento fast-food restaurant in Kurashiki. Takeaway available.",
      "source_url": "https://www.hokkahokka-tei.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/other-japanese/",
      "category": "Other Japanese"
@@ -5015,7 +5023,7 @@
      "name": "Kurashiki Ichie",
      "name_en": "Kurashiki Ichie",
      "name_ja": "倉敷 一会",
-     "description": "Japanese restaurant in Kurashiki. Official website listed.",
+     "description": "Japanese restaurant in Kurashiki.",
      "source_url": "https://www.kurashiki-ichie.com/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/other-japanese/",
      "category": "Other Japanese"
@@ -5024,7 +5032,7 @@
      "name": "Betsu-kan Ikesuryori",
      "name_en": "Betsu-kan Ikesuryori",
      "name_ja": "別館 いけす料理店",
-     "description": "Japanese restaurant in Kurashiki. Official website listed.",
+     "description": "Japanese restaurant in Kurashiki.",
      "source_url": "https://s-yamakou.co.jp/ikesu/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/other-japanese/",
      "category": "Other Japanese"
@@ -5033,7 +5041,7 @@
      "name": "Tenichi",
      "name_en": "Tenichi",
      "name_ja": "天壱",
-     "description": "Japanese restaurant in Kurashiki. Opening hours (OSM): 11:00-15:30,17:30-21:00; Mo 11:00-15:30; We 11:00-15:30. Official website listed.",
+     "description": "Japanese restaurant in Kurashiki. Opening hours (OSM): 11:00-15:30,17:30-21:00; Mo 11:00-15:30; We 11:00-15:30.",
      "source_url": "https://www.ten-ichi.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/other-japanese/",
      "category": "Other Japanese"
@@ -5042,7 +5050,7 @@
      "name": "Waratako",
      "name_en": "Waratako",
      "name_ja": "笑たこ",
-     "description": "Takoyaki fast-food restaurant in Kurashiki. Official website listed.",
+     "description": "Takoyaki fast-food restaurant in Kurashiki.",
      "source_url": "https://waratako.com/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/other-japanese/",
      "category": "Other Japanese"
@@ -5051,7 +5059,7 @@
      "name": "Fukusugi",
      "name_en": "Fukusugi",
      "name_ja": "ふく杉",
-     "description": "Japanese restaurant in Kurashiki. Opening hours (OSM): 17:30-01:30; Sa-Su 11:30-14:00,17:30-01:30. Official website listed.",
+     "description": "Japanese restaurant in Kurashiki. Opening hours (OSM): 17:30-01:30; Sa-Su 11:30-14:00,17:30-01:30.",
      "source_url": "https://fukusugi.owst.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/other-japanese/",
      "category": "Other Japanese"
@@ -5060,7 +5068,7 @@
      "name": "Togi-ya Honpo",
      "name_en": "Togi-ya Honpo",
      "name_ja": "冨来屋本舗",
-     "description": "Japanese restaurant in Kurashiki. Opening hours (OSM): 11:00-15:00,17:00-20:00; Mo off. Official website listed.",
+     "description": "Japanese restaurant in Kurashiki. Opening hours (OSM): 11:00-15:00,17:00-20:00; Mo off.",
      "source_url": "https://www.try8.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/other-japanese/",
      "category": "Other Japanese"
@@ -5069,7 +5077,7 @@
      "name": "Kazuhisa",
      "name_en": "Kazuhisa",
      "name_ja": "和久",
-     "description": "Japanese restaurant in Kurashiki. Opening hours (OSM): 11:00-15:00,17:00-22:00. Official website listed.",
+     "description": "Japanese restaurant in Kurashiki. Opening hours (OSM): 11:00-15:00,17:00-22:00.",
      "source_url": "http://www.wakyuu.com/index.htm",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/other-japanese/",
      "category": "Other Japanese"
@@ -5078,7 +5086,7 @@
      "name": "Ozenboyubihigashi",
      "name_en": "Ozenboyubihigashi",
      "name_ja": "御膳房指東",
-     "description": "Japanese restaurant in Kurashiki. Opening hours (OSM): 11:30-14:00,17:30-22:00. Official website listed.",
+     "description": "Japanese restaurant in Kurashiki. Opening hours (OSM): 11:30-14:00,17:30-22:00.",
      "source_url": "https://www.gozenbo-shito.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/other-japanese/",
      "category": "Other Japanese"
@@ -5087,7 +5095,7 @@
      "name": "Oni no Zushinsuke",
      "name_en": "Oni no Zushinsuke",
      "name_ja": "鬼の廚しんすけ",
-     "description": "Japanese restaurant in Kurashiki. Opening hours (OSM): 11:30-14:00,17:00-23:00; Su 11:30-14:00,17:00-22:00. Official website listed.",
+     "description": "Japanese restaurant in Kurashiki. Opening hours (OSM): 11:30-14:00,17:00-23:00; Su 11:30-14:00,17:00-22:00.",
      "source_url": "http://www.shinsuke.co.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/other-japanese/",
      "category": "Other Japanese"
@@ -5112,7 +5120,7 @@
      "name": "Shijakkuhakurakumachi",
      "name_en": "Shijakkuhakurakumachi",
      "name_ja": "しーじゃっく白楽町店",
-     "description": "Sushi restaurant in Kurashiki. Opening hours (OSM): 11:00-21:00. Official website listed.",
+     "description": "Sushi restaurant in Kurashiki. Opening hours (OSM): 11:00-21:00.",
      "source_url": "https://www.marinepolis.co.jp/seajack/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -5121,7 +5129,7 @@
      "name": "Donburimaru",
      "name_en": "Donburimaru",
      "name_ja": "丼丸",
-     "description": "Fish fast-food restaurant in Kurashiki. Tagged with takeaway. Official website listed.",
+     "description": "Fish fast-food restaurant in Kurashiki. Takeaway available.",
      "source_url": "https://sasafune.co.jp/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -5130,7 +5138,7 @@
      "name": "Sushi Hirado",
      "name_en": "Sushi Hirado",
      "name_ja": "鮨 ひらど",
-     "description": "Sushi restaurant in Kurashiki. Official website listed.",
+     "description": "Sushi restaurant in Kurashiki.",
      "source_url": "https://komaca.app/sushi-hirado",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -5139,7 +5147,7 @@
      "name": "Ebimeshi-ya",
      "name_en": "Ebimeshi-ya",
      "name_ja": "えびめしや",
-     "description": "Seafood restaurant in Kurashiki. Opening hours (OSM): 11:00-22:00. Official website listed.",
+     "description": "Seafood restaurant in Kurashiki. Opening hours (OSM): 11:00-22:00.",
      "source_url": "http://www.indeira.net/ebimeshiya/",
      "page": "https://bokenjapan.com/okayama/kurashiki/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -5891,7 +5899,7 @@
      "name": "Diner in Maniwa",
      "name_en": "Diner in Maniwa",
      "name_ja": "やまな食堂",
-     "description": "Restaurant in Maniwa. Official website listed.",
+     "description": "Restaurant in Maniwa.",
      "source_url": "https://yamanashokudou.com/",
      "page": "https://bokenjapan.com/okayama/maniwa/eat/casual/",
      "category": "Casual"
@@ -5900,7 +5908,7 @@
      "name": "Shichi-ya",
      "name_en": "Shichi-ya",
      "name_ja": "七屋",
-     "description": "Restaurant in Maniwa. Official website listed.",
+     "description": "Restaurant in Maniwa.",
      "source_url": "https://nanaya-okayama.com/",
      "page": "https://bokenjapan.com/okayama/maniwa/eat/casual/",
      "category": "Casual"
@@ -5909,7 +5917,7 @@
      "name": "Maniwa Aguri Garden",
      "name_en": "Maniwa Aguri Garden",
      "name_ja": "真庭アグリガーデン",
-     "description": "Restaurant in Maniwa. Official website listed.",
+     "description": "Restaurant in Maniwa.",
      "source_url": "https://maniwa-agurigarden.com/",
      "page": "https://bokenjapan.com/okayama/maniwa/eat/casual/",
      "category": "Casual"
@@ -5918,7 +5926,7 @@
      "name": "Hiruzenkogei no Shokutaku Kudo",
      "name_en": "Hiruzenkogei no Shokutaku Kudo",
      "name_ja": "蒜山耕藝の食卓 くど",
-     "description": "Restaurant in Maniwa. Official website listed.",
+     "description": "Restaurant in Maniwa.",
      "source_url": "https://hiruzenkougei.com/p488",
      "page": "https://bokenjapan.com/okayama/maniwa/eat/casual/",
      "category": "Casual"
@@ -5927,7 +5935,7 @@
      "name": "Micamo Cafe Kaorianzu-kan",
      "name_en": "Micamo Cafe Kaorianzu-kan",
      "name_ja": "micamo cafe 香杏館",
-     "description": "Fast-food restaurant in Maniwa. Official website listed.",
+     "description": "Fast-food restaurant in Maniwa.",
      "source_url": "https://i-maniwa.com/area/micamo/",
      "page": "https://bokenjapan.com/okayama/maniwa/eat/casual/",
      "category": "Casual"
@@ -5936,7 +5944,7 @@
      "name": "Shige-ya",
      "name_en": "Shige-ya",
      "name_ja": "しげや",
-     "description": "Restaurant in Maniwa. Official website listed.",
+     "description": "Restaurant in Maniwa.",
      "source_url": "http://shigeya-mikamo.com/",
      "page": "https://bokenjapan.com/okayama/maniwa/eat/casual/",
      "category": "Casual"
@@ -5945,7 +5953,7 @@
      "name": "Yumoto-ya",
      "name_en": "Yumoto-ya",
      "name_ja": "湯本屋",
-     "description": "Restaurant in Maniwa. Official website listed.",
+     "description": "Restaurant in Maniwa.",
      "source_url": "https://www.maniwa.or.jp/web/?c=spot-2&amp;pk=3178",
      "page": "https://bokenjapan.com/okayama/maniwa/eat/casual/",
      "category": "Casual"
@@ -5954,7 +5962,7 @@
      "name": "Hiruzen Unagisenmonten",
      "name_en": "Hiruzen Unagisenmonten",
      "name_ja": "蒜山 鰻専門店 翏",
-     "description": "Restaurant in Maniwa. Official website listed.",
+     "description": "Restaurant in Maniwa.",
      "source_url": "https://www.ryo-hiruzen.com/",
      "page": "https://bokenjapan.com/okayama/maniwa/eat/casual/",
      "category": "Casual"
@@ -6015,7 +6023,7 @@
      "name": "Heri",
      "name_en": "Heri",
      "name_ja": "縁",
-     "description": "Pub in Maniwa. Opening hours (OSM): Tu-Su 17:00-23:00. Official website listed.",
+     "description": "Pub in Maniwa. Opening hours (OSM): Tu-Su 17:00-23:00.",
      "source_url": "https://www.maniwa.or.jp/web/?c=spot-2&amp;pk=3207",
      "page": "https://bokenjapan.com/okayama/maniwa/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -6153,7 +6161,7 @@
      "name": "Sobadokoro Yamada",
      "name_en": "Sobadokoro Yamada",
      "name_ja": "そば処 山田",
-     "description": "Soba restaurant in Maniwa. Official website listed.",
+     "description": "Soba restaurant in Maniwa.",
      "source_url": "http://togakushi.sakura.ne.jp/soba-yamada/index.html",
      "page": "https://bokenjapan.com/okayama/maniwa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -6162,7 +6170,7 @@
      "name": "Hinoe Sobadokoro Unjo-tei",
      "name_en": "Hinoe Sobadokoro Unjo-tei",
      "name_ja": "日野上そば処 雲上亭",
-     "description": "Soba restaurant in Maniwa. Opening hours (OSM): Sa-Su 11:00-16:00. Tagged with outdoor seating.",
+     "description": "Soba restaurant in Maniwa. Opening hours (OSM): Sa-Su 11:00-16:00. Offers outdoor seating.",
      "source_url": "https://www.openstreetmap.org/node/5184994698",
      "page": "https://bokenjapan.com/okayama/maniwa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -6195,7 +6203,7 @@
      "name": "Kaisenkatsuiki Sushi",
      "name_en": "Kaisenkatsuiki Sushi",
      "name_ja": "海鮮活いき寿司",
-     "description": "Sushi restaurant in Maniwa. Official website listed.",
+     "description": "Sushi restaurant in Maniwa.",
      "source_url": "http://bentenmaru.jp/?page_id=237",
      "page": "https://bokenjapan.com/okayama/maniwa/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -6204,7 +6212,7 @@
      "name": "Fuku Sushi",
      "name_en": "Fuku Sushi",
      "name_ja": "福寿司",
-     "description": "Sushi restaurant in Maniwa. Official website listed.",
+     "description": "Sushi restaurant in Maniwa.",
      "source_url": "https://www.maniwa.or.jp/web/?c=spot-2&amp;pk=3181",
      "page": "https://bokenjapan.com/okayama/maniwa/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -6573,8 +6581,8 @@
      "page": "https://bokenjapan.com/okayama/maniwa/stay/"
     },
     {
-     "name": "Mori no Garden Hiruzen Kurabu Nadja",
-     "name_en": "Mori no Garden Hiruzen Kurabu Nadja",
+     "name": "Mori no Garden Hiruzen Club Nadja",
+     "name_en": "Mori no Garden Hiruzen Club Nadja",
      "name_ja": "森のガーデン 蒜山倶楽部Ｎａｄｊａ",
      "description": "Lodging in the forest garden at Hiruzen Club Nadja, Maniwa, with three rooms, a restaurant, sauna, barbecue garden, and mini kitchen.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/56700/56700.html",
@@ -6686,7 +6694,7 @@
      "name": "Café in Mimasaka (#3)",
      "name_en": "Café in Mimasaka (#3)",
      "name_ja": "アゼリア館",
-     "description": "Café in Mimasaka. Official website listed.",
+     "description": "Café in Mimasaka.",
      "source_url": "https://www.city.mimasaka.lg.jp/kanko/spot/sightseeing_facility/1468366770697.html",
      "page": "https://bokenjapan.com/okayama/mimasaka/eat/cafe/",
      "category": "Cafe"
@@ -6701,8 +6709,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Sakushu Musashi Country Kurabu Restaurant",
-     "name_en": "Sakushu Musashi Country Kurabu Restaurant",
+     "name": "Sakushu Musashi Country Club Restaurant",
+     "name_en": "Sakushu Musashi Country Club Restaurant",
      "name_ja": "作州武蔵カントリー倶楽部 レストラン",
      "source_url": "https://tabelog.com/okayama/A3304/A330402/33010957/",
      "page": "https://bokenjapan.com/okayama/mimasaka/eat/casual/",
@@ -6720,7 +6728,7 @@
      "name": "Esei",
      "name_en": "Esei",
      "name_ja": "得正",
-     "description": "Restaurant in Mimasaka. Official website listed.",
+     "description": "Restaurant in Mimasaka.",
      "source_url": "https://www.tokumasa.net/",
      "page": "https://bokenjapan.com/okayama/mimasaka/eat/casual/",
      "category": "Casual"
@@ -6776,8 +6784,8 @@
      "category": "European"
     },
     {
-     "name": "Restaurant in Mimasaka (#20)",
-     "name_en": "Restaurant in Mimasaka (#20)",
+     "name": "Restaurant Sonoma",
+     "name_en": "Restaurant Sonoma",
      "name_ja": "レストラン ソノマ",
      "source_url": "https://tabelog.com/okayama/A3304/A330402/33001748/",
      "page": "https://bokenjapan.com/okayama/mimasaka/eat/european/",
@@ -6820,7 +6828,7 @@
      "name": "Karubi-ya Hakkai",
      "name_en": "Karubi-ya Hakkai",
      "name_ja": "カルビ屋八戒",
-     "description": "Barbecue restaurant in Mimasaka. Official website listed.",
+     "description": "Barbecue restaurant in Mimasaka.",
      "source_url": "http://www.daikoh-tsuyama.jp/hakkaim.html",
      "page": "https://bokenjapan.com/okayama/mimasaka/eat/meat/",
      "category": "Japanese (meat)"
@@ -6867,8 +6875,8 @@
      "category": "Other"
     },
     {
-     "name": "Restaurant in Mimasaka (#14)",
-     "name_en": "Restaurant in Mimasaka (#14)",
+     "name": "Popisupuringusu",
+     "name_en": "Popisupuringusu",
      "name_ja": "ポピースプリングス",
      "source_url": "https://tabelog.com/okayama/A3304/A330402/33010155/",
      "page": "https://bokenjapan.com/okayama/mimasaka/eat/other/",
@@ -6902,7 +6910,7 @@
      "name": "Higashiawakurakobo Kobushi-an",
      "name_en": "Higashiawakurakobo Kobushi-an",
      "name_ja": "東粟倉工房・こぶし庵",
-     "description": "Japanese restaurant in Mimasaka. Official website listed.",
+     "description": "Japanese restaurant in Mimasaka.",
      "source_url": "http://awakurakoubou.com/",
      "page": "https://bokenjapan.com/okayama/mimasaka/eat/other-japanese/",
      "category": "Other Japanese"
@@ -7373,16 +7381,16 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Sweets and bakery shop in Misaki (#9)",
-     "name_en": "Sweets and bakery shop in Misaki (#9)",
+     "name": "Kokoperi",
+     "name_en": "Kokoperi",
      "name_ja": "ココペリ",
      "source_url": "https://tabelog.com/okayama/A3301/A330103/33014533/",
      "page": "https://bokenjapan.com/okayama/misaki/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Sweets and bakery shop in Misaki (#15)",
-     "name_en": "Sweets and bakery shop in Misaki (#15)",
+     "name": "Ishi no Hana Hompo Showa Do",
+     "name_en": "Ishi no Hana Hompo Showa Do",
      "name_ja": "石の華本舗 昭和堂",
      "source_url": "https://tabelog.com/okayama/A3301/A330103/33004237/",
      "page": "https://bokenjapan.com/okayama/misaki/eat/sweets-bakeries/",
@@ -7794,7 +7802,7 @@
      "name": "Nimicha-ya",
      "name_en": "Nimicha-ya",
      "name_ja": "にいみ茶屋",
-     "description": "Restaurant in Niimi. Official website listed.",
+     "description": "Restaurant in Niimi.",
      "source_url": "https://niimi.mypl.net/shop/00000363065/",
      "page": "https://bokenjapan.com/okayama/niimi/eat/casual/",
      "category": "Casual"
@@ -7803,7 +7811,7 @@
      "name": "Loyce",
      "name_en": "Loyce",
      "name_ja": "ロイス",
-     "description": "Restaurant in Niimi. Tagged with takeaway. Official website listed.",
+     "description": "Restaurant in Niimi. Takeaway available.",
      "source_url": "https://loyce.jp/",
      "page": "https://bokenjapan.com/okayama/niimi/eat/casual/",
      "category": "Casual"
@@ -7852,7 +7860,7 @@
     {
      "name": "CAVATINA",
      "name_en": "CAVATINA",
-     "description": "Italian restaurant in Niimi. Official website listed.",
+     "description": "Italian restaurant in Niimi.",
      "source_url": "http://cavatina7.sakura.ne.jp/",
      "page": "https://bokenjapan.com/okayama/niimi/eat/european/",
      "category": "European"
@@ -8000,7 +8008,7 @@
      "name": "Regional restaurant in Niimi",
      "name_en": "Regional restaurant in Niimi",
      "name_ja": "味の庄 伯備",
-     "description": "Regional restaurant in Niimi. Official website listed.",
+     "description": "Regional restaurant in Niimi.",
      "source_url": "https://niimi.mypl.net/shop/00000361924/",
      "page": "https://bokenjapan.com/okayama/niimi/eat/other-japanese/",
      "category": "Other Japanese"
@@ -8009,7 +8017,7 @@
      "name": "Takoyaki fast-food restaurant in Niimi",
      "name_en": "Takoyaki fast-food restaurant in Niimi",
      "name_ja": "テイクアウトショップ にいみ",
-     "description": "Takoyaki fast-food restaurant in Niimi. Tagged with takeaway.",
+     "description": "Takoyaki fast-food restaurant in Niimi. Takeaway available.",
      "source_url": "https://www.openstreetmap.org/node/13068151079",
      "page": "https://bokenjapan.com/okayama/niimi/eat/other-japanese/",
      "category": "Other Japanese"
@@ -8580,7 +8588,7 @@
      "name": "Cafe Gallery Chakura",
      "name_en": "Cafe Gallery Chakura",
      "name_ja": "Cafe Gallery 茶蔵",
-     "description": "Café in Okayama. Official website listed.",
+     "description": "Café in Okayama.",
      "source_url": "https://cafegallerychakura.jimdofree.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/cafe/",
      "category": "Cafe"
@@ -8588,7 +8596,7 @@
     {
      "name": "Morning Side",
      "name_en": "Morning Side",
-     "description": "Café in Okayama. Opening hours (OSM): Th-Tu 07:00-18:00. Official website listed.",
+     "description": "Café in Okayama. Opening hours (OSM): Th-Tu 07:00-18:00.",
      "source_url": "https://kinoshitashouten.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/cafe/",
      "category": "Cafe"
@@ -8596,7 +8604,7 @@
     {
      "name": "THE COFFEE HOUSE",
      "name_en": "THE COFFEE HOUSE",
-     "description": "Café in Okayama. Opening hours (OSM): Mo-Su 08:00-22:00. Official website listed.",
+     "description": "Café in Okayama. Opening hours (OSM): Mo-Su 08:00-22:00.",
      "source_url": "https://kinoshitashouten.com/store/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/cafe/",
      "category": "Cafe"
@@ -8605,7 +8613,7 @@
      "name": "Cafe Rohasukurabu",
      "name_en": "Cafe Rohasukurabu",
      "name_ja": "カフェろはす倶楽部",
-     "description": "Café in Okayama. Opening hours (OSM): 09:15-16:00; Su off. Official website listed.",
+     "description": "Café in Okayama. Opening hours (OSM): 09:15-16:00; Su off.",
      "source_url": "https://miyake-miyakegroup.jp/lohas/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/cafe/",
      "category": "Cafe"
@@ -8614,7 +8622,7 @@
      "name": "Café in Okayama (#2)",
      "name_en": "Café in Okayama (#2)",
      "name_ja": "キムラヤベーカリカフェ",
-     "description": "Café in Okayama. Official website listed.",
+     "description": "Café in Okayama.",
      "source_url": "https://www.okayama-kimuraya.co.jp/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/cafe/",
      "category": "Cafe"
@@ -8623,7 +8631,7 @@
      "name": "Okayama Coffee-kan",
      "name_en": "Okayama Coffee-kan",
      "name_ja": "岡山珈琲館",
-     "description": "Café in Okayama. Opening hours (OSM): 06:30-24:00; Fr-Sa 06:30-01:00. Official website listed.",
+     "description": "Café in Okayama. Opening hours (OSM): 06:30-24:00; Fr-Sa 06:30-01:00.",
      "source_url": "https://asumo-cafe.co.jp/wp2/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/cafe/",
      "category": "Cafe"
@@ -8632,7 +8640,7 @@
      "name": "Okayama Coffee-kan",
      "name_en": "Okayama Coffee-kan",
      "name_ja": "岡山珈琲館",
-     "description": "Café in Okayama. Opening hours (OSM): 06:30-23:30. Official website listed.",
+     "description": "Café in Okayama. Opening hours (OSM): 06:30-23:30.",
      "source_url": "https://asumo-cafe.co.jp/wp2/shop_onotsuji/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/cafe/",
      "category": "Cafe"
@@ -8641,7 +8649,7 @@
      "name": "Café in Okayama (#1)",
      "name_en": "Café in Okayama (#1)",
      "name_ja": "烏城珈琲店",
-     "description": "Café in Okayama. Official website listed.",
+     "description": "Café in Okayama.",
      "source_url": "https://ujo-coffee.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/cafe/",
      "category": "Cafe"
@@ -8664,7 +8672,7 @@
     {
      "name": "BESSO COFFEE",
      "name_en": "BESSO COFFEE",
-     "description": "Fast-food restaurant in Okayama. Official website listed.",
+     "description": "Fast-food restaurant in Okayama.",
      "source_url": "https://www.besso-coffee.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/casual/",
      "category": "Casual"
@@ -8672,7 +8680,7 @@
     {
      "name": "Butter room",
      "name_en": "Butter room",
-     "description": "Fast-food restaurant in Okayama. Official website listed.",
+     "description": "Fast-food restaurant in Okayama.",
      "source_url": "https://shop.butterroom9.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/casual/",
      "category": "Casual"
@@ -8680,7 +8688,7 @@
     {
      "name": "COWBELLCOFFEE",
      "name_en": "COWBELLCOFFEE",
-     "description": "Fast-food restaurant in Okayama. Official website listed.",
+     "description": "Fast-food restaurant in Okayama.",
      "source_url": "https://naka-okayama.mypl.net/shop/00000357038/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/casual/",
      "category": "Casual"
@@ -8688,7 +8696,7 @@
     {
      "name": "GALLERY & CAFE ARIGATOU FARM",
      "name_en": "GALLERY & CAFE ARIGATOU FARM",
-     "description": "Fast-food restaurant in Okayama. Official website listed.",
+     "description": "Fast-food restaurant in Okayama.",
      "source_url": "https://www.arigatou-farm.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/casual/",
      "category": "Casual"
@@ -8696,7 +8704,7 @@
     {
      "name": "couleur",
      "name_en": "couleur",
-     "description": "Restaurant in Okayama. Official website listed.",
+     "description": "Restaurant in Okayama.",
      "source_url": "https://restaurant-couleur.jimdofree.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/casual/",
      "category": "Casual"
@@ -8705,7 +8713,7 @@
      "name": "Kagami No-tei",
      "name_en": "Kagami No-tei",
      "name_ja": "かがみの亭",
-     "description": "Restaurant in Okayama. Official website listed.",
+     "description": "Restaurant in Okayama.",
      "source_url": "https://kagaminotei.net/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/casual/",
      "category": "Casual"
@@ -8714,7 +8722,7 @@
      "name": "Katsudonburijokamachi",
      "name_en": "Katsudonburijokamachi",
      "name_ja": "かつ丼城下町",
-     "description": "Fried food fast-food restaurant in Okayama. Official website listed.",
+     "description": "Fried food fast-food restaurant in Okayama.",
      "source_url": "https://joukamachi.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/casual/",
      "category": "Casual"
@@ -8723,7 +8731,7 @@
      "name": "Shabu Shabu Miyama",
      "name_en": "Shabu Shabu Miyama",
      "name_ja": "しゃぶしゃぶ美山",
-     "description": "Restaurant in Okayama. Official website listed.",
+     "description": "Restaurant in Okayama.",
      "source_url": "https://shabushabumiyama.owst.jp/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/casual/",
      "category": "Casual"
@@ -8732,7 +8740,7 @@
      "name": "Hakokibi",
      "name_en": "Hakokibi",
      "name_ja": "はこきび",
-     "description": "Fast-food restaurant in Okayama. Official website listed.",
+     "description": "Fast-food restaurant in Okayama.",
      "source_url": "https://hacokibi.hatenadiary.jp/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/casual/",
      "category": "Casual"
@@ -8741,7 +8749,7 @@
      "name": "Casual restaurant in Okayama",
      "name_en": "Casual restaurant in Okayama",
      "name_ja": "ドチェチェ",
-     "description": "Restaurant in Okayama. Official website listed.",
+     "description": "Restaurant in Okayama.",
      "source_url": "https://docheche.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/casual/",
      "category": "Casual"
@@ -8750,7 +8758,7 @@
      "name": "Juice fast-food restaurant in Okayama",
      "name_en": "Juice fast-food restaurant in Okayama",
      "name_ja": "マルゴデリ",
-     "description": "Juice fast-food restaurant in Okayama. Official website listed.",
+     "description": "Juice fast-food restaurant in Okayama.",
      "source_url": "https://maru5deli.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/casual/",
      "category": "Casual"
@@ -8759,7 +8767,7 @@
      "name": "Restaurant Chalon",
      "name_en": "Restaurant Chalon",
      "name_ja": "レストラン シャロン",
-     "description": "Restaurant in Okayama. Opening hours (OSM): Mo-Su 10:00-19:30. Official website listed.",
+     "description": "Restaurant in Okayama. Opening hours (OSM): Mo-Su 10:00-19:30.",
      "source_url": "https://www.chalon.co.jp/okayama_airport",
      "page": "https://bokenjapan.com/okayama/okayama/eat/casual/",
      "category": "Casual"
@@ -8776,7 +8784,7 @@
      "name": "Indian restaurant in Okayama",
      "name_en": "Indian restaurant in Okayama",
      "name_ja": "インドダイニングカフェ アサ",
-     "description": "Indian restaurant in Okayama. Official website listed.",
+     "description": "Indian restaurant in Okayama.",
      "source_url": "https://dinningcafeasa.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -8785,7 +8793,7 @@
      "name": "MILAN",
      "name_en": "MILAN",
      "name_ja": "ミラン",
-     "description": "Indian restaurant in Okayama. Tagged with takeaway. Official website listed.",
+     "description": "Indian restaurant in Okayama. Takeaway available.",
      "source_url": "https://www.milanrestaurantjapan.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -8794,7 +8802,7 @@
      "name": "Chukasono",
      "name_en": "Chukasono",
      "name_ja": "中華園",
-     "description": "Chinese restaurant in Okayama. Official website listed.",
+     "description": "Chinese restaurant in Okayama.",
      "source_url": "https://www.chuka-en.jp/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -8802,7 +8810,7 @@
     {
      "name": "SATISFACTION",
      "name_en": "SATISFACTION",
-     "description": "Curry restaurant in Okayama. Official website listed.",
+     "description": "Curry restaurant in Okayama.",
      "source_url": "https://www.satisfaction.jp.net/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/curry/",
      "category": "Curry"
@@ -8853,7 +8861,7 @@
     {
      "name": "Italian Kitchen VANSAN",
      "name_en": "Italian Kitchen VANSAN",
-     "description": "Italian restaurant in Okayama. Official website listed.",
+     "description": "Italian restaurant in Okayama.",
      "source_url": "https://vansan-ltd.jp/vansan/okayama-ima/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/european/",
      "category": "European"
@@ -8861,7 +8869,7 @@
     {
      "name": "Palpasta",
      "name_en": "Palpasta",
-     "description": "Pasta restaurant in Okayama. Official website listed.",
+     "description": "Pasta restaurant in Okayama.",
      "source_url": "https://palpasta.jp/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/european/",
      "category": "European"
@@ -8870,7 +8878,7 @@
      "name": "Italian restaurant in Okayama",
      "name_en": "Italian restaurant in Okayama",
      "name_ja": "プリモピアット",
-     "description": "Italian restaurant in Okayama. Official website listed.",
+     "description": "Italian restaurant in Okayama.",
      "source_url": "https://primopiatte.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/european/",
      "category": "European"
@@ -8879,7 +8887,7 @@
      "name": "Kobe Sando-ya",
      "name_en": "Kobe Sando-ya",
      "name_ja": "神戸サンド屋",
-     "description": "Sandwich fast-food restaurant in Okayama. Tagged with takeaway. Official website listed.",
+     "description": "Sandwich fast-food restaurant in Okayama. Takeaway available.",
      "source_url": "https://sun-ste.com/okayama-ichibangai/shopping/?c=shop_view&amp;pk=1596003920",
      "page": "https://bokenjapan.com/okayama/okayama/eat/european/",
      "category": "European"
@@ -8912,7 +8920,7 @@
      "name": "Kazamidori",
      "name_en": "Kazamidori",
      "name_ja": "かざみどり",
-     "description": "Pub in Okayama. Official website listed.",
+     "description": "Pub in Okayama.",
      "source_url": "https://threearrows.jp/kazamidori.php",
      "page": "https://bokenjapan.com/okayama/okayama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -8921,7 +8929,7 @@
      "name": "Toriden",
      "name_en": "Toriden",
      "name_ja": "とりでん",
-     "description": "Pub in Okayama. Opening hours (OSM): 17:00-24:00. Official website listed.",
+     "description": "Pub in Okayama. Opening hours (OSM): 17:00-24:00.",
      "source_url": "https://www.tori-den.com/index.html",
      "page": "https://bokenjapan.com/okayama/okayama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -8930,7 +8938,7 @@
      "name": "Bar in Okayama",
      "name_en": "Bar in Okayama",
      "name_ja": "パブリックスタンド",
-     "description": "Bar in Okayama. Official website listed.",
+     "description": "Bar in Okayama.",
      "source_url": "https://www.public-stand.com/shops/okayama/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -8939,7 +8947,7 @@
      "name": "Aien",
      "name_en": "Aien",
      "name_ja": "愛えん",
-     "description": "Japanese pub in Okayama. Opening hours (OSM): 17:00-24:00. Official website listed.",
+     "description": "Japanese pub in Okayama. Opening hours (OSM): 17:00-24:00.",
      "source_url": "https://www.aien-kien.jp/a_index.php",
      "page": "https://bokenjapan.com/okayama/okayama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -8948,7 +8956,7 @@
      "name": "Pub in Okayama",
      "name_en": "Pub in Okayama",
      "name_ja": "酒場タイム☆トリップ",
-     "description": "Pub in Okayama. Opening hours (OSM): 17:00-24:00; Mo off. Official website listed.",
+     "description": "Pub in Okayama. Opening hours (OSM): 17:00-24:00; Mo off.",
      "source_url": "https://www.time--trip.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -8970,19 +8978,19 @@
      "category": "Japanese (meat)"
     },
     {
-     "name": "Barbecue restaurant in Okayama (#1)",
-     "name_en": "Barbecue restaurant in Okayama (#1)",
+     "name": "Yakiniku Mikan",
+     "name_en": "Yakiniku Mikan",
      "name_ja": "やきにく未完",
-     "description": "Barbecue restaurant in Okayama. Official website listed.",
+     "description": "Barbecue restaurant in Okayama.",
      "source_url": "https://mikan1.owst.jp/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/meat/",
      "category": "Japanese (meat)"
     },
     {
-     "name": "Barbecue restaurant in Okayama (#3)",
-     "name_en": "Barbecue restaurant in Okayama (#3)",
+     "name": "Auru",
+     "name_en": "Auru",
      "name_ja": "アウル",
-     "description": "Barbecue restaurant in Okayama. Official website listed.",
+     "description": "Barbecue restaurant in Okayama.",
      "source_url": "https://yakiniku-owl.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/meat/",
      "category": "Japanese (meat)"
@@ -8991,7 +8999,7 @@
      "name": "Steak restaurant in Okayama",
      "name_en": "Steak restaurant in Okayama",
      "name_ja": "シャロレー",
-     "description": "Steak restaurant in Okayama. Official website listed.",
+     "description": "Steak restaurant in Okayama.",
      "source_url": "https://www.okayama-meat.jp/charolais.html",
      "page": "https://bokenjapan.com/okayama/okayama/eat/meat/",
      "category": "Japanese (meat)"
@@ -9000,7 +9008,7 @@
      "name": "Steak no Mise Kibi",
      "name_en": "Steak no Mise Kibi",
      "name_ja": "ステーキの店 吉備",
-     "description": "Steak restaurant in Okayama. Official website listed.",
+     "description": "Steak restaurant in Okayama.",
      "source_url": "https://shop.create-restaurants.co.jp/1249/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/meat/",
      "category": "Japanese (meat)"
@@ -9009,7 +9017,7 @@
      "name": "Steak Kobo Sakura",
      "name_en": "Steak Kobo Sakura",
      "name_ja": "ステーキ工房 桜",
-     "description": "Steak restaurant in Okayama. Official website listed.",
+     "description": "Steak restaurant in Okayama.",
      "source_url": "https://www.dietter.com/sakura/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/meat/",
      "category": "Japanese (meat)"
@@ -9018,7 +9026,7 @@
      "name": "Ichiban-kan",
      "name_en": "Ichiban-kan",
      "name_ja": "一番館",
-     "description": "Barbecue restaurant in Okayama. Official website listed.",
+     "description": "Barbecue restaurant in Okayama.",
      "source_url": "https://ichibankan-takeout.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/meat/",
      "category": "Japanese (meat)"
@@ -9027,7 +9035,7 @@
      "name": "Kyomotsunabe Yakiniku Horumon Shushu",
      "name_en": "Kyomotsunabe Yakiniku Horumon Shushu",
      "name_ja": "京もつ鍋 焼肉ホルモン 朱々",
-     "description": "Barbecue restaurant in Okayama. Official website listed.",
+     "description": "Barbecue restaurant in Okayama.",
      "source_url": "https://shu-shu-okayama.com/menu/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/meat/",
      "category": "Japanese (meat)"
@@ -9036,7 +9044,7 @@
      "name": "Kyomotsunabe Horumon Shushu",
      "name_en": "Kyomotsunabe Horumon Shushu",
      "name_ja": "京もつ鍋ホルモン朱々",
-     "description": "Barbecue restaurant in Okayama. Official website listed.",
+     "description": "Barbecue restaurant in Okayama.",
      "source_url": "https://shu-shu-okayama.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/meat/",
      "category": "Japanese (meat)"
@@ -9045,7 +9053,7 @@
      "name": "Taishu Yakiniku Maido",
      "name_en": "Taishu Yakiniku Maido",
      "name_ja": "大衆焼肉まいど",
-     "description": "Barbecue restaurant in Okayama. Official website listed.",
+     "description": "Barbecue restaurant in Okayama.",
      "source_url": "https://www.kishimoto-shoji.com/access.html",
      "page": "https://bokenjapan.com/okayama/okayama/eat/meat/",
      "category": "Japanese (meat)"
@@ -9054,7 +9062,7 @@
      "name": "Hisashihisashien",
      "name_en": "Hisashihisashien",
      "name_ja": "寿々苑",
-     "description": "Barbecue restaurant in Okayama. Official website listed.",
+     "description": "Barbecue restaurant in Okayama.",
      "source_url": "https://ys-intel.com/jujuen/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/meat/",
      "category": "Japanese (meat)"
@@ -9063,7 +9071,7 @@
      "name": "Higashikaze",
      "name_en": "Higashikaze",
      "name_ja": "東風",
-     "description": "Barbecue restaurant in Okayama. Official website listed.",
+     "description": "Barbecue restaurant in Okayama.",
      "source_url": "https://cochi2.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/meat/",
      "category": "Japanese (meat)"
@@ -9072,7 +9080,7 @@
      "name": "Sumittetsu",
      "name_en": "Sumittetsu",
      "name_ja": "炭一鉄",
-     "description": "Barbecue restaurant in Okayama. Opening hours (OSM): 17:00-02:00, Sa-Su 11:30-02:00. Official website listed.",
+     "description": "Barbecue restaurant in Okayama. Opening hours (OSM): 17:00-02:00, Sa-Su 11:30-02:00.",
      "source_url": "https://ittetsu-aoe.owst.jp/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/meat/",
      "category": "Japanese (meat)"
@@ -9081,7 +9089,7 @@
      "name": "Yakiniku-ya Uroko",
      "name_en": "Yakiniku-ya Uroko",
      "name_ja": "焼肉家 うろこ",
-     "description": "Barbecue restaurant in Okayama. Official website listed.",
+     "description": "Barbecue restaurant in Okayama.",
      "source_url": "https://yakiniku-uroko.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/meat/",
      "category": "Japanese (meat)"
@@ -9090,7 +9098,7 @@
      "name": "Yakiniku Ushicho",
      "name_en": "Yakiniku Ushicho",
      "name_ja": "焼肉牛長",
-     "description": "Barbecue restaurant in Okayama. Opening hours (OSM): 11:00-14:15,17:00-23:00; Tu off. Official website listed.",
+     "description": "Barbecue restaurant in Okayama. Opening hours (OSM): 11:00-14:15,17:00-23:00; Tu off.",
      "source_url": "https://www.gyu-cho.jp/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/meat/",
      "category": "Japanese (meat)"
@@ -9099,7 +9107,7 @@
      "name": "Yakiniku Hidekichi",
      "name_en": "Yakiniku Hidekichi",
      "name_ja": "焼肉秀吉",
-     "description": "Barbecue restaurant in Okayama. Opening hours (OSM): 11:00-15:00,17:00-01:00; Sa-Su 11:00-01:00. Official website listed.",
+     "description": "Barbecue restaurant in Okayama. Opening hours (OSM): 11:00-15:00,17:00-01:00; Sa-Su 11:00-01:00.",
      "source_url": "https://hideyoshitaianshimonakano.owst.jp/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/meat/",
      "category": "Japanese (meat)"
@@ -9108,16 +9116,16 @@
      "name": "Yakiniku Shokudo Burisuke",
      "name_en": "Yakiniku Shokudo Burisuke",
      "name_ja": "焼肉食堂ブリスケ",
-     "description": "Barbecue restaurant in Okayama. Official website listed.",
+     "description": "Barbecue restaurant in Okayama.",
      "source_url": "https://www.brisket.jp/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/meat/",
      "category": "Japanese (meat)"
     },
     {
-     "name": "Barbecue restaurant in Okayama (#2)",
-     "name_en": "Barbecue restaurant in Okayama (#2)",
+     "name": "Niku no Satou Shoten",
+     "name_en": "Niku no Satou Shoten",
      "name_ja": "肉のサトウ商店",
-     "description": "Barbecue restaurant in Okayama. Official website listed.",
+     "description": "Barbecue restaurant in Okayama.",
      "source_url": "https://www.niku-satou.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/meat/",
      "category": "Japanese (meat)"
@@ -9126,7 +9134,7 @@
      "name": "Teppanka-ya No",
      "name_en": "Teppanka-ya No",
      "name_ja": "鉄板かや乃",
-     "description": "Steak restaurant in Okayama. Official website listed.",
+     "description": "Steak restaurant in Okayama.",
      "source_url": "https://www.teppan-kayano.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/meat/",
      "category": "Japanese (meat)"
@@ -9135,7 +9143,7 @@
      "name": "Chicken restaurant in Okayama",
      "name_en": "Chicken restaurant in Okayama",
      "name_ja": "骨付鳥パチャマンカ",
-     "description": "Chicken restaurant in Okayama. Opening hours (OSM): 11:30-14:00,17:00-22:00. Official website listed.",
+     "description": "Chicken restaurant in Okayama. Opening hours (OSM): 11:30-14:00,17:00-22:00.",
      "source_url": "https://mishima-chicken.com/restaurant/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/meat/",
      "category": "Japanese (meat)"
@@ -9169,7 +9177,7 @@
      "name": "Arigato Yaki Udon",
      "name_en": "Arigato Yaki Udon",
      "name_ja": "ありがとう 焼うどん",
-     "description": "Udon restaurant in Okayama. Tagged with takeaway. Official website listed.",
+     "description": "Udon restaurant in Okayama. Takeaway available.",
      "source_url": "https://www.arigatou-farm.com/shop/#yakiudon",
      "page": "https://bokenjapan.com/okayama/okayama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -9178,7 +9186,7 @@
      "name": "Shoga-ya",
      "name_en": "Shoga-ya",
      "name_ja": "しょうが屋",
-     "description": "Udon restaurant in Okayama. Official website listed.",
+     "description": "Udon restaurant in Okayama.",
      "source_url": "https://i9xd6.crayonsite.info/p/11/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -9187,7 +9195,7 @@
      "name": "Ramen Michi",
      "name_en": "Ramen Michi",
      "name_ja": "らーめん 道",
-     "description": "Ramen restaurant in Okayama. Official website listed.",
+     "description": "Ramen restaurant in Okayama.",
      "source_url": "https://ramenmichi-okayama.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -9196,7 +9204,7 @@
      "name": "Betokon Ramen Kurashikishinkyo",
      "name_en": "Betokon Ramen Kurashikishinkyo",
      "name_ja": "ベトコンラーメン 倉敷新京",
-     "description": "Ramen restaurant in Okayama. Official website listed.",
+     "description": "Ramen restaurant in Okayama.",
      "source_url": "https://betokon-ramen.oufoods.co.jp/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -9205,7 +9213,7 @@
      "name": "Momoyama-tei",
      "name_en": "Momoyama-tei",
      "name_ja": "桃山亭",
-     "description": "Udon restaurant in Okayama. Official website listed.",
+     "description": "Udon restaurant in Okayama.",
      "source_url": "https://www.momoyamatei.jp/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -9214,7 +9222,7 @@
      "name": "Menba Tadokorosho",
      "name_en": "Menba Tadokorosho",
      "name_ja": "麺場 田所商店",
-     "description": "Ramen restaurant in Okayama. Official website listed.",
+     "description": "Ramen restaurant in Okayama.",
      "source_url": "https://misoya.net/store/okayamaniwase/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -9223,7 +9231,7 @@
      "name": "Menya Takumi",
      "name_en": "Menya Takumi",
      "name_ja": "麺屋匠",
-     "description": "Ramen restaurant in Okayama. Official website listed.",
+     "description": "Ramen restaurant in Okayama.",
      "source_url": "https://ramen-takumi.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -9232,7 +9240,7 @@
      "name": "Katsu-tei",
      "name_en": "Katsu-tei",
      "name_ja": "かつ亭",
-     "description": "Friture restaurant in Okayama. Official website listed.",
+     "description": "Friture restaurant in Okayama.",
      "source_url": "https://www.katsutei.co.jp/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/other/",
      "category": "Other"
@@ -9265,7 +9273,7 @@
      "name": "Ryoutei Hokanmachi Main Store",
      "name_en": "Ryoutei Hokanmachi Main Store",
      "name_ja": "Ryoutei 奉還町本店",
-     "description": "Japanese restaurant in Okayama. Opening hours (OSM): Mo-Su 11:30-23:30. Official website listed.",
+     "description": "Japanese restaurant in Okayama. Opening hours (OSM): Mo-Su 11:30-23:30.",
      "source_url": "http://www.233-3959.com/pc/ryoutei/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -9274,7 +9282,7 @@
      "name": "Onigiricha-ya",
      "name_en": "Onigiricha-ya",
      "name_ja": "おにぎり茶屋",
-     "description": "Japanese restaurant in Okayama. Official website listed.",
+     "description": "Japanese restaurant in Okayama.",
      "source_url": "https://www.onigiri-chaya.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -9283,7 +9291,7 @@
      "name": "Tori Soba Ota",
      "name_en": "Tori Soba Ota",
      "name_ja": "とりそば太田",
-     "description": "Restaurant serving Japanese and soba in Okayama. Opening hours (OSM): Mo-Su 11:00-20:00. Official website listed.",
+     "description": "Restaurant serving Japanese and soba in Okayama. Opening hours (OSM): Mo-Su 11:00-20:00.",
      "source_url": "https://www.torisoba.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -9292,7 +9300,7 @@
      "name": "Japanese restaurant in Okayama",
      "name_en": "Japanese restaurant in Okayama",
      "name_ja": "ザ・めしや",
-     "description": "Japanese restaurant in Okayama. Opening hours (OSM): 11:00-01:00. Official website listed.",
+     "description": "Japanese restaurant in Okayama. Opening hours (OSM): 11:00-01:00.",
      "source_url": "https://www.meshiya.co.jp/meshiya/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -9301,7 +9309,7 @@
      "name": "Ajitsune",
      "name_en": "Ajitsune",
      "name_ja": "味恒",
-     "description": "Japanese restaurant in Okayama. Official website listed.",
+     "description": "Japanese restaurant in Okayama.",
      "source_url": "https://ajitsune.sakura.ne.jp/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -9310,7 +9318,7 @@
      "name": "Miyamotomunashi",
      "name_en": "Miyamotomunashi",
      "name_ja": "宮本むなし",
-     "description": "Japanese restaurant in Okayama. Opening hours (OSM): 11:00-23:00. Official website listed.",
+     "description": "Japanese restaurant in Okayama. Opening hours (OSM): 11:00-23:00.",
      "source_url": "https://m-munashi.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -9319,7 +9327,7 @@
      "name": "Jionshoja",
      "name_en": "Jionshoja",
      "name_ja": "慈恩精舎",
-     "description": "Japanese restaurant in Okayama. Official website listed.",
+     "description": "Japanese restaurant in Okayama.",
      "source_url": "https://www.renkon.co.jp/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -9328,7 +9336,7 @@
      "name": "Nihonryori Kibizen",
      "name_en": "Nihonryori Kibizen",
      "name_ja": "日本料理 吉備膳",
-     "description": "Japanese restaurant in Okayama. Official website listed.",
+     "description": "Japanese restaurant in Okayama.",
      "source_url": "https://www.granvia-oka.co.jp/restaurant/kibizen/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -9337,7 +9345,7 @@
      "name": "Akakara",
      "name_en": "Akakara",
      "name_ja": "赤から",
-     "description": "Japanese restaurant in Okayama. Official website listed.",
+     "description": "Japanese restaurant in Okayama.",
      "source_url": "https://akakara.jp/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -9387,7 +9395,7 @@
      "name": "Ito",
      "name_en": "Ito",
      "name_ja": "いとう",
-     "description": "Seafood restaurant in Okayama. Official website listed.",
+     "description": "Seafood restaurant in Okayama.",
      "source_url": "https://okayama-itou.biz-option.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -9396,7 +9404,7 @@
      "name": "Sushi Unagi Marukatsu",
      "name_en": "Sushi Unagi Marukatsu",
      "name_ja": "すし・うなぎ まるかつ",
-     "description": "Sushi restaurant in Okayama. Opening hours (OSM): 11:30-14:00,17:00-20:30; We off. Official website listed.",
+     "description": "Sushi restaurant in Okayama. Opening hours (OSM): 11:30-14:00,17:00-20:30; We off.",
      "source_url": "https://marukatsu1949.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -9405,7 +9413,7 @@
      "name": "Wafu Dining Sushifune",
      "name_en": "Wafu Dining Sushifune",
      "name_ja": "和風ダイニング すし舟",
-     "description": "Sushi restaurant in Okayama. Official website listed.",
+     "description": "Sushi restaurant in Okayama.",
      "source_url": "https://www.sushifune-okayama.jp/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -9414,7 +9422,7 @@
      "name": "Myojinmaru",
      "name_en": "Myojinmaru",
      "name_ja": "明神丸",
-     "description": "Restaurant serving fish and seafood in Okayama. Official website listed.",
+     "description": "Restaurant serving fish and seafood in Okayama.",
      "source_url": "https://shop.myojinmaru.jp/shop/aeonmall/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -9423,7 +9431,7 @@
      "name": "Momotarozushi",
      "name_en": "Momotarozushi",
      "name_ja": "桃太郎ずし",
-     "description": "Sushi restaurant in Okayama. Official website listed.",
+     "description": "Sushi restaurant in Okayama.",
      "source_url": "https://totonme.jp/momosushi/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -9432,7 +9440,7 @@
      "name": "Tsukiji Shokudo Genchan",
      "name_en": "Tsukiji Shokudo Genchan",
      "name_ja": "築地食堂 源ちゃん",
-     "description": "Seafood restaurant in Okayama. Official website listed.",
+     "description": "Seafood restaurant in Okayama.",
      "source_url": "https://genchan.jp/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -9449,7 +9457,7 @@
      "name": "Kotami-ya Cafe &Cafe Hanare",
      "name_en": "Kotami-ya Cafe &Cafe Hanare",
      "name_ja": "古民家カフェ＆Cafe Hanare",
-     "description": "Cake café in Okayama. Official website listed.",
+     "description": "Cake café in Okayama.",
      "source_url": "https://okafuru.com/cafe/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -9458,7 +9466,7 @@
      "name": "Dessert restaurant in Okayama",
      "name_en": "Dessert restaurant in Okayama",
      "name_ja": "観音山フルーツパーラーOKAYAMA",
-     "description": "Dessert restaurant in Okayama. Official website listed.",
+     "description": "Dessert restaurant in Okayama.",
      "source_url": "https://www.kannonyama-okayama.com/",
      "page": "https://bokenjapan.com/okayama/okayama/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -10456,7 +10464,7 @@
      "name": "Casual restaurant in Setouchi",
      "name_en": "Casual restaurant in Setouchi",
      "name_ja": "アルバンモー",
-     "description": "Restaurant in Setouchi. Official website listed.",
+     "description": "Restaurant in Setouchi.",
      "source_url": "https://www.erbenmu.com/",
      "page": "https://bokenjapan.com/okayama/setouchi/eat/casual/",
      "category": "Casual"
@@ -10465,7 +10473,7 @@
      "name": "Restaurant Burura Inn Ipponmatsu",
      "name_en": "Restaurant Burura Inn Ipponmatsu",
      "name_ja": "レストラン ブルーライン一本松",
-     "description": "Restaurant in Setouchi. Official website listed.",
+     "description": "Restaurant in Setouchi.",
      "source_url": "https://ipponmatsu-blueline.com/",
      "page": "https://bokenjapan.com/okayama/setouchi/eat/casual/",
      "category": "Casual"
@@ -10474,7 +10482,7 @@
      "name": "Fast-food restaurant in Setouchi",
      "name_en": "Fast-food restaurant in Setouchi",
      "name_ja": "喫茶 邑 YOU",
-     "description": "Fast-food restaurant in Setouchi. Official website listed.",
+     "description": "Fast-food restaurant in Setouchi.",
      "source_url": "https://www.kissa-you1975.com/",
      "page": "https://bokenjapan.com/okayama/setouchi/eat/casual/",
      "category": "Casual"
@@ -10483,7 +10491,7 @@
      "name": "Tsubakisabo",
      "name_en": "Tsubakisabo",
      "name_ja": "椿茶房",
-     "description": "Fast-food restaurant in Setouchi. Official website listed.",
+     "description": "Fast-food restaurant in Setouchi.",
      "source_url": "https://yumeji-art-museum.com/cafe/",
      "page": "https://bokenjapan.com/okayama/setouchi/eat/casual/",
      "category": "Casual"
@@ -10492,7 +10500,7 @@
      "name": "USHIMADO KAIGANMONOGATARI",
      "name_en": "USHIMADO KAIGANMONOGATARI",
      "name_ja": "海岸物語",
-     "description": "Restaurant in Setouchi. Official website listed.",
+     "description": "Restaurant in Setouchi.",
      "source_url": "https://yuriaozeki.wixsite.com/kaiganmonogatari",
      "page": "https://bokenjapan.com/okayama/setouchi/eat/casual/",
      "category": "Casual"
@@ -10500,7 +10508,7 @@
     {
      "name": "Cafe WEST",
      "name_en": "Cafe WEST",
-     "description": "Fast-food restaurant in Setouchi. Official website listed.",
+     "description": "Fast-food restaurant in Setouchi.",
      "source_url": "https://higashi-okayama.mypl.net/shop/00000360128/",
      "page": "https://bokenjapan.com/okayama/setouchi/eat/casual/",
      "category": "Casual"
@@ -10509,7 +10517,7 @@
      "name": "Okonomiyaki Kawauchi-ya Gochi-ya",
      "name_en": "Okonomiyaki Kawauchi-ya Gochi-ya",
      "name_ja": "お好み焼き 河内屋 ごちや",
-     "description": "Restaurant in Setouchi. Tagged with takeaway. Official website listed.",
+     "description": "Restaurant in Setouchi. Takeaway available.",
      "source_url": "https://www.i-setouchi.org/gourmet/10075",
      "page": "https://bokenjapan.com/okayama/setouchi/eat/casual/",
      "category": "Casual"
@@ -10518,22 +10526,22 @@
      "name": "Taiwanryori Tenpuku",
      "name_en": "Taiwanryori Tenpuku",
      "name_ja": "台湾料理 天福",
-     "description": "Restaurant serving Asian and taiwanese in Setouchi. Official website listed.",
+     "description": "Restaurant serving Asian and taiwanese in Setouchi.",
      "source_url": "https://bchjs.sessya.net/chugoku/index.html",
      "page": "https://bokenjapan.com/okayama/setouchi/eat/chinese-asian/",
      "category": "Chinese & Asian"
     },
     {
-     "name": "European restaurant in Setouchi (#1)",
-     "name_en": "European restaurant in Setouchi (#1)",
+     "name": "Za Terrace",
+     "name_en": "Za Terrace",
      "name_ja": "ザ テラス",
      "source_url": "https://tabelog.com/okayama/A3305/A330502/33013463/",
      "page": "https://bokenjapan.com/okayama/setouchi/eat/european/",
      "category": "European"
     },
     {
-     "name": "European restaurant in Setouchi (#5)",
-     "name_en": "European restaurant in Setouchi (#5)",
+     "name": "Rossa",
+     "name_en": "Rossa",
      "name_ja": "ロッサ",
      "source_url": "https://tabelog.com/okayama/A3305/A330502/33012689/",
      "page": "https://bokenjapan.com/okayama/setouchi/eat/european/",
@@ -10556,8 +10564,8 @@
      "category": "European"
     },
     {
-     "name": "European restaurant in Setouchi (#14)",
-     "name_en": "European restaurant in Setouchi (#14)",
+     "name": "Manchizupittseria",
+     "name_en": "Manchizupittseria",
      "name_ja": "マンチズピッツェリア",
      "source_url": "https://tabelog.com/okayama/A3305/A330502/33014425/",
      "page": "https://bokenjapan.com/okayama/setouchi/eat/european/",
@@ -10574,7 +10582,7 @@
     {
      "name": "MUNCH'S pizzeria",
      "name_en": "MUNCH'S pizzeria",
-     "description": "Pizza restaurant in Setouchi. Official website listed.",
+     "description": "Pizza restaurant in Setouchi.",
      "source_url": "http://munchspizzeria.com/",
      "page": "https://bokenjapan.com/okayama/setouchi/eat/european/",
      "category": "European"
@@ -10583,7 +10591,7 @@
      "name": "Italian restaurant in Setouchi",
      "name_en": "Italian restaurant in Setouchi",
      "name_ja": "オーベルジュはまだ",
-     "description": "Italian restaurant in Setouchi. Official website listed.",
+     "description": "Italian restaurant in Setouchi.",
      "source_url": "https://oitate.jimdo.com/",
      "page": "https://bokenjapan.com/okayama/setouchi/eat/european/",
      "category": "European"
@@ -10600,7 +10608,7 @@
      "name": "Toraken",
      "name_en": "Toraken",
      "name_ja": "とら兼",
-     "description": "Barbecue restaurant in Setouchi. Opening hours (OSM): Mo-Su 11:00-22:00. Official website listed.",
+     "description": "Barbecue restaurant in Setouchi. Opening hours (OSM): Mo-Su 11:00-22:00.",
      "source_url": "http://www.torakane.jp/",
      "page": "https://bokenjapan.com/okayama/setouchi/eat/meat/",
      "category": "Japanese (meat)"
@@ -10609,7 +10617,7 @@
      "name": "Tengu",
      "name_en": "Tengu",
      "name_ja": "天狗",
-     "description": "Barbecue restaurant in Setouchi. Opening hours (OSM): Mo-Su 11:00-22:00. Official website listed.",
+     "description": "Barbecue restaurant in Setouchi. Opening hours (OSM): Mo-Su 11:00-22:00.",
      "source_url": "http://www.jbline.co.jp/yakiniku-tengu/index.html",
      "page": "https://bokenjapan.com/okayama/setouchi/eat/meat/",
      "category": "Japanese (meat)"
@@ -10666,7 +10674,7 @@
      "name": "Chuka Soba Han",
      "name_en": "Chuka Soba Han",
      "name_ja": "中華そば 伴",
-     "description": "Ramen restaurant in Setouchi. Official website listed.",
+     "description": "Ramen restaurant in Setouchi.",
      "source_url": "http://www.maruban.jp/",
      "page": "https://bokenjapan.com/okayama/setouchi/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -10675,7 +10683,7 @@
      "name": "Kasa-ya Oku",
      "name_en": "Kasa-ya Oku",
      "name_ja": "傘屋 邑久店",
-     "description": "Ramen restaurant in Setouchi. Opening hours (OSM): Mo-Su 11:00-21:00. Official website listed.",
+     "description": "Ramen restaurant in Setouchi. Opening hours (OSM): Mo-Su 11:00-21:00.",
      "source_url": "https://www.i-setouchi.org/gourmet/10089",
      "page": "https://bokenjapan.com/okayama/setouchi/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -10684,7 +10692,7 @@
      "name": "Hawaiian restaurant in Setouchi",
      "name_en": "Hawaiian restaurant in Setouchi",
      "name_ja": "ザ・アイランド 西脇海岸通り店",
-     "description": "Hawaiian restaurant in Setouchi. Opening hours (OSM): 10:30-17:00. Official website listed.",
+     "description": "Hawaiian restaurant in Setouchi. Opening hours (OSM): 10:30-17:00.",
      "source_url": "https://www.theislandjp.com/",
      "page": "https://bokenjapan.com/okayama/setouchi/eat/other/",
      "category": "Other"
@@ -10701,7 +10709,7 @@
      "name": "Anagoryorisenmonten ~ Aoshima",
      "name_en": "Anagoryorisenmonten ~ Aoshima",
      "name_ja": "～あなご料理専門店～ 青島",
-     "description": "Restaurant serving seafood and Japanese in Setouchi. Opening hours (OSM): Mo-Su 11:00-14:30. Official website listed.",
+     "description": "Restaurant serving seafood and Japanese in Setouchi. Opening hours (OSM): Mo-Su 11:00-14:30.",
      "source_url": "https://ushimado-aoshima.com/",
      "page": "https://bokenjapan.com/okayama/setouchi/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -10734,7 +10742,7 @@
      "name": "Ice-cream shop in Setouchi",
      "name_en": "Ice-cream shop in Setouchi",
      "name_ja": "小町産業 牛窓オリーブパレス店",
-     "description": "Ice-cream shop in Setouchi. Official website listed.",
+     "description": "Ice-cream shop in Setouchi.",
      "source_url": "https://www.komachi-sangyo.co.jp/",
      "page": "https://bokenjapan.com/okayama/setouchi/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -10892,7 +10900,7 @@
      "page": "https://bokenjapan.com/okayama/setouchi/see/"
     },
     {
-     "name": "Maejima Ferii",
+     "name": "Maejima Ferry",
      "source_url": "https://www.okayama-kanko.jp/spot/detail_11158.html",
      "page": "https://bokenjapan.com/okayama/setouchi/see/"
     },
@@ -10922,7 +10930,7 @@
      "page": "https://bokenjapan.com/okayama/setouchi/see/"
     },
     {
-     "name": "Bizen Yaki Gyararii Wakamiya",
+     "name": "Bizen Yaki Gallery Wakamiya",
      "source_url": "https://www.okayama-kanko.jp/spot/detail_11176.html",
      "page": "https://bokenjapan.com/okayama/setouchi/see/"
     },
@@ -11007,7 +11015,7 @@
      "page": "https://bokenjapan.com/okayama/setouchi/see/"
     },
     {
-     "name": "Okayamaken Ushimado Yottohaba Club Hausu",
+     "name": "Okayamaken Ushimado Yottohaba Club House",
      "source_url": "https://www.okayama-kanko.jp/spot/detail_14819.html",
      "page": "https://bokenjapan.com/okayama/setouchi/see/"
     },
@@ -11062,7 +11070,7 @@
      "page": "https://bokenjapan.com/okayama/setouchi/see/"
     },
     {
-     "name": "Kinosuke Gyararii",
+     "name": "Kinosuke Gallery",
      "source_url": "https://www.okayama-kanko.jp/spot/detail_15705.html",
      "page": "https://bokenjapan.com/okayama/setouchi/see/"
     },
@@ -11842,7 +11850,7 @@
      "name": "Kanaido",
      "name_en": "Kanaido",
      "name_ja": "かないど",
-     "description": "Restaurant in Soja. Official website listed.",
+     "description": "Restaurant in Soja.",
      "source_url": "https://kanaido.com/",
      "page": "https://bokenjapan.com/okayama/soja/eat/casual/",
      "category": "Casual"
@@ -11851,7 +11859,7 @@
      "name": "Mahoroba Coffee",
      "name_en": "Mahoroba Coffee",
      "name_ja": "まほろば珈琲店",
-     "description": "Restaurant in Soja. Official website listed.",
+     "description": "Restaurant in Soja.",
      "source_url": "https://mahoroba-coffee.jp/",
      "page": "https://bokenjapan.com/okayama/soja/eat/casual/",
      "category": "Casual"
@@ -11860,7 +11868,7 @@
      "name": "Yakiniku Guriguri-ya",
      "name_en": "Yakiniku Guriguri-ya",
      "name_ja": "焼肉ぐりぐり家",
-     "description": "Restaurant in Soja. Official website listed.",
+     "description": "Restaurant in Soja.",
      "source_url": "https://griglia.fresca-co.jp/store/soja/",
      "page": "https://bokenjapan.com/okayama/soja/eat/casual/",
      "category": "Casual"
@@ -11869,7 +11877,7 @@
      "name": "Kibikibi-tei",
      "name_en": "Kibikibi-tei",
      "name_ja": "きびきび亭",
-     "description": "Restaurant in Soja. Official website listed.",
+     "description": "Restaurant in Soja.",
      "source_url": "http://www.yamatenoichi.com/kibikibitei/",
      "page": "https://bokenjapan.com/okayama/soja/eat/casual/",
      "category": "Casual"
@@ -11878,7 +11886,7 @@
      "name": "Yushokubo-ya",
      "name_en": "Yushokubo-ya",
      "name_ja": "遊食房屋",
-     "description": "Restaurant in Soja. Official website listed.",
+     "description": "Restaurant in Soja.",
      "source_url": "https://www.yusyokubouya.com/",
      "page": "https://bokenjapan.com/okayama/soja/eat/casual/",
      "category": "Casual"
@@ -11973,8 +11981,8 @@
      "category": "Casual"
     },
     {
-     "name": "Casual restaurant in Soja (#1)",
-     "name_en": "Casual restaurant in Soja (#1)",
+     "name": "Yakitori Ichiban",
+     "name_en": "Yakitori Ichiban",
      "name_ja": "やきとり一番",
      "description": "Restaurant in Soja.",
      "source_url": "https://www.openstreetmap.org/node/6907984190",
@@ -11982,8 +11990,8 @@
      "category": "Casual"
     },
     {
-     "name": "Casual restaurant in Soja (#2)",
-     "name_en": "Casual restaurant in Soja (#2)",
+     "name": "Yaki Tori Sen",
+     "name_en": "Yaki Tori Sen",
      "name_ja": "やき鳥 仙",
      "description": "Restaurant in Soja.",
      "source_url": "https://www.openstreetmap.org/node/6908379401",
@@ -12020,7 +12028,7 @@
      "name": "Indian restaurant in Soja",
      "name_en": "Indian restaurant in Soja",
      "name_ja": "インドレストラン アラティ 総社店",
-     "description": "Indian restaurant in Soja. Official website listed.",
+     "description": "Indian restaurant in Soja.",
      "source_url": "https://arati-group.com/",
      "page": "https://bokenjapan.com/okayama/soja/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -12041,8 +12049,8 @@
      "category": "European"
     },
     {
-     "name": "European restaurant in Soja (#16)",
-     "name_en": "European restaurant in Soja (#16)",
+     "name": "Nekomachi",
+     "name_en": "Nekomachi",
      "name_ja": "ネコマチ",
      "source_url": "https://tabelog.com/okayama/A3301/A330102/33010793/",
      "page": "https://bokenjapan.com/okayama/soja/eat/european/",
@@ -12065,8 +12073,8 @@
      "category": "European"
     },
     {
-     "name": "European restaurant in Soja (#24)",
-     "name_en": "European restaurant in Soja (#24)",
+     "name": "Pizzeria Chitcho",
+     "name_en": "Pizzeria Chitcho",
      "name_ja": "ピッツェリア チッチョ",
      "source_url": "https://tabelog.com/okayama/A3301/A330102/33013793/",
      "page": "https://bokenjapan.com/okayama/soja/eat/european/",
@@ -12075,7 +12083,7 @@
     {
      "name": "krAck",
      "name_en": "krAck",
-     "description": "Spanish restaurant in Soja. Official website listed.",
+     "description": "Spanish restaurant in Soja.",
      "source_url": "https://www.krackpottery.com/",
      "page": "https://bokenjapan.com/okayama/soja/eat/european/",
      "category": "European"
@@ -12084,7 +12092,7 @@
      "name": "Pizza fast-food restaurant in Soja",
      "name_en": "Pizza fast-food restaurant in Soja",
      "name_ja": "ピザ ベリーズ",
-     "description": "Pizza fast-food restaurant in Soja. Tagged with takeaway and delivery. Official website listed.",
+     "description": "Pizza fast-food restaurant in Soja. Offers takeaway and delivery.",
      "source_url": "http://verysmix.blog79.fc2.com/",
      "page": "https://bokenjapan.com/okayama/soja/eat/european/",
      "category": "European"
@@ -12205,7 +12213,7 @@
      "name": "Shiogensui",
      "name_en": "Shiogensui",
      "name_ja": "塩元帥",
-     "description": "Ramen restaurant in Soja. Official website listed.",
+     "description": "Ramen restaurant in Soja.",
      "source_url": "https://shiogensui.com/",
      "page": "https://bokenjapan.com/okayama/soja/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -12240,7 +12248,7 @@
      "name": "Washoku Tanimoto",
      "name_en": "Washoku Tanimoto",
      "name_ja": "和食 たにもと",
-     "description": "Japanese restaurant in Soja. Official website listed.",
+     "description": "Japanese restaurant in Soja.",
      "source_url": "https://washokutanimoto.owst.jp/",
      "page": "https://bokenjapan.com/okayama/soja/eat/other-japanese/",
      "category": "Other Japanese"
@@ -12258,7 +12266,7 @@
      "name": "Hitorinabeshabushabu Riyama",
      "name_en": "Hitorinabeshabushabu Riyama",
      "name_ja": "ひとり鍋しゃぶしゃぶ り山",
-     "description": "Japanese restaurant in Soja. Opening hours (OSM): 11:00-15:00,17:00-22:00. Tagged with takeaway, wheelchair access and smoking outside only.",
+     "description": "Japanese restaurant in Soja. Opening hours (OSM): 11:00-15:00,17:00-22:00. Offers takeaway, wheelchair access and smoking outside only.",
      "source_url": "https://www.openstreetmap.org/node/4310465076",
      "page": "https://bokenjapan.com/okayama/soja/eat/other-japanese/",
      "category": "Other Japanese"
@@ -12273,16 +12281,16 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Sweets and bakery shop in Soja (#3)",
-     "name_en": "Sweets and bakery shop in Soja (#3)",
+     "name": "Indasutori",
+     "name_en": "Indasutori",
      "name_ja": "インダストリー",
      "source_url": "https://tabelog.com/okayama/A3301/A330102/33014343/",
      "page": "https://bokenjapan.com/okayama/soja/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Sweets and bakery shop in Soja (#4)",
-     "name_en": "Sweets and bakery shop in Soja (#4)",
+     "name": "Rojikku",
+     "name_en": "Rojikku",
      "name_ja": "ロジック",
      "source_url": "https://tabelog.com/okayama/A3301/A330102/33012559/",
      "page": "https://bokenjapan.com/okayama/soja/eat/sweets-bakeries/",
@@ -12297,8 +12305,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Sweets and bakery shop in Soja (#6)",
-     "name_en": "Sweets and bakery shop in Soja (#6)",
+     "name": "Bonbon Bread",
+     "name_en": "Bonbon Bread",
      "name_ja": "ボンボン ブレッド",
      "source_url": "https://tabelog.com/okayama/A3301/A330102/33018794/",
      "page": "https://bokenjapan.com/okayama/soja/eat/sweets-bakeries/",
@@ -12329,8 +12337,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Sweets and bakery shop in Soja (#17)",
-     "name_en": "Sweets and bakery shop in Soja (#17)",
+     "name": "Puti Gurenu",
+     "name_en": "Puti Gurenu",
      "name_ja": "プティ・グレーヌ",
      "source_url": "https://tabelog.com/okayama/A3301/A330102/33014183/",
      "page": "https://bokenjapan.com/okayama/soja/eat/sweets-bakeries/",
@@ -12340,7 +12348,7 @@
      "name": "Aisu No-ya",
      "name_en": "Aisu No-ya",
      "name_ja": "あいすの家",
-     "description": "Ice-cream shop in Soja. Official website listed.",
+     "description": "Ice-cream shop in Soja.",
      "source_url": "https://icenoie.info/",
      "page": "https://bokenjapan.com/okayama/soja/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -12506,7 +12514,7 @@
      "page": "https://bokenjapan.com/okayama/soja/see/"
     },
     {
-     "name": "Oni no Shiro Gorufu Kurabu",
+     "name": "Oni no Shiro Golf Club",
      "source_url": "https://www.okayama-kanko.jp/spot/detail_10769.html",
      "page": "https://bokenjapan.com/okayama/soja/see/"
     },
@@ -12622,8 +12630,8 @@
    ],
    "food": [
     {
-     "name": "Cafe Resuto Shato",
-     "name_en": "Cafe Resuto Shato",
+     "name": "Cafe Resto Shato",
+     "name_en": "Cafe Resto Shato",
      "name_ja": "カフェ・レスト・シャトー",
      "source_url": "https://tabelog.com/okayama/A3303/A330301/33003265/",
      "page": "https://bokenjapan.com/okayama/takahashi/eat/cafe/",
@@ -12681,7 +12689,7 @@
      "name": "Hana no Ren",
      "name_en": "Hana no Ren",
      "name_ja": "花のれん",
-     "description": "Restaurant in Takahashi. Official website listed.",
+     "description": "Restaurant in Takahashi.",
      "source_url": "http://www.hananoren.info/",
      "page": "https://bokenjapan.com/okayama/takahashi/eat/casual/",
      "category": "Casual"
@@ -12815,22 +12823,22 @@
      "name": "Maruman",
      "name_en": "Maruman",
      "name_ja": "まるまん",
-     "description": "Udon restaurant in Takahashi. Official website listed.",
+     "description": "Udon restaurant in Takahashi.",
      "source_url": "http://www.e-hakko.net/hakko.php",
      "page": "https://bokenjapan.com/okayama/takahashi/eat/noodles/",
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Japanese restaurant in Takahashi (#3)",
-     "name_en": "Japanese restaurant in Takahashi (#3)",
+     "name": "Tofu Ryori Specialty Shop Koi Mizu Fu Kumoshiro",
+     "name_en": "Tofu Ryori Specialty Shop Koi Mizu Fu Kumoshiro",
      "name_ja": "豆腐料理専門店 恋美豆腐 雲白",
      "source_url": "https://tabelog.com/okayama/A3303/A330301/33014505/",
      "page": "https://bokenjapan.com/okayama/takahashi/eat/other-japanese/",
      "category": "Other Japanese"
     },
     {
-     "name": "Japanese restaurant in Takahashi (#5)",
-     "name_en": "Japanese restaurant in Takahashi (#5)",
+     "name": "Asahi Do",
+     "name_en": "Asahi Do",
      "name_ja": "朝日堂",
      "source_url": "https://tabelog.com/okayama/A3303/A330301/33000133/",
      "page": "https://bokenjapan.com/okayama/takahashi/eat/other-japanese/",
@@ -12874,7 +12882,7 @@
      "name": "Sushiyu-kan",
      "name_en": "Sushiyu-kan",
      "name_ja": "すし遊館",
-     "description": "Sushi restaurant in Takahashi. Official website listed.",
+     "description": "Sushi restaurant in Takahashi.",
      "source_url": "https://sushiyoukan.com/",
      "page": "https://bokenjapan.com/okayama/takahashi/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -13245,7 +13253,7 @@
     {
      "name": "Comuni Space uz",
      "name_en": "Comuni Space uz",
-     "description": "Café in Tamano. Opening hours (OSM): 10:00-20:00; Mo off; Fr 12:00-20:00. Official website listed.",
+     "description": "Café in Tamano. Opening hours (OSM): 10:00-20:00; Mo off; Fr 12:00-20:00.",
      "source_url": "http://uno-lit.com/cafe/",
      "page": "https://bokenjapan.com/okayama/tamano/eat/cafe/",
      "category": "Cafe"
@@ -13254,7 +13262,7 @@
      "name": "BOLLARD COFFEE",
      "name_en": "BOLLARD COFFEE",
      "name_ja": "ボラードコーヒー",
-     "description": "Café in Tamano. Opening hours (OSM): 08:00-17:00. Official website listed.",
+     "description": "Café in Tamano. Opening hours (OSM): 08:00-17:00.",
      "source_url": "https://bollard.jp/bcs1/",
      "page": "https://bokenjapan.com/okayama/tamano/eat/cafe/",
      "category": "Cafe"
@@ -13305,7 +13313,7 @@
      "name": "Fast-food restaurant in Tamano",
      "name_en": "Fast-food restaurant in Tamano",
      "name_ja": "うのまち珈琲店",
-     "description": "Fast-food restaurant in Tamano. Official website listed.",
+     "description": "Fast-food restaurant in Tamano.",
      "source_url": "https://unomachi.stores.jp/",
      "page": "https://bokenjapan.com/okayama/tamano/eat/casual/",
      "category": "Casual"
@@ -13395,7 +13403,7 @@
      "name": "Sumibiyakiyatsurugiden",
      "name_en": "Sumibiyakiyatsurugiden",
      "name_ja": "炭火焼八剣伝",
-     "description": "Pub in Tamano. Opening hours (OSM): 17:00-02:00. Official website listed.",
+     "description": "Pub in Tamano. Opening hours (OSM): 17:00-02:00.",
      "source_url": "https://www.marche.co.jp/shop_search/shop_intro.html?shopNo=2826",
      "page": "https://bokenjapan.com/okayama/tamano/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -13488,7 +13496,7 @@
      "name": "Udon-kan",
      "name_en": "Udon-kan",
      "name_ja": "うどん館",
-     "description": "Noodle restaurant in Tamano. Opening hours (OSM): 11:00-19:00; We off. Official website listed.",
+     "description": "Noodle restaurant in Tamano. Opening hours (OSM): 11:00-19:00; We off.",
      "source_url": "https://udonkan.com/",
      "page": "https://bokenjapan.com/okayama/tamano/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13550,7 +13558,7 @@
      "name": "Hokkahokka-tei",
      "name_en": "Hokkahokka-tei",
      "name_ja": "ほっかほっか亭",
-     "description": "Bento fast-food restaurant in Tamano. Opening hours (OSM): 09:00-22:00. Tagged with takeaway. Official website listed.",
+     "description": "Bento fast-food restaurant in Tamano. Opening hours (OSM): 09:00-22:00. Takeaway available.",
      "source_url": "https://as.chizumaru.com/hurxleygroup/detailMap?account=hurxleygroup&amp;accmd=0&amp;adr=33204&amp;bid=330182&amp;pgret=2",
      "page": "https://bokenjapan.com/okayama/tamano/eat/other-japanese/",
      "category": "Other Japanese"
@@ -13602,7 +13610,7 @@
      "name": "Sushiyu-kan",
      "name_en": "Sushiyu-kan",
      "name_ja": "すし遊館",
-     "description": "Sushi restaurant in Tamano. Opening hours (OSM): Mo-Fr 11:00-21:00; Sa-Su 11:00-21:30. Official website listed.",
+     "description": "Sushi restaurant in Tamano. Opening hours (OSM): Mo-Fr 11:00-21:00; Sa-Su 11:00-21:30.",
      "source_url": "https://sushiyoukan.com/shop/uno.php",
      "page": "https://bokenjapan.com/okayama/tamano/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -13911,7 +13919,7 @@
      "name": "Kyomikado Kohara",
      "name_en": "Kyomikado Kohara",
      "name_ja": "京御門 小原店",
-     "description": "Café in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Café in Tsuyama. Takeaway available.",
      "source_url": "https://www.kyougomon.com/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/cafe/",
      "category": "Cafe"
@@ -13920,7 +13928,7 @@
      "name": "Josairoman-kan",
      "name_en": "Josairoman-kan",
      "name_ja": "城西浪漫館",
-     "description": "Café in Tsuyama. Opening hours (OSM): 10:00-15:00. Tagged with takeaway and non-smoking. Official website listed.",
+     "description": "Café in Tsuyama. Opening hours (OSM): 10:00-15:00. Offers takeaway and non-smoking.",
      "source_url": "http://tsuyama255.net/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/cafe/",
      "category": "Cafe"
@@ -13929,7 +13937,7 @@
      "name": "Hare no waffle",
      "name_en": "Hare no waffle",
      "name_ja": "晴レのワッフル",
-     "description": "Café in Tsuyama. Official website listed.",
+     "description": "Café in Tsuyama.",
      "source_url": "https://harenowaffle.com/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/cafe/",
      "category": "Cafe"
@@ -13946,7 +13954,7 @@
      "name": "Okonomiyaki Saegusa",
      "name_en": "Okonomiyaki Saegusa",
      "name_ja": "お好み焼き 三枝",
-     "description": "Café in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Café in Tsuyama. Takeaway available.",
      "source_url": "http://horumonudon.jp",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/cafe/",
      "category": "Cafe"
@@ -13962,7 +13970,7 @@
     {
      "name": "Florence",
      "name_en": "Florence",
-     "description": "Western café in Tsuyama. Tagged with takeaway.",
+     "description": "Western café in Tsuyama. Takeaway available.",
      "source_url": "https://www.openstreetmap.org/node/5468740951",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/cafe/",
      "category": "Cafe"
@@ -13970,7 +13978,7 @@
     {
      "name": "LUSSO CAFE",
      "name_en": "LUSSO CAFE",
-     "description": "Café in Tsuyama. Tagged with takeaway.",
+     "description": "Café in Tsuyama. Takeaway available.",
      "source_url": "https://www.openstreetmap.org/node/7433813587",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/cafe/",
      "category": "Cafe"
@@ -13979,7 +13987,7 @@
      "name": "Aisu Kobo Yu",
      "name_en": "Aisu Kobo Yu",
      "name_ja": "アイス工房 優",
-     "description": "Café in Tsuyama. Tagged with takeaway.",
+     "description": "Café in Tsuyama. Takeaway available.",
      "source_url": "https://www.openstreetmap.org/node/7453254206",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/cafe/",
      "category": "Cafe"
@@ -13988,7 +13996,7 @@
      "name": "Konponsho",
      "name_en": "Konponsho",
      "name_ja": "根本商店",
-     "description": "Coffee restaurant in Tsuyama. Tagged with takeaway.",
+     "description": "Coffee restaurant in Tsuyama. Takeaway available.",
      "source_url": "https://www.openstreetmap.org/node/5564165098",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/cafe/",
      "category": "Cafe"
@@ -14061,7 +14069,7 @@
      "name": "Akebo no Ryokan",
      "name_en": "Akebo no Ryokan",
      "name_ja": "あけぼの旅館",
-     "description": "Restaurant in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Restaurant in Tsuyama. Takeaway available.",
      "source_url": "https://primenet2010.biz/akebono/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/casual/",
      "category": "Casual"
@@ -14070,7 +14078,7 @@
      "name": "Chuka Soba Tenshin Tsuyama",
      "name_en": "Chuka Soba Tenshin Tsuyama",
      "name_ja": "中華そば てんしん 津山店",
-     "description": "Restaurant in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Restaurant in Tsuyama. Takeaway available.",
      "source_url": "https://www.tenshin880.com/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/casual/",
      "category": "Casual"
@@ -14078,7 +14086,7 @@
     {
      "name": "N enne",
      "name_en": "N enne",
-     "description": "Restaurant in Tsuyama. Official website listed.",
+     "description": "Restaurant in Tsuyama.",
      "source_url": "https://n-enne.jp/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/casual/",
      "category": "Casual"
@@ -14087,7 +14095,7 @@
      "name": "O-ya Dobun No-ya",
      "name_en": "O-ya Dobun No-ya",
      "name_ja": "おやど文の家",
-     "description": "Restaurant in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Restaurant in Tsuyama. Takeaway available.",
      "source_url": "http://www.oyado-fuminoya.com/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/casual/",
      "category": "Casual"
@@ -14096,7 +14104,7 @@
      "name": "Oshokuji Dokoro Takakura",
      "name_en": "Oshokuji Dokoro Takakura",
      "name_ja": "お食事処 たかくら",
-     "description": "Fast-food restaurant in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Fast-food restaurant in Tsuyama. Takeaway available.",
      "source_url": "http://takakura.e-tsuyama.com/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/casual/",
      "category": "Casual"
@@ -14105,7 +14113,7 @@
      "name": "Ramen shop in Tsuyama",
      "name_en": "Ramen shop in Tsuyama",
      "name_ja": "つやまラーメン大統領 院庄店",
-     "description": "Restaurant in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Restaurant in Tsuyama. Takeaway available.",
      "source_url": "http://www.daikoh-tsuyama.jp/daitouryou.html",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/casual/",
      "category": "Casual"
@@ -14114,7 +14122,7 @@
      "name": "Karubi-ya Hakkai",
      "name_en": "Karubi-ya Hakkai",
      "name_ja": "カルビ屋 八戒",
-     "description": "Restaurant in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Restaurant in Tsuyama. Takeaway available.",
      "source_url": "http://www.daikoh-tsuyama.jp/hakkai.html",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/casual/",
      "category": "Casual"
@@ -14123,7 +14131,7 @@
      "name": "Kaitenkyoshoku-ya Yuki",
      "name_en": "Kaitenkyoshoku-ya Yuki",
      "name_ja": "回転居食屋 悠喜",
-     "description": "Restaurant in Tsuyama. Tagged with takeaway and delivery. Official website listed.",
+     "description": "Restaurant in Tsuyama. Offers takeaway and delivery.",
      "source_url": "http://www.kaitenzushi-yuuki.com/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/casual/",
      "category": "Casual"
@@ -14132,7 +14140,7 @@
      "name": "Ryokan Otafuku",
      "name_en": "Ryokan Otafuku",
      "name_ja": "旅館 お多福",
-     "description": "Restaurant in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Restaurant in Tsuyama. Takeaway available.",
      "source_url": "http://www.e-tsuyama.com/kankou/check/ryokan/otafuku/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/casual/",
      "category": "Casual"
@@ -14149,7 +14157,7 @@
     {
      "name": "Okayama Table TERRA",
      "name_en": "Okayama Table TERRA",
-     "description": "Restaurant in Tsuyama. Opening hours (OSM): 11:30-14:30,17:00-22:00. Tagged with takeaway.",
+     "description": "Restaurant in Tsuyama. Opening hours (OSM): 11:30-14:30,17:00-22:00. Takeaway available.",
      "source_url": "https://www.openstreetmap.org/node/7448022940",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/casual/",
      "category": "Casual"
@@ -14158,7 +14166,7 @@
      "name": "Cafe Riburo",
      "name_en": "Cafe Riburo",
      "name_ja": "カフェ リブロ",
-     "description": "Restaurant in Tsuyama. Tagged with takeaway.",
+     "description": "Restaurant in Tsuyama. Takeaway available.",
      "source_url": "https://www.openstreetmap.org/node/7463751372",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/casual/",
      "category": "Casual"
@@ -14167,7 +14175,7 @@
      "name": "Wayo Furenchi GOUTER",
      "name_en": "Wayo Furenchi GOUTER",
      "name_ja": "和洋フレンチ GOUTER",
-     "description": "Restaurant in Tsuyama. Tagged with takeaway.",
+     "description": "Restaurant in Tsuyama. Takeaway available.",
      "source_url": "https://www.openstreetmap.org/node/7465392772",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/casual/",
      "category": "Casual"
@@ -14185,7 +14193,7 @@
      "name": "Oyaji no Raisu House",
      "name_en": "Oyaji no Raisu House",
      "name_ja": "親父のライスハウス",
-     "description": "Restaurant in Tsuyama. Opening hours (OSM): 11:00-19:30. Tagged with takeaway.",
+     "description": "Restaurant in Tsuyama. Opening hours (OSM): 11:00-19:30. Takeaway available.",
      "source_url": "https://www.openstreetmap.org/node/7450875692",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/casual/",
      "category": "Casual"
@@ -14194,7 +14202,7 @@
      "name": "Namaste-Ganesha Tsuyama Kokubunji Shop",
      "name_en": "Namaste-Ganesha Tsuyama Kokubunji Shop",
      "name_ja": "ナマステ・ガネーシャ津山国分寺店",
-     "description": "Indian restaurant in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Indian restaurant in Tsuyama. Takeaway available.",
      "source_url": "https://www.namasteganeshagroup.com/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -14212,7 +14220,7 @@
      "name": "Chinese restaurant in Tsuyama",
      "name_en": "Chinese restaurant in Tsuyama",
      "name_ja": "満州楼",
-     "description": "Chinese restaurant in Tsuyama. Tagged with takeaway.",
+     "description": "Chinese restaurant in Tsuyama. Takeaway available.",
      "source_url": "https://www.openstreetmap.org/way/616028375",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -14229,7 +14237,7 @@
      "name": "Italian restaurant in Tsuyama",
      "name_en": "Italian restaurant in Tsuyama",
      "name_ja": "リトファン・イタリアーノ津山店",
-     "description": "Italian restaurant in Tsuyama. Opening hours (OSM): 11:00-22:00. Tagged with takeaway. Official website listed.",
+     "description": "Italian restaurant in Tsuyama. Opening hours (OSM): 11:00-22:00. Takeaway available.",
      "source_url": "http://litofun.co.jp/shop/tsuyama.html",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/european/",
      "category": "European"
@@ -14238,7 +14246,7 @@
      "name": "Pizzeria Oruso",
      "name_en": "Pizzeria Oruso",
      "name_ja": "ピッツェリア・オルソ",
-     "description": "Pizza restaurant in Tsuyama. Opening hours (OSM): 11:30-14:30,17:30-21:30. Tagged with takeaway.",
+     "description": "Pizza restaurant in Tsuyama. Opening hours (OSM): 11:30-14:30,17:30-21:30. Takeaway available.",
      "source_url": "https://www.openstreetmap.org/node/7436445897",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/european/",
      "category": "European"
@@ -14247,7 +14255,7 @@
      "name": "Fukujuyu",
      "name_en": "Fukujuyu",
      "name_ja": "福寿湯",
-     "description": "Burger café in Tsuyama. Opening hours (OSM): 10:00-17:00. Tagged with takeaway.",
+     "description": "Burger café in Tsuyama. Opening hours (OSM): 10:00-17:00. Takeaway available.",
      "source_url": "https://www.openstreetmap.org/node/6045498336",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/european/",
      "category": "European"
@@ -14264,7 +14272,7 @@
      "name": "Ikesuwagaku Ebisutai",
      "name_en": "Ikesuwagaku Ebisutai",
      "name_ja": "いけす和楽 ゑびす鯛",
-     "description": "Pub in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Pub in Tsuyama. Takeaway available.",
      "source_url": "https://ebisu-tai-tsuyama.com/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -14273,7 +14281,7 @@
      "name": "Ryoriokoku",
      "name_en": "Ryoriokoku",
      "name_ja": "料理王国",
-     "description": "Pub in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Pub in Tsuyama. Takeaway available.",
      "source_url": "https://www.kura-okayama.com/ryouriokoku/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -14282,7 +14290,7 @@
      "name": "Oryori Waraukado",
      "name_en": "Oryori Waraukado",
      "name_ja": "お料理 わらうかど",
-     "description": "Pub in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Pub in Tsuyama. Takeaway available.",
      "source_url": "http://oryouri-waraukado.com/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -14291,25 +14299,25 @@
      "name": "Dining Teburu Akanedoki Tsuyama",
      "name_en": "Dining Teburu Akanedoki Tsuyama",
      "name_ja": "ダイニングテーブル 茜どき 津山店",
-     "description": "Pub in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Pub in Tsuyama. Takeaway available.",
      "source_url": "http://www.daikoh-tsuyama.jp/akanedoki.html",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
     {
-     "name": "Pub in Tsuyama (#2)",
-     "name_en": "Pub in Tsuyama (#2)",
+     "name": "Bistro Paradiso",
+     "name_en": "Bistro Paradiso",
      "name_ja": "ビストロ パラディソ",
-     "description": "Pub in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Pub in Tsuyama. Takeaway available.",
      "source_url": "https://www.big-apple.biz/%E5%BA%97%E8%88%97-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%83%85%E5%A0%B1/bistro-paradiso/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
     {
-     "name": "Pub in Tsuyama (#1)",
-     "name_en": "Pub in Tsuyama (#1)",
+     "name": "Sozai Izakaya Japan Tei",
+     "name_en": "Sozai Izakaya Japan Tei",
      "name_ja": "惣菜居酒屋 ジャパン亭",
-     "description": "Pub in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Pub in Tsuyama. Takeaway available.",
      "source_url": "https://www.big-apple.biz/%E5%BA%97%E8%88%97-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%83%85%E5%A0%B1/%E6%83%A3%E8%8F%9C%E5%B1%85%E9%85%92%E5%B1%8B-%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E4%BA%AD/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -14318,7 +14326,7 @@
      "name": "Tsuyama-ya Kiniku Shokudo Yasohachi",
      "name_en": "Tsuyama-ya Kiniku Shokudo Yasohachi",
      "name_ja": "津山やきにく食堂 八十八",
-     "description": "Pub in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Pub in Tsuyama. Takeaway available.",
      "source_url": "https://www.big-apple.biz/%E5%BA%97%E8%88%97-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%83%85%E5%A0%B1/%E6%B4%A5%E5%B1%B1%E3%82%84%E3%81%8D%E3%81%AB%E3%81%8F%E9%A3%9F%E5%A0%82-%E5%85%AB%E5%8D%81%E5%85%AB/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -14327,7 +14335,7 @@
      "name": "Kaisen Yakiniku Sakushushichirin Shichirin-ya",
      "name_en": "Kaisen Yakiniku Sakushushichirin Shichirin-ya",
      "name_ja": "海鮮焼肉作州七厘 七厘家",
-     "description": "Pub in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Pub in Tsuyama. Takeaway available.",
      "source_url": "https://www.big-apple.biz/%E5%BA%97%E8%88%97-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%83%85%E5%A0%B1/%E6%B5%B7%E9%AE%AE%E7%84%BC%E8%82%89-%E4%B8%83%E5%8E%98%E5%AE%B6/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -14336,7 +14344,7 @@
      "name": "Akatogarashi",
      "name_en": "Akatogarashi",
      "name_ja": "赤とうがらし",
-     "description": "Pub in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Pub in Tsuyama. Takeaway available.",
      "source_url": "http://www.garyusakanayahompo.co.jp/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -14345,7 +14353,7 @@
      "name": "Torihachi",
      "name_en": "Torihachi",
      "name_ja": "鳥八",
-     "description": "Pub in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Pub in Tsuyama. Takeaway available.",
      "source_url": "https://www.big-apple.biz/%E5%BA%97%E8%88%97-%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E6%83%85%E5%A0%B1/%E9%B3%A5%E5%85%AB/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -14397,7 +14405,7 @@
      "name": "Katsujin Tsuyama Branch",
      "name_en": "Katsujin Tsuyama Branch",
      "name_ja": "かつ陣津山店",
-     "description": "Tonkatsu restaurant in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Tonkatsu restaurant in Tsuyama. Takeaway available.",
      "source_url": "http://www.daikoh-tsuyama.jp/katujintuyama.html",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/meat/",
      "category": "Japanese (meat)"
@@ -14406,7 +14414,7 @@
      "name": "Ichiryu",
      "name_en": "Ichiryu",
      "name_ja": "一龍",
-     "description": "Barbecue restaurant in Tsuyama. Official website listed.",
+     "description": "Barbecue restaurant in Tsuyama.",
      "source_url": "https://www.yakinikuichiryu.com/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/meat/",
      "category": "Japanese (meat)"
@@ -14415,7 +14423,7 @@
      "name": "Yakiniku Fujiryo",
      "name_en": "Yakiniku Fujiryo",
      "name_ja": "焼肉藤良",
-     "description": "Barbecue restaurant in Tsuyama. Official website listed.",
+     "description": "Barbecue restaurant in Tsuyama.",
      "source_url": "https://fujiyoshi-yakiniku.jp/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/meat/",
      "category": "Japanese (meat)"
@@ -14433,7 +14441,7 @@
      "name": "Ushita",
      "name_en": "Ushita",
      "name_ja": "牛太",
-     "description": "Barbecue restaurant in Tsuyama. Tagged with takeaway.",
+     "description": "Barbecue restaurant in Tsuyama. Takeaway available.",
      "source_url": "https://www.openstreetmap.org/node/5493704475",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/meat/",
      "category": "Japanese (meat)"
@@ -14482,7 +14490,7 @@
      "name": "Ramen restaurant in Tsuyama",
      "name_en": "Ramen restaurant in Tsuyama",
      "name_ja": "ラー麺ずんどう屋",
-     "description": "Ramen restaurant in Tsuyama. Official website listed.",
+     "description": "Ramen restaurant in Tsuyama.",
      "source_url": "https://zundouya.com/shop/155",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -14491,7 +14499,7 @@
      "name": "Menba Tadokorosho",
      "name_en": "Menba Tadokorosho",
      "name_ja": "麺場 田所商店",
-     "description": "Ramen restaurant in Tsuyama. Official website listed.",
+     "description": "Ramen restaurant in Tsuyama.",
      "source_url": "https://misoya.net/store/tadokoro_tsuyama/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -14500,7 +14508,7 @@
      "name": "Senryo Udon",
      "name_en": "Senryo Udon",
      "name_ja": "千両うどん",
-     "description": "Udon restaurant in Tsuyama. Official website listed.",
+     "description": "Udon restaurant in Tsuyama.",
      "source_url": "https://www.meguritabi.ad-sunlight.jp/eat/senryou/index.html",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -14509,7 +14517,7 @@
      "name": "Tsuyamashiogensui",
      "name_en": "Tsuyamashiogensui",
      "name_ja": "津山塩元師",
-     "description": "Ramen restaurant in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Ramen restaurant in Tsuyama. Takeaway available.",
      "source_url": "https://shiogensui.com/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -14536,7 +14544,7 @@
      "name": "Raisu House",
      "name_en": "Raisu House",
      "name_ja": "ライスハウス",
-     "description": "Western restaurant in Tsuyama. Tagged with takeaway.",
+     "description": "Western restaurant in Tsuyama. Takeaway available.",
      "source_url": "https://www.openstreetmap.org/node/7443766535",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/other/",
      "category": "Other"
@@ -14569,7 +14577,7 @@
      "name": "Hayasetofu",
      "name_en": "Hayasetofu",
      "name_ja": "早瀬豆腐店",
-     "description": "Japanese restaurant in Tsuyama. Opening hours (OSM): 10:00-17:00. Tagged with takeaway. Official website listed.",
+     "description": "Japanese restaurant in Tsuyama. Opening hours (OSM): 10:00-17:00. Takeaway available.",
      "source_url": "https://www.hayase-tofu.com/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -14578,7 +14586,7 @@
      "name": "Tsuruya Kawanabe Branch",
      "name_en": "Tsuruya Kawanabe Branch",
      "name_ja": "(株)つるや河辺店",
-     "description": "Bento restaurant in Tsuyama. Tagged with takeaway and delivery. Official website listed.",
+     "description": "Bento restaurant in Tsuyama. Offers takeaway and delivery.",
      "source_url": "http://tsuruya-tsuyama.jp/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -14587,7 +14595,7 @@
      "name": "Tsuru-ya",
      "name_en": "Tsuru-ya",
      "name_ja": "つるや",
-     "description": "Japanese restaurant in Tsuyama. Official website listed.",
+     "description": "Japanese restaurant in Tsuyama.",
      "source_url": "https://tsuruya-tsuruya.co.jp/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -14596,7 +14604,7 @@
      "name": "Japanese café in Tsuyama",
      "name_en": "Japanese café in Tsuyama",
      "name_ja": "ゴハンドコロ ガリ",
-     "description": "Japanese café in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Japanese café in Tsuyama. Takeaway available.",
      "source_url": "https://gohandocoro-gari.com/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -14605,7 +14613,7 @@
      "name": "Donburi-ya Hitomori",
      "name_en": "Donburi-ya Hitomori",
      "name_ja": "丼家 ひと盛り",
-     "description": "Japanese restaurant in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Japanese restaurant in Tsuyama. Takeaway available.",
      "source_url": "https://sasafune.co.jp/archives/2555",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -14614,7 +14622,7 @@
      "name": "Washoku Dokoro Honjin",
      "name_en": "Washoku Dokoro Honjin",
      "name_ja": "和食処本陣",
-     "description": "Japanese restaurant in Tsuyama. Tagged with takeaway. Official website listed.",
+     "description": "Japanese restaurant in Tsuyama. Takeaway available.",
      "source_url": "http://www.daikoh-tsuyama.jp/honjin.html",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -14623,7 +14631,7 @@
      "name": "Gyoshokurakuzen Chugen-ya",
      "name_en": "Gyoshokurakuzen Chugen-ya",
      "name_ja": "魚食楽膳 中元家",
-     "description": "Restaurant serving Japanese and seafood in Tsuyama. Official website listed.",
+     "description": "Restaurant serving Japanese and seafood in Tsuyama.",
      "source_url": "https://bonsouve.online/",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -14641,7 +14649,7 @@
      "name": "Chiyota",
      "name_en": "Chiyota",
      "name_ja": "ちよ田",
-     "description": "Japanese restaurant in Tsuyama. Tagged with takeaway.",
+     "description": "Japanese restaurant in Tsuyama. Takeaway available.",
      "source_url": "https://www.openstreetmap.org/node/6982159094",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -14650,7 +14658,7 @@
      "name": "Tsuru-ya Kokorozashitobe",
      "name_en": "Tsuru-ya Kokorozashitobe",
      "name_ja": "つるや志戸部店",
-     "description": "Japanese restaurant in Tsuyama. Tagged with takeaway and delivery.",
+     "description": "Japanese restaurant in Tsuyama. Offers takeaway and delivery.",
      "source_url": "https://www.openstreetmap.org/node/4974558252",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -14659,7 +14667,7 @@
      "name": "Sakushumingei-kan",
      "name_en": "Sakushumingei-kan",
      "name_ja": "作州民芸館",
-     "description": "Japanese café in Tsuyama. Opening hours (OSM): 10:00-15:00. Tagged with takeaway.",
+     "description": "Japanese café in Tsuyama. Opening hours (OSM): 10:00-15:00. Takeaway available.",
      "source_url": "https://www.openstreetmap.org/node/6901816285",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -14677,7 +14685,7 @@
      "name": "Kawamoto Shokudo",
      "name_en": "Kawamoto Shokudo",
      "name_ja": "河本食堂",
-     "description": "Japanese restaurant in Tsuyama. Tagged with takeaway.",
+     "description": "Japanese restaurant in Tsuyama. Takeaway available.",
      "source_url": "https://www.openstreetmap.org/node/7478072482",
      "page": "https://bokenjapan.com/okayama/tsuyama/eat/other-japanese/",
      "category": "Other Japanese"

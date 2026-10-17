@@ -22,7 +22,7 @@
     "lat": 31.7283662,
     "lon": 130.6277081
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Washi Gallery",
@@ -164,6 +164,131 @@
      "category": "Casual"
     },
     {
+     "name": "Gindaco",
+     "name_en": "Gindaco",
+     "name_ja": "築地銀だこ",
+     "description": "Fast-food restaurant in Nishimochi Ta, Aira.",
+     "source_url": "https://www.openstreetmap.org/node/13661321101",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Hotto Motto",
+     "name_en": "Hotto Motto",
+     "name_ja": "ほっともっと",
+     "description": "Fast-food restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/967133775",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Matsuya",
+     "name_en": "Matsuya",
+     "name_ja": "松屋",
+     "description": "Fast-food restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/1002257607",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "name_ja": "マクドナルド",
+     "description": "Burger fast-food restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/1527524554",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "MOS Burger",
+     "name_en": "MOS Burger",
+     "name_ja": "モスバーガー",
+     "description": "Burger fast-food restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/967133764",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Sukiya",
+     "name_en": "Sukiya",
+     "name_ja": "すき家",
+     "description": "Fast-food restaurant in Aira. Open 24 hours, every day.",
+     "source_url": "https://www.openstreetmap.org/way/1002257613",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Curry restaurant in Aira",
+     "name_en": "Curry restaurant in Aira",
+     "name_ja": "CoCo壱番屋",
+     "description": "Curry restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/648353644",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Kihana Ie",
+     "name_en": "Kihana Ie",
+     "name_ja": "木花家",
+     "description": "Curry restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/1431009317",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Satsuma Tsuyoshiie",
+     "name_en": "Satsuma Tsuyoshiie",
+     "name_ja": "薩摩剛家",
+     "description": "Curry restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/976235102",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Pizza restaurant in Aira",
+     "name_en": "Pizza restaurant in Aira",
+     "name_ja": "ドミノ・ピザ",
+     "description": "Pizza restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/967127158",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Gusto",
+     "name_en": "Gusto",
+     "name_ja": "ガスト",
+     "description": "Western-style restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/645193793",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Joyfull",
+     "name_en": "Joyfull",
+     "name_ja": "ジョイフル",
+     "description": "Western-style restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/645605101",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "TRATTORIA Simpatico",
+     "name_en": "TRATTORIA Simpatico",
+     "description": "Italian restaurant in Wakimoto, Aira.",
+     "source_url": "https://www.openstreetmap.org/way/977557503",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Tsubohachi",
+     "name_en": "Tsubohachi",
+     "name_ja": "つぼ八",
+     "description": "Pub in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/1435941810",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Nadai Katsuya Mansaku",
      "name_en": "Nadai Katsuya Mansaku",
      "name_ja": "名代かつ屋 万さく",
@@ -205,6 +330,24 @@
      "name_ja": "とんかつ遊食 わが家",
      "description": "Tonkatsu Yushoku Wagaya — tonkatsu restaurant in Aira, Kagoshima.",
      "source_url": "https://tabelog.com/kagoshima/A4603/A460303/46001553/",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Nabeshima Kajiki Branch",
+     "name_en": "Yakiniku Nabeshima Kajiki Branch",
+     "name_ja": "焼肉なべしま加治木店",
+     "description": "Yakiniku restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/645322402",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakitori no Nishiya Aira Branch",
+     "name_en": "Yakitori no Nishiya Aira Branch",
+     "name_ja": "焼鳥の西屋 姶良店",
+     "description": "Yakitori pub in Wakimoto, Aira.",
+     "source_url": "https://www.openstreetmap.org/way/977557508",
      "page": "https://bokenjapan.com/kagoshima/aira/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -254,6 +397,68 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Ganso Shinmenya Masumoto",
+     "name_en": "Ganso Shinmenya Masumoto",
+     "name_ja": "元祖辛麺屋 桝元",
+     "description": "Noodle restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/645322413",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Hakata Kiki",
+     "name_en": "Hakata Kiki",
+     "name_ja": "博多喜喜",
+     "description": "Ramen restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/967125622",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Chin",
+     "name_en": "Ramen Chin",
+     "name_ja": "らーめん鎮",
+     "description": "Ramen restaurant in Kajiki Machi Oyamada, Aira.",
+     "source_url": "https://www.openstreetmap.org/way/1423936036",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Senmon Hayama",
+     "name_en": "Ramen Senmon Hayama",
+     "name_ja": "ラーメン専門 はやま",
+     "description": "Ramen restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/977053554",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Snooup",
+     "name_en": "Snooup",
+     "description": "Ramen restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/975171171",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Soba Chaya Fukiage Iori",
+     "name_en": "Soba Chaya Fukiage Iori",
+     "name_ja": "そば茶屋吹上庵",
+     "description": "Noodle restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/865066707",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tenten Ari",
+     "name_en": "Tenten Ari",
+     "name_ja": "天天有",
+     "description": "Ramen restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/963133090",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Kagoshima Takamaki Country Club",
      "name_en": "Kagoshima Takamaki Country Club",
      "name_ja": "鹿児島高牧カントリークラブ",
@@ -281,6 +486,78 @@
      "category": "Other"
     },
     {
+     "name": "Restaurant in Aira (#1)",
+     "name_en": "Restaurant in Aira (#1)",
+     "name_ja": "ダ・クオーレ",
+     "description": "Restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/645161661",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Fuku Fuku Kajiki Branch",
+     "name_en": "Fuku Fuku Kajiki Branch",
+     "name_ja": "ふく福加治木店",
+     "description": "Restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/645322401",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Haikara Tei",
+     "name_en": "Haikara Tei",
+     "name_ja": "はいから亭",
+     "description": "Restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/975171169",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Ichi Zen",
+     "name_en": "Ichi Zen",
+     "name_ja": "いち膳",
+     "description": "Restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/645318188",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Juju Karubi Aira",
+     "name_en": "Juju Karubi Aira",
+     "name_ja": "じゅうじゅうカルビ姶良",
+     "description": "Restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/652617190",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Tomato&Onion Aira",
+     "name_en": "Tomato&Onion Aira",
+     "name_ja": "トマト＆オニオン姶良",
+     "description": "Restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/652617193",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Tsuneaji Ebihara",
+     "name_en": "Tsuneaji Ebihara",
+     "name_ja": "恒味 海老原",
+     "description": "Restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/1482889513",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Yayoiken",
+     "name_en": "Yayoiken",
+     "name_ja": "やよい軒",
+     "description": "Japanese restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/645193794",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Kaiten Sushi Nanahachi",
      "name_en": "Kaiten Sushi Nanahachi",
      "name_ja": "回転すし 七八",
@@ -295,6 +572,33 @@
      "name_ja": "海鮮七海",
      "description": "Seafood izakaya in Aira.",
      "source_url": "https://tabelog.com/kagoshima/A4603/A460303/46009559/",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Hamasushi",
+     "name_en": "Hamasushi",
+     "name_ja": "はま寿司",
+     "description": "Sushi restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/645322394",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kaiten Sushi Shichihachi",
+     "name_en": "Kaiten Sushi Shichihachi",
+     "name_ja": "回転すし七八",
+     "description": "Sushi restaurant in Wakimoto, Aira.",
+     "source_url": "https://www.openstreetmap.org/way/977557501",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kura Sushi",
+     "name_en": "Kura Sushi",
+     "name_ja": "くら寿司",
+     "description": "Sushi restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/967232885",
      "page": "https://bokenjapan.com/kagoshima/aira/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -330,6 +634,51 @@
      "name_ja": "本家文旦堂",
      "description": "Honke Buntando — rice cracker shop in Aira, Kagoshima.",
      "source_url": "https://tabelog.com/kagoshima/A4603/A460303/46012244/",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Baskin-Robbins",
+     "name_en": "Baskin-Robbins",
+     "name_ja": "サーティワンアイスクリーム",
+     "description": "Sweets ice cream shop in Aira.",
+     "source_url": "https://www.openstreetmap.org/node/13661314596",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Kajihara",
+     "name_en": "Kajihara",
+     "name_ja": "かじはら",
+     "description": "Sweets shop in Aira.",
+     "source_url": "https://www.openstreetmap.org/node/13598144400",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bakery in Aira",
+     "name_en": "Bakery in Aira",
+     "name_ja": "カナン",
+     "description": "Bakery in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/646276921",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Mister Donut",
+     "name_en": "Mister Donut",
+     "name_ja": "ミスタードーナツ",
+     "description": "Donut restaurant in Aira.",
+     "source_url": "https://www.openstreetmap.org/way/412867781",
+     "page": "https://bokenjapan.com/kagoshima/aira/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Satsuma Jokiya",
+     "name_en": "Satsuma Jokiya",
+     "name_ja": "薩摩蒸氣屋",
+     "description": "Sweets shop in Nishimochi Ta, Aira.",
+     "source_url": "https://www.openstreetmap.org/way/967282598",
      "page": "https://bokenjapan.com/kagoshima/aira/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -1217,7 +1566,7 @@
     "lat": 28.3776052,
     "lon": 129.4938816
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Hara Habu Shop Amami",
@@ -1331,6 +1680,15 @@
      "category": "Cafe"
     },
     {
+     "name": "cafe COVO TANA",
+     "name_en": "cafe COVO TANA",
+     "name_ja": "カフェ コボタナ",
+     "description": "Cafe in Amami.",
+     "source_url": "https://www.openstreetmap.org/node/4570923716",
+     "page": "https://bokenjapan.com/kagoshima/amami/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Kazubo Burger",
      "name_en": "Kazubo Burger",
      "name_ja": "カズボ バーガー",
@@ -1338,6 +1696,23 @@
      "source_url": "https://tabelog.com/kagoshima/A4605/A460502/46011808/",
      "page": "https://bokenjapan.com/kagoshima/amami/eat/casual/",
      "category": "Casual"
+    },
+    {
+     "name": "Tenshin",
+     "name_en": "Tenshin",
+     "name_ja": "天心",
+     "description": "Chinese restaurant in Amami.",
+     "source_url": "https://www.openstreetmap.org/node/4618289557",
+     "page": "https://bokenjapan.com/kagoshima/amami/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Nomad Amami",
+     "name_en": "Nomad Amami",
+     "description": "Curry restaurant in Amami.",
+     "source_url": "https://www.openstreetmap.org/node/5292768438",
+     "page": "https://bokenjapan.com/kagoshima/amami/eat/curry/",
+     "category": "Curry"
     },
     {
      "name": "Straight",
@@ -1412,6 +1787,22 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "ASIVI",
+     "name_en": "ASIVI",
+     "description": "Bar in Amami.",
+     "source_url": "https://www.openstreetmap.org/node/3283310466",
+     "page": "https://bokenjapan.com/kagoshima/amami/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "UMAMI",
+     "name_en": "UMAMI",
+     "description": "Pub in Amami.",
+     "source_url": "https://www.openstreetmap.org/node/5262953831",
+     "page": "https://bokenjapan.com/kagoshima/amami/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Torishige",
      "name_en": "Torishige",
      "name_ja": "鳥重",
@@ -1428,6 +1819,50 @@
      "source_url": "https://tabelog.com/kagoshima/A4605/A460502/46002377/",
      "page": "https://bokenjapan.com/kagoshima/amami/eat/meat/",
      "category": "Japanese (meat)"
+    },
+    {
+     "name": "Iseya",
+     "name_en": "Iseya",
+     "name_ja": "伊勢屋",
+     "description": "Yakiniku restaurant in Amami.",
+     "source_url": "https://www.openstreetmap.org/node/4618289929",
+     "page": "https://bokenjapan.com/kagoshima/amami/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Ajitake Ramen Branch",
+     "name_en": "Ajitake Ramen Branch",
+     "name_ja": "味竹ラーメン店",
+     "description": "Ramen restaurant in Amami.",
+     "source_url": "https://www.openstreetmap.org/node/4618289723",
+     "page": "https://bokenjapan.com/kagoshima/amami/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Hareruya Shokudo",
+     "name_en": "Hareruya Shokudo",
+     "name_ja": "ハレルヤ食堂",
+     "description": "Ramen restaurant in Amami.",
+     "source_url": "https://www.openstreetmap.org/node/4618289797",
+     "page": "https://bokenjapan.com/kagoshima/amami/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen restaurant in Amami",
+     "name_en": "Ramen restaurant in Amami",
+     "name_ja": "ラーメンとん太名瀬店",
+     "description": "Ramen restaurant in Amami.",
+     "source_url": "https://www.openstreetmap.org/node/4570954583",
+     "page": "https://bokenjapan.com/kagoshima/amami/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Brunoa",
+     "name_en": "Brunoa",
+     "description": "Restaurant in Amami.",
+     "source_url": "https://www.openstreetmap.org/node/5261522515",
+     "page": "https://bokenjapan.com/kagoshima/amami/eat/other/",
+     "category": "Other"
     },
     {
      "name": "Minatoya",
@@ -1492,6 +1927,51 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Minatoya Niwatorimeshi",
+     "name_en": "Minatoya Niwatorimeshi",
+     "name_ja": "みなとや鶏飯",
+     "description": "Regional Japanese restaurant in Oaza, Amami. Open daily 11:30-14:00.",
+     "source_url": "http://minatoya.amamin.jp/",
+     "page": "https://bokenjapan.com/kagoshima/amami/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Komachi",
+     "name_en": "Komachi",
+     "name_ja": "小町",
+     "description": "Japanese restaurant in Amami.",
+     "source_url": "https://www.openstreetmap.org/node/5267361546",
+     "page": "https://bokenjapan.com/kagoshima/amami/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Amami (#2)",
+     "name_en": "Japanese restaurant in Amami (#2)",
+     "name_ja": "小料理まがりかど",
+     "description": "Japanese restaurant in Amami.",
+     "source_url": "https://www.openstreetmap.org/node/4618289935",
+     "page": "https://bokenjapan.com/kagoshima/amami/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Amami (#1)",
+     "name_en": "Japanese restaurant in Amami (#1)",
+     "name_ja": "小料理まめ",
+     "description": "Japanese restaurant in Amami.",
+     "source_url": "https://www.openstreetmap.org/node/4618289752",
+     "page": "https://bokenjapan.com/kagoshima/amami/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Unagi Wako",
+     "name_en": "Unagi Wako",
+     "name_ja": "うなぎ 和光",
+     "description": "Japanese restaurant in Amami.",
+     "source_url": "https://www.openstreetmap.org/node/5261522510",
+     "page": "https://bokenjapan.com/kagoshima/amami/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Sushi Aomi",
      "name_en": "Sushi Aomi",
      "name_ja": "すし 碧海",
@@ -1515,6 +1995,15 @@
      "name_ja": "居酒屋脇田丸",
      "description": "Seafood izakaya with local cuisine.",
      "source_url": "https://tabelog.com/kagoshima/A4605/A460502/46007680/",
+     "page": "https://bokenjapan.com/kagoshima/amami/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Miyako Sushi",
+     "name_en": "Miyako Sushi",
+     "name_ja": "みやこ鮨",
+     "description": "Sushi restaurant in Amami.",
+     "source_url": "https://www.openstreetmap.org/node/4618289809",
      "page": "https://bokenjapan.com/kagoshima/amami/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -2262,7 +2751,7 @@
     "lat": 31.63373,
     "lon": 130.402204
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Miyama District (Satsuma Pottery Village)",
@@ -2544,6 +3033,23 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "About",
+     "name_en": "About",
+     "description": "Pub in Hioki.",
+     "source_url": "https://www.openstreetmap.org/node/5749400985",
+     "page": "https://bokenjapan.com/kagoshima/hioki/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Mikazuki",
+     "name_en": "Mikazuki",
+     "name_ja": "みかづき",
+     "description": "Pub in Hioki.",
+     "source_url": "https://www.openstreetmap.org/node/5749400986",
+     "page": "https://bokenjapan.com/kagoshima/hioki/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Matsukaze",
      "name_en": "Matsukaze",
      "name_ja": "松風",
@@ -2567,6 +3073,24 @@
      "name_ja": "トロピカツ",
      "description": "Tropikatsu — tonkatsu restaurant in Hioki, Kagoshima.",
      "source_url": "https://tabelog.com/kagoshima/A4601/A460103/46017439/",
+     "page": "https://bokenjapan.com/kagoshima/hioki/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Matsukaze",
+     "name_en": "Matsukaze",
+     "name_ja": "松風",
+     "description": "Barbecue restaurant in Hioki.",
+     "source_url": "https://www.openstreetmap.org/way/585604907",
+     "page": "https://bokenjapan.com/kagoshima/hioki/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Nabeshima Ijuin Branch",
+     "name_en": "Yakiniku Nabeshima Ijuin Branch",
+     "name_ja": "焼肉なべしま伊集院店",
+     "description": "Barbecue restaurant in Hioki.",
+     "source_url": "https://www.openstreetmap.org/way/585604908",
      "page": "https://bokenjapan.com/kagoshima/hioki/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -2634,11 +3158,47 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Soba Chaya Fukiage Iori",
+     "name_en": "Soba Chaya Fukiage Iori",
+     "name_ja": "そば茶屋吹上庵",
+     "description": "Soba restaurant in Hioki.",
+     "source_url": "https://www.openstreetmap.org/node/5795899777",
+     "page": "https://bokenjapan.com/kagoshima/hioki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Soba Tokoro Minami",
+     "name_en": "Soba Tokoro Minami",
+     "name_ja": "そば処みなみ",
+     "description": "Soba restaurant in Hioki.",
+     "source_url": "https://www.openstreetmap.org/way/1017300630",
+     "page": "https://bokenjapan.com/kagoshima/hioki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Fukiage Sakyuso",
      "name_en": "Fukiage Sakyuso",
      "name_ja": "吹上砂丘荘",
      "description": "Hotel in Hioki.",
      "source_url": "https://tabelog.com/kagoshima/A4601/A460103/46008664/",
+     "page": "https://bokenjapan.com/kagoshima/hioki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Hottokan",
+     "name_en": "Hottokan",
+     "name_ja": "ほっとかん (Hottokan)",
+     "description": "Restaurant in Hioki.",
+     "source_url": "https://www.openstreetmap.org/node/1466766445",
+     "page": "https://bokenjapan.com/kagoshima/hioki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Sei Chan",
+     "name_en": "Sei Chan",
+     "name_ja": "正ちゃん",
+     "description": "Restaurant in Hioki.",
+     "source_url": "https://www.openstreetmap.org/node/5801315994",
      "page": "https://bokenjapan.com/kagoshima/hioki/eat/other/",
      "category": "Other"
     },
@@ -2688,6 +3248,69 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Fukufuku Ijuin Branch",
+     "name_en": "Fukufuku Ijuin Branch",
+     "name_ja": "ふくふく伊集院店",
+     "description": "Japanese restaurant in Hioki.",
+     "source_url": "https://www.openstreetmap.org/way/585604893",
+     "page": "https://bokenjapan.com/kagoshima/hioki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Funegoan",
+     "name_en": "Funegoan",
+     "name_ja": "ふねご庵",
+     "description": "Japanese restaurant in Higashiichiki Machi Yuda, Hioki.",
+     "source_url": "https://www.openstreetmap.org/node/9605849186",
+     "page": "https://bokenjapan.com/kagoshima/hioki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Minamiyu Shokudo Megumi",
+     "name_en": "Minamiyu Shokudo Megumi",
+     "name_ja": "南湯食堂 恵",
+     "description": "Japanese restaurant in Fukiage Machi Yunora, Hioki.",
+     "source_url": "https://www.openstreetmap.org/way/1434592886",
+     "page": "https://bokenjapan.com/kagoshima/hioki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Washoku Dining Masaryu",
+     "name_en": "Washoku Dining Masaryu",
+     "name_ja": "和食ダイニング 雅流",
+     "description": "Japanese restaurant in Hioki.",
+     "source_url": "https://www.openstreetmap.org/node/3922287543",
+     "page": "https://bokenjapan.com/kagoshima/hioki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yuko Sanno Daidokoro Sagiran",
+     "name_en": "Yuko Sanno Daidokoro Sagiran",
+     "name_ja": "優子さんの台所 さぎらん",
+     "description": "Japanese restaurant in Hioki.",
+     "source_url": "https://www.openstreetmap.org/node/7197670332",
+     "page": "https://bokenjapan.com/kagoshima/hioki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Sushi Shijo",
+     "name_en": "Sushi Shijo",
+     "name_ja": "すし市場",
+     "description": "Sushi restaurant in Hioki.",
+     "source_url": "https://www.openstreetmap.org/way/1052052557",
+     "page": "https://bokenjapan.com/kagoshima/hioki/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Yokozuna",
+     "name_en": "Yokozuna",
+     "name_ja": "横綱",
+     "description": "Sushi restaurant in Hioki.",
+     "source_url": "https://www.openstreetmap.org/node/13710451441",
+     "page": "https://bokenjapan.com/kagoshima/hioki/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Baigetsudo",
      "name_en": "Baigetsudo",
      "name_ja": "梅月堂",
@@ -2701,6 +3324,15 @@
      "name_en": "Enne",
      "description": "Enne — cake shop in Hioki, Kagoshima.",
      "source_url": "https://tabelog.com/kagoshima/A4601/A460103/46015229/",
+     "page": "https://bokenjapan.com/kagoshima/hioki/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Kurinoya",
+     "name_en": "Kurinoya",
+     "name_ja": "栗乃屋",
+     "description": "Japanese sweets shop in Hioki.",
+     "source_url": "https://www.openstreetmap.org/way/1372028371",
      "page": "https://bokenjapan.com/kagoshima/hioki/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -2875,7 +3507,7 @@
     "lat": 31.252803,
     "lon": 130.633117
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Ibusuki Roadside Station Saikanakan",
@@ -3143,6 +3775,23 @@
      "category": "Cafe"
     },
     {
+     "name": "Shop & Cafe Ukimido",
+     "name_en": "Shop & Cafe Ukimido",
+     "name_ja": "Shop & Cafe 浮見堂",
+     "description": "Cafe in Ibusuki. Open daily 09:00-17:00.",
+     "source_url": "http://www.satsuma-denshokan.com/shop/",
+     "page": "https://bokenjapan.com/kagoshima/ibusuki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "cafe yokatoko",
+     "name_en": "cafe yokatoko",
+     "description": "Cafe in Ibusuki. Open Sat-Sun 11:00-17:00.",
+     "source_url": "https://www.openstreetmap.org/node/13039414707",
+     "page": "https://bokenjapan.com/kagoshima/ibusuki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Ryokan Shokudo Kuriya",
      "name_en": "Ryokan Shokudo Kuriya",
      "name_ja": "旅館食堂 くり屋",
@@ -3179,11 +3828,36 @@
      "category": "Casual"
     },
     {
+     "name": "Chinese",
+     "name_en": "Chinese",
+     "description": "Chinese restaurant in Ibusuki.",
+     "source_url": "https://www.openstreetmap.org/node/1068335442",
+     "page": "https://bokenjapan.com/kagoshima/ibusuki/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Shiba Hanazono",
+     "name_en": "Shiba Hanazono",
+     "name_ja": "芝華園",
+     "description": "Chinese restaurant in Ibusuki.",
+     "source_url": "https://www.openstreetmap.org/node/4413391791",
+     "page": "https://bokenjapan.com/kagoshima/ibusuki/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Fenice di Acquapazza",
      "name_en": "Fenice di Acquapazza",
      "name_ja": "フェニーチェ ディ アクアパッツァ",
      "description": "Fenice di Acquapazza — italian restaurant in Ibusuki, Kagoshima.",
      "source_url": "https://tabelog.com/kagoshima/A4601/A460102/46001416/",
+     "page": "https://bokenjapan.com/kagoshima/ibusuki/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Ristorante Fenice",
+     "name_en": "Ristorante Fenice",
+     "description": "Italian restaurant in Ibusuki. Open daily 11:30-15:00, 18:00-22:00.",
+     "source_url": "http://www.satsuma-denshokan.com/restaurant/",
      "page": "https://bokenjapan.com/kagoshima/ibusuki/eat/european/",
      "category": "European"
     },
@@ -3195,6 +3869,15 @@
      "source_url": "https://tabelog.com/kagoshima/A4601/A460102/46002659/",
      "page": "https://bokenjapan.com/kagoshima/ibusuki/eat/izakaya-bars/",
      "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yakiniku Nabeshima",
+     "name_en": "Yakiniku Nabeshima",
+     "name_ja": "焼肉なべしま",
+     "description": "Yakiniku restaurant in Ibusuki.",
+     "source_url": "https://www.openstreetmap.org/way/1086661749",
+     "page": "https://bokenjapan.com/kagoshima/ibusuki/eat/meat/",
+     "category": "Japanese (meat)"
     },
     {
      "name": "Mori no Sobaya",
@@ -3242,11 +3925,54 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Menya Jiro Ramen Nigatsuden Restaurant",
+     "name_en": "Menya Jiro Ramen Nigatsuden Restaurant",
+     "name_ja": "麺屋二郎 二月田本店",
+     "description": "Noodle restaurant in Ibusuki.",
+     "source_url": "https://www.menyajiro.com/",
+     "page": "https://bokenjapan.com/kagoshima/ibusuki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menya Jiro Ramen Ibusuki Restaurant",
+     "name_en": "Menya Jiro Ramen Ibusuki Restaurant",
+     "name_ja": "麺屋二郎 指宿駅前店",
+     "description": "Noodle restaurant in Ibusuki.",
+     "source_url": "https://www.menyajiro.com/",
+     "page": "https://bokenjapan.com/kagoshima/ibusuki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Nidaime Nanshu Ramen",
+     "name_en": "Nidaime Nanshu Ramen",
+     "name_ja": "二代目南州ラーメン",
+     "description": "Ramen restaurant in Ibusuki.",
+     "source_url": "https://www.openstreetmap.org/node/11862049512",
+     "page": "https://bokenjapan.com/kagoshima/ibusuki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Ibusuki Hakusuikan",
      "name_en": "Ibusuki Hakusuikan",
      "name_ja": "指宿白水館",
      "description": "Hotel in Ibusuki.",
      "source_url": "https://tabelog.com/kagoshima/A4601/A460102/46001352/",
+     "page": "https://bokenjapan.com/kagoshima/ibusuki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "HEARTheal",
+     "name_en": "HEARTheal",
+     "description": "Restaurant in Ibusuki.",
+     "source_url": "https://www.openstreetmap.org/node/4413386393",
+     "page": "https://bokenjapan.com/kagoshima/ibusuki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Tosenkyo Somen Noodel Nagashi",
+     "name_en": "Tosenkyo Somen Noodel Nagashi",
+     "description": "Restaurant in Ibusuki.",
+     "source_url": "https://www.openstreetmap.org/node/6699683185",
      "page": "https://bokenjapan.com/kagoshima/ibusuki/eat/other/",
      "category": "Other"
     },
@@ -3314,6 +4040,40 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Aoba, black pork specialties and local cuisine restaurant",
+     "name_en": "Aoba, black pork specialties and local cuisine restaurant",
+     "description": "Regional Japanese restaurant in Minato, Ibusuki.",
+     "source_url": "https://aoba-ibusuki.com/",
+     "page": "https://bokenjapan.com/kagoshima/ibusuki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Chinetsu no Sato",
+     "name_en": "Chinetsu no Sato",
+     "name_ja": "地熱の里",
+     "description": "Japanese restaurant in Ibusuki.",
+     "source_url": "https://www.seika-spc.co.jp/healthy/",
+     "page": "https://bokenjapan.com/kagoshima/ibusuki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Chojuan Ibusuki",
+     "name_en": "Chojuan Ibusuki",
+     "description": "Regional Japanese restaurant in Ibusuki.",
+     "source_url": "https://www.openstreetmap.org/node/6761048386",
+     "page": "https://bokenjapan.com/kagoshima/ibusuki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Fumiri Iori Haikara Tei Hisashi Shimadoka",
+     "name_en": "Fumiri Iori Haikara Tei Hisashi Shimadoka",
+     "name_ja": "ふぁみり庵・はいから亭・寿しまどか",
+     "description": "Japanese restaurant in Ibusuki.",
+     "source_url": "https://www.openstreetmap.org/way/1044460274",
+     "page": "https://bokenjapan.com/kagoshima/ibusuki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Ichiba Shokudo Tsuru no Minato",
      "name_en": "Ichiba Shokudo Tsuru no Minato",
      "name_ja": "市場食堂 鶴の港",
@@ -3328,6 +4088,14 @@
      "name_ja": "道の駅 いぶすき彩花菜館",
      "description": "Gelato, ice cream, noodles, and ramen in Ibusuki.",
      "source_url": "https://tabelog.com/kagoshima/A4601/A460102/46000969/",
+     "page": "https://bokenjapan.com/kagoshima/ibusuki/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sumomo Bakery",
+     "name_en": "Sumomo Bakery",
+     "description": "Bakery in Jitcho, Ibusuki.",
+     "source_url": "http://www.hatoya.co",
      "page": "https://bokenjapan.com/kagoshima/ibusuki/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -3638,7 +4406,7 @@
     "lat": 31.7146067,
     "lon": 130.2720395
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Ichikikushikino Products Sanosa Kan",
@@ -3783,6 +4551,41 @@
      "category": "Casual"
     },
     {
+     "name": "Hokka Hokka Tei",
+     "name_en": "Hokka Hokka Tei",
+     "name_ja": "ほっかほっか亭",
+     "description": "Fast-food restaurant in Ichikikushikino.",
+     "source_url": "https://www.openstreetmap.org/node/9880937673",
+     "page": "https://bokenjapan.com/kagoshima/ichikikushikino/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "MOS Burger",
+     "name_en": "MOS Burger",
+     "name_ja": "モスバーガー",
+     "description": "Burger fast-food restaurant in Ichikikushikino.",
+     "source_url": "https://www.openstreetmap.org/way/1024552164",
+     "page": "https://bokenjapan.com/kagoshima/ichikikushikino/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Mos Burguer",
+     "name_en": "Mos Burguer",
+     "description": "Fast-food restaurant in Ichikikushikino.",
+     "source_url": "https://www.openstreetmap.org/node/3024432433",
+     "page": "https://bokenjapan.com/kagoshima/ichikikushikino/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Sukiya",
+     "name_en": "Sukiya",
+     "name_ja": "すき家",
+     "description": "Fast-food restaurant in Ichikikushikino. Open 24 hours, every day.",
+     "source_url": "https://www.openstreetmap.org/node/9880754574",
+     "page": "https://bokenjapan.com/kagoshima/ichikikushikino/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Taishu Chuka Ranran",
      "name_en": "Taishu Chuka Ranran",
      "name_ja": "大衆中華 蘭蘭",
@@ -3790,6 +4593,24 @@
      "source_url": "https://tabelog.com/kagoshima/A4602/A460202/46000837/",
      "page": "https://bokenjapan.com/kagoshima/ichikikushikino/eat/chinese-asian/",
      "category": "Chinese & Asian"
+    },
+    {
+     "name": "Joyfull",
+     "name_en": "Joyfull",
+     "name_ja": "ジョイフル",
+     "description": "Western-style restaurant in Ichikikushikino.",
+     "source_url": "https://www.openstreetmap.org/node/6341389707",
+     "page": "https://bokenjapan.com/kagoshima/ichikikushikino/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Bar in Ichikikushikino",
+     "name_en": "Bar in Ichikikushikino",
+     "name_ja": "パラゴン",
+     "description": "Bar in Ichikikushikino.",
+     "source_url": "https://paragons.exblog.jp/",
+     "page": "https://bokenjapan.com/kagoshima/ichikikushikino/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
     },
     {
      "name": "Kodawari Tonkatsu Aji Kobo Misono",
@@ -3824,6 +4645,15 @@
      "name_ja": "味彩",
      "description": "Ajisai — yakiniku restaurant in Ichikikushikino, Kagoshima.",
      "source_url": "https://tabelog.com/kagoshima/A4602/A460202/46011905/",
+     "page": "https://bokenjapan.com/kagoshima/ichikikushikino/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Nabeshima",
+     "name_en": "Yakiniku Nabeshima",
+     "name_ja": "焼肉なべしま",
+     "description": "Barbecue restaurant in Ichikikushikino.",
+     "source_url": "https://www.openstreetmap.org/way/1133998520",
      "page": "https://bokenjapan.com/kagoshima/ichikikushikino/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -3941,6 +4771,23 @@
      "name_ja": "チョコレート ハウス サムライ",
      "description": "Bread, chocolate, and soft-serve shop.",
      "source_url": "https://tabelog.com/kagoshima/A4602/A460202/46014399/",
+     "page": "https://bokenjapan.com/kagoshima/ichikikushikino/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets shop in Ichikikushikino",
+     "name_en": "Sweets shop in Ichikikushikino",
+     "name_ja": "モンシェリー松下",
+     "description": "Sweets shop in Ichikikushikino.",
+     "source_url": "https://www.openstreetmap.org/node/9447540078",
+     "page": "https://bokenjapan.com/kagoshima/ichikikushikino/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Queen's Cafe",
+     "name_en": "Queen's Cafe",
+     "description": "Cake cafe in Ichikikushikino.",
+     "source_url": "https://www.openstreetmap.org/node/3024414240",
      "page": "https://bokenjapan.com/kagoshima/ichikikushikino/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -4108,7 +4955,7 @@
     "lat": 32.0571271,
     "lon": 130.6130905
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Hanamushiro",
@@ -4189,6 +5036,14 @@
      "name_ja": "カフェ ユララ",
      "description": "Cafe Yurara — cafe in Isa, Kagoshima.",
      "source_url": "https://tabelog.com/kagoshima/A4603/A460302/46009579/",
+     "page": "https://bokenjapan.com/kagoshima/isa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "endroit cache",
+     "name_en": "endroit cache",
+     "description": "Cafe in Isa. Open daily 11:00-15:00.",
+     "source_url": "https://www.openstreetmap.org/node/11052072869",
      "page": "https://bokenjapan.com/kagoshima/isa/eat/cafe/",
      "category": "Cafe"
     },
@@ -4333,6 +5188,42 @@
      "name_ja": "大口グリーンホテル",
      "description": "Okuchi Green Hotel — hotel in Isa, Kagoshima.",
      "source_url": "https://tabelog.com/kagoshima/A4603/A460302/46007254/",
+     "page": "https://bokenjapan.com/kagoshima/isa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Hanamushiro",
+     "name_en": "Hanamushiro",
+     "name_ja": "花筵",
+     "description": "Restaurant in Isa.",
+     "source_url": "https://www.openstreetmap.org/way/557851580",
+     "page": "https://bokenjapan.com/kagoshima/isa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Narizawa",
+     "name_en": "Narizawa",
+     "name_ja": "なりざわ",
+     "description": "Restaurant in Isa.",
+     "source_url": "https://www.openstreetmap.org/way/557850964",
+     "page": "https://bokenjapan.com/kagoshima/isa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Somen Nagashi",
+     "name_en": "Somen Nagashi",
+     "name_ja": "そうめん流し",
+     "description": "Restaurant in Isa.",
+     "source_url": "https://www.openstreetmap.org/node/11052115521",
+     "page": "https://bokenjapan.com/kagoshima/isa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Isa",
+     "name_en": "Restaurant in Isa",
+     "name_ja": "滝のや",
+     "description": "Restaurant in Isa.",
+     "source_url": "https://www.openstreetmap.org/way/557850463",
      "page": "https://bokenjapan.com/kagoshima/isa/eat/other/",
      "category": "Other"
     },
@@ -4847,7 +5738,7 @@
     "lat": 32.090461,
     "lon": 130.352691
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Izumi Shuzo Co., Ltd.",
@@ -4974,6 +5865,42 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Akasaka Hanten",
+     "name_en": "Akasaka Hanten",
+     "name_ja": "赤坂飯店",
+     "description": "Chinese restaurant in Izumishi.",
+     "source_url": "https://www.openstreetmap.org/way/1218517763",
+     "page": "https://bokenjapan.com/kagoshima/izumishi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Korean restaurant in Izumishi",
+     "name_en": "Korean restaurant in Izumishi",
+     "name_ja": "韓国料理포르코-ポルコ-",
+     "description": "Korean restaurant in Izumishi.",
+     "source_url": "https://www.openstreetmap.org/way/1427904644",
+     "page": "https://bokenjapan.com/kagoshima/izumishi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Curry Rice no Branch Kokuoto",
+     "name_en": "Curry Rice no Branch Kokuoto",
+     "name_ja": "カレーライスの店 刻音",
+     "description": "Indian restaurant in Izumishi.",
+     "source_url": "https://www.openstreetmap.org/way/1427873915",
+     "page": "https://bokenjapan.com/kagoshima/izumishi/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Subarashii",
+     "name_en": "Subarashii",
+     "name_ja": "すばらしい",
+     "description": "Indian restaurant in Izumishi.",
+     "source_url": "https://www.openstreetmap.org/node/13126624414",
+     "page": "https://bokenjapan.com/kagoshima/izumishi/eat/curry/",
+     "category": "Curry"
+    },
+    {
      "name": "KAI",
      "name_en": "KAI",
      "description": "KAI — italian restaurant in Izumishi, Kagoshima.",
@@ -4987,6 +5914,15 @@
      "name_ja": "キッチンしま",
      "description": "Kitchen Shima — western cuisine restaurant in Izumishi, Kagoshima.",
      "source_url": "https://tabelog.com/kagoshima/A4602/A460204/46008007/",
+     "page": "https://bokenjapan.com/kagoshima/izumishi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Pizza restaurant in Izumishi",
+     "name_en": "Pizza restaurant in Izumishi",
+     "name_ja": "ピザ屋ボート",
+     "description": "Pizza restaurant in Izumishi.",
+     "source_url": "https://www.openstreetmap.org/way/1427922892",
      "page": "https://bokenjapan.com/kagoshima/izumishi/eat/european/",
      "category": "European"
     },
@@ -5063,6 +5999,69 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Asuka Ramen",
+     "name_en": "Asuka Ramen",
+     "name_ja": "飛鳥ラーメン",
+     "description": "Ramen restaurant in Izumishi.",
+     "source_url": "https://www.openstreetmap.org/way/1427875378",
+     "page": "https://bokenjapan.com/kagoshima/izumishi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Chikuho Ramen Yamashoya",
+     "name_en": "Chikuho Ramen Yamashoya",
+     "name_ja": "筑豊ラーメン山小屋",
+     "description": "Ramen restaurant in Izumishi.",
+     "source_url": "https://www.openstreetmap.org/way/1427888981",
+     "page": "https://bokenjapan.com/kagoshima/izumishi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Fuku Fuku",
+     "name_en": "Fuku Fuku",
+     "name_ja": "ふく福",
+     "description": "Udon restaurant in Izumishi.",
+     "source_url": "https://www.openstreetmap.org/way/1427894598",
+     "page": "https://bokenjapan.com/kagoshima/izumishi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ganso Satsuma Udon Mentokoro Hashi Takaono Branch",
+     "name_en": "Ganso Satsuma Udon Mentokoro Hashi Takaono Branch",
+     "name_ja": "元祖薩摩うどん 麺処はし 高尾野店",
+     "description": "Udon restaurant in Izumishi.",
+     "source_url": "https://www.openstreetmap.org/way/1427899243",
+     "page": "https://bokenjapan.com/kagoshima/izumishi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Hakata Kinryu",
+     "name_en": "Hakata Kinryu",
+     "name_ja": "博多金龍",
+     "description": "Ramen restaurant in Izumishi.",
+     "source_url": "https://www.openstreetmap.org/way/1427874958",
+     "page": "https://bokenjapan.com/kagoshima/izumishi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kaneyama Udon Izumi Branch",
+     "name_en": "Kaneyama Udon Izumi Branch",
+     "name_ja": "かねやまうどん出水店",
+     "description": "Udon restaurant in Izumishi.",
+     "source_url": "https://www.openstreetmap.org/way/1427915038",
+     "page": "https://bokenjapan.com/kagoshima/izumishi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen House Koshiba",
+     "name_en": "Ramen House Koshiba",
+     "name_ja": "らーめんハウスこしば",
+     "description": "Ramen restaurant in Izumishi.",
+     "source_url": "https://www.openstreetmap.org/node/13127552597",
+     "page": "https://bokenjapan.com/kagoshima/izumishi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Takenoko",
      "name_en": "Takenoko",
      "name_ja": "竹の子",
@@ -5108,6 +6107,15 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Fumiri Iori Haikara Tei",
+     "name_en": "Fumiri Iori Haikara Tei",
+     "name_ja": "ふぁみり庵はいから亭",
+     "description": "Japanese restaurant in Izumishi.",
+     "source_url": "https://www.openstreetmap.org/way/1427892265",
+     "page": "https://bokenjapan.com/kagoshima/izumishi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Gyotei Iwashi Chaya",
      "name_en": "Gyotei Iwashi Chaya",
      "name_ja": "漁亭いわし茶屋",
@@ -5135,6 +6143,15 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Kabuto Sushi",
+     "name_en": "Kabuto Sushi",
+     "name_ja": "かぶと寿司",
+     "description": "Sushi restaurant in Izumishi.",
+     "source_url": "https://www.openstreetmap.org/way/1541060523",
+     "page": "https://bokenjapan.com/kagoshima/izumishi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Kasho Tanaka",
      "name_en": "Kasho Tanaka",
      "name_ja": "菓匠 田中",
@@ -5149,6 +6166,23 @@
      "name_ja": "おるがんと氷店",
      "description": "Shaved ice, cafe, and Okinawan cuisine.",
      "source_url": "https://tabelog.com/kagoshima/A4602/A460204/46016803/",
+     "page": "https://bokenjapan.com/kagoshima/izumishi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "100PremiumbakerySUMOMO",
+     "name_en": "100PremiumbakerySUMOMO",
+     "description": "Bakery in Izumishi.",
+     "source_url": "https://www.openstreetmap.org/node/13127495381",
+     "page": "https://bokenjapan.com/kagoshima/izumishi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sugoi Panya",
+     "name_en": "Sugoi Panya",
+     "name_ja": "すごいパン屋",
+     "description": "Bakery in Izumishi.",
+     "source_url": "https://www.openstreetmap.org/node/13127376788",
      "page": "https://bokenjapan.com/kagoshima/izumishi/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -5367,7 +6401,7 @@
     "lat": 31.5967401,
     "lon": 130.5574345
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Tenmonkan",
@@ -6199,11 +7233,79 @@
      "category": "Cafe"
     },
     {
+     "name": "Tenon",
+     "name_en": "Tenon",
+     "description": "Cafe in Kagoshima. Open daily 10:00-23:00.",
+     "source_url": "https://www.tenon-de.net/",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "CAFÉSHOP",
+     "name_en": "CAFESHOP",
+     "description": "Tea cafe in Nakamachi, Kagoshima. Open Mon-Fri 08:00-19:00; Sat-Sun 08:00-18:00.",
+     "source_url": "http://cafeshop.jp",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "coffee zanmai",
+     "name_en": "coffee zanmai",
+     "name_ja": "珈琲三昧",
+     "description": "Cafe in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/6947897286",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "danken",
+     "name_en": "danken",
+     "description": "Cafe in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/11775226143",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Hanaikada",
+     "name_en": "Hanaikada",
+     "name_ja": "花筏",
+     "description": "Cafe in Kagoshima. Open daily 09:30-21:00.",
+     "source_url": "https://www.openstreetmap.org/way/895910427",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Hatanaka coffee",
+     "name_en": "Hatanaka coffee",
+     "description": "Cafe in Kagoshima. Open Mon-Fri 09:30-18:30; public holidays, Sat 10:00-18:00; closed Sun.",
+     "source_url": "https://www.openstreetmap.org/node/6251045729",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Janbo-mochi",
+     "name_en": "Janbo-mochi",
+     "name_ja": "両棒餅",
+     "description": "Cafe in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/way/400577209",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Ichiba Shokudo Jonan Store",
      "name_en": "Ichiba Shokudo Jonan Store",
      "name_ja": "市場食堂 城南店",
      "description": "Shokudo with sushi and seafood.",
      "source_url": "https://tabelog.com/kagoshima/A4601/A460101/46000812/",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Tako Douraku",
+     "name_en": "Tako Douraku",
+     "name_ja": "たこ道楽",
+     "description": "Fast-food restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/way/1056542755",
      "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/casual/",
      "category": "Casual"
     },
@@ -6215,6 +7317,51 @@
      "source_url": "https://tabelog.com/kagoshima/A4601/A460101/46001272/",
      "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/chinese-asian/",
      "category": "Chinese & Asian"
+    },
+    {
+     "name": "AMA",
+     "name_en": "AMA",
+     "name_ja": "香辣混麺 天",
+     "description": "Chinese restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/14185022785",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Kiyomiken",
+     "name_en": "Kiyomiken",
+     "name_ja": "清美軒",
+     "description": "Chinese restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1337975663",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "NASUNCHI",
+     "name_en": "NASUNCHI",
+     "name_ja": "なすん家",
+     "description": "Chinese restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/13866923444",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Aji-dokoro Asari (izakaya)",
+     "name_en": "Aji-dokoro Asari (izakaya)",
+     "name_ja": "味処あさり",
+     "description": "Curry bar in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/way/894128608",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Namaste Indian Curry Restaurant",
+     "name_en": "Namaste Indian Curry Restaurant",
+     "name_ja": "ナマステ・ インドカレー レストラン",
+     "description": "Indian restaurant in Kagoshima. Open daily 11:00-15:00, 17:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/11707799473",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/curry/",
+     "category": "Curry"
     },
     {
      "name": "et NOU",
@@ -6242,11 +7389,134 @@
      "category": "European"
     },
     {
+     "name": "Daloro",
+     "name_en": "Daloro",
+     "name_ja": "ダローロ",
+     "description": "Italian restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/10134930912",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "IL-SOLE",
+     "name_en": "IL-SOLE",
+     "name_ja": "イルソーレ",
+     "description": "Italian restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/13533333590",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Komugico",
+     "name_en": "Komugico",
+     "description": "Pasta restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/13652326502",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Marco Polo",
+     "name_en": "Marco Polo",
+     "name_ja": "マルコポーロ",
+     "description": "Italian restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/4867307122",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "TO THE HERBS",
+     "name_en": "TO THE HERBS",
+     "description": "Pasta and pizza restaurant in Kagoshima. Open daily 11:00-15:30; daily 17:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/14096543114",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Bar Stinger",
      "name_en": "Bar Stinger",
      "name_ja": "バー スティンガー",
      "description": "Bar in Kagoshima.",
      "source_url": "https://tabelog.com/kagoshima/A4601/A460101/46005461/",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Aromatic Bitters",
+     "name_en": "Aromatic Bitters",
+     "name_ja": "アロマチックビターズ",
+     "description": "Bar in Kagoshima. Open Mon-Wed, Fri-Sat 20:00-03:00; Sun 20:00-01:00.",
+     "source_url": "https://bar-navi.suntory.co.jp/shop/0X00325465",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kagotsumafurusatoya Daimura Basuchika",
+     "name_en": "Kagotsumafurusatoya Daimura Basuchika",
+     "name_ja": "かごっまふるさと屋台村 バスチカ",
+     "description": "Regional Japanese pub in Chuocho, Kagoshima. Open daily 11:30-23:30.",
+     "source_url": "https://www.kagoshima-yataimura.info/",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Nice & Easy",
+     "name_en": "Nice & Easy",
+     "description": "Bar in Kagoshima. Open daily 19:00-02:00.",
+     "source_url": "https://niceandeasy.com",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Honkaku Shochu & Wine Bar ROKU",
+     "name_en": "Honkaku Shochu & Wine Bar ROKU",
+     "name_ja": "本格焼酎＆ワインBar 鹿",
+     "description": "Bar in Funatsu Machi, Kagoshima. Open Tue-Sat 20:00-02:00.",
+     "source_url": "https://www.openstreetmap.org/node/7990831608",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "honkaku shochu bar Ishizue",
+     "name_en": "honkaku shochu bar Ishizue",
+     "name_ja": "本格焼酎 Bar 礎",
+     "description": "Bar in Sennichi Machi, Kagoshima. Open daily 20:00-03:00.",
+     "source_url": "https://www.openstreetmap.org/node/4435073391",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya 017 Yokaban",
+     "name_en": "Izakaya 017 Yokaban",
+     "name_ja": "よか晩",
+     "description": "Izakaya restaurant in Kagoshima. Open daily 12:00-24:00.",
+     "source_url": "https://www.openstreetmap.org/node/6856267585",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Juppo",
+     "name_en": "Juppo",
+     "name_ja": "十歩",
+     "description": "Pub in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1309106670",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Shorai",
+     "name_en": "Shorai",
+     "name_ja": "松籟",
+     "description": "Japanese pub in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1370014456",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya or bar in Kagoshima",
+     "name_en": "Izakaya or bar in Kagoshima",
+     "name_ja": "和総",
+     "description": "Regional Japanese bar in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/6947810089",
      "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -6305,6 +7575,132 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Fumiri Iori Haikara Tei",
+     "name_en": "Fumiri Iori Haikara Tei",
+     "name_ja": "ふぁみり庵はいから亭",
+     "description": "Barbecue restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/3467448909",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Hakutsuru",
+     "name_en": "Hakutsuru",
+     "name_ja": "白鶴",
+     "description": "Yakitori pub in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1309106682",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Karen",
+     "name_en": "Karen",
+     "name_ja": "華蓮",
+     "description": "Barbecue pub in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/868612569",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "kitchen RA-RA",
+     "name_en": "kitchen RA-RA",
+     "name_ja": "kitchen 桜々",
+     "description": "Chicken restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/14219664968",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Maruichi",
+     "name_en": "Maruichi",
+     "name_ja": "丸一",
+     "description": "Tonkatsu restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1307611758",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Nabeshima",
+     "name_en": "Nabeshima",
+     "name_ja": "焼肉なべしま",
+     "description": "Barbecue restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1309106657",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Nishiya",
+     "name_en": "Nishiya",
+     "name_ja": "西屋",
+     "description": "Yakitori pub in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1337975681",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Takakura",
+     "name_en": "Takakura",
+     "name_ja": "高倉",
+     "description": "Barbecue restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1309067185",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Takakura",
+     "name_en": "Takakura",
+     "name_ja": "焼肉 高倉",
+     "description": "Barbecue restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1319677865",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Tatsumiya",
+     "name_en": "Tatsumiya",
+     "name_ja": "辰巳屋",
+     "description": "Yakitori bar in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1310175848",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Torigen",
+     "name_en": "Torigen",
+     "name_ja": "鳥源",
+     "description": "Yakitori pub in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1310175826",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Wagyumon",
+     "name_en": "Wagyumon",
+     "name_ja": "和牛門",
+     "description": "Barbecue restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1319677864",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yokado Kagoshima",
+     "name_en": "Yokado Kagoshima",
+     "name_ja": "よかど鹿児島",
+     "description": "Barbecue restaurant in Kagoshima. Open Wed-Mon 10:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/6947995786",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yokomura Yakiniku",
+     "name_en": "Yokomura Yakiniku",
+     "name_ja": "焼肉 ヨコムラ",
+     "description": "Barbecue restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/6763578986",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Ramen Kokinta",
      "name_en": "Ramen Kokinta",
      "name_ja": "ラーメン小金太",
@@ -6312,6 +7708,155 @@
      "source_url": "https://tabelog.com/kagoshima/A4601/A460101/46000027/",
      "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/noodles/",
      "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Fukufuku",
+     "name_en": "Fukufuku",
+     "name_ja": "ふく福",
+     "description": "Udon restaurant in Kagoshima.",
+     "source_url": "https://www.jf-group.co.jp/brand/fukufuku",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Maruni Miso Ramen",
+     "name_en": "Maruni Miso Ramen",
+     "name_ja": "マルニ味噌らーめん",
+     "description": "Ramen restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/13167533339",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "$nooup",
+     "name_en": "$nooup",
+     "description": "Ramen restaurant in Kagoshima. Open Sun-Thu 11:00-21:00; Fri-Sat 11:00-24:00.",
+     "source_url": "https://www.snooup-is-yours.com/",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Fukiage-an",
+     "name_en": "Fukiage-an",
+     "name_ja": "そば茶屋吹上庵",
+     "description": "Soba and udon restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1318743431",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Fukuman",
+     "name_en": "Fukuman",
+     "name_ja": "ふくまん",
+     "description": "Ramen restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1336277129",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Garyufu Ramen",
+     "name_en": "Garyufu Ramen",
+     "name_ja": "我流風ラーメン",
+     "description": "Ramen restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1310139984",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kazuya",
+     "name_en": "Kazuya",
+     "name_ja": "かづ屋",
+     "description": "Soba and udon restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1309106654",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Honya",
+     "name_en": "Ramen Honya",
+     "name_ja": "ラーメン専門 ほんや",
+     "description": "Ramen restaurant in Uehommachi, Kagoshima. Open Mon, Wed, Fri, Sat, Sun, public holidays 11:00-20:00; closed Tue, Thu.",
+     "source_url": "https://www.openstreetmap.org/node/11530267014",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "RAMEN SENGOKUYA",
+     "name_en": "RAMEN SENGOKUYA",
+     "description": "Ramen restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/14208926784",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Temma",
+     "name_en": "Ramen Temma",
+     "name_ja": "ラーメン専門 天満",
+     "description": "Ramen restaurant in Ue Arata Machi, Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/11530264962",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Yoshimiya",
+     "name_en": "Ramen Yoshimiya",
+     "name_ja": "ラーメン よしみ屋",
+     "description": "Ramen restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/6947982685",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Sanyoken",
+     "name_en": "Sanyoken",
+     "name_ja": "三養軒",
+     "description": "Ramen restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1319677866",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Sobaru",
+     "name_en": "Sobaru",
+     "name_ja": "そばる",
+     "description": "Ramen restaurant in Yamashitacho, Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/11591805027",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "TaRa",
+     "name_en": "TaRa",
+     "description": "Ramen restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/12766361454",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon-Kobo Urikire-Gomen",
+     "name_en": "Udon-Kobo Urikire-Gomen",
+     "name_ja": "うどん工房うりきれ御麺",
+     "description": "Udon restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/4348228290",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Zabon Ramen",
+     "name_en": "Zabon Ramen",
+     "name_ja": "ざぼんラーメン",
+     "description": "Ramen restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1318743451",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Sri Lanka Kagoshima",
+     "name_en": "Sri Lanka Kagoshima",
+     "description": "Restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/8631874799",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/other/",
+     "category": "Other"
     },
     {
      "name": "San'ei",
@@ -6328,6 +7873,96 @@
      "name_ja": "分家 無邪気",
      "description": "Local cuisine, yakitori, and oden restaurant.",
      "source_url": "https://tabelog.com/kagoshima/A4601/A460101/46001051/",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kompira Maru",
+     "name_en": "Kompira Maru",
+     "name_ja": "こんぴら丸",
+     "description": "Japanese restaurant in Kagoshima.",
+     "source_url": "https://konpiramaru.jp/",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Yamanokuchi Machi, Kagoshima",
+     "name_en": "Japanese restaurant in Yamanokuchi Machi, Kagoshima",
+     "name_ja": "焼酎Bistro郷",
+     "description": "Japanese restaurant in Yamanokuchi Machi, Kagoshima.",
+     "source_url": "https://bistro-gou.com/",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kadonoya",
+     "name_en": "Kadonoya",
+     "name_ja": "かどの家",
+     "description": "Japanese restaurant in Izumicho, Kagoshima. Open Mon-Sat 11:00-14:30, 17:00-22:00.",
+     "source_url": "https://kadonoya.gorp.jp",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Buenmoyukari",
+     "name_en": "Buenmoyukari",
+     "name_ja": "ぶえんもゆかり",
+     "description": "Japanese restaurant in Kajiya Machi, Kagoshima. Open Mon-Sat 08:00-15:00, 17:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/10718605505",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Kagoshima",
+     "name_en": "Japanese restaurant in Kagoshima",
+     "name_ja": "市場食堂",
+     "description": "Japanese restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/13022654421",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kawakyu",
+     "name_en": "Kawakyu",
+     "name_ja": "とんかつ川久",
+     "description": "Japanese restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/6854464186",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Michiya",
+     "name_en": "Michiya",
+     "name_ja": "味ちや",
+     "description": "Japanese restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/14092022782",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Okonomiyaki Honpo",
+     "name_en": "Okonomiyaki Honpo",
+     "name_ja": "お好み焼き本舗",
+     "description": "Japanese restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/way/1507976384",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Raku",
+     "name_en": "Raku",
+     "name_ja": "楽",
+     "description": "Japanese restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1370063216",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ryo",
+     "name_en": "Ryo",
+     "name_ja": "旬味亭 量 (ryo)",
+     "description": "Japanese restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/869504774",
      "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -6402,6 +8037,76 @@
      "source_url": "https://tabelog.com/kagoshima/A4601/A460101/46000088/",
      "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/seafood/",
      "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Madoka",
+     "name_en": "Madoka",
+     "name_ja": "寿司まどか",
+     "description": "Sushi restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1318743466",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Ran",
+     "name_en": "Ran",
+     "name_ja": "すし亭 蘭 (Ran)",
+     "description": "Sushi restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/868342329",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi ichiba",
+     "name_en": "Sushi ichiba",
+     "name_ja": "すし市場",
+     "description": "Sushi restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1336339812",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushiyu",
+     "name_en": "Sushiyu",
+     "description": "Sushi restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1337984761",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sweets shop in Kagoshima",
+     "name_en": "Sweets shop in Kagoshima",
+     "name_ja": "御菓子司 とら屋",
+     "description": "Sweets shop in Kagoshima.",
+     "source_url": "https://www.kagobura.net/shop/shop.shtml?s=1918",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sui",
+     "name_en": "Cafe Sui",
+     "description": "Cake cafe in Kagoshima. Open Fri-Wed 11:00-18:00.",
+     "source_url": "https://www.openstreetmap.org/node/6947982586",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bakery in Kagoshima",
+     "name_en": "Bakery in Kagoshima",
+     "name_ja": "トワベール",
+     "description": "Bakery in Kagoshima. Open daily 09:00-17:00; closed Thu.",
+     "source_url": "https://www.openstreetmap.org/node/1336277113",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Yanagawa Hyoshitsu",
+     "name_en": "Yanagawa Hyoshitsu",
+     "name_ja": "柳川氷室",
+     "description": "Ice cream restaurant in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/5848343985",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "sights": [
@@ -7204,6 +8909,140 @@
      "description": "Accommodation in Kagoshima.",
      "source_url": "https://www.jalan.net/yad306761/",
      "page": "https://bokenjapan.com/kagoshima/kagoshima/stay/"
+    },
+    {
+     "name": "Sakurajima Youth Hostel",
+     "name_en": "Sakurajima Youth Hostel",
+     "name_ja": "桜島ユースホステル (Sakurajima Youth Hostel)",
+     "description": "Hostel in Kagoshima.",
+     "source_url": "https://www.e-yh.net/kagoshima/",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/stay/"
+    },
+    {
+     "name": "Shiroyama hotel Kagoshima",
+     "name_en": "Shiroyama hotel Kagoshima",
+     "name_ja": "城山ホテル鹿児島",
+     "description": "Hotel in Kagoshima.",
+     "source_url": "https://www.shiroyama-g.co.jp/",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/stay/"
+    },
+    {
+     "name": "Hotel Hokke Club",
+     "name_en": "Hotel Hokke Club",
+     "name_ja": "ホテル法華クラブ鹿児島",
+     "description": "Hotel in Kagoshima (Kajiya Machi).",
+     "source_url": "https://www.hokke.co.jp/kagoshima/",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/stay/"
+    },
+    {
+     "name": "Kokumin Shukusha Rainbow Sakurajima",
+     "name_en": "Kokumin Shukusha Rainbow Sakurajima",
+     "name_ja": "国民宿舎レインボー桜島",
+     "description": "Hotel in Kagoshima.",
+     "source_url": "https://rainbow-sakurajima.com/",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/stay/"
+    },
+    {
+     "name": "FAV LUX Kagoshima Tenmonkan",
+     "name_en": "FAV LUX Kagoshima Tenmonkan",
+     "description": "Hotel in Kagoshima.",
+     "source_url": "https://fav-hotels.com/hotels/lux/kagoshimatenmonkan/",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/stay/"
+    },
+    {
+     "name": "Solaria Nishitetsu Hotel Kagoshima",
+     "name_en": "Solaria Nishitetsu Hotel Kagoshima",
+     "name_ja": "ソラリア西鉄ホテル鹿児島",
+     "description": "Hotel in Kagoshima (Chuocho).",
+     "source_url": "https://solaria-kagoshima.nishitetsu-hotels.com/en-gb",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/stay/"
+    },
+    {
+     "name": "Hostel Tomal",
+     "name_en": "Hostel Tomal",
+     "name_ja": "ホステルトマル",
+     "description": "Guest house in Kagoshima (Izumicho).",
+     "source_url": "http://site-1285018-5184-1345.strikingly.com",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/stay/"
+    },
+    {
+     "name": "Remm Kagoshima",
+     "name_en": "Remm Kagoshima",
+     "name_ja": "レム鹿児島",
+     "description": "Hotel in Kagoshima (Higashisengokucho).",
+     "source_url": "https://www.hankyu-hotel.com/en/hotel/remm/kagoshima",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/stay/"
+    },
+    {
+     "name": "Richmond Hotel",
+     "name_en": "Richmond Hotel",
+     "name_ja": "リッチモンドホテル",
+     "description": "Hotel in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1309062109",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/stay/"
+    },
+    {
+     "name": "Hotel in Kagoshima (#1)",
+     "name_en": "Hotel in Kagoshima (#1)",
+     "name_ja": "温泉ホテル 中原別荘",
+     "description": "Hotel in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/way/432761153",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/stay/"
+    },
+    {
+     "name": "SILK INN KAGOSHIMA",
+     "name_en": "SILK INN KAGOSHIMA",
+     "name_ja": "シルクイン鹿児島",
+     "description": "Hotel in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/way/1006700766",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/stay/"
+    },
+    {
+     "name": "Domiin Kagoshima",
+     "name_en": "Domiin Kagoshima",
+     "name_ja": "ドーミーイン鹿児島",
+     "description": "Hotel in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1357363861",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/stay/"
+    },
+    {
+     "name": "Green Guest House",
+     "name_en": "Green Guest House",
+     "description": "Guest house in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/2286822258",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/stay/"
+    },
+    {
+     "name": "Hotel in Kagoshima (#2)",
+     "name_en": "Hotel in Kagoshima (#2)",
+     "name_ja": "吹上荘",
+     "description": "Hotel in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/way/432774947",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/stay/"
+    },
+    {
+     "name": "Washington Hotel",
+     "name_en": "Washington Hotel",
+     "name_ja": "ワシントンホテル",
+     "description": "Hotel in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/1307632419",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/stay/"
+    },
+    {
+     "name": "Guest house in Kagoshima",
+     "name_en": "Guest house in Kagoshima",
+     "name_ja": "鹿児島イルカゲストハウス",
+     "description": "Guest house in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/node/6000761785",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/stay/"
+    },
+    {
+     "name": "Ace Inn Kagoshima",
+     "name_en": "Ace Inn Kagoshima",
+     "name_ja": "エースイン鹿児島",
+     "description": "Hotel in Kagoshima.",
+     "source_url": "https://www.openstreetmap.org/way/113421716",
+     "page": "https://bokenjapan.com/kagoshima/kagoshima/stay/"
     }
    ]
   },
@@ -7226,7 +9065,7 @@
     "lat": 31.378267,
     "lon": 130.852208
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Kojika Shuzo Co., Ltd.",
@@ -7395,6 +9234,40 @@
    ],
    "food": [
     {
+     "name": "OMEGA SEVEN",
+     "name_en": "OMEGA SEVEN",
+     "description": "Cafe in Kanoya. Open Tue-Sun 11:00-20:00.",
+     "source_url": "http://seven.omega.ne.jp/",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "danken COFFEE",
+     "name_en": "danken COFFEE",
+     "description": "Cafe in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/12351557403",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Kanoya (#1)",
+     "name_en": "Cafe in Kanoya (#1)",
+     "name_ja": "喫茶トロピカーナ",
+     "description": "Cafe in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/2247603430",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Kanoya (#2)",
+     "name_en": "Cafe in Kanoya (#2)",
+     "name_ja": "ヴォンヴィヴォン",
+     "description": "Cafe in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/2975438754",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Komatsu Shokudo",
      "name_en": "Komatsu Shokudo",
      "name_ja": "小松食堂",
@@ -7422,11 +9295,110 @@
      "category": "Casual"
     },
     {
+     "name": "Fast-food restaurant in Kanoya",
+     "name_en": "Fast-food restaurant in Kanoya",
+     "name_ja": "味っ子",
+     "description": "Fast-food restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/1316915039",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Hotto Motto",
+     "name_en": "Hotto Motto",
+     "name_ja": "ほっともっと",
+     "description": "Fast-food restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/3092299665",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "name_ja": "マクドナルド",
+     "description": "Burger fast-food restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/3360699393",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "MOS Burger",
+     "name_en": "MOS Burger",
+     "name_ja": "モスバーガー",
+     "description": "Burger fast-food restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/way/307799199",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Sukiya",
+     "name_en": "Sukiya",
+     "name_ja": "すき家",
+     "description": "Fast-food restaurant in Kanoya. Open 24 hours, every day.",
+     "source_url": "https://www.openstreetmap.org/way/564417410",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Takomaru",
+     "name_en": "Takomaru",
+     "name_ja": "たこまる",
+     "description": "Fast-food restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/2247450370",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Takoyaki Osaka",
+     "name_en": "Takoyaki Osaka",
+     "name_ja": "たこやき大阪",
+     "description": "Fast-food restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/2193604747",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Yoshinoya",
+     "name_en": "Yoshinoya",
+     "name_ja": "吉野家",
+     "description": "Fast-food restaurant in Hisaji Chome, Kanoya. Open 24 hours, every day.",
+     "source_url": "https://www.openstreetmap.org/way/436817466",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "China One Kanoya Store",
      "name_en": "China One Kanoya Store",
      "name_ja": "チャイナワン 鹿屋店",
      "description": "Chinese cuisine, hot pot, and knife-cut noodles.",
      "source_url": "https://tabelog.com/kagoshima/A4604/A460401/46002660/",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Chugoku Ryori Songoku",
+     "name_en": "Chugoku Ryori Songoku",
+     "name_ja": "中国料理 孫悟空",
+     "description": "Chinese restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/way/1183526094",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Chuka Ryori Iwamatsu Kirishima Oka Branch",
+     "name_en": "Chuka Ryori Iwamatsu Kirishima Oka Branch",
+     "name_ja": "中華料理 いわまつ霧島ヶ丘店",
+     "description": "Asian restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/3360562893",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Chinese restaurant in Kanoya",
+     "name_en": "Chinese restaurant in Kanoya",
+     "name_ja": "収蔵楼",
+     "description": "Chinese restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/10979997765",
      "page": "https://bokenjapan.com/kagoshima/kanoya/eat/chinese-asian/",
      "category": "Chinese & Asian"
     },
@@ -7440,11 +9412,38 @@
      "category": "Curry"
     },
     {
+     "name": "Curry restaurant in Kanoya",
+     "name_en": "Curry restaurant in Kanoya",
+     "name_ja": "CoCo壱番屋",
+     "description": "Curry restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/way/304015981",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/curry/",
+     "category": "Curry"
+    },
+    {
      "name": "Sentiu — italian restaurant in Kanoya",
      "name_en": "Sentiu — italian restaurant in Kanoya",
      "name_ja": "センティウ",
      "description": "Sentiu — italian restaurant in Kanoya, Kagoshima.",
      "source_url": "https://tabelog.com/kagoshima/A4604/A460401/46013967/",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Gusto",
+     "name_en": "Gusto",
+     "name_ja": "ガスト",
+     "description": "Western-style restaurant in Kanoya. Open daily 09:00-02:00.",
+     "source_url": "https://www.openstreetmap.org/way/304027428",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Joyfull",
+     "name_en": "Joyfull",
+     "name_ja": "ジョイフル",
+     "description": "Western-style restaurant in Kanoya. Open 24 hours, every day.",
+     "source_url": "https://www.openstreetmap.org/way/263365325",
      "page": "https://bokenjapan.com/kagoshima/kanoya/eat/european/",
      "category": "European"
     },
@@ -7471,6 +9470,87 @@
      "name_ja": "魚菜丸 鹿屋店",
      "description": "Izakaya in Kanoya.",
      "source_url": "https://tabelog.com/kagoshima/A4604/A460401/46006265/",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Chidori Tei",
+     "name_en": "Chidori Tei",
+     "name_ja": "ちどり亭",
+     "description": "Pub in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/2272281633",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Ikoka",
+     "name_en": "Ikoka",
+     "name_ja": "いこか",
+     "description": "Pub in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/10979997767",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kamimura Shoten Shichijushichi Mangoku Branch",
+     "name_en": "Kamimura Shoten Shichijushichi Mangoku Branch",
+     "name_ja": "神村商店 七十七萬石店",
+     "description": "Pub in Mukae Machi, Kanoya. Open daily 17:00-01:00.",
+     "source_url": "https://www.openstreetmap.org/node/13098060261",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kurage",
+     "name_en": "Kurage",
+     "name_ja": "海月",
+     "description": "Bar in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/3358983293",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Megumiya Plus",
+     "name_en": "Megumiya Plus",
+     "name_ja": "恵屋プラス",
+     "description": "Pub in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/way/564419241",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Sumibi Kushiyaki Fumoto",
+     "name_en": "Sumibi Kushiyaki Fumoto",
+     "name_ja": "炭火串焼 ふもと",
+     "description": "Pub in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/2247460517",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Suzuya",
+     "name_en": "Suzuya",
+     "name_ja": "鈴屋",
+     "description": "Japanese pub in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/10979997766",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Japanese pub in Kanoya",
+     "name_en": "Japanese pub in Kanoya",
+     "name_ja": "天むすび",
+     "description": "Japanese pub in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/6928956511",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yofu Izakaya Kyodo Ryori MOZET",
+     "name_en": "Yofu Izakaya Kyodo Ryori MOZET",
+     "name_ja": "洋風居酒屋・郷土料理 MOZET",
+     "description": "Izakaya pub in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/2975438767",
      "page": "https://bokenjapan.com/kagoshima/kanoya/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -7520,6 +9600,60 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Yakiniku Nabeshima",
+     "name_en": "Yakiniku Nabeshima",
+     "name_ja": "焼肉なべしま",
+     "description": "Yakiniku restaurant in Kanoya.",
+     "source_url": "https://www.nabeshima-jp.com/",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Barbecue restaurant in Kanoya",
+     "name_en": "Barbecue restaurant in Kanoya",
+     "name_ja": "中和田",
+     "description": "Barbecue restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/10990484732",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "KFC",
+     "name_en": "KFC",
+     "name_ja": "ケンタッキーフライドチキン",
+     "description": "Chicken restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/2247444941",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Stamina Taro",
+     "name_en": "Stamina Taro",
+     "name_ja": "すたみな太郎",
+     "description": "Barbecue restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/3360501793",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Tonkatsu Chikutei Kanoya",
+     "name_en": "Tonkatsu Chikutei Kanoya",
+     "name_ja": "とんかつ竹亭 鹿屋",
+     "description": "Meat restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/way/1412952692",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Kodawari Kan",
+     "name_en": "Yakiniku Kodawari Kan",
+     "name_ja": "焼肉こだわり館",
+     "description": "Barbecue restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/2247471175",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Kagoshima Ramen Sannanbo",
      "name_en": "Kagoshima Ramen Sannanbo",
      "name_ja": "鹿児島らーめん 三男坊",
@@ -7547,6 +9681,123 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Kin Chan Ramen",
+     "name_en": "Kin Chan Ramen",
+     "name_ja": "金ちゃんラーメン",
+     "description": "Ramen restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/10979984843",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kita no Mentokoro Sapporo Ramen",
+     "name_en": "Kita no Mentokoro Sapporo Ramen",
+     "name_ja": "北の麺処 札幌ラーメン",
+     "description": "Ramen restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/3362820193",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kodawari Ramen Juhachiban",
+     "name_en": "Kodawari Ramen Juhachiban",
+     "name_ja": "こだわりラーメン十八番",
+     "description": "Ramen restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/2247443425",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Koiori",
+     "name_en": "Koiori",
+     "name_ja": "耕庵",
+     "description": "Noodle restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/10979997764",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Marugame Seimen",
+     "name_en": "Marugame Seimen",
+     "name_ja": "丸亀製麺",
+     "description": "Noodle restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/way/263365472",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Nama Udon Tsuchiya",
+     "name_en": "Nama Udon Tsuchiya",
+     "name_ja": "生うどんつちや",
+     "description": "Udon restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/9878185116",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Ippuku",
+     "name_en": "Ramen Ippuku",
+     "name_ja": "ラーメンいっぷく",
+     "description": "Ramen restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/10979984845",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Michi",
+     "name_en": "Ramen Michi",
+     "name_ja": "らーめん 道",
+     "description": "Ramen restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/10990484733",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Osamuchan",
+     "name_en": "Ramen Osamuchan",
+     "name_ja": "ラーメン おさむちゃん",
+     "description": "Ramen restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/1316915019",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Shimomura",
+     "name_en": "Ramen Shimomura",
+     "name_ja": "らーめん しもむら",
+     "description": "Ramen restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/10990484730",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Soba Tokoro Daifuku",
+     "name_en": "Soba Tokoro Daifuku",
+     "name_ja": "そば処大福",
+     "description": "Soba restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/10979984846",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon Soba Inaho",
+     "name_en": "Udon Soba Inaho",
+     "name_ja": "うどん・そば。稲穂",
+     "description": "Udon restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/2247479969",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Yamatomura Soba",
+     "name_en": "Yamatomura Soba",
+     "name_ja": "大和そば",
+     "description": "Noodle restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/10990484757",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Hotel Okura",
      "name_en": "Hotel Okura",
      "name_ja": "ホテル大蔵",
@@ -7556,11 +9807,198 @@
      "category": "Other"
     },
     {
+     "name": "Basho Iori",
+     "name_en": "Basho Iori",
+     "name_ja": "芭蕉庵",
+     "description": "Restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/10980040372",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Fukiage Iori",
+     "name_en": "Fukiage Iori",
+     "name_ja": "吹上庵",
+     "description": "Restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/1316915037",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Fuku Fuku",
+     "name_en": "Fuku Fuku",
+     "name_ja": "ふく福",
+     "description": "Restaurant in Satsu Motoji Chome, Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/2247444367",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Fumiri Iori Haikara Tei",
+     "name_en": "Fumiri Iori Haikara Tei",
+     "name_ja": "ふぁみり庵はいから亭",
+     "description": "Restaurant in Satsu Genichi Chome, Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/3360684393",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Haikara Tei Kanoya Branch",
+     "name_en": "Haikara Tei Kanoya Branch",
+     "name_ja": "はいから亭鹿屋店",
+     "description": "Restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/3360563494",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Hakutsuru",
+     "name_en": "Hakutsuru",
+     "name_ja": "はくつる",
+     "description": "Restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/10979984847",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Karaage Kun Tk",
+     "name_en": "Karaage Kun Tk",
+     "description": "Restaurant in Kanoya. Open Mon-Sat 10:00-19:00.",
+     "source_url": "https://www.openstreetmap.org/node/13300852359",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Mampuku Tei",
+     "name_en": "Mampuku Tei",
+     "name_ja": "満福亭",
+     "description": "Restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/way/287991964",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Kanoya (#1)",
+     "name_en": "Restaurant in Kanoya (#1)",
+     "name_ja": "お食事処なぎさ荘",
+     "description": "Restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/10979984844",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Hisashigo Chome, Kanoya",
+     "name_en": "Restaurant in Hisashigo Chome, Kanoya",
+     "name_ja": "ピエトロ",
+     "description": "Restaurant in Hisashigo Chome, Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/3360563495",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Kanoya (#4)",
+     "name_en": "Restaurant in Kanoya (#4)",
+     "name_ja": "ら・ぱしゃ",
+     "description": "Restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/3362837993",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Kanoya (#2)",
+     "name_en": "Restaurant in Kanoya (#2)",
+     "name_ja": "レストインプラザ エルム",
+     "description": "Restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/2272282773",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Rion Diner",
+     "name_en": "Rion Diner",
+     "description": "Restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/12984994592",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Shoya",
+     "name_en": "Shoya",
+     "name_ja": "庄屋",
+     "description": "Restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/12351557404",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Take Tonbo",
+     "name_en": "Take Tonbo",
+     "name_ja": "竹とんぼ",
+     "description": "Restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/10990484731",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Uchidaya",
+     "name_en": "Uchidaya",
+     "name_ja": "うちだ屋",
+     "description": "Restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/2877587620",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Funato",
      "name_en": "Funato",
      "name_ja": "舟人",
      "description": "Japanese cuisine, seafood, and izakaya in Kanoya.",
      "source_url": "https://tabelog.com/kagoshima/A4604/A460401/46005226/",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ajihiro",
+     "name_en": "Ajihiro",
+     "name_ja": "あじひろ",
+     "description": "Japanese restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/10990484729",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kanoya Asurito Shokudo",
+     "name_en": "Kanoya Asurito Shokudo",
+     "name_ja": "鹿屋アスリート食堂",
+     "description": "Japanese restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/way/307803115",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Miyauchi Shokudo",
+     "name_en": "Miyauchi Shokudo",
+     "name_ja": "宮内食堂",
+     "description": "Japanese restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/6743879502",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Kanoya",
+     "name_en": "Japanese restaurant in Kanoya",
+     "name_ja": "大阪王将",
+     "description": "Japanese restaurant in Kanoya. Open Tue-Sun 11:00-22:30.",
+     "source_url": "https://www.openstreetmap.org/way/435284702",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ringer Hut",
+     "name_en": "Ringer Hut",
+     "name_ja": "リンガーハット",
+     "description": "Japanese restaurant in Kanoya. Open daily 11:00-01:00.",
+     "source_url": "https://www.openstreetmap.org/way/311344045",
      "page": "https://bokenjapan.com/kagoshima/kanoya/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -7592,6 +10030,24 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Sushi restaurant in Kanoya (#1)",
+     "name_en": "Sushi restaurant in Kanoya (#1)",
+     "name_ja": "すし王",
+     "description": "Sushi restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/node/1316915034",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi restaurant in Kanoya (#2)",
+     "name_en": "Sushi restaurant in Kanoya (#2)",
+     "name_ja": "スシロー",
+     "description": "Sushi restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/way/263365522",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Take Bakery and Cafe",
      "name_en": "Take Bakery and Cafe",
      "name_ja": "テイク ベーカリー アンド カフェ",
@@ -7606,6 +10062,33 @@
      "name_ja": "石窯パン工房 トリガル",
      "description": "Ishigama Bread Workshop Trigal — bread shop in Kanoya, Kagoshima.",
      "source_url": "https://tabelog.com/kagoshima/A4604/A460401/46007669/",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Iwamoto Sono Chokubai Tokoro",
+     "name_en": "Iwamoto Sono Chokubai Tokoro",
+     "name_ja": "岩元園直売所",
+     "description": "Ice cream ice cream shop in Kanoya.",
+     "source_url": "https://inthepink5.wixsite.com/heavilysteamedsencha",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Ishigama Bakery TRIGAL",
+     "name_en": "Ishigama Bakery TRIGAL",
+     "name_ja": "石窯パン工房 TRIGAL",
+     "description": "Bakery in Satsu Genichi Chome, Kanoya.",
+     "source_url": "https://www.openstreetmap.org/way/307798801",
+     "page": "https://bokenjapan.com/kagoshima/kanoya/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Mister Donut",
+     "name_en": "Mister Donut",
+     "name_ja": "ミスタードーナツ",
+     "description": "Donut restaurant in Kanoya.",
+     "source_url": "https://www.openstreetmap.org/way/307793932",
      "page": "https://bokenjapan.com/kagoshima/kanoya/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -8341,8 +10824,8 @@
      "category": "Japanese (meat)"
     },
     {
-     "name": "Ramen shop in Kimotsuki (#8)",
-     "name_en": "Ramen shop in Kimotsuki (#8)",
+     "name": "Maruchon Ramen Kanoya Branch",
+     "name_en": "Maruchon Ramen Kanoya Branch",
      "name_ja": "マルチョンラーメン 鹿屋店",
      "description": "Maruchon Ramen Kanoya Store — ramen restaurant in Kimotsuki, Kagoshima.",
      "source_url": "https://tabelog.com/kagoshima/A4604/A460401/46013485/",
@@ -8395,8 +10878,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Ramen shop in Kimotsuki (#14)",
-     "name_en": "Ramen shop in Kimotsuki (#14)",
+     "name": "Maruken Ramen",
+     "name_en": "Maruken Ramen",
      "name_ja": "マルケンラーメン",
      "description": "Maruken Ramen — ramen restaurant in Kimotsuki, Kagoshima.",
      "source_url": "https://tabelog.com/kagoshima/A4601/A460101/46018142/",
@@ -8872,7 +11355,7 @@
     "lat": 31.7406882,
     "lon": 130.7635453
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Saigo Park",
@@ -9365,6 +11848,101 @@
    ],
    "food": [
     {
+     "name": "À LA MINUTE",
+     "name_en": "A LA MINUTE",
+     "description": "Cafe in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/5489779565",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Kirishima",
+     "name_en": "Cafe in Kirishima",
+     "name_ja": "アンジー",
+     "description": "Cafe in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/4489242795",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Doutor Coffee Shop",
+     "name_en": "Doutor Coffee Shop",
+     "name_ja": "ドトールコーヒーショップ",
+     "description": "Cafe in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/3175832961",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Jingu Chaya",
+     "name_en": "Jingu Chaya",
+     "name_ja": "じんぐう茶屋",
+     "description": "Cafe in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/way/1517900424",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Komeda's Coffee",
+     "name_en": "Komeda's Coffee",
+     "name_ja": "コメダ珈琲店",
+     "description": "Cafe in Kokubun Noguchi, Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/9381946742",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "mijicafe",
+     "name_en": "mijicafe",
+     "description": "Cafe in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/way/1411750243",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Mole Coffee",
+     "name_en": "Mole Coffee",
+     "name_ja": "レストラン喫茶 mole",
+     "description": "Cafe in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/14282220101",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Oyasai Kissa Ninnin",
+     "name_en": "Oyasai Kissa Ninnin",
+     "name_ja": "お野菜喫茶にんにん",
+     "description": "Cafe in Kokubun Fuchu Machi, Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/14059253256",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Sky Shop",
+     "name_en": "Sky Shop",
+     "description": "Cafe in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/3680192402",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Sky Terrace",
+     "name_en": "Sky Terrace",
+     "description": "Cafe in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/2347053921",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Starbucks",
+     "name_en": "Starbucks",
+     "name_ja": "スターバックス",
+     "description": "Cafe in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/12625145643",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Kareigawa Station Ekiben Shop",
      "name_en": "Kareigawa Station Ekiben Shop",
      "name_ja": "嘉例川駅内 駅弁売場",
@@ -9399,6 +11977,158 @@
      "source_url": "https://tabelog.com/kagoshima/A4603/A460301/46005655/",
      "page": "https://bokenjapan.com/kagoshima/kirishima/eat/casual/",
      "category": "Casual"
+    },
+    {
+     "name": "GoodCourtWing",
+     "name_en": "GoodCourtWing",
+     "description": "Food court in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/10015389822",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Hotto Motto",
+     "name_en": "Hotto Motto",
+     "name_ja": "ほっともっと",
+     "description": "Fast-food restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/12252448783",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Katsuya",
+     "name_en": "Katsuya",
+     "name_ja": "かつや",
+     "description": "Fast-food restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/7021807786",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "name_ja": "マクドナルド",
+     "description": "Burger fast-food restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/4489242827",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Fast-food restaurant in Kirishima",
+     "name_en": "Fast-food restaurant in Kirishima",
+     "name_ja": "麺どころ さつま",
+     "description": "Fast-food restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/1309761782",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "MOS Burger",
+     "name_en": "MOS Burger",
+     "name_ja": "モスバーガー",
+     "description": "Burger fast-food restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/4489241173",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Yoshinoya",
+     "name_en": "Yoshinoya",
+     "name_ja": "吉野家",
+     "description": "Fast-food restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/9381946741",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Chinese and gyoza restaurant in Kirishima",
+     "name_en": "Chinese and gyoza restaurant in Kirishima",
+     "name_ja": "餃子の王将",
+     "description": "Chinese and gyoza restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/way/311843720",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Asian restaurant in Kirishima",
+     "name_en": "Asian restaurant in Kirishima",
+     "name_ja": "シャロン・インドネパールレストラン",
+     "description": "Asian restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/way/658706871",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Curry restaurant in Kirishima",
+     "name_en": "Curry restaurant in Kirishima",
+     "name_ja": "CoCo壱番屋",
+     "description": "Curry restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/4461556065",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Coco's",
+     "name_en": "Coco's",
+     "name_ja": "ココス",
+     "description": "Western-style restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/way/1324055610",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Pizza restaurant in Kirishima",
+     "name_en": "Pizza restaurant in Kirishima",
+     "name_ja": "ドミノ・ピザ",
+     "description": "Pizza restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/9381946734",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Jolly-Pasta",
+     "name_en": "Jolly-Pasta",
+     "name_ja": "ジョリーパスタ",
+     "description": "Pasta restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/way/1325868054",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Joyfull",
+     "name_en": "Joyfull",
+     "name_ja": "ジョイフル",
+     "description": "Western-style restaurant in Kirishima. Open 24 hours, every day.",
+     "source_url": "https://www.openstreetmap.org/node/4273105245",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Pizza-La",
+     "name_en": "Pizza-La",
+     "name_ja": "ピザーラ",
+     "description": "Pizza restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/4489241185",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Italian restaurant in Kirishima",
+     "name_en": "Italian restaurant in Kirishima",
+     "name_ja": "トマトアンドオニオン国分隼人店",
+     "description": "Italian restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/4489241168",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Four Seasons Izakaya",
+     "name_en": "Four Seasons Izakaya",
+     "name_ja": "四季ごよみ",
+     "description": "Izakaya restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/14282940601",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
     },
     {
      "name": "Kurobuta no Yakata",
@@ -9473,6 +12203,69 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Grilled meats kitchen Wakimoto",
+     "name_en": "Grilled meats kitchen Wakimoto",
+     "name_ja": "焼肉厨房わきもと",
+     "description": "Yakiniku restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/6757402386",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Gyu-Kaku",
+     "name_en": "Gyu-Kaku",
+     "name_ja": "牛角",
+     "description": "Barbecue restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/4461556066",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Juju Karubi",
+     "name_en": "Juju Karubi",
+     "name_ja": "じゅうじゅうカルビ",
+     "description": "Barbecue restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/7983266590",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "KFC",
+     "name_en": "KFC",
+     "name_ja": "ケンタッキーフライドチキン",
+     "description": "Chicken restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/way/452121163",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku King",
+     "name_en": "Yakiniku King",
+     "name_ja": "焼肉きんぐ",
+     "description": "Yakiniku restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/way/1324055615",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Nabeshima",
+     "name_en": "Yakiniku Nabeshima",
+     "name_ja": "焼肉なべしま",
+     "description": "Barbecue restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/way/1325868056",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku no Kiri Tei",
+     "name_en": "Yakiniku no Kiri Tei",
+     "name_ja": "焼肉のきり亭",
+     "description": "Barbecue restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/14283796792",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Kirishima Sobadokoro Kawaguchi",
      "name_en": "Kirishima Sobadokoro Kawaguchi",
      "name_ja": "霧島蕎麦處 かわぐち",
@@ -9507,6 +12300,200 @@
      "source_url": "https://tabelog.com/kagoshima/A4603/A460301/46001113/",
      "page": "https://bokenjapan.com/kagoshima/kirishima/eat/noodles/",
      "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Jubee Udon Kokubun Branch",
+     "name_en": "Jubee Udon Kokubun Branch",
+     "name_ja": "十兵衛うどん国分店",
+     "description": "Udon restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/4461556067",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kurobuta Ramen Kura",
+     "name_en": "Kurobuta Ramen Kura",
+     "name_ja": "黒豚ラーメン 蔵",
+     "description": "Ramen restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/way/1428452120",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Marugame Seimen",
+     "name_en": "Marugame Seimen",
+     "name_ja": "丸亀製麺",
+     "description": "Noodle restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/way/1324055624",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Soba Chaya Fukiage Iori",
+     "name_en": "Soba Chaya Fukiage Iori",
+     "name_ja": "そば茶屋吹上庵",
+     "description": "Soba restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/way/1324055614",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Zabon Ramen",
+     "name_en": "Zabon Ramen",
+     "name_ja": "ざぼんラーメン",
+     "description": "Ramen restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/4376992488",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Earle Swensen's",
+     "name_en": "Earle Swensen's",
+     "description": "Restaurant in Kirishima.",
+     "source_url": "https://www.earleswensens.com.sg/",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Fuku Fuku Kokubun Branch",
+     "name_en": "Fuku Fuku Kokubun Branch",
+     "name_ja": "ふく福国分店",
+     "description": "Restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/way/546835806",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Fumiri Iori",
+     "name_en": "Fumiri Iori",
+     "name_ja": "ふぁみり庵",
+     "description": "Restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/1309761753",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Hakata Kinryu",
+     "name_en": "Hakata Kinryu",
+     "name_ja": "博多金龍",
+     "description": "Restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/2877587619",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "kirishima viewing point",
+     "name_en": "kirishima viewing point",
+     "description": "Restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/6759135085",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Korokke Club Hayato Branch",
+     "name_en": "Korokke Club Hayato Branch",
+     "name_ja": "コロッケ倶楽部 隼人店",
+     "description": "Restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/4489242804",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kurobuta no Kan",
+     "name_en": "Kurobuta no Kan",
+     "name_ja": "黒豚の館",
+     "description": "Restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/way/1411748289",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kurodaruma",
+     "name_en": "Kurodaruma",
+     "name_ja": "くろだるま",
+     "description": "Restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/way/1363519765",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kurozu Garden Tsubohatake Restaurant",
+     "name_en": "Kurozu Garden Tsubohatake Restaurant",
+     "name_ja": "黒酢ガーデン壺畑 レストラン",
+     "description": "Restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/way/1422257182",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Omatsuri Ichiban Kan Kagoshima Kuko Branch",
+     "name_en": "Omatsuri Ichiban Kan Kagoshima Kuko Branch",
+     "name_ja": "お祭り一番館鹿児島空港店",
+     "description": "Restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/way/320763515",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Oshokujidokoro Shokuraku Raku",
+     "name_en": "Oshokujidokoro Shokuraku Raku",
+     "name_ja": "お食事処 食楽楽",
+     "description": "Restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/4603223690",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Shokudo & Teishoku Restaurant",
+     "name_en": "Shokudo & Teishoku Restaurant",
+     "description": "Restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/6757423285",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Tairyo Shijo Kompira Maru Kagoshima Hayato Branch",
+     "name_en": "Tairyo Shijo Kompira Maru Kagoshima Hayato Branch",
+     "name_ja": "大漁市場こんぴら丸鹿児島隼人店",
+     "description": "Restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/4489241180",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Taverna Mangiare",
+     "name_en": "Taverna Mangiare",
+     "description": "Restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/14279843401",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Tontontei",
+     "name_en": "Tontontei",
+     "name_ja": "湯けむりダイニング トントン亭",
+     "description": "Restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/6757338186",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Toriezu Aira Kagoshima Kokubun",
+     "name_en": "Toriezu Aira Kagoshima Kokubun",
+     "name_ja": "とりあえず吾平 鹿児島国分",
+     "description": "Restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/4461556068",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Kirishima",
+     "name_en": "Restaurant in Kirishima",
+     "name_ja": "わび助",
+     "description": "Restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/5489779535",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/other/",
+     "category": "Other"
     },
     {
      "name": "Myoken Ishiharaso Shokusai Ishigura",
@@ -9563,6 +12550,69 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Hisashi Shimadoka Co-op Kokubun Branch",
+     "name_en": "Hisashi Shimadoka Co-op Kokubun Branch",
+     "name_ja": "寿しまどかコープ国分店",
+     "description": "Japanese restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/4461556070",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ichifuku Shokudo",
+     "name_en": "Ichifuku Shokudo",
+     "name_ja": "一福食堂",
+     "description": "Japanese restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/way/856174394",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Kirishima",
+     "name_en": "Japanese restaurant in Kirishima",
+     "name_ja": "関西風お好み焼き 遊",
+     "description": "Japanese restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/5489779540",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kokubun Shokudo",
+     "name_en": "Kokubun Shokudo",
+     "name_ja": "国分食堂",
+     "description": "Japanese restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/1309761773",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kote Chaya",
+     "name_en": "Kote Chaya",
+     "name_ja": "小手茶屋",
+     "description": "Japanese restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/13208256190",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ringer Hut",
+     "name_en": "Ringer Hut",
+     "name_ja": "リンガーハット",
+     "description": "Japanese restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/4489242832",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yayoiken",
+     "name_en": "Yayoiken",
+     "name_ja": "やよい軒",
+     "description": "Japanese restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/4489242790",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Unagi Yoshimune",
      "name_en": "Unagi Yoshimune",
      "name_ja": "うなぎ料理 よし宗",
@@ -9579,6 +12629,87 @@
      "source_url": "https://tabelog.com/kagoshima/A4603/A460301/46009724/",
      "page": "https://bokenjapan.com/kagoshima/kirishima/eat/seafood/",
      "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Hamasushi",
+     "name_en": "Hamasushi",
+     "name_ja": "はま寿司",
+     "description": "Sushi restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/way/1324055616",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Hisashi Shimadoka",
+     "name_en": "Hisashi Shimadoka",
+     "name_ja": "寿しまどか",
+     "description": "Sushi restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/7021807787",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kura Sushi",
+     "name_en": "Kura Sushi",
+     "name_ja": "くら寿司",
+     "description": "Sushi restaurant in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/4057801200",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi restaurant in Kirishima",
+     "name_en": "Sushi restaurant in Kirishima",
+     "name_ja": "スシロー",
+     "description": "Sushi restaurant in Hayato Choken Tsugi, Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/4057819605",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Pastry shop in Kirishima",
+     "name_en": "Pastry shop in Kirishima",
+     "name_ja": "アンパッション",
+     "description": "Pastry shop in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/6330076349",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Mister Donut",
+     "name_en": "Mister Donut",
+     "name_ja": "ミスタードーナツ",
+     "description": "Donut restaurant in Kokubun Fuchu Machi, Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/11377622336",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets shop in Kirishima",
+     "name_en": "Sweets shop in Kirishima",
+     "name_ja": "森三 中央店",
+     "description": "Sweets shop in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/4274838994",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Nogami",
+     "name_en": "Nogami",
+     "name_ja": "乃が美",
+     "description": "Bakery in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/way/1363519764",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Satsuma Jokiya",
+     "name_en": "Satsuma Jokiya",
+     "name_ja": "薩摩蒸氣屋",
+     "description": "Sweets shop in Kirishima.",
+     "source_url": "https://www.openstreetmap.org/node/1309869349",
+     "page": "https://bokenjapan.com/kagoshima/kirishima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "sights": [
@@ -9947,7 +13078,7 @@
     "lat": 31.2728481,
     "lon": 130.2968187
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Makurazaki Fish Center",
@@ -10133,6 +13264,15 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Fumiri Iori Haikara Tei Hisashi Shimadoka Makurazaki Branch",
+     "name_en": "Fumiri Iori Haikara Tei Hisashi Shimadoka Makurazaki Branch",
+     "name_ja": "ふぁみり庵はいから亭・寿しまどか 枕崎店",
+     "description": "Japanese restaurant in Makurazaki. Open daily 11:30-22:00.",
+     "source_url": "https://www.openstreetmap.org/way/373910296",
+     "page": "https://bokenjapan.com/kagoshima/makurazaki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Ajidokoro Ippuku",
      "name_en": "Ajidokoro Ippuku",
      "name_ja": "味処 一福",
@@ -10195,8 +13335,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Sweets and bakery shop in Makurazaki (#15)",
-     "name_en": "Sweets and bakery shop in Makurazaki (#15)",
+     "name": "Verudi",
+     "name_en": "Verudi",
      "name_ja": "ヴェルディ",
      "description": "Verdi — bread and sandwich shop in Makurazaki, Kagoshima.",
      "source_url": "https://tabelog.com/kagoshima/A4601/A460104/46006457/",
@@ -10204,8 +13344,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Sweets and bakery shop in Makurazaki (#16)",
-     "name_en": "Sweets and bakery shop in Makurazaki (#16)",
+     "name": "Toyoseika",
+     "name_en": "Toyoseika",
      "name_ja": "トーヨーセイカ",
      "description": "Toyo Seika — japanese sweets shop in Makurazaki, Kagoshima.",
      "source_url": "https://tabelog.com/kagoshima/A4601/A460104/46008591/",
@@ -10300,7 +13440,7 @@
     "lat": 31.378277777,
     "lon": 130.441666666
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Kawanabe Roadside Station Yasuragi no Sato",
@@ -10494,6 +13634,31 @@
      "category": "Cafe"
     },
     {
+     "name": "AB-cafe",
+     "name_en": "AB-cafe",
+     "description": "Cafe in Minamikyushu.",
+     "source_url": "https://www.openstreetmap.org/node/12728231484",
+     "page": "https://bokenjapan.com/kagoshima/minamikyushu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "cafe de fo",
+     "name_en": "cafe de fo",
+     "description": "Cafe in Minamikyushu.",
+     "source_url": "https://www.openstreetmap.org/way/515733802",
+     "page": "https://bokenjapan.com/kagoshima/minamikyushu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Café in Minamikyushu",
+     "name_en": "Café in Minamikyushu",
+     "name_ja": "お好みカフェ 翔Ｒｙｕ",
+     "description": "Cafe in Minamikyushu.",
+     "source_url": "https://www.openstreetmap.org/node/5062043604",
+     "page": "https://bokenjapan.com/kagoshima/minamikyushu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Chiran Sakuramitei",
      "name_en": "Chiran Sakuramitei",
      "name_ja": "知覧桜見亭",
@@ -10510,6 +13675,32 @@
      "source_url": "https://tabelog.com/kagoshima/A4601/A460105/46013670/",
      "page": "https://bokenjapan.com/kagoshima/minamikyushu/eat/curry/",
      "category": "Curry"
+    },
+    {
+     "name": "Itarii ANN",
+     "name_en": "Itarii ANN",
+     "name_ja": "伊太利ANN",
+     "description": "Italian restaurant in Minamikyushu.",
+     "source_url": "https://www.openstreetmap.org/node/5062043603",
+     "page": "https://bokenjapan.com/kagoshima/minamikyushu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "La chaumiere",
+     "name_en": "La chaumiere",
+     "description": "French restaurant in Minamikyushu.",
+     "source_url": "https://www.openstreetmap.org/way/515733900",
+     "page": "https://bokenjapan.com/kagoshima/minamikyushu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Charcoal Grill Izakaya Wagae",
+     "name_en": "Charcoal Grill Izakaya Wagae",
+     "name_ja": "炭火焼居酒屋わがえ",
+     "description": "Izakaya pub in Minamikyushu.",
+     "source_url": "https://www.openstreetmap.org/way/1044273160",
+     "page": "https://bokenjapan.com/kagoshima/minamikyushu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
     },
     {
      "name": "Tomato",
@@ -10566,11 +13757,38 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Handmade SOBA Training Center & Restaurant Sanryo-Kan",
+     "name_en": "Handmade SOBA Training Center & Restaurant Sanryo-Kan",
+     "name_ja": "手打ちそば道場三稜館",
+     "description": "Noodle restaurant in Chiran Machigun, Minamikyushu. Open Tue-Sun 10:30-17:00.",
+     "source_url": "https://fukiagean.jp/access/sanryo/",
+     "page": "https://bokenjapan.com/kagoshima/minamikyushu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Soba noodle FUKIAGE-AN Chiran-Bukeyashiki Restaurant",
+     "name_en": "Soba noodle FUKIAGE-AN Chiran-Bukeyashiki Restaurant",
+     "name_ja": "そば茶屋吹上庵知覧武家屋敷店",
+     "description": "Noodle restaurant in Chiran Machigun, Minamikyushu. Open daily 10:30-21:00.",
+     "source_url": "https://fukiagean.jp/access/chiran/",
+     "page": "https://bokenjapan.com/kagoshima/minamikyushu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Hotel AZ Kagoshima Kawanabe Store",
      "name_en": "Hotel AZ Kagoshima Kawanabe Store",
      "name_ja": "ホテル AZ 鹿児島川辺店",
      "description": "Hotel in Minamikyushu.",
      "source_url": "https://tabelog.com/kagoshima/A4601/A460105/46016620/",
+     "page": "https://bokenjapan.com/kagoshima/minamikyushu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "JARINKO",
+     "name_en": "JARINKO",
+     "name_ja": "じゃりんこ",
+     "description": "Restaurant in Minamikyushu.",
+     "source_url": "https://www.openstreetmap.org/way/1044273167",
      "page": "https://bokenjapan.com/kagoshima/minamikyushu/eat/other/",
      "category": "Other"
     },
@@ -10620,6 +13838,60 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Chiran Chaya",
+     "name_en": "Chiran Chaya",
+     "name_ja": "知覧茶屋",
+     "description": "Regional Japanese restaurant in Chiran Machigun, Minamikyushu.",
+     "source_url": "https://tokkou-no-haha.jp/chiran-chaya/index.html",
+     "page": "https://bokenjapan.com/kagoshima/minamikyushu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Chiran Tei",
+     "name_en": "Chiran Tei",
+     "name_ja": "ちらん亭",
+     "description": "Regional Japanese restaurant in Minamikyushu.",
+     "source_url": "https://www.openstreetmap.org/way/503053793",
+     "page": "https://bokenjapan.com/kagoshima/minamikyushu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Rest in BUKEYASHIKI",
+     "name_en": "Rest in BUKEYASHIKI",
+     "name_ja": "レストイン武家屋敷",
+     "description": "Regional Japanese restaurant in Minamikyushu.",
+     "source_url": "https://www.openstreetmap.org/way/1044273164",
+     "page": "https://bokenjapan.com/kagoshima/minamikyushu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Sakura Kan",
+     "name_en": "Sakura Kan",
+     "name_ja": "さくら館",
+     "description": "Japanese restaurant in Minamikyushu.",
+     "source_url": "https://www.openstreetmap.org/way/503052270",
+     "page": "https://bokenjapan.com/kagoshima/minamikyushu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Takagi Iori",
+     "name_en": "Takagi Iori",
+     "name_ja": "高城庵",
+     "description": "Japanese restaurant in Minamikyushu.",
+     "source_url": "https://www.openstreetmap.org/way/515733805",
+     "page": "https://bokenjapan.com/kagoshima/minamikyushu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "The Firefly Pavilion - Tomiya Resutaurant (reproduction)",
+     "name_en": "The Firefly Pavilion - Tomiya Resutaurant (reproduction)",
+     "name_ja": "ホタル館 富屋食堂（復元）",
+     "description": "Japanese restaurant in Minamikyushu. Open Fri-Wed 10:00-15:00.",
+     "source_url": "https://www.openstreetmap.org/way/515736614",
+     "page": "https://bokenjapan.com/kagoshima/minamikyushu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Hakusushi",
      "name_en": "Hakusushi",
      "name_ja": "博鮓",
@@ -10643,6 +13915,15 @@
      "name_ja": "たまごの菊ちゃん",
      "description": "Western confectionery in Minamikyushu.",
      "source_url": "https://tabelog.com/kagoshima/A4601/A460105/46006411/",
+     "page": "https://bokenjapan.com/kagoshima/minamikyushu/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Kurinoya",
+     "name_en": "Kurinoya",
+     "name_ja": "栗乃屋",
+     "description": "Japanese sweets shop in Kawabe Machi Shimizu, Minamikyushu.",
+     "source_url": "https://www.openstreetmap.org/way/1372028369",
      "page": "https://bokenjapan.com/kagoshima/minamikyushu/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -11201,7 +14482,7 @@
     "lat": 31.4166896,
     "lon": 130.3232219
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside Station Kinpo Konohana-kan",
@@ -11354,6 +14635,14 @@
    ],
    "food": [
     {
+     "name": "Poturi",
+     "name_en": "Poturi",
+     "description": "Cafe in Minamisatsuma.",
+     "source_url": "https://www.openstreetmap.org/way/1372668771",
+     "page": "https://bokenjapan.com/kagoshima/minamisatsuma/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Kaseda Bussan Center Lupinus",
      "name_en": "Kaseda Bussan Center Lupinus",
      "name_ja": "かせだ物産センター るぴなす",
@@ -11372,11 +14661,44 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Indian restaurant in Minamisatsuma",
+     "name_en": "Indian restaurant in Minamisatsuma",
+     "name_ja": "ナマステ",
+     "description": "Indian restaurant in Minamisatsuma.",
+     "source_url": "https://www.openstreetmap.org/node/5741241167",
+     "page": "https://bokenjapan.com/kagoshima/minamisatsuma/eat/curry/",
+     "category": "Curry"
+    },
+    {
      "name": "Casa Salone Italia",
      "name_en": "Casa Salone Italia",
      "name_ja": "カーサ・サローネ 伊太利亜",
      "description": "Casa Salone Italia — italian restaurant in Minamisatsuma, Kagoshima.",
      "source_url": "https://tabelog.com/kagoshima/A4601/A460104/46002476/",
+     "page": "https://bokenjapan.com/kagoshima/minamisatsuma/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "furuhausu",
+     "name_en": "furuhausu",
+     "description": "Italian restaurant in Minamisatsuma.",
+     "source_url": "https://www.openstreetmap.org/node/2056075045",
+     "page": "https://bokenjapan.com/kagoshima/minamisatsuma/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Itaria",
+     "name_en": "Itaria",
+     "description": "Italian restaurant in Minamisatsuma.",
+     "source_url": "https://www.openstreetmap.org/node/2056075021",
+     "page": "https://bokenjapan.com/kagoshima/minamisatsuma/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "TaverunaShin",
+     "name_en": "TaverunaShin",
+     "description": "Italian restaurant in Minamisatsuma.",
+     "source_url": "https://www.openstreetmap.org/node/2056074968",
      "page": "https://bokenjapan.com/kagoshima/minamisatsuma/eat/european/",
      "category": "European"
     },
@@ -11395,6 +14717,15 @@
      "name_ja": "とんかつ しらかわ",
      "description": "Tonkatsu Shirakawa — tonkatsu restaurant in Minamisatsuma, Kagoshima.",
      "source_url": "https://tabelog.com/kagoshima/A4601/A460104/46002475/",
+     "page": "https://bokenjapan.com/kagoshima/minamisatsuma/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Nabeshima",
+     "name_en": "Yakiniku Nabeshima",
+     "name_ja": "焼肉なべしま",
+     "description": "Yakiniku restaurant in Minamisatsuma.",
+     "source_url": "https://www.openstreetmap.org/node/6082785712",
      "page": "https://bokenjapan.com/kagoshima/minamisatsuma/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -11462,6 +14793,15 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Choya Soba Bukai",
+     "name_en": "Choya Soba Bukai",
+     "name_ja": "長屋そば部会",
+     "description": "Soba and udon restaurant in Minamisatsuma.",
+     "source_url": "https://www.openstreetmap.org/way/1388553189",
+     "page": "https://bokenjapan.com/kagoshima/minamisatsuma/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Sunstay Kaseda",
      "name_en": "Sunstay Kaseda",
      "name_ja": "サンステイ加世田",
@@ -11476,6 +14816,42 @@
      "name_ja": "きんぽう木花館",
      "description": "Roadside station in Minamisatsuma.",
      "source_url": "https://tabelog.com/kagoshima/A4601/A460104/46008953/",
+     "page": "https://bokenjapan.com/kagoshima/minamisatsuma/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Bulldog",
+     "name_en": "Bulldog",
+     "name_ja": "ブルドッグ",
+     "description": "Restaurant in Minamisatsuma.",
+     "source_url": "https://www.openstreetmap.org/node/2056075057",
+     "page": "https://bokenjapan.com/kagoshima/minamisatsuma/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Donguri Michi",
+     "name_en": "Donguri Michi",
+     "name_ja": "どんぐり路",
+     "description": "Restaurant in Kaseda Honcho, Minamisatsuma.",
+     "source_url": "https://www.openstreetmap.org/node/7451145932",
+     "page": "https://bokenjapan.com/kagoshima/minamisatsuma/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Minamisatsuma",
+     "name_en": "Restaurant in Minamisatsuma",
+     "name_ja": "万のせ",
+     "description": "Restaurant in Minamisatsuma.",
+     "source_url": "https://www.openstreetmap.org/node/6284238121",
+     "page": "https://bokenjapan.com/kagoshima/minamisatsuma/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Yama no Eki",
+     "name_en": "Yama no Eki",
+     "name_ja": "山の駅",
+     "description": "Restaurant in Minamisatsuma. Open daily 11:30-15:00.",
+     "source_url": "https://www.openstreetmap.org/node/5756497467",
      "page": "https://bokenjapan.com/kagoshima/minamisatsuma/eat/other/",
      "category": "Other"
     },
@@ -11503,6 +14879,40 @@
      "name_ja": "グルマン ブルドッグ",
      "description": "Gourmand Bulldog — japanese cuisine restaurant in Minamisatsuma, Kagoshima.",
      "source_url": "https://tabelog.com/kagoshima/A4601/A460104/46002405/",
+     "page": "https://bokenjapan.com/kagoshima/minamisatsuma/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Fuku Fuku",
+     "name_en": "Fuku Fuku",
+     "name_ja": "ふく福",
+     "description": "Japanese restaurant in Minamisatsuma.",
+     "source_url": "https://www.openstreetmap.org/node/2056075023",
+     "page": "https://bokenjapan.com/kagoshima/minamisatsuma/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Karin",
+     "name_en": "Karin",
+     "description": "Japanese restaurant in Minamisatsuma.",
+     "source_url": "https://www.openstreetmap.org/node/2056075009",
+     "page": "https://bokenjapan.com/kagoshima/minamisatsuma/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Miyawaki",
+     "name_en": "Miyawaki",
+     "description": "Japanese restaurant in Minamisatsuma.",
+     "source_url": "https://www.openstreetmap.org/node/2056074995",
+     "page": "https://bokenjapan.com/kagoshima/minamisatsuma/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Tonkatsu Shirakawa",
+     "name_en": "Tonkatsu Shirakawa",
+     "name_ja": "とんかつ しらかわ",
+     "description": "Japanese restaurant in Minamisatsuma.",
+     "source_url": "https://www.openstreetmap.org/way/1373571429",
      "page": "https://bokenjapan.com/kagoshima/minamisatsuma/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -11543,6 +14953,14 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Madoka",
+     "name_en": "Madoka",
+     "description": "Sushi restaurant in Minamisatsuma.",
+     "source_url": "https://www.openstreetmap.org/node/2056075001",
+     "page": "https://bokenjapan.com/kagoshima/minamisatsuma/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Okashi no Odaya Kaseda Main Store",
      "name_en": "Okashi no Odaya Kaseda Main Store",
      "name_ja": "お菓子の小田屋 加世田本店",
@@ -11557,6 +14975,15 @@
      "name_ja": "栗乃屋",
      "description": "Kurinoya — wagashi shop in Minamisatsuma, Kagoshima.",
      "source_url": "https://tabelog.com/kagoshima/A4601/A460104/46002481/",
+     "page": "https://bokenjapan.com/kagoshima/minamisatsuma/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Kurinoya",
+     "name_en": "Kurinoya",
+     "name_ja": "栗乃屋",
+     "description": "Japanese sweets shop in Minamisatsuma.",
+     "source_url": "https://www.openstreetmap.org/way/1372028370",
      "page": "https://bokenjapan.com/kagoshima/minamisatsuma/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -14417,7 +17844,7 @@
     "lat": 31.8134137,
     "lon": 130.3041159
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside Station Hiwaki Yuyukan",
@@ -14694,6 +18121,51 @@
      "category": "Casual"
     },
     {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "name_ja": "マクドナルド",
+     "description": "Burger fast-food restaurant in Nishi Mukaida Machi, Satsumasendai.",
+     "source_url": "https://www.openstreetmap.org/way/553461978",
+     "page": "https://bokenjapan.com/kagoshima/satsumasendai/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Mikaku Tei",
+     "name_en": "Mikaku Tei",
+     "name_ja": "みかく亭",
+     "description": "Fast-food restaurant in Satsumasendai.",
+     "source_url": "https://www.openstreetmap.org/node/12706497311",
+     "page": "https://bokenjapan.com/kagoshima/satsumasendai/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Gusto",
+     "name_en": "Gusto",
+     "name_ja": "ガスト",
+     "description": "Western-style restaurant in Satsumasendai.",
+     "source_url": "https://www.openstreetmap.org/way/568039614",
+     "page": "https://bokenjapan.com/kagoshima/satsumasendai/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Joyfull",
+     "name_en": "Joyfull",
+     "name_ja": "ジョイフル",
+     "description": "Western-style restaurant in Tairasa Machi, Satsumasendai.",
+     "source_url": "https://www.openstreetmap.org/way/558676538",
+     "page": "https://bokenjapan.com/kagoshima/satsumasendai/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "French restaurant in Satsumasendai",
+     "name_en": "French restaurant in Satsumasendai",
+     "name_ja": "おざ樹",
+     "description": "French restaurant in Satsumasendai.",
+     "source_url": "https://www.openstreetmap.org/node/12706497304",
+     "page": "https://bokenjapan.com/kagoshima/satsumasendai/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Nozaki",
      "name_en": "Nozaki",
      "name_ja": "のざき",
@@ -14726,6 +18198,15 @@
      "name_ja": "炭匠 だん",
      "description": "Kushiyaki and izakaya.",
      "source_url": "https://tabelog.com/kagoshima/A4602/A460201/46001197/",
+     "page": "https://bokenjapan.com/kagoshima/satsumasendai/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Nabeshima",
+     "name_en": "Yakiniku Nabeshima",
+     "name_ja": "焼肉なべしま",
+     "description": "Yakiniku restaurant in Satsumasendai.",
+     "source_url": "https://www.openstreetmap.org/way/567843659",
      "page": "https://bokenjapan.com/kagoshima/satsumasendai/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -14775,6 +18256,69 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Maruni Miso Ramen",
+     "name_en": "Maruni Miso Ramen",
+     "name_ja": "マルニ味噌らーめん",
+     "description": "Ramen restaurant in Satsumasendai.",
+     "source_url": "https://www.openstreetmap.org/node/12706497305",
+     "page": "https://bokenjapan.com/kagoshima/satsumasendai/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Omoto Chaya",
+     "name_en": "Omoto Chaya",
+     "name_ja": "おもと茶屋",
+     "description": "Soba restaurant in Satsumasendai.",
+     "source_url": "https://www.openstreetmap.org/node/12727113686",
+     "page": "https://bokenjapan.com/kagoshima/satsumasendai/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Fuku no Kami",
+     "name_en": "Ramen Fuku no Kami",
+     "name_ja": "ラーメン 福の神",
+     "description": "Ramen restaurant in Satsumasendai.",
+     "source_url": "https://www.openstreetmap.org/way/508981970",
+     "page": "https://bokenjapan.com/kagoshima/satsumasendai/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Fuku Fuku",
+     "name_en": "Fuku Fuku",
+     "name_ja": "ふく福",
+     "description": "Restaurant in Satsumasendai.",
+     "source_url": "https://www.openstreetmap.org/way/568037115",
+     "page": "https://bokenjapan.com/kagoshima/satsumasendai/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Hisashi Shimadoka",
+     "name_en": "Hisashi Shimadoka",
+     "name_ja": "寿しまどか",
+     "description": "Restaurant in Satsumasendai.",
+     "source_url": "https://www.openstreetmap.org/way/509273187",
+     "page": "https://bokenjapan.com/kagoshima/satsumasendai/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kinryu",
+     "name_en": "Kinryu",
+     "name_ja": "金龍",
+     "description": "Restaurant in Satsumasendai.",
+     "source_url": "https://www.openstreetmap.org/way/568039612",
+     "page": "https://bokenjapan.com/kagoshima/satsumasendai/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Terayama Restaurant",
+     "name_en": "Terayama Restaurant",
+     "name_ja": "寺山レストラン",
+     "description": "Restaurant in Satsumasendai.",
+     "source_url": "https://www.openstreetmap.org/way/568008646",
+     "page": "https://bokenjapan.com/kagoshima/satsumasendai/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Jupponmatsu Drive-in",
      "name_en": "Jupponmatsu Drive-in",
      "name_ja": "十本松ドライブイン",
@@ -14807,6 +18351,24 @@
      "name_ja": "喜川",
      "description": "Kigawa — japanese cuisine restaurant in Satsumasendai, Kagoshima.",
      "source_url": "https://tabelog.com/kagoshima/A4602/A460201/46000081/",
+     "page": "https://bokenjapan.com/kagoshima/satsumasendai/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Uchidaya Kawauchi Branch",
+     "name_en": "Uchidaya Kawauchi Branch",
+     "name_ja": "うちだ屋 川内店",
+     "description": "Japanese restaurant in Kamikawa Uchibari, Satsumasendai.",
+     "source_url": "https://www.uchidaya.co.jp/store/uchidaya_sendai/",
+     "page": "https://bokenjapan.com/kagoshima/satsumasendai/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Unaginotakehisa",
+     "name_en": "Unaginotakehisa",
+     "name_ja": "うなぎのたけひさ",
+     "description": "Japanese restaurant in Satsumasendai.",
+     "source_url": "https://www.openstreetmap.org/node/12706497312",
      "page": "https://bokenjapan.com/kagoshima/satsumasendai/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -14852,6 +18414,24 @@
      "name_ja": "こしきの漁師家 海聖丸",
      "description": "Koshiki no Ryoshiya Kaiseimaru — seafood restaurant in Satsumasendai, Kagoshima.",
      "source_url": "https://tabelog.com/kagoshima/A4602/A460201/46011420/",
+     "page": "https://bokenjapan.com/kagoshima/satsumasendai/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Hamasushi",
+     "name_en": "Hamasushi",
+     "name_ja": "はま寿司",
+     "description": "Sushi restaurant in Satsumasendai.",
+     "source_url": "https://www.openstreetmap.org/way/399919870",
+     "page": "https://bokenjapan.com/kagoshima/satsumasendai/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Jijiya",
+     "name_en": "Sushi Jijiya",
+     "name_ja": "寿司じじや",
+     "description": "Sushi restaurant in Satsumasendai.",
+     "source_url": "https://www.openstreetmap.org/way/568039613",
      "page": "https://bokenjapan.com/kagoshima/satsumasendai/eat/seafood/",
      "category": "Japanese (seafood)"
     }
@@ -15745,7 +19325,7 @@
     "lat": 31.495344,
     "lon": 131.045436
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside Station Matsuyama",
@@ -15914,6 +19494,15 @@
      "category": "Casual"
     },
     {
+     "name": "Sukiya",
+     "name_en": "Sukiya",
+     "name_ja": "すき家",
+     "description": "Fast-food restaurant in Shibushi.",
+     "source_url": "https://www.openstreetmap.org/node/4265974340",
+     "page": "https://bokenjapan.com/kagoshima/shibushi/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Chukaen",
      "name_en": "Chukaen",
      "name_ja": "中華園",
@@ -15937,6 +19526,15 @@
      "name_ja": "味処亭 たつまさ",
      "description": "Western cuisine, tonkatsu, and rice bowls.",
      "source_url": "https://tabelog.com/kagoshima/A4604/A460402/46001100/",
+     "page": "https://bokenjapan.com/kagoshima/shibushi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Joyfull",
+     "name_en": "Joyfull",
+     "name_ja": "ジョイフル",
+     "description": "Western-style restaurant in Shibushi.",
+     "source_url": "https://www.openstreetmap.org/node/5679258610",
      "page": "https://bokenjapan.com/kagoshima/shibushi/eat/european/",
      "category": "European"
     },
@@ -15984,6 +19582,24 @@
      "source_url": "https://tabelog.com/kagoshima/A4604/A460402/46001083/",
      "page": "https://bokenjapan.com/kagoshima/shibushi/eat/noodles/",
      "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen restaurant in Shibushi",
+     "name_en": "Ramen restaurant in Shibushi",
+     "name_ja": "マルチョンラーメン",
+     "description": "Ramen restaurant in Shibushi.",
+     "source_url": "https://www.openstreetmap.org/node/11164421530",
+     "page": "https://bokenjapan.com/kagoshima/shibushi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Yomogi no Sato",
+     "name_en": "Yomogi no Sato",
+     "name_ja": "蓬の郷",
+     "description": "Restaurant in Ariake Machiyomogi Hara, Shibushi.",
+     "source_url": "https://www.openstreetmap.org/node/3362849493",
+     "page": "https://bokenjapan.com/kagoshima/shibushi/eat/other/",
+     "category": "Other"
     },
     {
      "name": "Yamadaya Kaisen Kappo",
@@ -16273,7 +19889,7 @@
     "lat": 31.65349,
     "lon": 131.019182
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside Station Osumi Yagoro Legend Village",
@@ -16561,6 +20177,15 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Restaurant Niku no Kura",
+     "name_en": "Restaurant Niku no Kura",
+     "name_ja": "レストラン肉の蔵",
+     "description": "Beef and pork restaurant in Soo.",
+     "source_url": "https://www.openstreetmap.org/node/13883255751",
+     "page": "https://bokenjapan.com/kagoshima/soo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Ai no Sato",
      "name_en": "Ai no Sato",
      "name_ja": "愛の里",
@@ -16624,6 +20249,41 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Joyful",
+     "name_en": "Joyful",
+     "description": "Restaurant in Soo.",
+     "source_url": "https://www.openstreetmap.org/node/1309729535",
+     "page": "https://bokenjapan.com/kagoshima/soo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "restaurant Shikisai",
+     "name_en": "restaurant Shikisai",
+     "name_ja": "レストラン四季祭",
+     "description": "Restaurant in Soo. Open Mon-Sun, public holidays 11:00-15:00; Sat-Sun, public holidays 18:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/12899535186",
+     "page": "https://bokenjapan.com/kagoshima/soo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "SOO Agurizu",
+     "name_en": "SOO Agurizu",
+     "name_ja": "SOO あぐりーず",
+     "description": "Restaurant in Sueyoshicho Fukagawa, Soo.",
+     "source_url": "https://www.openstreetmap.org/way/1390075186",
+     "page": "https://bokenjapan.com/kagoshima/soo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Yagoro Tei",
+     "name_en": "Yagoro Tei",
+     "name_ja": "やごろう亭",
+     "description": "Restaurant in Soo.",
+     "source_url": "https://www.openstreetmap.org/node/1316715300",
+     "page": "https://bokenjapan.com/kagoshima/soo/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Furusatoan",
      "name_en": "Furusatoan",
      "name_ja": "古里庵",
@@ -16638,6 +20298,24 @@
      "name_ja": "かざぐるま",
      "description": "Kazaguruma — japanese cuisine restaurant in Soo, Kagoshima.",
      "source_url": "https://tabelog.com/kagoshima/A4604/A460402/46002493/",
+     "page": "https://bokenjapan.com/kagoshima/soo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kazaguruma",
+     "name_en": "Kazaguruma",
+     "name_ja": "かざぐるま",
+     "description": "Japanese restaurant in Soo.",
+     "source_url": "https://www.openstreetmap.org/node/1309704243",
+     "page": "https://bokenjapan.com/kagoshima/soo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Keian",
+     "name_en": "Keian",
+     "name_ja": "桂庵",
+     "description": "Japanese restaurant in Soo.",
+     "source_url": "https://www.openstreetmap.org/node/13227179036",
      "page": "https://bokenjapan.com/kagoshima/soo/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -16683,6 +20361,15 @@
      "name_ja": "新屋養蜂場",
      "description": "Sweets and other goods in Soo.",
      "source_url": "https://tabelog.com/kagoshima/A4604/A460402/46008955/",
+     "page": "https://bokenjapan.com/kagoshima/soo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets shop in Soo",
+     "name_en": "Sweets shop in Soo",
+     "name_ja": "ラ・フレーズ",
+     "description": "Sweets shop in Sueyoshicho Fukagawa, Soo.",
+     "source_url": "https://www.openstreetmap.org/way/1390075211",
      "page": "https://bokenjapan.com/kagoshima/soo/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }

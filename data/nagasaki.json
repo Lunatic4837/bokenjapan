@@ -18,7 +18,7 @@
     "address": "Goto, Nagasaki 853-8501",
     "phone": "0959-72-6111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Abunze Visitor Center",
@@ -109,6 +109,15 @@
    ],
    "food": [
     {
+     "name": "Cafe in Goto",
+     "name_en": "Cafe in Goto",
+     "name_ja": "シルクロード",
+     "description": "Cafe in Goto.",
+     "source_url": "https://www.openstreetmap.org/node/2705488409",
+     "page": "https://bokenjapan.com/nagasaki/goto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Mikanya Shokudo",
      "name_en": "Mikanya Shokudo",
      "name_ja": "みかんや食堂",
@@ -123,6 +132,23 @@
      "name_ja": "うま亭",
      "description": "Uma Tei — shokudo and champon restaurant in Goto, Nagasaki.",
      "source_url": "https://tabelog.com/nagasaki/A4205/A420501/42000947/",
+     "page": "https://bokenjapan.com/nagasaki/goto/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Hotto Motto",
+     "name_en": "Hotto Motto",
+     "description": "Fast-food restaurant in Goto.",
+     "source_url": "https://www.openstreetmap.org/node/2705171792",
+     "page": "https://bokenjapan.com/nagasaki/goto/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Umatei Restaurant",
+     "name_en": "Umatei Restaurant",
+     "name_ja": "うま亭",
+     "description": "Fast-food restaurant in Goto.",
+     "source_url": "https://www.openstreetmap.org/node/2706510543",
      "page": "https://bokenjapan.com/nagasaki/goto/eat/casual/",
      "category": "Casual"
     },
@@ -181,6 +207,60 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Pub in Goto",
+     "name_en": "Pub in Goto",
+     "name_ja": "エンドレス",
+     "description": "Pub in Goto.",
+     "source_url": "https://www.openstreetmap.org/node/2705488933",
+     "page": "https://bokenjapan.com/nagasaki/goto/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Ginga",
+     "name_en": "Ginga",
+     "name_ja": "銀河",
+     "description": "Pub in Goto.",
+     "source_url": "https://www.openstreetmap.org/node/2706956121",
+     "page": "https://bokenjapan.com/nagasaki/goto/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Okan",
+     "name_en": "Okan",
+     "name_ja": "おかん",
+     "description": "Pub in Goto.",
+     "source_url": "https://www.openstreetmap.org/node/2705488485",
+     "page": "https://bokenjapan.com/nagasaki/goto/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Rampu",
+     "name_en": "Rampu",
+     "name_ja": "らんぷ",
+     "description": "Pub in Goto.",
+     "source_url": "https://www.openstreetmap.org/node/2705488730",
+     "page": "https://bokenjapan.com/nagasaki/goto/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Shin",
+     "name_en": "Shin",
+     "name_ja": "しん",
+     "description": "Pub in Goto.",
+     "source_url": "https://www.openstreetmap.org/node/2705294805",
+     "page": "https://bokenjapan.com/nagasaki/goto/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Japanese pub in Goto",
+     "name_en": "Japanese pub in Goto",
+     "name_ja": "Zenや",
+     "description": "Japanese pub in Goto.",
+     "source_url": "https://www.openstreetmap.org/node/2705488891",
+     "page": "https://bokenjapan.com/nagasaki/goto/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Yakiniku Kiraku",
      "name_en": "Yakiniku Kiraku",
      "name_ja": "焼肉喜楽",
@@ -208,6 +288,15 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Ichiban Dori",
+     "name_en": "Ichiban Dori",
+     "name_ja": "一番どり",
+     "description": "Chicken pub in Goto.",
+     "source_url": "https://www.openstreetmap.org/node/2706725867",
+     "page": "https://bokenjapan.com/nagasaki/goto/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Goto Retto Seimensho",
      "name_en": "Goto Retto Seimensho",
      "name_ja": "五島列島製麺所",
@@ -224,6 +313,33 @@
      "source_url": "https://tabelog.com/nagasaki/A4205/A420501/42011141/",
      "page": "https://bokenjapan.com/nagasaki/goto/eat/noodles/",
      "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Oddon Tei",
+     "name_en": "Oddon Tei",
+     "name_ja": "おっどん亭",
+     "description": "Noodle restaurant in Goto.",
+     "source_url": "https://www.openstreetmap.org/node/13926187472",
+     "page": "https://bokenjapan.com/nagasaki/goto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Restaurant in Goto",
+     "name_en": "Restaurant in Goto",
+     "name_ja": "五島列島製麺所",
+     "description": "Restaurant in Goto.",
+     "source_url": "https://www.openstreetmap.org/node/14251425901",
+     "page": "https://bokenjapan.com/nagasaki/goto/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Hatanaka",
+     "name_en": "Hatanaka",
+     "name_ja": "はたなか",
+     "description": "Restaurant in Goto.",
+     "source_url": "https://www.openstreetmap.org/node/2705299203",
+     "page": "https://bokenjapan.com/nagasaki/goto/eat/other/",
+     "category": "Other"
     },
     {
      "name": "ray dining",
@@ -315,11 +431,38 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Tora Sushi",
+     "name_en": "Tora Sushi",
+     "name_ja": "寅寿司",
+     "description": "Sushi restaurant in Goto.",
+     "source_url": "https://www.openstreetmap.org/node/2705300071",
+     "page": "https://bokenjapan.com/nagasaki/goto/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Yagura Sushi",
+     "name_en": "Yagura Sushi",
+     "name_ja": "やぐら寿司",
+     "description": "Sushi restaurant in Goto. Open daily 11:30-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/2705291997",
+     "page": "https://bokenjapan.com/nagasaki/goto/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Okashi Tsukasa Hatanaka Main Store",
      "name_en": "Okashi Tsukasa Hatanaka Main Store",
      "name_ja": "御菓子司はたなか 本店",
      "description": "Okashi Tsukasa Hatanaka Main Store — wagashi and cake shop in Goto, Nagasaki.",
      "source_url": "https://tabelog.com/nagasaki/A4205/A420501/42001076/",
+     "page": "https://bokenjapan.com/nagasaki/goto/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets shop in Goto",
+     "name_en": "Sweets shop in Goto",
+     "name_ja": "洋菓子工房ル・ポン",
+     "description": "Sweets shop in Kago Fuchimachi, Goto.",
+     "source_url": "http://navi.gotoshi.net/contents/detail/index.php?id=48",
      "page": "https://bokenjapan.com/nagasaki/goto/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -1263,7 +1406,7 @@
     "address": "Hirado, Nagasaki 859-5192",
     "phone": "0950-22-4111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside Station Insect Village Tabira",
@@ -1423,6 +1566,15 @@
      "category": "Cafe"
     },
     {
+     "name": "Raidazu Cafe GG",
+     "name_en": "Raidazu Cafe GG",
+     "name_ja": "ライダーズカフェGG",
+     "description": "Cafe in Hirado.",
+     "source_url": "https://www.openstreetmap.org/node/13798342801",
+     "page": "https://bokenjapan.com/nagasaki/hirado/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Umi no Mieru Gohan-ya",
      "name_en": "Umi no Mieru Gohan-ya",
      "name_ja": "海の見えるごはん屋",
@@ -1531,6 +1683,24 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Taikiken",
+     "name_en": "Taikiken",
+     "name_ja": "大氣圏",
+     "description": "Ramen restaurant in Hirado.",
+     "source_url": "https://agodashi-ramen.com/",
+     "page": "https://bokenjapan.com/nagasaki/hirado/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kyuatama Ramen",
+     "name_en": "Kyuatama Ramen",
+     "name_ja": "九頭ラーメン",
+     "description": "Ramen restaurant in Hirado.",
+     "source_url": "https://www.openstreetmap.org/node/13798337703",
+     "page": "https://bokenjapan.com/nagasaki/hirado/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Hirado Kaijo Hotel",
      "name_en": "Hirado Kaijo Hotel",
      "name_ja": "平戸海上ホテル",
@@ -1556,6 +1726,15 @@
      "source_url": "https://tabelog.com/nagasaki/A4202/A420202/42001151/",
      "page": "https://bokenjapan.com/nagasaki/hirado/eat/other/",
      "category": "Other"
+    },
+    {
+     "name": "Meshitokoro Ichiraku",
+     "name_en": "Meshitokoro Ichiraku",
+     "name_ja": "めしところ一楽",
+     "description": "Japanese restaurant in Hirado.",
+     "source_url": "https://www.openstreetmap.org/node/13798338701",
+     "page": "https://bokenjapan.com/nagasaki/hirado/eat/other-japanese/",
+     "category": "Other Japanese"
     },
     {
      "name": "Shunsenkan",
@@ -1877,7 +2056,7 @@
     "address": "Iki, Nagasaki 811-5192",
     "phone": "0920-48-1111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Souvenir Alley shikioriori",
@@ -1935,6 +2114,14 @@
      "category": "Cafe"
     },
     {
+     "name": "Morino Cafe @ten",
+     "name_en": "Morino Cafe @ten",
+     "description": "Cafe in Iki.",
+     "source_url": "https://www.openstreetmap.org/node/12289515655",
+     "page": "https://bokenjapan.com/nagasaki/iki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Unimeshi Shokudo Harahoge",
      "name_en": "Unimeshi Shokudo Harahoge",
      "name_ja": "うにめし食堂はらほげ",
@@ -1988,11 +2175,29 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Pub in Iki",
+     "name_en": "Pub in Iki",
+     "name_ja": "魚よし",
+     "description": "Pub in Iki.",
+     "source_url": "https://www.openstreetmap.org/node/4458688093",
+     "page": "https://bokenjapan.com/nagasaki/iki/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Umeshima",
      "name_en": "Umeshima",
      "name_ja": "うめしま",
      "description": "Beef cuisine, steak, and yakiniku in Iki.",
      "source_url": "https://tabelog.com/nagasaki/A4205/A420502/42000647/",
+     "page": "https://bokenjapan.com/nagasaki/iki/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Umeshima",
+     "name_en": "Umeshima",
+     "name_ja": "うめしま",
+     "description": "Barbecue restaurant in Iki.",
+     "source_url": "https://www.openstreetmap.org/way/454871878",
      "page": "https://bokenjapan.com/nagasaki/iki/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -2033,6 +2238,24 @@
      "category": "Other"
     },
     {
+     "name": "Hogetsu",
+     "name_en": "Hogetsu",
+     "name_ja": "豊月",
+     "description": "Restaurant in Iki.",
+     "source_url": "https://www.openstreetmap.org/way/455003106",
+     "page": "https://bokenjapan.com/nagasaki/iki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Miuraya",
+     "name_en": "Miuraya",
+     "name_ja": "みうらや",
+     "description": "Restaurant in Iki.",
+     "source_url": "https://www.openstreetmap.org/node/4458669291",
+     "page": "https://bokenjapan.com/nagasaki/iki/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Kairi Murakami",
      "name_en": "Kairi Murakami",
      "name_ja": "海里村上",
@@ -2065,6 +2288,15 @@
      "name_ja": "旨勘",
      "description": "Umikan — japanese cuisine restaurant in Iki, Nagasaki.",
      "source_url": "https://tabelog.com/nagasaki/A4205/A420502/42002603/",
+     "page": "https://bokenjapan.com/nagasaki/iki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Iki",
+     "name_en": "Japanese restaurant in Iki",
+     "name_ja": "チリトリ",
+     "description": "Japanese restaurant in Iki.",
+     "source_url": "https://www.openstreetmap.org/node/10833968305",
      "page": "https://bokenjapan.com/nagasaki/iki/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -2489,7 +2721,7 @@
     "address": "Isahaya, Nagasaki 854-8601",
     "phone": "0957-22-1500"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Isahaya City Hall",
@@ -2574,6 +2806,15 @@
    ],
    "food": [
     {
+     "name": "Café in Isahaya",
+     "name_en": "Café in Isahaya",
+     "name_ja": "和カフェ 和らびの",
+     "description": "Cafe in Mokudai Machi, Isahaya.",
+     "source_url": "https://www.openstreetmap.org/node/11113368994",
+     "page": "https://bokenjapan.com/nagasaki/isahaya/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Tommy's",
      "name_en": "Tommy's",
      "name_ja": "トミーズ",
@@ -2606,6 +2847,15 @@
      "name_ja": "お魚定食 朝げ屋",
      "description": "Shokudo in Isahaya.",
      "source_url": "https://tabelog.com/nagasaki/A4204/A420401/42012558/",
+     "page": "https://bokenjapan.com/nagasaki/isahaya/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "name_ja": "マクドナルド",
+     "description": "Burger fast-food restaurant in Isahaya.",
+     "source_url": "https://www.openstreetmap.org/node/6919471897",
      "page": "https://bokenjapan.com/nagasaki/isahaya/eat/casual/",
      "category": "Casual"
     },
@@ -2682,6 +2932,15 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Yakiniku Kiyoka Sono",
+     "name_en": "Yakiniku Kiyoka Sono",
+     "name_ja": "焼肉 清香園",
+     "description": "Yakiniku restaurant in Isahaya.",
+     "source_url": "https://www.openstreetmap.org/way/1053243035",
+     "page": "https://bokenjapan.com/nagasaki/isahaya/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Handmade Soba Hajinoo",
      "name_en": "Handmade Soba Hajinoo",
      "name_ja": "手打ちそば 土師野尾",
@@ -2727,11 +2986,65 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Ao Gosho",
+     "name_en": "Ao Gosho",
+     "name_ja": "青ごしょう",
+     "description": "Noodle restaurant in Isahaya.",
+     "source_url": "https://www.openstreetmap.org/node/6144552736",
+     "page": "https://bokenjapan.com/nagasaki/isahaya/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Marugame Seimen",
+     "name_en": "Marugame Seimen",
+     "name_ja": "丸亀製麺",
+     "description": "Noodle restaurant in Isahaya.",
+     "source_url": "https://www.openstreetmap.org/way/1062751629",
+     "page": "https://bokenjapan.com/nagasaki/isahaya/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Ichika Ken",
+     "name_en": "Ramen Ichika Ken",
+     "name_ja": "ラーメン 一香軒",
+     "description": "Ramen restaurant in Isahaya.",
+     "source_url": "https://www.openstreetmap.org/way/1053243038",
+     "page": "https://bokenjapan.com/nagasaki/isahaya/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon Koto",
+     "name_en": "Udon Koto",
+     "name_ja": "うどん 古都",
+     "description": "Udon restaurant in Isahaya.",
+     "source_url": "https://www.openstreetmap.org/way/1053243036",
+     "page": "https://bokenjapan.com/nagasaki/isahaya/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Restaurant in Isahaya",
+     "name_en": "Restaurant in Isahaya",
+     "name_ja": "フーズホットライン諫早店",
+     "description": "Restaurant in Isahaya.",
+     "source_url": "https://www.openstreetmap.org/way/1053243040",
+     "page": "https://bokenjapan.com/nagasaki/isahaya/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Kaori Kushiage Yabukarabo",
      "name_en": "Kaori Kushiage Yabukarabo",
      "name_ja": "香串揚げ やぶから坊",
      "description": "Kushiage izakaya in Isahaya.",
      "source_url": "https://tabelog.com/nagasaki/A4204/A420401/42001048/",
+     "page": "https://bokenjapan.com/nagasaki/isahaya/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kappo Koto",
+     "name_en": "Kappo Koto",
+     "name_ja": "割烹 古都",
+     "description": "Japanese restaurant in Isahaya.",
+     "source_url": "https://www.openstreetmap.org/way/1053243037",
      "page": "https://bokenjapan.com/nagasaki/isahaya/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -2788,6 +3101,15 @@
      "source_url": "https://tabelog.com/nagasaki/A4204/A420401/42002722/",
      "page": "https://bokenjapan.com/nagasaki/isahaya/eat/seafood/",
      "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sweets shop in Isahaya",
+     "name_en": "Sweets shop in Isahaya",
+     "name_ja": "ル・ミエル",
+     "description": "Sweets shop in Isahaya.",
+     "source_url": "https://www.openstreetmap.org/node/2155382694",
+     "page": "https://bokenjapan.com/nagasaki/isahaya/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "sights": [
@@ -3343,7 +3665,7 @@
     "address": "Matsuura, Nagasaki 859-4598",
     "phone": "0956-72-1111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Matsuura City Hall",
@@ -3511,11 +3833,29 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Hen Chikurin",
+     "name_en": "Hen Chikurin",
+     "name_ja": "変竹林",
+     "description": "Ramen restaurant in Matsuura. Open daily 11:00-18:00.",
+     "source_url": "https://www.openstreetmap.org/way/448804265",
+     "page": "https://bokenjapan.com/nagasaki/matsuura/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Amista Hotel",
      "name_en": "Amista Hotel",
      "name_ja": "アミスタホテル",
      "description": "Hotel in Matsuura.",
      "source_url": "https://tabelog.com/nagasaki/A4202/A420203/42011286/",
+     "page": "https://bokenjapan.com/nagasaki/matsuura/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Matsuura Kyoshokuya Mikuni",
+     "name_en": "Matsuura Kyoshokuya Mikuni",
+     "name_ja": "松浦居食屋みくに",
+     "description": "Restaurant in Matsuura.",
+     "source_url": "https://www.openstreetmap.org/node/4584375494",
      "page": "https://bokenjapan.com/nagasaki/matsuura/eat/other/",
      "category": "Other"
     },
@@ -3719,7 +4059,7 @@
     "address": "Minamishimabara, Nagasaki 859-2211",
     "phone": "0957-73-6600"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside Station Himawari",
@@ -3804,6 +4144,22 @@
    ],
    "food": [
     {
+     "name": "KaKKon CAFE",
+     "name_en": "KaKKon CAFE",
+     "description": "Cafe in Minamishimabara.",
+     "source_url": "https://www.openstreetmap.org/node/10696617021",
+     "page": "https://bokenjapan.com/nagasaki/minamishimabara/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "MARINE HOUSE COCO",
+     "name_en": "MARINE HOUSE COCO",
+     "description": "Cafe in Minamishimabara. Open Tue-Sun 09:00-20:00.",
+     "source_url": "https://www.openstreetmap.org/node/6919288385",
+     "page": "https://bokenjapan.com/nagasaki/minamishimabara/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Tori no Shiraishi Minamishimabara Main Store",
      "name_en": "Tori no Shiraishi Minamishimabara Main Store",
      "name_ja": "鶏の白石 南島原本店",
@@ -3876,6 +4232,15 @@
      "category": "Casual"
     },
     {
+     "name": "Hotto Motto",
+     "name_en": "Hotto Motto",
+     "name_ja": "ほっともっと",
+     "description": "Fast-food restaurant in Minamishimabara.",
+     "source_url": "https://www.openstreetmap.org/way/626203407",
+     "page": "https://bokenjapan.com/nagasaki/minamishimabara/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Chuka Daiki",
      "name_en": "Chuka Daiki",
      "name_ja": "中華 大喜",
@@ -3903,6 +4268,24 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Joyfull",
+     "name_en": "Joyfull",
+     "name_ja": "ジョイフル",
+     "description": "Western-style restaurant in Minamishimabara.",
+     "source_url": "https://www.openstreetmap.org/way/659425413",
+     "page": "https://bokenjapan.com/nagasaki/minamishimabara/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Tezukuri Noaji Maru Sara",
+     "name_en": "Tezukuri Noaji Maru Sara",
+     "name_ja": "手作りの味 マル・サラ",
+     "description": "Italian restaurant in Minamishimabara.",
+     "source_url": "https://www.openstreetmap.org/way/1123900178",
+     "page": "https://bokenjapan.com/nagasaki/minamishimabara/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Izakaya Tairyo",
      "name_en": "Izakaya Tairyo",
      "name_ja": "居酒屋「大漁」",
@@ -3921,11 +4304,29 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Pub in Minamishimabara",
+     "name_en": "Pub in Minamishimabara",
+     "name_ja": "串揚げクシックス",
+     "description": "Pub in Minamishimabara.",
+     "source_url": "https://www.openstreetmap.org/way/660406760",
+     "page": "https://bokenjapan.com/nagasaki/minamishimabara/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Grill Mizurion",
      "name_en": "Grill Mizurion",
      "name_ja": "グリル MIZURION",
      "description": "Hamburg steak, Western cuisine, and cafe.",
      "source_url": "https://tabelog.com/nagasaki/A4203/A420303/42004543/",
+     "page": "https://bokenjapan.com/nagasaki/minamishimabara/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Sumibi Yakinikuya Sakai",
+     "name_en": "Sumibi Yakinikuya Sakai",
+     "name_ja": "炭火焼肉屋さかい",
+     "description": "Beef restaurant in Minamishimabara.",
+     "source_url": "https://www.openstreetmap.org/way/627300945",
      "page": "https://bokenjapan.com/nagasaki/minamishimabara/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -3948,11 +4349,29 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Noodle restaurant in Minamishimabara",
+     "name_en": "Noodle restaurant in Minamishimabara",
+     "name_ja": "素麺料理 面喰い",
+     "description": "Noodle restaurant in Minamishimabara.",
+     "source_url": "https://www.openstreetmap.org/way/670871557",
+     "page": "https://bokenjapan.com/nagasaki/minamishimabara/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Roadside Station Himawari",
      "name_en": "Roadside Station Himawari",
      "name_ja": "道の駅ひまわり",
      "description": "Roadside station in Minamishimabara.",
      "source_url": "https://tabelog.com/nagasaki/A4203/A420303/42009226/",
+     "page": "https://bokenjapan.com/nagasaki/minamishimabara/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Niwatori no Shiroishi",
+     "name_en": "Niwatori no Shiroishi",
+     "name_ja": "鶏の白石",
+     "description": "Restaurant in Minamishimabara.",
+     "source_url": "https://www.openstreetmap.org/way/673146145",
      "page": "https://bokenjapan.com/nagasaki/minamishimabara/eat/other/",
      "category": "Other"
     },
@@ -3984,6 +4403,24 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Ajita Yagura",
+     "name_en": "Ajita Yagura",
+     "name_ja": "味太櫓",
+     "description": "Japanese restaurant in Minamishimabara.",
+     "source_url": "https://www.openstreetmap.org/way/1150416482",
+     "page": "https://bokenjapan.com/nagasaki/minamishimabara/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kappo Shiro",
+     "name_en": "Kappo Shiro",
+     "name_ja": "割烹 城",
+     "description": "Japanese restaurant in Minamishimabara.",
+     "source_url": "https://www.openstreetmap.org/way/625847166",
+     "page": "https://bokenjapan.com/nagasaki/minamishimabara/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Miki Sushi",
      "name_en": "Miki Sushi",
      "name_ja": "みき寿司",
@@ -4002,6 +4439,15 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Kaiten Sushi Wakatake Maru",
+     "name_en": "Kaiten Sushi Wakatake Maru",
+     "name_ja": "回転寿司 若竹丸",
+     "description": "Sushi restaurant in Minamishimabara.",
+     "source_url": "https://www.openstreetmap.org/way/659240882",
+     "page": "https://bokenjapan.com/nagasaki/minamishimabara/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Suzakiya",
      "name_en": "Suzakiya",
      "name_ja": "須崎屋",
@@ -4016,6 +4462,42 @@
      "name_ja": "ガトーフリアン",
      "description": "Cake, sweets, and cafe.",
      "source_url": "https://tabelog.com/nagasaki/A4203/A420303/42000783/",
+     "page": "https://bokenjapan.com/nagasaki/minamishimabara/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Hondaya Kasutera Hompo",
+     "name_en": "Hondaya Kasutera Hompo",
+     "name_ja": "本田屋かすてら本舗",
+     "description": "Pastry shop in Kuchinotsu Machicho, Minamishimabara.",
+     "source_url": "https://www.openstreetmap.org/way/1126688890",
+     "page": "https://bokenjapan.com/nagasaki/minamishimabara/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Matsudaya Shinise",
+     "name_en": "Matsudaya Shinise",
+     "name_ja": "松田屋老舗",
+     "description": "Pastry shop in Kuchinotsu Machihinoe, Minamishimabara.",
+     "source_url": "https://www.openstreetmap.org/way/1126688888",
+     "page": "https://bokenjapan.com/nagasaki/minamishimabara/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Pastry shop in Minamishimabara",
+     "name_en": "Pastry shop in Minamishimabara",
+     "name_ja": "おおむら菓子舗",
+     "description": "Pastry shop in Minamishimabara.",
+     "source_url": "https://www.openstreetmap.org/way/1123093264",
+     "page": "https://bokenjapan.com/nagasaki/minamishimabara/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Yoshida Kashi",
+     "name_en": "Yoshida Kashi",
+     "name_ja": "吉田菓子店",
+     "description": "Pastry shop in Minamishimabara.",
+     "source_url": "https://www.openstreetmap.org/node/6305906986",
      "page": "https://bokenjapan.com/nagasaki/minamishimabara/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -4248,7 +4730,7 @@
     "address": "Nagasaki 850-8685",
     "phone": "095-822-8888"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Hamamachi Arcade",
@@ -4630,6 +5112,114 @@
      "category": "Cafe"
     },
     {
+     "name": "CAFFE VELOCE",
+     "name_en": "CAFFE VELOCE",
+     "name_ja": "カフェ・ベローチェ",
+     "description": "Cafe in Nagasaki. Open daily 07:15-23:00.",
+     "source_url": "https://chatnoir-company.com/chatnoir/ShopSearch?shop_code=378",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Nagasaki Ken Bijutsukan Cafe",
+     "name_en": "Nagasaki Ken Bijutsukan Cafe",
+     "name_ja": "長崎県美術館カフェ",
+     "description": "Cafe in Nagasaki.",
+     "source_url": "https://www.nagasaki-museum.jp/goods2/?mainlabel=%E3%82%AB%E3%83%95%E3%82%A7",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "NGS Coffee",
+     "name_en": "NGS Coffee",
+     "description": "Cafe in Daikoku Machi, Nagasaki. Open daily 08:00-20:00.",
+     "source_url": "https://fuk-coffee.com",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Attic Coffee",
+     "name_en": "Attic Coffee",
+     "description": "Cafe in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/6380332250",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Blueprint",
+     "name_en": "Blueprint",
+     "description": "Cafe in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/5625966022",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Branch Otto",
+     "name_en": "Branch Otto",
+     "description": "Cafe in Nagasaki. Open daily 10:30-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/6797843142",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "BRICK CAFE",
+     "name_en": "BRICK CAFE",
+     "description": "Cafe in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/2503853734",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "CAFE 1571",
+     "name_en": "CAFE 1571",
+     "description": "Cafe in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/2503923835",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Logic",
+     "name_en": "Cafe Logic",
+     "description": "Cafe in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/12836336759",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "CAFFE VELOCE",
+     "name_en": "CAFFE VELOCE",
+     "description": "Cafe in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/7100478858",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Ekubo",
+     "name_en": "Ekubo",
+     "name_ja": "笑くぼ",
+     "description": "Cafe in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/5632636921",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "KARIOMONS COFFEE",
+     "name_en": "KARIOMONS COFFEE",
+     "description": "Cafe in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/13817955457",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Nagasaki",
+     "name_en": "Cafe in Nagasaki",
+     "name_ja": "トレビ",
+     "description": "Cafe in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/2503894610",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Kaniya Main Store",
      "name_en": "Kaniya Main Store",
      "name_ja": "かにや 本店",
@@ -4675,6 +5265,164 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Iwasakihonpo",
+     "name_en": "Iwasakihonpo",
+     "name_ja": "岩崎本舗",
+     "description": "Chinese restaurant in Nagasaki. Open daily 09:30-21:00.",
+     "source_url": "https://0806.jp",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Chinese restaurant in Nagasaki (#1)",
+     "name_en": "Chinese restaurant in Nagasaki (#1)",
+     "name_ja": "江山楼 長崎中華街新館",
+     "description": "Chinese restaurant in Nagasaki. Open daily 11:00-21:00.",
+     "source_url": "http://www.kouzanrou.com/",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Chinese restaurant in Nagasaki (#3)",
+     "name_en": "Chinese restaurant in Nagasaki (#3)",
+     "name_ja": "中国菜館 江山楼 中華街本店",
+     "description": "Chinese restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/4585400456",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Hountei",
+     "name_en": "Hountei",
+     "name_ja": "宝雲亭",
+     "description": "Dumpling restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/4883164470",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Junkei",
+     "name_en": "Junkei",
+     "name_ja": "潤慶",
+     "description": "Chinese restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/2503894655",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Kairakuen",
+     "name_en": "Kairakuen",
+     "name_ja": "会楽園",
+     "description": "Chinese restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/4585400450",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Kataoka",
+     "name_en": "Kataoka",
+     "name_ja": "かたおか",
+     "description": "Chinese restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/12638290804",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Keika Sono",
+     "name_en": "Keika Sono",
+     "name_ja": "京華園",
+     "description": "Chinese restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/4585400451",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Nagasaki Champon Edo Bishi",
+     "name_en": "Nagasaki Champon Edo Bishi",
+     "name_ja": "長崎ちゃんぽん 江戸びし",
+     "description": "Chinese restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/9710495617",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Chinese restaurant in Nagasaki (#2)",
+     "name_en": "Chinese restaurant in Nagasaki (#2)",
+     "name_ja": "新民楼",
+     "description": "Chinese restaurant in Nagasaki. Open daily 11:00-14:30, 17:00-20:30.",
+     "source_url": "https://www.openstreetmap.org/node/4585400443",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Coco Ichiban ,Curry Rice",
+     "name_en": "Coco Ichiban ,Curry Rice",
+     "description": "Curry restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/6810872487",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Milan",
+     "name_en": "Milan",
+     "description": "Indian restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/1120650593",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "French restaurant in Nagasaki",
+     "name_en": "French restaurant in Nagasaki",
+     "name_ja": "フラワーメイト",
+     "description": "French restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/1949260941",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Gorm's",
+     "name_en": "Gorm's",
+     "description": "European restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/5914999443",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Italian restaurant in Nagasaki",
+     "name_en": "Italian restaurant in Nagasaki",
+     "name_ja": "ジベルニー",
+     "description": "Italian restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/12639569049",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Pizza restaurant in Nagasaki",
+     "name_en": "Pizza restaurant in Nagasaki",
+     "name_ja": "マンマのピッツァ",
+     "description": "Pizza restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/7371197671",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "THE VILLAS",
+     "name_en": "THE VILLAS",
+     "description": "Italian restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/3342219105",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Tsubaki",
+     "name_en": "Tsubaki",
+     "name_ja": "椿",
+     "description": "Italian pub in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/13373736395",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Asa Main Store",
      "name_en": "Asa Main Store",
      "name_ja": "亜紗 本店",
@@ -4702,6 +5450,42 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Jube",
+     "name_en": "Jube",
+     "name_ja": "焼鳥・水炊き十兵衛",
+     "description": "Yakitori restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/4585400440",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Juju Karubi",
+     "name_en": "Juju Karubi",
+     "name_ja": "じゅうじゅうカルビ",
+     "description": "Barbecue restaurant in Nagasaki. Open daily 11:00-24:00.",
+     "source_url": "https://www.openstreetmap.org/way/589612210",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Ushi Emon",
+     "name_en": "Ushi Emon",
+     "name_ja": "牛衛門",
+     "description": "Steak restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/5737837895",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Horumon Donaiyanen",
+     "name_en": "Yakiniku Horumon Donaiyanen",
+     "name_ja": "焼肉ホルモン どないやねん",
+     "description": "Steak restaurant in Hanaokamachi, Nagasaki. Open daily 18:00-00:00.",
+     "source_url": "https://www.openstreetmap.org/node/5549644576",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Shianbashi Ramen",
      "name_en": "Shianbashi Ramen",
      "name_ja": "思案橋ラーメン",
@@ -4709,6 +5493,202 @@
      "source_url": "https://tabelog.com/nagasaki/A4201/A420101/42000481/",
      "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/noodles/",
      "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Champon Sara Udon Soshu Hayashi",
+     "name_en": "Champon Sara Udon Soshu Hayashi",
+     "name_ja": "ちゃんぽん・皿うどん 蘇州林",
+     "description": "Udon restaurant in Nagasaki. Open Thu-Tue 11:00-20:30.",
+     "source_url": "https://www.sosyuurin.com/",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "BABAKE",
+     "name_en": "BABAKE",
+     "description": "Noodle restaurant in Nagasaki. Open daily 11:30-14:00, 18:00-00:00.",
+     "source_url": "https://www.openstreetmap.org/node/4761918734",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Doraku",
+     "name_en": "Doraku",
+     "name_ja": "導楽",
+     "description": "Ramen restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/5258613766",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Lemon Ramen Menya Always",
+     "name_en": "Lemon Ramen Menya Always",
+     "name_ja": "麺やおルウアイズ",
+     "description": "Ramen restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/6150747485",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Noodle restaurant in Nagasaki",
+     "name_en": "Noodle restaurant in Nagasaki",
+     "name_ja": "思案橋ラーメン",
+     "description": "Noodle restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/3828530363",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ohato Tokaen",
+     "name_en": "Ohato Tokaen",
+     "description": "Noodle restaurant in Nagasaki. Open Mon-Sat 11:00-14:00, 17:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/5802511853",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Otonashi Ramen",
+     "name_en": "Otonashi Ramen",
+     "name_ja": "音無ラーメン",
+     "description": "Noodle restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/7396814311",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Sampachi Ramen Sumiyoshi Branch",
+     "name_en": "Sampachi Ramen Sumiyoshi Branch",
+     "name_ja": "三八ラーメン住吉店",
+     "description": "Ramen restaurant in Nagasaki. Open Sun-Fri 10:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/4448589789",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen restaurant in Nagasaki",
+     "name_en": "Ramen restaurant in Nagasaki",
+     "name_ja": "トマトラメン・柊",
+     "description": "Ramen restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/6150732786",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Restaurant in Nagasaki (#1)",
+     "name_en": "Restaurant in Nagasaki (#1)",
+     "name_ja": "四海楼",
+     "description": "Restaurant in Nagasaki. Open daily 11:30-15:00, 17:00-20:00.",
+     "source_url": "https://shikairou.com/",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Asahiya",
+     "name_en": "Asahiya",
+     "name_ja": "朝日屋（屋台）",
+     "description": "Restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/5251190624",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kaisen Ichiba nagasakiko Dejima Wharf",
+     "name_en": "Kaisen Ichiba nagasakiko Dejima Wharf",
+     "description": "Restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/6660673688",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kitchen Masa. Deep Fried.",
+     "name_en": "Kitchen Masa. Deep Fried.",
+     "description": "Restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/6732206386",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "La Belle Vue",
+     "name_en": "La Belle Vue",
+     "name_ja": "ラ ベルヴュー",
+     "description": "Restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/2503894649",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Mall Eateries",
+     "name_en": "Mall Eateries",
+     "description": "Restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/1126453072",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Namiya",
+     "name_en": "Namiya",
+     "description": "Restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/13823954870",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "do nuong",
+     "name_en": "o nuong",
+     "description": "Restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/7711079685",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Osakaya",
+     "name_en": "Osakaya",
+     "description": "Restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/6380332243",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Nagasaki (#2)",
+     "name_en": "Restaurant in Nagasaki (#2)",
+     "name_ja": "パヴェ",
+     "description": "Restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/2503894647",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "The Stand Hill",
+     "name_en": "The Stand Hill",
+     "description": "Restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/12836730226",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Tonkatsu Bunjiro Asahimachi, Nagasaki",
+     "name_en": "Tonkatsu Bunjiro Asahimachi, Nagasaki",
+     "description": "Restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/6711886185",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Yamaya",
+     "name_en": "Yamaya",
+     "description": "Restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/5625966121",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Yosso Honten",
+     "name_en": "Yosso Honten",
+     "name_ja": "吉宗",
+     "description": "Restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/5175517224",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/other/",
+     "category": "Other"
     },
     {
      "name": "Doyama",
@@ -4752,6 +5732,68 @@
      "name_ja": "桃源洞",
      "description": "Togendo — local cuisine and seafood restaurant in Nagasaki, Nagasaki.",
      "source_url": "https://tabelog.com/nagasaki/A4201/A420101/42006990/",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kakukaku",
+     "name_en": "Kakukaku",
+     "name_ja": "季寄料理 赫々",
+     "description": "Japanese restaurant in Nagasaki.",
+     "source_url": "https://kakkakunagasaki.owst.jp/",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Rinrin Maru",
+     "name_en": "Rinrin Maru",
+     "name_ja": "凛々丸",
+     "description": "Japanese and Regional Japanese restaurant in Daikoku Machi, Nagasaki. Open daily 17:00-23:00.",
+     "source_url": "https://rinrinmaru.owst.jp/",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Nagasaki (#1)",
+     "name_en": "Japanese restaurant in Nagasaki (#1)",
+     "name_ja": "ボンボヤージ - Bon Voyage",
+     "description": "Japanese restaurant in Nagasaki. Open Mon-Sat 19:00-24:00.",
+     "source_url": "https://www.bonvoyage-nagasaki.com/",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Dashibonzu",
+     "name_en": "Dashibonzu",
+     "name_ja": "だしぼんず",
+     "description": "Japanese restaurant in Nagasaki. Open daily 11:30-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/6844543387",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Hamburg Nakamu",
+     "name_en": "Hamburg Nakamu",
+     "description": "Japanese restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/13817955456",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kane Man",
+     "name_en": "Kane Man",
+     "name_ja": "かね万",
+     "description": "Japanese restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/12836802412",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Nagasaki (#2)",
+     "name_en": "Japanese restaurant in Nagasaki (#2)",
+     "name_ja": "サテンドール",
+     "description": "Regional Japanese restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/12639516715",
      "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -4809,6 +5851,32 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Taichi sushi",
+     "name_en": "Taichi sushi",
+     "description": "Sushi restaurant in Nagasaki. Open Mon-Sat 17:00-23:00; closed Sun.",
+     "source_url": "http://www.taichisusi.com/",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Heiwa Sushi",
+     "name_en": "Heiwa Sushi",
+     "name_ja": "平和寿司",
+     "description": "Sushi restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/7397248447",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi restaurant in Nagasaki",
+     "name_en": "Sushi restaurant in Nagasaki",
+     "name_ja": "志乃多",
+     "description": "Sushi restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/3828530362",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Iwanaga Baijuken",
      "name_en": "Iwanaga Baijuken",
      "name_ja": "岩永 梅寿軒",
@@ -4832,6 +5900,73 @@
      "name_ja": "ブレッドアーエスプレッソ",
      "description": "Bread A Espresso — bread and cafe in Nagasaki, Nagasaki.",
      "source_url": "https://tabelog.com/nagasaki/A4201/A420101/42006584/",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets shop in Nagasaki",
+     "name_en": "Sweets shop in Nagasaki",
+     "name_ja": "異人堂カステラ めがね橋店",
+     "description": "Sweets shop in Nagasaki. Open daily 09:00-18:00.",
+     "source_url": "https://ijindonet.mom/",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bunmeido Souhonten",
+     "name_en": "Bunmeido Souhonten",
+     "name_ja": "文明堂 総本店",
+     "description": "Sweets shop in Nagasaki. Open daily 08:30-19:30.",
+     "source_url": "https://www.bunmeido.ne.jp/",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Cake cafe in Nagasaki",
+     "name_en": "Cake cafe in Nagasaki",
+     "name_ja": "アンドバリシエ",
+     "description": "Cake cafe in Nagasaki. Open daily 09:00-18:00.",
+     "source_url": "https://www.openstreetmap.org/node/13159231902",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bake",
+     "name_en": "Bake",
+     "description": "Bakery in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/12836730224",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bizport Bake",
+     "name_en": "Bizport Bake",
+     "description": "Bakery in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/6797844238",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "bread A espresso",
+     "name_en": "bread A espresso",
+     "description": "Bakery in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/13300896573",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Crêpe de Sapin",
+     "name_en": "Crepe de Sapin",
+     "description": "Ice cream restaurant in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/12120258550",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "mominoki",
+     "name_en": "mominoki",
+     "description": "Sweets shop in Nagasaki.",
+     "source_url": "https://www.openstreetmap.org/node/2503894609",
      "page": "https://bokenjapan.com/nagasaki/nagasaki/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -5965,6 +7100,62 @@
      "description": "Hotel H2 Nagasaki, a hotel in Nagasaki.",
      "source_url": "https://www.jalan.net/yad349144/",
      "page": "https://bokenjapan.com/nagasaki/nagasaki/stay/"
+    },
+    {
+     "name": "Comfort Hotel",
+     "name_en": "Comfort Hotel",
+     "name_ja": "コンフォートホテル",
+     "description": "Hotel in Nagasaki.",
+     "source_url": "https://www.choice-hotels.jp/",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/stay/"
+    },
+    {
+     "name": "Dormy Inn Nagasaki-Shinchi Chukagai",
+     "name_en": "Dormy Inn Nagasaki-Shinchi Chukagai",
+     "name_ja": "ドーミーイン長崎新地中華街",
+     "description": "Hotel in Nagasaki.",
+     "source_url": "https://dormy-hotels.com/dormyinn/hotels/nagasaki/",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/stay/"
+    },
+    {
+     "name": "Hotel Forza Nagasaki",
+     "name_en": "Hotel Forza Nagasaki",
+     "name_ja": "ホテルフォルツァ長崎",
+     "description": "Hotel in Nagasaki.",
+     "source_url": "https://www.hotelforza.jp/nagasaki/",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/stay/"
+    },
+    {
+     "name": "JR Kyushu Hotel Nagasaki",
+     "name_en": "JR Kyushu Hotel Nagasaki",
+     "name_ja": "JR九州ホテル長崎",
+     "description": "Hotel in Nagasaki.",
+     "source_url": "https://www.jrk-hotels.co.jp/Nagasaki/",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/stay/"
+    },
+    {
+     "name": "Candeo Hotels Nagasaki Shinchi Chinatown",
+     "name_en": "Candeo Hotels Nagasaki Shinchi Chinatown",
+     "name_ja": "カンデオホテルズ長崎新地中華街",
+     "description": "Hotel in Nagasaki.",
+     "source_url": "https://www.candeohotels.com/ja/nagasaki/",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/stay/"
+    },
+    {
+     "name": "Hotel Monterey Nagasaki",
+     "name_en": "Hotel Monterey Nagasaki",
+     "name_ja": "ホテルモントレ",
+     "description": "Hotel in Nagasaki.",
+     "source_url": "https://www.hotelmonterey.co.jp/en/nagasaki/",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/stay/"
+    },
+    {
+     "name": "ANA CROWNE PLAZA NAGASAKI GLOVERHILL",
+     "name_en": "ANA CROWNE PLAZA NAGASAKI GLOVERHILL",
+     "name_ja": "ANAクラウンプラザホテル長崎グラバーヒル",
+     "description": "Hotel in Nagasaki.",
+     "source_url": "https://www.anacrowneplaza-nagasaki.jp/",
+     "page": "https://bokenjapan.com/nagasaki/nagasaki/stay/"
     }
    ]
   },
@@ -5983,7 +7174,7 @@
     "address": "Nagayo, Nagasaki 851-2185",
     "phone": "095-883-1111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Nagayo Town Hall",
@@ -6041,6 +7232,46 @@
      "name_en": "ecRu",
      "description": "ecRu — cafe in Nagayo.",
      "source_url": "https://tabelog.com/nagasaki/A4201/A420103/42013508/",
+     "page": "https://bokenjapan.com/nagasaki/nagayo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "cafe TEtoRA",
+     "name_en": "cafe TEtoRA",
+     "description": "Cafe in Nagayo.",
+     "source_url": "https://www.openstreetmap.org/node/14060590774",
+     "page": "https://bokenjapan.com/nagasaki/nagayo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Charitable Trade",
+     "name_en": "Charitable Trade",
+     "description": "Cafe in Nagayo. Open daily 11:00-18:00.",
+     "source_url": "https://www.openstreetmap.org/node/13992210715",
+     "page": "https://bokenjapan.com/nagasaki/nagayo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Deko Cafe",
+     "name_en": "Deko Cafe",
+     "description": "Cafe in Nagayo.",
+     "source_url": "https://www.openstreetmap.org/node/13996110504",
+     "page": "https://bokenjapan.com/nagasaki/nagayo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Mild",
+     "name_en": "Mild",
+     "description": "Cafe in Nagayo.",
+     "source_url": "https://www.openstreetmap.org/node/13947166051",
+     "page": "https://bokenjapan.com/nagasaki/nagayo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Yozen Chinese and Cafe",
+     "name_en": "Yozen Chinese and Cafe",
+     "description": "Cafe in Nagayo.",
+     "source_url": "https://www.openstreetmap.org/node/13919156466",
      "page": "https://bokenjapan.com/nagasaki/nagayo/eat/cafe/",
      "category": "Cafe"
     },
@@ -6108,6 +7339,15 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Nagasako",
+     "name_en": "Nagasako",
+     "name_ja": "ながさこ",
+     "description": "Chinese restaurant in Nagayo. Open Mon-Fri 11:00-14:00.",
+     "source_url": "https://www.openstreetmap.org/node/14141348969",
+     "page": "https://bokenjapan.com/nagasaki/nagayo/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "European restaurant in Nagayo",
      "name_en": "European restaurant in Nagayo",
      "name_ja": "リストランテ厨",
@@ -6171,6 +7411,60 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Ramen restaurant in Nagayo",
+     "name_en": "Ramen restaurant in Nagayo",
+     "name_ja": "麺也オールウェイズ",
+     "description": "Ramen restaurant in Nagayo.",
+     "source_url": "https://www.openstreetmap.org/node/5242344621",
+     "page": "https://bokenjapan.com/nagasaki/nagayo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Hyakuna",
+     "name_en": "Hyakuna",
+     "name_ja": "百菜",
+     "description": "Restaurant in Nagayo. Open daily 11:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/14109542844",
+     "page": "https://bokenjapan.com/nagasaki/nagayo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Chikurin",
+     "name_en": "Chikurin",
+     "name_ja": "竹林",
+     "description": "Japanese restaurant in Nagayo.",
+     "source_url": "https://www.openstreetmap.org/node/14098732320",
+     "page": "https://bokenjapan.com/nagasaki/nagayo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kokoromen",
+     "name_en": "Kokoromen",
+     "name_ja": "心麺",
+     "description": "Japanese restaurant in Nagayo. Open Mon-Fri 11:30-14:00.",
+     "source_url": "https://www.openstreetmap.org/node/13930873313",
+     "page": "https://bokenjapan.com/nagasaki/nagayo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Wakatake Maru",
+     "name_en": "Wakatake Maru",
+     "name_ja": "若竹丸",
+     "description": "Japanese restaurant in Nagayo.",
+     "source_url": "https://www.openstreetmap.org/node/14098732314",
+     "page": "https://bokenjapan.com/nagasaki/nagayo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yakitori Kominkan",
+     "name_en": "Yakitori Kominkan",
+     "name_ja": "やきとり公民館",
+     "description": "Japanese restaurant in Nagayo.",
+     "source_url": "https://www.openstreetmap.org/node/13919156461",
+     "page": "https://bokenjapan.com/nagasaki/nagayo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Bake",
      "name_en": "Bake",
      "name_ja": "BAKE 道の尾店",
@@ -6211,6 +7505,41 @@
      "name_ja": "カステラ一路",
      "description": "Japanese confectionery and castella in Nagayo.",
      "source_url": "https://tabelog.com/nagasaki/A4201/A420103/42014470/",
+     "page": "https://bokenjapan.com/nagasaki/nagayo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Hamaya",
+     "name_en": "Hamaya",
+     "name_ja": "浜屋",
+     "description": "Pastry shop in Nagayo. Open daily 10:00-19:00.",
+     "source_url": "https://www.openstreetmap.org/node/14109542817",
+     "page": "https://bokenjapan.com/nagasaki/nagayo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Mochi Kichi",
+     "name_en": "Mochi Kichi",
+     "name_ja": "もち吉",
+     "description": "Pastry shop in Nagayo. Open daily 09:00-19:00.",
+     "source_url": "https://www.openstreetmap.org/node/14109540695",
+     "page": "https://bokenjapan.com/nagasaki/nagayo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Petite Plage",
+     "name_en": "Petite Plage",
+     "description": "Pastry shop in Nagayo.",
+     "source_url": "https://www.openstreetmap.org/node/13907137054",
+     "page": "https://bokenjapan.com/nagasaki/nagayo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bakery in Nagayo",
+     "name_en": "Bakery in Nagayo",
+     "name_ja": "シャトレーゼ",
+     "description": "Bakery in Nagayo. Open daily 09:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/14109540699",
      "page": "https://bokenjapan.com/nagasaki/nagayo/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -6553,7 +7882,7 @@
     "address": "Omura, Nagasaki 856-8686",
     "phone": "0957-53-4111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Nagasaki Airport",
@@ -6632,6 +7961,74 @@
    ],
    "food": [
     {
+     "name": "Hoshino Coffee Shop Nagasaki Omura Branch",
+     "name_en": "Hoshino Coffee Shop Nagasaki Omura Branch",
+     "name_ja": "星乃珈琲店 長崎大村店",
+     "description": "Cafe in Saiwaicho, Omura. Open Mon-Fri 09:00-21:00.",
+     "source_url": "https://www.hoshinocoffee.com/",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Banwarabe",
+     "name_en": "Banwarabe",
+     "name_ja": "番童",
+     "description": "Curry cafe in Nishi Omura Honcho, Omura. Open daily 10:00-20:00.",
+     "source_url": "https://www.openstreetmap.org/way/1349866642",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Chun Café",
+     "name_en": "Chun Cafe",
+     "description": "Cafe in Omura. Open Tue-Sun 11:00-18:00.",
+     "source_url": "https://www.openstreetmap.org/way/1354736258",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cokiri Cafe",
+     "name_en": "Cokiri Cafe",
+     "description": "Cafe in Shojiguchi Honcho, Omura.",
+     "source_url": "https://www.openstreetmap.org/way/1030695409",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Halo Halo Republic",
+     "name_en": "Halo Halo Republic",
+     "description": "Cafe in Omura.",
+     "source_url": "https://www.openstreetmap.org/node/12409118648",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Mellow Tone",
+     "name_en": "Mellow Tone",
+     "description": "Cafe in Arase Machi, Omura.",
+     "source_url": "https://www.openstreetmap.org/way/1030695405",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Naminouo",
+     "name_en": "Naminouo",
+     "name_ja": "なみのうお",
+     "description": "Cafe in Omura. Open Tue-Sun 09:00-19:00.",
+     "source_url": "https://www.openstreetmap.org/node/13724516001",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Starbucks",
+     "name_en": "Starbucks",
+     "name_ja": "スターバックス",
+     "description": "Cafe in Omura.",
+     "source_url": "https://www.openstreetmap.org/node/3244657526",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Log Kit",
      "name_en": "Log Kit",
      "name_ja": "LOG KIT 長崎空港店",
@@ -6677,6 +8074,60 @@
      "category": "Casual"
     },
     {
+     "name": "Bikkuri Donkey",
+     "name_en": "Bikkuri Donkey",
+     "name_ja": "びっくりドンキー",
+     "description": "Burger restaurant in Omura.",
+     "source_url": "https://www.openstreetmap.org/node/3342186269",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Hotto Motto",
+     "name_en": "Hotto Motto",
+     "name_ja": "ほっともっと",
+     "description": "Fast-food restaurant in Omura.",
+     "source_url": "https://www.openstreetmap.org/node/10292695473",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "name_ja": "マクドナルド",
+     "description": "Burger fast-food restaurant in Omura.",
+     "source_url": "https://www.openstreetmap.org/node/10277027906",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "MOS Burger",
+     "name_en": "MOS Burger",
+     "name_ja": "モスバーガー",
+     "description": "Burger fast-food restaurant in Omura.",
+     "source_url": "https://www.openstreetmap.org/node/3246233781",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Sukiya",
+     "name_en": "Sukiya",
+     "name_ja": "すき家",
+     "description": "Fast-food restaurant in Omura.",
+     "source_url": "https://www.openstreetmap.org/way/1131774337",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Yoshinoya",
+     "name_en": "Yoshinoya",
+     "name_ja": "吉野家",
+     "description": "Fast-food restaurant in Omura.",
+     "source_url": "https://www.openstreetmap.org/node/3276985541",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Shanghai Monogatari",
      "name_en": "Shanghai Monogatari",
      "name_ja": "上海物語",
@@ -6693,6 +8144,24 @@
      "source_url": "https://tabelog.com/nagasaki/A4204/A420402/42000936/",
      "page": "https://bokenjapan.com/nagasaki/omura/eat/chinese-asian/",
      "category": "Chinese & Asian"
+    },
+    {
+     "name": "Chinese and gyoza restaurant in Omura",
+     "name_en": "Chinese and gyoza restaurant in Omura",
+     "name_ja": "餃子の王将",
+     "description": "Chinese and gyoza restaurant in Omura.",
+     "source_url": "https://www.openstreetmap.org/node/3246233306",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Curry restaurant in Omura",
+     "name_en": "Curry restaurant in Omura",
+     "name_ja": "かリィカフェ藁",
+     "description": "Curry restaurant in Omura.",
+     "source_url": "https://www.openstreetmap.org/way/891502332",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/curry/",
+     "category": "Curry"
     },
     {
      "name": "Il Rospaccio",
@@ -6729,6 +8198,85 @@
      "source_url": "https://tabelog.com/nagasaki/A4204/A420402/42001103/",
      "page": "https://bokenjapan.com/nagasaki/omura/eat/european/",
      "category": "European"
+    },
+    {
+     "name": "Coco's",
+     "name_en": "Coco's",
+     "name_ja": "ココス",
+     "description": "Western-style restaurant in Omura.",
+     "source_url": "https://www.openstreetmap.org/way/1354467263",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Pizza restaurant in Omura",
+     "name_en": "Pizza restaurant in Omura",
+     "name_ja": "ドミノ・ピザ",
+     "description": "Pizza restaurant in Omura.",
+     "source_url": "https://www.openstreetmap.org/way/1346375340",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "PiSOLiNO",
+     "name_en": "PiSOLiNO",
+     "description": "Italian restaurant in Omura.",
+     "source_url": "https://www.openstreetmap.org/node/9708735117",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Pizzeria Bar EMME",
+     "name_en": "Pizzeria Bar EMME",
+     "description": "Pizza restaurant in Omura.",
+     "source_url": "https://www.openstreetmap.org/way/1365787143",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "QSQS",
+     "name_en": "QSQS",
+     "name_ja": "QSQS (クスクス)",
+     "description": "Italian restaurant in Kako Machi, Omura.",
+     "source_url": "https://www.openstreetmap.org/way/1422812073",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Uotami",
+     "name_en": "Uotami",
+     "name_ja": "魚民",
+     "description": "Pub in Omura.",
+     "source_url": "https://www.openstreetmap.org/node/10285600704",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yottoko Kushima Ten",
+     "name_en": "Yottoko Kushima Ten",
+     "name_ja": "よっとこ 玖島点",
+     "description": "Pub in Omura.",
+     "source_url": "https://www.openstreetmap.org/node/10292695493",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Barbecue restaurant in Omura",
+     "name_en": "Barbecue restaurant in Omura",
+     "name_ja": "格焼肉清香園 総本店",
+     "description": "Barbecue restaurant in Omura.",
+     "source_url": "https://www.openstreetmap.org/node/10277027914",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "KFC",
+     "name_en": "KFC",
+     "name_ja": "ケンタッキーフライドチキン",
+     "description": "Chicken restaurant in Omura.",
+     "source_url": "https://www.openstreetmap.org/way/1348694578",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/meat/",
+     "category": "Japanese (meat)"
     },
     {
      "name": "Kyowa Hanten",
@@ -6785,6 +8333,69 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Sukesan Udon Omura Nishihommachi Branch",
+     "name_en": "Sukesan Udon Omura Nishihommachi Branch",
+     "name_ja": "資さんうどん大村西本町店",
+     "description": "Udon restaurant in Nishihommachi, Omura.",
+     "source_url": "https://www.openstreetmap.org/way/992961490",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Restaurant in Omura",
+     "name_en": "Restaurant in Omura",
+     "name_ja": "レストラン ペーパームーン",
+     "description": "Restaurant in Ikeda, Omura.",
+     "source_url": "http://food.oomland.com/papermoon/",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Joyful Omura Branch",
+     "name_en": "Joyful Omura Branch",
+     "name_ja": "ジョイフル大村店",
+     "description": "Restaurant in Nishihommachi, Omura.",
+     "source_url": "https://www.openstreetmap.org/way/1341098332",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kushi Katsu Bido Sato",
+     "name_en": "Kushi Katsu Bido Sato",
+     "name_ja": "串かつ美ど里",
+     "description": "Restaurant in Omura. Open daily 11:00-15:00, 17:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/way/907585741",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant Ito",
+     "name_en": "Restaurant Ito",
+     "name_ja": "レストランいとう",
+     "description": "Restaurant in Ikeda, Omura. Open Tue-Sun 11:00-20:30.",
+     "source_url": "https://www.openstreetmap.org/way/891495150",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Shanhai Monogatari",
+     "name_en": "Shanhai Monogatari",
+     "name_ja": "上海物語",
+     "description": "Restaurant in Omura.",
+     "source_url": "https://www.openstreetmap.org/node/5258613774",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Yacho no Mori Restaurant",
+     "name_en": "Yacho no Mori Restaurant",
+     "name_ja": "野鳥の森レストラン",
+     "description": "Restaurant in Omura.",
+     "source_url": "https://www.openstreetmap.org/way/1371861906",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Yamato",
      "name_en": "Yamato",
      "name_ja": "やまと",
@@ -6808,6 +8419,69 @@
      "name_ja": "梅ヶ枝荘",
      "description": "Japanese cuisine, sweets, and sushi.",
      "source_url": "https://tabelog.com/nagasaki/A4204/A420402/42001267/",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Hasu",
+     "name_en": "Hasu",
+     "name_ja": "蓮",
+     "description": "Japanese restaurant in Omura.",
+     "source_url": "https://www.openstreetmap.org/way/891502336",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Nippon Ryori Minori",
+     "name_en": "Nippon Ryori Minori",
+     "name_ja": "日本料理 実り",
+     "description": "Japanese restaurant in Omura.",
+     "source_url": "https://www.openstreetmap.org/way/1365776135",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Omura Zushi Gion",
+     "name_en": "Omura Zushi Gion",
+     "name_ja": "大村ずし ぎおん",
+     "description": "Regional Japanese restaurant in Omura.",
+     "source_url": "https://www.openstreetmap.org/way/1365790528",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Omura",
+     "name_en": "Japanese restaurant in Omura",
+     "name_ja": "大阪王将",
+     "description": "Japanese restaurant in Omura.",
+     "source_url": "https://www.openstreetmap.org/node/3342262580",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ringer Hut",
+     "name_en": "Ringer Hut",
+     "name_ja": "リンガーハット",
+     "description": "Japanese restaurant in Omura.",
+     "source_url": "https://www.openstreetmap.org/node/1807340052",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shoya",
+     "name_en": "Shoya",
+     "name_ja": "庄屋",
+     "description": "Japanese restaurant in Omura.",
+     "source_url": "https://www.openstreetmap.org/node/10292695471",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Tenyoshi",
+     "name_en": "Tenyoshi",
+     "name_ja": "てんよし",
+     "description": "Japanese restaurant in Kako Machi, Omura.",
+     "source_url": "https://www.openstreetmap.org/way/1341096625",
      "page": "https://bokenjapan.com/nagasaki/omura/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -6839,11 +8513,74 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Sushi restaurant in Omura",
+     "name_en": "Sushi restaurant in Omura",
+     "name_ja": "スシロー",
+     "description": "Sushi restaurant in Omura.",
+     "source_url": "https://www.openstreetmap.org/node/5253828723",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Omura Yume Farm Shushu Ice Kobo",
      "name_en": "Omura Yume Farm Shushu Ice Kobo",
      "name_ja": "おおむら夢ファームシュシュ アイス工房",
      "description": "Gelato and ice cream.",
      "source_url": "https://tabelog.com/nagasaki/A4204/A420402/42000072/",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Pastry shop in Uematsu, Omura",
+     "name_en": "Pastry shop in Uematsu, Omura",
+     "name_ja": "パティスリー ルナンジュ",
+     "description": "Pastry shop in Uematsu, Omura. Open daily 10:00-19:00; closed Tue.",
+     "source_url": "http://patisserie-lunange.com/",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Baskin-Robbins",
+     "name_en": "Baskin-Robbins",
+     "name_ja": "サーティワンアイスクリーム",
+     "description": "Ice cream ice cream shop in Omura.",
+     "source_url": "https://www.openstreetmap.org/node/10292695470",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Ichifuku (IPPUKU)",
+     "name_en": "Ichifuku (IPPUKU)",
+     "name_ja": "一福(IPPUKU)",
+     "description": "Sweets shop in Suwa, Omura.",
+     "source_url": "https://www.openstreetmap.org/node/8286222902",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Pastry shop in Omura",
+     "name_en": "Pastry shop in Omura",
+     "name_ja": "異人堂カステラ 大村店",
+     "description": "Pastry shop in Omura.",
+     "source_url": "https://www.openstreetmap.org/way/1349849894",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Mister Donut",
+     "name_en": "Mister Donut",
+     "name_ja": "ミスタードーナツ",
+     "description": "Donut restaurant in Omura.",
+     "source_url": "https://www.openstreetmap.org/node/10292695469",
+     "page": "https://bokenjapan.com/nagasaki/omura/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets shop in Omura",
+     "name_en": "Sweets shop in Omura",
+     "name_ja": "シャトレーゼ 大村店",
+     "description": "Sweets shop in Sakura Baba, Omura. Open daily 09:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/3246241380",
      "page": "https://bokenjapan.com/nagasaki/omura/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -7059,7 +8796,7 @@
     "address": "Saikai, Nagasaki 857-2392",
     "phone": "0959-37-0011"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside Station Saikai Mikan Dome",
@@ -7162,6 +8899,15 @@
      "category": "Casual"
     },
     {
+     "name": "Fast-food restaurant in Saikai",
+     "name_en": "Fast-food restaurant in Saikai",
+     "name_ja": "長崎バイオパーク内",
+     "description": "Fast-food restaurant in Saikai.",
+     "source_url": "https://www.openstreetmap.org/node/2905887289",
+     "page": "https://bokenjapan.com/nagasaki/saikai/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Chinese or Asian restaurant in Saikai",
      "name_en": "Chinese or Asian restaurant in Saikai",
      "name_ja": "五味八珍",
@@ -7242,6 +8988,15 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Azumaya",
+     "name_en": "Azumaya",
+     "name_ja": "あづまや",
+     "description": "Ramen restaurant in Saikai.",
+     "source_url": "https://www.openstreetmap.org/way/829748910",
+     "page": "https://bokenjapan.com/nagasaki/saikai/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Olive Bay Hotel",
      "name_en": "Olive Bay Hotel",
      "name_ja": "オリーブベイホテル",
@@ -7267,6 +9022,40 @@
      "source_url": "https://tabelog.com/nagasaki/A4201/A420102/42007396/",
      "page": "https://bokenjapan.com/nagasaki/saikai/eat/other/",
      "category": "Other"
+    },
+    {
+     "name": "Kazan",
+     "name_en": "Kazan",
+     "description": "Restaurant in Saikai. Open daily 09:00-17:00.",
+     "source_url": "https://saikaicity.jp/isa/kazan/",
+     "page": "https://bokenjapan.com/nagasaki/saikai/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "DINING CHIRO",
+     "name_en": "DINING CHIRO",
+     "description": "Restaurant in Saikai.",
+     "source_url": "https://www.openstreetmap.org/way/828834382",
+     "page": "https://bokenjapan.com/nagasaki/saikai/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Shokujidokoro Sakanashu",
+     "name_en": "Shokujidokoro Sakanashu",
+     "name_ja": "食事処魚宗",
+     "description": "Japanese restaurant in Saikai.",
+     "source_url": "https://www.openstreetmap.org/node/13227508826",
+     "page": "https://bokenjapan.com/nagasaki/saikai/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yamaguchi Shokudo",
+     "name_en": "Yamaguchi Shokudo",
+     "name_ja": "やまぐち食堂",
+     "description": "Japanese restaurant in Saikai.",
+     "source_url": "https://www.openstreetmap.org/way/1057244918",
+     "page": "https://bokenjapan.com/nagasaki/saikai/eat/other-japanese/",
+     "category": "Other Japanese"
     },
     {
      "name": "Sushi Masa",
@@ -7476,7 +9265,7 @@
     "address": "Sasebo, Nagasaki 857-8585",
     "phone": "0956-24-1111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Too Market and Tunnel Alley",
@@ -7789,6 +9578,75 @@
    ],
    "food": [
     {
+     "name": "Cafe Umisaki",
+     "name_en": "Cafe Umisaki",
+     "name_ja": "Cafe 海咲",
+     "description": "Cafe in Kuroshima Machi, Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/6467041051",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Good Coffee Labo",
+     "name_en": "Good Coffee Labo",
+     "name_ja": "グットコーヒーラボ",
+     "description": "Cafe in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/5350491222",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Sasebo (#1)",
+     "name_en": "Cafe in Sasebo (#1)",
+     "name_ja": "蜂之家泡芙",
+     "description": "Cafe in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/4739500325",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "JAM COFFEE",
+     "name_en": "JAM COFFEE",
+     "description": "Cafe in Sasebo. Open daily 11:00-18:00.",
+     "source_url": "https://www.openstreetmap.org/node/13793507001",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Sasebo (#2)",
+     "name_en": "Cafe in Sasebo (#2)",
+     "name_ja": "久遠チョコレート佐世保",
+     "description": "Cafe in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/way/963410027",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Seattle's Best Coffee",
+     "name_en": "Seattle's Best Coffee",
+     "description": "Cafe in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/6797844256",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Shogun Cafe (Base Galley)",
+     "name_en": "Shogun Cafe (Base Galley)",
+     "description": "Cafe in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/12349935592",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Starbucks",
+     "name_en": "Starbucks",
+     "name_ja": "スターバックス",
+     "description": "Cafe in Sasebo. Open daily 09:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/4441621792",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Casual restaurant in Sasebo",
      "name_en": "Casual restaurant in Sasebo",
      "name_ja": "ミサロッソ",
@@ -7852,6 +9710,129 @@
      "category": "Casual"
     },
     {
+     "name": "MOS Burger",
+     "name_en": "MOS Burger",
+     "name_ja": "モスバーガー",
+     "description": "Burger fast-food restaurant in Sasebo. Open daily 09:00-24:00.",
+     "source_url": "https://www.mos.jp/shop/detail/?shop_cd=00926",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Burger fast-food restaurant in Sasebo (#5)",
+     "name_en": "Burger fast-food restaurant in Sasebo (#5)",
+     "name_ja": "ビッグマン佐々店",
+     "description": "Burger fast-food restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/way/1105764348",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Burger fast-food restaurant in Sasebo (#2)",
+     "name_en": "Burger fast-food restaurant in Sasebo (#2)",
+     "name_ja": "ビッグマン",
+     "description": "Burger fast-food restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/2905105519",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "hamburger shop HIKARI",
+     "name_en": "hamburger shop HIKARI",
+     "name_ja": "ハンバーガーショップ ヒカリ",
+     "description": "Burger fast-food restaurant in Sasebo. Open daily 10:00-20:50.",
+     "source_url": "https://www.openstreetmap.org/node/7041143658",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Burger fast-food restaurant in Sasebo (#3)",
+     "name_en": "Burger fast-food restaurant in Sasebo (#3)",
+     "name_ja": "kayaバーガーショップ",
+     "description": "Burger fast-food restaurant in Sasebo. Open Tue-Sun 09:00-20:00.",
+     "source_url": "https://www.openstreetmap.org/node/4728751502",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Lecker Ice",
+     "name_en": "Lecker Ice",
+     "description": "Fast-food restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/4693069094",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "LOG KIT",
+     "name_en": "LOG KIT",
+     "name_ja": "ログキット",
+     "description": "Burger fast-food restaurant in Sasebo. Open Wed-Sun 11:00-15:00.",
+     "source_url": "https://www.openstreetmap.org/node/13841802219",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "name_ja": "マクドナルド",
+     "description": "Burger fast-food restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/1784739801",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Burger fast-food restaurant in Sasebo (#4)",
+     "name_en": "Burger fast-food restaurant in Sasebo (#4)",
+     "name_ja": "ミサロッソ",
+     "description": "Burger fast-food restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/8292037608",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "NEX Fudokoto (NEX food court)",
+     "name_en": "NEX Fudokoto (NEX food court)",
+     "name_ja": "NEXフードコート(NEX food court)",
+     "description": "Food court in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/8494485045",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Burger fast-food restaurant in Sasebo (#1)",
+     "name_en": "Burger fast-food restaurant in Sasebo (#1)",
+     "name_ja": "ログキット 佐世保駅店",
+     "description": "Burger fast-food restaurant in Sasebo. Open Fri-Wed 11:00-19:00.",
+     "source_url": "https://www.openstreetmap.org/node/11006403518",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Taco Bell",
+     "name_en": "Taco Bell",
+     "description": "Fast-food restaurant in Sasebo. Open Sun-Thu 10:30-20:00; Fri-Sat 10:30-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/1789671376",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Vito",
+     "name_en": "Vito",
+     "description": "Fast-food restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/4693105399",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Gyoza Hanten",
+     "name_en": "Gyoza Hanten",
+     "name_ja": "ぎょうざ飯店",
+     "description": "Chinese restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/way/759845796",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Shitamachi no Yoshoku Jidaiya",
      "name_en": "Shitamachi no Yoshoku Jidaiya",
      "name_ja": "下町の洋食 時代屋",
@@ -7870,11 +9851,96 @@
      "category": "European"
     },
     {
+     "name": "Anthony's Pizza",
+     "name_en": "Anthony's Pizza",
+     "description": "Pizza restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/8494485038",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Italian restaurant in Sasebo",
+     "name_en": "Italian restaurant in Sasebo",
+     "name_ja": "ピノキオ",
+     "description": "Italian restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/1789792269",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Yakitori no Kaiju",
      "name_en": "Yakitori no Kaiju",
      "name_ja": "焼鳥の快獣",
      "description": "Izakaya and yakitori.",
      "source_url": "https://tabelog.com/nagasaki/A4202/A420201/42009301/",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Amstelveen",
+     "name_en": "Amstelveen",
+     "description": "Pub in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/2778430502",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Bar in Sasebo",
+     "name_en": "Bar in Sasebo",
+     "name_ja": "アンビエンテ",
+     "description": "Bar in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/8292037609",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Anraku",
+     "name_en": "Anraku",
+     "name_ja": "安楽",
+     "description": "Pub in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/way/892115497",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Café De Haven",
+     "name_en": "Cafe De Haven",
+     "description": "Pub in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/2778430508",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "El Cid's Tavern (Officers and Chiefs Lounge)",
+     "name_en": "El Cid's Tavern (Officers and Chiefs Lounge)",
+     "description": "Bar in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/12349935709",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Galaxies Club",
+     "name_en": "Galaxies Club",
+     "description": "Bar in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/4437494990",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Little 1/2",
+     "name_en": "Little 1/2",
+     "name_ja": "Little 1/2 (ﾘﾄﾙﾊｰﾌ)",
+     "description": "Pub in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/4728750989",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Sosaku Washoku Sakikura",
+     "name_en": "Sosaku Washoku Sakikura",
+     "name_ja": "創作和食 咲蔵",
+     "description": "Japanese pub in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/way/1298255334",
      "page": "https://bokenjapan.com/nagasaki/sasebo/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -7906,6 +9972,42 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Saga Ie Sasebo Gobangai Branch",
+     "name_en": "Saga Ie Sasebo Gobangai Branch",
+     "name_ja": "佐が家 させぼ五番街店",
+     "description": "Yakiniku restaurant in Sasebo. Open daily 11:00-23:00.",
+     "source_url": "https://sasebo.sagaya.jp/",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Chicken restaurant in Sasebo",
+     "name_en": "Chicken restaurant in Sasebo",
+     "name_ja": "唐揚げ屋ICHI 日野ララプレイス店",
+     "description": "Chicken restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/11429492954",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Kitchen Wakisaka",
+     "name_en": "Kitchen Wakisaka",
+     "name_ja": "キッチンわきさか",
+     "description": "Steak restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/way/466094911",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Kiyoka Sono Nakazato Branch",
+     "name_en": "Kiyoka Sono Nakazato Branch",
+     "name_ja": "清香園 中里店",
+     "description": "Barbecue restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/way/1312121468",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Koran",
      "name_en": "Koran",
      "name_ja": "香蘭",
@@ -7913,6 +10015,237 @@
      "source_url": "https://tabelog.com/nagasaki/A4202/A420201/42001533/",
      "page": "https://bokenjapan.com/nagasaki/sasebo/eat/noodles/",
      "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Doppo",
+     "name_en": "Doppo",
+     "name_ja": "独歩",
+     "description": "Ramen restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/way/1232230841",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kitaro Ramen",
+     "name_en": "Kitaro Ramen",
+     "name_ja": "きたろうラーメン",
+     "description": "Noodle restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/way/891996662",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kyushu Chikuho Ramen Yamashoya Hino Branch",
+     "name_en": "Kyushu Chikuho Ramen Yamashoya Hino Branch",
+     "name_ja": "九州筑豊ラーメン山小屋 日野店",
+     "description": "Ramen restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/11429492955",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Maki no Udon",
+     "name_en": "Maki no Udon",
+     "name_ja": "牧のうどん",
+     "description": "Udon restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/2948806033",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Maru Ryu",
+     "name_en": "Maru Ryu",
+     "name_ja": "まる龍",
+     "description": "Ramen restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/12027591496",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menya Ikkokuya",
+     "name_en": "Menya Ikkokuya",
+     "name_ja": "麺屋 一刻屋",
+     "description": "Noodle restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/8292037611",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen restaurant in Sasebo (#1)",
+     "name_en": "Ramen restaurant in Sasebo (#1)",
+     "name_ja": "ラーメン ヒロト",
+     "description": "Ramen restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/way/1105764347",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Yamashoya Ramen Saza Branch",
+     "name_en": "Yamashoya Ramen Saza Branch",
+     "name_ja": "山小屋ラーメン佐々店",
+     "description": "Ramen restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/way/1105766008",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Yokohama Kakei Ramen Ryoma Ie Sasebo Nakazato Branch",
+     "name_en": "Yokohama Kakei Ramen Ryoma Ie Sasebo Nakazato Branch",
+     "name_ja": "横浜家系ラーメン 龍馬家 佐世保中里店",
+     "description": "Ramen restaurant in Sasebo. Open daily 10:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/way/1199358714",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen restaurant in Sasebo (#2)",
+     "name_en": "Ramen restaurant in Sasebo (#2)",
+     "name_ja": "◯葉ラーメン",
+     "description": "Ramen restaurant in Sasebo. Open daily 11:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/way/1232230848",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Restaurant in Sasebo (#1)",
+     "name_en": "Restaurant in Sasebo (#1)",
+     "name_ja": "南風崎MGレヂデンスレストラン",
+     "description": "Restaurant in Sasebo.",
+     "source_url": "https://www.nagasaki-mg.jp/service.html",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "ＡＵＲＡ",
+     "name_en": "AURA",
+     "description": "Restaurant in Sasebo.",
+     "source_url": "https://h-n-h.jp/restaurant/",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Sanpaku Yoshii",
+     "name_en": "Sanpaku Yoshii",
+     "name_ja": "サンパーク吉井",
+     "description": "Restaurant in Yoshii Machi, Sasebo.",
+     "source_url": "http://www.sun-park.or.jp/",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Akatsuki",
+     "name_en": "Akatsuki",
+     "name_ja": "あかつき",
+     "description": "Restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/3751071831",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Brodie's Kitchen",
+     "name_en": "Brodie's Kitchen",
+     "description": "Restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/12349687392",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Chops",
+     "name_en": "Chops",
+     "description": "Restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/12349935593",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Sasebo (#2)",
+     "name_en": "Restaurant in Sasebo (#2)",
+     "name_ja": "ドムニセイ",
+     "description": "Restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/2043669386",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Family Restaurant Rorerai",
+     "name_en": "Family Restaurant Rorerai",
+     "name_ja": "ファミリーレストラン ローレライ",
+     "description": "Restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/5256788702",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Sasebo (#3)",
+     "name_en": "Restaurant in Sasebo (#3)",
+     "name_ja": "ガラスレンガ",
+     "description": "Restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/2079413940",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Hababyu Club",
+     "name_en": "Hababyu Club",
+     "name_ja": "ハーバービュー倶楽部",
+     "description": "Restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/1789706640",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Jidaiya",
+     "name_en": "Jidaiya",
+     "name_ja": "時代屋",
+     "description": "Restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/3751076435",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "MK Restaurant",
+     "name_en": "MK Restaurant",
+     "name_ja": "MKレストラン",
+     "description": "Restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/11068149167",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Sasebo (#4)",
+     "name_en": "Restaurant in Sasebo (#4)",
+     "name_ja": "レストラン ビアゾン",
+     "description": "Restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/5256788699",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Tabi to Nekoto",
+     "name_en": "Tabi to Nekoto",
+     "name_ja": "旅と猫と",
+     "description": "Restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/way/1232230842",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Toride",
+     "name_en": "Toride",
+     "name_ja": "砦",
+     "description": "Restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/6978758786",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Ushi Uemon",
+     "name_en": "Ushi Uemon",
+     "name_ja": "牛右衛門",
+     "description": "Restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/way/1192230393",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/other/",
+     "category": "Other"
     },
     {
      "name": "Garden Terrace Hana Noren",
@@ -7947,6 +10280,69 @@
      "name_ja": "宮崎 酒飯",
      "description": "Miyazaki Shuhan — japanese cuisine restaurant in Sasebo, Nagasaki.",
      "source_url": "https://tabelog.com/nagasaki/A4202/A420201/42012421/",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Hamakatsu",
+     "name_en": "Hamakatsu",
+     "name_ja": "浜勝",
+     "description": "Japanese restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/2177234068",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Hotto Motto Hario",
+     "name_en": "Hotto Motto Hario",
+     "name_ja": "ホットモット 針尾",
+     "description": "Japanese restaurant in Sasebo. Open 24 hours, every day.",
+     "source_url": "https://www.openstreetmap.org/node/3103165741",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Hyakuna",
+     "name_en": "Hyakuna",
+     "name_ja": "百菜",
+     "description": "Japanese restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/way/1192240102",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kappo Funatsu",
+     "name_en": "Kappo Funatsu",
+     "name_ja": "割烹 舩津",
+     "description": "Japanese restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/4728730691",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Menchanko Tei",
+     "name_en": "Menchanko Tei",
+     "name_ja": "めんちゃんこ亭",
+     "description": "Japanese restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/way/1222130954",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Uchidaya Saki Branch",
+     "name_en": "Uchidaya Saki Branch",
+     "name_ja": "うちだ屋早岐店",
+     "description": "Japanese restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/way/652813048",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yamine Kitchen",
+     "name_en": "Yamine Kitchen",
+     "name_ja": "矢峰キッチン",
+     "description": "Japanese restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/way/783326225",
      "page": "https://bokenjapan.com/nagasaki/sasebo/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -8003,6 +10399,68 @@
      "source_url": "https://tabelog.com/nagasaki/A4202/A420201/42000419/",
      "page": "https://bokenjapan.com/nagasaki/sasebo/eat/seafood/",
      "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Genroku Sushi",
+     "name_en": "Genroku Sushi",
+     "name_ja": "元禄寿司",
+     "description": "Sushi restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/2079415014",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Ichisakana Ichie",
+     "name_en": "Ichisakana Ichie",
+     "name_ja": "一魚一会",
+     "description": "Fish restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/way/1214266913",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Wakatake Maru",
+     "name_en": "Wakatake Maru",
+     "name_ja": "若竹丸",
+     "description": "Sushi restaurant in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/way/1192230378",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "31",
+     "name_en": "Baskin Robins & Dunkin Donuts",
+     "description": "Ice cream restaurant in Sasebo. Open Sun-Thu 06:30-20:00; Fri-Sat 06:30-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/1789671381",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Ikuta",
+     "name_en": "Ikuta",
+     "name_ja": "いくた",
+     "description": "Sweets shop in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/1784697625",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Ito King",
+     "name_en": "Ito King",
+     "name_ja": "伊都きんぐ",
+     "description": "Sweets shop in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/4693105400",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets shop in Sasebo",
+     "name_en": "Sweets shop in Sasebo",
+     "name_ja": "パティスリーヒロ",
+     "description": "Sweets shop in Sasebo.",
+     "source_url": "https://www.openstreetmap.org/node/1778850377",
+     "page": "https://bokenjapan.com/nagasaki/sasebo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "sights": [
@@ -8853,7 +11311,7 @@
     "address": "Shimabara, Nagasaki 855-8555",
     "phone": "0957-63-1111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside Station Himawari",
@@ -9025,6 +11483,32 @@
      "category": "Cafe"
     },
     {
+     "name": "GEO CAFE",
+     "name_en": "GEO CAFE",
+     "description": "Cafe in Shimabara.",
+     "source_url": "https://www.openstreetmap.org/node/7254192489",
+     "page": "https://bokenjapan.com/nagasaki/shimabara/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Shimabara Yusui-kan / Koi Cafe Yusui-kan",
+     "name_en": "Shimabara Yusui-kan / Koi Cafe Yusui-kan",
+     "name_ja": "しまばら湧水館 / Koiカフェゆうすい館",
+     "description": "Cafe in Shimabara.",
+     "source_url": "https://www.openstreetmap.org/node/13161187401",
+     "page": "https://bokenjapan.com/nagasaki/shimabara/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Yama no Ue Cafe Garden",
+     "name_en": "Yama no Ue Cafe Garden",
+     "name_ja": "山の上カフェGarden",
+     "description": "Cafe in Shimabara. Open Thu-Tue 11:00-17:00.",
+     "source_url": "https://www.openstreetmap.org/node/6859383387",
+     "page": "https://bokenjapan.com/nagasaki/shimabara/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "A Burgers Cafe",
      "name_en": "A Burgers Cafe",
      "name_ja": "エーバーガーズ カフェ",
@@ -9096,6 +11580,23 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Beef Steak",
+     "name_en": "Beef Steak",
+     "description": "Meat restaurant in Shimabara.",
+     "source_url": "https://www.openstreetmap.org/node/6810872486",
+     "page": "https://bokenjapan.com/nagasaki/shimabara/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Sumibi Yakinikuya Sakai",
+     "name_en": "Sumibi Yakinikuya Sakai",
+     "name_ja": "炭火焼肉屋さかい",
+     "description": "Beef restaurant in Shimabara.",
+     "source_url": "https://www.openstreetmap.org/way/1146011748",
+     "page": "https://bokenjapan.com/nagasaki/shimabara/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Hakuryu",
      "name_en": "Hakuryu",
      "name_ja": "白龍",
@@ -9123,11 +11624,38 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Bai Branch Kyukeijo",
+     "name_en": "Bai Branch Kyukeijo",
+     "name_ja": "売店休憩所",
+     "description": "Noodle restaurant in Shimabara.",
+     "source_url": "https://www.openstreetmap.org/way/477197127",
+     "page": "https://bokenjapan.com/nagasaki/shimabara/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Marumaru Udon",
+     "name_en": "Marumaru Udon",
+     "name_ja": "まるまるうどん",
+     "description": "Udon restaurant in Shimabara.",
+     "source_url": "https://www.openstreetmap.org/way/1146992098",
+     "page": "https://bokenjapan.com/nagasaki/shimabara/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Hotel Nanpuro",
      "name_en": "Hotel Nanpuro",
      "name_ja": "ホテル南風楼",
      "description": "Hotel in Shimabara.",
      "source_url": "https://tabelog.com/nagasaki/A4203/A420302/42001326/",
+     "page": "https://bokenjapan.com/nagasaki/shimabara/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Shimabara",
+     "name_en": "Restaurant in Shimabara",
+     "name_ja": "タージマハル",
+     "description": "Restaurant in Shimabara.",
+     "source_url": "https://www.openstreetmap.org/node/8231615979",
      "page": "https://bokenjapan.com/nagasaki/shimabara/eat/other/",
      "category": "Other"
     },
@@ -9155,6 +11683,60 @@
      "name_ja": "しまばら湧水館",
      "description": "Local cuisine, wagashi, and sweets.",
      "source_url": "https://tabelog.com/nagasaki/A4203/A420302/42010350/",
+     "page": "https://bokenjapan.com/nagasaki/shimabara/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Sato",
+     "name_en": "Sato",
+     "name_ja": "佐藤",
+     "description": "Japanese restaurant in Shimabara. Open daily 18:00-24:00.",
+     "source_url": "https://fcr0314.wixsite.com/website",
+     "page": "https://bokenjapan.com/nagasaki/shimabara/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ajidokoro Naka Yoshi",
+     "name_en": "Ajidokoro Naka Yoshi",
+     "name_ja": "味処仲よし",
+     "description": "Japanese restaurant in Shimabara.",
+     "source_url": "https://www.openstreetmap.org/node/12655699804",
+     "page": "https://bokenjapan.com/nagasaki/shimabara/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Nakaya",
+     "name_en": "Nakaya",
+     "name_ja": "中屋",
+     "description": "Japanese restaurant in Shimabara.",
+     "source_url": "https://www.openstreetmap.org/way/483038863",
+     "page": "https://bokenjapan.com/nagasaki/shimabara/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Rokubee",
+     "name_en": "Rokubee",
+     "name_ja": "六兵衛",
+     "description": "Regional Japanese restaurant in Shimabara.",
+     "source_url": "https://www.openstreetmap.org/way/1147811645",
+     "page": "https://bokenjapan.com/nagasaki/shimabara/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Taro",
+     "name_en": "Taro",
+     "name_ja": "太郎",
+     "description": "Japanese restaurant in Shimabara.",
+     "source_url": "https://www.openstreetmap.org/node/12714855374",
+     "page": "https://bokenjapan.com/nagasaki/shimabara/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Shimabara",
+     "name_en": "Japanese restaurant in Shimabara",
+     "name_ja": "とんかつ濵かつ",
+     "description": "Japanese restaurant in Shimabara.",
+     "source_url": "https://www.openstreetmap.org/way/1147534424",
      "page": "https://bokenjapan.com/nagasaki/shimabara/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -9195,6 +11777,15 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Sushi restaurant in Shimabara",
+     "name_en": "Sushi restaurant in Shimabara",
+     "name_ja": "いな佐",
+     "description": "Sushi restaurant in Shimabara.",
+     "source_url": "https://www.openstreetmap.org/way/1141338746",
+     "page": "https://bokenjapan.com/nagasaki/shimabara/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Ginsui",
      "name_en": "Ginsui",
      "name_ja": "銀水",
@@ -9209,6 +11800,15 @@
      "name_ja": "松井老舗",
      "description": "Castella, wagashi, and Western sweets.",
      "source_url": "https://tabelog.com/nagasaki/A4203/A420302/42006660/",
+     "page": "https://bokenjapan.com/nagasaki/shimabara/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Yamashita Shoten",
+     "name_en": "Yamashita Shoten",
+     "name_ja": "山下商店",
+     "description": "Sweets shop in Shimabara.",
+     "source_url": "https://www.openstreetmap.org/node/8231615965",
      "page": "https://bokenjapan.com/nagasaki/shimabara/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -9745,8 +12345,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Hotel in Shinkamigoto (#20)",
-     "name_en": "Hotel in Shinkamigoto (#20)",
+     "name": "Marugerita",
+     "name_en": "Marugerita",
      "name_ja": "マルゲリータ",
      "description": "Hotel in Shinkamigoto.",
      "source_url": "https://tabelog.com/nagasaki/A4205/A420501/42007350/",
@@ -9923,8 +12523,8 @@
      "page": "https://bokenjapan.com/nagasaki/shinkamigoto/stay/"
     },
     {
-     "name": "Hotel in Shinkamigoto (#10)",
-     "name_en": "Hotel in Shinkamigoto (#10)",
+     "name": "Goto Retsushima Rizotohoterumarugerita",
+     "name_en": "Goto Retsushima Rizotohoterumarugerita",
      "name_ja": "五島列島リゾートホテルマルゲリータ",
      "description": "Goto Islands Resort Hotel Margherita, a hotel in Shinkamigoto.",
      "source_url": "https://www.jalan.net/yad302332/",
@@ -9963,7 +12563,7 @@
     "address": "Togitsu, Nagasaki 851-2198",
     "phone": "095-882-2211"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Togitsu Town Hall",
@@ -10027,6 +12627,14 @@
      "category": "Curry"
     },
     {
+     "name": "Taj",
+     "name_en": "Taj",
+     "description": "Indian restaurant in Togitsu.",
+     "source_url": "https://www.openstreetmap.org/node/3085538787",
+     "page": "https://bokenjapan.com/nagasaki/togitsu/eat/curry/",
+     "category": "Curry"
+    },
+    {
      "name": "Bistro in Togitsu",
      "name_en": "Bistro in Togitsu",
      "name_ja": "ビストロカズ",
@@ -10054,6 +12662,23 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Horo Horo",
+     "name_en": "Horo Horo",
+     "description": "Bar in Togitsu.",
+     "source_url": "https://www.openstreetmap.org/node/3003566612",
+     "page": "https://bokenjapan.com/nagasaki/togitsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Pub in Togitsu",
+     "name_en": "Pub in Togitsu",
+     "name_ja": "和風ご馳走屋てっぺん",
+     "description": "Pub in Togitsu.",
+     "source_url": "https://www.openstreetmap.org/node/5725510002",
+     "page": "https://bokenjapan.com/nagasaki/togitsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Kakiyaki Shiomien",
      "name_en": "Kakiyaki Shiomien",
      "name_ja": "かき焼き 塩見園",
@@ -10068,6 +12693,24 @@
      "name_ja": "特急焼肉ウルトラ",
      "description": "Tokkyu Yakiniku Ultra — yakiniku restaurant in Togitsu, Nagasaki.",
      "source_url": "https://tabelog.com/nagasaki/A4201/A420101/42015408/",
+     "page": "https://bokenjapan.com/nagasaki/togitsu/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Shabushabu Dining MK Togitsu Branch",
+     "name_en": "Shabushabu Dining MK Togitsu Branch",
+     "name_ja": "しゃぶしゃぶダイニングMK 時津店",
+     "description": "Meat restaurant in Togitsu.",
+     "source_url": "https://www.openstreetmap.org/node/5728571422",
+     "page": "https://bokenjapan.com/nagasaki/togitsu/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Tonkatsu Hamakatsu Nagasaki Hinami Branch",
+     "name_en": "Tonkatsu Hamakatsu Nagasaki Hinami Branch",
+     "name_ja": "とんかつ浜勝 長崎日並店",
+     "description": "Meat restaurant in Togitsu.",
+     "source_url": "https://www.openstreetmap.org/node/5725156090",
      "page": "https://bokenjapan.com/nagasaki/togitsu/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -10108,6 +12751,15 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Ramen Rairai Tei Togitsu Branch",
+     "name_en": "Ramen Rairai Tei Togitsu Branch",
+     "name_ja": "ラーメン来来亭 時津店",
+     "description": "Noodle restaurant in Togitsu.",
+     "source_url": "https://www.openstreetmap.org/way/832589420",
+     "page": "https://bokenjapan.com/nagasaki/togitsu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Hotel AZ",
      "name_en": "Hotel AZ",
      "name_ja": "ホテル エーゼット 長崎時津店",
@@ -10115,6 +12767,42 @@
      "source_url": "https://tabelog.com/nagasaki/A4201/A420103/42011045/",
      "page": "https://bokenjapan.com/nagasaki/togitsu/eat/other/",
      "category": "Other"
+    },
+    {
+     "name": "Kiyoka Sono Kururi Branch",
+     "name_en": "Kiyoka Sono Kururi Branch",
+     "name_ja": "清香園 久留里店",
+     "description": "Restaurant in Togitsu.",
+     "source_url": "https://www.openstreetmap.org/node/5725510006",
+     "page": "https://bokenjapan.com/nagasaki/togitsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Michi Ton Hori Nagasaki Togitsu Branch",
+     "name_en": "Michi Ton Hori Nagasaki Togitsu Branch",
+     "name_ja": "道とん堀 長崎時津店",
+     "description": "Restaurant in Togitsu.",
+     "source_url": "https://www.openstreetmap.org/node/5725156087",
+     "page": "https://bokenjapan.com/nagasaki/togitsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Toretore Junie Togitsu Branch",
+     "name_en": "Toretore Junie Togitsu Branch",
+     "name_ja": "とれとれ旬家 時津店",
+     "description": "Restaurant in Togitsu.",
+     "source_url": "https://www.openstreetmap.org/node/5728571423",
+     "page": "https://bokenjapan.com/nagasaki/togitsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Togitsu Kururi Shokudo",
+     "name_en": "Togitsu Kururi Shokudo",
+     "name_ja": "時津久留里食堂",
+     "description": "Japanese restaurant in Togitsu.",
+     "source_url": "https://www.openstreetmap.org/node/5725510008",
+     "page": "https://bokenjapan.com/nagasaki/togitsu/eat/other-japanese/",
+     "category": "Other Japanese"
     },
     {
      "name": "Kaisen Umaimon-ya Teppen",
@@ -10131,6 +12819,32 @@
      "name_ja": "なか富",
      "description": "Nakatomi — sushi restaurant in Togitsu, Nagasaki.",
      "source_url": "https://tabelog.com/nagasaki/A4201/A420103/42003218/",
+     "page": "https://bokenjapan.com/nagasaki/togitsu/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Ichiban",
+     "name_en": "Sushi Ichiban",
+     "description": "Sushi restaurant in Togitsu.",
+     "source_url": "https://www.openstreetmap.org/node/2803016274",
+     "page": "https://bokenjapan.com/nagasaki/togitsu/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Tsurugen Sushi",
+     "name_en": "Tsurugen Sushi",
+     "name_ja": "鶴源寿司",
+     "description": "Sushi restaurant in Togitsu.",
+     "source_url": "https://www.openstreetmap.org/node/5728571429",
+     "page": "https://bokenjapan.com/nagasaki/togitsu/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Wakatake Maru Togitsu Branch",
+     "name_en": "Wakatake Maru Togitsu Branch",
+     "name_ja": "若竹丸 時津店",
+     "description": "Sushi restaurant in Togitsu.",
+     "source_url": "https://www.openstreetmap.org/way/832569380",
      "page": "https://bokenjapan.com/nagasaki/togitsu/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -10192,6 +12906,24 @@
      "name_en": "F's1089",
      "description": "Soft-serve ice cream in Togitsu.",
      "source_url": "https://tabelog.com/nagasaki/A4201/A420101/42013700/",
+     "page": "https://bokenjapan.com/nagasaki/togitsu/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets shop in Togitsu",
+     "name_en": "Sweets shop in Togitsu",
+     "name_ja": "異人堂カステラ 時津店",
+     "description": "Sweets shop in Togitsu.",
+     "source_url": "https://www.openstreetmap.org/node/5725510009",
+     "page": "https://bokenjapan.com/nagasaki/togitsu/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Kururino Pan Togitsu Branch",
+     "name_en": "Kururino Pan Togitsu Branch",
+     "name_ja": "くるりのパン 時津店",
+     "description": "Bakery in Togitsu.",
+     "source_url": "https://www.openstreetmap.org/node/5725156071",
      "page": "https://bokenjapan.com/nagasaki/togitsu/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -10259,7 +12991,7 @@
     "address": "Tsushimashi, Nagasaki 817-8510",
     "phone": "0920-53-6111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Fureai Dokoro Tsushima",
@@ -10419,6 +13151,23 @@
      "category": "Casual"
     },
     {
+     "name": "MOS Burger",
+     "name_en": "MOS Burger",
+     "name_ja": "モスバーガー",
+     "description": "Burger fast-food restaurant in Tsushimashi. Open daily 07:00-22:00.",
+     "source_url": "http://ssl.mos.jp",
+     "page": "https://bokenjapan.com/nagasaki/tsushimashi/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Hotto Motto",
+     "name_en": "Hotto Motto",
+     "description": "Fast-food restaurant in Tsushimashi.",
+     "source_url": "https://www.openstreetmap.org/way/430755496",
+     "page": "https://bokenjapan.com/nagasaki/tsushimashi/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Taigen",
      "name_en": "Taigen",
      "name_ja": "対玄",
@@ -10482,6 +13231,14 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Sakana-ya",
+     "name_en": "Sakana-ya",
+     "description": "Izakaya restaurant in Tsushimashi.",
+     "source_url": "https://www.openstreetmap.org/way/430348717",
+     "page": "https://bokenjapan.com/nagasaki/tsushimashi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Otako",
      "name_en": "Otako",
      "name_ja": "お多幸",
@@ -10527,6 +13284,15 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Ramen restaurant in Tsushimashi",
+     "name_en": "Ramen restaurant in Tsushimashi",
+     "name_ja": "しげちゃんラーメン",
+     "description": "Ramen restaurant in Tsushimashi.",
+     "source_url": "https://www.openstreetmap.org/way/462238536",
+     "page": "https://bokenjapan.com/nagasaki/tsushimashi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Toyoko Inn Tsushima Izuhara",
      "name_en": "Toyoko Inn Tsushima Izuhara",
      "name_ja": "東横イン 対馬厳原",
@@ -10534,6 +13300,32 @@
      "source_url": "https://tabelog.com/nagasaki/A4205/A420503/42010357/",
      "page": "https://bokenjapan.com/nagasaki/tsushimashi/eat/other/",
      "category": "Other"
+    },
+    {
+     "name": "Simamoto",
+     "name_en": "Simamoto",
+     "name_ja": "いけす料理 志まもと",
+     "description": "Japanese restaurant in Tsushimashi.",
+     "source_url": "http://tsushima-shimamoto.jp",
+     "page": "https://bokenjapan.com/nagasaki/tsushimashi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Bamboo",
+     "name_en": "Bamboo",
+     "description": "Japanese restaurant in Tsushimashi.",
+     "source_url": "https://www.openstreetmap.org/way/463776261",
+     "page": "https://bokenjapan.com/nagasaki/tsushimashi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kaikan Restaurant",
+     "name_en": "Kaikan Restaurant",
+     "name_ja": "かいかん食堂",
+     "description": "Japanese restaurant in Tsushimashi.",
+     "source_url": "https://www.openstreetmap.org/node/6012271543",
+     "page": "https://bokenjapan.com/nagasaki/tsushimashi/eat/other-japanese/",
+     "category": "Other Japanese"
     },
     {
      "name": "Anagotei",
@@ -10599,11 +13391,37 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Sushiya",
+     "name_en": "Sushiya",
+     "name_ja": "ダイケーすしや",
+     "description": "Sushi pub in Tsushimashi. Open Thu-Tue 11:00-21:00.",
+     "source_url": "https://susiyadaike.com/shopinfo",
+     "page": "https://bokenjapan.com/nagasaki/tsushimashi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Watanabe Kashiho",
      "name_en": "Watanabe Kashiho",
      "name_ja": "渡辺菓子舗",
      "description": "Watanabe Kashiho — wagashi shop in Tsushima, Nagasaki.",
      "source_url": "https://tabelog.com/nagasaki/A4205/A420503/42005686/",
+     "page": "https://bokenjapan.com/nagasaki/tsushimashi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Crepe House",
+     "name_en": "Crepe House",
+     "description": "Crepe restaurant in Tsushimashi.",
+     "source_url": "https://www.openstreetmap.org/way/463815816",
+     "page": "https://bokenjapan.com/nagasaki/tsushimashi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Poem",
+     "name_en": "Poem",
+     "name_ja": "パンのポエム",
+     "description": "Sweets shop in Tsushimashi.",
+     "source_url": "https://www.openstreetmap.org/node/6360818286",
      "page": "https://bokenjapan.com/nagasaki/tsushimashi/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -11101,7 +13919,7 @@
     "address": "Unzen, Nagasaki 859-1107",
     "phone": "0957-38-3111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Unzen City Hall",
@@ -11143,6 +13961,49 @@
      "name_ja": "アンドコーヒー",
      "description": "And Coffee — cafe in Unzen, Nagasaki.",
      "source_url": "https://tabelog.com/nagasaki/A4203/A420301/42009687/",
+     "page": "https://bokenjapan.com/nagasaki/unzen/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cloud Cafe",
+     "name_en": "Cloud Cafe",
+     "name_ja": "雲のなか",
+     "description": "Cafe in Unzen.",
+     "source_url": "https://www.openstreetmap.org/node/6984882024",
+     "page": "https://bokenjapan.com/nagasaki/unzen/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Fugen Chaya",
+     "name_en": "Fugen Chaya",
+     "description": "Cafe in Unzen.",
+     "source_url": "https://www.openstreetmap.org/node/6984882025",
+     "page": "https://bokenjapan.com/nagasaki/unzen/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Tsudoi",
+     "name_en": "Tsudoi",
+     "description": "Cafe in Unzen.",
+     "source_url": "https://www.openstreetmap.org/node/4986079513",
+     "page": "https://bokenjapan.com/nagasaki/unzen/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Village Teahouse",
+     "name_en": "Village Teahouse",
+     "name_ja": "茶房いま村",
+     "description": "Cafe in Unzen.",
+     "source_url": "https://www.openstreetmap.org/node/6984882027",
+     "page": "https://bokenjapan.com/nagasaki/unzen/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Unzen",
+     "name_en": "Cafe in Unzen",
+     "name_ja": "山の駅ベジドリーム",
+     "description": "Cafe in Unzen.",
+     "source_url": "https://www.openstreetmap.org/way/1139087986",
      "page": "https://bokenjapan.com/nagasaki/unzen/eat/cafe/",
      "category": "Cafe"
     },
@@ -11253,11 +14114,82 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Yakiniku Ushihana",
+     "name_en": "Yakiniku Ushihana",
+     "name_ja": "焼肉 牛花",
+     "description": "Yakiniku restaurant in Unzen.",
+     "source_url": "https://www.openstreetmap.org/way/1133506009",
+     "page": "https://bokenjapan.com/nagasaki/unzen/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Hyakka Tei",
+     "name_en": "Hyakka Tei",
+     "name_ja": "百花亭",
+     "description": "Noodle restaurant in Unzen.",
+     "source_url": "https://www.openstreetmap.org/way/1136988985",
+     "page": "https://bokenjapan.com/nagasaki/unzen/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Soba Sachi Taira Branch",
+     "name_en": "Soba Sachi Taira Branch",
+     "name_ja": "そば幸 多比良店",
+     "description": "Noodle restaurant in Unzen.",
+     "source_url": "https://www.openstreetmap.org/way/1138387651",
+     "page": "https://bokenjapan.com/nagasaki/unzen/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Unzen Kyushu Hotel",
      "name_en": "Unzen Kyushu Hotel",
      "name_ja": "雲仙・九州ホテル",
      "description": "Cuisine ryokan in Unzen.",
      "source_url": "https://tabelog.com/nagasaki/A4203/A420301/42006653/",
+     "page": "https://bokenjapan.com/nagasaki/unzen/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Ajidokoro Yudokoro ; Yoshicho",
+     "name_en": "Ajidokoro Yudokoro ; Yoshicho",
+     "name_ja": "味処湯処;よしちょう",
+     "description": "Restaurant in Unzen.",
+     "source_url": "https://www.openstreetmap.org/node/6501890849",
+     "page": "https://bokenjapan.com/nagasaki/unzen/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Green Terrace Unzen",
+     "name_en": "Green Terrace Unzen",
+     "name_ja": "グリーンテラス雲仙",
+     "description": "Restaurant in Unzen.",
+     "source_url": "https://www.openstreetmap.org/node/3833602934",
+     "page": "https://bokenjapan.com/nagasaki/unzen/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kinugasa Shokudo, Family restaurant",
+     "name_en": "Kinugasa Shokudo, Family restaurant",
+     "description": "Restaurant in Unzen.",
+     "source_url": "https://www.openstreetmap.org/node/6711724085",
+     "page": "https://bokenjapan.com/nagasaki/unzen/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Bakery in Unzen",
+     "name_en": "Bakery in Unzen",
+     "name_ja": "リストランテ ハルパン",
+     "description": "Restaurant in Unzen.",
+     "source_url": "https://www.openstreetmap.org/way/1132404924",
+     "page": "https://bokenjapan.com/nagasaki/unzen/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Rokubee Chaya",
+     "name_en": "Rokubee Chaya",
+     "name_ja": "六兵衛茶屋",
+     "description": "Restaurant in Unzen.",
+     "source_url": "https://www.openstreetmap.org/way/1133034579",
      "page": "https://bokenjapan.com/nagasaki/unzen/eat/other/",
      "category": "Other"
     },
@@ -11276,6 +14208,15 @@
      "name_ja": "東園",
      "description": "Cuisine ryokan in Unzen.",
      "source_url": "https://tabelog.com/nagasaki/A4203/A420301/42004387/",
+     "page": "https://bokenjapan.com/nagasaki/unzen/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kaisenichiba Mushi Kamaya",
+     "name_en": "Kaisenichiba Mushi Kamaya",
+     "name_ja": "海鮮市場 蒸し釜や",
+     "description": "Japanese restaurant in Unzen. Open daily 11:30-14:30, 17:30-20:30.",
+     "source_url": "https://musigamaya.com/",
      "page": "https://bokenjapan.com/nagasaki/unzen/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -11348,6 +14289,24 @@
      "name_ja": "かせやCAFE",
      "description": "Bread, cafe, and other.",
      "source_url": "https://tabelog.com/nagasaki/A4203/A420301/42005645/",
+     "page": "https://bokenjapan.com/nagasaki/unzen/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Nagasaki Castella Land",
+     "name_en": "Nagasaki Castella Land",
+     "name_ja": "長崎カステラランド",
+     "description": "Pastry shop in Unzen.",
+     "source_url": "https://www.openstreetmap.org/way/1133506016",
+     "page": "https://bokenjapan.com/nagasaki/unzen/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Pastry shop in Unzen",
+     "name_en": "Pastry shop in Unzen",
+     "name_ja": "オカモト・シェ・ダムール",
+     "description": "Pastry shop in Unzen.",
+     "source_url": "https://www.openstreetmap.org/way/675919228",
      "page": "https://bokenjapan.com/nagasaki/unzen/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
