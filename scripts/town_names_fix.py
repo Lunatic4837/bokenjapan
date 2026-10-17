@@ -5,8 +5,12 @@ while the cards (and the page's own meta description) carry the real one ('Konan
 A town is renamed ONLY when all of these hold (no name is ever invented):
   * its current H1 name is the slug itself (slug-derived),
   * >= 10 '#N ranked in <Name>' card labels and one Name holds >= 75% of the non-empty labels,
-  * the page's own <meta name="description"> starts with that same Name (independent original metadata),
+  * the page's own <meta name="description"> starts with that same Name (independent original metadata) -- or, when that description is itself
+    the slug-derived name (generator default 'Hidakacho, Hokkaido. Places to stay...'), the Name must be corroborated >= 2 times by the town's own page
+    text ('in <Name>', 'of <Name>', '<Name> Town|Village', '<Name>, <Prefecture>'),
   * Name does not equal another town's H1 / dominant card label in the same prefecture (no clash).
+  * NO-LABEL mode (Saitama 'Inamachi' / 'Ogawamachi' / 'Miyoshimachi': empty '#N ranked in ' labels, nothing to vote): the slug ends in machi / cho / mura,
+    the H1 is the slug-derived name, Name = slug without that suffix (>= 3 letters, the page's own romanisation) and the same >= 2 on-page corroborations hold.
 Everything else is listed in --report with its evidence (lane decision).  Slugs / URLs are never changed.
 Rewrites (old slug-derived token -> Name, case-sensitive whole word, prefecture-scoped):
   * every page under <pref>/<slug>/ (H1, <title>, og/twitter title+description, JSON-LD names, breadcrumbs, 'More in', page-sub,
@@ -35,22 +39,45 @@ def survey(pdir):
         for p in hub.parent.rglob('index.html'):
             if p != hub: lab.update(RANK.findall(p.read_text(encoding='utf-8', errors='replace')))
         ds = re.search(r'name="description" content="([^"]*)"', s)
-        info[hub.parent.name] = {'h1': h1name(s), 'labels': {k: v for k, v in lab.items() if k},
+        info[hub.parent.name] = {'h1': h1name(s), 'empty': lab.get('', 0), 'labels': {k: v for k, v in lab.items() if k},
                                  'ds': ds.group(1).split(',')[0].strip() if ds else None}
     return info
 
-def decide(pref, info):
+SUFFIX = re.compile(r'(machi|cho|mura)$')
+
+def corroboration(pdir, slug, name, pref):
+    """how often the town's own pages (outside card names/blurbs) use <name> as the town's name"""
+    pat = re.compile(r'(?:\b(?:in|of|near|around|at|from) ' + re.escape(name) + r'\b|\b' + re.escape(name) + r' (?:Town|Village)\b|\b' + re.escape(name) + r', ' + re.escape(pref.title()) + r'\b)')
+    n = 0
+    for p in (pdir / slug).rglob('index.html'):
+        t = p.read_text(encoding='utf-8', errors='replace')
+        t = re.sub(r'<(?:script|style)\b.*?</(?:script|style)>', ' ', t, flags=re.S)
+        n += len(pat.findall(re.sub(r'<[^>]+>', ' ', t)))
+    return n
+
+def decide(pref, info, pdir):
     res, unres = {}, []
     for slug, v in info.items():
         L = v['labels']
-        if not L: continue
+        ev = f"labels={json.dumps(L, ensure_ascii=False)}; meta-description-name={v['ds']}"
+        if not L:
+            # NO-LABEL mode: only where the card labels are empty ('#N ranked in ') and the slug is name + admin suffix
+            m = SUFFIX.search(slug)
+            if not (v['empty'] and m and norm(v['h1']) == norm(slug) and len(slug) - len(m.group(1)) >= 3): continue
+            top = slug[:-len(m.group(1))].capitalize()
+            c = corroboration(pdir, slug, top, pref)
+            clash = [o for o, w in info.items() if o != slug and w['h1'].lower() == top.lower()]
+            if clash: unres.append((pref, slug, v['h1'], top, 'name clashes with ' + ','.join(clash), ev)); continue
+            if c < 2: unres.append((pref, slug, v['h1'], top, f'only {c} on-page corroboration(s) of the stripped name (need 2)', ev)); continue
+            res[slug] = (v['h1'], top, True); continue
         top, n = max(L.items(), key=lambda x: x[1]); tot = sum(L.values())
         if top == v['h1']: continue
         if norm(v['h1']) != norm(slug):
             unres.append((pref, slug, v['h1'], top, 'h1 not slug-derived (labels differ: neighbour-town cards?)', json.dumps(L, ensure_ascii=False))); continue
-        ev = f"labels={json.dumps(L, ensure_ascii=False)}; meta-description-name={v['ds']}"
         if n < 10 or n / tot < 0.75: unres.append((pref, slug, v['h1'], top, 'no clear majority label', ev)); continue
-        if v['ds'] != top: unres.append((pref, slug, v['h1'], top, 'meta description disagrees with card labels', ev)); continue
+        if v['ds'] != top:
+            if not (v['ds'] == v['h1'] and corroboration(pdir, slug, top, pref) >= 2):
+                unres.append((pref, slug, v['h1'], top, 'meta description disagrees with card labels', ev)); continue
         clash = [o for o, w in info.items() if o != slug and (w['h1'].lower() == top.lower() or (w['labels'] and max(w['labels'], key=w['labels'].get).lower() == top.lower()))]
         if clash: unres.append((pref, slug, v['h1'], top, 'name clashes with ' + ','.join(clash), ev)); continue
         res[slug] = (v['h1'], top, True)
@@ -85,7 +112,7 @@ def main():
     llm0 = dict(llm)
     for pref in prefs:
         pdir = root / pref
-        res, unres = decide(pref, survey(pdir)); unres_all += unres
+        res, unres = decide(pref, survey(pdir), pdir); unres_all += unres
         if not res: continue
         pages = sorted(list(pdir.rglob('*.html')) + ([pdir / '_map.svg'] if (pdir / '_map.svg').is_file() else []))
         texts = {p: p.read_text(encoding='utf-8') for p in pages}; orig = dict(texts)

@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Close gaps in the '#N ranked in <Town>' numbering of a town's Dining cards (check_live R4.other 'rank #N+1 at position N').
+"""Close gaps in the '#N ranked in <Town>' numbering of a town's Dining and Stay cards (check_live R4.other 'rank #N+1 at position N').
 
 Cause: the original ranking numbered every Tabelog/TripAdvisor card of the town; the hub split later moved non-food cards
 (supermarkets, convenience stores, post offices...) to day-to-day/ (and some to stay/), leaving their numbers behind as gaps
-in the Dining sequence.  Fix: renumber the Dining cards 1..k in their existing rank order (relative order preserved; no card
+in the Dining sequence.  Fix: renumber the Dining (and, separately, the Stay) cards 1..k in their existing rank order (relative order preserved; no card
 text other than the number in the line-3 label changes).  Grouping mirrors check_live hub_merged_soup (day-to-day -> Sights,
-jalan/ikyu/stay -> Stay, tabelog/ta/osm/official source -> Dining).  Towns with tied ranks are NOT touched and are reported.
+jalan/ikyu/stay -> Stay, tabelog/ta/osm/official source -> Dining).  Neutral labels ('Dining in X' / 'Stay in X') have no number and are ignored.  A group with tied ranks is NOT touched and is reported.
 Idempotent (second run = zero diff).  --check exits 1 if a change is needed; --dry-run prints; --report CSV.
 Usage: python3 scripts/ranks_contiguous.py --root . [--pref slug] [--check|--dry-run] [--report out.csv]
 """
@@ -27,7 +27,7 @@ def group(sec, li):
 def town(td, report):
     hub = td / 'index.html'
     if 'ul class="hub-tiles' not in hub.read_text(encoding='utf-8', errors='replace'): return {}
-    cards, texts = [], {}
+    cards, texts = {'Dining': [], 'Stay': []}, {}
     for p in sorted(td.rglob('index.html')):
         if p == hub: continue
         t = texts[p] = p.read_text(encoding='utf-8')
@@ -36,24 +36,26 @@ def town(td, report):
             li = m.group(0)
             if 'class="place-meta"' not in li: continue
             mm = META.search(li)
-            if group(sec, li) == 'Dining' and mm:
-                cards.append((int(mm.group(2)), p, m.start() + mm.start(2), m.start() + mm.end(2)))
-    if not cards: return {}
-    ranks = [c[0] for c in cards]
-    if sorted(ranks) == list(range(1, len(ranks) + 1)): return {}
-    if len(set(ranks)) != len(ranks):
-        report.append((str(td), 'skipped', 'tied/duplicate ranks in Dining group'))
-        return {}
-    order = sorted(cards, key=lambda c: c[0])
+            g = group(sec, li)
+            if g in cards and mm:
+                cards[g].append((int(mm.group(2)), p, m.start() + mm.start(2), m.start() + mm.end(2)))
     edits = {}
-    for new, (old, p, s, e) in enumerate(order, 1):
-        if new != old: edits.setdefault(p, []).append((s, e, str(new)))
+    for g, cs in cards.items():
+        if not cs: continue
+        ranks = [c[0] for c in cs]
+        if sorted(ranks) == list(range(1, len(ranks) + 1)): continue
+        if len(set(ranks)) != len(ranks):
+            report.append((str(td), 'skipped', f'tied/duplicate ranks in {g} group'))
+            continue
+        order = sorted(cs, key=lambda c: c[0]); ne = 0
+        for new, (old, p, s, e) in enumerate(order, 1):
+            if new != old: edits.setdefault(p, []).append((s, e, str(new))); ne += 1
+        report.append((str(td), 'renumbered', f'{g}: {len(order)} cards, {ne} labels changed, gaps closed (max rank {max(ranks)} -> {len(ranks)})'))
     out = {}
     for p, es in edits.items():
         t = texts[p]
         for s, e, v in sorted(es, reverse=True): t = t[:s] + v + t[e:]
         out[p] = t
-    report.append((str(td), 'renumbered', f'{len(order)} Dining cards, {sum(len(v) for v in edits.values())} labels changed, gaps closed (max rank {max(ranks)} -> {len(ranks)})'))
     return out
 
 def main():
