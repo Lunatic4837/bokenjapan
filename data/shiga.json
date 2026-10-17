@@ -4028,7 +4028,7 @@
      "name_en": "Italian restaurant in Koka",
      "name_ja": "サイゼリヤ",
      "description": "Italian restaurant in Mizuguchi Machi, Koka. Open daily 11:00-02:00.",
-     "source_url": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=591",
+     "source_url": "https://www.openstreetmap.org/way/248009312",
      "page": "https://bokenjapan.com/shiga/koka/eat/european/",
      "category": "European"
     },
@@ -6211,7 +6211,7 @@
     "address": "Kora, Shiga 522-0244",
     "phone": "0749-38-3311"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Kora Town Hall",
@@ -6300,6 +6300,24 @@
      "name_ja": "れすとらん千成亭",
      "description": "Restaurant in Kora, Shiga.",
      "source_url": "https://tabelog.com/shiga/A2503/A250303/25012096/",
+     "page": "https://bokenjapan.com/shiga/kora/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Sennaritei Gyuseum",
+     "name_en": "Sennaritei Gyuseum",
+     "name_ja": "千成亭ぎゅ〜じあむ",
+     "description": "Restaurant in Kora.",
+     "source_url": "https://gyuseum.jp/",
+     "page": "https://bokenjapan.com/shiga/kora/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Odaidoko Yasachi",
+     "name_en": "Odaidoko Yasachi",
+     "name_ja": "おだいどこ野幸",
+     "description": "Restaurant in Kora.",
+     "source_url": "https://www.yasachi-kanaya.com/",
      "page": "https://bokenjapan.com/shiga/kora/eat/other/",
      "category": "Other"
     },
@@ -6652,7 +6670,7 @@
      "name_en": "Italian restaurant in Nishi Shibukawa, Kusatsu",
      "name_ja": "サイゼリヤ",
      "description": "Italian restaurant in Nishi Shibukawa, Kusatsu. Open daily 10:00-23:00.",
-     "source_url": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=1318",
+     "source_url": "https://www.openstreetmap.org/node/4885590164",
      "page": "https://bokenjapan.com/shiga/kusatsu/eat/european/",
      "category": "European"
     },
@@ -6804,7 +6822,7 @@
      "name_en": "Kushishinboyashin Jun to Tempura",
      "name_ja": "くししんぼやしん 旬と天ぷら",
      "description": "Japanese pub in Kusatsu.",
-     "source_url": "https://kuishinboyashin.foodre.jp/",
+     "source_url": "https://www.openstreetmap.org/node/12078094665",
      "page": "https://bokenjapan.com/shiga/kusatsu/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -8792,7 +8810,7 @@
      "name_en": "Italian restaurant in Moriyama",
      "name_ja": "サイゼリヤ",
      "description": "Italian restaurant in Harima Tamachi, Moriyama. Open daily 10:00-22:00.",
-     "source_url": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=978",
+     "source_url": "https://www.openstreetmap.org/node/6163642372",
      "page": "https://bokenjapan.com/shiga/moriyama/eat/european/",
      "category": "European"
     },
@@ -9749,7 +9767,7 @@
      "name_en": "Kyuho cafe",
      "name_ja": "丘峰喫茶店",
      "description": "Cafe in Kinomoto Machi, Nagahama.",
-     "source_url": "https://www.kyuhokissaten.com/",
+     "source_url": "https://www.openstreetmap.org/way/1058259393",
      "page": "https://bokenjapan.com/shiga/nagahama/eat/cafe/",
      "category": "Cafe"
     },
@@ -11783,7 +11801,7 @@
      "name_en": "Two RABBITs Craft Bewery and Beer Hall",
      "name_ja": "ラビットハッチ クラフトビアカフェ",
      "description": "Cafe beer garden in Osugi Machi, Omihachiman. Open daily 12:00-21:00.",
-     "source_url": "https://www.tworabbitsbrewing.com/pages/rabbit-hutch",
+     "source_url": "https://www.openstreetmap.org/node/6445520636",
      "page": "https://bokenjapan.com/shiga/omihachiman/eat/cafe/",
      "category": "Cafe"
     },
@@ -13198,7 +13216,7 @@
      "name_en": "Sekisho Iori",
      "name_ja": "夕照庵",
      "description": "Tea cafe in Otsu.",
-     "source_url": "https://www.seibu-la.co.jp/park/biwakobunka/facility/tearoom/",
+     "source_url": "https://www.openstreetmap.org/way/314554646",
      "page": "https://bokenjapan.com/shiga/otsu/eat/cafe/",
      "category": "Cafe"
     },
@@ -13406,7 +13424,7 @@
      "name_en": "French restaurant in Yanagiga Saki, Otsu",
      "name_ja": "ベル・ヴァン・ブルージュ",
      "description": "French restaurant in Yanagiga Saki, Otsu.",
-     "source_url": "https://www.biwako-otsukan.jp/restaurant.html",
+     "source_url": "https://www.openstreetmap.org/node/9587065732",
      "page": "https://bokenjapan.com/shiga/otsu/eat/european/",
      "category": "European"
     },
@@ -13431,7 +13449,7 @@
      "name_en": "Italian restaurant in Ima Katata, Otsu",
      "name_ja": "サイゼリヤ",
      "description": "Italian restaurant in Ima Katata, Otsu. Open daily 11:00-02:00.",
-     "source_url": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=432",
+     "source_url": "https://www.openstreetmap.org/node/2751997050",
      "page": "https://bokenjapan.com/shiga/otsu/eat/european/",
      "category": "European"
     },
@@ -17465,7 +17483,7 @@
      "name": "casa di kudos",
      "name_en": "casa di kudos",
      "description": "Pizza restaurant in Takashima.",
-     "source_url": "https://casa-di-kudos.business.site",
+     "source_url": "https://www.openstreetmap.org/way/726605177",
      "page": "https://bokenjapan.com/shiga/takashima/eat/european/",
      "category": "European"
     },
@@ -17690,7 +17708,7 @@
      "name_en": "Takino Bakery",
      "name_ja": "タキノベーカリー",
      "description": "Bakery in Takashima. Open Thu-Mon 08:00-18:00.",
-     "source_url": "https://bakery-3023.business.site/",
+     "source_url": "https://www.openstreetmap.org/node/11237683137",
      "page": "https://bokenjapan.com/shiga/takashima/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     },

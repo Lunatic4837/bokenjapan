@@ -22,7 +22,7 @@
     "address": "299 Takinomiya, Ayagawa, Ayauta District, Kagawa 761-2392, Japan",
     "phone": "087-876-1111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Ayagawa Town Hall",
@@ -231,6 +231,51 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Akasaka Seimen Tokoro",
+     "name_en": "Akasaka Seimen Tokoro",
+     "name_ja": "赤坂製麺所",
+     "description": "Udon restaurant in Ayagawa.",
+     "source_url": "https://www.openstreetmap.org/node/3518333362",
+     "page": "https://bokenjapan.com/kagawa/ayagawa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon restaurant in Ayagawa",
+     "name_en": "Udon restaurant in Ayagawa",
+     "name_ja": "手打ちうどん たむら",
+     "description": "Udon restaurant in Ayagawa.",
+     "source_url": "https://www.openstreetmap.org/node/2718262734",
+     "page": "https://bokenjapan.com/kagawa/ayagawa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kagawaya Ayagawa Branch",
+     "name_en": "Kagawaya Ayagawa Branch",
+     "name_ja": "香川屋綾川店",
+     "description": "Restaurant in Ayagawa.",
+     "source_url": "https://www.openstreetmap.org/node/2257730786",
+     "page": "https://bokenjapan.com/kagawa/ayagawa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Ayagawa",
+     "name_en": "Restaurant in Ayagawa",
+     "name_ja": "ミラ",
+     "description": "Restaurant in Ayagawa.",
+     "source_url": "https://www.openstreetmap.org/node/10272241918",
+     "page": "https://bokenjapan.com/kagawa/ayagawa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Japanese restaurant in Ayagawa",
+     "name_en": "Japanese restaurant in Ayagawa",
+     "name_ja": "御料理 綾瀬",
+     "description": "Japanese restaurant in Ayagawa.",
+     "source_url": "https://oryouri-ayase.com/",
+     "page": "https://bokenjapan.com/kagawa/ayagawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Michi no Eki Tatsunomiya",
      "name_en": "Michi no Eki Tatsunomiya",
      "name_ja": "道の駅 滝宮",
@@ -335,7 +380,7 @@
     "address": "1847-1 Minato, Higashikagawa, Kagawa 769-2792, Japan",
     "phone": "0879-26-1214"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Higashikagawa City Hall",
@@ -382,11 +427,38 @@
      "category": "Cafe"
     },
     {
+     "name": "Jai Coffee",
+     "name_en": "Jai Coffee",
+     "name_ja": "ジャイ珈琲",
+     "description": "Cafe in Higashikagawa.",
+     "source_url": "https://higashikagawa.net/food/food-3649",
+     "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Wasan-tei",
      "name_en": "Wasan-tei",
      "name_ja": "ワーサン亭",
      "description": "Casual restaurant in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37006187/",
+     "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "name_ja": "マクドナルド",
+     "description": "Fast-food restaurant in Higashikagawa. Open daily 00:00-24:00.",
+     "source_url": "https://www.openstreetmap.org/node/4213708540",
+     "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "SUKIYA",
+     "name_en": "SUKIYA",
+     "name_ja": "すき家",
+     "description": "Fast-food restaurant in Higashikagawa.",
+     "source_url": "https://www.openstreetmap.org/node/4213708541",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/casual/",
      "category": "Casual"
     },
@@ -516,6 +588,59 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Udon restaurant in Higashikagawa",
+     "name_en": "Udon restaurant in Higashikagawa",
+     "name_ja": "手打ちうどん讃州讃岐屋",
+     "description": "Udon restaurant in Higashikagawa.",
+     "source_url": "https://www.openstreetmap.org/node/2333763872",
+     "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ne no Ne",
+     "name_en": "Ne no Ne",
+     "description": "Restaurant in Higashikagawa.",
+     "source_url": "https://higashikagawa.net/food/ne-no-ne",
+     "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Higashikagawa (#1)",
+     "name_en": "Restaurant in Higashikagawa (#1)",
+     "name_ja": "サイホン",
+     "description": "Restaurant in Higashikagawa.",
+     "source_url": "https://higashikagawa.net/food/food-3008",
+     "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Higashikagawa (#2)",
+     "name_en": "Restaurant in Higashikagawa (#2)",
+     "name_ja": "サフラン",
+     "description": "Restaurant in Higashikagawa.",
+     "source_url": "https://www.openstreetmap.org/node/2300559492",
+     "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Hirakegoma Shokudo",
+     "name_en": "Hirakegoma Shokudo",
+     "name_ja": "ひらけごま食堂",
+     "description": "Japanese restaurant in Higashikagawa.",
+     "source_url": "https://higashikagawa.net/food/food-3640",
+     "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yakidori (Iroha Shokudo)",
+     "name_en": "Yakidori (Iroha Shokudo)",
+     "name_ja": "やきどり（いろは食堂）",
+     "description": "Japanese restaurant in Higashikagawa.",
+     "source_url": "https://higashikagawa.net/food/food-3285",
+     "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Ikeuo Cuisine Sanuki-ya",
      "name_en": "Ikeuo Cuisine Sanuki-ya",
      "name_ja": "活魚料理 讃岐家",
@@ -565,6 +690,15 @@
      "name_ja": "ルトロヴァイユ",
      "description": "Sweets and bakery shop in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37008864/",
+     "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bakery Nanairo Hyutte",
+     "name_en": "Bakery Nanairo Hyutte",
+     "name_ja": "ベーカリーなないろヒュッテ",
+     "description": "Sweets restaurant in Higashikagawa.",
+     "source_url": "https://higashikagawa.net/food/food-3600",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -698,7 +832,7 @@
     "address": "1-1-1 Sakamoto-cho, Kanonji, Kagawa 768-8601, Japan",
     "phone": "0875-23-3900"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Kanonji City Hall",
@@ -728,6 +862,30 @@
      "category": "Cafe"
     },
     {
+     "name": "Toramaru",
+     "name_en": "Toramaru",
+     "description": "Cafe in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/node/13277653521",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Unpenji Cafe",
+     "name_en": "Unpenji Cafe",
+     "description": "Cafe in Kanonji. Open daily 07:40-17:20.",
+     "source_url": "https://www.openstreetmap.org/node/13347352350",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "chez ENZO",
+     "name_en": "chez ENZO",
+     "description": "French restaurant in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/way/667227785",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Izakaya or bar in Kanonji",
      "name_en": "Izakaya or bar in Kanonji",
      "name_ja": "IZAKAYA 時々 観音寺店",
@@ -744,6 +902,60 @@
      "source_url": "https://tabelog.com/kagawa/A3703/A370301/37000841/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/izakaya-bars/",
      "category": "Izakaya & bars"
+    },
+    {
+     "name": "Guriru Restaurant MOCHA",
+     "name_en": "Guriru Restaurant MOCHA",
+     "name_ja": "グリルレストラン MOCHA",
+     "description": "Steak restaurant in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/way/660707672",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Nikutakumi Aya Shoten",
+     "name_en": "Nikutakumi Aya Shoten",
+     "name_ja": "肉匠 綾商店",
+     "description": "Barbecue restaurant in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/way/631879548",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Resto House Yakiniku Shinohara (Seiniku Chokubai Tokoro)",
+     "name_en": "Resto House Yakiniku Shinohara (Seiniku Chokubai Tokoro)",
+     "name_ja": "レストハウス焼肉しのはら (精肉直売所)",
+     "description": "Steak restaurant in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/way/625764201",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Barbecue restaurant in Kanonji",
+     "name_en": "Barbecue restaurant in Kanonji",
+     "name_ja": "炭焼 肉の近どう",
+     "description": "Barbecue restaurant in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/way/659458332",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Goen Kanonji Branch",
+     "name_en": "Yakiniku Goen Kanonji Branch",
+     "name_ja": "焼肉五苑 観音寺店",
+     "description": "Steak restaurant in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/way/658425725",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Resto Haraki En",
+     "name_en": "Yakiniku Resto Haraki En",
+     "name_ja": "焼肉レスト 原起苑",
+     "description": "Steak restaurant in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/way/660715131",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/meat/",
+     "category": "Japanese (meat)"
     },
     {
      "name": "Kamakiri",
@@ -917,6 +1129,185 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Chuka Soba Kisso",
+     "name_en": "Chuka Soba Kisso",
+     "name_ja": "中華そば きっそう",
+     "description": "Noodle restaurant in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/way/666676160",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Chuka Soba Urashima",
+     "name_en": "Chuka Soba Urashima",
+     "name_ja": "中華そば 浦島",
+     "description": "Noodle restaurant in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/way/666676169",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Fukuya Udon",
+     "name_en": "Fukuya Udon",
+     "name_ja": "ふくやうどん",
+     "description": "Noodle restaurant in Kanonji. Open Tue-Sun 10:00-19:00.",
+     "source_url": "https://www.openstreetmap.org/way/624442592",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Inaka Udon Gen",
+     "name_en": "Inaka Udon Gen",
+     "name_ja": "田舎うどん 源",
+     "description": "Noodle restaurant in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/way/627722035",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kitano Udon",
+     "name_en": "Kitano Udon",
+     "name_ja": "きたのうどん",
+     "description": "Noodle restaurant in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/way/654856055",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kodawari Menya Kanonji Branch",
+     "name_en": "Kodawari Menya Kanonji Branch",
+     "name_ja": "こだわり麺や 観音寺店",
+     "description": "Noodle restaurant in Kanonji. Open Thu-Tue 06:30-15:00.",
+     "source_url": "https://www.openstreetmap.org/way/625977158",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kogane Seimen Tokoro Harozu Onohara Branch",
+     "name_en": "Kogane Seimen Tokoro Harozu Onohara Branch",
+     "name_ja": "こがね製麺所 ハローズ大野原店",
+     "description": "Noodle restaurant in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/way/624643363",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kogane Seimen Tokoro Kanonji Branch",
+     "name_en": "Kogane Seimen Tokoro Kanonji Branch",
+     "name_ja": "こがね製麺所 観音寺店",
+     "description": "Noodle restaurant in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/way/628840188",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Momoyamatei",
+     "name_en": "Momoyamatei",
+     "description": "Noodle restaurant in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/node/13277642967",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Okita Udon",
+     "name_en": "Okita Udon",
+     "name_ja": "大喜多うどん",
+     "description": "Noodle restaurant in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/node/5308268355",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Oshokujidokoro Unkai Tei",
+     "name_en": "Oshokujidokoro Unkai Tei",
+     "name_ja": "お食事処 雲海亭",
+     "description": "Noodle restaurant in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/way/639116103",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Soba Iya no Sho",
+     "name_en": "Soba Iya no Sho",
+     "name_ja": "そば 祖谷の庄",
+     "description": "Noodle restaurant in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/way/630070804",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Teuchi Udon Shippo Tei",
+     "name_en": "Teuchi Udon Shippo Tei",
+     "name_ja": "手打うどん七宝亭",
+     "description": "Noodle restaurant in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/way/658425722",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon Himehama",
+     "name_en": "Udon Himehama",
+     "name_ja": "うどん ひめはま",
+     "description": "Noodle restaurant in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/way/630070798",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon Kajimaya",
+     "name_en": "Udon Kajimaya",
+     "name_ja": "うどん かじまや",
+     "description": "Noodle restaurant in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/way/667784767",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon Tokoro Menbo",
+     "name_en": "Udon Tokoro Menbo",
+     "name_ja": "うどん処 麺紡",
+     "description": "Noodle restaurant in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/way/655834122",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Noodle restaurant in Kanonji (#3)",
+     "name_en": "Noodle restaurant in Kanonji (#3)",
+     "name_ja": "うまじ家本格手打ちうどん 豊浜セルフ店",
+     "description": "Noodle restaurant in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/way/629165565",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Bunyan",
+     "name_en": "Bunyan",
+     "name_ja": "ぶうにゃん",
+     "description": "Restaurant in Kanonji. Open Tue-Thu 11:00-15:00, 17:00-21:00; Fri-Sat 11:00-15:00, 17:00-22:00; Sun 11:00-15:00, 17:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/way/1549535665",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Okonomiyaki Bunyan",
+     "name_en": "Okonomiyaki Bunyan",
+     "name_ja": "お好み焼 ぶうにゃん",
+     "description": "Japanese restaurant in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/way/667207932",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Uteiya",
+     "name_en": "Uteiya",
+     "name_ja": "うていや",
+     "description": "Japanese restaurant in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/way/667207929",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Nakamaru Suisan",
      "name_en": "Nakamaru Suisan",
      "name_ja": "中丸水産",
@@ -931,6 +1322,14 @@
      "name_ja": "白栄堂 柳町本店",
      "description": "Sweets and bakery shop in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370301/37003383/",
+     "page": "https://bokenjapan.com/kagawa/kanonji/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bakery Tetote",
+     "name_en": "Bakery Tetote",
+     "description": "Bakery in Kanonji.",
+     "source_url": "https://www.openstreetmap.org/node/13277659039",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -1357,8 +1756,8 @@
      "page": "https://bokenjapan.com/kagawa/kotohira/stay/"
     },
     {
-     "name": "Onjuku Shikishima Kan (Kyoritsu Resort )",
-     "name_en": "Onjuku Shikishima Kan (Kyoritsu Resort )",
+     "name": "Onjuku Shikishima Kan (Kyoritsu Resort)",
+     "name_en": "Onjuku Shikishima Kan (Kyoritsu Resort)",
      "name_ja": "御宿 敷島館(共立リゾート)",
      "description": "Resort hotel in Kawanishi, Kotohira with private baths.",
      "source_url": "https://www.ikyu.com/00031285/",
@@ -1748,7 +2147,7 @@
     "address": "2-4-21 Otemachi, Marugame, Kagawa 763-8501, Japan",
     "phone": "0877-23-2111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Marugame City Hall",
@@ -1769,6 +2168,228 @@
    ],
    "food": [
     {
+     "name": "Fujitashoten",
+     "name_en": "Fujitashoten",
+     "name_ja": "ふじたしょうてん",
+     "description": "Cafe in Tamuramachi, Marugame. Open Sat 07:30-12:00; Mon, Sun 13:00-17:00; closed Tue-Fri.",
+     "source_url": "https://fujitasyouten.stores.jp/about",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "COFFEE CLUB",
+     "name_en": "COFFEE CLUB",
+     "name_ja": "珈琲倶楽部",
+     "description": "Cafe in Marugame. Open daily 06:30-18:30.",
+     "source_url": "https://www.openstreetmap.org/node/11430111798",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Epuron",
+     "name_en": "Epuron",
+     "name_ja": "えぷろん",
+     "description": "Korean cafe in Marugame. Open Mon-Fri 11:30-14:30.",
+     "source_url": "https://www.openstreetmap.org/node/10863877117",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "GOOD NEIGHBORS COFFEE",
+     "name_en": "GOOD NEIGHBORS COFFEE",
+     "description": "Cafe in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/11502821856",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kune Cafe",
+     "name_en": "Kune Cafe",
+     "description": "Cafe in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/2240272199",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Peddy’s Coffee",
+     "name_en": "Peddy’s Coffee",
+     "name_ja": "ﾍﾟﾃﾞｨｰｽﾞｺｰﾋｰ",
+     "description": "Cafe in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/8180546446",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Pett Luce",
+     "name_en": "Pett Luce",
+     "description": "Cafe in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/10863877118",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Tomiya Coffee Shop",
+     "name_en": "Tomiya Coffee Shop",
+     "name_ja": "富屋珈琲店",
+     "description": "Cafe in Marugame. Open daily 11:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/10245947376",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Mentokoro Watatani",
+     "name_en": "Mentokoro Watatani",
+     "name_ja": "麺処 綿谷",
+     "description": "Fast-food restaurant in Marugame. Open Mon-Sat 08:30-14:14; closed Sun.",
+     "source_url": "http://www.maruwa-wataya.com",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Yuchan Tei",
+     "name_en": "Yuchan Tei",
+     "name_ja": "ゆうちゃん亭",
+     "description": "Fast-food restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/11944612703",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Ajigen",
+     "name_en": "Ajigen",
+     "name_ja": "味源",
+     "description": "Chinese restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/way/1167724860",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Bara Hanten",
+     "name_en": "Bara Hanten",
+     "name_ja": "薔薇飯店",
+     "description": "Chinese restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/10685553864",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Chuka Hanten Tenten",
+     "name_en": "Chuka Hanten Tenten",
+     "name_ja": "中華飯店てんてん",
+     "description": "Chinese restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/2234033460",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Fukurin Mon",
+     "name_en": "Fukurin Mon",
+     "name_ja": "福臨門",
+     "description": "Chinese restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/12658333849",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Kiraku",
+     "name_en": "Kiraku",
+     "name_ja": "きらく",
+     "description": "Chinese restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/10245947372",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Shosho",
+     "name_en": "Shosho",
+     "name_ja": "醤醤",
+     "description": "Chinese restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/way/1106595695",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Taiwan Ryori Yutakagen",
+     "name_en": "Taiwan Ryori Yutakagen",
+     "name_ja": "台湾料理 豊源",
+     "description": "Asian restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/way/217843133",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Teraoka Shoten Marugame Main Store",
+     "name_en": "Teraoka Shoten Marugame Main Store",
+     "name_ja": "寺岡商店 丸亀本店",
+     "description": "Chinese restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/10685553840",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Chinese restaurant in Marugame",
+     "name_en": "Chinese restaurant in Marugame",
+     "name_ja": "とりの助",
+     "description": "Chinese restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/12189741741",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Indian restaurant in Marugame (#1)",
+     "name_en": "Indian restaurant in Marugame (#1)",
+     "name_ja": "ナマステ・ガネーシャ",
+     "description": "Indian restaurant in Marugame.",
+     "source_url": "https://www.namasteganeshagroup.com/",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Curry restaurant in Marugame",
+     "name_en": "Curry restaurant in Marugame",
+     "name_ja": "ギボシキッチン",
+     "description": "Curry restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/10946075056",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Indian restaurant in Marugame (#2)",
+     "name_en": "Indian restaurant in Marugame (#2)",
+     "name_ja": "ホットマサラ",
+     "description": "Indian restaurant in Marugame. Open daily 11:00-15:00; daily 17:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/10246324098",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Indian restaurant in Marugame (#3)",
+     "name_en": "Indian restaurant in Marugame (#3)",
+     "name_ja": "スクーン",
+     "description": "Indian restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/12643048740",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Pizza & Pasta Nagagutsu",
+     "name_en": "Pizza & Pasta Nagagutsu",
+     "name_ja": "ながぐつ",
+     "description": "Italian restaurant in Marugame. Open daily 11:00-14:00, 17:30-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/6611771702",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Pizza restaurant in Marugame",
+     "name_en": "Pizza restaurant in Marugame",
+     "name_ja": "ロネ",
+     "description": "Pizza restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/10685553863",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Sake-tei Uri",
      "name_en": "Sake-tei Uri",
      "name_ja": "酒亭うり",
@@ -1776,6 +2397,127 @@
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37010761/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/izakaya-bars/",
      "category": "Izakaya & bars"
+    },
+    {
+     "name": "ClubShark",
+     "name_en": "ClubShark",
+     "description": "Bar in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/10948608868",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "D'S CLUB",
+     "name_en": "D'S CLUB",
+     "description": "Bar in Marugame. Closed Mon; Fri-Sun 18:00-02:00.",
+     "source_url": "https://www.openstreetmap.org/node/10857488008",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Infinity",
+     "name_en": "Infinity",
+     "description": "Bar in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/10948608867",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Panic Night Bar",
+     "name_en": "Panic Night Bar",
+     "description": "Bar in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/10948608870",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Wildfinger SOS",
+     "name_en": "Wildfinger SOS",
+     "description": "Pub in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/10685553841",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Barbecue restaurant in Marugame (#1)",
+     "name_en": "Barbecue restaurant in Marugame (#1)",
+     "name_ja": "炭焼 肉の近どう",
+     "description": "Barbecue restaurant in Marugame.",
+     "source_url": "https://s436712.gorp.jp/",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Butsugiritanchan",
+     "name_en": "Butsugiritanchan",
+     "name_ja": "ぶつぎりたんちゃん",
+     "description": "Barbecue restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/11064706393",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Barbecue restaurant in Marugame (#2)",
+     "name_en": "Barbecue restaurant in Marugame (#2)",
+     "name_ja": "林ホルモン",
+     "description": "Barbecue restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/11472504291",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Honetsuki Tori Ikkaku",
+     "name_en": "Honetsuki Tori Ikkaku",
+     "name_ja": "骨付鳥一鶴",
+     "description": "Chicken restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/way/565419168",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Kon",
+     "name_en": "Kon",
+     "name_ja": "香音",
+     "description": "Steak restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/10948608875",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Omi Yakiniku Horumon Sudaku",
+     "name_en": "Omi Yakiniku Horumon Sudaku",
+     "name_ja": "近江 焼肉ホルモン すだく",
+     "description": "Barbecue restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/10893194846",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Steak House Semman",
+     "name_en": "Steak House Semman",
+     "name_ja": "ステーキハウス千萬",
+     "description": "Steak restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/10948608866",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Toritama Marugame Main Store",
+     "name_en": "Toritama Marugame Main Store",
+     "name_ja": "とりあたま 丸亀本店",
+     "description": "Chicken restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/10275181504",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Ushiraku",
+     "name_en": "Yakiniku Ushiraku",
+     "name_ja": "焼肉 牛楽",
+     "description": "Barbecue restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/13982465260",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/meat/",
+     "category": "Japanese (meat)"
     },
     {
      "name": "Jun Teuchi Udon Yoshiya",
@@ -1976,6 +2718,158 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Ramen restaurant in Marugame",
+     "name_en": "Ramen restaurant in Marugame",
+     "name_ja": "ダントツラーメン岡山一番店",
+     "description": "Ramen restaurant in Marugame.",
+     "source_url": "https://dantogo.shop/",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Chuka Soba Sanchome",
+     "name_en": "Chuka Soba Sanchome",
+     "name_ja": "中華そば三丁目",
+     "description": "Ramen restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/12644645729",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kama Age Udon Oka Jima",
+     "name_en": "Kama Age Udon Oka Jima",
+     "name_ja": "釜あげうどん 岡じま",
+     "description": "Udon restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/3437235902",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kodawari Menya Marugame Tamura Branch",
+     "name_en": "Kodawari Menya Marugame Tamura Branch",
+     "name_ja": "こだわり麺や 丸亀田村店",
+     "description": "Noodle restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/way/1106595652",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kogane Seimen Tokoro Marugame Harada Branch",
+     "name_en": "Kogane Seimen Tokoro Marugame Harada Branch",
+     "name_ja": "こがね製麺所 丸亀原田店",
+     "description": "Noodle restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/way/1106598801",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Merikenya",
+     "name_en": "Merikenya",
+     "name_ja": "めりけんや",
+     "description": "Udon restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/12189741740",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Sanshu Seimen",
+     "name_en": "Sanshu Seimen",
+     "name_ja": "讃州製麺",
+     "description": "Udon restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/10862270461",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon restaurant in Marugame (#3)",
+     "name_en": "Udon restaurant in Marugame (#3)",
+     "name_ja": "讃岐麺食堂 縁や",
+     "description": "Udon restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/way/1167950115",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Sanuki Udon Momoyama Tei",
+     "name_en": "Sanuki Udon Momoyama Tei",
+     "name_ja": "讃岐うどん 桃山亭",
+     "description": "Udon restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/10292514590",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tatan",
+     "name_en": "Tatan",
+     "name_ja": "太箪",
+     "description": "Noodle restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/way/1106595653",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Noodle restaurant in Marugame (#3, 2)",
+     "name_en": "Noodle restaurant in Marugame (#3, 2)",
+     "name_ja": "手打ちうどん おふくろ",
+     "description": "Noodle restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/way/572609734",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Teuchi Udon Ryu",
+     "name_en": "Teuchi Udon Ryu",
+     "name_ja": "手打うどん 龍",
+     "description": "Udon restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/13982465246",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Teuchi Udon Watanabe",
+     "name_en": "Teuchi Udon Watanabe",
+     "name_ja": "手打うどん渡辺",
+     "description": "Noodle restaurant in Marugame. Closed Thu.",
+     "source_url": "https://www.openstreetmap.org/node/13741662332",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tonkotsu Ramen Tadeya",
+     "name_en": "Tonkotsu Ramen Tadeya",
+     "name_ja": "とんこつラーメン たでや",
+     "description": "Ramen restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/10860216216",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kitchen Shirakawa",
+     "name_en": "Kitchen Shirakawa",
+     "name_ja": "キッチン白川",
+     "description": "Restaurant in Marugame. Open daily 11:00-14:00.",
+     "source_url": "https://www.openstreetmap.org/node/10963253023",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Pokapoka Tei",
+     "name_en": "Pokapoka Tei",
+     "name_ja": "ぽかぽか亭",
+     "description": "Restaurant in Marugame. Open daily 11:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/12644548273",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Theatre Restaurant",
+     "name_en": "Theatre Restaurant",
+     "description": "Restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/8180546979",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Hone Tsuki Tori Ikkaku Marugame Main Store",
      "name_en": "Hone Tsuki Tori Ikkaku Marugame Main Store",
      "name_ja": "骨付鳥 一鶴 丸亀本店",
@@ -1983,6 +2877,186 @@
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000066/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/other-japanese/",
      "category": "Other Japanese"
+    },
+    {
+     "name": "Chanko Dining Maru",
+     "name_en": "Chanko Dining Maru",
+     "name_ja": "ちゃんこダイニング まる",
+     "description": "Japanese restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/11064706459",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Gion Koji Yushoku Boya",
+     "name_en": "Gion Koji Yushoku Boya",
+     "name_ja": "祇園小路 遊食房屋",
+     "description": "Japanese restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/way/1118240413",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Honetsuki Tori Yakitori Bonten Maru",
+     "name_en": "Honetsuki Tori Yakitori Bonten Maru",
+     "name_ja": "骨付鳥 焼鳥 梵天丸",
+     "description": "Japanese restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/way/1167950116",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ikeuo Motonori",
+     "name_en": "Ikeuo Motonori",
+     "name_ja": "活魚 一徳",
+     "description": "Japanese restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/way/1316022452",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ikkaku",
+     "name_en": "Ikkaku",
+     "name_ja": "一鶴",
+     "description": "Japanese restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/3040835333",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Itcho",
+     "name_en": "Itcho",
+     "name_ja": "一丁",
+     "description": "Japanese restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/11431777949",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kagawa no Shokudo Maishoku Ie Marugame Iiyama Branch",
+     "name_en": "Kagawa no Shokudo Maishoku Ie Marugame Iiyama Branch",
+     "name_ja": "香川の食堂 まいしょく家 丸亀飯山店",
+     "description": "Japanese restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/way/1117320773",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kaname",
+     "name_en": "Kaname",
+     "name_ja": "かなめ",
+     "description": "Japanese restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/11202073709",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Katsusato Marugame Branch",
+     "name_en": "Katsusato Marugame Branch",
+     "name_ja": "かつさと 丸亀店",
+     "description": "Japanese restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/way/875645001",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Marugame",
+     "name_en": "Japanese restaurant in Marugame",
+     "name_ja": "こだわり麺や フジグラン丸亀店",
+     "description": "Japanese restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/way/568516644",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Mikan Masumi",
+     "name_en": "Mikan Masumi",
+     "name_ja": "味感 真寿美",
+     "description": "Japanese restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/way/1106595722",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Sanuki Seimen Tokoro",
+     "name_en": "Sanuki Seimen Tokoro",
+     "name_ja": "讃岐製麺所",
+     "description": "Japanese restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/way/868171738",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shinsei",
+     "name_en": "Shinsei",
+     "name_ja": "新世",
+     "description": "Japanese restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/way/300592895",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Unagiya Edo Myodai Amon",
+     "name_en": "Unagiya Edo Myodai Amon",
+     "name_ja": "うなぎ屋 江戸名代亜門",
+     "description": "Japanese restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/12189741737",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yakitori Ie Sumire Hama Kaido Marugame Branch",
+     "name_en": "Yakitori Ie Sumire Hama Kaido Marugame Branch",
+     "name_ja": "やきとり家 すみれ 浜街道丸亀店",
+     "description": "Japanese restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/way/1113503048",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Fujimura",
+     "name_en": "Fujimura",
+     "name_ja": "藤村",
+     "description": "Seafood restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/11944612704",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Shiwaku no Ryoshi Meshi Maya",
+     "name_en": "Shiwaku no Ryoshi Meshi Maya",
+     "name_ja": "塩飽の漁師飯 まや",
+     "description": "Seafood restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/11064706446",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Yururi",
+     "name_en": "Yururi",
+     "name_ja": "ゆるり",
+     "description": "Sushi restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/10857480475",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Oimo Suitsu Specialty Shop Imomaru",
+     "name_en": "Oimo Suitsu Specialty Shop Imomaru",
+     "name_ja": "お芋スイーツ専門店いもまる",
+     "description": "Pastry shop in Marugame.",
+     "source_url": "https://imomaru.com/",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Crepe Window",
+     "name_en": "Crepe Window",
+     "name_ja": "クレープウィンドウ",
+     "description": "Sweets restaurant in Marugame.",
+     "source_url": "https://www.openstreetmap.org/node/8180542214",
+     "page": "https://bokenjapan.com/kagawa/marugame/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "sights": [
@@ -2075,8 +3149,8 @@
      "page": "https://bokenjapan.com/kagawa/marugame/stay/"
     },
     {
-     "name": "APA Hotel < Marugame Ekimae Odori >",
-     "name_en": "APA Hotel < Marugame Ekimae Odori >",
+     "name": "APA Hotel (Marugame Ekimae Odori)",
+     "name_en": "APA Hotel (Marugame Ekimae Odori)",
      "name_ja": "アパホテル〈丸亀駅前大通〉",
      "description": "Hotel in Ote, Marugame with a large communal bath.",
      "source_url": "https://www.jalan.net/yad315212/",
@@ -2127,7 +3201,7 @@
     "address": "310 Hyokami, Miki, Kita District, Kagawa 761-0692, Japan",
     "phone": "087-891-3300"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Miki Town Hall",
@@ -2184,6 +3258,14 @@
      "category": "Cafe"
     },
     {
+     "name": "zazu•plantes et cafe",
+     "name_en": "zazu•plantes et cafe",
+     "description": "Cafe in Miki.",
+     "source_url": "https://www.openstreetmap.org/node/4558786502",
+     "page": "https://bokenjapan.com/kagawa/miki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Tsukushi Shokudo",
      "name_en": "Tsukushi Shokudo",
      "name_ja": "つくし食堂",
@@ -2218,6 +3300,24 @@
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37013715/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/european/",
      "category": "European"
+    },
+    {
+     "name": "Izakaya Gatten",
+     "name_en": "Izakaya Gatten",
+     "name_ja": "居酒屋がってん",
+     "description": "Izakaya bar in Miki. Open Mon 11:30-14:00, 17:30-23:00; Wed-Sun 11:30-14:00, 17:30-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/4757639749",
+     "page": "https://bokenjapan.com/kagawa/miki/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Yoshioka",
+     "name_en": "Izakaya Yoshioka",
+     "name_ja": "居酒屋ヨシオカ",
+     "description": "Izakaya bar in Miki. Open Mon-Sat 17:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/4757578424",
+     "page": "https://bokenjapan.com/kagawa/miki/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
     },
     {
      "name": "Takioto",
@@ -2319,6 +3419,42 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Sanuki Udon Samukawa",
+     "name_en": "Sanuki Udon Samukawa",
+     "name_ja": "讃岐うどん 寒川",
+     "description": "Udon restaurant in Miki. Open daily 10:00-14:30.",
+     "source_url": "https://www.openstreetmap.org/node/3387041993",
+     "page": "https://bokenjapan.com/kagawa/miki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Sanuki Udon Tokoro Menkui",
+     "name_en": "Sanuki Udon Tokoro Menkui",
+     "name_ja": "讃岐うどん処 麺喰",
+     "description": "Udon restaurant in Miki.",
+     "source_url": "https://www.openstreetmap.org/way/1455905519",
+     "page": "https://bokenjapan.com/kagawa/miki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Teori Udon Takioto",
+     "name_en": "Teori Udon Takioto",
+     "name_ja": "手織うどん滝音",
+     "description": "Noodle restaurant in Miki.",
+     "source_url": "https://www.openstreetmap.org/node/4554679391",
+     "page": "https://bokenjapan.com/kagawa/miki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Okonomiyaki House RUN",
+     "name_en": "Okonomiyaki House RUN",
+     "name_ja": "お好み焼ハウスRUN",
+     "description": "Japanese restaurant in Miki.",
+     "source_url": "https://www.openstreetmap.org/way/1338790837",
+     "page": "https://bokenjapan.com/kagawa/miki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Umai Sakana To Umai Sake Gatten",
      "name_en": "Umai Sakana To Umai Sake Gatten",
      "name_ja": "美味い魚と旨い酒 がってん",
@@ -2359,6 +3495,14 @@
      "name_en": "neige",
      "description": "Sweets and bakery shop in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37009296/",
+     "page": "https://bokenjapan.com/kagawa/miki/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "BAKE SHOP GERN",
+     "name_en": "BAKE SHOP GERN",
+     "description": "Bakery in Miki.",
+     "source_url": "https://www.openstreetmap.org/node/4562914089",
      "page": "https://bokenjapan.com/kagawa/miki/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -2453,7 +3597,7 @@
     "address": "2373-1 Shimokatsuma, Takase-cho, Mitoyo, Kagawa 767-8585, Japan",
     "phone": "0875-73-3000"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Mitoyo City Hall",
@@ -2488,6 +3632,50 @@
      "name_ja": "海辺の珈琲研究所 豆豆豆",
      "description": "Cafe in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37012832/",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Rupo",
+     "name_en": "Cafe Rupo",
+     "name_ja": "カフェルポ",
+     "description": "Cafe in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/way/1009074885",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Hanahata",
+     "name_en": "Hanahata",
+     "name_ja": "花畑",
+     "description": "Cafe in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/node/7528004054",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "KAKIGORI Cafe Himuro",
+     "name_en": "KAKIGORI Cafe Himuro",
+     "name_ja": "KAKIGORIカフェ ひむろ",
+     "description": "Cafe in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/node/6308388715",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Mitoyo",
+     "name_en": "Cafe in Mitoyo",
+     "name_ja": "シモアサオンデ",
+     "description": "Cafe in Mitoyo. Open daily 09:30-17:00.",
+     "source_url": "https://www.openstreetmap.org/node/9499653317",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Suns the san",
+     "name_en": "Suns the san",
+     "description": "Cafe in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/way/1316038828",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/cafe/",
      "category": "Cafe"
     },
@@ -2528,6 +3716,32 @@
      "category": "Casual"
     },
     {
+     "name": "BAKE STUDIO OKAZAKI",
+     "name_en": "BAKE STUDIO OKAZAKI",
+     "description": "Burger fast-food restaurant in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/way/1316038825",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Tako Han Komae",
+     "name_en": "Tako Han Komae",
+     "name_ja": "たこ判 小前",
+     "description": "Fast-food restaurant in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/node/6308435335",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Chuka Taisho",
+     "name_en": "Chuka Taisho",
+     "name_ja": "中華大将",
+     "description": "Chinese restaurant in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/way/1009074887",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Sun Cafe",
      "name_en": "Sun Cafe",
      "name_ja": "サンカフェ",
@@ -2535,6 +3749,42 @@
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37003373/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/european/",
      "category": "European"
+    },
+    {
+     "name": "Kazaoto",
+     "name_en": "Kazaoto",
+     "name_ja": "風音",
+     "description": "Pizza restaurant in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/way/1009074893",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Italian restaurant in Mitoyo",
+     "name_en": "Italian restaurant in Mitoyo",
+     "name_ja": "パスタハウス アルデンテ",
+     "description": "Italian restaurant in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/way/629151992",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Snack Eiga",
+     "name_en": "Snack Eiga",
+     "name_ja": "スナック榮花",
+     "description": "Izakaya bar in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/way/629151991",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Chacha Shabushabu Suki Yaki",
+     "name_en": "Chacha Shabushabu Suki Yaki",
+     "name_ja": "茶茶 しゃぶしゃぶ すき焼き",
+     "description": "Meat restaurant in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/node/9961088524",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/meat/",
+     "category": "Japanese (meat)"
     },
     {
      "name": "Susaki Shokuryohin",
@@ -2573,8 +3823,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Noodle restaurant in Mitoyo",
-     "name_en": "Noodle restaurant in Mitoyo",
+     "name": "Noodle restaurant in Mitoyo (#5)",
+     "name_en": "Noodle restaurant in Mitoyo (#5)",
      "name_ja": "シラカワ",
      "description": "Noodle restaurant in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37000147/",
@@ -2672,6 +3922,141 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Asa Ramen Hamado",
+     "name_en": "Asa Ramen Hamado",
+     "name_ja": "朝ラーメン 浜堂",
+     "description": "Ramen restaurant in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/node/11665262924",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kogane Seimen",
+     "name_en": "Kogane Seimen",
+     "name_ja": "こがね製麺",
+     "description": "Noodle restaurant in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/way/1009074889",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ono Udon",
+     "name_en": "Ono Udon",
+     "name_ja": "小野うどん",
+     "description": "Noodle restaurant in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/way/543866635",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Sanuki Ramen Hamando",
+     "name_en": "Sanuki Ramen Hamando",
+     "name_ja": "讃岐ラーメン はまんど",
+     "description": "Ramen restaurant in Mino Machi, Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/way/1164671637",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Serufu Sanuki Udon",
+     "name_en": "Serufu Sanuki Udon",
+     "name_ja": "セルフ 讃岐うどん",
+     "description": "Udon restaurant in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/node/9501882019",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Noodle restaurant in Mitoyo (#2)",
+     "name_en": "Noodle restaurant in Mitoyo (#2)",
+     "name_ja": "手打ちうどん 喰回",
+     "description": "Noodle restaurant in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/node/11665985747",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon restaurant in Mitoyo",
+     "name_en": "Udon restaurant in Mitoyo",
+     "name_ja": "手打ちうどん渡辺",
+     "description": "Udon restaurant in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/way/634226666",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Restaurant in Mitoyo",
+     "name_en": "Restaurant in Mitoyo",
+     "name_ja": "ジラフ",
+     "description": "Restaurant in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/way/621256358",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kocho Ran",
+     "name_en": "Kocho Ran",
+     "name_ja": "胡蝶蘭",
+     "description": "Restaurant in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/way/633667645",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Omori Shoten",
+     "name_en": "Omori Shoten",
+     "name_ja": "大森商店",
+     "description": "Restaurant in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/node/9501775017",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Sanuki Tei",
+     "name_en": "Sanuki Tei",
+     "name_ja": "讃岐亭",
+     "description": "Restaurant in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/way/543866636",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Zeniya",
+     "name_en": "Zeniya",
+     "name_ja": "ぜにや",
+     "description": "Restaurant in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/node/9499645417",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Awaroha Shokudo",
+     "name_en": "Awaroha Shokudo",
+     "name_ja": "あわろは食堂",
+     "description": "Japanese restaurant in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/node/13255493483",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "takuma ebisu",
+     "name_en": "takuma ebisu",
+     "name_ja": "たくまえびす",
+     "description": "Japanese restaurant in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/node/9497405817",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Sushi Koma",
+     "name_en": "Sushi Koma",
+     "name_ja": "鮨駒",
+     "description": "Sushi restaurant in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/way/629048316",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "DOUGHNUT-HOLIC",
      "name_en": "Doughnut-Holic",
      "description": "Sweets and bakery shop in Mitoyo, Kagawa.",
@@ -2685,6 +4070,50 @@
      "name_ja": "名物 鳥坂まんじゅう",
      "description": "Sweets and bakery shop in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000204/",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Cafe de flots",
+     "name_en": "Cafe de flots",
+     "description": "Cake cafe in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/node/5781640653",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Pastry shop in Mitoyo",
+     "name_en": "Pastry shop in Mitoyo",
+     "name_ja": "PASSドーナッツ",
+     "description": "Pastry shop in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/node/9491398097",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets shop in Mitoyo",
+     "name_en": "Sweets shop in Mitoyo",
+     "name_ja": "篠原菓子舗",
+     "description": "Sweets shop in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/node/9499593117",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Tennen Kobo Pan Tokotoko",
+     "name_en": "Tennen Kobo Pan Tokotoko",
+     "name_ja": "天然こうぼパンとことこ",
+     "description": "Bakery in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/way/629200945",
+     "page": "https://bokenjapan.com/kagawa/mitoyo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Torisaka Manju",
+     "name_en": "Torisaka Manju",
+     "name_ja": "鳥坂まんじゅう",
+     "description": "Pastry shop in Mitoyo.",
+     "source_url": "https://www.openstreetmap.org/node/9491424928",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -3091,7 +4520,7 @@
      "page": "https://bokenjapan.com/kagawa/naoshima/see/"
     },
     {
-     "name": "Benessehausu Museum",
+     "name": "Benesse House Museum",
      "description": "Museum in Naoshima, Kagawa.",
      "source_url": "https://naoshima.net/",
      "page": "https://bokenjapan.com/kagawa/naoshima/see/"
@@ -3103,13 +4532,13 @@
      "page": "https://bokenjapan.com/kagawa/naoshima/see/"
     },
     {
-     "name": "Naoshima Pavirion",
+     "name": "Naoshima Pavilion",
      "description": "Sightseeing spot in Naoshima, Kagawa.",
      "source_url": "https://naoshima.net/",
      "page": "https://bokenjapan.com/kagawa/naoshima/see/"
     },
     {
-     "name": "Ie Purojiekuto Go Shrine",
+     "name": "Art House Project Go'o Shrine",
      "description": "Shrine in Naoshima, Kagawa.",
      "source_url": "https://naoshima.net/",
      "page": "https://bokenjapan.com/kagawa/naoshima/see/"
@@ -3199,7 +4628,7 @@
     "address": "2-3-5 Muromachi, Sakaide, Kagawa 762-8601, Japan",
     "phone": "0877-46-3111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Sakaide City Hall",
@@ -3247,11 +4676,64 @@
      "category": "Cafe"
     },
     {
+     "name": "cafe Shiori",
+     "name_en": "cafe Shiori",
+     "name_ja": "cafe栞",
+     "description": "Cafe in Sakaide. Open daily 08:00-18:00; closed Sun.",
+     "source_url": "https://www.openstreetmap.org/node/5852839505",
+     "page": "https://bokenjapan.com/kagawa/sakaide/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "cafe space Clipper Club",
+     "name_en": "cafe space Clipper Club",
+     "description": "Cafe in Sakaide. Open daily 09:30-19:00; closed Fri.",
+     "source_url": "https://clipper-club.jimdo.com/",
+     "page": "https://bokenjapan.com/kagawa/sakaide/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Sakaide (#3)",
+     "name_en": "Cafe in Sakaide (#3)",
+     "name_ja": "ゴッシ",
+     "description": "Cafe in Sakaide.",
+     "source_url": "https://www.openstreetmap.org/node/11079621006",
+     "page": "https://bokenjapan.com/kagawa/sakaide/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Tea room Raimu",
+     "name_en": "Tea room Raimu",
+     "name_ja": "Tea room ライム",
+     "description": "Cafe in Sakaide.",
+     "source_url": "https://www.openstreetmap.org/node/2323456861",
+     "page": "https://bokenjapan.com/kagawa/sakaide/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Casual restaurant in Sakaide",
      "name_en": "Casual restaurant in Sakaide",
      "name_ja": "与島PAフードコート",
      "description": "Casual restaurant in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37000791/",
+     "page": "https://bokenjapan.com/kagawa/sakaide/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Yoshinoya",
+     "name_en": "Yoshinoya",
+     "name_ja": "吉野家",
+     "description": "Fast-food restaurant in Sakaide. Open 24 hours, every day.",
+     "source_url": "https://www.yoshinoya.com/",
+     "page": "https://bokenjapan.com/kagawa/sakaide/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Gamo",
+     "name_en": "Gamo",
+     "name_ja": "がもう",
+     "description": "Fast-food restaurant in Sakaide.",
+     "source_url": "https://www.openstreetmap.org/node/2716443288",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/casual/",
      "category": "Casual"
     },
@@ -3265,6 +4747,24 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Dai",
+     "name_en": "Dai",
+     "name_ja": "大珉",
+     "description": "Chinese restaurant in Sakaide.",
+     "source_url": "https://www.openstreetmap.org/way/683825385",
+     "page": "https://bokenjapan.com/kagawa/sakaide/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Omori",
+     "name_en": "Omori",
+     "name_ja": "大盛",
+     "description": "Chinese restaurant in Sakaide.",
+     "source_url": "https://www.openstreetmap.org/node/11941955028",
+     "page": "https://bokenjapan.com/kagawa/sakaide/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Curry restaurant in Sakaide",
      "name_en": "Curry restaurant in Sakaide",
      "name_ja": "ベンガル亭",
@@ -3272,6 +4772,15 @@
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37002991/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/curry/",
      "category": "Curry"
+    },
+    {
+     "name": "Joyfull",
+     "name_en": "Joyfull",
+     "name_ja": "ジョイフル",
+     "description": "Western-style restaurant in Komatome Machi, Sakaide. Open 24 hours, every day.",
+     "source_url": "https://www.joyfull.co.jp/shop/archives/1207",
+     "page": "https://bokenjapan.com/kagawa/sakaide/eat/european/",
+     "category": "European"
     },
     {
      "name": "Meat restaurant in Sakaide",
@@ -3409,11 +4918,56 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Gamo Udon",
+     "name_en": "Gamo Udon",
+     "name_ja": "がもううどん",
+     "description": "Noodle restaurant in Sakaide.",
+     "source_url": "https://www.openstreetmap.org/way/1052590763",
+     "page": "https://bokenjapan.com/kagawa/sakaide/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kodawari Menya",
+     "name_en": "Kodawari Menya",
+     "name_ja": "こだわり麺や",
+     "description": "Udon restaurant in Sakaide.",
+     "source_url": "https://www.openstreetmap.org/node/12192812603",
+     "page": "https://bokenjapan.com/kagawa/sakaide/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Sanuki Udon Yanagiya",
+     "name_en": "Sanuki Udon Yanagiya",
+     "name_ja": "讃岐うどん やなぎ屋",
+     "description": "Noodle restaurant in Sakaide.",
+     "source_url": "https://www.openstreetmap.org/way/380199381",
+     "page": "https://bokenjapan.com/kagawa/sakaide/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Noodle restaurant in Sakaide",
+     "name_en": "Noodle restaurant in Sakaide",
+     "name_ja": "手打ちそば まえかわ",
+     "description": "Noodle restaurant in Sakaide.",
+     "source_url": "https://www.openstreetmap.org/way/683825382",
+     "page": "https://bokenjapan.com/kagawa/sakaide/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Restaurant Komeya",
      "name_en": "Restaurant Komeya",
      "name_ja": "食事処こめや",
      "description": "Japanese restaurant in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37003961/",
+     "page": "https://bokenjapan.com/kagawa/sakaide/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Oshokujidokoro Hisago",
+     "name_en": "Oshokujidokoro Hisago",
+     "name_ja": "お食事処ひさご",
+     "description": "Japanese restaurant in Sakaide.",
+     "source_url": "https://www.openstreetmap.org/way/684493965",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -3434,6 +4988,24 @@
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37000923/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Meibutsu Kamado",
+     "name_en": "Meibutsu Kamado",
+     "name_ja": "名物かまど",
+     "description": "Sweets shop in Sakaide. Open daily 09:00-19:00.",
+     "source_url": "https://kamado.co.jp/",
+     "page": "https://bokenjapan.com/kagawa/sakaide/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Pon Kashi Senju",
+     "name_en": "Pon Kashi Senju",
+     "name_ja": "ポン菓子 千住",
+     "description": "Sweets shop in Sakaide.",
+     "source_url": "https://www.openstreetmap.org/way/217634937",
+     "page": "https://bokenjapan.com/kagawa/sakaide/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "sights": [
@@ -3450,7 +5022,7 @@
      "page": "https://bokenjapan.com/kagawa/sakaide/see/"
     },
     {
-     "name": "Setoohashi Tawa",
+     "name": "Seto Ohashi Tower",
      "description": "Sightseeing spot in Sakaide, Kagawa.",
      "source_url": "https://sakaide-kankou.com/",
      "page": "https://bokenjapan.com/kagawa/sakaide/see/"
@@ -3598,7 +5170,7 @@
     "address": "5385-8 Shido, Sanuki, Kagawa 769-2195, Japan",
     "phone": "087-894-1111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Sanuki City Hall",
@@ -3628,6 +5200,32 @@
      "category": "Cafe"
     },
     {
+     "name": "cafe Chakura",
+     "name_en": "cafe Chakura",
+     "name_ja": "cafe 茶蔵",
+     "description": "Cafe in Sanuki.",
+     "source_url": "https://www.openstreetmap.org/node/10536645546",
+     "page": "https://bokenjapan.com/kagawa/sanuki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "CHOCOLAT CHOCOLAT Coffee",
+     "name_en": "CHOCOLAT CHOCOLAT Coffee",
+     "description": "Cafe in Sanuki.",
+     "source_url": "https://www.openstreetmap.org/way/1130590771",
+     "page": "https://bokenjapan.com/kagawa/sanuki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kechigan no Sato",
+     "name_en": "Kechigan no Sato",
+     "name_ja": "結願の郷",
+     "description": "Cafe in Sanuki.",
+     "source_url": "https://www.openstreetmap.org/node/1423735559",
+     "page": "https://bokenjapan.com/kagawa/sanuki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Okawa Oasis",
      "name_en": "Okawa Oasis",
      "name_ja": "大川オアシス",
@@ -3653,6 +5251,31 @@
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37005028/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/chinese-asian/",
      "category": "Chinese & Asian"
+    },
+    {
+     "name": "HAGI",
+     "name_en": "HAGI",
+     "description": "Curry restaurant in Sanuki.",
+     "source_url": "https://www.openstreetmap.org/way/993375197",
+     "page": "https://bokenjapan.com/kagawa/sanuki/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "PORTO PIZZA",
+     "name_en": "PORTO PIZZA",
+     "description": "Pizza restaurant in Sanuki.",
+     "source_url": "https://www.openstreetmap.org/way/993312361",
+     "page": "https://bokenjapan.com/kagawa/sanuki/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Barbecue restaurant in Sanuki",
+     "name_en": "Barbecue restaurant in Sanuki",
+     "name_ja": "鶏肉専門店 とり義",
+     "description": "Barbecue restaurant in Sanuki.",
+     "source_url": "https://www.openstreetmap.org/way/992466757",
+     "page": "https://bokenjapan.com/kagawa/sanuki/eat/meat/",
+     "category": "Japanese (meat)"
     },
     {
      "name": "Teuchi Udon Gennai",
@@ -3808,6 +5431,60 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Aka Yaki Murata",
+     "name_en": "Aka Yaki Murata",
+     "name_ja": "明石焼き むらた",
+     "description": "Noodle restaurant in Sanuki.",
+     "source_url": "https://www.openstreetmap.org/node/2027665303",
+     "page": "https://bokenjapan.com/kagawa/sanuki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Osoba Nochidori",
+     "name_en": "Osoba Nochidori",
+     "name_ja": "おそばのちどり",
+     "description": "Noodle restaurant in Sanuki.",
+     "source_url": "https://www.openstreetmap.org/node/10303877705",
+     "page": "https://bokenjapan.com/kagawa/sanuki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon Fujisan",
+     "name_en": "Udon Fujisan",
+     "name_ja": "うどん 富士山",
+     "description": "Noodle restaurant in Sanuki.",
+     "source_url": "https://www.openstreetmap.org/node/10536645433",
+     "page": "https://bokenjapan.com/kagawa/sanuki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Wabi Hidden Village Creative Cuisine",
+     "name_en": "Wabi Hidden Village Creative Cuisine",
+     "name_ja": "創作料理 かくれ里 侘",
+     "description": "Restaurant in Sanuki. Open Tue-Sun 11:30-14:00, 17:00-20:00.",
+     "source_url": "https://www.openstreetmap.org/node/4776321505",
+     "page": "https://bokenjapan.com/kagawa/sanuki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Fujiya Hisashishi",
+     "name_en": "Fujiya Hisashishi",
+     "name_ja": "富士屋寿し",
+     "description": "Japanese restaurant in Sanuki.",
+     "source_url": "https://www.openstreetmap.org/node/10593663355",
+     "page": "https://bokenjapan.com/kagawa/sanuki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Mamechan",
+     "name_en": "Mamechan",
+     "name_ja": "まめちゃん",
+     "description": "Japanese restaurant in Sanuki.",
+     "source_url": "https://www.openstreetmap.org/node/10303887515",
+     "page": "https://bokenjapan.com/kagawa/sanuki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Kaki Yaki Watanabe",
      "name_en": "Kaki Yaki Watanabe",
      "name_ja": "かき焼き わたなべ",
@@ -3826,11 +5503,46 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Han Kane Sushi",
+     "name_en": "Han Kane Sushi",
+     "name_ja": "半かね寿司",
+     "description": "Sushi restaurant in Sanuki.",
+     "source_url": "https://www.openstreetmap.org/node/10542270062",
+     "page": "https://bokenjapan.com/kagawa/sanuki/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Neko Umi Restaurant",
+     "name_en": "Neko Umi Restaurant",
+     "name_ja": "ねこ海レストラン",
+     "description": "Seafood restaurant in Sanuki.",
+     "source_url": "https://www.openstreetmap.org/way/1147250115",
+     "page": "https://bokenjapan.com/kagawa/sanuki/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Tsuda no Matsubara Service Area Nobori Sen Snack Corner",
      "name_en": "Tsuda no Matsubara Service Area Nobori Sen Snack Corner",
      "name_ja": "津田の松原サービスエリア（上り線） スナックコーナー",
      "description": "Sweets and bakery shop in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37006600/",
+     "page": "https://bokenjapan.com/kagawa/sanuki/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets shop in Sanuki",
+     "name_en": "Sweets shop in Sanuki",
+     "name_ja": "ハタダ栗タルト",
+     "description": "Sweets shop in Sanuki.",
+     "source_url": "https://www.openstreetmap.org/node/2007953354",
+     "page": "https://bokenjapan.com/kagawa/sanuki/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "NICO by ALIA",
+     "name_en": "NICO by ALIA",
+     "description": "Sweets shop in Sanuki.",
+     "source_url": "https://www.openstreetmap.org/way/998959806",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -4054,8 +5766,8 @@
      "category": "Casual"
     },
     {
-     "name": "Cafe Resuto Sakurai",
-     "name_en": "Cafe Resuto Sakurai",
+     "name": "Cafe Resto Sakurai",
+     "name_en": "Cafe Resto Sakurai",
      "name_ja": "カフェレスト サクラヰ",
      "description": "Casual restaurant in Shodoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37010490/",
@@ -4338,7 +6050,7 @@
     "address": "3-3-95 Sakae-cho, Tadotsu, Nakatado District, Kagawa 764-8501, Japan",
     "phone": "0877-33-1110"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Tadotsu Town Hall",
@@ -4382,6 +6094,23 @@
      "name_ja": "cafe 風車の丘",
      "description": "Cafe in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37005690/",
+     "page": "https://bokenjapan.com/kagawa/tadotsu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Tadotsu",
+     "name_en": "Cafe in Tadotsu",
+     "name_ja": "藝術喫茶 大井温泉",
+     "description": "Cafe in Tadotsu. Open Thu-Mon 11:00-18:00.",
+     "source_url": "https://artcafe-shimizuonsen.com/shimizu/",
+     "page": "https://bokenjapan.com/kagawa/tadotsu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Tetsugakuya",
+     "name_en": "Tetsugakuya",
+     "description": "Cafe in Tadotsu. Open Mon, Sun 14:00-19:00.",
+     "source_url": "https://www.tetugakuya.net",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/cafe/",
      "category": "Cafe"
     },
@@ -4539,6 +6268,15 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Noodle restaurant in Tadotsu (#4)",
+     "name_en": "Noodle restaurant in Tadotsu (#4)",
+     "name_ja": "札幌ラーメンどさん子 多度津店",
+     "description": "Noodle restaurant in Tadotsu.",
+     "source_url": "https://www.openstreetmap.org/way/663182230",
+     "page": "https://bokenjapan.com/kagawa/tadotsu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Warung Buddha",
      "name_en": "Warung Buddha",
      "description": "Restaurant in Tadotsu, Kagawa.",
@@ -4570,6 +6308,15 @@
      "name_ja": "海食処 笑門家",
      "description": "Seafood restaurant in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37003262/",
+     "page": "https://bokenjapan.com/kagawa/tadotsu/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Umaimon Hama Kaido",
+     "name_en": "Umaimon Hama Kaido",
+     "name_ja": "うまいもん浜街道",
+     "description": "Sushi and sashimi restaurant in Horie, Tadotsu.",
+     "source_url": "https://www.openstreetmap.org/way/545248980",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/seafood/",
      "category": "Japanese (seafood)"
     }
@@ -4658,7 +6405,7 @@
     "address": "1-8-15 Bancho, Takamatsu, Kagawa 760-8571, Japan",
     "phone": "087-839-2011"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Takamatsu City Hall",
@@ -4680,6 +6427,242 @@
    ],
    "food": [
     {
+     "name": "Damonte Shokai",
+     "name_en": "Damonte Shokai",
+     "name_ja": "ダモンテ商会",
+     "description": "Cafe in Takamatsu.",
+     "source_url": "https://damonte.co/",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Lima Coffee Roasters",
+     "name_en": "Lima Coffee Roasters",
+     "description": "Tea cafe in Kawaracho Nichome, Takamatsu. Open daily 09:00-18:00.",
+     "source_url": "http://limacoffee.jp",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "NORTHSHORE Cafe & Dining",
+     "name_en": "NORTHSHORE Cafe & Dining",
+     "description": "Cafe in Takamatsu. Open Mon-Fri 08:00-19:00; Sat-Sun 07:00-19:00.",
+     "source_url": "http://northshore-hanafru.com",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "book cafe Solow",
+     "name_en": "book cafe Solow",
+     "description": "Cafe in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/4322415250",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Rodan",
+     "name_en": "Cafe Rodan",
+     "description": "Tea cafe in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/5781640753",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kitchen Style Rocket Café",
+     "name_en": "Kitchen Style Rocket Cafe",
+     "description": "Japanese cafe in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/2302029871",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kona's Coffee Hawaiian Pancake Cafe",
+     "name_en": "Kona's Coffee Hawaiian Pancake Cafe",
+     "name_ja": "コナズ珈琲",
+     "description": "Cafe in Shitsu Shimmachi, Takamatsu. Open Mon-Fri 10:00-22:00; Sat-Sun 09:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/way/1312627914",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Rawstyle Cafe Verita",
+     "name_en": "Rawstyle Cafe Verita",
+     "description": "Cafe in Takamatsu. Open Mon, Wed-Sun 11:00-15:00.",
+     "source_url": "https://www.openstreetmap.org/node/4861329937",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Starbucks",
+     "name_en": "Starbucks",
+     "description": "Cafe in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/4716243758",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Tofuya Ukawa",
+     "name_en": "Tofuya Ukawa",
+     "name_ja": "とうふ屋うかわ",
+     "description": "Japanese cafe in Takamatsu. Open Mon-Sat 09:00-19:00.",
+     "source_url": "https://www.openstreetmap.org/node/4861282506",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "BAKER MR.So ＆ so",
+     "name_en": "BAKER MR.So & so",
+     "description": "Fast-food restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/4079430401",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Sandwich restaurant in Takamatsu",
+     "name_en": "Sandwich restaurant in Takamatsu",
+     "name_ja": "バインミーゴンゴン",
+     "description": "Sandwich restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/10307929251",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "MARUCHA",
+     "name_en": "MARUCHA",
+     "description": "Fast-food restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/10292821100",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "VIE ORNE",
+     "name_en": "VIE ORNE",
+     "name_ja": "ビオルネ",
+     "description": "Fast-food restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/7900070525",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Chinese restaurant in Takamatsu",
+     "name_en": "Chinese restaurant in Takamatsu",
+     "name_ja": "中国料理揚州",
+     "description": "Chinese restaurant in Kameicho, Takamatsu. Open Mon-Sat 11:00-14:00, 17:00-22:00.",
+     "source_url": "https://yosyu.owst.jp/",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Bamiyan",
+     "name_en": "Bamiyan",
+     "description": "Chinese restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/9494933796",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Beijing Chinese Restaurant",
+     "name_en": "Beijing Chinese Restaurant",
+     "description": "Chinese restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/1488530682",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "ICHIBAN",
+     "name_en": "ICHIBAN",
+     "description": "Chinese restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/10296210500",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Isuiken",
+     "name_en": "Isuiken",
+     "name_ja": "倚水軒",
+     "description": "Chinese restaurant in Joto Machi, Takamatsu. Open daily 11:00-14:30, 17:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/8071098406",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Korean restaurant in Takamatsu",
+     "name_en": "Korean restaurant in Takamatsu",
+     "name_ja": "マダン",
+     "description": "Korean restaurant in Takamatsu. Open Mon-Sat 17:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/10933733327",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Curry restaurant in Takamatsu (#2)",
+     "name_en": "Curry restaurant in Takamatsu (#2)",
+     "name_ja": "CURRY HOUSE CoCo 壱番屋",
+     "description": "Curry restaurant in Takamatsu. Open daily 09:00-23:30.",
+     "source_url": "https://www.ichibanya.co.jp/",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Curry restaurant in Takamatsu (#1)",
+     "name_en": "Curry restaurant in Takamatsu (#1)",
+     "name_ja": "鍬と本",
+     "description": "Curry restaurant in Takamatsu.",
+     "source_url": "https://hoe-book.com/",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Chishiti",
+     "name_en": "Chishiti Pakistan Indian Curry",
+     "description": "Indian restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/4782252125",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Curry restaurant in Takamatsu (#3)",
+     "name_en": "Curry restaurant in Takamatsu (#3)",
+     "name_ja": "カレー屋さんキリン堂",
+     "description": "Curry restaurant in Takamatsu. Open Mon-Fri 10:30-14:30; Sat-Sun 10:30-20:00.",
+     "source_url": "https://www.openstreetmap.org/node/11050382563",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Green India",
+     "name_en": "Green India",
+     "description": "Indian restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/12964097494",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Red chilli",
+     "name_en": "Red chilli",
+     "description": "Indian and curry restaurant in Takamatsu. Open daily 11:00-15:00, 17:00-22:00; closed Tue.",
+     "source_url": "https://www.openstreetmap.org/node/14172716361",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Tantan Indian",
+     "name_en": "Tantan Indian",
+     "description": "Indian restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/1489472535",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Thali Spice",
+     "name_en": "Thali Spice",
+     "name_ja": "タリーすぱいす",
+     "description": "Indian restaurant in Takamatsu. Open daily 11:00-15:00, 17:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/11050382565",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/curry/",
+     "category": "Curry"
+    },
+    {
      "name": "Ryobo",
      "name_en": "Ryobo",
      "name_ja": "両忘",
@@ -4687,6 +6670,115 @@
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37008167/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/european/",
      "category": "European"
+    },
+    {
+     "name": "MIKAYLA",
+     "name_en": "MIKAYLA",
+     "description": "Italian restaurant in Takamatsu. Open daily 11:00-22:00.",
+     "source_url": "https://www.clubmikayla.com/main/",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Pizza Hut",
+     "name_en": "Pizza Hut",
+     "name_ja": "ピザハット",
+     "description": "Pizza restaurant in Takamatsu. Open daily 11:00-23:00.",
+     "source_url": "https://www.pizzahut.jp/huts/2086",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Al Vecchio Duomo",
+     "name_en": "Al Vecchio Duomo",
+     "description": "Pizza restaurant in Takamatsu. Open Wed-Sun 17:00-24:00; Mon 17:00-01:00.",
+     "source_url": "https://www.openstreetmap.org/node/4717324867",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Ariosto",
+     "name_en": "Ariosto",
+     "description": "Italian restaurant in Hyogo Machi, Takamatsu. Open daily 11:00-14:30, 17:00-20:00.",
+     "source_url": "https://www.openstreetmap.org/node/1489467852",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "BAR MAR Espana",
+     "name_en": "Bar Mar Espana",
+     "description": "Spanish bar in Takamatsu. Open daily 17:00-00:30.",
+     "source_url": "https://www.openstreetmap.org/node/6968645187",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Dear",
+     "name_en": "Dear",
+     "description": "Italian restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/10308429599",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Infinity",
+     "name_en": "Infinity",
+     "description": "Italian restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/10310735551",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Omachi Pizza",
+     "name_en": "Omachi Pizza",
+     "description": "Pizza restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/12964097493",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Hansora",
+     "name_en": "Hansora",
+     "name_ja": "半空",
+     "description": "Pub in Takamatsu. Open daily 13:00-03:00.",
+     "source_url": "https://www.nakazora.jp/nakazora/",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Irish Pub The Craic",
+     "name_en": "Irish Pub The Craic",
+     "description": "Pub in Takamatsu. Open Tue-Sat 18:00-00:00; Sun 15:00-23:00.",
+     "source_url": "https://www.irishpubthecraic.biz/",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Salute",
+     "name_en": "Salute",
+     "name_ja": "イタ飯酒場 サルーテ",
+     "description": "Izakaya bar in Takamatsu. Open Mon-Sat 17:00-23:00.",
+     "source_url": "https://salute-salute.gorp.jp",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Grilled Beef Koran",
+     "name_en": "Grilled Beef Koran",
+     "name_ja": "焼肉香蘭",
+     "description": "Yakiniku restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/10296530863",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Kurefuku",
+     "name_en": "Kurefuku",
+     "name_ja": "焼肉くれ福",
+     "description": "Yakiniku restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/10289518963",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/meat/",
+     "category": "Japanese (meat)"
     },
     {
      "name": "Oudon Setobare",
@@ -4869,11 +6961,280 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Azuma Udon",
+     "name_en": "Azuma Udon",
+     "name_ja": "あづまうどん",
+     "description": "Udon restaurant in Takamatsu. Open Thu-Tue 11:00-14:00.",
+     "source_url": "http://azumaudon.com",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Merikenya",
+     "name_en": "Merikenya",
+     "name_ja": "めりけんや",
+     "description": "Noodle and udon restaurant in Takamatsu. Open daily 07:00-20:00.",
+     "source_url": "https://merikenya.com/",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Gains Yatsu",
+     "name_en": "Gains Yatsu",
+     "description": "Noodle restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/10296210485",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "GO-KAMI",
+     "name_en": "GO-KAMI",
+     "description": "Ramen restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/10889128830",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Masaya",
+     "name_en": "Masaya",
+     "description": "Noodle restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/10296210477",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Mokuran",
+     "name_en": "Mokuran",
+     "description": "Noodle restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/10296899411",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Tatsu",
+     "name_en": "Ramen Tatsu",
+     "name_ja": "らーめん燵",
+     "description": "Ramen restaurant in Takamatsu. Open daily 11:00-14:00, 17:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/4827090011",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Sanuki Udon HANAMARU",
+     "name_en": "Sanuki Udon HANAMARU",
+     "description": "Udon restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/7354891331",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Shinpei Udon",
+     "name_en": "Shinpei Udon",
+     "name_ja": "しんぺいうどん",
+     "description": "Udon restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/4758834722",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tenkaippin",
+     "name_en": "Tenkaippin",
+     "name_ja": "天下一品",
+     "description": "Ramen restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/2339277021",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon Kurodaya",
+     "name_en": "Udon Kurodaya",
+     "name_ja": "うどん黒田屋",
+     "description": "Udon restaurant in Takamatsu. Open Mon-Sat 10:30-05:00; Sun 10:30-00:00.",
+     "source_url": "https://www.openstreetmap.org/node/4757654259",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "WATAYA",
+     "name_en": "WATAYA",
+     "name_ja": "麺処 綿谷",
+     "description": "Noodle restaurant in Takamatsu. Open daily 08:30-14:00; closed Sun, public holidays.",
+     "source_url": "https://www.openstreetmap.org/node/10292821091",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ryukyu Goten",
+     "name_en": "Ryukyu Goten",
+     "name_ja": "琉球御殿",
+     "description": "Restaurant in Takamatsu. Open daily 00:00-01:00, 18:00-24:00.",
+     "source_url": "https://ryukyu-goten.com/",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Samba Chikara",
+     "name_en": "Samba Chikara",
+     "name_ja": "三馬力",
+     "description": "Restaurant in Takamatsu.",
+     "source_url": "https://sannbarikitahiten.owst.jp",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Takamatsu",
+     "name_en": "Restaurant in Takamatsu",
+     "name_ja": "象と太陽社",
+     "description": "Restaurant in Takamatsu.",
+     "source_url": "https://elephant-sun.com/",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Farm to kitchen Noya",
+     "name_en": "Farm to kitchen Noya",
+     "name_ja": "Farm to kitchen 納屋",
+     "description": "Restaurant in Takamatsu. Open Thu-Sun 11:00-17:00; closed Mon-Wed.",
+     "source_url": "https://www.openstreetmap.org/node/11984375233",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Spacca Napoli",
+     "name_en": "Spacca Napoli",
+     "name_ja": "スパッカ ナポリ",
+     "description": "Restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/4563048690",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Koryori Yarn",
      "name_en": "Koryori Yarn",
      "name_ja": "小料理 Yarn",
      "description": "Japanese restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37011843/",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Oyasai Shokudo SOHSOH",
+     "name_en": "Oyasai Shokudo SOHSOH",
+     "name_ja": "お野菜食堂SOHSOH",
+     "description": "Japanese restaurant in Takamatsu.",
+     "source_url": "https://sohsoh-takamatsu.owst.jp",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shikasui Iori",
+     "name_en": "Shikasui Iori",
+     "name_ja": "鹿酔庵",
+     "description": "Japanese restaurant in Takamatsu.",
+     "source_url": "https://rokusuian.com/",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Hanafusa",
+     "name_en": "Hanafusa",
+     "name_ja": "英",
+     "description": "Japanese restaurant in Sanjocho, Takamatsu. Open Tue-Fri 17:00-24:00; Sun, public holidays 17:00-23:30; closed Mon.",
+     "source_url": "https://hanafusa-sanzyo.gorp.jp/",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kurando",
+     "name_en": "Kurando",
+     "name_ja": "蔵人",
+     "description": "Japanese restaurant in Sanjocho, Takamatsu.",
+     "source_url": "http://kurando-tak.com/",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kineya",
+     "name_en": "Kineya",
+     "name_ja": "杵屋",
+     "description": "Japanese restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/8296989696",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kouraku",
+     "name_en": "Kouraku",
+     "description": "Japanese restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/10296210488",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Magomi",
+     "name_en": "Magomi",
+     "description": "Japanese restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/10296210502",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Matsuya",
+     "name_en": "Matsuya",
+     "description": "Japanese restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/10300024611",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "North Point",
+     "name_en": "North Point",
+     "description": "Japanese restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/10296210486",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Takosan",
+     "name_en": "Takosan",
+     "name_ja": "刺身一品料理 たこ讃",
+     "description": "Japanese restaurant in Takamatsu. Open Mon-Sat 17:00-01:00; Sun 17:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/6401564585",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Tankai",
+     "name_en": "Tankai",
+     "name_ja": "淡海",
+     "description": "Japanese restaurant in Takamatsu. Open Mon 11:00-15:00, 17:00-22:00; Wed-Fri 11:00-15:00, 17:00-22:00; Sat-Sun 11:00-15:00, 16:30-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/4762022322",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Teppanyaki Kakashi",
+     "name_en": "Teppanyaki Kakashi",
+     "name_ja": "鉄板焼 かかし",
+     "description": "Japanese restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/4753060681",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "TORIBAKO514",
+     "name_en": "TORIBAKO514",
+     "description": "Japanese restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/10296210489",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Tsukemen shop",
+     "name_en": "Tsukemen shop",
+     "name_ja": "麺鮮醤油房 周月",
+     "description": "Japanese restaurant in Takamatsu. Open Mon-Sat 11:00-01:30.",
+     "source_url": "https://www.openstreetmap.org/node/5781640953",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -4894,6 +7255,41 @@
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37000358/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/seafood/",
      "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kura Sushi",
+     "name_en": "Kura Sushi",
+     "name_ja": "くら寿司 高松松島店",
+     "description": "Sushi restaurant in Takamatsu. Open daily 11:00-23:00.",
+     "source_url": "https://shop.kurasushi.co.jp/detail/371",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Takao Monakadane Shoten",
+     "name_en": "Takao Monakadane Shoten",
+     "name_ja": "髙尾最中種商店",
+     "description": "Sweets shop in Sanjocho, Takamatsu.",
+     "source_url": "https://takaomonaka.com/",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets shop in Takamatsu",
+     "name_en": "Sweets shop in Takamatsu",
+     "name_ja": "アニーズクレープ",
+     "description": "Sweets shop in Takamatsu.",
+     "source_url": "https://www.donki.com/store/shop_tenant.php?shop_id=104&amp;tenant_id=2556",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "CREPE DE GIRAFE",
+     "name_en": "CREPE DE GIRAFE",
+     "description": "Crepe restaurant in Takamatsu.",
+     "source_url": "https://www.openstreetmap.org/node/10292821111",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "sights": [
@@ -5016,6 +7412,69 @@
      "name_ja": "さぬきの湯 ドーミーイン高松",
      "description": "Inn in Kawara, Takamatsu with a sauna and a large communal bath.",
      "source_url": "https://www.ikyu.com/00080475/",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/stay/"
+    },
+    {
+     "name": "Dormy Inn Takamatsuchuokoenmae",
+     "name_en": "Dormy Inn Takamatsuchuokoenmae",
+     "name_ja": "ドーミーイン高松中央公園前",
+     "description": "Hotel in Takamatsu (Tenjin Mae).",
+     "source_url": "https://www.hotespa.net/hotels/chuotakamatsu/",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/stay/"
+    },
+    {
+     "name": "Hotel in Takamatsu",
+     "name_en": "Hotel in Takamatsu",
+     "name_ja": "WeBase 高松",
+     "description": "Hotel in Takamatsu.",
+     "source_url": "https://we-base.jp/takamatsu/",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/stay/"
+    },
+    {
+     "name": "The Celecton Takamatsu",
+     "name_en": "The Celecton Takamatsu",
+     "name_ja": "ザ・セレクトン高松",
+     "description": "Hotel in Takamatsu.",
+     "source_url": "https://celecton.com/takamatsu/",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/stay/"
+    },
+    {
+     "name": "Hotel Wing International Takamatsu",
+     "name_en": "Hotel Wing International Takamatsu",
+     "name_ja": "ホテルウィングインターナショナル高松",
+     "description": "Hotel in Takamatsu.",
+     "source_url": "https://www.hotelwing.co.jp/takamatsu/",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/stay/"
+    },
+    {
+     "name": "TEN to SEN",
+     "name_en": "TEN to SEN",
+     "description": "Hostel in Takamatsu.",
+     "source_url": "https://tentosen.jp/",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/stay/"
+    },
+    {
+     "name": "Hostel in Takamatsu",
+     "name_en": "Hostel in Takamatsu",
+     "name_ja": "コトリ",
+     "description": "Hostel in Takamatsu.",
+     "source_url": "https://www.kotori-japan.com/",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/stay/"
+    },
+    {
+     "name": "Guest house in Takamatsu",
+     "name_en": "Guest house in Takamatsu",
+     "name_ja": "さぬき高松ゲストハウスそらうみ",
+     "description": "Guest house in Takamatsu.",
+     "source_url": "https://www.sanuki-soraumi.jp/",
+     "page": "https://bokenjapan.com/kagawa/takamatsu/stay/"
+    },
+    {
+     "name": "Hyper-Inn Takamatsu-ekimae",
+     "name_en": "Hyper-Inn Takamatsu-ekimae",
+     "name_ja": "ハイパーイン 高松駅前",
+     "description": "Hotel in Takamatsu.",
+     "source_url": "https://www.hyper-inn.net/asp/newsitem.asp?nw_id=812",
      "page": "https://bokenjapan.com/kagawa/takamatsu/stay/"
     }
    ]
@@ -5413,7 +7872,7 @@
     "address": "1881 Utazu, Ayauta District, Kagawa 769-0292, Japan",
     "phone": "0877-49-0511"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Utazu Town Hall",
@@ -5578,6 +8037,15 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Merikenya",
+     "name_en": "Merikenya",
+     "name_ja": "めりけんや",
+     "description": "Udon restaurant in Utazu.",
+     "source_url": "https://merikenya.com/index.php/merikenyashop/merikenyakakehashidian",
+     "page": "https://bokenjapan.com/kagawa/utazu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Marugame Hone Tsuki Tori Itcho Utatsu",
      "name_en": "Marugame Hone Tsuki Tori Itcho Utatsu",
      "name_ja": "丸亀骨付鳥一丁 宇多津店",
@@ -5651,7 +8119,7 @@
    ],
    "sights": [
     {
-     "name": "Gorudotawa",
+     "name": "Gold Tower",
      "description": "Sightseeing spot in Utazu, Kagawa.",
      "source_url": "https://utazu-kanko.jp/",
      "page": "https://bokenjapan.com/kagawa/utazu/see/"
@@ -5762,7 +8230,7 @@
     "address": "2-1-1 Bunkyo-cho, Zentsuji, Kagawa 765-8503, Japan",
     "phone": "0877-62-2121"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Zentsuji City Hall",
@@ -5801,6 +8269,72 @@
      "category": "Cafe"
     },
     {
+     "name": "Komeda's Coffee",
+     "name_en": "Komeda's Coffee",
+     "name_ja": "コメダ珈琲店",
+     "description": "Cafe in Zentsuji. Open daily 07:00-22:00.",
+     "source_url": "https://www.komeda.co.jp/shop/detail.html?id=1203",
+     "page": "https://bokenjapan.com/kagawa/zentsuji/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "2525",
+     "name_en": "2525",
+     "description": "Cafe in Zentsuji. Open Mon-Tue, Thu-Sun 10:00-16:00; closed Wed.",
+     "source_url": "https://www.openstreetmap.org/node/13694453509",
+     "page": "https://bokenjapan.com/kagawa/zentsuji/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe de flore",
+     "name_en": "Cafe de flore",
+     "description": "Cafe in Zentsuji. Open daily 07:00-20:00.",
+     "source_url": "https://www.openstreetmap.org/node/10775285195",
+     "page": "https://bokenjapan.com/kagawa/zentsuji/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "CAFE DE YURI",
+     "name_en": "CAFE DE YURI",
+     "description": "Cafe in Zentsuji. Open daily 07:30-14:00.",
+     "source_url": "https://www.openstreetmap.org/way/1083793721",
+     "page": "https://bokenjapan.com/kagawa/zentsuji/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "CAFFE MOTORE",
+     "name_en": "CAFFE MOTORE",
+     "description": "Cafe in Zentsuji.",
+     "source_url": "https://www.openstreetmap.org/node/12335116226",
+     "page": "https://bokenjapan.com/kagawa/zentsuji/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Haru-Haru Farm",
+     "name_en": "Haru-Haru Farm",
+     "description": "Cafe in Zentsuji. Open Mon-Tue, Thu-Fri, Sun 10:00-15:00.",
+     "source_url": "https://www.openstreetmap.org/node/10813318654",
+     "page": "https://bokenjapan.com/kagawa/zentsuji/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kissa Yuki",
+     "name_en": "Kissa Yuki",
+     "name_ja": "喫茶結城",
+     "description": "Cafe in Zentsuji.",
+     "source_url": "https://www.openstreetmap.org/node/2234177843",
+     "page": "https://bokenjapan.com/kagawa/zentsuji/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "RATA TACOS",
+     "name_en": "RATA TACOS",
+     "description": "Cafe in Zentsuji.",
+     "source_url": "https://www.openstreetmap.org/node/10921045028",
+     "page": "https://bokenjapan.com/kagawa/zentsuji/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Matsumura Shokudo",
      "name_en": "Matsumura Shokudo",
      "name_ja": "松村食堂",
@@ -5819,11 +8353,29 @@
      "category": "Casual"
     },
     {
+     "name": "Korean restaurant in Zentsuji",
+     "name_en": "Korean restaurant in Zentsuji",
+     "name_ja": "ソウル",
+     "description": "Korean restaurant in Zentsuji.",
+     "source_url": "https://www.openstreetmap.org/node/11416750297",
+     "page": "https://bokenjapan.com/kagawa/zentsuji/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Yakiniku Matsusaka Kokudo",
      "name_en": "Yakiniku Matsusaka Kokudo",
      "name_ja": "焼肉松坂 国道店",
      "description": "Yakiniku restaurant in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37005743/",
+     "page": "https://bokenjapan.com/kagawa/zentsuji/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Hiura",
+     "name_en": "Hiura",
+     "name_ja": "ひうら",
+     "description": "Chicken pub in Zentsuji. Open daily 17:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/10218196219",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -5972,6 +8524,58 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Ikiiki Udon",
+     "name_en": "Ikiiki Udon",
+     "name_ja": "いきいきうどん",
+     "description": "Noodle restaurant in Zentsuji.",
+     "source_url": "https://www.openstreetmap.org/node/9650288504",
+     "page": "https://bokenjapan.com/kagawa/zentsuji/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kogane Seimen Tokoro",
+     "name_en": "Kogane Seimen Tokoro",
+     "name_ja": "こがね製麺所",
+     "description": "Udon restaurant in Zentsuji. Open daily 07:00-16:00.",
+     "source_url": "https://www.openstreetmap.org/node/10806759104",
+     "page": "https://bokenjapan.com/kagawa/zentsuji/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "ORIBIO",
+     "name_en": "ORIBIO",
+     "description": "Restaurant in Zentsuji.",
+     "source_url": "https://oribiocafe.jimdofree.com/fc%E7%B4%B9%E4%BB%8B-1/%E9%A6%99%E5%B7%9D%E5%BA%97/",
+     "page": "https://bokenjapan.com/kagawa/zentsuji/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "LE PAYSAN",
+     "name_en": "LE PAYSAN",
+     "description": "Restaurant in Zentsuji. Open Tue-Sun 11:00-14:00, 17:30-20:00; closed Mon.",
+     "source_url": "https://www.paysan.jp",
+     "page": "https://bokenjapan.com/kagawa/zentsuji/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Maokafue",
+     "name_en": "Maokafue",
+     "name_ja": "まおかふぇ",
+     "description": "Japanese restaurant in Zentsuji. Open daily 10:00-16:00.",
+     "source_url": "https://www.openstreetmap.org/node/13099964136",
+     "page": "https://bokenjapan.com/kagawa/zentsuji/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Santo",
+     "name_en": "Santo",
+     "name_ja": "三都",
+     "description": "Japanese restaurant in Zentsuji. Open Mon-Sat 11:30-13:30, 17:00-22:00; closed Sun.",
+     "source_url": "https://www.openstreetmap.org/node/10218196221",
+     "page": "https://bokenjapan.com/kagawa/zentsuji/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Sushi Yu-kan Asahi Zentsuji",
      "name_en": "Sushi Yu-kan Asahi Zentsuji",
      "name_ja": "すし遊館あさひ 善通寺店",
@@ -6046,6 +8650,14 @@
      "name_ja": "ゲストハウス ミカサスカサ",
      "description": "Guesthouse in Zentsuji, Kagawa.",
      "source_url": "https://www.jalan.net/yad377480/",
+     "page": "https://bokenjapan.com/kagawa/zentsuji/stay/"
+    },
+    {
+     "name": "Pilgrimage Guest House Tsurukichi",
+     "name_en": "Pilgrimage Guest House Tsurukichi",
+     "name_ja": "遍路民宿鶴吉",
+     "description": "Guest house in Zentsuji.",
+     "source_url": "https://tsurukichi-henroyado.jimdofree.com/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/stay/"
     }
    ]

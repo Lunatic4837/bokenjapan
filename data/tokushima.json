@@ -22,7 +22,7 @@
     "address": "52-1 Yagami-mae, Okuno, Aizumi, Itano District, Tokushima 771-1292, Japan",
     "phone": "088-637-3111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Aizumi Town Town Hall",
@@ -43,6 +43,42 @@
    ],
    "food": [
     {
+     "name": "Cafe Kissa",
+     "name_en": "Cafe Kissa",
+     "name_ja": "カフェ・喫茶",
+     "description": "Cafe in Aizumi Town.",
+     "source_url": "https://www.openstreetmap.org/way/831080519",
+     "page": "https://bokenjapan.com/tokushima/aizumi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kissa Sumairu",
+     "name_en": "Kissa Sumairu",
+     "name_ja": "喫茶スマイル",
+     "description": "Cafe in Aizumi Town.",
+     "source_url": "https://www.openstreetmap.org/node/3198050075",
+     "page": "https://bokenjapan.com/tokushima/aizumi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Hokahoka Bento",
+     "name_en": "Hokahoka Bento",
+     "name_ja": "ほかほか弁当",
+     "description": "Bento restaurant in Aizumi Town.",
+     "source_url": "https://www.openstreetmap.org/way/831084514",
+     "page": "https://bokenjapan.com/tokushima/aizumi/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "MOS Burger",
+     "name_en": "MOS Burger",
+     "name_ja": "モスバーガー",
+     "description": "Burger fast-food restaurant in Aizumi Town.",
+     "source_url": "https://www.openstreetmap.org/way/831084742",
+     "page": "https://bokenjapan.com/tokushima/aizumi/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Horai Ken",
      "name_en": "Horai Ken",
      "name_ja": "ほうらい軒",
@@ -50,6 +86,24 @@
      "source_url": "https://tabelog.com/tokushima/A3603/A360303/36004653/",
      "page": "https://bokenjapan.com/tokushima/aizumi/eat/chinese-asian/",
      "category": "Chinese & Asian"
+    },
+    {
+     "name": "Momosen Aizumi Branch",
+     "name_en": "Momosen Aizumi Branch",
+     "name_ja": "桃仙 藍住店",
+     "description": "Chinese restaurant in Aizumi Town.",
+     "source_url": "https://www.openstreetmap.org/way/831081543",
+     "page": "https://bokenjapan.com/tokushima/aizumi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Naruto Suisan Aizumi Branch",
+     "name_en": "Naruto Suisan Aizumi Branch",
+     "name_ja": "鳴門水産 藍住店",
+     "description": "Pub in Aizumi Town.",
+     "source_url": "https://www.openstreetmap.org/way/831082978",
+     "page": "https://bokenjapan.com/tokushima/aizumi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
     },
     {
      "name": "Yakiniku Horumon Nada Hashi Hiroto-en",
@@ -70,11 +124,20 @@
      "category": "Japanese (meat)"
     },
     {
-     "name": "Jukusei Ushi Tan Tororo Tan Jiro Yume Taun Toku Shima",
-     "name_en": "Jukusei Ushi Tan Tororo Tan Jiro Yume Taun Toku Shima",
+     "name": "Jukusei Ushi Tan Tororo Tan Jiro Yume Taun Tokushima",
+     "name_en": "Jukusei Ushi Tan Tororo Tan Jiro Yume Taun Tokushima",
      "name_ja": "熟成牛タン・とろろ タン次郎 ゆめタウン徳島店",
      "description": "Meat restaurant in Aizumi Town, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3603/A360303/36007995/",
+     "page": "https://bokenjapan.com/tokushima/aizumi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Eisaku",
+     "name_en": "Eisaku",
+     "name_ja": "栄作",
+     "description": "Barbecue restaurant in Aizumi Town.",
+     "source_url": "https://www.openstreetmap.org/way/831081036",
      "page": "https://bokenjapan.com/tokushima/aizumi/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -214,6 +277,69 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Hanamarudon",
+     "name_en": "Hanamarudon",
+     "name_ja": "はなまるうどん",
+     "description": "Udon restaurant in Aizumi Town.",
+     "source_url": "https://www.openstreetmap.org/way/379868378",
+     "page": "https://bokenjapan.com/tokushima/aizumi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Rairai Tei Aizumi Branch",
+     "name_en": "Rairai Tei Aizumi Branch",
+     "name_ja": "来来亭 藍住店",
+     "description": "Noodle restaurant in Aizumi Town.",
+     "source_url": "https://www.openstreetmap.org/way/831078658",
+     "page": "https://bokenjapan.com/tokushima/aizumi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon no Awa Kko",
+     "name_en": "Udon no Awa Kko",
+     "name_ja": "うどんの阿波っこ",
+     "description": "Noodle restaurant in Aizumi Town.",
+     "source_url": "https://www.openstreetmap.org/node/9894336917",
+     "page": "https://bokenjapan.com/tokushima/aizumi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ai Yashiki Okumura Aizumi Main Branch",
+     "name_en": "Ai Yashiki Okumura Aizumi Main Branch",
+     "name_ja": "藍屋敷おくむら藍住本店",
+     "description": "Restaurant in Aizumi Town.",
+     "source_url": "https://www.awanavi.jp/archives/spot/2066",
+     "page": "https://bokenjapan.com/tokushima/aizumi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Gokuraku Shuzo Agura",
+     "name_en": "Gokuraku Shuzo Agura",
+     "name_ja": "ごくらく酒蔵あぐら",
+     "description": "Restaurant in Aizumi Town.",
+     "source_url": "https://www.awanavi.jp/archives/spot/2340",
+     "page": "https://bokenjapan.com/tokushima/aizumi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Wafu Dining Ren",
+     "name_en": "Wafu Dining Ren",
+     "name_ja": "和風ダイニング 連",
+     "description": "Restaurant in Aizumi Town.",
+     "source_url": "https://www.awanavi.jp/archives/spot/2384",
+     "page": "https://bokenjapan.com/tokushima/aizumi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Okonomiyaki Ritz",
+     "name_en": "Okonomiyaki Ritz",
+     "name_ja": "お好み焼 Ritz",
+     "description": "Japanese restaurant in Aizumi Town.",
+     "source_url": "https://www.openstreetmap.org/way/831081252",
+     "page": "https://bokenjapan.com/tokushima/aizumi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Sakana Taisho Aizumi",
      "name_en": "Sakana Taisho Aizumi",
      "name_ja": "魚大将 藍住店",
@@ -228,6 +354,15 @@
      "name_ja": "山茶花",
      "description": "Seafood restaurant in Aizumi Town, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3603/A360303/36008305/",
+     "page": "https://bokenjapan.com/tokushima/aizumi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kaisen Ichiba Uotaisho Aizumi Branch",
+     "name_en": "Kaisen Ichiba Uotaisho Aizumi Branch",
+     "name_ja": "海鮮市場 魚大将（藍住店）",
+     "description": "Seafood restaurant in Aizumi Town.",
+     "source_url": "https://www.awanavi.jp/archives/spot/2337",
      "page": "https://bokenjapan.com/tokushima/aizumi/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -379,6 +514,14 @@
      "description": "Ryokan inn in Okuno, Aizumi Town with Wi-Fi.",
      "source_url": "https://www.jalan.net/yad317910/",
      "page": "https://bokenjapan.com/tokushima/aizumi/stay/"
+    },
+    {
+     "name": "Hotel in Aizumi Town",
+     "name_en": "Hotel in Aizumi Town",
+     "name_ja": "ビジネスホテル久次米",
+     "description": "Hotel in Aizumi Town.",
+     "source_url": "https://www.openstreetmap.org/way/313775700",
+     "page": "https://bokenjapan.com/tokushima/aizumi/stay/"
     }
    ]
   },
@@ -401,7 +544,7 @@
     "address": "12-3 Tonocho, Tomioka-cho, Anan, Tokushima 774-8501, Japan",
     "phone": "0884-22-1111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Anan City City Hall",
@@ -429,6 +572,87 @@
      "source_url": "https://tabelog.com/tokushima/A3602/A360201/36000844/",
      "page": "https://bokenjapan.com/tokushima/anan/eat/cafe/",
      "category": "Cafe"
+    },
+    {
+     "name": "Akari Cafe",
+     "name_en": "Akari Cafe",
+     "name_ja": "あかりカフェ",
+     "description": "Cafe in Anan City.",
+     "source_url": "http://www.acaricafe.com/",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Kofs Anan Branch",
+     "name_en": "Cafe Kofs Anan Branch",
+     "name_ja": "CAFE KOFS 阿南店",
+     "description": "Cafe in Anan City.",
+     "source_url": "https://2wvxb.crayonsite.com/",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Restaurant Wan Stop",
+     "name_en": "Cafe Restaurant Wan Stop",
+     "name_ja": "カフェレストランわんすとっぷ",
+     "description": "Cafe in Anan City.",
+     "source_url": "https://anan-kankou.jp/member.php",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kissa Marunouchi",
+     "name_en": "Kissa Marunouchi",
+     "name_ja": "喫茶 丸の内",
+     "description": "Cafe in Anan City.",
+     "source_url": "https://anan-kankou.jp/member.php",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Anan City",
+     "name_en": "Cafe in Anan City",
+     "name_ja": "シャラの樹Ⅱ",
+     "description": "Cafe in Anan City.",
+     "source_url": "https://www.openstreetmap.org/node/4057490539",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "MOS BURGER",
+     "name_en": "MOS BURGER",
+     "name_ja": "モスバーガー",
+     "description": "Burger fast-food restaurant in Anan City. Open daily 10:00-00:00.",
+     "source_url": "https://www.mos.co.jp/",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Sukiya",
+     "name_en": "Sukiya",
+     "name_ja": "すき家",
+     "description": "Fast-food restaurant in Anan City.",
+     "source_url": "https://www.sukiya.jp/",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Fast-food restaurant in Anan City",
+     "name_en": "Fast-food restaurant in Anan City",
+     "name_ja": "CoCo壱番屋",
+     "description": "Fast-food restaurant in Anan City.",
+     "source_url": "https://www.openstreetmap.org/node/1810100412",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "name_ja": "マクドナルド",
+     "description": "Burger fast-food restaurant in Anan City.",
+     "source_url": "https://www.openstreetmap.org/node/3783232848",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/casual/",
+     "category": "Casual"
     },
     {
      "name": "Shinryu",
@@ -502,6 +726,33 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Awa Shunsen Sakaba SINO",
+     "name_en": "Awa Shunsen Sakaba SINO",
+     "name_ja": "阿波旬鮮酒場SINO",
+     "description": "Izakaya restaurant in Anan City.",
+     "source_url": "https://anan-kankou.jp/member.php",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Daikokuya",
+     "name_en": "Izakaya Daikokuya",
+     "name_ja": "居酒屋大黒屋",
+     "description": "Izakaya restaurant in Anan City.",
+     "source_url": "https://anan-kankou.jp/member.php",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Tonchiyan",
+     "name_en": "Izakaya Tonchiyan",
+     "name_ja": "居酒屋とんちやん",
+     "description": "Izakaya restaurant in Anan City.",
+     "source_url": "https://anan-kankou.jp/member.php",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Yogan Yaki Steak & Hamburg Steak Kazan",
      "name_en": "Yogan Yaki Steak & Hamburg Steak Kazan",
      "name_ja": "溶岩焼きステーキ&ハンバーグ 崋山",
@@ -533,6 +784,15 @@
      "name_en": "Holly hock",
      "description": "Meat restaurant in Anan City, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3602/A360201/36003225/",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakitori Toribun",
+     "name_en": "Yakitori Toribun",
+     "name_ja": "やきとり鳥文",
+     "description": "Yakitori restaurant in Anan City.",
+     "source_url": "https://www.awanavi.jp/archives/spot/2344",
      "page": "https://bokenjapan.com/tokushima/anan/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -618,6 +878,229 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Curry Udon Kamatamaru",
+     "name_en": "Curry Udon Kamatamaru",
+     "name_ja": "カリーうどん かまたまーる",
+     "description": "Udon restaurant in Anan City.",
+     "source_url": "https://ja-jp.facebook.com/kamatamaaal.jp",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "HANAMARU",
+     "name_en": "HANAMARU",
+     "name_ja": "はなまるうどん",
+     "description": "Udon restaurant in Anan City.",
+     "source_url": "https://www.openstreetmap.org/node/1883337662",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Marugame Seimen",
+     "name_en": "Marugame Seimen",
+     "name_ja": "丸亀製麺",
+     "description": "Noodle restaurant in Anan City.",
+     "source_url": "https://www.openstreetmap.org/node/12012590005",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menba Mizuya",
+     "name_en": "Menba Mizuya",
+     "name_ja": "麺場 水や",
+     "description": "Noodle restaurant in Anan City.",
+     "source_url": "https://www.openstreetmap.org/node/9890867317",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Sumibiyaki Shokujidokoro Otokichi Anan Branch",
+     "name_en": "Sumibiyaki Shokujidokoro Otokichi Anan Branch",
+     "name_ja": "炭火焼お食事処音吉(阿南店)",
+     "description": "Restaurant in Anan City.",
+     "source_url": "https://www.awanavi.jp/archives/spot/2345",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Awa Gyu no Takumi Nobe",
+     "name_en": "Awa Gyu no Takumi Nobe",
+     "name_ja": "阿波牛の匠 のべ",
+     "description": "Restaurant in Anan City.",
+     "source_url": "https://www.meatcenter.co.jp/",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Anan City (#1)",
+     "name_en": "Restaurant in Anan City (#1)",
+     "name_ja": "べーかりーはっちゃん",
+     "description": "Restaurant in Anan City.",
+     "source_url": "https://anan-kankou.jp/member.php",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Butataro Tsunomine Branch",
+     "name_en": "Butataro Tsunomine Branch",
+     "name_ja": "豚太郎 津乃峰店",
+     "description": "Restaurant in Anan City.",
+     "source_url": "https://ja-jp.facebook.com/tontaro.tsunomine/",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "French Cuisine Chaya My Way",
+     "name_en": "French Cuisine Chaya My Way",
+     "name_ja": "フランス料理茶屋・マイウェイ",
+     "description": "Restaurant in Anan City.",
+     "source_url": "https://r.goope.jp/myway1997/",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Hachifuku",
+     "name_en": "Hachifuku",
+     "name_ja": "八福",
+     "description": "Restaurant in Anan City.",
+     "source_url": "https://www.awanavi.jp/archives/spot/1344",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "JouZo BEER BASE",
+     "name_en": "JouZo Beer Base",
+     "description": "Restaurant in Anan City.",
+     "source_url": "https://jouzo.co.jp/",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Koharu Biyori",
+     "name_en": "Koharu Biyori",
+     "name_ja": "こはる日和",
+     "description": "Restaurant in Anan City.",
+     "source_url": "https://anan-kankou.jp/member.php",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Anan City (#2)",
+     "name_en": "Restaurant in Anan City (#2)",
+     "name_ja": "串あげもっちゃん",
+     "description": "Restaurant in Anan City.",
+     "source_url": "https://www.instagram.com/mocchan.1021/",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Momijiya",
+     "name_en": "Momijiya",
+     "name_ja": "紅葉屋",
+     "description": "Restaurant in Anan City.",
+     "source_url": "https://www.momijiya.co.jp",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Morrison's",
+     "name_en": "Morrison's",
+     "name_ja": "モリソンズ",
+     "description": "Restaurant in Anan City.",
+     "source_url": "https://anan-kankou.jp/member.php",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Nakanobo",
+     "name_en": "Nakanobo",
+     "name_ja": "那賀乃坊",
+     "description": "Restaurant in Anan City.",
+     "source_url": "https://www.awanavi.jp/archives/spot/2343",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Nio Menma",
+     "name_en": "Nio Menma",
+     "name_ja": "におメンマ",
+     "description": "Restaurant in Anan City.",
+     "source_url": "https://r.goope.jp/niomenma/",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Ouenka",
+     "name_en": "Ouenka",
+     "name_ja": "-応援歌- OUENKA",
+     "description": "Restaurant in Anan City.",
+     "source_url": "https://anan-kankou.jp/member.php",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Shun no Teryori to Osake Nagomi",
+     "name_en": "Shun no Teryori to Osake Nagomi",
+     "name_ja": "旬の手料理とお酒 和み",
+     "description": "Restaurant in Anan City.",
+     "source_url": "https://www.instagram.com/nagomi.oono/",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "SWEETS WAGEN",
+     "name_en": "Sweets Wagen",
+     "description": "Restaurant in Anan City.",
+     "source_url": "http://sweetswagen.com/",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Vespertine Kureha",
+     "name_en": "Vespertine Kureha",
+     "name_ja": "Vespertine くれは",
+     "description": "Restaurant in Anan City.",
+     "source_url": "https://anan-kankou.jp/member.php",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Yoshidaya",
+     "name_en": "Yoshidaya",
+     "name_ja": "吉田屋",
+     "description": "Restaurant in Anan City.",
+     "source_url": "https://anan-kankou.jp/member.php",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Megami no Kappo AMATIR",
+     "name_en": "Megami no Kappo AMATIR",
+     "name_ja": "女神の割烹AMATIR",
+     "description": "Japanese restaurant in Anan City.",
+     "source_url": "https://www.awanavi.jp/archives/spot/1345",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Sosaku Anan Don",
+     "name_en": "Sosaku Anan Don",
+     "name_ja": "創作あなん丼",
+     "description": "Japanese restaurant in Anan City.",
+     "source_url": "https://www.awanavi.jp/archives/spot/2309",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Gohanya Ananshokudo",
+     "name_en": "Gohanya Ananshokudo",
+     "name_ja": "ごはんや 阿南食堂",
+     "description": "Japanese restaurant in Anan City.",
+     "source_url": "https://www.openstreetmap.org/way/1458250554",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Sakana Masa",
      "name_en": "Sakana Masa",
      "name_ja": "魚まさ",
@@ -634,6 +1117,33 @@
      "source_url": "https://tabelog.com/tokushima/A3602/A360201/36008635/",
      "page": "https://bokenjapan.com/tokushima/anan/eat/seafood/",
      "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Awa Tachibana Kaisan Seafood Cafe",
+     "name_en": "Awa Tachibana Kaisan Seafood Cafe",
+     "name_ja": "阿波橘海産 with 海鮮café",
+     "description": "Seafood restaurant in Anan City.",
+     "source_url": "https://www.awanavi.jp/archives/spot/2350",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Kappo Kintaro",
+     "name_en": "Sushi Kappo Kintaro",
+     "name_ja": "寿司割烹金太楼",
+     "description": "Sushi restaurant in Anan City.",
+     "source_url": "https://kintaro-anan.jimdofree.com/",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Yamainu Cafe",
+     "name_en": "Yamainu Cafe",
+     "name_ja": "やまいぬカフェ",
+     "description": "Cake cafe in Anan City. Open Thu-Tue 08:00-17:00.",
+     "source_url": "https://lit.link/en/kamodaniookamiproject",
+     "page": "https://bokenjapan.com/tokushima/anan/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "sights": [
@@ -782,7 +1292,7 @@
     "address": "201-1 Furuta, Kirihata, Ichiba-cho, Awa, Tokushima 771-1695, Japan",
     "phone": "0883-36-8700"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "AWA Blueberry Farm",
@@ -824,6 +1334,14 @@
    ],
    "food": [
     {
+     "name": "Poem",
+     "name_en": "Poem",
+     "description": "Cafe in Awa.",
+     "source_url": "https://www.openstreetmap.org/node/12083387813",
+     "page": "https://bokenjapan.com/tokushima/awa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Casual restaurant in Awa",
      "name_en": "Casual restaurant in Awa",
      "name_ja": "ゴチッス。",
@@ -849,6 +1367,33 @@
      "source_url": "https://tabelog.com/tokushima/A3603/A360301/36007851/",
      "page": "https://bokenjapan.com/tokushima/awa/eat/casual/",
      "category": "Casual"
+    },
+    {
+     "name": "Hokahoka Bento",
+     "name_en": "Hokahoka Bento",
+     "name_ja": "ほかほか弁当",
+     "description": "Fast-food restaurant in Awa.",
+     "source_url": "https://hokaben.awachuobus.com/",
+     "page": "https://bokenjapan.com/tokushima/awa/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Mikado Sono",
+     "name_en": "Mikado Sono",
+     "name_ja": "みかど園",
+     "description": "Fast-food restaurant in Awa.",
+     "source_url": "https://www.openstreetmap.org/way/548113676",
+     "page": "https://bokenjapan.com/tokushima/awa/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Indian restaurant in Awa",
+     "name_en": "Indian restaurant in Awa",
+     "name_ja": "アワシャンティ",
+     "description": "Indian restaurant in Awa.",
+     "source_url": "https://www.openstreetmap.org/node/12104144465",
+     "page": "https://bokenjapan.com/tokushima/awa/eat/curry/",
+     "category": "Curry"
     },
     {
      "name": "Izakaya or bar in Awa",
@@ -986,6 +1531,78 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Dosanko Ramen",
+     "name_en": "Dosanko Ramen",
+     "name_ja": "どさんこラーメン",
+     "description": "Ramen restaurant in Awa.",
+     "source_url": "https://www.openstreetmap.org/node/10314277649",
+     "page": "https://bokenjapan.com/tokushima/awa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Furukawa",
+     "name_en": "Furukawa",
+     "name_ja": "ふるかわ",
+     "description": "Udon restaurant in Awa.",
+     "source_url": "https://www.openstreetmap.org/way/548116402",
+     "page": "https://bokenjapan.com/tokushima/awa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Noodle restaurant in Awa",
+     "name_en": "Noodle restaurant in Awa",
+     "name_ja": "穂つま屋",
+     "description": "Noodle restaurant in Awa. Open daily 11:15-14:00, 16:30-20:00.",
+     "source_url": "https://www.openstreetmap.org/node/9440991843",
+     "page": "https://bokenjapan.com/tokushima/awa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Magokoro",
+     "name_en": "Magokoro",
+     "name_ja": "真心",
+     "description": "Ramen restaurant in Awa.",
+     "source_url": "https://www.openstreetmap.org/node/13257010815",
+     "page": "https://bokenjapan.com/tokushima/awa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Orugano Shokudo",
+     "name_en": "Orugano Shokudo",
+     "name_ja": "おるがの食堂",
+     "description": "Noodle restaurant in Awa. Open Mon-Tue, Thu-Sun 11:00-14:00, 17:00-19:30; closed Wed.",
+     "source_url": "https://www.openstreetmap.org/node/9441045086",
+     "page": "https://bokenjapan.com/tokushima/awa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Serufu Udon Kakashi",
+     "name_en": "Serufu Udon Kakashi",
+     "name_ja": "セルフうどん かかし",
+     "description": "Noodle restaurant in Awa. Open Mon-Sat 11:00-15:30; closed Sun.",
+     "source_url": "https://www.openstreetmap.org/node/12085105297",
+     "page": "https://bokenjapan.com/tokushima/awa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Soba Tokoro Ichiraku",
+     "name_en": "Soba Tokoro Ichiraku",
+     "name_ja": "そば処 一楽",
+     "description": "Soba restaurant in Awa.",
+     "source_url": "https://www.openstreetmap.org/node/13949381278",
+     "page": "https://bokenjapan.com/tokushima/awa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udatsu",
+     "name_en": "Udatsu",
+     "name_ja": "うだつ",
+     "description": "Noodle restaurant in Awa.",
+     "source_url": "https://www.openstreetmap.org/node/12065960421",
+     "page": "https://bokenjapan.com/tokushima/awa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Restaurant in Awa",
      "name_en": "Restaurant in Awa",
      "name_ja": "土柱ランド新温泉",
@@ -1004,11 +1621,38 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Japanese restaurant in Awa",
-     "name_en": "Japanese restaurant in Awa",
+     "name": "Japanese restaurant in Awa (#16)",
+     "name_en": "Japanese restaurant in Awa (#16)",
      "name_ja": "Jクラシックゴルフクラブ",
      "description": "Japanese restaurant in Awa, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3603/A360301/36005004/",
+     "page": "https://bokenjapan.com/tokushima/awa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Awa (#2)",
+     "name_en": "Japanese restaurant in Awa (#2)",
+     "name_ja": "ゴチッス",
+     "description": "Japanese restaurant in Awa.",
+     "source_url": "https://www.openstreetmap.org/way/630910138",
+     "page": "https://bokenjapan.com/tokushima/awa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Junsai",
+     "name_en": "Junsai",
+     "name_ja": "旬彩",
+     "description": "Japanese restaurant in Awa. Closed Mon; Tue-Sun 11:00-14:00, 17:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/13256990249",
+     "page": "https://bokenjapan.com/tokushima/awa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Udatsu Tei",
+     "name_en": "Udatsu Tei",
+     "name_ja": "うだつ亭",
+     "description": "Japanese restaurant in Awa.",
+     "source_url": "https://www.openstreetmap.org/node/12073224147",
      "page": "https://bokenjapan.com/tokushima/awa/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -1034,6 +1678,14 @@
      "name_en": "A Bagel",
      "description": "Sweets and bakery shop in Awa, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3603/A360301/36008239/",
+     "page": "https://bokenjapan.com/tokushima/awa/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Dolce",
+     "name_en": "Dolce",
+     "description": "Ice cream shop in Awa. Open Mon, Wed-Sun, public holidays 10:00-18:00; closed Tue.",
+     "source_url": "https://www.openstreetmap.org/node/12064399146",
      "page": "https://bokenjapan.com/tokushima/awa/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -1302,6 +1954,14 @@
      "description": "Hotel in Donari, Awa with parking and business travelers.",
      "source_url": "https://www.jalan.net/yad386867/",
      "page": "https://bokenjapan.com/tokushima/awa/stay/"
+    },
+    {
+     "name": "Dochu Rando Shinonsen",
+     "name_en": "Dochu Rando Shinonsen",
+     "name_ja": "土柱ランド新温泉",
+     "description": "Hotel in Awa.",
+     "source_url": "https://dochuland.com/",
+     "page": "https://bokenjapan.com/tokushima/awa/stay/"
     }
    ]
   },
@@ -1542,7 +2202,7 @@
      "page": "https://bokenjapan.com/tokushima/higashimiyoshi/see/"
     },
     {
-     "name": "Mino Ta no Fuchi Kyanpu Village",
+     "name": "Mino Ta no Fuchi Camp Village",
      "description": "Sightseeing spot in Higashimiyoshi, Tokushima.",
      "source_url": "https://minoda-camp.com",
      "page": "https://bokenjapan.com/tokushima/higashimiyoshi/see/"
@@ -1686,7 +2346,7 @@
     "address": "121-1 Takagawara, Takagawara, Ishii, Myozai District, Tokushima 779-3295, Japan",
     "phone": "088-674-1111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Ishii Town Hall",
@@ -1716,6 +2376,14 @@
      "category": "Cafe"
     },
     {
+     "name": "MAJESTIC COFFEE",
+     "name_en": "MAJESTIC COFFEE",
+     "description": "Cafe in Ishii.",
+     "source_url": "https://www.openstreetmap.org/node/3076814933",
+     "page": "https://bokenjapan.com/tokushima/ishii/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Genki-tei",
      "name_en": "Genki-tei",
      "name_ja": "源喜亭",
@@ -1730,6 +2398,15 @@
      "name_ja": "黄琳",
      "description": "Chinese or Asian restaurant in Ishii, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3603/A360303/36003060/",
+     "page": "https://bokenjapan.com/tokushima/ishii/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Gyoza no Osho Tokushima Ishii Branch",
+     "name_en": "Gyoza no Osho Tokushima Ishii Branch",
+     "name_ja": "餃子の王将 徳島石井店",
+     "description": "Asian restaurant in Ishii. Open daily 11:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/way/314683124",
      "page": "https://bokenjapan.com/tokushima/ishii/eat/chinese-asian/",
      "category": "Chinese & Asian"
     },
@@ -1752,6 +2429,15 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Kuimonoya yuzu",
+     "name_en": "Kuimonoya yuzu",
+     "name_ja": "くいものや柚",
+     "description": "Pub in Ishii.",
+     "source_url": "https://www.openstreetmap.org/node/3076814934",
+     "page": "https://bokenjapan.com/tokushima/ishii/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Yakiniku ichi",
      "name_en": "Yakiniku ichi",
      "name_ja": "焼肉ichi",
@@ -1766,6 +2452,15 @@
      "name_ja": "牛三郎",
      "description": "Meat restaurant in Ishii, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3603/A360303/36002079/",
+     "page": "https://bokenjapan.com/tokushima/ishii/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Barbecue restaurant in Ishii",
+     "name_en": "Barbecue restaurant in Ishii",
+     "name_ja": "リーベ・フラウ",
+     "description": "Barbecue restaurant in Ishii.",
+     "source_url": "https://www.openstreetmap.org/way/739743558",
      "page": "https://bokenjapan.com/tokushima/ishii/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -1851,8 +2546,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Toku Shima Ramen Okiya Ishi",
-     "name_en": "Toku Shima Ramen Okiya Ishi",
+     "name": "Tokushima Ramen Okiya Ishi",
+     "name_en": "Tokushima Ramen Okiya Ishi",
      "name_ja": "徳島ラーメン奥屋 石井店",
      "description": "Ramen restaurant in Ishii, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3603/A360303/36005783/",
@@ -1887,6 +2582,15 @@
      "category": "Other"
     },
     {
+     "name": "Menzoku",
+     "name_en": "Menzoku",
+     "name_ja": "麺族",
+     "description": "Restaurant in Ishii.",
+     "source_url": "https://www.openstreetmap.org/node/3076815098",
+     "page": "https://bokenjapan.com/tokushima/ishii/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Wayo Shoku Sho",
      "name_en": "Wayo Shoku Sho",
      "name_ja": "和洋食 翔",
@@ -1896,11 +2600,38 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Fujimoto",
+     "name_en": "Fujimoto",
+     "name_ja": "ふじもと",
+     "description": "Japanese restaurant in Urasho Shimora, Ishii.",
+     "source_url": "https://www.openstreetmap.org/node/8598847558",
+     "page": "https://bokenjapan.com/tokushima/ishii/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Menya Kamata",
+     "name_en": "Menya Kamata",
+     "name_ja": "麺屋 釜田",
+     "description": "Japanese restaurant in Urasho Shimora, Ishii.",
+     "source_url": "https://www.openstreetmap.org/node/8598847559",
+     "page": "https://bokenjapan.com/tokushima/ishii/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Sushi restaurant in Ishii",
      "name_en": "Sushi restaurant in Ishii",
      "name_ja": "出多寿司",
      "description": "Sushi restaurant in Ishii, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3603/A360303/36001504/",
+     "page": "https://bokenjapan.com/tokushima/ishii/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Soga Shidashi Branch",
+     "name_en": "Soga Shidashi Branch",
+     "name_ja": "曽我仕出し店",
+     "description": "Sushi restaurant in Urasho Shimora, Ishii.",
+     "source_url": "https://www.openstreetmap.org/node/8598847557",
      "page": "https://bokenjapan.com/tokushima/ishii/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -2143,8 +2874,8 @@
      "category": "Casual"
     },
     {
-     "name": "AZcafe shidaka Toku Shima Itano",
-     "name_en": "AZcafe shidaka Toku Shima Itano",
+     "name": "AZcafe shidaka Tokushima Itano",
+     "name_en": "AZcafe shidaka Tokushima Itano",
      "name_ja": "AZcafe shidaka 徳島板野店",
      "description": "Casual restaurant in Itano, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3603/A360303/36008605/",
@@ -2277,8 +3008,8 @@
      "category": "Other"
     },
     {
-     "name": "Asutamurando Toku Shima Kutsurogi-kan",
-     "name_en": "Asutamurando Toku Shima Kutsurogi-kan",
+     "name": "Asutamurando Tokushima Kutsurogi-kan",
+     "name_en": "Asutamurando Tokushima Kutsurogi-kan",
      "name_ja": "あすたむらんど徳島くつろぎ館",
      "description": "Restaurant in Itano, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3603/A360303/36002656/",
@@ -2332,7 +3063,7 @@
    ],
    "sights": [
     {
-     "name": "Asutamurando Toku Shima",
+     "name": "Astamuland Tokushima",
      "description": "Sightseeing spot in Itano, Tokushima.",
      "source_url": "https://www.town.itano.tokushima.jp/",
      "page": "https://bokenjapan.com/tokushima/itano/see/"
@@ -2376,8 +3107,8 @@
    ],
    "stays": [
     {
-     "name": "HOTEL AZ Toku Shima Itano",
-     "name_en": "HOTEL AZ Toku Shima Itano",
+     "name": "HOTEL AZ Tokushima Itano",
+     "name_en": "HOTEL AZ Tokushima Itano",
      "name_ja": "HOTEL AZ 徳島板野店",
      "description": "Hotel in Itano, Tokushima.",
      "source_url": "https://www.jalan.net/yad396602/",
@@ -2818,8 +3549,8 @@
      "category": "Casual"
     },
     {
-     "name": "Joyful Toku Shima Ageita",
-     "name_en": "Joyful Toku Shima Ageita",
+     "name": "Joyful Tokushima Ageita",
+     "name_en": "Joyful Tokushima Ageita",
      "name_ja": "ジョイフル 徳島上板店",
      "description": "Casual restaurant in Kamiita, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3603/A360303/36004145/",
@@ -3185,7 +3916,7 @@
      "page": "https://bokenjapan.com/tokushima/kamikatsu/see/"
     },
     {
-     "name": "Kenzan Supa Rindo",
+     "name": "Kenzan Spa Rindo",
      "description": "Sightseeing spot in Kamikatsu, Tokushima.",
      "source_url": "https://www.tourism-kamikatsu.jp/blogs/view",
      "page": "https://bokenjapan.com/tokushima/kamikatsu/see/"
@@ -3383,7 +4114,7 @@
      "page": "https://bokenjapan.com/tokushima/kamikatsu/see/"
     },
     {
-     "name": "Cafe polestar / Kafe Porusuta",
+     "name": "Cafe polestar",
      "description": "Sightseeing spot in Kamikatsu, Tokushima.",
      "source_url": "https://www.tourism-kamikatsu.jp/pages/eat",
      "page": "https://bokenjapan.com/tokushima/kamikatsu/see/"
@@ -3608,8 +4339,8 @@
      "category": "Curry"
     },
     {
-     "name": "Takagawa Higashi Toku Shima Gorufu Kurabu",
-     "name_en": "Takagawa Higashi Toku Shima Gorufu Kurabu",
+     "name": "Takagawa Higashi Tokushima Gorufu Kurabu",
+     "name_en": "Takagawa Higashi Tokushima Gorufu Kurabu",
      "name_ja": "タカガワ東徳島ゴルフ倶楽部",
      "description": "Curry restaurant in Kamiyama, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3603/A360303/36004917/",
@@ -3909,7 +4640,7 @@
      "page": "https://bokenjapan.com/tokushima/kamiyama/see/"
     },
     {
-     "name": "Takagawa Higashi Gorufu Kurabu",
+     "name": "Takagawa Higashi Golf Club",
      "description": "Sightseeing spot in Kamiyama, Tokushima.",
      "source_url": "https://www.town.kamiyama.lg.jp/enjoy/map/index_genre@kanko.html",
      "page": "https://bokenjapan.com/tokushima/kamiyama/see/"
@@ -4399,7 +5130,7 @@
      "page": "https://bokenjapan.com/tokushima/katsuura/see/"
     },
     {
-     "name": "Kekihausu Mirika",
+     "name": "Cake House Mirika",
      "description": "Sightseeing spot in Katsuura, Tokushima.",
      "source_url": "https://katsuura-tourism.jp/spot/%e3%82%b1%e3%83%bc%e3%82%ad%e3%83%8f%e3%82%a6%e3%82%b9%e3%81%bf%e3%82%8a%e3%81%8b",
      "page": "https://bokenjapan.com/tokushima/katsuura/see/"
@@ -4435,7 +5166,7 @@
      "page": "https://bokenjapan.com/tokushima/katsuura/see/"
     },
     {
-     "name": "Katsuura Ryu Itariankafe Salotto (Sarotto)",
+     "name": "Katsuura Ryu Italian Cafe Salotto",
      "description": "Sightseeing spot in Katsuura, Tokushima.",
      "source_url": "https://salotto.cafe/",
      "page": "https://bokenjapan.com/tokushima/katsuura/see/"
@@ -4509,7 +5240,7 @@
     "address": "23-1 Kamiichi, Nakamura, Kitajima, Itano District, Tokushima 771-0285, Japan",
     "phone": "088-698-9801"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Kitajima Town Hall",
@@ -4544,6 +5275,15 @@
      "name_ja": "食べごろ 2号店",
      "description": "Casual restaurant in Kitajima, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3601/A360101/36005103/",
+     "page": "https://bokenjapan.com/tokushima/kitajima/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "name_ja": "マクドナルド 徳島北島店",
+     "description": "Burger fast-food restaurant in Kitajima.",
+     "source_url": "https://www.openstreetmap.org/way/316161192",
      "page": "https://bokenjapan.com/tokushima/kitajima/eat/casual/",
      "category": "Casual"
     },
@@ -4664,8 +5404,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Menkui-ya Sawa Toku Shima",
-     "name_en": "Menkui-ya Sawa Toku Shima",
+     "name": "Menkui-ya Sawa Tokushima",
+     "name_en": "Menkui-ya Sawa Tokushima",
      "name_ja": "麺喰屋 澤 徳島店",
      "description": "Noodle restaurant in Kitajima, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3601/A360101/36006174/",
@@ -4673,8 +5413,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Men-ya Kuni Maru Toku Shima Kitajima",
-     "name_en": "Men-ya Kuni Maru Toku Shima Kitajima",
+     "name": "Men-ya Kuni Maru Tokushima Kitajima",
+     "name_en": "Men-ya Kuni Maru Tokushima Kitajima",
      "name_ja": "麺屋 國丸。 徳島北島店",
      "description": "Noodle restaurant in Kitajima, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3601/A360101/36004387/",
@@ -4698,6 +5438,60 @@
      "source_url": "https://tabelog.com/tokushima/A3601/A360101/36009120/",
      "page": "https://bokenjapan.com/tokushima/kitajima/eat/noodles/",
      "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tokushima Ramen Okuya Kitajima Branch",
+     "name_en": "Tokushima Ramen Okuya Kitajima Branch",
+     "name_ja": "徳島ラーメン奥屋 北島店",
+     "description": "Ramen restaurant in Kitajima.",
+     "source_url": "https://www.awanavi.jp/archives/spot/1449",
+     "page": "https://bokenjapan.com/tokushima/kitajima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Tamura",
+     "name_en": "Ramen Tamura",
+     "name_ja": "ラーメン田村",
+     "description": "Ramen restaurant in Kitajima.",
+     "source_url": "https://www.openstreetmap.org/way/372441701",
+     "page": "https://bokenjapan.com/tokushima/kitajima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Goku",
+     "name_en": "Goku",
+     "name_ja": "悟空",
+     "description": "Restaurant in Kitajima.",
+     "source_url": "https://www.openstreetmap.org/node/2990205852",
+     "page": "https://bokenjapan.com/tokushima/kitajima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Gusto Kitajima Machi Branch",
+     "name_en": "Gusto Kitajima Machi Branch",
+     "name_ja": "ガスト北島町店",
+     "description": "Restaurant in Kitajima. Open daily 08:00-02:00.",
+     "source_url": "https://www.openstreetmap.org/way/316734141",
+     "page": "https://bokenjapan.com/tokushima/kitajima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Imo",
+     "name_en": "Imo",
+     "name_ja": "いもう",
+     "description": "Restaurant in Kitajima.",
+     "source_url": "https://www.openstreetmap.org/node/6470041885",
+     "page": "https://bokenjapan.com/tokushima/kitajima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Menya Kunimaru Kitajima Branch",
+     "name_en": "Menya Kunimaru Kitajima Branch",
+     "name_ja": "麵屋國丸北島店",
+     "description": "Restaurant in Kitajima.",
+     "source_url": "https://www.openstreetmap.org/way/373882206",
+     "page": "https://bokenjapan.com/tokushima/kitajima/eat/other/",
+     "category": "Other"
     },
     {
      "name": "Sumibi Yaki Unagi Unagi Gatsu",
@@ -4753,7 +5547,7 @@
      "page": "https://bokenjapan.com/tokushima/kitajima/see/"
     },
     {
-     "name": "Churippuhausu",
+     "name": "Tulip House",
      "description": "Sightseeing spot in Kitajima, Tokushima.",
      "source_url": "https://www.town.kitajima.lg.jp/docs/252.html",
      "page": "https://bokenjapan.com/tokushima/kitajima/see/"
@@ -4879,7 +5673,7 @@
     "address": "1-1 Yokosu-cho, Komatsushima, Tokushima 773-8501, Japan",
     "phone": "0885-32-2111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Komatsushima City Hall",
@@ -4900,6 +5694,15 @@
    ],
    "food": [
     {
+     "name": "Tanbo Tohatake no Cafe",
+     "name_en": "Tanbo Tohatake no Cafe",
+     "name_ja": "田んぼと畑のカフェ",
+     "description": "Cafe in Komatsushima.",
+     "source_url": "https://www.openstreetmap.org/node/12064394221",
+     "page": "https://bokenjapan.com/tokushima/komatsushima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Restaurant in Komatsushima",
      "name_en": "Restaurant in Komatsushima",
      "name_ja": "田んぼと畑のレストラン あいさいキッチン",
@@ -4914,6 +5717,24 @@
      "name_ja": "津久司蒲鉾",
      "description": "Casual restaurant in Komatsushima, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3601/A360103/36004802/",
+     "page": "https://bokenjapan.com/tokushima/komatsushima/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Fast-food restaurant in Komatsushima",
+     "name_en": "Fast-food restaurant in Komatsushima",
+     "name_ja": "CoCo壱番屋 小松島バイパス店",
+     "description": "Fast-food restaurant in Komatsushima.",
+     "source_url": "https://www.openstreetmap.org/node/1808475118",
+     "page": "https://bokenjapan.com/tokushima/komatsushima/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "MOS BURGER",
+     "name_en": "MOS BURGER",
+     "name_ja": "モスバーガー",
+     "description": "Burger fast-food restaurant in Komatsushima.",
+     "source_url": "https://www.openstreetmap.org/node/1883337670",
      "page": "https://bokenjapan.com/tokushima/komatsushima/eat/casual/",
      "category": "Casual"
     },
@@ -4945,11 +5766,38 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Gyoza no Osho",
+     "name_en": "Gyoza no Osho",
+     "name_ja": "餃子の王将",
+     "description": "Chinese restaurant in Komatsushima.",
+     "source_url": "https://www.openstreetmap.org/node/6084573586",
+     "page": "https://bokenjapan.com/tokushima/komatsushima/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Okamoto Chuka",
+     "name_en": "Okamoto Chuka",
+     "name_ja": "岡本中華",
+     "description": "Asian restaurant in Komatsushima.",
+     "source_url": "https://www.openstreetmap.org/node/5056203521",
+     "page": "https://bokenjapan.com/tokushima/komatsushima/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Kitchen Emi",
      "name_en": "Kitchen Emi",
      "name_ja": "キッチンゑみ",
      "description": "European restaurant in Komatsushima, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3601/A360103/36005081/",
+     "page": "https://bokenjapan.com/tokushima/komatsushima/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Gusto",
+     "name_en": "Gusto",
+     "name_ja": "ガスト",
+     "description": "Western-style restaurant in Komatsushima.",
+     "source_url": "https://www.openstreetmap.org/node/12064648203",
      "page": "https://bokenjapan.com/tokushima/komatsushima/eat/european/",
      "category": "European"
     },
@@ -4972,8 +5820,8 @@
      "category": "Japanese (meat)"
     },
     {
-     "name": "Okamoto Chinese Komatsu Shima Main Store",
-     "name_en": "Okamoto Chinese Komatsu Shima Main Store",
+     "name": "Okamoto Chinese Komatsushima Main Store",
+     "name_en": "Okamoto Chinese Komatsushima Main Store",
      "name_ja": "岡本中華 小松島本店",
      "description": "Noodle restaurant in Komatsushima, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3601/A360103/36000030/",
@@ -5080,11 +5928,83 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Yu~ Chan Ramen",
+     "name_en": "Yu~ Chan Ramen",
+     "name_ja": "ゆ～ちゃんラーメン",
+     "description": "Ramen restaurant in Komatsushima.",
+     "source_url": "https://www.awanavi.jp/archives/spot/2416",
+     "page": "https://bokenjapan.com/tokushima/komatsushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Chachan Udon",
+     "name_en": "Chachan Udon",
+     "name_ja": "ちゃーちゃんうどん",
+     "description": "Noodle restaurant in Komatsushima.",
+     "source_url": "https://www.openstreetmap.org/node/12064394222",
+     "page": "https://bokenjapan.com/tokushima/komatsushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Soba Chaya Tamako",
+     "name_en": "Soba Chaya Tamako",
+     "name_ja": "そば茶屋 玉好",
+     "description": "Soba restaurant in Komatsushima.",
+     "source_url": "https://www.openstreetmap.org/node/3057328854",
+     "page": "https://bokenjapan.com/tokushima/komatsushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tokushima Ramen Menhachi",
+     "name_en": "Tokushima Ramen Menhachi",
+     "name_ja": "徳島ラーメン 麺八",
+     "description": "Ramen restaurant in Komatsushima.",
+     "source_url": "https://www.openstreetmap.org/node/12064038557",
+     "page": "https://bokenjapan.com/tokushima/komatsushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Aisai Kitchen",
+     "name_en": "Aisai Kitchen",
+     "name_ja": "あいさいキッチン",
+     "description": "Restaurant in Komatsushima. Open daily 11:00-14:30.",
+     "source_url": "https://www.openstreetmap.org/node/12064394220",
+     "page": "https://bokenjapan.com/tokushima/komatsushima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Issho Daikichi",
+     "name_en": "Issho Daikichi",
+     "name_ja": "一生大吉",
+     "description": "Restaurant in Komatsushima.",
+     "source_url": "https://www.openstreetmap.org/node/12064394223",
+     "page": "https://bokenjapan.com/tokushima/komatsushima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Joyfull",
+     "name_en": "Joyfull",
+     "name_ja": "ジョイフル",
+     "description": "Restaurant in Komatsushima.",
+     "source_url": "https://www.openstreetmap.org/way/456264872",
+     "page": "https://bokenjapan.com/tokushima/komatsushima/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Ohirugohan & Osakegohan MOG Shokudo",
      "name_en": "Ohirugohan & Osakegohan MOG Shokudo",
      "name_ja": "おひるごはん&おさけごはん MOG食堂",
      "description": "Japanese restaurant in Komatsushima, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3601/A360103/36007576/",
+     "page": "https://bokenjapan.com/tokushima/komatsushima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Komatsushima Shokudo",
+     "name_en": "Komatsushima Shokudo",
+     "name_ja": "小松島食堂",
+     "description": "Japanese restaurant in Komatsushima.",
+     "source_url": "https://www.openstreetmap.org/node/12064394228",
      "page": "https://bokenjapan.com/tokushima/komatsushima/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -5114,6 +6034,24 @@
      "source_url": "https://tabelog.com/tokushima/A3601/A360103/36008502/",
      "page": "https://bokenjapan.com/tokushima/komatsushima/eat/seafood/",
      "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushiro Komatsushima Branch",
+     "name_en": "Sushiro Komatsushima Branch",
+     "name_ja": "スシロー 小松島店",
+     "description": "Sushi restaurant in Komatsushima.",
+     "source_url": "https://www.openstreetmap.org/node/1808475125",
+     "page": "https://bokenjapan.com/tokushima/komatsushima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Awawa",
+     "name_en": "Awawa",
+     "name_ja": "あわわ",
+     "description": "Sweets shop in Komatsushima. Open daily 09:00-18:00.",
+     "source_url": "https://www.openstreetmap.org/node/6084573685",
+     "page": "https://bokenjapan.com/tokushima/komatsushima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "sights": [
@@ -5144,32 +6082,32 @@
    ],
    "stays": [
     {
-     "name": "Komatsu Shima Resort snowpeak glamping tokushima komatsushima",
-     "name_en": "Komatsu Shima Resort snowpeak glamping tokushima komatsushima",
+     "name": "Komatsushima Resort snowpeak glamping tokushima komatsushima",
+     "name_en": "Komatsushima Resort snowpeak glamping tokushima komatsushima",
      "name_ja": "小松島リゾート snowpeak glamping tokushima komatsushima",
      "description": "Resort hotel in Komatsushima, Tokushima.",
      "source_url": "https://www.ikyu.com/00051446/",
      "page": "https://bokenjapan.com/tokushima/komatsushima/stay/"
     },
     {
-     "name": "Super Hotel Toku Shima Komatsu Shima Tennen Onsen (2021 Nen 7 Gatsu 30 Nichi Opening )",
-     "name_en": "Super Hotel Toku Shima Komatsu Shima Tennen Onsen (2021 Nen 7 Gatsu 30 Nichi Opening )",
+     "name": "Super Hotel Tokushima Komatsushima Tennen Onsen (2021 Nen 7 Gatsu 30 Nichi Opening)",
+     "name_en": "Super Hotel Tokushima Komatsushima Tennen Onsen (2021 Nen 7 Gatsu 30 Nichi Opening)",
      "name_ja": "スーパーホテル徳島・小松島天然温泉(2021年7月30日オープン)",
      "description": "Hotel at Komatsushimatennen Onsen in Komatsushima with breakfast available.",
      "source_url": "https://www.jalan.net/yad361509/",
      "page": "https://bokenjapan.com/tokushima/komatsushima/stay/"
     },
     {
-     "name": "SNOW PEAK GLAMPING TOKUSHIMA KOMATSUSHIMA Komatsu Shima Resort",
-     "name_en": "SNOW PEAK GLAMPING TOKUSHIMA KOMATSUSHIMA Komatsu Shima Resort",
+     "name": "SNOW PEAK GLAMPING TOKUSHIMA KOMATSUSHIMA Komatsushima Resort",
+     "name_en": "SNOW PEAK GLAMPING TOKUSHIMA KOMATSUSHIMA Komatsushima Resort",
      "name_ja": "SNOW PEAK GLAMPING TOKUSHIMA KOMATSUSHIMA 小松島リゾート",
      "description": "Resort hotel in Nakada, Komatsushima with scenic views.",
      "source_url": "https://www.jalan.net/yad337250/",
      "page": "https://bokenjapan.com/tokushima/komatsushima/stay/"
     },
     {
-     "name": "HOTEL AZ Toku Shima Komatsu Shima",
-     "name_en": "HOTEL AZ Toku Shima Komatsu Shima",
+     "name": "HOTEL AZ Tokushima Komatsushima",
+     "name_en": "HOTEL AZ Tokushima Komatsushima",
      "name_ja": "HOTEL AZ 徳島小松島店",
      "description": "Inn in Kaneiso, Komatsushima with business travelers.",
      "source_url": "https://www.jalan.net/yad315862/",
@@ -5293,8 +6231,8 @@
      "category": "Japanese (meat)"
     },
     {
-     "name": "Takara Ramen Toku Shima Awa Odori Kuko",
-     "name_en": "Takara Ramen Toku Shima Awa Odori Kuko",
+     "name": "Takara Ramen Tokushima Awa Odori Kuko",
+     "name_en": "Takara Ramen Tokushima Awa Odori Kuko",
      "name_ja": "宝ラーメン 徳島阿波おどり空港店",
      "description": "Ramen restaurant in Matsushige, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3601/A360102/36005033/",
@@ -5567,8 +6505,8 @@
      "page": "https://bokenjapan.com/tokushima/matsushige/stay/"
     },
     {
-     "name": "Iseya INN Toku Shima",
-     "name_en": "Iseya INN Toku Shima",
+     "name": "Iseya INN Tokushima",
+     "name_en": "Iseya INN Tokushima",
      "name_ja": "イセヤＩＮＮ徳島",
      "description": "Inn in Sasakino, Matsushige with breakfast available and business travelers.",
      "source_url": "https://www.jalan.net/yad300894/",
@@ -5599,7 +6537,7 @@
     "address": "5 Kutanchi, Anabuki, Anabuki-cho, Mima, Tokushima 777-8577, Japan",
     "phone": "0883-52-1212"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Buruberii Kari - Anabuki / Shidashi Hara Buruberii Tourist Farm",
@@ -5678,6 +6616,15 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Kojun",
+     "name_en": "Kojun",
+     "name_ja": "鴻順",
+     "description": "Chinese restaurant in Mima Shi Wakicho, Mima. Closed Mon; Tue-Sun, public holidays 10:00-15:00, 17:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/11465385114",
+     "page": "https://bokenjapan.com/tokushima/mima/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Curry restaurant in Mima",
      "name_en": "Curry restaurant in Mima",
      "name_ja": "マハラジャスパイス 脇町店",
@@ -5711,6 +6658,32 @@
      "source_url": "https://tabelog.com/tokushima/A3603/A360302/36003382/",
      "page": "https://bokenjapan.com/tokushima/mima/eat/european/",
      "category": "European"
+    },
+    {
+     "name": "Luire",
+     "name_en": "Luire",
+     "description": "Bar in Mima.",
+     "source_url": "https://www.openstreetmap.org/node/12066020605",
+     "page": "https://bokenjapan.com/tokushima/mima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yakiniku Tenzan Kaku",
+     "name_en": "Yakiniku Tenzan Kaku",
+     "name_ja": "焼肉 天山閣",
+     "description": "Barbecue restaurant in Mima.",
+     "source_url": "https://www.openstreetmap.org/node/12069139961",
+     "page": "https://bokenjapan.com/tokushima/mima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Tsuru Matsu",
+     "name_en": "Yakiniku Tsuru Matsu",
+     "name_ja": "焼肉 つる松",
+     "description": "Barbecue restaurant in Mima.",
+     "source_url": "https://www.openstreetmap.org/node/12066020624",
+     "page": "https://bokenjapan.com/tokushima/mima/eat/meat/",
+     "category": "Japanese (meat)"
     },
     {
      "name": "Nidaime Tenryu",
@@ -5812,6 +6785,42 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Hanachikara",
+     "name_en": "Hanachikara",
+     "name_ja": "華力",
+     "description": "Ramen restaurant in Mima.",
+     "source_url": "https://www.openstreetmap.org/node/12086869201",
+     "page": "https://bokenjapan.com/tokushima/mima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Noodle restaurant in Mima (#3)",
+     "name_en": "Noodle restaurant in Mima (#3)",
+     "name_ja": "めん処 かねか",
+     "description": "Noodle restaurant in Mima.",
+     "source_url": "https://www.openstreetmap.org/node/12066016697",
+     "page": "https://bokenjapan.com/tokushima/mima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menya Kunimaru",
+     "name_en": "Menya Kunimaru",
+     "name_ja": "麺屋國丸",
+     "description": "Ramen restaurant in Mima.",
+     "source_url": "https://www.openstreetmap.org/node/12086869214",
+     "page": "https://bokenjapan.com/tokushima/mima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Serufu Udon Yama",
+     "name_en": "Serufu Udon Yama",
+     "name_ja": "セルフうどん やま",
+     "description": "Noodle restaurant in Mima. Open daily 10:00-20:00.",
+     "source_url": "https://www.openstreetmap.org/node/13637540397",
+     "page": "https://bokenjapan.com/tokushima/mima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Michi no Eki Mima no Sato",
      "name_en": "Michi no Eki Mima no Sato",
      "name_ja": "道の駅 みまの里",
@@ -5826,6 +6835,33 @@
      "name_ja": "三々亭",
      "description": "Japanese restaurant in Mima, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3603/A360302/36003687/",
+     "page": "https://bokenjapan.com/tokushima/mima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Aka no Ren",
+     "name_en": "Aka no Ren",
+     "name_ja": "赤のれん",
+     "description": "Japanese restaurant in Mima.",
+     "source_url": "https://www.openstreetmap.org/node/10235425797",
+     "page": "https://bokenjapan.com/tokushima/mima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Fujimoto",
+     "name_en": "Fujimoto",
+     "name_ja": "富士本",
+     "description": "Japanese restaurant in Mima.",
+     "source_url": "https://www.openstreetmap.org/node/10237942922",
+     "page": "https://bokenjapan.com/tokushima/mima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shiki Ryori Moritomo",
+     "name_en": "Shiki Ryori Moritomo",
+     "name_ja": "四季料理 森友",
+     "description": "Japanese restaurant in Mima.",
+     "source_url": "https://www.openstreetmap.org/node/11469121132",
      "page": "https://bokenjapan.com/tokushima/mima/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -6967,7 +8003,7 @@
      "page": "https://bokenjapan.com/tokushima/minami/see/"
     },
     {
-     "name": "Ebisu Hama Kyanpu Village",
+     "name": "Ebisu Hama Camp Village",
      "description": "Sightseeing spot in Minami Town, Tokushima.",
      "source_url": "https://www.town.minami.lg.jp/docs/182.html",
      "page": "https://bokenjapan.com/tokushima/minami/see/"
@@ -7047,7 +8083,7 @@
     "address": "1610-1 Sarada, Ikeda-cho, Miyoshi, Tokushima 778-8501, Japan",
     "phone": "0883-72-7600"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Miyoshi City Hall",
@@ -7073,6 +8109,23 @@
      "name_ja": "ハレとケ珈琲",
      "description": "Cafe in Miyoshi, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3604/A360401/36005831/",
+     "page": "https://bokenjapan.com/tokushima/miyoshi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Togenkyo Iya no Yamazato",
+     "name_en": "Togenkyo Iya no Yamazato",
+     "name_ja": "桃源郷祖谷の山里",
+     "description": "Cafe in Miyoshi.",
+     "source_url": "http://www.tougenkyo-iya.jp/stay/index.html",
+     "page": "https://bokenjapan.com/tokushima/miyoshi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Tsuzuki Soba Workshop",
+     "name_en": "Tsuzuki Soba Workshop",
+     "description": "Japanese cafe in Miyoshi.",
+     "source_url": "https://www.openstreetmap.org/way/389529571",
      "page": "https://bokenjapan.com/tokushima/miyoshi/eat/cafe/",
      "category": "Cafe"
     },
@@ -7118,6 +8171,14 @@
      "name_ja": "イスバ",
      "description": "European restaurant in Miyoshi, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3604/A360401/36001707/",
+     "page": "https://bokenjapan.com/tokushima/miyoshi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "La Tavola",
+     "name_en": "La Tavola",
+     "description": "Italian restaurant in Miyoshi.",
+     "source_url": "https://www.openstreetmap.org/node/13934882172",
      "page": "https://bokenjapan.com/tokushima/miyoshi/eat/european/",
      "category": "European"
     },
@@ -7220,6 +8281,15 @@
      "category": "Other"
     },
     {
+     "name": "Michi no Eki Nishiiya",
+     "name_en": "Michi no Eki Nishiiya",
+     "name_ja": "道の駅にしいや",
+     "description": "Restaurant in Miyoshi.",
+     "source_url": "https://www.openstreetmap.org/node/6874544510",
+     "page": "https://bokenjapan.com/tokushima/miyoshi/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Ikoi Shokudo",
      "name_en": "Ikoi Shokudo",
      "name_ja": "いこい食堂",
@@ -7243,6 +8313,15 @@
      "name_ja": "あめご亭",
      "description": "Japanese restaurant in Miyoshi, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3604/A360401/36002149/",
+     "page": "https://bokenjapan.com/tokushima/miyoshi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shin",
+     "name_en": "Shin",
+     "name_ja": "しん",
+     "description": "Japanese restaurant in Miyoshi.",
+     "source_url": "https://www.openstreetmap.org/node/8296991292",
      "page": "https://bokenjapan.com/tokushima/miyoshi/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -8255,7 +9334,7 @@
      "page": "https://bokenjapan.com/tokushima/naka/see/"
     },
     {
-     "name": "Mina Kawa Kyanpu Village",
+     "name": "Mina Kawa Camp Village",
      "description": "Sightseeing spot in Naka Town, Tokushima.",
      "source_url": "https://www.town.tokushima-naka.lg.jp/gyosei/institution/shurui/1914.html",
      "page": "https://bokenjapan.com/tokushima/naka/see/"
@@ -8329,7 +9408,7 @@
     "address": "170 Higashi-hama, Minamihama, Muya-cho, Naruto, Tokushima 772-8501, Japan",
     "phone": "088-684-1111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Naruto City Hall",
@@ -8356,6 +9435,22 @@
      "name_ja": "カフェ・ド・ジヴェルニー",
      "description": "Cafe in Naruto, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3601/A360102/36003543/",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "dance cafe",
+     "name_en": "dance cafe",
+     "description": "Cafe in Naruto.",
+     "source_url": "https://www.openstreetmap.org/node/14202560405",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "over easy",
+     "name_en": "over easy",
+     "description": "Cafe in Naruto.",
+     "source_url": "https://www.openstreetmap.org/node/13972006682",
      "page": "https://bokenjapan.com/tokushima/naruto/eat/cafe/",
      "category": "Cafe"
     },
@@ -8387,6 +9482,41 @@
      "category": "Casual"
     },
     {
+     "name": "Bagles!",
+     "name_en": "Bagles!",
+     "description": "Fast-food restaurant in Naruto. Closed Mon, Fri; Tue-Thu, Sat-Sun 13:00-17:00.",
+     "source_url": "https://www.openstreetmap.org/node/14202553328",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Bento no Ekubo",
+     "name_en": "Bento no Ekubo",
+     "name_ja": "弁当のえくぼ",
+     "description": "Fast-food restaurant in Naruto.",
+     "source_url": "https://www.openstreetmap.org/node/13972006602",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Hanachan",
+     "name_en": "Hanachan",
+     "name_ja": "はなちゃん",
+     "description": "Fast-food restaurant in Naruto.",
+     "source_url": "https://www.openstreetmap.org/node/13981088307",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Tako Yaki Fufu",
+     "name_en": "Tako Yaki Fufu",
+     "name_ja": "たこ焼きふぅふぅ",
+     "description": "Fast-food restaurant in Kokuwa Shimaji Nishihama, Naruto.",
+     "source_url": "https://www.openstreetmap.org/node/12461134230",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Chinese or Asian restaurant in Naruto",
      "name_en": "Chinese or Asian restaurant in Naruto",
      "name_ja": "中国料理 翆陽",
@@ -8394,6 +9524,33 @@
      "source_url": "https://tabelog.com/tokushima/A3601/A360102/36000726/",
      "page": "https://bokenjapan.com/tokushima/naruto/eat/chinese-asian/",
      "category": "Chinese & Asian"
+    },
+    {
+     "name": "Juraku Sono",
+     "name_en": "Juraku Sono",
+     "name_ja": "聚楽園",
+     "description": "Chinese restaurant in Naruto.",
+     "source_url": "https://www.openstreetmap.org/node/14202454882",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Indian restaurant in Naruto (#2)",
+     "name_en": "Indian restaurant in Naruto (#2)",
+     "name_ja": "ナマステネパール・インド・バングラデシュ料理レストラン",
+     "description": "Indian restaurant in Naruto.",
+     "source_url": "https://www.openstreetmap.org/node/14202541884",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Indian restaurant in Naruto (#1)",
+     "name_en": "Indian restaurant in Naruto (#1)",
+     "name_ja": "ポカラ",
+     "description": "Indian restaurant in Naruto.",
+     "source_url": "https://www.openstreetmap.org/node/10297903840",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/curry/",
+     "category": "Curry"
     },
     {
      "name": "European restaurant in Naruto (#5)",
@@ -8419,6 +9576,23 @@
      "name_ja": "リストランテ フィッシュボーン",
      "description": "European restaurant in Naruto, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3601/A360102/36000070/",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "French restaurant in Naruto",
+     "name_en": "French restaurant in Naruto",
+     "name_ja": "フランス料理フォーシーズン",
+     "description": "French restaurant in Naruto.",
+     "source_url": "https://www.openstreetmap.org/node/6376927422",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Gemma",
+     "name_en": "Gemma",
+     "description": "Italian restaurant in Naruto.",
+     "source_url": "https://www.openstreetmap.org/node/13972006688",
      "page": "https://bokenjapan.com/tokushima/naruto/eat/european/",
      "category": "European"
     },
@@ -8495,6 +9669,33 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Shina Soba Sampachi",
+     "name_en": "Shina Soba Sampachi",
+     "name_ja": "支那そば三八",
+     "description": "Ramen restaurant in Naruto. Open Mon-Fri 11:00-15:00, 17:00-20:00; Sat-Sun, public holidays 11:00-20:00.",
+     "source_url": "https://www.openstreetmap.org/node/14202830736",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tobo Saku",
+     "name_en": "Tobo Saku",
+     "name_ja": "とぼ作",
+     "description": "Noodle restaurant in Naruto.",
+     "source_url": "https://www.openstreetmap.org/node/14202943817",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Minami",
+     "name_en": "Minami",
+     "name_ja": "美波",
+     "description": "Restaurant in Naruto.",
+     "source_url": "https://www.openstreetmap.org/node/13972006699",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Nippon Cuisine Eitai",
      "name_en": "Nippon Cuisine Eitai",
      "name_ja": "日本料理 永代",
@@ -8518,6 +9719,87 @@
      "name_ja": "鳴門",
      "description": "Japanese restaurant in Naruto, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3601/A360102/36002882/",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ogata-syouten",
+     "name_en": "Ogata-syouten",
+     "name_ja": "おがた商店",
+     "description": "Japanese and Regional Japanese restaurant in Naruto. Open daily 09:00-17:00.",
+     "source_url": "https://ogata-syouten.jimdofree.com/",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yoshoku Moto",
+     "name_en": "Yoshoku Moto",
+     "name_ja": "洋食元",
+     "description": "Japanese restaurant in Naruto.",
+     "source_url": "http://www.restaurant-gen.net/",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Asoko Shokudo",
+     "name_en": "Asoko Shokudo",
+     "name_ja": "あそこ食堂",
+     "description": "Japanese restaurant in Naruto.",
+     "source_url": "https://www.openstreetmap.org/node/13980898082",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Awa Kyodo Ryori Sai",
+     "name_en": "Awa Kyodo Ryori Sai",
+     "name_ja": "阿波郷土料理 彩",
+     "description": "Regional Japanese restaurant in Naruto.",
+     "source_url": "https://www.openstreetmap.org/node/10094461782",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Michikusa",
+     "name_en": "Michikusa",
+     "name_ja": "みちくさ",
+     "description": "Japanese restaurant in Naruto.",
+     "source_url": "https://www.openstreetmap.org/node/13980898065",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Nanachi",
+     "name_en": "Nanachi",
+     "name_ja": "ななち",
+     "description": "Japanese restaurant in Naruto.",
+     "source_url": "https://www.openstreetmap.org/node/14202943819",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Naruto",
+     "name_en": "Japanese restaurant in Naruto",
+     "name_ja": "お好み焼き 遊々",
+     "description": "Japanese restaurant in Naruto.",
+     "source_url": "https://www.openstreetmap.org/node/13972240013",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Watokoro Tomimasu",
+     "name_en": "Watokoro Tomimasu",
+     "name_ja": "和処とみます",
+     "description": "Japanese restaurant in Naruto.",
+     "source_url": "https://www.openstreetmap.org/node/14202531575",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yasutomo",
+     "name_en": "Yasutomo",
+     "name_ja": "安友",
+     "description": "Japanese restaurant in Naruto.",
+     "source_url": "https://www.openstreetmap.org/node/13972006687",
      "page": "https://bokenjapan.com/tokushima/naruto/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -8549,6 +9831,24 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Myodai Hisashishi Tatsu",
+     "name_en": "Myodai Hisashishi Tatsu",
+     "name_ja": "名代 寿し辰",
+     "description": "Sushi restaurant in Naruto.",
+     "source_url": "https://www.openstreetmap.org/node/10297632942",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi restaurant in Naruto",
+     "name_en": "Sushi restaurant in Naruto",
+     "name_ja": "小づち寿司",
+     "description": "Sushi restaurant in Naruto.",
+     "source_url": "https://www.openstreetmap.org/node/10297903848",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Sweets and bakery shop in Naruto (#15)",
      "name_en": "Sweets and bakery shop in Naruto (#15)",
      "name_ja": "ベーカリー イモホレタ",
@@ -8563,6 +9863,22 @@
      "name_ja": "ナルトエエモン",
      "description": "Sweets and bakery shop in Naruto, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3601/A360102/36008175/",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Caputto",
+     "name_en": "Caputto",
+     "description": "Pastry shop in Naruto.",
+     "source_url": "https://www.openstreetmap.org/node/13972240016",
+     "page": "https://bokenjapan.com/tokushima/naruto/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Nalu Ge",
+     "name_en": "Nalu Ge",
+     "description": "Ice cream shop in Naruto.",
+     "source_url": "https://www.openstreetmap.org/node/13972006681",
      "page": "https://bokenjapan.com/tokushima/naruto/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -8866,7 +10182,7 @@
     "address": "2-5 Saiwai-cho, Tokushima, Tokushima 770-8571, Japan",
     "phone": "088-621-5111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Tokushima City Hall",
@@ -8895,6 +10211,187 @@
    ],
    "food": [
     {
+     "name": "Coffee Senya Maisen",
+     "name_en": "Coffee Senya Maisen",
+     "name_ja": "珈琲煎屋 まいせん",
+     "description": "Cafe in Ko Machi, Tokushima.",
+     "source_url": "http://www.uma-e.net/tokushima/home/maisen/",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "AWA DOLL",
+     "name_en": "AWA DOLL",
+     "description": "Cafe in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/2991786566",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "cafe MONTE",
+     "name_en": "cafe MONTE",
+     "description": "Cafe in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/3761222562",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "CHA-CHA HOUSE COFFEE",
+     "name_en": "CHA-CHA HOUSE COFFEE",
+     "description": "Cafe in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/3761175293",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Coffe SK",
+     "name_en": "Coffe SK",
+     "description": "Cafe in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/2991945837",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "GrandCafe",
+     "name_en": "GrandCafe",
+     "description": "Cafe in Tokushima. Open daily 10:00-18:00.",
+     "source_url": "https://www.openstreetmap.org/node/3212069775",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "HATS ESPRESSIVO",
+     "name_en": "HATS ESPRESSIVO",
+     "description": "Burger cafe in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/way/317138831",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "La vie en Rose",
+     "name_en": "La vie en Rose",
+     "description": "Cafe in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/3752331061",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Lanan cafe",
+     "name_en": "Lanan cafe",
+     "description": "Cafe in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/3755457917",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Moonlight COFFEE STAND",
+     "name_en": "Moonlight COFFEE STAND",
+     "description": "Cafe in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/3741184469",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "OSTERIA CAFE BAR CITRON",
+     "name_en": "OSTERIA CAFE BAR CITRON",
+     "description": "Cafe in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/14265051783",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "POINT NEUF kissa",
+     "name_en": "POINT NEUF kissa",
+     "description": "Cafe in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/2991740559",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Snack Zatsudan",
+     "name_en": "Snack Zatsudan",
+     "name_ja": "スナック雑談",
+     "description": "Cafe in Tokushima. Open Sun 06:00-12:00.",
+     "source_url": "https://www.openstreetmap.org/node/13060988924",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "ufotable cafe",
+     "name_en": "ufotable cafe",
+     "description": "Cafe in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/3752499776",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "S.B.DINER TOKUSHIMA",
+     "name_en": "S.B.DINER TOKUSHIMA",
+     "description": "Burger restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/14270823979",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "CAMRY",
+     "name_en": "CAMRY",
+     "description": "Vietnamese restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/2991947642",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Komei Kan",
+     "name_en": "Komei Kan",
+     "name_ja": "孔明館",
+     "description": "Chinese restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/2618137784",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Rairai",
+     "name_en": "Rairai",
+     "name_ja": "来来",
+     "description": "Chinese restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/3754039580",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Ryuho Hanten",
+     "name_en": "Ryuho Hanten",
+     "name_ja": "龍鳳飯店",
+     "description": "Chinese restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/3761183054",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "XICH LO",
+     "name_en": "XICH LO",
+     "description": "Vietnamese restaurant in Tokushima. Open daily 17:30-21:30.",
+     "source_url": "https://www.openstreetmap.org/node/14203175448",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "KOPOLI",
+     "name_en": "KOPOLI",
+     "description": "Curry restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/14270144353",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "MASALA",
+     "name_en": "MASALA",
+     "description": "Indian restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/3608166391",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/curry/",
+     "category": "Curry"
+    },
+    {
      "name": "European restaurant in Tokushima (#9)",
      "name_en": "European restaurant in Tokushima (#9)",
      "name_ja": "スガッチィー",
@@ -8917,6 +10414,65 @@
      "name_ja": "ポエシア",
      "description": "European restaurant in Tokushima, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3601/A360101/36005048/",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "French restaurant in Tokushima",
+     "name_en": "French restaurant in Tokushima",
+     "name_ja": "ビストロ がぶり",
+     "description": "French restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/2993256232",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Como Siempre",
+     "name_en": "Como Siempre",
+     "description": "Italian restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/14270144355",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Girasole",
+     "name_en": "Girasole",
+     "name_ja": "ジラソーレ",
+     "description": "Italian restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/6364042486",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "IL LUPO",
+     "name_en": "IL LUPO",
+     "description": "Italian restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/14270823949",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "LA FONTANA",
+     "name_en": "LA FONTANA",
+     "description": "Italian restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/13938632885",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Sebasuchan",
+     "name_en": "Sebasuchan",
+     "name_ja": "せばすちゃん",
+     "description": "Italian restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/2991960841",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "UP-TOWN",
+     "name_en": "UP-TOWN",
+     "description": "Pasta restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/14268378682",
      "page": "https://bokenjapan.com/tokushima/tokushima/eat/european/",
      "category": "European"
     },
@@ -8962,6 +10518,23 @@
      "name_ja": "Bar 余白",
      "description": "Izakaya or bar in Tokushima, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3601/A360101/36007504/",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "LINE BAR",
+     "name_en": "LINE BAR",
+     "description": "Pub in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/3754115471",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "UOYA",
+     "name_en": "UOYA",
+     "name_ja": "魚屋",
+     "description": "Pub in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/3079180399",
      "page": "https://bokenjapan.com/tokushima/tokushima/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -9020,6 +10593,68 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Yakiniku restaurant in Tokushima",
+     "name_en": "Yakiniku restaurant in Tokushima",
+     "name_ja": "焼肉 天山閣 国府店",
+     "description": "Yakiniku restaurant in Ko Machi, Tokushima.",
+     "source_url": "https://tenzankaku.jp",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Chidori",
+     "name_en": "Chidori",
+     "name_ja": "ちどり",
+     "description": "Chicken restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/3757622191",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Steak restaurant in Tokushima",
+     "name_en": "Steak restaurant in Tokushima",
+     "name_ja": "ドンガバチョ",
+     "description": "Steak restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/2938253737",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Ishikawa Shoten",
+     "name_en": "Ishikawa Shoten",
+     "name_ja": "石川商店",
+     "description": "Chicken restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/3752499766",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "MEATDAY MEETNIGHT",
+     "name_en": "MEATDAY MEETNIGHT",
+     "description": "Beef restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/14273226387",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Toriken",
+     "name_en": "Toriken",
+     "name_ja": "とりけん",
+     "description": "Yakitori pub in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/2991949361",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Toritori",
+     "name_en": "Toritori",
+     "name_ja": "とりとり",
+     "description": "Yakitori pub in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/2991953716",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Inotani Main Store",
      "name_en": "Inotani Main Store",
      "name_ja": "いのたに 本店",
@@ -9045,6 +10680,220 @@
      "source_url": "https://tabelog.com/tokushima/A3601/A360101/36004932/",
      "page": "https://bokenjapan.com/tokushima/tokushima/eat/noodles/",
      "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Soba restaurant in Tokushima",
+     "name_en": "Soba restaurant in Tokushima",
+     "name_ja": "総本家橋本 そば蔵",
+     "description": "Soba restaurant in Tokushima. Open daily 11:00-21:30.",
+     "source_url": "https://www.kisoba.co.jp/",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Serufu Udon Yama",
+     "name_en": "Serufu Udon Yama",
+     "name_ja": "セルフうどん やま",
+     "description": "Udon restaurant in Tokushima. Open daily 07:00-21:00.",
+     "source_url": "http://grand-p.co.jp/yama/",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "86noodle",
+     "name_en": "86noodle",
+     "description": "Ramen restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/14287123449",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Awaya",
+     "name_en": "Awaya",
+     "name_ja": "阿波屋",
+     "description": "Ramen restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/3184534931",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Chuka Soba Yamakyo",
+     "name_en": "Chuka Soba Yamakyo",
+     "name_ja": "中華そば やまきょう",
+     "description": "Ramen restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/6092676285",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "DAI-SON",
+     "name_en": "DAI-SON",
+     "name_ja": "大孫",
+     "description": "Noodle and ramen restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/3608364775",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen restaurant in Tokushima",
+     "name_en": "Ramen restaurant in Tokushima",
+     "name_ja": "堂の浦",
+     "description": "Ramen restaurant in Tokushima. Open daily 11:30-14:00, 18:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/14205383932",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ginza Ichifuku",
+     "name_en": "Ginza Ichifuku",
+     "name_ja": "銀座一福",
+     "description": "Ramen restaurant in Tokushima. Open Tue-Sun 11:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/4727896291",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Hachimanya",
+     "name_en": "Hachimanya",
+     "name_ja": "八万屋",
+     "description": "Ramen restaurant in Tokushima. Open Wed-Mon 11:00-03:00.",
+     "source_url": "https://www.openstreetmap.org/node/4728971292",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kagetsu",
+     "name_en": "Kagetsu",
+     "name_ja": "花月",
+     "description": "Noodle restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/2938240366",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kendo Chaya",
+     "name_en": "Kendo Chaya",
+     "name_ja": "けんど茶屋",
+     "description": "Ramen and udon restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/2991804124",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kurumaya",
+     "name_en": "Kurumaya",
+     "name_ja": "くるまや",
+     "description": "Ramen restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/5050324621",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menya Remon",
+     "name_en": "Menya Remon",
+     "name_ja": "麺屋 れもん",
+     "description": "Soba restaurant in Tokushima. Open Mon-Sat 10:00-19:00.",
+     "source_url": "https://www.openstreetmap.org/node/6044086585",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menya Rokkon",
+     "name_en": "Menya Rokkon",
+     "name_ja": "麺屋 六根",
+     "description": "Noodle and ramen restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/3608601164",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Shina Soba Yoke",
+     "name_en": "Shina Soba Yoke",
+     "name_ja": "支那そば よあけ",
+     "description": "Noodle restaurant in Tokushima. Open daily 10:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/2938194719",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Shogun",
+     "name_en": "Shogun",
+     "name_ja": "将軍",
+     "description": "Noodle and ramen restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/2991868881",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tokushima Ramen Meno",
+     "name_en": "Tokushima Ramen Meno",
+     "name_ja": "徳島ラーメン 麺王",
+     "description": "Noodle and ramen restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/3608168933",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tokushima Ramen Meno Tokushima Ekimae Main Store",
+     "name_en": "Tokushima Ramen Meno Tokushima Ekimae Main Store",
+     "name_ja": "徳島ラーメン麺王 徳島駅前本店",
+     "description": "Noodle restaurant in Tokushima. Open daily 11:00-00:00.",
+     "source_url": "https://www.openstreetmap.org/node/6098756988",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Toudai ramen",
+     "name_en": "Toudai ramen",
+     "name_ja": "東大ラメン",
+     "description": "Ramen restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/5142077223",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon no Yamashita",
+     "name_en": "Udon no Yamashita",
+     "name_ja": "うどんの山下",
+     "description": "Noodle restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/6125944589",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Uribo",
+     "name_en": "Uribo",
+     "name_ja": "うりぼう",
+     "description": "Noodle restaurant in Tokushima. Open daily 11:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/7311102185",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Yaki Soba Specialty Shop Tokkan Tei",
+     "name_en": "Yaki Soba Specialty Shop Tokkan Tei",
+     "name_ja": "焼きそば専門店 突貫亭",
+     "description": "Soba restaurant in Tokushima. Open daily 10:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/12942346123",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Isui En",
+     "name_en": "Isui En",
+     "name_ja": "渭水苑",
+     "description": "Restaurant in Tokushima.",
+     "source_url": "http://www.isuien.com/",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Karlito's BB MEX",
+     "name_en": "Karlito's BB MEX",
+     "description": "Restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/11261984037",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/other/",
+     "category": "Other"
     },
     {
      "name": "Japanese restaurant in Tokushima",
@@ -9083,6 +10932,76 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Kanariya",
+     "name_en": "Kanariya",
+     "description": "Japanese restaurant in Tokushima. Open daily 11:00-19:45.",
+     "source_url": "http://kanariya-online.com",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Ko Machi, Tokushima",
+     "name_en": "Japanese restaurant in Ko Machi, Tokushima",
+     "name_ja": "家族レストラン ふじや総本店",
+     "description": "Japanese restaurant in Ko Machi, Tokushima.",
+     "source_url": "https://www.fujiya-kokuhu.jp/",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Awa",
+     "name_en": "Awa",
+     "name_ja": "阿波",
+     "description": "Japanese restaurant in Tokushima. Open daily 11:30-14:00, 18:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/3212069773",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Awa Udon Ryogoku Fukusuke",
+     "name_en": "Awa Udon Ryogoku Fukusuke",
+     "name_ja": "阿波饂飩 両国 福助",
+     "description": "Japanese restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/3757622189",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Irorin",
+     "name_en": "Irorin",
+     "name_ja": "いろりあん",
+     "description": "Japanese restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/3757641388",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kanran Okonomiyaki",
+     "name_en": "Kanran Okonomiyaki",
+     "name_ja": "花んらんお好み焼き",
+     "description": "Japanese restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/5142083622",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "MYRICA",
+     "name_en": "MYRICA",
+     "description": "Japanese restaurant in Tokushima. Open daily 11:30-14:00.",
+     "source_url": "https://www.openstreetmap.org/node/3212069774",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Okonomiyaki Kiboteju",
+     "name_en": "Okonomiyaki Kiboteju",
+     "name_ja": "お好み焼きぼてじゅう",
+     "description": "Japanese restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/6092676185",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Shishikui",
      "name_en": "Shishikui",
      "name_ja": "ししくい",
@@ -9108,6 +11027,56 @@
      "source_url": "https://tabelog.com/tokushima/A3601/A360101/36006605/",
      "page": "https://bokenjapan.com/tokushima/tokushima/eat/seafood/",
      "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Wabisabi",
+     "name_en": "Wabisabi",
+     "name_ja": "和美彩美",
+     "description": "Fish restaurant in Tokushima.",
+     "source_url": "https://www.tokushimashinsennattokuichi.com",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Ginhachi",
+     "name_en": "Ginhachi",
+     "name_ja": "銀八",
+     "description": "Sushi restaurant in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/2991857815",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "BAKE SHOP TAMU",
+     "name_en": "BAKE SHOP TAMU",
+     "description": "Pastry shop in Tokushima. Open Mon, Wed-Sun 11:00-17:00; closed Tue.",
+     "source_url": "https://www.openstreetmap.org/node/14205425436",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "IL ROSA",
+     "name_en": "IL ROSA",
+     "description": "Sweets shop in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/3076813631",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "MEHR KORN RUHEPLATZ",
+     "name_en": "MEHR KORN RUHEPLATZ",
+     "description": "Bakery in Minamisho Machi, Tokushima. Open Sat-Sun 07:30-19:00; Wed-Fri 08:00-19:00.",
+     "source_url": "https://www.openstreetmap.org/way/1514533389",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "PATISSERIE CONCHA",
+     "name_en": "PATISSERIE CONCHA",
+     "description": "Pastry shop in Tokushima.",
+     "source_url": "https://www.openstreetmap.org/node/3751435195",
+     "page": "https://bokenjapan.com/tokushima/tokushima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "sights": [
@@ -9149,8 +11118,8 @@
    ],
    "stays": [
     {
-     "name": "Hotel Sanruto Toku Shima",
-     "name_en": "Hotel Sanruto Toku Shima",
+     "name": "Hotel Sanruto Tokushima",
+     "name_en": "Hotel Sanruto Tokushima",
      "name_ja": "ホテルサンルート徳島",
      "source_url": "https://www.ikyu.com/00080586/",
      "page": "https://bokenjapan.com/tokushima/tokushima/stay/"
@@ -9187,8 +11156,8 @@
      "page": "https://bokenjapan.com/tokushima/tokushima/stay/"
     },
     {
-     "name": "Smile Hotel Toku Shima",
-     "name_en": "Smile Hotel Toku Shima",
+     "name": "Smile Hotel Tokushima",
+     "name_en": "Smile Hotel Tokushima",
      "name_ja": "スマイルホテル徳島",
      "description": "Hotel in Moto, Tokushima with business travelers.",
      "source_url": "https://www.ikyu.com/00080961/",
@@ -9211,8 +11180,8 @@
      "page": "https://bokenjapan.com/tokushima/tokushima/stay/"
     },
     {
-     "name": "Toyoko INN Toku Shima Ekimae",
-     "name_en": "Toyoko INN Toku Shima Ekimae",
+     "name": "Toyoko INN Tokushima Ekimae",
+     "name_en": "Toyoko INN Tokushima Ekimae",
      "name_ja": "東横ＩＮＮ徳島駅前",
      "description": "Inn in Ryogokuhon, Tokushima with breakfast available.",
      "source_url": "https://www.jalan.net/yad375620/",
@@ -9233,8 +11202,8 @@
      "page": "https://bokenjapan.com/tokushima/tokushima/stay/"
     },
     {
-     "name": "APA Hotel < Toku Shima Ekimae >",
-     "name_en": "APA Hotel < Toku Shima Ekimae >",
+     "name": "APA Hotel (Tokushima Ekimae)",
+     "name_en": "APA Hotel (Tokushima Ekimae)",
      "name_ja": "アパホテル〈徳島駅前〉",
      "description": "Hotel in Tokushima with buffet meals and breakfast available.",
      "source_url": "https://www.jalan.net/yad334878/",
@@ -9680,7 +11649,7 @@
     "address": "115-1 Kamojima, Kamojima-cho, Yoshinogawa, Tokushima 776-8611, Japan",
     "phone": "0883-22-2222"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Yoshinogawa City Hall",
@@ -9737,11 +11706,37 @@
      "category": "Cafe"
     },
     {
+     "name": "moku moku note Bakery & Cafe",
+     "name_en": "moku moku note Bakery & Cafe",
+     "description": "Cafe in Yoshinogawa.",
+     "source_url": "https://www.openstreetmap.org/node/10857887387",
+     "page": "https://bokenjapan.com/tokushima/yoshinogawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Hana Shokudo",
      "name_en": "Hana Shokudo",
      "name_ja": "花食堂",
      "description": "Casual restaurant in Yoshinogawa, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3603/A360301/36007346/",
+     "page": "https://bokenjapan.com/tokushima/yoshinogawa/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Hokka Hokka Tei",
+     "name_en": "Hokka Hokka Tei",
+     "name_ja": "ほっかほっか亭",
+     "description": "Fast-food restaurant in Kamoshima Machi, Yoshinogawa.",
+     "source_url": "https://www.hokkahokka-tei.jp/",
+     "page": "https://bokenjapan.com/tokushima/yoshinogawa/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Sukiya",
+     "name_en": "Sukiya",
+     "name_ja": "すき家",
+     "description": "Fast-food restaurant in Kamoshima Machi, Yoshinogawa. Open 24 hours, every day.",
+     "source_url": "https://www.sukiya.jp/",
      "page": "https://bokenjapan.com/tokushima/yoshinogawa/eat/casual/",
      "category": "Casual"
     },
@@ -9778,6 +11773,14 @@
      "name_ja": "ボヌール・ピエス",
      "description": "European restaurant in Yoshinogawa, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3603/A360301/36003114/",
+     "page": "https://bokenjapan.com/tokushima/yoshinogawa/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "American Station",
+     "name_en": "American Station",
+     "description": "American and pasta restaurant in Yoshinogawa. Open Mon, Wed-Sun 08:30-22:00; closed Tue.",
+     "source_url": "https://www.openstreetmap.org/node/13011500840",
      "page": "https://bokenjapan.com/tokushima/yoshinogawa/eat/european/",
      "category": "European"
     },
@@ -9899,11 +11902,119 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Ramen restaurant in Yoshinogawa",
+     "name_en": "Ramen restaurant in Yoshinogawa",
+     "name_ja": "札幌ラーメン どさん子 川島店",
+     "description": "Ramen restaurant in Kawashima Machi, Yoshinogawa.",
+     "source_url": "https://www.dskgroup.co.jp/",
+     "page": "https://bokenjapan.com/tokushima/yoshinogawa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Soba restaurant in Yoshinogawa",
+     "name_en": "Soba restaurant in Yoshinogawa",
+     "name_ja": "手打ちそば川内 橋本 川島店",
+     "description": "Soba restaurant in Yoshinogawa. Open Tue-Fri 11:00-19:30; Sat, Sun 11:00-20:00.",
+     "source_url": "http://www.kawauchihashimoto.jp/store/367/",
+     "page": "https://bokenjapan.com/tokushima/yoshinogawa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Chuka Soba Yamasa",
+     "name_en": "Chuka Soba Yamasa",
+     "name_ja": "中華そばやまさ",
+     "description": "Ramen restaurant in Yoshinogawa.",
+     "source_url": "https://www.openstreetmap.org/node/11177648584",
+     "page": "https://bokenjapan.com/tokushima/yoshinogawa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Fukufuku",
+     "name_en": "Fukufuku",
+     "name_ja": "福福",
+     "description": "Ramen restaurant in Yoshinogawa. Open Mon, Sun 11:00-15:00; closed Tue; Wed-Sat 11:00-15:00, 17:00-19:00.",
+     "source_url": "https://www.openstreetmap.org/node/13255555910",
+     "page": "https://bokenjapan.com/tokushima/yoshinogawa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Iroha",
+     "name_en": "Iroha",
+     "name_ja": "いろは",
+     "description": "Noodle restaurant in Yoshinogawa.",
+     "source_url": "https://www.openstreetmap.org/node/12064033346",
+     "page": "https://bokenjapan.com/tokushima/yoshinogawa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Serufu Udon Yama Kamoshima Branch",
+     "name_en": "Serufu Udon Yama Kamoshima Branch",
+     "name_ja": "セルフうどん やま 鴨島店",
+     "description": "Noodle restaurant in Yoshinogawa. Open daily 11:00-20:00.",
+     "source_url": "https://www.openstreetmap.org/node/4727861691",
+     "page": "https://bokenjapan.com/tokushima/yoshinogawa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Soba Hitoshihitsuji",
+     "name_en": "Soba Hitoshihitsuji",
+     "name_ja": "蕎麦 仁未",
+     "description": "Soba restaurant in Yoshinogawa.",
+     "source_url": "https://www.openstreetmap.org/node/8772517626",
+     "page": "https://bokenjapan.com/tokushima/yoshinogawa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon Tokoro Heikichi",
+     "name_en": "Udon Tokoro Heikichi",
+     "name_ja": "うどん処 平吉",
+     "description": "Noodle restaurant in Yoshinogawa. Open Mon-Sat 10:00-19:00.",
+     "source_url": "https://www.openstreetmap.org/node/4727816404",
+     "page": "https://bokenjapan.com/tokushima/yoshinogawa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Restaurant Aoyagi",
      "name_en": "Restaurant Aoyagi",
      "name_ja": "お食事処 青柳",
      "description": "Japanese restaurant in Yoshinogawa, Tokushima.",
      "source_url": "https://tabelog.com/tokushima/A3603/A360301/36004103/",
+     "page": "https://bokenjapan.com/tokushima/yoshinogawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kushi Katsu Tanaka Tokushima Kamoshima Branch",
+     "name_en": "Kushi Katsu Tanaka Tokushima Kamoshima Branch",
+     "name_ja": "串カツ田中 徳島鴨島店",
+     "description": "Japanese restaurant in Kamoshima Machi, Yoshinogawa.",
+     "source_url": "https://kushi-tanaka.com/",
+     "page": "https://bokenjapan.com/tokushima/yoshinogawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Yoshinogawa (#2)",
+     "name_en": "Japanese restaurant in Yoshinogawa (#2)",
+     "name_ja": "かつ王",
+     "description": "Japanese restaurant in Yoshinogawa.",
+     "source_url": "https://www.openstreetmap.org/node/6050917589",
+     "page": "https://bokenjapan.com/tokushima/yoshinogawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Yoshinogawa (#1)",
+     "name_en": "Japanese restaurant in Yoshinogawa (#1)",
+     "name_ja": "森の中の小さな食堂SPICA（スピカ）",
+     "description": "Japanese restaurant in Yoshinogawa. Open daily 11:00-20:00.",
+     "source_url": "https://www.openstreetmap.org/node/10857887364",
+     "page": "https://bokenjapan.com/tokushima/yoshinogawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Unagiya",
+     "name_en": "Unagiya",
+     "name_ja": "うなぎや",
+     "description": "Japanese restaurant in Yoshinogawa.",
+     "source_url": "https://www.openstreetmap.org/node/6050917590",
      "page": "https://bokenjapan.com/tokushima/yoshinogawa/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -10086,7 +12197,7 @@
      "page": "https://bokenjapan.com/tokushima/yoshinogawa/see/"
     },
     {
-     "name": "Kohiiresuto Mame no Ki",
+     "name": "Coffee Resto Mame no Ki",
      "description": "Sightseeing spot in Yoshinogawa, Tokushima.",
      "source_url": "https://www.city.yoshinogawa.lg.jp/docs/2010101500123/",
      "page": "https://bokenjapan.com/tokushima/yoshinogawa/see/"

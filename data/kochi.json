@@ -780,7 +780,7 @@
     "address": "1700-1 Ino Town, Agawa District, Kochi 781-2192, Japan",
     "phone": "088-893-1111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Ino Town Hall",
@@ -900,6 +900,15 @@
      "category": "Casual"
     },
     {
+     "name": "Koisa Yoru",
+     "name_en": "Koisa Yoru",
+     "name_ja": "恋さ夜",
+     "description": "Fast-food restaurant in Ino.",
+     "source_url": "https://www.openstreetmap.org/way/1123248552",
+     "page": "https://bokenjapan.com/kochi/ino/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Hatakeyama Garden",
      "name_en": "Hatakeyama Garden",
      "name_ja": "畑山ガーデン",
@@ -916,6 +925,15 @@
      "source_url": "https://tabelog.com/kochi/A3901/A390103/39003113/",
      "page": "https://bokenjapan.com/kochi/ino/eat/european/",
      "category": "European"
+    },
+    {
+     "name": "Ajiraku",
+     "name_en": "Ajiraku",
+     "name_ja": "味楽",
+     "description": "Pub in Ino.",
+     "source_url": "https://www.openstreetmap.org/way/1123248551",
+     "page": "https://bokenjapan.com/kochi/ino/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
     },
     {
      "name": "Tonkatsu Yoshimatsu",
@@ -985,6 +1003,24 @@
      "name_ja": "道の駅土佐和紙工芸村",
      "description": "Restaurant in Ino, Kochi.",
      "source_url": "https://tabelog.com/kochi/A3901/A390103/39003928/",
+     "page": "https://bokenjapan.com/kochi/ino/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Rest Park Ino",
+     "name_en": "Rest Park Ino",
+     "name_ja": "レストパークいの",
+     "description": "Restaurant in Ino.",
+     "source_url": "https://kochi-tabi.jp/search_spot_food.html?id=7965",
+     "page": "https://bokenjapan.com/kochi/ino/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Ino (#3)",
+     "name_en": "Restaurant in Ino (#3)",
+     "name_ja": "ココス",
+     "description": "Restaurant in Ino.",
+     "source_url": "https://www.openstreetmap.org/way/394661400",
      "page": "https://bokenjapan.com/kochi/ino/eat/other/",
      "category": "Other"
     },
@@ -1083,7 +1119,7 @@
     "address": "1-2-1 Takaracho, Tosayamada-cho, Kami City, Kochi 782-8501, Japan",
     "phone": "0887-53-3111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Kami City Hall",
@@ -1140,6 +1176,75 @@
      "category": "Cafe"
     },
     {
+     "name": "Kissa Zabun",
+     "name_en": "Kissa Zabun",
+     "name_ja": "喫茶座文",
+     "description": "Cafe in Kami.",
+     "source_url": "http://www.zabun.biz",
+     "page": "https://bokenjapan.com/kochi/kami/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Kami (#1)",
+     "name_en": "Cafe in Kami (#1)",
+     "name_ja": "ぷー・タロ",
+     "description": "Cafe in Kami.",
+     "source_url": "http://puu-talo.com/",
+     "page": "https://bokenjapan.com/kochi/kami/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "CAFÉ BOSSA NOVA",
+     "name_en": "CAFE BOSSA NOVA",
+     "description": "Cafe in Kami.",
+     "source_url": "https://www.openstreetmap.org/node/10915997904",
+     "page": "https://bokenjapan.com/kochi/kami/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Kami (#2)",
+     "name_en": "Cafe in Kami (#2)",
+     "name_ja": "ヒース",
+     "description": "Cafe in Kami.",
+     "source_url": "https://www.openstreetmap.org/node/5389296677",
+     "page": "https://bokenjapan.com/kochi/kami/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kohan Yu",
+     "name_en": "Kohan Yu",
+     "name_ja": "湖畔遊",
+     "description": "Cafe in Kami.",
+     "source_url": "https://www.openstreetmap.org/node/1702521127",
+     "page": "https://bokenjapan.com/kochi/kami/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Mokko",
+     "name_en": "Mokko",
+     "name_ja": "木香",
+     "description": "Cafe in Kami.",
+     "source_url": "https://www.openstreetmap.org/node/1702521124",
+     "page": "https://bokenjapan.com/kochi/kami/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "ocho 8",
+     "name_en": "ocho 8",
+     "description": "Cafe in Kami.",
+     "source_url": "https://www.openstreetmap.org/node/1703637841",
+     "page": "https://bokenjapan.com/kochi/kami/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Yamano-Syokudo Hana",
+     "name_en": "Yamano-Syokudo Hana",
+     "description": "Cafe in Kami. Open Thu-Sun 11:00-17:00.",
+     "source_url": "https://www.openstreetmap.org/node/1657475987",
+     "page": "https://bokenjapan.com/kochi/kami/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Nira Uno Sato Miyoshi Nuno Chokuhan",
      "name_en": "Nira Uno Sato Miyoshi Nuno Chokuhan",
      "name_ja": "韮生の里 美良布直販店",
@@ -1180,6 +1285,24 @@
      "name_en": "Tosaco TAP Stand",
      "description": "Izakaya or bar in Kami, Kochi.",
      "source_url": "https://tabelog.com/kochi/A3901/A390105/39008143/",
+     "page": "https://bokenjapan.com/kochi/kami/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Tosa Rokkon",
+     "name_en": "Tosa Rokkon",
+     "name_ja": "土佐ろっこん",
+     "description": "Pub in Kami.",
+     "source_url": "https://www.openstreetmap.org/node/10982328807",
+     "page": "https://bokenjapan.com/kochi/kami/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Tosanohirune",
+     "name_en": "Tosanohirune",
+     "name_ja": "とさのおひるね",
+     "description": "Pub in Kami.",
+     "source_url": "https://www.openstreetmap.org/node/1812190550",
      "page": "https://bokenjapan.com/kochi/kami/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -1261,6 +1384,15 @@
      "name_ja": "土佐山田ゴルフ倶楽部 レストラン",
      "description": "Restaurant in Kami, Kochi.",
      "source_url": "https://tabelog.com/kochi/A3901/A390105/39005424/",
+     "page": "https://bokenjapan.com/kochi/kami/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Jibie Ryori Specialty Shop Nook's Kitchen",
+     "name_en": "Jibie Ryori Specialty Shop Nook's Kitchen",
+     "name_ja": "ジビエ料理専門店Nook's Kitchen",
+     "description": "Restaurant in Kami.",
+     "source_url": "https://kochi-tabi.jp/search_spot_food.html?id=7668",
      "page": "https://bokenjapan.com/kochi/kami/eat/other/",
      "category": "Other"
     },
@@ -1571,7 +1703,7 @@
     "address": "1-45 Honmachi 5-chome, Kochi City, Kochi 780-8571, Japan",
     "phone": "088-822-8111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Kochi City Hall",
@@ -1600,6 +1732,97 @@
    ],
    "food": [
     {
+     "name": "Cafe Happy",
+     "name_en": "Cafe Happy",
+     "description": "Cafe in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/5373846189",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "en. Coffee Roastery",
+     "name_en": "en. Coffee Roastery",
+     "name_ja": "en. 珈琲焙煎所",
+     "description": "Cafe in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/11224413398",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kilig Coffee",
+     "name_en": "Kilig Coffee",
+     "description": "Cafe in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/13277566048",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Mephistopheles",
+     "name_en": "Mephistopheles",
+     "name_ja": "メフィストフェレス",
+     "description": "Cafe in Kochi. Open daily 08:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/5234531124",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "mimiusagi",
+     "name_en": "mimiusagi",
+     "description": "Cafe in Kochi.",
+     "source_url": "https://www.openstreetmap.org/way/632431013",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "MOCHA",
+     "name_en": "MOCHA",
+     "description": "Cafe in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/6904488486",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "MuuMuu",
+     "name_en": "MuuMuu",
+     "description": "Sweets shop in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/13797827067",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Queue de baleine",
+     "name_en": "Queue de baleine",
+     "description": "Cafe in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/5537365322",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "sommarlek coffee HORAGASHIMA",
+     "name_en": "sommarlek coffee HORAGASHIMA",
+     "description": "Cafe in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/13277608173",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Tom Smoothie",
+     "name_en": "Tom Smoothie",
+     "description": "Fast-food restaurant in Kochi. Open Tue-Sun 11:30-19:00.",
+     "source_url": "https://www.tomsmoothie.com/",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Fast-food restaurant in Kochi",
+     "name_en": "Fast-food restaurant in Kochi",
+     "name_ja": "多真家",
+     "description": "Fast-food restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/way/576404932",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Yatai Yasube",
      "name_en": "Yatai Yasube",
      "name_ja": "屋台安兵衛",
@@ -1616,6 +1839,95 @@
      "source_url": "https://tabelog.com/kochi/A3901/A390101/39000134/",
      "page": "https://bokenjapan.com/kochi/kochi/eat/chinese-asian/",
      "category": "Chinese & Asian"
+    },
+    {
+     "name": "Hanachin Sono Bekkan",
+     "name_en": "Hanachin Sono Bekkan",
+     "name_ja": "華珍園別館",
+     "description": "Chinese restaurant in Kochi.",
+     "source_url": "https://kachinen.jp/",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Daikoku Ie Hanten",
+     "name_en": "Daikoku Ie Hanten",
+     "name_ja": "大黒家飯店",
+     "description": "Chinese restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/2499030467",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Ginryu Kaku",
+     "name_en": "Ginryu Kaku",
+     "name_ja": "銀龍閣",
+     "description": "Chinese restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/10221647513",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Katsura Hanten",
+     "name_en": "Katsura Hanten",
+     "name_ja": "桂飯店",
+     "description": "Chinese restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/5626144246",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Umeryu Chin",
+     "name_en": "Umeryu Chin",
+     "name_ja": "梅龍珍",
+     "description": "Chinese restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/2574110102",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Yosuko",
+     "name_en": "Yosuko",
+     "name_ja": "揚子江",
+     "description": "Chinese restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/6499055385",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Indian restaurant in Kochi",
+     "name_en": "Indian restaurant in Kochi",
+     "name_ja": "アジアンダイニング ララ",
+     "description": "Indian restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/10603417792",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Juichiya",
+     "name_en": "Juichiya",
+     "name_ja": "十一屋",
+     "description": "Indian restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/6467206953",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Curry restaurant in Kochi",
+     "name_en": "Curry restaurant in Kochi",
+     "name_ja": "ランヤニコット",
+     "description": "Curry restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/5512753384",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "TURMERIC",
+     "name_en": "TURMERIC",
+     "description": "Indian restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/way/689392859",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/curry/",
+     "category": "Curry"
     },
     {
      "name": "La Prima Volta",
@@ -1641,6 +1953,23 @@
      "name_ja": "コックドール",
      "description": "European restaurant in Kochi, Kochi.",
      "source_url": "https://tabelog.com/kochi/A3901/A390101/39000346/",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Étonné",
+     "name_en": "Etonne",
+     "description": "French restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/way/906002514",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Italian restaurant in Kochi",
+     "name_en": "Italian restaurant in Kochi",
+     "name_ja": "石窯ピザ フェデリコ",
+     "description": "Italian restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/6007134993",
      "page": "https://bokenjapan.com/kochi/kochi/eat/european/",
      "category": "European"
     },
@@ -1726,6 +2055,22 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "meltish",
+     "name_en": "meltish",
+     "description": "Bar in Kochi. Open daily 21:00-27:00; closed Mon.",
+     "source_url": "https://shop.caferun.jp/shop/11413/",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "South Horizon Brewing",
+     "name_en": "South Horizon Brewing",
+     "description": "Pub in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/13277593051",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Hungry Bear",
      "name_en": "Hungry Bear",
      "name_ja": "ハングリーベア",
@@ -1735,10 +2080,303 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Myojinmaru Obiyamachi",
+     "name_en": "Myojinmaru Obiyamachi",
+     "name_ja": "明神丸 帯屋町店",
+     "description": "Barbecue restaurant in Kochi. Open Tue-Sun 11:30-14:00, 17:00-23:00.",
+     "source_url": "http://shop.myojinmaru.jp",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Steak restaurant in Kochi",
+     "name_en": "Steak restaurant in Kochi",
+     "name_ja": "トントン",
+     "description": "Steak restaurant in Kochi.",
+     "source_url": "https://tonton-kochi.com/",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Hitoto",
+     "name_en": "Hitoto",
+     "name_ja": "ひとと",
+     "description": "Barbecue restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/12703657967",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Wagyu Beef Aokiya",
+     "name_en": "Wagyu Beef Aokiya",
+     "name_ja": "和牛焼肉 あおき屋",
+     "description": "Beef restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/4756212355",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Nakagoshi",
+     "name_en": "Yakiniku Nakagoshi",
+     "name_ja": "焼肉なかごし",
+     "description": "Barbecue restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/way/555864759",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yaponsuki",
+     "name_en": "Yaponsuki",
+     "name_ja": "やぽんすき",
+     "description": "Steak restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/way/637148724",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Aguraya",
+     "name_en": "Aguraya",
+     "name_ja": "あぐら屋",
+     "description": "Ramen restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/5362833820",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ajisen Ramen A MAX Ichinomiya Branch",
+     "name_en": "Ajisen Ramen A MAX Ichinomiya Branch",
+     "name_ja": "味千拉麺 A・MAX一宮店",
+     "description": "Noodle restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/6129855017",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Akatonbo",
+     "name_en": "Akatonbo",
+     "name_ja": "あかとんぼ",
+     "description": "Noodle restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/12701989323",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Champon Tei",
+     "name_en": "Champon Tei",
+     "name_ja": "ちゃんぽん亭",
+     "description": "Noodle restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/way/636790103",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Chuka Soba to Battera no Branch Matsumi",
+     "name_en": "Chuka Soba to Battera no Branch Matsumi",
+     "name_ja": "中華そばとバッテラの店 まつみ",
+     "description": "Noodle restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/way/639611942",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ee Kochi Kita Branch",
+     "name_en": "Ee Kochi Kita Branch",
+     "name_ja": "得得 高知北店",
+     "description": "Noodle restaurant in Higashi Taisen Tera, Kochi.",
+     "source_url": "https://www.openstreetmap.org/way/548377864",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen restaurant in Kochi (#1)",
+     "name_en": "Ramen restaurant in Kochi (#1)",
+     "name_ja": "五衛門ラーメン",
+     "description": "Ramen restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/12701781638",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Homba Sanuki Udon Tamoya",
+     "name_en": "Homba Sanuki Udon Tamoya",
+     "name_ja": "本場讃岐うどん たも屋",
+     "description": "Noodle restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/way/635198159",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen restaurant in Kochi (#2)",
+     "name_en": "Ramen restaurant in Kochi (#2)",
+     "name_ja": "麺Maverick",
+     "description": "Ramen restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/1493145529",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Niwatori to Sakana",
+     "name_en": "Niwatori to Sakana",
+     "name_ja": "鶏と魚",
+     "description": "Noodle restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/way/571703469",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Raamen Kan 2 Ban",
+     "name_en": "Raamen Kan 2 Ban",
+     "name_ja": "老麺館 2番",
+     "description": "Noodle restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/10603565736",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Chonmage - Kochi Main Branch",
+     "name_en": "Ramen Chonmage - Kochi Main Branch",
+     "description": "Ramen restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/13277557486",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Senmon Kami",
+     "name_en": "Ramen Senmon Kami",
+     "name_ja": "拉麺専門 神",
+     "description": "Noodle restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/10666101126",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Tei",
+     "name_en": "Ramen Tei",
+     "name_ja": "らーめん亭",
+     "description": "Noodle restaurant in Kochi. Open daily 11:00-14:00, 17:00-20:00.",
+     "source_url": "https://www.openstreetmap.org/way/691449881",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Saegusa",
+     "name_en": "Saegusa",
+     "name_ja": "三枝",
+     "description": "Udon restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/way/557164982",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Seimen Tokoro Kuraki",
+     "name_en": "Seimen Tokoro Kuraki",
+     "name_ja": "製麺処 蔵木",
+     "description": "Noodle restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/10569700427",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Seimen Tokoro Kuraki Kochi Inta Branch",
+     "name_en": "Seimen Tokoro Kuraki Kochi Inta Branch",
+     "name_ja": "製麺処 蔵木 高知インター店",
+     "description": "Noodle restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/way/635198141",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Shikamizu Iori",
+     "name_en": "Shikamizu Iori",
+     "name_ja": "鹿水庵",
+     "description": "Noodle restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/way/647667289",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Shintomi",
+     "name_en": "Shintomi",
+     "name_ja": "新富",
+     "description": "Noodle restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/10603417802",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Soba Kiri Fukumori",
+     "name_en": "Soba Kiri Fukumori",
+     "name_ja": "そば切り 福杜",
+     "description": "Noodle restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/way/635198161",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tsuchishuya",
+     "name_en": "Tsuchishuya",
+     "name_ja": "土州屋",
+     "description": "Noodle restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/7144652681",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon Kiyomaro",
+     "name_en": "Udon Kiyomaro",
+     "name_ja": "うどん 清麻呂",
+     "description": "Udon restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/1347501733",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "IHARA",
      "name_en": "Ihara",
      "description": "Restaurant in Kochi, Kochi.",
      "source_url": "https://tabelog.com/kochi/A3901/A390101/39007924/",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "COCOS",
+     "name_en": "COCOS",
+     "description": "Restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/way/553899873",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "engawa",
+     "name_en": "engawa",
+     "description": "Restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/way/638980076",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Garlish",
+     "name_en": "Garlish",
+     "description": "Restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/way/575788456",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "obiyakansuke",
+     "name_en": "obiyakansuke",
+     "name_ja": "帯や勘助",
+     "description": "Restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/6904444585",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Ten",
+     "name_en": "Ten",
+     "name_ja": "てん",
+     "description": "Restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/11387120116",
      "page": "https://bokenjapan.com/kochi/kochi/eat/other/",
      "category": "Other"
     },
@@ -1770,11 +2408,128 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Japanese restaurant in Kochi",
-     "name_en": "Japanese restaurant in Kochi",
+     "name": "Japanese restaurant in Kochi (#22)",
+     "name_en": "Japanese restaurant in Kochi (#22)",
      "name_ja": "四十五圓",
      "description": "Japanese restaurant in Kochi, Kochi.",
      "source_url": "https://tabelog.com/kochi/A3901/A390101/39005523/",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Kochi (#1)",
+     "name_en": "Japanese restaurant in Kochi (#1)",
+     "name_ja": "カトウ",
+     "description": "Japanese restaurant in Kochi.",
+     "source_url": "http://k-katou.jp/",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Age Tate Tempura Sakuya Gyoza Branch",
+     "name_en": "Age Tate Tempura Sakuya Gyoza Branch",
+     "name_ja": "揚げたて天ぷら さくや 御座店",
+     "description": "Japanese restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/way/636749275",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ajiyama",
+     "name_en": "Ajiyama",
+     "name_ja": "味山",
+     "description": "Japanese restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/2499034151",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Hikari",
+     "name_en": "Hikari",
+     "name_ja": "ひかり",
+     "description": "Okonomiyaki restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/5379860922",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Kochi (#3)",
+     "name_en": "Japanese restaurant in Kochi (#3)",
+     "name_ja": "ひろしま風 お好み焼き 八丁堀",
+     "description": "Japanese restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/1347503986",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Izakaya Hatenko",
+     "name_en": "Izakaya Hatenko",
+     "name_ja": "居酒屋 破天荒",
+     "description": "Japanese restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/way/552246001",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kisetsu Ryori Hiroshi",
+     "name_en": "Kisetsu Ryori Hiroshi",
+     "name_ja": "季節料理 寛",
+     "description": "Japanese restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/way/635198163",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Maidokini Shokudo Nishi Jinzenji Shokudo",
+     "name_en": "Maidokini Shokudo Nishi Jinzenji Shokudo",
+     "name_ja": "まいどおおきに食堂西秦泉寺食堂",
+     "description": "Japanese restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/10973789277",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Myojin Maru Hanare",
+     "name_en": "Myojin Maru Hanare",
+     "name_ja": "明神丸 はなれ",
+     "description": "Japanese restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/13879333203",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Nijushi Mangoku",
+     "name_en": "Nijushi Mangoku",
+     "name_ja": "二十四万石",
+     "description": "Japanese restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/12703657961",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Sumibi Yakitori Furari",
+     "name_en": "Sumibi Yakitori Furari",
+     "name_ja": "炭火 やきとり ふらり",
+     "description": "Japanese restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/2499026725",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Tada",
+     "name_en": "Tada",
+     "name_ja": "唯",
+     "description": "Japanese restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/9803876597",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Unagi Machi",
+     "name_en": "Unagi Machi",
+     "name_ja": "うなぎ町",
+     "description": "Japanese restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/10603417801",
      "page": "https://bokenjapan.com/kochi/kochi/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -1811,6 +2566,51 @@
      "name_ja": "魚の店 つづき",
      "description": "Seafood restaurant in Kochi, Kochi.",
      "source_url": "https://tabelog.com/kochi/A3901/A390101/39000584/",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Gin no Sara",
+     "name_en": "Gin no Sara",
+     "name_ja": "銀のさら",
+     "description": "Sushi restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/way/120064892",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Hisashishi Ikkan Azono Branch",
+     "name_en": "Hisashishi Ikkan Azono Branch",
+     "name_ja": "寿し一貫 あぞうの店",
+     "description": "Sushi restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/way/570137200",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Inaka Sushi Morioka",
+     "name_en": "Inaka Sushi Morioka",
+     "name_ja": "いなか寿司 もりおか",
+     "description": "Sushi restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/1347503949",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Shosu Zuki",
+     "name_en": "Sushi Shosu Zuki",
+     "name_ja": "寿司処すず木",
+     "description": "Sushi restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/13879333228",
+     "page": "https://bokenjapan.com/kochi/kochi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Yadai Zushi",
+     "name_en": "Yadai Zushi",
+     "name_ja": "や台ずし",
+     "description": "Sushi restaurant in Kochi.",
+     "source_url": "https://www.openstreetmap.org/node/12703657956",
      "page": "https://bokenjapan.com/kochi/kochi/eat/seafood/",
      "category": "Japanese (seafood)"
     }
@@ -1947,6 +2747,30 @@
      "name_ja": "ホテルベストプライス高知",
      "source_url": "https://www.ikyu.com/00082328/",
      "page": "https://bokenjapan.com/kochi/kochi/stay/"
+    },
+    {
+     "name": "Inn kacho-Fugetsu",
+     "name_en": "Inn kacho-Fugetsu",
+     "name_ja": "お宿 花鳥風月",
+     "description": "Guest house in Kochi.",
+     "source_url": "https://pilgrims-guest-house.com/",
+     "page": "https://bokenjapan.com/kochi/kochi/stay/"
+    },
+    {
+     "name": "Kochi Youth Hostel",
+     "name_en": "Kochi Youth Hostel",
+     "name_ja": "高知ユースホステル",
+     "description": "Hostel in Kochi.",
+     "source_url": "https://www.kyh-sakenokuni.com",
+     "page": "https://bokenjapan.com/kochi/kochi/stay/"
+    },
+    {
+     "name": "Haruno Guest House",
+     "name_en": "Haruno Guest House",
+     "name_ja": "はるのゲストハウス",
+     "description": "Guest house in Kochi.",
+     "source_url": "http://henro-guesthouse.com",
+     "page": "https://bokenjapan.com/kochi/kochi/stay/"
     }
    ]
   },
@@ -1969,7 +2793,7 @@
     "address": "2706 Nishino, Noichi-cho, Konan City, Kochi 781-5292, Japan",
     "phone": "0887-56-0511"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Konan City Hall",
@@ -2026,6 +2850,33 @@
      "category": "Cafe"
     },
     {
+     "name": "Wafu Cafe Buraku",
+     "name_en": "Wafu Cafe Buraku",
+     "name_ja": "和風Cafe 豊楽",
+     "description": "Cafe in Konan.",
+     "source_url": "https://kochi-tabi.jp/search_spot_food.html?id=7832",
+     "page": "https://bokenjapan.com/kochi/konan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Rimu no Mori",
+     "name_en": "Cafe Rimu no Mori",
+     "name_ja": "カフェ RIMUの森",
+     "description": "Cafe in Konan.",
+     "source_url": "https://kochi-tabi.jp/search_spot_food.html?id=12568",
+     "page": "https://bokenjapan.com/kochi/konan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Restaurant Kuriya",
+     "name_en": "Cafe Restaurant Kuriya",
+     "name_ja": "カフェレストランくりや",
+     "description": "Cafe in Konan.",
+     "source_url": "https://www.openstreetmap.org/node/2859605846",
+     "page": "https://bokenjapan.com/kochi/konan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Hirosue-ya",
      "name_en": "Hirosue-ya",
      "name_ja": "廣末屋",
@@ -2040,6 +2891,51 @@
      "name_ja": "土佐カントリークラブ オーシャン",
      "description": "Casual restaurant in Konan, Kochi.",
      "source_url": "https://tabelog.com/kochi/A3901/A390106/39005909/",
+     "page": "https://bokenjapan.com/kochi/konan/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Fast-food restaurant in Konan",
+     "name_en": "Fast-food restaurant in Konan",
+     "name_ja": "CoCo壱番屋",
+     "description": "Fast-food restaurant in Konan.",
+     "source_url": "https://www.openstreetmap.org/way/1193288395",
+     "page": "https://bokenjapan.com/kochi/konan/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Gindaco",
+     "name_en": "Gindaco",
+     "name_ja": "築地銀だこ",
+     "description": "Fast-food restaurant in Konan.",
+     "source_url": "https://www.openstreetmap.org/node/11076560858",
+     "page": "https://bokenjapan.com/kochi/konan/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Hokka Hokka Tei",
+     "name_en": "Hokka Hokka Tei",
+     "name_ja": "ほっかほっか亭",
+     "description": "Fast-food restaurant in Konan.",
+     "source_url": "https://www.openstreetmap.org/node/11076640443",
+     "page": "https://bokenjapan.com/kochi/konan/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "name_ja": "マクドナルド",
+     "description": "Fast-food restaurant in Konan.",
+     "source_url": "https://www.openstreetmap.org/node/1493129774",
+     "page": "https://bokenjapan.com/kochi/konan/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "MOS BURGER",
+     "name_en": "MOS BURGER",
+     "name_ja": "モスバーガー",
+     "description": "Fast-food restaurant in Konan.",
+     "source_url": "https://www.openstreetmap.org/node/1756103918",
      "page": "https://bokenjapan.com/kochi/konan/eat/casual/",
      "category": "Casual"
     },
@@ -2071,6 +2967,15 @@
      "category": "European"
     },
     {
+     "name": "Gusto",
+     "name_en": "Gusto",
+     "name_ja": "ガスト",
+     "description": "Western-style restaurant in Konan.",
+     "source_url": "https://www.openstreetmap.org/way/1193296995",
+     "page": "https://bokenjapan.com/kochi/konan/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Izakaya or bar in Konan",
      "name_en": "Izakaya or bar in Konan",
      "name_ja": "居酒屋 多ヌ来",
@@ -2089,11 +2994,38 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Baru Kamenosuke",
+     "name_en": "Baru Kamenosuke",
+     "name_ja": "バル亀之助",
+     "description": "Pub in Konan.",
+     "source_url": "https://www.openstreetmap.org/node/2859288933",
+     "page": "https://bokenjapan.com/kochi/konan/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Kitamura Notare",
      "name_en": "Kitamura Notare",
      "name_ja": "北村のたれ",
      "description": "Meat restaurant in Konan, Kochi.",
      "source_url": "https://tabelog.com/kochi/A3901/A390106/39007316/",
+     "page": "https://bokenjapan.com/kochi/konan/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Janjaka",
+     "name_en": "Janjaka",
+     "name_ja": "じゃんじゃか",
+     "description": "Barbecue restaurant in Konan.",
+     "source_url": "https://www.openstreetmap.org/node/11076560885",
+     "page": "https://bokenjapan.com/kochi/konan/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "KFC",
+     "name_en": "KFC",
+     "name_ja": "ケンタッキーフライドチキン",
+     "description": "Chicken restaurant in Konan.",
+     "source_url": "https://www.openstreetmap.org/node/11076560851",
      "page": "https://bokenjapan.com/kochi/konan/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -2143,6 +3075,24 @@
      "category": "Other"
     },
     {
+     "name": "Shidashi Enkai Soga",
+     "name_en": "Shidashi Enkai Soga",
+     "name_ja": "仕出・宴会 曽我",
+     "description": "Restaurant in Konan.",
+     "source_url": "https://kochi-tabi.jp/search_spot_food.html?id=7833",
+     "page": "https://bokenjapan.com/kochi/konan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Konan",
+     "name_en": "Restaurant in Konan",
+     "name_ja": "ラクーン",
+     "description": "Restaurant in Konan.",
+     "source_url": "https://www.openstreetmap.org/node/5671287211",
+     "page": "https://bokenjapan.com/kochi/konan/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Tosa Kaku Hiromi San",
      "name_en": "Tosa Kaku Hiromi San",
      "name_ja": "土佐角弘海産",
@@ -2179,6 +3129,15 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Ichi Sushi Kaikan",
+     "name_en": "Ichi Sushi Kaikan",
+     "name_ja": "一寿司会館",
+     "description": "Sushi restaurant in Konan.",
+     "source_url": "https://www.openstreetmap.org/node/2859304612",
+     "page": "https://bokenjapan.com/kochi/konan/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Dolce Kagami",
      "name_en": "Dolce Kagami",
      "name_ja": "ドルチェかがみ",
@@ -2202,6 +3161,15 @@
      "name_ja": "澤餅茶屋",
      "description": "Sweets and bakery shop in Konan, Kochi.",
      "source_url": "https://tabelog.com/kochi/A3901/A390106/39000367/",
+     "page": "https://bokenjapan.com/kochi/konan/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Mister Donut",
+     "name_en": "Mister Donut",
+     "name_ja": "ミスタードーナツ",
+     "description": "Donut restaurant in Konan.",
+     "source_url": "https://www.openstreetmap.org/node/11076560850",
      "page": "https://bokenjapan.com/kochi/konan/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -2640,7 +3608,7 @@
     "address": "346 Kurusuno, Mihara Village, Hata District, Kochi 787-0892, Japan",
     "phone": "0880-46-2111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Mihara Village Office",
@@ -2667,6 +3635,15 @@
      "name_ja": "やまびこカフェ",
      "description": "Cafe in Mihara, Kochi.",
      "source_url": "https://tabelog.com/kochi/A3904/A390401/39006162/",
+     "page": "https://bokenjapan.com/kochi/mihara/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Yamabiko Cafe",
+     "name_en": "Yamabiko Cafe",
+     "name_ja": "憩いの広場 やまびこカフェ",
+     "description": "Cafe in Mihara. Open Mon-Sat 11:30-13:30.",
+     "source_url": "http://mihara-yamabiko.com/doc/04-tokusanhin.html#a01",
      "page": "https://bokenjapan.com/kochi/mihara/eat/cafe/",
      "category": "Cafe"
     },
@@ -3829,7 +4806,7 @@
     "address": "2301 Osoe Ko, Nankoku City, Kochi 783-8501, Japan",
     "phone": "088-863-2111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Nankoku City Hall",
@@ -3966,6 +4943,24 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Korean Cuisine Gyeongbokgung Main Branch",
+     "name_en": "Korean Cuisine Gyeongbokgung Main Branch",
+     "name_ja": "韓国料理 景福宮 本店",
+     "description": "Asian restaurant in Nankoku.",
+     "source_url": "https://kochi-tabi.jp/search_spot_food.html?id=7682",
+     "page": "https://bokenjapan.com/kochi/nankoku/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Vietnamese restaurant in Nankoku",
+     "name_en": "Vietnamese restaurant in Nankoku",
+     "name_ja": "ちゃんフォー南国ベトナム料理",
+     "description": "Vietnamese restaurant in Nankoku.",
+     "source_url": "https://www.openstreetmap.org/node/13663656780",
+     "page": "https://bokenjapan.com/kochi/nankoku/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Takokuseki Shokudo Sabi To Susu",
      "name_en": "Takokuseki Shokudo Sabi To Susu",
      "name_ja": "多国籍食堂 錆と煤",
@@ -3982,6 +4977,33 @@
      "source_url": "https://tabelog.com/kochi/A3901/A390102/39000530/",
      "page": "https://bokenjapan.com/kochi/nankoku/eat/european/",
      "category": "European"
+    },
+    {
+     "name": "Pasta Hattorikun",
+     "name_en": "Pasta Hattorikun",
+     "name_ja": "パスタ はっとりくん",
+     "description": "Western-style restaurant in Nankoku.",
+     "source_url": "https://kochi-tabi.jp/search_spot_food.html?id=7684",
+     "page": "https://bokenjapan.com/kochi/nankoku/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Izakaya Kuutaro Nankoku Branch",
+     "name_en": "Izakaya Kuutaro Nankoku Branch",
+     "name_ja": "居酒屋 喰多朗 南国店",
+     "description": "Izakaya restaurant in Nankoku.",
+     "source_url": "https://kochi-tabi.jp/search_spot_food.html?id=7836",
+     "page": "https://bokenjapan.com/kochi/nankoku/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Toto",
+     "name_en": "Izakaya Toto",
+     "name_ja": "居酒屋 魚魚",
+     "description": "Izakaya restaurant in Nankoku.",
+     "source_url": "https://kochi-tabi.jp/search_spot_food.html?id=7837",
+     "page": "https://bokenjapan.com/kochi/nankoku/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
     },
     {
      "name": "Restaurant Elier",
@@ -4020,6 +5042,60 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Miso Ramen Menya Kunimaru Nankoku Branch",
+     "name_en": "Miso Ramen Menya Kunimaru Nankoku Branch",
+     "name_ja": "味噌ラーメン専門店 麺屋・國丸。南国店。",
+     "description": "Ramen restaurant in Nankoku.",
+     "source_url": "https://kochi-tabi.jp/search_spot_food.html?id=7686",
+     "page": "https://bokenjapan.com/kochi/nankoku/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "a la plancha Sachi",
+     "name_en": "a la plancha Sachi",
+     "name_ja": "a la plancha 幸",
+     "description": "Restaurant in Nankoku.",
+     "source_url": "https://kochi-tabi.jp/search_spot_food.html?id=8243",
+     "page": "https://bokenjapan.com/kochi/nankoku/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Shusai Kan Mori Kuni",
+     "name_en": "Shusai Kan Mori Kuni",
+     "name_ja": "酒菜館 もり國",
+     "description": "Restaurant in Nankoku.",
+     "source_url": "https://kochi-tabi.jp/search_spot_food.html?id=8245",
+     "page": "https://bokenjapan.com/kochi/nankoku/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "TOSAMON Dining Bemben",
+     "name_en": "TOSAMON Dining Bemben",
+     "name_ja": "TOSAMONダイニング べんべん",
+     "description": "Restaurant in Nankoku.",
+     "source_url": "https://kochi-tabi.jp/search_spot_food.html?id=7841",
+     "page": "https://bokenjapan.com/kochi/nankoku/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Yoronotaki Gomen Branch",
+     "name_en": "Yoronotaki Gomen Branch",
+     "name_ja": "養老乃瀧 後免店",
+     "description": "Restaurant in Nankoku.",
+     "source_url": "https://kochi-tabi.jp/search_spot_food.html?id=7843",
+     "page": "https://bokenjapan.com/kochi/nankoku/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant Goodluck",
+     "name_en": "Restaurant Goodluck",
+     "name_ja": "レストラン グドラック",
+     "description": "Restaurant in Nankoku.",
+     "source_url": "https://kochi-tabi.jp/search_spot_food.html?id=12413",
+     "page": "https://bokenjapan.com/kochi/nankoku/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Tsukasa Kochi Kuko",
      "name_en": "Tsukasa Kochi Kuko",
      "name_ja": "司 高知空港店",
@@ -4052,6 +5128,15 @@
      "name_ja": "鰻料理 むなぎん",
      "description": "Unagi (eel) restaurant in Nankoku, Kochi.",
      "source_url": "https://tabelog.com/kochi/A3901/A390101/39007477/",
+     "page": "https://bokenjapan.com/kochi/nankoku/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Hamasushi Nankoku",
+     "name_en": "Hamasushi Nankoku",
+     "name_ja": "はま寿司南国店",
+     "description": "Sushi restaurant in Nankoku.",
+     "source_url": "https://www.openstreetmap.org/node/13661198908",
      "page": "https://bokenjapan.com/kochi/nankoku/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -4112,6 +5197,14 @@
      "name_ja": "アールビジネスホテル",
      "description": "Hotel in Meiken, Nankoku with business travelers.",
      "source_url": "https://www.jalan.net/yad307523/",
+     "page": "https://bokenjapan.com/kochi/nankoku/stay/"
+    },
+    {
+     "name": "Hotel Ruana",
+     "name_en": "Hotel Ruana",
+     "name_ja": "ホテル ルアナ",
+     "description": "Hotel in Nankoku.",
+     "source_url": "https://www.openstreetmap.org/way/1122204093",
      "page": "https://bokenjapan.com/kochi/nankoku/stay/"
     }
    ]
@@ -4689,7 +5782,7 @@
     "address": "27-1 Komatsu, Okawa Village, Tosa District, Kochi 781-3703, Japan",
     "phone": "0887-84-2211"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Okawa Village Office",
@@ -4715,6 +5808,15 @@
      "name_ja": "筒井旅館",
      "description": "Restaurant in Okawa, Kochi.",
      "source_url": "https://tabelog.com/kochi/A3901/A390104/39004799/",
+     "page": "https://bokenjapan.com/kochi/okawa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Shizen Okoku Shirataki no Sato",
+     "name_en": "Shizen Okoku Shirataki no Sato",
+     "name_ja": "自然王国 白滝の里",
+     "description": "Restaurant in Okawa.",
+     "source_url": "https://kochi-tabi.jp/search_spot_food.html?id=8166",
      "page": "https://bokenjapan.com/kochi/okawa/eat/other/",
      "category": "Other"
     }
@@ -5689,7 +6791,7 @@
     "address": "4-10 Nakamura-ohashidori, Shimanto City, Kochi 787-8501, Japan",
     "phone": "0880-34-1111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Shimanto City Hall",
@@ -5718,6 +6820,40 @@
      "category": "Cafe"
     },
     {
+     "name": "Shade Tree Coffee",
+     "name_en": "Shade Tree Coffee",
+     "description": "Cafe in Shimanto. Open Sat-Sun 13:00-17:00.",
+     "source_url": "http://shadetree-coffee.com",
+     "page": "https://bokenjapan.com/kochi/shimanto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Sora",
+     "name_en": "Cafe Sora",
+     "description": "Cafe in Shimanto.",
+     "source_url": "https://www.openstreetmap.org/node/10814153703",
+     "page": "https://bokenjapan.com/kochi/shimanto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Komeda's Coffee",
+     "name_en": "Komeda's Coffee",
+     "name_ja": "コメダ珈琲店",
+     "description": "Cafe in Shimanto.",
+     "source_url": "https://www.openstreetmap.org/way/1472722745",
+     "page": "https://bokenjapan.com/kochi/shimanto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Omoji Resto Kissa",
+     "name_en": "Omoji Resto Kissa",
+     "name_ja": "大文字レスト喫茶",
+     "description": "Cafe in Shimanto.",
+     "source_url": "https://www.openstreetmap.org/way/262658176",
+     "page": "https://bokenjapan.com/kochi/shimanto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Aya Shokudo",
      "name_en": "Aya Shokudo",
      "name_ja": "あや食堂",
@@ -5732,6 +6868,24 @@
      "name_ja": "物産館サンリバー四万十",
      "description": "Casual restaurant in Shimanto, Kochi.",
      "source_url": "https://tabelog.com/kochi/A3904/A390401/39004791/",
+     "page": "https://bokenjapan.com/kochi/shimanto/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "name_ja": "マクドナルド",
+     "description": "Burger fast-food restaurant in Shimanto.",
+     "source_url": "https://www.openstreetmap.org/node/5335310628",
+     "page": "https://bokenjapan.com/kochi/shimanto/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Tako Yaki Chikuha",
+     "name_en": "Tako Yaki Chikuha",
+     "name_ja": "たこ焼き 竹葉",
+     "description": "Fast-food restaurant in Shimanto.",
+     "source_url": "https://www.openstreetmap.org/way/661651682",
      "page": "https://bokenjapan.com/kochi/shimanto/eat/casual/",
      "category": "Casual"
     },
@@ -5790,6 +6944,24 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Izakaya Ushiwakamaru",
+     "name_en": "Izakaya Ushiwakamaru",
+     "name_ja": "居酒屋 牛若○",
+     "description": "Izakaya restaurant in Shimanto.",
+     "source_url": "https://kochi-tabi.jp/search_spot_food.html?id=7897",
+     "page": "https://bokenjapan.com/kochi/shimanto/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Yajiro Bee",
+     "name_en": "Izakaya Yajiro Bee",
+     "name_ja": "居酒屋 やじろ兵衛",
+     "description": "Izakaya restaurant in Shimanto.",
+     "source_url": "https://kochi-tabi.jp/search_spot_food.html?id=7900",
+     "page": "https://bokenjapan.com/kochi/shimanto/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Zosan-tei",
      "name_en": "Zosan-tei",
      "name_ja": "ぞぅさん亭",
@@ -5840,6 +7012,42 @@
      "name_ja": "ホテル星羅四万十",
      "description": "Restaurant in Shimanto, Kochi.",
      "source_url": "https://tabelog.com/kochi/A3904/A390401/39000481/",
+     "page": "https://bokenjapan.com/kochi/shimanto/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Shimanto",
+     "name_en": "Restaurant in Shimanto",
+     "name_ja": "御料理 良水",
+     "description": "Restaurant in Shimanto.",
+     "source_url": "https://kochi-tabi.jp/search_spot_food.html?id=7902",
+     "page": "https://bokenjapan.com/kochi/shimanto/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Saishoku Kukan Yori Michi",
+     "name_en": "Saishoku Kukan Yori Michi",
+     "name_ja": "彩食空間より道",
+     "description": "Restaurant in Shimanto.",
+     "source_url": "https://kochi-tabi.jp/search_spot_food.html?id=7905",
+     "page": "https://bokenjapan.com/kochi/shimanto/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kushi Katsu Kawara",
+     "name_en": "Kushi Katsu Kawara",
+     "name_ja": "串かつ 瓦",
+     "description": "Restaurant in Shimanto.",
+     "source_url": "https://kochi-tabi.jp/search_spot_food.html?id=7699",
+     "page": "https://bokenjapan.com/kochi/shimanto/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant Hiiragi",
+     "name_en": "Restaurant Hiiragi",
+     "name_ja": "レストラン ひいらぎ",
+     "description": "Restaurant in Shimanto.",
+     "source_url": "https://www.openstreetmap.org/node/8506196248",
      "page": "https://bokenjapan.com/kochi/shimanto/eat/other/",
      "category": "Other"
     },
@@ -5898,6 +7106,24 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Nishi Tosa Shokudo",
+     "name_en": "Nishi Tosa Shokudo",
+     "name_ja": "西土佐食堂",
+     "description": "Regional Japanese restaurant in Shimanto.",
+     "source_url": "https://www.openstreetmap.org/node/12285130821",
+     "page": "https://bokenjapan.com/kochi/shimanto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Sushi restaurant in Shimanto",
+     "name_en": "Sushi restaurant in Shimanto",
+     "name_ja": "スシロー",
+     "description": "Sushi restaurant in Shimanto.",
+     "source_url": "https://www.openstreetmap.org/way/1472722746",
+     "page": "https://bokenjapan.com/kochi/shimanto/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Straw Bale Sankan-ya",
      "name_en": "Straw Bale Sankan-ya",
      "name_ja": "ストローベイル・山間屋",
@@ -5912,6 +7138,32 @@
      "name_ja": "ピノキオ",
      "description": "Sweets and bakery shop in Shimanto, Kochi.",
      "source_url": "https://tabelog.com/kochi/A3904/A390401/39004188/",
+     "page": "https://bokenjapan.com/kochi/shimanto/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bolangerie MoMA",
+     "name_en": "Bolangerie MoMA",
+     "description": "Bakery in Shimanto.",
+     "source_url": "https://www.openstreetmap.org/node/5423672222",
+     "page": "https://bokenjapan.com/kochi/shimanto/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bakery in Shimanto",
+     "name_en": "Bakery in Shimanto",
+     "name_ja": "パティスリーfuu",
+     "description": "Bakery in Shimanto.",
+     "source_url": "https://www.openstreetmap.org/node/1801742481",
+     "page": "https://bokenjapan.com/kochi/shimanto/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Pastry shop in Shimanto",
+     "name_en": "Pastry shop in Shimanto",
+     "name_ja": "ストローベイル SANKANYA",
+     "description": "Pastry shop in Shimanto.",
+     "source_url": "https://www.openstreetmap.org/node/12285130820",
      "page": "https://bokenjapan.com/kochi/shimanto/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -6350,7 +7602,7 @@
     "address": "1 Kibogaoka, Sukumo City, Kochi 788-8686, Japan",
     "phone": "0880-62-1111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Sukumo City Hall",
@@ -6430,6 +7682,15 @@
      "name_ja": "チャイニーズレストラン アルズ",
      "description": "Chinese or Asian restaurant in Sukumo, Kochi.",
      "source_url": "https://tabelog.com/kochi/A3904/A390403/39006855/",
+     "page": "https://bokenjapan.com/kochi/sukumo/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Chuka Junna Suiko",
+     "name_en": "Chuka Junna Suiko",
+     "name_ja": "中華旬菜 水滸",
+     "description": "Chinese restaurant in Sukumo.",
+     "source_url": "https://www.openstreetmap.org/node/5334189372",
      "page": "https://bokenjapan.com/kochi/sukumo/eat/chinese-asian/",
      "category": "Chinese & Asian"
     },
@@ -7232,7 +8493,7 @@
     "address": "2017-1 Ko, Takaoka-cho, Tosa City, Kochi 781-1192, Japan",
     "phone": "088-852-1111"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Tosa City Hall",
@@ -7315,6 +8576,33 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Izakaya Kasagotei",
+     "name_en": "Izakaya Kasagotei",
+     "name_ja": "居酒屋かさご亭",
+     "description": "Izakaya restaurant in Tosa.",
+     "source_url": "https://tosacity-kankou.com/kankou/category01/kasagotei/",
+     "page": "https://bokenjapan.com/kochi/tosa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yakitori 396",
+     "name_en": "Yakitori 396",
+     "name_ja": "やきとり396（みくる）",
+     "description": "Yakitori restaurant in Tosa.",
+     "source_url": "https://tosacity-kankou.com/kankou/category01/yakitori396/",
+     "page": "https://bokenjapan.com/kochi/tosa/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakitori Kunsei Izakaya Hitotose",
+     "name_en": "Yakitori Kunsei Izakaya Hitotose",
+     "name_ja": "焼鳥燻製居酒屋ひととせ",
+     "description": "Yakitori restaurant in Tosa.",
+     "source_url": "https://tosacity-kankou.com/kankou/category01/hitotose/",
+     "page": "https://bokenjapan.com/kochi/tosa/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Kuroshio Udon",
      "name_en": "Kuroshio Udon",
      "name_ja": "黒潮うどん",
@@ -7360,11 +8648,56 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Nabeyaki Ramen Goku",
+     "name_en": "Nabeyaki Ramen Goku",
+     "name_ja": "鍋焼ラーメン 悟空",
+     "description": "Ramen restaurant in Tosa.",
+     "source_url": "https://tosacity-kankou.com/kankou/category01/goku/",
+     "page": "https://bokenjapan.com/kochi/tosa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Sanyo-so",
      "name_en": "Sanyo-so",
      "name_ja": "三陽荘",
      "description": "Restaurant in Tosa, Kochi.",
      "source_url": "https://tabelog.com/kochi/A3901/A390101/39004360/",
+     "page": "https://bokenjapan.com/kochi/tosa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Gohan-ya Hareta",
+     "name_en": "Gohan-ya Hareta",
+     "name_ja": "ごはん家ハレタ",
+     "description": "Restaurant in Tosa.",
+     "source_url": "https://tosacity-kankou.com/kankou/category01/gohanya_hareta/",
+     "page": "https://bokenjapan.com/kochi/tosa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Ichiyui",
+     "name_en": "Ichiyui",
+     "name_ja": "いちゆい",
+     "description": "Restaurant in Tosa.",
+     "source_url": "https://tosacity-kankou.com/kankou/category01/ichiyui/",
+     "page": "https://bokenjapan.com/kochi/tosa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Logue",
+     "name_en": "Logue",
+     "name_ja": "Logue（ローグ）",
+     "description": "Restaurant in Tosa.",
+     "source_url": "https://tosacity-kankou.com/kankou/category01/logue-2/",
+     "page": "https://bokenjapan.com/kochi/tosa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "wa bar KIRI",
+     "name_en": "wa bar KIRI",
+     "name_ja": "wa bar KIRI 桐",
+     "description": "Restaurant in Tosa.",
+     "source_url": "https://tosacity-kankou.com/kankou/category01/kiri/",
      "page": "https://bokenjapan.com/kochi/tosa/eat/other/",
      "category": "Other"
     },
@@ -7383,6 +8716,24 @@
      "name_ja": "風来屋",
      "description": "Japanese restaurant in Tosa, Kochi.",
      "source_url": "https://tabelog.com/kochi/A3903/A390301/39003028/",
+     "page": "https://bokenjapan.com/kochi/tosa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ami Hama Shokudo",
+     "name_en": "Ami Hama Shokudo",
+     "name_ja": "あみ浜食堂",
+     "description": "Japanese restaurant in Tosa.",
+     "source_url": "https://tosacity-kankou.com/kankou/category01/amihama/",
+     "page": "https://bokenjapan.com/kochi/tosa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Musubi Shokudo",
+     "name_en": "Musubi Shokudo",
+     "name_ja": "むすび食堂",
+     "description": "Japanese restaurant in Tosa.",
+     "source_url": "https://tosacity-kankou.com/kankou/category01/musubishokudo/",
      "page": "https://bokenjapan.com/kochi/tosa/eat/other-japanese/",
      "category": "Other Japanese"
     },

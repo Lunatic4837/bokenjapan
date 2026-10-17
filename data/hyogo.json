@@ -1381,6 +1381,14 @@
      "page": "https://bokenjapan.com/hyogo/akashi/stay/"
     },
     {
+     "name": "Green Hill Hotel Akashi",
+     "name_en": "Green Hill Hotel Akashi",
+     "name_ja": "グリーンヒルホテル明石",
+     "description": "Hotel in Akashi.",
+     "source_url": "https://gh-hotel.co.jp/",
+     "page": "https://bokenjapan.com/hyogo/akashi/stay/"
+    },
+    {
      "name": "Kikusui Hotel",
      "name_en": "Kikusui Hotel",
      "name_ja": "菊水ビジネスホテル",
@@ -1389,19 +1397,11 @@
      "page": "https://bokenjapan.com/hyogo/akashi/stay/"
     },
     {
-     "name": "Nishiakashi Rincarn Hotel",
-     "name_en": "Nishiakashi Rincarn Hotel",
-     "name_ja": "西明石リンカーンホテル",
+     "name": "remington hotel",
+     "name_en": "remington hotel",
+     "name_ja": "レミントンホテル",
      "description": "Hotel in Akashi.",
-     "source_url": "https://www.acty21.com/rincarn/",
-     "page": "https://bokenjapan.com/hyogo/akashi/stay/"
-    },
-    {
-     "name": "Hitomaro Kadan",
-     "name_en": "Hitomaro Kadan",
-     "name_ja": "人丸花壇",
-     "description": "Hotel in Akashi.",
-     "source_url": "https://www.hitomarukadan.com/",
+     "source_url": "https://remingtonhotels.jp/",
      "page": "https://bokenjapan.com/hyogo/akashi/stay/"
     }
    ]
@@ -2901,10 +2901,35 @@
      "page": "https://bokenjapan.com/hyogo/amagasaki/stay/"
     },
     {
-     "name": "STAY HOTEL",
-     "name_en": "STAY HOTEL",
+     "name": "Miyako Hoteru Amagasaki",
+     "name_en": "Miyako Hoteru Amagasaki",
+     "name_ja": "都ホテル 尼崎",
      "description": "Hotel in Amagasaki.",
-     "source_url": "https://stayhotel.jp/",
+     "source_url": "https://www.miyakohotels.ne.jp/amagasaki/",
+     "page": "https://bokenjapan.com/hyogo/amagasaki/stay/"
+    },
+    {
+     "name": "HOTEL VISCHIO AMAGASAKI",
+     "name_en": "HOTEL VISCHIO AMAGASAKI",
+     "name_ja": "ホテルヴィスキオ尼崎",
+     "description": "Hotel in Amagasaki.",
+     "source_url": "https://www.hotelvischio-amagasaki.jp",
+     "page": "https://bokenjapan.com/hyogo/amagasaki/stay/"
+    },
+    {
+     "name": "Takeyaso Ryokan",
+     "name_en": "Takeyaso Ryokan",
+     "name_ja": "竹家荘旅館",
+     "description": "Hotel in Amagasaki.",
+     "source_url": "https://takeyaso.com/",
+     "page": "https://bokenjapan.com/hyogo/amagasaki/stay/"
+    },
+    {
+     "name": "Hotel in Amagasaki (#1)",
+     "name_en": "Hotel in Amagasaki (#1)",
+     "name_ja": "ホテルファーストステイ尼崎",
+     "description": "Hotel in Amagasaki.",
+     "source_url": "https://first-stay.jp/",
      "page": "https://bokenjapan.com/hyogo/amagasaki/stay/"
     },
     {
@@ -4250,6 +4275,14 @@
      "description": "Hotel in Ashiya.",
      "source_url": "https://baycourtclub.jp/sp/ashiya/",
      "page": "https://bokenjapan.com/hyogo/ashiya/stay/"
+    },
+    {
+     "name": "Hoteru Takezono Ashiya",
+     "name_en": "Hoteru Takezono Ashiya",
+     "name_ja": "ホテル竹園芦屋",
+     "description": "Hotel in Ashiya.",
+     "source_url": "https://takezono.co.jp/",
+     "page": "https://bokenjapan.com/hyogo/ashiya/stay/"
     }
    ]
   },
@@ -5461,6 +5494,14 @@
      "name_ja": "エバーホテルはりま加古川",
      "description": "Hotel in Minaminosoe, Harima with breakfast available; 5-minute walk from Harimamachi Station.",
      "source_url": "https://www.jalan.net/yad318869/",
+     "page": "https://bokenjapan.com/hyogo/harima/stay/"
+    },
+    {
+     "name": "Hotel in Harima (#1)",
+     "name_en": "Hotel in Harima (#1)",
+     "name_ja": "エバーホテルはりま加古川",
+     "description": "Hotel in Harima.",
+     "source_url": "https://www.everhotel.co.jp/harimakakogawa/",
      "page": "https://bokenjapan.com/hyogo/harima/stay/"
     }
    ]
@@ -9797,6 +9838,14 @@
      "page": "https://bokenjapan.com/hyogo/kakogawa/stay/"
     },
     {
+     "name": "Hoteru Azeria Kakogawa",
+     "name_en": "Hoteru Azeria Kakogawa",
+     "name_ja": "ホテル アゼリア 加古川",
+     "description": "Hotel in Kakogawa (Kakogawa Machimizo Yukikuchi).",
+     "source_url": "https://hotel.midori-gr.com/hotel/hotel-azalea-kakogawa.html",
+     "page": "https://bokenjapan.com/hyogo/kakogawa/stay/"
+    },
+    {
      "name": "Hotel in Kakogawa (#1)",
      "name_en": "Hotel in Kakogawa (#1)",
      "name_ja": "加古川温泉みとろ荘",
@@ -9834,14 +9883,6 @@
      "name_ja": "宿屋のカプセルホテル 東加古川店",
      "description": "Hotel in Kakogawa.",
      "source_url": "https://www.openstreetmap.org/node/5400738340",
-     "page": "https://bokenjapan.com/hyogo/kakogawa/stay/"
-    },
-    {
-     "name": "Hotel in Kakogawa (#3)",
-     "name_en": "Hotel in Kakogawa (#3)",
-     "name_ja": "ビジネスホテル サンシャイン",
-     "description": "Hotel in Kakogawa.",
-     "source_url": "https://www.openstreetmap.org/node/5403073721",
      "page": "https://bokenjapan.com/hyogo/kakogawa/stay/"
     }
    ]
@@ -11738,6 +11779,23 @@
      "category": "Cafe"
     },
     {
+     "name": "Satoyama Blueberry Farm / Cafe Wacca",
+     "name_en": "Satoyama Blueberry Farm / Cafe Wacca",
+     "name_ja": "里山ブルーベリー農園/カフェWacca",
+     "description": "Cafe in Kawanishi.",
+     "source_url": "https://tabesta2026.studio.site/",
+     "page": "https://bokenjapan.com/hyogo/kawanishi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "THE ROASTERY OKI OKI",
+     "name_en": "THE ROASTERY OKI OKI",
+     "description": "Cafe in Kawanishi.",
+     "source_url": "https://tabesta2026.studio.site/",
+     "page": "https://bokenjapan.com/hyogo/kawanishi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Anchisuteki Tororo Mugi Meshi Buta Maru Rasora Kawanishi",
      "name_en": "Anchisuteki Tororo Mugi Meshi Buta Maru Rasora Kawanishi",
      "name_ja": "あんちすてーき とろろ麦めし 豚丸 ラソラ川西店",
@@ -11922,6 +11980,22 @@
      "name_ja": "ジョリー・パスタ",
      "description": "Italian restaurant in Kawanishi.",
      "source_url": "https://www.openstreetmap.org/node/8266030533",
+     "page": "https://bokenjapan.com/hyogo/kawanishi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "pizza groove",
+     "name_en": "Pizza Groove",
+     "description": "Pizzeria in Kawanishi.",
+     "source_url": "https://tabesta2026.studio.site/",
+     "page": "https://bokenjapan.com/hyogo/kawanishi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "PIZZA PORT",
+     "name_en": "PIZZA PORT",
+     "description": "Pizzeria in Kawanishi.",
+     "source_url": "https://tabesta2026.studio.site/",
      "page": "https://bokenjapan.com/hyogo/kawanishi/eat/european/",
      "category": "European"
     },
@@ -12219,6 +12293,71 @@
      "name_ja": "わん",
      "description": "Restaurant in Kawanishi.",
      "source_url": "https://www.openstreetmap.org/node/7081883246",
+     "page": "https://bokenjapan.com/hyogo/kawanishi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Bar&Diner Whippersnappers",
+     "name_en": "Bar & Diner Whippersnappers",
+     "description": "Bar in Kawanishi.",
+     "source_url": "https://tabesta2026.studio.site/",
+     "page": "https://bokenjapan.com/hyogo/kawanishi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Casa LIBRE",
+     "name_en": "Casa LIBRE",
+     "description": "Restaurant in Kawanishi.",
+     "source_url": "https://tabesta2026.studio.site/",
+     "page": "https://bokenjapan.com/hyogo/kawanishi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Longchamp",
+     "name_en": "Longchamp",
+     "description": "Restaurant in Kawanishi.",
+     "source_url": "https://tabesta2026.studio.site/",
+     "page": "https://bokenjapan.com/hyogo/kawanishi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "MALIMO",
+     "name_en": "MALIMO",
+     "description": "Restaurant in Kawanishi.",
+     "source_url": "https://tabesta2026.studio.site/",
+     "page": "https://bokenjapan.com/hyogo/kawanishi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Nico Nico Pann",
+     "name_en": "Nico Nico Pann",
+     "description": "Bakery in Kawanishi.",
+     "source_url": "https://tabesta2026.studio.site/",
+     "page": "https://bokenjapan.com/hyogo/kawanishi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "ROCKAWAY BUGGY",
+     "name_en": "ROCKAWAY BUGGY",
+     "description": "Restaurant in Kawanishi.",
+     "source_url": "https://tabesta2026.studio.site/",
+     "page": "https://bokenjapan.com/hyogo/kawanishi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Tuta tuta",
+     "name_en": "Tuta tuta",
+     "description": "Restaurant in Kawanishi.",
+     "source_url": "https://tabesta2026.studio.site/",
+     "page": "https://bokenjapan.com/hyogo/kawanishi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Yuraku Nihon Ryori Kagurazaka",
+     "name_en": "Yuraku Nihon Ryori Kagurazaka",
+     "name_ja": "愉楽 日本料理かぐらざか",
+     "description": "Japanese restaurant in Kawanishi.",
+     "source_url": "https://tabesta2026.studio.site/",
      "page": "https://bokenjapan.com/hyogo/kawanishi/eat/other/",
      "category": "Other"
     },
@@ -12638,7 +12777,7 @@
      "name_en": "Cafe in Kobe (#1)",
      "name_ja": "おやさいレストラン＆カフェ 『ことことキッチン』",
      "description": "Cafe in Kobe.",
-     "source_url": "https://shiawasenomura.org/restaurant/danran.html",
+     "source_url": "https://www.openstreetmap.org/node/4381641685",
      "page": "https://bokenjapan.com/hyogo/kobe/eat/cafe/",
      "category": "Cafe"
     },
@@ -12647,7 +12786,7 @@
      "name_en": "Cafe in Kobe (#2)",
      "name_ja": "喫茶＆売店『トレド』",
      "description": "Cafe in Kobe.",
-     "source_url": "https://shiawasenomura.org/restaurant/toledo.html",
+     "source_url": "https://www.openstreetmap.org/node/4305334324",
      "page": "https://bokenjapan.com/hyogo/kobe/eat/cafe/",
      "category": "Cafe"
     },
@@ -12953,7 +13092,7 @@
      "name_en": "Top Ten Club",
      "name_ja": "トップテンクラブ",
      "description": "Bar in Kobe.",
-     "source_url": "https://www.soundclub.jp/toptenclub/",
+     "source_url": "https://www.openstreetmap.org/node/2599694556",
      "page": "https://bokenjapan.com/hyogo/kobe/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -13194,7 +13333,7 @@
      "name_en": "Casa Blanca restaurant",
      "name_ja": "レストラン「カサブランカ」",
      "description": "Restaurant in Kobe.",
-     "source_url": "https://shiawasenomura.org/restaurant/casablanca.html",
+     "source_url": "https://www.openstreetmap.org/node/4305311468",
      "page": "https://bokenjapan.com/hyogo/kobe/eat/other/",
      "category": "Other"
     },
@@ -13203,7 +13342,7 @@
      "name_en": "Green Village restaurant",
      "name_ja": "レストラン『グリーンビレッジ』",
      "description": "Restaurant in Kobe.",
-     "source_url": "https://shiawasenomura.org/restaurant/g_village.html",
+     "source_url": "https://www.openstreetmap.org/node/4305331363",
      "page": "https://bokenjapan.com/hyogo/kobe/eat/other/",
      "category": "Other"
     },
@@ -13212,7 +13351,7 @@
      "name_en": "Restaurant in Kobe (#2)",
      "name_ja": "レストラン『アミーゴ』",
      "description": "Restaurant in Kobe.",
-     "source_url": "https://shiawasenomura.org/restaurant/amigo.html",
+     "source_url": "https://www.openstreetmap.org/node/4305335784",
      "page": "https://bokenjapan.com/hyogo/kobe/eat/other/",
      "category": "Other"
     },
@@ -13221,7 +13360,7 @@
      "name_en": "Restaurant in Kobe (#3)",
      "name_ja": "Sportsレストラン『コースト』",
      "description": "Restaurant in Kobe.",
-     "source_url": "https://shiawasenomura.org/restaurant/coast_east.html",
+     "source_url": "https://www.openstreetmap.org/node/4365845317",
      "page": "https://bokenjapan.com/hyogo/kobe/eat/other/",
      "category": "Other"
     },
@@ -13230,7 +13369,7 @@
      "name_en": "Restaurant in Kobe (#4)",
      "name_ja": "和風レストラン『花梨』",
      "description": "Restaurant in Kobe.",
-     "source_url": "https://shiawasenomura.org/restaurant/karin.html",
+     "source_url": "https://www.openstreetmap.org/node/4305336557",
      "page": "https://bokenjapan.com/hyogo/kobe/eat/other/",
      "category": "Other"
     },
@@ -15147,7 +15286,7 @@
      "name_en": "Italian restaurant in Fukui, Mikishi",
      "name_ja": "サイゼリヤ",
      "description": "Italian restaurant in Fukui, Mikishi. Open daily 11:00-00:00.",
-     "source_url": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=482",
+     "source_url": "https://www.openstreetmap.org/node/6154596974",
      "page": "https://bokenjapan.com/hyogo/mikishi/eat/european/",
      "category": "European"
     },
@@ -16427,7 +16566,7 @@
      "name_en": "Italian restaurant in Tsu Kadogawa Machi, Nishinomiya",
      "name_ja": "サイゼリヤ",
      "description": "Italian restaurant in Tsu Kadogawa Machi, Nishinomiya. Open daily 11:00-02:00.",
-     "source_url": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=692",
+     "source_url": "https://www.openstreetmap.org/node/6154596980",
      "page": "https://bokenjapan.com/hyogo/nishinomiya/eat/european/",
      "category": "European"
     },
@@ -16664,7 +16803,7 @@
      "name_en": "Yamiichi",
      "name_ja": "闇市",
      "description": "Barbecue restaurant in Nishinomiya.",
-     "source_url": "https://yamiichikoushienguchi.owst.jp/",
+     "source_url": "https://www.openstreetmap.org/node/11880663362",
      "page": "https://bokenjapan.com/hyogo/nishinomiya/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -16796,7 +16935,7 @@
      "name": "Dining ROMO",
      "name_en": "Dining ROMO",
      "description": "Restaurant in Nishinomiya.",
-     "source_url": "https://diningromo.owst.jp/",
+     "source_url": "https://www.openstreetmap.org/node/7059361714",
      "page": "https://bokenjapan.com/hyogo/nishinomiya/eat/other/",
      "category": "Other"
     },
@@ -17016,7 +17155,7 @@
      "name": "GRANNY SMITH",
      "name_en": "GRANNY SMITH",
      "description": "Pastry shop in Nishinomiya. Open daily 10:00-21:00.",
-     "source_url": "https://grannysmith-pie.com/sp/shopinfo/nishinomiya.php",
+     "source_url": "https://www.openstreetmap.org/node/10137720038",
      "page": "https://bokenjapan.com/hyogo/nishinomiya/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     },
@@ -17174,6 +17313,22 @@
      "page": "https://bokenjapan.com/hyogo/nishinomiya/stay/"
     },
     {
+     "name": "Guest House ANCHOR",
+     "name_en": "Guest House ANCHOR",
+     "name_ja": "ゲストハウス ANCHOR",
+     "description": "Guest house in Nishinomiya.",
+     "source_url": "https://www.openstreetmap.org/node/7059392700",
+     "page": "https://bokenjapan.com/hyogo/nishinomiya/stay/"
+    },
+    {
+     "name": "Hotel Hewitt Koshien (Former name : Novotel Koshien)",
+     "name_en": "Hotel Hewitt Koshien (Former name : Novotel Koshien)",
+     "name_ja": "ホテルヒューイット甲子園",
+     "description": "Hotel in Nishinomiya (Koshien Takashio Machi).",
+     "source_url": "https://www.openstreetmap.org/way/109998354",
+     "page": "https://bokenjapan.com/hyogo/nishinomiya/stay/"
+    },
+    {
      "name": "Toyotaya Hostel",
      "name_en": "Toyotaya Hostel",
      "name_ja": "豊多屋ホステル",
@@ -17198,8 +17353,16 @@
      "page": "https://bokenjapan.com/hyogo/nishinomiya/stay/"
     },
     {
-     "name": "Hotel in Nishinomiya",
-     "name_en": "Hotel in Nishinomiya",
+     "name": "Hotel in Nishinomiya (#1)",
+     "name_en": "Hotel in Nishinomiya (#1)",
+     "name_ja": "甲子園ホテル夕立荘",
+     "description": "Hotel in Nishinomiya.",
+     "source_url": "https://www.openstreetmap.org/node/7087674115",
+     "page": "https://bokenjapan.com/hyogo/nishinomiya/stay/"
+    },
+    {
+     "name": "Hotel in Nishinomiya (#2)",
+     "name_en": "Hotel in Nishinomiya (#2)",
      "name_ja": "ホテルリブマックス",
      "description": "Hotel in Nishinomiya.",
      "source_url": "https://www.openstreetmap.org/way/521809544",
@@ -18285,7 +18448,7 @@
      "name_en": "Italian restaurant in Sanda",
      "name_ja": "サイゼリヤ",
      "description": "Italian restaurant in Yayoi Gaoka, Sanda. Open daily 10:00-22:00.",
-     "source_url": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=1253",
+     "source_url": "https://www.openstreetmap.org/node/6154596969",
      "page": "https://bokenjapan.com/hyogo/sanda/eat/european/",
      "category": "European"
     },
@@ -19932,6 +20095,23 @@
      "category": "Other"
     },
     {
+     "name": "ROZI CAFFEE",
+     "name_en": "ROZI CAFFEE",
+     "description": "Restaurant in Shiso.",
+     "source_url": "https://shiso.or.jp/highlights/rozi-caffee",
+     "page": "https://bokenjapan.com/hyogo/shiso/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Neutral",
+     "name_en": "Neutral",
+     "name_ja": "ニュートラル",
+     "description": "Restaurant in Shiso.",
+     "source_url": "https://shiso.or.jp/highlights/%e3%83%8b%e3%83%a5%e3%83%bc%e3%83%88%e3%83%a9%e3%83%ab",
+     "page": "https://bokenjapan.com/hyogo/shiso/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Oimatsu",
      "name_en": "Oimatsu",
      "name_ja": "老松",
@@ -20787,7 +20967,7 @@
      "name_en": "Italian restaurant in Taishi",
      "name_ja": "サイゼリヤ",
      "description": "Italian restaurant in Taishi Machi Ota, Taishi. Open daily 11:00-02:00.",
-     "source_url": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=279",
+     "source_url": "https://www.openstreetmap.org/node/6145265447",
      "page": "https://bokenjapan.com/hyogo/taishi/eat/european/",
      "category": "European"
     },
@@ -22295,6 +22475,14 @@
      "description": "Hotel in Takarazuka.",
      "source_url": "https://www.openstreetmap.org/node/5746159727",
      "page": "https://bokenjapan.com/hyogo/takarazuka/stay/"
+    },
+    {
+     "name": "Hotel in Takarazuka",
+     "name_en": "Hotel in Takarazuka",
+     "name_ja": "宝塚ワシントンホテル",
+     "description": "Hotel in Takarazuka.",
+     "source_url": "https://www.openstreetmap.org/way/585336405",
+     "page": "https://bokenjapan.com/hyogo/takarazuka/stay/"
     }
    ]
   },
@@ -22661,7 +22849,7 @@
      "name_en": "Ichi Kichi",
      "name_ja": "いち吉",
      "description": "Pub in Arai Machi Ogimachi, Takasago.",
-     "source_url": "https://localplace.jp/t200343101/",
+     "source_url": "https://www.openstreetmap.org/node/7003742643",
      "page": "https://bokenjapan.com/hyogo/takasago/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },

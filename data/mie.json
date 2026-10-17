@@ -2713,7 +2713,7 @@
      "name_en": "Italian restaurant in Ogi Machi, Ise",
      "name_ja": "サイゼリヤ",
      "description": "Italian restaurant in Ogi Machi, Ise. Open daily 11:00-02:00.",
-     "source_url": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=709",
+     "source_url": "https://www.openstreetmap.org/node/4915782816",
      "page": "https://bokenjapan.com/mie/ise/eat/european/",
      "category": "European"
     },
@@ -3123,7 +3123,7 @@
      "name_en": "gohan-ya Kyo",
      "name_ja": "gohan-ya 饗（ごはんや きょう）",
      "description": "Japanese and Regional Japanese restaurant in Kurose Machi, Ise.",
-     "source_url": "https://ise.mypl.net/article/newshop_ise/42298",
+     "source_url": "https://www.openstreetmap.org/node/7682299006",
      "page": "https://bokenjapan.com/mie/ise/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -4163,7 +4163,7 @@
      "name_en": "Yakiniku Chojiro",
      "name_ja": "焼肉 長治郎",
      "description": "Barbecue restaurant in Kameyama.",
-     "source_url": "https://yakiniku-restaurant-5023.business.site/",
+     "source_url": "https://www.openstreetmap.org/way/1165318964",
      "page": "https://bokenjapan.com/mie/kameyama/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -6294,7 +6294,7 @@
      "name_en": "Italian restaurant in Komono",
      "name_ja": "サイゼリヤ",
      "description": "Italian restaurant in Komono. Open daily 10:00-22:00.",
-     "source_url": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=1200",
+     "source_url": "https://www.openstreetmap.org/node/4765776017",
      "page": "https://bokenjapan.com/mie/komono/eat/european/",
      "category": "European"
     },
@@ -7843,7 +7843,7 @@
      "name_en": "Italian restaurant in Kuwana",
      "name_ja": "サイゼリヤ",
      "description": "Italian restaurant in Oaza Toho, Kuwana. Open daily 11:00-02:00.",
-     "source_url": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=608",
+     "source_url": "https://www.openstreetmap.org/node/6174557572",
      "page": "https://bokenjapan.com/mie/kuwana/eat/european/",
      "category": "European"
     },
@@ -9224,7 +9224,7 @@
      "name_en": "Italian restaurant in Matsusaka",
      "name_ja": "サイゼリヤ",
      "description": "Italian restaurant in Tamuramachi, Matsusaka. Open daily 11:00-02:00.",
-     "source_url": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=677",
+     "source_url": "https://www.openstreetmap.org/node/6174390453",
      "page": "https://bokenjapan.com/mie/matsusaka/eat/european/",
      "category": "European"
     },
@@ -10906,7 +10906,7 @@
      "name_en": "Italian restaurant in Meiwa",
      "name_ja": "サイゼリヤ",
      "description": "Italian restaurant in Meiwa Machiju Mura, Meiwa. Open daily 10:00-22:00.",
-     "source_url": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=1196",
+     "source_url": "https://www.openstreetmap.org/node/6174374818",
      "page": "https://bokenjapan.com/mie/meiwa/eat/european/",
      "category": "European"
     },
@@ -11194,6 +11194,14 @@
      "name_ja": "旅籠屋伊勢松坂店",
      "description": "Motel in Meiwa.",
      "source_url": "https://www.openstreetmap.org/node/6139934604",
+     "page": "https://bokenjapan.com/mie/meiwa/stay/"
+    },
+    {
+     "name": "Family Rojji Hatagoya Ise Matsusaka Branch",
+     "name_en": "Family Rojji Hatagoya Ise Matsusaka Branch",
+     "name_ja": "ファミリーロッジ旅籠屋伊勢松坂店",
+     "description": "Motel in Meiwa.",
+     "source_url": "https://www.openstreetmap.org/way/655302188",
      "page": "https://bokenjapan.com/mie/meiwa/stay/"
     }
    ]
@@ -15721,7 +15729,7 @@
      "name_en": "Italian restaurant in Shono Hayama, Suzuka",
      "name_ja": "サイゼリヤ",
      "description": "Italian restaurant in Shono Hayama, Suzuka. Open daily 10:00-22:00.",
-     "source_url": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=896",
+     "source_url": "https://www.openstreetmap.org/node/6174447920",
      "page": "https://bokenjapan.com/mie/suzuka/eat/european/",
      "category": "European"
     },
@@ -19592,7 +19600,7 @@
      "name_en": "Italian restaurant in Toin",
      "name_ja": "サイゼリヤ",
      "description": "Italian restaurant in Toin. Open daily 10:00-21:00.",
-     "source_url": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=1204",
+     "source_url": "https://www.openstreetmap.org/node/6174547542",
      "page": "https://bokenjapan.com/mie/toin/eat/european/",
      "category": "European"
     },
@@ -19641,6 +19649,15 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Gyukaku Yakiniku Shokudo",
+     "name_en": "Gyukaku Yakiniku Shokudo",
+     "name_ja": "牛角焼肉食堂",
+     "description": "Yakiniku restaurant in Toin.",
+     "source_url": "https://www.town.toin.lg.jp/join_toin/shop/4568.html",
+     "page": "https://bokenjapan.com/mie/toin/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Togen",
      "name_en": "Togen",
      "name_ja": "桃源",
@@ -19684,6 +19701,24 @@
      "source_url": "http://www.udonsoba.com",
      "page": "https://bokenjapan.com/mie/toin/eat/noodles/",
      "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Restaurant in Toin",
+     "name_en": "Restaurant in Toin",
+     "name_ja": "キッチン杏",
+     "description": "Restaurant in Toin.",
+     "source_url": "https://www.town.toin.lg.jp/join_toin/shop/4567.html",
+     "page": "https://bokenjapan.com/mie/toin/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Shokujidokoro Tanakaya",
+     "name_en": "Shokujidokoro Tanakaya",
+     "name_ja": "食事処 たなか屋",
+     "description": "Restaurant in Toin.",
+     "source_url": "https://www.town.toin.lg.jp/join_toin/shop/4605.html",
+     "page": "https://bokenjapan.com/mie/toin/eat/other/",
+     "category": "Other"
     },
     {
      "name": "Tempura Teppan Cuisine Ten Jun",
@@ -20017,7 +20052,7 @@
      "name_en": "Italian restaurant in Hanetokoro Machikan yes Chi, Tsu",
      "name_ja": "サイゼリヤ",
      "description": "Italian restaurant in Hanetokoro Machikan yes Chi, Tsu. Open daily 10:00-23:00.",
-     "source_url": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=1239",
+     "source_url": "https://www.openstreetmap.org/node/3766794875",
      "page": "https://bokenjapan.com/mie/tsu/eat/european/",
      "category": "European"
     },
@@ -22465,7 +22500,7 @@
      "name_en": "Italian restaurant in Yokkaichi",
      "name_ja": "サイゼリヤ",
      "description": "Italian restaurant in Kosugimachi, Yokkaichi. Open daily 11:00-02:00.",
-     "source_url": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=361",
+     "source_url": "https://www.openstreetmap.org/node/5414255337",
      "page": "https://bokenjapan.com/mie/yokkaichi/eat/european/",
      "category": "European"
     },
