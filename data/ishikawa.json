@@ -1103,6 +1103,112 @@
      "category": "Cafe"
     },
     {
+     "name": "Yukidaruma Cafe",
+     "name_en": "Yukidaruma Cafe",
+     "name_ja": "雪だるまカフェ",
+     "description": "Cafe in an early-Meiji wooden house in Shiramine, serving local grated-radish udon, botamochi and the Tedorigawa Dam curry.",
+     "source_url": "https://www.urara-hakusanbito.com/gourmet/detail_1193.html",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Tokidoki Bar Oyado Takeda",
+     "name_en": "Cafe Tokidoki Bar Oyado Takeda",
+     "name_ja": "カフェときどきバー・お宿 たけだ",
+     "description": "Cafe in a converted barber shop in Tsurugi with hand-drip coffee, matcha and light meals; a bar opens on Saturdays.",
+     "source_url": "https://www.urara-hakusanbito.com/gourmet/detail_1569.html",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Hakusan Quiche House QUI",
+     "name_en": "Hakusan Quiche House QUI",
+     "name_ja": "白山キッシュハウス クゥーイ",
+     "description": "Quiche shop at Park Shishiku with gluten-free rice-flour crusts and savoury and sweet fillings, to eat in or take away.",
+     "source_url": "https://www.urara-hakusanbito.com/gourmet/detail_1460.html",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Senami Cafe",
+     "name_en": "Senami Cafe",
+     "name_ja": "瀬波カフェ",
+     "description": "Old-house cafe opened in 2022 in the mountain village of Senami, using local ingredients and serving three-colour zenzai.",
+     "source_url": "https://www.urara-hakusanbito.com/gourmet/detail_1660.html",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "A-mish",
+     "description": "Hideaway cafe with handmade cakes and cookies in a country-style interior.",
+     "source_url": "https://www.urara-hakusanbito.com/gourmet/detail_1520.html",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Mikawa 37 Cafe",
+     "name_en": "Mikawa 37 Cafe",
+     "name_ja": "美川３７Cafe",
+     "description": "Cafe inside JR Mikawa Station serving local-collaboration dishes such as Mikawa ochazuke and oden.",
+     "source_url": "https://www.urara-hakusanbito.com/gourmet/detail_1319.html",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Guesthouse Cafe and Bar Unila",
+     "name_en": "Guesthouse Cafe and Bar Unila",
+     "name_ja": "GUESTHOUSE CAFE&BAR UNILA ゲストハウス カフェアンドバー ユニラ",
+     "description": "Cafe and bar in Hakusan.",
+     "source_url": "https://www.hotpepper.jp/strJ003410775/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Hanao Cafe Hakusan",
+     "name_en": "Hanao Cafe Hakusan",
+     "name_ja": "HANAO CAFE ハナオカフェ 白山店",
+     "description": "Cafe in Hakusan.",
+     "source_url": "https://www.hotpepper.jp/strJ004470219/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Komekura Coffee",
+     "name_en": "Komekura Coffee",
+     "name_ja": "こめ倉・珈琲",
+     "description": "Cafe in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/00000000000080146463/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe and Gallery Seki",
+     "name_en": "Cafe and Gallery Seki",
+     "name_ja": "カフェ＆ギャラリー関",
+     "description": "Cafe and gallery in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/14092215384/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Coffee Sabo Nagomi",
+     "name_en": "Coffee Sabo Nagomi",
+     "name_ja": "珈琲・茶房なごみ",
+     "description": "Cafe in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/00000000000080012326/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Yutori Coffee Matto",
+     "name_en": "Yutori Coffee Matto",
+     "name_ja": "ユトリ珈琲 松任店",
+     "description": "Cafe in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/00000000000080144497/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Yao-ya",
      "name_en": "Yao-ya",
      "name_ja": "八尾家",
@@ -1139,6 +1245,69 @@
      "category": "Casual"
     },
     {
+     "name": "Hutte Crane",
+     "name_en": "Hutte Crane",
+     "name_ja": "ヒュッテクレイン",
+     "description": "Restaurant next to the gondola base station with a full view of the slopes.",
+     "source_url": "https://www.urara-hakusanbito.com/gourmet/detail_1341.html",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Rest House Sawa",
+     "name_en": "Rest House Sawa",
+     "name_ja": "レストハウス澤",
+     "description": "Canteen upstairs at a ski-rental lodge, overlooking the slopes.",
+     "source_url": "https://www.urara-hakusanbito.com/gourmet/detail_1340.html",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Tokumitsu TaanTo Hakusan Gateway",
+     "name_en": "Tokumitsu TaanTo Hakusan Gateway",
+     "name_ja": "とくみつ TaanTo 白山ゲートウェイ",
+     "description": "Highway oasis at Tokumitsu Parking Area with restaurants and Ishikawa souvenirs, famous for its gold-leaf toilet.",
+     "source_url": "https://www.urara-hakusanbito.com/gourmet/detail_1611.html",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Chibo Okonomiyaki Aeon Mall Hakusan",
+     "name_en": "Chibo Okonomiyaki Aeon Mall Hakusan",
+     "name_ja": "千房 お好み焼き イオンモール白山店",
+     "description": "Okonomiyaki restaurant in Hakusan.",
+     "source_url": "https://www.hotpepper.jp/strJ001275769/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Kaze no Machi Matto",
+     "name_en": "Kaze no Machi Matto",
+     "name_ja": "風の街松任店",
+     "description": "Okonomiyaki restaurant in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/00000000000080021933/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Kitano Shokudo",
+     "name_en": "Kitano Shokudo",
+     "name_ja": "北陸自動車道徳光上りハイウエイショップ",
+     "description": "Casual Japanese diner in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/14102730481/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Nanchan",
+     "name_en": "Nanchan",
+     "name_ja": "ナンチャン",
+     "description": "Chinese restaurant in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/14092609772/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Kitchen Yuki Main Store",
      "name_en": "Kitchen Yuki Main Store",
      "name_ja": "キッチンユキ 本店",
@@ -1153,6 +1322,123 @@
      "name_ja": "もく遊りん 食工房",
      "description": "Pizzeria in Hakusan.",
      "source_url": "https://tabelog.com/ishikawa/A1702/A170203/17003885/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Moku Yurin",
+     "name_en": "Moku Yurin",
+     "name_ja": "もく遊りん",
+     "description": "Stone-oven pizza restaurant in the forest near Shishiku Plateau, also serving house pasta and desserts.",
+     "source_url": "https://www.urara-hakusanbito.com/gourmet/detail_1034.html",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Kanaya Shuzoten Takasago Saryo",
+     "name_en": "Kanaya Shuzoten Takasago Saryo",
+     "name_ja": "金谷酒造店 高砂茶寮",
+     "description": "Sake-brewery restaurant serving course meals in a converted brewery room.",
+     "source_url": "https://www.urara-hakusanbito.com/gourmet/detail_1080.html",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Musasabi-tei",
+     "name_en": "Musasabi-tei",
+     "name_ja": "むささび亭",
+     "description": "French restaurant in Hakusan.",
+     "source_url": "https://r.gnavi.co.jp/1tfe1nvw0000/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Kobe Motomachi Doria",
+     "name_en": "Kobe Motomachi Doria",
+     "name_ja": "神戸元町ドリア イオンモール白山店",
+     "description": "Western-style restaurant in Hakusan.",
+     "source_url": "https://r.gnavi.co.jp/pz04nv050000/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Texas Hands Matto Station North",
+     "name_en": "Texas Hands Matto Station North",
+     "name_ja": "テキサスハンズ 松任駅北口店",
+     "description": "Italian and French restaurant in Hakusan.",
+     "source_url": "https://www.hotpepper.jp/strJ001270220/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Giglio di Firenze",
+     "name_en": "Giglio di Firenze",
+     "name_ja": "ジッリオ・ディ・フィレンツェ",
+     "description": "Italian restaurant in Hakusan.",
+     "source_url": "https://www.hitosara.com/0004043099/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Jolly-Pasta Hakusan",
+     "name_en": "Jolly-Pasta Hakusan",
+     "name_ja": "ジョリーパスタ白山",
+     "description": "Pasta restaurant in Hakusan.",
+     "source_url": "https://www.hitosara.com/0010003122/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Trattoria Orso",
+     "name_en": "Trattoria Orso",
+     "name_ja": "トラットリア・オルソ",
+     "description": "Italian restaurant in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/14091710090/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Detza",
+     "name_en": "Detza",
+     "name_ja": "デッツァ（Ｄｅｔｚａ）",
+     "description": "Restaurant in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/00000000000080088072/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "38 Dining",
+     "name_en": "38 Dining",
+     "name_ja": "３８ダイニング",
+     "description": "Restaurant in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/00000000000080087961/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Elise Kitchen",
+     "name_en": "Elise Kitchen",
+     "name_ja": "エリーゼ・キッチン",
+     "description": "Restaurant in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/00000000000080088193/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Bongo",
+     "name_en": "Bongo",
+     "name_ja": "ボンゴ",
+     "description": "Restaurant in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/00000000000080087762/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Pizzeria Di Gioia Yatsuya",
+     "name_en": "Pizzeria Di Gioia Yatsuya",
+     "name_ja": "ピッツェリア・デジョイ 八ツ矢店",
+     "description": "Pizzeria in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/00000000000080088184/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/eat/european/",
      "category": "European"
     },
@@ -1191,6 +1477,177 @@
      "source_url": "https://www.hotpepper.jp/strJ004421062/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/eat/izakaya-bars/",
      "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kushi Sakaba Tomoshibi",
+     "name_en": "Kushi Sakaba Tomoshibi",
+     "name_ja": "串酒場 灯 tomoshibi ともしび",
+     "description": "Izakaya in Hakusan.",
+     "source_url": "https://www.hotpepper.jp/strJ001245548/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya San",
+     "name_en": "Izakaya San",
+     "name_ja": "居酒屋 さん",
+     "description": "Izakaya in Hakusan.",
+     "source_url": "https://www.hotpepper.jp/strJ001249450/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Hakusan Izakaya Kittsensa Matto",
+     "name_en": "Hakusan Izakaya Kittsensa Matto",
+     "name_ja": "白山居酒屋 居酒家きっつぇんさ 松任店",
+     "description": "Izakaya in Hakusan.",
+     "source_url": "https://www.hotpepper.jp/strJ000764885/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Torichinya Mikawa Station",
+     "name_en": "Torichinya Mikawa Station",
+     "name_ja": "鳥珍や 美川駅前店",
+     "description": "Izakaya in Hakusan.",
+     "source_url": "https://www.hotpepper.jp/strJ003893617/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Hachimaru Matto",
+     "name_en": "Izakaya Hachimaru Matto",
+     "name_ja": "居酒屋はち丸 松任店",
+     "description": "Izakaya in Hakusan.",
+     "source_url": "https://www.hotpepper.jp/strJ004402880/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Toribiano Matto",
+     "name_en": "Toribiano Matto",
+     "name_ja": "鳥びあ~の 松任店",
+     "description": "Izakaya in Hakusan.",
+     "source_url": "https://www.hotpepper.jp/strJ003497834/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yakiniku Sacchan Matto Ekimae",
+     "name_en": "Yakiniku Sacchan Matto Ekimae",
+     "name_ja": "焼肉さっちゃん 松任駅前",
+     "description": "Yakiniku restaurant in Hakusan.",
+     "source_url": "https://www.hotpepper.jp/strJ004634167/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Kitaguchi Yakiniku",
+     "name_en": "Kitaguchi Yakiniku",
+     "name_ja": "きたぐち焼肉",
+     "description": "Lively yakiniku and ramen restaurant loved by locals.",
+     "source_url": "https://www.urara-hakusanbito.com/gourmet/detail_1342.html",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku 2000-nen",
+     "name_en": "Yakiniku 2000-nen",
+     "name_ja": "焼肉2000ねん",
+     "description": "Yakiniku restaurant with a karaoke room, also serving miso ramen made with house soba-koji miso.",
+     "source_url": "https://www.urara-hakusanbito.com/gourmet/detail_1038.html",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Sumiyaki Gyutan Higashiyama",
+     "name_en": "Sumiyaki Gyutan Higashiyama",
+     "name_ja": "炭焼牛たん東山 イオンモール白山店",
+     "description": "Charcoal-grilled beef tongue restaurant in Hakusan.",
+     "source_url": "https://r.gnavi.co.jp/5c8jfae90000/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Chaya Ebisu",
+     "name_en": "Yakiniku Chaya Ebisu",
+     "name_ja": "焼肉茶屋 恵比須 松任店",
+     "description": "Yakiniku restaurant in Hakusan.",
+     "source_url": "https://r.gnavi.co.jp/1u692y1p0000/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Kura Matto Apita",
+     "name_en": "Yakiniku Kura Matto Apita",
+     "name_ja": "焼肉 蔵 アピタ松任店",
+     "description": "Yakiniku restaurant in Hakusan.",
+     "source_url": "https://www.hotpepper.jp/strJ001042916/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Nikusho Sakai Hakusan Matto",
+     "name_en": "Nikusho Sakai Hakusan Matto",
+     "name_ja": "肉匠坂井 白山松任店",
+     "description": "Yakiniku restaurant in Hakusan.",
+     "source_url": "https://www.hotpepper.jp/strJ000704136/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Maiu Karubi Matto Bypass",
+     "name_en": "Yakiniku Maiu Karubi Matto Bypass",
+     "name_ja": "焼肉まいうーカルビ 松任バイパス店",
+     "description": "Yakiniku restaurant in Hakusan.",
+     "source_url": "https://www.hotpepper.jp/strJ001036932/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Takigi Yakiniku Aritan",
+     "name_en": "Takigi Yakiniku Aritan",
+     "name_ja": "薪焼肉有タン～ARITAN～",
+     "description": "Firewood yakiniku restaurant in Hakusan.",
+     "source_url": "https://www.hitosara.com/0006093004/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Shamoya Honten",
+     "name_en": "Shamoya Honten",
+     "name_ja": "軍鶏屋本店",
+     "description": "Yakiniku restaurant in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/00000000000080052498/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Jumbo",
+     "name_en": "Yakiniku Jumbo",
+     "name_ja": "焼肉じゃんぼ",
+     "description": "Yakiniku restaurant in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/14091208860/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Stamina-ken",
+     "name_en": "Yakiniku Stamina-ken",
+     "name_ja": "焼肉スタミナ軒",
+     "description": "Yakiniku restaurant in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/14091208861/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Hidehana Kuramitsu",
+     "name_en": "Hidehana Kuramitsu",
+     "name_ja": "ひで華倉光店",
+     "description": "Yakiniku restaurant in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/14091208845/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/meat/",
+     "category": "Japanese (meat)"
     },
     {
      "name": "Soan",
@@ -1274,6 +1731,105 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Ikki Soba Chosuke",
+     "name_en": "Ikki Soba Chosuke",
+     "name_ja": "一揆そば長助",
+     "description": "Soba restaurant recreating the Torigoe-style soba of the Ikko-ikki era, known for its Chosuke set meal.",
+     "source_url": "https://www.urara-hakusanbito.com/gourmet/detail_1017.html",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Hachiban Ramen Matto Station North",
+     "name_en": "Hachiban Ramen Matto Station North",
+     "name_ja": "８番らーめん松任駅北口店",
+     "description": "Ramen shop in Hakusan.",
+     "source_url": "https://r.gnavi.co.jp/6m7um50m0000/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kogane Seimenjo Tokumitsu",
+     "name_en": "Kogane Seimenjo Tokumitsu",
+     "name_ja": "こがね製麺所 徳光店",
+     "description": "Noodle shop in Hakusan.",
+     "source_url": "https://www.hotpepper.jp/strJ001278844/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menya Tatsu Matto",
+     "name_en": "Menya Tatsu Matto",
+     "name_ja": "麺屋・達松任店",
+     "description": "Ramen shop in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/00000000000080056765/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kuzunohana",
+     "name_en": "Kuzunohana",
+     "name_ja": "くずの花",
+     "description": "Ramen shop in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/1060342809/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Sekai Matto",
+     "name_en": "Ramen Sekai Matto",
+     "name_ja": "らーめん世界 松任店",
+     "description": "Ramen shop in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/75000000000000013134/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Niku Soba Keisuke Matto Shokudo",
+     "name_en": "Niku Soba Keisuke Matto Shokudo",
+     "name_ja": "肉そばけいすけ 松任食堂",
+     "description": "Soba restaurant in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/75000000000000044720/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Otafuku Matto Bypass",
+     "name_en": "Otafuku Matto Bypass",
+     "name_ja": "お多福 松任バイパス店",
+     "description": "Udon and soba restaurant in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/00000000000080007907/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ikkyu Don",
+     "name_en": "Ikkyu Don",
+     "name_ja": "一休どん",
+     "description": "Udon and soba restaurant in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/14102712105/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Teuchi Soba Jongara",
+     "name_en": "Teuchi Soba Jongara",
+     "name_ja": "手打蕎麦じょんがら",
+     "description": "Handmade soba restaurant in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/14102720978/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Osobaya Koyuki",
+     "name_en": "Osobaya Koyuki",
+     "name_ja": "おそば屋小幸",
+     "description": "Soba restaurant in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/14102702184/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Wada-ya",
      "name_en": "Wada-ya",
      "name_ja": "和田屋",
@@ -1315,6 +1871,87 @@
      "name_ja": "とうふ伝好",
      "description": "Creative Japanese restaurant in Hakusan built around tofu.",
      "source_url": "https://www.hotpepper.jp/strJ001283027/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Oryori Komeya",
+     "name_en": "Oryori Komeya",
+     "name_ja": "御料理こめや",
+     "description": "Izakaya in Hakusan.",
+     "source_url": "https://www.hotpepper.jp/strJ000626918/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Iwana no Iori",
+     "name_en": "Iwana no Iori",
+     "name_ja": "いわなの庵",
+     "description": "Restaurant grilling whole river charr raised in Mt Hakusan groundwater over an irori hearth.",
+     "source_url": "https://www.urara-hakusanbito.com/gourmet/detail_1336.html",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Nihon Ryori Koan",
+     "name_en": "Nihon Ryori Koan",
+     "name_ja": "日本料理 幸庵",
+     "description": "Japanese restaurant in Mikawa serving seasonal fish; set meals at midday and kaiseki in the evening.",
+     "source_url": "https://www.urara-hakusanbito.com/gourmet/detail_1037.html",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shirokujichu",
+     "name_en": "Shirokujichu",
+     "name_ja": "四六時中 アピタ松任店",
+     "description": "Japanese restaurant in Hakusan.",
+     "source_url": "https://r.gnavi.co.jp/ssv3pyjb0000/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Iwama Sanso",
+     "name_en": "Iwama Sanso",
+     "name_ja": "岩間山荘",
+     "description": "Japanese restaurant in Hakusan.",
+     "source_url": "https://www.hotpepper.jp/strJ003624184/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Mitsukian",
+     "name_en": "Mitsukian",
+     "name_ja": "みつき庵",
+     "description": "Japanese restaurant and izakaya in Hakusan.",
+     "source_url": "https://www.hitosara.com/0006044893/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Katsushin",
+     "name_en": "Katsushin",
+     "name_ja": "かつ新",
+     "description": "Japanese restaurant in Hakusan.",
+     "source_url": "https://www.hitosara.com/0005002421/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yamaneko",
+     "name_en": "Yamaneko",
+     "name_ja": "山猫",
+     "description": "Japanese restaurant in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/14102719534/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Senami Toge Chaya",
+     "name_en": "Senami Toge Chaya",
+     "name_ja": "瀬女峠・茶屋",
+     "description": "Tea house restaurant in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/00000000000080088195/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -1364,6 +2001,96 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Kaisen-don Senmonten Kaiho",
+     "name_en": "Kaisen-don Senmonten Kaiho",
+     "name_ja": "海鮮丼専門店 海宝",
+     "description": "Izakaya in Hakusan.",
+     "source_url": "https://www.hotpepper.jp/strJ001262517/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Goten",
+     "name_en": "Goten",
+     "name_ja": "五展",
+     "description": "Casual kappo serving fresh fish landed at Mikawa Port.",
+     "source_url": "https://www.urara-hakusanbito.com/gourmet/detail_1040.html",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Shibazushi Apita Matto",
+     "name_en": "Shibazushi Apita Matto",
+     "name_ja": "芝寿し アピタ松任店",
+     "description": "Sushi shop in Hakusan.",
+     "source_url": "https://www.hotpepper.jp/strJ001295962/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Kuinee Matto Honten",
+     "name_en": "Sushi Kuinee Matto Honten",
+     "name_ja": "回転寿司 すし食いねぇ! 松任本店",
+     "description": "Conveyor-belt sushi restaurant in Hakusan.",
+     "source_url": "https://www.hotpepper.jp/strJ001270144/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushidokoro Takao",
+     "name_en": "Sushidokoro Takao",
+     "name_ja": "寿し処高尾",
+     "description": "Sushi restaurant in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/14091110861/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kintaro Sushi",
+     "name_en": "Kintaro Sushi",
+     "name_ja": "金太郎寿し",
+     "description": "Sushi restaurant in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/14091110864/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sakae Sushi",
+     "name_en": "Sakae Sushi",
+     "name_ja": "栄寿し",
+     "description": "Sushi restaurant in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/14091110862/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Daikoku Sushi",
+     "name_en": "Daikoku Sushi",
+     "name_ja": "大黒寿し",
+     "description": "Sushi restaurant in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/14091110873/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kinryu Sushi",
+     "name_en": "Kinryu Sushi",
+     "name_ja": "金龍寿し",
+     "description": "Sushi restaurant in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/14091110865/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Nishikawaya",
+     "name_en": "Nishikawaya",
+     "name_ja": "西川屋",
+     "description": "Sushi restaurant in Hakusan.",
+     "source_url": "https://www.cookdoor.jp/dtl/14091110870/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Omoteya",
      "name_en": "Omoteya",
      "name_ja": "おもてや",
@@ -1396,6 +2123,15 @@
      "name_ja": "圓八 本店",
      "description": "Japanese sweets shop in Hakusan.",
      "source_url": "https://tabelog.com/ishikawa/A1702/A170203/17001397/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Kanmidokoro Zenyomon",
+     "name_en": "Kanmidokoro Zenyomon",
+     "name_ja": "甘味処 善与門",
+     "description": "Sweets shop by the Shirayama Hime Shrine car park, known for sweets made with home-cooked red-bean paste.",
+     "source_url": "https://www.urara-hakusanbito.com/gourmet/detail_1317.html",
      "page": "https://bokenjapan.com/ishikawa/hakusan/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -3186,6 +3922,42 @@
      "category": "Cafe"
     },
     {
+     "name": "Mugen-an Sabo Uruwashi",
+     "name_en": "Mugen-an Sabo Uruwashi",
+     "name_ja": "無限庵 茶房うるはし",
+     "description": "Cafe in Kaga.",
+     "source_url": "https://www.hotpepper.jp/strJ004444672/",
+     "page": "https://bokenjapan.com/ishikawa/kaga/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Sugar Glider Rocket",
+     "name_en": "Sugar Glider Rocket",
+     "name_ja": "Sugar Glider Rocket シュガーグライダーロケット",
+     "description": "Cafe in Kaga.",
+     "source_url": "https://www.hotpepper.jp/strJ003625099/",
+     "page": "https://bokenjapan.com/ishikawa/kaga/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Budoya-san Nishimura",
+     "name_en": "Budoya-san Nishimura",
+     "name_ja": "ぶどうやさん 西村",
+     "description": "Cafe in Kaga.",
+     "source_url": "https://www.hotpepper.jp/strJ003323241/",
+     "page": "https://bokenjapan.com/ishikawa/kaga/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kissa Michikusa",
+     "name_en": "Kissa Michikusa",
+     "name_ja": "喫茶みちくさ",
+     "description": "Cafe in Kaga.",
+     "source_url": "https://www.hotpepper.jp/strJ000343313/",
+     "page": "https://bokenjapan.com/ishikawa/kaga/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Niku Noizumiya",
      "name_en": "Niku Noizumiya",
      "name_ja": "肉のいづみや",
@@ -3249,11 +4021,29 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Restaurant Spice",
+     "name_en": "Restaurant Spice",
+     "name_ja": "レストラン スパイス",
+     "description": "Asian restaurant in Kaga.",
+     "source_url": "https://www.hotpepper.jp/strJ000800723/",
+     "page": "https://bokenjapan.com/ishikawa/kaga/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "La Monbetta",
      "name_en": "La Monbetta",
      "name_ja": "La Monbetta ラ・モンベッタ",
      "description": "Italian restaurant using local seasonal ingredients, with a courtyard that lets in soft light.",
      "source_url": "https://www.y-gourmet.com/menu.html",
+     "page": "https://bokenjapan.com/ishikawa/kaga/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Katayamazu Bar Botan",
+     "name_en": "Katayamazu Bar Botan",
+     "name_ja": "片山津バル 牡丹",
+     "description": "Italian or French restaurant in Kaga.",
+     "source_url": "https://www.hotpepper.jp/strJ001260542/",
      "page": "https://bokenjapan.com/ishikawa/kaga/eat/european/",
      "category": "European"
     },
@@ -3326,6 +4116,15 @@
      "name_ja": "焼肉酒場 MaDa",
      "description": "Yakiniku bar serving A5-rank domestic wagyu and drinks.",
      "source_url": "https://yamashiro-spa.or.jp/sight/mada/",
+     "page": "https://bokenjapan.com/ishikawa/kaga/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Kaga Fruits Land Barbecue House",
+     "name_en": "Kaga Fruits Land Barbecue House",
+     "name_ja": "加賀フルーツランド バーベキューハウス",
+     "description": "Restaurant in Kaga.",
+     "source_url": "https://www.hotpepper.jp/strJ004576302/",
      "page": "https://bokenjapan.com/ishikawa/kaga/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -3483,6 +4282,42 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Kappo Kawaguchi",
+     "name_en": "Kappo Kawaguchi",
+     "name_ja": "割烹河口",
+     "description": "Japanese restaurant in Kaga.",
+     "source_url": "https://www.hotpepper.jp/strJ000729956/",
+     "page": "https://bokenjapan.com/ishikawa/kaga/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Hoseitei",
+     "name_en": "Hoseitei",
+     "name_ja": "宝生亭",
+     "description": "Japanese restaurant in Kaga.",
+     "source_url": "https://www.hotpepper.jp/strJ004089902/",
+     "page": "https://bokenjapan.com/ishikawa/kaga/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Mura Shokudo Ototo-mura",
+     "name_en": "Mura Shokudo Ototo-mura",
+     "name_ja": "村食堂 おとと村",
+     "description": "Japanese restaurant in Kaga.",
+     "source_url": "https://www.hotpepper.jp/strJ003559312/",
+     "page": "https://bokenjapan.com/ishikawa/kaga/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kaga Ryori Bantei",
+     "name_en": "Kaga Ryori Bantei",
+     "name_ja": "加賀料理ばん亭",
+     "description": "Japanese restaurant in Kaga.",
+     "source_url": "https://www.hotpepper.jp/strJ000874273/",
+     "page": "https://bokenjapan.com/ishikawa/kaga/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Kame Sushi",
      "name_en": "Kame Sushi",
      "name_ja": "亀寿司",
@@ -3560,6 +4395,15 @@
      "name_ja": "寿司・料理 左らく",
      "description": "Sushi restaurant in the Yamanaka Onsen town centre with a long-running local reputation.",
      "source_url": "https://www.y-gourmet.com/menu.html",
+     "page": "https://bokenjapan.com/ishikawa/kaga/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Hashidate Port Oi Sengyo Uomai",
+     "name_en": "Hashidate Port Oi Sengyo Uomai",
+     "name_ja": "橋立港 大井鮮魚 魚舞",
+     "description": "Izakaya in Kaga.",
+     "source_url": "https://www.hotpepper.jp/strJ004004766/",
      "page": "https://bokenjapan.com/ishikawa/kaga/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -4827,7 +5671,7 @@
      "name": "Oyado Kusunoki",
      "name_en": "Oyado Kusunoki",
      "name_ja": "御宿楠の木",
-     "description": "Private vacation rental in Kaga with one guest unit, Wi-Fi, a fridge and basic bath amenities.",
+     "description": "Private vacation rental in Kaga with one guest unit, plus a fridge, Wi-Fi and basic bath amenities.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/190958/190958.html",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
@@ -4867,7 +5711,7 @@
      "name": "MAGONDO",
      "name_en": "MAGONDO",
      "name_ja": "ＭＡＧＯＮＤＯ",
-     "description": "Private vacation rental in Kaga with one guest unit, Wi-Fi, a fridge and basic bath amenities.",
+     "description": "Private vacation rental in Kaga with one guest unit, plus a fridge, Wi-Fi and basic bath amenities.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/189476/189476.html",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     }
@@ -5826,9 +6670,90 @@
      "category": "Cafe"
     },
     {
+     "name": "Izumi no Terrace",
+     "name_en": "Izumi no Terrace",
+     "name_ja": "いずみのTERACE",
+     "description": "Cafe in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ004661068/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kanazawa Yamagishi Yohojo Mitsubachi Cafe",
+     "name_en": "Kanazawa Yamagishi Yohojo Mitsubachi Cafe",
+     "name_ja": "金澤やまぎし養蜂場 大桑店 みつばちかふぇ",
+     "description": "Cafe in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ001128735/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Hasune Terrace",
+     "name_en": "Hasune Terrace",
+     "name_ja": "ハスネテラス",
+     "description": "Cafe in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ001193805/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Malaika Bazaar Kanazawa",
+     "name_en": "Malaika Bazaar Kanazawa",
+     "name_ja": "マライカ BAZAAR 金沢店",
+     "description": "Cafe in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ004576342/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Chinese Restaurant Heiwa-ken",
      "description": "Chinese restaurant using in-house hand-pulled noodles made from top-grade flour.",
      "source_url": "https://www.hot-ishikawa.jp/spot/detail_21084.html",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Korai",
+     "name_en": "Korai",
+     "name_ja": "こうらい 幸來",
+     "description": "Chinese restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ000355822/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Wafu Chuka Shoryutei",
+     "name_en": "Wafu Chuka Shoryutei",
+     "name_ja": "和風中華 招龍亭",
+     "description": "Chinese restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ000642791/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Sharma Kanazawa Honten",
+     "name_en": "Sharma Kanazawa Honten",
+     "name_ja": "シャルマ金沢本店",
+     "description": "Asian restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ004678080/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Chuka Hanten Yue",
+     "name_en": "Chuka Hanten Yue",
+     "name_ja": "中華飯店Yue",
+     "description": "Chinese restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ003917203/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Chugoku Ryori Ryuko",
+     "name_en": "Chugoku Ryori Ryuko",
+     "name_ja": "中国料理 龍虎",
+     "description": "Chinese restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ004004684/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/chinese-asian/",
      "category": "Chinese & Asian"
     },
@@ -5899,6 +6824,105 @@
      "name_ja": "ジャルダン ポール・ボキューズ/カフェ&ブラッスリー ポール・ボキューズ",
      "description": "Cafe and brasserie of Jardin Paul Bocuse in Kanazawa.",
      "source_url": "https://www.kanazawa-kankoukyoukai.or.jp/gourmet/detail_50093.html",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Saishoku Chubo Tsubomi",
+     "name_en": "Saishoku Chubo Tsubomi",
+     "name_ja": "彩食厨房 TSUBOMI ツボミ",
+     "description": "Italian or French restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ003389613/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Esprit Schloss",
+     "name_en": "Esprit Schloss",
+     "name_ja": "エスプリ シュロス",
+     "description": "Italian or French restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ000993486/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Bistro Fu Kaze Kanazawa Honten",
+     "name_en": "Bistro Fu Kaze Kanazawa Honten",
+     "name_ja": "ビストロ風 かぜ 金沢本店",
+     "description": "Italian or French restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ000062804/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Restaurant Maps",
+     "name_en": "Restaurant Maps",
+     "name_ja": "Restaurant MAPS",
+     "description": "Italian or French restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ003424000/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Dining Puzzle",
+     "name_en": "Dining Puzzle",
+     "name_ja": "DINING PUZZLE ダイニング パズル",
+     "description": "Italian or French restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ004090012/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Hot House Kanazawa Honten",
+     "name_en": "Hot House Kanazawa Honten",
+     "name_ja": "ホットハウス金沢総本店",
+     "description": "Western-style restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ004429023/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Zuiun Dining",
+     "name_en": "Zuiun Dining",
+     "name_ja": "ズイウン ダイニング zuiun dining",
+     "description": "Italian or French restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ003366637/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Chez Nous",
+     "name_en": "Chez Nous",
+     "name_ja": "シェ・ヌゥ",
+     "description": "Italian or French restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ000105593/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Calcolo Gennaio",
+     "name_en": "Calcolo Gennaio",
+     "name_ja": "Calcolo Gennaio カルコロ じぇんないお",
+     "description": "Italian or French restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ004067371/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Table Nana",
+     "name_en": "Table Nana",
+     "name_ja": "テーブル ナナ",
+     "description": "Italian or French restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ001170623/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Kikuracho Bar Lamp",
+     "name_en": "Kikuracho Bar Lamp",
+     "name_ja": "木倉町バル ランプ",
+     "description": "Italian or French restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ001193842/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/european/",
      "category": "European"
     },
@@ -6016,6 +7040,15 @@
      "name_ja": "小立庵",
      "description": "Hand-made soba restaurant in a former nunnery building, with buckwheat stone-ground in the shop.",
      "source_url": "https://www.kanazawa-kankoukyoukai.or.jp/gourmet/detail_50230.html",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Teuchi Soba Den",
+     "name_en": "Teuchi Soba Den",
+     "name_ja": "手打ちそば 傳 DEN 金沢",
+     "description": "Japanese restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ004470683/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/noodles/",
      "category": "Japanese (noodles)"
     },
@@ -6270,6 +7303,87 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Kaga Ryori Kano",
+     "name_en": "Kaga Ryori Kano",
+     "name_ja": "加賀料理 加能",
+     "description": "Japanese restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ001128856/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Oyama Saryo",
+     "name_en": "Oyama Saryo",
+     "name_ja": "を山茶寮",
+     "description": "Japanese restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ003829413/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kassen Nomura",
+     "name_en": "Kassen Nomura",
+     "name_ja": "割鮮のむら",
+     "description": "Japanese restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ000357309/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Takasakiya",
+     "name_en": "Takasakiya",
+     "name_ja": "高崎屋",
+     "description": "Japanese restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ000615435/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kanazawa Kaiseki Cuisine Ryo Ekimae Honten",
+     "name_en": "Kanazawa Kaiseki Cuisine Ryo Ekimae Honten",
+     "name_ja": "金沢懐石Cuisine 良 Ryo 金沢駅前本店",
+     "description": "Japanese restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ004470445/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Gosai Machiya Washoku",
+     "name_en": "Gosai Machiya Washoku",
+     "name_ja": "五彩 町家和食",
+     "description": "Japanese restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ001207895/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kanazawa Ryori Kokochiya",
+     "name_en": "Kanazawa Ryori Kokochiya",
+     "name_ja": "金澤料理 ここちや",
+     "description": "Japanese restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ000950303/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kanazawa Oden Kaiseki Kagami",
+     "name_en": "Kanazawa Oden Kaiseki Kagami",
+     "name_ja": "金沢おでん懐石 かが美",
+     "description": "Japanese restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ001225781/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Hirai",
+     "name_en": "Hirai",
+     "name_ja": "ひら井",
+     "description": "Japanese restaurant in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ000355033/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Komatsu Yasuke",
      "name_en": "Komatsu Yasuke",
      "name_ja": "小松 弥助",
@@ -6471,6 +7585,15 @@
      "name_ja": "近江町市場 海鮮丼 ゆたか水産",
      "description": "Seafood rice-bowl restaurant in Omicho Market.",
      "source_url": "https://www.kanazawa-kankoukyoukai.or.jp/gourmet/detail_52512.html",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Minatozaki",
+     "name_en": "Sushi Minatozaki",
+     "name_ja": "鮨 湊崎",
+     "description": "Izakaya in Kanazawa.",
+     "source_url": "https://www.hotpepper.jp/strJ004026431/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/seafood/",
      "category": "Japanese (seafood)"
     }
@@ -11783,6 +12906,33 @@
      "category": "Cafe"
     },
     {
+     "name": "Bob House",
+     "name_en": "Bob House",
+     "name_ja": "BOBHOUSE",
+     "description": "Cafe in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ000343246/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Lago Bianco",
+     "name_en": "Lago Bianco",
+     "name_ja": "LAGO BIANCO ラーゴ ビアンコ",
+     "description": "Cafe in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ001280030/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Asagao (Ajidokoro Asabu)",
+     "name_en": "Asagao (Ajidokoro Asabu)",
+     "name_ja": "間借りランチの朝顔 味処あさぶ",
+     "description": "Western-style restaurant in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ004492311/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/casual/",
+     "category": "Casual dining"
+    },
+    {
      "name": "Gyoza Na-kan Kachi Yan",
      "name_en": "Gyoza Na-kan Kachi Yan",
      "name_ja": "餃子菜館 勝ちゃん",
@@ -11792,11 +12942,83 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Gyoza no Shoken Naoken",
+     "name_en": "Gyoza no Shoken Naoken",
+     "name_ja": "中華居酒屋 餃子の尚軒 なおけん 小松",
+     "description": "Izakaya in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ003985138/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Chuka Ryori Panda",
+     "name_en": "Chuka Ryori Panda",
+     "name_ja": "中華料理 ぱんだ",
+     "description": "Izakaya in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ004089585/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Gyoza Senmonten Poh",
+     "name_en": "Gyoza Senmonten Poh",
+     "name_ja": "餃子専門店 手作り餃子 ぽう（包） 小松駅前",
+     "description": "Izakaya in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ004558781/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Hanmaum",
+     "name_en": "Hanmaum",
+     "name_ja": "韓心ハンマウム",
+     "description": "Korean restaurant in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ002647407/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Chinese Restaurant Keika",
+     "name_en": "Chinese Restaurant Keika",
+     "name_ja": "Chinese Restaurant 桂花",
+     "description": "Chinese restaurant in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ004537272/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Chinryu",
+     "name_en": "Chinryu",
+     "name_ja": "中華レストラン 珍龍",
+     "description": "Chinese restaurant in Komatsu.",
+     "source_url": "https://r.gnavi.co.jp/bsc96xu50000/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Saiko Chubo Komatsu",
+     "name_en": "Saiko Chubo Komatsu",
+     "name_ja": "菜香厨房 小松店",
+     "description": "Chinese restaurant in Komatsu.",
+     "source_url": "https://r.gnavi.co.jp/jgz541vf0000/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Curry no Shimin Alba Komatsu Station",
      "name_en": "Curry no Shimin Alba Komatsu Station",
      "name_ja": "カレーの市民アルバ 小松駅店",
      "description": "Curry restaurant in Komatsu.",
      "source_url": "https://tabelog.com/ishikawa/A1702/A170202/17010064/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Spice Cafe S-Line",
+     "name_en": "Spice Cafe S-Line",
+     "name_ja": "スパイスカフェエスライン",
+     "description": "International restaurant in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ000808554/",
      "page": "https://bokenjapan.com/ishikawa/komatsu/eat/curry/",
      "category": "Curry"
     },
@@ -11813,6 +13035,94 @@
      "name": "ARU",
      "description": "Italian restaurant run by a female chef, using local fresh fish and Ishikawa vegetables served on handmade ceramics.",
      "source_url": "https://www.komatsuguide.jp/restaurant/detail_346.html",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Trattoria Nari",
+     "name_en": "Trattoria Nari",
+     "name_ja": "trattoria Nari",
+     "description": "Italian or French restaurant in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ003756007/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Wine Shokudo Giglio",
+     "name_en": "Wine Shokudo Giglio",
+     "name_ja": "ワイン食堂Giglio ジリオ",
+     "description": "Dining bar in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ003324982/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "HanaHana",
+     "name_en": "HanaHana",
+     "name_ja": "HanaHana ハナハナ",
+     "description": "Western-style restaurant in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ001294124/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Ofu Shokudo Les Liens",
+     "name_en": "Ofu Shokudo Les Liens",
+     "name_ja": "欧風食堂 Les Liens レ リアン",
+     "description": "Italian or French restaurant in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ004469114/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Brasserie 1945",
+     "name_en": "Brasserie 1945",
+     "name_ja": "BRASSERIE 1945 ブラッスリーイチキュウヨンゴウ",
+     "description": "Izakaya in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ003985175/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Ofu Bistro Grive",
+     "name_en": "Ofu Bistro Grive",
+     "name_ja": "欧風ビストロ GRIVE グリブ 小松本店",
+     "description": "Izakaya in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ003366479/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Wine no Sakaba Mono",
+     "name_en": "Wine no Sakaba Mono",
+     "name_ja": "ワインの酒場 mono",
+     "description": "Italian or French restaurant in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ001285743/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Aruto",
+     "description": "Italian or French restaurant in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ004036003/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Kamakura Pasta Aeon Mall Shin-Komatsu",
+     "name_en": "Kamakura Pasta Aeon Mall Shin-Komatsu",
+     "name_ja": "鎌倉パスタ イオンモール新小松店",
+     "description": "Pasta restaurant in Komatsu.",
+     "source_url": "https://r.gnavi.co.jp/3ec4wbzf0000/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Steak and Western Cuisine Shigeru",
+     "name_en": "Steak and Western Cuisine Shigeru",
+     "name_ja": "ステーキ 西洋料理 Shigeru（シゲル）",
+     "description": "Steak restaurant in Komatsu.",
+     "source_url": "https://r.gnavi.co.jp/s1xyank90000/",
      "page": "https://bokenjapan.com/ishikawa/komatsu/eat/european/",
      "category": "European"
     },
@@ -11853,11 +13163,209 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Kagarika",
+     "name_en": "Kagarika",
+     "name_ja": "石川のうまいもんと地酒 加賀里火",
+     "description": "Izakaya in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ003851457/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Sake to Sakana Murata",
+     "name_en": "Sake to Sakana Murata",
+     "name_ja": "酒と肴 むら田",
+     "description": "Izakaya in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ001139967/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Fuji",
+     "name_en": "Izakaya Fuji",
+     "name_ja": "居酒屋 FUJI フジ",
+     "description": "Izakaya in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ004633292/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Umi to Sora",
+     "name_en": "Umi to Sora",
+     "name_ja": "地酒と天麩羅 海とそら",
+     "description": "Izakaya in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ003942302/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Noah no Hakobune Kutsurogi Dining",
+     "name_en": "Noah no Hakobune Kutsurogi Dining",
+     "name_ja": "ノアの箱舟 くつろぎdining",
+     "description": "Izakaya in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ004493262/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Sakaba Jinza",
+     "name_en": "Sakaba Jinza",
+     "name_ja": "酒場 JINZA ジンザ",
+     "description": "Izakaya in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ003389016/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Tetsunabe Kitchen Skillet",
+     "name_en": "Tetsunabe Kitchen Skillet",
+     "name_ja": "鉄鍋キッチン スキレット",
+     "description": "Izakaya in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ004026462/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yoridokoro Shinchi",
+     "name_en": "Yoridokoro Shinchi",
+     "name_ja": "酔リ処 新地",
+     "description": "Izakaya in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ004026479/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Takoyaki Bar Momonga",
+     "name_en": "Takoyaki Bar Momonga",
+     "name_ja": "たこ焼きバル ももんが",
+     "description": "Izakaya in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ004678917/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Shokusaiya Donkichi",
+     "name_en": "Shokusaiya Donkichi",
+     "name_ja": "食彩家 どん吉",
+     "description": "Izakaya in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ000822510/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Enyatei",
+     "name_en": "Izakaya Enyatei",
+     "name_ja": "居酒屋 えんや亭",
+     "description": "Izakaya in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ000993554/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Chawaan",
+     "name_en": "Chawaan",
+     "name_ja": "茶和庵",
+     "description": "Izakaya in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ004612868/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Danchu",
+     "name_en": "Izakaya Danchu",
+     "name_ja": "居酒屋 男廚 だんちゅう",
+     "description": "Izakaya in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ000342727/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Teppan Pub Okame",
+     "name_en": "Teppan Pub Okame",
+     "name_ja": "鉄板パブおかめ",
+     "description": "Izakaya in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ003828858/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Komatsu Koshitsu Izakaya Kamiza",
+     "name_en": "Komatsu Koshitsu Izakaya Kamiza",
+     "name_ja": "小松個室居酒屋 上座",
+     "description": "Private-room izakaya in Komatsu.",
+     "source_url": "https://r.gnavi.co.jp/af33e31v0000/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Robata Dining Imadoki",
+     "name_en": "Robata Dining Imadoki",
+     "name_ja": "炉端ダイニング いまどき",
+     "description": "Robatayaki izakaya in Komatsu.",
+     "source_url": "https://r.gnavi.co.jp/skju0rzc0000/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Koryori Gen",
+     "name_en": "Koryori Gen",
+     "name_ja": "小料理 げん",
+     "description": "Small-plate izakaya in Komatsu.",
+     "source_url": "https://r.gnavi.co.jp/843vknyu0000/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Yakiniku and Restaurant Komatsu Midoen",
      "name_en": "Yakiniku and Restaurant Komatsu Midoen",
      "name_ja": "焼肉&レストラン 小松味道園",
      "description": "Yakiniku restaurant that has operated for half a century, with large and medium banquet rooms.",
      "source_url": "https://www.komatsuguide.jp/restaurant/detail_223.html",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Niku Izakaya Shimada Komatsu Ekimae",
+     "name_en": "Niku Izakaya Shimada Komatsu Ekimae",
+     "name_ja": "肉居酒屋しまだ 小松駅前",
+     "description": "Izakaya in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ003942745/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Komatsu Horumon Seichan",
+     "name_en": "Komatsu Horumon Seichan",
+     "name_ja": "小松ホルモンせいちゃん",
+     "description": "Yakiniku restaurant in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ004576535/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Doibara Shoten",
+     "name_en": "Yakiniku Doibara Shoten",
+     "name_ja": "焼肉 土居原商店",
+     "description": "Izakaya in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ003942618/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Sumibi Yakiniku Karakara Nabe Chabo",
+     "name_en": "Sumibi Yakiniku Karakara Nabe Chabo",
+     "name_ja": "炭火焼肉 カラカラ鍋 ちゃぼ",
+     "description": "Yakiniku restaurant in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ001277316/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Zasso",
+     "name_en": "Yakiniku Zasso",
+     "name_ja": "焼肉ZASSO（ザッソウ）",
+     "description": "Yakiniku restaurant in Komatsu.",
+     "source_url": "https://r.gnavi.co.jp/3d121pfc0000/",
      "page": "https://bokenjapan.com/ishikawa/komatsu/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -11970,6 +13478,15 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Marugame Seimen Komatsu",
+     "name_en": "Marugame Seimen Komatsu",
+     "name_ja": "丸亀製麺 小松店",
+     "description": "Udon restaurant in Komatsu.",
+     "source_url": "https://r.gnavi.co.jp/nr4k4jxc0000/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "SHOKUDO YArn",
      "name_en": "Shokudo YArn",
      "description": "Innovative-cuisine restaurant in Komatsu.",
@@ -12058,6 +13575,60 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Oshokujidokoro Hyottoko",
+     "name_en": "Oshokujidokoro Hyottoko",
+     "name_ja": "御食事処ひょっとこ",
+     "description": "Japanese restaurant in Komatsu.",
+     "source_url": "https://www.hotpepper.jp/strJ000343108/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ryotei Matsuya",
+     "name_en": "Ryotei Matsuya",
+     "name_ja": "料亭 まつ家",
+     "description": "Traditional Japanese restaurant in Komatsu.",
+     "source_url": "https://r.gnavi.co.jp/r6sw1ynh0000/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ryotei Shorokuan",
+     "name_en": "Ryotei Shorokuan",
+     "name_ja": "料亭 小六庵",
+     "description": "Traditional Japanese restaurant in Komatsu.",
+     "source_url": "https://r.gnavi.co.jp/ge993y3y0000/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Washoku Mendokoro Sagami",
+     "name_en": "Washoku Mendokoro Sagami",
+     "name_ja": "和食麺処サガミ小松店",
+     "description": "Japanese restaurant in Komatsu.",
+     "source_url": "https://r.gnavi.co.jp/73r3d71s0000/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Wasai Shin",
+     "name_en": "Wasai Shin",
+     "name_ja": "和餐 伸",
+     "description": "Kaiseki restaurant in Komatsu.",
+     "source_url": "https://r.gnavi.co.jp/dm1vnsw00000/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Nihon Ryori Tsuzura",
+     "name_en": "Nihon Ryori Tsuzura",
+     "name_ja": "日本料理 つづら",
+     "description": "Japanese restaurant in Komatsu.",
+     "source_url": "https://r.gnavi.co.jp/2w37e0ar0000/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Shu Sushi",
      "name_en": "Shu Sushi",
      "name_ja": "秀寿司",
@@ -12108,6 +13679,15 @@
      "name_ja": "すし食いねぇ！ 小松沖店",
      "description": "Conveyor-belt sushi restaurant; also serving seafood in Komatsu.",
      "source_url": "https://tabelog.com/ishikawa/A1702/A170202/17007630/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Tsubaki",
+     "name_en": "Sushi Tsubaki",
+     "name_ja": "鮨つばき",
+     "description": "Sushi restaurant in Komatsu.",
+     "source_url": "https://r.gnavi.co.jp/9xvnxemv0000/",
      "page": "https://bokenjapan.com/ishikawa/komatsu/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -13321,6 +14901,15 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Oryori Go Ichi",
+     "name_en": "Oryori Go Ichi",
+     "name_ja": "御料理 吾 いち",
+     "description": "Japanese restaurant in Nakanoto.",
+     "source_url": "https://www.hotpepper.jp/strJ003828400/",
+     "page": "https://bokenjapan.com/ishikawa/nakanoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Chiyo Sushi",
      "name_en": "Chiyo Sushi",
      "name_ja": "千代寿司",
@@ -13762,6 +15351,13 @@
    ],
    "food": [
     {
+     "name": "Cafe J,Road",
+     "description": "Cafe in Nanao.",
+     "source_url": "https://www.hotpepper.jp/strJ000105793/",
+     "page": "https://bokenjapan.com/ishikawa/nanao/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Okonomiyaki Heiya-ya",
      "name_en": "Okonomiyaki Heiya-ya",
      "name_ja": "お好み焼 平野屋",
@@ -13816,6 +15412,15 @@
      "category": "European"
     },
     {
+     "name": "Noto-jima Sans-souci",
+     "name_en": "Noto-jima Sans-souci",
+     "name_ja": "能登島 Sans‐souci",
+     "description": "French restaurant in Nanao.",
+     "source_url": "https://r.gnavi.co.jp/cs5t501v0000/",
+     "page": "https://bokenjapan.com/ishikawa/nanao/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Kataro-tei",
      "name_en": "Kataro-tei",
      "name_ja": "語ろう亭",
@@ -13843,6 +15448,24 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Ume Nomiya Nanao Station",
+     "name_en": "Ume Nomiya Nanao Station",
+     "name_ja": "うめ呑み屋 七尾駅",
+     "description": "Izakaya in Nanao.",
+     "source_url": "https://www.hotpepper.jp/strJ004613041/",
+     "page": "https://bokenjapan.com/ishikawa/nanao/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Shirokiya Wakura Onsen",
+     "name_en": "Shirokiya Wakura Onsen",
+     "name_ja": "居楽屋白木屋 和倉温泉店",
+     "description": "Izakaya in Nanao.",
+     "source_url": "https://r.gnavi.co.jp/5bhr7us10000/",
+     "page": "https://bokenjapan.com/ishikawa/nanao/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Kaisen Yakiniku Taneya",
      "name_en": "Kaisen Yakiniku Taneya",
      "name_ja": "海鮮焼肉 たねや",
@@ -13857,6 +15480,42 @@
      "name_ja": "焼肉 武蔵",
      "description": "Yakiniku grill restaurant in Nanao.",
      "source_url": "https://www.hotpepper.jp/strJ001173796/",
+     "page": "https://bokenjapan.com/ishikawa/nanao/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Kushimansai Yakitori-ya Takematsu",
+     "name_en": "Kushimansai Yakitori-ya Takematsu",
+     "name_ja": "串滿斎やきとり家竹松",
+     "description": "Yakiniku restaurant in Nanao.",
+     "source_url": "https://www.hotpepper.jp/strJ003401000/",
+     "page": "https://bokenjapan.com/ishikawa/nanao/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Hidekura",
+     "name_en": "Yakiniku Hidekura",
+     "name_ja": "焼肉ひでくら",
+     "description": "Yakiniku restaurant in Nanao.",
+     "source_url": "https://r.gnavi.co.jp/fyxaypvz0000/",
+     "page": "https://bokenjapan.com/ishikawa/nanao/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Izakaya Maru",
+     "name_en": "Yakiniku Izakaya Maru",
+     "name_ja": "焼肉居酒屋まる",
+     "description": "Yakiniku izakaya in Nanao.",
+     "source_url": "https://r.gnavi.co.jp/k3gfmyt40000/",
+     "page": "https://bokenjapan.com/ishikawa/nanao/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Sumiyoshi",
+     "name_en": "Yakiniku Sumiyoshi",
+     "name_ja": "焼肉 寿美好",
+     "description": "Yakiniku restaurant in Nanao.",
+     "source_url": "https://r.gnavi.co.jp/fjfr36km0000/",
      "page": "https://bokenjapan.com/ishikawa/nanao/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -13893,6 +15552,15 @@
      "name_ja": "山崎製麺",
      "description": "Udon noodle restaurant in Nanao.",
      "source_url": "https://tabelog.com/ishikawa/A1703/A170302/17006554/",
+     "page": "https://bokenjapan.com/ishikawa/nanao/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Hachiban Ramen Nanao",
+     "name_en": "Hachiban Ramen Nanao",
+     "name_ja": "８番らーめん 七尾店",
+     "description": "Ramen shop in Nanao.",
+     "source_url": "https://r.gnavi.co.jp/rebf2rrf0000/",
      "page": "https://bokenjapan.com/ishikawa/nanao/eat/noodles/",
      "category": "Japanese (noodles)"
     },
@@ -14001,6 +15669,15 @@
      "name_ja": "ごはん処一歩",
      "description": "Seafood rice-bowl restaurant in Nanao.",
      "source_url": "https://tabelog.com/ishikawa/A1703/A170302/17014828/",
+     "page": "https://bokenjapan.com/ishikawa/nanao/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Ryoshi Chokuei Tairyoya",
+     "name_en": "Ryoshi Chokuei Tairyoya",
+     "name_ja": "漁師直営 大漁屋",
+     "description": "Japanese restaurant in Nanao.",
+     "source_url": "https://www.hotpepper.jp/strJ001260595/",
      "page": "https://bokenjapan.com/ishikawa/nanao/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -15189,11 +16866,81 @@
      "category": "Cafe"
     },
     {
+     "name": "Ajiroan Cafe",
+     "name_en": "Ajiroan Cafe",
+     "name_ja": "味路庵カフェ",
+     "description": "Cafe beside the Ajiroan Japanese-sweets workshop, serving freshly brewed coffee and wagashi in a relocated old farmhouse.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/65",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Coffee and Gallery Izumi",
+     "name_en": "Coffee and Gallery Izumi",
+     "name_ja": "コーヒー＆ギャラリー いずみ",
+     "description": "Neighbourhood coffee shop with a gallery, where locals gather.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/13",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Tomorrow",
+     "name_en": "Tomorrow",
+     "name_ja": "TOMORROW",
+     "description": "Coffee shop serving the Ginza-style omelette that was famous in the Showa era.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/49",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kissa Aloe",
+     "name_en": "Kissa Aloe",
+     "name_ja": "喫茶 アロエ",
+     "description": "Local coffee shop where residents come to take a break.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/42",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Hayashi Meshi",
      "name_en": "Hayashi Meshi",
      "name_ja": "ハヤシメシ",
      "description": "Casual diner (shokudo) in Nomi.",
      "source_url": "https://tabelog.com/ishikawa/A1702/A170203/17014602/",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Zoo Restaurant Sunny",
+     "name_en": "Zoo Restaurant Sunny",
+     "name_ja": "いしかわ動物園 ズーレストラン サニー",
+     "description": "Restaurant at the Ishikawa Zoo serving original dishes with cute animal motifs.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/27",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "SiN",
+     "description": "Takoyaki shop serving soft, fluffy Kansai-style octopus balls with a dashi aroma.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/85",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Shokusai Nazuna",
+     "name_en": "Shokusai Nazuna",
+     "name_ja": "食彩 なづな",
+     "description": "Set-meal restaurant known for the Nazuna set, limited to ten a day, among more than ten set meals.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/62",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Restaurant Higashi",
+     "name_en": "Restaurant Higashi",
+     "name_ja": "レストラン ひがし",
+     "description": "Town canteen for a meal after the Furusato hot spring.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/25",
      "page": "https://bokenjapan.com/ishikawa/nomi/eat/casual/",
      "category": "Casual"
     },
@@ -15216,11 +16963,65 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Taiwan Ryori Koyuki",
+     "name_en": "Taiwan Ryori Koyuki",
+     "name_ja": "台湾料理 小雪",
+     "description": "Taiwanese restaurant with very generous portions.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/51",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Taiwan Ryori Shiki no Aji",
+     "name_en": "Taiwan Ryori Shiki no Aji",
+     "name_ja": "台湾料理 四季の味",
+     "description": "Family-friendly Taiwanese restaurant: quick, inexpensive and generous.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/54",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Beto Fumi",
+     "name_en": "Beto Fumi",
+     "name_ja": "ベト風味",
+     "description": "Authentic Vietnamese food by a Vietnamese owner who loves Nomi.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/71",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Yuka no Gyoza",
+     "name_en": "Yuka no Gyoza",
+     "name_ja": "ゆうかの餃子",
+     "description": "Takeaway gyoza shop with crisp, juicy dumplings.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/66",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Korin",
+     "name_en": "Korin",
+     "name_ja": "香林",
+     "description": "Chinese eatery with loyal regulars who order the same dish every day.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/22",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Ganesa",
      "name_en": "Ganesa",
      "name_ja": "ガネサ",
      "description": "Curry restaurant in Nomi.",
      "source_url": "https://tabelog.com/ishikawa/A1702/A170203/17009141/",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Alba Tedori Fishland",
+     "name_en": "Alba Tedori Fishland",
+     "name_ja": "アルバ（手取フィッシュランド店）",
+     "description": "Casual restaurant at Tedori Fishland known for big, inexpensive plates of curry.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/2",
      "page": "https://bokenjapan.com/ishikawa/nomi/eat/curry/",
      "category": "Curry"
     },
@@ -15252,6 +17053,60 @@
      "category": "European"
     },
     {
+     "name": "Italian Restaurant iL Bozzolo",
+     "name_en": "Italian Restaurant iL Bozzolo",
+     "name_ja": "イタリア料理 iL Bozzolo（イル ボッツォロ）",
+     "description": "Hideaway Italian restaurant that has become a well-known name in Nomi.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/60",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Chitta",
+     "name_en": "Chitta",
+     "name_ja": "CHITTA",
+     "description": "Creative restaurant blending Japanese and French cooking, popular with women.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/41",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Farm Restaurant and Cheesecake Shop Sorriso",
+     "name_en": "Farm Restaurant and Cheesecake Shop Sorriso",
+     "name_ja": "農家レストラン＆チーズケーキ専門店 Sorriso",
+     "description": "Reasonably priced Italian restaurant using local organic vegetables, with good sweets too.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/20",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Bistro a Table",
+     "name_en": "Bistro a Table",
+     "name_ja": "ビストロ ア・ターブル",
+     "description": "French restaurant by a chef trained in France, cooking with Nomi ingredients.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/9",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Omurice and Espresso Anchor",
+     "name_en": "Omurice and Espresso Anchor",
+     "name_ja": "オムライスとエスプレッソ アンカー",
+     "description": "Bistro proud of its fluffy, half-set omurice.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/69",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Plus Tree Cafe",
+     "name_en": "Plus Tree Cafe",
+     "name_ja": "+TREE CAFE",
+     "description": "Small pizzeria baking pizza at high heat with good domestic flour.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/84",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Goen",
      "name_en": "Goen",
      "name_ja": "ごえん",
@@ -15270,11 +17125,128 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Izakaya Matsu",
+     "name_en": "Izakaya Matsu",
+     "name_ja": "居酒屋まつ",
+     "description": "Izakaya serving seasonal fish as sashimi or grilled; ask the owner for what you fancy.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/38",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Sanosanosa",
+     "name_en": "Sanosanosa",
+     "name_ja": "さのさのさ",
+     "description": "Izakaya serving Kyushu dishes and plenty more, with good food and drink.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/40",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Shunsai Goen",
+     "name_en": "Shunsai Goen",
+     "name_ja": "旬彩 ごえん",
+     "description": "Relaxed izakaya known for fish dishes and very good everyday cooking.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/6",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Taishu Sakaba Yakko-san",
+     "name_en": "Taishu Sakaba Yakko-san",
+     "name_ja": "大衆酒場 奴さん",
+     "description": "Izakaya whose classic dishes bring out the best of local ingredients.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/50",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yushoku Kintaro",
+     "name_en": "Yushoku Kintaro",
+     "name_ja": "遊食 金太郎",
+     "description": "Baseball-loving izakaya that draws everyone from children to people in their nineties.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/48",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Robatayaki Michi",
+     "name_en": "Robatayaki Michi",
+     "name_ja": "炉ばた焼 味地",
+     "description": "Robatayaki (hearth-grill) restaurant featuring seasonal ingredients.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/7",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Waraya Hiko",
+     "name_en": "Waraya Hiko",
+     "name_ja": "和笑家 ひこ",
+     "description": "Popular izakaya near Kutani Pottery Village; lunch must be booked the day before.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/33",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Konagano Sakaba",
+     "name_en": "Konagano Sakaba",
+     "name_ja": "小長野酒場",
+     "description": "Yakitori izakaya grilling local meat and vegetables on a teppan.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/32",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Yakiniku Jeshikichi",
      "name_en": "Yakiniku Jeshikichi",
      "name_ja": "焼肉じぇし吉",
      "description": "Yakiniku grill restaurant in Terai, Nomi.",
      "source_url": "https://www.hotpepper.jp/strJ004678159/",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Fujii Nikuten",
+     "name_en": "Fujii Nikuten",
+     "name_ja": "藤井肉店",
+     "description": "Meat restaurant run by a butcher, serving rare cuts of Noto beef.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/59",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Arahata",
+     "name_en": "Yakiniku Arahata",
+     "name_ja": "焼肉あらはた",
+     "description": "Yakiniku restaurant that is one of the few to handle Noto Beef Premium.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/12",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Takachan",
+     "name_en": "Yakiniku Takachan",
+     "name_ja": "焼肉 たかちゃん",
+     "description": "Yakiniku and horumon restaurant with a loyal late-night regular crowd.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/36",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku House Reed",
+     "name_en": "Yakiniku House Reed",
+     "name_ja": "焼肉ハウス REED",
+     "description": "Family yakiniku restaurant with a large range of side dishes.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/19",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yuchan",
+     "name_en": "Yuchan",
+     "name_ja": "ゆうちゃん",
+     "description": "Yakiniku shop serving rare cuts.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/47",
      "page": "https://bokenjapan.com/ishikawa/nomi/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -15324,6 +17296,15 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Ramen Sankyaku",
+     "name_en": "Ramen Sankyaku",
+     "name_ja": "らーめん参客",
+     "description": "Neighbourhood ramen shop with a distinctive flavour.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/55",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Tagawa Ryusen-kaku",
      "name_en": "Tagawa Ryusen-kaku",
      "name_ja": "たがわ龍泉閣",
@@ -15369,6 +17350,69 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Casual Kappo Ishizaki",
+     "name_en": "Casual Kappo Ishizaki",
+     "name_ja": "カジュアル割烹 いしざき",
+     "description": "Casual kappo restaurant serving freshly cut seafood that pleases both children and adults.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/37",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Comfor-table Nito",
+     "name_en": "Comfor-table Nito",
+     "name_ja": "comfor-table 二兎",
+     "description": "Modern Japanese restaurant reborn from an old kappo restaurant, serving the flavours of Nomi.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/17",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Teppan Bizan",
+     "name_en": "Teppan Bizan",
+     "name_ja": "TEPPAN 眉山-BIZAN-",
+     "description": "Stylish spot for teppan dishes and drinks in the evening.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/18",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Happoen",
+     "name_en": "Happoen",
+     "name_ja": "八松苑",
+     "description": "Traditional ryotei in business for 150 years, serving Nomi's produce with a craftsman's skill.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/11",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ryoridokoro Ippachi",
+     "name_en": "Ryoridokoro Ippachi",
+     "name_ja": "料理処 一八",
+     "description": "Local restaurant with a welcoming proprietress, serving teppanyaki and more.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/10",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Bimidokoro Hataunoso",
+     "name_en": "Bimidokoro Hataunoso",
+     "name_ja": "美味処 幡生の荘",
+     "description": "Restaurant serving Sea of Japan fish and home cooking, a quiet grown-ups' hideaway.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/5",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Fukukizushi",
+     "name_en": "Fukukizushi",
+     "name_ja": "福喜寿司",
+     "description": "Family-run neighbourhood sushi shop serving authentic sushi with fresh seafood.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/21",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Brotroof Bio-Backerei",
      "name_en": "Brotroof Bio-Backerei",
      "name_ja": "ブロートルーフ ビオベッカライ",
@@ -15391,6 +17435,24 @@
      "name_en": "Patisserie Leafrich",
      "description": "Cake shop in Nomi.",
      "source_url": "https://tabelog.com/ishikawa/A1702/A170203/17012800/",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Yakigashi Kobiri",
+     "name_en": "Yakigashi Kobiri",
+     "name_ja": "焼き菓子 こびり",
+     "description": "Baked-sweets shop in an old house using only plant-based ingredients.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/29",
+     "page": "https://bokenjapan.com/ishikawa/nomi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Yuya no Yaki Manju",
+     "name_en": "Yuya no Yaki Manju",
+     "name_ja": "湯谷の焼万頭",
+     "description": "Chestnut-shaped baked manju that Nomi people love as soul food.",
+     "source_url": "https://nomishizukan.com/nomikui/shops/detail/67",
      "page": "https://bokenjapan.com/ishikawa/nomi/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -15731,6 +17793,15 @@
      "category": "Cafe"
     },
     {
+     "name": "Botanical Deck",
+     "name_en": "Botanical Deck",
+     "name_ja": "ボタニカルデッキ（ＢｏｔａｎｉｃａｌＤｅｃｋ）",
+     "description": "Cafe in Nonoichi.",
+     "source_url": "https://www.cookdoor.jp/dtl/00000000000080125217/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Hu Xu Zhang Lu Rou Fan Kanazawa Kodai-mae",
      "name_en": "Hu Xu Zhang Lu Rou Fan Kanazawa Kodai-mae",
      "name_ja": "鬍鬚張魯肉飯 金沢工大前店",
@@ -15745,6 +17816,24 @@
      "name_ja": "ムサク",
      "description": "Asian and ethnic restaurant in Nonoichi.",
      "source_url": "https://www.hotpepper.jp/strJ000344895/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Tondemun Bowls Dongdaemun Dakhanmari Street",
+     "name_en": "Tondemun Bowls Dongdaemun Dakhanmari Street",
+     "name_ja": "トンデムンボウルズ / 東大門タッカンマリ通り",
+     "description": "Korean restaurant in Nonoichi.",
+     "source_url": "https://www.hotpepper.jp/strJ004558816/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Taiwan Ryori Shoryu",
+     "name_en": "Taiwan Ryori Shoryu",
+     "name_ja": "台湾料理昇龍",
+     "description": "Taiwanese restaurant in Nonoichi.",
+     "source_url": "https://www.cookdoor.jp/dtl/14091710103/",
      "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/chinese-asian/",
      "category": "Chinese & Asian"
     },
@@ -15821,6 +17910,33 @@
      "category": "European"
     },
     {
+     "name": "Pension Thymely",
+     "name_en": "Pension Thymely",
+     "name_ja": "pensionたいむりー",
+     "description": "Italian or French restaurant in Nonoichi.",
+     "source_url": "https://www.hotpepper.jp/strJ004633783/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Kamakura Pasta Kanazawa Nonoichi",
+     "name_en": "Kamakura Pasta Kanazawa Nonoichi",
+     "name_ja": "鎌倉パスタ 金沢野々市店",
+     "description": "Pasta restaurant in Nonoichi.",
+     "source_url": "https://r.gnavi.co.jp/48dbzsxm0000/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Kitchen Carlo",
+     "name_en": "Kitchen Carlo",
+     "name_ja": "Ｋｉｔｃｈｅｎカルロ（ＣＡＲＬＯ）",
+     "description": "Restaurant in Nonoichi.",
+     "source_url": "https://www.cookdoor.jp/dtl/00000000000080088268/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Nanaya",
      "name_en": "Nanaya",
      "name_ja": "ななや",
@@ -15884,6 +18000,87 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Yakitori Izakaya Dondon",
+     "name_en": "Yakitori Izakaya Dondon",
+     "name_ja": "焼きとり居酒屋 どんどん",
+     "description": "Izakaya in Nonoichi.",
+     "source_url": "https://www.hotpepper.jp/strJ003672234/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yakitori Dining Tanto",
+     "name_en": "Yakitori Dining Tanto",
+     "name_ja": "焼とりDining たんと",
+     "description": "Izakaya in Nonoichi.",
+     "source_url": "https://www.hotpepper.jp/strJ000993601/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Koikoi",
+     "name_en": "Izakaya Koikoi",
+     "name_ja": "居酒屋 こいこい",
+     "description": "Izakaya in Nonoichi.",
+     "source_url": "https://www.hotpepper.jp/strJ001009198/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kushi Sakaba Okiharuya",
+     "name_en": "Kushi Sakaba Okiharuya",
+     "name_ja": "串酒場 おきはる屋",
+     "description": "Izakaya in Nonoichi.",
+     "source_url": "https://www.hotpepper.jp/strJ000344764/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Brewboys",
+     "name_en": "Brewboys",
+     "name_ja": "brewboys ブリューボーイズ",
+     "description": "Izakaya in Nonoichi.",
+     "source_url": "https://www.hotpepper.jp/strJ004470815/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Nonoichi Izakaya Rakuraku Kodai-mae",
+     "name_en": "Nonoichi Izakaya Rakuraku Kodai-mae",
+     "name_ja": "野々市 居酒屋 楽らく 工大前店",
+     "description": "Izakaya in Nonoichi.",
+     "source_url": "https://www.hotpepper.jp/strJ003432870/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Ichigo Jaya",
+     "name_en": "Ichigo Jaya",
+     "name_ja": "味亜全域厨房 一五茶屋",
+     "description": "Izakaya in Nonoichi.",
+     "source_url": "https://r.gnavi.co.jp/ktp49y0y0000/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Saburobei Nonoichi",
+     "name_en": "Saburobei Nonoichi",
+     "name_ja": "さぶろうべい 野々市店",
+     "description": "Izakaya in Nonoichi.",
+     "source_url": "https://r.gnavi.co.jp/752w7fag0000/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Koyomi Nonoichi",
+     "name_en": "Izakaya Koyomi Nonoichi",
+     "name_ja": "居酒屋 こよみ 野々市",
+     "description": "Izakaya in Nonoichi.",
+     "source_url": "https://www.hotpepper.jp/strJ000033226/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Tonkatsu Senmonten Katsubo",
      "name_en": "Tonkatsu Senmonten Katsubo",
      "name_ja": "とんかつ専門店 かつ坊",
@@ -15907,6 +18104,42 @@
      "name_ja": "焼肉 牛鉄",
      "description": "Yakiniku grill restaurant in Nonoichi.",
      "source_url": "https://www.hotpepper.jp/strJ004509352/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Tanaka Shoten",
+     "name_en": "Yakiniku Tanaka Shoten",
+     "name_ja": "焼肉たなか商店",
+     "description": "Yakiniku restaurant in Nonoichi.",
+     "source_url": "https://www.hotpepper.jp/strJ004660726/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Ten",
+     "name_en": "Yakiniku Ten",
+     "name_ja": "焼肉てん",
+     "description": "Yakiniku restaurant in Nonoichi.",
+     "source_url": "https://www.hotpepper.jp/strJ004403936/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Wamaru Nonoichi Wakamatsu Honten",
+     "name_en": "Yakiniku Wamaru Nonoichi Wakamatsu Honten",
+     "name_ja": "焼肉 和まる 野々市若松本店",
+     "description": "Yakiniku restaurant in Nonoichi.",
+     "source_url": "https://www.hotpepper.jp/strJ001058168/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Saikyo Harami Yakiniku Ichibo Nonoichi",
+     "name_en": "Saikyo Harami Yakiniku Ichibo Nonoichi",
+     "name_ja": "最強ハラミ焼肉いちぼ野々市店",
+     "description": "Yakiniku restaurant in Nonoichi.",
+     "source_url": "https://r.gnavi.co.jp/862470h10000/",
      "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -15974,6 +18207,51 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Hachiban Ramen Nonoichi Awata",
+     "name_en": "Hachiban Ramen Nonoichi Awata",
+     "name_ja": "８番らーめん 野々市粟田店",
+     "description": "Ramen shop in Nonoichi.",
+     "source_url": "https://r.gnavi.co.jp/6vmp43n80000/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Shinasobaya Kyozuka",
+     "name_en": "Shinasobaya Kyozuka",
+     "name_ja": "支那そば屋 御経塚店",
+     "description": "Ramen shop in Nonoichi.",
+     "source_url": "https://www.cookdoor.jp/dtl/75000000000000045079/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Rairaitei Nonoichi",
+     "name_en": "Rairaitei Nonoichi",
+     "name_ja": "来来亭 野々市店",
+     "description": "Ramen shop in Nonoichi.",
+     "source_url": "https://www.cookdoor.jp/dtl/75000000000000115024/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Himi Ramen Nonoichi",
+     "name_en": "Himi Ramen Nonoichi",
+     "name_ja": "氷見ラーメン 野々市店",
+     "description": "Ramen shop in Nonoichi.",
+     "source_url": "https://www.cookdoor.jp/dtl/1060341702/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tenkaippin Nonoichi Shinjo",
+     "name_en": "Tenkaippin Nonoichi Shinjo",
+     "name_ja": "天下一品 野々市新庄店",
+     "description": "Ramen shop in Nonoichi.",
+     "source_url": "https://www.cookdoor.jp/dtl/75000000000000114981/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Saitani-ya",
      "name_en": "Saitani-ya",
      "name_ja": "才谷屋",
@@ -15990,6 +18268,24 @@
      "source_url": "https://www.hotpepper.jp/strJ000344778/",
      "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/other/",
      "category": "Other"
+    },
+    {
+     "name": "Haikara Yokocho",
+     "name_en": "Haikara Yokocho",
+     "name_ja": "ハイカラ横丁",
+     "description": "Japanese restaurant in Nonoichi.",
+     "source_url": "https://www.hotpepper.jp/strJ001100240/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/other-japanese/",
+     "category": "Japanese (other)"
+    },
+    {
+     "name": "Torakuma Nonoichi",
+     "name_en": "Torakuma Nonoichi",
+     "name_ja": "とらくま 野々市",
+     "description": "Japanese restaurant in Nonoichi.",
+     "source_url": "https://www.hotpepper.jp/strJ003474516/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/other-japanese/",
+     "category": "Japanese (other)"
     },
     {
      "name": "Sushi Tokoro Mekumi",
@@ -16015,6 +18311,33 @@
      "name_ja": "寿し龍",
      "description": "Sushi restaurant; also serving ramen in Nonoichi.",
      "source_url": "https://tabelog.com/ishikawa/A1702/A170203/17002387/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Echizen Hanamaru Nonoichi",
+     "name_en": "Echizen Hanamaru Nonoichi",
+     "name_ja": "越前華丸 野々市店",
+     "description": "Seafood izakaya in Nonoichi.",
+     "source_url": "https://r.gnavi.co.jp/hwef00me0000/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Morimori Sushi Nonoichi",
+     "name_en": "Morimori Sushi Nonoichi",
+     "name_ja": "もりもり寿司 野々市店",
+     "description": "Sushi restaurant in Nonoichi.",
+     "source_url": "https://www.cookdoor.jp/dtl/75000000000000015696/",
+     "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kitokito Sushi Nonoichi",
+     "name_en": "Kitokito Sushi Nonoichi",
+     "name_ja": "きときと寿し 野々市店",
+     "description": "Sushi restaurant in Nonoichi.",
+     "source_url": "https://www.cookdoor.jp/dtl/14091100254/",
      "page": "https://bokenjapan.com/ishikawa/nonoichi/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -16286,6 +18609,15 @@
      "name_ja": "レストラン大樹",
      "description": "Local restaurant open for 35 years, popular for its beef steak menus.",
      "source_url": "https://notocho.jp/eat/966/",
+     "page": "https://bokenjapan.com/ishikawa/noto/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Restaurant Hanashobu Yanagida Botanical Park",
+     "name_en": "Restaurant Hanashobu Yanagida Botanical Park",
+     "name_ja": "レストラン花菖蒲 柳田植物公園内",
+     "description": "Western-style restaurant inside Yanagida Botanical Park in Noto.",
+     "source_url": "https://www.hotpepper.jp/strJ000803989/",
      "page": "https://bokenjapan.com/ishikawa/noto/eat/european/",
      "category": "European"
     },
@@ -18440,11 +20772,38 @@
      "category": "Cafe"
     },
     {
+     "name": "Taiho",
+     "name_en": "Taiho",
+     "name_ja": "たいほう",
+     "description": "Cafe in Tsubata.",
+     "source_url": "https://www.cookdoor.jp/dtl/75000000000000165342/",
+     "page": "https://bokenjapan.com/ishikawa/tsubata/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Genpei Cha-ya",
      "name_en": "Genpei Cha-ya",
      "name_ja": "源平茶屋",
      "description": "Casual diner (shokudo) in Tsubata.",
      "source_url": "https://tabelog.com/ishikawa/A1701/A170102/17007851/",
+     "page": "https://bokenjapan.com/ishikawa/tsubata/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Nmaiya Tsubata",
+     "name_en": "Nmaiya Tsubata",
+     "name_ja": "んまい屋津幡店",
+     "description": "Okonomiyaki restaurant in Tsubata.",
+     "source_url": "https://www.cookdoor.jp/dtl/14092726796/",
+     "page": "https://bokenjapan.com/ishikawa/tsubata/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Dotonbori Tsubata",
+     "name_en": "Dotonbori Tsubata",
+     "name_ja": "道とん堀 津幡店",
+     "description": "Okonomiyaki restaurant in Tsubata.",
+     "source_url": "https://www.cookdoor.jp/dtl/1060024330/",
      "page": "https://bokenjapan.com/ishikawa/tsubata/eat/casual/",
      "category": "Casual"
     },
@@ -18456,6 +20815,15 @@
      "source_url": "https://tabelog.com/ishikawa/A1701/A170102/17011358/",
      "page": "https://bokenjapan.com/ishikawa/tsubata/eat/chinese-asian/",
      "category": "Chinese & Asian"
+    },
+    {
+     "name": "Curry no Champion Tsubata",
+     "name_en": "Curry no Champion Tsubata",
+     "name_ja": "カレーのチャンピオン 津幡店",
+     "description": "Curry shop in Tsubata.",
+     "source_url": "https://www.cookdoor.jp/dtl/75000000000000016665/",
+     "page": "https://bokenjapan.com/ishikawa/tsubata/eat/curry/",
+     "category": "Curry"
     },
     {
      "name": "Miel",
@@ -18485,6 +20853,15 @@
      "category": "European"
     },
     {
+     "name": "Bistro Kazu",
+     "name_en": "Bistro Kazu",
+     "name_ja": "ビストロカズ",
+     "description": "French bistro in Tsubata.",
+     "source_url": "https://www.cookdoor.jp/dtl/00000000000080010706/",
+     "page": "https://bokenjapan.com/ishikawa/tsubata/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Yoichi",
      "name_en": "Yoichi",
      "name_ja": "与市",
@@ -18510,6 +20887,60 @@
      "source_url": "https://www.hotpepper.jp/strJ003624919/",
      "page": "https://bokenjapan.com/ishikawa/tsubata/eat/izakaya-bars/",
      "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yakiniku Honke Akinaiya",
+     "name_en": "Yakiniku Honke Akinaiya",
+     "name_ja": "焼肉本家 あきない屋",
+     "description": "Yakiniku restaurant in Tsubata.",
+     "source_url": "https://r.gnavi.co.jp/bmgwhbwg0000/",
+     "page": "https://bokenjapan.com/ishikawa/tsubata/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Taruran",
+     "name_en": "Yakiniku Taruran",
+     "name_ja": "焼肉タルラン",
+     "description": "Yakiniku and Korean restaurant in Tsubata.",
+     "source_url": "https://r.gnavi.co.jp/aged6zhf0000/",
+     "page": "https://bokenjapan.com/ishikawa/tsubata/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakinikutei Popeye",
+     "name_en": "Yakinikutei Popeye",
+     "name_ja": "焼肉亭ポパイ",
+     "description": "Yakiniku restaurant in Tsubata.",
+     "source_url": "https://www.cookdoor.jp/dtl/14091208898/",
+     "page": "https://bokenjapan.com/ishikawa/tsubata/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Hyakumangoku",
+     "name_en": "Hyakumangoku",
+     "name_ja": "百万石",
+     "description": "Yakiniku restaurant in Tsubata.",
+     "source_url": "https://www.cookdoor.jp/dtl/14091208901/",
+     "page": "https://bokenjapan.com/ishikawa/tsubata/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Showa Horumonkan Tsubata",
+     "name_en": "Showa Horumonkan Tsubata",
+     "name_ja": "昭和ホルモン館津幡店",
+     "description": "Horumon yakiniku restaurant in Tsubata.",
+     "source_url": "https://www.cookdoor.jp/dtl/14091208895/",
+     "page": "https://bokenjapan.com/ishikawa/tsubata/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Karubi Taisho Tsubata",
+     "name_en": "Karubi Taisho Tsubata",
+     "name_ja": "カルビ大将 津幡店",
+     "description": "Yakiniku restaurant in Tsubata.",
+     "source_url": "https://www.cookdoor.jp/dtl/1060024175/",
+     "page": "https://bokenjapan.com/ishikawa/tsubata/eat/meat/",
+     "category": "Japanese (meat)"
     },
     {
      "name": "Men-ya Taiga Kanazawa Tanmen",
@@ -18557,11 +20988,56 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Hachiban Ramen Tsubata",
+     "name_en": "Hachiban Ramen Tsubata",
+     "name_ja": "８番らーめん 津幡店",
+     "description": "Ramen shop in Tsubata.",
+     "source_url": "https://r.gnavi.co.jp/rrfa2ts00000/",
+     "page": "https://bokenjapan.com/ishikawa/tsubata/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Champontei Sohonke Tsubata",
+     "name_en": "Champontei Sohonke Tsubata",
+     "name_ja": "ちゃんぽん亭総本家 津幡店",
+     "description": "Champon noodle restaurant in Tsubata.",
+     "source_url": "https://www.cookdoor.jp/dtl/75000000000000069496/",
+     "page": "https://bokenjapan.com/ishikawa/tsubata/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tonton Tsubata",
+     "name_en": "Tonton Tsubata",
+     "name_ja": "とんとん 津幡店",
+     "description": "Ramen shop in Tsubata.",
+     "source_url": "https://www.cookdoor.jp/dtl/00000000000080056769/",
+     "page": "https://bokenjapan.com/ishikawa/tsubata/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kappo Otake",
+     "name_en": "Kappo Otake",
+     "name_ja": "割烹大竹",
+     "description": "Kappo restaurant in Tsubata.",
+     "source_url": "https://www.cookdoor.jp/dtl/14102714352/",
+     "page": "https://bokenjapan.com/ishikawa/tsubata/eat/other-japanese/",
+     "category": "Japanese (other)"
+    },
+    {
      "name": "Sushi Honpo Tamaya",
      "name_en": "Sushi Honpo Tamaya",
      "name_ja": "寿司本舗たまや",
      "description": "Sushi restaurant; also serving seafood rice bowls and seafood in Tsubata.",
      "source_url": "https://tabelog.com/ishikawa/A1701/A170102/17004717/",
+     "page": "https://bokenjapan.com/ishikawa/tsubata/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Mimasu",
+     "name_en": "Mimasu",
+     "name_ja": "美満寿",
+     "description": "Sushi restaurant in Tsubata.",
+     "source_url": "https://www.cookdoor.jp/dtl/14091110900/",
      "page": "https://bokenjapan.com/ishikawa/tsubata/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -18832,6 +21308,24 @@
      "category": "Cafe"
     },
     {
+     "name": "Himawari-do",
+     "name_en": "Himawari-do",
+     "name_ja": "ひまわり堂",
+     "description": "Cafe serving gluten-free rice-flour cakes and a nutritious vegetable curry made without wheat flour; open Thursday to Sunday.",
+     "source_url": "https://uchinadakankou.com/spot/829/",
+     "page": "https://bokenjapan.com/ishikawa/uchinada/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe de Maru",
+     "name_en": "Cafe de Maru",
+     "name_ja": "ｃａｆｅ・ｄｅ・ＭＡＲＵ",
+     "description": "Cafe in Uchinada.",
+     "source_url": "https://www.cookdoor.jp/dtl/14092215492/",
+     "page": "https://bokenjapan.com/ishikawa/uchinada/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Horita PICNIC",
      "name_en": "Horita Picnic",
      "description": "Bento restaurant in Uchinada.",
@@ -18885,6 +21379,15 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Ryumon",
+     "name_en": "Ryumon",
+     "name_ja": "りゅうもん",
+     "description": "Chinese restaurant in Uchinada.",
+     "source_url": "https://www.cookdoor.jp/dtl/14092609787/",
+     "page": "https://bokenjapan.com/ishikawa/uchinada/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Hazu Takashi",
      "name_en": "Hazu Takashi",
      "name_ja": "はづ貴",
@@ -18920,6 +21423,33 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Plum Dining Ramuya",
+     "name_en": "Plum Dining Ramuya",
+     "name_ja": "プラムダイニング らむ屋",
+     "description": "Izakaya in Uchinada.",
+     "source_url": "https://www.hotpepper.jp/strJ004678699/",
+     "page": "https://bokenjapan.com/ishikawa/uchinada/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Nadia and Lamps",
+     "name_en": "Nadia and Lamps",
+     "name_ja": "NADIA&LAMPS ナディアンドランプス",
+     "description": "Izakaya in Uchinada.",
+     "source_url": "https://www.hotpepper.jp/strJ004612880/",
+     "page": "https://bokenjapan.com/ishikawa/uchinada/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kutsurogidokoro Zen",
+     "name_en": "Kutsurogidokoro Zen",
+     "name_ja": "くつろぎ処 ZEN",
+     "description": "Evening restaurant with an easygoing owner and tasty cooking, taking groups of up to thirty.",
+     "source_url": "https://uchinadakankou.com/spot/zen/",
+     "page": "https://bokenjapan.com/ishikawa/uchinada/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Kyushu Daidokoro Hachibe",
      "name_en": "Kyushu Daidokoro Hachibe",
      "name_ja": "九州台所八兵衛",
@@ -18938,6 +21468,33 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Yakiniku-ya Sun Himawari",
+     "name_en": "Yakiniku-ya Sun Himawari",
+     "name_ja": "焼肉屋Sun ひまわり",
+     "description": "Yakiniku restaurant with everything from reasonable cuts to premium and rare meats, with lunch sets and an evening all-you-can-eat.",
+     "source_url": "https://uchinadakankou.com/spot/yakinikusunhimawari/",
+     "page": "https://bokenjapan.com/ishikawa/uchinada/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Akashia",
+     "name_en": "Yakiniku Akashia",
+     "name_ja": "焼肉アカシア",
+     "description": "Yakiniku restaurant in Uchinada.",
+     "source_url": "https://www.cookdoor.jp/dtl/14091208904/",
+     "page": "https://bokenjapan.com/ishikawa/uchinada/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Moroku Uchinada",
+     "name_en": "Moroku Uchinada",
+     "name_ja": "茂六内灘店",
+     "description": "Yakiniku restaurant in Uchinada.",
+     "source_url": "https://www.cookdoor.jp/dtl/14091208907/",
+     "page": "https://bokenjapan.com/ishikawa/uchinada/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Ramen la.la.la.",
      "name_en": "Ramen la.la.la.",
      "name_ja": "らーめん la.la.la.",
@@ -18952,6 +21509,15 @@
      "name_ja": "ラーメン藤",
      "description": "Ramen shop in Uchinada.",
      "source_url": "https://tabelog.com/ishikawa/A1701/A170102/17001865/",
+     "page": "https://bokenjapan.com/ishikawa/uchinada/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Hachiban Ramen Uchinada",
+     "name_en": "Hachiban Ramen Uchinada",
+     "name_ja": "８番らーめん 内灘店",
+     "description": "Ramen shop in Uchinada.",
+     "source_url": "https://r.gnavi.co.jp/1bwv6mje0000/",
      "page": "https://bokenjapan.com/ishikawa/uchinada/eat/noodles/",
      "category": "Japanese (noodles)"
     },
@@ -18979,6 +21545,24 @@
      "name_ja": "カマトコンロ",
      "description": "Restaurant in Uchinada.",
      "source_url": "https://tabelog.com/ishikawa/A1701/A170102/17014799/",
+     "page": "https://bokenjapan.com/ishikawa/uchinada/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Torichinya Uchinada",
+     "name_en": "Torichinya Uchinada",
+     "name_ja": "鳥珍や 内灘店",
+     "description": "Japanese restaurant in Uchinada.",
+     "source_url": "https://www.hotpepper.jp/strJ001021846/",
+     "page": "https://bokenjapan.com/ishikawa/uchinada/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Hachibei",
+     "name_en": "Hachibei",
+     "name_ja": "八兵衛",
+     "description": "Japanese restaurant in Uchinada.",
+     "source_url": "https://www.cookdoor.jp/dtl/00000000000080021967/",
      "page": "https://bokenjapan.com/ishikawa/uchinada/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -19033,6 +21617,24 @@
      "name_ja": "ポコ ア ポコ",
      "description": "Gelato and ice-cream shop in Uchinada.",
      "source_url": "https://tabelog.com/ishikawa/A1701/A170101/17008024/",
+     "page": "https://bokenjapan.com/ishikawa/uchinada/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Nadanohana Honpo Asai",
+     "name_en": "Nadanohana Honpo Asai",
+     "name_ja": "灘乃華本舗 あさ井",
+     "description": "Japanese-sweets shop making each wagashi by hand.",
+     "source_url": "https://uchinadakankou.com/spot/asai/",
+     "page": "https://bokenjapan.com/ishikawa/uchinada/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Rich Mond Uchinada",
+     "name_en": "Rich Mond Uchinada",
+     "name_ja": "RICH MOND 内灘店",
+     "description": "Cake shop known for a roll cake blended with house-made cream cheese.",
+     "source_url": "https://uchinadakankou.com/spot/richmond/",
      "page": "https://bokenjapan.com/ishikawa/uchinada/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -20133,7 +22735,7 @@
      "name": "Minshuku Nakamichi",
      "name_en": "Minshuku Nakamichi",
      "name_ja": "民宿 なかみち",
-     "description": "Family-run minshuku in Wajima.",
+     "description": "Eight-room family-run minshuku in Wajima, serving home-style meals of local seafood, with free Wi-Fi, free parking and separate baths for men and women.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/43810/43810.html",
      "page": "https://bokenjapan.com/ishikawa/wajima/stay/"
     },
