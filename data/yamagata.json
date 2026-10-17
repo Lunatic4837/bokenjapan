@@ -731,6 +731,15 @@
      "category": "Casual"
     },
     {
+     "name": "Torenta Higashine",
+     "name_en": "Torenta Higashine",
+     "name_ja": "トレンタ東根店",
+     "description": "Italian or French restaurant in Higashine; open 11:00-15:30, 60 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000974808/",
+     "page": "https://bokenjapan.com/yamagata/higashine/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Izakaya in Higashine",
      "name_en": "Izakaya in Higashine",
      "name_ja": "居酒屋わ",
@@ -1669,6 +1678,15 @@
      "name_ja": "蔵王ライザワールド レストラン",
      "description": "Shokudo diner in Kaminoyama, Yamagata.",
      "source_url": "https://tabelog.com/yamagata/A0601/A060102/6000467/",
+     "page": "https://bokenjapan.com/yamagata/kaminoyama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Fufu",
+     "name_en": "Fufu",
+     "name_ja": "ふうふぅ",
+     "description": "Okonomiyaki restaurant in Kaminoyama, about 10 min by car from Higashi-Kanai Station; open 11:30-14:30, closed Sundays, 35 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ001137818/",
      "page": "https://bokenjapan.com/yamagata/kaminoyama/eat/casual/",
      "category": "Casual"
     },
@@ -4118,6 +4136,15 @@
      "category": "Other"
     },
     {
+     "name": "Sushi to Kisetsu no Aji Kiraku",
+     "name_en": "Sushi to Kisetsu no Aji Kiraku",
+     "name_ja": "鮨と季節の味 きらく",
+     "description": "Sushi restaurant in Nagai; open 11:30-13:30, closed Mondays, 30 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000293524/",
+     "page": "https://bokenjapan.com/yamagata/nagai/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Saitofu-ya",
      "name_en": "Saitofu-ya",
      "name_ja": "斎藤麸屋",
@@ -4679,6 +4706,15 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Ramuen",
+     "name_en": "Ramuen",
+     "name_ja": "ラム苑",
+     "description": "Yakiniku (grilled meat) restaurant in Nanyo; open 17:30-23:00, 28 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ003941884/",
+     "page": "https://bokenjapan.com/yamagata/nanyo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Akayu Ramen Ryushanhai Akayu main branch",
      "name_en": "Akayu Ramen Ryushanhai Akayu main branch",
      "name_ja": "赤湯ラーメン 龍上海 赤湯本店",
@@ -4812,6 +4848,15 @@
      "source_url": "https://tabelog.com/yamagata/A0602/A060202/6004459/",
      "page": "https://bokenjapan.com/yamagata/nanyo/eat/other-japanese/",
      "category": "Other Japanese"
+    },
+    {
+     "name": "Kaisen Sumiyaki Maruki",
+     "name_en": "Kaisen Sumiyaki Maruki",
+     "name_ja": "海鮮炭焼まるき",
+     "description": "Seafood restaurant in Nanyo; open 17:30-23:00, closed Wednesdays, 7 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ001295456/",
+     "page": "https://bokenjapan.com/yamagata/nanyo/eat/seafood/",
+     "category": "Japanese (seafood)"
     },
     {
      "name": "Gelato En",
@@ -7216,6 +7261,15 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Nodogoshi Sawayaka Towari Soba Miyamatei",
+     "name_en": "Nodogoshi Sawayaka Towari Soba Miyamatei",
+     "name_ja": "のどごし爽やか十割蕎麦 みやま亭",
+     "description": "Soba restaurant in Sagae; open 11:00-14:00, closed Mondays and Tuesdays, 72 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ003302013/",
+     "page": "https://bokenjapan.com/yamagata/sagae/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Cherry Land Sagae",
      "name_en": "Cherry Land Sagae",
      "name_ja": "チェリーランドさがえ",
@@ -7248,6 +7302,15 @@
      "name_ja": "パリから来た和",
      "description": "Creative-cuisine restaurant in Sagae, Yamagata.",
      "source_url": "https://tabelog.com/yamagata/A0605/A060504/6008955/",
+     "page": "https://bokenjapan.com/yamagata/sagae/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yumechubo Higashimon",
+     "name_en": "Yumechubo Higashimon",
+     "name_ja": "夢厨房 東門",
+     "description": "Japanese restaurant in Sagae; open 11:30-14:00, closed Mondays, Tuesdays and Sundays, 130 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ003516343/",
      "page": "https://bokenjapan.com/yamagata/sagae/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -7461,6 +7524,24 @@
      "name_ja": "中華飯店 紅蘭",
      "description": "Chinese restaurant in Sakata, about 10 min by car from Sakata Station; open 11:00-14:00, irregular closing days, 100 seats.",
      "source_url": "https://www.hotpepper.jp/strJ001070204/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Thai Restaurant Saphan Mai",
+     "name_en": "Thai Restaurant Saphan Mai",
+     "name_ja": "タイレストラン サパーンマイ",
+     "description": "Asian restaurant in Sakata, about 5 min by car from Sakata Station; open 11:00-14:00, closed Sundays, 18 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ001280469/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Shuka Chikara Sakata",
+     "name_en": "Shuka Chikara Sakata",
+     "name_ja": "酒家力 酒田店",
+     "description": "Chinese restaurant in Sakata, about 20 min on foot from Sakata Station; open 17:00-23:59, 24 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000778326/",
      "page": "https://bokenjapan.com/yamagata/sakata/eat/chinese-asian/",
      "category": "Chinese & Asian"
     },
@@ -7679,6 +7760,33 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Sennichido Soba-ya",
+     "name_en": "Sennichido Soba-ya",
+     "name_ja": "千日堂 そば屋",
+     "description": "Soba restaurant in Sakata, about 28 min on foot from Sakata Station; open 10:00-19:00, irregular closing days, 45 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000289589/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon Ichi Sakata",
+     "name_en": "Udon Ichi Sakata",
+     "name_ja": "うどん市 酒田店",
+     "description": "Udon restaurant in Sakata, about 10 min by car from Sakata Station; open 11:00-14:30, irregular closing days, 47 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000289211/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tetote Nakamachi x Very Very Soup",
+     "name_en": "Tetote Nakamachi x Very Very Soup",
+     "name_ja": "てとて中町×ベリーベリースープ",
+     "description": "Cafe in Sakata's Nakamachi area serving a changing range of hearty soups from the specialist soup shop Very Very Soup.",
+     "source_url": "https://r.gnavi.co.jp/je9ub3yn0000/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Junaji Izutsu",
      "name_en": "Junaji Izutsu",
      "name_ja": "旬味 井筒",
@@ -7702,6 +7810,15 @@
      "name_ja": "生石 大松家",
      "description": "Japanese restaurant in Sakata; open 11:30-15:00, closed Tuesdays, 50 seats.",
      "source_url": "https://www.hotpepper.jp/strJ000289738/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Sushidokoro Kuidoraku",
+     "name_en": "Sushidokoro Kuidoraku",
+     "name_ja": "寿し処喰道楽",
+     "description": "Japanese restaurant in Sakata, about 10 min by car from Sakata Station; open 17:30-22:00, 25 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ003299011/",
      "page": "https://bokenjapan.com/yamagata/sakata/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -10692,6 +10809,24 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Kurayashiki LUNA",
+     "name_en": "Kurayashiki LUNA",
+     "name_ja": "蔵屋敷 LUNA",
+     "description": "Japanese restaurant in Tsuruoka; open 11:00-14:00, closed Mondays, public holidays and Sundays, 54 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000739078/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Fukuminato-an",
+     "name_en": "Fukuminato-an",
+     "name_ja": "福湊庵",
+     "description": "Japanese restaurant in Tsuruoka; open 11:00-16:00, closed Wednesdays and Sundays, 40 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000290269/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Shonai Uogashi Sakaba Shiosai",
      "name_en": "Shonai Uogashi Sakaba Shiosai",
      "name_ja": "庄内魚河岸酒場 潮彩",
@@ -12900,6 +13035,15 @@
      "name_ja": "くいもの屋わん 米沢中央店",
      "description": "Izakaya in Yonezawa.",
      "source_url": "https://r.gnavi.co.jp/5m006xge0000/",
+     "page": "https://bokenjapan.com/yamagata/yonezawa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Sake to Sakana. Masuya",
+     "name_en": "Sake to Sakana. Masuya",
+     "name_ja": "SakeとSakana。ますや",
+     "description": "Izakaya in Yonezawa, about 1 min on foot from Yonezawa Station; open 17:00-23:00, closed Wednesdays and Sundays, 20 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ003365522/",
      "page": "https://bokenjapan.com/yamagata/yonezawa/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
