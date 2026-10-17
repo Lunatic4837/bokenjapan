@@ -540,7 +540,7 @@
     {
      "name": "Nanairo-kan",
      "description": "Local facility in Asahimachi.",
-     "source_url": "https://www.asahimachi.com/nanairo/",
+     "source_url": "http://akagawayaki.com/",
      "page": "https://bokenjapan.com/toyama/asahimachi/see/"
     },
     {
@@ -1979,7 +1979,7 @@
     {
      "name": "Kenmin Park Shinko-no-Mori",
      "description": "Prefectural park in Imizu.",
-     "source_url": "https://www.toyamap.or.jp/shinkou/",
+     "source_url": "https://www.toyamap.or.jp/",
      "page": "https://bokenjapan.com/toyama/imizu/see/"
     },
     {
@@ -2889,7 +2889,7 @@
     {
      "name": "Kurobe Gorge Hot Springs",
      "description": "Hot-spring area along the Kurobe Gorge Railway.",
-     "source_url": "https://www.kurotetu.co.jp/onsen/",
+     "source_url": "https://www.kurotetu.co.jp/",
      "page": "https://bokenjapan.com/toyama/kurobe/see/"
     },
     {
@@ -3021,7 +3021,7 @@
     {
      "name": "Junikanno Spring",
      "description": "Spring-water site in Kurobe.",
-     "source_url": "https://www.pref.toyama.jp/sections/1605/noukan/kamo/shisetsu10.html",
+     "source_url": "https://www.pref.toyama.jp/",
      "page": "https://bokenjapan.com/toyama/kurobe/see/"
     },
     {
@@ -3577,7 +3577,7 @@
     "links": [
      {
       "label": "Nanto City Hall",
-      "url": "https://www.city.nanto.toyama.jp/cms-sypher/www/index.jsp"
+      "url": "https://www.city.nanto.toyama.jp/"
      }
     ],
     "address": "Nanto, Toyama 939-1692",
@@ -4355,7 +4355,7 @@
     {
      "name": "Mitsunori-ji Temple",
      "description": "Temple in Nanto.",
-     "source_url": "https://www.city.nanto.toyama.jp/cms-sypher/www/info/detail.jsp?id=4296",
+     "source_url": "https://www.city.nanto.toyama.jp/",
      "page": "https://bokenjapan.com/toyama/nanto/see/"
     },
     {
@@ -4409,7 +4409,7 @@
     {
      "name": "Ankyo-ji Temple",
      "description": "Temple in Nanto.",
-     "source_url": "https://www.city.nanto.toyama.jp/cms-sypher/www/info/detail.jsp?id=4295",
+     "source_url": "https://www.city.nanto.toyama.jp/",
      "page": "https://bokenjapan.com/toyama/nanto/see/"
     },
     {
@@ -4427,7 +4427,7 @@
     {
      "name": "Fudo Falls Spring Water",
      "description": "Spring water at Fudo Falls in Nanto.",
-     "source_url": "https://www.city.nanto.toyama.jp/cms-sypher/www/info/detail.jsp?id=4692",
+     "source_url": "https://www.city.nanto.toyama.jp/",
      "page": "https://bokenjapan.com/toyama/nanto/see/"
     },
     {
@@ -4511,7 +4511,7 @@
     {
      "name": "Gokayama Folk Museum",
      "description": "Folk museum in Gokayama.",
-     "source_url": "https://www.city.nanto.toyama.jp/cms-sypher/www/section/detail.jsp?id=223",
+     "source_url": "https://www.city.nanto.toyama.jp/",
      "page": "https://bokenjapan.com/toyama/nanto/see/"
     },
     {
@@ -4673,7 +4673,7 @@
     {
      "name": "Taira Kyodokan",
      "description": "Community facility in Taira, Gokayama.",
-     "source_url": "https://gokayama-info.jp/archives/2350",
+     "source_url": "https://gokayama-info.jp/",
      "page": "https://bokenjapan.com/toyama/nanto/see/"
     },
     {
@@ -4877,7 +4877,7 @@
     {
      "name": "Kita Village Shoten",
      "description": "Local shop in Nanto.",
-     "source_url": "https://www.kokiriko.com/memorial/kitamura.html",
+     "source_url": "https://www.kokiriko.com/",
      "page": "https://bokenjapan.com/toyama/nanto/see/"
     },
     {
@@ -6649,7 +6649,7 @@
     {
      "name": "Takaoka Red Brick Building",
      "description": "Historic red-brick building in Takaoka.",
-     "source_url": "https://www.takaoka.or.jp/viewpoint/archives/871",
+     "source_url": "https://www.takaoka.or.jp/viewpoint/",
      "page": "https://bokenjapan.com/toyama/takaoka/see/"
     },
     {
@@ -6697,7 +6697,7 @@
     {
      "name": "Kifune Castle Ruins",
      "description": "Castle ruins in Takaoka.",
-     "source_url": "https://www.takaoka.or.jp/viewpoint/archives/898",
+     "source_url": "https://www.takaoka.or.jp/viewpoint/",
      "page": "https://bokenjapan.com/toyama/takaoka/see/"
     },
     {
@@ -6793,7 +6793,7 @@
     {
      "name": "Saeki House",
      "description": "Historic house in Takaoka.",
-     "source_url": "https://www.takaoka.or.jp/viewpoint/archives/896",
+     "source_url": "https://www.takaoka.or.jp/viewpoint/",
      "page": "https://bokenjapan.com/toyama/takaoka/see/"
     },
     {
@@ -6817,7 +6817,7 @@
     {
      "name": "Tsunesei Oji Tomb",
      "description": "Historic tomb in Takaoka.",
-     "source_url": "https://www.takaoka.or.jp/viewpoint/archives/884",
+     "source_url": "https://www.takaoka.or.jp/viewpoint/",
      "page": "https://bokenjapan.com/toyama/takaoka/see/"
     },
     {
@@ -7733,14 +7733,6 @@
      "category": "Cafe"
     },
     {
-     "name": "19 HITOYASUMI",
-     "name_en": "19 HITOYASUMI",
-     "description": "Specialty coffee and original cookies.",
-     "source_url": "https://19hitoyasumi.com/",
-     "page": "https://bokenjapan.com/toyama/tonami/eat/cafe/",
-     "category": "Cafe"
-    },
-    {
      "name": "Yotchan",
      "description": "Okonomiyaki restaurant in Tonami.",
      "source_url": "https://tabelog.com/toyama/A1605/A160501/16001571/",
@@ -8062,7 +8054,7 @@
     {
      "name": "Tonami Local History Museum",
      "description": "Local history museum in Tonami.",
-     "source_url": "https://www.city.tonami.toyama.jp/section/1298887642.html",
+     "source_url": "https://www.city.tonami.lg.jp/?p=1658",
      "page": "https://bokenjapan.com/toyama/tonami/see/"
     },
     {
@@ -8415,7 +8407,7 @@
     {
      "name": "Sugigataira Campground",
      "description": "Campground in Toyama.",
-     "source_url": "https://www.city.toyama.toyama.jp/norinsuisanbu/norinjimusho/nochirinmuka/sugigaharakyampujo.html",
+     "source_url": "https://www.city.toyama.lg.jp/bunka/bunka/1010547/1010558/1006036.html",
      "page": "https://bokenjapan.com/toyama/toyama/do/"
     },
     {
@@ -8919,14 +8911,6 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Sushi Junpu Manpan",
-     "name_en": "Sushi Junpu Manpan",
-     "description": "Sushi restaurant in Toyama.",
-     "source_url": "https://junpumanpan.jp/",
-     "page": "https://bokenjapan.com/toyama/toyama/eat/seafood/",
-     "category": "Japanese (seafood)"
-    },
-    {
      "name": "Patisserie Giraffe",
      "description": "Cake shop (patisserie) in Toyama, also serving chocolates and macarons.",
      "source_url": "https://tabelog.com/toyama/A1601/A160101/16000052/",
@@ -9119,7 +9103,7 @@
     {
      "name": "Toyama Chiho Railway Sky Bus Toyama",
      "description": "Sightseeing bus run by Toyama Chiho Railway.",
-     "source_url": "https://www.chitetsu.co.jp/?p=71047",
+     "source_url": "https://www.chitetsu.co.jp/",
      "page": "https://bokenjapan.com/toyama/toyama/see/"
     },
     {
