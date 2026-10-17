@@ -22,6 +22,6 @@ Sights/Do cards with a photo: 89/418 (21%) -> 295/418 (71%); Tottori city 5/103 
 
 Other: Hiezu Do page added (nearest activities in Yonago, labelled), hub tile + nav + sitemap; Yonago 100x92 Kaike Onsen thumb dropped (1.5KB); 9 stay English descriptions from the card's own name; 10 rough romanisations repaired on OSM cards; 'Sakyu' -> 'Sand Dunes'.
 
-Dead links (1086 external card links checked): 28 returned 404/410. 8 OSM cards moved to their OSM node page; 11 live cards moved to the site top page (old URL in a comment). 9 left: daisen.jp (x6), daisen-resort.jp, kurayoshi-kankou.jp (x4), geocities Midoriya; those hosts did not answer from the box either, so they need a check from another network. A further ~58 links timed out or failed TLS from the box (small shop sites) and were not changed.
+Dead links (1086 external card links checked): 28 returned 404/410. 8 OSM cards moved to their OSM node page; 10 live cards moved to the site top page (old URL in a comment). 12 left: daisen.jp (x6), daisen-resort.jp, kurayoshi-kankou.jp (x4), geocities Midoriya; those hosts did not answer from the box either, so they need a check from another network. A further ~58 links timed out or failed TLS from the box (small shop sites) and were not changed.
 
 Not done: English descriptions for old dining cards, sights without any source image (about 123), Yurihama award badges have no replacement (dropped), Izumo OSM coverage is thin (36 candidates).
