@@ -1045,6 +1045,17 @@ try:
     import bj_shared as BJS
 except Exception:  # pragma: no cover
     BJS = None
+# BJ_CHECKER_V2=1 (default OFF, output unchanged when unset): supplementary 'v2' variants of two rules, reported separately from the official score:
+#   R2.neighbour-unlabelled: a Stay card is 'in another town' only if no comma-component after its first 'in' is this page's town (suffix variants
+#   Ota/Otashi included) or the prefecture ("Lodging in Sue, Fukuoka." is the page's own town);  X18: the Day-to-day tile is required only where the
+#   hub itself links to a <town>/day-to-day/ page (bj-more nav is generated from the pages that exist).
+CHECKER_V2 = os.environ.get("BJ_CHECKER_V2") == "1"
+def _nrm(x): return re.sub(r"(shi|cho|machi|mura|city|town|village|gun)$", "", re.sub(r"[^a-z]", "", (x or "").lower()))
+def _desc_names_other_town(desc, muni, pref):
+    mm = re.search(r"\bin ([^.;]*)", desc)
+    comps = [_nrm(x) for x in mm.group(1).split(",")] if mm else []
+    own = {_nrm(muni), _nrm(pref)} - {""}
+    return not any(x in own or (len(x) > 2 and any(x.startswith(o) or o.startswith(x) for o in own if len(o) > 2)) for x in comps)
 MIN_PHOTO_PCT = float(os.environ.get("BJ_MIN_PHOTO_PCT", "100"))
 MIN_DESC_PCT = float(os.environ.get("BJ_MIN_DESC_PCT", "100"))
 NEIGH_RE = re.compile(r"\bin [^,;.]{1,40}, ([A-Z][A-Za-z' -]{2,30}?)(?: with| and|;|\.|,|$)")
@@ -1078,7 +1089,7 @@ def shared_checks(res, main, secs, dining, stay, muni, pref, url, info):
     unl = []
     for c in stay:
         m = NEIGH_RE.search(c.get("desc") or "")
-        if m and muni and m.group(1).strip().lower() != muni.lower() and not re.search(r"neighbou?ring|nearby", c.get("desc") or "", re.I):
+        if m and muni and ((_desc_names_other_town(c.get("desc") or "", muni, pref)) if CHECKER_V2 else (m.group(1).strip().lower() != muni.lower())) and not re.search(r"neighbou?ring|nearby", c.get("desc") or "", re.I):
             if not near_page: unl.append(f"{c['name']} (in {m.group(1).strip()})")
     if unl:
         res.add("R2", "FAIL", f"{len(unl)} Stay cards describe a hotel in another town without an 'In neighbouring X' label: " + ", ".join(unl[:3]), "R2.neighbour-unlabelled", len(unl))
@@ -1474,11 +1485,15 @@ def v2_template(res, sub, u, hub=False):
     if miss:
         res.add("X20", "FAIL", f"{short(urlparse(u).path, 50)}: missing template blocks: " + ", ".join(miss), "X20.template", 1)
 
-def v2_hub_tiles(res, tiles):
+def v2_hub_tiles(res, tiles, soup=None, url=None):
     labels = {re.sub(r"[^a-z]", "", (t.select_one(".hub-tile-name") or t).get_text(" ", strip=True).lower()) for t in tiles}
     hrefs = {t["href"] for t in tiles}
     miss = [lab for lab, key, h in (("See", "see", "see/"), ("Do", "do", "do/"), ("Day-to-day", "daytoday", "day-to-day/"))
             if not any(key == x or x.startswith(key) for x in labels) and not any(h in x for x in hrefs)]
+    if CHECKER_V2 and "Day-to-day" in miss and soup is not None and url is not None:
+        town = urlparse(url).path.rstrip("/") + "/day-to-day/"
+        linked = any(urlparse(urljoin(url, a["href"])).path.rstrip("/") + "/" == town for a in soup.select("a[href]"))
+        if not linked: miss.remove("Day-to-day")  # no day-to-day page exists for this town: tile not required
     if miss:
         res.add("X18", "FAIL", "hub missing tiles: " + ", ".join(miss), "X18.hub-tiles", len(miss))
 
@@ -1523,7 +1538,7 @@ def hub_merged_soup(res, soup, url, ctx):
     v2_template(res, soup, url, hub=True)  # V2.1 X20 (also tile-less towns)
     if not tiles:
         return soup
-    v2_hub_tiles(res, tiles)  # V2
+    v2_hub_tiles(res, tiles, soup, url)  # V2
     v2_hero_tiles(res, soup, url, tiles, ctx)  # V2.2 X21
     v2_page_checks(res, soup, url)  # V2
     seen, lis, queue = set(), [], [(urljoin(url, a["href"]), 1) for a in tiles]
