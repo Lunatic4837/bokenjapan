@@ -24,7 +24,7 @@ STAY_JA = (('旅館', 'Ryokan inn'), ('民宿', 'Minshuku guesthouse'), ('ペン
 STAY_EN = (('ryokan', 'Ryokan inn'), ('minpaku', 'Guesthouse'), ('minshuku', 'Minshuku guesthouse'), ('pension', 'Pension'), ('hostel', 'Hostel'),
            ('guest ?house', 'Guesthouse'), ('hotel', 'Hotel'), ('inn', 'Inn'), ('lodge', 'Lodge'), ('resort', 'Resort'))
 DESC_RE = re.compile(r'<p class="place-desc">(.*?)</p>', re.S)
-UL_RE = re.compile(r'(<ul class="place-list">)(.*?)(</ul>)', re.S)
+UL_RE = re.compile(r'(<ul class="place-list"[^>]*>)(.*?)(</ul>)', re.S)
 LI_RE = re.compile(r'<li>(.*?)</li>', re.S)
 SKIP = {'tokyo', 'media', 'assets', 'data', 'scripts', 'go', 'fonts', 'sitemaps', 'photo-credits'}
 
