@@ -125,8 +125,8 @@
      "category": "Japanese (meat)"
     },
     {
-     "name": "Yakiniku (grilled meat) restaurant in Ajigasawa",
-     "name_en": "Yakiniku (grilled meat) restaurant in Ajigasawa",
+     "name": "Raamen Aji Maru Hamanasu Branch",
+     "name_en": "Raamen Aji Maru Hamanasu Branch",
      "name_ja": "らーめん鰺丸 はまなす店",
      "description": "Yakiniku (grilled meat) restaurant in Ajigasawa, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0205/A020503/2005069/",
@@ -134,8 +134,8 @@
      "category": "Japanese (meat)"
     },
     {
-     "name": "Ramen shop in Ajigasawa",
-     "name_en": "Ramen shop in Ajigasawa",
+     "name": "Raamen Hiroshi",
+     "name_en": "Raamen Hiroshi",
      "name_ja": "らーめん寛",
      "description": "Ramen shop in Ajigasawa, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0205/A020503/2001561/",
@@ -191,6 +191,7 @@
      "name": "Akabane-ya Isobe Shoten",
      "name_en": "Akabane-ya Isobe Shoten",
      "name_ja": "赤羽屋 磯辺商店",
+     "description": "Restaurant in Ajigasawa, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0205/A020503/2013763/",
      "page": "https://bokenjapan.com/aomori/ajigasawa/eat/other/",
      "category": "Other"
@@ -305,7 +306,7 @@
      "name": "Hotel Grand Mer Sankaiso",
      "name_en": "Hotel Grand Mer Sankaiso",
      "name_ja": "ホテルグランメール山海荘",
-     "description": "All-inclusive hot spring resort hotel in Naruto, Maido, Ajigasawa.",
+     "description": "All-inclusive hot spring resort hotel in Ajigasawa (Naruto, Maido).",
      "source_url": "https://www.jalan.net/yad325838/",
      "page": "https://bokenjapan.com/aomori/ajigasawa/stay/"
     },
@@ -561,6 +562,7 @@
      "name": "SEO Tokyo Aomori Ekimae branch",
      "name_en": "SEO Tokyo Aomori Ekimae branch",
      "name_ja": "SEO TOKYO 青森駅前店",
+     "description": "Restaurant in Aomori, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0201/A020101/2013658/",
      "page": "https://bokenjapan.com/aomori/aomori/eat/other/",
      "category": "Other"
@@ -854,7 +856,7 @@
      "name": "Nanbuya Kaisenkaku",
      "name_en": "Nanbuya Kaisenkaku",
      "name_ja": "南部屋・海扇閣（なんぶや・かいせんかく）",
-     "description": "Lodging in Hotarudani, Asamushi, Aomori, about a 90-second walk from Asamushi-Onsen Station.",
+     "description": "Lodging in Aomori (Hotarudani, Asamushi), about a 90-second walk from Asamushi-Onsen Station.",
      "source_url": "https://www.jalan.net/yad325111/",
      "page": "https://bokenjapan.com/aomori/aomori/stay/"
     },
@@ -926,7 +928,7 @@
      "name": "Hakkoda Jogakura Onsen Hotel Jogakura",
      "name_en": "Hakkoda Jogakura Onsen Hotel Jogakura",
      "name_ja": "八甲田城ヶ倉温泉 ホテル城ヶ倉-HOTEL Jogakura-",
-     "description": "Hotel in the Hakkoda mountains, Arakawa, Aomori, with a year-round natural hot spring open-air bath.",
+     "description": "Hotel in Aomori (the Hakkoda mountains, Arakawa), with a year-round natural hot spring open-air bath.",
      "source_url": "https://www.jalan.net/yad393575/",
      "page": "https://bokenjapan.com/aomori/aomori/stay/"
     },
@@ -1140,6 +1142,7 @@
      "name": "Fujisaki Shokusai Terrace",
      "name_en": "Fujisaki Shokusai Terrace",
      "name_ja": "ふじさき食彩テラス",
+     "description": "Restaurant in Fujisaki, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0202/A020202/2010600/",
      "page": "https://bokenjapan.com/aomori/fujisaki/eat/other/",
      "category": "Other"
@@ -1324,6 +1327,7 @@
      "name": "Restaurant in Fukaura (#17)",
      "name_en": "Restaurant in Fukaura (#17)",
      "name_ja": "森のレストラン アオゲラ",
+     "description": "Casual restaurant in Fukaura, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0205/A020503/2006408/",
      "page": "https://bokenjapan.com/aomori/fukaura/eat/casual/",
      "category": "Casual"
@@ -1341,6 +1345,7 @@
      "name": "Casual restaurant in Fukaura (#21)",
      "name_en": "Casual restaurant in Fukaura (#21)",
      "name_ja": "王池",
+     "description": "Casual restaurant in Fukaura, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0205/A020503/2006129/",
      "page": "https://bokenjapan.com/aomori/fukaura/eat/casual/",
      "category": "Casual"
@@ -1394,6 +1399,7 @@
      "name": "Umi no Eki Fukaura Fukaura Marugoto Shijo",
      "name_en": "Umi no Eki Fukaura Fukaura Marugoto Shijo",
      "name_ja": "海の駅ふかうら 深浦まるごと市場",
+     "description": "Restaurant in Fukaura, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0205/A020503/2010488/",
      "page": "https://bokenjapan.com/aomori/fukaura/eat/other/",
      "category": "Other"
@@ -1420,6 +1426,7 @@
      "name": "Restaurant in Fukaura (#11)",
      "name_en": "Restaurant in Fukaura (#11)",
      "name_ja": "静観荘網本",
+     "description": "Restaurant in Fukaura, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0205/A020503/2006124/",
      "page": "https://bokenjapan.com/aomori/fukaura/eat/other/",
      "category": "Other"
@@ -1446,6 +1453,7 @@
      "name": "Restaurant in Fukaura (#22)",
      "name_en": "Restaurant in Fukaura (#22)",
      "name_ja": "不老ふ死温泉 売店",
+     "description": "Restaurant in Fukaura, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0205/A020503/2008872/",
      "page": "https://bokenjapan.com/aomori/fukaura/eat/other/",
      "category": "Other"
@@ -1652,6 +1660,7 @@
      "name": "Coffee house in Gonohe",
      "name_en": "Coffee house in Gonohe",
      "name_ja": "軽食喫茶 アルエット",
+     "description": "Casual restaurant in Gonohe, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020303/2011036/",
      "page": "https://bokenjapan.com/aomori/gonohe/eat/casual/",
      "category": "Casual"
@@ -1660,6 +1669,7 @@
      "name": "Casual restaurant in Gonohe",
      "name_en": "Casual restaurant in Gonohe",
      "name_ja": "旅館さ・くら屋",
+     "description": "Casual restaurant in Gonohe, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020301/2007253/",
      "page": "https://bokenjapan.com/aomori/gonohe/eat/casual/",
      "category": "Casual"
@@ -1668,6 +1678,7 @@
      "name": "Kama Lard no Ie",
      "name_en": "Kama Lard no Ie",
      "name_ja": "カマラードの家",
+     "description": "Casual restaurant in Gonohe, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020301/2013986/",
      "page": "https://bokenjapan.com/aomori/gonohe/eat/casual/",
      "category": "Casual"
@@ -1755,6 +1766,7 @@
      "name": "Restaurant in Gonohe (#11)",
      "name_en": "Restaurant in Gonohe (#11)",
      "name_ja": "ふれあい市ごのへ",
+     "description": "Restaurant in Gonohe, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020301/2010161/",
      "page": "https://bokenjapan.com/aomori/gonohe/eat/other/",
      "category": "Other"
@@ -1763,6 +1775,7 @@
      "name": "Kiku Koma Shuzo",
      "name_en": "Kiku Koma Shuzo",
      "name_ja": "菊駒酒造",
+     "description": "Restaurant in Gonohe, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020301/2009965/",
      "page": "https://bokenjapan.com/aomori/gonohe/eat/other/",
      "category": "Other"
@@ -1771,6 +1784,7 @@
      "name": "Komura Jozo",
      "name_en": "Komura Jozo",
      "name_ja": "コムラ醸造",
+     "description": "Restaurant in Gonohe, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020304/2010354/",
      "page": "https://bokenjapan.com/aomori/gonohe/eat/other/",
      "category": "Other"
@@ -1779,6 +1793,7 @@
      "name": "Yamabe Shoten",
      "name_en": "Yamabe Shoten",
      "name_ja": "山部商店",
+     "description": "Restaurant in Gonohe, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020301/2011954/",
      "page": "https://bokenjapan.com/aomori/gonohe/eat/other/",
      "category": "Other"
@@ -2066,6 +2081,7 @@
      "name": "Tsugaru Goshogawara Eki",
      "name_en": "Tsugaru Goshogawara Eki",
      "name_ja": "津軽五所川原駅",
+     "description": "Restaurant in Goshogawara, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0205/A020502/2013151/",
      "page": "https://bokenjapan.com/aomori/goshogawara/eat/other/",
      "category": "Other"
@@ -2678,7 +2694,7 @@
      "name": "Pension Benkei",
      "name_en": "Pension Benkei",
      "name_ja": "パンション弁慶",
-     "description": "Pension in Osawa, Minatomachi, Hachinohe.",
+     "description": "Pension in Hachinohe (Osawa, Minatomachi).",
      "source_url": "https://www.jalan.net/yad340892/",
      "page": "https://bokenjapan.com/aomori/hachinohe/stay/"
     },
@@ -2686,7 +2702,7 @@
      "name": "Hotel Tetra Hachinohe",
      "name_en": "Hotel Tetra Hachinohe",
      "name_ja": "ホテルテトラ八戸",
-     "description": "Hotel in Yaokari, Shiriuchimachi, Hachinohe, a seven-minute walk from Hachinohe Station east exit, with free parking.",
+     "description": "Hotel in Hachinohe (Yaokari, Shiriuchimachi), a seven-minute walk from Hachinohe Station east exit, with free parking.",
      "source_url": "https://www.jalan.net/yad317052/",
      "page": "https://bokenjapan.com/aomori/hachinohe/stay/"
     },
@@ -2710,7 +2726,7 @@
      "name": "JR-East Hotel Mets Hachinohe",
      "name_en": "JR-East Hotel Mets Hachinohe",
      "name_ja": "JR東日本ホテルメッツ 八戸",
-     "description": "Hotel in Tateda, Shiriuchimachi, Hachinohe, directly connected to Hachinohe Station.",
+     "description": "Hotel in Hachinohe (Tateda, Shiriuchimachi), directly connected to Hachinohe Station.",
      "source_url": "https://www.jalan.net/yad309606/",
      "page": "https://bokenjapan.com/aomori/hachinohe/stay/"
     },
@@ -2898,6 +2914,7 @@
      "name": "Hachinohe Country Club",
      "name_en": "Hachinohe Country Club",
      "name_ja": "八戸カントリークラブ",
+     "description": "Restaurant in Hashikami, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020301/2010395/",
      "page": "https://bokenjapan.com/aomori/hashikami/eat/other/",
      "category": "Other"
@@ -2924,6 +2941,7 @@
      "name": "Marutama Yokomichi Shoten",
      "name_en": "Marutama Yokomichi Shoten",
      "name_ja": "うにとあわびの専門店 マルタマ横道商店",
+     "description": "Restaurant in Hashikami, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020301/2011379/",
      "page": "https://bokenjapan.com/aomori/hashikami/eat/other/",
      "category": "Other"
@@ -3134,9 +3152,10 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Restaurant in Higashidori",
-     "name_en": "Restaurant in Higashidori",
+     "name": "Shiriya Gyogyo Kyodokumiai",
+     "name_en": "Shiriya Gyogyo Kyodokumiai",
      "name_ja": "尻屋漁業協同組合",
+     "description": "Restaurant in Higashidori, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020401/2012651/",
      "page": "https://bokenjapan.com/aomori/higashidori/eat/other/",
      "category": "Other"
@@ -3154,6 +3173,7 @@
      "name": "Mikuni Sake Shop",
      "name_en": "Mikuni Sake Shop",
      "name_ja": "みくに酒店",
+     "description": "Restaurant in Higashidori, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020401/2010021/",
      "page": "https://bokenjapan.com/aomori/higashidori/eat/other/",
      "category": "Other"
@@ -3171,6 +3191,7 @@
      "name": "Ido Michi Ryokan",
      "name_en": "Ido Michi Ryokan",
      "name_ja": "井戸道旅館",
+     "description": "Restaurant in Higashidori, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020402/2007097/",
      "page": "https://bokenjapan.com/aomori/higashidori/eat/other/",
      "category": "Other"
@@ -3179,6 +3200,7 @@
      "name": "Business Inn Higashidori",
      "name_en": "Business Inn Higashidori",
      "name_ja": "ビジネス・イン東通",
+     "description": "Restaurant in Higashidori, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020402/2009609/",
      "page": "https://bokenjapan.com/aomori/higashidori/eat/other/",
      "category": "Other"
@@ -3196,6 +3218,7 @@
      "name": "Yamaju",
      "name_en": "Yamaju",
      "name_ja": "やまじゅ",
+     "description": "Restaurant in Higashidori, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020402/2007096/",
      "page": "https://bokenjapan.com/aomori/higashidori/eat/other/",
      "category": "Other"
@@ -3204,6 +3227,7 @@
      "name": "Ota Ryokan",
      "name_en": "Ota Ryokan",
      "name_ja": "太田旅館",
+     "description": "Restaurant in Higashidori, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020402/2007092/",
      "page": "https://bokenjapan.com/aomori/higashidori/eat/other/",
      "category": "Other"
@@ -3212,6 +3236,7 @@
      "name": "Narita Ryokan",
      "name_en": "Narita Ryokan",
      "name_ja": "成田旅館",
+     "description": "Restaurant in Higashidori, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020402/2007095/",
      "page": "https://bokenjapan.com/aomori/higashidori/eat/other/",
      "category": "Other"
@@ -3220,6 +3245,7 @@
      "name": "Soma Ryokan",
      "name_en": "Soma Ryokan",
      "name_ja": "相馬旅館",
+     "description": "Restaurant in Higashidori, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020401/2008367/",
      "page": "https://bokenjapan.com/aomori/higashidori/eat/other/",
      "category": "Other"
@@ -3228,6 +3254,7 @@
      "name": "Ryokan Minamikawa",
      "name_en": "Ryokan Minamikawa",
      "name_ja": "旅館南川",
+     "description": "Restaurant in Higashidori, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020402/2007091/",
      "page": "https://bokenjapan.com/aomori/higashidori/eat/other/",
      "category": "Other"
@@ -3251,8 +3278,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Seafood restaurant in Higashidori",
-     "name_en": "Seafood restaurant in Higashidori",
+     "name": "Shiriya Saki Todai Bai Branch",
+     "name_en": "Shiriya Saki Todai Bai Branch",
      "name_ja": "尻屋崎灯台売店",
      "description": "Seafood restaurant in Higashidori, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020401/2000746/",
@@ -3312,7 +3339,7 @@
      "name": "Esliva House",
      "name_en": "Esliva House",
      "name_ja": "エスリバハウス",
-     "description": "Seaside holiday house in Higashidori, Aomori.",
+     "description": "Seaside holiday house in Higashidori.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/198056/198056.html",
      "page": "https://bokenjapan.com/aomori/higashidori/stay/"
     }
@@ -3460,6 +3487,7 @@
      "name": "Tsugaru Onoe Onsen Higaeri Yado Fukuya",
      "name_en": "Tsugaru Onoe Onsen Higaeri Yado Fukuya",
      "name_ja": "津軽おのえ温泉 日帰り宿 福家",
+     "description": "Restaurant in Hirakawa, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0202/A020202/2006209/",
      "page": "https://bokenjapan.com/aomori/hirakawa/eat/other/",
      "category": "Other"
@@ -3477,6 +3505,7 @@
      "name": "Saruka-so",
      "name_en": "Saruka-so",
      "name_ja": "さるか荘",
+     "description": "Restaurant in Hirakawa, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0202/A020202/2009889/",
      "page": "https://bokenjapan.com/aomori/hirakawa/eat/other/",
      "category": "Other"
@@ -3494,6 +3523,7 @@
      "name": "Sanchoku Center Hiraka",
      "name_en": "Sanchoku Center Hiraka",
      "name_ja": "産直センターひらか",
+     "description": "Restaurant in Hirakawa, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0202/A020202/2008039/",
      "page": "https://bokenjapan.com/aomori/hirakawa/eat/other/",
      "category": "Other"
@@ -3502,6 +3532,7 @@
      "name": "Takasago Shokuhin",
      "name_en": "Takasago Shokuhin",
      "name_ja": "高砂食品",
+     "description": "Restaurant in Hirakawa, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0202/A020202/2012449/",
      "page": "https://bokenjapan.com/aomori/hirakawa/eat/other/",
      "category": "Other"
@@ -3795,6 +3826,7 @@
      "name": "Arako Suisan",
      "name_en": "Arako Suisan",
      "name_ja": "有限会社アラコウ水産",
+     "description": "Restaurant in Hiranai, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0201/A020102/2010171/",
      "page": "https://bokenjapan.com/aomori/hiranai/eat/other/",
      "category": "Other"
@@ -3803,6 +3835,7 @@
      "name": "Mori To Kawa To Umi Hotate Hiroba",
      "name_en": "Mori To Kawa To Umi Hotate Hiroba",
      "name_ja": "森と川と海ほたて広場",
+     "description": "Restaurant in Hiranai, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0201/A020101/2007673/",
      "page": "https://bokenjapan.com/aomori/hiranai/eat/other/",
      "category": "Other"
@@ -4609,7 +4642,7 @@
      "name": "Kaikyo no Ie Horozuki",
      "name_en": "Kaikyo no Ie Horozuki",
      "name_ja": "海峡の家ほろづき",
-     "description": "Former school turned self-catering lodge in Imabetsu, Aomori.",
+     "description": "Former school turned self-catering lodge in Imabetsu.",
      "source_url": "https://www.town.imabetsu.lg.jp/sightseeing/tourist/horoduki.html",
      "page": "https://bokenjapan.com/aomori/imabetsu/stay/"
     },
@@ -4617,7 +4650,7 @@
      "name": "Minshuku Kawabata",
      "name_en": "Minshuku Kawabata",
      "name_ja": "民宿川端",
-     "description": "Guesthouse (minshuku) in Imabetsu, Aomori.",
+     "description": "Guesthouse (minshuku) in Imabetsu.",
      "source_url": "https://www.town.imabetsu.lg.jp/sightseeing/lodging/",
      "page": "https://bokenjapan.com/aomori/imabetsu/stay/"
     },
@@ -4625,7 +4658,7 @@
      "name": "Guesthouse (minshuku) in Imabetsu",
      "name_en": "Guesthouse (minshuku) in Imabetsu",
      "name_ja": "Café＆民宿風の丘",
-     "description": "Guesthouse (minshuku), April to November in Imabetsu, Aomori.",
+     "description": "Guesthouse (minshuku), April to November in Imabetsu.",
      "source_url": "https://www.town.imabetsu.lg.jp/sightseeing/lodging/",
      "page": "https://bokenjapan.com/aomori/imabetsu/stay/"
     },
@@ -4633,7 +4666,7 @@
      "name": "Farm Stay Araumanosato",
      "name_en": "Farm Stay Araumanosato",
      "name_ja": "農家民宿 荒馬の里",
-     "description": "Farm guesthouse in a restored old house in Imabetsu, Aomori.",
+     "description": "Farm guesthouse in a restored old house in Imabetsu.",
      "source_url": "https://www.town.imabetsu.lg.jp/sightseeing/lodging/",
      "page": "https://bokenjapan.com/aomori/imabetsu/stay/"
     }
@@ -4877,6 +4910,7 @@
      "name": "Janbo Arare Honpo",
      "name_en": "Janbo Arare Honpo",
      "name_ja": "ジャンボあられ本舗",
+     "description": "Restaurant in Inakadate, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0202/A020202/2009870/",
      "page": "https://bokenjapan.com/aomori/inakadate/eat/other/",
      "category": "Other"
@@ -4885,6 +4919,7 @@
      "name": "Restaurant in Inakadate",
      "name_en": "Restaurant in Inakadate",
      "name_ja": "田さ恋いむら",
+     "description": "Restaurant in Inakadate, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0202/A020202/2010117/",
      "page": "https://bokenjapan.com/aomori/inakadate/eat/other/",
      "category": "Other"
@@ -4939,7 +4974,7 @@
      "name": "PittINN Inakadate",
      "name_en": "PittINN Inakadate",
      "name_ja": "民泊宿屋 PittINN 田舎館",
-     "description": "Private guesthouse in Inakadate, Aomori.",
+     "description": "Private guesthouse in Inakadate.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/172021/172021.html",
      "page": "https://bokenjapan.com/aomori/inakadate/stay/"
     },
@@ -4947,7 +4982,7 @@
      "name": "Inaka no Kakurega Cottage Hideaway",
      "name_en": "Inaka no Kakurega Cottage Hideaway",
      "name_ja": "田舎の隠れ家 Cottage Hideaway",
-     "description": "Cottage in Inakadate, Aomori.",
+     "description": "Cottage in Inakadate.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/185979/185979.html",
      "page": "https://bokenjapan.com/aomori/inakadate/stay/"
     }
@@ -5016,6 +5051,7 @@
      "name": "Diner in Itayanagi",
      "name_en": "Diner in Itayanagi",
      "name_ja": "高増食堂",
+     "description": "Casual restaurant in Itayanagi, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0202/A020202/2003580/",
      "page": "https://bokenjapan.com/aomori/itayanagi/eat/casual/",
      "category": "Casual"
@@ -5140,6 +5176,7 @@
      "name": "Restaurant in Itayanagi",
      "name_en": "Restaurant in Itayanagi",
      "name_ja": "とれたて市",
+     "description": "Restaurant in Itayanagi, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0202/A020202/2012711/",
      "page": "https://bokenjapan.com/aomori/itayanagi/eat/other/",
      "category": "Other"
@@ -5148,6 +5185,7 @@
      "name": "Ringo Kashi Kobo",
      "name_en": "Ringo Kashi Kobo",
      "name_ja": "りんご菓子工房",
+     "description": "Restaurant in Itayanagi, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0202/A020202/2012394/",
      "page": "https://bokenjapan.com/aomori/itayanagi/eat/other/",
      "category": "Other"
@@ -5235,7 +5273,7 @@
      "name": "Itayanagi Furusato Center Family Cottages",
      "name_en": "Itayanagi Furusato Center Family Cottages",
      "name_ja": "板柳町ふるさとセンター ファミリーコテージ",
-     "description": "Hiba-wood cottages in Itayanagi, Aomori.",
+     "description": "Hiba-wood cottages in Itayanagi.",
      "source_url": "https://www.town.itayanagi.aomori.jp/facility/index.php?FacilityID=00000021",
      "page": "https://bokenjapan.com/aomori/itayanagi/stay/"
     }
@@ -5317,6 +5355,7 @@
      "name": "Ogiya Ryokan",
      "name_en": "Ogiya Ryokan",
      "name_ja": "おおぎや旅館",
+     "description": "Restaurant in Kazamaura, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020403/2006761/",
      "page": "https://bokenjapan.com/aomori/kazamaura/eat/other/",
      "category": "Other"
@@ -5325,6 +5364,7 @@
      "name": "Sasaki Ryokan",
      "name_en": "Sasaki Ryokan",
      "name_ja": "佐々木旅館",
+     "description": "Restaurant in Kazamaura, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020403/2006762/",
      "page": "https://bokenjapan.com/aomori/kazamaura/eat/other/",
      "category": "Other"
@@ -5342,6 +5382,7 @@
      "name": "Tsubota Ryokan",
      "name_en": "Tsubota Ryokan",
      "name_ja": "坪田旅館",
+     "description": "Restaurant in Kazamaura, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020403/2006760/",
      "page": "https://bokenjapan.com/aomori/kazamaura/eat/other/",
      "category": "Other"
@@ -5368,6 +5409,7 @@
      "name": "Minshuku Mitsui",
      "name_en": "Minshuku Mitsui",
      "name_ja": "民宿 三井",
+     "description": "Restaurant in Kazamaura, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020403/2007021/",
      "page": "https://bokenjapan.com/aomori/kazamaura/eat/other/",
      "category": "Other"
@@ -5376,6 +5418,7 @@
      "name": "Restaurant in Kazamaura",
      "name_en": "Restaurant in Kazamaura",
      "name_ja": "桑畑温泉 湯ん湯ん",
+     "description": "Restaurant in Kazamaura, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020403/2010164/",
      "page": "https://bokenjapan.com/aomori/kazamaura/eat/other/",
      "category": "Other"
@@ -5699,6 +5742,7 @@
      "name": "Tsugaru Komise Eki",
      "name_en": "Tsugaru Komise Eki",
      "name_ja": "津軽こみせ駅",
+     "description": "Restaurant in Kuroishi, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0202/A020203/2011850/",
      "page": "https://bokenjapan.com/aomori/kuroishi/eat/other/",
      "category": "Other"
@@ -5984,6 +6028,7 @@
      "name": "Kako Kako",
      "name_en": "Kako Kako",
      "name_ja": "かこ（水主）",
+     "description": "Izakaya or bar in Misawa, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020303/2003048/",
      "page": "https://bokenjapan.com/aomori/misawa/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -6037,6 +6082,7 @@
      "name": "Ajiotome Shop",
      "name_en": "Ajiotome Shop",
      "name_ja": "あじおとめショップ",
+     "description": "Restaurant in Misawa, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020303/2011803/",
      "page": "https://bokenjapan.com/aomori/misawa/eat/other/",
      "category": "Other"
@@ -6317,8 +6363,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Soba restaurant in Mutsu",
-     "name_en": "Soba restaurant in Mutsu",
+     "name": "Matsukiya Shokudo",
+     "name_en": "Matsukiya Shokudo",
      "name_ja": "松木屋食堂",
      "description": "Soba restaurant in Mutsu, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020401/2013187/",
@@ -6355,6 +6401,7 @@
      "name": "Restaurant in Mutsu",
      "name_en": "Restaurant in Mutsu",
      "name_ja": "チャーリーズジャム",
+     "description": "Restaurant in Mutsu, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020401/2010151/",
      "page": "https://bokenjapan.com/aomori/mutsu/eat/other/",
      "category": "Other"
@@ -6363,6 +6410,7 @@
      "name": "Kita Sai-ya",
      "name_en": "Kita Sai-ya",
      "name_ja": "北彩屋",
+     "description": "Restaurant in Mutsu, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020401/2010925/",
      "page": "https://bokenjapan.com/aomori/mutsu/eat/other/",
      "category": "Other"
@@ -6371,6 +6419,7 @@
      "name": "Kaisan Shokuhin Minamiya",
      "name_en": "Kaisan Shokuhin Minamiya",
      "name_ja": "海産食品 みなみや",
+     "description": "Restaurant in Mutsu, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020401/2010052/",
      "page": "https://bokenjapan.com/aomori/mutsu/eat/other/",
      "category": "Other"
@@ -6571,6 +6620,7 @@
      "name": "Ama",
      "name_en": "Ama",
      "name_ja": "海人",
+     "description": "Casual restaurant in Nakadomari, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0205/A020502/2012723/",
      "page": "https://bokenjapan.com/aomori/nakadomari/eat/casual/",
      "category": "Casual"
@@ -6579,6 +6629,7 @@
      "name": "Daifuku",
      "name_en": "Daifuku",
      "name_ja": "大福",
+     "description": "Casual restaurant in Nakadomari, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0205/A020502/2009208/",
      "page": "https://bokenjapan.com/aomori/nakadomari/eat/casual/",
      "category": "Casual"
@@ -6587,6 +6638,7 @@
      "name": "Maru Kiyoshi Shokudo",
      "name_en": "Maru Kiyoshi Shokudo",
      "name_ja": "マル清食堂",
+     "description": "Casual restaurant in Nakadomari, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0205/A020502/2008993/",
      "page": "https://bokenjapan.com/aomori/nakadomari/eat/casual/",
      "category": "Casual"
@@ -6619,8 +6671,8 @@
      "category": "Izakaya & bars"
     },
     {
-     "name": "Ramen shop in Nakadomari",
-     "name_en": "Ramen shop in Nakadomari",
+     "name": "Raamen Ichibantei",
+     "name_en": "Raamen Ichibantei",
      "name_ja": "らーめん一番亭",
      "description": "Ramen shop in Nakadomari, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0205/A020502/2008938/",
@@ -6637,8 +6689,8 @@
      "category": "Other"
     },
     {
-     "name": "Inn restaurant in Nakadomari",
-     "name_en": "Inn restaurant in Nakadomari",
+     "name": "Tsugaru Kodomari Kan",
+     "name_en": "Tsugaru Kodomari Kan",
      "name_ja": "津軽小泊館",
      "description": "Inn restaurant in Nakadomari, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0205/A020502/2009226/",
@@ -6658,6 +6710,7 @@
      "name": "Sawada Shidashi Shop",
      "name_en": "Sawada Shidashi Shop",
      "name_ja": "澤田仕出し店",
+     "description": "Restaurant in Nakadomari, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0205/A020502/2009211/",
      "page": "https://bokenjapan.com/aomori/nakadomari/eat/other/",
      "category": "Other"
@@ -6666,6 +6719,7 @@
      "name": "Shidashi Tokoro Ryusa",
      "name_en": "Shidashi Tokoro Ryusa",
      "name_ja": "仕出し処隆佐",
+     "description": "Restaurant in Nakadomari, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0205/A020502/2009212/",
      "page": "https://bokenjapan.com/aomori/nakadomari/eat/other/",
      "category": "Other"
@@ -6801,7 +6855,7 @@
      "name": "Fukusuke Ryokan",
      "name_en": "Fukusuke Ryokan",
      "name_ja": "福助旅館",
-     "description": "Ryokan inn in Nakadomari, Aomori.",
+     "description": "Ryokan inn in Nakadomari.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/178906/178906.html",
      "page": "https://bokenjapan.com/aomori/nakadomari/stay/"
     }
@@ -6944,6 +6998,7 @@
      "name": "Noda Shidashi Shop",
      "name_en": "Noda Shidashi Shop",
      "name_ja": "野田仕出し店",
+     "description": "Restaurant in Nanbucho, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020301/2009768/",
      "page": "https://bokenjapan.com/aomori/nanbucho/eat/other/",
      "category": "Other"
@@ -6988,6 +7043,7 @@
      "name": "Hirata Shoten",
      "name_en": "Hirata Shoten",
      "name_ja": "平田商店",
+     "description": "Restaurant in Nanbucho, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020301/2009774/",
      "page": "https://bokenjapan.com/aomori/nanbucho/eat/other/",
      "category": "Other"
@@ -7160,6 +7216,7 @@
      "name": "Bunako Cafe",
      "name_en": "Bunako Cafe",
      "name_ja": "ブナコ カフェ",
+     "description": "Cafe in Nishimeya, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0202/A020201/2010368/",
      "page": "https://bokenjapan.com/aomori/nishimeya/eat/cafe/",
      "category": "Cafe"
@@ -7177,6 +7234,7 @@
      "name": "Shirakami Baisen Sha",
      "name_en": "Shirakami Baisen Sha",
      "name_ja": "白神焙煎舎",
+     "description": "Cafe in Nishimeya, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0202/A020204/2011019/",
      "page": "https://bokenjapan.com/aomori/nishimeya/eat/cafe/",
      "category": "Cafe"
@@ -7308,7 +7366,7 @@
      "name": "Oaki Onsen Buna no Sato Shirakamikan",
      "name_en": "Oaki Onsen Buna no Sato Shirakamikan",
      "name_ja": "大秋温泉 ブナの里白神館",
-     "description": "Hot spring hotel in Kanda, Tashiro, Nishimeya.",
+     "description": "Hot spring hotel in Nishimeya (Kanda, Tashiro).",
      "source_url": "https://www.jalan.net/yad321716/",
      "page": "https://bokenjapan.com/aomori/nishimeya/stay/"
     },
@@ -7491,8 +7549,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Ramen in Noheji, near Noheji Station (#10)",
-     "name_en": "Ramen in Noheji, near Noheji Station (#10)",
+     "name": "Ganko Raamen Yamaju",
+     "name_en": "Ganko Raamen Yamaju",
      "name_ja": "頑固らーめん やまじゅう",
      "description": "Ramen; 1,363 m from Noheji Station; budget up to ¥999.",
      "source_url": "https://tabelog.com/aomori/A0204/A020402/2008886/",
@@ -7539,6 +7597,7 @@
      "name": "Joyato Shijo",
      "name_en": "Joyato Shijo",
      "name_ja": "常夜燈市場",
+     "description": "Restaurant in Noheji, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020402/2009928/",
      "page": "https://bokenjapan.com/aomori/noheji/eat/other/",
      "category": "Other"
@@ -7562,8 +7621,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Cake shop in Noheji",
-     "name_en": "Cake shop in Noheji",
+     "name": "Ominatoya Seika Shinmachi Branch",
+     "name_en": "Ominatoya Seika Shinmachi Branch",
      "name_ja": "大湊屋製菓 新町店",
      "description": "Cake shop in Noheji, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020402/2000975/",
@@ -7749,8 +7808,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Ramen shop in Oirase",
-     "name_en": "Ramen shop in Oirase",
+     "name": "Raamentsukemen Sen",
+     "name_en": "Raamentsukemen Sen",
      "name_ja": "らーめんつけめん専",
      "description": "Ramen shop in Oirase, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020303/2005033/",
@@ -7770,6 +7829,7 @@
      "name": "Restaurant in Oirase",
      "name_en": "Restaurant in Oirase",
      "name_ja": "ファーマーズマルシェ Hitotsubu",
+     "description": "Restaurant in Oirase, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020303/2012096/",
      "page": "https://bokenjapan.com/aomori/oirase/eat/other/",
      "category": "Other"
@@ -7778,6 +7838,7 @@
      "name": "Seiniku Senmon Ro3 AEON Mall Shimoda branch",
      "name_en": "Seiniku Senmon Ro3 AEON Mall Shimoda branch",
      "name_ja": "精肉専門 Ro3 イオンモール下田店",
+     "description": "Restaurant in Oirase, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020303/2011368/",
      "page": "https://bokenjapan.com/aomori/oirase/eat/other/",
      "category": "Other"
@@ -7786,6 +7847,7 @@
      "name": "Oirasse Momo Kawa",
      "name_en": "Oirasse Momo Kawa",
      "name_ja": "おいらっせ桃川",
+     "description": "Restaurant in Oirase, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020303/2010297/",
      "page": "https://bokenjapan.com/aomori/oirase/eat/other/",
      "category": "Other"
@@ -7803,6 +7865,7 @@
      "name": "AEON Shokuhin-kan Shimoda branch",
      "name_en": "AEON Shokuhin-kan Shimoda branch",
      "name_ja": "イオン食品館 下田店",
+     "description": "Restaurant in Oirase, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020303/2010317/",
      "page": "https://bokenjapan.com/aomori/oirase/eat/other/",
      "category": "Other"
@@ -7920,7 +7983,7 @@
      "name": "Ryokan Takahashi",
      "name_en": "Ryokan Takahashi",
      "name_ja": "旅館 高橋",
-     "description": "Ryokan inn in Momoishi in Oirase, Aomori.",
+     "description": "Ryokan inn in Momoishi in Oirase.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/40257/40257.html",
      "page": "https://bokenjapan.com/aomori/oirase/stay/"
     },
@@ -7928,7 +7991,7 @@
      "name": "Michinoku Sunny Flat Oirase",
      "name_en": "Michinoku Sunny Flat Oirase",
      "name_ja": "みちのくサニーフラット おいらせ店",
-     "description": "Apartment hotel in Oirase, Aomori.",
+     "description": "Apartment hotel in Oirase.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/197968/197968.html",
      "page": "https://bokenjapan.com/aomori/oirase/stay/"
     }
@@ -8058,6 +8121,7 @@
      "name": "Abe Ryokan",
      "name_en": "Abe Ryokan",
      "name_ja": "あべ旅館",
+     "description": "Restaurant in Oma, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020403/2007049/",
      "page": "https://bokenjapan.com/aomori/oma/eat/other/",
      "category": "Other"
@@ -8066,6 +8130,7 @@
      "name": "Sakana Tadashi",
      "name_en": "Sakana Tadashi",
      "name_ja": "魚忠",
+     "description": "Restaurant in Oma, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020403/2010268/",
      "page": "https://bokenjapan.com/aomori/oma/eat/other/",
      "category": "Other"
@@ -8074,6 +8139,7 @@
      "name": "Oma Kanko Miyage Center",
      "name_en": "Oma Kanko Miyage Center",
      "name_ja": "大間観光土産センター",
+     "description": "Restaurant in Oma, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020403/2006028/",
      "page": "https://bokenjapan.com/aomori/oma/eat/other/",
      "category": "Other"
@@ -8091,6 +8157,7 @@
      "name": "Onjuku Kamome",
      "name_en": "Onjuku Kamome",
      "name_ja": "御宿 かもめ",
+     "description": "Restaurant in Oma, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020403/2008373/",
      "page": "https://bokenjapan.com/aomori/oma/eat/other/",
      "category": "Other"
@@ -8099,6 +8166,7 @@
      "name": "Oma-tei Restaurant",
      "name_en": "Oma-tei Restaurant",
      "name_ja": "大間亭レストラン",
+     "description": "Restaurant in Oma, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020403/2009067/",
      "page": "https://bokenjapan.com/aomori/oma/eat/other/",
      "category": "Other"
@@ -8447,6 +8515,7 @@
      "name": "Nama Hamu Kobo",
      "name_en": "Nama Hamu Kobo",
      "name_ja": "おおわに自然村 生ハム工房",
+     "description": "Restaurant in Owani, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0202/A020205/2011388/",
      "page": "https://bokenjapan.com/aomori/owani/eat/other/",
      "category": "Other"
@@ -8540,7 +8609,7 @@
      "name": "Yamani Senyu-kan",
      "name_en": "Yamani Senyu-kan",
      "name_ja": "登録有形文化財の宿 ヤマニ仙遊館",
-     "description": "Registered tangible cultural property inn in Muraoka, Kuradate, Owani, where Osamu Dazai recuperated.",
+     "description": "Registered tangible cultural property inn in Owani (Muraoka, Kuradate), where Osamu Dazai recuperated.",
      "source_url": "https://www.jalan.net/yad316808/",
      "page": "https://bokenjapan.com/aomori/owani/stay/"
     },
@@ -8556,7 +8625,7 @@
      "name": "Owani Onsen Fujiya Hotel",
      "name_en": "Owani Onsen Fujiya Hotel",
      "name_ja": "大鰐温泉 不二やホテル",
-     "description": "Onsen hotel in Kawarada, Kuradate, Owani, with free-flowing hot spring water, founded 100 years ago.",
+     "description": "Onsen hotel in Owani (Kawarada, Kuradate), with free-flowing hot spring water, founded 100 years ago.",
      "source_url": "https://www.jalan.net/yad322350/",
      "page": "https://bokenjapan.com/aomori/owani/stay/"
     },
@@ -8564,7 +8633,7 @@
      "name": "Aomori Winery Hotel",
      "name_en": "Aomori Winery Hotel",
      "name_ja": "青森ワイナリーホテル",
-     "description": "Hotel with an attached winery in Takinosawa, Shimada, Owani, at 550 m overlooking the Tsugaru Plain.",
+     "description": "Hotel with an attached winery in Owani (Takinosawa, Shimada), at 550 m overlooking the Tsugaru Plain.",
      "source_url": "https://www.jalan.net/yad303354/",
      "page": "https://bokenjapan.com/aomori/owani/stay/"
     },
@@ -8614,8 +8683,8 @@
    ],
    "food": [
     {
-     "name": "Coffee shop in Rokkasho (#5)",
-     "name_en": "Coffee shop in Rokkasho (#5)",
+     "name": "Kissa Maaburu",
+     "name_en": "Kissa Maaburu",
      "name_ja": "喫茶 まーぶる",
      "description": "Coffee shop in Rokkasho, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020402/2011788/",
@@ -8641,8 +8710,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Casual restaurant in Rokkasho",
-     "name_en": "Casual restaurant in Rokkasho",
+     "name": "Abuniiru",
+     "name_en": "Abuniiru",
      "name_ja": "あぶにーる",
      "description": "Diner; budget up to ¥999.",
      "source_url": "https://tabelog.com/aomori/A0204/A020402/2009174/",
@@ -8752,6 +8821,7 @@
      "name": "Kimura-ya",
      "name_en": "Kimura-ya",
      "name_ja": "木村屋",
+     "description": "Restaurant in Rokkasho, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020402/2010977/",
      "page": "https://bokenjapan.com/aomori/rokkasho/eat/other/",
      "category": "Other"
@@ -8769,6 +8839,7 @@
      "name": "Noji Kumiai Hojin Okayama Bokujo",
      "name_en": "Noji Kumiai Hojin Okayama Bokujo",
      "name_ja": "農事組合法人岡山牧場",
+     "description": "Restaurant in Rokkasho, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020402/2010893/",
      "page": "https://bokenjapan.com/aomori/rokkasho/eat/other/",
      "category": "Other"
@@ -8777,6 +8848,7 @@
      "name": "Roku Jun-kan",
      "name_en": "Roku Jun-kan",
      "name_ja": "六旬館",
+     "description": "Restaurant in Rokkasho, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020402/2011008/",
      "page": "https://bokenjapan.com/aomori/rokkasho/eat/other/",
      "category": "Other"
@@ -8803,6 +8875,7 @@
      "name": "Spa House Rokkapokka",
      "name_en": "Spa House Rokkapokka",
      "name_ja": "スパハウス ろっかぽっか",
+     "description": "Restaurant in Rokkasho, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020402/2011586/",
      "page": "https://bokenjapan.com/aomori/rokkasho/eat/other/",
      "category": "Other"
@@ -9058,6 +9131,7 @@
      "name": "Towada Kokusai Country Club",
      "name_en": "Towada Kokusai Country Club",
      "name_ja": "十和田国際カントリークラブ",
+     "description": "Restaurant in Rokunohe, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020303/2009585/",
      "page": "https://bokenjapan.com/aomori/rokunohe/eat/other/",
      "category": "Other"
@@ -9066,6 +9140,7 @@
      "name": "Restaurant in Rokunohe",
      "name_en": "Restaurant in Rokunohe",
      "name_ja": "ベルキー",
+     "description": "Restaurant in Rokunohe, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020303/2009334/",
      "page": "https://bokenjapan.com/aomori/rokunohe/eat/other/",
      "category": "Other"
@@ -9156,7 +9231,7 @@
      "name": "Rokunohe Onsen",
      "name_en": "Rokunohe Onsen",
      "name_ja": "六戸温泉",
-     "description": "Onsen lodging in Rokunohe, Aomori.",
+     "description": "Onsen lodging in Rokunohe.",
      "source_url": "https://www.town.rokunohe.aomori.jp/docs/2022051100072/",
      "page": "https://bokenjapan.com/aomori/rokunohe/stay/"
     },
@@ -9164,7 +9239,7 @@
      "name": "Rokunohe Health Center",
      "name_en": "Rokunohe Health Center",
      "name_ja": "六戸ヘルスセンター",
-     "description": "Onsen lodging in Rokunohe, Aomori.",
+     "description": "Onsen lodging in Rokunohe.",
      "source_url": "https://www.town.rokunohe.aomori.jp/docs/2022051100072/",
      "page": "https://bokenjapan.com/aomori/rokunohe/stay/"
     }
@@ -9213,8 +9288,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Café in Sai",
-     "name_en": "Café in Sai",
+     "name": "Kissa Branch Popiizu",
+     "name_en": "Kissa Branch Popiizu",
      "name_ja": "喫茶店ポピーズ",
      "description": "Café in Sai, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020403/2005972/",
@@ -9270,6 +9345,7 @@
      "name": "Tezu Kuri Mart",
      "name_en": "Tezu Kuri Mart",
      "name_ja": "手づくりマート",
+     "description": "Restaurant in Sai, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020403/2010433/",
      "page": "https://bokenjapan.com/aomori/sai/eat/other/",
      "category": "Other"
@@ -9278,6 +9354,7 @@
      "name": "Tsugaru Kaikyo Bunkakan Arsas, Shiosai Hall",
      "name_en": "Tsugaru Kaikyo Bunkakan Arsas, Shiosai Hall",
      "name_ja": "津軽海峡文化館アルサス しおさいホール",
+     "description": "Restaurant in Sai, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020403/2010539/",
      "page": "https://bokenjapan.com/aomori/sai/eat/other/",
      "category": "Other"
@@ -9295,6 +9372,7 @@
      "name": "Restaurant in Sai",
      "name_en": "Restaurant in Sai",
      "name_ja": "牛滝まだぁ～る 海の駅",
+     "description": "Restaurant in Sai, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020404/2010448/",
      "page": "https://bokenjapan.com/aomori/sai/eat/other/",
      "category": "Other"
@@ -9312,6 +9390,7 @@
      "name": "Fukuju-so",
      "name_en": "Fukuju-so",
      "name_ja": "福寿荘",
+     "description": "Restaurant in Sai, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020404/2007034/",
      "page": "https://bokenjapan.com/aomori/sai/eat/other/",
      "category": "Other"
@@ -9320,6 +9399,7 @@
      "name": "Yuzuki-so",
      "name_en": "Yuzuki-so",
      "name_ja": "ゆづき荘",
+     "description": "Restaurant in Sai, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020404/2007039/",
      "page": "https://bokenjapan.com/aomori/sai/eat/other/",
      "category": "Other"
@@ -9337,6 +9417,7 @@
      "name": "Minshuku Yoshie Maru",
      "name_en": "Minshuku Yoshie Maru",
      "name_ja": "民宿 芳栄丸",
+     "description": "Restaurant in Sai, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020403/2007036/",
      "page": "https://bokenjapan.com/aomori/sai/eat/other/",
      "category": "Other"
@@ -9635,6 +9716,7 @@
      "name": "Chuhei Senbei Shop",
      "name_en": "Chuhei Senbei Shop",
      "name_ja": "中平せんべい店",
+     "description": "Restaurant in Sannoe, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020302/2009831/",
      "page": "https://bokenjapan.com/aomori/sannoe/eat/other/",
      "category": "Other"
@@ -9652,6 +9734,7 @@
      "name": "Matsubara Senbei Shop",
      "name_en": "Matsubara Senbei Shop",
      "name_ja": "松原煎餅店",
+     "description": "Restaurant in Sannoe, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020302/2009833/",
      "page": "https://bokenjapan.com/aomori/sannoe/eat/other/",
      "category": "Other"
@@ -9660,6 +9743,7 @@
      "name": "SAN SUN Sanchoku Hiroba",
      "name_en": "SAN SUN Sanchoku Hiroba",
      "name_ja": "SAN・SUN産直ひろば",
+     "description": "Restaurant in Sannoe, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020302/2006944/",
      "page": "https://bokenjapan.com/aomori/sannoe/eat/other/",
      "category": "Other"
@@ -9722,6 +9806,7 @@
      "name": "Angahiratasenbei Shop",
      "name_en": "Angahiratasenbei Shop",
      "name_ja": "安ヶ平せんべい店",
+     "description": "Sweets and bakery shop in Sannoe, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020302/2011962/",
      "page": "https://bokenjapan.com/aomori/sannoe/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -9730,6 +9815,7 @@
      "name": "Shimomura Kashi Shop",
      "name_en": "Shimomura Kashi Shop",
      "name_ja": "下村菓子店",
+     "description": "Sweets and bakery shop in Sannoe, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020302/2006931/",
      "page": "https://bokenjapan.com/aomori/sannoe/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -9738,6 +9824,7 @@
      "name": "Tachibana Gyunyu Shop",
      "name_en": "Tachibana Gyunyu Shop",
      "name_ja": "立花牛乳店",
+     "description": "Sweets and bakery shop in Sannoe, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020302/2000594/",
      "page": "https://bokenjapan.com/aomori/sannoe/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -10013,6 +10100,7 @@
      "name": "Shichinohe Machi Kanko Koryu Center Kissa branch",
      "name_en": "Shichinohe Machi Kanko Koryu Center Kissa branch",
      "name_ja": "七戸町観光交流センター 喫茶店",
+     "description": "Restaurant in Shichinohe, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020301/2008638/",
      "page": "https://bokenjapan.com/aomori/shichinohe/eat/other/",
      "category": "Other"
@@ -10021,6 +10109,7 @@
      "name": "Shichinohe Machi Kanko Koryu Center",
      "name_en": "Shichinohe Machi Kanko Koryu Center",
      "name_ja": "七戸町観光交流センター",
+     "description": "Restaurant in Shichinohe, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020301/2009583/",
      "page": "https://bokenjapan.com/aomori/shichinohe/eat/other/",
      "category": "Other"
@@ -10029,6 +10118,7 @@
      "name": "Tenmabayashi Shidashi Center",
      "name_en": "Tenmabayashi Shidashi Center",
      "name_ja": "天間林仕出しセンター",
+     "description": "Restaurant in Shichinohe, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020304/2006454/",
      "page": "https://bokenjapan.com/aomori/shichinohe/eat/other/",
      "category": "Other"
@@ -10170,6 +10260,7 @@
      "name": "Meigataira Shimoni",
      "name_en": "Meigataira Shimoni",
      "name_ja": "迷ヶ平 しもに",
+     "description": "Restaurant in Shingo, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020304/2011120/",
      "page": "https://bokenjapan.com/aomori/shingo/eat/other/",
      "category": "Other"
@@ -10251,7 +10342,7 @@
      "name": "Shingo Onsen-kan",
      "name_en": "Shingo Onsen-kan",
      "name_ja": "新郷温泉館",
-     "description": "Onsen with room-only stays in Shingo, Aomori.",
+     "description": "Onsen with room-only stays in Shingo.",
      "source_url": "https://www.vill.shingo.aomori.jp/sight/onsensyukuhaku/onsenkan/",
      "page": "https://bokenjapan.com/aomori/shingo/stay/"
     },
@@ -10259,7 +10350,7 @@
      "name": "Makinotai Green Park Bungalows",
      "name_en": "Makinotai Green Park Bungalows",
      "name_ja": "間木ノ平グリーンパーク バンガロー",
-     "description": "Bungalows, late April to early November in Shingo, Aomori.",
+     "description": "Bungalows, late April to early November in Shingo.",
      "source_url": "https://www.marumarushingo.com/?mode=f4",
      "page": "https://bokenjapan.com/aomori/shingo/stay/"
     }
@@ -10397,6 +10488,7 @@
      "name": "Tanaka Shoten",
      "name_en": "Tanaka Shoten",
      "name_ja": "田中商店",
+     "description": "Restaurant in Sotogahama, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0201/A020103/2010056/",
      "page": "https://bokenjapan.com/aomori/sotogahama/eat/other/",
      "category": "Other"
@@ -10414,6 +10506,7 @@
      "name": "Ishida Ryokan",
      "name_en": "Ishida Ryokan",
      "name_ja": "石田旅館",
+     "description": "Restaurant in Sotogahama, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0201/A020103/2009407/",
      "page": "https://bokenjapan.com/aomori/sotogahama/eat/other/",
      "category": "Other"
@@ -10449,6 +10542,7 @@
      "name": "Restaurant in Sotogahama",
      "name_en": "Restaurant in Sotogahama",
      "name_ja": "平舘不老ふ死温泉",
+     "description": "Restaurant in Sotogahama, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0201/A020103/2007194/",
      "page": "https://bokenjapan.com/aomori/sotogahama/eat/other/",
      "category": "Other"
@@ -10718,6 +10812,7 @@
      "name": "Niku no Hiroaki",
      "name_en": "Niku no Hiroaki",
      "name_ja": "肉の博明",
+     "description": "Restaurant in Takko, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020302/2011919/",
      "page": "https://bokenjapan.com/aomori/takko/eat/other/",
      "category": "Other"
@@ -10735,6 +10830,7 @@
      "name": "Takko Machi Garlic Center",
      "name_en": "Takko Machi Garlic Center",
      "name_ja": "田子町ガーリックセンター",
+     "description": "Restaurant in Takko, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020302/2010322/",
      "page": "https://bokenjapan.com/aomori/takko/eat/other/",
      "category": "Other"
@@ -10743,6 +10839,7 @@
      "name": "Takko Onsen",
      "name_en": "Takko Onsen",
      "name_ja": "田子温泉",
+     "description": "Restaurant in Takko, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020302/2009312/",
      "page": "https://bokenjapan.com/aomori/takko/eat/other/",
      "category": "Other"
@@ -10751,6 +10848,7 @@
      "name": "Takko Tamago Mura",
      "name_en": "Takko Tamago Mura",
      "name_ja": "田子たまご村",
+     "description": "Restaurant in Takko, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020302/2011661/",
      "page": "https://bokenjapan.com/aomori/takko/eat/other/",
      "category": "Other"
@@ -11000,6 +11098,7 @@
      "name": "Shindo Suisan",
      "name_en": "Shindo Suisan",
      "name_ja": "進藤水産",
+     "description": "Restaurant in Tohokumachi, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020303/2012843/",
      "page": "https://bokenjapan.com/aomori/tohokumachi/eat/other/",
      "category": "Other"
@@ -11017,6 +11116,7 @@
      "name": "Tohokumachi Bokujo",
      "name_en": "Tohokumachi Bokujo",
      "name_ja": "東北牧場",
+     "description": "Restaurant in Tohokumachi, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020304/2011635/",
      "page": "https://bokenjapan.com/aomori/tohokumachi/eat/other/",
      "category": "Other"
@@ -11189,6 +11289,7 @@
     {
      "name": "CHIYODA COFFEE",
      "name_en": "Chiyoda Coffee",
+     "description": "Cafe in Towada, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020304/2013937/",
      "page": "https://bokenjapan.com/aomori/towada/eat/cafe/",
      "category": "Cafe"
@@ -11323,6 +11424,7 @@
      "name": "Izakaya or bar in Towada",
      "name_en": "Izakaya or bar in Towada",
      "name_ja": "和海",
+     "description": "Izakaya or bar in Towada, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020304/2010392/",
      "page": "https://bokenjapan.com/aomori/towada/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -11358,6 +11460,7 @@
      "name": "Restaurant in Towada",
      "name_en": "Restaurant in Towada",
      "name_ja": "フナバヤシ",
+     "description": "Restaurant in Towada, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0203/A020304/2012218/",
      "page": "https://bokenjapan.com/aomori/towada/eat/other/",
      "category": "Other"
@@ -11453,7 +11556,7 @@
      "name": "Oirase Forest Hotel",
      "name_en": "Oirase Forest Hotel",
      "name_ja": "奥入瀬 森のホテル",
-     "description": "Hotel in Yakiyama, Horyo, Towada, with Sarukura Onsen source water and course meals.",
+     "description": "Hotel in Towada (Yakiyama, Horyo), with Sarukura Onsen source water and course meals.",
      "source_url": "https://www.jalan.net/yad344779/",
      "page": "https://bokenjapan.com/aomori/towada/stay/"
     },
@@ -11485,7 +11588,7 @@
      "name": "Guesthouse in Towada",
      "name_en": "Guesthouse in Towada",
      "name_ja": "奥入瀬ゲストハウス 桂 月",
-     "description": "Guesthouse in Yakiyama, Horyo, Towada, in front of the Oirase stream, with Wi-Fi in all rooms.",
+     "description": "Guesthouse in Towada (Yakiyama, Horyo), in front of the Oirase stream, with Wi-Fi in all rooms.",
      "source_url": "https://www.jalan.net/yad352040/",
      "page": "https://bokenjapan.com/aomori/towada/stay/"
     },
@@ -11598,6 +11701,7 @@
      "name": "Doremi Shokudo",
      "name_en": "Doremi Shokudo",
      "name_ja": "ドレミ食堂",
+     "description": "Casual restaurant in Tsugaru, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0205/A020502/2007409/",
      "page": "https://bokenjapan.com/aomori/tsugaru/eat/casual/",
      "category": "Casual"
@@ -11696,6 +11800,7 @@
      "name": "Shakochan Onsen",
      "name_en": "Shakochan Onsen",
      "name_ja": "しゃこちゃん温泉",
+     "description": "Restaurant in Tsugaru, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0205/A020501/2010821/",
      "page": "https://bokenjapan.com/aomori/tsugaru/eat/other/",
      "category": "Other"
@@ -11713,6 +11818,7 @@
      "name": "Shariki Mura Muraokoshi Kyoten-kan Flat",
      "name_en": "Shariki Mura Muraokoshi Kyoten-kan Flat",
      "name_ja": "車力村むらおこし拠点館「フラット｣",
+     "description": "Restaurant in Tsugaru, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0205/A020501/2005953/",
      "page": "https://bokenjapan.com/aomori/tsugaru/eat/other/",
      "category": "Other"
@@ -12024,6 +12130,7 @@
      "name": "Ichinohe Shidashi Shop",
      "name_en": "Ichinohe Shidashi Shop",
      "name_ja": "一戸仕出し店",
+     "description": "Restaurant in Tsuruta, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0202/A020202/2009841/",
      "page": "https://bokenjapan.com/aomori/tsuruta/eat/other/",
      "category": "Other"
@@ -12155,6 +12262,7 @@
      "name": "Hamanasu Drive-In",
      "name_en": "Hamanasu Drive-In",
      "name_ja": "はまなすドライブイン",
+     "description": "Casual restaurant in Yokohamacho, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020402/2006325/",
      "page": "https://bokenjapan.com/aomori/yokohamacho/eat/casual/",
      "category": "Casual"
@@ -12163,6 +12271,7 @@
      "name": "Suzuki Shokudo",
      "name_en": "Suzuki Shokudo",
      "name_ja": "鈴木食堂",
+     "description": "Casual restaurant in Yokohamacho, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020402/2003841/",
      "page": "https://bokenjapan.com/aomori/yokohamacho/eat/casual/",
      "category": "Casual"
@@ -12171,6 +12280,7 @@
      "name": "Restaurant in Yokohamacho",
      "name_en": "Restaurant in Yokohamacho",
      "name_ja": "レストラン 鮮菜",
+     "description": "Casual restaurant in Yokohamacho, Aomori.",
      "source_url": "https://tabelog.com/aomori/A0204/A020402/2000634/",
      "page": "https://bokenjapan.com/aomori/yokohamacho/eat/casual/",
      "category": "Casual"
@@ -12315,7 +12425,7 @@
      "name": "Pension Kaze no Tani",
      "name_en": "Pension Kaze no Tani",
      "name_ja": "ペンション 風の谷",
-     "description": "Pension in Yokohamacho, Aomori.",
+     "description": "Pension in Yokohamacho.",
      "source_url": "https://www.jalan.net/yad311582/",
      "page": "https://bokenjapan.com/aomori/yokohamacho/stay/"
     },
@@ -12323,7 +12433,7 @@
      "name": "Minshuku Nanohanakan",
      "name_en": "Minshuku Nanohanakan",
      "name_ja": "民宿 菜の花館",
-     "description": "Guesthouse (minshuku) in Yokohamacho, Aomori.",
+     "description": "Guesthouse (minshuku) in Yokohamacho.",
      "source_url": "https://www.town.yokohama.lg.jp/index.cfm/7,2387,19,1,html",
      "page": "https://bokenjapan.com/aomori/yokohamacho/stay/"
     },
@@ -12331,7 +12441,7 @@
      "name": "Sunahama Kaigan Cottages",
      "name_en": "Sunahama Kaigan Cottages",
      "name_ja": "砂浜海岸コテージ",
-     "description": "Beach cottages, April to November in Yokohamacho, Aomori.",
+     "description": "Beach cottages, April to November in Yokohamacho.",
      "source_url": "https://www.town.yokohama.lg.jp/index.cfm/7,2387,19,1,html",
      "page": "https://bokenjapan.com/aomori/yokohamacho/stay/"
     },
@@ -12339,7 +12449,7 @@
      "name": "Business Inn Yokohama",
      "name_en": "Business Inn Yokohama",
      "name_ja": "ビジネスイン横浜",
-     "description": "Business hotel in Yokohamacho, Aomori.",
+     "description": "Business hotel in Yokohamacho.",
      "source_url": "https://www.town.yokohama.lg.jp/index.cfm/7,2387,19,1,html",
      "page": "https://bokenjapan.com/aomori/yokohamacho/stay/"
     },
@@ -12347,7 +12457,7 @@
      "name": "Minshuku Aoki",
      "name_en": "Minshuku Aoki",
      "name_ja": "民宿 青木",
-     "description": "Guesthouse (minshuku) in Yokohamacho, Aomori.",
+     "description": "Guesthouse (minshuku) in Yokohamacho.",
      "source_url": "https://www.town.yokohama.lg.jp/index.cfm/7,2387,19,1,html",
      "page": "https://bokenjapan.com/aomori/yokohamacho/stay/"
     }
