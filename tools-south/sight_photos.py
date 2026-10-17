@@ -59,7 +59,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--tree', required=True); ap.add_argument('--pref', required=True)
     ap.add_argument('--town', default=''); ap.add_argument('--kinds', default='see,do')
-    ap.add_argument('--limit', type=int, default=0); ap.add_argument('--dry-run', action='store_true')
+    ap.add_argument('--retry', action='store_true', help='re-try cards whose photo_search failed on a transient error'); ap.add_argument('--limit', type=int, default=0); ap.add_argument('--dry-run', action='store_true')
     a = ap.parse_args()
     tree = Path(a.tree); media = tree / 'media'
     seen_md5 = set(); done = 0; stats = {'photo': 0, 'none': 0, 'skipped': 0}
@@ -69,6 +69,8 @@ def main():
             f = tree / a.pref / town / kind / 'index.html'
             if not f.exists(): continue
             t = f.read_text(encoding='utf-8'); o = t
+            if a.retry:
+                t = re.sub(r'<!-- photo_search: tried page images of [^>]*?(?:ConnectTimeout|ReadTimeout|ssl|ConnectionError|ChunkedEncodingError|page:5\d\d)[^>]*-->', '', t)
             def card(m):
                 nonlocal done
                 li = m.group(0)

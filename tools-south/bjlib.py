@@ -60,7 +60,7 @@ def strip_branch(n):
     return re.sub(r'(本店|支店|[^\s]{1,6}店)$', '', n) or n
 
 _KKS = None
-_WORDS = [('本店', 'Main Store'), ('ラーメン', 'Ramen'), ('らーめん', 'Ramen'), ('拉麺', 'Ramen'), ('中華そば', 'Chuka Soba'), ('居酒屋', 'Izakaya'),
+_WORDS = [('専門店', 'Specialty Shop'), ('ワッフル', 'Waffle'), ('弓ヶ浜', 'Yumigahama'), ('飯店', 'Hanten'), ('商店', 'Shoten'), ('イオンモール', 'AEON Mall'), ('ベビーフェイスプラネッツ', "Baby Face Planet's"), ('ビストロ', 'Bistro'), ('モスバーガー', 'MOS Burger'), ('本店', 'Main Store'), ('ラーメン', 'Ramen'), ('らーめん', 'Ramen'), ('拉麺', 'Ramen'), ('中華そば', 'Chuka Soba'), ('居酒屋', 'Izakaya'),
           ('焼肉', 'Yakiniku'), ('焼鳥', 'Yakitori'), ('焼き鳥', 'Yakitori'), ('食堂', 'Shokudo'), ('珈琲', 'Coffee'), ('コーヒー', 'Coffee'),
           ('喫茶', 'Kissa'), ('カフェ', 'Cafe'), ('寿司', 'Sushi'), ('鮨', 'Sushi'), ('すし', 'Sushi'), ('うどん', 'Udon'), ('蕎麦', 'Soba'),
           ('そば', 'Soba'), ('カレー', 'Curry'), ('餃子', 'Gyoza'), ('お好み焼', 'Okonomiyaki'), ('とんかつ', 'Tonkatsu'), ('天ぷら', 'Tempura'),
@@ -81,13 +81,14 @@ def romanize(ja):
         if _KKS is None: _KKS = pykakasi.kakasi()
     except Exception:
         return ''
+    s = re.sub(r'(?<=[A-Za-z])\s*\([^()A-Za-z0-9]+\)', '', s)  # 'Name (katakana of the same name)'
     s = re.sub(r'[・･/／|]+', ' ', s)
-    s = s.replace('ー', '').translate(str.maketrans('ぁぃぅぇぉ', 'あいうえお'))
-    s = re.sub(r'([あ-ん])あ', r'\1', s)
     out = []
     for tok in _WSPLIT.split(s):
         if not tok: continue
         if tok in _WD: out.append(_WD[tok]); continue
+        tok = tok.replace('ー', '').translate(str.maketrans('ぁぃぅぇぉ', 'あいうえお'))
+        tok = re.sub(r'([あ-ん])あ', r'\1', tok)
         for part in re.split(r"([A-Za-z0-9&'\.\-+]+|\s+)", tok):
             if not part or part.isspace(): continue
             if re.fullmatch(r"[A-Za-z0-9&'\.\-+]+", part): out.append(part); continue
