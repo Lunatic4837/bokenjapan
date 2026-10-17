@@ -199,11 +199,38 @@
      "category": "Cafe"
     },
     {
+     "name": "Oryza",
+     "name_en": "Oryza",
+     "name_ja": "オリザ",
+     "description": "Cafe and sweets shop in Awara.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=172&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/awara/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Awara Onsen Hotel Yagi",
      "name_en": "Awara Onsen Hotel Yagi",
      "name_ja": "あわら温泉 ホテル八木",
      "description": "Ryokan inn restaurant specialising in buffet in Awara.",
      "source_url": "https://tabelog.com/fukui/A1801/A180102/18000361/",
+     "page": "https://bokenjapan.com/fukui/awara/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Beto Coco Brewing",
+     "name_en": "Beto Coco Brewing",
+     "name_ja": "ベトココ ブリューイング",
+     "description": "Taproom with a brewery attached. Original craft beers, juices, coffee, french fries, and other simple snacks!",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=83&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/awara/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Kanade",
+     "name_en": "Kanade",
+     "name_ja": "奏",
+     "description": "Kaiseki and traditional Japanese restaurant in Awara.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=137&amp;lang=en",
      "page": "https://bokenjapan.com/fukui/awara/eat/casual/",
      "category": "Casual"
     },
@@ -226,6 +253,15 @@
      "category": "European"
     },
     {
+     "name": "Cafe Restaurant Orange",
+     "name_en": "Cafe Restaurant Orange",
+     "name_ja": "カフェ・レストラン オレンジ",
+     "description": "Western-style restaurant in Awara.",
+     "source_url": "https://caferestaurantorenge.p-kit.com/",
+     "page": "https://bokenjapan.com/fukui/awara/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Tonkatsu (pork cutlet) restaurant specialising in Awara",
      "name_en": "Tonkatsu (pork cutlet) restaurant specialising in Awara",
      "name_ja": "十阡萬 金津店",
@@ -240,6 +276,24 @@
      "name_ja": "一新亭",
      "description": "Tonkatsu (pork cutlet) restaurant in Awara.",
      "source_url": "https://tabelog.com/fukui/A1801/A180102/18010330/",
+     "page": "https://bokenjapan.com/fukui/awara/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Hasebeya",
+     "name_en": "Hasebeya",
+     "name_ja": "はせべや",
+     "description": "Western-style restaurant in Awara, also serving hamburg steak.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=26&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/awara/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Ushiwakamaru",
+     "name_en": "Ushiwakamaru",
+     "name_ja": "牛若丸",
+     "description": "Set-meal restaurant in Awara, also serving grilled offal and yakiniku.",
+     "source_url": "https://ushiwakamaru-fukui.jp/",
      "page": "https://bokenjapan.com/fukui/awara/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -285,6 +339,33 @@
      "name_ja": "なん・なん亭 あわら本店",
      "description": "Ramen shop specialising in rice bowls in Awara.",
      "source_url": "https://tabelog.com/fukui/A1801/A180102/18007433/",
+     "page": "https://bokenjapan.com/fukui/awara/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Yasenawa Shokudo",
+     "name_en": "Yasenawa Shokudo",
+     "name_ja": "やせなわ食堂",
+     "description": "Ramen shop in Awara, also serving set meals and curry.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=100&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/awara/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Michi-no-Eki Rennyo no Sato Awara",
+     "name_en": "Michi-no-Eki Rennyo no Sato Awara",
+     "name_ja": "道の駅 蓮如の里あわら",
+     "description": "Soba and udon restaurant in Awara.",
+     "source_url": "https://rennyo-awara.com/index.html",
+     "page": "https://bokenjapan.com/fukui/awara/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Miyabi",
+     "name_en": "Ramen Miyabi",
+     "name_ja": "拉麺 みやび",
+     "description": "Ramen shop in Awara.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=232&amp;lang=en",
      "page": "https://bokenjapan.com/fukui/awara/eat/noodles/",
      "category": "Japanese (noodles)"
     },
@@ -357,6 +438,33 @@
      "name_ja": "肴家 奏",
      "description": "Japanese restaurant specialising in izakaya dishes in Awara.",
      "source_url": "https://tabelog.com/fukui/A1801/A180102/18007528/",
+     "page": "https://bokenjapan.com/fukui/awara/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Izakaya Matsubokkuri",
+     "name_en": "Izakaya Matsubokkuri",
+     "name_ja": "居酒屋まつぼっくり",
+     "description": "Izakaya and bar in Awara, also serving seafood dishes and crab.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=112&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/awara/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kushiage Gottsuan",
+     "name_en": "Kushiage Gottsuan",
+     "name_ja": "串揚げごっつぁん",
+     "description": "This is a restaurant where you can enjoy a wide variety of skewers, including meat, seafood, and vegetables.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=161&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/awara/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Wakazakura Cafe and Bar Sakura",
+     "name_en": "Wakazakura Cafe and Bar Sakura",
+     "name_ja": "若桜 カフェ＆バルさくら",
+     "description": "Izakaya and bar in Awara, also serving cafe sweets and seafood dishes.",
+     "source_url": "https://wakazakura-awara.com/",
      "page": "https://bokenjapan.com/fukui/awara/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -937,6 +1045,42 @@
      "category": "Cafe"
     },
     {
+     "name": "Scone no Omise",
+     "name_en": "Scone no Omise",
+     "name_ja": "スコーンのお店",
+     "description": "A small tearoom with British classic scones and Western-style lunch menu.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=99&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/echizen/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kuninaka no Cake-ya-san",
+     "name_en": "Kuninaka no Cake-ya-san",
+     "name_ja": "くになかのケーキ屋さん",
+     "description": "Cafe and sweets shop in Echizen.",
+     "source_url": "https://kunikei.com/",
+     "page": "https://bokenjapan.com/fukui/echizen/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Mairui",
+     "name_en": "Mairui",
+     "name_ja": "マイルイ",
+     "description": "Omelet rice, hamburger steak, cake, and coffee. Find your favorite from the many menus.",
+     "source_url": "http://mairui.jp",
+     "page": "https://bokenjapan.com/fukui/echizen/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Patisserie Chocolatier Espoir",
+     "name_en": "Patisserie Chocolatier Espoir",
+     "name_ja": "パティスリーショコラティエ エスポワール",
+     "description": "Cafe and sweets shop in Echizen.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=148&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/echizen/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Yoshida Shokudo",
      "name_en": "Yoshida Shokudo",
      "name_ja": "吉田食堂",
@@ -964,6 +1108,15 @@
      "category": "Casual"
     },
     {
+     "name": "Yakiniku Beef Retsu",
+     "name_en": "Yakiniku Beef Retsu",
+     "name_ja": "焼肉 牛烈",
+     "description": "Yakiniku (Japanese barbecue) restaurant in Echizen.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=98&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/echizen/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Yokogawa Fun",
      "name_en": "Yokogawa Fun",
      "name_ja": "ヨコガワ分店",
@@ -978,6 +1131,31 @@
      "name_ja": "とんかつえびす庵",
      "description": "Tonkatsu (pork cutlet) restaurant in Echizen.",
      "source_url": "https://tabelog.com/fukui/A1802/A180202/18003799/",
+     "page": "https://bokenjapan.com/fukui/echizen/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Cafe Dining BOND",
+     "name_en": "Cafe Dining BOND",
+     "name_ja": "カフェダイニングBOND",
+     "description": "Set-meal restaurant in Echizen, also serving steak and curry.",
+     "source_url": "http://cafe-bond.com/",
+     "page": "https://bokenjapan.com/fukui/echizen/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Tonkatsu Ebisuan",
+     "name_en": "Tonkatsu Ebisuan",
+     "name_ja": "とんかつ ゑびす庵",
+     "description": "Tonkatsu and fried-food restaurant in Echizen.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=143&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/echizen/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Famburger",
+     "description": "FAMBURGER where you can enjoy authentic hamburgers in Echizen City🍔 Not only do the burgers look great, but the interior of the restaurant is designed with a 1970s feel, making it a burger shop that can be enjoyed by people of all ages and genders 🇺🇸.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=205&amp;lang=en",
      "page": "https://bokenjapan.com/fukui/echizen/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -1117,11 +1295,128 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Soba Dokoro Echizenya Echizen Takefu Ekimae",
+     "name_en": "Soba Dokoro Echizenya Echizen Takefu Ekimae",
+     "name_ja": "そば処越前屋 越前たけふ駅前店",
+     "description": "You can taste authentic Echizen grated buckwheat noodles even though it is located in a roadside station! Made from buckwheat flour grown in Fukui Prefecture.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=25&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/echizen/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Wafu Restaurant Takimasa",
+     "name_en": "Wafu Restaurant Takimasa",
+     "name_ja": "和風レストラン瀧雅",
+     "description": "Japanese restaurant loved by locals and tourists alike.",
+     "source_url": "https://www.takimasa.net/",
+     "page": "https://bokenjapan.com/fukui/echizen/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kikyoan",
+     "name_en": "Kikyoan",
+     "name_ja": "生蕎庵（ききょうあん）",
+     "description": "The 100% buckwheat noodles are made every day from whole buckwheat flour. This is a soba-only restaurant.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=84&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/echizen/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Mogura",
+     "name_en": "Mogura",
+     "name_ja": "もぐら",
+     "description": "Soba and udon restaurant in Echizen, also serving grilled offal and teppanyaki.",
+     "source_url": "http://act-pro.net",
+     "page": "https://bokenjapan.com/fukui/echizen/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Escargot",
+     "name_en": "Escargot",
+     "name_ja": "エスカルゴ",
+     "description": "This family restaurant offers a variety of Western, Japanese, and noodle dishes such as hamburg steak, fried shrimp, tempura, sashimi, soba, ramen, and steak.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=128&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/echizen/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Daifuku",
+     "name_en": "Daifuku",
+     "name_ja": "大福",
+     "description": "The buckwheat flour is sourced locally from Fukui, and is characterized by its thickness, which gives it a sweet taste when chewed. Water, the lifeblood of soba, is drawn from the mountains.",
+     "source_url": "https://www.daifuku-soba.jp/",
+     "page": "https://bokenjapan.com/fukui/echizen/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menya Katsuki",
+     "name_en": "Menya Katsuki",
+     "name_ja": "麺屋 勝木",
+     "description": "Ramen shop in Echizen.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=133&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/echizen/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Echizen Mendokoro Edoya",
+     "name_en": "Echizen Mendokoro Edoya",
+     "name_ja": "越前めん処 江戸屋",
+     "description": "A restaurant where you can enjoy Echizen City's three major gourmet dishes. Grated soba, Bolga rice, Chinese noodles! There is also sauce katsudon.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=146&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/echizen/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Munechika Seimenjo",
+     "name_en": "Munechika Seimenjo",
+     "name_ja": "宗近製麺所 おいしい麵の専門店",
+     "description": "Soba and udon restaurant in Echizen.",
+     "source_url": "https://munetika.jp/",
+     "page": "https://bokenjapan.com/fukui/echizen/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Echizen Soba and Coffee Hamaan",
+     "name_en": "Echizen Soba and Coffee Hamaan",
+     "name_ja": "越前そばと珈琲HAMA庵",
+     "description": "Soba and udon restaurant in Echizen, also serving cafe sweets.",
+     "source_url": "https://hama-an.com/",
+     "page": "https://bokenjapan.com/fukui/echizen/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Yamamuro",
+     "name_en": "Yamamuro",
+     "name_ja": "山むろ",
+     "description": "Soba and udon restaurant in Echizen, also serving ramen and set meals.",
+     "source_url": "https://takefu.com/",
+     "page": "https://bokenjapan.com/fukui/echizen/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Chiso Ida",
      "name_en": "Chiso Ida",
      "name_ja": "馳走飯田",
      "description": "Japanese restaurant in Echizen.",
      "source_url": "https://tabelog.com/fukui/A1802/A180202/18003484/",
+     "page": "https://bokenjapan.com/fukui/echizen/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Osama no Shokutaku",
+     "name_en": "Osama no Shokutaku",
+     "name_ja": "王様の食卓",
+     "description": "Izakaya and bar in Echizen, also serving crab and western-style dishes.",
+     "source_url": "https://osamanoshokutaku.com/",
+     "page": "https://bokenjapan.com/fukui/echizen/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Fuki",
+     "name_en": "Fuki",
+     "name_ja": "蕗",
+     "description": "Soba and udon restaurant in Echizen, also serving izakaya dishes and set meals.",
+     "source_url": "https://kappoufuki.ehoh.net/",
      "page": "https://bokenjapan.com/fukui/echizen/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -3097,6 +3392,58 @@
    ],
    "food": [
     {
+     "name": "Bluestocking",
+     "name_en": "Bluestocking",
+     "name_ja": "ブルーストッキング",
+     "description": "The first full-fledged afternoon tea specialty store in Fukui, named \"Blue Stockings\" with the image of a social gathering place for women.",
+     "source_url": "https://www.instagram.com/bluestocking.seibu/?hl=ja",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Ofu Shokudo Salamange F",
+     "name_en": "Ofu Shokudo Salamange F",
+     "name_ja": "欧風食堂 サラマンジェF",
+     "description": "Cafe and sweets shop in Fukui, also serving western-style dishes and Italian cuisine.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=72&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kissa Kabira",
+     "name_en": "Kissa Kabira",
+     "name_ja": "喫茶迦毘羅",
+     "description": "Cafe and sweets shop in Fukui, also serving western-style dishes and curry.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=73&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Misola",
+     "description": "Cafe and sweets shop in Fukui.",
+     "source_url": "https://www.misoraku.com/cafe/",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Yamanoku Chocolate Biyori",
+     "name_en": "Yamanoku Chocolate Biyori",
+     "name_ja": "山奥チョコレート 日和",
+     "description": "Japanese sweets and tea shop in Fukui.",
+     "source_url": "https://hiyori-morihachi.jp/",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Habutae Mochi Matsuokaken",
+     "name_en": "Habutae Mochi Matsuokaken",
+     "name_ja": "羽二重餅総本舗 松岡軒",
+     "description": "Cafe and sweets shop in Fukui.",
+     "source_url": "https://habutae.com/",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "French restaurant in Fukui",
      "name_en": "French restaurant in Fukui",
      "name_ja": "ル ジャルダン",
@@ -3111,6 +3458,22 @@
      "name_ja": "ヨーロッパ軒 総本店",
      "description": "Yoshoku (Western-style Japanese) restaurant specialising in tonkatsu and rice bowls in Fukui.",
      "source_url": "https://tabelog.com/fukui/A1801/A180101/18000015/",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Trattoria Ciao",
+     "description": "Italian restaurant in Fukui.",
+     "source_url": "http://www.fukui-ciao.com",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Fukui French Aujus",
+     "name_en": "Fukui French Aujus",
+     "name_ja": "Fukui French Aujus（オージュ）",
+     "description": "Western-style restaurant in Fukui, also serving French cuisine.",
+     "source_url": "https://www.riverge.com/restaurant/",
      "page": "https://bokenjapan.com/fukui/fukui/eat/european/",
      "category": "European"
     },
@@ -3168,11 +3531,111 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Warabi Fukui Ekimae",
+     "name_en": "Warabi Fukui Ekimae",
+     "name_ja": "旬菜鮮魚とうまい酒 わらび 福井駅前店",
+     "description": "Izakaya and bar in Fukui.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=45&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Bistro & Bar Gloutonne",
+     "description": "Playful cuisine based on French cuisine From traditional French regional cuisine to a variety of chef's original dishes, you can enjoy delicious food and a fun time depending on your mood that day.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=47&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "HIDENG PLACE",
+     "description": "Enjoy JAZZ and alcohol in a relaxing space An authentic bar within a 5-minute walk from the station. It features a curved counter that imitates a wood base. You can enjoy the best time with the jazz flowing through the store.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=53&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Ookubo Chaya",
+     "name_en": "Ookubo Chaya",
+     "name_ja": "大久保茶屋",
+     "description": "Soba and udon restaurant in Fukui, also serving izakaya dishes and cafe sweets.",
+     "source_url": "http://ookubochaya.com",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Paikaji",
+     "name_en": "Paikaji",
+     "name_ja": "南風",
+     "description": "Authentic Okinawan taste in Fukui An Okinawa izakaya that brings happiness through laughter, singing, eating, and drinking.",
+     "source_url": "https://paikazi.com/",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yoriyasuya",
+     "name_en": "Yoriyasuya",
+     "name_ja": "寄安屋",
+     "description": "A relaxing bar with white walls and soft lighting. Cocktails, whiskey, sake, shochu, wine, etc. The food selection is based on Italian cuisine, and the fruit-based cocktails are very popular among women.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=68&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Replay",
+     "description": "Izakaya and bar in Fukui, also serving western-style dishes.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=69&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Shima",
+     "description": "Izakaya and bar in Fukui, also serving cafe sweets.",
+     "source_url": "https://www.instagram.com/shima_coffee_sake",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Kankoku Chubo Senara",
      "name_en": "Kankoku Chubo Senara",
      "name_ja": "韓国厨房セナラ",
      "description": "Yakiniku (grilled meat) restaurant specialising in cold noodles in Fukui.",
      "source_url": "https://tabelog.com/fukui/A1801/A180101/18000442/",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Torisho Asagiri",
+     "name_en": "Torisho Asagiri",
+     "name_ja": "鳥匠 あさぎり",
+     "description": "It was featured in the Michelin Guide within a year of opening. This is a popular high-end yakitori restaurant that uses \"Olive Chicken\", chickens that are raised on olives.",
+     "source_url": "https://www.instagram.com/asagirifukui/",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Cafe & Curry Caletteria",
+     "name_en": "Cafe & Curry Caletteria",
+     "name_ja": "Cafe&Curry カレッテリア",
+     "description": "Cafe and sweets shop in Fukui, also serving tonkatsu and fried food and western-style dishes.",
+     "source_url": "https://caletteria.com/",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Nagoton",
+     "name_en": "Nagoton",
+     "name_ja": "なごとん",
+     "description": "Grilled hormones of dogmatism and prejudice Grilled hormones made with red miso.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=57&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakitori Raizen",
+     "name_en": "Yakitori Raizen",
+     "name_ja": "やきとり雷禅",
+     "description": "Yakitori restaurant in Fukui.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=67&amp;lang=en",
      "page": "https://bokenjapan.com/fukui/fukui/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -3200,6 +3663,105 @@
      "name_ja": "きょうや",
      "description": "Soba noodle restaurant in Fukui.",
      "source_url": "https://tabelog.com/fukui/A1801/A180101/18002814/",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Soba Dining Ippuku",
+     "name_en": "Soba Dining Ippuku",
+     "name_ja": "蕎麦Dining 一福",
+     "description": "Soba and udon restaurant in Fukui.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=46&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Amida Soba Fukunoi",
+     "name_en": "Amida Soba Fukunoi",
+     "name_ja": "あみだそば福の井",
+     "description": "Soba restaurant inside Hapirin building Enjoy authentic handmade soba noodles.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=50&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Raden (Echizen Crab and Seasonal Dishes)",
+     "name_en": "Raden (Echizen Crab and Seasonal Dishes)",
+     "name_ja": "越前がに・旬のお料理 らでん",
+     "description": "Soba and udon restaurant in Fukui, also serving tonkatsu and fried food and steak.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=52&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Rice Cafe Mori no Oto (Ookubo Chaya Hanare)",
+     "name_en": "Rice Cafe Mori no Oto (Ookubo Chaya Hanare)",
+     "name_ja": "大久保茶屋はなれ ごはんカフェ 森の音",
+     "description": "A cafe located in a renovated building from the Taisho era in Mt. Asuway, which is rich in nature.",
+     "source_url": "http://ookubochaya.com",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Fuku Soba",
+     "name_en": "Fuku Soba",
+     "name_ja": "福そば",
+     "description": "Soba and udon restaurant in Fukui, also serving cafe sweets and set meals.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=64&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Asuwayama Atarashiya",
+     "name_en": "Asuwayama Atarashiya",
+     "name_ja": "足羽山ATARASHIYA",
+     "description": "Soba and udon restaurant in Fukui, also serving sushi and ramen.",
+     "source_url": "https://aimiaimi2007.wixsite.com/mysite",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Hoteiya",
+     "name_en": "Hoteiya",
+     "name_ja": "ほていや",
+     "description": "A long-established restaurant located in \"Galilea Motomachi\" near Fukui Station The \"Sauce Katsudon and Oroshi Soba Set,'' which allows you to enjoy Fukui's two most famous dishes, is popular.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=75&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Fukui City Tourism and Product Center Fukufuku Chaya",
+     "name_en": "Fukui City Tourism and Product Center Fukufuku Chaya",
+     "name_ja": "福井市観光物産館 福福茶屋",
+     "description": "A lively exchange hub that delights both locals and tourists At Fukufuku Chaya, you can enjoy Fukui's delicacies such as Fukufukukan's special grated soba, sauce cutlet bowl, seafood bowl, and local cuisine.",
+     "source_url": "https://www.fukubukukan.com/",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kuzushi Kappo Bonta",
+     "name_en": "Kuzushi Kappo Bonta",
+     "name_ja": "くずし割烹 ぼんた",
+     "description": "Soba and udon restaurant in Fukui, also serving seafood dishes and tempura.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=95&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tsukemen Ichiroku",
+     "name_en": "Tsukemen Ichiroku",
+     "name_ja": "つけ麺いちろく",
+     "description": "Ichiroku's original \"Donzuke Soup\". You can choose from thick, thin, or udon noodles, and can arrange them to your liking, making you a repeat customer!",
+     "source_url": "https://ichiroku-ramen.com/",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Jukusei Katsu Tenzen",
+     "name_en": "Jukusei Katsu Tenzen",
+     "name_ja": "熟成かつ天膳",
+     "description": "Soba and udon restaurant in Fukui, also serving set meals and rice bowls.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=195&amp;lang=en",
      "page": "https://bokenjapan.com/fukui/fukui/eat/noodles/",
      "category": "Japanese (noodles)"
     },
@@ -3258,6 +3820,51 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Machi Deli Kakurewa Shokudo",
+     "name_en": "Machi Deli Kakurewa Shokudo",
+     "name_ja": "まちDeli かくれわ食堂",
+     "description": "Set-meal restaurant in Fukui.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=39&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Pork Bar Daimyoan",
+     "name_en": "Pork Bar Daimyoan",
+     "name_ja": "豚バル大名庵",
+     "description": "Teppanyaki restaurant in Fukui.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=40&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ryotei Kakikyo",
+     "name_en": "Ryotei Kakikyo",
+     "name_ja": "料亭 かき恭",
+     "description": "Kaiseki and traditional Japanese restaurant in Fukui.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=42&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Hamacho Hibi",
+     "name_en": "Hamacho Hibi",
+     "name_ja": "浜町日々",
+     "description": "Kaiseki and traditional Japanese restaurant in Fukui.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=70&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Haratan Fukui Ekimae",
+     "name_en": "Haratan Fukui Ekimae",
+     "name_ja": "はらたん 福井駅前",
+     "description": "Yakiniku (Japanese barbecue) restaurant in Fukui.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=93&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Sushi Jube",
      "name_en": "Sushi Jube",
      "name_ja": "鮨 十兵衛",
@@ -3299,6 +3906,78 @@
      "name_ja": "鮨処 海月",
      "description": "Sushi restaurant in Fukui.",
      "source_url": "https://tabelog.com/fukui/A1801/A180101/18007725/",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Ajidokoro Shoya",
+     "name_en": "Ajidokoro Shoya",
+     "name_ja": "味処 庄屋",
+     "description": "Various dishes made with Fukui sake, fish, and vegetables 46 years of local production for local consumption. Banquets for around 30 people are also possible. 3 minutes walk from JR Fukui Station.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=54&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kome to Sakana Tatewaki",
+     "name_en": "Kome to Sakana Tatewaki",
+     "name_ja": "米と魚 たて涌",
+     "description": "Eel restaurant in Fukui.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=62&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Chojamachi Iwashiya",
+     "name_en": "Chojamachi Iwashiya",
+     "name_ja": "長者町 いわし屋",
+     "description": "Kaiseki and traditional Japanese restaurant in Fukui, also serving crab.",
+     "source_url": "https://iwashi-ya.com",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Fukunoi Ichinomatsu",
+     "name_en": "Fukunoi Ichinomatsu",
+     "name_ja": "福の井 一乃松",
+     "description": "Seafood restaurant in Fukui.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=85&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Ryu-an",
+     "name_en": "Ryu-an",
+     "name_ja": "柳庵",
+     "description": "The simple yet atmospheric exterior. Upon entering the restaurant, you will find a guest room surrounded by white wood and counter seats illuminated by warm light.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=86&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Japanese food Chubei",
+     "name_en": "Japanese food Chubei",
+     "name_ja": "和の食 忠兵衛",
+     "description": "A chef trained in Kyoto, creating a refined atmosphere and exquisite kaiseki cuisine. 3-minute walk from Fukui Castle Ruins Daimyocho Station, 10-minute walk from JR Fukui Station.",
+     "source_url": "https://wanoshoku-chubee.com",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kaikatei",
+     "name_en": "Kaikatei",
+     "name_ja": "開花亭",
+     "description": "Japanese restaurant cuisine served in a house that is a registered tangible cultural property of the country. Founded in 1898. All rooms are completely private.",
+     "source_url": "https://www.kaikatei.biz/ryoutei",
+     "page": "https://bokenjapan.com/fukui/fukui/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Hamamachi Obata",
+     "name_en": "Hamamachi Obata",
+     "name_ja": "浜町 緒ばた",
+     "description": "Owner Obata Kyosuke visits producers directly every day to purchase the one-of-a-kind bounty of Fukui food, which you can enjoy along with Echizen lacquerware, Japanese tableware, and seasonal room decorations.",
+     "source_url": "https://obata-mikuni.jp/",
      "page": "https://bokenjapan.com/fukui/fukui/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -6485,6 +7164,38 @@
    ],
    "food": [
     {
+     "name": "Sotomo Cafe",
+     "description": "This cafe is located inside Wakasa Fisherman's Wharf! Why not take a break from shopping and enjoy the beautiful view of Obama Port?",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=221&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/obama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kinshiro",
+     "name_en": "Kinshiro",
+     "name_ja": "金四郎",
+     "description": "This coffee shop is housed in a restored and renovated old post office building built in the early Showa period. The interior is based on the concept of a retro Showa-era coffee shop, and serves coffee and sweets such as pudding.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=233&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/obama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kito Cafe Obama",
+     "name_en": "Kito Cafe Obama",
+     "name_ja": "kitocafe小浜店",
+     "description": "Obama City, Fukui Prefecture. A small cafe. You can relax and enjoy the view of the fishing port from the second floor. Take-out snacks, sandwiches, and drinks are also available.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=237&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/obama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "ene Coffee Stand",
+     "description": "Goshoen was built by Furukawaya, a kitamaebune shipping merchant who was active during the Edo period, to entertain such distinguished guests as the lord of the Obama domain. Until recently, Goshoen was not open to the public.",
+     "source_url": "https://goshoen1815.com",
+     "page": "https://bokenjapan.com/fukui/obama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Deli specialising in Obama",
      "name_en": "Deli specialising in Obama",
      "name_ja": "若廣",
@@ -6530,6 +7241,96 @@
      "category": "Casual"
     },
     {
+     "name": "Okudosan",
+     "name_en": "Okudosan",
+     "name_ja": "おくどさん",
+     "description": "Soba and udon restaurant in Obama, also serving cafe sweets and set meals.",
+     "source_url": "https://www.okudosan.jp/",
+     "page": "https://bokenjapan.com/fukui/obama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Kaikoen",
+     "name_en": "Kaikoen",
+     "name_ja": "海幸苑",
+     "description": "A restaurant where you can eat fresh seafood rice bowls in a beautiful location.",
+     "source_url": "https://www.wakasa-fishermans.com/kaikouenn/food",
+     "page": "https://bokenjapan.com/fukui/obama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Kagura",
+     "name_en": "Kagura",
+     "name_ja": "神楽",
+     "description": "Yakiniku (Japanese barbecue) restaurant in Obama.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=223&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/obama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Obama Noodle Restaurant Oukatei",
+     "name_en": "Obama Noodle Restaurant Oukatei",
+     "name_ja": "小浜麺食堂 桜花亭",
+     "description": "Ramen shop in Obama, also serving set meals and Chinese dishes.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=224&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/obama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Okonomi and Teppanyaki Koteya",
+     "name_en": "Okonomi and Teppanyaki Koteya",
+     "name_ja": "お好み焼鉄板焼き こてや",
+     "description": "This restaurant serves delicious okonomiyaki, yakisoba, and monjayaki.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=234&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/obama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Hamachan Ramen",
+     "name_en": "Hamachan Ramen",
+     "name_ja": "浜ちゃんラーメン",
+     "description": "They also offer a wide variety of side dishes and are open until late at night.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=240&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/obama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Yakiniku HANASEN",
+     "name_en": "Yakiniku HANASEN",
+     "name_ja": "焼肉HANASEN",
+     "description": "This is a restaurant that focuses on the quality of its meat.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=242&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/obama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "La Verita",
+     "name_en": "La Verita",
+     "name_ja": "ラヴェリタ",
+     "description": "Italian restaurant in Obama.",
+     "source_url": "http://www.laverita.jp",
+     "page": "https://bokenjapan.com/fukui/obama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Yamatoan",
+     "name_en": "Yamatoan",
+     "name_ja": "やまと庵",
+     "description": "Soba and udon restaurant in Obama, also serving set meals and eel.",
+     "source_url": "https://www.yamato-obama.jp/yamatoan/index.html",
+     "page": "https://bokenjapan.com/fukui/obama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "La Petite Plage",
+     "name_en": "La Petite Plage",
+     "name_ja": "ラ プティ プラージュ",
+     "description": "Enjoy authentic French cuisine that will put a smile on your face at this bistro in Minatomachi Obama.",
+     "source_url": "https://petiteplage.weebly.com/",
+     "page": "https://bokenjapan.com/fukui/obama/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Shokusai Goen",
      "name_en": "Shokusai Goen",
      "name_ja": "食彩 ごえん",
@@ -6548,6 +7349,67 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Zero",
+     "description": "Opening hours 21:00〜 Closed: Sunday The appeal of Bar & Dining ZERO is its No. 1 selection of alcohol in Obama and homemade dishes including homemade roast beef. It's a fun dining bar that also offers karaoke.",
+     "source_url": "https://lin.ee/v5XLrs3",
+     "page": "https://bokenjapan.com/fukui/obama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Obanzai Ofukuro no Aji Zero",
+     "name_en": "Obanzai Ofukuro no Aji Zero",
+     "name_ja": "おばんざい・おふくろの味 零",
+     "description": "Izakaya and bar in Obama.",
+     "source_url": "https://lin.ee/vh2quJn",
+     "page": "https://bokenjapan.com/fukui/obama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Obanzai Obamama",
+     "name_en": "Obanzai Obamama",
+     "name_ja": "おばんざいオバママ",
+     "description": "Izakaya and bar in Obama.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=228&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/obama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Gorilla",
+     "name_en": "Gorilla",
+     "name_ja": "ゴリラ",
+     "description": "Izakaya and bar in Obama.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=236&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/obama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kintoun Chicken Higashino",
+     "name_en": "Kintoun Chicken Higashino",
+     "name_ja": "筋斗雲チキン ひがしの",
+     "description": "Izakaya and bar in Obama, also serving yakitori.",
+     "source_url": "https://www.instagram.com/kintoun_2001",
+     "page": "https://bokenjapan.com/fukui/obama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yoshinobu",
+     "name_en": "Yoshinobu",
+     "name_ja": "吉のぶ",
+     "description": "Enjoy dishes made with ingredients from Obama along with sake from all over Japan. They offer sashimi, tempura, hotpots, creative dishes and even pizza, so even those who don't drink alcohol can enjoy their meal.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=246&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/obama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "santyomachi cafe bonkura",
+     "name_en": "santyomachi cafe bonkura",
+     "name_ja": "三丁町カフェぼんくら",
+     "description": "Exotic flavors in a traditional townhouse: Thai cuisine.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=260&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/obama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Kodama Shokudo",
      "name_en": "Kodama Shokudo",
      "name_ja": "こだま食堂",
@@ -6562,6 +7424,15 @@
      "name_ja": "五味焼",
      "description": "Yakiniku (grilled meat) restaurant in Obama.",
      "source_url": "https://tabelog.com/fukui/A1803/A180304/18000067/",
+     "page": "https://bokenjapan.com/fukui/obama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Restaurant Camellia (Applaudir Hanasouju)",
+     "name_en": "Restaurant Camellia (Applaudir Hanasouju)",
+     "name_ja": "アプロディール ハナソウジュ レストランカメリア",
+     "description": "A French restaurant using ingredients unique to Wakasa Obama The reasonably priced lunch menu is also popular.",
+     "source_url": "https://www.urban-port.jp/",
      "page": "https://bokenjapan.com/fukui/obama/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -6669,6 +7540,42 @@
      "name_ja": "すし政本店",
      "description": "Sushi restaurant in Obama.",
      "source_url": "https://tabelog.com/fukui/A1803/A180304/18000221/",
+     "page": "https://bokenjapan.com/fukui/obama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Hamanoshiki",
+     "name_en": "Hamanoshiki",
+     "name_ja": "濱の四季",
+     "description": "Seafood restaurant in Obama.",
+     "source_url": "https://hamanoshiki.jp/",
+     "page": "https://bokenjapan.com/fukui/obama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Wakasa Marine Plaza",
+     "name_en": "Wakasa Marine Plaza",
+     "name_ja": "若狭マリンプラザ",
+     "description": "Enjoy seafood dishes such as grilled mackerel set meals and seafood bowls. You can also enjoy sauced pork cutlet rice bowls, hamburger steaks, and curry rice.",
+     "source_url": "https://www.marineplaza.co.jp/",
+     "page": "https://bokenjapan.com/fukui/obama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Shikisaikan Suigetsu",
+     "name_en": "Shikisaikan Suigetsu",
+     "name_ja": "四季彩館 酔月",
+     "description": "This restaurant recreates the atmosphere of the early Meiji period and serves mainly Japanese cuisine made with carefully selected ingredients, as well as Western cuisine at lunchtime.",
+     "source_url": "https://www.urban-port.jp/",
+     "page": "https://bokenjapan.com/fukui/obama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushiichi",
+     "name_en": "Sushiichi",
+     "name_ja": "鮨一",
+     "description": "Sushi restaurant in Obama.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=262&amp;lang=en",
      "page": "https://bokenjapan.com/fukui/obama/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -10339,11 +11246,54 @@
      "category": "Cafe"
     },
     {
+     "name": "Nakamichi Genzo Chaho Kagura Honten",
+     "name_en": "Nakamichi Genzo Chaho Kagura Honten",
+     "name_ja": "中道源蔵茶舗 神楽本店",
+     "description": "Cafe and sweets shop in Tsuruga, also serving Japanese sweets and matcha.",
+     "source_url": "https://nakamichi-genzo.com/",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Miko Cafe",
+     "description": "Cafe and sweets shop in Tsuruga.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=166&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Shio-so Tsuruga Eki Shinkansen Bai",
      "name_en": "Shio-so Tsuruga Eki Shinkansen Bai",
      "name_ja": "塩荘 敦賀駅新幹線売店",
      "description": "Bento restaurant specialising in bar and sake bar and Japanese sweets in Tsuruga.",
      "source_url": "https://tabelog.com/fukui/A1803/A180301/18006755/",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Teatro",
+     "name_en": "Teatro",
+     "name_ja": "テアトロ",
+     "description": "Italian restaurant in Tsuruga.",
+     "source_url": "https://tsurugashi-italian.net/",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Myeongdong (Korean Home Cooking and Yakiniku)",
+     "name_en": "Myeongdong (Korean Home Cooking and Yakiniku)",
+     "name_ja": "韓国家庭料理・焼肉 明洞",
+     "description": "A special lunch set is popular. The set includes a main dish, rice, salad, soup, and three side dishes.",
+     "source_url": "https://www.instagram.com/myeongdong1129",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Daifuku",
+     "name_en": "Daifuku",
+     "name_ja": "大福",
+     "description": "Daifuku daihuku is located in Honmachi 1-chome, Tsuruga City, Fukui Prefecture, where you can eat authentic yakiniku and Korean cuisine.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=147&amp;lang=en",
      "page": "https://bokenjapan.com/fukui/tsuruga/eat/casual/",
      "category": "Casual"
     },
@@ -10366,11 +11316,124 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "fullfull",
+     "description": "Izakaya and bar in Tsuruga, also serving seafood dishes and tempura.",
+     "source_url": "https://instagram.com/fullfull231123?igshid=YTQwZjQ0NmI0OA%3D%3D&amp;utm_source=qr",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Minato Dining Shioso",
+     "name_en": "Minato Dining Shioso",
+     "name_ja": "港ダイニングしおそう",
+     "description": "The restaurant's interior is cobblestone paved, creating a uniquely Japanese atmosphere of a small alley with a tatami room.",
+     "source_url": "https://www.dining-shioso.jp/ekimae/index.html",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Shurakuya Utumi",
+     "name_en": "Shurakuya Utumi",
+     "name_ja": "酒楽家うつ海",
+     "description": "Izakaya and bar in Tsuruga, also serving tempura and hot pot dishes.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=126&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Sumiyaki Sentai Iron Seven",
+     "name_en": "Sumiyaki Sentai Iron Seven",
+     "name_ja": "炭焼戦隊あいろんセブン",
+     "description": "This restaurant offers a variety of char-grilled chicken, beef, and pork, as well as fresh fish, including Negima, which is a very satisfying dish. There is also an extensive izakaya menu.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=134&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "NAKAYA",
+     "name_en": "NAKAYA",
+     "name_ja": "なかや",
+     "description": "Izakaya and bar in Tsuruga, also serving set meals and seafood dishes.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=149&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Marika",
+     "name_en": "Marika",
+     "name_ja": "鞠花",
+     "description": "Izakaya and bar in Tsuruga.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=160&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Nanten",
+     "name_en": "Nanten",
+     "name_ja": "なんてん",
+     "description": "Izakaya and bar in Tsuruga.",
+     "source_url": "https://nanten.uede-web.com",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Teppanyaki Izakaya Shobei",
+     "name_en": "Teppanyaki Izakaya Shobei",
+     "name_ja": "鉄板焼居酒屋 笑兵衛",
+     "description": "Izakaya and bar in Tsuruga, also serving grilled offal and teppanyaki.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=209&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Shokichi",
+     "name_en": "Izakaya Shokichi",
+     "name_ja": "居酒屋 笑吉",
+     "description": "Izakaya and bar in Tsuruga.",
+     "source_url": "http://ffc20020108.com",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Bono Sorriso",
+     "name_en": "Bono Sorriso",
+     "name_ja": "ボーノ・ソリッソ",
+     "description": "Izakaya and bar in Tsuruga, also serving steak and pizza.",
+     "source_url": "https://ffc20020108.com/",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Tsuruga Yoroppa Ken Main Store",
      "name_en": "Tsuruga Yoroppa Ken Main Store",
      "name_ja": "敦賀ヨーロッパ軒 本店",
      "description": "Katsudon (pork-cutlet rice bowl) restaurant specialising in tonkatsu in Tsuruga.",
      "source_url": "https://tabelog.com/fukui/A1803/A180301/18000167/",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Botantei",
+     "name_en": "Botantei",
+     "name_ja": "ぼたん亭",
+     "description": "A luxury steakhouse where you can enjoy local Wagyu beef, Wakasa beef.",
+     "source_url": "https://botantei.net",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Bangbuu",
+     "name_en": "Bangbuu",
+     "name_ja": "ばんぶう",
+     "description": "The store is spacious and has a relaxing atmosphere. There is space for 1 to 32 people. The menu also includes a variety of reasonably priced meats, including domestic Japanese black beef.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=167&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "La Clarte Kagura",
+     "description": "Cafe and sweets shop in Tsuruga, also serving western-style dishes and hamburg steak.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=207&amp;lang=en",
      "page": "https://bokenjapan.com/fukui/tsuruga/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -10407,6 +11470,69 @@
      "name_ja": "千成そば",
      "description": "Soba noodle restaurant specialising in udon noodles and rice bowls in Tsuruga.",
      "source_url": "https://tabelog.com/fukui/A1803/A180301/18004917/",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Chigusa Soba",
+     "name_en": "Chigusa Soba",
+     "name_ja": "千束そば（ちぐさそば）",
+     "description": "Made with freshly ground Fukui buckwheat flour that has been stone-ground, freshly ground, freshly pounded, and freshly boiled.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=82&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Maruni Aioi",
+     "name_en": "Maruni Aioi",
+     "name_ja": "丸仁 相生店",
+     "description": "Soba and udon restaurant in Tsuruga, also serving ramen and set meals.",
+     "source_url": "http://www1.rcn.ne.jp/~maruni_soba/",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Sea of Japan Iroha",
+     "name_en": "Sea of Japan Iroha",
+     "name_ja": "Sea of JAPAN 彩波",
+     "description": "Soba and udon restaurant in Tsuruga, also serving ramen and cafe sweets.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=138&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Senshundokoro Yotteya",
+     "name_en": "Senshundokoro Yotteya",
+     "name_ja": "鮮旬処よって家",
+     "description": "Soba and udon restaurant in Tsuruga, also serving sushi and seafood dishes.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=155&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Mitsuba",
+     "name_en": "Mitsuba",
+     "name_ja": "味’s場",
+     "description": "Soba and udon restaurant in Tsuruga, also serving seafood dishes and crab.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=156&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Hatsuki",
+     "name_en": "Hatsuki",
+     "name_ja": "波月",
+     "description": "Soba and udon restaurant in Tsuruga, also serving set meals and eel.",
+     "source_url": "https://kana522e2.wixsite.com/my-site-3",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Shobei",
+     "name_en": "Shobei",
+     "name_ja": "荘兵衛",
+     "description": "Soba and udon restaurant in Tsuruga, also serving seafood dishes and eel.",
+     "source_url": "https://www.dining-shioso.jp/soubei/menu.html",
      "page": "https://bokenjapan.com/fukui/tsuruga/eat/noodles/",
      "category": "Japanese (noodles)"
     },
@@ -10524,6 +11650,42 @@
      "name_ja": "海鮮かに処甲羅亭",
      "description": "Seafood rice-bowl restaurant in Tsuruga.",
      "source_url": "https://tabelog.com/fukui/A1803/A180301/18007102/",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Marukan Sushi",
+     "name_en": "Marukan Sushi",
+     "name_ja": "丸勘寿司",
+     "description": "Sushi restaurant in Tsuruga.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=63&amp;lang=en",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "takesi",
+     "name_en": "takesi",
+     "name_ja": "建",
+     "description": "The restaurant offers set menus, a la carte dishes, one-pot meals, and kaiseki meals centering on local sake and fish.",
+     "source_url": "https://www.takesi.jp",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Yamatomo",
+     "name_en": "Yamatomo",
+     "name_ja": "やまとも",
+     "description": "Dishes that make you feel the seasons. At the counter seats, you can enjoy the live atmosphere while watching the cooking process, and at the table seats, you can relax in a calm space.",
+     "source_url": "https://yamatomo-kagura.com/",
+     "page": "https://bokenjapan.com/fukui/tsuruga/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Shinsengumi",
+     "name_en": "Shinsengumi",
+     "name_ja": "新鮮組",
+     "description": "Sushi restaurant in Tsuruga.",
+     "source_url": "https://eat-fukui.com/store/detail.php?id=154&amp;lang=en",
      "page": "https://bokenjapan.com/fukui/tsuruga/eat/seafood/",
      "category": "Japanese (seafood)"
     }
