@@ -98,6 +98,46 @@
      "category": "Cafe"
     },
     {
+     "name": "Cafe Mikan no Ki",
+     "name_en": "Cafe Mikan no Ki",
+     "name_ja": "Cafe みかんの木",
+     "description": "Cafe and bakery in Arida.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400127",
+     "page": "https://bokenjapan.com/wakayama/arida/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Terrace Cafe Ricefield",
+     "description": "Cafe and bakery in Arida.",
+     "source_url": "https://cafe-ricefield.com/",
+     "page": "https://bokenjapan.com/wakayama/arida/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Craud",
+     "name_en": "Craud",
+     "description": "Cafe in Arida.",
+     "source_url": "https://www.openstreetmap.org/node/6822316815",
+     "page": "https://bokenjapan.com/wakayama/arida/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Fuka",
+     "name_en": "Fuka",
+     "description": "Cafe in Arida.",
+     "source_url": "https://www.openstreetmap.org/node/6822316845",
+     "page": "https://bokenjapan.com/wakayama/arida/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Rin",
+     "name_en": "Rin",
+     "description": "Cafe in Arida.",
+     "source_url": "https://www.openstreetmap.org/node/6822316342",
+     "page": "https://bokenjapan.com/wakayama/arida/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Shirasu-ya Fuku Ogi",
      "name_en": "Shirasu-ya Fuku Ogi",
      "name_ja": "しらす屋福扇",
@@ -125,6 +165,15 @@
      "category": "Casual"
     },
     {
+     "name": "Sukiya",
+     "name_en": "Sukiya",
+     "name_ja": "すき家",
+     "description": "Fast-food restaurant in Miyazaki Machi, Arida. Open 24 hours, every day.",
+     "source_url": "https://www.sukiya.jp/",
+     "page": "https://bokenjapan.com/wakayama/arida/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Teiseiro",
      "name_en": "Teiseiro",
      "name_ja": "帝成楼",
@@ -143,6 +192,13 @@
      "category": "European"
     },
     {
+     "name": "Arucceppo Pizza and Salad",
+     "description": "Italian, French or Spanish restaurant in Arida, also serving cafe fare.",
+     "source_url": "https://instagram.com/alceppoarida?igshid=MWk2Z3c3YWt3bG4zeg%3D%3D&amp;amp;utm_source=qr",
+     "page": "https://bokenjapan.com/wakayama/arida/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Kokoro Michi",
      "name_en": "Kokoro Michi",
      "name_ja": "心道",
@@ -157,6 +213,15 @@
      "name_ja": "ぽあろ食堂",
      "description": "Karaage (fried chicken) shop in Arida.",
      "source_url": "https://tabelog.com/wakayama/A3002/A300202/30012237/",
+     "page": "https://bokenjapan.com/wakayama/arida/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Kawamoto",
+     "name_en": "Yakiniku Kawamoto",
+     "name_ja": "焼肉かわもと",
+     "description": "Yakiniku restaurant in Arida.",
+     "source_url": "https://www.openstreetmap.org/node/6822316848",
      "page": "https://bokenjapan.com/wakayama/arida/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -193,6 +258,24 @@
      "name_ja": "天乙商店",
      "description": "Japanese restaurant in Arida.",
      "source_url": "https://tabelog.com/wakayama/A3002/A300202/30006771/",
+     "page": "https://bokenjapan.com/wakayama/arida/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Gohanya Tsuitachi Ichizen",
+     "name_en": "Gohanya Tsuitachi Ichizen",
+     "name_ja": "ごはんや 一日一膳",
+     "description": "Japanese restaurant in Arida.",
+     "source_url": "https://www.openstreetmap.org/node/10870680464",
+     "page": "https://bokenjapan.com/wakayama/arida/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Maruki Shokudo",
+     "name_en": "Maruki Shokudo",
+     "name_ja": "マルキ食堂",
+     "description": "Japanese restaurant in Arida. Open Mon-Wed, Fri-Sun 11:00-17:30.",
+     "source_url": "https://www.openstreetmap.org/node/6822352085",
      "page": "https://bokenjapan.com/wakayama/arida/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -238,6 +321,15 @@
      "name_ja": "早和果樹園 本社店",
      "description": "Sweets shop in Arida.",
      "source_url": "https://tabelog.com/wakayama/A3002/A300202/30009655/",
+     "page": "https://bokenjapan.com/wakayama/arida/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bakery in Arida",
+     "name_en": "Bakery in Arida",
+     "name_ja": "スエヒロ",
+     "description": "Bakery in Arida. Open Mon-Sat 07:00-18:30.",
+     "source_url": "https://www.openstreetmap.org/node/6822316522",
      "page": "https://bokenjapan.com/wakayama/arida/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -437,6 +529,23 @@
      "category": "Cafe"
     },
     {
+     "name": "gekkou pizza&coffee",
+     "name_en": "gekkou pizza&coffee",
+     "description": "Cafe in Aridagawa.",
+     "source_url": "https://www.openstreetmap.org/way/758314742",
+     "page": "https://bokenjapan.com/wakayama/aridagawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "GOLDEN RIVER",
+     "name_en": "GOLDEN RIVER",
+     "name_ja": "GOLDEN RIVER（ゴールデンリバー）",
+     "description": "Cafe in Aridagawa.",
+     "source_url": "https://www.openstreetmap.org/node/1423055775",
+     "page": "https://bokenjapan.com/wakayama/aridagawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Shirasu-ya Yuasa Wan Noritane",
      "name_en": "Shirasu-ya Yuasa Wan Noritane",
      "name_ja": "しらす屋ゆあさ湾 則種",
@@ -473,11 +582,27 @@
      "category": "Casual"
     },
     {
+     "name": "Matsumoto",
+     "description": "Okonomiyaki and takoyaki restaurant in Aridagawa.",
+     "source_url": "https://www.instagram.com/teppanya_matsumoto/",
+     "page": "https://bokenjapan.com/wakayama/aridagawa/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Chuka Restaurant Norichan",
      "name_en": "Chuka Restaurant Norichan",
      "name_ja": "中華レストラン のりちゃん",
      "description": "Chinese restaurant specialising in diner fare and gyoza in Aridagawa.",
      "source_url": "https://tabelog.com/wakayama/A3002/A300202/30008988/",
+     "page": "https://bokenjapan.com/wakayama/aridagawa/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Taiwan Bishoku Kurenaiyo",
+     "name_en": "Taiwan Bishoku Kurenaiyo",
+     "name_ja": "台湾美食 紅陽",
+     "description": "Asian restaurant in Aridagawa.",
+     "source_url": "https://www.openstreetmap.org/node/6822315732",
      "page": "https://bokenjapan.com/wakayama/aridagawa/eat/chinese-asian/",
      "category": "Chinese & Asian"
     },
@@ -527,6 +652,24 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Yakiniku Horumon Aridaya",
+     "name_en": "Yakiniku Horumon Aridaya",
+     "name_ja": "焼肉ホルモン ありだ屋",
+     "description": "Yakiniku and steak restaurant in Aridagawa.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400134",
+     "page": "https://bokenjapan.com/wakayama/aridagawa/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Daisuki",
+     "name_en": "Yakiniku Daisuki",
+     "name_ja": "焼肉 だいすき",
+     "description": "Barbecue restaurant in Aridagawa.",
+     "source_url": "https://www.openstreetmap.org/node/4568894638",
+     "page": "https://bokenjapan.com/wakayama/aridagawa/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Men dining Gatsu no-ya",
      "name_en": "Men dining Gatsu no-ya",
      "name_ja": "麺dining 月乃家",
@@ -550,6 +693,33 @@
      "name_ja": "道の駅 しらまの里",
      "description": "Roadside station (michi-no-eki) food counter in Aridagawa.",
      "source_url": "https://tabelog.com/wakayama/A3002/A300202/30006568/",
+     "page": "https://bokenjapan.com/wakayama/aridagawa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Osakaosho Aridagawa Branch",
+     "name_en": "Osakaosho Aridagawa Branch",
+     "name_ja": "大阪王将 有田川店",
+     "description": "Restaurant in Aridagawa.",
+     "source_url": "https://www.openstreetmap.org/node/4568895855",
+     "page": "https://bokenjapan.com/wakayama/aridagawa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Sanka",
+     "name_en": "Sanka",
+     "name_ja": "山香",
+     "description": "Restaurant in Aridagawa.",
+     "source_url": "https://www.openstreetmap.org/node/14146050801",
+     "page": "https://bokenjapan.com/wakayama/aridagawa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Tori Yoshi",
+     "name_en": "Tori Yoshi",
+     "name_ja": "鳥よし",
+     "description": "Restaurant in Aridagawa.",
+     "source_url": "https://www.openstreetmap.org/node/6822315731",
      "page": "https://bokenjapan.com/wakayama/aridagawa/eat/other/",
      "category": "Other"
     },
@@ -630,6 +800,15 @@
      "name_ja": "マンサダパン日和",
      "description": "Bakery in Aridagawa.",
      "source_url": "https://tabelog.com/wakayama/A3002/A300202/30007484/",
+     "page": "https://bokenjapan.com/wakayama/aridagawa/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Fujiya",
+     "name_en": "Fujiya",
+     "name_ja": "不二家",
+     "description": "Bakery in Aridagawa.",
+     "source_url": "https://www.openstreetmap.org/node/4438730412",
      "page": "https://bokenjapan.com/wakayama/aridagawa/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -913,6 +1092,22 @@
      "category": "Cafe"
     },
     {
+     "name": "ATARU Cafe",
+     "name_en": "ATARU Cafe",
+     "description": "Cafe in Gobo.",
+     "source_url": "https://www.openstreetmap.org/node/6899764303",
+     "page": "https://bokenjapan.com/wakayama/gobo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "cafe muku",
+     "name_en": "cafe muku",
+     "description": "Cafe in Gobo.",
+     "source_url": "https://www.openstreetmap.org/node/7081903602",
+     "page": "https://bokenjapan.com/wakayama/gobo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Ganso Sechi Yaki Yamashita",
      "name_en": "Ganso Sechi Yaki Yamashita",
      "name_ja": "元祖せち焼き やました",
@@ -981,6 +1176,14 @@
      "name_ja": "咲吉",
      "description": "Izakaya (Japanese pub) specialising in yakitori in Gobo.",
      "source_url": "https://tabelog.com/wakayama/A3003/A300301/30006545/",
+     "page": "https://bokenjapan.com/wakayama/gobo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Mornig Glory",
+     "name_en": "Mornig Glory",
+     "description": "Bar in Gobo.",
+     "source_url": "https://www.openstreetmap.org/node/5965536949",
      "page": "https://bokenjapan.com/wakayama/gobo/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -1081,6 +1284,31 @@
      "source_url": "https://tabelog.com/wakayama/A3003/A300301/30001293/",
      "page": "https://bokenjapan.com/wakayama/gobo/eat/noodles/",
      "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Yokohama Kakei Saiie Ramen",
+     "name_en": "Yokohama Kakei Saiie Ramen",
+     "name_ja": "横浜家系斎家らーめん",
+     "description": "Ramen restaurant in Gobo.",
+     "source_url": "https://www.openstreetmap.org/node/3494420681",
+     "page": "https://bokenjapan.com/wakayama/gobo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Japanese restaurant in Gobo",
+     "name_en": "Japanese restaurant in Gobo",
+     "name_ja": "大阪王将",
+     "description": "Japanese restaurant in Yunokawacho Takarabe, Gobo. Open Mon-Sat 11:00-21:30.",
+     "source_url": "https://www.openstreetmap.org/node/4438473990",
+     "page": "https://bokenjapan.com/wakayama/gobo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Tanimoto",
+     "description": "Japanese restaurant in Gobo.",
+     "source_url": "https://kdru200.gorp.jp/",
+     "page": "https://bokenjapan.com/wakayama/gobo/eat/other-japanese/",
+     "category": "Other Japanese"
     },
     {
      "name": "Kawatsune",
@@ -1228,6 +1456,94 @@
      "category": "Cafe"
     },
     {
+     "name": "Café in Hashimoto",
+     "name_en": "Café in Hashimoto",
+     "name_ja": "カフェド甲比丹",
+     "description": "Cafe in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3768436146",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe greenhorn",
+     "name_en": "Cafe greenhorn",
+     "description": "Cafe in Hashimoto. Open daily 11:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/3928042205",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Raku",
+     "name_en": "Cafe Raku",
+     "name_ja": "Cafe 楽",
+     "description": "Cafe in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3768477587",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Fujiya Wakayama Hashimoto Branch",
+     "name_en": "Fujiya Wakayama Hashimoto Branch",
+     "name_ja": "不二家 和歌山橋本店",
+     "description": "Cafe in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3768409921",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kissa Hiro",
+     "name_en": "Kissa Hiro",
+     "name_ja": "喫茶ヒロ",
+     "description": "Cafe in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3768493848",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kissaten Popi",
+     "name_en": "Kissaten Popi",
+     "name_ja": "喫茶店 ポピー",
+     "description": "Cafe in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3846153865",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Maamareido Cafe",
+     "name_en": "Maamareido Cafe",
+     "name_ja": "マ―マレイドカフェ",
+     "description": "Cafe in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3768496132",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Mitsu",
+     "name_en": "Mitsu",
+     "name_ja": "喫茶みつ",
+     "description": "Cafe in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3846295122",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Hashimoto",
+     "name_en": "Cafe in Hashimoto",
+     "name_ja": "サン",
+     "description": "Cafe in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3768398960",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "TIE",
+     "name_en": "TIE",
+     "description": "Cafe in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3398584110",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Sake to Meshi Mitu Shokudo",
      "name_en": "Sake to Meshi Mitu Shokudo",
      "name_ja": "酒と飯 Mitu食堂",
@@ -1264,6 +1580,42 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Kihoku Hanten",
+     "name_en": "Kihoku Hanten",
+     "name_ja": "紀北飯店",
+     "description": "Chinese restaurant in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3406679430",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Indian restaurant in Hashimoto",
+     "name_en": "Indian restaurant in Hashimoto",
+     "name_ja": "インドレストラン ニューデリ",
+     "description": "Indian restaurant in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3846153867",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Mizuki",
+     "name_en": "Mizuki",
+     "name_ja": "水月",
+     "description": "Pub in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3908867725",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yatsurugi Den Hashimoto Branch",
+     "name_en": "Yatsurugi Den Hashimoto Branch",
+     "name_ja": "八剣伝 橋本店",
+     "description": "Japanese pub in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3768420877",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Hamburg-steak restaurant specialising in Hashimoto",
      "name_en": "Hamburg-steak restaurant specialising in Hashimoto",
      "name_ja": "コロンブス",
@@ -1287,6 +1639,24 @@
      "name_ja": "焼肉花川",
      "description": "Yakiniku (grilled meat) restaurant in Hashimoto.",
      "source_url": "https://tabelog.com/wakayama/A3001/A300103/30001361/",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Bincho Ogiya Hashimoto Sai no Dai Branch",
+     "name_en": "Bincho Ogiya Hashimoto Sai no Dai Branch",
+     "name_ja": "備長扇屋 橋本彩の台店",
+     "description": "Barbecue restaurant in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3768379278",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Chakoru Kobo Ryohei",
+     "name_en": "Chakoru Kobo Ryohei",
+     "name_ja": "チャコール工房良平",
+     "description": "Yakitori restaurant in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3908820797",
      "page": "https://bokenjapan.com/wakayama/hashimoto/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -1336,11 +1706,72 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Men Sakaba Yumeichi",
+     "name_en": "Men Sakaba Yumeichi",
+     "name_ja": "麺酒場 夢一",
+     "description": "Ramen shop in Hashimoto.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400122",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Koya Soba Kokone Koyaguchi Ekimae",
+     "description": "Udon and soba restaurant in Hashimoto.",
+     "source_url": "https://koyasoba-koyaguchi.business.site/",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Chikara Udon",
+     "name_en": "Chikara Udon",
+     "name_ja": "力うどん",
+     "description": "Noodle and soba restaurant in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3441697945",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Hisaya",
+     "name_en": "Hisaya",
+     "name_ja": "ひさや",
+     "description": "Udon restaurant in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3842226489",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Soba restaurant in Hashimoto",
+     "name_en": "Soba restaurant in Hashimoto",
+     "name_ja": "紀の川そば",
+     "description": "Soba restaurant in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3768381328",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Mikaeriramen",
+     "name_en": "Mikaeriramen",
+     "name_ja": "みかえりらぁめん",
+     "description": "Ramen restaurant in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3764966942",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Kiimiso",
      "name_en": "Kiimiso",
      "name_ja": "紀伊見荘",
      "description": "Inn restaurant in Hashimoto.",
      "source_url": "https://tabelog.com/wakayama/A3001/A300103/30006086/",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Tamagoiori Hashitama",
+     "name_en": "Tamagoiori Hashitama",
+     "name_ja": "卵庵 はしたま",
+     "description": "Restaurant in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/4160545320",
      "page": "https://bokenjapan.com/wakayama/hashimoto/eat/other/",
      "category": "Other"
     },
@@ -1381,6 +1812,111 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Sushiya Magokoro",
+     "description": "Sushi restaurant in Hashimoto.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400089",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Botefuku",
+     "name_en": "Botefuku",
+     "name_ja": "ぼて福",
+     "description": "Okonomiyaki restaurant in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3804357624",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "café KTM",
+     "name_en": "cafe KTM",
+     "description": "Japanese restaurant in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3846147869",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Hisago",
+     "name_en": "Hisago",
+     "name_ja": "ひさご",
+     "description": "Japanese restaurant in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3768495463",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kaisen Dining Bikura",
+     "name_en": "Kaisen Dining Bikura",
+     "name_ja": "海鮮ダイニング 美蔵",
+     "description": "Japanese restaurant in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3846127874",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kenta",
+     "name_en": "Kenta",
+     "name_ja": "けんた",
+     "description": "Japanese restaurant in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3379081158",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kotaro",
+     "name_en": "Kotaro",
+     "name_ja": "小太郎",
+     "description": "Japanese restaurant in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3903853179",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Nobu",
+     "name_en": "Nobu",
+     "name_ja": "のぶ",
+     "description": "Japanese restaurant in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3768513976",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Nokami",
+     "name_en": "Nokami",
+     "name_ja": "のかみ",
+     "description": "Japanese restaurant in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3345301629",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Sakaiya",
+     "name_en": "Sakaiya",
+     "name_ja": "堺屋",
+     "description": "Japanese restaurant in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3768407961",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shokusai Kan",
+     "name_en": "Shokusai Kan",
+     "name_ja": "食彩館",
+     "description": "Japanese restaurant in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3768375446",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Taira",
+     "name_en": "Taira",
+     "name_ja": "平",
+     "description": "Japanese restaurant in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/2078191012",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Naniwado",
      "name_en": "Naniwado",
      "name_ja": "浪花堂",
@@ -1403,6 +1939,15 @@
      "name_en": "Country-Side",
      "description": "Bakery specialising in sandwiches and coffee in Hashimoto.",
      "source_url": "https://tabelog.com/wakayama/A3001/A300103/30004378/",
+     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Yusa Himuro",
+     "name_en": "Yusa Himuro",
+     "name_ja": "遊佐氷室",
+     "description": "Ice cream cafe in Hashimoto.",
+     "source_url": "https://www.openstreetmap.org/node/3768406321",
      "page": "https://bokenjapan.com/wakayama/hashimoto/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -2506,6 +3051,13 @@
      "category": "Cafe"
     },
     {
+     "name": "SAKURA NO TANE",
+     "description": "Cafe and bakery in Iwade.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400118",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Okonomiyaki Negoro",
      "name_en": "Okonomiyaki Negoro",
      "name_ja": "お好み焼ねごろ",
@@ -2540,6 +3092,24 @@
      "source_url": "https://tabelog.com/wakayama/A3001/A300102/30010593/",
      "page": "https://bokenjapan.com/wakayama/iwade/eat/chinese-asian/",
      "category": "Chinese & Asian"
+    },
+    {
+     "name": "Marutaya",
+     "name_en": "Marutaya",
+     "name_ja": "丸太屋",
+     "description": "Chinese restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/11645698558",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Indian restaurant in Iwade",
+     "name_en": "Indian restaurant in Iwade",
+     "name_ja": "インド料理専門店クシュクシュ岩出店",
+     "description": "Indian restaurant in Dobugawa, Iwade. Open daily 11:00-15:00, 17:00-21:30; closed Tue.",
+     "source_url": "https://www.openstreetmap.org/way/734269143",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/curry/",
+     "category": "Curry"
     },
     {
      "name": "Villa Aida",
@@ -2601,6 +3171,15 @@
      "name_ja": "厚切りとんかつ よし平 岩出中迫店",
      "description": "Tonkatsu (pork cutlet) restaurant specialising in diner fare in Iwade.",
      "source_url": "https://tabelog.com/wakayama/A3001/A300102/30010557/",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Sumibi Yakiniku Sakai",
+     "name_en": "Sumibi Yakiniku Sakai",
+     "name_ja": "炭火焼肉さかい",
+     "description": "Yakiniku restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/14028739911",
      "page": "https://bokenjapan.com/wakayama/iwade/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -2685,6 +3264,219 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Mushamen Negoro Interchange",
+     "name_en": "Mushamen Negoro Interchange",
+     "name_ja": "武者麺 根来インター店",
+     "description": "Ramen shop in Iwade.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400136",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Dotonbori Kamikura",
+     "name_en": "Dotonbori Kamikura",
+     "name_ja": "どうとんぼり 神座",
+     "description": "Ramen restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/12862112858",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Yokozuna",
+     "name_en": "Ramen Yokozuna",
+     "name_ja": "ラーメン横綱",
+     "description": "Noodle restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/4434404214",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Yokozuna Iwade Branch",
+     "name_en": "Ramen Yokozuna Iwade Branch",
+     "name_ja": "ラーメン横綱 岩出店",
+     "description": "Noodle restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/way/680550891",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Zundoya",
+     "name_en": "Ramen Zundoya",
+     "name_ja": "ラー麺 ずんどう屋",
+     "description": "Ramen restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/4437557590",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Shio Ramen Specialty Shop SHIN8",
+     "name_en": "Shio Ramen Specialty Shop SHIN8",
+     "name_ja": "塩らーめん専門店 SHIN8",
+     "description": "Ramen restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/12376243247",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tengu",
+     "name_en": "Tengu",
+     "name_ja": "てんぐ",
+     "description": "Ramen restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/12376243252",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tonkotsu Chuka Soba Gantare",
+     "name_en": "Tonkotsu Chuka Soba Gantare",
+     "name_ja": "豚骨中華そば がんたれ",
+     "description": "Ramen restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/14028739943",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Yagura Ramen",
+     "name_en": "Yagura Ramen",
+     "name_ja": "やぐらラーメン",
+     "description": "Ramen restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/14028726874",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Yamazaki Ramen",
+     "name_en": "Yamazaki Ramen",
+     "name_ja": "山崎ラーメン",
+     "description": "Ramen restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/4425069884",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "PISOLA",
+     "name_en": "PISOLA",
+     "description": "Restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/14028726858",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Japanese restaurant in Iwade",
+     "name_en": "Japanese restaurant in Iwade",
+     "name_ja": "ベルクライン",
+     "description": "Japanese restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/14028739912",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Hatsuhana",
+     "name_en": "Hatsuhana",
+     "name_ja": "初花",
+     "description": "Japanese restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/way/638999673",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Iwade Sakaba Kaki no Tane",
+     "name_en": "Iwade Sakaba Kaki no Tane",
+     "name_ja": "岩出酒場 柿の種",
+     "description": "Japanese restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/14084747650",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Juhachibanya",
+     "name_en": "Juhachibanya",
+     "name_ja": "十八番屋",
+     "description": "Japanese restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/14028592530",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Menya Take I",
+     "name_en": "Menya Take I",
+     "name_ja": "麺屋たけ井",
+     "description": "Japanese restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/14028739955",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Musha Men",
+     "name_en": "Musha Men",
+     "name_ja": "武者麺",
+     "description": "Japanese restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/14028726897",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Niku no Marufuku",
+     "name_en": "Niku no Marufuku",
+     "name_ja": "肉のまるふく",
+     "description": "Japanese restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/14084747680",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Okonomiyaki Kiha Kokoyanen",
+     "name_en": "Okonomiyaki Kiha Kokoyanen",
+     "name_ja": "お好み焼きは ここやねん",
+     "description": "Japanese restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/4438480990",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Oshokujidokoro Yoshioka",
+     "name_en": "Oshokujidokoro Yoshioka",
+     "name_ja": "お食事処よしおか",
+     "description": "Japanese restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/14028726849",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shinano Michi",
+     "name_en": "Shinano Michi",
+     "name_ja": "信濃路",
+     "description": "Japanese restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/14028726868",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Tempura Kaisen Yoshi Taira",
+     "name_en": "Tempura Kaisen Yoshi Taira",
+     "name_ja": "天ぷら海鮮 よし平",
+     "description": "Japanese restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/14028739914",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Tonkatsu Yoshi Taira",
+     "name_en": "Tonkatsu Yoshi Taira",
+     "name_ja": "とんかつ よし平",
+     "description": "Japanese restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/14028739922",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yamada Hirokichi Shouten",
+     "description": "Izakaya (Japanese pub) in Iwade.",
+     "source_url": "https://www.instagram.com/hirokichi_wakayama_japan/",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Tozaemon",
      "name_en": "Tozaemon",
      "name_ja": "藤左エ門",
@@ -2710,6 +3502,42 @@
      "source_url": "https://tabelog.com/wakayama/A3001/A300102/30004763/",
      "page": "https://bokenjapan.com/wakayama/iwade/eat/seafood/",
      "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Akatsuki Sushi",
+     "name_en": "Akatsuki Sushi",
+     "name_ja": "暁寿司",
+     "description": "Sushi restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/14028739924",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Yaichi",
+     "name_en": "Yaichi",
+     "name_ja": "弥一",
+     "description": "Sushi restaurant in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/14028726895",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Cake restaurant in Iwade",
+     "name_en": "Cake restaurant in Iwade",
+     "name_ja": "ベルギーカフェ ベルクライン",
+     "description": "Cake restaurant in Iwade. Open daily 10:00-18:00.",
+     "source_url": "https://www.openstreetmap.org/node/4440535098",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Kaisenya Dai Kurofune",
+     "name_en": "Kaisenya Dai Kurofune",
+     "name_ja": "海鮮屋台 黒船",
+     "description": "Seafood bakery in Iwade.",
+     "source_url": "https://www.openstreetmap.org/node/4438780723",
+     "page": "https://bokenjapan.com/wakayama/iwade/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "sights": [
@@ -2747,6 +3575,14 @@
      "name_ja": "紀州藩 根来路 備前家",
      "description": "Inn in Iwade with one group per day.",
      "source_url": "https://www.jalan.net/yad383648/",
+     "page": "https://bokenjapan.com/wakayama/iwade/stay/"
+    },
+    {
+     "name": "Hotel in Iwade",
+     "name_en": "Hotel in Iwade",
+     "name_ja": "ビジネスホテル岩出",
+     "description": "Hotel in Iwade.",
+     "source_url": "https://www.openstreetmap.org/way/1236901876",
      "page": "https://bokenjapan.com/wakayama/iwade/stay/"
     }
    ]
@@ -2804,6 +3640,62 @@
      "category": "Cafe"
     },
     {
+     "name": "Michi no Eki Kainan Sakuasu SHIMOTSU FRUITS",
+     "description": "Cafe and bakery in Kainan.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400056",
+     "page": "https://bokenjapan.com/wakayama/kainan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Jolly Roger",
+     "name_en": "Cafe Jolly Roger",
+     "description": "Cafe in Kainan.",
+     "source_url": "https://www.openstreetmap.org/way/1524182520",
+     "page": "https://bokenjapan.com/wakayama/kainan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Colline",
+     "name_en": "Colline",
+     "description": "Cafe in Kainan.",
+     "source_url": "https://www.openstreetmap.org/node/6822330306",
+     "page": "https://bokenjapan.com/wakayama/kainan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kazamachi Cafe",
+     "name_en": "Kazamachi Cafe",
+     "name_ja": "かざまちカフェ",
+     "description": "Cafe in Kainan.",
+     "source_url": "https://www.openstreetmap.org/node/5059596888",
+     "page": "https://bokenjapan.com/wakayama/kainan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "mango cafe",
+     "name_en": "mango cafe",
+     "description": "Cafe in Kainan.",
+     "source_url": "https://www.openstreetmap.org/node/5059596887",
+     "page": "https://bokenjapan.com/wakayama/kainan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Moca",
+     "name_en": "Moca",
+     "description": "Cafe in Kainan.",
+     "source_url": "https://www.openstreetmap.org/node/6822355592",
+     "page": "https://bokenjapan.com/wakayama/kainan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Trailer Garden Cafe",
+     "name_en": "Trailer Garden Cafe",
+     "description": "Cafe in Kainan.",
+     "source_url": "https://www.openstreetmap.org/way/1442405519",
+     "page": "https://bokenjapan.com/wakayama/kainan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Casual diner (shokudo) in Kainan",
      "name_en": "Casual diner (shokudo) in Kainan",
      "name_ja": "炭火焼和めし処 しんぱち食堂 海南店",
@@ -2822,6 +3714,15 @@
      "category": "Casual"
     },
     {
+     "name": "Burger fast-food restaurant in Kainan",
+     "name_en": "Burger fast-food restaurant in Kainan",
+     "name_ja": "ドムドムバーガー",
+     "description": "Burger fast-food restaurant in Kainan.",
+     "source_url": "https://www.openstreetmap.org/node/11116555843",
+     "page": "https://bokenjapan.com/wakayama/kainan/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Keika",
      "name_en": "Keika",
      "name_ja": "桂花",
@@ -2836,6 +3737,15 @@
      "name_ja": "まるとみ食堂",
      "description": "Chinese restaurant specialising in diner fare and ramen in Kainan.",
      "source_url": "https://tabelog.com/wakayama/A3002/A300201/30002856/",
+     "page": "https://bokenjapan.com/wakayama/kainan/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Keika",
+     "name_en": "Keika",
+     "name_ja": "桂花",
+     "description": "Chinese restaurant in Ono Naka, Kainan. Open daily 11:00-14:00, 17:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/way/758318055",
      "page": "https://bokenjapan.com/wakayama/kainan/eat/chinese-asian/",
      "category": "Chinese & Asian"
     },
@@ -2876,6 +3786,15 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Izakaya Mire",
+     "name_en": "Izakaya Mire",
+     "name_ja": "居酒屋ミレー",
+     "description": "Izakaya bar in Kainan.",
+     "source_url": "https://www.openstreetmap.org/node/6822316538",
+     "page": "https://bokenjapan.com/wakayama/kainan/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Restaurant Man Age Ton Fuku Ten",
      "name_en": "Restaurant Man Age Ton Fuku Ten",
      "name_ja": "お食事処 萬揚げとん福天",
@@ -2899,6 +3818,15 @@
      "name_ja": "かつ専門 さかもと",
      "description": "Tonkatsu (pork cutlet) restaurant specialising in tempura and curry in Kainan.",
      "source_url": "https://tabelog.com/wakayama/A3002/A300201/30009728/",
+     "page": "https://bokenjapan.com/wakayama/kainan/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Yoshino",
+     "name_en": "Yakiniku Yoshino",
+     "name_ja": "焼肉 吉野",
+     "description": "Yakiniku restaurant in Kainan.",
+     "source_url": "https://www.openstreetmap.org/node/6822316537",
      "page": "https://bokenjapan.com/wakayama/kainan/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -2939,6 +3867,38 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Bariuma Wakayama Iwade",
+     "description": "Ramen shop in Kainan.",
+     "source_url": "https://www.hastle.jp/",
+     "page": "https://bokenjapan.com/wakayama/kainan/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Bakumatsu Kainan",
+     "description": "Ramen shop in Kainan.",
+     "source_url": "https://men-bakumatsu.com/",
+     "page": "https://bokenjapan.com/wakayama/kainan/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Bakumatsu Ramen",
+     "name_en": "Bakumatsu Ramen",
+     "name_ja": "幕末らーめん",
+     "description": "Ramen restaurant in Kainan.",
+     "source_url": "https://www.openstreetmap.org/way/547849250",
+     "page": "https://bokenjapan.com/wakayama/kainan/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon Ukawa",
+     "name_en": "Udon Ukawa",
+     "name_ja": "うどん うかわ",
+     "description": "Udon restaurant in Kainan.",
+     "source_url": "https://www.openstreetmap.org/node/11335285707",
+     "page": "https://bokenjapan.com/wakayama/kainan/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "SHIMOTSU FRUITS",
      "name_en": "Shimotsu Fruits",
      "description": "Fruit parlour in Kainan.",
@@ -2952,6 +3912,33 @@
      "name_ja": "道の駅 海南サクアス",
      "description": "Roadside station (michi-no-eki) food counter in Kainan.",
      "source_url": "https://tabelog.com/wakayama/A3002/A300201/30012130/",
+     "page": "https://bokenjapan.com/wakayama/kainan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kusunokiya",
+     "name_en": "Kusunokiya",
+     "name_ja": "楠木屋",
+     "description": "Restaurant in Kainan.",
+     "source_url": "https://www.openstreetmap.org/node/4238922889",
+     "page": "https://bokenjapan.com/wakayama/kainan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Kainan",
+     "name_en": "Restaurant in Kainan",
+     "name_ja": "マキシム",
+     "description": "Restaurant in Kainan.",
+     "source_url": "https://www.openstreetmap.org/node/5059582731",
+     "page": "https://bokenjapan.com/wakayama/kainan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Michikusa",
+     "name_en": "Michikusa",
+     "name_ja": "みちくさ",
+     "description": "Restaurant in Kainan.",
+     "source_url": "https://www.openstreetmap.org/node/5059582730",
      "page": "https://bokenjapan.com/wakayama/kainan/eat/other/",
      "category": "Other"
     },
@@ -2997,6 +3984,14 @@
      "name_ja": "ずぼら焼き 東浜店",
      "description": "Sweets shop in Kainan.",
      "source_url": "https://tabelog.com/wakayama/A3002/A300201/30004780/",
+     "page": "https://bokenjapan.com/wakayama/kainan/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Patisserie Kusugin",
+     "name_en": "Patisserie Kusugin",
+     "description": "Pastry shop in Kainan.",
+     "source_url": "https://www.openstreetmap.org/node/13894700448",
      "page": "https://bokenjapan.com/wakayama/kainan/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -4159,11 +5154,105 @@
      "category": "Cafe"
     },
     {
+     "name": "Toutouan",
+     "description": "Cafe and bakery in Kinokawa.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400104",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kannonyama Fruits Parlor",
+     "description": "Cafe and bakery in Kinokawa.",
+     "source_url": "https://parlour.kannonyama.jp/",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Café in Kinokawa (#1)",
+     "name_en": "Café in Kinokawa (#1)",
+     "name_ja": "カフェ イーバ 紀の川",
+     "description": "Cafe in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/way/1316867640",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Tomobuchi",
+     "name_en": "Cafe Tomobuchi",
+     "description": "Cafe in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/node/13705711929",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "CAFE&BAR Perushu",
+     "name_en": "CAFE&BAR Perushu",
+     "name_ja": "CAFE & BAR ペルシュ",
+     "description": "Cafe in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/node/12175945971",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe&Resto Sansui",
+     "name_en": "Cafe&Resto Sansui",
+     "name_ja": "カフェ&レスト サンスイ",
+     "description": "Cafe in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/way/1315448438",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Fujimomo Iori",
+     "name_en": "Fujimomo Iori",
+     "name_ja": "藤桃庵",
+     "description": "Cafe in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/node/12683663503",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kissa Natsukusa",
+     "name_en": "Kissa Natsukusa",
+     "name_ja": "喫茶 夏草",
+     "description": "Cafe in Kinokawa. Open Wed-Mon 10:00-17:00.",
+     "source_url": "https://www.openstreetmap.org/node/6524489085",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Madoka",
+     "name_en": "Madoka",
+     "name_ja": "まどか",
+     "description": "Cafe in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/way/1339370498",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Kinokawa",
+     "name_en": "Cafe in Kinokawa",
+     "name_ja": "サルスベリ Sarusuberiコーヒーとベーグルのおみせ",
+     "description": "Cafe in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/way/1334953878",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Restaurant Fumi",
      "name_en": "Restaurant Fumi",
      "name_ja": "お食事処ふみ",
      "description": "Casual diner (shokudo) specialising in noodles and rice bowls in Kinokawa.",
      "source_url": "https://tabelog.com/wakayama/A3001/A300102/30000307/",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Hokka Hokka Tei",
+     "name_en": "Hokka Hokka Tei",
+     "name_ja": "ほっかほっか亭",
+     "description": "Fast-food restaurant in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/node/4439533292",
      "page": "https://bokenjapan.com/wakayama/kinokawa/eat/casual/",
      "category": "Casual"
     },
@@ -4177,12 +5266,84 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Chugoku Ryori Fukufuku",
+     "name_en": "Chugoku Ryori Fukufuku",
+     "name_ja": "中国料理ふくふく",
+     "description": "Chinese restaurant in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/node/4439094189",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Oshokujidokoro Fumi",
+     "name_en": "Oshokujidokoro Fumi",
+     "name_ja": "お食事処 ふみ",
+     "description": "Chinese restaurant in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/node/4439115989",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Taiwan Bishoku Yufuku Meishu Branch",
+     "name_en": "Taiwan Bishoku Yufuku Meishu Branch",
+     "name_ja": "台湾美食 裕福 名手店",
+     "description": "Chinese restaurant in Meishu Shijo, Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/way/1015453094",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Indo Ryori Nyuderi",
+     "name_en": "Indo Ryori Nyuderi",
+     "name_ja": "インド料理 ニューデリ",
+     "description": "Indian restaurant in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/node/14127367503",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/curry/",
+     "category": "Curry"
+    },
+    {
      "name": "ka ra bi na",
      "name_en": "ka ra bi na",
      "description": "Yoshoku (Western-style Japanese) restaurant in Kinokawa.",
      "source_url": "https://tabelog.com/wakayama/A3001/A300102/30011174/",
      "page": "https://bokenjapan.com/wakayama/kinokawa/eat/european/",
      "category": "European"
+    },
+    {
+     "name": "Joyfull",
+     "name_en": "Joyfull",
+     "name_ja": "ジョイフル",
+     "description": "Western-style restaurant in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/node/4439087790",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Ippin Ryori Ninjin",
+     "name_en": "Ippin Ryori Ninjin",
+     "name_ja": "一品料理にんじん",
+     "description": "Pub in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/way/906985259",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Marufuku",
+     "name_en": "Marufuku",
+     "name_ja": "丸福",
+     "description": "Pub in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/node/12393283257",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yakiniku Matsu Nokura",
+     "name_en": "Yakiniku Matsu Nokura",
+     "name_ja": "焼肉松ノ蔵",
+     "description": "Barbecue restaurant in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/node/12175945983",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/meat/",
+     "category": "Japanese (meat)"
     },
     {
      "name": "Urashima",
@@ -4248,6 +5409,42 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Chuka Soba Daifuku Ken",
+     "name_en": "Chuka Soba Daifuku Ken",
+     "name_ja": "中華そば 大福軒",
+     "description": "Ramen restaurant in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/node/4439024092",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Chuka Soba Shima Akira",
+     "name_en": "Chuka Soba Shima Akira",
+     "name_ja": "中華そば・しま彰",
+     "description": "Ramen restaurant in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/node/4439045057",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menya Yumekaze",
+     "name_en": "Menya Yumekaze",
+     "name_ja": "麺屋 夢風",
+     "description": "Ramen restaurant in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/node/12393283256",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Nidaime Yonakiya",
+     "name_en": "Nidaime Yonakiya",
+     "name_ja": "二代目よなきや",
+     "description": "Ramen restaurant in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/node/12175945982",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Michi no Eki Seishu no Sato",
      "name_en": "Michi no Eki Seishu no Sato",
      "name_ja": "道の駅 青洲の里",
@@ -4257,11 +5454,83 @@
      "category": "Other"
     },
     {
+     "name": "Ajikura",
+     "name_en": "Ajikura",
+     "name_ja": "味蔵",
+     "description": "Restaurant in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/way/741243096",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Guriru Tsukasa",
+     "name_en": "Guriru Tsukasa",
+     "name_ja": "グリル つかさ",
+     "description": "Restaurant in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/node/4439055498",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Masuya Hanten",
+     "name_en": "Masuya Hanten",
+     "name_ja": "ますや飯店",
+     "description": "Restaurant in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/way/1339347095",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Noraya",
+     "name_en": "Noraya",
+     "name_ja": "のらや",
+     "description": "Restaurant in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/way/608086624",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Okageya",
+     "name_en": "Okageya",
+     "name_ja": "おかげや",
+     "description": "Restaurant in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/way/1331250118",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Shinano Michi Uchita Branch",
+     "name_en": "Shinano Michi Uchita Branch",
+     "name_ja": "しなの路打田店",
+     "description": "Restaurant in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/way/637110992",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Toyohachi Inshoku Branch",
+     "name_en": "Toyohachi Inshoku Branch",
+     "name_ja": "豊八 飲食店",
+     "description": "Restaurant in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/node/4439074191",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Maru Onore",
      "name_en": "Maru Onore",
      "name_ja": "丸己",
      "description": "Japanese restaurant specialising in seafood and izakaya dishes in Kinokawa.",
      "source_url": "https://tabelog.com/wakayama/A3001/A300102/30002573/",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Wakayama Kishikawa Shokudo",
+     "name_en": "Wakayama Kishikawa Shokudo",
+     "name_ja": "和歌山貴志川食堂",
+     "description": "Japanese restaurant in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/way/740893124",
      "page": "https://bokenjapan.com/wakayama/kinokawa/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -4325,6 +5594,33 @@
      "name_ja": "パン ド パニエ",
      "description": "Bakery in Kinokawa.",
      "source_url": "https://tabelog.com/wakayama/A3001/A300102/30000669/",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bakery Mugibatake",
+     "name_en": "Bakery Mugibatake",
+     "name_ja": "パン工房 麦畑",
+     "description": "Bakery in Kinokawa. Open daily 09:00-20:00.",
+     "source_url": "https://www.openstreetmap.org/node/4439027036",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Nishikawa Shoten",
+     "name_en": "Nishikawa Shoten",
+     "name_ja": "西川商店",
+     "description": "Sweets shop in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/node/5248272926",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bakery in Kinokawa (#1)",
+     "name_en": "Bakery in Kinokawa (#1)",
+     "name_ja": "パンドパニエ",
+     "description": "Bakery in Kinokawa.",
+     "source_url": "https://www.openstreetmap.org/way/739744237",
      "page": "https://bokenjapan.com/wakayama/kinokawa/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -4442,6 +5738,14 @@
      "name_ja": "気さくな女将の宿 丸浅旅館",
      "description": "Ryokan inn in Kinokawa with local seafood dinners.",
      "source_url": "https://www.jalan.net/yad390284/",
+     "page": "https://bokenjapan.com/wakayama/kinokawa/stay/"
+    },
+    {
+     "name": "Guest house in Kinokawa",
+     "name_en": "Guest house in Kinokawa",
+     "name_ja": "log&sauna 和 - nagomi, wakayama -",
+     "description": "Guest house in Kinokawa (Uetomo Fuchi).",
+     "source_url": "https://nagomi-wakayama.snack.chillnn.com/",
      "page": "https://bokenjapan.com/wakayama/kinokawa/stay/"
     }
    ]
@@ -4613,11 +5917,25 @@
      "category": "Cafe"
     },
     {
+     "name": "Bonnsha (BON ON ShyA International CAFE)",
+     "description": "Cafe and bakery in Koya.",
+     "source_url": "https://www.instagram.com/bon_on_shya_/?utm_medium=copy_link",
+     "page": "https://bokenjapan.com/wakayama/koya/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Mitchi Chinese Meshi",
      "name_en": "Mitchi Chinese Meshi",
      "name_ja": "ミッチー中華飯店",
      "description": "Chinese restaurant in Koya.",
      "source_url": "https://tabelog.com/wakayama/A3001/A300103/30001809/",
+     "page": "https://bokenjapan.com/wakayama/koya/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Kotobuki Shokudou",
+     "description": "International restaurant in Koya.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2200176",
      "page": "https://bokenjapan.com/wakayama/koya/eat/chinese-asian/",
      "category": "Chinese & Asian"
     },
@@ -4654,6 +5972,13 @@
      "name_ja": "高野山 別格本山 總持院",
      "description": "Inn restaurant in Koya.",
      "source_url": "https://tabelog.com/wakayama/A3001/A300103/30004781/",
+     "page": "https://bokenjapan.com/wakayama/koya/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Tempuu Terrace (TEMPU TERRACE)",
+     "description": "Italian, French or Spanish restaurant in Koya, also serving cafe fare.",
+     "source_url": "https://www.ichinohashi.co.jp/terrace.html",
      "page": "https://bokenjapan.com/wakayama/koya/eat/other/",
      "category": "Other"
     },
@@ -4717,6 +6042,48 @@
      "name_ja": "はちよう",
      "description": "Japanese restaurant specialising in noodles and rice bowls in Koya.",
      "source_url": "https://tabelog.com/wakayama/A3001/A300103/30000823/",
+     "page": "https://bokenjapan.com/wakayama/koya/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Wafuu Restaurant Maruman",
+     "description": "Japanese restaurant in Koya.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2300144",
+     "page": "https://bokenjapan.com/wakayama/koya/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Tsunohama Goma Tofu Souhonpo Daimon",
+     "description": "Japanese restaurant in Koya.",
+     "source_url": "https://www.gomatohu.com/",
+     "page": "https://bokenjapan.com/wakayama/koya/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Sasasushi Oguraya Daimon",
+     "description": "Japanese restaurant in Koya.",
+     "source_url": "http://sasasushioguraya.com/",
+     "page": "https://bokenjapan.com/wakayama/koya/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Chuuou Shokudou Sanbou",
+     "description": "Japanese restaurant in Koya.",
+     "source_url": "https://www.chuo-shokudou-sanbou.com/",
+     "page": "https://bokenjapan.com/wakayama/koya/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Restaurant Youryuu",
+     "description": "Japanese restaurant in Koya.",
+     "source_url": "https://www.koyasan-youryu.com/",
+     "page": "https://bokenjapan.com/wakayama/koya/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shojin Dining Touhouju",
+     "description": "Japanese restaurant in Koya.",
+     "source_url": "https://www.ichinohashi.co.jp/restaurant.html",
      "page": "https://bokenjapan.com/wakayama/koya/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -5173,6 +6540,13 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Hitoame no Tsukushi",
+     "description": "Ramen shop in Kozagawa.",
+     "source_url": "http://www.za.ztv.ne.jp/tukusiss/index.htm",
+     "page": "https://bokenjapan.com/wakayama/kozagawa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Michi no Eki Ichimaiwa monolith",
      "name_en": "Michi no Eki Ichimaiwa monolith",
      "name_ja": "道の駅一枚岩 monolith",
@@ -5500,6 +6874,13 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Kakinoha Sushi Kyuuwaraku",
+     "description": "Sushi restaurant in Kudoyama.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400067",
+     "page": "https://bokenjapan.com/wakayama/kudoyama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Bakery Cafe Persimmon",
      "name_en": "Bakery Cafe Persimmon",
      "name_ja": "ベーカリーカフェ パーシモン",
@@ -5572,7 +6953,7 @@
     {
      "name": "Shori-ji Temple",
      "description": "Temple in Kudoyama.",
-     "source_url": "https://www.kudoyama-kanko.jp/midokoro/spot07.html",
+     "source_url": "https://www.kudoyama-kanko.jp/midokoro/spot07.html ",
      "page": "https://bokenjapan.com/wakayama/kudoyama/see/"
     },
     {
@@ -5729,6 +7110,20 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Izakaya Yoshikuni",
+     "description": "Izakaya (Japanese pub) in Kushimoto.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2300164",
+     "page": "https://bokenjapan.com/wakayama/kushimoto/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Hiroya",
+     "description": "Izakaya (Japanese pub) in Kushimoto, also serving Japanese cuisine.",
+     "source_url": "https://hiroya6614.com",
+     "page": "https://bokenjapan.com/wakayama/kushimoto/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Hashi Kui",
      "name_en": "Hashi Kui",
      "name_ja": "はし杭",
@@ -5761,6 +7156,34 @@
      "name_ja": "香蔵",
      "description": "Japanese restaurant in Kushimoto.",
      "source_url": "https://tabelog.com/wakayama/A3005/A300503/30002316/",
+     "page": "https://bokenjapan.com/wakayama/kushimoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Higashi Unagi Kushimoto Shiten",
+     "description": "Japanese restaurant in Kushimoto.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2300169",
+     "page": "https://bokenjapan.com/wakayama/kushimoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ozaki no Himono",
+     "description": "Japanese restaurant in Kushimoto.",
+     "source_url": "https://www.ozakinohimono.com",
+     "page": "https://bokenjapan.com/wakayama/kushimoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kushimoto Shunsai Oohashi",
+     "description": "Japanese restaurant in Kushimoto.",
+     "source_url": "https://hitosara.com/0006126104/",
+     "page": "https://bokenjapan.com/wakayama/kushimoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kishuu Nagisa no Eki Suimon Matsuri",
+     "description": "Japanese restaurant in Kushimoto.",
+     "source_url": "http://www.minatomaturi.jp/",
      "page": "https://bokenjapan.com/wakayama/kushimoto/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -5832,6 +7255,13 @@
      "name_en": "Sabaki Dining",
      "description": "Seafood restaurant specialising in seafood rice bowls in Kushimoto.",
      "source_url": "https://tabelog.com/wakayama/A3005/A300503/30011804/",
+     "page": "https://bokenjapan.com/wakayama/kushimoto/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Yasezushi",
+     "description": "Sushi restaurant in Kushimoto, also serving Japanese cuisine.",
+     "source_url": "https://www.facebook.com/8sezushi/",
      "page": "https://bokenjapan.com/wakayama/kushimoto/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -6688,6 +8118,13 @@
      "category": "Cafe"
     },
     {
+     "name": "Nachikatsuura Cafe Amema",
+     "description": "Cafe and bakery in Nachikatsuura.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400066",
+     "page": "https://bokenjapan.com/wakayama/nachikatsuura/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Umi Tsubame",
      "name_en": "Umi Tsubame",
      "name_ja": "海つばめ",
@@ -6711,6 +8148,20 @@
      "name_ja": "大漁",
      "description": "Izakaya (Japanese pub) in Nachikatsuura.",
      "source_url": "https://tabelog.com/wakayama/A3005/A300502/30003038/",
+     "page": "https://bokenjapan.com/wakayama/nachikatsuura/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Oden to Heiwa No.9",
+     "description": "Izakaya (Japanese pub) in Nachikatsuura.",
+     "source_url": "https://oden-heiwa9.com/",
+     "page": "https://bokenjapan.com/wakayama/nachikatsuura/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Katsuura Gyoko Nigiwai Ichiba Shibiru",
+     "description": "Izakaya (Japanese pub) in Nachikatsuura, also serving Japanese cuisine.",
+     "source_url": "https://nigiwaiichiba.com/store/",
      "page": "https://bokenjapan.com/wakayama/nachikatsuura/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -6742,6 +8193,13 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Miyamatei",
+     "description": "Ramen shop in Nachikatsuura, also serving Japanese cuisine.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2300146",
+     "page": "https://bokenjapan.com/wakayama/nachikatsuura/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Manseiro",
      "name_en": "Manseiro",
      "name_ja": "万清楼",
@@ -6765,6 +8223,41 @@
      "name_ja": "いちりん",
      "description": "Local-cuisine restaurant specialising in seafood rice bowls and seafood in Nachikatsuura.",
      "source_url": "https://tabelog.com/wakayama/A3005/A300502/30006426/",
+     "page": "https://bokenjapan.com/wakayama/nachikatsuura/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Nachi Nebokedo (Restaurant)",
+     "description": "Japanese restaurant in Nachikatsuura.",
+     "source_url": "http://www.neboke.com/menu.html",
+     "page": "https://bokenjapan.com/wakayama/nachikatsuura/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Maguro Ryouri Takehara",
+     "description": "Japanese restaurant in Nachikatsuura.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2300153",
+     "page": "https://bokenjapan.com/wakayama/nachikatsuura/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Oshokujidokoro Yamato",
+     "description": "Japanese restaurant in Nachikatsuura.",
+     "source_url": "https://www.instagram.com/yamato_suisan/",
+     "page": "https://bokenjapan.com/wakayama/nachikatsuura/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ichiba Gohan Shige",
+     "description": "Japanese restaurant in Nachikatsuura.",
+     "source_url": "https://japanese-restaurant-5051.business.site/?utm_source=gmb&amp;amp;utm_medium=referral",
+     "page": "https://bokenjapan.com/wakayama/nachikatsuura/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ajidokoro Obayashi",
+     "description": "Japanese restaurant in Nachikatsuura.",
+     "source_url": "https://nachikan.jp/restaurant/3027/",
      "page": "https://bokenjapan.com/wakayama/nachikatsuura/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -6872,6 +8365,13 @@
      "name_ja": "ますだや",
      "description": "Seafood restaurant specialising in izakaya dishes in Nachikatsuura.",
      "source_url": "https://tabelog.com/wakayama/A3005/A300502/30000317/",
+     "page": "https://bokenjapan.com/wakayama/nachikatsuura/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Iroha Sushi",
+     "description": "Sushi restaurant in Nachikatsuura.",
+     "source_url": "https://www.irohasushi.jp/",
      "page": "https://bokenjapan.com/wakayama/nachikatsuura/eat/seafood/",
      "category": "Japanese (seafood)"
     }
@@ -7234,6 +8734,21 @@
    ],
    "food": [
     {
+     "name": "yumi",
+     "name_en": "yumi",
+     "description": "Regional Japanese cafe in Shingu.",
+     "source_url": "https://www.openstreetmap.org/way/407464707",
+     "page": "https://bokenjapan.com/wakayama/shingu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Naka Kooriten",
+     "description": "Cafe and bakery in Shingu.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2200166",
+     "page": "https://bokenjapan.com/wakayama/shingu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Chinese Restaurant Manso",
      "name_en": "Chinese Restaurant Manso",
      "name_ja": "中華料理万惣",
@@ -7250,6 +8765,24 @@
      "source_url": "https://tabelog.com/wakayama/A3005/A300501/30000311/",
      "page": "https://bokenjapan.com/wakayama/shingu/eat/chinese-asian/",
      "category": "Chinese & Asian"
+    },
+    {
+     "name": "Osakaosho",
+     "name_en": "Osakaosho",
+     "name_ja": "大阪王将",
+     "description": "Chinese restaurant in Shingu.",
+     "source_url": "https://www.openstreetmap.org/node/4438500389",
+     "page": "https://bokenjapan.com/wakayama/shingu/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Indian and curry restaurant in Shingu",
+     "name_en": "Indian and curry restaurant in Shingu",
+     "name_ja": "サパナ",
+     "description": "Indian and curry restaurant in Shingu. Open daily 10:00-20:00.",
+     "source_url": "https://a-shingu-senmonten.com/index.html",
+     "page": "https://bokenjapan.com/wakayama/shingu/eat/curry/",
+     "category": "Curry"
     },
     {
      "name": "Italian restaurant in Shingu",
@@ -7279,6 +8812,14 @@
      "category": "European"
     },
     {
+     "name": "Porto",
+     "name_en": "Porto",
+     "description": "Italian and pasta restaurant in Uehommachi, Shingu. Open Wed-Sun 11:30-14:00, 18:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/5172521965",
+     "page": "https://bokenjapan.com/wakayama/shingu/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Izakaya Manaya",
      "name_en": "Izakaya Manaya",
      "name_ja": "居酒屋マナヤ",
@@ -7293,6 +8834,13 @@
      "name_ja": "心楽",
      "description": "Izakaya (Japanese pub) in Shingu.",
      "source_url": "https://tabelog.com/wakayama/A3005/A300501/30004447/",
+     "page": "https://bokenjapan.com/wakayama/shingu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Shoushoku Izakaya Tsumugiya",
+     "description": "Izakaya (Japanese pub) in Shingu.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2300056",
      "page": "https://bokenjapan.com/wakayama/shingu/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -7324,6 +8872,29 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Shinguutei",
+     "description": "Ramen shop in Shingu.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2300107",
+     "page": "https://bokenjapan.com/wakayama/shingu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Chuuka Soba Hayami",
+     "description": "Ramen shop in Shingu.",
+     "source_url": "http://www.wakayamaramen.net/",
+     "page": "https://bokenjapan.com/wakayama/shingu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kineya",
+     "name_en": "Kineya",
+     "name_ja": "杵屋",
+     "description": "Restaurant in Shingu.",
+     "source_url": "https://www.openstreetmap.org/node/4681649188",
+     "page": "https://bokenjapan.com/wakayama/shingu/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Toho Chaya",
      "name_en": "Toho Chaya",
      "name_ja": "東宝茶屋",
@@ -7347,6 +8918,24 @@
      "name_ja": "かあちゃんの店",
      "description": "Local-cuisine restaurant in Shingu.",
      "source_url": "https://tabelog.com/wakayama/A3005/A300501/30000321/",
+     "page": "https://bokenjapan.com/wakayama/shingu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kachanno Branch",
+     "name_en": "Kachanno Branch",
+     "name_ja": "かあちゃんの店",
+     "description": "Regional Japanese and Japanese restaurant in Shingu. Open daily 09:00-16:00.",
+     "source_url": "https://www.shinguu.jp/spots/detail/C0063",
+     "page": "https://bokenjapan.com/wakayama/shingu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Shingu",
+     "name_en": "Japanese restaurant in Shingu",
+     "name_ja": "ドライブイン志古",
+     "description": "Regional Japanese restaurant in Shingu.",
+     "source_url": "https://www.openstreetmap.org/way/407464704",
      "page": "https://bokenjapan.com/wakayama/shingu/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -7405,6 +8994,13 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Souhonke Mehariya Wakayama",
+     "description": "Sushi restaurant in Shingu.",
+     "source_url": "http://www.mehariya.co.jp",
+     "page": "https://bokenjapan.com/wakayama/shingu/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Kaori Baido",
      "name_en": "Kaori Baido",
      "name_ja": "香梅堂",
@@ -7446,6 +9042,14 @@
      "name_ja": "マジックピエロ",
      "description": "Crêpe and galette shop specialising in burgers and shaved ice in Shingu.",
      "source_url": "https://tabelog.com/wakayama/A3005/A300501/30006979/",
+     "page": "https://bokenjapan.com/wakayama/shingu/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Mugitoshi",
+     "name_en": "Mugitoshi",
+     "description": "Bakery in Shingu.",
+     "source_url": "https://www.openstreetmap.org/node/4095079254",
      "page": "https://bokenjapan.com/wakayama/shingu/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -7724,6 +9328,36 @@
      "category": "Cafe"
     },
     {
+     "name": "Ki to Mizu to Tsuchi to Shirahama",
+     "name_en": "Ki to Mizu to Tsuchi to Shirahama",
+     "name_ja": "木と水と土と 白浜店",
+     "description": "Cafe and bakery in Shirahama.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400142",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Pan Koubou",
+     "description": "Cafe and bakery in Shirahama.",
+     "source_url": "https://www.aws-s.com/",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kagerou Cafe",
+     "description": "Cafe and bakery in Shirahama.",
+     "source_url": "https://fukubishi.co.jp/kagerou_cafe/",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "TETTI BAKERY & CAFE",
+     "description": "Cafe and bakery in Shirahama.",
+     "source_url": "https://www.keyterrace.co.jp/shopping/",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Shinajina Kaori",
      "name_en": "Shinajina Kaori",
      "name_ja": "品品香",
@@ -7738,6 +9372,15 @@
      "name_ja": "翆陽 エクシブ白浜",
      "description": "Chinese restaurant in Shirahama.",
      "source_url": "https://tabelog.com/wakayama/A3004/A300401/30006005/",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "CHINESE CUISINE PinPinShian",
+     "name_en": "CHINESE CUISINE PinPinShian",
+     "name_ja": "中國料理 品品香",
+     "description": "Chinese restaurant in Shirahama. Open Wed-Mon 17:30-00:00.",
+     "source_url": "http://www.shirahama-ginza.com/gourmet/pinpinchian.html",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/chinese-asian/",
      "category": "Chinese & Asian"
     },
@@ -7785,6 +9428,13 @@
      "category": "European"
     },
     {
+     "name": "Suntide Cafe & Bar Shirarahama",
+     "description": "Western-style restaurant in Shirahama.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400137",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Chokyu Sakaba",
      "name_en": "Chokyu Sakaba",
      "name_ja": "長久酒場",
@@ -7802,11 +9452,60 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Sumi to Shunsai Haru",
+     "description": "Izakaya (Japanese pub) in Shirahama, also serving Japanese cuisine.",
+     "source_url": "http://izakaya-hare.com/",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Shunsai Daidokoro Tomo",
+     "description": "Izakaya (Japanese pub) in Shirahama.",
+     "source_url": "http://www.shirahama-tomo.com/",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Chuka Soba Maruta-ya Nankishirahama",
      "name_en": "Chuka Soba Maruta-ya Nankishirahama",
      "name_ja": "中華そば 丸田屋 南紀白浜店",
      "description": "Ramen shop specialising in seafood rice bowls in Shirahama.",
      "source_url": "https://tabelog.com/wakayama/A3004/A300401/30009898/",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menkichi",
+     "description": "Ramen shop in Shirahama.",
+     "source_url": "https://choseinoyu.info/ramen-menkichi/",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Wan (One)",
+     "description": "Ramen shop in Shirahama.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2300143",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kishuu Ramen Okagesan",
+     "description": "Ramen shop in Shirahama.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2300104",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Shirokuma",
+     "description": "Udon and soba restaurant in Shirahama.",
+     "source_url": "https://www.instagram.com/shirokuma_udon/",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Fureai Meisankan Matsuya",
+     "description": "Udon and soba restaurant in Shirahama.",
+     "source_url": "https://matsuya-nankishirahama.com/",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/noodles/",
      "category": "Japanese (noodles)"
     },
@@ -7852,6 +9551,83 @@
      "name_ja": "福梅本舗 和歌山本店",
      "description": "Local-cuisine restaurant specialising in Japanese sweets and shaved ice in Shirahama.",
      "source_url": "https://tabelog.com/wakayama/A3004/A300401/30006510/",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Jambo",
+     "description": "Yakiniku and steak restaurant in Shirahama.",
+     "source_url": "https://www.aws-s.com/",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kaisenya Senjou",
+     "description": "Japanese restaurant in Shirahama.",
+     "source_url": "https://www.senjou-mar.jp/senjou",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Edoyaki Unagi Yamanouchi",
+     "description": "Japanese restaurant in Shirahama.",
+     "source_url": "https://www.instagram.com/yamanouchi_unagi/",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ikesu Enza",
+     "description": "Japanese restaurant in Shirahama.",
+     "source_url": "https://www.keyterrace.co.jp/restaurant/#warouda",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "CBASE",
+     "description": "Japanese restaurant in Shirahama.",
+     "source_url": "https://www.instagram.com/cbase1013/",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kaisen Ryouri Jinrikky",
+     "description": "Japanese restaurant in Shirahama.",
+     "source_url": "https://jinrikky.jimdofree.com",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Miraikan Shokudou (Miraikan)",
+     "description": "Japanese restaurant in Shirahama.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2300112",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shirahama Kappou Kawanishi",
+     "description": "Japanese restaurant in Shirahama.",
+     "source_url": "https://kappou-kawanishi.jp",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Onsen Ryouri Waka",
+     "description": "Japanese restaurant in Shirahama.",
+     "source_url": "http://onsen-waka.com/",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Restaurant Sango-shou",
+     "description": "Japanese restaurant in Shirahama.",
+     "source_url": "http://www.sangosyou.com/index.html",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Oshokujidokoro Saikaya",
+     "description": "Japanese restaurant in Shirahama.",
+     "source_url": "http://www.saikaya-s.com/",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -7906,6 +9682,34 @@
      "name_ja": "喜楽",
      "description": "Seafood restaurant specialising in seafood rice bowls and hot pot in Shirahama.",
      "source_url": "https://tabelog.com/wakayama/A3004/A300401/30000794/",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Toretore Ichiba Toretore Yokocho",
+     "description": "Sushi restaurant in Shirahama, also serving udon and soba.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400101",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kaisen Sushi Toretore Ichiba",
+     "description": "Sushi restaurant in Shirahama.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400091",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kou Sushi",
+     "description": "Sushi restaurant in Shirahama.",
+     "source_url": "https://kouzushi.net/",
+     "page": "https://bokenjapan.com/wakayama/shirahama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Tokiwa Sushi",
+     "description": "Sushi restaurant in Shirahama, also serving Japanese cuisine.",
+     "source_url": "https://tokiwasushi.gorp.jp/",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -9499,6 +11303,40 @@
    ],
    "food": [
     {
+     "name": "'Olu 'Olu Cafe",
+     "name_en": "'Olu 'Olu Cafe",
+     "name_ja": "オルオルカフェ",
+     "description": "Cafe in Minamishimmachi, Tanabe.",
+     "source_url": "https://www.openstreetmap.org/node/3120516354",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Tanabe",
+     "name_en": "Cafe in Tanabe",
+     "name_ja": "コミックバスター優悦館 (You Etsu Kan)",
+     "description": "Cafe in Tanabe. Open 24 hours, every day.",
+     "source_url": "https://www.openstreetmap.org/way/274750812",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Yumune Chaya",
+     "name_en": "Yumune Chaya",
+     "name_ja": "湯胸茶屋",
+     "description": "Japanese cafe in Tanabe.",
+     "source_url": "https://www.openstreetmap.org/node/14013904001",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kashi Taiken Koubou Valencia Batake",
+     "description": "Cafe and bakery in Tanabe.",
+     "source_url": "https://valencia.agarten.jp/index.html",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Tororoya",
      "name_en": "Tororoya",
      "name_ja": "とろろや",
@@ -9506,6 +11344,31 @@
      "source_url": "https://tabelog.com/wakayama/A3004/A300402/30010891/",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/casual/",
      "category": "Casual"
+    },
+    {
+     "name": "VOYAGER BREWING Co.",
+     "description": "Restaurant in Tanabe.",
+     "source_url": "https://voyagerbrewing.co.jp/",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Momotaro Chuka Ryori Branch",
+     "name_en": "Momotaro Chuka Ryori Branch",
+     "name_ja": "桃太郎 中華料理店",
+     "description": "Chinese restaurant in Tanabe.",
+     "source_url": "https://www.openstreetmap.org/node/4440079591",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Reimei",
+     "name_en": "Reimei",
+     "name_ja": "黎明",
+     "description": "Chinese restaurant in Tanabe.",
+     "source_url": "https://www.openstreetmap.org/way/407989735",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/chinese-asian/",
+     "category": "Chinese & Asian"
     },
     {
      "name": "France Shokudo Chilo",
@@ -9534,6 +11397,55 @@
      "category": "European"
     },
     {
+     "name": "Restaurant Seemoon",
+     "description": "Italian, French or Spanish restaurant in Tanabe.",
+     "source_url": "http://www.h-cmoon.com/",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Oufuu Ryouri Mobo",
+     "description": "Italian, French or Spanish restaurant in Tanabe.",
+     "source_url": "https://ke5s600.gorp.jp/",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Restaurant Moon",
+     "name_en": "Restaurant Moon",
+     "name_ja": "レストラン シームーン",
+     "description": "Italian restaurant in Tanabe.",
+     "source_url": "http://h-cmoon.com",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "andiamo！",
+     "name_en": "andiamo!",
+     "description": "Italian restaurant in Tanabe.",
+     "source_url": "https://www.openstreetmap.org/node/12539013467",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "DJANGO",
+     "name_en": "DJANGO",
+     "name_ja": "銀ちろ 駅前店",
+     "description": "Italian restaurant in Tanabe.",
+     "source_url": "https://www.openstreetmap.org/node/2098115098",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Gallete",
+     "name_en": "Gallete",
+     "name_ja": "ギャレット",
+     "description": "French restaurant in Tanabe.",
+     "source_url": "https://www.openstreetmap.org/way/299617877",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Tokkuri",
      "name_en": "Tokkuri",
      "name_ja": "とっくり",
@@ -9548,6 +11460,113 @@
      "name_ja": "徳乃",
      "description": "Izakaya (Japanese pub) specialising in seafood and local dishes in Tanabe.",
      "source_url": "https://tabelog.com/wakayama/A3004/A300402/30003060/",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Umiyamakawa Ryori Marukan",
+     "name_en": "Umiyamakawa Ryori Marukan",
+     "name_ja": "海山川料理 まる勘",
+     "description": "Izakaya (Japanese pub) in Tanabe.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400125",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kuubedokoro Ichikichi",
+     "description": "Izakaya (Japanese pub) in Tanabe, also serving Japanese cuisine.",
+     "source_url": "http://1-yoshi.com/",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Toriosakana Kitchen Kenshirou",
+     "description": "Izakaya (Japanese pub) in Tanabe.",
+     "source_url": "https://kenshirou-wakayama.jp/index.html",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Kappou Takagi",
+     "description": "Izakaya (Japanese pub) in Tanabe, also serving Japanese cuisine.",
+     "source_url": "https://www.kappou-takagi.info/",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kishuu Torahachi",
+     "description": "Izakaya (Japanese pub) in Tanabe.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2300149",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kuimonya Konoha",
+     "description": "Izakaya (Japanese pub) in Tanabe.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2300116",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kamino Maro",
+     "description": "Izakaya (Japanese pub) in Tanabe.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2300048",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Ajidokoro Marumasa",
+     "description": "Izakaya (Japanese pub) in Tanabe.",
+     "source_url": "https://localplace.jp/t100667760/",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Tsujian",
+     "description": "Izakaya (Japanese pub) in Tanabe, also serving Japanese cuisine.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2300002",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Cresent",
+     "name_en": "Cresent",
+     "description": "Bar in Tanabe.",
+     "source_url": "https://www.openstreetmap.org/node/3039220287",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Ｋ２ＢＡＲ",
+     "name_en": "K2BAR",
+     "description": "Bar in Tanabe.",
+     "source_url": "https://www.openstreetmap.org/node/3184331994",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Nakanoya",
+     "name_en": "Nakanoya",
+     "name_ja": "なかのや",
+     "description": "Pub in Tanabe. Open daily 17:00-24:00; closed Tue.",
+     "source_url": "https://www.openstreetmap.org/node/3123697959",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Solo",
+     "name_en": "Solo",
+     "description": "Bar in Minato, Tanabe. Open daily 19:00-01:00.",
+     "source_url": "https://www.openstreetmap.org/node/5485838282",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Wasabi",
+     "name_en": "Wasabi",
+     "name_ja": "わさび",
+     "description": "Okonomiyaki pub in Minato, Tanabe.",
+     "source_url": "https://www.openstreetmap.org/node/3123713864",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -9579,6 +11598,24 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "STEAK-TEXAS",
+     "name_en": "STEAK-TEXAS",
+     "name_ja": "ステーキテキサス",
+     "description": "Steak restaurant in Shinjo Machi, Tanabe. Open Fri-Wed 11:00-20:30.",
+     "source_url": "https://www.steak-texas.jp/",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Motonori",
+     "name_en": "Motonori",
+     "name_ja": "壱徳",
+     "description": "Barbecue restaurant in Tanabe.",
+     "source_url": "https://www.openstreetmap.org/node/3123726785",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Tori Soba Shitaji Hashi",
      "name_en": "Tori Soba Shitaji Hashi",
      "name_ja": "とりそば 下地橋",
@@ -9588,11 +11625,84 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Ryuuchan Hanten",
+     "description": "Ramen shop in Tanabe.",
+     "source_url": "https://www.instagram.com/ryuchan.hanten/",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Bincho no Sato",
+     "description": "Ramen shop in Tanabe, also serving cafe fare.",
+     "source_url": "https://www.binchotan.jp/restaurant/",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon restaurant in Tanabe",
+     "name_en": "Udon restaurant in Tanabe",
+     "name_ja": "手打ちうどん 新万８番地",
+     "description": "Udon restaurant in Tanabe. Open daily 11:30-14:00, 21:00-27:00.",
+     "source_url": "https://www.openstreetmap.org/node/3153822180",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Torisoba Shimojibashi",
+     "name_en": "Torisoba Shimojibashi",
+     "name_ja": "とりそば下地橋",
+     "description": "Soba restaurant in Tanabe.",
+     "source_url": "https://www.openstreetmap.org/way/1217618041",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Ryokan inn restaurant in Tanabe",
      "name_en": "Ryokan inn restaurant in Tanabe",
      "name_ja": "湯の峯荘",
      "description": "Ryokan inn restaurant in Tanabe.",
      "source_url": "https://tabelog.com/wakayama/A3004/A300402/30004454/",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "ally X kebab",
+     "name_en": "ally X kebab",
+     "description": "Restaurant in Minato, Tanabe.",
+     "source_url": "https://www.openstreetmap.org/node/3184331987",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Bond Bento",
+     "name_en": "Bond Bento",
+     "description": "Restaurant in Tanabe. Open daily 09:30-13:30.",
+     "source_url": "https://www.openstreetmap.org/node/13715123396",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Rakuichi Rakuza",
+     "name_en": "Rakuichi Rakuza",
+     "name_ja": "楽市楽座",
+     "description": "Restaurant in Tanabe.",
+     "source_url": "https://www.openstreetmap.org/node/3039205177",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Roku",
+     "name_en": "Roku",
+     "description": "Restaurant in Tanabe.",
+     "source_url": "https://www.openstreetmap.org/node/4834271173",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Roku Roku CATERING",
+     "name_en": "Roku Roku CATERING",
+     "description": "Restaurant in Tanabe.",
+     "source_url": "https://www.openstreetmap.org/way/506878378",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/other/",
      "category": "Other"
     },
@@ -9629,6 +11739,127 @@
      "name_ja": "銀ちろ本店",
      "description": "Japanese restaurant specialising in tempura and seafood in Tanabe.",
      "source_url": "https://tabelog.com/wakayama/A3004/A300402/30000449/",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kappou Ebisu",
+     "description": "Japanese restaurant in Tanabe.",
+     "source_url": "https://kue-yebisu.com/yebisu.html",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kappou Akihira",
+     "description": "Japanese restaurant in Tanabe.",
+     "source_url": "https://kiilife.jp/gourmet/302066/1708",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "kumanoco restaurant",
+     "name_en": "kumanoco restaurant",
+     "name_ja": "くまのこ食堂",
+     "description": "Japanese restaurant in Tanabe. Open daily 11:00-15:00, 17:00-22:00.",
+     "source_url": "https://kumano.co/",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Futokoroshoku BON",
+     "name_en": "Futokoroshoku BON",
+     "name_ja": "懐食 BON",
+     "description": "Japanese restaurant in Tanabe.",
+     "source_url": "https://www.openstreetmap.org/node/3184309902",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ginchiro",
+     "name_en": "Ginchiro",
+     "name_ja": "銀ちろ 本店",
+     "description": "Japanese restaurant in Tanabe.",
+     "source_url": "https://www.openstreetmap.org/node/2098115095",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Hamada",
+     "name_en": "Hamada",
+     "name_ja": "はまだ",
+     "description": "Japanese restaurant in Tanabe.",
+     "source_url": "https://www.openstreetmap.org/node/3362875725",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ippuku",
+     "name_en": "Ippuku",
+     "name_ja": "いっぷく",
+     "description": "Japanese restaurant in Tanabe.",
+     "source_url": "https://www.openstreetmap.org/way/350350722",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kappo Karakasa",
+     "name_en": "Kappo Karakasa",
+     "name_ja": "割烹 からかさ",
+     "description": "Japanese restaurant in Tanabe.",
+     "source_url": "https://www.openstreetmap.org/node/3184311448",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Miyaji",
+     "name_en": "Miyaji",
+     "name_ja": "みや路",
+     "description": "Japanese restaurant in Minato, Tanabe. Open daily 17:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/way/307278654",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Okage-san Izakaya",
+     "name_en": "Okage-san Izakaya",
+     "name_ja": "Okage-san Izakaya 焼鳥と熊野おでん おかげさん",
+     "description": "Regional Japanese restaurant in Tanabe. Open Tue-Sun 17:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/way/407991984",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Oku Hidaka",
+     "name_en": "Oku Hidaka",
+     "name_ja": "奥日高",
+     "description": "Regional Japanese restaurant in Tanabe. Open daily 11:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/way/305811261",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Oshokujidokoro Tokiwaya",
+     "name_en": "Oshokujidokoro Tokiwaya",
+     "name_ja": "お食事処 ときわや",
+     "description": "Japanese restaurant in Tanabe.",
+     "source_url": "https://www.openstreetmap.org/node/6699999688",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Sakae",
+     "name_en": "Sakae",
+     "description": "Japanese restaurant in Tanabe.",
+     "source_url": "https://www.openstreetmap.org/node/4834271181",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shippo",
+     "name_en": "Shippo",
+     "name_ja": "日本料理 七宝",
+     "description": "Japanese restaurant in Tanabe.",
+     "source_url": "https://www.openstreetmap.org/node/6337084408",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -9687,6 +11918,40 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Oshokuji Shimoji Honguu",
+     "description": "Sushi restaurant in Tanabe, also serving udon and soba.",
+     "source_url": "https://hongu-shimoji.com/",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Hamasushi",
+     "name_en": "Hamasushi",
+     "name_ja": "はま寿司",
+     "description": "Sushi restaurant in Shinjo Machi, Tanabe. Open Mon-Fri 11:00-23:00; Sat-Sun 10:00-23:00; public holidays 10:00-23:00.",
+     "source_url": "https://maps.hama-sushi.co.jp/jp/detail/5614.html",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi restaurant in Tanabe",
+     "name_en": "Sushi restaurant in Tanabe",
+     "name_ja": "スシロー",
+     "description": "Sushi restaurant in Ine Narumachi, Tanabe. Open daily 10:30-22:00.",
+     "source_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=233",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Noodles - sushi - restaurant Ichiyoshi",
+     "name_en": "Noodles - sushi - restaurant Ichiyoshi",
+     "name_ja": "緬・寿司・食べ処 一吉",
+     "description": "Sushi restaurant in Tanabe.",
+     "source_url": "https://www.openstreetmap.org/node/3123720867",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Suzuya",
      "name_en": "Suzuya",
      "name_ja": "鈴屋",
@@ -9710,6 +11975,24 @@
      "name_ja": "海鮮せんべい南紀",
      "description": "Rice-cracker (senbei) shop specialising in soft-serve in Tanabe.",
      "source_url": "https://tabelog.com/wakayama/A3004/A300401/30005604/",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets shop in Tanabe",
+     "name_en": "Sweets shop in Tanabe",
+     "name_ja": "二ノ宮",
+     "description": "Sweets shop in Tanabe.",
+     "source_url": "https://www.amato-ninomiya.com/",
+     "page": "https://bokenjapan.com/wakayama/tanabe/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sachiya Cake shop",
+     "name_en": "Sachiya Cake shop",
+     "name_ja": "ケーキの幸屋",
+     "description": "Sweets shop in Tanabe.",
+     "source_url": "https://www.openstreetmap.org/node/3045582722",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -10329,6 +12612,320 @@
    ],
    "food": [
     {
+     "name": "Hoshino Coffee Shop Wakayama Miya Kaido Branch",
+     "name_en": "Hoshino Coffee Shop Wakayama Miya Kaido Branch",
+     "name_ja": "星野珈琲店 和歌山宮街道店",
+     "description": "Cafe in Ota, Wakayama. Open Mon-Fri 08:00-22:00.",
+     "source_url": "https://hoshinocoffee.com",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Markey’s Coffee",
+     "name_en": "Markey’s Coffee",
+     "description": "Cafe in Wakayama. Open Fri-Tue 08:30-18:00.",
+     "source_url": "https://marukicoffee.co.jp/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kokoiro Cafe Aeon Mall Wakayama",
+     "description": "Cafe and bakery in Wakayama City.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400058",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "KISHU CHAYA Gyokurin-en Kino Wakayama",
+     "description": "Cafe and bakery in Wakayama City.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400041",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "80ESPRESSO WAKAURABASE",
+     "description": "Cafe and bakery in Wakayama City.",
+     "source_url": "https://80espresso-jp.com/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Chuubou HaRaNa",
+     "description": "Cafe and bakery in Wakayama City.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2300058",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "EM Shop Hyakushou Kazoku",
+     "description": "Cafe and bakery in Wakayama City.",
+     "source_url": "https://www.hyakushoukazoku.com",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Belfan",
+     "description": "Cafe and bakery in Wakayama City.",
+     "source_url": "http://www.belle-net.co.jp/belle-fum.html",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Billiards & Cafe SOHO",
+     "description": "Cafe and bakery in Wakayama City.",
+     "source_url": "https://billiards-soho.jimdofree.com/cafe-food/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Medetaiyaki Honpo",
+     "description": "Cafe and bakery in Wakayama City.",
+     "source_url": "https://medetaiyakihonpo.com/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "FAVORITE COFFEE -wakayama-",
+     "name_en": "FAVORITE COFFEE -wakayama-",
+     "description": "Cafe in Wakayama.",
+     "source_url": "https://favoritecoffee.jp/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kokoiro Cafe",
+     "name_en": "Kokoiro Cafe",
+     "name_ja": "ココイロカフェ",
+     "description": "Cafe in Chuji Kusunokitani, Wakayama. Open daily 11:00-22:00.",
+     "source_url": "https://cocoiro.co.jp/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "BRING BOOK STORE",
+     "name_en": "BRING BOOK STORE",
+     "description": "Cafe in Wakayama. Open Tue-Sun 09:30-17:00.",
+     "source_url": "https://www.openstreetmap.org/node/6144532735",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "cafe de ballon",
+     "name_en": "cafe de ballon",
+     "description": "Cafe in Ota, Wakayama.",
+     "source_url": "https://www.openstreetmap.org/node/9355108757",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "GOOD LUCK COFFEE",
+     "name_en": "GOOD LUCK COFFEE",
+     "description": "Cafe in Wakayama.",
+     "source_url": "https://www.openstreetmap.org/node/4442267018",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "HELLO! TEA",
+     "name_en": "HELLO! TEA",
+     "description": "Cafe in Wakayama.",
+     "source_url": "https://www.openstreetmap.org/node/14068654795",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Lapin",
+     "name_en": "Lapin",
+     "description": "Cafe in Wakayama.",
+     "source_url": "https://www.openstreetmap.org/node/9182614198",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "M＆M",
+     "name_en": "M&M",
+     "description": "Japanese cafe in Wakayama. Open daily 10:00-17:00.",
+     "source_url": "https://www.openstreetmap.org/way/1013988696",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "rosalita",
+     "name_en": "rosalita",
+     "description": "Cafe in Wakayama. Open daily 12:00-17:00, 18:30-24:00.",
+     "source_url": "https://www.openstreetmap.org/node/14081252007",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Sannen Saka Moka",
+     "name_en": "Sannen Saka Moka",
+     "name_ja": "三年坂 モカ",
+     "description": "Cafe in Wakayama. Open daily 06:00-18:00.",
+     "source_url": "https://www.openstreetmap.org/way/474195093",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Tapioka Belze",
+     "name_en": "Tapioka Belze",
+     "description": "Cafe in Wakayama.",
+     "source_url": "https://www.openstreetmap.org/node/14081945947",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Sandwich fast-food restaurant in Wakayama",
+     "name_en": "Sandwich fast-food restaurant in Wakayama",
+     "name_ja": "サブウェイ",
+     "description": "Sandwich fast-food restaurant in Ota, Wakayama. Open Mon, Wed-Sun 10:00-19:00.",
+     "source_url": "https://subway.co.jp",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Hana〇",
+     "description": "Okonomiyaki and takoyaki restaurant in Wakayama City.",
+     "source_url": "https://hanamaru.owst.jp/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Teppan Dining Shakuan",
+     "description": "Okonomiyaki and takoyaki restaurant in Wakayama City.",
+     "source_url": "https://shakuan.net",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Sousaku Youshoku Tamunosu Itsuki",
+     "description": "Restaurant in Wakayama City.",
+     "source_url": "https://www.hotpepper.jp/strJ000849779/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Nobushi",
+     "description": "Restaurant in Wakayama City.",
+     "source_url": "https://www.hotpepper.jp/strJ000501486/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Mos Burger",
+     "name_en": "Mos Burger",
+     "name_ja": "モスバーガー 三年坂店",
+     "description": "Burger fast-food restaurant in Wakayama. Open daily 07:00-24:00.",
+     "source_url": "http://ssl.mos.jp",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "TORISYO",
+     "name_en": "TORISYO",
+     "description": "Fast-food restaurant in Wakayama.",
+     "source_url": "https://www.openstreetmap.org/way/958056448",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Funday Bagels",
+     "name_en": "Funday Bagels",
+     "description": "Fast-food restaurant in Wakayama.",
+     "source_url": "https://www.openstreetmap.org/node/11873636311",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "JUCKY'S BURGER CLUB",
+     "name_en": "JUCKY'S BURGER CLUB",
+     "description": "Burger restaurant in Wakayama.",
+     "source_url": "https://www.openstreetmap.org/node/14081181782",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "ORENO BURGER STAND",
+     "name_en": "ORENO BURGER STAND",
+     "description": "Burger fast-food restaurant in Wakayama.",
+     "source_url": "https://www.openstreetmap.org/node/11869608883",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Burger fast-food restaurant in Wakayama",
+     "name_en": "Burger fast-food restaurant in Wakayama",
+     "name_ja": "ゼッテリア",
+     "description": "Burger fast-food restaurant in Wakayama. Open Mon-Sun, public holidays 07:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/4472750657",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Dee Dee",
+     "name_en": "Dee Dee",
+     "description": "Thai restaurant in Wakayama.",
+     "source_url": "https://www.openstreetmap.org/node/14081945963",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Chinese restaurant in Wakayama",
+     "name_en": "Chinese restaurant in Wakayama",
+     "name_ja": "グリーンコーナー 築地橋店",
+     "description": "Chinese restaurant in Wakayama. Open daily 11:00-22:30.",
+     "source_url": "https://www.openstreetmap.org/way/534791508",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "KINTOUN",
+     "name_en": "KINTOUN",
+     "description": "Chinese restaurant in Wakayama.",
+     "source_url": "https://www.openstreetmap.org/node/13243609234",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Kitchen Bar Sogou",
+     "description": "Chinese restaurant in Wakayama City.",
+     "source_url": "https://localplace.jp/sp/t200490374/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Chuugoku Shuka Kuukuu",
+     "description": "Chinese restaurant in Wakayama City.",
+     "source_url": "http://www.kuku-99.com",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "GANDHI",
+     "name_en": "GANDHI",
+     "description": "Indian restaurant in Wakayama.",
+     "source_url": "https://www.openstreetmap.org/node/12062992865",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Indo Ryori Shikaru",
+     "name_en": "Indo Ryori Shikaru",
+     "name_ja": "インド料理 シカール",
+     "description": "Indian restaurant in Ko, Wakayama. Open daily 11:00-15:00, 17:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/way/460696790",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "MYSORE",
+     "name_en": "MYSORE",
+     "description": "Curry restaurant in Wakayama.",
+     "source_url": "https://www.openstreetmap.org/node/6200187670",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/curry/",
+     "category": "Curry"
+    },
+    {
      "name": "Hotel de Yoshino",
      "name_en": "Hotel de Yoshino",
      "name_ja": "オテル・ド・ヨシノ",
@@ -10356,6 +12953,142 @@
      "category": "European"
     },
     {
+     "name": "ISOLA BELLA",
+     "description": "Italian, French or Spanish restaurant in Wakayama City.",
+     "source_url": "https://www.shokutsuna.jp/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Steak & Wine Vabene Forte",
+     "description": "Italian, French or Spanish restaurant in Wakayama City.",
+     "source_url": "https://www.hotpepper.jp/strJ000754383/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "IL TEATRO",
+     "description": "Italian, French or Spanish restaurant in Wakayama City.",
+     "source_url": "https://la-romanee.jp/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Musica Cafe",
+     "description": "Italian, French or Spanish restaurant in Wakayama City.",
+     "source_url": "https://www.hotpepper.jp/strJ000977213/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Ishuuya Prego",
+     "description": "Italian, French or Spanish restaurant in Wakayama City.",
+     "source_url": "https://izakaya-prego.owst.jp",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Pizza and pasta restaurant in Wakayama",
+     "name_en": "Pizza and pasta restaurant in Wakayama",
+     "name_ja": "ミスターマジック",
+     "description": "Pizza and pasta restaurant in Wakayama.",
+     "source_url": "https://mr-magic-3.jimdosite.com/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Italian restaurant in Matsue Kou Noshima, Wakayama",
+     "name_en": "Italian restaurant in Matsue Kou Noshima, Wakayama",
+     "name_ja": "サイゼリヤ",
+     "description": "Italian restaurant in Matsue Kou Noshima, Wakayama. Open daily 10:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/4462959867",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "BILLBOARD",
+     "name_en": "BILLBOARD",
+     "description": "Italian restaurant in Wakayama. Open daily 11:30-15:30, 17:30-02:00.",
+     "source_url": "https://www.openstreetmap.org/way/1435088121",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Colors",
+     "name_en": "Colors",
+     "description": "Pizza restaurant in Wakayama.",
+     "source_url": "https://www.openstreetmap.org/node/5195838549",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Dining UO",
+     "name_en": "Dining UO",
+     "name_ja": "ダイニングUO",
+     "description": "American restaurant in Wakayama. Open daily 18:00-02:00.",
+     "source_url": "https://www.openstreetmap.org/way/460700381",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "FUN+Zero",
+     "name_en": "FUN+Zero",
+     "description": "Italian restaurant in Wakayama.",
+     "source_url": "https://www.openstreetmap.org/way/1285375495",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Italian restaurant in Wakayama",
+     "name_en": "Italian restaurant in Wakayama",
+     "name_ja": "イタリアン イル・リトロボ",
+     "description": "Italian restaurant in Wakayama. Open daily 11:30-15:00, 17:30-22:00.",
+     "source_url": "https://www.openstreetmap.org/way/217732150",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Kitchen Cammy",
+     "name_en": "Kitchen Cammy",
+     "description": "Italian restaurant in Wakayama.",
+     "source_url": "https://www.openstreetmap.org/node/11873435189",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "pia Sapido",
+     "name_en": "pia Sapido",
+     "description": "Italian restaurant in Wakayama.",
+     "source_url": "https://www.openstreetmap.org/node/6926435421",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "PISOLA",
+     "name_en": "PISOLA",
+     "description": "Pizza restaurant in Wakayama. Open daily 11:00-24:00.",
+     "source_url": "https://www.openstreetmap.org/way/1102814977",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "prego",
+     "name_en": "prego",
+     "description": "Italian restaurant in Ota, Wakayama.",
+     "source_url": "https://www.openstreetmap.org/way/548927485",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Italian restaurant in Tanakacho, Wakayama",
+     "name_en": "Italian restaurant in Tanakacho, Wakayama",
+     "name_ja": "シエスタ",
+     "description": "Italian restaurant in Tanakacho, Wakayama.",
+     "source_url": "https://www.openstreetmap.org/way/547849053",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Maruoka",
      "name_en": "Maruoka",
      "name_ja": "まるおか",
@@ -10365,11 +13098,256 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Wakazari Yossan",
+     "name_en": "Wakazari Yossan",
+     "name_ja": "和飾 義三",
+     "description": "Izakaya (Japanese pub) in Wakayama City.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400146",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Wakayama Chanpon Chujiro",
+     "name_en": "Wakayama Chanpon Chujiro",
+     "name_ja": "和歌山ちゃんぽん 忠次郎",
+     "description": "Izakaya (Japanese pub) in Wakayama City.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400131",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Chushin-ya Ashagi",
+     "name_en": "Chushin-ya Ashagi",
+     "name_ja": "中心屋 あしゃぎ",
+     "description": "Izakaya (Japanese pub) in Wakayama City.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400130",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Tori Yakiniku to Kaiseny Izakaya UTTORI",
+     "description": "Izakaya (Japanese pub) in Wakayama City.",
+     "source_url": "https://r.gnavi.co.jp/mgjtxy9s0000/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Daishin Nishiiru Aozakana",
+     "description": "Izakaya (Japanese pub) in Wakayama City.",
+     "source_url": "https://www.instagram.com/daishin_nishiiru_bluefish",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Basashi to Jidori to Maguro Umeya",
+     "description": "Izakaya (Japanese pub) in Wakayama City.",
+     "source_url": "https://kdhw101.gorp.jp/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Oshokujidokoro Beni Usagi",
+     "description": "Izakaya (Japanese pub) in Wakayama City.",
+     "source_url": "https://www.beni-usagi.com",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kyoubashi Koutarou",
+     "description": "Izakaya (Japanese pub) in Wakayama City, also serving ramen.",
+     "source_url": "https://base.koutarou-wakayama.com",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yuka",
+     "description": "Izakaya (Japanese pub) in Wakayama City.",
+     "source_url": "https://kcr6900.gorp.jp/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Shunsai Seirakufu",
+     "description": "Izakaya (Japanese pub) in Wakayama City.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2300049",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yakitori no Tetsujin Iron Bird",
+     "description": "Izakaya (Japanese pub) in Wakayama City.",
+     "source_url": "https://kar7602.gorp.jp/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kushiage Gin",
+     "description": "Izakaya (Japanese pub) in Wakayama City.",
+     "source_url": "https://www.instagram.com/kusiage_gin/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kingyo",
+     "description": "Izakaya (Japanese pub) in Wakayama City.",
+     "source_url": "https://retty.me/area/PRE30/ARE121/SUB12101/100001102001/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Lucky Bob",
+     "description": "Izakaya (Japanese pub) in Wakayama City.",
+     "source_url": "https://www.luckybob.jp/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Tori JUN",
+     "description": "Izakaya (Japanese pub) in Wakayama City, also serving Japanese cuisine.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2300010",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Shunsai Kushiyaki Dan",
+     "description": "Izakaya (Japanese pub) in Wakayama City.",
+     "source_url": "http://www.dan7577.jp/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yakitoriya Birdman",
+     "description": "Izakaya (Japanese pub) in Wakayama City.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2200174",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Bishoku Shuka Beni",
+     "description": "Izakaya (Japanese pub) in Wakayama City.",
+     "source_url": "https://wakayama-kurenai.gorp.jp/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Ebisuya",
+     "description": "Izakaya (Japanese pub) in Wakayama City, also serving Japanese cuisine.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2200155",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yakiton Byakko",
+     "description": "Izakaya (Japanese pub) in Wakayama City.",
+     "source_url": "https://www.instagram.com/yakiton.byakko/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Sumi Kappo Shintani",
      "name_en": "Sumi Kappo Shintani",
      "name_ja": "炭割烹 新谷",
      "description": "Yakitori (grilled chicken) restaurant in Wakayama.",
      "source_url": "https://tabelog.com/wakayama/A3001/A300101/30011408/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku-ya Kinen",
+     "name_en": "Yakiniku-ya Kinen",
+     "name_ja": "焼肉家 㐂ねん",
+     "description": "Yakiniku and steak restaurant in Wakayama City.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400132",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Niku no Takumi Gyuurikiya",
+     "name_en": "Niku no Takumi Gyuurikiya",
+     "name_ja": "肉の匠 牛力屋",
+     "description": "Yakiniku and steak restaurant in Wakayama City.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400121",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Ten Zan PLUS Kokutai Doro",
+     "description": "Yakiniku and steak restaurant in Wakayama City.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400044",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "YAKINIKU BUFFET Sakon Kinokawa",
+     "description": "Yakiniku and steak restaurant in Wakayama City.",
+     "source_url": "https://www.v-sakon.co.jp/shop/kinokawa.html",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Kishuu Wakagyu Kenkyuujo",
+     "description": "Sukiyaki and shabu-shabu restaurant in Wakayama City.",
+     "source_url": "https://kbwc302.gorp.jp/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Gyushi",
+     "description": "Yakiniku and steak restaurant in Wakayama City.",
+     "source_url": "https://ke9d400.gorp.jp/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Good Stock",
+     "name_en": "Good Stock",
+     "description": "Steak restaurant in Wakayama.",
+     "source_url": "https://www.openstreetmap.org/node/5293191306",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Hiroshiya Kimiidera Main Store",
+     "name_en": "Hiroshiya Kimiidera Main Store",
+     "name_ja": "寛屋 紀三井寺本店",
+     "description": "Steak restaurant in Wakayama. Open daily 11:00-15:00, 17:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/6144558115",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Matsufuku Sono",
+     "name_en": "Matsufuku Sono",
+     "name_ja": "松福園",
+     "description": "Steak restaurant in Wakayama. Open daily 17:00-23:30.",
+     "source_url": "https://www.openstreetmap.org/node/4463749513",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Nikutonya Nikumaru Shoten",
+     "name_en": "Nikutonya Nikumaru Shoten",
+     "name_ja": "肉問屋肉丸商店",
+     "description": "Beef restaurant in Wakayama. Open Mon-Sun, public holidays 10:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/10091668853",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Texas King Steak",
+     "name_en": "Texas King Steak",
+     "name_ja": "テキサスキングステーキ",
+     "description": "Steak restaurant in Wakayama.",
+     "source_url": "https://www.openstreetmap.org/node/6144564467",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Meat restaurant in Wakayama",
+     "name_en": "Meat restaurant in Wakayama",
+     "name_ja": "とんかつ かつ喜",
+     "description": "Meat restaurant in Nakano, Wakayama. Open daily 11:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/10241829866",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -10455,10 +13433,241 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Toripaitan Soba Yasu",
+     "name_en": "Toripaitan Soba Yasu",
+     "name_ja": "鶏白湯そば やす",
+     "description": "Ramen shop in Wakayama City.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400141",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Yamatame Shokudou",
+     "description": "Ramen shop in Wakayama City.",
+     "source_url": "https://site.locaop.jp/VygMQ",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Wakayama Ramen Marui Nakanoshima (Arochi)",
+     "description": "Ramen shop in Wakayama City.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400064",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Marukyou Chuuka Soba",
+     "description": "Ramen shop in Wakayama City.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400057",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Maruman Ramen Kyuubanchou",
+     "description": "Ramen shop in Wakayama City.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400052",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Green Corner Aeon Mall",
+     "description": "Ramen shop in Wakayama City.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400039",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Marutaya Burakuri-cho",
+     "description": "Ramen shop in Wakayama City.",
+     "source_url": "https://www.chukasoba.com/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon to Omusubi Tsumugi",
+     "description": "Udon and soba restaurant in Wakayama City.",
+     "source_url": "https://k650408.gorp.jp/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tennen Kishuu Kuroshio Onsen",
+     "description": "Udon and soba restaurant in Wakayama City.",
+     "source_url": "https://www.marinacity.com/spa/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Arochi Marutaka Chuuka Soba",
+     "description": "Ramen shop in Wakayama City.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2200147",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ide Shoten",
+     "name_en": "Ide Shoten",
+     "name_ja": "中華そば専門店 井出商店",
+     "description": "Ramen restaurant in Tanakacho, Wakayama. Open Fri-Wed 11:30-22:00.",
+     "source_url": "https://ideshoten.stores.jp/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Bobuta Seimen Tokoro",
+     "name_en": "Bobuta Seimen Tokoro",
+     "name_ja": "暴豚製麺所",
+     "description": "Ramen restaurant in Wakayama. Open Mon-Sat 18:00-24:00.",
+     "source_url": "https://www.openstreetmap.org/way/220418161",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Chuka Soba Marutaya",
+     "name_en": "Chuka Soba Marutaya",
+     "name_ja": "中華そば丸田屋",
+     "description": "Ramen restaurant in Wakayama. Open daily 11:00-00:00.",
+     "source_url": "https://www.openstreetmap.org/way/460699341",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Himawari",
+     "name_en": "Himawari",
+     "name_ja": "ひまわり",
+     "description": "Ramen restaurant in Kitashin, Wakayama. Open daily 11:00-15:00, 17:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/11372954195",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ishida Ichiryu",
+     "name_en": "Ishida Ichiryu",
+     "name_ja": "石田一龍",
+     "description": "Ramen restaurant in Wakayama. Open Mon-Tue, Thu-Fri 11:00-14:00, 15:30-20:30; Wed 11:00-14:00; Sat-Sun, public holidays 11:00-20:30.",
+     "source_url": "https://www.openstreetmap.org/node/14270574335",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kawamenya",
+     "name_en": "Kawamenya",
+     "name_ja": "革麺屋",
+     "description": "Ramen restaurant in Wakayama. Open daily 11:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/4462950060",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kibo Ken",
+     "name_en": "Kibo Ken",
+     "name_ja": "希望軒",
+     "description": "Ramen restaurant in Wakayama. Open Tue-Mon 11:00-14:30, 17:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/10933911449",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Maido-Ohkini",
+     "name_en": "Maido-Ohkini",
+     "name_ja": "和歌山創作うどんおむすび 紀かわ",
+     "description": "Udon restaurant in Wakayama.",
+     "source_url": "https://www.openstreetmap.org/way/450286248",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menya Takahashi",
+     "name_en": "Menya Takahashi",
+     "name_ja": "麺屋たかはし",
+     "description": "Ramen restaurant in Ko, Wakayama. Open Tue-Sat 11:00-15:00, 18:00-21:00; Sun 11:00-15:00, 17:00-20:00.",
+     "source_url": "https://www.openstreetmap.org/node/10951370821",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Nagahama Ramen",
+     "name_en": "Nagahama Ramen",
+     "name_ja": "長浜らーめん",
+     "description": "Ramen restaurant in Wakayama. Open daily 11:00-24:00.",
+     "source_url": "https://www.openstreetmap.org/node/4442218271",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Shinzammono",
+     "name_en": "Shinzammono",
+     "name_ja": "新参者",
+     "description": "Ramen and noodle restaurant in Wakayama. Open Tue-Sun 11:30-14:00, 18:00-21:30.",
+     "source_url": "https://www.openstreetmap.org/way/534789721",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Shitenno Hanayama Branch",
+     "name_en": "Shitenno Hanayama Branch",
+     "name_ja": "四天王 花山店",
+     "description": "Ramen restaurant in Wakayama. Open Tue-Fri 11:00-14:00, 17:00-24:00.",
+     "source_url": "https://www.openstreetmap.org/node/4442253373",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Noodle restaurant in Wakayama",
+     "name_en": "Noodle restaurant in Wakayama",
+     "name_ja": "東京油組総本店",
+     "description": "Noodle restaurant in Wakayama. Open Mon-Sun, public holidays 11:00-21:30.",
+     "source_url": "https://www.openstreetmap.org/way/516722887",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Adagio",
      "name_en": "Adagio",
      "description": "Innovative-cuisine restaurant in Wakayama.",
      "source_url": "https://tabelog.com/wakayama/A3001/A300101/30011088/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Shojin Cafe Foi JR Wakayama Ekimae",
+     "description": "Vegetarian-friendly restaurant in Wakayama City.",
+     "source_url": "https://shojincafe-foi.com/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kampachiya",
+     "name_en": "Kampachiya",
+     "name_ja": "勘八屋",
+     "description": "Restaurant in Wakayama.",
+     "source_url": "https://www.kino-kanpachiya.com/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "St.Zephyr",
+     "name_en": "St.Zephyr",
+     "description": "Restaurant in Nagayama, Wakayama. Open Mon-Fri 10:00-11:00, 11:30-20:00; Sat-Sun, public holidays 09:00-11:00, 11:30-21:00.",
+     "source_url": "https://st-zephyr.com/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Mushi Dining Mus Mus",
+     "name_en": "Mushi Dining Mus Mus",
+     "name_ja": "蒸しダイニング Mus Mus",
+     "description": "Restaurant in Wakayama.",
+     "source_url": "https://k260201.gorp.jp/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Shabu",
+     "name_en": "Shabu",
+     "name_ja": "しゃぶー",
+     "description": "Restaurant in Wakayama. Open Mon-Fri 11:30-14:30, 18:00-22:00; Sat 11:30-14:30, 17:30-22:00; Sun, public holidays 11:30-14:30, 17:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/way/460697900",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/other/",
      "category": "Other"
     },
@@ -10495,6 +13704,174 @@
      "name_ja": "橋本",
      "description": "Japanese restaurant in Wakayama.",
      "source_url": "https://tabelog.com/wakayama/A3001/A300101/30000204/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Wakayama Meidai Unagiya Kurofune",
+     "description": "Japanese restaurant in Wakayama City.",
+     "source_url": "https://www.instagram.com/unagi__kurofune__wakayama?igsh=MTdsMDZjbHVqeTR0cA%3D%3D&amp;utm_source=qr",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Unagi no Naruse Wakayama",
+     "description": "Japanese restaurant in Wakayama City.",
+     "source_url": "https://www.unagi-naruse.com/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Daikoutei",
+     "description": "Japanese restaurant in Wakayama City.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400059",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Fleur",
+     "description": "Japanese restaurant in Wakayama City.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2300066",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Wakaura Shokudou",
+     "description": "Japanese restaurant in Wakayama City.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2300031",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Mitsuboshi",
+     "description": "Japanese restaurant in Wakayama City.",
+     "source_url": "https://mitsuboshi5666.gorp.jp/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yakitori Dining Mitsuboshi",
+     "description": "Japanese restaurant in Wakayama City.",
+     "source_url": "https://mitsuboshi-0666.gorp.jp/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kaisen Seiro Mushi Katsuura",
+     "description": "Japanese restaurant in Wakayama City.",
+     "source_url": "http://www.seiromushi-katsuura.com/shop/index.html",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Nanatsu no Tsuki no Yume",
+     "description": "Japanese restaurant in Wakayama City.",
+     "source_url": "https://7-moon.gorp.jp/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Okamoto",
+     "description": "Japanese restaurant in Wakayama City.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2200171",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Menya Joroku",
+     "name_en": "Menya Joroku",
+     "name_ja": "麺屋 丈六",
+     "description": "Japanese restaurant in Tozo Maecho, Wakayama. Open Mon, Wed-Sun 11:00-15:00, 18:00-22:00; closed Tue.",
+     "source_url": "https://kino-wakayama.jp/shop/366/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Gimpei Ekimae Branch",
+     "name_en": "Gimpei Ekimae Branch",
+     "name_ja": "銀平駅前店",
+     "description": "Japanese restaurant in Wakayama. Open daily 11:30-14:00, 17:00-23:00.",
+     "source_url": "http://www.ginpei.com",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Ota, Wakayama",
+     "name_en": "Japanese restaurant in Ota, Wakayama",
+     "name_ja": "松のや",
+     "description": "Japanese restaurant in Ota, Wakayama. Open daily 05:00-26:00.",
+     "source_url": "https://matsuyafoods.co.jp",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Gokoku",
+     "name_en": "Gokoku",
+     "name_ja": "五穀",
+     "description": "Japanese restaurant in Wakayama. Open daily 11:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/4462954002",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Katei Ryori Hiro",
+     "name_en": "Katei Ryori Hiro",
+     "name_ja": "家庭料理ひろ",
+     "description": "Japanese restaurant in Wakayama. Open daily 17:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/way/449324363",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kawamen Ie",
+     "name_en": "Kawamen Ie",
+     "name_ja": "革麺家",
+     "description": "Japanese restaurant in Fukushima, Wakayama. Open daily 17:00-00:00.",
+     "source_url": "https://www.openstreetmap.org/way/547852876",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kino Ie",
+     "name_en": "Kino Ie",
+     "name_ja": "季乃家",
+     "description": "Japanese restaurant in Wakayama. Open daily 16:30-24:00.",
+     "source_url": "https://www.openstreetmap.org/node/4462958695",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kyoto Arashiyama Seishu Iori",
+     "name_en": "Kyoto Arashiyama Seishu Iori",
+     "name_ja": "京都 嵐山 清修庵",
+     "description": "Japanese restaurant in Wakayama. Open daily 11:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/6144567593",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Wakayama",
+     "name_en": "Japanese restaurant in Wakayama",
+     "name_ja": "きゅう",
+     "description": "Japanese restaurant in Wakayama.",
+     "source_url": "https://www.openstreetmap.org/way/1562318478",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Umai Monya Hirotoshi",
+     "name_en": "Umai Monya Hirotoshi",
+     "name_ja": "旨いもんや ひろとし",
+     "description": "Japanese restaurant in Wakayama. Open daily 17:00-02:00.",
+     "source_url": "https://www.openstreetmap.org/node/4440323209",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Urara",
+     "name_en": "Urara",
+     "description": "Japanese restaurant in Wakayama.",
+     "source_url": "https://www.openstreetmap.org/node/13039059801",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -10542,6 +13919,65 @@
      "source_url": "https://tabelog.com/wakayama/A3001/A300101/30000117/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/seafood/",
      "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushien",
+     "name_en": "Sushien",
+     "name_ja": "すし園",
+     "description": "Sushi restaurant in Wakayama City.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400129",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sanpachiha",
+     "description": "Sushi restaurant in Wakayama City, also serving Japanese cuisine.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400051",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Ganko Wakayama Rokusouen",
+     "description": "Sushi restaurant in Wakayama City, also serving Japanese cuisine.",
+     "source_url": "http://www.gankofood.co.jp/group/oyashiki/rokusanen/",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Musoe Kura",
+     "name_en": "Musoe Kura",
+     "name_ja": "無添蔵",
+     "description": "Sushi restaurant in Kawabe, Wakayama. Open Mon-Fri 10:30-22:30; Sat-Sun 10:20-22:30.",
+     "source_url": "https://www.openstreetmap.org/node/6150151714",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Ice cream cafe in Wakayama",
+     "name_en": "Ice cream cafe in Wakayama",
+     "name_ja": "玉林園 グリーンコーナー本店",
+     "description": "Ice cream cafe in Wakayama. Open daily 11:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/6006863174",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Kiminoka Wakayama MIO Branch",
+     "name_en": "Kiminoka Wakayama MIO Branch",
+     "name_ja": "キミノ―カ和歌山MIO店",
+     "description": "Ice cream restaurant in Wakayama. Open daily 10:00-19:00.",
+     "source_url": "https://www.openstreetmap.org/node/6006832607",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Japanese sweets shop in Wakayama",
+     "name_en": "Japanese sweets shop in Wakayama",
+     "name_ja": "総本家駿河屋駿河町本舗",
+     "description": "Japanese sweets shop in Wakayama. Open daily 09:00-18:00.",
+     "source_url": "https://www.openstreetmap.org/way/471706890",
+     "page": "https://bokenjapan.com/wakayama/wakayama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "sights": [
@@ -10554,7 +13990,7 @@
     {
      "name": "Wakayama Marina City",
      "description": "Seaside leisure complex on Wakayama's coast.",
-     "source_url": "https://www.marinacity.com/",
+     "source_url": "https://www.marinacity.com/ ",
      "page": "https://bokenjapan.com/wakayama/wakayama/see/"
     },
     {
@@ -10566,7 +14002,7 @@
     {
      "name": "Kimii-dera Temple",
      "description": "Temple founded in 770, with views toward Wakayama Castle and the city.",
-     "source_url": "https://www.kimiidera.com/",
+     "source_url": "https://www.kimiidera.com/ ",
      "page": "https://bokenjapan.com/wakayama/wakayama/see/"
     },
     {
@@ -11220,6 +14656,15 @@
      "category": "Cafe"
     },
     {
+     "name": "Ouchi Cafe",
+     "name_en": "Ouchi Cafe",
+     "name_ja": "おうちカフェ",
+     "description": "Cafe and bakery in Yuasa.",
+     "source_url": "https://eat-wakayama.jp/en/spot/detail/2400128",
+     "page": "https://bokenjapan.com/wakayama/yuasa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Kadoya Shokudo",
      "name_en": "Kadoya Shokudo",
      "name_ja": "かどや食堂",
@@ -11256,8 +14701,8 @@
      "category": "Casual"
     },
     {
-     "name": "Supaisu Curry Chappi",
-     "name_en": "Supaisu Curry Chappi",
+     "name": "Spice Curry Chappi",
+     "name_en": "Spice Curry Chappi",
      "name_ja": "スパイスカレー チャッピー",
      "description": "Curry restaurant in Yuasa.",
      "source_url": "https://tabelog.com/wakayama/A3002/A300203/30011991/",
@@ -11644,6 +15089,13 @@
      "name_ja": "原長",
      "description": "Japanese restaurant in Yura.",
      "source_url": "https://tabelog.com/wakayama/A3003/A300302/30001532/",
+     "page": "https://bokenjapan.com/wakayama/yura/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Wayoushokudou Shirashou",
+     "description": "Japanese restaurant in Yura.",
+     "source_url": "https://kishunowa.or.jp/",
      "page": "https://bokenjapan.com/wakayama/yura/eat/other-japanese/",
      "category": "Other Japanese"
     },
