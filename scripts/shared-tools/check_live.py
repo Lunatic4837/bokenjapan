@@ -42,7 +42,7 @@ UA = "bokenjapan-quality-check/2.0 (read-only; owner QA)"
 RULES = OrderedDict([
     ("R1", "Dining: sourced (Tabelog ∪ TripAdvisor), Tabelog-first order, never empty"),
     ("R2", "Stay: sourced (Ikkyu ∪ Jalan), Ikkyu-first order; no thin sights-only page"),
-    ("R3", "Every Dining/Stay facility has a real photo; credit in metadata; allowed photo source"),
+    ("R3", "Every Dining/Stay facility has a real photo; credit in metadata; any photo source is kept"),
     ("R4", "Card format: JA name / EN name / '#N ranked in {Municipality}' / English explanation; no labels/scores"),
     ("R5", "No visible source/data/licence credits or source-link chrome; every card clickable; English-first"),
     ("R6", "Tiny legal disclaimer at homepage bottom only"),
@@ -71,7 +71,7 @@ RULES = OrderedDict([
     ("X22", "Photo coverage per town: every Dining/Stay card has a photo unless a photo_search record (sources tried) is logged; % reported, FAIL below BJ_MIN_PHOTO_PCT"),  # AUDIT-47
     ("X23", "English-description coverage per town: every Dining/Stay card has an English place-desc; % reported, FAIL below BJ_MIN_DESC_PCT"),  # AUDIT-47
 ])
-SEV = {"PASS": 0, "WARN": 1, "FAIL": 2, "SKIP": -1}
+SEV = {"INFO": 0, "PASS": 0, "WARN": 1, "FAIL": 2, "SKIP": -1}
 RANKED = ("Dining", "Stay")
 
 CJK = re.compile(r"[\u3040-\u30fa\u30fc-\u30ff\u3400-\u9fff\uf900-\ufaff\uff66-\uff9f]")
@@ -879,9 +879,10 @@ def check_facility_cards(res, cards, kind, muni, pref, url, ctx, stats):
     if fake:
         res.add("R3", "FAIL", f"{kind}: {len(fake)} photo credits point to placeholder domains (credit metadata broken): " + ", ".join(fake[:3]), "R3.fake-credit", len(fake))
     if ta_photo:
-        res.add("R3", "WARN", f"{kind}: {len(ta_photo)} photos credited to TripAdvisor (outside official→Tabelog→Ikkyu/Jalan chain): " + ", ".join(ta_photo[:3]), "R3.ta-photo", len(ta_photo))
+        # 2026-10-17 Michael: keep all photos regardless of source unless a takedown is requested; source is informational only
+        res.add("R3", "INFO", f"{kind}: {len(ta_photo)} photos credited to TripAdvisor (kept; source is not a quality flag)", "R3.ta-photo", len(ta_photo))
     if wrongtype:
-        res.add("R3", "WARN", f"{kind}: photo source type mismatch: " + ", ".join(wrongtype[:3]), "R3.type-mismatch", len(wrongtype))
+        res.add("R3", "INFO", f"{kind}: {len(wrongtype)} photos from another source type (kept; source is not a quality flag)", "R3.type-mismatch", len(wrongtype))
     srcs = Counter(c["img"] for c in cards if c["img"])
     reused = [s.split("/")[-1] for s, k in srcs.items() if k > 1]
     if reused:
