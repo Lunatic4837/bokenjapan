@@ -604,7 +604,7 @@
     {
      "name": "Tsugi Falls",
      "description": "Waterfall in Aridagawa.",
-     "source_url": "https://www.town.aridagawa.lg.jp/top/kakuka/kanaya/9/2/keikan/614.html",
+     "source_url": "https://www.town.aridagawa.lg.jp/",
      "page": "https://bokenjapan.com/wakayama/aridagawa/see/"
     },
     {
@@ -664,7 +664,7 @@
     {
      "name": "Kokuzo Falls (Kurokura Falls)",
      "description": "Waterfall in Aridagawa.",
-     "source_url": "https://www.town.aridagawa.lg.jp/top/kanko/syun_tokusyu/6031.html",
+     "source_url": "https://www.town.aridagawa.lg.jp/",
      "page": "https://bokenjapan.com/wakayama/aridagawa/see/"
     },
     {
@@ -780,6 +780,26 @@
      "description": "Gobo city government offices.",
      "source_url": "https://www.city.gobo.lg.jp/",
      "page": "https://bokenjapan.com/wakayama/gobo/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Strawberry, Flower and Melon Picking at Nokinokuni Farm",
+     "description": "Guided strawberry, melon and statice-flower harvesting at a farm in Gobo; the strawberry house is barrier-free.",
+     "source_url": "https://www.wakayama-kanko.or.jp/activities/detail_2172.html",
+     "page": "https://bokenjapan.com/wakayama/gobo/do/"
+    },
+    {
+     "name": "Family Canoe Experience with Hidakagawa Ducky Tanken Club",
+     "description": "Two-person inflatable canoe (\"ducky\") trips on the clear Hidaka River, with instruction for beginners; suited to parents and children.",
+     "source_url": "https://www.wakayama-kanko.or.jp/activities/detail_2171.html",
+     "page": "https://bokenjapan.com/wakayama/gobo/do/"
+    },
+    {
+     "name": "Farm Experience at Kanko Noen Hidaka",
+     "description": "Guided fruit and flower harvesting at a sightseeing farm in Gobo, with a talk on local farming.",
+     "source_url": "https://www.wakayama-kanko.or.jp/activities/detail_2173.html",
+     "page": "https://bokenjapan.com/wakayama/gobo/do/"
     }
    ],
    "food": [
@@ -1917,6 +1937,26 @@
      "page": "https://bokenjapan.com/wakayama/inamicho/day-to-day/"
     }
    ],
+   "activities": [
+    {
+     "name": "Grape Picking at Sunshine Bokujo Orchard",
+     "description": "Pick fresh grapes at an orchard in the hills of Inami.",
+     "source_url": "https://www.wakayama-kanko.or.jp/activities/detail_2167.html",
+     "page": "https://bokenjapan.com/wakayama/inamicho/do/"
+    },
+    {
+     "name": "Strawberry Picking at Sunshine Bokujo Orchard",
+     "description": "Pick fully ripe, organically grown strawberries in Inami; optional strawberry-jam and strawberry-daifuku making.",
+     "source_url": "https://www.wakayama-kanko.or.jp/activities/detail_2166.html",
+     "page": "https://bokenjapan.com/wakayama/inamicho/do/"
+    },
+    {
+     "name": "Cut-Flower Picking at Kyoei Hana no Sato",
+     "description": "Harvest cut flowers in Inami's Kyoei district after a short talk on how the flowers shipped nationwide are grown.",
+     "source_url": "https://www.wakayama-kanko.or.jp/activities/detail_2169.html",
+     "page": "https://bokenjapan.com/wakayama/inamicho/do/"
+    }
+   ],
    "food": [
     {
      "name": "Colocolo Coffee",
@@ -2804,7 +2844,7 @@
     {
      "name": "Kyuba-kei Kannon",
      "description": "Temple founded by En no Gyoja, rebuilt in 1426.",
-     "source_url": "https://www.sukuma.or.jp/",
+     "source_url": "https://www.town.kamitonda.lg.jp/",
      "page": "https://bokenjapan.com/wakayama/kamitonda/see/"
     },
     {
@@ -3865,7 +3905,7 @@
     {
      "name": "Fudozaka-guchi Nyonindo",
      "description": "Hall at the Fudozaka entrance, the old women's hall of Koyasan.",
-     "source_url": "https://www.koyasan.or.jp/meguru/sights.html#nyonindo",
+     "source_url": "https://www.koyasan.or.jp/",
      "page": "https://bokenjapan.com/wakayama/koya/do/"
     }
    ],
@@ -4420,7 +4460,7 @@
     {
      "name": "Ichimai-iwa",
      "description": "Giant single rock on the clear Kozagawa River.",
-     "source_url": "https://kozagawakanko.jp/tourism/114/",
+     "source_url": "https://kozagawakanko.jp/",
      "page": "https://bokenjapan.com/wakayama/kozagawa/see/"
     },
     {
@@ -4958,13 +4998,13 @@
     {
      "name": "Turkish Memorial Museum",
      "description": "Museum on the 1890 Ertugrul shipwreck and Japan-Turkey friendship.",
-     "source_url": "https://kankou-kushimoto.jp/miryoku/torukokinenkan.html",
+     "source_url": "https://kankou-kushimoto.jp/",
      "page": "https://bokenjapan.com/wakayama/kushimoto/see/"
     },
     {
      "name": "Kashinozaki Lighthouse",
      "description": "Lighthouse on Oshima island.",
-     "source_url": "https://kankou-kushimoto.jp/miryoku/kashinotoudai.html",
+     "source_url": "https://kankou-kushimoto.jp/",
      "page": "https://bokenjapan.com/wakayama/kushimoto/see/"
     },
     {
@@ -5147,6 +5187,26 @@
      "description": "Mihama town government offices.",
      "source_url": "https://www.town.mihama.wakayama.jp/",
      "page": "https://bokenjapan.com/wakayama/mihama/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Saori Weaving at Saori Kobo Saishoku",
+     "description": "Weave coasters, table runners, place mats or scarves freely by hand in an ocean-view studio in Mihama; no experience needed.",
+     "source_url": "https://www.wakayama-kanko.or.jp/activities/detail_2212.html",
+     "page": "https://bokenjapan.com/wakayama/mihama/do/"
+    },
+    {
+     "name": "Driftwood Interior Goods Workshop at Atelier Bianco",
+     "description": "Choose driftwood from the beach in front of the studio and turn it into a clock or hook-style interior piece.",
+     "source_url": "https://www.wakayama-kanko.or.jp/activities/detail_2213.html",
+     "page": "https://bokenjapan.com/wakayama/mihama/do/"
+    },
+    {
+     "name": "Travel Postcard Art at Atelier Bianco",
+     "description": "Make a one-off postcard from tickets, photos and brochures from your trip; take home a copy and send the original to someone special.",
+     "source_url": "https://www.wakayama-kanko.or.jp/activities/detail_2214.html",
+     "page": "https://bokenjapan.com/wakayama/mihama/do/"
     }
    ],
    "food": [
@@ -8609,7 +8669,7 @@
     {
      "name": "Former Nakasuji House",
      "description": "Historic merchant residence in Wakayama City.",
-     "source_url": "https://www.wakayamakanko.com/sightseeing/history10.html",
+     "source_url": "https://www.city.wakayama.wakayama.jp/",
      "page": "https://bokenjapan.com/wakayama/wakayama/do/"
     }
    ],
@@ -8788,7 +8848,7 @@
     {
      "name": "Tomogashima Island",
      "description": "Island of nature trails and scattered brick ruins of old military forts, reached by boat.",
-     "source_url": "https://www.wakayamakanko.com/sightseeing/nature2.html",
+     "source_url": "https://www.city.wakayama.wakayama.jp/",
      "page": "https://bokenjapan.com/wakayama/wakayama/see/"
     },
     {
@@ -8908,7 +8968,7 @@
     {
      "name": "Furo Bridge",
      "description": "Bridge in Wakayama City.",
-     "source_url": "https://www.wakayamakanko.com/sightseeing/history7.html",
+     "source_url": "https://www.city.wakayama.wakayama.jp/",
      "page": "https://bokenjapan.com/wakayama/wakayama/see/"
     },
     {
@@ -9503,7 +9563,7 @@
     {
      "name": "Important Preservation District for Groups of Traditional Buildings",
      "description": "Old merchant town, the only such nationally designated district in Wakayama Prefecture.",
-     "source_url": "https://www.town.yuasa.wakayama.jp/site/kyoiku/3147.html",
+     "source_url": "https://www.town.yuasa.wakayama.jp/",
      "page": "https://bokenjapan.com/wakayama/yuasa/see/"
     },
     {

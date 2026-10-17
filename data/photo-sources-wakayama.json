@@ -1,6 +1,6 @@
 {
  "pref": "wakayama",
- "photos": 1120,
+ "photos": 1128,
  "pages": {
   "/wakayama/arida/day-to-day/": [
    {
@@ -632,6 +632,22 @@
     "card": "W.A.S riverside nature terrace Hoshifuru Terrace",
     "publisher": "じゃらんnet",
     "source": "https://www.jalan.net/yad392724/",
+    "licence": "unconfirmed (publisher image)"
+   }
+  ],
+  "/wakayama/gobo/do/": [
+   {
+    "media": "/media/wakayama-gobo-do2172.webp",
+    "card": "Strawberry, Flower and Melon Picking at Nokinokuni Farm",
+    "publisher": "公益社団法人 和歌山県観光連盟",
+    "source": "https://www.wakayama-kanko.or.jp/activities/detail_2172.html",
+    "licence": "unconfirmed (publisher image)"
+   },
+   {
+    "media": "/media/wakayama-gobo-do2171.webp",
+    "card": "Family Canoe Experience with Hidakagawa Ducky Tanken Club",
+    "publisher": "japan47go.travel",
+    "source": "https://japan47go.g.kuroco-img.app/v=1678819260/files/topics/129690_ext_6_0.jpg",
     "licence": "unconfirmed (publisher image)"
    }
   ],
@@ -1620,6 +1636,29 @@
     "licence": "unconfirmed (publisher image)"
    }
   ],
+  "/wakayama/inamicho/do/": [
+   {
+    "media": "/media/wakayama-inamicho-do2167.webp",
+    "card": "Grape Picking at Sunshine Bokujo Orchard",
+    "publisher": "公益社団法人 和歌山県観光連盟",
+    "source": "https://www.wakayama-kanko.or.jp/activities/detail_2167.html",
+    "licence": "unconfirmed (publisher image)"
+   },
+   {
+    "media": "/media/wakayama-inamicho-do2166.webp",
+    "card": "Strawberry Picking at Sunshine Bokujo Orchard",
+    "publisher": "公益社団法人 和歌山県観光連盟",
+    "source": "https://www.wakayama-kanko.or.jp/activities/detail_2166.html",
+    "licence": "unconfirmed (publisher image)"
+   },
+   {
+    "media": "/media/wakayama-inamicho-do2169.webp",
+    "card": "Cut-Flower Picking at Kyoei Hana no Sato",
+    "publisher": "公益社団法人 和歌山県観光連盟",
+    "source": "https://www.wakayama-kanko.or.jp/activities/detail_2169.html",
+    "licence": "unconfirmed (publisher image)"
+   }
+  ],
   "/wakayama/inamicho/eat/cafe/": [
    {
     "media": "/media/wakayama-inamicho-d30008429.webp",
@@ -2438,8 +2477,8 @@
    {
     "media": "/media/kamitonda-s48.webp",
     "card": "Kyuba-kei Kannon",
-    "publisher": "sukuma.or.jp",
-    "source": "https://www.sukuma.or.jp/",
+    "publisher": "town.kamitonda.lg.jp",
+    "source": "https://www.town.kamitonda.lg.jp/",
     "licence": "unconfirmed (publisher image)"
    },
    {
@@ -3746,7 +3785,7 @@
     "media": "/media/kozagawa-s579.webp",
     "card": "Ichimai-iwa",
     "publisher": "kozagawakanko.jp",
-    "source": "https://kozagawakanko.jp/tourism/114/",
+    "source": "https://kozagawakanko.jp/",
     "licence": "unconfirmed (publisher image)"
    },
    {
@@ -4355,6 +4394,29 @@
     "card": "Tabist Kokuminshukusha Arafune Resort",
     "publisher": "じゃらんnet",
     "source": "https://www.jalan.net/yad396532/",
+    "licence": "unconfirmed (publisher image)"
+   }
+  ],
+  "/wakayama/mihama/do/": [
+   {
+    "media": "/media/wakayama-mihama-do2212.webp",
+    "card": "Saori Weaving at Saori Kobo Saishoku",
+    "publisher": "公益社団法人 和歌山県観光連盟",
+    "source": "https://www.wakayama-kanko.or.jp/activities/detail_2212.html",
+    "licence": "unconfirmed (publisher image)"
+   },
+   {
+    "media": "/media/wakayama-mihama-do2213.webp",
+    "card": "Driftwood Interior Goods Workshop at Atelier Bianco",
+    "publisher": "公益社団法人 和歌山県観光連盟",
+    "source": "https://www.wakayama-kanko.or.jp/activities/detail_2213.html",
+    "licence": "unconfirmed (publisher image)"
+   },
+   {
+    "media": "/media/wakayama-mihama-do2214.webp",
+    "card": "Travel Postcard Art at Atelier Bianco",
+    "publisher": "公益社団法人 和歌山県観光連盟",
+    "source": "https://www.wakayama-kanko.or.jp/activities/detail_2214.html",
     "licence": "unconfirmed (publisher image)"
    }
   ],
@@ -7643,8 +7705,8 @@
    {
     "media": "/media/wakayama-city-s577.webp",
     "card": "Tomogashima Island",
-    "publisher": "wakayamakanko.com",
-    "source": "https://www.wakayamakanko.com/sightseeing/nature2.html",
+    "publisher": "city.wakayama.wakayama.jp",
+    "source": "https://www.city.wakayama.wakayama.jp/",
     "licence": "unconfirmed (publisher image)"
    },
    {
@@ -8165,7 +8227,7 @@
     "media": "/media/yuasa-s1059.webp",
     "card": "Important Preservation District for Groups of Traditional Buildings",
     "publisher": "town.yuasa.wakayama.jp",
-    "source": "https://www.town.yuasa.wakayama.jp/site/kyoiku/3147.html",
+    "source": "https://www.town.yuasa.wakayama.jp/",
     "licence": "unconfirmed (publisher image)"
    },
    {
