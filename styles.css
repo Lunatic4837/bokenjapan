@@ -1536,7 +1536,7 @@ body.home .pref-map {
 }
 
 .hub-tile-sm .hub-tile-count {
-  font-size: 0.72rem;
+  font-size: 0.75rem;
 }
 
 .hub-tile-sm .hub-tile-count::before {
@@ -1833,7 +1833,8 @@ body.home .explore-lede {
 
 /* Footer links: comfortable tap targets on touch screens */
 .site-foot .social-row a,
-.site-foot .foot-legal a {
+.site-foot .foot-legal a,
+.site-foot .foot-data a {
   display: inline-flex;
   align-items: center;
   min-height: 2.75rem;
@@ -1859,6 +1860,8 @@ body.home .explore-lede {
   font-size: 0.92rem;
 }
 .foot-legal a { color: var(--muted); text-decoration: none; }
+.site-foot .foot-data { color: var(--muted); font-size: 0.85rem; }
+.site-foot .foot-data a { color: var(--muted); text-decoration: underline; text-underline-offset: 0.18em; }
 .foot-legal a:hover { color: var(--ink); text-decoration: underline; text-underline-offset: 0.18em; }
 .site-foot .sns-off {
   display: inline-flex;
@@ -1888,3 +1891,8 @@ body.home .explore-lede {
 /* Keyboard users: jump past the 47 map links to the text list. */
 .skip-map { position: fixed; top: 0.75rem; left: 0.75rem; z-index: 10; transform: translateY(-300%); box-shadow: 0 6px 18px rgba(28, 25, 22, 0.2); }
 .skip-map:focus { transform: none; }
+
+/* Text-only sight rows (no photo): the whole row link is at least 44px tall on phones. */
+@media (max-width: 720px) {
+  .place-list li > a:not(:has(img)) { padding: 0.6rem 0; margin: -0.6rem 0; }
+}

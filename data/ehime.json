@@ -43,6 +43,7 @@
     {
      "name": "アンベール",
      "name_en": "Ambel",
+     "description": "Cafe in Ainan, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380404/38005011/",
      "page": "https://bokenjapan.com/ehime/ainan/eat/cafe/",
      "category": "Cafe"
@@ -50,6 +51,7 @@
     {
      "name": "華山",
      "name_en": "Kazan",
+     "description": "Cafe in Ainan, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380404/38000759/",
      "page": "https://bokenjapan.com/ehime/ainan/eat/cafe/",
      "category": "Cafe"
@@ -57,6 +59,7 @@
     {
      "name": "Mimosa Cafe",
      "name_en": "Mimosa Cafe",
+     "description": "Cafe in Ainan, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380404/38014992/",
      "page": "https://bokenjapan.com/ehime/ainan/eat/cafe/",
      "category": "Cafe"
@@ -64,6 +67,7 @@
     {
      "name": "愛南 市場食堂",
      "name_en": "Ainan Shijo Shokudo",
+     "description": "Casual restaurant in Ainan, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380404/38007391/",
      "page": "https://bokenjapan.com/ehime/ainan/eat/casual/",
      "category": "Casual"
@@ -71,6 +75,7 @@
     {
      "name": "なにわ",
      "name_en": "Naniwa",
+     "description": "Casual restaurant in Ainan, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380404/38000875/",
      "page": "https://bokenjapan.com/ehime/ainan/eat/casual/",
      "category": "Casual"
@@ -78,6 +83,7 @@
     {
      "name": "お好み焼き ひらの",
      "name_en": "Okonomiyaki Hira no",
+     "description": "Okonomiyaki restaurant in Ainan, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380404/38007319/",
      "page": "https://bokenjapan.com/ehime/ainan/eat/casual/",
      "category": "Casual"
@@ -85,6 +91,7 @@
     {
      "name": "フレッシュ一本松",
      "name_en": "Fresh Ipponmatsu",
+     "description": "Casual restaurant in Ainan, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380404/38009311/",
      "page": "https://bokenjapan.com/ehime/ainan/eat/casual/",
      "category": "Casual"
@@ -92,6 +99,7 @@
     {
      "name": "みかど食堂",
      "name_en": "Mikado Shokudo",
+     "description": "Casual restaurant in Ainan, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380404/38010219/",
      "page": "https://bokenjapan.com/ehime/ainan/eat/casual/",
      "category": "Casual"
@@ -99,6 +107,7 @@
     {
      "name": "豊源",
      "name_en": "Yutaka Gen",
+     "description": "Chinese or Asian restaurant in Ainan, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380404/38013020/",
      "page": "https://bokenjapan.com/ehime/ainan/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -106,6 +115,7 @@
     {
      "name": "シェフミー",
      "name_en": "Chef Me",
+     "description": "European restaurant in Ainan, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380404/38007008/",
      "page": "https://bokenjapan.com/ehime/ainan/eat/european/",
      "category": "European"
@@ -113,6 +123,7 @@
     {
      "name": "アルファ",
      "name_en": "Alpha",
+     "description": "European restaurant in Ainan, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380404/38000849/",
      "page": "https://bokenjapan.com/ehime/ainan/eat/european/",
      "category": "European"
@@ -120,6 +131,7 @@
     {
      "name": "大樹",
      "name_en": "Taiju",
+     "description": "Meat restaurant in Ainan, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380404/38008632/",
      "page": "https://bokenjapan.com/ehime/ainan/eat/meat/",
      "category": "Japanese (meat)"
@@ -127,6 +139,7 @@
     {
      "name": "白椿",
      "name_en": "Shirotsubaki",
+     "description": "Noodle restaurant in Ainan, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380404/38009896/",
      "page": "https://bokenjapan.com/ehime/ainan/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -134,6 +147,7 @@
     {
      "name": "道の駅 みしょうMIC",
      "name_en": "Michi no Eki Misho MIC",
+     "description": "Restaurant in Ainan, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380404/38007459/",
      "page": "https://bokenjapan.com/ehime/ainan/eat/other/",
      "category": "Other"
@@ -141,6 +155,7 @@
     {
      "name": "山出憩いの里温泉",
      "name_en": "Yamade Ikoi no Sato Onsen",
+     "description": "Restaurant in Ainan, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380404/38009308/",
      "page": "https://bokenjapan.com/ehime/ainan/eat/other/",
      "category": "Other"
@@ -148,6 +163,7 @@
     {
      "name": "あけぼの荘",
      "name_en": "Akebo no-so",
+     "description": "Restaurant in Ainan, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380404/38009312/",
      "page": "https://bokenjapan.com/ehime/ainan/eat/other/",
      "category": "Other"
@@ -155,6 +171,7 @@
     {
      "name": "青い国ホテル",
      "name_en": "Aoi Kuni Hotel",
+     "description": "Restaurant in Ainan, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380404/38009045/",
      "page": "https://bokenjapan.com/ehime/ainan/eat/other/",
      "category": "Other"
@@ -162,6 +179,7 @@
     {
      "name": "民宿ビーチ",
      "name_en": "Minshuku Beach",
+     "description": "Restaurant in Ainan, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380404/38009305/",
      "page": "https://bokenjapan.com/ehime/ainan/eat/other/",
      "category": "Other"
@@ -169,6 +187,7 @@
     {
      "name": "ゆらり内海",
      "name_en": "Yurari Utsumi",
+     "description": "Seafood restaurant in Ainan, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380404/38007190/",
      "page": "https://bokenjapan.com/ehime/ainan/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -176,6 +195,7 @@
     {
      "name": "ほっとバター",
      "name_en": "Hot Butter",
+     "description": "Sweets and bakery shop in Ainan, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380404/38009307/",
      "page": "https://bokenjapan.com/ehime/ainan/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -183,6 +203,7 @@
     {
      "name": "ラヴィータ",
      "name_en": "La Vita",
+     "description": "Sweets and bakery shop in Ainan, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380404/38008427/",
      "page": "https://bokenjapan.com/ehime/ainan/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -300,6 +321,7 @@
     {
      "name": "カフェ 木と樹",
      "name_en": "Cafe Ki to Ki",
+     "description": "Cafe in Ikata, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38013540/",
      "page": "https://bokenjapan.com/ehime/ikata/eat/cafe/",
      "category": "Cafe"
@@ -307,6 +329,7 @@
     {
      "name": "CAFE CYANTI",
      "name_en": "CAFE Cyanti",
+     "description": "Cafe in Ikata, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38015352/",
      "page": "https://bokenjapan.com/ehime/ikata/eat/cafe/",
      "category": "Cafe"
@@ -314,6 +337,7 @@
     {
      "name": "CAFE&RESTAURANT NEW PORT",
      "name_en": "Cafe&Restaurant NEW PORT",
+     "description": "Cafe in Ikata, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38017081/",
      "page": "https://bokenjapan.com/ehime/ikata/eat/cafe/",
      "category": "Cafe"
@@ -321,6 +345,7 @@
     {
      "name": "しらす食堂",
      "name_en": "Shirasu Shokudo",
+     "description": "Casual restaurant in Ikata, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38013412/",
      "page": "https://bokenjapan.com/ehime/ikata/eat/casual/",
      "category": "Casual"
@@ -328,6 +353,7 @@
     {
      "name": "伊方じゃこてん",
      "name_en": "Ikata Jakoten",
+     "description": "Casual restaurant in Ikata, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38006074/",
      "page": "https://bokenjapan.com/ehime/ikata/eat/casual/",
      "category": "Casual"
@@ -335,6 +361,7 @@
     {
      "name": "マルマ食堂",
      "name_en": "Maruma Shokudo",
+     "description": "Casual restaurant in Ikata, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38004936/",
      "page": "https://bokenjapan.com/ehime/ikata/eat/casual/",
      "category": "Casual"
@@ -342,6 +369,7 @@
     {
      "name": "Dining海",
      "name_en": "Dining Umi",
+     "description": "Casual restaurant in Ikata, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38015495/",
      "page": "https://bokenjapan.com/ehime/ikata/eat/casual/",
      "category": "Casual"
@@ -349,6 +377,7 @@
     {
      "name": "清海",
      "name_en": "Kiyomi",
+     "description": "Casual restaurant in Ikata, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38004934/",
      "page": "https://bokenjapan.com/ehime/ikata/eat/casual/",
      "category": "Casual"
@@ -356,6 +385,7 @@
     {
      "name": "三崎おみやげスーパー",
      "name_en": "Misaki Omiyage Super",
+     "description": "Casual restaurant in Ikata, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38010454/",
      "page": "https://bokenjapan.com/ehime/ikata/eat/casual/",
      "category": "Casual"
@@ -363,6 +393,7 @@
     {
      "name": "お料理 ひろせ",
      "name_en": "Oryori Hirose",
+     "description": "Casual restaurant in Ikata, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38015351/",
      "page": "https://bokenjapan.com/ehime/ikata/eat/casual/",
      "category": "Casual"
@@ -370,6 +401,7 @@
     {
      "name": "風車",
      "name_en": "Fusha",
+     "description": "European restaurant in Ikata, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38005248/",
      "page": "https://bokenjapan.com/ehime/ikata/eat/european/",
      "category": "European"
@@ -377,6 +409,7 @@
     {
      "name": "道の駅 伊方きらら館",
      "name_en": "Michi no Eki Ikata Kirara-kan",
+     "description": "Restaurant in Ikata, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38007659/",
      "page": "https://bokenjapan.com/ehime/ikata/eat/other/",
      "category": "Other"
@@ -384,6 +417,7 @@
     {
      "name": "まりーな亭",
      "name_en": "Marina-tei",
+     "description": "Japanese restaurant in Ikata, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38000829/",
      "page": "https://bokenjapan.com/ehime/ikata/eat/other-japanese/",
      "category": "Other Japanese"
@@ -391,6 +425,7 @@
     {
      "name": "佐田岬はなはな",
      "name_en": "Sadamisaki Hanahana",
+     "description": "Seafood restaurant in Ikata, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38010936/",
      "page": "https://bokenjapan.com/ehime/ikata/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -398,6 +433,7 @@
     {
      "name": "清海じゃこてん部",
      "name_en": "Kiyomi Jakoten Bu",
+     "description": "Seafood restaurant in Ikata, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38012187/",
      "page": "https://bokenjapan.com/ehime/ikata/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -405,6 +441,7 @@
     {
      "name": "みちもと",
      "name_en": "Michimoto",
+     "description": "Seafood restaurant in Ikata, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38012210/",
      "page": "https://bokenjapan.com/ehime/ikata/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -412,6 +449,7 @@
     {
      "name": "お食事処 宇和海",
      "name_en": "Restaurant Uwami",
+     "description": "Seafood restaurant in Ikata, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38005251/",
      "page": "https://bokenjapan.com/ehime/ikata/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -419,6 +457,7 @@
     {
      "name": "南の果樹園 ニュウズ",
      "name_en": "Minami no Kajuen News",
+     "description": "Sweets and bakery shop in Ikata, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38006964/",
      "page": "https://bokenjapan.com/ehime/ikata/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -426,6 +465,7 @@
     {
      "name": "田村菓子舗",
      "name_en": "Tamura Kashiho",
+     "description": "Sweets and bakery shop in Ikata, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38005947/",
      "page": "https://bokenjapan.com/ehime/ikata/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -433,6 +473,7 @@
     {
      "name": "道の駅 佐田岬半島ミュージアム",
      "name_en": "Michi no Eki Sadamisaki Hanto Museum",
+     "description": "Sweets and bakery shop in Ikata, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38005249/",
      "page": "https://bokenjapan.com/ehime/ikata/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -440,6 +481,7 @@
     {
      "name": "ジェラテリア だんだん",
      "name_en": "Gelateria Dandan",
+     "description": "Sweets and bakery shop in Ikata, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38015206/",
      "page": "https://bokenjapan.com/ehime/ikata/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -447,6 +489,7 @@
     {
      "name": "金谷製菓舗",
      "name_en": "Kanaya Seika Ho",
+     "description": "Sweets and bakery shop in Ikata, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38009204/",
      "page": "https://bokenjapan.com/ehime/ikata/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -557,6 +600,7 @@
     {
      "name": "来島海峡サービスエリア フードコート",
      "name_en": "Kurushima Kaikyo Service Area Food Court",
+     "description": "Casual restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38000010/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/casual/",
      "category": "Casual"
@@ -564,6 +608,7 @@
     {
      "name": "白楽天 今治本店",
      "name_en": "Hakuraku Ten Imabari Main Store",
+     "description": "Chinese or Asian restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38000122/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -571,6 +616,7 @@
     {
      "name": "重松飯店",
      "name_en": "Shigematsu Meshi",
+     "description": "Chinese or Asian restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38000101/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -578,6 +624,7 @@
     {
      "name": "リストランテ ソウ",
      "name_en": "Ristorante So",
+     "description": "European restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38013128/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/european/",
      "category": "European"
@@ -585,6 +632,7 @@
     {
      "name": "しまなみフレンチ Filer",
      "name_en": "Shimanami French Filer",
+     "description": "European restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38013865/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/european/",
      "category": "European"
@@ -592,6 +640,7 @@
     {
      "name": "アウストロ",
      "name_en": "Austro",
+     "description": "European restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38008906/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/european/",
      "category": "European"
@@ -599,6 +648,7 @@
     {
      "name": "はち八",
      "name_en": "Hachi Hachi",
+     "description": "Meat restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38000085/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/meat/",
      "category": "Japanese (meat)"
@@ -606,6 +656,7 @@
     {
      "name": "鳥林",
      "name_en": "Tori Hayashi",
+     "description": "Meat restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38000149/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/meat/",
      "category": "Japanese (meat)"
@@ -613,6 +664,7 @@
     {
      "name": "呉本屋",
      "name_en": "Kuremotoya",
+     "description": "Meat restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38000918/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/meat/",
      "category": "Japanese (meat)"
@@ -620,6 +672,7 @@
     {
      "name": "白鳥",
      "name_en": "Hakucho",
+     "description": "Meat restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38004138/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/meat/",
      "category": "Japanese (meat)"
@@ -627,6 +680,7 @@
     {
      "name": "光屋",
      "name_en": "Hikari-ya",
+     "description": "Noodle restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38005273/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -634,6 +688,7 @@
     {
      "name": "さんわ 伯方島本店",
      "name_en": "Sanwa Hakata Shima Main Store",
+     "description": "Noodle restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38001018/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -641,6 +696,7 @@
     {
      "name": "松製麺所",
      "name_en": "Matsu Seimen Tokoro",
+     "description": "Noodle restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38008836/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -648,6 +704,7 @@
     {
      "name": "しの田",
      "name_en": "Shi no Ta",
+     "description": "Japanese restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38006443/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
      "category": "Other Japanese"
@@ -655,6 +712,7 @@
     {
      "name": "まど居",
      "name_en": "Mado Kyo",
+     "description": "Japanese restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38010223/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
      "category": "Other Japanese"
@@ -662,6 +720,7 @@
     {
      "name": "虹吉",
      "name_en": "Niji Kichi",
+     "description": "Seafood restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38015606/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -669,6 +728,7 @@
     {
      "name": "赤吉",
      "name_en": "Aka Kichi",
+     "description": "Seafood restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38005035/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -676,6 +736,7 @@
     {
      "name": "延喜寿し",
      "name_en": "Engi Hisashi Shi",
+     "description": "Seafood restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38002576/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -683,6 +744,7 @@
     {
      "name": "貴ふね寿し",
      "name_en": "Takashi Fune Hisashi Shi",
+     "description": "Seafood restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38002590/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -690,6 +752,7 @@
     {
      "name": "海食 浜勝",
      "name_en": "Kaishoku Hamakatsu",
+     "description": "Seafood restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38001028/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -697,6 +760,7 @@
     {
      "name": "旅館 茶梅",
      "name_en": "Ryokan Sazanka",
+     "description": "Seafood restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38005889/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -704,6 +768,7 @@
     {
      "name": "伊豫水軍",
      "name_en": "Iyo Suigun",
+     "description": "Seafood restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38000011/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -711,6 +776,7 @@
     {
      "name": "富士見園",
      "name_en": "Fujimi Sono",
+     "description": "Seafood restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38001166/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -718,6 +784,7 @@
     {
      "name": "お食事処 大漁",
      "name_en": "Restaurant Tairyo",
+     "description": "Seafood restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38005013/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -1138,6 +1205,7 @@
     {
      "name": "下灘珈琲",
      "name_en": "Shimonada Coffee",
+     "description": "Cafe in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38011835/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/cafe/",
      "category": "Cafe"
@@ -1145,6 +1213,7 @@
     {
      "name": "DAIDOKORO CAFE MOKU",
      "name_en": "Daidokoro CAFE MOKU",
+     "description": "Cafe in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38005343/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/cafe/",
      "category": "Cafe"
@@ -1152,6 +1221,7 @@
     {
      "name": "三日月とカフェ 伊予店",
      "name_en": "Mikazuki To Cafe Iyo",
+     "description": "Cafe in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38010502/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/cafe/",
      "category": "Cafe"
@@ -1159,6 +1229,7 @@
     {
      "name": "道の駅 ふたみ",
      "name_en": "Michi no Eki Futami",
+     "description": "Casual restaurant in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38001419/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/casual/",
      "category": "Casual"
@@ -1166,6 +1237,7 @@
     {
      "name": "朝日食堂",
      "name_en": "Asahi Shokudo",
+     "description": "Casual restaurant in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38002343/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/casual/",
      "category": "Casual"
@@ -1173,6 +1245,7 @@
     {
      "name": "ごはん屋いづし",
      "name_en": "Gohan-ya Izushi",
+     "description": "Casual restaurant in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38014293/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/casual/",
      "category": "Casual"
@@ -1180,6 +1253,7 @@
     {
      "name": "アイドル",
      "name_en": "Idol",
+     "description": "Casual restaurant in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38003355/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/casual/",
      "category": "Casual"
@@ -1187,6 +1261,7 @@
     {
      "name": "ラピ",
      "name_en": "Rapi",
+     "description": "European restaurant in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38013130/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/european/",
      "category": "European"
@@ -1194,6 +1269,7 @@
     {
      "name": "Kitchen ichi-nichi",
      "name_en": "Kitchen ichi-nichi",
+     "description": "European restaurant in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38005530/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/european/",
      "category": "European"
@@ -1201,6 +1277,7 @@
     {
      "name": "グランシェフ高坂",
      "name_en": "Grand Chef Takasaka",
+     "description": "European restaurant in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38000249/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/european/",
      "category": "European"
@@ -1208,6 +1285,7 @@
     {
      "name": "ふたみ渚のレストランMonde Bleu",
      "name_en": "Futami Nagisa no Restaurant Monde Bleu",
+     "description": "European restaurant in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38013924/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/european/",
      "category": "European"
@@ -1215,6 +1293,7 @@
     {
      "name": "シェ・ボヌール 篠﨑",
      "name_en": "Chez Bonheur Shinozaki",
+     "description": "European restaurant in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38015020/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/european/",
      "category": "European"
@@ -1222,6 +1301,7 @@
     {
      "name": "濱田屋",
      "name_en": "Hamada-ya",
+     "description": "Meat restaurant in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38001501/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/meat/",
      "category": "Japanese (meat)"
@@ -1229,6 +1309,7 @@
     {
      "name": "中華そば みかさ",
      "name_en": "Chuka Soba Mikasa",
+     "description": "Soba restaurant in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38001614/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1236,6 +1317,7 @@
     {
      "name": "麺やえい吉",
      "name_en": "Menya Eikichi",
+     "description": "Noodle restaurant in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38001025/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1243,6 +1325,7 @@
     {
      "name": "そば道場 こねこね亭",
      "name_en": "Soba Dojo Konekone-tei",
+     "description": "Soba restaurant in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38002283/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1250,6 +1333,7 @@
     {
      "name": "ラーメン館麺人",
      "name_en": "Ramenkan Menjin",
+     "description": "Noodle restaurant in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38002113/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1257,6 +1341,7 @@
     {
      "name": "大介うどん 伊予八倉店",
      "name_en": "Daisuke Udon Iyo Hachi Kura",
+     "description": "Udon restaurant in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38002821/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1264,6 +1349,7 @@
     {
      "name": "味芳",
      "name_en": "Aji Ho",
+     "description": "Japanese restaurant in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38000744/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/other-japanese/",
      "category": "Other Japanese"
@@ -1271,6 +1357,7 @@
     {
      "name": "料理どころ 翠笑",
      "name_en": "Cuisine Dokoro Sui Warai",
+     "description": "Japanese restaurant in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38010681/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/other-japanese/",
      "category": "Other Japanese"
@@ -1278,6 +1365,7 @@
     {
      "name": "季節料理 魚吉",
      "name_en": "Kisetsu Cuisine Sakana Kichi",
+     "description": "Seafood restaurant in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38000697/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -1285,6 +1373,7 @@
     {
      "name": "潮路",
      "name_en": "Shioji",
+     "description": "Seafood restaurant in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38001388/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -1292,6 +1381,7 @@
     {
      "name": "messo",
      "name_en": "messo",
+     "description": "Sweets and bakery shop in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38013190/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -1299,6 +1389,7 @@
     {
      "name": "パン工房 モンタナ",
      "name_en": "Bread Kobo Montana",
+     "description": "Sweets and bakery shop in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38002239/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -1392,6 +1483,7 @@
     {
      "name": "しまでcafe",
      "name_en": "Shimade cafe",
+     "description": "Cafe in Kamijima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380205/38001621/",
      "page": "https://bokenjapan.com/ehime/kamijima/eat/cafe/",
      "category": "Cafe"
@@ -1399,6 +1491,7 @@
     {
      "name": "レモンハート",
      "name_en": "Lemon Heart",
+     "description": "Cafe in Kamijima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380205/38007136/",
      "page": "https://bokenjapan.com/ehime/kamijima/eat/cafe/",
      "category": "Cafe"
@@ -1406,6 +1499,7 @@
     {
      "name": "たい屋",
      "name_en": "Tai-ya",
+     "description": "Cafe in Kamijima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38014250/",
      "page": "https://bokenjapan.com/ehime/kamijima/eat/cafe/",
      "category": "Cafe"
@@ -1413,6 +1507,7 @@
     {
      "name": "キッチン 313 カミユゲ",
      "name_en": "Kitchen 313 Kamiyuge",
+     "description": "Cafe in Kamijima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380205/38011093/",
      "page": "https://bokenjapan.com/ehime/kamijima/eat/cafe/",
      "category": "Cafe"
@@ -1420,6 +1515,7 @@
     {
      "name": "わらしべ。 岩城島BASE",
      "name_en": "Warashibe Iwaki Shima BASE",
+     "description": "Cafe in Kamijima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38014354/",
      "page": "https://bokenjapan.com/ehime/kamijima/eat/cafe/",
      "category": "Cafe"
@@ -1427,6 +1523,7 @@
     {
      "name": "いっ福",
      "name_en": "Itsu Fuku",
+     "description": "Cafe in Kamijima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380205/38015058/",
      "page": "https://bokenjapan.com/ehime/kamijima/eat/cafe/",
      "category": "Cafe"
@@ -1434,6 +1531,7 @@
     {
      "name": "ミスティー亀井",
      "name_en": "Misty Kamei",
+     "description": "Cafe in Kamijima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380205/38008339/",
      "page": "https://bokenjapan.com/ehime/kamijima/eat/cafe/",
      "category": "Cafe"
@@ -1441,6 +1539,7 @@
     {
      "name": "ゆめしま珈琲焙煎所 侘数奇",
      "name_en": "Yumeshima Coffee Baisen Tokoro Ta Suki",
+     "description": "Cafe in Kamijima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38017325/",
      "page": "https://bokenjapan.com/ehime/kamijima/eat/cafe/",
      "category": "Cafe"
@@ -1448,6 +1547,7 @@
     {
      "name": "vida con miel",
      "name_en": "vida con miel",
+     "description": "Cafe in Kamijima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380205/38014803/",
      "page": "https://bokenjapan.com/ehime/kamijima/eat/cafe/",
      "category": "Cafe"
@@ -1455,6 +1555,7 @@
     {
      "name": "みちくさ",
      "name_en": "Michikusa",
+     "description": "Casual restaurant in Kamijima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380205/38008233/",
      "page": "https://bokenjapan.com/ehime/kamijima/eat/casual/",
      "category": "Casual"
@@ -1462,6 +1563,7 @@
     {
      "name": "ラーメン党",
      "name_en": "Ramento",
+     "description": "Casual restaurant in Kamijima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380205/38008229/",
      "page": "https://bokenjapan.com/ehime/kamijima/eat/casual/",
      "category": "Casual"
@@ -1469,6 +1571,7 @@
     {
      "name": "西野",
      "name_en": "Nishino",
+     "description": "Casual restaurant in Kamijima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380205/38008232/",
      "page": "https://bokenjapan.com/ehime/kamijima/eat/casual/",
      "category": "Casual"
@@ -1476,6 +1579,7 @@
     {
      "name": "濱岡",
      "name_en": "Hamaoka",
+     "description": "Casual restaurant in Kamijima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380205/38008234/",
      "page": "https://bokenjapan.com/ehime/kamijima/eat/casual/",
      "category": "Casual"
@@ -1483,6 +1587,7 @@
     {
      "name": "イル・マーレ",
      "name_en": "Il Mare",
+     "description": "Casual restaurant in Kamijima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380205/38007782/",
      "page": "https://bokenjapan.com/ehime/kamijima/eat/casual/",
      "category": "Casual"
@@ -1490,6 +1595,7 @@
     {
      "name": "TRATTORIA アル",
      "name_en": "Trattoria Aru",
+     "description": "Curry restaurant in Kamijima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380205/38014335/",
      "page": "https://bokenjapan.com/ehime/kamijima/eat/curry/",
      "category": "Curry"
@@ -1497,6 +1603,7 @@
     {
      "name": "ととや",
      "name_en": "Totoya",
+     "description": "Izakaya or bar in Kamijima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380205/38005246/",
      "page": "https://bokenjapan.com/ehime/kamijima/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -1504,6 +1611,7 @@
     {
      "name": "ゆげしまダイニング彩",
      "name_en": "Yugeshima Dining Sai",
+     "description": "Izakaya or bar in Kamijima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380205/38012221/",
      "page": "https://bokenjapan.com/ehime/kamijima/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -1511,6 +1619,7 @@
     {
      "name": "どんラーメン",
      "name_en": "Don Ramen",
+     "description": "Ramen restaurant in Kamijima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380205/38014809/",
      "page": "https://bokenjapan.com/ehime/kamijima/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1518,6 +1627,7 @@
     {
      "name": "民宿 よし正",
      "name_en": "Minshuku Yoshi Sei",
+     "description": "Restaurant in Kamijima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38007370/",
      "page": "https://bokenjapan.com/ehime/kamijima/eat/other/",
      "category": "Other"
@@ -1525,6 +1635,7 @@
     {
      "name": "フェスパ",
      "name_en": "Fespa",
+     "description": "Restaurant in Kamijima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38008682/",
      "page": "https://bokenjapan.com/ehime/kamijima/eat/other/",
      "category": "Other"
@@ -1532,6 +1643,7 @@
     {
      "name": "おかえりなさい",
      "name_en": "Okaerinasai",
+     "description": "Seafood restaurant in Kamijima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380205/38012223/",
      "page": "https://bokenjapan.com/ehime/kamijima/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -1539,6 +1651,7 @@
     {
      "name": "いわぎ物産センター",
      "name_en": "Iwagi Bussan Center",
+     "description": "Sweets and bakery shop in Kamijima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38007015/",
      "page": "https://bokenjapan.com/ehime/kamijima/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -1546,6 +1659,7 @@
     {
      "name": "おやつタイム",
      "name_en": "Oyatsu Time",
+     "description": "Sweets and bakery shop in Kamijima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38014804/",
      "page": "https://bokenjapan.com/ehime/kamijima/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -1646,6 +1760,7 @@
     {
      "name": "HARSHA COFFEE",
      "name_en": "Harsha Coffee",
+     "description": "Cafe in Kihoku, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38015484/",
      "page": "https://bokenjapan.com/ehime/kihoku/eat/cafe/",
      "category": "Cafe"
@@ -1653,6 +1768,7 @@
     {
      "name": "かつやま",
      "name_en": "Katsuyama",
+     "description": "Cafe in Kihoku, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38012281/",
      "page": "https://bokenjapan.com/ehime/kihoku/eat/cafe/",
      "category": "Cafe"
@@ -1660,6 +1776,7 @@
     {
      "name": "サムコッペ",
      "name_en": "Samukoppe",
+     "description": "Cafe in Kihoku, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38012630/",
      "page": "https://bokenjapan.com/ehime/kihoku/eat/cafe/",
      "category": "Cafe"
@@ -1667,6 +1784,7 @@
     {
      "name": "日吉夢産地",
      "name_en": "Hiyoshi Yume Sanchi",
+     "description": "Casual restaurant in Kihoku, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38009710/",
      "page": "https://bokenjapan.com/ehime/kihoku/eat/casual/",
      "category": "Casual"
@@ -1674,6 +1792,7 @@
     {
      "name": "風",
      "name_en": "Kaze",
+     "description": "Casual restaurant in Kihoku, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38005040/",
      "page": "https://bokenjapan.com/ehime/kihoku/eat/casual/",
      "category": "Casual"
@@ -1681,6 +1800,7 @@
     {
      "name": "みもざ",
      "name_en": "Mimoza",
+     "description": "Casual restaurant in Kihoku, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38012495/",
      "page": "https://bokenjapan.com/ehime/kihoku/eat/casual/",
      "category": "Casual"
@@ -1688,6 +1808,7 @@
     {
      "name": "うぐいす",
      "name_en": "Uguisu",
+     "description": "Casual restaurant in Kihoku, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38015795/",
      "page": "https://bokenjapan.com/ehime/kihoku/eat/casual/",
      "category": "Casual"
@@ -1695,6 +1816,7 @@
     {
      "name": "ジョイフル 愛媛広見店",
      "name_en": "Joyful Ehime Hiromi",
+     "description": "Casual restaurant in Kihoku, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38005841/",
      "page": "https://bokenjapan.com/ehime/kihoku/eat/casual/",
      "category": "Casual"
@@ -1702,6 +1824,7 @@
     {
      "name": "お食事処ながた",
      "name_en": "Restaurant Nagata",
+     "description": "Casual restaurant in Kihoku, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38012280/",
      "page": "https://bokenjapan.com/ehime/kihoku/eat/casual/",
      "category": "Casual"
@@ -1709,6 +1832,7 @@
     {
      "name": "櫻花",
      "name_en": "Oka",
+     "description": "Chinese or Asian restaurant in Kihoku, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38009527/",
      "page": "https://bokenjapan.com/ehime/kihoku/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -1716,6 +1840,7 @@
     {
      "name": "オン＆オフ",
      "name_en": "On & Off",
+     "description": "European restaurant in Kihoku, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38006164/",
      "page": "https://bokenjapan.com/ehime/kihoku/eat/european/",
      "category": "European"
@@ -1723,6 +1848,7 @@
     {
      "name": "鬼の酒場",
      "name_en": "Oni no Sakaba",
+     "description": "Izakaya or bar in Kihoku, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38014329/",
      "page": "https://bokenjapan.com/ehime/kihoku/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -1730,6 +1856,7 @@
     {
      "name": "鬼北ダイニング フェザン フィレール",
      "name_en": "Kihoku Dining Fezan Fireru",
+     "description": "Meat restaurant in Kihoku, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38013945/",
      "page": "https://bokenjapan.com/ehime/kihoku/eat/meat/",
      "category": "Japanese (meat)"
@@ -1737,6 +1864,7 @@
     {
      "name": "安森洞そうめん流し",
      "name_en": "An Mori Hora Somen Nagashi",
+     "description": "Noodle restaurant in Kihoku, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38013878/",
      "page": "https://bokenjapan.com/ehime/kihoku/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1744,6 +1872,7 @@
     {
      "name": "がんてつ",
      "name_en": "Gantetsu",
+     "description": "Noodle restaurant in Kihoku, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38012044/",
      "page": "https://bokenjapan.com/ehime/kihoku/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1751,6 +1880,7 @@
     {
      "name": "麺処好屋",
      "name_en": "Mendokoro Yoshiya",
+     "description": "Noodle restaurant in Kihoku, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38005080/",
      "page": "https://bokenjapan.com/ehime/kihoku/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1758,6 +1888,7 @@
     {
      "name": "道の駅 森の三角ぼうし",
      "name_en": "Michi no Eki Mori no Sankaku Boshi",
+     "description": "Restaurant in Kihoku, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38011605/",
      "page": "https://bokenjapan.com/ehime/kihoku/eat/other/",
      "category": "Other"
@@ -1765,6 +1896,7 @@
     {
      "name": "彩り茶屋",
      "name_en": "Irodori Cha-ya",
+     "description": "Restaurant in Kihoku, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38006945/",
      "page": "https://bokenjapan.com/ehime/kihoku/eat/other/",
      "category": "Other"
@@ -1772,6 +1904,7 @@
     {
      "name": "杉の家",
      "name_en": "Sugi no-ya",
+     "description": "Restaurant in Kihoku, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38012292/",
      "page": "https://bokenjapan.com/ehime/kihoku/eat/other/",
      "category": "Other"
@@ -1779,6 +1912,7 @@
     {
      "name": "レストラン森のまど",
      "name_en": "Restaurant Mori no Mado",
+     "description": "Japanese restaurant in Kihoku, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38005524/",
      "page": "https://bokenjapan.com/ehime/kihoku/eat/other-japanese/",
      "category": "Other Japanese"
@@ -1786,6 +1920,7 @@
     {
      "name": "パティスリー 縁",
      "name_en": "Patisserie Enishi",
+     "description": "Sweets and bakery shop in Kihoku, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38007348/",
      "page": "https://bokenjapan.com/ehime/kihoku/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -1793,6 +1928,7 @@
     {
      "name": "シャーベットハウス夢奏",
      "name_en": "Sherbet House Yumekanade",
+     "description": "Sweets and bakery shop in Kihoku, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38017052/",
      "page": "https://bokenjapan.com/ehime/kihoku/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -1889,6 +2025,7 @@
     {
      "name": "カルスト珈琲",
      "name_en": "Karst Coffee",
+     "description": "Cafe in Kumakogen, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380304/38013569/",
      "page": "https://bokenjapan.com/ehime/kumakogen/eat/cafe/",
      "category": "Cafe"
@@ -1896,6 +2033,7 @@
     {
      "name": "ノジリカフェ",
      "name_en": "Nojiri Cafe",
+     "description": "Cafe in Kumakogen, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380304/38014758/",
      "page": "https://bokenjapan.com/ehime/kumakogen/eat/cafe/",
      "category": "Cafe"
@@ -1903,6 +2041,7 @@
     {
      "name": "クマ カフェ",
      "name_en": "Kuma Cafe",
+     "description": "Cafe in Kumakogen, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380304/38011716/",
      "page": "https://bokenjapan.com/ehime/kumakogen/eat/cafe/",
      "category": "Cafe"
@@ -1910,6 +2049,7 @@
     {
      "name": "レストランさんさん",
      "name_en": "Restaurant Sansan",
+     "description": "Casual restaurant in Kumakogen, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380304/38010235/",
      "page": "https://bokenjapan.com/ehime/kumakogen/eat/casual/",
      "category": "Casual"
@@ -1917,6 +2057,7 @@
     {
      "name": "農村活性センター みかわ",
      "name_en": "Noson Kassei Center Mikawa",
+     "description": "Casual restaurant in Kumakogen, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380304/38007157/",
      "page": "https://bokenjapan.com/ehime/kumakogen/eat/casual/",
      "category": "Casual"
@@ -1924,6 +2065,7 @@
     {
      "name": "土小屋terrace",
      "name_en": "Tsuchi Sho-ya terrace",
+     "description": "Casual restaurant in Kumakogen, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380304/38001031/",
      "page": "https://bokenjapan.com/ehime/kumakogen/eat/casual/",
      "category": "Casual"
@@ -1931,6 +2073,7 @@
     {
      "name": "姫鶴荘",
      "name_en": "Hime Tsuru-so",
+     "description": "Casual restaurant in Kumakogen, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380304/38000952/",
      "page": "https://bokenjapan.com/ehime/kumakogen/eat/casual/",
      "category": "Casual"
@@ -1938,6 +2081,7 @@
     {
      "name": "きらら食堂",
      "name_en": "Kirara Shokudo",
+     "description": "Casual restaurant in Kumakogen, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380304/38008676/",
      "page": "https://bokenjapan.com/ehime/kumakogen/eat/casual/",
      "category": "Casual"
@@ -1945,6 +2089,7 @@
     {
      "name": "タネマキ食堂",
      "name_en": "Tanemaki Shokudo",
+     "description": "Curry restaurant in Kumakogen, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380304/38016611/",
      "page": "https://bokenjapan.com/ehime/kumakogen/eat/curry/",
      "category": "Curry"
@@ -1952,6 +2097,7 @@
     {
      "name": "カフェレストラン こもれび",
      "name_en": "Cafe Restaurant Komorebi",
+     "description": "European restaurant in Kumakogen, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380304/38006045/",
      "page": "https://bokenjapan.com/ehime/kumakogen/eat/european/",
      "category": "European"
@@ -1959,6 +2105,7 @@
     {
      "name": "rinascente",
      "name_en": "rinascente",
+     "description": "European restaurant in Kumakogen, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380304/38013912/",
      "page": "https://bokenjapan.com/ehime/kumakogen/eat/european/",
      "category": "European"
@@ -1966,6 +2113,7 @@
     {
      "name": "ちぐさ",
      "name_en": "Chigusa",
+     "description": "Meat restaurant in Kumakogen, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380304/38000874/",
      "page": "https://bokenjapan.com/ehime/kumakogen/eat/meat/",
      "category": "Japanese (meat)"
@@ -1973,6 +2121,7 @@
     {
      "name": "豚太郎 久万店",
      "name_en": "Buta Taro Kuma",
+     "description": "Noodle restaurant in Kumakogen, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380304/38011476/",
      "page": "https://bokenjapan.com/ehime/kumakogen/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1980,6 +2129,7 @@
     {
      "name": "信州そばの店 十割そば",
      "name_en": "Shinshu Soba no Ju Wari Soba",
+     "description": "Soba restaurant in Kumakogen, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380304/38012933/",
      "page": "https://bokenjapan.com/ehime/kumakogen/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1987,6 +2137,7 @@
     {
      "name": "モルゲン",
      "name_en": "Morgen",
+     "description": "Restaurant in Kumakogen, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380304/38015925/",
      "page": "https://bokenjapan.com/ehime/kumakogen/eat/other/",
      "category": "Other"
@@ -1994,6 +2145,7 @@
     {
      "name": "天空の郷さんさん",
      "name_en": "Tenku no Sato Sansan",
+     "description": "Restaurant in Kumakogen, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380304/38011319/",
      "page": "https://bokenjapan.com/ehime/kumakogen/eat/other/",
      "category": "Other"
@@ -2001,6 +2153,7 @@
     {
      "name": "古岩屋荘",
      "name_en": "Ko Iwa-ya-so",
+     "description": "Restaurant in Kumakogen, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380304/38009192/",
      "page": "https://bokenjapan.com/ehime/kumakogen/eat/other/",
      "category": "Other"
@@ -2008,6 +2161,7 @@
     {
      "name": "うまいもん屋 土居",
      "name_en": "Umaimon-ya Tsuchi",
+     "description": "Japanese restaurant in Kumakogen, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380304/38004457/",
      "page": "https://bokenjapan.com/ehime/kumakogen/eat/other-japanese/",
      "category": "Other Japanese"
@@ -2015,6 +2169,7 @@
     {
      "name": "面河茶屋",
      "name_en": "Omogo Cha-ya",
+     "description": "Japanese restaurant in Kumakogen, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380304/38009815/",
      "page": "https://bokenjapan.com/ehime/kumakogen/eat/other-japanese/",
      "category": "Other Japanese"
@@ -2022,6 +2177,7 @@
     {
      "name": "サンサンパン工房",
      "name_en": "Sun Sun Bread Kobo",
+     "description": "Sweets and bakery shop in Kumakogen, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380304/38010282/",
      "page": "https://bokenjapan.com/ehime/kumakogen/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -2029,6 +2185,7 @@
     {
      "name": "さんさんまんま",
      "name_en": "Sansanmanma",
+     "description": "Sweets and bakery shop in Kumakogen, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380304/38013526/",
      "page": "https://bokenjapan.com/ehime/kumakogen/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -2036,6 +2193,7 @@
     {
      "name": "吉野屋 菓子舗",
      "name_en": "Yoshino-ya Kashiho",
+     "description": "Sweets and bakery shop in Kumakogen, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380304/38009801/",
      "page": "https://bokenjapan.com/ehime/kumakogen/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -2157,6 +2315,7 @@
     {
      "name": "モカチャーゼ",
      "name_en": "Mokachaze",
+     "description": "Cafe in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38004835/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/cafe/",
      "category": "Cafe"
@@ -2164,6 +2323,7 @@
     {
      "name": "羅座亜留 炭火焼珈琲自家焙煎所 JACARANDA COFFEE ROASTERY",
      "name_en": "JACARANDA COFFEE ROASTERY",
+     "description": "Cafe in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38015103/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/cafe/",
      "category": "Cafe"
@@ -2171,6 +2331,7 @@
     {
      "name": "川崎屋",
      "name_en": "Kawasaki-ya",
+     "description": "Casual restaurant in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38006131/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/casual/",
      "category": "Casual"
@@ -2178,6 +2339,7 @@
     {
      "name": "のむら",
      "name_en": "Nomura",
+     "description": "Casual restaurant in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38000442/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/casual/",
      "category": "Casual"
@@ -2185,6 +2347,7 @@
     {
      "name": "からあげのすたみな亭 松前本店",
      "name_en": "Karagenosutamina-tei Matsumae Main Store",
+     "description": "Casual restaurant in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38006262/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/casual/",
      "category": "Casual"
@@ -2192,6 +2355,7 @@
     {
      "name": "淡路島バーガースタンド 松前店",
      "name_en": "Awajishima Burger Stand Masaki",
+     "description": "Casual restaurant in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38015028/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/casual/",
      "category": "Casual"
@@ -2199,6 +2363,7 @@
     {
      "name": "ジラソーレ",
      "name_en": "Girasole",
+     "description": "European restaurant in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38008345/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/european/",
      "category": "European"
@@ -2206,6 +2371,7 @@
     {
      "name": "ピッツェリア パッショーネ",
      "name_en": "Pizzeria Passione",
+     "description": "European restaurant in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38013102/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/european/",
      "category": "European"
@@ -2213,6 +2379,7 @@
     {
      "name": "リトル イタリー",
      "name_en": "Little Italy",
+     "description": "European restaurant in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38013766/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/european/",
      "category": "European"
@@ -2220,6 +2387,7 @@
     {
      "name": "焼肉苑",
      "name_en": "Yakiniku-en",
+     "description": "Yakiniku restaurant in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38002231/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/meat/",
      "category": "Japanese (meat)"
@@ -2227,6 +2395,7 @@
     {
      "name": "咲々亭 エミフルMASAKI店",
      "name_en": "Sakusakutei Emifull MASAKI",
+     "description": "Meat restaurant in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38013712/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/meat/",
      "category": "Japanese (meat)"
@@ -2234,6 +2403,7 @@
     {
      "name": "唐揚げ食堂 ごいち エミフルMASAKI店",
      "name_en": "Karaage Shokudo Goichi Emifull MASAKI",
+     "description": "Meat restaurant in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38013646/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/meat/",
      "category": "Japanese (meat)"
@@ -2241,6 +2411,7 @@
     {
      "name": "手打ち蕎麦 いよ翁",
      "name_en": "Handmade Soba Iyo Okina",
+     "description": "Soba restaurant in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38007273/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2248,6 +2419,7 @@
     {
      "name": "うどん 心",
      "name_en": "Udon Kokoro",
+     "description": "Udon restaurant in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38014874/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2255,6 +2427,7 @@
     {
      "name": "豚太郎 松前店",
      "name_en": "Buta Taro Matsumae",
+     "description": "Noodle restaurant in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38000195/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2262,6 +2435,7 @@
     {
      "name": "中華そば 芯せかい エミフルMASAKI店",
      "name_en": "Chuka Soba Shinsekai Emifull MASAKI",
+     "description": "Soba restaurant in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38013736/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2269,6 +2443,7 @@
     {
      "name": "白川",
      "name_en": "Shirakawa",
+     "description": "Noodle restaurant in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38001358/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2276,6 +2451,7 @@
     {
      "name": "めん処矢磨樹 松前店",
      "name_en": "Mendokoro Yamaki Masaki Branch",
+     "description": "Noodle restaurant in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38005078/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2283,6 +2459,7 @@
     {
      "name": "一風堂 エミフルMASAKI店",
      "name_en": "Ippudo Emifull MASAKI",
+     "description": "Noodle restaurant in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38014096/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2290,6 +2467,7 @@
     {
      "name": "山崎",
      "name_en": "Yamazaki",
+     "description": "Japanese restaurant in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38001553/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/other-japanese/",
      "category": "Other Japanese"
@@ -2297,6 +2475,7 @@
     {
      "name": "てんてん丸 伊予松前店",
      "name_en": "Tenten Maru Iyo Matsumae",
+     "description": "Seafood restaurant in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38006636/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -2304,6 +2483,7 @@
     {
      "name": "うなぎ小椋 三十三店",
      "name_en": "Unagi Ogura Sanju San",
+     "description": "Unagi (eel) restaurant in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38013765/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -2311,6 +2491,7 @@
     {
      "name": "パンメゾン 松前店",
      "name_en": "Pain Maison Masaki",
+     "description": "Sweets and bakery shop in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38009507/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -2318,6 +2499,7 @@
     {
      "name": "あるもに",
      "name_en": "Arumoni",
+     "description": "Sweets and bakery shop in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38001573/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -2381,6 +2563,7 @@
     {
      "name": "CAFE&PUB TOMMY",
      "name_en": "Cafe&Pub Tommy",
+     "description": "Cafe in Matsuno, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38006467/",
      "page": "https://bokenjapan.com/ehime/matsuno/eat/cafe/",
      "category": "Cafe"
@@ -2388,6 +2571,7 @@
     {
      "name": "こむぎ屋",
      "name_en": "Komugi-ya",
+     "description": "Casual restaurant in Matsuno, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38015190/",
      "page": "https://bokenjapan.com/ehime/matsuno/eat/casual/",
      "category": "Casual"
@@ -2395,6 +2579,7 @@
     {
      "name": "セルバッジオ",
      "name_en": "Selvaggio",
+     "description": "European restaurant in Matsuno, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38013361/",
      "page": "https://bokenjapan.com/ehime/matsuno/eat/european/",
      "category": "European"
@@ -2402,6 +2587,7 @@
     {
      "name": "道の駅 虹の森公園まつの",
      "name_en": "Michi no Eki Niji no Mori Koen Matsu no",
+     "description": "Restaurant in Matsuno, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38006193/",
      "page": "https://bokenjapan.com/ehime/matsuno/eat/other/",
      "category": "Other"
@@ -2409,6 +2595,7 @@
     {
      "name": "レストラン遊鶴羽",
      "name_en": "Restaurant Yu Tsuruha",
+     "description": "Restaurant in Matsuno, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38005525/",
      "page": "https://bokenjapan.com/ehime/matsuno/eat/other/",
      "category": "Other"
@@ -2416,6 +2603,7 @@
     {
      "name": "笑食寝 たきぐち",
      "name_en": "Warai Shokushin Takiguchi",
+     "description": "Seafood restaurant in Matsuno, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38015241/",
      "page": "https://bokenjapan.com/ehime/matsuno/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -2423,6 +2611,7 @@
     {
      "name": "甘味 霧中",
      "name_en": "Amami Muchu",
+     "description": "Sweets and bakery shop in Matsuno, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38015708/",
      "page": "https://bokenjapan.com/ehime/matsuno/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -2430,6 +2619,7 @@
     {
      "name": "パン工房 &パン",
      "name_en": "Bread Kobo & Bread",
+     "description": "Sweets and bakery shop in Matsuno, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38015040/",
      "page": "https://bokenjapan.com/ehime/matsuno/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -2437,6 +2627,7 @@
     {
      "name": "森とパン",
      "name_en": "Mori To Bread",
+     "description": "Sweets and bakery shop in Matsuno, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380403/38013521/",
      "page": "https://bokenjapan.com/ehime/matsuno/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -2444,6 +2635,7 @@
     {
      "name": "木もれび庵",
      "name_en": "Ki Morebi Iori",
+     "description": "Sweets and bakery shop in Matsuno, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38005798/",
      "page": "https://bokenjapan.com/ehime/matsuno/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -2533,6 +2725,7 @@
     {
      "name": "上海点心 豫園",
      "name_en": "Shanhai Tenshin Arakajime Sono",
+     "description": "Chinese or Asian restaurant in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38000161/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -2540,6 +2733,7 @@
     {
      "name": "名前のないイタリア料理店",
      "name_en": "Namae no Nai Italian Restaurant",
+     "description": "European restaurant in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38009262/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/european/",
      "category": "European"
@@ -2547,6 +2741,7 @@
     {
      "name": "Scino",
      "name_en": "Scino",
+     "description": "European restaurant in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38015208/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/european/",
      "category": "European"
@@ -2554,6 +2749,7 @@
     {
      "name": "洋食屋 Shii",
      "name_en": "Yoshoku-ya Shii",
+     "description": "European restaurant in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38012016/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/european/",
      "category": "European"
@@ -2561,6 +2757,7 @@
     {
      "name": "ラ・セーラ",
      "name_en": "La Sera",
+     "description": "European restaurant in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38000678/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/european/",
      "category": "European"
@@ -2568,6 +2765,7 @@
     {
      "name": "さかな工房 丸万",
      "name_en": "Sakana Kobo Maru Man",
+     "description": "Izakaya or bar in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38005974/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -2575,6 +2773,7 @@
     {
      "name": "エスコバール",
      "name_en": "Escobar",
+     "description": "Izakaya or bar in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38007928/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -2582,6 +2781,7 @@
     {
      "name": "ル・クラブ",
      "name_en": "Le Club",
+     "description": "Izakaya or bar in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38000143/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -2589,6 +2789,7 @@
     {
      "name": "さかなと地酒 KOMA",
      "name_en": "Sakanato Jizake KOMA",
+     "description": "Izakaya or bar in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38011927/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -2596,6 +2797,7 @@
     {
      "name": "炭心",
      "name_en": "Sumi Kokoro",
+     "description": "Meat restaurant in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38001214/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/meat/",
      "category": "Japanese (meat)"
@@ -2603,6 +2805,7 @@
     {
      "name": "鍋焼うどん アサヒ",
      "name_en": "Nabeyaki Udon Asahi",
+     "description": "Udon restaurant in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38000348/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2610,6 +2813,7 @@
     {
      "name": "ことり",
      "name_en": "Kotori",
+     "description": "Noodle restaurant in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38000037/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2617,6 +2821,7 @@
     {
      "name": "道後 海舟",
      "name_en": "Dogo Kaishu",
+     "description": "Japanese restaurant in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38013243/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -2624,6 +2829,7 @@
     {
      "name": "馳走屋河の",
      "name_en": "Chiso-ya Kawa no",
+     "description": "Japanese restaurant in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38004254/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -2631,6 +2837,7 @@
     {
      "name": "味暦 正生",
      "name_en": "Aji Koyomi Masao",
+     "description": "Japanese restaurant in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38000637/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -2638,6 +2845,7 @@
     {
      "name": "道後舘",
      "name_en": "Dogo Kan",
+     "description": "Japanese restaurant in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38001281/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -2645,6 +2853,7 @@
     {
      "name": "なの花",
      "name_en": "Na no Hana",
+     "description": "Japanese restaurant in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38000602/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -2652,6 +2861,7 @@
     {
      "name": "酒処 ひょうどう",
      "name_en": "Sake Tokoro Hyodo",
+     "description": "Japanese restaurant in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38015139/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
      "category": "Other Japanese"
@@ -2659,6 +2869,7 @@
     {
      "name": "くるますし",
      "name_en": "Kuruma Sushi",
+     "description": "Sushi restaurant in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38002524/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -2666,6 +2877,7 @@
     {
      "name": "鮨 いの",
      "name_en": "Sushi Ino",
+     "description": "Sushi restaurant in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38010409/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -2673,6 +2885,7 @@
     {
      "name": "鮨かわなか",
      "name_en": "Sushi Kawanaka",
+     "description": "Sushi restaurant in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38013098/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -2680,6 +2893,7 @@
     {
      "name": "鮨たか山",
      "name_en": "Sushi Taka Yama",
+     "description": "Sushi restaurant in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38012541/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -2687,6 +2901,7 @@
     {
      "name": "大平寿司 本店",
      "name_en": "Ohira Sushi Main Store",
+     "description": "Sushi restaurant in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38007263/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -2694,6 +2909,7 @@
     {
      "name": "霧の森菓子工房 松山店",
      "name_en": "Kiri no Mori Kashi Kobo Matsuyama",
+     "description": "Sweets and bakery shop in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38000209/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -3643,6 +3859,7 @@
     {
      "name": "広島風お好み焼き 石",
      "name_en": "Hiroshima Kaze Okonomiyaki Ishi",
+     "description": "Okonomiyaki restaurant in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38000309/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/casual/",
      "category": "Casual"
@@ -3650,6 +3867,7 @@
     {
      "name": "多賀屋食堂 菊本支店",
      "name_en": "Taga-ya Shokudo Kikumoto Branch",
+     "description": "Casual restaurant in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38004428/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/casual/",
      "category": "Casual"
@@ -3657,6 +3875,7 @@
     {
      "name": "ばぁばのお昼ごはん",
      "name_en": "Babano Hiru Gohan",
+     "description": "Casual restaurant in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38014097/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/casual/",
      "category": "Casual"
@@ -3664,6 +3883,7 @@
     {
      "name": "あほだら亭",
      "name_en": "Ahodara-tei",
+     "description": "Casual restaurant in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38008530/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/casual/",
      "category": "Casual"
@@ -3671,6 +3891,7 @@
     {
      "name": "ぼてすけ屋 若水店",
      "name_en": "Botesuke-ya Jakusui",
+     "description": "Casual restaurant in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38004348/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/casual/",
      "category": "Casual"
@@ -3678,6 +3899,7 @@
     {
      "name": "バンザイミネジィ",
      "name_en": "Banzaimineji",
+     "description": "Casual restaurant in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38007683/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/casual/",
      "category": "Casual"
@@ -3685,6 +3907,7 @@
     {
      "name": "中国菜房 くどう",
      "name_en": "Chugoku Saibo Kudo",
+     "description": "Chinese or Asian restaurant in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38011379/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -3692,6 +3915,7 @@
     {
      "name": "マルブン 新居浜店",
      "name_en": "Marubun Niihama",
+     "description": "European restaurant in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38005935/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/european/",
      "category": "European"
@@ -3699,6 +3923,7 @@
     {
      "name": "LUMINO CaRINO",
      "name_en": "Lumino CaRINO",
+     "description": "European restaurant in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38015334/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/european/",
      "category": "European"
@@ -3706,6 +3931,7 @@
     {
      "name": "ドン☆ぶり屋",
      "name_en": "Donburiya",
+     "description": "Meat restaurant in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38010822/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/meat/",
      "category": "Japanese (meat)"
@@ -3713,6 +3939,7 @@
     {
      "name": "古家",
      "name_en": "Ko-ya",
+     "description": "Meat restaurant in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38006852/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/meat/",
      "category": "Japanese (meat)"
@@ -3720,6 +3947,7 @@
     {
      "name": "濃厚魚介らぅ麺 純",
      "name_en": "Noko Gyokai Ramen Jun",
+     "description": "Ramen restaurant in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38005961/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3727,6 +3955,7 @@
     {
      "name": "みやび屋",
      "name_en": "Miyabi-ya",
+     "description": "Noodle restaurant in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38011043/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3734,6 +3963,7 @@
     {
      "name": "萩の茶屋",
      "name_en": "Hagi no Cha-ya",
+     "description": "Noodle restaurant in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38000048/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3741,6 +3971,7 @@
     {
      "name": "浜堂 新居浜店",
      "name_en": "Hama Do Niihama",
+     "description": "Noodle restaurant in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38015508/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3748,6 +3979,7 @@
     {
      "name": "麺処 倭",
      "name_en": "Mendokoro Yamato",
+     "description": "Noodle restaurant in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38012118/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3755,6 +3987,7 @@
     {
      "name": "からし屋",
      "name_en": "Karashi-ya",
+     "description": "Noodle restaurant in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38003347/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3762,6 +3995,7 @@
     {
      "name": "うどん茶屋 志道",
      "name_en": "Udon Cha-ya Shiji",
+     "description": "Udon restaurant in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38009087/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3769,6 +4003,7 @@
     {
      "name": "中華蕎麦つけ麺 一 新居浜店",
      "name_en": "Chuka Soba Tsukemen Ichi Niihama",
+     "description": "Soba restaurant in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38014066/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3776,6 +4011,7 @@
     {
      "name": "七味",
      "name_en": "Shichimi",
+     "description": "Noodle restaurant in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38002324/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3783,6 +4019,7 @@
     {
      "name": "ほの香",
      "name_en": "Ho no Kaori",
+     "description": "Noodle restaurant in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38002259/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3790,6 +4027,7 @@
     {
      "name": "大鵬軒",
      "name_en": "Taiho Ken",
+     "description": "Noodle restaurant in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38004095/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3797,6 +4035,7 @@
     {
      "name": "そばの花",
      "name_en": "Soba no Hana",
+     "description": "Soba restaurant in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38006867/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3804,6 +4043,7 @@
     {
      "name": "フクスケ",
      "name_en": "Fukusuke",
+     "description": "Sweets and bakery shop in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38008191/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -3972,6 +4212,7 @@
     {
      "name": "ブレッド&コーヒー 茶蔵",
      "name_en": "Bread & Coffee Chakura",
+     "description": "Cafe in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38001124/",
      "page": "https://bokenjapan.com/ehime/ozu/eat/cafe/",
      "category": "Cafe"
@@ -3979,6 +4220,7 @@
     {
      "name": "羅り瑠れ櫓",
      "name_en": "Rarirurero",
+     "description": "Cafe in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38001051/",
      "page": "https://bokenjapan.com/ehime/ozu/eat/cafe/",
      "category": "Cafe"
@@ -3986,6 +4228,7 @@
     {
      "name": "美ゆき 大洲店",
      "name_en": "Bi Yuki Ozu",
+     "description": "Casual restaurant in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38004441/",
      "page": "https://bokenjapan.com/ehime/ozu/eat/casual/",
      "category": "Casual"
@@ -3993,6 +4236,7 @@
     {
      "name": "わか宮食堂",
      "name_en": "Waka Miya Shokudo",
+     "description": "Casual restaurant in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38003561/",
      "page": "https://bokenjapan.com/ehime/ozu/eat/casual/",
      "category": "Casual"
@@ -4000,6 +4244,7 @@
     {
      "name": "五志喜めんそーれ",
      "name_en": "Go Kokorozashi Ki Mensore",
+     "description": "Casual restaurant in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38003219/",
      "page": "https://bokenjapan.com/ehime/ozu/eat/casual/",
      "category": "Casual"
@@ -4007,6 +4252,7 @@
     {
      "name": "ルアン NIPPONIA HOTEL 大洲 城下町",
      "name_en": "Ruan NIPPONIA HOTEL Ozu Castle Town",
+     "description": "European restaurant in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38013794/",
      "page": "https://bokenjapan.com/ehime/ozu/eat/european/",
      "category": "European"
@@ -4014,6 +4260,7 @@
     {
      "name": "レストラン比来野",
      "name_en": "Restaurant Hi Rai No",
+     "description": "European restaurant in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38001493/",
      "page": "https://bokenjapan.com/ehime/ozu/eat/european/",
      "category": "European"
@@ -4021,6 +4268,7 @@
     {
      "name": "ビストロ サンマルシェ",
      "name_en": "Bistro Sun Marche",
+     "description": "European restaurant in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38006163/",
      "page": "https://bokenjapan.com/ehime/ozu/eat/european/",
      "category": "European"
@@ -4028,6 +4276,7 @@
     {
      "name": "大洲炉端 油屋",
      "name_en": "Ozu Robata Abura-ya",
+     "description": "Izakaya or bar in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38008680/",
      "page": "https://bokenjapan.com/ehime/ozu/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -4035,6 +4284,7 @@
     {
      "name": "第八さつき丸 大洲本店",
      "name_en": "Dai Hachi Satsuki Maru Ozu Main Store",
+     "description": "Izakaya or bar in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38007349/",
      "page": "https://bokenjapan.com/ehime/ozu/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -4042,6 +4292,7 @@
     {
      "name": "葵",
      "name_en": "Aoi",
+     "description": "Izakaya or bar in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38006869/",
      "page": "https://bokenjapan.com/ehime/ozu/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -4049,6 +4300,7 @@
     {
      "name": "地鶏焼 ふかせ",
      "name_en": "Jidori Yaki Fukase",
+     "description": "Meat restaurant in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38000956/",
      "page": "https://bokenjapan.com/ehime/ozu/eat/meat/",
      "category": "Japanese (meat)"
@@ -4056,6 +4308,7 @@
     {
      "name": "さおや",
      "name_en": "Saoya",
+     "description": "Meat restaurant in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38003797/",
      "page": "https://bokenjapan.com/ehime/ozu/eat/meat/",
      "category": "Japanese (meat)"
@@ -4063,6 +4316,7 @@
     {
      "name": "AJI10",
      "name_en": "Aji10",
+     "description": "Noodle restaurant in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38009864/",
      "page": "https://bokenjapan.com/ehime/ozu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4070,6 +4324,7 @@
     {
      "name": "福ちゃんラーメン 本店",
      "name_en": "Fukuchan Ramen Main Store",
+     "description": "Ramen restaurant in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38002807/",
      "page": "https://bokenjapan.com/ehime/ozu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4077,6 +4332,7 @@
     {
      "name": "手のべうどん しらいし",
      "name_en": "Te no Be Udon Shiraishi",
+     "description": "Udon restaurant in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38002853/",
      "page": "https://bokenjapan.com/ehime/ozu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4084,6 +4340,7 @@
     {
      "name": "大洲かめや",
      "name_en": "Ozu Kameya",
+     "description": "Noodle restaurant in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38005075/",
      "page": "https://bokenjapan.com/ehime/ozu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4091,6 +4348,7 @@
     {
      "name": "博多らーめん大郷",
      "name_en": "Hakata Ramen Osato",
+     "description": "Ramen restaurant in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38002109/",
      "page": "https://bokenjapan.com/ehime/ozu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4098,6 +4356,7 @@
     {
      "name": "との町たる井",
      "name_en": "To no Machi Taru I",
+     "description": "Japanese restaurant in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38000053/",
      "page": "https://bokenjapan.com/ehime/ozu/eat/other-japanese/",
      "category": "Other Japanese"
@@ -4105,6 +4364,7 @@
     {
      "name": "冨永松栄堂",
      "name_en": "Tominaga Shoei Do",
+     "description": "Sweets and bakery shop in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38001527/",
      "page": "https://bokenjapan.com/ehime/ozu/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -4112,6 +4372,7 @@
     {
      "name": "まちの駅 あさもや",
      "name_en": "Machi no Eki Asamoya",
+     "description": "Sweets and bakery shop in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38006951/",
      "page": "https://bokenjapan.com/ehime/ozu/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -4119,6 +4380,7 @@
     {
      "name": "稲田菓子舗",
      "name_en": "Ineda Kashiho",
+     "description": "Sweets and bakery shop in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38004619/",
      "page": "https://bokenjapan.com/ehime/ozu/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -4126,6 +4388,7 @@
     {
      "name": "うみとカモメ山下別邸",
      "name_en": "Umi to Kamome Yamashita Bettei",
+     "description": "Sweets and bakery shop in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38014687/",
      "page": "https://bokenjapan.com/ehime/ozu/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -4268,6 +4531,7 @@
     {
      "name": "アルバトロス",
      "name_en": "Albatross",
+     "description": "Cafe in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38004519/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/cafe/",
      "category": "Cafe"
@@ -4275,6 +4539,7 @@
     {
      "name": "オレンジフェリー",
      "name_en": "Orange Ferry",
+     "description": "Casual restaurant in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38007903/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/casual/",
      "category": "Casual"
@@ -4282,6 +4547,7 @@
     {
      "name": "かどや食堂",
      "name_en": "Kadoya Shokudo",
+     "description": "Casual restaurant in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38003769/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/casual/",
      "category": "Casual"
@@ -4289,6 +4555,7 @@
     {
      "name": "上海軒",
      "name_en": "Shanhai Ken",
+     "description": "Chinese or Asian restaurant in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38003250/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -4296,6 +4563,7 @@
     {
      "name": "エル ビステッカーロ イト",
      "name_en": "El Bistecchero Ito",
+     "description": "European restaurant in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38013640/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/european/",
      "category": "European"
@@ -4303,6 +4571,7 @@
     {
      "name": "カジュアルダイニング Bon",
      "name_en": "Casual Dining Bon",
+     "description": "European restaurant in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38012121/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/european/",
      "category": "European"
@@ -4310,6 +4579,7 @@
     {
      "name": "マルブン 小松本店",
      "name_en": "Marubun Komatsu Main Store",
+     "description": "European restaurant in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38000050/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/european/",
      "category": "European"
@@ -4317,6 +4587,7 @@
     {
      "name": "オステリア アリエッタ",
      "name_en": "Osteria Arietta",
+     "description": "European restaurant in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38002363/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/european/",
      "category": "European"
@@ -4324,6 +4595,7 @@
     {
      "name": "うしろのしょうめんだーれ",
      "name_en": "Ushironoshomendare",
+     "description": "European restaurant in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38000919/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/european/",
      "category": "European"
@@ -4331,6 +4603,7 @@
     {
      "name": "ごかく 西条店",
      "name_en": "Gokaku Saijo",
+     "description": "Meat restaurant in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38004404/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/meat/",
      "category": "Japanese (meat)"
@@ -4338,6 +4611,7 @@
     {
      "name": "西條そば 甲",
      "name_en": "Saijo Soba Kabuto",
+     "description": "Soba restaurant in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38001193/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4345,6 +4619,7 @@
     {
      "name": "竹ばやし",
      "name_en": "Take Bayashi",
+     "description": "Noodle restaurant in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38008340/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4352,6 +4627,7 @@
     {
      "name": "蕎亭 はる",
      "name_en": "Kyo-tei Haru",
+     "description": "Noodle restaurant in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38001192/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4359,6 +4635,7 @@
     {
      "name": "中華そば 心",
      "name_en": "Chuka Soba Kokoro",
+     "description": "Soba restaurant in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38012890/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4366,6 +4643,7 @@
     {
      "name": "優月",
      "name_en": "Yu Gatsu",
+     "description": "Noodle restaurant in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38008616/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4373,6 +4651,7 @@
     {
      "name": "ラーメン亭",
      "name_en": "Ramen Tei",
+     "description": "Ramen restaurant in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38001295/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4380,6 +4659,7 @@
     {
      "name": "さくら製麺所",
      "name_en": "Sakura Seimen Tokoro",
+     "description": "Noodle restaurant in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38008335/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4387,6 +4667,7 @@
     {
      "name": "麺処 大田屋",
      "name_en": "Mendokoro Otaya",
+     "description": "Noodle restaurant in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38005903/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4394,6 +4675,7 @@
     {
      "name": "そば宏",
      "name_en": "Soba Hiroshi",
+     "description": "Soba restaurant in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38003821/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4401,6 +4683,7 @@
     {
      "name": "Musubi",
      "name_en": "Musubi",
+     "description": "Japanese restaurant in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38016220/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/other-japanese/",
      "category": "Other Japanese"
@@ -4408,6 +4691,7 @@
     {
      "name": "八勝亭 オリエント東予店",
      "name_en": "Hasshotei Orient Toyo",
+     "description": "Japanese restaurant in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38000696/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/other-japanese/",
      "category": "Other Japanese"
@@ -4415,6 +4699,7 @@
     {
      "name": "わいん食堂 カゴヤ10taro",
      "name_en": "Wine Shokudo Kagoya 10taro",
+     "description": "Japanese restaurant in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38008979/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/other-japanese/",
      "category": "Other Japanese"
@@ -4422,6 +4707,7 @@
     {
      "name": "マルトモ水産 鮮魚市場",
      "name_en": "Marutomo Suisan Sengyo Shijo",
+     "description": "Seafood restaurant in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38001646/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -4429,6 +4715,7 @@
     {
      "name": "おおさかや 蔵はち",
      "name_en": "Osakaya Kura Hachi",
+     "description": "Sweets and bakery shop in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38004699/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -4665,6 +4952,7 @@
     {
      "name": "苔筵",
      "name_en": "Koke Mushiro",
+     "description": "Cafe in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38004624/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/cafe/",
      "category": "Cafe"
@@ -4672,6 +4960,7 @@
     {
      "name": "ミルク園",
      "name_en": "Milk-en",
+     "description": "Cafe in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38001054/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/cafe/",
      "category": "Cafe"
@@ -4679,6 +4968,7 @@
     {
      "name": "池田屋",
      "name_en": "Ikeda-ya",
+     "description": "Cafe in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38001035/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/cafe/",
      "category": "Cafe"
@@ -4686,6 +4976,7 @@
     {
      "name": "アリス",
      "name_en": "Alice",
+     "description": "Cafe in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38009754/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/cafe/",
      "category": "Cafe"
@@ -4693,6 +4984,7 @@
     {
      "name": "みのり食堂",
      "name_en": "Minori Shokudo",
+     "description": "Casual restaurant in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38001213/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/casual/",
      "category": "Casual"
@@ -4700,6 +4992,7 @@
     {
      "name": "レストラン いっぷく",
      "name_en": "Restaurant Ippuku",
+     "description": "Casual restaurant in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38013419/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/casual/",
      "category": "Casual"
@@ -4707,6 +5000,7 @@
     {
      "name": "美ゆき 宇和店",
      "name_en": "Bi Yuki Uwa",
+     "description": "Casual restaurant in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38001106/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/casual/",
      "category": "Casual"
@@ -4714,6 +5008,7 @@
     {
      "name": "いっぷく茶屋",
      "name_en": "Ippuku Cha-ya",
+     "description": "Casual restaurant in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38001441/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/casual/",
      "category": "Casual"
@@ -4721,6 +5016,7 @@
     {
      "name": "中国料理 舞華",
      "name_en": "Chugoku Cuisine Maika",
+     "description": "Chinese or Asian restaurant in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38012730/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -4728,6 +5024,7 @@
     {
      "name": "ほわいとファーム",
      "name_en": "White Farm",
+     "description": "European restaurant in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38001187/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/european/",
      "category": "European"
@@ -4735,6 +5032,7 @@
     {
      "name": "粋",
      "name_en": "Sui",
+     "description": "Izakaya or bar in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38001082/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -4742,6 +5040,7 @@
     {
      "name": "ゆうぼく民",
      "name_en": "Yuboku Tami",
+     "description": "Meat restaurant in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38010777/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/meat/",
      "category": "Japanese (meat)"
@@ -4749,6 +5048,7 @@
     {
      "name": "とんかつ丸七 愛媛店",
      "name_en": "Tonkatsu Maru Shichi Ehime",
+     "description": "Tonkatsu restaurant in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38015661/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/meat/",
      "category": "Japanese (meat)"
@@ -4756,6 +5056,7 @@
     {
      "name": "しんみや",
      "name_en": "Shinmiya",
+     "description": "Meat restaurant in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38011315/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/meat/",
      "category": "Japanese (meat)"
@@ -4763,6 +5064,7 @@
     {
      "name": "麺や一心",
      "name_en": "Menya Isshin",
+     "description": "Noodle restaurant in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38011504/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4770,6 +5072,7 @@
     {
      "name": "大介うどん 宇和店",
      "name_en": "Daisuke Udon Uwa",
+     "description": "Udon restaurant in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38004622/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4777,6 +5080,7 @@
     {
      "name": "停満里",
      "name_en": "Tei Michisato",
+     "description": "Noodle restaurant in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38007474/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4784,6 +5088,7 @@
     {
      "name": "名水亭",
      "name_en": "Meisui-tei",
+     "description": "Noodle restaurant in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38001045/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4791,6 +5096,7 @@
     {
      "name": "ペンション もみの木",
      "name_en": "Pension Mominoki",
+     "description": "Restaurant in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38001391/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/other/",
      "category": "Other"
@@ -4798,6 +5104,7 @@
     {
      "name": "道の駅 どんぶり館",
      "name_en": "Michi no Eki Donburi-kan",
+     "description": "Restaurant in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38000415/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/other/",
      "category": "Other"
@@ -4805,6 +5112,7 @@
     {
      "name": "シーサイド うわかい",
      "name_en": "Seaside Uwakai",
+     "description": "Restaurant in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38006305/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/other/",
      "category": "Other"
@@ -4812,6 +5120,7 @@
     {
      "name": "ホテルみかめ本館",
      "name_en": "Hotel Mikame Honkan",
+     "description": "Restaurant in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38011260/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/other/",
      "category": "Other"
@@ -4819,6 +5128,7 @@
     {
      "name": "有限会社 南予てんぷら販売",
      "name_en": "Yugengaisha Nanyo Tenpura Hanbai",
+     "description": "Japanese restaurant in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38011860/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/other-japanese/",
      "category": "Other Japanese"
@@ -4826,6 +5136,7 @@
     {
      "name": "山田屋まんじゅう 本店",
      "name_en": "Yamada-ya Manju Main Store",
+     "description": "Sweets and bakery shop in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38000241/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -4940,6 +5251,7 @@
     {
      "name": "霧の森 茶フェ ゆるり",
      "name_en": "Kiri no Mori Chafe Yururi",
+     "description": "Cafe in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38000975/",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/cafe/",
      "category": "Cafe"
@@ -4947,6 +5259,7 @@
     {
      "name": "珈琲蔵 本店",
      "name_en": "Coffee Kura Main Store",
+     "description": "Cafe in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38005006/",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/cafe/",
      "category": "Cafe"
@@ -4954,6 +5267,7 @@
     {
      "name": "ぶんぶくちゃがま",
      "name_en": "Bunbukuchagama",
+     "description": "Cafe in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38005693/",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/cafe/",
      "category": "Cafe"
@@ -4961,6 +5275,7 @@
     {
      "name": "熊福",
      "name_en": "Kuma Fuku",
+     "description": "Casual restaurant in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38001477/",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/casual/",
      "category": "Casual"
@@ -4968,6 +5283,7 @@
     {
      "name": "住吉食堂",
      "name_en": "Sumiyoshi Shokudo",
+     "description": "Casual restaurant in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38009643/",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/casual/",
      "category": "Casual"
@@ -4975,6 +5291,7 @@
     {
      "name": "中華菜館 成都",
      "name_en": "Chinese Na-kan Seito",
+     "description": "Chinese or Asian restaurant in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38001534/",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -4982,6 +5299,7 @@
     {
      "name": "柘",
      "name_en": "Tsuge",
+     "description": "Chinese or Asian restaurant in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38007892/",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -4989,6 +5307,7 @@
     {
      "name": "ピッツェリア エイゴロ 伊予三島",
      "name_en": "Pizzeria Eigoro Iyo Mishima",
+     "description": "European restaurant in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38010745/",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/european/",
      "category": "European"
@@ -4996,6 +5315,7 @@
     {
      "name": "ピッツァ モーレ",
      "name_en": "Pizza More",
+     "description": "European restaurant in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38010555/",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/european/",
      "category": "European"
@@ -5003,6 +5323,7 @@
     {
      "name": "アマルフィ",
      "name_en": "Amalfi",
+     "description": "European restaurant in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38003365/",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/european/",
      "category": "European"
@@ -5010,6 +5331,7 @@
     {
      "name": "清花園",
      "name_en": "Kiyoshi Hanazono",
+     "description": "Meat restaurant in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38002225/",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/meat/",
      "category": "Japanese (meat)"
@@ -5017,6 +5339,7 @@
     {
      "name": "揚げ足鳥・伊予万里",
      "name_en": "Ageashi Tori Iyo Banri",
+     "description": "Meat restaurant in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38002024/",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/meat/",
      "category": "Japanese (meat)"
@@ -5024,6 +5347,7 @@
     {
      "name": "ひかり食堂",
      "name_en": "Hikari Shokudo",
+     "description": "Noodle restaurant in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38003879/",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5031,6 +5355,7 @@
     {
      "name": "菜の家",
      "name_en": "Na no-ya",
+     "description": "Noodle restaurant in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38006219/",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5038,6 +5363,7 @@
     {
      "name": "うどん 山口 伊予三島店",
      "name_en": "Udon Yamaguchi Iyo Mishima",
+     "description": "Udon restaurant in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38015751/",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5045,6 +5371,7 @@
     {
      "name": "手打ちうどん まいど",
      "name_en": "Handmade Udon Maido",
+     "description": "Udon restaurant in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38013149/",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5052,6 +5379,7 @@
     {
      "name": "ロケットうどん",
      "name_en": "Rocket Udon",
+     "description": "Udon restaurant in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38002301/",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5059,6 +5387,7 @@
     {
      "name": "セルフ讃岐うどん 宮内製麺",
      "name_en": "Self Sanuki Udon Miyauchi Seimen",
+     "description": "Udon restaurant in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38013116/",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5066,6 +5395,7 @@
     {
      "name": "やったろうじゃん",
      "name_en": "Yattarojan",
+     "description": "Noodle restaurant in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38014063/",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5073,6 +5403,7 @@
     {
      "name": "霧の森レストラン",
      "name_en": "Kiri no Mori Restaurant",
+     "description": "Japanese restaurant in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38001142/",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/other-japanese/",
      "category": "Other Japanese"
@@ -5080,6 +5411,7 @@
     {
      "name": "味将",
      "name_en": "Aji Sho",
+     "description": "Seafood restaurant in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38002710/",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -5087,6 +5419,7 @@
     {
      "name": "霧の森菓子工房 新宮本店",
      "name_en": "Kiri no Mori Kashi Kobo Shingu Main Store",
+     "description": "Sweets and bakery shop in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38001518/",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -5094,6 +5427,7 @@
     {
      "name": "柴田モナカ本舗",
      "name_en": "Shibata Monaka Honpo",
+     "description": "Sweets and bakery shop in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38013295/",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -5101,6 +5435,7 @@
     {
      "name": "ゴトウ洋菓子店",
      "name_en": "Goto Yogashiten",
+     "description": "Sweets and bakery shop in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38004643/",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -5257,6 +5592,7 @@
     {
      "name": "民芸CAFE 珈町",
      "name_en": "Mingei CAFE Ka Machi",
+     "description": "Cafe in Tobe, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38005649/",
      "page": "https://bokenjapan.com/ehime/tobe/eat/cafe/",
      "category": "Cafe"
@@ -5264,6 +5600,7 @@
     {
      "name": "青空Veggy",
      "name_en": "Aozora Veggy",
+     "description": "Cafe in Tobe, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38010730/",
      "page": "https://bokenjapan.com/ehime/tobe/eat/cafe/",
      "category": "Cafe"
@@ -5271,6 +5608,7 @@
     {
      "name": "珈琲貴族",
      "name_en": "Coffee Kizoku",
+     "description": "Cafe in Tobe, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38005648/",
      "page": "https://bokenjapan.com/ehime/tobe/eat/cafe/",
      "category": "Cafe"
@@ -5278,6 +5616,7 @@
     {
      "name": "食堂ちとせ",
      "name_en": "Shokudo Chitose",
+     "description": "Casual restaurant in Tobe, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38007998/",
      "page": "https://bokenjapan.com/ehime/tobe/eat/casual/",
      "category": "Casual"
@@ -5285,6 +5624,7 @@
     {
      "name": "展望レストラン SKY GARDEN",
      "name_en": "Tenbo Restaurant SKY GARDEN",
+     "description": "Casual restaurant in Tobe, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38005830/",
      "page": "https://bokenjapan.com/ehime/tobe/eat/casual/",
      "category": "Casual"
@@ -5292,6 +5632,7 @@
     {
      "name": "串ノ焼鬼",
      "name_en": "Kushi no Yaki Oni",
+     "description": "Casual restaurant in Tobe, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38016381/",
      "page": "https://bokenjapan.com/ehime/tobe/eat/casual/",
      "category": "Casual"
@@ -5299,6 +5640,7 @@
     {
      "name": "炒飯専門店Thomas",
      "name_en": "Chahan Thomas",
+     "description": "Chinese or Asian restaurant in Tobe, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38013738/",
      "page": "https://bokenjapan.com/ehime/tobe/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -5306,6 +5648,7 @@
     {
      "name": "ピッツェリア トレンタノーヴェ",
      "name_en": "Pizzeria Trentanove",
+     "description": "European restaurant in Tobe, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38010028/",
      "page": "https://bokenjapan.com/ehime/tobe/eat/european/",
      "category": "European"
@@ -5313,6 +5656,7 @@
     {
      "name": "ボーノ",
      "name_en": "Bono",
+     "description": "European restaurant in Tobe, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38005539/",
      "page": "https://bokenjapan.com/ehime/tobe/eat/european/",
      "category": "European"
@@ -5320,6 +5664,7 @@
     {
      "name": "ひろたの森",
      "name_en": "Hirota no Mori",
+     "description": "European restaurant in Tobe, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38010746/",
      "page": "https://bokenjapan.com/ehime/tobe/eat/european/",
      "category": "European"
@@ -5327,6 +5672,7 @@
     {
      "name": "旬香酒踊 げん",
      "name_en": "Shunko Sake Yo Gen",
+     "description": "Izakaya or bar in Tobe, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38015628/",
      "page": "https://bokenjapan.com/ehime/tobe/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -5334,6 +5680,7 @@
     {
      "name": "和酔食菜ｋｅｎ",
      "name_en": "Wasui Shokusai ken",
+     "description": "Izakaya or bar in Tobe, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38006827/",
      "page": "https://bokenjapan.com/ehime/tobe/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -5341,6 +5688,7 @@
     {
      "name": "蔵グルメ あこう",
      "name_en": "Kura Gourmet Ako",
+     "description": "Izakaya or bar in Tobe, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38001305/",
      "page": "https://bokenjapan.com/ehime/tobe/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -5348,6 +5696,7 @@
     {
      "name": "焼肉水本 総本山",
      "name_en": "Yakiniku Mizumoto Sohonzan",
+     "description": "Yakiniku restaurant in Tobe, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38016315/",
      "page": "https://bokenjapan.com/ehime/tobe/eat/meat/",
      "category": "Japanese (meat)"
@@ -5355,6 +5704,7 @@
     {
      "name": "焼肉 慶州 原町店",
      "name_en": "Yakiniku Keishu Haramachi",
+     "description": "Yakiniku restaurant in Tobe, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38010203/",
      "page": "https://bokenjapan.com/ehime/tobe/eat/meat/",
      "category": "Japanese (meat)"
@@ -5362,6 +5712,7 @@
     {
      "name": "水田商店",
      "name_en": "Suiden Shoten",
+     "description": "Noodle restaurant in Tobe, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38013897/",
      "page": "https://bokenjapan.com/ehime/tobe/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5369,6 +5720,7 @@
     {
      "name": "ラーメン一興 砥部店",
      "name_en": "Ramen Ikkyo Tobe",
+     "description": "Ramen restaurant in Tobe, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38000421/",
      "page": "https://bokenjapan.com/ehime/tobe/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5376,6 +5728,7 @@
     {
      "name": "ぎやてい",
      "name_en": "Giyatei",
+     "description": "Noodle restaurant in Tobe, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38009123/",
      "page": "https://bokenjapan.com/ehime/tobe/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5383,6 +5736,7 @@
     {
      "name": "豚太郎 砥部店",
      "name_en": "Buta Taro Tobe",
+     "description": "Noodle restaurant in Tobe, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38005434/",
      "page": "https://bokenjapan.com/ehime/tobe/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5390,6 +5744,7 @@
     {
      "name": "なかまる",
      "name_en": "Nakamaru",
+     "description": "Noodle restaurant in Tobe, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38006297/",
      "page": "https://bokenjapan.com/ehime/tobe/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5397,6 +5752,7 @@
     {
      "name": "うどん茶屋 北斗 砥部店",
      "name_en": "Udon Cha-ya Hokuto Tobe",
+     "description": "Udon restaurant in Tobe, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38002834/",
      "page": "https://bokenjapan.com/ehime/tobe/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5404,6 +5760,7 @@
     {
      "name": "変幻自在 かめりあ",
      "name_en": "Hengen Jizai Kameria",
+     "description": "Japanese restaurant in Tobe, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38011456/",
      "page": "https://bokenjapan.com/ehime/tobe/eat/other-japanese/",
      "category": "Other Japanese"
@@ -5411,6 +5768,7 @@
     {
      "name": "ひだのかみ",
      "name_en": "Hidanokami",
+     "description": "Japanese restaurant in Tobe, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38002421/",
      "page": "https://bokenjapan.com/ehime/tobe/eat/other-japanese/",
      "category": "Other Japanese"
@@ -5497,6 +5855,7 @@
     {
      "name": "カフェレストマーズ",
      "name_en": "Cafe Rest Mars",
+     "description": "Cafe in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38004560/",
      "page": "https://bokenjapan.com/ehime/toon/eat/cafe/",
      "category": "Cafe"
@@ -5504,6 +5863,7 @@
     {
      "name": "いちご日和",
      "name_en": "Ichigo Hiyori",
+     "description": "Cafe in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38010500/",
      "page": "https://bokenjapan.com/ehime/toon/eat/cafe/",
      "category": "Cafe"
@@ -5511,6 +5871,7 @@
     {
      "name": "唐揚げ食堂 ごいち フジグラン重信店",
      "name_en": "Karaage Shokudo Goichi Fuji Grand Shigenobu",
+     "description": "Casual restaurant in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38014040/",
      "page": "https://bokenjapan.com/ehime/toon/eat/casual/",
      "category": "Casual"
@@ -5518,6 +5879,7 @@
     {
      "name": "見奈良天然温泉 利楽",
      "name_en": "Ken Nara Natural Onsen Riraku",
+     "description": "Casual restaurant in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38001634/",
      "page": "https://bokenjapan.com/ehime/toon/eat/casual/",
      "category": "Casual"
@@ -5525,6 +5887,7 @@
     {
      "name": "老香港菜館",
      "name_en": "Ro Honkon Na-kan",
+     "description": "Chinese or Asian restaurant in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38000593/",
      "page": "https://bokenjapan.com/ehime/toon/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -5532,6 +5895,7 @@
     {
      "name": "Luciole",
      "name_en": "Luciole",
+     "description": "European restaurant in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38014448/",
      "page": "https://bokenjapan.com/ehime/toon/eat/european/",
      "category": "European"
@@ -5539,6 +5903,7 @@
     {
      "name": "ペッティロッソ",
      "name_en": "Pettirosso",
+     "description": "European restaurant in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38009497/",
      "page": "https://bokenjapan.com/ehime/toon/eat/european/",
      "category": "European"
@@ -5546,6 +5911,7 @@
     {
      "name": "OTTO",
      "name_en": "OTTO",
+     "description": "European restaurant in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38007671/",
      "page": "https://bokenjapan.com/ehime/toon/eat/european/",
      "category": "European"
@@ -5553,6 +5919,7 @@
     {
      "name": "ペル メル",
      "name_en": "Pell Mell",
+     "description": "European restaurant in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38013217/",
      "page": "https://bokenjapan.com/ehime/toon/eat/european/",
      "category": "European"
@@ -5560,6 +5927,7 @@
     {
      "name": "フィレンツェ",
      "name_en": "Firenze",
+     "description": "European restaurant in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38010167/",
      "page": "https://bokenjapan.com/ehime/toon/eat/european/",
      "category": "European"
@@ -5567,6 +5935,7 @@
     {
      "name": "マニフィーク",
      "name_en": "Magnifique",
+     "description": "European restaurant in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38011349/",
      "page": "https://bokenjapan.com/ehime/toon/eat/european/",
      "category": "European"
@@ -5574,6 +5943,7 @@
     {
      "name": "一汁三菜 五感",
      "name_en": "Ichi Shiru San Na Gokan",
+     "description": "Izakaya or bar in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38011431/",
      "page": "https://bokenjapan.com/ehime/toon/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -5581,6 +5951,7 @@
     {
      "name": "旬彩武",
      "name_en": "Jun Sai Takeshi",
+     "description": "Izakaya or bar in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38003242/",
      "page": "https://bokenjapan.com/ehime/toon/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -5588,6 +5959,7 @@
     {
      "name": "芯せかい",
      "name_en": "Shin Sekai",
+     "description": "Noodle restaurant in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38011146/",
      "page": "https://bokenjapan.com/ehime/toon/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5595,6 +5967,7 @@
     {
      "name": "にしきそば",
      "name_en": "Nishiki Soba",
+     "description": "Soba restaurant in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38001291/",
      "page": "https://bokenjapan.com/ehime/toon/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5602,6 +5975,7 @@
     {
      "name": "そばのもん",
      "name_en": "Soba Nomon",
+     "description": "Soba restaurant in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38010930/",
      "page": "https://bokenjapan.com/ehime/toon/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5609,6 +5983,7 @@
     {
      "name": "セルフ讃岐うどん こだわり製麺",
      "name_en": "Self Sanuki Udon Kodawari Seimen",
+     "description": "Udon restaurant in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38014948/",
      "page": "https://bokenjapan.com/ehime/toon/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5616,6 +5991,7 @@
     {
      "name": "okinawa kitchen 美ら島160",
      "name_en": "okinawa kitchen Churashima 160",
+     "description": "Japanese restaurant in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38014471/",
      "page": "https://bokenjapan.com/ehime/toon/eat/other-japanese/",
      "category": "Other Japanese"
@@ -5623,6 +5999,7 @@
     {
      "name": "天天丸 重信店",
      "name_en": "Tenten Maru Shigenobu",
+     "description": "Seafood restaurant in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38004454/",
      "page": "https://bokenjapan.com/ehime/toon/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -5630,6 +6007,7 @@
     {
      "name": "河内屋",
      "name_en": "Kawauchi-ya",
+     "description": "Seafood restaurant in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38001288/",
      "page": "https://bokenjapan.com/ehime/toon/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -5637,6 +6015,7 @@
     {
      "name": "門田商店 かどみせ",
      "name_en": "Kadota Shoten Kadomise",
+     "description": "Sweets and bakery shop in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38005802/",
      "page": "https://bokenjapan.com/ehime/toon/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -5644,6 +6023,7 @@
     {
      "name": "ベーカリービーンズ",
      "name_en": "Bakery Beans",
+     "description": "Sweets and bakery shop in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38005775/",
      "page": "https://bokenjapan.com/ehime/toon/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -5651,6 +6031,7 @@
     {
      "name": "炭焼き団子 志津かわ珈琲庵",
      "name_en": "Sumiyaki Ki Dango Shizu Kawa Coffee Iori",
+     "description": "Sweets and bakery shop in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38015757/",
      "page": "https://bokenjapan.com/ehime/toon/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -5658,6 +6039,7 @@
     {
      "name": "母恵夢スイーツパーク",
      "name_en": "Poemu Sweets Park",
+     "description": "Sweets and bakery shop in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38011126/",
      "page": "https://bokenjapan.com/ehime/toon/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -5765,6 +6147,7 @@
     {
      "name": "シャルム",
      "name_en": "Charm",
+     "description": "Cafe in Uchiko, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380303/38013344/",
      "page": "https://bokenjapan.com/ehime/uchiko/eat/cafe/",
      "category": "Cafe"
@@ -5772,6 +6155,7 @@
     {
      "name": "なるカフェ",
      "name_en": "Naru Cafe",
+     "description": "Cafe in Uchiko, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380303/38014053/",
      "page": "https://bokenjapan.com/ehime/uchiko/eat/cafe/",
      "category": "Cafe"
@@ -5779,6 +6163,7 @@
     {
      "name": "カフェでんじろう",
      "name_en": "Cafe Denjiro",
+     "description": "Cafe in Uchiko, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380303/38011619/",
      "page": "https://bokenjapan.com/ehime/uchiko/eat/cafe/",
      "category": "Cafe"
@@ -5786,6 +6171,7 @@
     {
      "name": "アグリcafe川楽里",
      "name_en": "Agri cafe Kawarari",
+     "description": "Cafe in Uchiko, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380303/38015652/",
      "page": "https://bokenjapan.com/ehime/uchiko/eat/cafe/",
      "category": "Cafe"
@@ -5793,6 +6179,7 @@
     {
      "name": "峠たこ焼",
      "name_en": "Toge Tako Yaki",
+     "description": "Casual restaurant in Uchiko, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380303/38001570/",
      "page": "https://bokenjapan.com/ehime/uchiko/eat/casual/",
      "category": "Casual"
@@ -5800,6 +6187,7 @@
     {
      "name": "シャロン",
      "name_en": "Sharon",
+     "description": "Casual restaurant in Uchiko, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380303/38004613/",
      "page": "https://bokenjapan.com/ehime/uchiko/eat/casual/",
      "category": "Casual"
@@ -5807,6 +6195,7 @@
     {
      "name": "かば忠 内子店",
      "name_en": "Kaba Tadashi Uchiko",
+     "description": "Chinese or Asian restaurant in Uchiko, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380303/38001747/",
      "page": "https://bokenjapan.com/ehime/uchiko/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -5814,6 +6203,7 @@
     {
      "name": "レストランからり",
      "name_en": "Restaurant Karari",
+     "description": "European restaurant in Uchiko, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380303/38000243/",
      "page": "https://bokenjapan.com/ehime/uchiko/eat/european/",
      "category": "European"
@@ -5821,6 +6211,7 @@
     {
      "name": "洋食マザー",
      "name_en": "Yoshoku Mother",
+     "description": "European restaurant in Uchiko, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380303/38004616/",
      "page": "https://bokenjapan.com/ehime/uchiko/eat/european/",
      "category": "European"
@@ -5828,6 +6219,7 @@
     {
      "name": "ツム・シュバルツェン・カイラー",
      "name_en": "Zum Schwarzen Keiler",
+     "description": "European restaurant in Uchiko, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380303/38013232/",
      "page": "https://bokenjapan.com/ehime/uchiko/eat/european/",
      "category": "European"
@@ -5835,6 +6227,7 @@
     {
      "name": "がっちゃん家",
      "name_en": "Gatchan-ya",
+     "description": "Meat restaurant in Uchiko, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380303/38007950/",
      "page": "https://bokenjapan.com/ehime/uchiko/eat/meat/",
      "category": "Japanese (meat)"
@@ -5842,6 +6235,7 @@
     {
      "name": "内子いなりや×ストライク軒",
      "name_en": "Uchiko Inariya x Strike-ken",
+     "description": "Noodle restaurant in Uchiko, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380303/38000997/",
      "page": "https://bokenjapan.com/ehime/uchiko/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5849,6 +6243,7 @@
     {
      "name": "下芳我邸",
      "name_en": "Shita Haga Tei",
+     "description": "Noodle restaurant in Uchiko, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380303/38000467/",
      "page": "https://bokenjapan.com/ehime/uchiko/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5856,6 +6251,7 @@
     {
      "name": "かじか亭",
      "name_en": "Kajika-tei",
+     "description": "Noodle restaurant in Uchiko, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380303/38006046/",
      "page": "https://bokenjapan.com/ehime/uchiko/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5863,6 +6259,7 @@
     {
      "name": "幟立うどん",
      "name_en": "Shi Ritsu Udon",
+     "description": "Udon restaurant in Uchiko, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380303/38002352/",
      "page": "https://bokenjapan.com/ehime/uchiko/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5870,6 +6267,7 @@
     {
      "name": "愛媛ゴルフ倶楽部",
      "name_en": "Ehime Golf Club",
+     "description": "Noodle restaurant in Uchiko, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380303/38010319/",
      "page": "https://bokenjapan.com/ehime/uchiko/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5877,6 +6275,7 @@
     {
      "name": "そば処 石畳むら",
      "name_en": "Soba Ishidatami Mura",
+     "description": "Soba restaurant in Uchiko, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380303/38008262/",
      "page": "https://bokenjapan.com/ehime/uchiko/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -5884,6 +6283,7 @@
     {
      "name": "道の駅 内子フレッシュパークからり",
      "name_en": "Michi no Eki Uchiko Fresh Park Karari",
+     "description": "Restaurant in Uchiko, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380303/38011478/",
      "page": "https://bokenjapan.com/ehime/uchiko/eat/other/",
      "category": "Other"
@@ -5891,6 +6291,7 @@
     {
      "name": "ホテル エーゼット 愛媛内子店",
      "name_en": "Hotel AZ Ehime Uchiko",
+     "description": "Restaurant in Uchiko, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380303/38013304/",
      "page": "https://bokenjapan.com/ehime/uchiko/eat/other/",
      "category": "Other"
@@ -5898,6 +6299,7 @@
     {
      "name": "米屋",
      "name_en": "Kome-ya",
+     "description": "Seafood restaurant in Uchiko, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380303/38011447/",
      "page": "https://bokenjapan.com/ehime/uchiko/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -5905,6 +6307,7 @@
     {
      "name": "からりパン工房",
      "name_en": "Karari Bread Kobo",
+     "description": "Sweets and bakery shop in Uchiko, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380303/38010356/",
      "page": "https://bokenjapan.com/ehime/uchiko/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -5912,6 +6315,7 @@
     {
      "name": "坂見輝月堂",
      "name_en": "Saka Ken Teru Gatsu Do",
+     "description": "Sweets and bakery shop in Uchiko, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380303/38005954/",
      "page": "https://bokenjapan.com/ehime/uchiko/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -6071,6 +6475,7 @@
     {
      "name": "珈琲亭 TAO",
      "name_en": "Coffee-tei TAO",
+     "description": "Cafe in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38008217/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/cafe/",
      "category": "Cafe"
@@ -6078,6 +6483,7 @@
     {
      "name": "富屋",
      "name_en": "Tomi-ya",
+     "description": "Casual restaurant in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38012170/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/casual/",
      "category": "Casual"
@@ -6085,6 +6491,7 @@
     {
      "name": "きさいや広場",
      "name_en": "Kisaiya Hiroba",
+     "description": "Casual restaurant in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38005039/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/casual/",
      "category": "Casual"
@@ -6092,6 +6499,7 @@
     {
      "name": "ほづみ亭 きさいや広場店",
      "name_en": "Hozumi-tei Kisaiya Hiroba",
+     "description": "Casual restaurant in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38013663/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/casual/",
      "category": "Casual"
@@ -6099,6 +6507,7 @@
     {
      "name": "河内屋蒲鉾 きさいや広場店",
      "name_en": "Kawauchi-ya Kamaboko Kisaiya Hiroba",
+     "description": "Casual restaurant in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38007335/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/casual/",
      "category": "Casual"
@@ -6106,6 +6515,7 @@
     {
      "name": "おだいし庵",
      "name_en": "Odaishi Iori",
+     "description": "Casual restaurant in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38013501/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/casual/",
      "category": "Casual"
@@ -6113,6 +6523,7 @@
     {
      "name": "道の駅 みま",
      "name_en": "Michi no Eki Mima",
+     "description": "Casual restaurant in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38005807/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/casual/",
      "category": "Casual"
@@ -6120,6 +6531,7 @@
     {
      "name": "中国亭",
      "name_en": "Chugoku-tei",
+     "description": "Chinese or Asian restaurant in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38001469/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -6127,6 +6539,7 @@
     {
      "name": "ヴィオロン・ダングル",
      "name_en": "Violon d'Ingres",
+     "description": "European restaurant in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38002357/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/european/",
      "category": "European"
@@ -6134,6 +6547,7 @@
     {
      "name": "郷土料理 大衆割烹 ほづみ亭",
      "name_en": "Kyodo Cuisine Taishu Kappo Hozumi-tei",
+     "description": "Izakaya or bar in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38000392/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -6141,6 +6555,7 @@
     {
      "name": "海鮮居酒屋 がいや 宇和島店",
      "name_en": "Kaisen Izakaya Gaiya Uwajima",
+     "description": "Izakaya or bar in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38000406/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -6148,6 +6563,7 @@
     {
      "name": "まえの",
      "name_en": "Mae no",
+     "description": "Noodle restaurant in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38008658/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -6155,6 +6571,7 @@
     {
      "name": "菊屋",
      "name_en": "Kiku-ya",
+     "description": "Noodle restaurant in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38000245/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -6162,6 +6579,7 @@
     {
      "name": "にし蔵",
      "name_en": "Nishi Kura",
+     "description": "Noodle restaurant in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38009273/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -6169,6 +6587,7 @@
     {
      "name": "らぐまん",
      "name_en": "Raguman",
+     "description": "Noodle restaurant in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38000247/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -6176,6 +6595,7 @@
     {
      "name": "かどや 本店",
      "name_en": "Kadoya Main Store",
+     "description": "Japanese restaurant in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38015965/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/other-japanese/",
      "category": "Other Japanese"
@@ -6183,6 +6603,7 @@
     {
      "name": "一心",
      "name_en": "Isshin",
+     "description": "Japanese restaurant in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38002437/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/other-japanese/",
      "category": "Other Japanese"
@@ -6190,6 +6611,7 @@
     {
      "name": "旬膳・郷土膳 和日輔",
      "name_en": "Shunzen Kyodozen Kazuhisuke",
+     "description": "Japanese restaurant in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38001317/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/other-japanese/",
      "category": "Other Japanese"
@@ -6197,6 +6619,7 @@
     {
      "name": "ありあけ",
      "name_en": "Ariake",
+     "description": "Japanese restaurant in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38004985/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/other-japanese/",
      "category": "Other Japanese"
@@ -6204,6 +6627,7 @@
     {
      "name": "天よし",
      "name_en": "Ten Yoshi",
+     "description": "Japanese restaurant in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38013157/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/other-japanese/",
      "category": "Other Japanese"
@@ -6211,6 +6635,7 @@
     {
      "name": "平家",
      "name_en": "Taira-ya",
+     "description": "Japanese restaurant in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38002496/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/other-japanese/",
      "category": "Other Japanese"
@@ -6218,6 +6643,7 @@
     {
      "name": "回転寿司すしえもん 宇和島本店",
      "name_en": "Kaiten Sushi Sushi Emon Uwajima Main Store",
+     "description": "Sushi restaurant in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38010440/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -6225,6 +6651,7 @@
     {
      "name": "河合太刀魚巻店",
      "name_en": "Kawai Tachiuo Kan",
+     "description": "Seafood restaurant in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38006058/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -6232,6 +6659,7 @@
     {
      "name": "寿堤夢",
      "name_en": "Hisashi Tsutsumi Yume",
+     "description": "Sweets and bakery shop in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38001019/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -6379,6 +6807,7 @@
     {
      "name": "カフェ シュシュ",
      "name_en": "Cafe Chouchou",
+     "description": "Cafe in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38009575/",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/cafe/",
      "category": "Cafe"
@@ -6386,6 +6815,7 @@
     {
      "name": "PETIT PONT",
      "name_en": "Petit PONT",
+     "description": "Cafe in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38014239/",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/cafe/",
      "category": "Cafe"
@@ -6393,6 +6823,7 @@
     {
      "name": "ぷち ぼぬーる",
      "name_en": "Puchi Bonuru",
+     "description": "Cafe in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38013528/",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/cafe/",
      "category": "Cafe"
@@ -6400,6 +6831,7 @@
     {
      "name": "お菓しとそらしと",
      "name_en": "Okashi to Sorashi to",
+     "description": "Cafe in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38016270/",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/cafe/",
      "category": "Cafe"
@@ -6407,6 +6839,7 @@
     {
      "name": "どーや食堂",
      "name_en": "Doya Shokudo",
+     "description": "Casual restaurant in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38010080/",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/casual/",
      "category": "Casual"
@@ -6414,6 +6847,7 @@
     {
      "name": "フジ観光",
      "name_en": "Fuji Kanko",
+     "description": "Casual restaurant in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38001171/",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/casual/",
      "category": "Casual"
@@ -6421,6 +6855,7 @@
     {
      "name": "食堂ごりらくん",
      "name_en": "Shokudo Gorirakun",
+     "description": "Casual restaurant in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38005840/",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/casual/",
      "category": "Casual"
@@ -6428,6 +6863,7 @@
     {
      "name": "白石食堂",
      "name_en": "Shiroishi Shokudo",
+     "description": "Casual restaurant in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38003284/",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/casual/",
      "category": "Casual"
@@ -6435,6 +6871,7 @@
     {
      "name": "食造り 拓味",
      "name_en": "Shoku Tsukuri Taku Aji",
+     "description": "Izakaya or bar in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38001086/",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -6442,6 +6879,7 @@
     {
      "name": "くいもんや３０５",
      "name_en": "Kuimonya 305",
+     "description": "Izakaya or bar in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38001114/",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -6449,6 +6887,7 @@
     {
      "name": "ちゃんぽん亭 イーグル",
      "name_en": "Champon-tei Eagle",
+     "description": "Noodle restaurant in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38001292/",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -6456,6 +6895,7 @@
     {
      "name": "ロンドン",
      "name_en": "London",
+     "description": "Noodle restaurant in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38001147/",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -6463,6 +6903,7 @@
     {
      "name": "丸山ちゃんぽん",
      "name_en": "Maruyama Chanpon",
+     "description": "Noodle restaurant in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38001149/",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -6470,6 +6911,7 @@
     {
      "name": "清家食堂",
      "name_en": "Kiyoshi-ya Shokudo",
+     "description": "Noodle restaurant in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38005148/",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -6477,6 +6919,7 @@
     {
      "name": "めん処 矢磨樹 保内店",
      "name_en": "Mendokoro Yamaki Honai Branch",
+     "description": "Noodle restaurant in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38001385/",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -6484,6 +6927,7 @@
     {
      "name": "平家谷そうめん流し",
      "name_en": "Taira-ya Tani Somen Nagashi",
+     "description": "Noodle restaurant in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38004625/",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -6491,6 +6935,7 @@
     {
      "name": "千鳥の荘 風の樹",
      "name_en": "Chidori no-so Kaze no Ki",
+     "description": "Restaurant in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38008321/",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/other/",
      "category": "Other"
@@ -6498,6 +6943,7 @@
     {
      "name": "アゴラマルシェ",
      "name_en": "Agora Marche",
+     "description": "Seafood restaurant in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38009539/",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -6505,6 +6951,7 @@
     {
      "name": "海乃幸 騎虎",
      "name_en": "Umi no Sachi Kiko",
+     "description": "Seafood restaurant in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38016118/",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -6512,6 +6959,7 @@
     {
      "name": "パンメゾン 八幡浜店",
      "name_en": "Pain Maison Yawatahama",
+     "description": "Sweets and bakery shop in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38010947/",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -6519,6 +6967,7 @@
     {
      "name": "あわしま堂",
      "name_en": "Awashima Do",
+     "description": "Sweets and bakery shop in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38006378/",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -6526,6 +6975,7 @@
     {
      "name": "菓工房 後藤",
      "name_en": "Ka Kobo Goto",
+     "description": "Sweets and bakery shop in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38001195/",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -6533,6 +6983,7 @@
     {
      "name": "石窯パン工房",
      "name_en": "Ishigama Bread Kobo",
+     "description": "Sweets and bakery shop in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38009576/",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -6540,6 +6991,7 @@
     {
      "name": "宮川菓子舗",
      "name_en": "Miyagawa Kashiho",
+     "description": "Sweets and bakery shop in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38001519/",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"

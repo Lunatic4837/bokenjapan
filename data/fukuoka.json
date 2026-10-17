@@ -22,7 +22,7 @@
     "lat": 33.616658,
     "lon": 130.870826
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "activities": [
     {
      "name": "Genji no Mori Nature Study Village (Genji no Mori Onsen)",
@@ -244,7 +244,7 @@
    "stays": [
     {
      "name": "源じいの森",
-     "name_en": "Genjī no Mori",
+     "name_en": "Genji no Mori",
      "description": "Lodging in Aka, Fukuoka.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/141907/141907.html",
      "page": "https://bokenjapan.com/fukuoka/akamura/stay/"
@@ -270,7 +270,7 @@
     "lat": 33.423451,
     "lon": 130.665514
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Roadside Station Hara Tsuru Farm Suteshombasaro",
@@ -633,7 +633,7 @@
     },
     {
      "name": "ホテルパーレンス小野屋 花かご",
-     "name_en": "Hotel Parensu Ono Ya Hana Kago",
+     "name_en": "Hotel Parens Onoya Hanakago",
      "description": "Cafe, 1,984 m from Ukiha Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40024923/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/cafe/",
@@ -721,7 +721,7 @@
     },
     {
      "name": "野都里",
-     "name_en": "No Miyako Sato",
+     "name_en": "Nozato",
      "description": "Traditional coffee shop (kissaten).",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40029091/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/cafe/",
@@ -817,7 +817,7 @@
     },
     {
      "name": "木木の葉 雑器店",
-     "name_en": "Kigi no Ha Zakki Branch",
+     "name_en": "Kiginoha Zakkiten",
      "description": "Cafe, open 12:00–17:00.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40031547/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/cafe/",
@@ -1041,7 +1041,7 @@
     },
     {
      "name": "麺や天吉",
-     "name_en": "Men Ya Ten Kichi",
+     "name_en": "Menya Tenkichi",
      "description": "Diner; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40050385/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/casual/",
@@ -1065,7 +1065,7 @@
     },
     {
      "name": "家食屋満吉",
-     "name_en": "Ie Shoku Ya Mankichi",
+     "name_en": "Ieshokuya Mankichi",
      "description": "Restaurant, 2,184 m from Chikugo-Oishi Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40039948/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/casual/",
@@ -1409,7 +1409,7 @@
     },
     {
      "name": "CoCo壱番屋 甘木インター店",
-     "name_en": "Coco Ichiban Ya Amagi Inter Branch",
+     "name_en": "CoCo Ichibanya Amagi Interchange Branch",
      "description": "Curry restaurant; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40026169/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/curry/",
@@ -1417,7 +1417,7 @@
     },
     {
      "name": "美奈宜の舞 お食事処",
-     "name_en": "Mina Gi no Mai O Shokuji Dokoro",
+     "name_en": "Minagi no Mai Oshokujidokoro",
      "description": "Restaurant; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40073099/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/curry/",
@@ -1529,7 +1529,7 @@
     },
     {
      "name": "ピザ屋 かのん",
-     "name_en": "Pizza Ya Kanon",
+     "name_en": "Pizzaya Kanon",
      "description": "Pizza restaurant; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40053565/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/european/",
@@ -1633,7 +1633,7 @@
     },
     {
      "name": "お好み酒蔵 本店",
-     "name_en": "O Konomi Shuzo Main Branch",
+     "name_en": "Okonomi Sakagura Main Store",
      "description": "Izakaya, near Amagi Station; open 17:00–22:00.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40014194/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/izakaya-bars/",
@@ -1745,7 +1745,7 @@
     },
     {
      "name": "居心地屋こころ",
-     "name_en": "Igokochi Ya Kokoro",
+     "name_en": "Igokochiya Kokoro",
      "description": "Izakaya; dinner ¥3,000–3,999; near Amagi Station; open 18:00–23:00.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40043662/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/izakaya-bars/",
@@ -1769,7 +1769,7 @@
     },
     {
      "name": "竹乃屋 甘木駅前店",
-     "name_en": "Take no Ya Amagi Ekimae Branch",
+     "name_en": "Takenoya Amagi Ekimae Branch",
      "description": "Izakaya; dinner ¥2,000–2,999; near Amagi Station; open 17:00–23:00.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40063581/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/izakaya-bars/",
@@ -1841,7 +1841,7 @@
     },
     {
      "name": "お食事処かりゆし",
-     "name_en": "O Shokuji Dokoro Kariyushi",
+     "name_en": "Oshokujidokoro Kariyushi",
      "description": "Izakaya, 2,200 m from Ukiha Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40014202/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/izakaya-bars/",
@@ -1945,7 +1945,7 @@
     },
     {
      "name": "空に咲く",
-     "name_en": "Sora Ni Saku",
+     "name_en": "Sora ni Saku",
      "description": "Izakaya, 1,991 m from Ukiha Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40071824/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/izakaya-bars/",
@@ -2033,7 +2033,7 @@
     },
     {
      "name": "Wa Dan Dan",
-     "name_en": "Wa Dan Dan",
+     "name_en": "Wadan Dan",
      "description": "Izakaya in Tsutsumi.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1022387-d9891122-Reviews-Wa_Dan_Dan-Asakura_Fukuoka_Prefecture_Kyushu.html",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/izakaya-bars/",
@@ -2225,7 +2225,7 @@
     },
     {
      "name": "お好み酒蔵 種",
-     "name_en": "O Konomi Shuzo Tane",
+     "name_en": "Okonomi Sakagura Tane",
      "description": "Offal (horumon) grill; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40058701/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/meat/",
@@ -2329,7 +2329,7 @@
     },
     {
      "name": "御蕎麦 ちきた",
-     "name_en": "O Soba Chikita",
+     "name_en": "Osoba Chikita",
      "description": "Soba restaurant; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40000052/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/noodles/",
@@ -2433,7 +2433,7 @@
     },
     {
      "name": "うどん屋 とき",
-     "name_en": "Udon Ya Toki",
+     "name_en": "Udonya Toki",
      "description": "Udon restaurant; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40057675/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/noodles/",
@@ -2441,7 +2441,7 @@
     },
     {
      "name": "うどん屋翔",
-     "name_en": "Udon Ya Sho",
+     "name_en": "Udonya Sho",
      "description": "Udon restaurant, 2,200 m from Ukiha Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40040204/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/noodles/",
@@ -2457,7 +2457,7 @@
     },
     {
      "name": "小麦冶 甘木店",
-     "name_en": "Komugi Ya Amagi Branch",
+     "name_en": "Komugiya Amagi Branch",
      "description": "Soba restaurant, 1,155 m from Mada Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40011553/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/noodles/",
@@ -2489,7 +2489,7 @@
     },
     {
      "name": "おそば屋ひびき",
-     "name_en": "Osoba Ya Hibiki",
+     "name_en": "Osobaya Hibiki",
      "description": "Soba restaurant with parking, near Amagi Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40074050/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/noodles/",
@@ -2761,7 +2761,7 @@
     },
     {
      "name": "ファーマーズ・スタンド",
-     "name_en": "Fāmāzu Stand",
+     "name_en": "Farmers Stand",
      "description": "Restaurant, 3,943 m from Chikugo-Yoshii Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40057868/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/other/",
@@ -2881,7 +2881,7 @@
     },
     {
      "name": "ひので屋 甘木インター店",
-     "name_en": "Hinode Ya Amagi Inter Branch",
+     "name_en": "Hinodeya Amagi Interchange Branch",
      "description": "Restaurant, near Amagi Station; open 10:30–18:00.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40049820/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/other/",
@@ -2889,7 +2889,7 @@
     },
     {
      "name": "パーレンス小野屋 売店",
-     "name_en": "Paarensu Ono Ya Baiten",
+     "name_en": "Parens Onoya Baiten",
      "description": "Food spot, 2,000 m from Ukiha Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40049241/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/other/",
@@ -2985,7 +2985,7 @@
     },
     {
      "name": "日田屋食堂",
-     "name_en": "Hita Ya Shokudo",
+     "name_en": "Hitaya Shokudo",
      "description": "Restaurant, 2,900 m from Chikugo-Yoshii Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40015529/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/other/",
@@ -3433,7 +3433,7 @@
     },
     {
      "name": "お田屋",
-     "name_en": "O Taya",
+     "name_en": "Otaya",
      "description": "Oden restaurant.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40035623/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/other-japanese/",
@@ -4225,7 +4225,7 @@
     },
     {
      "name": "フル・ベジ・ベーカーズ",
-     "name_en": "Full Beji Bēkāzu",
+     "name_en": "Full Veggie Bakers",
      "description": "Bakery, 3,946 m from Chikugo-Yoshii Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40033027/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/sweets-bakeries/",
@@ -4241,7 +4241,7 @@
     },
     {
      "name": "お菓子の四季",
-     "name_en": "O Kashi no Shiki",
+     "name_en": "Okashi no Shiki",
      "description": "Western-style sweets shop.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40044937/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/sweets-bakeries/",
@@ -4353,7 +4353,7 @@
     },
     {
      "name": "御菓子司亀屋",
-     "name_en": "O Kashi Tsukasa Kameya",
+     "name_en": "Okashitsukasa Kameya",
      "description": "Japanese sweets (wagashi) shop with parking, near Amagi Station; takeout.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40029098/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/sweets-bakeries/",
@@ -4449,7 +4449,7 @@
     },
     {
      "name": "千鳥屋 甘木店",
-     "name_en": "Chidori Ya Amagi Branch",
+     "name_en": "Chidoriya Amagi Branch",
      "description": "Japanese sweets (wagashi) shop with parking, near Amagi Station; open 09:00–19:00.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40056592/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/sweets-bakeries/",
@@ -4521,7 +4521,7 @@
     },
     {
      "name": "千鳥屋本家 甘木店",
-     "name_en": "Chidori Ya Honke Amagi Branch",
+     "name_en": "Chidoriya Honke Amagi Branch",
      "description": "Japanese sweets (wagashi) shop; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40065609/",
      "page": "https://bokenjapan.com/fukuoka/asakura/eat/sweets-bakeries/",
@@ -4793,7 +4793,7 @@
     "lat": 33.893733,
     "lon": 130.663893
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "O Uonao Bai Tokoro Toto Market",
@@ -5082,7 +5082,7 @@
     },
     {
      "name": "肉の山田屋 とと市場店",
-     "name_en": "Niku no Yamada Ya Toto Shijo Branch",
+     "name_en": "Niku no Yamadaya Toto Ichiba Branch",
      "description": "Deli with parking, open 09:00–18:00.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40049346/",
      "page": "https://bokenjapan.com/fukuoka/ashiyacho/eat/casual/",
@@ -5146,7 +5146,7 @@
     },
     {
      "name": "お好み焼き かつ",
-     "name_en": "O Konomi Yaki Katsu",
+     "name_en": "Okonomiyaki Katsu",
      "description": "Okonomiyaki restaurant; dinner ¥2,000–2,999.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40043774/",
      "page": "https://bokenjapan.com/fukuoka/ashiyacho/eat/casual/",
@@ -5162,7 +5162,7 @@
     },
     {
      "name": "ありがた屋 芦屋店",
-     "name_en": "Arigata Ya Ashiya Branch",
+     "name_en": "Arigataya Ashiya Branch",
      "description": "Bento shop, 3,491 m from Ongagawa Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40043781/",
      "page": "https://bokenjapan.com/fukuoka/ashiyacho/eat/casual/",
@@ -5450,7 +5450,7 @@
     },
     {
      "name": "夜屋 ゆうとく",
-     "name_en": "Yoru Ya Yutoku",
+     "name_en": "Yoruya Yutoku",
      "description": "Izakaya; dinner ¥2,000–2,999.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40043289/",
      "page": "https://bokenjapan.com/fukuoka/ashiyacho/eat/izakaya-bars/",
@@ -5794,7 +5794,7 @@
     },
     {
      "name": "お魚直売所 とと市場",
-     "name_en": "O Uonao Bai Tokoro Toto Shijo",
+     "name_en": "Osakana Chokubaijo Toto Ichiba",
      "description": "Food spot; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40006394/",
      "page": "https://bokenjapan.com/fukuoka/ashiyacho/eat/other/",
@@ -6242,7 +6242,7 @@
     },
     {
      "name": "火の茶房 ほうじ屋 遠賀店",
-     "name_en": "Hi no Sabo Hoji Ya Onga Branch",
+     "name_en": "Hi no Sabo Hojiya Onga Branch",
      "description": "Tea stand; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40054909/",
      "page": "https://bokenjapan.com/fukuoka/ashiyacho/eat/sweets-bakeries/",
@@ -6426,7 +6426,7 @@
     "lat": 33.611524,
     "lon": 131.130276
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Buzen Fureai Market",
@@ -6747,7 +6747,7 @@
     },
     {
      "name": "お好み焼やきはな",
-     "name_en": "O Konomi Yaki Yakihana",
+     "name_en": "Okonomiyaki Yakihana",
      "description": "Okonomiyaki restaurant, 1,100 m from Unoshima Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400602/40014176/",
      "page": "https://bokenjapan.com/fukuoka/buzen/eat/casual/",
@@ -6755,7 +6755,7 @@
     },
     {
      "name": "お好み焼き あき",
-     "name_en": "O Konomi Yaki Aki",
+     "name_en": "Okonomiyaki Aki",
      "description": "Okonomiyaki restaurant, 322 m from Unoshima Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400602/40037842/",
      "page": "https://bokenjapan.com/fukuoka/buzen/eat/casual/",
@@ -6979,7 +6979,7 @@
     },
     {
      "name": "なじみ屋 支店",
-     "name_en": "Najimi Ya Shiten",
+     "name_en": "Najimiya Shiten",
      "description": "Yakiniku (grilled meat) restaurant, 224 m from Unoshima Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400602/40018304/",
      "page": "https://bokenjapan.com/fukuoka/buzen/eat/meat/",
@@ -7115,7 +7115,7 @@
     },
     {
      "name": "うどん豊前屋 官べえ",
-     "name_en": "Udon Buzen Ya Kan Bee",
+     "name_en": "Udon Buzenya Kanbee",
      "description": "Udon restaurant, 2,300 m from Unoshima Station; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400602/40019233/",
      "page": "https://bokenjapan.com/fukuoka/buzen/eat/noodles/",
@@ -8066,7 +8066,7 @@
     "lat": 33.2123596,
     "lon": 130.5019429
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Kaku Farm",
@@ -8421,7 +8421,7 @@
     },
     {
      "name": "広島お好み焼き おこまる",
-     "name_en": "Hiroshima O Konomi Yaki Okomaru",
+     "name_en": "Hiroshima Okonomiyaki Okomaru",
      "description": "Okonomiyaki restaurant, 1,500 m from Nishimuta Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40066222/",
      "page": "https://bokenjapan.com/fukuoka/chikugo/eat/casual/",
@@ -8717,7 +8717,7 @@
     },
     {
      "name": "CoCo壱番屋 筑後山ノ井店",
-     "name_en": "Coco Ichiban Ya Chikugo Yama no I Branch",
+     "name_en": "CoCo Ichibanya Chikugo Yamanoi Branch",
      "description": "Curry restaurant, 614 m from Hainuzuka Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40026173/",
      "page": "https://bokenjapan.com/fukuoka/chikugo/eat/curry/",
@@ -8829,7 +8829,7 @@
     },
     {
      "name": "お多福",
-     "name_en": "O Tafuku",
+     "name_en": "Otafuku",
      "description": "Restaurant, 343 m from Hainuzuka Station; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40012896/",
      "page": "https://bokenjapan.com/fukuoka/chikugo/eat/izakaya-bars/",
@@ -8909,7 +8909,7 @@
     },
     {
      "name": "房飲房食 にぎやか 筑後店",
-     "name_en": "Bo In Bo Shoku Nigiyaka Chikugo Branch",
+     "name_en": "Boin Boshoku Nigiyaka Chikugo Branch",
      "description": "Izakaya, 5-minute walk from Hainuzuka Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40019798/",
      "page": "https://bokenjapan.com/fukuoka/chikugo/eat/izakaya-bars/",
@@ -9125,7 +9125,7 @@
     },
     {
      "name": "お多福パートⅡ",
-     "name_en": "O Tafuku Part Ii",
+     "name_en": "Otafuku Part II",
      "description": "Izakaya, 320 m from Hainuzuka Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40022153/",
      "page": "https://bokenjapan.com/fukuoka/chikugo/eat/izakaya-bars/",
@@ -9437,7 +9437,7 @@
     },
     {
      "name": "とり屋 筑後店",
-     "name_en": "Tori Ya Chikugo Branch",
+     "name_en": "Toriya Chikugo Branch",
      "description": "Yakitori restaurant, 352 m from Hainuzuka Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40071213/",
      "page": "https://bokenjapan.com/fukuoka/chikugo/eat/meat/",
@@ -9517,7 +9517,7 @@
     },
     {
      "name": "麺屋 八感",
-     "name_en": "Men Ya Hachi Kan",
+     "name_en": "Menya Hakkan",
      "description": "Ramen shop, 8-minute walk from Hainuzuka Station; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40039457/",
      "page": "https://bokenjapan.com/fukuoka/chikugo/eat/noodles/",
@@ -9525,7 +9525,7 @@
     },
     {
      "name": "麺房てうち庵 筑後店",
-     "name_en": "Men Bo Teuchi Iori Chikugo Branch",
+     "name_en": "Menbo Teuchian Chikugo Branch",
      "description": "Udon restaurant, 2,100 m from Hainuzuka Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40018044/",
      "page": "https://bokenjapan.com/fukuoka/chikugo/eat/noodles/",
@@ -9533,7 +9533,7 @@
     },
     {
      "name": "麺楽",
-     "name_en": "Men Raku",
+     "name_en": "Menraku",
      "description": "Udon restaurant, 2,000 m from Hainuzuka Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40010163/",
      "page": "https://bokenjapan.com/fukuoka/chikugo/eat/noodles/",
@@ -9629,7 +9629,7 @@
     },
     {
      "name": "笑麺一慶",
-     "name_en": "Warai Men Ikkei",
+     "name_en": "Waraimen Ikkei",
      "description": "Ramen shop, 1,500 m from Hainuzuka Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40069701/",
      "page": "https://bokenjapan.com/fukuoka/chikugo/eat/noodles/",
@@ -9645,7 +9645,7 @@
     },
     {
      "name": "めん処 龍の群れ",
-     "name_en": "Men Dokoro Ryu no Mure",
+     "name_en": "Mendokoro Ryu no Mure",
      "description": "Ramen shop, 1,900 m from Hainuzuka Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40068063/",
      "page": "https://bokenjapan.com/fukuoka/chikugo/eat/noodles/",
@@ -9701,7 +9701,7 @@
     },
     {
      "name": "麺処あさひや",
-     "name_en": "Men Dokoro Asahiya",
+     "name_en": "Mendokoro Asahiya",
      "description": "Ramen shop, 2,300 m from Hainuzuka Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40035920/",
      "page": "https://bokenjapan.com/fukuoka/chikugo/eat/noodles/",
@@ -9733,7 +9733,7 @@
     },
     {
      "name": "陣弥地鶏お狩場焼",
-     "name_en": "Jin Ya Jidori O Kariba Yaki",
+     "name_en": "Jinya Jidori Okariba-yaki",
      "description": "Restaurant, 1,937 m from Hainuzuka Station; dinner ¥2,000–2,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40013911/",
      "page": "https://bokenjapan.com/fukuoka/chikugo/eat/other/",
@@ -10125,7 +10125,7 @@
     },
     {
      "name": "野歩ほん",
-     "name_en": "No Ho Hon",
+     "name_en": "Nohohon",
      "description": "Creative-cuisine restaurant, 2,312 m from Omizo Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400806/40035823/",
      "page": "https://bokenjapan.com/fukuoka/chikugo/eat/other-japanese/",
@@ -10141,7 +10141,7 @@
     },
     {
      "name": "和処 ふじ村",
-     "name_en": "Wa Dokoro Fuji Mura",
+     "name_en": "Wadokoro Fujimura",
      "description": "Japanese restaurant, 15-minute walk from Nishimuta Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40063414/",
      "page": "https://bokenjapan.com/fukuoka/chikugo/eat/other-japanese/",
@@ -10669,7 +10669,7 @@
     },
     {
      "name": "パティスリー サロン・ド・テ・ミナミ",
-     "name_en": "Patisserie Salon Do Te Minami",
+     "name_en": "Patisserie Salon de The Minami",
      "description": "Cake shop, 1,905 m from Hainuzuka Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40061324/",
      "page": "https://bokenjapan.com/fukuoka/chikugo/eat/sweets-bakeries/",
@@ -10701,7 +10701,7 @@
     },
     {
      "name": "ぶどう畑のケーキ屋さん",
-     "name_en": "Budo Hatake no Cake Ya San",
+     "name_en": "Budobatake no Cakeya-san",
      "description": "Cake shop, 2,000 m from Nishimuta Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40035409/",
      "page": "https://bokenjapan.com/fukuoka/chikugo/eat/sweets-bakeries/",
@@ -10837,7 +10837,7 @@
     },
     {
      "name": "小さな幸せお菓子 yucco",
-     "name_en": "Chiisa Na Shiawase O Kashi Yucco",
+     "name_en": "Chiisana Shiawase Okashi yucco",
      "description": "Western-style sweets shop, 1,958 m from Hainuzuka Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40073588/",
      "page": "https://bokenjapan.com/fukuoka/chikugo/eat/sweets-bakeries/",
@@ -10987,7 +10987,7 @@
     "lat": 33.6563785,
     "lon": 131.0559802
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Shiida Agri Park (Farm Park)",
@@ -11091,7 +11091,7 @@
     },
     {
      "name": "お好み焼き まるくる",
-     "name_en": "O Konomi Yaki Marukuru",
+     "name_en": "Okonomiyaki Marukuru",
      "description": "Okonomiyaki restaurant, 7-minute walk from Shiida Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400602/40046262/",
      "page": "https://bokenjapan.com/fukuoka/chikujo/eat/casual/",
@@ -11115,7 +11115,7 @@
     },
     {
      "name": "旬菜房あぐり",
-     "name_en": "Jun Na Bo Aguri",
+     "name_en": "Junsai-bo Aguri",
      "description": "Diner, 2,268 m from Tsuiki Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400602/40062786/",
      "page": "https://bokenjapan.com/fukuoka/chikujo/eat/casual/",
@@ -11139,7 +11139,7 @@
     },
     {
      "name": "お好み焼みっちやん",
-     "name_en": "O Konomi Yaki Mitchiyan",
+     "name_en": "Okonomiyaki Mitchiyan",
      "description": "Okonomiyaki restaurant, 1,300 m from Tsuiki Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400602/40022787/",
      "page": "https://bokenjapan.com/fukuoka/chikujo/eat/casual/",
@@ -11331,7 +11331,7 @@
     },
     {
      "name": "お食事処 龍馬",
-     "name_en": "O Shokuji Dokoro Ryoma",
+     "name_en": "Oshokujidokoro Ryoma",
      "description": "Ramen shop, 250 m from Tsuiki Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400602/40025910/",
      "page": "https://bokenjapan.com/fukuoka/chikujo/eat/noodles/",
@@ -11683,7 +11683,7 @@
     },
     {
      "name": "御菓子司 鹿の子",
-     "name_en": "O Kashi Tsukasa Shika no Ko",
+     "name_en": "Okashitsukasa Kanoko",
      "description": "Japanese sweets (wagashi) shop, 144 m from Shiida Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400602/40031050/",
      "page": "https://bokenjapan.com/fukuoka/chikujo/eat/sweets-bakeries/",
@@ -11691,7 +11691,7 @@
     },
     {
      "name": "本庄のパン屋さん じゅあん",
-     "name_en": "Honjo no Pan Ya San Juan",
+     "name_en": "Honjo no Panya-san Juan",
      "description": "Bakery with parking, near Tsuiki Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400602/40040943/",
      "page": "https://bokenjapan.com/fukuoka/chikujo/eat/sweets-bakeries/",
@@ -11863,7 +11863,7 @@
     "lat": 33.4874205,
     "lon": 130.526035
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "ファミリーマート 筑紫野桜台店",
@@ -12014,7 +12014,7 @@
     },
     {
      "name": "ル・ドゥ・マルシェ",
-     "name_en": "Ru Do Marché",
+     "name_en": "Le Deux Marche",
      "description": "French restaurant, 4-minute walk from Futsukaichi Station; dinner ¥4,000–4,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40061698/",
      "page": "https://bokenjapan.com/fukuoka/chikushino/eat/european/",
@@ -12054,7 +12054,7 @@
     },
     {
      "name": "や台ずし 西鉄二日市駅前町",
-     "name_en": "Ya Dai Zushi Nishitetsu Futsukaichi Ekimae Machi",
+     "name_en": "Yataizushi Nishitetsu-Futsukaichi-ekimae-machi",
      "description": "Izakaya, 68 m from Nishitetsu Futsukaichi Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40064765/",
      "page": "https://bokenjapan.com/fukuoka/chikushino/eat/izakaya-bars/",
@@ -12326,7 +12326,7 @@
     },
     {
      "name": "麺屋 八商店",
-     "name_en": "Men Ya Hachi Shoten",
+     "name_en": "Menya Hachi Shoten",
      "description": "Ramen shop, 848 m from Haruda Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40074539/",
      "page": "https://bokenjapan.com/fukuoka/chikushino/eat/noodles/",
@@ -12625,7 +12625,7 @@
     "lat": 33.457057,
     "lon": 130.595158
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Onizukabaioshisutemu Chikuzen Chokubai Mise",
@@ -12804,7 +12804,7 @@
      "category": "Cafe"
     },
     {
-     "name": "NiSHiYOR! cafē",
+     "name": "NiSHiYOR! cafe",
      "name_en": "NiSHiYOR caf",
      "description": "Cafe, 2,804 m from Yamaguma Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40069548/",
@@ -13165,7 +13165,7 @@
     },
     {
      "name": "モンテ・パラティーノ",
-     "name_en": "Monte Parateīno",
+     "name_en": "Monte Palatino",
      "description": "Italian restaurant, 1,530 m from Takata Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40003194/",
      "page": "https://bokenjapan.com/fukuoka/chikuzen/eat/european/",
@@ -13189,7 +13189,7 @@
     },
     {
      "name": "アージュ・アージュ",
-     "name_en": "Āju Āju",
+     "name_en": "Aju Aju",
      "description": "French restaurant, 433 m from Tachiarai Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40042469/",
      "page": "https://bokenjapan.com/fukuoka/chikuzen/eat/european/",
@@ -13277,7 +13277,7 @@
     },
     {
      "name": "お食事処 隠れ家",
-     "name_en": "O Shokuji Dokoro Kakureya",
+     "name_en": "Oshokujidokoro Kakureya",
      "description": "Izakaya, 2,900 m from Tsuko Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40052193/",
      "page": "https://bokenjapan.com/fukuoka/chikuzen/eat/izakaya-bars/",
@@ -13389,7 +13389,7 @@
     },
     {
      "name": "からあげ屋 帰蝶",
-     "name_en": "Karaage Ya Kicho",
+     "name_en": "Karaageya Kicho",
      "description": "Fried-chicken (karaage) shop, 1,129 m from Chikushi Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40049037/",
      "page": "https://bokenjapan.com/fukuoka/chikuzen/eat/meat/",
@@ -13453,7 +13453,7 @@
     },
     {
      "name": "雀のお宿 三輪店",
-     "name_en": "Suzume No Yado Miwa Branch",
+     "name_en": "Suzume no Oyado Miwa Branch",
      "description": "Yakitori restaurant, 3,845 m from Yamaguma Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40011169/",
      "page": "https://bokenjapan.com/fukuoka/chikuzen/eat/meat/",
@@ -13501,7 +13501,7 @@
     },
     {
      "name": "うどん屋 秋月",
-     "name_en": "Udon Ya Akizuki",
+     "name_en": "Udonya Akizuki",
      "description": "Udon restaurant, 1,900 m from Chikuzen-Yamae Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40049050/",
      "page": "https://bokenjapan.com/fukuoka/chikuzen/eat/noodles/",
@@ -13565,7 +13565,7 @@
     },
     {
      "name": "めん倶楽部 さくら みなみの里店",
-     "name_en": "Men Kurabu Sakura Minamino Sato Branch",
+     "name_en": "Men-Kurabu Sakura Minaminosato Branch",
      "description": "Noodle restaurant; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40024696/",
      "page": "https://bokenjapan.com/fukuoka/chikuzen/eat/noodles/",
@@ -13573,7 +13573,7 @@
     },
     {
      "name": "麺屋旺士",
-     "name_en": "Men Ya O Samurai",
+     "name_en": "Menya Oshi",
      "description": "Ramen shop; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40071682/",
      "page": "https://bokenjapan.com/fukuoka/chikuzen/eat/noodles/",
@@ -13589,7 +13589,7 @@
     },
     {
      "name": "めん倶楽部 さくら",
-     "name_en": "Men Kurabu Sakura",
+     "name_en": "Men-Kurabu Sakura",
      "description": "Noodle restaurant; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40023807/",
      "page": "https://bokenjapan.com/fukuoka/chikuzen/eat/noodles/",
@@ -13613,7 +13613,7 @@
     },
     {
      "name": "お食事処 えん",
-     "name_en": "O Shokuji Dokoro En",
+     "name_en": "Oshokujidokoro En",
      "description": "Udon restaurant, 1,800 m from Mikunigaoka Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40042914/",
      "page": "https://bokenjapan.com/fukuoka/chikuzen/eat/noodles/",
@@ -13973,7 +13973,7 @@
     },
     {
      "name": "串揚げ屋こころ",
-     "name_en": "Kushi Age Ya Kokoro",
+     "name_en": "Kushiageya Kokoro",
      "description": "Kushiage restaurant, 3,700 m from Tachiarai Station; dinner ¥5,000–5,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40068055/",
      "page": "https://bokenjapan.com/fukuoka/chikuzen/eat/other-japanese/",
@@ -14325,7 +14325,7 @@
     },
     {
      "name": "もなか屋 たねよし",
-     "name_en": "Monaka Ya Taneyoshi",
+     "name_en": "Monakaya Taneyoshi",
      "description": "Japanese sweets (wagashi) shop, 1,050 m from Chikuzen-Yamae Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40059533/",
      "page": "https://bokenjapan.com/fukuoka/chikuzen/eat/sweets-bakeries/",
@@ -14556,7 +14556,7 @@
     "lat": 33.5128167,
     "lon": 130.5239528
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "セブンイレブン 太宰府都府楼前駅店",
@@ -14996,7 +14996,7 @@
     },
     {
      "name": "太宰府 いい乃じ",
-     "name_en": "Dazaifu Ī no Ji",
+     "name_en": "Dazaifu Iinoji",
      "description": "Japanese restaurant, 10-minute walk from Dazaifu Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40065990/",
      "page": "https://bokenjapan.com/fukuoka/dazaifu/eat/other-japanese/",
@@ -15124,7 +15124,7 @@
     },
     {
      "name": "茶房 ぎゃらりー かさの家",
-     "name_en": "Sabo Gyararī Kasano Ie",
+     "name_en": "Sabo Gallery Kasanoya",
      "description": "Japanese sweets cafe, 4-minute walk from Dazaifu Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40001708/",
      "page": "https://bokenjapan.com/fukuoka/dazaifu/eat/sweets-bakeries/",
@@ -15148,7 +15148,7 @@
     },
     {
      "name": "お石茶屋",
-     "name_en": "O Ishi Chaya",
+     "name_en": "Oishi Chaya",
      "description": "Japanese sweets cafe, 12-minute walk from Dazaifu Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40003617/",
      "page": "https://bokenjapan.com/fukuoka/dazaifu/eat/sweets-bakeries/",
@@ -15341,7 +15341,7 @@
     "lat": 33.6831962,
     "lon": 130.7801886
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Bussan Kan Shu Go",
@@ -15499,7 +15499,7 @@
     },
     {
      "name": "お好み焼きビッグヒップ",
-     "name_en": "O Konomi Yaki Big Hips",
+     "name_en": "Okonomiyaki Big Hip",
      "description": "Okonomiyaki restaurant, 195 m from Kanada Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40014162/",
      "page": "https://bokenjapan.com/fukuoka/fukuchi/eat/casual/",
@@ -15603,7 +15603,7 @@
     },
     {
      "name": "お食事処 花みずき",
-     "name_en": "O Shokuji Dokoro Hana Mizuki",
+     "name_en": "Oshokujidokoro Hanamizuki",
      "description": "Izakaya, 1,100 m from Ichiba Station; dinner ¥2,000–2,999.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40051880/",
      "page": "https://bokenjapan.com/fukuoka/fukuchi/eat/izakaya-bars/",
@@ -15715,7 +15715,7 @@
     },
     {
      "name": "そば屋 こだるま",
-     "name_en": "Soba Ya Kodaruma",
+     "name_en": "Sobaya Kodaruma",
      "description": "Soba restaurant, 3,400 m from Ichiba Station; lunch ¥2,000–2,999.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40069345/",
      "page": "https://bokenjapan.com/fukuoka/fukuchi/eat/noodles/",
@@ -16348,7 +16348,7 @@
     "lat": 33.5900692,
     "lon": 130.401398
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Yagihashi Rengo City Ba Kyodokumiai",
@@ -16528,7 +16528,7 @@
     },
     {
      "name": "カフェ オスピターレ",
-     "name_en": "Cafe Osupitāre",
+     "name_en": "Cafe Ospitale",
      "description": "Café; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4001/A400101/40040797/",
      "page": "https://bokenjapan.com/fukuoka/fukuoka/eat/cafe/",
@@ -19207,7 +19207,7 @@
     "lat": 33.7667694,
     "lon": 130.4913007
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Cheriiberu Tourist Farm Fukutsu",
@@ -19398,7 +19398,7 @@
     },
     {
      "name": "カフェ・ビーチ・コンバー",
-     "name_en": "Cafe Beach Konbā",
+     "name_en": "Cafe Beach Comber",
      "description": "Cafe, 1,700 m from Fukuma Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40043376/",
      "page": "https://bokenjapan.com/fukuoka/fukutsu/eat/cafe/",
@@ -19726,7 +19726,7 @@
     },
     {
      "name": "カフェ・カルディーノ",
-     "name_en": "Cafe Karudīno",
+     "name_en": "Cafe Cardino",
      "description": "Cafe, 257 m from Fukuma Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40016987/",
      "page": "https://bokenjapan.com/fukuoka/fukutsu/eat/cafe/",
@@ -19886,7 +19886,7 @@
     },
     {
      "name": "定食や まるよし",
-     "name_en": "Teishoku Ya Maruyoshi",
+     "name_en": "Teishokuya Maruyoshi",
      "description": "Diner, 1,100 m from Fukuma Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40057545/",
      "page": "https://bokenjapan.com/fukuoka/fukutsu/eat/casual/",
@@ -19902,7 +19902,7 @@
     },
     {
      "name": "結び屋 睛",
-     "name_en": "Musubi Ya Sei",
+     "name_en": "Musubiya Sei",
      "description": "Diner, 271 m from Fukuma Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40067466/",
      "page": "https://bokenjapan.com/fukuoka/fukutsu/eat/casual/",
@@ -19918,7 +19918,7 @@
     },
     {
      "name": "さち福や イオンモール福津店",
-     "name_en": "Sachi Fuku Ya Aeon Mall Fukutsu Branch",
+     "name_en": "Sachifukuya Aeon Mall Fukutsu Branch",
      "description": "Diner, 1,376 m from Fukuma Station; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40030619/",
      "page": "https://bokenjapan.com/fukuoka/fukutsu/eat/casual/",
@@ -20086,7 +20086,7 @@
     },
     {
      "name": "お好み焼き 一",
-     "name_en": "O Konomi Yaki Ichi",
+     "name_en": "Okonomiyaki Ichi",
      "description": "Okonomiyaki restaurant, 611 m from Fukuma Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40071436/",
      "page": "https://bokenjapan.com/fukuoka/fukutsu/eat/casual/",
@@ -20342,7 +20342,7 @@
     },
     {
      "name": "マル・マーレ",
-     "name_en": "Maru Māre",
+     "name_en": "Maru Mare",
      "description": "Italian restaurant, 1,789 m from Fukuma Station; dinner ¥5,000–5,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40035303/",
      "page": "https://bokenjapan.com/fukuoka/fukutsu/eat/european/",
@@ -20614,7 +20614,7 @@
     },
     {
      "name": "竹乃屋 福間駅前店",
-     "name_en": "Take no Ya Fukuma Ekimae Branch",
+     "name_en": "Takenoya Fukuma Ekimae Branch",
      "description": "Izakaya, 1-minute walk from Fukuma Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40038374/",
      "page": "https://bokenjapan.com/fukuoka/fukutsu/eat/izakaya-bars/",
@@ -20646,7 +20646,7 @@
     },
     {
      "name": "や台ずし 福間駅西口町",
-     "name_en": "Ya Dai Zushi Fukuma Eki Nishiguchi Machi",
+     "name_en": "Yataizushi Fukuma-eki Nishiguchi-machi",
      "description": "Izakaya, 327 m from Fukuma Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40053644/",
      "page": "https://bokenjapan.com/fukuoka/fukutsu/eat/izakaya-bars/",
@@ -20654,7 +20654,7 @@
     },
     {
      "name": "Hi×スタ",
-     "name_en": "Hi X Suta",
+     "name_en": "Hi x Suta",
      "description": "Izakaya, 424 m from Fukuma Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40071829/",
      "page": "https://bokenjapan.com/fukuoka/fukutsu/eat/izakaya-bars/",
@@ -20974,7 +20974,7 @@
     },
     {
      "name": "唐十 イオンモール福津店",
-     "name_en": "To Ju Aeon Mall Fukutsu Branch",
+     "name_en": "Toju Aeon Mall Fukutsu Branch",
      "description": "Fried-chicken (karaage) shop, 1,337 m from Fukuma Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40039639/",
      "page": "https://bokenjapan.com/fukuoka/fukutsu/eat/meat/",
@@ -21094,7 +21094,7 @@
     },
     {
      "name": "唐揚げお華",
-     "name_en": "Karaage O Hana",
+     "name_en": "Karaage Ohana",
      "description": "Fried-chicken (karaage) shop, 2,000 m from Fukuma Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40056081/",
      "page": "https://bokenjapan.com/fukuoka/fukutsu/eat/meat/",
@@ -21142,7 +21142,7 @@
     },
     {
      "name": "らー麺 味噌哲",
-     "name_en": "Raa Men Miso Satoshi",
+     "name_en": "Ramen Misotetsu",
      "description": "Ramen shop, 753 m from Fukuma Station; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40028710/",
      "page": "https://bokenjapan.com/fukuoka/fukutsu/eat/noodles/",
@@ -21206,7 +21206,7 @@
     },
     {
      "name": "めん勝 若木台店",
-     "name_en": "Men Kachi Wakagi Dai Branch",
+     "name_en": "Menkatsu Wakagidai Branch",
      "description": "Soba restaurant, 731 m from Higashi-Fukuma Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40011609/",
      "page": "https://bokenjapan.com/fukuoka/fukutsu/eat/noodles/",
@@ -21310,7 +21310,7 @@
     },
     {
      "name": "めん六や 福岡福津店",
-     "name_en": "Men Roku Ya Fukuoka Fukutsu Branch",
+     "name_en": "Menrokuya Fukuoka Fukutsu Branch",
      "description": "Udon restaurant, 1,100 m from Fukuma Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40047485/",
      "page": "https://bokenjapan.com/fukuoka/fukutsu/eat/noodles/",
@@ -21318,7 +21318,7 @@
     },
     {
      "name": "らー麺 かい華",
-     "name_en": "Raa Men Kai Hana",
+     "name_en": "Ramen Kaika",
      "description": "Ramen shop, 531 m from Fukuma Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40075207/",
      "page": "https://bokenjapan.com/fukuoka/fukutsu/eat/noodles/",
@@ -21358,7 +21358,7 @@
     },
     {
      "name": "ぢどり屋江藤",
-     "name_en": "Jidori Ya Eto",
+     "name_en": "Jidoriya Eto",
      "description": "Chicken restaurant, 10-minute walk from Fukuma Station; dinner ¥2,000–2,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40011789/",
      "page": "https://bokenjapan.com/fukuoka/fukutsu/eat/other/",
@@ -21382,7 +21382,7 @@
     },
     {
      "name": "あんず お肉の工場直売所 福津店",
-     "name_en": "Anzu O Niku no Kojo Chokubai Tokoro Fukutsu Branch",
+     "name_en": "Anzu Oniku no Kojo Chokubaijo Fukutsu Branch",
      "description": "Food spot, 1,100 m from Fukuma Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40045035/",
      "page": "https://bokenjapan.com/fukuoka/fukutsu/eat/other/",
@@ -22390,7 +22390,7 @@
     },
     {
      "name": "オ魚ソウル",
-     "name_en": "O Sakana Soul",
+     "name_en": "Osakana Soul",
      "description": "Seafood rice-bowl restaurant, 1,554 m from Fukuma Station; lunch ¥2,000–2,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40071962/",
      "page": "https://bokenjapan.com/fukuoka/fukutsu/eat/seafood/",
@@ -22478,7 +22478,7 @@
     },
     {
      "name": "お食事処うしお",
-     "name_en": "O Shokuji Dokoro Ushio",
+     "name_en": "Oshokujidokoro Ushio",
      "description": "Restaurant, 3,100 m from Fukuma Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40014198/",
      "page": "https://bokenjapan.com/fukuoka/fukutsu/eat/seafood/",
@@ -22646,7 +22646,7 @@
     },
     {
      "name": "人形屋食堂",
-     "name_en": "Ningyo Ya Shokudo",
+     "name_en": "Ningyoya Shokudo",
      "description": "Japanese sweets (wagashi) shop, 1,700 m from Fukuma Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40015321/",
      "page": "https://bokenjapan.com/fukuoka/fukutsu/eat/sweets-bakeries/",
@@ -22774,7 +22774,7 @@
     },
     {
      "name": "海のパン屋 バム",
-     "name_en": "Umi no Pan Ya Bamu",
+     "name_en": "Umi no Panya Bam",
      "description": "Bakery, 1,500 m from Fukuma Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40061015/",
      "page": "https://bokenjapan.com/fukuoka/fukutsu/eat/sweets-bakeries/",
@@ -23164,7 +23164,7 @@
     "lat": 33.241439,
     "lon": 130.551388
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Yuchan Farm",
@@ -23215,7 +23215,7 @@
    "food": [
     {
      "name": "茶の葉堂",
-     "name_en": "Cha no Ha Do",
+     "name_en": "Chanohado",
      "description": "Cafe with parking, near Nishitetsu Kurume Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400801/40045191/",
      "page": "https://bokenjapan.com/fukuoka/hirokawa/eat/cafe/",
@@ -23535,7 +23535,7 @@
     },
     {
      "name": "御食事処 才",
-     "name_en": "O Shokuji Dokoro Sai",
+     "name_en": "Oshokujidokoro Sai",
      "description": "Izakaya, 2,000 m from Nishimuta Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40069406/",
      "page": "https://bokenjapan.com/fukuoka/hirokawa/eat/izakaya-bars/",
@@ -23639,7 +23639,7 @@
     },
     {
      "name": "自家製ハンバーグ屋 安べえ",
-     "name_en": "Jikasei Hamburg Steak Ya An Bee",
+     "name_en": "Jikasei Hamburgya Yasubee",
      "description": "Hamburg-steak restaurant with parking, near Nishimuta Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40052543/",
      "page": "https://bokenjapan.com/fukuoka/hirokawa/eat/meat/",
@@ -23663,7 +23663,7 @@
     },
     {
      "name": "めん処 広川",
-     "name_en": "Men Dokoro Hirokawa",
+     "name_en": "Mendokoro Hirokawa",
      "description": "Udon restaurant, 3,500 m from Nishimuta Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40012779/",
      "page": "https://bokenjapan.com/fukuoka/hirokawa/eat/noodles/",
@@ -23671,7 +23671,7 @@
     },
     {
      "name": "人力 めん太郎",
-     "name_en": "Jinriki Men Taro",
+     "name_en": "Jinriki Mentaro",
      "description": "Udon restaurant, 4,000 m from Nishimuta Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40058886/",
      "page": "https://bokenjapan.com/fukuoka/hirokawa/eat/noodles/",
@@ -23759,7 +23759,7 @@
     },
     {
      "name": "めん屋 一重",
-     "name_en": "Men Ya Hitoe",
+     "name_en": "Menya Hitoe",
      "description": "Ramen shop; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40064129/",
      "page": "https://bokenjapan.com/fukuoka/hirokawa/eat/noodles/",
@@ -24215,7 +24215,7 @@
     },
     {
      "name": "お菓子工房ソレイユ 直売所",
-     "name_en": "O Kashi Kobo Soleil Chokubai Tokoro",
+     "name_en": "Okashi Kobo Soleil Chokubaijo",
      "description": "Sweets shop, 3,109 m from Nishimuta Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40070444/",
      "page": "https://bokenjapan.com/fukuoka/hirokawa/eat/sweets-bakeries/",
@@ -24239,7 +24239,7 @@
     },
     {
      "name": "お菓子工房 ソレイユ",
-     "name_en": "O Kashi Kobo Soleil",
+     "name_en": "Okashi Kobo Soleil",
      "description": "Western-style sweets shop.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40074790/",
      "page": "https://bokenjapan.com/fukuoka/hirokawa/eat/sweets-bakeries/",
@@ -24378,7 +24378,7 @@
     "lat": 33.646703,
     "lon": 130.500022
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "コストコ 久山倉庫店",
@@ -24577,7 +24577,7 @@
     },
     {
      "name": "豚屋食堂 トリアス久山店",
-     "name_en": "Buta Ya Shokudo Trias Hisayama Branch",
+     "name_en": "Butaya Shokudo Trias Hisayama Branch",
      "description": "Diner, 3,200 m from Doi Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40071215/",
      "page": "https://bokenjapan.com/fukuoka/hisayama/eat/casual/",
@@ -24929,7 +24929,7 @@
     },
     {
      "name": "お食事の店 小道",
-     "name_en": "O Shokuji no Shop Komichi",
+     "name_en": "Oshokuji no Mise Komichi",
      "description": "Champon noodle restaurant, 3,700 m from Kashii-Jingu Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40024683/",
      "page": "https://bokenjapan.com/fukuoka/hisayama/eat/noodles/",
@@ -24937,7 +24937,7 @@
     },
     {
      "name": "麺屋小戎",
-     "name_en": "Men Ya Sho Ju",
+     "name_en": "Menya Shoju",
      "description": "Ramen shop, 3,200 m from Doi Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40070427/",
      "page": "https://bokenjapan.com/fukuoka/hisayama/eat/noodles/",
@@ -25169,7 +25169,7 @@
     },
     {
      "name": "Kurume Ya Ramen",
-     "name_en": "Kurume Ya Ramen",
+     "name_en": "Kurumeya Ramen",
      "description": "Restaurant at 1702-14 Yamada.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1121472-d7483250-Reviews-Kurume_Ya_Ramen-Hisayama_machi_Kasuya_gun_Fukuoka_Prefecture_Kyushu.html",
      "page": "https://bokenjapan.com/fukuoka/hisayama/eat/other/",
@@ -25578,7 +25578,7 @@
     "lat": 33.6467202,
     "lon": 130.6910638
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "セブンイレブン 飯塚仁保店",
@@ -25774,7 +25774,7 @@
     },
     {
      "name": "や台ずし 飯塚バスターミナル町",
-     "name_en": "Ya Dai Zushi Izuka Bus Terminal Machi",
+     "name_en": "Yataizushi Iizuka Bus Terminal-machi",
      "description": "Izakaya, 12-minute walk from Shin-Iizuka Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400702/40055791/",
      "page": "https://bokenjapan.com/fukuoka/iizuka/eat/izakaya-bars/",
@@ -25910,7 +25910,7 @@
     },
     {
      "name": "コリアンハウス洪苑 穂波店",
-     "name_en": "Korean House Ko En Honami Branch",
+     "name_en": "Korean House Koen Honami Branch",
      "description": "Yakiniku (grilled meat) restaurant, 1,727 m from Iizuka Station; dinner ¥4,000–4,999.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400702/40004163/",
      "page": "https://bokenjapan.com/fukuoka/iizuka/eat/meat/",
@@ -26006,7 +26006,7 @@
     },
     {
      "name": "からあげ まんてん 下三緒店",
-     "name_en": "Karaage Manten Shita San O Branch",
+     "name_en": "Karaage Manten Shimomio Branch",
      "description": "Fried-chicken (karaage) shop, 1,465 m from Shin-Iizuka Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400702/40054112/",
      "page": "https://bokenjapan.com/fukuoka/iizuka/eat/meat/",
@@ -26038,7 +26038,7 @@
     },
     {
      "name": "駒や 飯塚店",
-     "name_en": "Koma Ya Iizuka Branch",
+     "name_en": "Komaya Iizuka Branch",
      "description": "Ramen shop, 2,184 m from Iizuka Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400702/40074341/",
      "page": "https://bokenjapan.com/fukuoka/iizuka/eat/noodles/",
@@ -26375,7 +26375,7 @@
     "lat": 33.652813,
     "lon": 130.779103
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Itoda Fureai City",
@@ -26710,7 +26710,7 @@
     "lat": 33.5572607,
     "lon": 130.1962073
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "セブンイレブン 二丈深江店",
@@ -26802,7 +26802,7 @@
     },
     {
      "name": "お菓子と暮らしの物 りた",
-     "name_en": "O Kashi To Kurashi no Mono Rita",
+     "name_en": "Okashi to Kurashi no Mono Rita",
      "description": "Cafe, 4-minute walk from Fukuyoshi Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4009/A400901/40070342/",
      "page": "https://bokenjapan.com/fukuoka/itoshima/eat/cafe/",
@@ -26970,7 +26970,7 @@
     },
     {
      "name": "屋台 名ヲ時ヲ",
-     "name_en": "Yatai Mei Wo Toki Wo",
+     "name_en": "Yatai Na o Toki o",
      "description": "Izakaya, 5-minute walk from Chikuzen-Maebaru Station; dinner ¥2,000–2,999.",
      "source_url": "https://tabelog.com/fukuoka/A4009/A400901/40067803/",
      "page": "https://bokenjapan.com/fukuoka/itoshima/eat/izakaya-bars/",
@@ -26978,7 +26978,7 @@
     },
     {
      "name": "和処 あかつき",
-     "name_en": "Wa Dokoro Akatsuki",
+     "name_en": "Wadokoro Akatsuki",
      "description": "Izakaya, 3-minute walk from Chikuzen-Maebaru Station; dinner ¥4,000–4,999.",
      "source_url": "https://tabelog.com/fukuoka/A4009/A400901/40072217/",
      "page": "https://bokenjapan.com/fukuoka/itoshima/eat/izakaya-bars/",
@@ -27066,7 +27066,7 @@
     },
     {
      "name": "博多とりかわ 鬼皮 芥屋店",
-     "name_en": "Hakata Torikawa Onigawa Kai Ya Branch",
+     "name_en": "Hakata Torikawa Onigawa Keya Branch",
      "description": "Yakitori restaurant; dinner ¥2,000–2,999.",
      "source_url": "https://tabelog.com/fukuoka/A4009/A400901/40074308/",
      "page": "https://bokenjapan.com/fukuoka/itoshima/eat/meat/",
@@ -27576,7 +27576,7 @@
     "lat": 33.563215,
     "lon": 130.711534
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "FamilyMart 嘉麻飯田店",
@@ -27891,7 +27891,7 @@
     },
     {
      "name": "山田のたこ焼き屋さん 山たこ",
-     "name_en": "Yamada Notako Yaki Ya San Yama Tako",
+     "name_en": "Yamada no Takoyakiya-san Yamatako",
      "description": "Takoyaki stand, near Shin-Iizuka Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400702/40070432/",
      "page": "https://bokenjapan.com/fukuoka/kama/eat/casual/",
@@ -28011,7 +28011,7 @@
     },
     {
      "name": "お弁当のたまご亭 稲築店",
-     "name_en": "O Bento Notamago Tei Inatsuki Branch",
+     "name_en": "Obento no Tamagotei Inatsuki Branch",
      "description": "Bento shop, 2,400 m from Shimo-Kamoo Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400702/40029946/",
      "page": "https://bokenjapan.com/fukuoka/kama/eat/casual/",
@@ -28027,7 +28027,7 @@
     },
     {
      "name": "お好み焼き 鉄板焼 ゲンちゃん",
-     "name_en": "O Konomi Yaki Teppanyaki Gene Chan",
+     "name_en": "Okonomiyaki Teppanyaki Gen-chan",
      "description": "Okonomiyaki restaurant, 1,100 m from Kami-Mio Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400702/40016476/",
      "page": "https://bokenjapan.com/fukuoka/kama/eat/casual/",
@@ -28043,7 +28043,7 @@
     },
     {
      "name": "お弁当のふくたん",
-     "name_en": "O Bento Nofukutan",
+     "name_en": "Obento no Fukutan",
      "description": "Bento shop, 2,400 m from Shimo-Kamoo Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400702/40051698/",
      "page": "https://bokenjapan.com/fukuoka/kama/eat/casual/",
@@ -28067,7 +28067,7 @@
     },
     {
      "name": "お好み焼イナンクル",
-     "name_en": "O Konomi Yaki Inankuru",
+     "name_en": "Okonomiyaki Inankuru",
      "description": "Okonomiyaki restaurant, 857 m from Shimo-Kamoo Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400702/40022753/",
      "page": "https://bokenjapan.com/fukuoka/kama/eat/casual/",
@@ -28195,7 +28195,7 @@
     },
     {
      "name": "酔膳や みらく",
-     "name_en": "Sui Zen Ya Miraku",
+     "name_en": "Suizenya Miraku",
      "description": "Izakaya, 4,067 m from Keisen Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400702/40046425/",
      "page": "https://bokenjapan.com/fukuoka/kama/eat/izakaya-bars/",
@@ -28275,7 +28275,7 @@
     },
     {
      "name": "コリアンハウス洪苑 稲築店",
-     "name_en": "Korean House Ko En Inatsuki Branch",
+     "name_en": "Korean House Koen Inatsuki Branch",
      "description": "Yakiniku (grilled meat) restaurant, 1,035 m from Shimo-Kamoo Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400702/40026910/",
      "page": "https://bokenjapan.com/fukuoka/kama/eat/meat/",
@@ -28411,7 +28411,7 @@
     },
     {
      "name": "めん処小沼",
-     "name_en": "Men Dokoro Konuma",
+     "name_en": "Mendokoro Konuma",
      "description": "Soba restaurant, 2,700 m from Shimo-Kamoo Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400702/40009900/",
      "page": "https://bokenjapan.com/fukuoka/kama/eat/noodles/",
@@ -28443,7 +28443,7 @@
     },
     {
      "name": "嘉麻うどん めん蔵",
-     "name_en": "Kama Udon Men Kura",
+     "name_en": "Kama Udon Menkura",
      "description": "Udon restaurant; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400702/40034815/",
      "page": "https://bokenjapan.com/fukuoka/kama/eat/noodles/",
@@ -28467,7 +28467,7 @@
     },
     {
      "name": "麺や 紅鱗",
-     "name_en": "Men Ya Kurenai Uroko",
+     "name_en": "Menya Kurenai-uroko",
      "description": "Ramen shop with parking, near Iizuka Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400702/40072421/",
      "page": "https://bokenjapan.com/fukuoka/kama/eat/noodles/",
@@ -28507,7 +28507,7 @@
     },
     {
      "name": "めん六や 福岡嘉麻店",
-     "name_en": "Men Roku Ya Fukuoka Kama Branch",
+     "name_en": "Menrokuya Fukuoka Kama Branch",
      "description": "Udon restaurant, 1,700 m from Shimo-Kamoo Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400702/40047492/",
      "page": "https://bokenjapan.com/fukuoka/kama/eat/noodles/",
@@ -29275,7 +29275,7 @@
     },
     {
      "name": "石釜パン工房 ル・ピエール",
-     "name_en": "Ishigama Pan Kobo Ru Piēru",
+     "name_en": "Ishigama Pan Kobo Le Pierre",
      "description": "Bakery with parking, near Iizuka Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400702/40023902/",
      "page": "https://bokenjapan.com/fukuoka/kama/eat/sweets-bakeries/",
@@ -29544,7 +29544,7 @@
     "lat": 33.775972222,
     "lon": 130.980472222
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Tokaku Tera Tokusan Gurupu",
@@ -29678,7 +29678,7 @@
     },
     {
      "name": "カーポート苅田",
-     "name_en": "Kāpoto Kanda",
+     "name_en": "Carport Kanda",
      "description": "Traditional coffee shop (kissaten), 368 m from Kanda Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40046481/",
      "page": "https://bokenjapan.com/fukuoka/kanda/eat/cafe/",
@@ -29734,7 +29734,7 @@
     },
     {
      "name": "お食事処 炉",
-     "name_en": "O Shokuji Dokoro Ro",
+     "name_en": "Oshokujidokoro Ro",
      "description": "Diner, 865 m from Kanda Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40046118/",
      "page": "https://bokenjapan.com/fukuoka/kanda/eat/casual/",
@@ -29758,7 +29758,7 @@
     },
     {
      "name": "お食事処 あらつ",
-     "name_en": "O Shokuji Dokoro Aratsu",
+     "name_en": "Oshokujidokoro Aratsu",
      "description": "Diner, 217 m from Obase-Nishikodai-mae Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40045791/",
      "page": "https://bokenjapan.com/fukuoka/kanda/eat/casual/",
@@ -29774,7 +29774,7 @@
     },
     {
      "name": "唐揚げ 鶏 苅田駅前店",
-     "name_en": "Karāge Niwatori Kanda Ekimae Branch",
+     "name_en": "Karaage Tori Kanda Ekimae Branch",
      "description": "Bento shop, 314 m from Kanda Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40054093/",
      "page": "https://bokenjapan.com/fukuoka/kanda/eat/casual/",
@@ -30030,7 +30030,7 @@
     },
     {
      "name": "莉莉餃子 苅田店",
-     "name_en": "Ri Ri Gyoza Kanda Branch",
+     "name_en": "Riri Gyoza Kanda Branch",
      "description": "Gyoza restaurant, 5-minute walk from Kanda Station; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40057389/",
      "page": "https://bokenjapan.com/fukuoka/kanda/eat/chinese-asian/",
@@ -30142,7 +30142,7 @@
     },
     {
      "name": "お食事処 ちゃするば",
-     "name_en": "O Shokuji Dokoro Chasuruba",
+     "name_en": "Oshokujidokoro Chasuruba",
      "description": "Izakaya, 414 m from Kanda Station; dinner ¥2,000–2,999.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40061199/",
      "page": "https://bokenjapan.com/fukuoka/kanda/eat/izakaya-bars/",
@@ -30302,7 +30302,7 @@
     },
     {
      "name": "からあげ庄ちゃん",
-     "name_en": "Karāge Sho Chan",
+     "name_en": "Karaage Sho-chan",
      "description": "Fried-chicken (karaage) shop, 303 m from Kanda Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40060934/",
      "page": "https://bokenjapan.com/fukuoka/kanda/eat/meat/",
@@ -30318,7 +30318,7 @@
     },
     {
      "name": "からあげ 鳥いち",
-     "name_en": "Karāge Tori Ichi",
+     "name_en": "Karaage Toriichi",
      "description": "Fried-chicken (karaage) shop, 1,085 m from Obase-Nishikodai-mae Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40057696/",
      "page": "https://bokenjapan.com/fukuoka/kanda/eat/meat/",
@@ -30382,7 +30382,7 @@
     },
     {
      "name": "からあげ大将善",
-     "name_en": "Karāge Taisho Zen",
+     "name_en": "Karaage Taisho Zen",
      "description": "Fried-chicken (karaage) shop, 1,111 m from Obase-Nishikodai-mae Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40033736/",
      "page": "https://bokenjapan.com/fukuoka/kanda/eat/meat/",
@@ -30390,7 +30390,7 @@
     },
     {
      "name": "からあげ輝鶏 苅田店",
-     "name_en": "Karāge Teru Niwatori Kanda Branch",
+     "name_en": "Karaage Kidori Kanda Branch",
      "description": "Fried-chicken (karaage) shop, 581 m from Kanda Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40054432/",
      "page": "https://bokenjapan.com/fukuoka/kanda/eat/meat/",
@@ -30398,7 +30398,7 @@
     },
     {
      "name": "からあげみやこ屋 苅田店",
-     "name_en": "Karāgemiyako ya Kanda Branch",
+     "name_en": "Karaage Miyakoya Kanda Branch",
      "description": "Fried-chicken (karaage) shop, 8-minute walk from Kanda Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40070980/",
      "page": "https://bokenjapan.com/fukuoka/kanda/eat/meat/",
@@ -30406,7 +30406,7 @@
     },
     {
      "name": "唐揚げサンバ",
-     "name_en": "Karāge Sanba",
+     "name_en": "Karaage Samba",
      "description": "Fried-chicken (karaage) shop, 1,700 m from Kanda Station.",
      "source_url": "https://tabelog.com/fukuoka/A4004/A400502/40059296/",
      "page": "https://bokenjapan.com/fukuoka/kanda/eat/meat/",
@@ -30494,7 +30494,7 @@
     },
     {
      "name": "うどん屋麺之介",
-     "name_en": "Udon ya Men Yuki Suke",
+     "name_en": "Udonya Mennosuke",
      "description": "Udon restaurant, 1,400 m from Obase-Nishikodai-mae Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40018272/",
      "page": "https://bokenjapan.com/fukuoka/kanda/eat/noodles/",
@@ -30566,7 +30566,7 @@
     },
     {
      "name": "お蕎麦の丈二",
-     "name_en": "O Soba no Joji",
+     "name_en": "Osoba no Joji",
      "description": "Soba restaurant, 395 m from Kanda Station; lunch ¥2,000–2,999.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40069517/",
      "page": "https://bokenjapan.com/fukuoka/kanda/eat/noodles/",
@@ -30662,7 +30662,7 @@
     },
     {
      "name": "麺と鉄板 肉らしかぁ",
-     "name_en": "Men to Teppan Niku Rashikā",
+     "name_en": "Men to Teppan Niku Rashika",
      "description": "Udon restaurant, 5-minute walk from Kanda Station; dinner ¥2,000–2,999.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40052026/",
      "page": "https://bokenjapan.com/fukuoka/kanda/eat/noodles/",
@@ -30774,7 +30774,7 @@
     },
     {
      "name": "Udon Ya Men no Kai",
-     "name_en": "Udon Ya Men no Kai",
+     "name_en": "Udonya Men no Kai",
      "description": "Restaurant in Ogura.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1121499-d3816645-Reviews-Udon_Ya_Men_no_Kai-Kanda_machi_Miyako_gun_Fukuoka_Prefecture_Kyushu.html",
      "page": "https://bokenjapan.com/fukuoka/kanda/eat/other/",
@@ -31430,7 +31430,7 @@
     },
     {
      "name": "クレープショップ メノマーレ",
-     "name_en": "Crepe Shop Menomāre",
+     "name_en": "Crepe Shop Menomare",
      "description": "Crepe shop, 327 m from Kanda Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40055260/",
      "page": "https://bokenjapan.com/fukuoka/kanda/eat/sweets-bakeries/",
@@ -31651,7 +31651,7 @@
     "lat": 33.5326589,
     "lon": 130.4702594
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "セブンイレブン 春日下白水店",
@@ -31782,7 +31782,7 @@
     },
     {
      "name": "CoCo壱番屋 春日岡本店",
-     "name_en": "Coco Ichiban Ya Kasuga Okamoto Branch",
+     "name_en": "CoCo Ichibanya Kasuga Okamoto Branch",
      "description": "Curry restaurant, 800 m from Minami-Fukuoka Station.",
      "source_url": "https://tabelog.com/fukuoka/A4001/A400108/40026165/",
      "page": "https://bokenjapan.com/fukuoka/kasuga/eat/curry/",
@@ -31886,7 +31886,7 @@
     },
     {
      "name": "十徳や 春日下白水店",
-     "name_en": "Jittoku Ya Kasuga Shimoshirozu Branch",
+     "name_en": "Jittokuya Kasuga Shimohakusui Branch",
      "description": "Izakaya, 1,189 m from Hakata-Minami Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40001337/",
      "page": "https://bokenjapan.com/fukuoka/kasuga/eat/izakaya-bars/",
@@ -32198,7 +32198,7 @@
     },
     {
      "name": "パンは空気だ",
-     "name_en": "Pan Ha Kuki Da",
+     "name_en": "Pan wa Kuki da",
      "description": "Bakery, 1,700 m from Hakata-Minami Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40059077/",
      "page": "https://bokenjapan.com/fukuoka/kasuga/eat/sweets-bakeries/",
@@ -32352,7 +32352,7 @@
     "lat": 33.6108464,
     "lon": 130.48055
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "ダイキョーバリュー 長者原店",
@@ -32692,7 +32692,7 @@
     },
     {
      "name": "ひので屋 流通店",
-     "name_en": "Hinode Ya Ryutsu Branch",
+     "name_en": "Hinodeya Ryutsu Branch",
      "description": "Bento shop, 1,502 m from Iga Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40039696/",
      "page": "https://bokenjapan.com/fukuoka/kasuya/eat/casual/",
@@ -32964,7 +32964,7 @@
     },
     {
      "name": "CoCo壱番屋 福岡門松店",
-     "name_en": "Coco Ichiban Ya Fukuoka Kadomatsu Branch",
+     "name_en": "CoCo Ichibanya Fukuoka Kadomatsu Branch",
      "description": "Curry restaurant, 263 m from Kadomatsu Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40016269/",
      "page": "https://bokenjapan.com/fukuoka/kasuya/eat/curry/",
@@ -32972,7 +32972,7 @@
     },
     {
      "name": "CoCo壱番屋 福岡インター店",
-     "name_en": "Coco Ichiban Ya Fukuoka Inter Branch",
+     "name_en": "CoCo Ichibanya Fukuoka Interchange Branch",
      "description": "Curry restaurant, 1,099 m from Doi Station; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4001/A400201/40026170/",
      "page": "https://bokenjapan.com/fukuoka/kasuya/eat/curry/",
@@ -33300,7 +33300,7 @@
     },
     {
      "name": "スタミナ焼肉鉄板王 空港東店",
-     "name_en": "Stamina Yakiniku Teppan O Kuko Higashi Branch",
+     "name_en": "Stamina Yakiniku Teppano Kuko Higashi Branch",
      "description": "Yakiniku (grilled meat) restaurant, 885 m from Harumachi Station; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40018362/",
      "page": "https://bokenjapan.com/fukuoka/kasuya/eat/meat/",
@@ -33396,7 +33396,7 @@
     },
     {
      "name": "しゃぶ葉 イオンモール福岡店",
-     "name_en": "Shabu Ha Aeon Mall Fukuoka Branch",
+     "name_en": "Shabuyo Aeon Mall Fukuoka Branch",
      "description": "Shabu-shabu restaurant, 942 m from Sakado Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40055779/",
      "page": "https://bokenjapan.com/fukuoka/kasuya/eat/meat/",
@@ -33404,7 +33404,7 @@
     },
     {
      "name": "唐十 イオンモール福岡店",
-     "name_en": "To Ju Aeon Mall Fukuoka Branch",
+     "name_en": "Toju Aeon Mall Fukuoka Branch",
      "description": "Fried-chicken (karaage) shop, 871 m from Sakado Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40053771/",
      "page": "https://bokenjapan.com/fukuoka/kasuya/eat/meat/",
@@ -33516,7 +33516,7 @@
     },
     {
      "name": "麺屋ラ賊",
-     "name_en": "Men Ya Ra Zoku",
+     "name_en": "Menya Razoku",
      "description": "Ramen shop, 594 m from Kadomatsu Station; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4001/A400201/40006301/",
      "page": "https://bokenjapan.com/fukuoka/kasuya/eat/noodles/",
@@ -33524,7 +33524,7 @@
     },
     {
      "name": "ラーメン将峰",
-     "name_en": "Ramen Sho Mine",
+     "name_en": "Ramen Shoho",
      "description": "Ramen shop, 445 m from Chojabaru Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40002383/",
      "page": "https://bokenjapan.com/fukuoka/kasuya/eat/noodles/",
@@ -33596,7 +33596,7 @@
     },
     {
      "name": "京都北白川ラーメン魁力屋 イオンモール福岡店",
-     "name_en": "Kyoto Kitashirakawa Ramen Kai Chikara Ya Aeon Mall Fukuoka Branch",
+     "name_en": "Kyoto Kitashirakawa Ramen Kairikiya Aeon Mall Fukuoka Branch",
      "description": "Ramen shop, 898 m from Sakado Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40072406/",
      "page": "https://bokenjapan.com/fukuoka/kasuya/eat/noodles/",
@@ -33644,7 +33644,7 @@
     },
     {
      "name": "元祖辛麺屋 桝元 イオンモール福岡店",
-     "name_en": "Ganso Shin Men Ya Masu Moto Aeon Mall Fukuoka Branch",
+     "name_en": "Ganso Karamenya Masumoto Aeon Mall Fukuoka Branch",
      "description": "Ramen shop, 908 m from Sakado Station; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40065318/",
      "page": "https://bokenjapan.com/fukuoka/kasuya/eat/noodles/",
@@ -33916,7 +33916,7 @@
     },
     {
      "name": "Men Ya Kiwami Kasuya",
-     "name_en": "Men Ya Kiwami Kasuya",
+     "name_en": "Menya Kiwami Kasuya",
      "description": "Restaurant in Nakahara, open 11:30–01:00.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1121473-d7483313-Reviews-Men_Ya_Kiwami_Kasuya-Kasuya_machi_Kasuya_gun_Fukuoka_Prefecture_Kyushu.html",
      "page": "https://bokenjapan.com/fukuoka/kasuya/eat/other/",
@@ -34724,7 +34724,7 @@
     },
     {
      "name": "石村萬盛堂 イオン福岡店",
-     "name_en": "Ishimura Man Jo Do Aeon Fukuoka Branch",
+     "name_en": "Ishimura Manseido Aeon Fukuoka Branch",
      "description": "Japanese sweets (wagashi) shop, 900 m from Sakado Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40068709/",
      "page": "https://bokenjapan.com/fukuoka/kasuya/eat/sweets-bakeries/",
@@ -34732,7 +34732,7 @@
     },
     {
      "name": "千鳥屋原町店",
-     "name_en": "Chidori Ya Harumachi Shop",
+     "name_en": "Chidoriya Haramachi Branch",
      "description": "Sweets shop, 127 m from Harumachi Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40040369/",
      "page": "https://bokenjapan.com/fukuoka/kasuya/eat/sweets-bakeries/",
@@ -34827,7 +34827,7 @@
     "lat": 33.667958,
     "lon": 130.847327
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Kawara Tourism Association",
@@ -34999,7 +34999,7 @@
     },
     {
      "name": "リストランテ エスポワール",
-     "name_en": "Ristorante Esupowāru",
+     "name_en": "Ristorante Espoir",
      "description": "Pasta restaurant, 1,674 m from Saidosho Station; dinner ¥2,000–2,999.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40060250/",
      "page": "https://bokenjapan.com/fukuoka/kawara/eat/european/",
@@ -35015,7 +35015,7 @@
     },
     {
      "name": "からあげタック",
-     "name_en": "Karāge Tuck",
+     "name_en": "Karaage Tack",
      "description": "Fried-chicken (karaage) shop, 479 m from Magarikane Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40063811/",
      "page": "https://bokenjapan.com/fukuoka/kawara/eat/meat/",
@@ -35119,7 +35119,7 @@
     },
     {
      "name": "くまちゃんらぁめん",
-     "name_en": "Kumachanrāmen",
+     "name_en": "Kumachan Ramen",
      "description": "Ramen shop, 1,400 m from Saidosho Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40066706/",
      "page": "https://bokenjapan.com/fukuoka/kawara/eat/noodles/",
@@ -35423,7 +35423,7 @@
     },
     {
      "name": "バニーズ",
-     "name_en": "Banīzu",
+     "name_en": "Bunnies",
      "description": "Sweets shop, 1,678 m from Kawara Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40035714/",
      "page": "https://bokenjapan.com/fukuoka/kawara/eat/sweets-bakeries/",
@@ -35471,7 +35471,7 @@
     },
     {
      "name": "菓子工房 メッセージ",
-     "name_en": "Kashi Kobo Messēji",
+     "name_en": "Kashi Kobo Message",
      "description": "Cake shop, 1,536 m from Kawara Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40062082/",
      "page": "https://bokenjapan.com/fukuoka/kawara/eat/sweets-bakeries/",
@@ -35641,7 +35641,7 @@
     "lat": 33.599992,
     "lon": 130.815386
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Kawasaki Farm Produce Market De-Ai",
@@ -36010,7 +36010,7 @@
     },
     {
      "name": "小づち",
-     "name_en": "Sho Zuchi",
+     "name_en": "Kozuchi",
      "description": "Yakitori restaurant, 194 m from Buzen-Kawasaki Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40008919/",
      "page": "https://bokenjapan.com/fukuoka/kawasaki/eat/meat/",
@@ -36082,7 +36082,7 @@
     },
     {
      "name": "うちだ屋 田川南店",
-     "name_en": "Uchida Ya Tagawa Minami Branch",
+     "name_en": "Uchidaya Tagawa Minami Branch",
      "description": "Soba restaurant, 343 m from Ikejiri Station; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40011627/",
      "page": "https://bokenjapan.com/fukuoka/kawasaki/eat/noodles/",
@@ -36098,7 +36098,7 @@
     },
     {
      "name": "麺工房De愛",
-     "name_en": "Men Kobo De Ai",
+     "name_en": "Menkobo De Ai",
      "description": "Udon restaurant, 2,600 m from Buzen-Kawasaki Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40060270/",
      "page": "https://bokenjapan.com/fukuoka/kawasaki/eat/noodles/",
@@ -36106,7 +36106,7 @@
     },
     {
      "name": "めん六や 福岡川崎店",
-     "name_en": "Men Roku Ya Fukuoka Kawasakiten",
+     "name_en": "Menrokuya Fukuoka Kawasaki Branch",
      "description": "Udon restaurant, 1,200 m from Buzen-Kawasaki Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40047493/",
      "page": "https://bokenjapan.com/fukuoka/kawasaki/eat/noodles/",
@@ -36154,7 +36154,7 @@
     },
     {
      "name": "御多幸",
-     "name_en": "O Tako",
+     "name_en": "Otako",
      "description": "Restaurant, 527 m from Buzen-Kawasaki Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40015092/",
      "page": "https://bokenjapan.com/fukuoka/kawasaki/eat/other/",
@@ -36568,7 +36568,7 @@
     "lat": 33.578852,
     "lon": 130.67812
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "ファミリーマート 桂川土師店",
@@ -36692,7 +36692,7 @@
     },
     {
      "name": "祥禾",
-     "name_en": "Sho Nogi",
+     "name_en": "Shoka",
      "description": "Chinese restaurant, 851 m from Keisen Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400702/40072671/",
      "page": "https://bokenjapan.com/fukuoka/keisen/eat/chinese-asian/",
@@ -36828,7 +36828,7 @@
     },
     {
      "name": "串や 呑風",
-     "name_en": "Kushi Ya Don Kaze",
+     "name_en": "Kushiya Donpu",
      "description": "Yakitori restaurant, 2,200 m from Keisen Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400702/40045254/",
      "page": "https://bokenjapan.com/fukuoka/keisen/eat/meat/",
@@ -36956,7 +36956,7 @@
     },
     {
      "name": "麺屋.千寿 桂川店",
-     "name_en": "Men Ya . Chizu Keisen Branch",
+     "name_en": "Menya Senju Keisen Branch",
      "description": "Ramen shop, 599 m from Keisen Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400702/40050004/",
      "page": "https://bokenjapan.com/fukuoka/keisen/eat/noodles/",
@@ -36980,7 +36980,7 @@
     },
     {
      "name": "めん六や 福岡桂川店",
-     "name_en": "Men Roku Ya Fukuoka Keisen Branch",
+     "name_en": "Menrokuya Fukuoka Keisen Branch",
      "description": "Udon restaurant, 1,300 m from Keisen Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400702/40047484/",
      "page": "https://bokenjapan.com/fukuoka/keisen/eat/noodles/",
@@ -37363,7 +37363,7 @@
     "lat": 33.883416,
     "lon": 130.8752147
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Tan Ka Market",
@@ -37671,7 +37671,7 @@
     },
     {
      "name": "肉とちょい呑み屋トト 2号店テーブル",
-     "name_en": "Niku Tochoi Nomi Ya Toto 2 Go Shop Table",
+     "name_en": "Niku to Choi Nomiya Toto 2-gotenten Table",
      "description": "Izakaya, 5-minute walk from Tobata Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4004/A400402/40072960/",
      "page": "https://bokenjapan.com/fukuoka/kitakyushu/eat/izakaya-bars/",
@@ -37711,7 +37711,7 @@
     },
     {
      "name": "博多もつ鍋前田屋 小倉店",
-     "name_en": "Hakata Motsu Nabe Maeda Ya Kokura Branch",
+     "name_en": "Hakata Motsunabe Maedaya Kokura Branch",
      "description": "Izakaya, 1-minute walk from Heiwadori Station; dinner ¥4,000–4,999.",
      "source_url": "https://tabelog.com/fukuoka/A4004/A400401/40072574/",
      "page": "https://bokenjapan.com/fukuoka/kitakyushu/eat/izakaya-bars/",
@@ -38996,7 +38996,7 @@
     "lat": 33.72875,
     "lon": 130.470051
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Koga Buruberii Sono",
@@ -39265,7 +39265,7 @@
     },
     {
      "name": "キー コーヒー サンリブ古賀店",
-     "name_en": "Kī Coffee Sunlive Koga Branch",
+     "name_en": "Key Coffee Sunlive Koga Branch",
      "description": "Traditional coffee shop (kissaten), 239 m from Koga Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40032442/",
      "page": "https://bokenjapan.com/fukuoka/koga/eat/cafe/",
@@ -39313,7 +39313,7 @@
     },
     {
      "name": "お山の果樹園 タニヤマカフェ",
-     "name_en": "O Yama no Kajuen Taniyama Cafe",
+     "name_en": "Oyama no Kajuen Taniyama Cafe",
      "description": "Cafe, 4,400 m from Koga Station; lunch ¥2,000–2,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40052780/",
      "page": "https://bokenjapan.com/fukuoka/koga/eat/cafe/",
@@ -39569,7 +39569,7 @@
     },
     {
      "name": "お料理 花うた",
-     "name_en": "O Ryori Hana Uta",
+     "name_en": "Oryori Hanauta",
      "description": "Bento shop, 694 m from Chidori Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40059321/",
      "page": "https://bokenjapan.com/fukuoka/koga/eat/casual/",
@@ -40001,7 +40001,7 @@
     },
     {
      "name": "賀玄",
-     "name_en": "Ga Gen",
+     "name_en": "Kagen",
      "description": "Izakaya, 385 m from Shishibu Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40013850/",
      "page": "https://bokenjapan.com/fukuoka/koga/eat/izakaya-bars/",
@@ -40129,7 +40129,7 @@
     },
     {
      "name": "や台ずし 古賀駅西口町",
-     "name_en": "Ya Dai Zushi Koga Eki Nishiguchi Machi",
+     "name_en": "Yataizushi Koga-eki Nishiguchi-machi",
      "description": "Izakaya, 50 m from Koga Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40049735/",
      "page": "https://bokenjapan.com/fukuoka/koga/eat/izakaya-bars/",
@@ -40177,7 +40177,7 @@
     },
     {
      "name": "バータヴェンネ",
-     "name_en": "Bātavenne",
+     "name_en": "Bar Tavenne",
      "description": "Bar, 232 m from Koga Station; dinner ¥2,000–2,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40050257/",
      "page": "https://bokenjapan.com/fukuoka/koga/eat/izakaya-bars/",
@@ -40217,7 +40217,7 @@
     },
     {
      "name": "和加",
-     "name_en": "Wa Ka",
+     "name_en": "Waka",
      "description": "Izakaya, 423 m from Koga Station; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40049608/",
      "page": "https://bokenjapan.com/fukuoka/koga/eat/izakaya-bars/",
@@ -40425,7 +40425,7 @@
     },
     {
      "name": "永吉からあげ",
-     "name_en": "Eikichi Karāge",
+     "name_en": "Eikichi Karaage",
      "description": "Fried-chicken (karaage) shop, 496 m from Koga Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40062856/",
      "page": "https://bokenjapan.com/fukuoka/koga/eat/meat/",
@@ -40433,7 +40433,7 @@
     },
     {
      "name": "ステーキハウス ブロンコビリー 古賀店",
-     "name_en": "Steakhouse Buronkobirī Koga Branch",
+     "name_en": "Steakhouse Bronco Billy Koga Branch",
      "description": "Hamburg-steak restaurant, 531 m from Koga Station; lunch ¥2,000–2,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40072558/",
      "page": "https://bokenjapan.com/fukuoka/koga/eat/meat/",
@@ -40497,7 +40497,7 @@
     },
     {
      "name": "からあげの店 唐十 古賀店",
-     "name_en": "Karāgeno Ten To Ju Koga Branch",
+     "name_en": "Karaage no Mise Toju Koga Branch",
      "description": "Fried-chicken (karaage) shop, 239 m from Koga Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40029186/",
      "page": "https://bokenjapan.com/fukuoka/koga/eat/meat/",
@@ -40873,7 +40873,7 @@
     },
     {
      "name": "博多麺王 古賀店",
-     "name_en": "Hakata Men O Koga Branch",
+     "name_en": "Hakata Men-o Koga Branch",
      "description": "Ramen shop, 1,800 m from Koga Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40048863/",
      "page": "https://bokenjapan.com/fukuoka/koga/eat/noodles/",
@@ -40961,7 +40961,7 @@
     },
     {
      "name": "麺勝 町川原古賀店",
-     "name_en": "Men Kachi Machikawa Hara Koga Branch",
+     "name_en": "Menkatsu Machikawara Koga Branch",
      "description": "Restaurant, 2,500 m from Koga Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40013629/",
      "page": "https://bokenjapan.com/fukuoka/koga/eat/other/",
@@ -42385,7 +42385,7 @@
     },
     {
      "name": "オー・ド・ブーシュ",
-     "name_en": "O Do Bushu",
+     "name_en": "Odo Bushu",
      "description": "Bakery, 474 m from Shishibu Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40041013/",
      "page": "https://bokenjapan.com/fukuoka/koga/eat/sweets-bakeries/",
@@ -42401,7 +42401,7 @@
     },
     {
      "name": "ケーキのメルシィ",
-     "name_en": "Cake no Merushī",
+     "name_en": "Cake no Merci",
      "description": "Cake shop, 689 m from Chidori Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40049857/",
      "page": "https://bokenjapan.com/fukuoka/koga/eat/sweets-bakeries/",
@@ -42473,7 +42473,7 @@
     },
     {
      "name": "キーズ カフェ 古賀サービスエリア店",
-     "name_en": "Kīzu Cafe Koga Service Area Branch",
+     "name_en": "Keys Cafe Koga Service Area Branch",
      "description": "Sandwich shop, 4,000 m from Chidori Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40040913/",
      "page": "https://bokenjapan.com/fukuoka/koga/eat/sweets-bakeries/",
@@ -42497,7 +42497,7 @@
     },
     {
      "name": "ベーカーバイツェン 古賀店",
-     "name_en": "Bēkābaitsuen Koga Branch",
+     "name_en": "Baker Baitsen Koga Branch",
      "description": "Bakery, 1,101 m from Chidori Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40047347/",
      "page": "https://bokenjapan.com/fukuoka/koga/eat/sweets-bakeries/",
@@ -42505,7 +42505,7 @@
     },
     {
      "name": "アペティートカフェ 古賀店",
-     "name_en": "Apeteītokafe Koga Branch",
+     "name_en": "Appetito Cafe Koga Branch",
      "description": "Bakery, 4,000 m from Chidori Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40021135/",
      "page": "https://bokenjapan.com/fukuoka/koga/eat/sweets-bakeries/",
@@ -42704,7 +42704,7 @@
     "lat": 33.578332,
     "lon": 131.164412
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "LAWSON 築上大平店",
@@ -42755,7 +42755,7 @@
     },
     {
      "name": "おそうざい屋 しんよしみかん",
-     "name_en": "Osozai Ya Shinyoshi Mikan",
+     "name_en": "Osozaiya Shinyoshimikan",
      "description": "Bento shop, 3,080 m from Yoshitomi Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400602/40057431/",
      "page": "https://bokenjapan.com/fukuoka/koge/eat/casual/",
@@ -42827,7 +42827,7 @@
     },
     {
      "name": "焼肉 和 上毛町店",
-     "name_en": "Yakiniku Wa Koge Branch",
+     "name_en": "Yakiniku Wa, Koge Branch",
      "description": "Yakiniku (grilled meat) restaurant with parking, near Unoshima Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400602/40074587/",
      "page": "https://bokenjapan.com/fukuoka/koge/eat/meat/",
@@ -42883,7 +42883,7 @@
     },
     {
      "name": "麺処 咲耶 みちのえき",
-     "name_en": "Men Dokoro Sakuya Michinoeki",
+     "name_en": "Mendokoro Sakuya Michi-no-Eki",
      "description": "Ramen shop, 2,500 m from Yoshitomi Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400602/40034821/",
      "page": "https://bokenjapan.com/fukuoka/koge/eat/noodles/",
@@ -43075,7 +43075,7 @@
     },
     {
      "name": "村のぱん屋SUN",
-     "name_en": "Mura Nopan Ya Sun",
+     "name_en": "Mura no Panya SUN",
      "description": "Bakery, 3,930 m from Yoshitomi Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400602/40026883/",
      "page": "https://bokenjapan.com/fukuoka/koge/eat/sweets-bakeries/",
@@ -43175,7 +43175,7 @@
     "lat": 33.6924388,
     "lon": 130.7126718
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Yama no Sato Shizen Farm",
@@ -43250,7 +43250,7 @@
     },
     {
      "name": "お料理 ナカノ",
-     "name_en": "O Ryori Nakano",
+     "name_en": "Oryori Nakano",
      "description": "Italian restaurant, 922 m from Kotake Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400702/40053642/",
      "page": "https://bokenjapan.com/fukuoka/kotake/eat/european/",
@@ -43341,7 +43341,7 @@
     "lat": 33.792051,
     "lon": 130.674672
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "セブンイレブン 九州道鞍手PA下り店",
@@ -43568,7 +43568,7 @@
     },
     {
      "name": "うどん屋 仁",
-     "name_en": "Udon Ya Hitoshi",
+     "name_en": "Udonya Jin",
      "description": "Udon restaurant; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400701/40012346/",
      "page": "https://bokenjapan.com/fukuoka/kurate/eat/noodles/",
@@ -43584,7 +43584,7 @@
     },
     {
      "name": "麺屋 心",
-     "name_en": "Men Ya Kokoro",
+     "name_en": "Menya Kokoro",
      "description": "Ramen shop, 1,300 m from Kurate Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400701/40057192/",
      "page": "https://bokenjapan.com/fukuoka/kurate/eat/noodles/",
@@ -43608,7 +43608,7 @@
     },
     {
      "name": "麺勝 鞍手店",
-     "name_en": "Men Kachi Kurate Branch",
+     "name_en": "Menkatsu Kurate Branch",
      "description": "Udon restaurant, 2,700 m from Kurate Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400701/40016408/",
      "page": "https://bokenjapan.com/fukuoka/kurate/eat/noodles/",
@@ -43640,7 +43640,7 @@
     },
     {
      "name": "田々夢詩",
-     "name_en": "Ta Ta Yume Shi",
+     "name_en": "Tatayumeshi",
      "description": "Restaurant, 5-minute walk from Kurate Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400701/40023136/",
      "page": "https://bokenjapan.com/fukuoka/kurate/eat/other/",
@@ -44086,7 +44086,7 @@
     "lat": 33.319291,
     "lon": 130.508389
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "セブンイレブン 久留米市役所前店",
@@ -44214,7 +44214,7 @@
     },
     {
      "name": "to do it.",
-     "name_en": "To Do It .",
+     "name_en": "to do it.",
      "description": "Italian restaurant, 5-minute walk from Nishitetsu Kurume Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400801/40064982/",
      "page": "https://bokenjapan.com/fukuoka/kurume/eat/european/",
@@ -44414,7 +44414,7 @@
     },
     {
      "name": "くいもの屋わん 西鉄久留米駅前店",
-     "name_en": "Kuimono Ya Wan Nishitetsu Kurume Ekimae Branch",
+     "name_en": "Kuimonoya Wan Nishitetsu Kurume Ekimae Branch",
      "description": "Izakaya, 1-minute walk from Nishitetsu Kurume Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400801/40042441/",
      "page": "https://bokenjapan.com/fukuoka/kurume/eat/izakaya-bars/",
@@ -44430,7 +44430,7 @@
     },
     {
      "name": "和だん",
-     "name_en": "Wa Dan",
+     "name_en": "Wadan",
      "description": "Izakaya, 11-minute walk from Kurume-Kokomae Station; dinner ¥4,000–4,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400801/40039177/",
      "page": "https://bokenjapan.com/fukuoka/kurume/eat/izakaya-bars/",
@@ -44438,7 +44438,7 @@
     },
     {
      "name": "和処 まる吉",
-     "name_en": "Wa Dokoro Maru Kichi",
+     "name_en": "Wadokoro Marukichi",
      "description": "Izakaya, 983 m from Kurume Station; dinner ¥4,000–4,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400801/40061780/",
      "page": "https://bokenjapan.com/fukuoka/kurume/eat/izakaya-bars/",
@@ -44865,7 +44865,7 @@
     },
     {
      "name": "野はら邸",
-     "name_en": "No Hara Tei",
+     "name_en": "Nohara-tei",
      "description": "Vacation rental house, 10 minutes by car from Nishitetsu Kurume Station.",
      "source_url": "https://www.jalan.net/yad385512/",
      "page": "https://bokenjapan.com/fukuoka/kurume/stay/"
@@ -44989,7 +44989,7 @@
     "lat": 33.699205,
     "lon": 130.920404
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Norin Sambutsu Chokubai Tokoro Yotteko Shiki Sai Kan",
@@ -45254,7 +45254,7 @@
     },
     {
      "name": "お弁当屋さん 平吉",
-     "name_en": "O Bentoya San Heikichi",
+     "name_en": "Obentoyasan Heikichi",
      "description": "Bento shop, 1,900 m from Toyotsu Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40073801/",
      "page": "https://bokenjapan.com/fukuoka/miyako/eat/casual/",
@@ -45270,7 +45270,7 @@
     },
     {
      "name": "お好み焼き おがた",
-     "name_en": "O Konomi Yaki Ogata",
+     "name_en": "Okonomiyaki Ogata",
      "description": "Okonomiyaki restaurant, 386 m from Saigawa Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40052675/",
      "page": "https://bokenjapan.com/fukuoka/miyako/eat/casual/",
@@ -45318,7 +45318,7 @@
     },
     {
      "name": "アブタール みやこ店",
-     "name_en": "Abutāru Miyako Branch",
+     "name_en": "Abutaru Miyako Branch",
      "description": "Indian restaurant, 1,929 m from Toyotsu Station; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40067514/",
      "page": "https://bokenjapan.com/fukuoka/miyako/eat/curry/",
@@ -45366,7 +45366,7 @@
     },
     {
      "name": "けもの料理 地獄のひさべえ",
-     "name_en": "Kemono Ryori Jigoku Nohisabē",
+     "name_en": "Kemono Ryori Jigoku no Hisabee",
      "description": "Izakaya with parking, open 17:00–23:00.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40045354/",
      "page": "https://bokenjapan.com/fukuoka/miyako/eat/izakaya-bars/",
@@ -45390,7 +45390,7 @@
     },
     {
      "name": "からあげ 季楽",
-     "name_en": "Karāge Ki Raku",
+     "name_en": "Karaage Kiraku",
      "description": "Fried-chicken (karaage) shop, 801 m from Shin-Toyotsu Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40064017/",
      "page": "https://bokenjapan.com/fukuoka/miyako/eat/meat/",
@@ -45398,7 +45398,7 @@
     },
     {
      "name": "からあげ唐空",
-     "name_en": "Karāge To Sora",
+     "name_en": "Karaage Karasora",
      "description": "Fried-chicken (karaage) shop, 1,875 m from Toyotsu Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40064133/",
      "page": "https://bokenjapan.com/fukuoka/miyako/eat/meat/",
@@ -45526,7 +45526,7 @@
     },
     {
      "name": "お食事と茶房とギャラリ－のかりんかん",
-     "name_en": "O Shokuji to Sabo to Gyarari Nokarinkan",
+     "name_en": "Oshokuji to Sabo to Gallery no Karinkan",
      "description": "Restaurant, 288 m from Shin-Toyotsu Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40016967/",
      "page": "https://bokenjapan.com/fukuoka/miyako/eat/other/",
@@ -46155,7 +46155,7 @@
     "lat": 33.152447,
     "lon": 130.4747786
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "LAWSON 瀬高山門店",
@@ -46209,7 +46209,7 @@
    "food": [
     {
      "name": "花屋にCafe 貴咲",
-     "name_en": "Hanaya Ni Cafe Takashi Saki",
+     "name_en": "Hanaya ni Cafe Kisaki",
      "description": "Cafe, 310 m from Hiraki Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400807/40060993/",
      "page": "https://bokenjapan.com/fukuoka/miyama/eat/cafe/",
@@ -46441,7 +46441,7 @@
     },
     {
      "name": "お蕎麦 なな草",
-     "name_en": "O Soba Nana Kusa",
+     "name_en": "Osoba Nanakusa",
      "description": "Soba restaurant, 2,500 m from Setaka Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400807/40044480/",
      "page": "https://bokenjapan.com/fukuoka/miyama/eat/noodles/",
@@ -46449,7 +46449,7 @@
     },
     {
      "name": "お食事処 なかはら",
-     "name_en": "O Shokuji Dokoro Nakahara",
+     "name_en": "Oshokujidokoro Nakahara",
      "description": "Soba restaurant, 3,100 m from Minami-Setaka Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400807/40053809/",
      "page": "https://bokenjapan.com/fukuoka/miyama/eat/noodles/",
@@ -46681,7 +46681,7 @@
     },
     {
      "name": "みどり屋菓子舗",
-     "name_en": "Midori Ya Kashi Ho",
+     "name_en": "Midoriya Kashiho",
      "description": "Japanese sweets (wagashi) shop, 313 m from Enoura Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400807/40030105/",
      "page": "https://bokenjapan.com/fukuoka/miyama/eat/sweets-bakeries/",
@@ -46856,7 +46856,7 @@
     "lat": 33.7236203,
     "lon": 130.6674343
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "セブンイレブン 若宮脇田店",
@@ -46960,7 +46960,7 @@
     },
     {
      "name": "お好み焼 はる",
-     "name_en": "O Konomi Yaki Haru",
+     "name_en": "Okonomiyaki Haru",
      "description": "Okonomiyaki restaurant, 3,324 m from Katsuno Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400701/40028669/",
      "page": "https://bokenjapan.com/fukuoka/miyawaka/eat/casual/",
@@ -47424,7 +47424,7 @@
     },
     {
      "name": "峠のパン屋 宮若店",
-     "name_en": "Toge no Pan Ya Miyawaka Branch",
+     "name_en": "Toge no Panya Miyawaka Branch",
      "description": "Bakery with parking, open 09:00–18:30.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400701/40024496/",
      "page": "https://bokenjapan.com/fukuoka/miyawaka/eat/sweets-bakeries/",
@@ -47608,7 +47608,7 @@
     "lat": 33.854743,
     "lon": 130.694906
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Nosambutsu Chokubai Tokoro Yume Workshop (Mizumaki Machizukuri Yugengaisha)",
@@ -47758,7 +47758,7 @@
     },
     {
      "name": "麺和田や×将軍",
-     "name_en": "Men Wada Ya X Shogun",
+     "name_en": "Menwadaya x Shogun",
      "description": "Diner, 512 m from Higashi-Mizumaki Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40064080/",
      "page": "https://bokenjapan.com/fukuoka/mizumaki/eat/casual/",
@@ -47862,7 +47862,7 @@
     },
     {
      "name": "子麦お好み焼",
-     "name_en": "Ko Mugi O Konomi Yaki",
+     "name_en": "Komugi Okonomiyaki",
      "description": "Okonomiyaki restaurant, 974 m from Mizumaki Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40015171/",
      "page": "https://bokenjapan.com/fukuoka/mizumaki/eat/casual/",
@@ -48126,7 +48126,7 @@
     },
     {
      "name": "豚屋食堂 水巻町店",
-     "name_en": "Buta Ya Shokudo Mizumaki Machi Branch",
+     "name_en": "Butaya Shokudo Mizumaki Branch",
      "description": "Tonkatsu restaurant, 468 m from Mizumaki Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40073639/",
      "page": "https://bokenjapan.com/fukuoka/mizumaki/eat/meat/",
@@ -48262,7 +48262,7 @@
     },
     {
      "name": "麺屋 一期",
-     "name_en": "Men Ya Ikki",
+     "name_en": "Menya Ichigo",
      "description": "Udon restaurant, 2,100 m from Mizumaki Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4004/A400404/40054612/",
      "page": "https://bokenjapan.com/fukuoka/mizumaki/eat/noodles/",
@@ -48406,7 +48406,7 @@
     },
     {
      "name": "Shunsai Ryoori Kayoobi Wa Oyasumi",
-     "name_en": "Shunsai Ryori Kayobi Wa Oyasumi",
+     "name_en": "Shunsai Ryori Kayobi wa Oyasumi",
      "description": "Restaurant in Isaza.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1121475-d6057821-Reviews-Shunsai_Ryoori_Kayoobi_Wa_Oyasumi-Mizumaki_machi_Onga_gun_Fukuoka_Prefecture_Kyu.html",
      "page": "https://bokenjapan.com/fukuoka/mizumaki/eat/other/",
@@ -48839,7 +48839,7 @@
     "lat": 33.8055565,
     "lon": 130.5401871
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "セブンイレブン 宗像自由ヶ丘店",
@@ -48961,7 +48961,7 @@
     },
     {
      "name": "のんきなごはん屋 ハッピーゴーラッキー",
-     "name_en": "Nonkinagohan Ya Happy Gorakki",
+     "name_en": "Nonki na Gohanya Happy Go Lucky",
      "description": "Rice-ball (onigiri) shop, 3,642 m from Akama Station; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40061319/",
      "page": "https://bokenjapan.com/fukuoka/munakata/eat/casual/",
@@ -48969,7 +48969,7 @@
     },
     {
      "name": "唐コロ屋 宗像店",
-     "name_en": "To Koro Ya Munakata Branch",
+     "name_en": "Karakoroya Munakata Branch",
      "description": "Bento shop, 1,416 m from Togo Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40021222/",
      "page": "https://bokenjapan.com/fukuoka/munakata/eat/casual/",
@@ -49073,7 +49073,7 @@
     },
     {
      "name": "や台ずし 赤間駅北口町",
-     "name_en": "Ya Dai Zushi Akamaeki Kitaguchi Machi",
+     "name_en": "Yataizushi Akama-eki Kitaguchi-machi",
      "description": "Izakaya, 1-minute walk from Akama Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40068467/",
      "page": "https://bokenjapan.com/fukuoka/munakata/eat/izakaya-bars/",
@@ -49081,7 +49081,7 @@
     },
     {
      "name": "和ごころ 宗像",
-     "name_en": "Wa Gokoro Munakata",
+     "name_en": "Wagokoro Munakata",
      "description": "Izakaya; dinner ¥4,000–4,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40047762/",
      "page": "https://bokenjapan.com/fukuoka/munakata/eat/izakaya-bars/",
@@ -49225,7 +49225,7 @@
     },
     {
      "name": "しゃぶしゃぶ温野菜 宗像王丸店",
-     "name_en": "Shabushabu Onyasai Munakata O Maru Branch",
+     "name_en": "Shabu-shabu Onyasai Munakata Omaru Branch",
      "description": "Shabu-shabu restaurant, 2,000 m from Togo Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400302/40045981/",
      "page": "https://bokenjapan.com/fukuoka/munakata/eat/meat/",
@@ -49693,7 +49693,7 @@
     "lat": 33.4994742,
     "lon": 130.4219545
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Yume Hatake Nakagawashi Mise",
@@ -50025,7 +50025,7 @@
     },
     {
      "name": "ひので屋 那珂川店",
-     "name_en": "Hinode Ya Nakagawa Branch",
+     "name_en": "Hinodeya Nakagawa Branch",
      "description": "Fried-chicken (karaage) shop, 1,391 m from Hakata-Minami Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40040509/",
      "page": "https://bokenjapan.com/fukuoka/nakagawashi/eat/meat/",
@@ -50049,7 +50049,7 @@
     },
     {
      "name": "らーめん屋 鳳凛 那珂川店",
-     "name_en": "Ramen Ya Otori Rin Nakagawa Branch",
+     "name_en": "Ramenya Horin Nakagawa Branch",
      "description": "Ramen shop, 1,300 m from Hakata-Minami Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40044855/",
      "page": "https://bokenjapan.com/fukuoka/nakagawashi/eat/noodles/",
@@ -50065,7 +50065,7 @@
     },
     {
      "name": "ウエスト うどん屋那珂川南店",
-     "name_en": "West Udon Ya Nakagawa Minami Branch",
+     "name_en": "West Udonya Nakagawa Minami Branch",
      "description": "Udon restaurant, 588 m from Hakata-Minami Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40019295/",
      "page": "https://bokenjapan.com/fukuoka/nakagawashi/eat/noodles/",
@@ -50273,7 +50273,7 @@
     },
     {
      "name": "五ヶ山アイスキャンデー",
-     "name_en": "Go Ke Yama Ice Candy",
+     "name_en": "Gokayama Ice Candy",
      "description": "Gelato and ice cream shop with parking, near Ohashi Station.",
      "source_url": "https://tabelog.com/fukuoka/A4001/A400202/40043556/",
      "page": "https://bokenjapan.com/fukuoka/nakagawashi/eat/sweets-bakeries/",
@@ -50414,7 +50414,7 @@
     "lat": 33.816596,
     "lon": 130.709115
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "レガネット 中間",
@@ -50733,7 +50733,7 @@
     },
     {
      "name": "お好み焼 はな",
-     "name_en": "O Konomi Yaki Hana",
+     "name_en": "Okonomiyaki Hana",
      "description": "Okonomiyaki restaurant; a Top 100 Okonomiyaki pick (2018); 415 m from Nakama Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40025072/",
      "page": "https://bokenjapan.com/fukuoka/nakama/eat/casual/",
@@ -50901,7 +50901,7 @@
     },
     {
      "name": "お好み焼 あべ",
-     "name_en": "O Konomi Yaki Abe",
+     "name_en": "Okonomiyaki Abe",
      "description": "Okonomiyaki restaurant, 617 m from Higashi-Nakama Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40057003/",
      "page": "https://bokenjapan.com/fukuoka/nakama/eat/casual/",
@@ -51157,7 +51157,7 @@
     },
     {
      "name": "いきいき",
-     "name_en": "Ikīki",
+     "name_en": "Ikiiki",
      "description": "Izakaya, 412 m from Chikuho-Nakama Station; dinner ¥6,000–7,999.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/41000434/",
      "page": "https://bokenjapan.com/fukuoka/nakama/eat/izakaya-bars/",
@@ -51213,7 +51213,7 @@
     },
     {
      "name": "みーとぱいはうす",
-     "name_en": "Mītopaihausu",
+     "name_en": "Meat Pie House",
      "description": "Dining bar, 5-minute walk from Nakama Station; dinner ¥4,000–4,999.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40054372/",
      "page": "https://bokenjapan.com/fukuoka/nakama/eat/izakaya-bars/",
@@ -51493,7 +51493,7 @@
     },
     {
      "name": "からあげみやこ屋 中間通谷店",
-     "name_en": "Karāgemiyako ya Chukan Tsukoku Branch",
+     "name_en": "Karaage Miyakoya Nakama Tsukoku Branch",
      "description": "Fried-chicken (karaage) shop, 1,573 m from Toritani Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40055579/",
      "page": "https://bokenjapan.com/fukuoka/nakama/eat/meat/",
@@ -51509,7 +51509,7 @@
     },
     {
      "name": "本家 山賊からあげ 東中間店",
-     "name_en": "Honke Sanzoku Karāge Higashi-Nakama Branch",
+     "name_en": "Honke Sanzoku Karaage Higashi-Nakama Branch",
      "description": "Fried-chicken (karaage) shop, 74 m from Chikuho-Nakama Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40063843/",
      "page": "https://bokenjapan.com/fukuoka/nakama/eat/meat/",
@@ -51685,7 +51685,7 @@
     },
     {
      "name": "麺処 幸",
-     "name_en": "Men Dokoro Sachi",
+     "name_en": "Mendokoro Sachi",
      "description": "Udon restaurant, 15-minute walk from Chikuzen-Habu Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40058791/",
      "page": "https://bokenjapan.com/fukuoka/nakama/eat/noodles/",
@@ -51717,7 +51717,7 @@
     },
     {
      "name": "らーめん 慎",
-     "name_en": "Rāmen Shin",
+     "name_en": "Ramen Shin",
      "description": "Ramen shop, 740 m from Chikuzen-Habu Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40065951/",
      "page": "https://bokenjapan.com/fukuoka/nakama/eat/noodles/",
@@ -51749,7 +51749,7 @@
     },
     {
      "name": "大開運 ひとりさんらぁめん",
-     "name_en": "Ohiraki Un Hitorisanrāmen",
+     "name_en": "Daikaiun Hitorisan Ramen",
      "description": "Ramen shop, 553 m from Kibogaoka-Kokomae Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40068170/",
      "page": "https://bokenjapan.com/fukuoka/nakama/eat/noodles/",
@@ -51797,7 +51797,7 @@
     },
     {
      "name": "お茶の山本園 イオンなかま店",
-     "name_en": "O Cha no Yamamoto-en Aeon Nakama Branch",
+     "name_en": "Ocha no Yamamotoen Aeon Nakama Branch",
      "description": "Food spot, 372 m from Toritani Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40063718/",
      "page": "https://bokenjapan.com/fukuoka/nakama/eat/other/",
@@ -52197,7 +52197,7 @@
     },
     {
      "name": "和料理 蓮花寺 さいとう",
-     "name_en": "Wa Ryori Renge Tera Saito",
+     "name_en": "Waryori Rengeji Saito",
      "description": "Japanese restaurant, 8-minute walk from Toritani Station; dinner ¥10,000–14,999.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40034904/",
      "page": "https://bokenjapan.com/fukuoka/nakama/eat/other-japanese/",
@@ -52789,7 +52789,7 @@
     },
     {
      "name": "パン エーグル",
-     "name_en": "Pan Ēguru",
+     "name_en": "Pan Eagle",
      "description": "Bakery, 510 m from Chikuho-Nakama Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40033759/",
      "page": "https://bokenjapan.com/fukuoka/nakama/eat/sweets-bakeries/",
@@ -53079,7 +53079,7 @@
     "lat": 33.7440351,
     "lon": 130.729601
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Mochidango Village Mochi Kichi Kojo Chokubai Tokoro",
@@ -53231,7 +53231,7 @@
     },
     {
      "name": "おかず屋 バイ リンガーハット イオンモール直方店",
-     "name_en": "Okazu Ya Bai Ringer Hut Aeon Mall Nogata Branch",
+     "name_en": "Okazuya by Ringer Hut Aeon Mall Nogata Branch",
      "description": "Diner, 1,739 m from Ongano Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400701/40045051/",
      "page": "https://bokenjapan.com/fukuoka/nogata/eat/casual/",
@@ -53263,7 +53263,7 @@
     },
     {
      "name": "や台ずし 直方駅前町",
-     "name_en": "Ya Dai Zushi Nogataeki Maemachi",
+     "name_en": "Yataizushi Nogata-ekimae-machi",
      "description": "Izakaya, 287 m from Nogata Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400701/40039228/",
      "page": "https://bokenjapan.com/fukuoka/nogata/eat/izakaya-bars/",
@@ -53295,7 +53295,7 @@
     },
     {
      "name": "お好み焼き居酒屋 めぐちゃん",
-     "name_en": "O Konomi Yaki Izakaya Meguchan",
+     "name_en": "Okonomiyaki Izakaya Megu-chan",
      "description": "Izakaya, 580 m from Ongano Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400701/40067493/",
      "page": "https://bokenjapan.com/fukuoka/nogata/eat/izakaya-bars/",
@@ -53303,7 +53303,7 @@
     },
     {
      "name": "軍鶏屋 五鉄",
-     "name_en": "Shamo Ya Go Tetsu",
+     "name_en": "Shamoya Gotetsu",
      "description": "Chicken restaurant, 7-minute walk from Ongano Station; dinner ¥4,000–4,999.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400701/40054859/",
      "page": "https://bokenjapan.com/fukuoka/nogata/eat/izakaya-bars/",
@@ -53383,7 +53383,7 @@
     },
     {
      "name": "宇佐からあげ たかだ屋 直方びっくり市店",
-     "name_en": "Usa Karaage Takada Ya Nogata Bikkuri Shi Branch",
+     "name_en": "Usa Karaage Takadaya Nogata Bikkuri-ichi Branch",
      "description": "Fried-chicken (karaage) shop, 955 m from Ganda Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400701/40048967/",
      "page": "https://bokenjapan.com/fukuoka/nogata/eat/meat/",
@@ -53663,7 +53663,7 @@
     },
     {
      "name": "えくぼ屋 本店直売場",
-     "name_en": "Ekubo Ya Main Branch Chokubai Ba",
+     "name_en": "Ekuboya Main Store Chokubaijo",
      "description": "Japanese sweets (wagashi) shop, 15-minute walk from Nakaizumi Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400701/40033965/",
      "page": "https://bokenjapan.com/fukuoka/nogata/eat/sweets-bakeries/",
@@ -53800,7 +53800,7 @@
     "lat": 33.396507,
     "lon": 130.555579
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "コストコ 小郡倉庫店",
@@ -53965,7 +53965,7 @@
     },
     {
      "name": "バイブリーティールームズ",
-     "name_en": "Baiburīteīrumuzu",
+     "name_en": "Bibury Tea Rooms",
      "description": "Cafe, 668 m from Mitsusawa Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40055510/",
      "page": "https://bokenjapan.com/fukuoka/ogori/eat/cafe/",
@@ -54213,7 +54213,7 @@
     },
     {
      "name": "お食事処 なごみ",
-     "name_en": "O Shokuji Dokoro Nagomi",
+     "name_en": "Oshokujidokoro Nagomi",
      "description": "Diner, 803 m from Oho Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40029845/",
      "page": "https://bokenjapan.com/fukuoka/ogori/eat/casual/",
@@ -54389,7 +54389,7 @@
     },
     {
      "name": "お弁当 はなのじょうろ",
-     "name_en": "O Bento Hananojoro",
+     "name_en": "Obento Hananojoro",
      "description": "Bento shop, 26 m from Ogori Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40073115/",
      "page": "https://bokenjapan.com/fukuoka/ogori/eat/casual/",
@@ -54437,7 +54437,7 @@
     },
     {
      "name": "祥禾 イオン小郡店",
-     "name_en": "Sho Nogi Aeon Ogori Branch",
+     "name_en": "Shoka Aeon Ogori Branch",
      "description": "Taiwanese restaurant, 693 m from Oho Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40068936/",
      "page": "https://bokenjapan.com/fukuoka/ogori/eat/chinese-asian/",
@@ -54477,7 +54477,7 @@
     },
     {
      "name": "祥禾",
-     "name_en": "Sho Nogi",
+     "name_en": "Shoka",
      "description": "Chinese restaurant, 404 m from Oho Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40070306/",
      "page": "https://bokenjapan.com/fukuoka/ogori/eat/chinese-asian/",
@@ -54629,7 +54629,7 @@
     },
     {
      "name": "仏露料理ザハジーチェ",
-     "name_en": "Futsuro Ryori Zahajīche",
+     "name_en": "French-Russian Cuisine Zahajiche",
      "description": "French restaurant, 469 m from Nishitetsu Ogori Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40072194/",
      "page": "https://bokenjapan.com/fukuoka/ogori/eat/european/",
@@ -54733,7 +54733,7 @@
     },
     {
      "name": "御家路",
-     "name_en": "O Ieji",
+     "name_en": "Oieji",
      "description": "Izakaya, 138 m from Nishitetsu Ogori Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40018287/",
      "page": "https://bokenjapan.com/fukuoka/ogori/eat/izakaya-bars/",
@@ -54741,7 +54741,7 @@
     },
     {
      "name": "お好み酒蔵小郡",
-     "name_en": "O Konomi Shuzo Ogori",
+     "name_en": "Okonomi Sakagura Ogori",
      "description": "Izakaya, 1-minute walk from Nishitetsu Ogori Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40050196/",
      "page": "https://bokenjapan.com/fukuoka/ogori/eat/izakaya-bars/",
@@ -54813,7 +54813,7 @@
     },
     {
      "name": "小さな店",
-     "name_en": "Chīsa na Ten",
+     "name_en": "Chiisana Mise",
      "description": "Izakaya, 206 m from Nishitetsu Ogori Station; dinner ¥2,000–2,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40048307/",
      "page": "https://bokenjapan.com/fukuoka/ogori/eat/izakaya-bars/",
@@ -55149,7 +55149,7 @@
     },
     {
      "name": "小郡からあげ げん",
-     "name_en": "Ogori Karāge Gen",
+     "name_en": "Ogori Karaage Gen",
      "description": "Fried-chicken (karaage) shop, 635 m from Mitsusawa Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40040304/",
      "page": "https://bokenjapan.com/fukuoka/ogori/eat/meat/",
@@ -55181,7 +55181,7 @@
     },
     {
      "name": "カタルのからあげ",
-     "name_en": "Kataru Nokarāge",
+     "name_en": "Kataru no Karaage",
      "description": "Fried-chicken (karaage) shop, 430 m from Hatama Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40052846/",
      "page": "https://bokenjapan.com/fukuoka/ogori/eat/meat/",
@@ -55301,7 +55301,7 @@
     },
     {
      "name": "らあめん わや",
-     "name_en": "Rāmen Waya",
+     "name_en": "Ramen Waya",
      "description": "Ramen shop, 2,000 m from Mikunigaoka Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40064687/",
      "page": "https://bokenjapan.com/fukuoka/ogori/eat/noodles/",
@@ -55413,7 +55413,7 @@
     },
     {
      "name": "あなぐらぁ― 小郡店",
-     "name_en": "Anagurā Ogori Branch",
+     "name_en": "Anagura Ogori Branch",
      "description": "Ramen shop, 728 m from Nishitetsu Ogori Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40033289/",
      "page": "https://bokenjapan.com/fukuoka/ogori/eat/noodles/",
@@ -55517,7 +55517,7 @@
     },
     {
      "name": "JAみい直売所 めぐみの里",
-     "name_en": "JA Mī Chokubai Tokoro Megumino Sato",
+     "name_en": "JA Mii Chokubaijo Megumi no Sato",
      "description": "Food spot, 118 m from Matsuzaki Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40025664/",
      "page": "https://bokenjapan.com/fukuoka/ogori/eat/other/",
@@ -55533,7 +55533,7 @@
     },
     {
      "name": "お茶の山口園 イオン小郡店",
-     "name_en": "O Cha no Yamaguchi-en Aeon Ogori Branch",
+     "name_en": "Ocha no Yamaguchien Aeon Ogori Branch",
      "description": "Food spot, 676 m from Oho Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40052086/",
      "page": "https://bokenjapan.com/fukuoka/ogori/eat/other/",
@@ -55605,7 +55605,7 @@
     },
     {
      "name": "いいとこ鶏",
-     "name_en": "Ītoko Niwatori",
+     "name_en": "Iitoko Niwatori",
      "description": "Chicken restaurant, 421 m from Hatama Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40074557/",
      "page": "https://bokenjapan.com/fukuoka/ogori/eat/other/",
@@ -56613,7 +56613,7 @@
     },
     {
      "name": "レーブ・ド・ベベ",
-     "name_en": "Rēbu Do Bebe",
+     "name_en": "Reve de Bebe",
      "description": "Cake shop, 726 m from Mitsusawa Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40001098/",
      "page": "https://bokenjapan.com/fukuoka/ogori/eat/sweets-bakeries/",
@@ -56653,7 +56653,7 @@
     },
     {
      "name": "御菓子処やかべ",
-     "name_en": "O Kashi Dokoro Yakabe",
+     "name_en": "Okashidokoro Yakabe",
      "description": "Japanese sweets (wagashi) shop, 318 m from Oitai Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40027141/",
      "page": "https://bokenjapan.com/fukuoka/ogori/eat/sweets-bakeries/",
@@ -56797,7 +56797,7 @@
     },
     {
      "name": "シフォンケーキのお店 さつき",
-     "name_en": "Chiffon Cake No Ten Satsuki",
+     "name_en": "Chiffon Cake no Omise Satsuki",
      "description": "Western-style sweets shop, 220 m from Nishitetsu Ogori Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40059784/",
      "page": "https://bokenjapan.com/fukuoka/ogori/eat/sweets-bakeries/",
@@ -56974,7 +56974,7 @@
     "lat": 33.8535151,
     "lon": 130.6116866
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Hokkori Farm (Food Education Farm)",
@@ -57093,7 +57093,7 @@
     },
     {
      "name": "エアーロウかふぇ",
-     "name_en": "Eāro Cafe",
+     "name_en": "Air Row Cafe",
      "description": "Cafe, 1,113 m from Ebitsu Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40061851/",
      "page": "https://bokenjapan.com/fukuoka/okagaki/eat/cafe/",
@@ -57429,7 +57429,7 @@
     },
     {
      "name": "ビックべアーズピザ 岡垣店",
-     "name_en": "Bikku Be Āzupiza Okagaki Branch",
+     "name_en": "Big Bear's Pizza Okagaki Branch",
      "description": "Pizza restaurant, 717 m from Ebitsu Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40026018/",
      "page": "https://bokenjapan.com/fukuoka/okagaki/eat/european/",
@@ -57509,7 +57509,7 @@
     },
     {
      "name": "らーめん酒ば まんしゅう軒",
-     "name_en": "Rāmen Sake Ba Manshu Ken",
+     "name_en": "Ramen Sakaba Manshuken",
      "description": "Izakaya, 663 m from Ebitsu Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40067960/",
      "page": "https://bokenjapan.com/fukuoka/okagaki/eat/izakaya-bars/",
@@ -57637,7 +57637,7 @@
     },
     {
      "name": "御肉処 葡萄苑",
-     "name_en": "O Niku Dokoro Budo En",
+     "name_en": "Oniku Dokoro Budoen",
      "description": "Yakiniku (grilled meat) restaurant.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40044399/",
      "page": "https://bokenjapan.com/fukuoka/okagaki/eat/meat/",
@@ -57717,7 +57717,7 @@
     },
     {
      "name": "お月さん",
-     "name_en": "O Gatsu San",
+     "name_en": "Otsukisan",
      "description": "Udon restaurant, 733 m from Ebitsu Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40071353/",
      "page": "https://bokenjapan.com/fukuoka/okagaki/eat/noodles/",
@@ -57733,7 +57733,7 @@
     },
     {
      "name": "和麺・桜",
-     "name_en": "Wa Men Sakura",
+     "name_en": "Wamen Sakura",
      "description": "Udon restaurant, 1,600 m from Ebitsu Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40042929/",
      "page": "https://bokenjapan.com/fukuoka/okagaki/eat/noodles/",
@@ -57837,7 +57837,7 @@
     },
     {
      "name": "唯一無二",
-     "name_en": "Yuītsumuni",
+     "name_en": "Yuitsumuni",
      "description": "Chicken restaurant, 437 m from Ebitsu Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40075223/",
      "page": "https://bokenjapan.com/fukuoka/okagaki/eat/other/",
@@ -58550,7 +58550,7 @@
     },
     {
      "name": "《玄界灘直送》地元の食がうまい！海辺の料理小宿 はつしろ",
-     "name_en": "Genkai Nada Chokuso Jimoto no Shoku Gaumai Umibe no Ryori Sho Yado Hatsushiro",
+     "name_en": "Hatsushiro Umibe no Ryori Koyado",
      "description": "Ryokan (Japanese inn).",
      "source_url": "https://www.jalan.net/yad302689/",
      "page": "https://bokenjapan.com/fukuoka/okagaki/stay/"
@@ -58583,7 +58583,7 @@
     "lat": 33.206583333,
     "lon": 130.383888888
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "ゆめタウン 大川",
@@ -58830,7 +58830,7 @@
     },
     {
      "name": "とり商 わか菜",
-     "name_en": "Tori Sho Waka na",
+     "name_en": "Torisho Wakana",
      "description": "Fried-food shop.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400806/40054677/",
      "page": "https://bokenjapan.com/fukuoka/okawashi/eat/casual/",
@@ -59030,7 +59030,7 @@
     },
     {
      "name": "和心洋風レストランさんすい亭",
-     "name_en": "Wa Kokoro Yofu Restaurant Sansui Tei",
+     "name_en": "Wakokoro Yofu Restaurant Sansuitei",
      "description": "French restaurant, near Yakabe Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400806/40051476/",
      "page": "https://bokenjapan.com/fukuoka/okawashi/eat/european/",
@@ -59398,7 +59398,7 @@
     },
     {
      "name": "唐揚げ 大将",
-     "name_en": "Karāge Taisho",
+     "name_en": "Karaage Taisho",
      "description": "Fried-chicken (karaage) shop; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400806/40037448/",
      "page": "https://bokenjapan.com/fukuoka/okawashi/eat/meat/",
@@ -59502,7 +59502,7 @@
     },
     {
      "name": "からあげ 桜",
-     "name_en": "Karāge Sakura",
+     "name_en": "Karaage Sakura",
      "description": "Fried-chicken (karaage) shop, 3,552 m from Kamachi Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400806/40063580/",
      "page": "https://bokenjapan.com/fukuoka/okawashi/eat/meat/",
@@ -59566,7 +59566,7 @@
     },
     {
      "name": "富龍らーめん",
-     "name_en": "Tomi Ryu Rāmen",
+     "name_en": "Tomiryu Ramen",
      "description": "Ramen shop, 3,300 m from Kamachi Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400806/40009247/",
      "page": "https://bokenjapan.com/fukuoka/okawashi/eat/noodles/",
@@ -59654,7 +59654,7 @@
     },
     {
      "name": "お食事処 龍八",
-     "name_en": "O Shokuji Dokoro Ryu Hachi",
+     "name_en": "Oshokujidokoro Ryuhachi",
      "description": "Udon restaurant; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400806/40027463/",
      "page": "https://bokenjapan.com/fukuoka/okawashi/eat/noodles/",
@@ -59702,7 +59702,7 @@
     },
     {
      "name": "めん六や 福岡大川店",
-     "name_en": "Men Roku ya Fukuokadai Kawa Branch",
+     "name_en": "Menrokuya Fukuoka Okawa Branch",
      "description": "Udon restaurant; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400806/40047496/",
      "page": "https://bokenjapan.com/fukuoka/okawashi/eat/noodles/",
@@ -60590,7 +60590,7 @@
     },
     {
      "name": "新美勢本店",
-     "name_en": "Nīmi Sei Main Branch",
+     "name_en": "Niimisei Main Store",
      "description": "Sushi restaurant; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400806/40029819/",
      "page": "https://bokenjapan.com/fukuoka/okawashi/eat/seafood/",
@@ -60774,7 +60774,7 @@
     },
     {
      "name": "パリ・モンスリー",
-     "name_en": "Paris Monsurī",
+     "name_en": "Paris Montsouris",
      "description": "Bakery with parking, open 08:30–19:00.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400806/40027278/",
      "page": "https://bokenjapan.com/fukuoka/okawashi/eat/sweets-bakeries/",
@@ -61082,7 +61082,7 @@
     "lat": 33.210412,
     "lon": 130.439786
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Amaoichigo Kari Farm Howaitoberii",
@@ -61622,7 +61622,7 @@
     "lat": 33.030348,
     "lon": 130.446012
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "セブンイレブン 大牟田笹林店",
@@ -61876,7 +61876,7 @@
     },
     {
      "name": "旬菜と網焼き酒場 本店 六星",
-     "name_en": "Jun Na To Amiyaki Ki Sakaba Main Branch Roku Hoshi",
+     "name_en": "Junsai to Amiyaki Sakaba Main Store Rokusei",
      "description": "Izakaya, 5-minute walk from Omuta Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400807/40067527/",
      "page": "https://bokenjapan.com/fukuoka/omuta/eat/izakaya-bars/",
@@ -62060,7 +62060,7 @@
     },
     {
      "name": "麺屋天道",
-     "name_en": "Men Ya Tendo",
+     "name_en": "Menya Tendo",
      "description": "Ramen shop, 1,400 m from Arao Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400807/40056094/",
      "page": "https://bokenjapan.com/fukuoka/omuta/eat/noodles/",
@@ -62680,7 +62680,7 @@
     "lat": 33.848045,
     "lon": 130.668198
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Genki Market",
@@ -62943,7 +62943,7 @@
     },
     {
      "name": "お食事処 おふくろ食堂",
-     "name_en": "O Shokuji Dokoro Ofukuro Shokudo",
+     "name_en": "Oshokujidokoro Ofukuro Shokudo",
      "description": "Diner, 1,700 m from Ongagawa Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40065581/",
      "page": "https://bokenjapan.com/fukuoka/onga/eat/casual/",
@@ -63023,7 +63023,7 @@
     },
     {
      "name": "ありがた屋 遠賀店",
-     "name_en": "Arigata Ya Onga Branch",
+     "name_en": "Arigataya Onga Branch",
      "description": "Diner, 1,718 m from Ongagawa Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40043949/",
      "page": "https://bokenjapan.com/fukuoka/onga/eat/casual/",
@@ -63095,7 +63095,7 @@
     },
     {
      "name": "鉄板餃子の池田屋 遠賀店",
-     "name_en": "Teppan Gyoza no Ikeda Ya Onga Branch",
+     "name_en": "Teppan Gyoza no Ikedaya Onga Branch",
      "description": "Gyoza restaurant, 746 m from Ongagawa Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40046324/",
      "page": "https://bokenjapan.com/fukuoka/onga/eat/chinese-asian/",
@@ -63335,7 +63335,7 @@
     },
     {
      "name": "唐十 ゆめタウン遠賀店",
-     "name_en": "To Ju Yume Town Onga Branch",
+     "name_en": "Toju Yume Town Onga Branch",
      "description": "Fried-chicken (karaage) shop, 667 m from Ongagawa Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40053770/",
      "page": "https://bokenjapan.com/fukuoka/onga/eat/meat/",
@@ -63487,7 +63487,7 @@
     },
     {
      "name": "自然薯 智清庵",
-     "name_en": "Shizen Sho Satoru Seian",
+     "name_en": "Jinenjo Chiseian",
      "description": "Grated-yam rice restaurant, 1,500 m from Ongagawa Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40053476/",
      "page": "https://bokenjapan.com/fukuoka/onga/eat/other/",
@@ -63895,7 +63895,7 @@
     },
     {
      "name": "マキマキ屋 遠賀店",
-     "name_en": "Makimaki Ya Onga Branch",
+     "name_en": "Makimakiya Onga Branch",
      "description": "Cake shop, 1,793 m from Ongagawa Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400603/40048884/",
      "page": "https://bokenjapan.com/fukuoka/onga/eat/sweets-bakeries/",
@@ -64058,7 +64058,7 @@
     "lat": 33.5362756,
     "lon": 130.4787998
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "サト～食鮮館 山田店",
@@ -64355,7 +64355,7 @@
     },
     {
      "name": "大城の森",
-     "name_en": "Oshiro No Mori",
+     "name_en": "Oshiro no Mori",
      "description": "Cafe, 1,271 m from Shirakibaru Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40062515/",
      "page": "https://bokenjapan.com/fukuoka/onojo/eat/cafe/",
@@ -64395,7 +64395,7 @@
     },
     {
      "name": "お茶の山口園 イオン大野城SC",
-     "name_en": "O Cha no Yamaguchi-en Aeon Onojo Sc",
+     "name_en": "Ocha no Yamaguchien Aeon Onojo SC",
      "description": "Cafe, 202 m from Kasugabaru Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40050345/",
      "page": "https://bokenjapan.com/fukuoka/onojo/eat/cafe/",
@@ -64635,7 +64635,7 @@
     },
     {
      "name": "お好み亭",
-     "name_en": "O Konomi Tei",
+     "name_en": "Okonomitei",
      "description": "Okonomiyaki restaurant, 80 m from Shimoori Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40012888/",
      "page": "https://bokenjapan.com/fukuoka/onojo/eat/casual/",
@@ -64691,7 +64691,7 @@
     },
     {
      "name": "日之出屋 大野城店",
-     "name_en": "Hinode Ya Onojo Branch",
+     "name_en": "Hinodeya Onojo Branch",
      "description": "Bento shop, 1,325 m from Kasugabaru Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40026189/",
      "page": "https://bokenjapan.com/fukuoka/onojo/eat/casual/",
@@ -65131,7 +65131,7 @@
     },
     {
      "name": "ＣｏＣｏ壱番屋 福岡南バイパス店",
-     "name_en": "Coco Ichiban Ya Fukuoka Minami Bypass Branch",
+     "name_en": "CoCo Ichibanya Fukuoka Minami Bypass Branch",
      "description": "Curry restaurant, 1,255 m from Kasugabaru Station; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40005608/",
      "page": "https://bokenjapan.com/fukuoka/onojo/eat/curry/",
@@ -65531,7 +65531,7 @@
     },
     {
      "name": "や台ずし 下大利駅西口町",
-     "name_en": "Ya Dai Zushi Shimori Eki Nishiguchi Machi",
+     "name_en": "Yataizushi Shimoori-eki Nishiguchi-machi",
      "description": "Izakaya, 63 m from Shimoori Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40043787/",
      "page": "https://bokenjapan.com/fukuoka/onojo/eat/izakaya-bars/",
@@ -65579,7 +65579,7 @@
     },
     {
      "name": "お酒とお肉の食堂 エンジン",
-     "name_en": "O Sake Too Niku no Shokudo Enjin",
+     "name_en": "Osake to Oniku no Shokudo Engine",
      "description": "Izakaya, 84 m from Shimoori Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40073675/",
      "page": "https://bokenjapan.com/fukuoka/onojo/eat/izakaya-bars/",
@@ -65595,7 +65595,7 @@
     },
     {
      "name": "や台ずし 白木原町",
-     "name_en": "Ya Dai Zushi Shirakibaru Machi",
+     "name_en": "Yataizushi Shirakibaru-machi",
      "description": "Izakaya, 118 m from Shirakibaru Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40026181/",
      "page": "https://bokenjapan.com/fukuoka/onojo/eat/izakaya-bars/",
@@ -65771,7 +65771,7 @@
     },
     {
      "name": "和×酒 英",
-     "name_en": "Wa X Sake Ei",
+     "name_en": "Wa x Sake Ei",
      "description": "Izakaya, 1,492 m from Mizuki Station; dinner ¥4,000–4,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40068474/",
      "page": "https://bokenjapan.com/fukuoka/onojo/eat/izakaya-bars/",
@@ -66363,7 +66363,7 @@
     },
     {
      "name": "麺処茶房 福",
-     "name_en": "Men Dokoro Sabo Fuku",
+     "name_en": "Mendokoro Sabo Fuku",
      "description": "Ramen shop, 11-minute walk from Shirakibaru Station; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40065944/",
      "page": "https://bokenjapan.com/fukuoka/onojo/eat/noodles/",
@@ -66371,7 +66371,7 @@
     },
     {
      "name": "小麦冶 大野城店",
-     "name_en": "Komugi Ya Onojo Branch",
+     "name_en": "Komugiya Onojo Branch",
      "description": "Udon restaurant, 476 m from Kasugabaru Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40000561/",
      "page": "https://bokenjapan.com/fukuoka/onojo/eat/noodles/",
@@ -66427,7 +66427,7 @@
     },
     {
      "name": "麺屋 おおたき",
-     "name_en": "Men Ya Otaki",
+     "name_en": "Menya Otaki",
      "description": "Ramen shop, 1,500 m from Sakuranamiki Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40064044/",
      "page": "https://bokenjapan.com/fukuoka/onojo/eat/noodles/",
@@ -67971,7 +67971,7 @@
     },
     {
      "name": "ロンブラージュ・ビガレ 白木原店",
-     "name_en": "Ronburāju Bigare Shirakibaru Branch",
+     "name_en": "L'Ombrage Bigare Shirakibaru Branch",
      "description": "Bakery, 58 m from Shirakibaru Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40000818/",
      "page": "https://bokenjapan.com/fukuoka/onojo/eat/sweets-bakeries/",
@@ -67987,7 +67987,7 @@
     },
     {
      "name": "バニラの実 上大利店",
-     "name_en": "Vanilla no Mi Ue Dairi Branch",
+     "name_en": "Vanilla no Mi Kamiori Branch",
      "description": "Cake shop, 856 m from Onojo Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40026168/",
      "page": "https://bokenjapan.com/fukuoka/onojo/eat/sweets-bakeries/",
@@ -68227,7 +68227,7 @@
     },
     {
      "name": "千鳥屋 錦町店",
-     "name_en": "Chidori Ya Nishikicho Branch",
+     "name_en": "Chidoriya Nishikicho Branch",
      "description": "Japanese sweets (wagashi) shop, 5-minute walk from Kasugabaru Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40059403/",
      "page": "https://bokenjapan.com/fukuoka/onojo/eat/sweets-bakeries/",
@@ -68331,7 +68331,7 @@
     },
     {
      "name": "ベーカリーカフェ パンだ!屋 月の浦店",
-     "name_en": "Bakery Cafe Pan Da ! Ya Gatsu no Ura Branch",
+     "name_en": "Bakery Cafe Panda-ya Tsukinoura Branch",
      "description": "Bakery, 3,000 m from Hakata-Minami Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400301/40068739/",
      "page": "https://bokenjapan.com/fukuoka/onojo/eat/sweets-bakeries/",
@@ -68473,7 +68473,7 @@
     "lat": 33.6121481,
     "lon": 130.8538551
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "activities": [
     {
      "name": "Roadside Station Oto Sakura Kaido",
@@ -68589,7 +68589,7 @@
     },
     {
      "name": "揚物屋 弁天",
-     "name_en": "Agemono Ya Benten",
+     "name_en": "Agemonoya Benten",
      "description": "Fried-chicken (karaage) shop, 2,173 m from Uchida Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40058070/",
      "page": "https://bokenjapan.com/fukuoka/oto/eat/meat/",
@@ -68605,7 +68605,7 @@
     },
     {
      "name": "豊前裏打会 津田屋流 麺チャンピオン",
-     "name_en": "Buzen Urauchi Kai Tsuda Ya Ryu Men Chanpion",
+     "name_en": "Buzen Urauchikai Tsudayaryu Noodle Champion",
      "description": "Udon restaurant, 2,000 m from Aka Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40057296/",
      "page": "https://bokenjapan.com/fukuoka/oto/eat/noodles/",
@@ -68812,7 +68812,7 @@
     "lat": 33.623844,
     "lon": 130.526242
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "TRIAL GO 篠栗尾仲店",
@@ -68844,7 +68844,7 @@
     },
     {
      "name": "セブンイレブン 篠栗町民体育館前",
-     "name_en": "7-Eleven Sasaguri Chomin Taīkukan Mae",
+     "name_en": "7-Eleven Sasaguri Chomin Taiikukan Mae",
      "description": "Convenience store or supermarket, 903 m from Sasaguri Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40064207/",
      "page": "https://bokenjapan.com/fukuoka/sasaguri/day-to-day/"
@@ -68893,7 +68893,7 @@
     },
     {
      "name": "ファミリーマート ささぐりーん店",
-     "name_en": "FamilyMart Sasagurīn Branch",
+     "name_en": "FamilyMart Sasaguri Branch",
      "description": "Convenience store or supermarket, 797 m from Sasaguri Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40070913/",
      "page": "https://bokenjapan.com/fukuoka/sasaguri/day-to-day/"
@@ -68990,7 +68990,7 @@
     },
     {
      "name": "チートデイ",
-     "name_en": "Chītodei",
+     "name_en": "Cheat Day",
      "description": "Cafe, 2,710 m from Sasaguri Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40065985/",
      "page": "https://bokenjapan.com/fukuoka/sasaguri/eat/cafe/",
@@ -68998,7 +68998,7 @@
     },
     {
      "name": "お寺喫茶 楓",
-     "name_en": "O Tera Kissa Momiji",
+     "name_en": "Otera Kissa Kaede",
      "description": "Traditional coffee shop (kissaten), 308 m from Chikuzen-Yamate Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40065517/",
      "page": "https://bokenjapan.com/fukuoka/sasaguri/eat/cafe/",
@@ -69174,7 +69174,7 @@
     },
     {
      "name": "お肉の直売所 篠栗店",
-     "name_en": "O Niku no Chokubai Tokoro Sasaguri Branch",
+     "name_en": "Oniku no Chokubaijo Sasaguri Branch",
      "description": "Deli, 920 m from Kadomatsu Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40071403/",
      "page": "https://bokenjapan.com/fukuoka/sasaguri/eat/casual/",
@@ -69590,7 +69590,7 @@
     },
     {
      "name": "元祖スタミナ焼きそばーば",
-     "name_en": "Ganso Stamina Yakisobā Ba",
+     "name_en": "Ganso Stamina Yakisoba Baaba",
      "description": "Yakisoba shop, 754 m from Sasaguri Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40057307/",
      "page": "https://bokenjapan.com/fukuoka/sasaguri/eat/noodles/",
@@ -69646,7 +69646,7 @@
     },
     {
      "name": "お肉の直売所 野田ミート 篠栗店",
-     "name_en": "O Niku no Chokubai Tokoro Noda Meat Sasaguri Branch",
+     "name_en": "Oniku no Chokubaijo Noda Meat Sasaguri Branch",
      "description": "Food spot, 922 m from Kadomatsu Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40053717/",
      "page": "https://bokenjapan.com/fukuoka/sasaguri/eat/other/",
@@ -69678,7 +69678,7 @@
     },
     {
      "name": "たーちゃん",
-     "name_en": "Tāchan",
+     "name_en": "Ta-chan",
      "description": "Restaurant, 107 m from Sasaguri Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40023128/",
      "page": "https://bokenjapan.com/fukuoka/sasaguri/eat/other/",
@@ -69830,7 +69830,7 @@
     },
     {
      "name": "Hinode Ya Bekkan",
-     "name_en": "Hinode Ya Bekkan",
+     "name_en": "Hinodeya Bekkan",
      "description": "Restaurant in Kanaide.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1121468-d10649323-Reviews-Hinode_Ya_Bekkan-Sasaguri_machi_Kasuya_gun_Fukuoka_Prefecture_Kyushu.html",
      "page": "https://bokenjapan.com/fukuoka/sasaguri/eat/other/",
@@ -70238,7 +70238,7 @@
     },
     {
      "name": "お休み処 ひらわ",
-     "name_en": "O Yasumi Dokoro Hirawa",
+     "name_en": "Oyasumidokoro Hirawa",
      "description": "Japanese sweets (wagashi) shop, 264 m from Sasaguri Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40055128/",
      "page": "https://bokenjapan.com/fukuoka/sasaguri/eat/sweets-bakeries/",
@@ -70519,7 +70519,7 @@
     },
     {
      "name": "お寺で過ごすやすらぎのひととき 明石寺 大日屋旅館",
-     "name_en": "O Tera de Sugo Suyasuraginohitotoki Akashi Tera Dainichi ya Ryokan",
+     "name_en": "Dainichiya Ryokan, a Peaceful Stay at Akashi-dera Temple",
      "description": "Ryokan, 7-minute walk from Chikuzen-Yamate Station, 3 Japanese-style rooms, free parking.",
      "source_url": "https://www.jalan.net/yad344700/",
      "page": "https://bokenjapan.com/fukuoka/sasaguri/stay/"
@@ -70552,7 +70552,7 @@
     "lat": 33.591443,
     "lon": 130.479794
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "スーパーセンタートライアル 福岡空港店",
@@ -70813,7 +70813,7 @@
     },
     {
      "name": "お好み焼きダイニング 狼月",
-     "name_en": "O Konomi Yaki Dining Okami Gatsu",
+     "name_en": "Okonomiyaki Dining Rogetsu",
      "description": "Okonomiyaki restaurant, 1,500 m from Sue-Chuo Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40053000/",
      "page": "https://bokenjapan.com/fukuoka/shime/eat/casual/",
@@ -70869,7 +70869,7 @@
     },
     {
      "name": "お好み焼き 鉄板焼き かなちゃん",
-     "name_en": "O Konomi Yaki Teppanyaki Ki Kanachan",
+     "name_en": "Okonomiyaki Teppanyaki Kana-chan",
      "description": "Okonomiyaki restaurant, 1,600 m from Sakado Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40070157/",
      "page": "https://bokenjapan.com/fukuoka/shime/eat/casual/",
@@ -70925,7 +70925,7 @@
     },
     {
      "name": "ひので屋 御手洗店",
-     "name_en": "Hinode Ya Mitarai Branch",
+     "name_en": "Hinodeya Mitarai Branch",
      "description": "Bento shop, 784 m from Yusu Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40042553/",
      "page": "https://bokenjapan.com/fukuoka/shime/eat/casual/",
@@ -70957,7 +70957,7 @@
     },
     {
      "name": "お好み焼 はる 志免店",
-     "name_en": "O Konomi Yaki Haru Shime Branch",
+     "name_en": "Okonomiyaki Haru Shime Branch",
      "description": "Okonomiyaki restaurant, 1,200 m from Sue Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40045301/",
      "page": "https://bokenjapan.com/fukuoka/shime/eat/casual/",
@@ -71253,7 +71253,7 @@
     },
     {
      "name": "CoCo壱番屋 福岡志免店",
-     "name_en": "Coco Ichiban Ya Fukuoka Shime Branch",
+     "name_en": "CoCo Ichibanya Fukuoka Shime Branch",
      "description": "Curry restaurant, 1,461 m from Sakado Station; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40016277/",
      "page": "https://bokenjapan.com/fukuoka/shime/eat/curry/",
@@ -71485,7 +71485,7 @@
     },
     {
      "name": "ぢどり屋いし田",
-     "name_en": "Jidori Ya Ishi Ta",
+     "name_en": "Jidoriya Ishida",
      "description": "Chicken restaurant, 1,463 m from Harumachi Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40046727/",
      "page": "https://bokenjapan.com/fukuoka/shime/eat/izakaya-bars/",
@@ -71957,7 +71957,7 @@
     },
     {
      "name": "唐将 志免店",
-     "name_en": "To Sho Shime Branch",
+     "name_en": "Tosho Shime Branch",
      "description": "Fried-chicken (karaage) shop, 1,854 m from Sakado Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40059564/",
      "page": "https://bokenjapan.com/fukuoka/shime/eat/meat/",
@@ -72125,7 +72125,7 @@
     },
     {
      "name": "らーめん 一刻や 志免店",
-     "name_en": "Raamen Ikkoku Ya Shime Branch",
+     "name_en": "Ramen Ikkokuya Shime Branch",
      "description": "Ramen shop, 1,300 m from Harumachi Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40060924/",
      "page": "https://bokenjapan.com/fukuoka/shime/eat/noodles/",
@@ -72165,7 +72165,7 @@
     },
     {
      "name": "つけ麺 新道",
-     "name_en": "Tsuke Men Shindo",
+     "name_en": "Tsukemen Shindo",
      "description": "Tsukemen shop, 1,500 m from Sakado Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40065460/",
      "page": "https://bokenjapan.com/fukuoka/shime/eat/noodles/",
@@ -72189,7 +72189,7 @@
     },
     {
      "name": "めん家鉄",
-     "name_en": "Men Ie Tetsu",
+     "name_en": "Menya Tetsu",
      "description": "Tantanmen shop, 1,700 m from Sue Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40003198/",
      "page": "https://bokenjapan.com/fukuoka/shime/eat/noodles/",
@@ -72349,7 +72349,7 @@
     },
     {
      "name": "お肉の大ちゃん",
-     "name_en": "O Niku no Dai Chan",
+     "name_en": "Oniku no Dai-chan",
      "description": "Food spot, 1,600 m from Sue Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40054851/",
      "page": "https://bokenjapan.com/fukuoka/shime/eat/other/",
@@ -72501,7 +72501,7 @@
     },
     {
      "name": "Men Ya Wa",
-     "name_en": "Men Ya Wa",
+     "name_en": "Menya Wa",
      "description": "Restaurant in Shime, open 11:00–21:00.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1121469-d7483179-Reviews-Men_Ya_Wa-Shime_machi_Kasuya_gun_Fukuoka_Prefecture_Kyushu.html",
      "page": "https://bokenjapan.com/fukuoka/shime/eat/other/",
@@ -72789,7 +72789,7 @@
     },
     {
      "name": "串カツ屋 真心",
-     "name_en": "Kushi Katsu Ya Magokoro",
+     "name_en": "Kushikatsuya Magokoro",
      "description": "Kushiage restaurant, 1,300 m from Harumachi Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40058703/",
      "page": "https://bokenjapan.com/fukuoka/shime/eat/other-japanese/",
@@ -73317,7 +73317,7 @@
     },
     {
      "name": "パ ザ パ",
-     "name_en": "Pa Za Pa",
+     "name_en": "Pazapa",
      "description": "Cake shop, 1,538 m from Harumachi Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40046692/",
      "page": "https://bokenjapan.com/fukuoka/shime/eat/sweets-bakeries/",
@@ -73451,7 +73451,7 @@
     "lat": 33.7152244,
     "lon": 130.4464297
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Shima no Eki Ai no Shima",
@@ -73707,7 +73707,7 @@
     },
     {
      "name": "お弁当のヒライ 新宮三代店",
-     "name_en": "O Bento no Hirai Shingu Sandai Branch",
+     "name_en": "Obento no Hirai Shingu Sandai Branch",
      "description": "Bento shop, 1,000 m from Fukkodaimae Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4001/A400201/40034640/",
      "page": "https://bokenjapan.com/fukuoka/shingucho/eat/casual/",
@@ -73755,7 +73755,7 @@
     },
     {
      "name": "お弁当の12時亭",
-     "name_en": "O Bento no 12 Toki Tei",
+     "name_en": "Obento no 12-ji Tei",
      "description": "Bento shop, 233 m from Fukkodaimae Station.",
      "source_url": "https://tabelog.com/fukuoka/A4001/A400201/40031559/",
      "page": "https://bokenjapan.com/fukuoka/shingucho/eat/casual/",
@@ -73835,7 +73835,7 @@
     },
     {
      "name": "お好み焼ダンボ",
-     "name_en": "O Konomi Yaki Danbo",
+     "name_en": "Okonomiyaki Danbo",
      "description": "Okonomiyaki restaurant, 172 m from Fukkodaimae Station.",
      "source_url": "https://tabelog.com/fukuoka/A4001/A400201/40014168/",
      "page": "https://bokenjapan.com/fukuoka/shingucho/eat/casual/",
@@ -73875,7 +73875,7 @@
     },
     {
      "name": "中華食堂 小明 新宮店",
-     "name_en": "Chuka Shokudo Sho Mei Shingu Branch",
+     "name_en": "Chuka Shokudo Shomei Shingu Branch",
      "description": "Chinese restaurant, 1,100 m from Shingu-Chuo Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40068629/",
      "page": "https://bokenjapan.com/fukuoka/shingucho/eat/chinese-asian/",
@@ -74027,7 +74027,7 @@
     },
     {
      "name": "ヴィチーノ レストラン・カフェ",
-     "name_en": "Vichīno Restaurant Cafe",
+     "name_en": "Vicino Restaurant Cafe",
      "description": "Italian restaurant, 3-minute walk from Shingu-Chuo Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4001/A400201/40054152/",
      "page": "https://bokenjapan.com/fukuoka/shingucho/eat/european/",
@@ -74131,7 +74131,7 @@
     },
     {
      "name": "トコノバー",
-     "name_en": "Tokonobā",
+     "name_en": "Tokono Bar",
      "description": "Bar, 2-minute walk from Fukkodaimae Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4001/A400201/40048588/",
      "page": "https://bokenjapan.com/fukuoka/shingucho/eat/izakaya-bars/",
@@ -74171,7 +74171,7 @@
     },
     {
      "name": "や台ずし 福工大駅前町",
-     "name_en": "Ya Dai Zushi Fukkodai Ekimae Machi",
+     "name_en": "Yataizushi Fukkodai-ekimae-machi",
      "description": "Izakaya, 211 m from Fukkodaimae Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4001/A400201/40053662/",
      "page": "https://bokenjapan.com/fukuoka/shingucho/eat/izakaya-bars/",
@@ -74211,7 +74211,7 @@
     },
     {
      "name": "オークバー",
-     "name_en": "Okubā",
+     "name_en": "Oak Bar",
      "description": "Bar, 2-minute walk from Fukkodaimae Station.",
      "source_url": "https://tabelog.com/fukuoka/A4001/A400201/40026642/",
      "page": "https://bokenjapan.com/fukuoka/shingucho/eat/izakaya-bars/",
@@ -74323,7 +74323,7 @@
     },
     {
      "name": "博多からあげ 暖 新宮本店",
-     "name_en": "Hakata Karāge Dan Shingu Main Branch (near Shingu-Chuo Station)",
+     "name_en": "Hakata Karaage Dan Shingu Main Store (near Shingu-Chuo Station)",
      "description": "Fried-chicken (karaage) shop, 691 m from Shingu-Chuo Station; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40035909/",
      "page": "https://bokenjapan.com/fukuoka/shingucho/eat/meat/",
@@ -74339,7 +74339,7 @@
     },
     {
      "name": "唐揚げ専門 ひなた商店",
-     "name_en": "Karāge Senmon Hinata Shoten",
+     "name_en": "Karaage Senmon Hinata Shoten",
      "description": "Fried-chicken (karaage) shop, 10-minute walk from Fukkodaimae Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4001/A400201/40051686/",
      "page": "https://bokenjapan.com/fukuoka/shingucho/eat/meat/",
@@ -74435,7 +74435,7 @@
     },
     {
      "name": "おいしい精肉店",
-     "name_en": "Oishī Seinikuten",
+     "name_en": "Oishii Seinikuten",
      "description": "Steakhouse, 632 m from Nishitetsu Shingu Station; lunch ¥2,000–2,999.",
      "source_url": "https://tabelog.com/fukuoka/A4001/A400201/40064347/",
      "page": "https://bokenjapan.com/fukuoka/shingucho/eat/meat/",
@@ -74507,7 +74507,7 @@
     },
     {
      "name": "らーめん 雷蔵 新宮店",
-     "name_en": "Rāmen Raizo Shingu Branch",
+     "name_en": "Ramen Raizo Shingu Branch",
      "description": "Ramen shop, 1,700 m from Kyusandaimae Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40006195/",
      "page": "https://bokenjapan.com/fukuoka/shingucho/eat/noodles/",
@@ -74619,7 +74619,7 @@
     },
     {
      "name": "麺酒場 呑龍",
-     "name_en": "Men Sakaba Donryu",
+     "name_en": "Mensakaba Donryu",
      "description": "Ramen shop, 187 m from Fukkodaimae Station.",
      "source_url": "https://tabelog.com/fukuoka/A4001/A400201/40063307/",
      "page": "https://bokenjapan.com/fukuoka/shingucho/eat/noodles/",
@@ -75107,7 +75107,7 @@
     },
     {
      "name": "相島地域産物展示販売所 丸山食堂",
-     "name_en": "So Shima Chīki Sanbutsu Tenji Hanbaijo Maruyama Shokudo",
+     "name_en": "Ainoshima Local Products Shop Maruyama Shokudo",
      "description": "Japanese restaurant; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40005073/",
      "page": "https://bokenjapan.com/fukuoka/shingucho/eat/other-japanese/",
@@ -75848,7 +75848,7 @@
     "lat": 33.571746,
     "lon": 130.854079
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Otsuka Farm Choko Workshop",
@@ -75997,7 +75997,7 @@
     },
     {
      "name": "お惣菜のみやざき",
-     "name_en": "O Sozai Nomiyazaki",
+     "name_en": "Osozai no Miyazaki",
      "description": "Deli, 232 m from Nishi-Soeda Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40056564/",
      "page": "https://bokenjapan.com/fukuoka/soeda/eat/casual/",
@@ -76077,7 +76077,7 @@
     },
     {
      "name": "北の庄 添田店",
-     "name_en": "Kita no Sho Soeda Branch",
+     "name_en": "Kitanosho Soeda Branch",
      "description": "Soba restaurant, 1,969 m from Nishi-Soeda Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40011542/",
      "page": "https://bokenjapan.com/fukuoka/soeda/eat/noodles/",
@@ -76101,7 +76101,7 @@
     },
     {
      "name": "味の蔵めん処九ちゃん",
-     "name_en": "Aji no Kura Men Dokoro Kyu Chan",
+     "name_en": "Aji no Kura Mendokoro Kyu-chan",
      "description": "Noodle restaurant, 1,600 m from Nishi-Soeda Station; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40009395/",
      "page": "https://bokenjapan.com/fukuoka/soeda/eat/noodles/",
@@ -76133,7 +76133,7 @@
     },
     {
      "name": "守破離",
-     "name_en": "Shu Ha Ri",
+     "name_en": "Shuhari",
      "description": "Game (gibier) restaurant.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40074870/",
      "page": "https://bokenjapan.com/fukuoka/soeda/eat/other/",
@@ -76205,7 +76205,7 @@
     },
     {
      "name": "Sho Ya",
-     "name_en": "Sho Ya",
+     "name_en": "Shoya",
      "description": "Restaurant at 1177 Soeda.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1121493-d10018223-Reviews-Sho_Ya-Soeda_machi_Tagawa_gun_Fukuoka_Prefecture_Kyushu.html",
      "page": "https://bokenjapan.com/fukuoka/soeda/eat/other/",
@@ -76229,7 +76229,7 @@
     },
     {
      "name": "からあげまんてん 添田町店",
-     "name_en": "Karāgemanten Soeda Machi Branch",
+     "name_en": "Karaage Manten Soeda Branch",
      "description": "Fried-chicken (karaage) shop, 380 m from Soeda Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40036700/",
      "page": "https://bokenjapan.com/fukuoka/soeda/eat/other/",
@@ -76309,7 +76309,7 @@
     },
     {
      "name": "Men Dokoro Fukakura An",
-     "name_en": "Men Dokoro Fukakura An",
+     "name_en": "Mendokoro Fukakura-an",
      "description": "Japanese restaurant in Noda.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1121493-d7483599-Reviews-Men_Dokoro_Fukakura_An-Soeda_machi_Tagawa_gun_Fukuoka_Prefecture_Kyushu.html",
      "page": "https://bokenjapan.com/fukuoka/soeda/eat/other-japanese/",
@@ -76745,7 +76745,7 @@
     "lat": 33.587209,
     "lon": 130.507246
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "スーパーセンタートライアル 須恵店",
@@ -76981,7 +76981,7 @@
     },
     {
      "name": "串王 須恵店",
-     "name_en": "Kushi O Sue Branch",
+     "name_en": "Kushio Sue Branch",
      "description": "Yakitori restaurant, 608 m from Sue Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40065246/",
      "page": "https://bokenjapan.com/fukuoka/sue/eat/meat/",
@@ -77005,7 +77005,7 @@
     },
     {
      "name": "麺処 辰",
-     "name_en": "Men Dokoro Tatsu",
+     "name_en": "Mendokoro Tatsu",
      "description": "Ramen shop, 278 m from Sue-Chuo Station; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40051142/",
      "page": "https://bokenjapan.com/fukuoka/sue/eat/noodles/",
@@ -77037,7 +77037,7 @@
     },
     {
      "name": "美らそば キッチンカー",
-     "name_en": "Bi Ra Soba Food Truck",
+     "name_en": "Chura Soba Food Truck",
      "description": "Restaurant, 1,800 m from Sue-Chuo Station.",
      "source_url": "https://tabelog.com/fukuoka/A4001/A400202/40071545/",
      "page": "https://bokenjapan.com/fukuoka/sue/eat/other/",
@@ -77221,7 +77221,7 @@
     },
     {
      "name": "和膳 花庵",
-     "name_en": "Wa Zen Hana-an",
+     "name_en": "Wazen Hana-an",
      "description": "Japanese restaurant, 267 m from Sue-Chuo Station; dinner ¥5,000–5,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40043395/",
      "page": "https://bokenjapan.com/fukuoka/sue/eat/other-japanese/",
@@ -77293,7 +77293,7 @@
     },
     {
      "name": "パン・ド・ラパージュ",
-     "name_en": "Pan Do Rapāju",
+     "name_en": "Pan do Rapaju",
      "description": "Bakery, 354 m from Sue-Chuo Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40069732/",
      "page": "https://bokenjapan.com/fukuoka/sue/eat/sweets-bakeries/",
@@ -77394,7 +77394,7 @@
     "lat": 33.372399,
     "lon": 130.622407
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Aコープ 大刀洗店",
@@ -77662,7 +77662,7 @@
     },
     {
      "name": "呼び戻しチャンポン 月と燈會",
-     "name_en": "Yobimodoshi Champon Gatsu To To Kai",
+     "name_en": "Yobimodoshi Champon Tsuki to Akari",
      "description": "Champon noodle restaurant, 8-minute walk from Yamaguma Station; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40071669/",
      "page": "https://bokenjapan.com/fukuoka/tachiarai/eat/noodles/",
@@ -77670,7 +77670,7 @@
     },
     {
      "name": "小麦冶 小郡店",
-     "name_en": "Komugi Ya Ogori Branch",
+     "name_en": "Komugiya Ogori Branch",
      "description": "Soba restaurant, 1,106 m from Matsuzaki Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40011554/",
      "page": "https://bokenjapan.com/fukuoka/tachiarai/eat/noodles/",
@@ -77686,7 +77686,7 @@
     },
     {
      "name": "めん六や 福岡大刀洗店",
-     "name_en": "Men Roku Ya Fukuokadai Katana Sen Branch",
+     "name_en": "Menrokuya Fukuoka Tachiarai Branch",
      "description": "Noodle restaurant, 981 m from Matsuzaki Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40046685/",
      "page": "https://bokenjapan.com/fukuoka/tachiarai/eat/noodles/",
@@ -77870,7 +77870,7 @@
     },
     {
      "name": "お菓子のふなき 十文字本店",
-     "name_en": "O Kashi Nofunaki Jumonji Main Branch",
+     "name_en": "Okashi no Funaki Jumonji Main Store",
      "description": "Cake shop, 3-minute walk from Nishitachiarai Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40026092/",
      "page": "https://bokenjapan.com/fukuoka/tachiarai/eat/sweets-bakeries/",
@@ -77968,7 +77968,7 @@
     "lat": 33.638821,
     "lon": 130.806136
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "セブンイレブン 田川バイパスみそぎ店",
@@ -78138,7 +78138,7 @@
     },
     {
      "name": "CoCo壱番屋 メルクス田川店",
-     "name_en": "Coco Ichiban Ya Merukusu Tagawa Branch",
+     "name_en": "CoCo Ichibanya Merx Tagawa Branch",
      "description": "Curry restaurant, 466 m from Oyabu Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40016274/",
      "page": "https://bokenjapan.com/fukuoka/tagawa/eat/curry/",
@@ -78322,7 +78322,7 @@
     },
     {
      "name": "串屋とり啓",
-     "name_en": "Kushi Ya Tori Kei",
+     "name_en": "Kushiya Torikei",
      "description": "Yakitori restaurant, 4-minute walk from Tagawa-Gotoji Station; dinner ¥6,000–7,999.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40059770/",
      "page": "https://bokenjapan.com/fukuoka/tagawa/eat/meat/",
@@ -78338,7 +78338,7 @@
     },
     {
      "name": "そば屋 牧口",
-     "name_en": "Soba Ya Makiguchi",
+     "name_en": "Sobaya Makiguchi",
      "description": "Soba restaurant, 109 m from Tagawa-Gotoji Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40052834/",
      "page": "https://bokenjapan.com/fukuoka/tagawa/eat/noodles/",
@@ -78362,7 +78362,7 @@
     },
     {
      "name": "めん六や 福岡田川店",
-     "name_en": "Men Roku Ya Fukuoka Tagawa Branch",
+     "name_en": "Menrokuya Fukuoka Tagawa Branch",
      "description": "Udon restaurant, 436 m from Shimoita Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40047489/",
      "page": "https://bokenjapan.com/fukuoka/tagawa/eat/noodles/",
@@ -78530,7 +78530,7 @@
     },
     {
      "name": "カフェ＆スウィーツ・リジェール",
-     "name_en": "Cafe Sweets Rijiēru",
+     "name_en": "Cafe & Sweets Rijieru",
      "description": "Cake shop, 986 m from Oyabu Station.",
      "source_url": "https://tabelog.com/fukuoka/A4007/A400703/40022859/",
      "page": "https://bokenjapan.com/fukuoka/tagawa/eat/sweets-bakeries/",
@@ -78717,7 +78717,7 @@
     "lat": 33.397319,
     "lon": 130.869942
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "activities": [
     {
      "name": "Roadside Station Koishiwara",
@@ -78811,7 +78811,7 @@
     },
     {
      "name": "ビーアンドビーカフェトゥーハーツ",
-     "name_en": "Bīandobīkafetouhātsu",
+     "name_en": "B&B Cafe Two Hearts",
      "description": "Cafe, open 11:00–17:00.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40030061/",
      "page": "https://bokenjapan.com/fukuoka/toho/eat/cafe/",
@@ -79083,7 +79083,7 @@
     },
     {
      "name": "和多屋寿司",
-     "name_en": "Wa Taya Sushi",
+     "name_en": "Wataya Sushi",
      "description": "Sushi restaurant, 2,700 m from Daigyoji Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400802/40011039/",
      "page": "https://bokenjapan.com/fukuoka/toho/eat/seafood/",
@@ -79324,7 +79324,7 @@
     },
     {
      "name": "岩屋キャンプ場 古民家ヴィラ「あんたげ」",
-     "name_en": "Iwaya Camp Ba Ko Minka Villa Antage",
+     "name_en": "Iwaya Campground Kominka Villa Antage",
      "description": "Minshuku, 2 rooms, free parking.",
      "source_url": "https://www.jalan.net/yad375293/",
      "page": "https://bokenjapan.com/fukuoka/toho/stay/"
@@ -79350,7 +79350,7 @@
     "lat": 33.3473884,
     "lon": 130.7550897
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "LAWSON 吉井若宮店",
@@ -79548,7 +79548,7 @@
     },
     {
      "name": "ホステル アンド カフェ ファロリート",
-     "name_en": "Hostel Ando Cafe Farorīto",
+     "name_en": "Hostel and Cafe Farolito",
      "description": "Cafe, 320 m from Chikugo-Yoshii Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40054995/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/cafe/",
@@ -79580,7 +79580,7 @@
     },
     {
      "name": "ラ・セーヌ",
-     "name_en": "Ra Sēnu",
+     "name_en": "La Seine",
      "description": "Traditional coffee shop (kissaten), 1,341 m from Ukiha Station; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40017411/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/cafe/",
@@ -79860,7 +79860,7 @@
     },
     {
      "name": "まーさん食堂",
-     "name_en": "Māsan Shokudo",
+     "name_en": "Ma-san Shokudo",
      "description": "Diner, 308 m from Chikugo-Yoshii Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40057377/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/casual/",
@@ -79892,7 +79892,7 @@
     },
     {
      "name": "お食事処うきは",
-     "name_en": "O Shokuji Dokoro Ukiha",
+     "name_en": "Oshokujidokoro Ukiha",
      "description": "Diner, 387 m from Ukiha Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40016968/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/casual/",
@@ -79964,7 +79964,7 @@
     },
     {
      "name": "ほっともっと 吉井町店",
-     "name_en": "Hottomotto Yoshī Machi Branch",
+     "name_en": "Hotto Motto Yoshii-machi Branch",
      "description": "Bento shop, 346 m from Chikugo-Yoshii Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40040455/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/casual/",
@@ -79988,7 +79988,7 @@
     },
     {
      "name": "たこやき太郎 吉井店",
-     "name_en": "Takoyaki Taro Yoshī Branch",
+     "name_en": "Takoyaki Taro Yoshii Branch",
      "description": "Takoyaki stand, 839 m from Chikugo-Yoshii Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40016497/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/casual/",
@@ -80236,7 +80236,7 @@
     },
     {
      "name": "焼鳥 鷹陣 吉井店",
-     "name_en": "Yakitori Taka Jin Yoshī Branch",
+     "name_en": "Yakitori Takajin Yoshii Branch",
      "description": "Izakaya, 356 m from Chikugo-Yoshii Station; dinner ¥4,000–4,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40049311/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/izakaya-bars/",
@@ -80252,7 +80252,7 @@
     },
     {
      "name": "八蔵 うきは吉井店",
-     "name_en": "Hachizo Ukiha Yoshī Branch",
+     "name_en": "Hachizo Ukiha Yoshii Branch",
      "description": "Izakaya, 2,008 m from Chikugo-Yoshii Station; dinner ¥4,000–4,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40033087/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/izakaya-bars/",
@@ -80316,7 +80316,7 @@
     },
     {
      "name": "ちいさい呑み屋 はちぶんめ",
-     "name_en": "Chīsai Nomi ya Hachibunme",
+     "name_en": "Chiisai Nomiya Hachibunme",
      "description": "Izakaya, 531 m from Chikugo-Yoshii Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40054103/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/izakaya-bars/",
@@ -80508,7 +80508,7 @@
     },
     {
      "name": "吉井十八",
-     "name_en": "Yoshī Juhachi",
+     "name_en": "Yoshii Juhachi",
      "description": "Meat restaurant, 523 m from Chikugo-Yoshii Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40000420/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/meat/",
@@ -80532,7 +80532,7 @@
     },
     {
      "name": "稲田屋 吉井店",
-     "name_en": "Ineda ya Yoshī Branch",
+     "name_en": "Inedaya Yoshii Branch",
      "description": "Fried-chicken (karaage) shop, 601 m from Chikugo-Yoshii Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40046949/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/meat/",
@@ -80572,7 +80572,7 @@
     },
     {
      "name": "鳥翔 浮羽店",
-     "name_en": "Tori Sho Ukiha Branch",
+     "name_en": "Torisho Ukiha Branch",
      "description": "Fried-chicken (karaage) shop, 567 m from Ukiha Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40058925/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/meat/",
@@ -80580,7 +80580,7 @@
     },
     {
      "name": "大分からあげ 吉井店",
-     "name_en": "Oita Karāge Yoshī Branch",
+     "name_en": "Oita Karaage Yoshii Branch",
      "description": "Fried-chicken (karaage) shop, 1,378 m from Chikugo-Yoshii Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40042627/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/meat/",
@@ -80620,7 +80620,7 @@
     },
     {
      "name": "福栄のから揚げ 吉井店",
-     "name_en": "Fukue Nokara Age Yoshī Branch",
+     "name_en": "Fukue no Karaage Yoshii Branch",
      "description": "Fried-chicken (karaage) shop, 505 m from Chikugo-Yoshii Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40047525/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/meat/",
@@ -80732,7 +80732,7 @@
     },
     {
      "name": "本氣のからあげ うきは吉井店",
-     "name_en": "Honki Nokarāge Ukiha Yoshī Branch",
+     "name_en": "Honki no Karaage Ukiha Yoshii Branch",
      "description": "Fried-chicken (karaage) shop, 2,005 m from Chikugo-Yoshii Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40057637/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/meat/",
@@ -80772,7 +80772,7 @@
     },
     {
      "name": "まぁぼや",
-     "name_en": "Māboya",
+     "name_en": "Maboya",
      "description": "Sichuan restaurant; a Top 100 Chinese pick (2026); 303 m from Chikugo-Yoshii Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40027090/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/noodles/",
@@ -80868,7 +80868,7 @@
     },
     {
      "name": "大砲ラーメン 吉井店",
-     "name_en": "Taiho Ramen Yoshī Branch",
+     "name_en": "Taiho Ramen Yoshii Branch",
      "description": "Ramen shop, 1,200 m from Chikugo-Yoshii Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40009326/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/noodles/",
@@ -80948,7 +80948,7 @@
     },
     {
      "name": "リンガーハット 福岡吉井店",
-     "name_en": "Ringer Hut Fukuoka Yoshī Branch",
+     "name_en": "Ringer Hut Fukuoka Yoshii Branch",
      "description": "Champon noodle restaurant, 1,167 m from Chikugo-Yoshii Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40016611/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/noodles/",
@@ -80956,7 +80956,7 @@
     },
     {
      "name": "〆屋 正行",
-     "name_en": "Ya Masayuki",
+     "name_en": "Shimeya Masayuki",
      "description": "Udon restaurant, 649 m from Chikugo-Yoshii Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40073449/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/noodles/",
@@ -81140,7 +81140,7 @@
     },
     {
      "name": "吉井醤油",
-     "name_en": "Yoshī Shoyu",
+     "name_en": "Yoshii Shoyu",
      "description": "Food spot, 601 m from Chikugo-Yoshii Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40039660/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/other/",
@@ -81156,7 +81156,7 @@
     },
     {
      "name": "きむいち うきは吉井店",
-     "name_en": "Kimuichi Ukiha Yoshī Branch",
+     "name_en": "Kimuichi Ukiha Yoshii Branch",
      "description": "Food spot, 768 m from Chikugo-Yoshii Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40059868/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/other/",
@@ -81164,7 +81164,7 @@
     },
     {
      "name": "酢造発酵場スー",
-     "name_en": "Su Zo Hakko Ba Su",
+     "name_en": "Sozo Hakkoba Su",
      "description": "Food spot, 1,300 m from Ukiha Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40063909/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/other/",
@@ -81988,7 +81988,7 @@
     },
     {
      "name": "Wa Wa Wa Tabetei",
-     "name_en": "Wa Wa Wa Tabetei",
+     "name_en": "Wawawa Tabetei",
      "description": "Japanese restaurant at 730-2 Yoshiimachi.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1022384-d14738620-Reviews-Wa_Wa_Wa_Tabetei-Ukiha_Fukuoka_Prefecture_Kyushu.html",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/other-japanese/",
@@ -82236,7 +82236,7 @@
     },
     {
      "name": "鰻のぼり よしゐ",
-     "name_en": "Unagi Nobori Yoshī",
+     "name_en": "Unagi Nobori Yoshii",
      "description": "Eel restaurant, 582 m from Chikugo-Yoshii Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40074432/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/seafood/",
@@ -82388,7 +82388,7 @@
     },
     {
      "name": "御菓子処 ひた屋福富",
-     "name_en": "O Kashi Dokoro Hita ya Fukutomi",
+     "name_en": "Okashidokoro Hitaya Fukutomi",
      "description": "Japanese sweets (wagashi) shop, 616 m from Chikugo-Yoshii Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40003066/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/sweets-bakeries/",
@@ -82452,7 +82452,7 @@
     },
     {
      "name": "べりーずべりーすうぃーつ",
-     "name_en": "Berīzuberīsuītsu",
+     "name_en": "Berry's Berry's Sweets",
      "description": "Western-style sweets shop, 1,550 m from Chikugo-Oishi Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40031830/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/sweets-bakeries/",
@@ -82668,7 +82668,7 @@
     },
     {
      "name": "ヨシイ ふなき",
-     "name_en": "Yoshī Funaki",
+     "name_en": "Yoshii Funaki",
      "description": "Bakery, 1,882 m from Chikugo-Yoshii Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40024945/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/sweets-bakeries/",
@@ -82692,7 +82692,7 @@
     },
     {
      "name": "ピース デリカテッセン",
-     "name_en": "Pīsu Delicatessen",
+     "name_en": "Peace Delicatessen",
      "description": "Western-style sweets shop, 2,223 m from Chikugo-Yoshii Station.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400803/40053728/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/eat/sweets-bakeries/",
@@ -82808,7 +82808,7 @@
    "stays": [
     {
      "name": "筑後吉井 町家宿 以久波",
-     "name_en": "Chikugo Yoshī Choka Yado Iku Nami",
+     "name_en": "Chikugo Yoshii Machiya Yado Ikuha",
      "description": "Ryokan (Japanese inn).",
      "source_url": "https://www.jalan.net/yad316914/",
      "page": "https://bokenjapan.com/fukuoka/ukiha/stay/"
@@ -82939,7 +82939,7 @@
     "lat": 33.567767,
     "lon": 130.511162
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Mori Hakata Shoku Chokubai Tokoro Ori Aguri (Hakata Shokko Ba Kengaku)",
@@ -83106,7 +83106,7 @@
     },
     {
      "name": "お弁当のひので屋 宇美店",
-     "name_en": "O Bento Nohinode Ya Umi Branch",
+     "name_en": "Obento no Hinodeya Umi Branch",
      "description": "Bento shop, 927 m from Shinbaru Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40054228/",
      "page": "https://bokenjapan.com/fukuoka/umi/eat/casual/",
@@ -83170,7 +83170,7 @@
     },
     {
      "name": "福庄中華料理",
-     "name_en": "Fuku Sho Chinese Cuisine",
+     "name_en": "Fukusho Chuka Ryori",
      "description": "Chinese restaurant, 1,000 m from Umi Station.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40074240/",
      "page": "https://bokenjapan.com/fukuoka/umi/eat/chinese-asian/",
@@ -83330,7 +83330,7 @@
     },
     {
      "name": "Gochiso Ya Yori Dokoro",
-     "name_en": "Gochiso Ya Yori Dokoro",
+     "name_en": "Gochisoya Yoridokoro",
      "description": "Japanese restaurant in Umi, serving dinner.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1121467-d10646212-Reviews-Gochiso_Ya_Yori_Dokoro-Umi_machi_Kasuya_gun_Fukuoka_Prefecture_Kyushu.html",
      "page": "https://bokenjapan.com/fukuoka/umi/eat/izakaya-bars/",
@@ -83426,7 +83426,7 @@
     },
     {
      "name": "麺屋 だいくう",
-     "name_en": "Men Ya Daiku",
+     "name_en": "Menya Daiku",
      "description": "Ramen shop, 1,100 m from Shinbaru Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40058535/",
      "page": "https://bokenjapan.com/fukuoka/umi/eat/noodles/",
@@ -83458,7 +83458,7 @@
     },
     {
      "name": "駒や 総本店",
-     "name_en": "Koma Ya Head Branch",
+     "name_en": "Komaya Sohonten",
      "description": "Ramen shop, 868 m from Shinbaru Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40072949/",
      "page": "https://bokenjapan.com/fukuoka/umi/eat/noodles/",
@@ -83618,7 +83618,7 @@
     },
     {
      "name": "Yu Yu Tei",
-     "name_en": "Yu Yu Tei",
+     "name_en": "Yuyutei",
      "description": "International restaurant.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1121467-d7483063-Reviews-Yu_Yu_Tei-Umi_machi_Kasuya_gun_Fukuoka_Prefecture_Kyushu.html",
      "page": "https://bokenjapan.com/fukuoka/umi/eat/other/",
@@ -83714,7 +83714,7 @@
     },
     {
      "name": "和処 月歩",
-     "name_en": "Wa Dokoro Geppo",
+     "name_en": "Wadokoro Geppo",
      "description": "Japanese restaurant, 836 m from Shinbaru Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/fukuoka/A4003/A400303/40046767/",
      "page": "https://bokenjapan.com/fukuoka/umi/eat/other-japanese/",
@@ -84067,7 +84067,7 @@
     "lat": 33.2119309,
     "lon": 130.5577627
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "ミニストップ 八女鈍土羅店",
@@ -84414,7 +84414,7 @@
     },
     {
      "name": "らーめん屋 天照 八女ゆめタウン店",
-     "name_en": "Raamen Ya Amaterasu Yame Yume Town Branch",
+     "name_en": "Ramenya Amaterasu Yame Yume Town Branch",
      "description": "Ramen shop with parking.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40055251/",
      "page": "https://bokenjapan.com/fukuoka/yame/eat/noodles/",
@@ -84518,7 +84518,7 @@
     },
     {
      "name": "和流みうら",
-     "name_en": "Wa Ryu Miura",
+     "name_en": "Waryu Miura",
      "description": "Japanese restaurant; dinner ¥5,000–5,999.",
      "source_url": "https://tabelog.com/fukuoka/A4008/A400804/40072437/",
      "page": "https://bokenjapan.com/fukuoka/yame/eat/other-japanese/",
@@ -84841,7 +84841,7 @@
     "lat": 33.1630109,
     "lon": 130.4059041
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Anri Farm",
@@ -85592,7 +85592,7 @@
     "lat": 33.60272,
     "lon": 131.175967
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "JA Chiku Higashi Fureai City",
@@ -85752,7 +85752,7 @@
     },
     {
      "name": "麺処くらや 吉富店",
-     "name_en": "Men Dokoro Kuraya Yoshitomi Branch",
+     "name_en": "Mendokoro Kuraya Yoshitomi Branch",
      "description": "Udon restaurant, 353 m from Yoshitomi Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400602/40018047/",
      "page": "https://bokenjapan.com/fukuoka/yoshitomi/eat/noodles/",
@@ -85760,7 +85760,7 @@
     },
     {
      "name": "麺処 博多らぁ麺と明太子 のお店",
-     "name_en": "Men Dokoro Hakata Raa Men To Mentaiko No Branch",
+     "name_en": "Mendokoro Hakata Ramen to Mentaiko no Omise",
      "description": "Ramen shop, 48 m from Yoshitomi Station.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400602/40075123/",
      "page": "https://bokenjapan.com/fukuoka/yoshitomi/eat/noodles/",
@@ -85872,7 +85872,7 @@
     },
     {
      "name": "Men Dokoro Kuraya",
-     "name_en": "Men Dokoro Kuraya",
+     "name_en": "Mendokoro Kuraya",
      "description": "Japanese restaurant.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1121501-d7483736-Reviews-Men_Dokoro_Kuraya-Yoshitomi_machi_Chikujo_gun_Fukuoka_Prefecture_Kyushu.html",
      "page": "https://bokenjapan.com/fukuoka/yoshitomi/eat/other-japanese/",
@@ -85968,7 +85968,7 @@
     "lat": 33.7287962,
     "lon": 130.982894
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "Yukuhashi Sakana Market",
@@ -86115,7 +86115,7 @@
     },
     {
      "name": "や台ずし 行橋駅前町",
-     "name_en": "Ya Dai Zushi Yukuhashi Ekimae Machi",
+     "name_en": "Yataizushi Yukuhashi-ekimae-machi",
      "description": "Izakaya, 103 m from Yukuhashi Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40060007/",
      "page": "https://bokenjapan.com/fukuoka/yukuhashi/eat/izakaya-bars/",
@@ -86155,7 +86155,7 @@
     },
     {
      "name": "笑顔や ハナタレ",
-     "name_en": "Egao Ya Hanatare",
+     "name_en": "Egaoya Hanatare",
      "description": "Izakaya, 5-minute walk from Yukuhashi Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40018525/",
      "page": "https://bokenjapan.com/fukuoka/yukuhashi/eat/izakaya-bars/",
@@ -86411,7 +86411,7 @@
     },
     {
      "name": "和処 つち谷",
-     "name_en": "Wa Dokoro Tsuchi Tani",
+     "name_en": "Wadokoro Tsuchiya",
      "description": "Japanese restaurant, 5-minute walk from Yukuhashi Station; dinner ¥8,000–9,999.",
      "source_url": "https://tabelog.com/fukuoka/A4006/A400601/40057806/",
      "page": "https://bokenjapan.com/fukuoka/yukuhashi/eat/other-japanese/",
