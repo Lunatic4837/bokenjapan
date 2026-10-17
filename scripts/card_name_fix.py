@@ -56,7 +56,7 @@ def clean(old):
                 if not kept: seen_site_before = True
                 continue
             kept.append(x2)
-        if len(kept) != 1: return None, f'{len(kept)} content segments after dropping site parts (needs a lane decision)'
+        if len(kept) != 1: return None, f'{len(kept)} content segments after dropping site parts (needs a lane decision); segments: ' + ' // '.join(kept)
         if seen_site_before: return None, 'site name stands before the kept segment (kept part may be a slogan)'
         segs = kept
     cand = segs[0].strip(' 　-–—:：')
@@ -64,7 +64,7 @@ def clean(old):
         if cand.startswith(g) and len(cand) > len(g): cand = cand[len(g):].strip(' 　')
     cand = re.sub(r'[\s\u3000]+', ' ', cand)
     if cand in GENERIC: return None, 'only a generic word is left'
-    if '【' in cand or '】' in cand: return None, 'remaining bracket tag'
+    if '【' in cand or '】' in cand: return None, 'remaining bracket tag (lane decides which part is the name); parts: ' + ' // '.join(x for x in re.split(r'[【】]', cand) if x.strip())
     if SLOGAN.search(cand): return None, 'looks like a slogan'
     if not (2 <= len(cand) <= 30): return None, f'length {len(cand)}'
     if TITLE_AS_NAME.search(cand) or SITE.search(cand): return None, 'still title-like'
