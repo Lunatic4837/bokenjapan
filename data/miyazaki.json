@@ -4745,18 +4745,18 @@
    ]
   },
   {
-   "name": "Misatocho",
+   "name": "Misato",
    "slug": "misatocho",
    "prefecture": "miyazaki",
    "url": "https://bokenjapan.com/miyazaki/misatocho/",
    "official": {
     "links": [
      {
-      "label": "Misatocho Town Hall",
+      "label": "Misato Town Hall",
       "url": "https://www.town.miyazaki-misato.lg.jp/"
      }
     ],
-    "address": "Misatocho, Miyazaki 883-1101",
+    "address": "Misato, Miyazaki 883-1101",
     "phone": "0982-66-3601"
    },
    "geo": {
@@ -8361,18 +8361,18 @@
    ]
   },
   {
-   "name": "Nichinanshi",
+   "name": "Nichinan",
    "slug": "nichinanshi",
    "prefecture": "miyazaki",
    "url": "https://bokenjapan.com/miyazaki/nichinanshi/",
    "official": {
     "links": [
      {
-      "label": "Nichinanshi City Hall",
+      "label": "Nichinan City Hall",
       "url": "https://www.city.nichinan.lg.jp/"
      }
     ],
-    "address": "Nichinanshi, Miyazaki 887-8585",
+    "address": "Nichinan, Miyazaki 887-8585",
     "phone": "0987-31-1100"
    },
    "geo": {
@@ -8610,7 +8610,7 @@
     {
      "name": "Ku ru mu",
      "name_en": "Ku ru mu",
-     "description": "Cafe in Nichinanshi.",
+     "description": "Cafe in Nichinan.",
      "source_url": "https://www.openstreetmap.org/node/5919682579",
      "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/cafe/",
      "category": "Cafe"
@@ -8618,7 +8618,7 @@
     {
      "name": "nana",
      "name_en": "nana",
-     "description": "Cafe in Nichinanshi.",
+     "description": "Cafe in Nichinan.",
      "source_url": "https://www.openstreetmap.org/node/5919722731",
      "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/cafe/",
      "category": "Cafe"
@@ -8627,7 +8627,7 @@
      "name": "Ocha Tokoro Kusa",
      "name_en": "Ocha Tokoro Kusa",
      "name_ja": "お茶処 草",
-     "description": "Cafe in Nichinanshi. Open daily 10:00-16:30.",
+     "description": "Cafe in Nichinan. Open daily 10:00-16:30.",
      "source_url": "https://www.openstreetmap.org/node/5919790769",
      "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/cafe/",
      "category": "Cafe"
@@ -8636,7 +8636,7 @@
      "name": "Ohino Chaya",
      "name_en": "Ohino Chaya",
      "name_ja": "おひの茶屋",
-     "description": "Cafe in Nichinanshi.",
+     "description": "Cafe in Nichinan.",
      "source_url": "https://www.openstreetmap.org/node/5919682786",
      "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/cafe/",
      "category": "Cafe"
@@ -8645,7 +8645,7 @@
      "name": "Shangurira",
      "name_en": "Shangurira",
      "name_ja": "しゃんぐりら",
-     "description": "Cafe in Nichinanshi.",
+     "description": "Cafe in Nichinan.",
      "source_url": "https://www.openstreetmap.org/node/5919792438",
      "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/cafe/",
      "category": "Cafe"
@@ -8681,7 +8681,7 @@
      "name": "Nakamuraya",
      "name_en": "Nakamuraya",
      "name_ja": "中村屋",
-     "description": "Pub in Nichinanshi.",
+     "description": "Pub in Nichinan.",
      "source_url": "https://www.openstreetmap.org/node/5919990819",
      "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -8753,7 +8753,7 @@
      "name": "Ajisai",
      "name_en": "Ajisai",
      "name_ja": "あじさい",
-     "description": "Restaurant in Nichinanshi.",
+     "description": "Restaurant in Nichinan.",
      "source_url": "https://www.openstreetmap.org/node/5919599451",
      "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/other/",
      "category": "Other"
@@ -8762,7 +8762,7 @@
      "name": "Daiakira",
      "name_en": "Daiakira",
      "name_ja": "大晃",
-     "description": "Restaurant in Nichinanshi.",
+     "description": "Restaurant in Nichinan.",
      "source_url": "https://www.openstreetmap.org/node/5923146722",
      "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/other/",
      "category": "Other"
@@ -8771,7 +8771,7 @@
      "name": "Gallery Kodama",
      "name_en": "Gallery Kodama",
      "name_ja": "ギャラリーこだま",
-     "description": "Restaurant in Nichinanshi.",
+     "description": "Restaurant in Nichinan.",
      "source_url": "https://www.openstreetmap.org/node/5919682580",
      "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/other/",
      "category": "Other"
@@ -8780,7 +8780,7 @@
      "name": "Ito Tei",
      "name_en": "Ito Tei",
      "name_ja": "伊東邸",
-     "description": "Restaurant in Nichinanshi.",
+     "description": "Restaurant in Nichinan.",
      "source_url": "https://www.openstreetmap.org/node/5919722747",
      "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/other/",
      "category": "Other"
@@ -8789,7 +8789,7 @@
      "name": "Kiraku",
      "name_en": "Kiraku",
      "name_ja": "季楽",
-     "description": "Restaurant in Nichinanshi.",
+     "description": "Restaurant in Nichinan.",
      "source_url": "https://www.openstreetmap.org/node/5919722734",
      "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/other/",
      "category": "Other"
@@ -8798,7 +8798,7 @@
      "name": "Matsuman",
      "name_en": "Matsuman",
      "name_ja": "松万",
-     "description": "Restaurant in Nichinanshi.",
+     "description": "Restaurant in Nichinan.",
      "source_url": "https://www.openstreetmap.org/node/5919990823",
      "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/other/",
      "category": "Other"
@@ -8807,7 +8807,7 @@
      "name": "Obi Ten Chaya",
      "name_en": "Obi Ten Chaya",
      "name_ja": "おび天茶屋",
-     "description": "Restaurant in Nichinanshi.",
+     "description": "Restaurant in Nichinan.",
      "source_url": "https://www.openstreetmap.org/node/5919764331",
      "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/other/",
      "category": "Other"
@@ -8816,7 +8816,7 @@
      "name": "Tairaiori",
      "name_en": "Tairaiori",
      "name_ja": "平庵",
-     "description": "Restaurant in Nichinanshi.",
+     "description": "Restaurant in Nichinan.",
      "source_url": "https://www.openstreetmap.org/node/5919682572",
      "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/other/",
      "category": "Other"
@@ -8870,16 +8870,16 @@
      "name": "Kyodo Ryori Obi Tenkura",
      "name_en": "Kyodo Ryori Obi Tenkura",
      "name_ja": "郷土料理 おび天蔵",
-     "description": "Japanese restaurant in Nichinanshi.",
+     "description": "Japanese restaurant in Nichinan.",
      "source_url": "https://www.openstreetmap.org/way/399803042",
      "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/other-japanese/",
      "category": "Other Japanese"
     },
     {
-     "name": "Japanese restaurant in Nichinanshi",
-     "name_en": "Japanese restaurant in Nichinanshi",
+     "name": "Japanese restaurant in Nichinan",
+     "name_en": "Japanese restaurant in Nichinan",
      "name_ja": "シャンシャン茶屋",
-     "description": "Japanese restaurant in Nichinanshi.",
+     "description": "Japanese restaurant in Nichinan.",
      "source_url": "https://www.openstreetmap.org/node/4859389568",
      "page": "https://bokenjapan.com/miyazaki/nichinanshi/eat/other-japanese/",
      "category": "Other Japanese"
@@ -12702,18 +12702,18 @@
    ]
   },
   {
-   "name": "Tsunomachi",
+   "name": "Tsuno",
    "slug": "tsunomachi",
    "prefecture": "miyazaki",
    "url": "https://bokenjapan.com/miyazaki/tsunomachi/",
    "official": {
     "links": [
      {
-      "label": "Tsunomachi Town Hall",
+      "label": "Tsuno Town Hall",
       "url": "https://www.town.tsuno.lg.jp/"
      }
     ],
-    "address": "Tsunomachi, Miyazaki"
+    "address": "Tsuno, Miyazaki"
    },
    "geo": {
     "lat": 32.256556,
