@@ -352,7 +352,7 @@ L = ['# BokenJapan', '',
      f'- [Data index]({BASE}data/index.json): entry point, schema and counts',
      f'- [Prefectures]({BASE}data/prefectures.json): every prefecture with its data file',
      f'- [Data README]({BASE}data/README.md)',
-     f'- [Sitemap index]({BASE}sitemap.xml): one sitemap per prefecture under {BASE}sitemaps/',
+     f'- [Sitemap index]({BASE}sitemap.xml): one sitemap per prefecture, e.g. {BASE}sitemaps/aichi.xml',
      f'- [Full town list]({BASE}llms-full.txt)', '',
      '## Prefectures'] + [f"- [{x['name']}]({x['url']}): {plural(x['town_count'], 'town', 'towns')} · [JSON]({x['data']})" for x in PL] + [
      '', '## Social'] + [f'- {u}' for u in SAME] + ['', '## Optional', f'- [Photo credits]({BASE}photo-credits/)', f'- [Privacy]({BASE}privacy.html)', f'- [Terms]({BASE}terms.html)', '']
