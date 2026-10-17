@@ -120,6 +120,11 @@ KIND = {'restaurant': 'restaurant', 'cafe': 'cafe', 'fast_food': 'fast-food rest
         'food_court': 'food court', 'biergarten': 'beer garden', 'ice_cream': 'ice cream shop'}
 SHOPKIND = {'bakery': 'bakery', 'confectionery': 'sweets shop', 'pastry': 'pastry shop'}
 
+STRONG = [('ラーメン|らーめん|らぁめん|拉麺|中華そば|ramen', 'noodles', 'Ramen'), ('うどん|udon', 'noodles', 'Udon'), ('そば|蕎麦', 'noodles', 'Soba'),
+          ('寿司|鮨|すし|sushi', 'seafood', 'Sushi'), ('焼肉|焼き肉|ホルモン|yakiniku', 'meat', 'Yakiniku'), ('カレー|curry', 'curry', 'Curry'),
+          ('カフェ|珈琲|コーヒー|喫茶|coffee|cafe', 'cafe', 'Cafe')]
+PROPER = {'Italian', 'French', 'Chinese', 'Korean', 'German', 'Spanish', 'Thai', 'Indian', 'Vietnamese', 'American', 'Japanese', 'Taiwanese', 'European', 'Mediterranean', 'Western-style', 'Regional Japanese', 'Western-style Japanese'}
+
 def classify(tags):
     """-> (category slug, English noun phrase for the description sentence, cuisine list)"""
     am, shop = tags.get('amenity', ''), tags.get('shop', '')
@@ -131,18 +136,22 @@ def classify(tags):
         nm = tags.get('name', '') + ' ' + tags.get('name:en', '')
         for rx, c, a in NAME_KW:
             if re.search(rx, nm, re.I): cat, adj = c, a; break
+    nm0 = tags.get('name', '') + ' ' + tags.get('name:en', '')
+    if cat in (None, 'chinese-asian', 'other-japanese', 'casual', 'other', 'european'):
+        for rx, c, a in STRONG:
+            if re.search(rx, nm0, re.I) and c != cat: cat, adj = c, a; break
     if am in ('bar', 'pub', 'biergarten', 'izakaya') and cat in (None, 'other-japanese', 'casual', 'other'): cat = 'izakaya-bars'
     elif am == 'cafe' and cat not in ('cafe', 'sweets-bakeries'): cat = 'cafe'
     elif am == 'ice_cream' or shop in SHOPKIND: cat = 'sweets-bakeries'
     elif am == 'fast_food' and cat in (None, 'other-japanese', 'other'): cat = 'casual'
     if not cat: cat = 'casual' if am in ('fast_food', 'food_court') else 'other'
     kind = SHOPKIND.get(shop) if shop in SHOPKIND else KIND.get(am, 'restaurant')
-    adjs = [CUISINE[c][1] for c in cu if c in CUISINE]
+    adjs = [CUISINE[c][1] for c in cu if c in CUISINE and CUISINE[c][0] == cat] or ([adj] if adj and cat not in ('other', 'casual') else [])
     if not adjs and adj and cat not in ('other', 'casual'): adjs = [adj]
     adjs = list(dict.fromkeys(a for a in adjs if a.lower() not in kind.split()))[:2]
     if kind == 'izakaya': adjs = [a for a in adjs if a != 'Izakaya']
     if kind == 'cafe' and adjs == ['Coffee']: adjs = []
-    phrase = ' and '.join([adjs[0]] + [a.lower() for a in adjs[1:]]) if adjs else ''
+    phrase = ' and '.join([adjs[0]] + [a if a in PROPER else a.lower() for a in adjs[1:]]) if adjs else ''
     noun = (phrase + ' ' + kind).strip()
     return cat, noun[0].upper() + noun[1:], cu
 

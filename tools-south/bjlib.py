@@ -65,7 +65,7 @@ _WORDS = [('本店', 'Main Store'), ('ラーメン', 'Ramen'), ('らーめん', 
           ('喫茶', 'Kissa'), ('カフェ', 'Cafe'), ('寿司', 'Sushi'), ('鮨', 'Sushi'), ('すし', 'Sushi'), ('うどん', 'Udon'), ('蕎麦', 'Soba'),
           ('そば', 'Soba'), ('カレー', 'Curry'), ('餃子', 'Gyoza'), ('お好み焼', 'Okonomiyaki'), ('とんかつ', 'Tonkatsu'), ('天ぷら', 'Tempura'),
           ('駅前', 'Ekimae'), ('砂丘', 'Sakyu'), ('米子', 'Yonago'), ('鳥取', 'Tottori'), ('境港', 'Sakaiminato'), ('倉吉', 'Kurayoshi'),
-          ('皆生', 'Kaike'), ('店', 'Branch'), ('酒場', 'Sakaba'), ('食事処', 'Shokujidokoro'), ('料理', 'Ryori'), ('専門', 'Senmon')]
+          ('皆生', 'Kaike'), ('店', 'Branch'), ('レストラン', 'Restaurant'), ('ベーカリー', 'Bakery'), ('ハンバーグ', 'Hamburg Steak'), ('ステーキ', 'Steak'), ('ピザ', 'Pizza'), ('パスタ', 'Pasta'), ('スナック', 'Snack'), ('ラウンジ', 'Lounge'), ('ダイニング', 'Dining'), ('キッチン', 'Kitchen'), ('ケーキ', 'Cake'), ('ガーデン', 'Garden'), ('ハウス', 'House'), ('ファミリー', 'Family'), ('ランチ', 'Lunch'), ('弁当', 'Bento'), ('茶屋', 'Chaya'), ('屋', '\x01ya'), ('酒場', 'Sakaba'), ('食事処', 'Shokujidokoro'), ('料理', 'Ryori'), ('専門', 'Senmon')]
 _WSPLIT = re.compile('(' + '|'.join(re.escape(k) for k, _ in sorted(_WORDS, key=lambda x: -len(x[0]))) + ')')
 _WD = dict(_WORDS)
 def _collapse(w):
@@ -97,7 +97,7 @@ def romanize(ja):
                 if w and re.fullmatch(r"[a-z' ]+", w): run += _collapse(w).replace(' ', '')
                 elif not CJK.search(it['orig']) and it['orig'].strip(): run += it['orig'].strip()
             if run: out.append(run[:1].upper() + run[1:])
-    r = re.sub(r'\s+', ' ', ' '.join(out)).strip()
+    r = re.sub(r'\s+', ' ', ' '.join(out)).strip().replace(' \x01', '').replace('\x01', '')
     r = re.sub(r'(?<=[A-Za-z]) (?=[&\'])|(?<=[&\']) (?=[A-Za-z])', '', r)
     return nomacron(r)
 
@@ -122,3 +122,12 @@ def live_names(tree, pref, slug):
 
 def plural(n, w='place'): return f'{n} {w}' if n == 1 else f'{n} {w}s'
 def esc(s): return H.escape(s, quote=True)
+
+def wikidata_pop(code5):
+    """Latest population of a municipality from Wikidata (P1082) by 5-digit local government code (P429 prefix); None if unknown."""
+    import requests
+    q = 'SELECT ?p WHERE { ?c wdt:P429 ?k . FILTER(STRSTARTS(?k, "' + str(code5) + '")) ?c wdt:P1082 ?p } LIMIT 1'
+    r = requests.get('https://query.wikidata.org/sparql', params={'query': q, 'format': 'json'},
+                     headers={'User-Agent': 'BokenJapanBot/1.0 (coverage; read-only)'}, timeout=30)
+    b = r.json()['results']['bindings']
+    return int(float(b[0]['p']['value'])) if b else None
