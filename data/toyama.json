@@ -1709,7 +1709,7 @@
      "name": "Himi no Umito",
      "name_en": "Himi no Umito",
      "name_ja": "氷見のうみと／民泊",
-     "description": "Private one-room rental in Himi with a barbecue garden, Wi-Fi, fridge and hair dryer.",
+     "description": "Private one-room rental in Himi with a barbecue garden and Wi-Fi, fridge and hair dryer.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/199945/199945.html",
      "page": "https://bokenjapan.com/toyama/himi/stay/"
     },
@@ -1725,7 +1725,7 @@
      "name": "Hamon",
      "name_en": "Hamon",
      "name_ja": "波紋－ｈａｍｏｎ－ ＾",
-     "description": "Private one-room rental in Himi with cable TV, Wi-Fi and a fridge.",
+     "description": "Private one-room rental in Himi with cable TV and Wi-Fi and a fridge.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/195326/195326.html",
      "page": "https://bokenjapan.com/toyama/himi/stay/"
     },
@@ -2462,7 +2462,7 @@
      "name": "Uchikawa no Ie Nago",
      "name_en": "Uchikawa no Ie Nago",
      "name_ja": "内川の家奈呉／民泊",
-     "description": "Private one-room rental in Imizu with TV, Wi-Fi, fridge and hair dryer.",
+     "description": "Private one-room rental in Imizu with TV and Wi-Fi, fridge and hair dryer.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/171235/171235.html",
      "page": "https://bokenjapan.com/toyama/imizu/stay/"
     },
@@ -3640,7 +3640,7 @@
      "name": "Enraku",
      "name_en": "Enraku",
      "name_ja": "延楽 清流沿いの絶景露天と旬菜会席が評判の宿",
-     "description": "Inn in Kurobe with open-air baths beside a clear stream, rooms with private open-air baths and seasonal kaiseki; 2025 Jalan Award recipient for Toyama Prefecture.",
+     "description": "Inn in Kurobe with open-air baths beside a clear stream, rooms with private open-air baths and seasonal kaiseki; a 2025 prefectural award winner.",
      "source_url": "https://www.jalan.net/yad327463/",
      "page": "https://bokenjapan.com/toyama/kurobe/stay/"
     },
@@ -5843,14 +5843,6 @@
      "page": "https://bokenjapan.com/toyama/nanto/stay/"
     },
     {
-     "name": "Omaki Onsen Kanko Ryokan",
-     "name_en": "Omaki Onsen Kanko Ryokan",
-     "name_ja": "大牧温泉観光旅館",
-     "description": "Hot-spring inn reached only by boat, 30 minutes by Shogawa sightseeing boat from Komaki Dam, with open-air baths and free-flowing spring water; Michelin-listed.",
-     "source_url": "https://tabelog.com/toyama/A1605/A160502/16002313/",
-     "page": "https://bokenjapan.com/toyama/nanto/stay/"
-    },
-    {
      "name": "Higashiyamaso",
      "name_en": "Higashiyamaso",
      "name_ja": "東山荘",
@@ -5862,7 +5854,7 @@
      "name": "Kashiya Ryokan",
      "name_en": "Kashiya Ryokan",
      "name_ja": "かしや旅館",
-     "description": "Ryokan in Nanto with 7 rooms, Wi-Fi, a tea set and bidet toilets.",
+     "description": "Ryokan in Nanto with 7 rooms and Wi-Fi, a tea set and bidet toilets.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/40777/40777.html",
      "page": "https://bokenjapan.com/toyama/nanto/stay/"
     },
@@ -5893,7 +5885,7 @@
      "name": "Kanjoji JOYBASE",
      "name_en": "Kanjoji JOYBASE",
      "name_ja": "閑乗寺ＪＯＹＢＡＳＥ ＾",
-     "description": "Private one-room lodging in Nanto with TV, Wi-Fi and a vending machine on site.",
+     "description": "Private one-room lodging in Nanto with TV and Wi-Fi and a vending machine on site.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/201058/201058.html",
      "page": "https://bokenjapan.com/toyama/nanto/stay/"
     },
@@ -6604,7 +6596,7 @@
      "name": "Gelato Pique Cafe Mitsui Outlet Park Hokuriku Oyabe",
      "name_en": "Gelato Pique Cafe Mitsui Outlet Park Hokuriku Oyabe",
      "name_ja": "ジェラート ピケ カフェ 三井アウトレットパーク北陸小矢部店",
-     "description": "Café in Oyabe.",
+     "description": "Gelato Pique café inside Mitsui Outlet Park Hokuriku Oyabe.",
      "source_url": "https://tabelog.com/toyama/A1604/A160403/16009111/",
      "page": "https://bokenjapan.com/toyama/oyabe/eat/cafe/",
      "category": "Cafe"
@@ -8121,8 +8113,8 @@
     {
      "name": "Amaharashi Umibe no Yado Meiwaso",
      "name_en": "Amaharashi Umibe no Yado Meiwaso",
-     "name_ja": "【雨晴】海辺の宿 女岩荘",
-     "description": "Seaside inn on the Amaharashi coast known for seafood from Himi Port served on a boat-shaped platter; Jalan Award winner with a resident cat.",
+     "name_ja": "海辺の宿 女岩荘",
+     "description": "Seaside inn on the Amaharashi coast known for seafood from Himi Port served on a boat-shaped platter; an award-winning inn with a resident cat.",
      "source_url": "https://www.jalan.net/yad382388/",
      "page": "https://bokenjapan.com/toyama/takaoka/stay/"
     },
@@ -8145,7 +8137,7 @@
      "name": "Guest House Maruna-ya",
      "name_en": "Guest House Maruna-ya",
      "name_ja": "ゲストハウスマルナ家／民泊",
-     "description": "One-room guesthouse rental in Takaoka with TV, Wi-Fi, fridge, iron and hair dryer.",
+     "description": "One-room guesthouse rental in Takaoka with TV and Wi-Fi, fridge, iron and hair dryer.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/191179/191179.html",
      "page": "https://bokenjapan.com/toyama/takaoka/stay/"
     },
@@ -9433,7 +9425,7 @@
      "name": "Torigoe no Yado Sanrakuen",
      "name_en": "Torigoe no Yado Sanrakuen",
      "name_ja": "鳥越の宿 三楽園",
-     "description": "Hot-spring inn at Shogawa with a guest rating of 4.7 and a top comfort rating in the Michelin Guide.",
+     "description": "Hot-spring inn at Shogawa praised for comfort and recognised in the Michelin Guide.",
      "source_url": "https://www.ikyu.com/00001286/",
      "page": "https://bokenjapan.com/toyama/tonami/stay/"
     },
@@ -9977,7 +9969,7 @@
      "name": "Bar Hakubakan",
      "name_en": "Bar Hakubakan",
      "name_ja": "BAR 白馬舘",
-     "description": "Bar in Toyama.",
+     "description": "Bar in Toyama city serving drinks.",
      "source_url": "https://tabelog.com/toyama/A1601/A160101/16004302/",
      "page": "https://bokenjapan.com/toyama/toyama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -11103,7 +11095,7 @@
      "name": "Hotel Enoe Toyama",
      "name_en": "Hotel Enoe Toyama",
      "name_ja": "ホテルエノエ富山",
-     "description": "Hotel one minute on foot from Arakumachi tram stop, praised for breakfast, with a lounge offering local sake and a welcome drink; 2025 Jalan Award winner.",
+     "description": "Hotel one minute on foot from Arakumachi tram stop, praised for breakfast, with a lounge offering local sake and a welcome drink; a 2025 award winner.",
      "source_url": "https://www.jalan.net/yad364134/",
      "page": "https://bokenjapan.com/toyama/toyama/stay/"
     },
@@ -11762,19 +11754,11 @@
      "page": "https://bokenjapan.com/toyama/toyama/stay/"
     },
     {
-     "name": "Whole-building machiya rental hotel in Toyama",
-     "name_en": "Whole-building machiya rental hotel in Toyama",
+     "name": "Yatsuoshiki Hotel Etchu-Yatsuo Otaya",
+     "name_en": "Yatsuoshiki Hotel Etchu-Yatsuo Otaya",
      "name_ja": "YATSUOSHIKI HOTEL 越中八尾おたや",
-     "description": "Whole-building machiya rental hotel in Kagami-machi, Yatsuo, Toyama.",
+     "description": "Whole-building machiya rental hotel in the Kagami-machi district of Yatsuo, Toyama.",
      "source_url": "https://www.jalan.net/yad390253/",
-     "page": "https://bokenjapan.com/toyama/toyama/stay/"
-    },
-    {
-     "name": "Hotel in Hara, Toyama",
-     "name_en": "Hotel in Hara, Toyama",
-     "name_ja": "立山連峰の宿 ホテル森の風立山",
-     "description": "Hotel in Hara, Toyama with hot spring.",
-     "source_url": "https://www.jalan.net/yad341385/",
      "page": "https://bokenjapan.com/toyama/toyama/stay/"
     }
    ]
@@ -11936,7 +11920,7 @@
      "name": "Kininaru Uozu Buried Forest Museum Branch",
      "name_en": "Kininaru Uozu Buried Forest Museum Branch",
      "name_ja": "キニナル 魚津埋没林博物館店",
-     "description": "Café in Uozu.",
+     "description": "Café branch at the Uozu Buried Forest Museum.",
      "source_url": "https://tabelog.com/toyama/A1602/A160202/16008801/",
      "page": "https://bokenjapan.com/toyama/uozu/eat/cafe/",
      "category": "Cafe"
@@ -11945,7 +11929,7 @@
      "name": "Mizu Dango Tokichi",
      "name_en": "Mizu Dango Tokichi",
      "name_ja": "水だんご専門店 藤吉",
-     "description": "Café in Uozu.",
+     "description": "Specialist shop for mizu-dango, Uozu's spring-water dumplings.",
      "source_url": "https://tabelog.com/toyama/A1602/A160202/16010665/",
      "page": "https://bokenjapan.com/toyama/uozu/eat/cafe/",
      "category": "Cafe"
@@ -11954,7 +11938,7 @@
      "name": "Sushikama Honpo Kawachiya",
      "name_en": "Sushikama Honpo Kawachiya",
      "name_ja": "鮨蒲本舗 河内屋",
-     "description": "Deli in Uozu.",
+     "description": "Kamaboko fish-cake and sushi shop in Uozu.",
      "source_url": "https://tabelog.com/toyama/A1602/A160202/16004489/",
      "page": "https://bokenjapan.com/toyama/uozu/eat/casual/",
      "category": "Casual"
@@ -12479,7 +12463,7 @@
      "name": "kitan UOZU",
      "name_en": "kitan UOZU",
      "name_ja": "ｋｉｔａｎ ＵＯＺＵ／民泊",
-     "description": "One-room private rental in Uozu with a sauna, Wi-Fi and a fridge.",
+     "description": "One-room private rental in Uozu with a sauna and Wi-Fi and a fridge.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/194710/194710.html",
      "page": "https://bokenjapan.com/toyama/uozu/stay/"
     },
