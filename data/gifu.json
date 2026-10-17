@@ -48,8 +48,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Café in Anpachi (#8)",
-     "name_en": "Café in Anpachi (#8)",
+     "name": "KEY'S CAFE Gifu Anpachi Interchange",
+     "name_en": "KEY'S CAFE Gifu Anpachi Interchange",
      "name_ja": "KEY'S CAFE 岐阜安八インター店",
      "description": "Café in Anpachi, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210102/21020716/",
@@ -304,6 +304,80 @@
      "description": "Small hall in Anpachi on the site of the 1561 battle between Oda Nobunaga and Saito Ryoki.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_7961.html",
      "page": "https://bokenjapan.com/gifu/anpachi/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "Hotel Route Inn Gifu Hane Shima Ekimae",
+     "name_en": "Hotel Route Inn Gifu Hane Shima Ekimae",
+     "name_ja": "ホテルルートイン岐阜羽島駅前",
+     "description": "Hotel in Fukuju, Hashima with buffet meals and breakfast available.",
+     "source_url": "https://www.ikyu.com/00080313/",
+     "page": "https://bokenjapan.com/gifu/anpachi/stay/"
+    },
+    {
+     "name": "APA Hotel < Gifu Hane Shima Ekimae >",
+     "name_en": "APA Hotel < Gifu Hane Shima Ekimae >",
+     "name_ja": "アパホテル〈岐阜羽島駅前〉",
+     "description": "Business hotel in Hashima, the nearest town with bookable stays to Anpachi.",
+     "source_url": "https://www.ikyu.com/00082731/",
+     "page": "https://bokenjapan.com/gifu/anpachi/stay/"
+    },
+    {
+     "name": "HOTEL LiVEMAX Gifu Hashima Ekimae",
+     "name_en": "HOTEL LiVEMAX Gifu Hashima Ekimae",
+     "name_ja": "ホテルリブマックス岐阜羽島駅前",
+     "description": "Hotel in Fukuju, Hashima; 3-minute walk from Gifuhaneshima Station.",
+     "source_url": "https://www.jalan.net/yad380162/",
+     "page": "https://bokenjapan.com/gifu/anpachi/stay/"
+    },
+    {
+     "name": "GUESTHOUSE Gifu Hashima Kokoro-ne",
+     "name_en": "GUESTHOUSE Gifu Hashima Kokoro-ne",
+     "name_ja": "ゲストハウス岐阜羽島心音",
+     "description": "Guesthouse in Funabashi, Hashima; 3-minute walk from Gifuhaneshima Station.",
+     "source_url": "https://www.jalan.net/yad353880/",
+     "page": "https://bokenjapan.com/gifu/anpachi/stay/"
+    },
+    {
+     "name": "Hotel LC Gifu Hane Shima",
+     "name_en": "Hotel LC Gifu Hane Shima",
+     "name_ja": "ホテルＬＣぎふ羽島",
+     "description": "Hotel in Fukuju, Hashima with parking; 5-minute walk from Gifuhaneshima Station.",
+     "source_url": "https://www.jalan.net/yad341732/",
+     "page": "https://bokenjapan.com/gifu/anpachi/stay/"
+    },
+    {
+     "name": "Toyoko INN Gifu Hane Shima Eki Shinkansen Minamiguchi",
+     "name_en": "Toyoko INN Gifu Hane Shima Eki Shinkansen Minamiguchi",
+     "name_ja": "東横ＩＮＮ岐阜羽島駅新幹線南口",
+     "description": "Inn in Funabashi, Hashima with breakfast available.",
+     "source_url": "https://www.jalan.net/yad340548/",
+     "page": "https://bokenjapan.com/gifu/anpachi/stay/"
+    },
+    {
+     "name": "Weekly Sho Hashima",
+     "name_en": "Weekly Sho Hashima",
+     "name_ja": "ウィークリー翔 羽島",
+     "description": "Inn in Fukuju, Hashima with long stays.",
+     "source_url": "https://www.jalan.net/yad384148/",
+     "page": "https://bokenjapan.com/gifu/anpachi/stay/"
+    },
+    {
+     "name": "Hotel KOYO Bekkan",
+     "name_en": "Hotel KOYO Bekkan",
+     "name_ja": "ホテルＫＯＹＯ別館",
+     "description": "Hotel in Hashima, the nearest town with bookable stays to Anpachi.",
+     "source_url": "https://www.jalan.net/yad353115/",
+     "page": "https://bokenjapan.com/gifu/anpachi/stay/"
+    },
+    {
+     "name": "Hane Shima Deiri Hotel",
+     "name_en": "Hane Shima Deiri Hotel",
+     "name_ja": "羽島デイリーホテル",
+     "description": "Hotel in Hashima, the nearest town with bookable stays to Anpachi.",
+     "source_url": "https://www.jalan.net/yad381210/",
+     "page": "https://bokenjapan.com/gifu/anpachi/stay/"
     }
    ]
   },
@@ -1323,7 +1397,7 @@
     {
      "name": "Gero Onsen Ideyu Morning Market",
      "description": "Morning market in Gero.",
-     "source_url": "http://www.gero-spa.com/spot/detail.php?id=37&amp;amp;category=4&amp;amp;area=",
+     "source_url": "http://www.gero-spa.com/spot/detail.php?id=37&amp;category=4&amp;area=",
      "page": "https://bokenjapan.com/gifu/gero/day-to-day/"
     },
     {
@@ -1752,7 +1826,7 @@
     {
      "name": "Miyatani Cherry Blossoms",
      "description": "Miyatani Cherry Blossoms is a cherry-blossom viewing site in Gero.",
-     "source_url": "http://www.city.gero.lg.jp/kankou/view.rbz?nd=243&amp;amp;ik=1&amp;amp;pnp=243&amp;amp;cd=973",
+     "source_url": "http://www.city.gero.lg.jp/kankou/view.rbz?nd=243&amp;ik=1&amp;pnp=243&amp;cd=973",
      "page": "https://bokenjapan.com/gifu/gero/see/"
     },
     {
@@ -1978,8 +2052,8 @@
      "page": "https://bokenjapan.com/gifu/gero/stay/"
     },
     {
-     "name": "Gero Onsen Yūkyū no Hana",
-     "name_en": "Gero Onsen Yūkyū no Hana",
+     "name": "Gero Onsen Yukyu no Hana",
+     "name_en": "Gero Onsen Yukyu no Hana",
      "name_ja": "下呂温泉 悠久の華（ゆうきゅうのはな）",
      "description": "Six-room ryokan in Yunoshima, Gero, all with private source-flow onsen baths.",
      "source_url": "https://www.jalan.net/yad342391/",
@@ -2045,7 +2119,7 @@
      "name": "Nigorigawa Onsen Yumotokan",
      "name_en": "Nigorigawa Onsen Yumotokan",
      "name_ja": "濁河温泉 湯元館",
-     "description": "Onsen ryokan in Gero, Gifu Prefecture.",
+     "description": "Onsen ryokan in Gero.",
      "source_url": "https://www.jalan.net/yad388110/",
      "page": "https://bokenjapan.com/gifu/gero/stay/"
     }
@@ -2491,7 +2565,7 @@
      "page": "https://bokenjapan.com/gifu/gifu/see/"
     },
     {
-     "name": "Battlefield of Gōdo-gawa",
+     "name": "Battlefield of Godo-gawa",
      "name_en": "Godo River Battle Site",
      "description": "On August 23, 1600, Eastern Army forces crossed the Godo River and attacked the surprised Western Army, which fled.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_6994.html",
@@ -2512,28 +2586,28 @@
      "page": "https://bokenjapan.com/gifu/gifu/see/"
     },
     {
-     "name": "Kanō Tenman-gū",
+     "name": "Kano Tenman-gu",
      "name_en": "Kano Tenmangu Shrine",
      "description": "Kano Tenmangu in Gifu City enshrines Sugawara no Michizane, the deity of learning.",
      "source_url": "https://www.kanotenmangu.com/",
      "page": "https://bokenjapan.com/gifu/gifu/see/"
     },
     {
-     "name": "Chishō-in",
+     "name": "Chisho-in",
      "name_en": "Chisho-in Temple",
      "description": "This Soto Zen temple enshrines Ebisu, has White-robed Kannon as its main image, and is Mino Shin-Shikoku site 72.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_7144.html",
      "page": "https://bokenjapan.com/gifu/gifu/see/"
     },
     {
-     "name": "Gifu Zenkō-ji",
+     "name": "Gifu Zenko-ji",
      "name_en": "Gifu Zenkoji Temple",
      "description": "Located at Inaba Shrine in Gifu City, it offers various prayers and mizuko kuyo services.",
      "source_url": "https://gifu-zenkoji.jp/",
      "page": "https://bokenjapan.com/gifu/gifu/see/"
     },
     {
-     "name": "Gifu Seiryū Bunka Plaza",
+     "name": "Gifu Seiryu Bunka Plaza",
      "name_en": "Gifu Seiryu Culture Plaza",
      "description": "Gifu Prefecture established this facility to promote civic culture, revitalize communities, and support cultural activities for youth and people with disabilities.",
      "source_url": "https://seiryu-plaza.jp/",
@@ -3144,7 +3218,7 @@
    ],
    "sights": [
     {
-     "name": "Rantōbashi Kuyō-tō",
+     "name": "Rantobashi Kuyo-to",
      "name_en": "Rantobashi Battle Site and Memorial Tower",
      "description": "After Oda Hidenobu and Ikeda Terumasa fought in August 1600, the bridge was named Rantobashi; only its memorial tower remains.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_7077.html",
@@ -3188,9 +3262,9 @@
    "date_modified": "2026-10-17",
    "activities": [
     {
-     "name": "Yasha-dō River Kawazu Cherry Trees",
+     "name": "Yasha-do River Kawazu Cherry Trees",
      "name_en": "Yashado Kawazu Cherry Blossoms",
-     "description": "Early-blooming River Kawazu cherry trees at Yasha-dō in Godo, flowering in early to mid-March.",
+     "description": "Early-blooming River Kawazu cherry trees at Yasha-do in Godo, flowering in early to mid-March.",
      "source_url": "https://www.town.godo.gifu.jp/event/event06.html",
      "page": "https://bokenjapan.com/gifu/godo/do/"
     },
@@ -3338,8 +3412,8 @@
      "category": "Chinese & Asian"
     },
     {
-     "name": "Sōsai China Raika",
-     "name_en": "Sōsai China Raika",
+     "name": "Sosai China Raika",
+     "name_en": "Sosai China Raika",
      "name_ja": "創彩China 來礼華",
      "description": "Chinese restaurant in Godo, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21020389/",
@@ -3421,7 +3495,7 @@
    ],
    "sights": [
     {
-     "name": "Wajū Embankment Cherry Trees",
+     "name": "Waju Embankment Cherry Trees",
      "name_en": "Waju Tsutsumi Cherry Blossoms",
      "description": "Built to shield homes and paddies from floods, about 700 cherry trees now form a crowded blossom tunnel from late March to early April.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_6630.html",
@@ -3435,7 +3509,7 @@
      "page": "https://bokenjapan.com/gifu/godo/see/"
     },
     {
-     "name": "Gōdo Rose Park",
+     "name": "Godo Rose Park",
      "name_en": "Godo Rose Park",
      "description": "This free, 24-hour, 250-meter walking path north of Hirogodo Station has about 1,400 rose bushes by the Yoro Railway and peaks in May.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_6631.html",
@@ -3674,8 +3748,8 @@
    ],
    "food": [
     {
-     "name": "Omatcha-dokoro Sōgian",
-     "name_en": "Omatcha-dokoro Sōgian",
+     "name": "Omatcha-dokoro Sogian",
+     "name_en": "Omatcha-dokoro Sogian",
      "name_ja": "お抹茶処 宗祇庵",
      "description": "Café in Gujo, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2102/A210205/21016894/",
@@ -3984,7 +4058,7 @@
     {
      "name": "Hoshinomiya Shrine",
      "name_en": "Hoshimiya Shrine",
-     "description": "Shrine in Gujō Minami said to help with asthma and eye ailments.",
+     "description": "Shrine in Gujo Minami said to help with asthma and eye ailments.",
      "source_url": "https://tabitabigujo.com/spots/minami/%E6%98%9F%E5%AE%AE%E7%A5%9E%E7%A4%BE/",
      "page": "https://bokenjapan.com/gifu/gujo/see/"
     },
@@ -4228,8 +4302,8 @@
      "page": "https://bokenjapan.com/gifu/gujo/stay/"
     },
     {
-     "name": "Jōga Keibō",
-     "name_en": "Jōga Keibō",
+     "name": "Joga Keibo",
+     "name_en": "Joga Keibo",
      "name_ja": "じょうが渓房",
      "description": "Inn in Hachiman, Gujo with scenic views.",
      "source_url": "https://www.jalan.net/yad374059/",
@@ -4356,8 +4430,8 @@
      "page": "https://bokenjapan.com/gifu/gujo/stay/"
     },
     {
-     "name": "Kakuchū Ryokan",
-     "name_en": "Kakuchū Ryokan",
+     "name": "Kakuchu Ryokan",
+     "name_en": "Kakuchu Ryokan",
      "name_ja": "角忠旅館",
      "description": "Ryokan with irori hearth in Shirotori, Gujo.",
      "source_url": "https://www.jalan.net/yad328846/",
@@ -4367,14 +4441,14 @@
      "name": "Stroop House",
      "name_en": "Stroop House",
      "name_ja": "ストロープンハウス",
-     "description": "Accommodation in Okusumi, Meibo, Gujo.",
+     "description": "Accommodation in Okusumi (Meibo), Gujo.",
      "source_url": "https://www.jalan.net/yad333915/",
      "page": "https://bokenjapan.com/gifu/gujo/stay/"
     },
     {
      "name": "N.A.O. Akeno Highland Campground & Villas",
      "name_en": "N.A.O. Akeno Highland Campground & Villas",
-     "name_ja": "N.A.O.明野高原キャンプ場&amp;貸別荘",
+     "name_ja": "N.A.O.明野高原キャンプ場&貸別荘",
      "description": "Campground and villas in Takasu, Gujo.",
      "source_url": "https://www.jalan.net/yad351744/",
      "page": "https://bokenjapan.com/gifu/gujo/stay/"
@@ -4407,7 +4481,7 @@
      "name": "Resort Pension Shikisai",
      "name_en": "Resort Pension Shikisai",
      "name_ja": "リゾートペンション四季彩",
-     "description": "Pension in Meihō, Gujo on Route 472.",
+     "description": "Pension in Meiho, Gujo on Route 472.",
      "source_url": "https://www.jalan.net/yad304590/",
      "page": "https://bokenjapan.com/gifu/gujo/stay/"
     },
@@ -4454,7 +4528,7 @@
      "name": "Gujo Vacation Village Hotel",
      "name_en": "Gujo Vacation Village Hotel",
      "name_ja": "郡上ヴァカンス村ホテル",
-     "description": "Hotel in Takasu, Gujo near outdoor facilities.",
+     "description": "Hotel in Takasu (Gujo near outdoor facilities).",
      "source_url": "https://www.jalan.net/yad309580/",
      "page": "https://bokenjapan.com/gifu/gujo/stay/"
     },
@@ -4668,11 +4742,213 @@
      "category": "Cafe"
     },
     {
+     "name": "Futarijime Coffee",
+     "name_en": "Futarijime Coffee",
+     "name_ja": "ふたり占め珈琲",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21021119/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "BLOCK47 Eats",
+     "name_en": "BLOCK47 Eats",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21021203/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "251 cafe",
+     "name_en": "251 Cafe",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21021658/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Artrain",
+     "name_en": "Artrain",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21021981/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Mamorun Pan",
+     "name_en": "Mamorun Pan",
+     "name_ja": "まもるんパン",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21022976/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Café in Hashima",
+     "name_en": "Café in Hashima",
+     "name_ja": "かふぇ もくれんの樹",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21010621/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Shiki Siphon Coffee to Gohan",
+     "name_en": "Shiki Siphon Coffee to Gohan",
+     "name_ja": "Shiki サイフォンコーヒーとごはん",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21023761/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Hashima (#3)",
+     "name_en": "Cafe in Hashima (#3)",
+     "name_ja": "アイリス",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21012688/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kakurega Rest Tamago",
+     "name_en": "Kakurega Rest Tamago",
+     "name_ja": "隠れ家レスト たまご",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21022288/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Letter",
+     "name_en": "Letter",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21022366/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kissa Hanamizuki",
+     "name_en": "Kissa Hanamizuki",
+     "name_ja": "喫茶 花水木",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21016878/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Gonta",
+     "name_en": "Gonta",
+     "name_ja": "ごんた",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21018898/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Koppe-tei Hashima Inter-ten",
+     "name_en": "Koppe-tei Hashima Inter-ten",
+     "name_ja": "コッペ亭 羽島インター店",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21023644/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Nagara-kuro",
+     "name_en": "Nagara-kuro",
+     "name_ja": "長良畔",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21004310/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Koala",
+     "name_en": "Koala",
+     "name_ja": "コアラ",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21006823/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Hashima (#2)",
+     "name_en": "Cafe in Hashima (#2)",
+     "name_ja": "デン",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21003899/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Hashima (#1)",
+     "name_en": "Cafe in Hashima (#1)",
+     "name_ja": "シルク",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21003836/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Hinata",
+     "name_en": "Hinata",
+     "name_ja": "ひなた",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21013219/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Penki-ya",
+     "name_en": "Cafe Penki-ya",
+     "name_ja": "Cafe ペンキ家",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21022327/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Mitsu-imo-dokoro En-musubi",
+     "name_en": "Mitsu-imo-dokoro En-musubi",
+     "name_ja": "蜜芋処 えんむすび",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21021091/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Luna Buru",
+     "name_en": "Luna Buru",
+     "name_ja": "ルナ ブルー",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21023218/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "I am I",
+     "name_en": "I am I",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21023327/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Sankokku Gifu Hashima-ten",
      "name_en": "Sankokku Gifu Hashima-ten",
      "name_ja": "サンコック 岐阜羽島店",
      "description": "Chinese restaurant in Hashima, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210102/21023394/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Chinese or Asian restaurant in Hashima",
+     "name_en": "Chinese or Asian restaurant in Hashima",
+     "name_ja": "四川料理 味王",
+     "description": "Chinese or Asian restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21023233/",
      "page": "https://bokenjapan.com/gifu/hashima/eat/chinese-asian/",
      "category": "Chinese & Asian"
     },
@@ -4684,6 +4960,15 @@
      "source_url": "https://tabelog.com/gifu/A2101/A210102/21023830/",
      "page": "https://bokenjapan.com/gifu/hashima/eat/curry/",
      "category": "Curry"
+    },
+    {
+     "name": "Engawa-ya",
+     "name_en": "Engawa-ya",
+     "name_ja": "えんがわ家",
+     "description": "Izakaya or bar in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21006241/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/izakaya-bars/",
+     "category": "Cafe"
     },
     {
      "name": "Tachibana",
@@ -4700,6 +4985,78 @@
      "name_ja": "みそ家 岐阜羽島店",
      "description": "Tonkatsu restaurant in Hashima, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210102/21022282/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Tonkatsu Aji-Sai",
+     "name_en": "Tonkatsu Aji-Sai",
+     "name_ja": "とんかつ味彩",
+     "description": "Meat restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21004785/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Chuka Ryori Shinshin",
+     "name_en": "Chuka Ryori Shinshin",
+     "name_ja": "中華料理 シンシン",
+     "description": "Meat restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21018756/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Meat restaurant in Hashima (#2)",
+     "name_en": "Meat restaurant in Hashima (#2)",
+     "name_ja": "焼肉マルコウ 羽島店",
+     "description": "Meat restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21016750/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Sumiyaki no Mise Toriyoshi",
+     "name_en": "Sumiyaki no Mise Toriyoshi",
+     "name_ja": "炭焼きの店 鳥好",
+     "description": "Meat restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21008856/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Hatoya",
+     "name_en": "Yakiniku Hatoya",
+     "name_ja": "焼肉はとや",
+     "description": "Meat restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21002489/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Magic Island",
+     "name_en": "Magic Island",
+     "name_ja": "マジックアイランド",
+     "description": "Meat restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21011247/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Meat restaurant in Hashima (#1)",
+     "name_en": "Meat restaurant in Hashima (#1)",
+     "name_ja": "ティファニー",
+     "description": "Meat restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21012740/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Tanakaya",
+     "name_en": "Tanakaya",
+     "name_ja": "たなかや",
+     "description": "Meat restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21009192/",
      "page": "https://bokenjapan.com/gifu/hashima/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -4740,11 +5097,56 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Noodle restaurant in Hashima",
+     "name_en": "Noodle restaurant in Hashima",
+     "name_ja": "めん翔",
+     "description": "Noodle restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21011763/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tamura",
+     "name_en": "Tamura",
+     "name_ja": "たむら",
+     "description": "Noodle restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21002351/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Sakura Ramen",
+     "name_en": "Sakura Ramen",
+     "name_ja": "桜ラーメン",
+     "description": "Noodle restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21002354/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Harrods",
      "name_en": "Harrods",
      "name_ja": "ハロッズ",
      "description": "Restaurant in Hashima, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210102/21007000/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Hashima",
+     "name_en": "Restaurant in Hashima",
+     "name_ja": "コストコ 岐阜羽島倉庫店",
+     "description": "Restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21015529/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Soki",
+     "name_en": "Soki",
+     "name_ja": "創季",
+     "description": "Restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21005886/",
      "page": "https://bokenjapan.com/gifu/hashima/eat/other/",
      "category": "Other"
     },
@@ -4821,6 +5223,87 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Sushi Shokudo Jingoro",
+     "name_en": "Sushi Shokudo Jingoro",
+     "name_ja": "寿司食堂 甚五郎",
+     "description": "Seafood restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21022321/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Gifu Hatsu Sushi Fukuju Bunten",
+     "name_en": "Gifu Hatsu Sushi Fukuju Bunten",
+     "name_ja": "ぎふ初寿司 福寿分店",
+     "description": "Seafood restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21001750/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kuten Don Arigato Honpo",
+     "name_en": "Kuten Don Arigato Honpo",
+     "name_ja": "空天丼ありがとう本舗",
+     "description": "Seafood restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21000245/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kawauo Ryori Unagi Uotatsu",
+     "name_en": "Kawauo Ryori Unagi Uotatsu",
+     "name_ja": "川魚料理 うなぎ 魚達",
+     "description": "Seafood restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21023929/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Nobunaga Suisan Ikesu Honten",
+     "name_en": "Nobunaga Suisan Ikesu Honten",
+     "name_ja": "信長水産 いけす本店",
+     "description": "Seafood restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210101/21021070/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kawaki Hashima Ten",
+     "name_en": "Kawaki Hashima Ten",
+     "name_ja": "川喜 羽島店",
+     "description": "Seafood restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21012835/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kawauo Ryori Uotatsu",
+     "name_en": "Kawauo Ryori Uotatsu",
+     "name_ja": "川魚料理 うおたつ",
+     "description": "Seafood restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21018923/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Take Sushi",
+     "name_en": "Take Sushi",
+     "name_ja": "竹寿司",
+     "description": "Seafood restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21003129/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Yasu",
+     "name_en": "Sushi Yasu",
+     "name_ja": "寿司安",
+     "description": "Seafood restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21003053/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Koppe-tei Gifu Hane Shima Main Store",
      "name_en": "Koppe-tei Gifu Hane Shima Main Store",
      "name_ja": "コッペ亭 岐阜羽島本店",
@@ -4835,6 +5318,77 @@
      "name_ja": "兎月園",
      "description": "Japanese sweets shop in Hashima, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210102/21009999/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets and bakery shop in Hashima (#1)",
+     "name_en": "Sweets and bakery shop in Hashima (#1)",
+     "name_ja": "プー コニュ",
+     "description": "Sweets and bakery shop in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21008021/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Morishiro Seika",
+     "name_en": "Morishiro Seika",
+     "name_ja": "森白製菓",
+     "description": "Sweets and bakery shop in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21014198/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Yoshikawa Youkei Kokko Purio",
+     "name_en": "Yoshikawa Youkei Kokko Purio",
+     "name_ja": "吉川養鶏 コッコプリオ",
+     "description": "Sweets and bakery shop in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21016533/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Miyakoya Hashima Ten",
+     "name_en": "Miyakoya Hashima Ten",
+     "name_ja": "みやこ屋 羽島店",
+     "description": "Sweets and bakery shop in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21011246/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Kogane-do",
+     "name_en": "Kogane-do",
+     "name_ja": "黄金堂",
+     "description": "Sweets and bakery shop in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21009997/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets and bakery shop in Hashima (#2)",
+     "name_en": "Sweets and bakery shop in Hashima (#2)",
+     "name_ja": "コンナトコロニベーカリー",
+     "description": "Sweets and bakery shop in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21021082/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "TAKAGI BAKERY",
+     "name_en": "TAKAGI BAKERY",
+     "description": "Sweets and bakery shop in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21022833/",
+     "page": "https://bokenjapan.com/gifu/hashima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Hashima Dango Tanuki no Mise",
+     "name_en": "Hashima Dango Tanuki no Mise",
+     "name_ja": "羽島ダンゴ たぬきのお店",
+     "description": "Sweets and bakery shop in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210102/21019797/",
      "page": "https://bokenjapan.com/gifu/hashima/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -4876,21 +5430,21 @@
      "page": "https://bokenjapan.com/gifu/hashima/see/"
     },
     {
-     "name": "Minō Road Ogose Crossing",
+     "name": "Mino Road Ogose Crossing",
      "name_en": "Minoji Ogose Ferry",
      "description": "Ieyasu used the Minoji, a 57.5 km road from Tarui-juku to Miya-juku, for his triumphal return after Sekigahara.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_7049.html",
      "page": "https://bokenjapan.com/gifu/hashima/see/"
     },
     {
-     "name": "Minō Road Oki Ferry Stone Lantern",
+     "name": "Mino Road Oki Ferry Stone Lantern",
      "name_en": "Minoji Okoshi Ferry Stone Lighthouse",
      "description": "This Okoshi ferry stone lighthouse, inscribed in 1770, was moved when Nobi Bridge opened in 1956.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_7050.html",
      "page": "https://bokenjapan.com/gifu/hashima/see/"
     },
     {
-     "name": "Minō Road Ōura Milestone",
+     "name": "Mino Road Oura Milestone",
      "name_en": "Minoji Oura (Mitsuya) Guidepost",
      "description": "Called Kichirei Kaido after Ieyasu's triumphal return, the Minoji is a busy 57.5 km side road.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_7053.html",
@@ -4899,7 +5453,7 @@
     {
      "name": "Shinpuku-ji",
      "name_en": "Shinpukuji Temple (Osu Kannon)",
-     "description": "Former site of the temple that was moved to Nagoya in 1612 to become Ōsu Kannon.",
+     "description": "Former site of the temple that was moved to Nagoya in 1612 to become Osu Kannon.",
      "source_url": "https://hashimakanko.jp/store/shinpukuji/",
      "page": "https://bokenjapan.com/gifu/hashima/see/"
     },
@@ -5199,8 +5753,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Wagashi Kōbō Matsueidō",
-     "name_en": "Wagashi Kōbō Matsueidō",
+     "name": "Wagashi Kobo Matsueido",
+     "name_en": "Wagashi Kobo Matsueido",
      "name_ja": "和菓子工房 松栄堂",
      "description": "Japanese sweets shop in Hichiso, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210403/21011312/",
@@ -5258,6 +5812,48 @@
      "source_url": "https://www.kankou-gifu.jp/spot/detail_4256.html",
      "page": "https://bokenjapan.com/gifu/hichiso/see/"
     }
+   ],
+   "stays": [
+    {
+     "name": "Tanaka-ya Ryokan < Gifuken >",
+     "name_en": "Tanaka-ya Ryokan < Gifuken >",
+     "name_ja": "田中屋旅館 ＜岐阜県＞",
+     "description": "Ryokan inn in Setsui, Shirakawa with parking.",
+     "source_url": "https://travel.rakuten.co.jp/HOTEL/104778/104778.html",
+     "page": "https://bokenjapan.com/gifu/hichiso/stay/"
+    },
+    {
+     "name": "Mino Shirakawa Gorufu Kurabu",
+     "name_en": "Mino Shirakawa Gorufu Kurabu",
+     "name_ja": "美濃白川ゴルフ倶楽部",
+     "description": "Inn in Hakusan, Shirakawa with parking.",
+     "source_url": "https://travel.rakuten.co.jp/HOTEL/144987/144987.html",
+     "page": "https://bokenjapan.com/gifu/hichiso/stay/"
+    },
+    {
+     "name": "Ryori Ryokan Makigahora",
+     "name_en": "Ryori Ryokan Makigahora",
+     "name_ja": "料理旅館牧ヶ洞",
+     "description": "Ryokan inn in Sakanohigashi, Shirakawa with parking; 5-minute drive from Shirakawakuchi Station.",
+     "source_url": "https://travel.rakuten.co.jp/HOTEL/141074/141074.html",
+     "page": "https://bokenjapan.com/gifu/hichiso/stay/"
+    },
+    {
+     "name": "Ryokan Narita-ya",
+     "name_en": "Ryokan Narita-ya",
+     "name_ja": "旅館 成田屋",
+     "description": "Ryokan inn in Kawashi, Shirakawa with parking; 6-minute walk from Shirakawakuchi Station.",
+     "source_url": "https://travel.rakuten.co.jp/HOTEL/129882/129882.html",
+     "page": "https://bokenjapan.com/gifu/hichiso/stay/"
+    },
+    {
+     "name": "Tanakaya Ryokan",
+     "name_en": "Tanakaya Ryokan",
+     "name_ja": "田中屋旅館",
+     "description": "Ryokan in Shirakawa, Gifu Prefecture.",
+     "source_url": "https://www.jalan.net/yad392422/",
+     "page": "https://bokenjapan.com/gifu/hichiso/stay/"
+    }
    ]
   },
   {
@@ -5278,7 +5874,7 @@
    "date_modified": "2026-10-17",
    "day_to_day": [
     {
-     "name": "Yamachū Washi Workshop",
+     "name": "Yamachu Washi Workshop",
      "name_en": "Yamanaka Workshop",
      "description": "A family workshop in Hida Kawai has handcrafted Yamanaka washi, an 800-year tradition, for over 100 years.",
      "source_url": "https://hidakawaisanchuwashi.jimdofree.com/",
@@ -5438,8 +6034,8 @@
      "category": "Casual"
     },
     {
-     "name": "Yoriaisho Kō Hida Furukawa Shokudō",
-     "name_en": "Yoriaisho Kō Hida Furukawa Shokudō",
+     "name": "Yoriaisho Ko Hida Furukawa Shokudo",
+     "name_en": "Yoriaisho Ko Hida Furukawa Shokudo",
      "name_ja": "寄合所 耕 飛騨古川食堂",
      "description": "Shokudo diner in Hida, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210402/21022416/",
@@ -5564,8 +6160,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Hida Furukawa Ryōtei Ryokan Yatsumikan",
-     "name_en": "Hida Furukawa Ryōtei Ryokan Yatsumikan",
+     "name": "Hida Furukawa Ryotei Ryokan Yatsumikan",
+     "name_en": "Hida Furukawa Ryotei Ryokan Yatsumikan",
      "name_ja": "飛騨古川 料亭旅館 八ツ三館",
      "description": "Ryokan restaurant in Hida, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210402/21007905/",
@@ -5600,8 +6196,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Inohiro Seikahō",
-     "name_en": "Inohiro Seikahō",
+     "name": "Inohiro Seikaho",
+     "name_en": "Inohiro Seikaho",
      "name_ja": "井之廣製菓舗",
      "description": "Japanese sweets shop in Hida, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210402/21009649/",
@@ -6579,7 +7175,7 @@
    ]
   },
   {
-   "name": "Ikedacho",
+   "name": "Ikeda",
    "slug": "ikedacho",
    "prefecture": "gifu",
    "url": "https://bokenjapan.com/gifu/ikedacho/",
@@ -6590,13 +7186,13 @@
       "url": "https://www.town.gifu-ikeda.lg.jp/"
      }
     ],
-    "address": "Ikedacho, Gifu 503-2492",
+    "address": "Ikeda, Gifu 503-2492",
     "phone": "0585-45-3111"
    },
    "date_modified": "2026-10-17",
    "day_to_day": [
     {
-     "name": "Roadside Station Ikedacho Onsen",
+     "name": "Roadside Station Ikeda Onsen",
      "name_en": "Roadside Station Ikeda Onsen",
      "description": "Roadside station in Ikeda offering onsen, local produce, and a panoramic town view.",
      "source_url": "http://ikedaonsen.jp/michinoeki/",
@@ -6625,7 +7221,7 @@
      "name": "The Milk Shop",
      "name_en": "The Milk Shop",
      "name_ja": "ザ・ミルクショップ",
-     "description": "Café in Ikedacho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Café in Ikeda, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21016322/",
      "page": "https://bokenjapan.com/gifu/ikedacho/eat/cafe/",
      "category": "Cafe"
@@ -6634,7 +7230,7 @@
      "name": "Yasuragi Coffee",
      "name_en": "Yasuragi Coffee",
      "name_ja": "やすらぎ珈琲",
-     "description": "Coffee shop in Ikedacho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Coffee shop in Ikeda, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21001603/",
      "page": "https://bokenjapan.com/gifu/ikedacho/eat/cafe/",
      "category": "Cafe"
@@ -6643,7 +7239,7 @@
      "name": "Cafe Shifon",
      "name_en": "Cafe Shifon",
      "name_ja": "カフェ シフォン",
-     "description": "Café in Ikedacho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Café in Ikeda, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21021789/",
      "page": "https://bokenjapan.com/gifu/ikedacho/eat/cafe/",
      "category": "Cafe"
@@ -6652,7 +7248,7 @@
      "name": "Dining Cafe Bado",
      "name_en": "Dining Cafe Bado",
      "name_ja": "ダイニングカフェ バード",
-     "description": "Café in Ikedacho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Café in Ikeda, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21001755/",
      "page": "https://bokenjapan.com/gifu/ikedacho/eat/cafe/",
      "category": "Cafe"
@@ -6661,7 +7257,7 @@
      "name": "Hinatabokko",
      "name_en": "Hinatabokko",
      "name_ja": "ひなたぼっこ",
-     "description": "Café in Ikedacho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Café in Ikeda, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21011848/",
      "page": "https://bokenjapan.com/gifu/ikedacho/eat/cafe/",
      "category": "Cafe"
@@ -6670,7 +7266,7 @@
      "name": "Suzu cafe",
      "name_en": "Suzu cafe",
      "name_ja": "すずcafe",
-     "description": "Café in Ikedacho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Café in Ikeda, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21021622/",
      "page": "https://bokenjapan.com/gifu/ikedacho/eat/cafe/",
      "category": "Cafe"
@@ -6679,7 +7275,7 @@
      "name": "Emi Meshi",
      "name_en": "Emi Meshi",
      "name_ja": "恵美飯店",
-     "description": "Chinese restaurant in Ikedacho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Chinese restaurant in Ikeda, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21003327/",
      "page": "https://bokenjapan.com/gifu/ikedacho/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -6688,7 +7284,7 @@
      "name": "Sun Royal",
      "name_en": "Sun Royal",
      "name_ja": "サンローヤル",
-     "description": "Yoshoku (Western-style) restaurant in Ikedacho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Yoshoku (Western-style) restaurant in Ikeda, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21001866/",
      "page": "https://bokenjapan.com/gifu/ikedacho/eat/european/",
      "category": "European"
@@ -6697,7 +7293,7 @@
      "name": "Yakiniku Shomin Ikeda",
      "name_en": "Yakiniku Shomin Ikeda",
      "name_ja": "焼肉しょみん 池田店",
-     "description": "Yakiniku (grilled meat) restaurant in Ikedacho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Yakiniku (grilled meat) restaurant in Ikeda, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21022403/",
      "page": "https://bokenjapan.com/gifu/ikedacho/eat/meat/",
      "category": "Japanese (meat)"
@@ -6706,7 +7302,7 @@
      "name": "Unsui",
      "name_en": "Unsui",
      "name_ja": "雲水",
-     "description": "Soba restaurant in Ikedacho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Soba restaurant in Ikeda, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21016166/",
      "page": "https://bokenjapan.com/gifu/ikedacho/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -6715,7 +7311,7 @@
      "name": "Juwari Gassan Soba Sarai",
      "name_en": "Juwari Gassan Soba Sarai",
      "name_ja": "十割月山そば さらい",
-     "description": "Soba restaurant in Ikedacho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Soba restaurant in Ikeda, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21017909/",
      "page": "https://bokenjapan.com/gifu/ikedacho/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -6724,7 +7320,7 @@
      "name": "Soba Ibi Kawa",
      "name_en": "Soba Ibi Kawa",
      "name_ja": "そば処 いび川",
-     "description": "Soba restaurant in Ikedacho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Soba restaurant in Ikeda, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21018207/",
      "page": "https://bokenjapan.com/gifu/ikedacho/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -6733,7 +7329,7 @@
      "name": "Ikeda Onsen",
      "name_en": "Ikeda Onsen",
      "name_ja": "池田温泉",
-     "description": "Roadside-station eatery in Ikedacho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Roadside-station eatery in Ikeda, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21012323/",
      "page": "https://bokenjapan.com/gifu/ikedacho/eat/other/",
      "category": "Other"
@@ -6742,7 +7338,7 @@
      "name": "Shojin Cuisine Yubana Iori",
      "name_en": "Shojin Cuisine Yubana Iori",
      "name_ja": "精進料理 湯華庵",
-     "description": "Japanese restaurant in Ikedacho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Japanese restaurant in Ikeda, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21007611/",
      "page": "https://bokenjapan.com/gifu/ikedacho/eat/other-japanese/",
      "category": "Other Japanese"
@@ -6751,7 +7347,7 @@
      "name": "Sakurazaka",
      "name_en": "Sakurazaka",
      "name_ja": "桜坂",
-     "description": "Japanese restaurant in Ikedacho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Japanese restaurant in Ikeda, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21002839/",
      "page": "https://bokenjapan.com/gifu/ikedacho/eat/other-japanese/",
      "category": "Other Japanese"
@@ -6760,7 +7356,7 @@
      "name": "Shiro Ki-ya",
      "name_en": "Shiro Ki-ya",
      "name_ja": "白喜屋",
-     "description": "Japanese restaurant in Ikedacho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Japanese restaurant in Ikeda, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21002868/",
      "page": "https://bokenjapan.com/gifu/ikedacho/eat/other-japanese/",
      "category": "Other Japanese"
@@ -6769,7 +7365,7 @@
      "name": "Shiki Jun Sai New Ikeda",
      "name_en": "Shiki Jun Sai New Ikeda",
      "name_ja": "四季旬彩 ニュー池田",
-     "description": "Japanese restaurant in Ikedacho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Japanese restaurant in Ikeda, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21006976/",
      "page": "https://bokenjapan.com/gifu/ikedacho/eat/other-japanese/",
      "category": "Other Japanese"
@@ -6778,7 +7374,7 @@
      "name": "Sha Raku",
      "name_en": "Sha Raku",
      "name_ja": "しゃ楽",
-     "description": "Eel restaurant in Ikedacho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Eel restaurant in Ikeda, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21013396/",
      "page": "https://bokenjapan.com/gifu/ikedacho/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -6787,7 +7383,7 @@
      "name": "Ikkyu San",
      "name_en": "Ikkyu San",
      "name_ja": "一休さん",
-     "description": "Sushi restaurant in Ikedacho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Sushi restaurant in Ikeda, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21002966/",
      "page": "https://bokenjapan.com/gifu/ikedacho/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -6796,7 +7392,7 @@
      "name": "Ibukidou",
      "name_en": "Ibukidou",
      "name_ja": "伊吹堂",
-     "description": "Japanese sweets shop in Ikedacho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Japanese sweets shop in Ikeda, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21011195/",
      "page": "https://bokenjapan.com/gifu/ikedacho/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -6804,7 +7400,7 @@
     {
      "name": "Le Vent Calme",
      "name_en": "Le Vent Calme",
-     "description": "Crêpe shop in Ikedacho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Crêpe shop in Ikeda, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21023198/",
      "page": "https://bokenjapan.com/gifu/ikedacho/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -6813,7 +7409,7 @@
      "name": "Yoshiya Michi no Eki Ikeda Onsen",
      "name_en": "Yoshiya Michi no Eki Ikeda Onsen",
      "name_ja": "よしや 道の駅 池田温泉店",
-     "description": "Western sweets shop in Ikedacho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Western sweets shop in Ikeda, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21014576/",
      "page": "https://bokenjapan.com/gifu/ikedacho/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -6822,7 +7418,7 @@
      "name": "Nikki Mochi Honpo Igetaya Kokudo",
      "name_en": "Nikki Mochi Honpo Igetaya Kokudo",
      "name_ja": "肉桂餅本舗 いげたや 国道店",
-     "description": "Japanese sweets shop in Ikedacho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Japanese sweets shop in Ikeda, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21000702/",
      "page": "https://bokenjapan.com/gifu/ikedacho/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -6830,7 +7426,7 @@
     {
      "name": "Le Lien 1518 KAKIGORI &cafe",
      "name_en": "Le Lien 1518 Kakigori &Cafe",
-     "description": "Sweets and bakery shop in Ikedacho.",
+     "description": "Sweets and bakery shop in Ikeda.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21024087/",
      "page": "https://bokenjapan.com/gifu/ikedacho/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -6871,6 +7467,24 @@
      "description": "Ikeda Tsuneoki, Nobunaga's foster brother and later lord of Ogaki Castle, and his son died at Nagakute and were buried in Ikeda.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_6107.html",
      "page": "https://bokenjapan.com/gifu/ikedacho/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "Farm House Comunita",
+     "name_en": "Farm House Comunita",
+     "name_ja": "ファームハウス コムニタ",
+     "description": "Hotel in Ikeda, Gifu.",
+     "source_url": "https://comunita-nakama.com/",
+     "page": "https://bokenjapan.com/gifu/ikedacho/stay/"
+    },
+    {
+     "name": "Noson de Gashuku Camp Center",
+     "name_en": "Noson de Gashuku Camp Center",
+     "name_ja": "農村de合宿キャンプセンター",
+     "description": "Hotel in Ikeda, Gifu.",
+     "source_url": "https://ikeda-noson-camp.jp/",
+     "page": "https://bokenjapan.com/gifu/ikedacho/stay/"
     }
    ]
   },
@@ -8132,7 +8746,7 @@
     {
      "name": "Ran-maru Furusato no Mori",
      "name_en": "Ranmaru Hometown Forest",
-     "description": "Park on Mount Kojō with cherry blossoms, hydrangeas, and autumn leaves.",
+     "description": "Park on Mount Kojo with cherry blossoms, hydrangeas, and autumn leaves.",
      "source_url": "https://www.city.kani.lg.jp/9836.htm",
      "page": "https://bokenjapan.com/gifu/kani/see/"
     },
@@ -8151,14 +8765,14 @@
      "page": "https://bokenjapan.com/gifu/kani/see/"
     },
     {
-     "name": "Jōshō-ji, Kanari-ji and Moritachi-ji Temples",
+     "name": "Josho-ji, Kanari-ji and Moritachi-ji Temples",
      "name_en": "Joshoji Temple, Kanariji Temple, and Shinryuji Temple",
      "description": "Three temples in Kani associated with Sengoku-period figures and events.",
      "source_url": "https://www.city.kani.lg.jp/4231.htm",
      "page": "https://bokenjapan.com/gifu/kani/see/"
     },
     {
-     "name": "Tenryū-ji",
+     "name": "Tenryu-ji",
      "name_en": "Tenryuji Temple",
      "description": "At the foot of Akechi Castle ruins, this Akechi Mitsuhide-linked temple holds Japan's largest Mitsuhide memorial tablet, about 184 cm, and sells temple stamps.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_4243.html",
@@ -8406,8 +9020,8 @@
      "category": "Casual"
     },
     {
-     "name": "Tohō",
-     "name_en": "Tohō",
+     "name": "Toho",
+     "name_en": "Toho",
      "name_ja": "藤芳",
      "description": "Okonomiyaki restaurant in Kasamatsu, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210102/21018267/",
@@ -8442,8 +9056,8 @@
      "category": "Chinese & Asian"
     },
     {
-     "name": "Ryūsei",
-     "name_en": "Ryūsei",
+     "name": "Ryusei",
+     "name_en": "Ryusei",
      "name_ja": "龍盛",
      "description": "Ramen shop in Kasamatsu, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210102/21009166/",
@@ -8583,6 +9197,24 @@
      "source_url": "https://www.kankou-gifu.jp/spot/detail_7102.html",
      "page": "https://bokenjapan.com/gifu/kasamatsu/see/"
     }
+   ],
+   "stays": [
+    {
+     "name": "Hotel Route Inn Ginan Kokudo 21",
+     "name_en": "Hotel Route Inn Ginan Kokudo 21",
+     "name_ja": "ホテルルートイン岐南－国道21号－",
+     "description": "Hotel in Ueinnshoku, Ginan with a large communal bath; 7-minute drive from Gifukakamigahara IC.",
+     "source_url": "https://www.ikyu.com/00082635/",
+     "page": "https://bokenjapan.com/gifu/kasamatsu/stay/"
+    },
+    {
+     "name": "Hotel Route Inn Ginan",
+     "name_en": "Hotel Route Inn Ginan",
+     "name_ja": "ホテルルートイン岐南",
+     "description": "Hotel at Betsukomyosekijinko Onsen in Ueinnshoku, Ginan with a large communal bath.",
+     "source_url": "https://www.jalan.net/yad301478/",
+     "page": "https://bokenjapan.com/gifu/kasamatsu/stay/"
+    }
    ]
   },
   {
@@ -8669,8 +9301,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Kominka Café Kyūbee",
-     "name_en": "Kominka Café Kyūbee",
+     "name": "Kominka Café Kyubee",
+     "name_en": "Kominka Café Kyubee",
      "name_ja": "古民家カフェ 九兵衛",
      "description": "Shokudo diner in Kawabe, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2102/A210201/21022456/",
@@ -8777,8 +9409,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Original Daifuku Okashi-dokoro Yōrōken Honten",
-     "name_en": "Original Daifuku Okashi-dokoro Yōrōken Honten",
+     "name": "Original Daifuku Okashi-dokoro Yoroken Honten",
+     "name_en": "Original Daifuku Okashi-dokoro Yoroken Honten",
      "name_ja": "おりじなる大福 御菓子処 養老軒 本店",
      "description": "Japanese sweets shop in Kawabe, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2102/A210201/21000705/",
@@ -8804,8 +9436,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Asagorō no Odamaki-ya Suzuki Shuten",
-     "name_en": "Asagorō no Odamaki-ya Suzuki Shuten",
+     "name": "Asagoro no Odamaki-ya Suzuki Shuten",
+     "name_en": "Asagoro no Odamaki-ya Suzuki Shuten",
      "name_ja": "浅五郎の小田巻や 鈴木酒店",
      "description": "Japanese sweets shop in Kawabe, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2102/A210201/21010280/",
@@ -8897,7 +9529,7 @@
      "name": "Cuisine Ryokan Katsuya",
      "name_en": "Cuisine Ryokan Katsuya",
      "name_ja": "料理旅館 かつや",
-     "description": "Ryokan in Kawabe, Kamo District.",
+     "description": "Ryokan in Kawabe (Kamo District).",
      "source_url": "https://www.jalan.net/yad351271/",
      "page": "https://bokenjapan.com/gifu/kawabe/stay/"
     }
@@ -9034,8 +9666,8 @@
      "category": "Japanese (meat)"
     },
     {
-     "name": "Men-ya Fūko",
-     "name_en": "Men-ya Fūko",
+     "name": "Men-ya Fuko",
+     "name_en": "Men-ya Fuko",
      "name_ja": "麺や風虎",
      "description": "Ramen shop in Kitagata, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210105/21013287/",
@@ -9079,8 +9711,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Shunsai Kani Tōfu Ryōri Kani no Hana Kitagata",
-     "name_en": "Shunsai Kani Tōfu Ryōri Kani no Hana Kitagata",
+     "name": "Shunsai Kani Tofu Ryori Kani no Hana Kitagata",
+     "name_en": "Shunsai Kani Tofu Ryori Kani no Hana Kitagata",
      "name_ja": "旬菜かに 豆富料理 かにの華 北方店",
      "description": "Crab restaurant in Kitagata, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210105/21005179/",
@@ -9148,6 +9780,32 @@
      "description": "Ancient Shingon temple founded in 811 by Kobo Daishi at Emperor Saga's request, housing National Treasure statues of Fudo Myoo and Shokannon.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_7152.html",
      "page": "https://bokenjapan.com/gifu/kitagata/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "Hotel R9 The Yard Motosu",
+     "name_en": "Hotel R9 The Yard Motosu",
+     "name_ja": "HOTEL R9 The Yard 本巣",
+     "description": "Hotel in Motosu.",
+     "source_url": "https://www.jalan.net/yad353595/",
+     "page": "https://bokenjapan.com/gifu/kitagata/stay/"
+    },
+    {
+     "name": "Sumiyoshiya Neo Usuzumi",
+     "name_en": "Sumiyoshiya Neo Usuzumi",
+     "name_ja": "Tabist 住吉屋 根尾うすずみ",
+     "description": "Minshuku in Motosu near Usuzumi-zakura cherry tree.",
+     "source_url": "https://www.jalan.net/yad339772/",
+     "page": "https://bokenjapan.com/gifu/kitagata/stay/"
+    },
+    {
+     "name": "Kameya Ryokan",
+     "name_en": "Kameya Ryokan",
+     "name_ja": "亀屋旅館",
+     "description": "Business ryokan in Motosu, five-minute walk from Tarumi Station.",
+     "source_url": "https://www.jalan.net/yad341000/",
+     "page": "https://bokenjapan.com/gifu/kitagata/stay/"
     }
    ]
   },
@@ -9218,8 +9876,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Suehiro-dō",
-     "name_en": "Suehiro-dō",
+     "name": "Suehiro-do",
+     "name_en": "Suehiro-do",
      "name_ja": "末広堂",
      "description": "Coffee shop in Mino, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2102/A210204/21004353/",
@@ -9281,8 +9939,8 @@
      "category": "Japanese (meat)"
     },
     {
-     "name": "Men Chisō Ōkami",
-     "name_en": "Men Chisō Ōkami",
+     "name": "Men Chiso Okami",
+     "name_en": "Men Chiso Okami",
      "name_ja": "麺馳走オオカミ",
      "description": "Ramen shop in Mino, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2102/A210204/21022944/",
@@ -9674,8 +10332,8 @@
      "category": "European"
     },
     {
-     "name": "TOM’S Sōya",
-     "name_en": "TOM’S Sōya",
+     "name": "TOM’S Soya",
+     "name_en": "TOM’S Soya",
      "name_ja": "TOM’S惣YA",
      "description": "Yoshoku (Western-style) restaurant in Minokamo, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2102/A210201/21000800/",
@@ -9953,7 +10611,7 @@
      "page": "https://bokenjapan.com/gifu/minokamo/see/"
     },
     {
-     "name": "Battlefield Site of the Jōkyū War at Ōido",
+     "name": "Battlefield Site of the Jokyu War at Oido",
      "name_en": "Jokyu War Battlefield Site at Oido-watari",
      "description": "On 5 June 1221, Kamakura forces crossed Oido and defeated over 2,000 imperial cavalry in an evening river attack.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_7086.html",
@@ -10011,8 +10669,8 @@
    ],
    "stays": [
     {
-     "name": "Fairfield by Marriott Gifu Seiryū Satoyama Kōen",
-     "name_en": "Fairfield by Marriott Gifu Seiryū Satoyama Kōen",
+     "name": "Fairfield by Marriott Gifu Seiryu Satoyama Koen",
+     "name_en": "Fairfield by Marriott Gifu Seiryu Satoyama Koen",
      "name_ja": "フェアフィールド・バイ・マリオット・岐阜清流里山公園",
      "description": "Inn in Yamayukiue, Minokamo with a quiet countryside setting.",
      "source_url": "https://www.ikyu.com/00082093/",
@@ -10094,7 +10752,7 @@
    "date_modified": "2026-10-17",
    "day_to_day": [
     {
-     "name": "Yotteryā Mitake",
+     "name": "Yotterya Mitake",
      "name_en": "Yotteryamitake | Kanko Spot | Gifuken Kanko Koshiki Saito Gifu no Tabi Gaido",
      "description": "A residents' rest spot beside Meitetsu Mitake Station selling nostalgic candy, handmade goods, and Mitake tonchan.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_6770.html",
@@ -10181,8 +10839,8 @@
      "category": "Chinese & Asian"
     },
     {
-     "name": "Kō Camellia",
-     "name_en": "Kō Camellia",
+     "name": "Ko Camellia",
+     "name_en": "Ko Camellia",
      "name_ja": "幸 カメリア",
      "description": "French restaurant in Mitake, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2102/A210203/21010624/",
@@ -10298,8 +10956,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Okashi-dokoro Chōshun-dō",
-     "name_en": "Okashi-dokoro Chōshun-dō",
+     "name": "Okashi-dokoro Choshun-do",
+     "name_en": "Okashi-dokoro Choshun-do",
      "name_ja": "御菓子処 長春堂",
      "description": "Japanese sweets shop in Mitake, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2102/A210203/21012007/",
@@ -10309,7 +10967,7 @@
    ],
    "sights": [
     {
-     "name": "Daiji-zan Gankō-ji",
+     "name": "Daiji-zan Ganko-ji",
      "name_en": "Oterayama Gankoji Temple",
      "description": "Founded in 815, Gankoji, also called Kani Yakushi, is a historic temple whose gate town became Mitake-juku.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_3393.html",
@@ -10323,7 +10981,7 @@
      "page": "https://bokenjapan.com/gifu/mitake/see/"
     },
     {
-     "name": "Oni-no-Ittō Iwa & Renge Iwa",
+     "name": "Oni-no-Itto Iwa & Renge Iwa",
      "name_en": "Oni no Ittoiwa and Rengeiwa",
      "description": "Granite rock formations near Mitake known for panoramic views, cherry blossoms and autumn leaves.",
      "source_url": "http://www.oniiwaonsen.com/park.php",
@@ -10548,6 +11206,157 @@
      "category": "Cafe"
     },
     {
+     "name": "Your,GURT&GRANOLA",
+     "name_en": "Your,GURT&GRANOLA",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21022805/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Karaku Coffee Shop",
+     "name_en": "Karaku Coffee Shop",
+     "name_ja": "珈楽 珈琲店",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21001664/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Bois Cafe",
+     "name_en": "Bois Cafe",
+     "name_ja": "ボワ カフェ",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21010469/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kakigori no Nekokingyo",
+     "name_en": "Kakigori no Nekokingyo",
+     "name_ja": "かき氷のねこきんぎょ",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21021014/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "HAND3",
+     "name_en": "HAND3",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21020654/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Coffee-kan Venus",
+     "name_en": "Coffee-kan Venus",
+     "name_ja": "珈琲館ヴィーナス",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21007437/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Fine",
+     "name_en": "Fine",
+     "name_ja": "ファイン",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21003973/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Green Cafe Osakana",
+     "name_en": "Green Cafe Osakana",
+     "name_ja": "ぐりーんかふぇ おさかな",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21009534/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Café in Mizuho",
+     "name_en": "Café in Mizuho",
+     "name_ja": "ヴェーレン カフェ",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21016773/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Carrot",
+     "name_en": "Cafe Carrot",
+     "name_ja": "カフェカカロット",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21006758/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Giardino",
+     "name_en": "Giardino",
+     "name_ja": "ジャルディーノ",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21003825/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Chez Dumont Mariage-ten",
+     "name_en": "Chez Dumont Mariage-ten",
+     "name_ja": "シェ・デュモン マリア－ジュ店",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21002290/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Hibi no Gohan Tonari",
+     "name_en": "Hibi no Gohan Tonari",
+     "name_ja": "日々のごはん となり",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21023851/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Origami Coffee",
+     "name_en": "Origami Coffee",
+     "name_ja": "オリガミコーヒー",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21019110/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kissa Tomo",
+     "name_en": "Kissa Tomo",
+     "name_ja": "喫茶トモ",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21018075/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "More Cafe Gifu Mizuho-ten",
+     "name_en": "More Cafe Gifu Mizuho-ten",
+     "name_ja": "モア カフェ 岐阜瑞穂店",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21019175/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Pole Pole",
+     "name_en": "Pole Pole",
+     "name_ja": "ポレポレ",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21007096/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Sosudon",
      "name_en": "Sosudon",
      "name_ja": "そーすどん",
@@ -10592,11 +11401,29 @@
      "category": "Chinese & Asian"
     },
     {
-     "name": "Okayu to Sōsaku Chūka Ryōri no Mise Kozuchi",
-     "name_en": "Okayu to Sōsaku Chūka Ryōri no Mise Kozuchi",
+     "name": "Okayu to Sosaku Chuka Ryori no Mise Kozuchi",
+     "name_en": "Okayu to Sosaku Chuka Ryori no Mise Kozuchi",
      "name_ja": "お粥と創作中華料理の店 小槌",
      "description": "Chinese restaurant in Mizuho, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210105/21002010/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Tsurushi Hozumi-ten",
+     "name_en": "Tsurushi Hozumi-ten",
+     "name_ja": "ツルシ 穂積店",
+     "description": "Chinese or Asian restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21013030/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Hachiban Mala-tang",
+     "name_en": "Hachiban Mala-tang",
+     "name_ja": "八番麻辣烫",
+     "description": "Chinese or Asian restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21024625/",
      "page": "https://bokenjapan.com/gifu/mizuho/eat/chinese-asian/",
      "category": "Chinese & Asian"
     },
@@ -10617,6 +11444,33 @@
      "source_url": "https://tabelog.com/gifu/A2101/A210105/21019838/",
      "page": "https://bokenjapan.com/gifu/mizuho/eat/european/",
      "category": "European"
+    },
+    {
+     "name": "Mori Shokudo",
+     "name_en": "Mori Shokudo",
+     "name_ja": "森料理店",
+     "description": "European restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210104/21011921/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "JJ Burger Plant-6 Mizuho-ten",
+     "name_en": "JJ Burger Plant-6 Mizuho-ten",
+     "name_ja": "ジェイジェイバーガー PLANT-6瑞穂店",
+     "description": "Izakaya or bar in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210104/21017965/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/izakaya-bars/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Sosaku Washoku Kurashiko",
+     "name_en": "Sosaku Washoku Kurashiko",
+     "name_ja": "創作和食 くらしこ",
+     "description": "Izakaya or bar in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21000469/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/izakaya-bars/",
+     "category": "Cafe"
     },
     {
      "name": "Minami Kawa Mizuho",
@@ -10642,6 +11496,51 @@
      "name_ja": "ハンバーグ専門店 JOY",
      "description": "Hamburg-steak restaurant in Mizuho, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210105/21001069/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Tori Yakiniku Aya",
+     "name_en": "Tori Yakiniku Aya",
+     "name_ja": "鳥焼肉 彩",
+     "description": "Meat restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21021823/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Katsumi",
+     "name_en": "Katsumi",
+     "name_ja": "勝美",
+     "description": "Meat restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21002527/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Nyo Oki Aoi",
+     "name_en": "Nyo Oki Aoi",
+     "name_ja": "汝旺葵",
+     "description": "Meat restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21001249/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Katsumichi",
+     "name_en": "Katsumichi",
+     "name_ja": "かつみち",
+     "description": "Meat restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210104/21013031/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Warai Meshi",
+     "name_en": "Warai Meshi",
+     "name_ja": "笑い飯",
+     "description": "Meat restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21007466/",
      "page": "https://bokenjapan.com/gifu/mizuho/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -10682,6 +11581,69 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Fukuka",
+     "name_en": "Fukuka",
+     "name_ja": "福佳",
+     "description": "Noodle restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21018156/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Hanafuku",
+     "name_en": "Hanafuku",
+     "name_ja": "花福",
+     "description": "Noodle restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21001056/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Tengai Mizuho-ten",
+     "name_en": "Ramen Tengai Mizuho-ten",
+     "name_ja": "ラーメン天外 瑞穂店",
+     "description": "Noodle restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21022847/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tsurukame Shiten",
+     "name_en": "Tsurukame Shiten",
+     "name_ja": "つるかめ 支店",
+     "description": "Noodle restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21003435/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ichijutei",
+     "name_en": "Ichijutei",
+     "name_ja": "一寿亭",
+     "description": "Noodle restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21018495/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Noko Yasai Tammen Gyu-shio BASE",
+     "name_en": "Noko Yasai Tammen Gyu-shio BASE",
+     "name_ja": "濃厚野菜タンメン 牛しおBASE",
+     "description": "Noodle restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21020097/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "O-Ise Taiyaki Enya Mizuho-ten",
+     "name_en": "O-Ise Taiyaki Enya Mizuho-ten",
+     "name_ja": "お伊勢たい焼き 縁屋 瑞穂店",
+     "description": "Restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21019632/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/other/",
+     "category": "Cafe"
+    },
+    {
      "name": "Otento Sun de Grace",
      "name_en": "Otento Sun de Grace",
      "name_ja": "おてんとSun de Grace",
@@ -10708,6 +11670,60 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Ka-chan no Aji Suigetsu",
+     "name_en": "Ka-chan no Aji Suigetsu",
+     "name_ja": "かあちゃんの味 水月",
+     "description": "Japanese restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21010851/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ajiyoshi",
+     "name_en": "Ajiyoshi",
+     "name_ja": "味美",
+     "description": "Japanese restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21005170/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Uo Tomo",
+     "name_en": "Uo Tomo",
+     "name_ja": "魚伴",
+     "description": "Japanese restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21011380/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shimizu-ya Washoku Unagi Enkai",
+     "name_en": "Shimizu-ya Washoku Unagi Enkai",
+     "name_ja": "清水屋 和食うなぎ宴会",
+     "description": "Seafood restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21011381/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/seafood/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Magokoro Ryori Haru",
+     "name_en": "Magokoro Ryori Haru",
+     "name_ja": "真心料理 はる",
+     "description": "Seafood restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21020869/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/seafood/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Shokujidokoro Hachigoku",
+     "name_en": "Shokujidokoro Hachigoku",
+     "name_ja": "食事処 八石",
+     "description": "Seafood restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21011164/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/seafood/",
+     "category": "Cafe"
+    },
+    {
      "name": "Le Vanillier",
      "name_en": "Le Vanillier",
      "description": "Cake shop in Mizuho, Gifu: things to do, food and stays, Gifu.",
@@ -10725,11 +11741,47 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Yōda-gashi Kōbō Le Masa",
-     "name_en": "Yōda-gashi Kōbō Le Masa",
+     "name": "Yoda-gashi Kobo Le Masa",
+     "name_en": "Yoda-gashi Kobo Le Masa",
      "name_ja": "洋駄菓子工房 ル マサ",
      "description": "Cake shop in Mizuho, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210105/21013447/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets and bakery shop in Mizuho",
+     "name_en": "Sweets and bakery shop in Mizuho",
+     "name_ja": "バックハウス ブラウ",
+     "description": "Sweets and bakery shop in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21015201/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Plant Six Mizuho-ten",
+     "name_en": "Plant Six Mizuho-ten",
+     "name_ja": "プラントシックス 瑞穂店",
+     "description": "Sweets and bakery shop in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210104/21013312/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Diasu no Arare",
+     "name_en": "Diasu no Arare",
+     "name_ja": "ダイヤスのあられ",
+     "description": "Sweets and bakery shop in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21020368/",
+     "page": "https://bokenjapan.com/gifu/mizuho/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Pekori",
+     "name_en": "Pekori",
+     "name_ja": "ぺこり",
+     "description": "Sweets and bakery shop in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2101/A210105/21013335/",
      "page": "https://bokenjapan.com/gifu/mizuho/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -10769,6 +11821,88 @@
      "description": "Hall housing an 182 cm wooden standing Kannon statue believed to be twin to the one at Tanigumi-san.",
      "source_url": "https://www.city.mizuho.lg.jp/4858.htm",
      "page": "https://bokenjapan.com/gifu/mizuho/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "Miyako Hotel Gifunagaragawa",
+     "name_en": "Miyako Hotel Gifunagaragawa",
+     "name_ja": "都ホテル 岐阜長良川",
+     "description": "Hotel in Gifu, the nearest town with bookable stays to Mizuho.",
+     "source_url": "https://www.ikyu.com/00001105/",
+     "page": "https://bokenjapan.com/gifu/mizuho/stay/"
+    },
+    {
+     "name": "Juhachi-ro",
+     "name_en": "Juhachi-ro",
+     "name_ja": "十八楼",
+     "description": "Guesthouse in Gifu, the nearest town with bookable stays to Mizuho.",
+     "source_url": "https://www.ikyu.com/00002551/",
+     "page": "https://bokenjapan.com/gifu/mizuho/stay/"
+    },
+    {
+     "name": "Daiwa Roynet Hotel Gifu",
+     "name_en": "Daiwa Roynet Hotel Gifu",
+     "name_ja": "ダイワロイネットホテル岐阜",
+     "description": "Business hotel in Gifu, the nearest town with bookable stays to Mizuho.",
+     "source_url": "https://www.ikyu.com/00080025/",
+     "page": "https://bokenjapan.com/gifu/mizuho/stay/"
+    },
+    {
+     "name": "Nagaragawa Onsen Gifu Grand Hotel",
+     "name_en": "Nagaragawa Onsen Gifu Grand Hotel",
+     "name_ja": "長良川温泉 岐阜グランドホテル",
+     "description": "Hotel at Nagaragawa Onsen in Nagara, Gifu.",
+     "source_url": "https://www.ikyu.com/00001244/",
+     "page": "https://bokenjapan.com/gifu/mizuho/stay/"
+    },
+    {
+     "name": "Nagaragawa Seiryu Hotel",
+     "name_en": "Nagaragawa Seiryu Hotel",
+     "name_ja": "長良川清流ホテル",
+     "description": "Hotel in Nagarakokorozashidankenhigashiyama, Gifu with a quiet countryside setting.",
+     "source_url": "https://www.ikyu.com/00002116/",
+     "page": "https://bokenjapan.com/gifu/mizuho/stay/"
+    },
+    {
+     "name": "Juhachiro Hanare Yado Ito",
+     "name_en": "Juhachiro Hanare Yado Ito",
+     "name_ja": "十八楼離れ 宿いとう",
+     "description": "Ryokan in Gifu, the nearest town with bookable stays to Mizuho.",
+     "source_url": "https://www.ikyu.com/00051634/",
+     "page": "https://bokenjapan.com/gifu/mizuho/stay/"
+    },
+    {
+     "name": "Nagaragawa Onsen Hotel Park",
+     "name_en": "Nagaragawa Onsen Hotel Park",
+     "name_ja": "長良川温泉 ホテルパーク",
+     "description": "Hotel at Nagaragawa Onsen in Minato, Gifu with open-air baths.",
+     "source_url": "https://www.ikyu.com/00030711/",
+     "page": "https://bokenjapan.com/gifu/mizuho/stay/"
+    },
+    {
+     "name": "Natural Hot Spring Kinka-no-Yu Dormy Inn Gifu Ekimae",
+     "name_en": "Natural Hot Spring Kinka-no-Yu Dormy Inn Gifu Ekimae",
+     "name_ja": "天然温泉 金華の湯 ドーミーイン岐阜駅前",
+     "description": "Inn in Yoshino, Gifu with buffet meals and breakfast available.",
+     "source_url": "https://www.ikyu.com/00080858/",
+     "page": "https://bokenjapan.com/gifu/mizuho/stay/"
+    },
+    {
+     "name": "Comfort Hotel Gifu",
+     "name_en": "Comfort Hotel Gifu",
+     "name_ja": "コンフォートホテル岐阜",
+     "description": "Business hotel in Gifu, the nearest town with bookable stays to Mizuho.",
+     "source_url": "https://www.ikyu.com/00080201/",
+     "page": "https://bokenjapan.com/gifu/mizuho/stay/"
+    },
+    {
+     "name": "Usho no-ya Sugi Yama",
+     "name_en": "Usho no-ya Sugi Yama",
+     "name_ja": "鵜匠の家 すぎ山",
+     "description": "Inn at Nagaragawa Onsen in Nagara, Gifu with open-air baths and scenic views.",
+     "source_url": "https://www.ikyu.com/00001997/",
+     "page": "https://bokenjapan.com/gifu/mizuho/stay/"
     }
    ]
   },
@@ -10823,8 +11957,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Hori Yōhōen Mitsuya",
-     "name_en": "Hori Yōhōen Mitsuya",
+     "name": "Hori Yohoen Mitsuya",
+     "name_en": "Hori Yohoen Mitsuya",
      "name_ja": "堀養蜂園 蜜や",
      "description": "Café in Mizunami, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2103/A210301/21020537/",
@@ -10855,6 +11989,51 @@
      "name_ja": "待夢珈琲店",
      "description": "Café in Mizunami, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2103/A210301/21021030/",
+     "page": "https://bokenjapan.com/gifu/mizunami/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Fuku",
+     "name_en": "Cafe Fuku",
+     "name_ja": "Cafe福",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2103/A210301/21018855/",
+     "page": "https://bokenjapan.com/gifu/mizunami/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Ena Kawakamiya Mizunami-ten",
+     "name_en": "Ena Kawakamiya Mizunami-ten",
+     "name_ja": "恵那川上屋 瑞浪店",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2103/A210301/21000132/",
+     "page": "https://bokenjapan.com/gifu/mizunami/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Mizunami",
+     "name_en": "Cafe in Mizunami",
+     "name_ja": "パル",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2103/A210301/21001143/",
+     "page": "https://bokenjapan.com/gifu/mizunami/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Realize",
+     "name_en": "Realize",
+     "name_ja": "リアライズ",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2103/A210301/21001804/",
+     "page": "https://bokenjapan.com/gifu/mizunami/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Bakery & Cafe Boulanco Mizunami-ten",
+     "name_en": "Bakery & Cafe Boulanco Mizunami-ten",
+     "name_ja": "ベーカリー&カフェ ブーランコ 瑞浪店",
+     "description": "Cafe in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2103/A210301/21018450/",
      "page": "https://bokenjapan.com/gifu/mizunami/eat/cafe/",
      "category": "Cafe"
     },
@@ -10904,6 +12083,33 @@
      "category": "European"
     },
     {
+     "name": "Belle Fleur Country Club",
+     "name_en": "Belle Fleur Country Club",
+     "name_ja": "ベルフラワーカントリー倶楽部",
+     "description": "European restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2103/A210301/21014762/",
+     "page": "https://bokenjapan.com/gifu/mizunami/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Crown Country Club",
+     "name_en": "Crown Country Club",
+     "name_ja": "クラウンカントリークラブ",
+     "description": "European restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2103/A210302/21013423/",
+     "page": "https://bokenjapan.com/gifu/mizunami/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Riku",
+     "name_en": "Riku",
+     "name_ja": "陸",
+     "description": "Izakaya or bar in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2103/A210301/21001745/",
+     "page": "https://bokenjapan.com/gifu/mizunami/eat/izakaya-bars/",
+     "category": "Cafe"
+    },
+    {
      "name": "Kato-ya Shokudo",
      "name_en": "Kato-ya Shokudo",
      "name_ja": "加登屋食堂",
@@ -10927,6 +12133,24 @@
      "name_ja": "鉄板食堂 七福",
      "description": "Tonkatsu restaurant in Mizunami, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2103/A210301/21023814/",
+     "page": "https://bokenjapan.com/gifu/mizunami/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Akami Yakiniku Nagaichan",
+     "name_en": "Akami Yakiniku Nagaichan",
+     "name_ja": "赤身焼肉 ながいちゃん",
+     "description": "Meat restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2103/A210301/21023399/",
+     "page": "https://bokenjapan.com/gifu/mizunami/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Yoshita",
+     "name_en": "Yakiniku Yoshita",
+     "name_ja": "焼肉 与志多",
+     "description": "Meat restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2103/A210301/21001359/",
      "page": "https://bokenjapan.com/gifu/mizunami/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -10967,6 +12191,42 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Tokiwa Shokudo",
+     "name_en": "Tokiwa Shokudo",
+     "name_ja": "ときわ食堂",
+     "description": "Noodle restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2103/A210301/21001527/",
+     "page": "https://bokenjapan.com/gifu/mizunami/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Shina Soba Manten Ittakaya",
+     "name_en": "Shina Soba Manten Ittakaya",
+     "name_ja": "支那そば満天一高家",
+     "description": "Noodle restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2103/A210301/21011211/",
+     "page": "https://bokenjapan.com/gifu/mizunami/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kadoya",
+     "name_en": "Kadoya",
+     "name_ja": "角屋",
+     "description": "Noodle restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2103/A210301/21002981/",
+     "page": "https://bokenjapan.com/gifu/mizunami/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Waho",
+     "name_en": "Waho",
+     "name_ja": "和輔",
+     "description": "Noodle restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2103/A210301/21012645/",
+     "page": "https://bokenjapan.com/gifu/mizunami/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Hana no Ki Golf Club",
      "name_en": "Hana no Ki Golf Club",
      "name_ja": "花の木ゴルフクラブ",
@@ -10981,6 +12241,15 @@
      "name_ja": "フォレストみずなみカントリークラブ",
      "description": "Restaurant in Mizunami, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2103/A210301/21013531/",
+     "page": "https://bokenjapan.com/gifu/mizunami/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Mizunami Sando",
+     "name_en": "Mizunami Sando",
+     "name_ja": "瑞浪サンド",
+     "description": "Restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2103/A210301/21022243/",
      "page": "https://bokenjapan.com/gifu/mizunami/eat/other/",
      "category": "Other"
     },
@@ -11003,11 +12272,56 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Fongu An",
+     "name_en": "Fongu An",
+     "name_ja": "ふぉんぐ庵",
+     "description": "Japanese restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2103/A210301/21004831/",
+     "page": "https://bokenjapan.com/gifu/mizunami/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Nihonryori Kingyo",
+     "name_en": "Nihonryori Kingyo",
+     "name_ja": "日本料理 きん魚",
+     "description": "Japanese restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2103/A210301/21013264/",
+     "page": "https://bokenjapan.com/gifu/mizunami/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Ubune",
      "name_en": "Ubune",
      "name_ja": "鵜舟",
      "description": "Eel restaurant in Mizunami, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2103/A210301/21000840/",
+     "page": "https://bokenjapan.com/gifu/mizunami/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Una Haru",
+     "name_en": "Una Haru",
+     "name_ja": "うな春",
+     "description": "Seafood restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2103/A210301/21001285/",
+     "page": "https://bokenjapan.com/gifu/mizunami/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Ebi Kiyoshi",
+     "name_en": "Ebi Kiyoshi",
+     "name_ja": "海老清",
+     "description": "Seafood restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2103/A210301/21016668/",
+     "page": "https://bokenjapan.com/gifu/mizunami/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Bincho Unagi Minokawa Mizunami-ten",
+     "name_en": "Bincho Unagi Minokawa Mizunami-ten",
+     "name_ja": "備長うなぎ みの川 瑞浪店",
+     "description": "Seafood restaurant in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2103/A210301/21022166/",
      "page": "https://bokenjapan.com/gifu/mizunami/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -11026,6 +12340,24 @@
      "name_ja": "里の果茶房",
      "description": "Japanese sweets café in Mizunami, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2103/A210301/21019920/",
+     "page": "https://bokenjapan.com/gifu/mizunami/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Mino Hiroan Mankaido",
+     "name_en": "Mino Hiroan Mankaido",
+     "name_ja": "美濃廣庵 満開堂",
+     "description": "Sweets and bakery shop in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2103/A210301/21010055/",
+     "page": "https://bokenjapan.com/gifu/mizunami/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Kamado Pan",
+     "name_en": "Kamado Pan",
+     "name_ja": "かまどパン",
+     "description": "Sweets and bakery shop in {TOWN}.",
+     "source_url": "https://tabelog.com/gifu/A2103/A210301/21024657/",
      "page": "https://bokenjapan.com/gifu/mizunami/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -11329,8 +12661,8 @@
      "category": "Japanese (meat)"
     },
     {
-     "name": "Seita Menbō",
-     "name_en": "Seita Menbō",
+     "name": "Seita Menbo",
+     "name_en": "Seita Menbo",
      "name_ja": "とんかつ田なか屋 モレラ店",
      "description": "Tonkatsu restaurant in Motosu, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210105/21015314/",
@@ -11755,8 +13087,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Jū to Ni",
-     "name_en": "Jū to Ni",
+     "name": "Ju to Ni",
+     "name_en": "Ju to Ni",
      "name_ja": "恵盛庵",
      "description": "Soba restaurant in Nakatsugawa, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2103/A210303/21000807/",
@@ -11818,8 +13150,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Shōgetsu-dō",
-     "name_en": "Shōgetsu-dō",
+     "name": "Shogetsu-do",
+     "name_en": "Shogetsu-do",
      "name_ja": "栗きんとん本家 すや 本店",
      "description": "Japanese sweets shop in Nakatsugawa, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2103/A210303/21000030/",
@@ -11845,8 +13177,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Shingen-dō Sakaemachi-ten",
-     "name_en": "Shingen-dō Sakaemachi-ten",
+     "name": "Shingen-do Sakaemachi-ten",
+     "name_en": "Shingen-do Sakaemachi-ten",
      "name_ja": "松月堂",
      "description": "Japanese sweets shop in Nakatsugawa, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2103/A210303/21008077/",
@@ -11890,8 +13222,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Ena Fukudō",
-     "name_en": "Ena Fukudō",
+     "name": "Ena Fukudo",
+     "name_en": "Ena Fukudo",
      "name_ja": "信玄堂 栄町店",
      "description": "Japanese sweets shop in Nakatsugawa, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2103/A210303/21008405/",
@@ -12087,8 +13419,8 @@
    ],
    "stays": [
     {
-     "name": "Yoru-garasu Sansō Nagataki",
-     "name_en": "Yoru-garasu Sansō Nagataki",
+     "name": "Yoru-garasu Sanso Nagataki",
+     "name_en": "Yoru-garasu Sanso Nagataki",
      "name_ja": "お宿Onn 中津川",
      "description": "Ryokan inn in Nakatsugawa.",
      "source_url": "https://www.ikyu.com/00082485/",
@@ -12469,8 +13801,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Ryotei Shichō",
-     "name_en": "Ryotei Shichō",
+     "name": "Ryotei Shicho",
+     "name_en": "Ryotei Shicho",
      "name_ja": "料亭 四鳥",
      "description": "Japanese restaurant in Ogaki, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21000909/",
@@ -12487,8 +13819,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Mochisō",
-     "name_en": "Mochisō",
+     "name": "Mochiso",
+     "name_en": "Mochiso",
      "name_ja": "餅惣",
      "description": "Japanese sweets café in Ogaki, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21007487/",
@@ -12496,8 +13828,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Kinchoen Sōhonke Ogaki Ekimae Honten",
-     "name_en": "Kinchoen Sōhonke Ogaki Ekimae Honten",
+     "name": "Kinchoen Sohonke Ogaki Ekimae Honten",
+     "name_en": "Kinchoen Sohonke Ogaki Ekimae Honten",
      "name_ja": "金蝶園総本家 大垣駅前本店",
      "description": "Japanese sweets shop in Ogaki, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21000857/",
@@ -12505,8 +13837,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Kinchoen Sōhonke",
-     "name_en": "Kinchoen Sōhonke",
+     "name": "Kinchoen Sohonke",
+     "name_en": "Kinchoen Sohonke",
      "name_ja": "金蝶園総本家",
      "description": "Japanese sweets shop in Ogaki, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21000102/",
@@ -12553,16 +13885,16 @@
      "page": "https://bokenjapan.com/gifu/ogaki/see/"
     },
     {
-     "name": "Enkō-ji",
+     "name": "Enko-ji",
      "name_en": "Enkoji Temple",
-     "description": "Temple in Ōgaki with a 300-year-old camphor tree and autumn foliage.",
+     "description": "Temple in Ogaki with a 300-year-old camphor tree and autumn foliage.",
      "source_url": "https://www.city.ogaki.lg.jp/0000019611.html",
      "page": "https://bokenjapan.com/gifu/ogaki/see/"
     },
     {
      "name": "Saigawa Embankment",
      "name_en": "Saikawa Tsutsumi Sakurazutsumi Bo Ajisai Kaido",
-     "description": "3.7 km cherry-tree-lined embankment with hydrangeas in Ōgaki.",
+     "description": "3.7 km cherry-tree-lined embankment with hydrangeas in Ogaki.",
      "source_url": "https://www.city.ogaki.lg.jp/0000009505.html",
      "page": "https://bokenjapan.com/gifu/ogaki/see/"
     },
@@ -12581,7 +13913,7 @@
      "page": "https://bokenjapan.com/gifu/ogaki/see/"
     },
     {
-     "name": "Ōgaki Local History Museum",
+     "name": "Ogaki Local History Museum",
      "name_en": "Ogaki City Folk Museum",
      "description": "Built to commemorate the Toda lord's 350th castle-entry anniversary, it displays artworks honoring successive lords and has a bonsai cobblestone garden.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_6025.html",
@@ -12686,14 +14018,14 @@
      "page": "https://bokenjapan.com/gifu/ogaki/see/"
     },
     {
-     "name": "Minōji Sunomata Waki-honjin Site",
+     "name": "Minoji Sunomata Waki-honjin Site",
      "name_en": "Minoji Sunomata-juku Waki-honjin Site (Former Ando House)",
      "description": "Former sub-station house on the Minoji route, parts of which can be viewed inside.",
      "source_url": "https://www.city.ogaki.lg.jp/0000019595.html",
      "page": "https://bokenjapan.com/gifu/ogaki/see/"
     },
     {
-     "name": "Minōji Sunomata Honjin Site",
+     "name": "Minoji Sunomata Honjin Site",
      "name_en": "Minoji Sunomata-juku Honjin Site",
      "description": "Only a stone monument and ferry-landing lantern remain; Date Masamune stayed, and the Sawai family served for generations.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_7114.html",
@@ -12841,7 +14173,7 @@
    ]
   },
   {
-   "name": "Onocho",
+   "name": "Ono",
    "slug": "onocho",
    "prefecture": "gifu",
    "url": "https://bokenjapan.com/gifu/onocho/",
@@ -12852,7 +14184,7 @@
       "url": "https://www.town-ono.jp/"
      }
     ],
-    "address": "Onocho, Gifu 501-0592",
+    "address": "Ono, Gifu 501-0592",
     "phone": "0585-34-1111"
    },
    "date_modified": "2026-10-17",
@@ -12885,7 +14217,7 @@
     {
      "name": "cafe yurara",
      "name_en": "cafe yurara",
-     "description": "Café in Onocho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Café in Ono, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210105/21018919/",
      "page": "https://bokenjapan.com/gifu/onocho/eat/cafe/",
      "category": "Cafe"
@@ -12893,7 +14225,7 @@
     {
      "name": "iq cafe&dining",
      "name_en": "iq cafe&dining",
-     "description": "Café in Onocho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Café in Ono, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210106/21015588/",
      "page": "https://bokenjapan.com/gifu/onocho/eat/cafe/",
      "category": "Cafe"
@@ -12902,7 +14234,7 @@
      "name": "Cheka",
      "name_en": "Cheka",
      "name_ja": "小さな喫茶店 Cheka",
-     "description": "Coffee shop in Onocho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Coffee shop in Ono, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210105/21020583/",
      "page": "https://bokenjapan.com/gifu/onocho/eat/cafe/",
      "category": "Cafe"
@@ -12910,7 +14242,7 @@
     {
      "name": "Sio-Kuma",
      "name_en": "Sio-Kuma",
-     "description": "Coffee shop in Onocho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Coffee shop in Ono, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210105/21022143/",
      "page": "https://bokenjapan.com/gifu/onocho/eat/cafe/",
      "category": "Cafe"
@@ -12919,7 +14251,7 @@
      "name": "Miss Betty Honten",
      "name_en": "Miss Betty Honten",
      "name_ja": "ミスベティ 本店",
-     "description": "Coffee shop in Onocho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Coffee shop in Ono, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21011816/",
      "page": "https://bokenjapan.com/gifu/onocho/eat/cafe/",
      "category": "Cafe"
@@ -12928,7 +14260,7 @@
      "name": "Gonoriharinogo",
      "name_en": "Gonoriharinogo",
      "name_ja": "ごのりはりのご",
-     "description": "Café in Onocho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Café in Ono, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21021289/",
      "page": "https://bokenjapan.com/gifu/onocho/eat/cafe/",
      "category": "Cafe"
@@ -12937,7 +14269,7 @@
      "name": "cafe no no",
      "name_en": "cafe no no",
      "name_ja": "cafe 野野",
-     "description": "Café in Onocho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Café in Ono, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21009384/",
      "page": "https://bokenjapan.com/gifu/onocho/eat/cafe/",
      "category": "Cafe"
@@ -12946,7 +14278,7 @@
      "name": "Nido Zakura",
      "name_en": "Nido Zakura",
      "name_ja": "二度ザクラ",
-     "description": "Coffee shop in Onocho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Coffee shop in Ono, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21013008/",
      "page": "https://bokenjapan.com/gifu/onocho/eat/cafe/",
      "category": "Cafe"
@@ -12954,7 +14286,7 @@
     {
      "name": "PASAR",
      "name_en": "Pasar",
-     "description": "Coffee shop in Onocho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Coffee shop in Ono, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21006653/",
      "page": "https://bokenjapan.com/gifu/onocho/eat/cafe/",
      "category": "Cafe"
@@ -12963,7 +14295,7 @@
      "name": "Cafe Rate",
      "name_en": "Cafe Rate",
      "name_ja": "カフェラテ",
-     "description": "Café in Onocho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Café in Ono, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210105/21013199/",
      "page": "https://bokenjapan.com/gifu/onocho/eat/cafe/",
      "category": "Cafe"
@@ -12972,16 +14304,16 @@
      "name": "Chugoku Cuisine Toho Kurenai",
      "name_en": "Chugoku Cuisine Toho Kurenai",
      "name_ja": "中国料理 東方紅",
-     "description": "Chinese restaurant in Onocho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Chinese restaurant in Ono, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210105/21011037/",
      "page": "https://bokenjapan.com/gifu/onocho/eat/chinese-asian/",
      "category": "Chinese & Asian"
     },
     {
-     "name": "Taiwan Ryori Kōfuku",
-     "name_en": "Taiwan Ryori Kōfuku",
+     "name": "Taiwan Ryori Kofuku",
+     "name_en": "Taiwan Ryori Kofuku",
      "name_ja": "台湾料理 鴻福",
-     "description": "Chinese or Asian restaurant in Onocho.",
+     "description": "Chinese or Asian restaurant in Ono.",
      "source_url": "https://tabelog.com/gifu/A2101/A210105/21019516/",
      "page": "https://bokenjapan.com/gifu/onocho/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -12989,7 +14321,7 @@
     {
      "name": "Yo-shoku OKADA",
      "name_en": "Yo-shoku Okada",
-     "description": "Yoshoku (Western-style) restaurant in Onocho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Yoshoku (Western-style) restaurant in Ono, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210105/21008442/",
      "page": "https://bokenjapan.com/gifu/onocho/eat/european/",
      "category": "European"
@@ -12998,7 +14330,7 @@
      "name": "Saitabasu",
      "name_en": "Saitabasu",
      "name_ja": "サイタバラス",
-     "description": "Restaurant in Onocho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Restaurant in Ono, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21019719/",
      "page": "https://bokenjapan.com/gifu/onocho/eat/european/",
      "category": "European"
@@ -13007,7 +14339,7 @@
      "name": "Yuki Gekka Ono",
      "name_en": "Yuki Gekka Ono",
      "name_ja": "雪月花 大野店",
-     "description": "Yakiniku (grilled meat) restaurant in Onocho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Yakiniku (grilled meat) restaurant in Ono, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210105/21000411/",
      "page": "https://bokenjapan.com/gifu/onocho/eat/meat/",
      "category": "Japanese (meat)"
@@ -13016,7 +14348,7 @@
      "name": "Tonkatsu Minami Kawa Ono",
      "name_en": "Tonkatsu Minami Kawa Ono",
      "name_ja": "とんかつ みなみ川 大野店",
-     "description": "Tonkatsu restaurant in Onocho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Tonkatsu restaurant in Ono, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210105/21020378/",
      "page": "https://bokenjapan.com/gifu/onocho/eat/meat/",
      "category": "Japanese (meat)"
@@ -13025,7 +14357,7 @@
      "name": "Chin Chikurin Ono",
      "name_en": "Chin Chikurin Ono",
      "name_ja": "珍竹林 大野店",
-     "description": "Ramen shop in Onocho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Ramen shop in Ono, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21002388/",
      "page": "https://bokenjapan.com/gifu/onocho/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13034,7 +14366,7 @@
      "name": "Men Ku-ya",
      "name_en": "Men Ku-ya",
      "name_ja": "めん喰い屋",
-     "description": "Ramen shop in Onocho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Ramen shop in Ono, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210105/21009381/",
      "page": "https://bokenjapan.com/gifu/onocho/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13043,7 +14375,7 @@
      "name": "Kakuki",
      "name_en": "Kakuki",
      "name_ja": "角禧",
-     "description": "Udon restaurant in Onocho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Udon restaurant in Ono, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210105/21008350/",
      "page": "https://bokenjapan.com/gifu/onocho/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -13052,16 +14384,16 @@
      "name": "Ono Onsen Restaurant",
      "name_en": "Ono Onsen Restaurant",
      "name_ja": "おおの温泉 食事処",
-     "description": "Udon restaurant in Onocho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Udon restaurant in Ono, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21015780/",
      "page": "https://bokenjapan.com/gifu/onocho/eat/noodles/",
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Michi-no-Eki Palette Pia Ōno",
-     "name_en": "Michi-no-Eki Palette Pia Ōno",
+     "name": "Michi-no-Eki Palette Pia Ono",
+     "name_en": "Michi-no-Eki Palette Pia Ono",
      "name_ja": "道の駅パレットピアおおの",
-     "description": "Roadside-station eatery in Onocho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Roadside-station eatery in Ono, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21017798/",
      "page": "https://bokenjapan.com/gifu/onocho/eat/other/",
      "category": "Other"
@@ -13070,16 +14402,16 @@
      "name": "Okata",
      "name_en": "Okata",
      "name_ja": "おか多",
-     "description": "Seafood restaurant in Onocho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Seafood restaurant in Ono, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210105/21004648/",
      "page": "https://bokenjapan.com/gifu/onocho/eat/seafood/",
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Kashidō Nakamoto Kokudō-ten",
-     "name_en": "Kashidō Nakamoto Kokudō-ten",
+     "name": "Kashido Nakamoto Kokudo-ten",
+     "name_en": "Kashido Nakamoto Kokudo-ten",
      "name_ja": "柏鳥堂 中之元国道店",
-     "description": "Japanese sweets shop in Onocho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Japanese sweets shop in Ono, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210105/21013968/",
      "page": "https://bokenjapan.com/gifu/onocho/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -13088,7 +14420,7 @@
      "name": "Bakery Miopa",
      "name_en": "Bakery Miopa",
      "name_ja": "ベーカリーみおぱ",
-     "description": "Bakery in Onocho, Gifu: things to do, food and stays, Gifu.",
+     "description": "Bakery in Ono, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2101/A210104/21019677/",
      "page": "https://bokenjapan.com/gifu/onocho/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -13345,6 +14677,72 @@
      "description": "A farm pond watering the town's rice fields, the prefecture's only entry in Japan's 100 selected reservoirs.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_5323.html",
      "page": "https://bokenjapan.com/gifu/sakahogi/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "Fairfield by Marriott Gifu Seiryu Satoyama Park",
+     "name_en": "Fairfield by Marriott Gifu Seiryu Satoyama Park",
+     "name_ja": "フェアフィールド・バイ・マリオット・岐阜清流里山公園",
+     "description": "Inn in Yamayukiue, Minokamo with a quiet countryside setting.",
+     "source_url": "https://www.ikyu.com/00082093/",
+     "page": "https://bokenjapan.com/gifu/sakahogi/stay/"
+    },
+    {
+     "name": "Minokamo Station Hotel",
+     "name_en": "Minokamo Station Hotel",
+     "name_ja": "美濃加茂ステーションホテル",
+     "description": "Hotel in Ota, Minokamo with business travelers; 2-minute walk from Minoota Station.",
+     "source_url": "https://www.jalan.net/yad392290/",
+     "page": "https://bokenjapan.com/gifu/sakahogi/stay/"
+    },
+    {
+     "name": "Hotel Route Inn Minokamo",
+     "name_en": "Hotel Route Inn Minokamo",
+     "name_ja": "ホテルルートイン美濃加茂",
+     "description": "Hotel in Ota, Minokamo with Wi-Fi.",
+     "source_url": "https://www.jalan.net/yad332643/",
+     "page": "https://bokenjapan.com/gifu/sakahogi/stay/"
+    },
+    {
+     "name": "City Hotel Minokamo",
+     "name_en": "City Hotel Minokamo",
+     "name_ja": "シティホテル美濃加茂",
+     "description": "Hotel in Ota, Minokamo with parking and business travelers.",
+     "source_url": "https://www.jalan.net/yad319014/",
+     "page": "https://bokenjapan.com/gifu/sakahogi/stay/"
+    },
+    {
+     "name": "Business Ryokan Iroha",
+     "name_en": "Business Ryokan Iroha",
+     "name_ja": "ビジネス旅館 いろは",
+     "description": "Ryokan inn in Furui, Minokamo with business travelers.",
+     "source_url": "https://www.jalan.net/yad373100/",
+     "page": "https://bokenjapan.com/gifu/sakahogi/stay/"
+    },
+    {
+     "name": "FLYCAT Hotel",
+     "name_en": "FLYCAT Hotel",
+     "name_ja": "ＦＬＹＣＡＴ ホテル",
+     "description": "Hotel in Furui, Minokamo with parking; 3-minute walk from JR Minoota Station.",
+     "source_url": "https://www.jalan.net/yad365787/",
+     "page": "https://bokenjapan.com/gifu/sakahogi/stay/"
+    },
+    {
+     "name": "Hotel R9 The Yard Minokamo",
+     "name_en": "Hotel R9 The Yard Minokamo",
+     "name_ja": "ＨＯＴＥＬ Ｒ９ Ｔｈｅ Ｙａｒｄ 美濃加茂",
+     "description": "Hotel in Mino Kamo.",
+     "source_url": "https://www.jalan.net/yad342828/",
+     "page": "https://bokenjapan.com/gifu/sakahogi/stay/"
+    },
+    {
+     "name": "Honkaku Kashikiri Sauna no Yado Tsuzuya Village",
+     "name_en": "Honkaku Kashikiri Sauna no Yado Tsuzuya Village",
+     "name_ja": "本格貸切サウナの宿 つづやビレッジ",
+     "description": "Inn in Sanwa, Minokamo with a sauna.",
+     "source_url": "https://www.jalan.net/yad307281/",
+     "page": "https://bokenjapan.com/gifu/sakahogi/stay/"
     }
    ]
   },
@@ -14569,6 +15967,24 @@
      "source_url": "https://www.sekigahara1600.com/spot/okudairasadaharunohaka.html",
      "page": "https://bokenjapan.com/gifu/sekigahara/see/"
     }
+   ],
+   "stays": [
+    {
+     "name": "Hotel R9 The Yard Tarui",
+     "name_en": "Hotel R9 The Yard Tarui",
+     "name_ja": "ＨＯＴＥＬ Ｒ９ Ｔｈｅ Ｙａｒｄ 垂井",
+     "description": "Hotel in Tarui, the nearest town with bookable stays to Sekigahara.",
+     "source_url": "https://travel.rakuten.co.jp/HOTEL/184011/184011.html",
+     "page": "https://bokenjapan.com/gifu/sekigahara/stay/"
+    },
+    {
+     "name": "Inoshishi-tei Kiriyama-so",
+     "name_en": "Inoshishi-tei Kiriyama-so",
+     "name_ja": "いのしし亭（桐山荘）",
+     "description": "Inn in Omotesa, Tarui with parking and family-friendly stays.",
+     "source_url": "https://travel.rakuten.co.jp/HOTEL/145412/145412.html",
+     "page": "https://bokenjapan.com/gifu/sekigahara/stay/"
+    }
    ]
   },
   {
@@ -14948,14 +16364,14 @@
      "name": "Tanakaya Ryokan",
      "name_en": "Tanakaya Ryokan",
      "name_ja": "田中屋旅館",
-     "description": "Ryokan in Shirakawa, Gifu Prefecture.",
+     "description": "Ryokan in Shirakawa.",
      "source_url": "https://www.jalan.net/yad392422/",
      "page": "https://bokenjapan.com/gifu/shirakawa/stay/"
     }
    ]
   },
   {
-   "name": "Shirakawamura",
+   "name": "Shirakawa-go",
    "slug": "shirakawamura",
    "prefecture": "gifu",
    "url": "https://bokenjapan.com/gifu/shirakawamura/",
@@ -14966,7 +16382,7 @@
       "url": "https://shirakawa-go.org/"
      }
     ],
-    "address": "Shirakawamura, Gifu 501-5692",
+    "address": "Shirakawa-go, Gifu 501-5692",
     "phone": "05769-6-1311"
    },
    "date_modified": "2026-10-17",
@@ -15026,7 +16442,7 @@
      "name": "Bunka Cafe Kyoshu",
      "name_en": "Bunka Cafe Kyoshu",
      "name_ja": "文化喫茶 郷愁",
-     "description": "Coffee shop in Shirakawamura, Gifu: things to do, food and stays, Gifu.",
+     "description": "Coffee shop in Shirakawa-go, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210404/21011638/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/eat/cafe/",
      "category": "Cafe"
@@ -15035,7 +16451,7 @@
      "name": "Ochiudo",
      "name_en": "Ochiudo",
      "name_ja": "落人",
-     "description": "Coffee shop in Shirakawamura, Gifu: things to do, food and stays, Gifu.",
+     "description": "Coffee shop in Shirakawa-go, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210404/21011656/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/eat/cafe/",
      "category": "Cafe"
@@ -15044,7 +16460,7 @@
      "name": "Tenbodai no Cafe",
      "name_en": "Tenbodai no Cafe",
      "name_ja": "てんぼうだいのカフェ",
-     "description": "Café in Shirakawamura, Gifu: things to do, food and stays, Gifu.",
+     "description": "Café in Shirakawa-go, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210404/21019343/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/eat/cafe/",
      "category": "Cafe"
@@ -15053,7 +16469,7 @@
      "name": "Kasui Mokuhaku Kawa",
      "name_en": "Kasui Mokuhaku Kawa",
      "name_ja": "花水木白川",
-     "description": "Café in Shirakawamura, Gifu: things to do, food and stays, Gifu.",
+     "description": "Café in Shirakawa-go, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210404/21020121/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/eat/cafe/",
      "category": "Cafe"
@@ -15062,7 +16478,7 @@
      "name": "Masu Sono Bunsuke",
      "name_en": "Masu Sono Bunsuke",
      "name_ja": "ます園 文助",
-     "description": "Shokudo diner in Shirakawamura, Gifu: things to do, food and stays, Gifu.",
+     "description": "Shokudo diner in Shirakawa-go, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210404/21000743/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/eat/casual/",
      "category": "Casual"
@@ -15071,7 +16487,7 @@
      "name": "Hida Ushi Nigiri Tokoro Okesa",
      "name_en": "Hida Ushi Nigiri Tokoro Okesa",
      "name_ja": "飛騨牛にぎり処 おけさ",
-     "description": "Deli in Shirakawamura, Gifu: things to do, food and stays, Gifu.",
+     "description": "Deli in Shirakawa-go, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210404/21019523/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/eat/casual/",
      "category": "Casual"
@@ -15080,7 +16496,7 @@
      "name": "Restaurant Gassho",
      "name_en": "Restaurant Gassho",
      "name_ja": "お食事処 合掌",
-     "description": "Shokudo diner in Shirakawamura, Gifu: things to do, food and stays, Gifu.",
+     "description": "Shokudo diner in Shirakawa-go, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210404/21008141/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/eat/casual/",
      "category": "Casual"
@@ -15089,7 +16505,7 @@
      "name": "Kondo Shoten",
      "name_en": "Kondo Shoten",
      "name_ja": "今藤商店",
-     "description": "Sake bar in Shirakawamura, Gifu: things to do, food and stays, Gifu.",
+     "description": "Sake bar in Shirakawa-go, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210404/21001470/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -15098,7 +16514,7 @@
      "name": "Tenkara",
      "name_en": "Tenkara",
      "name_ja": "てんから",
-     "description": "Yakiniku (grilled meat) restaurant in Shirakawamura, Gifu: things to do, food and stays, Gifu.",
+     "description": "Yakiniku (grilled meat) restaurant in Shirakawa-go, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210404/21008064/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/eat/meat/",
      "category": "Japanese (meat)"
@@ -15107,7 +16523,7 @@
      "name": "Handmade Soba Tokoro no Mura",
      "name_en": "Handmade Soba Tokoro no Mura",
      "name_ja": "手打ちそば処 乃むら",
-     "description": "Soba restaurant in Shirakawamura, Gifu: things to do, food and stays, Gifu.",
+     "description": "Soba restaurant in Shirakawa-go, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210404/21000046/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -15116,7 +16532,7 @@
      "name": "Soba Wakimoto",
      "name_en": "Soba Wakimoto",
      "name_ja": "蕎麦 脇本",
-     "description": "Soba restaurant in Shirakawamura, Gifu: things to do, food and stays, Gifu.",
+     "description": "Soba restaurant in Shirakawa-go, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210404/21010626/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -15125,7 +16541,7 @@
      "name": "Soba Sho Yamakoshi",
      "name_en": "Soba Sho Yamakoshi",
      "name_ja": "蕎麦庄 やまこし",
-     "description": "Ryokan restaurant in Shirakawamura, Gifu: things to do, food and stays, Gifu.",
+     "description": "Ryokan restaurant in Shirakawa-go, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210404/21000029/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -15134,7 +16550,7 @@
      "name": "Restaurant Keyaki",
      "name_en": "Restaurant Keyaki",
      "name_ja": "お食事処けやき",
-     "description": "Soba restaurant in Shirakawamura, Gifu: things to do, food and stays, Gifu.",
+     "description": "Soba restaurant in Shirakawa-go, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210404/21010371/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -15143,7 +16559,7 @@
      "name": "Yamamoto-ya",
      "name_en": "Yamamoto-ya",
      "name_ja": "山本屋",
-     "description": "Soba restaurant in Shirakawamura, Gifu: things to do, food and stays, Gifu.",
+     "description": "Soba restaurant in Shirakawa-go, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210404/21008214/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -15152,7 +16568,7 @@
      "name": "Handmade Soba Tokoro Soba Dojo",
      "name_en": "Handmade Soba Tokoro Soba Dojo",
      "name_ja": "手打ちそば処そば道場",
-     "description": "Soba restaurant in Shirakawamura, Gifu: things to do, food and stays, Gifu.",
+     "description": "Soba restaurant in Shirakawa-go, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210404/21009799/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -15161,7 +16577,7 @@
      "name": "Michi no Eki Shirakawa Sato",
      "name_en": "Michi no Eki Shirakawa Sato",
      "name_ja": "道の駅 白川郷",
-     "description": "Roadside-station eatery in Shirakawamura, Gifu: things to do, food and stays, Gifu.",
+     "description": "Roadside-station eatery in Shirakawa-go, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210404/21008173/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/eat/other/",
      "category": "Other"
@@ -15170,7 +16586,7 @@
      "name": "Irori",
      "name_en": "Irori",
      "name_ja": "いろり",
-     "description": "Local-cuisine restaurant in Shirakawamura, Gifu: things to do, food and stays, Gifu.",
+     "description": "Local-cuisine restaurant in Shirakawa-go, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210404/21003222/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/eat/other-japanese/",
      "category": "Other Japanese"
@@ -15179,7 +16595,7 @@
      "name": "Shirozu Sono",
      "name_en": "Shirozu Sono",
      "name_ja": "白水園",
-     "description": "Local-cuisine restaurant in Shirakawamura, Gifu: things to do, food and stays, Gifu.",
+     "description": "Local-cuisine restaurant in Shirakawa-go, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210404/21000157/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/eat/other-japanese/",
      "category": "Other Japanese"
@@ -15188,7 +16604,7 @@
      "name": "Shiraogi",
      "name_en": "Shiraogi",
      "name_ja": "しらおぎ",
-     "description": "Local-cuisine restaurant in Shirakawamura, Gifu: things to do, food and stays, Gifu.",
+     "description": "Local-cuisine restaurant in Shirakawa-go, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210404/21000786/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/eat/other-japanese/",
      "category": "Other Japanese"
@@ -15197,7 +16613,7 @@
      "name": "Chube",
      "name_en": "Chube",
      "name_ja": "忠兵衛",
-     "description": "Local-cuisine restaurant in Shirakawamura, Gifu: things to do, food and stays, Gifu.",
+     "description": "Local-cuisine restaurant in Shirakawa-go, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210404/21000137/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/eat/other-japanese/",
      "category": "Other Japanese"
@@ -15206,7 +16622,7 @@
      "name": "Shirakawa Sato Purin no-ya",
      "name_en": "Shirakawa Sato Purin no-ya",
      "name_ja": "白川郷 ぷりんの家",
-     "description": "Sweets shop in Shirakawamura, Gifu: things to do, food and stays, Gifu.",
+     "description": "Sweets shop in Shirakawa-go, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210404/21020800/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -15215,7 +16631,7 @@
      "name": "Oishinbo",
      "name_en": "Oishinbo",
      "name_ja": "おいしんぼ",
-     "description": "Japanese sweets shop in Shirakawamura, Gifu: things to do, food and stays, Gifu.",
+     "description": "Japanese sweets shop in Shirakawa-go, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210404/21008656/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -15224,7 +16640,7 @@
      "name": "Kodawari no Shirakawa Kyodo Ume Menko",
      "name_en": "Kodawari no Shirakawa Kyodo Ume Menko",
      "name_ja": "こだわりの白川郷土産めめんこ",
-     "description": "Japanese sweets shop in Shirakawamura, Gifu: things to do, food and stays, Gifu.",
+     "description": "Japanese sweets shop in Shirakawa-go, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210404/21001706/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -15233,7 +16649,7 @@
      "name": "Furusato Ajidokoro Musu no Sato",
      "name_en": "Furusato Ajidokoro Musu no Sato",
      "name_ja": "ふるさと味処 結の郷",
-     "description": "Japanese sweets café in Shirakawamura, Gifu: things to do, food and stays, Gifu.",
+     "description": "Japanese sweets café in Shirakawa-go, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2104/A210404/21019401/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -15335,7 +16751,7 @@
      "name": "Onjuku Musuno Sho (Kyoritsu Resort)",
      "name_en": "Onjuku Musuno Sho (Kyoritsu Resort)",
      "name_ja": "御宿 結の庄（共立リゾート）",
-     "description": "Resort hotel in Shirakawa-go, Ogaki District, with onsen.",
+     "description": "Resort hotel in Shirakawa-go (Ogaki District), with onsen.",
      "source_url": "https://www.ikyu.com/00031051/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/stay/"
     },
@@ -15343,7 +16759,7 @@
      "name": "Kayabuki",
      "name_en": "Kayabuki",
      "name_ja": "かやぶき",
-     "description": "Minshuku in Shirakawa-go, Ogaki District, in a thatched-roof gassho-zukuri house.",
+     "description": "Minshuku in Shirakawa-go (Ogaki District), in a thatched-roof gassho-zukuri house.",
      "source_url": "https://www.jalan.net/yad364450/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/stay/"
     },
@@ -15351,7 +16767,7 @@
      "name": "Shiroyama-kan Shiroyamakan",
      "name_en": "Shiroyama-kan Shiroyamakan",
      "name_ja": "城山館(しろやまかん）",
-     "description": "Ryokan in Shirakawa-go, Ogaki District, limited to 4 groups per day.",
+     "description": "Ryokan in Shirakawa-go (Ogaki District), limited to 4 groups per day.",
      "source_url": "https://www.jalan.net/yad388054/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/stay/"
     },
@@ -15367,7 +16783,7 @@
      "name": "Kanjiya",
      "name_en": "Kanjiya",
      "name_ja": "かんじや",
-     "description": "Minshuku in Shirakawa-go, Ogaki District, in a 150-year-old thatched-roof gassho-zukuri house.",
+     "description": "Minshuku in Shirakawa-go (Ogaki District), in a 150-year-old thatched-roof gassho-zukuri house.",
      "source_url": "https://www.jalan.net/yad302587/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/stay/"
     },
@@ -15375,7 +16791,7 @@
      "name": "Toyota Shirakawago Nature School",
      "name_en": "Toyota Shirakawago Nature School",
      "name_ja": "トヨタ白川郷自然学校",
-     "description": "Nature school in Shirakawa-go, Ogaki District.",
+     "description": "Nature school in Shirakawa-go (Ogaki District).",
      "source_url": "https://www.jalan.net/yad364194/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/stay/"
     },
@@ -15383,7 +16799,7 @@
      "name": "Ibi-kan Yoshine",
      "name_en": "Ibi-kan Yoshine",
      "name_ja": "飯美館よしね",
-     "description": "Minshuku in Shirakawa-go, Ogaki District, between Shirakawa-go and Gokayama.",
+     "description": "Minshuku in Shirakawa-go (Ogaki District), between Shirakawa-go and Gokayama.",
      "source_url": "https://www.jalan.net/yad340072/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/stay/"
     },
@@ -15439,7 +16855,7 @@
    "date_modified": "2026-10-17",
    "day_to_day": [
     {
-     "name": "Toto Sōzōkan",
+     "name": "Toto Sozokan",
      "name_en": "Toto Creation Hall",
      "description": "A commercial complex for Tajimi's ceramic businesses and local industry, with a city PR center and shops selling Mino ware and goods.",
      "source_url": "https://www.toutokan.jp/",
@@ -15727,7 +17143,7 @@
      "page": "https://bokenjapan.com/gifu/tajimi/see/"
     },
     {
-     "name": "Tōsai no Michi",
+     "name": "Tosai no Michi",
      "name_en": "Tosai Path",
      "description": "A former railway between Tajimi Station and Kasahara, now a cycling and walking path lined with cherry trees.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_4611.html",
@@ -16354,44 +17770,44 @@
      "page": "https://bokenjapan.com/gifu/takayama/see/"
     },
     {
-     "name": "Sōyū-ji",
+     "name": "Soyu-ji",
      "name_en": "Soyuji Temple",
      "description": "Built in 1632 by the Kanamori brothers to mourn their father Arishige, its grounds include halls and a garden.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_9806.html",
      "page": "https://bokenjapan.com/gifu/takayama/see/"
     },
     {
-     "name": "Tenshō-ji",
+     "name": "Tensho-ji",
      "name_en": "Tenshoji Temple",
      "description": "Founded around 1182 as Tendai temple Tenshokoji, it was converted to the Jodo sect and renamed Tenshoji around 1615.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_9807.html",
      "page": "https://bokenjapan.com/gifu/takayama/see/"
     },
     {
-     "name": "Ryōmen Sukuna Worship Site",
+     "name": "Ryomen Sukuna Worship Site",
      "name_en": "Ryomen Sukuna Distant Worship Place",
-     "description": "Worship site in Takayama dedicated to the deity Ryōmen Sukuna.",
+     "description": "Worship site in Takayama dedicated to the deity Ryomen Sukuna.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_9903.html",
      "page": "https://bokenjapan.com/gifu/takayama/see/"
     },
     {
-     "name": "Nisshō-dake",
+     "name": "Nissho-dake",
      "name_en": "Nisshodake",
      "description": "A 1,751-meter peak in the Ryohaku Mountains spanning Gifu Prefecture and Shirakawa Village, one of the Gifu 100 Mountains.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_9949.html",
      "page": "https://bokenjapan.com/gifu/takayama/see/"
     },
     {
-     "name": "Ōtani Water Lily Pond",
+     "name": "Otani Water Lily Pond",
      "name_en": "Water Lilies at Otani Weeping Cherry Park",
      "description": "Water lilies color a pond in front of Saikoji in Otani, Kiyomi, from early June to late August.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_9983.html",
      "page": "https://bokenjapan.com/gifu/takayama/see/"
     },
     {
-     "name": "Hida Senkō-ji",
+     "name": "Hida Senko-ji",
      "name_en": "Hida Senkoji Temple",
-     "description": "Temple in Takayama known for zazen meditation, sutra copying and Enkū Buddha exhibitions.",
+     "description": "Temple in Takayama known for zazen meditation, sutra copying and Enku Buddha exhibitions.",
      "source_url": "https://senkouji.com/",
      "page": "https://bokenjapan.com/gifu/takayama/see/"
     },
@@ -16846,7 +18262,7 @@
      "name": "Mukurian",
      "name_en": "Mukurian",
      "name_ja": "無垢里庵",
-     "description": "Minshuku in Takayama, Gifu Prefecture.",
+     "description": "Minshuku in Takayama.",
      "source_url": "https://www.jalan.net/yad354019/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
@@ -16854,7 +18270,7 @@
      "name": "Mercure Hida Takayama",
      "name_en": "Mercure Hida Takayama",
      "name_ja": "メルキュール飛騨高山",
-     "description": "Hotel in Takayama, Gifu Prefecture.",
+     "description": "Hotel in Takayama.",
      "source_url": "https://www.jalan.net/yad384781/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
@@ -16862,7 +18278,7 @@
      "name": "Fujin Raijin",
      "name_en": "Fujin Raijin",
      "name_ja": "風神雷神",
-     "description": "Machiya townhouse for up to eight guests in Takayama, Gifu Prefecture.",
+     "description": "Machiya townhouse for up to eight guests in Takayama.",
      "source_url": "https://www.jalan.net/yad331517/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
@@ -16870,7 +18286,7 @@
      "name": "Yado Fukutaro",
      "name_en": "Yado Fukutaro",
      "name_ja": "宿 福太郎",
-     "description": "Machiya townhouse in Takayama, Gifu Prefecture.",
+     "description": "Machiya townhouse in Takayama.",
      "source_url": "https://www.jalan.net/yad334672/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
@@ -16878,7 +18294,7 @@
      "name": "Tokyu Stay Hida Takayama Yu-no-Yu",
      "name_en": "Tokyu Stay Hida Takayama Yu-no-Yu",
      "name_ja": "東急ステイ飛騨高山 結の湯",
-     "description": "Hotel with hot spring baths in Takayama, Gifu Prefecture.",
+     "description": "Hotel with hot spring baths in Takayama.",
      "source_url": "https://www.jalan.net/yad334510/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
@@ -16886,7 +18302,7 @@
      "name": "Komakusa",
      "name_en": "Komakusa",
      "name_ja": "小さな料理旅館 こまくさ",
-     "description": "Ryokan limited to three groups daily in Takayama, Gifu Prefecture.",
+     "description": "Ryokan limited to three groups daily in Takayama.",
      "source_url": "https://www.jalan.net/yad313641/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
@@ -16901,7 +18317,7 @@
      "name": "Hotel Amanek Hida Takayama",
      "name_en": "Hotel Amanek Hida Takayama",
      "name_ja": "ホテルアマネク飛騨高山",
-     "description": "Hotel with rooftop hot spring bath and sauna in Takayama, Gifu Prefecture.",
+     "description": "Hotel with rooftop hot spring bath and sauna in Takayama.",
      "source_url": "https://www.jalan.net/yad306668/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
@@ -16909,14 +18325,14 @@
      "name": "Nadacho Nananobi Machiya",
      "name_en": "Nadacho Nananobi Machiya",
      "name_ja": "名田町 ななの陽 〈一棟貸し町家〉",
-     "description": "Machiya townhouse near Takayama Jinya in Takayama, Gifu Prefecture.",
+     "description": "Machiya townhouse near Takayama Jinya in Takayama.",
      "source_url": "https://www.jalan.net/yad394405/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
     {
      "name": "ROMANSTAY",
      "name_en": "Romanstay",
-     "description": "Private-floor accommodation with free parking and bicycles in Takayama, Gifu Prefecture.",
+     "description": "Private-floor accommodation with free parking and bicycles in Takayama.",
      "source_url": "https://www.jalan.net/yad300065/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
@@ -17217,8 +18633,8 @@
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
     {
-     "name": "Route Inn Granvia Hida Takayama Wazō no Yado",
-     "name_en": "Route Inn Granvia Hida Takayama Wazō no Yado",
+     "name": "Route Inn Granvia Hida Takayama Wazo no Yado",
+     "name_en": "Route Inn Granvia Hida Takayama Wazo no Yado",
      "name_ja": "ルートイングランティア飛騨高山 和蔵の宿",
      "description": "Hotel in Chishima-cho, Takayama with natural onsen, Wi-Fi and free parking.",
      "source_url": "https://www.jalan.net/yad325248/",
@@ -17274,7 +18690,7 @@
     {
      "name": "WAT RESORT Inu to Sauna BBQ & Dog Run Villa Takayama",
      "name_en": "WAT RESORT Inu to Sauna BBQ & Dog Run Villa Takayama",
-     "name_ja": "WAT RESORT いぬとサウナ BBQ&amp;ドッグラン ヴィラ 高山",
+     "name_ja": "WAT RESORT いぬとサウナ BBQ&ドッグラン ヴィラ 高山",
      "description": "Private villa with sauna in Takayama, dog-friendly, BBQ and dog run.",
      "source_url": "https://www.jalan.net/yad371410/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
@@ -17432,8 +18848,8 @@
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
     {
-     "name": "Yumoto Chōza",
-     "name_en": "Yumoto Chōza",
+     "name": "Yumoto Choza",
+     "name_en": "Yumoto Choza",
      "name_ja": "湯元 長座（ちょうざ）",
      "description": "Onsen ryokan in Okuhida Onsenkyo, Takayama; large bath and private outdoor baths.",
      "source_url": "https://www.jalan.net/yad326078/",
@@ -17643,7 +19059,7 @@
      "name": "Ryuso Tsuyukusa",
      "name_en": "Ryuso Tsuyukusa",
      "name_ja": "旅荘 つゆくさ",
-     "description": "Ryokan in Okuhida Onsenkyo, Hirayu, Takayama with private open-air bath.",
+     "description": "Ryokan in Okuhida Onsenkyo (Hirayu), Takayama with private open-air bath.",
      "source_url": "https://www.jalan.net/yad385095/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
@@ -17651,7 +19067,7 @@
      "name": "Okada Ryokan Warakutei",
      "name_en": "Okada Ryokan Warakutei",
      "name_ja": "岡田旅館・和楽亭",
-     "description": "Ryokan in Okuhida Onsenkyo, Hirayu, Takayama with open-air bath and detached room with private bath.",
+     "description": "Ryokan in Okuhida Onsenkyo (Hirayu), Takayama with open-air bath and detached room with private bath.",
      "source_url": "https://www.jalan.net/yad300544/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
@@ -17659,7 +19075,7 @@
      "name": "Oyado Eitaro",
      "name_en": "Oyado Eitaro",
      "name_ja": "露天付貸切風呂と岐阜料理師範の宿 お宿 栄太郎",
-     "description": "Ryokan in Okuhida Onsenkyo, Hirayu, Takayama with three hot spring sources and private bath.",
+     "description": "Ryokan in Okuhida Onsenkyo (Hirayu), Takayama with three hot spring sources and private bath.",
      "source_url": "https://www.jalan.net/yad315920/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
@@ -17667,7 +19083,7 @@
      "name": "Yu Ka Sanzoan",
      "name_en": "Yu Ka Sanzoan",
      "name_ja": "湯う香三蔵庵",
-     "description": "Ryokan in Okuhida Onsenkyo, Hirayu, Takayama.",
+     "description": "Ryokan in Okuhida Onsenkyo (Hirayu), Takayama.",
      "source_url": "https://www.jalan.net/yad317812/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
@@ -17675,7 +19091,7 @@
      "name": "Hirayunomori Bekkan Hotel Hirayunomori",
      "name_en": "Hirayunomori Bekkan Hotel Hirayunomori",
      "name_ja": "ひらゆの森別館ホテルひらゆの森",
-     "description": "Business hotel in Okuhida Onsenkyo, Hirayu, Takayama.",
+     "description": "Business hotel in Okuhida Onsenkyo (Hirayu), Takayama.",
      "source_url": "https://www.jalan.net/yad366944/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
@@ -17683,7 +19099,7 @@
      "name": "Hirayu Onsen Hiratakan",
      "name_en": "Hirayu Onsen Hiratakan",
      "name_ja": "平湯温泉 平田館",
-     "description": "Ryokan in Okuhida Onsenkyo, Hirayu, Takayama with open-air bath.",
+     "description": "Ryokan in Okuhida Onsenkyo (Hirayu), Takayama with open-air bath.",
      "source_url": "https://www.jalan.net/yad316525/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
@@ -17691,7 +19107,7 @@
      "name": "Hirayu Onsen Nakamura-kan",
      "name_en": "Hirayu Onsen Nakamura-kan",
      "name_ja": "平湯温泉 自家源泉かけ流し 中村館",
-     "description": "Ryokan in Okuhida Onsenkyo, Hirayu, Takayama with private hot spring source.",
+     "description": "Ryokan in Okuhida Onsenkyo (Hirayu), Takayama with private hot spring source.",
      "source_url": "https://www.jalan.net/yad302949/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
@@ -17699,7 +19115,7 @@
      "name": "Hoshino Resorts KAI Okuhida",
      "name_en": "Hoshino Resorts KAI Okuhida",
      "name_ja": "星野リゾート 界 奥飛騨",
-     "description": "Ryokan in Okuhida Onsenkyo, Hirayu, Takayama with hot spring bath.",
+     "description": "Ryokan in Okuhida Onsenkyo (Hirayu), Takayama with hot spring bath.",
      "source_url": "https://www.jalan.net/yad354890/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
@@ -17707,7 +19123,7 @@
      "name": "Sanso Yunori",
      "name_en": "Sanso Yunori",
      "name_ja": "山荘 湯乃里",
-     "description": "Ryokan in Okuhida Onsenkyo, Hirayu, Takayama with open-air bath.",
+     "description": "Ryokan in Okuhida Onsenkyo (Hirayu), Takayama with open-air bath.",
      "source_url": "https://www.jalan.net/yad382470/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
@@ -17715,7 +19131,7 @@
      "name": "Hirayu Onsen Yunohirakan",
      "name_en": "Hirayu Onsen Yunohirakan",
      "name_ja": "平湯温泉 ２種の自家源泉と囲炉裏料理の宿 湯の平館",
-     "description": "Ryokan in Okuhida Onsenkyo, Hirayu, Takayama with open-air bath and private bath.",
+     "description": "Ryokan in Okuhida Onsenkyo (Hirayu), Takayama with open-air bath and private bath.",
      "source_url": "https://www.jalan.net/yad316804/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
@@ -17723,7 +19139,7 @@
      "name": "Yunohana Fuwaru Yumoto-kan",
      "name_en": "Yunohana Fuwaru Yumoto-kan",
      "name_ja": "湯の花ふわり 湯元館",
-     "description": "Ryokan in Okuhida Onsenkyo, Hirayu Onsen, Takayama.",
+     "description": "Ryokan in Okuhida Onsenkyo (Hirayu Onsen), Takayama.",
      "source_url": "https://www.jalan.net/yad398357/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
@@ -17731,7 +19147,7 @@
      "name": "Ryokan Tanaka",
      "name_en": "Ryokan Tanaka",
      "name_ja": "旅館 たなか",
-     "description": "Ryokan in Okuhida Onsenkyo, Hirayu Onsen, Takayama with hot spring baths.",
+     "description": "Ryokan in Okuhida Onsenkyo (Hirayu Onsen), Takayama with hot spring baths.",
      "source_url": "https://www.jalan.net/yad323592/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
@@ -17739,7 +19155,7 @@
      "name": "Okuhida Sanso Norikura Ikkyu",
      "name_en": "Okuhida Sanso Norikura Ikkyu",
      "name_ja": "奥飛騨山荘 のりくら一休",
-     "description": "Lodge in Okuhida Onsenkyo, Hirayu, Takayama with hot spring baths.",
+     "description": "Lodge in Okuhida Onsenkyo (Hirayu), Takayama with hot spring baths.",
      "source_url": "https://www.jalan.net/yad366276/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
@@ -17747,7 +19163,7 @@
      "name": "Takumi no Yado Miyama Sakura-an (Kyoritsu Resort)",
      "name_en": "Takumi no Yado Miyama Sakura-an (Kyoritsu Resort)",
      "name_ja": "匠の宿 深山桜庵（共立リゾート）2025年4月リニューアルOPEN",
-     "description": "Ryokan in Okuhida Onsenkyo, Hirayu, Takayama with hot spring baths.",
+     "description": "Ryokan in Okuhida Onsenkyo (Hirayu), Takayama with hot spring baths.",
      "source_url": "https://www.jalan.net/yad308347/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
@@ -17763,7 +19179,7 @@
      "name": "Okuhida Jikayusen Kakenagashi Hida Gyu Kazeya",
      "name_en": "Okuhida Jikayusen Kakenagashi Hida Gyu Kazeya",
      "name_ja": "奥飛騨自家温泉掛け流し飛騨牛風屋",
-     "description": "Ryokan in Okuhida Onsenkyo, Kamisaka, Takayama with private hot spring baths.",
+     "description": "Ryokan in Okuhida Onsenkyo (Kamisaka), Takayama with private hot spring baths.",
      "source_url": "https://www.jalan.net/yad372470/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
@@ -17787,7 +19203,7 @@
      "name": "Meiho Yarigatake wo Nozomu Yado Hodakaso Yama no Hotel",
      "name_en": "Meiho Yarigatake wo Nozomu Yado Hodakaso Yama no Hotel",
      "name_ja": "名峰槍ヶ岳を望む宿 穂高荘山のホテル",
-     "description": "Hotel in Okuhida Onsenkyo, Kamisaka, Takayama with outdoor hot spring baths.",
+     "description": "Hotel in Okuhida Onsenkyo (Kamisaka), Takayama with outdoor hot spring baths.",
      "source_url": "https://www.jalan.net/yad329841/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     },
@@ -17795,7 +19211,7 @@
      "name": "Yari no Sato",
      "name_en": "Yari no Sato",
      "name_ja": "槍の郷",
-     "description": "Ryokan in Okuhida Onsenkyo, Nakao, Takayama with private outdoor baths.",
+     "description": "Ryokan in Okuhida Onsenkyo (Nakao), Takayama with private outdoor baths.",
      "source_url": "https://www.jalan.net/yad351747/",
      "page": "https://bokenjapan.com/gifu/takayama/stay/"
     }
@@ -17833,7 +19249,7 @@
      "page": "https://bokenjapan.com/gifu/tarui/do/"
     },
     {
-     "name": "Ōishi Matsuri",
+     "name": "Oishi Matsuri",
      "name_en": "Oishi Festival",
      "description": "It is held yearly on October's second Sunday, with about 150 fireworks and traditional Tachibi launched from bamboo poles.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_5262.html",
@@ -18403,8 +19819,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Burger shop in Toki",
-     "name_en": "Burger shop in Toki",
+     "name": "Teddy's Bigger Burgers AEON Mall Toki",
+     "name_en": "Teddy's Bigger Burgers AEON Mall Toki",
      "name_ja": "TEDDY'S BIGGER BURGERS イオンモール土岐店",
      "description": "Burger shop in Toki, Gifu: things to do, food and stays, Gifu.",
      "source_url": "https://tabelog.com/gifu/A2103/A210301/21021506/",
@@ -19035,6 +20451,56 @@
      "source_url": "http://www.town.tomika.gifu.jp/tourism/rekishi/iwajinja.html",
      "page": "https://bokenjapan.com/gifu/tomika/see/"
     }
+   ],
+   "stays": [
+    {
+     "name": "Sauna Villa Itadori",
+     "name_en": "Sauna Villa Itadori",
+     "name_ja": "サウナヴィラ板取",
+     "description": "Inn in Itadori, Seki with one group per day and a sauna.",
+     "source_url": "https://www.ikyu.com/00052034/",
+     "page": "https://bokenjapan.com/gifu/tomika/stay/"
+    },
+    {
+     "name": "Hotel Route Inn Kan",
+     "name_en": "Hotel Route Inn Kan",
+     "name_ja": "ホテルルートイン関",
+     "description": "Hotel in Nishimotosatotori, Seki with breakfast available.",
+     "source_url": "https://www.ikyu.com/00080297/",
+     "page": "https://bokenjapan.com/gifu/tomika/stay/"
+    },
+    {
+     "name": "AB Hotel Kan",
+     "name_en": "AB Hotel Kan",
+     "name_ja": "ＡＢホテル関",
+     "description": "Hotel in Heiwatori, Seki with buffet meals and breakfast available.",
+     "source_url": "https://www.jalan.net/yad377414/",
+     "page": "https://bokenjapan.com/gifu/tomika/stay/"
+    },
+    {
+     "name": "Kan Kanko Hotel",
+     "name_en": "Kan Kanko Hotel",
+     "name_ja": "関観光ホテル",
+     "description": "Hotel in Ikejiri, Seki with scenic views.",
+     "source_url": "https://www.jalan.net/yad368248/",
+     "page": "https://bokenjapan.com/gifu/tomika/stay/"
+    },
+    {
+     "name": "Kanno Terrace",
+     "name_en": "Kanno Terrace",
+     "name_ja": "神野テラス",
+     "description": "Inn in Kanno, Seki with a renovated traditional house.",
+     "source_url": "https://www.jalan.net/yad334996/",
+     "page": "https://bokenjapan.com/gifu/tomika/stay/"
+    },
+    {
+     "name": "Jinmei Onsen Yumoto Sugishima",
+     "name_en": "Jinmei Onsen Yumoto Sugishima",
+     "name_ja": "神明温泉湯元すぎ嶋",
+     "description": "Onsen ryokan in Seki with open-air baths and irori.",
+     "source_url": "https://www.jalan.net/yad321951/",
+     "page": "https://bokenjapan.com/gifu/tomika/stay/"
+    }
    ]
   },
   {
@@ -19293,6 +20759,80 @@
      "description": "A small waju-enclosed town of endless pleasant rice paddies, where cultural properties can be explored by bicycle.",
      "source_url": "https://wajyu.jp/heritage/%E5%8C%97%E5%A1%9A/",
      "page": "https://bokenjapan.com/gifu/wanouchi/see/"
+    }
+   ],
+   "stays": [
+    {
+     "name": "Hotel Route Inn Gifu Hane Shima Ekimae",
+     "name_en": "Hotel Route Inn Gifu Hane Shima Ekimae",
+     "name_ja": "ホテルルートイン岐阜羽島駅前",
+     "description": "Hotel in Fukuju, Hashima with buffet meals and breakfast available.",
+     "source_url": "https://www.ikyu.com/00080313/",
+     "page": "https://bokenjapan.com/gifu/wanouchi/stay/"
+    },
+    {
+     "name": "APA Hotel < Gifu Hane Shima Ekimae >",
+     "name_en": "APA Hotel < Gifu Hane Shima Ekimae >",
+     "name_ja": "アパホテル〈岐阜羽島駅前〉",
+     "description": "Hotel in Hashima, the nearest town with bookable stays to Wanouchi.",
+     "source_url": "https://www.ikyu.com/00082731/",
+     "page": "https://bokenjapan.com/gifu/wanouchi/stay/"
+    },
+    {
+     "name": "Hotel Livemax Gifu Hashima Ekimae",
+     "name_en": "Hotel Livemax Gifu Hashima Ekimae",
+     "name_ja": "ホテルリブマックス岐阜羽島駅前",
+     "description": "Hotel in Fukuju, Hashima; 3-minute walk from Gifuhaneshima Station.",
+     "source_url": "https://www.jalan.net/yad380162/",
+     "page": "https://bokenjapan.com/gifu/wanouchi/stay/"
+    },
+    {
+     "name": "Guesthouse Gifu Hashima Shinon",
+     "name_en": "Guesthouse Gifu Hashima Shinon",
+     "name_ja": "ゲストハウス岐阜羽島心音",
+     "description": "Guesthouse in Funabashi, Hashima; 3-minute walk from Gifuhaneshima Station.",
+     "source_url": "https://www.jalan.net/yad353880/",
+     "page": "https://bokenjapan.com/gifu/wanouchi/stay/"
+    },
+    {
+     "name": "Hotel LC Gifu Hane Shima",
+     "name_en": "Hotel LC Gifu Hane Shima",
+     "name_ja": "ホテルＬＣぎふ羽島",
+     "description": "Hotel in Fukuju, Hashima with parking; 5-minute walk from Gifuhaneshima Station.",
+     "source_url": "https://www.jalan.net/yad341732/",
+     "page": "https://bokenjapan.com/gifu/wanouchi/stay/"
+    },
+    {
+     "name": "Toyoko INN Gifu Hane Shima Eki Shinkansen Minamiguchi",
+     "name_en": "Toyoko INN Gifu Hane Shima Eki Shinkansen Minamiguchi",
+     "name_ja": "東横ＩＮＮ岐阜羽島駅新幹線南口",
+     "description": "Inn in Funabashi, Hashima with breakfast available.",
+     "source_url": "https://www.jalan.net/yad340548/",
+     "page": "https://bokenjapan.com/gifu/wanouchi/stay/"
+    },
+    {
+     "name": "Weekly Sho Hashima",
+     "name_en": "Weekly Sho Hashima",
+     "name_ja": "ウィークリー翔 羽島",
+     "description": "Inn in Fukuju, Hashima with long stays.",
+     "source_url": "https://www.jalan.net/yad384148/",
+     "page": "https://bokenjapan.com/gifu/wanouchi/stay/"
+    },
+    {
+     "name": "Hotel KOYO Bekkan",
+     "name_en": "Hotel KOYO Bekkan",
+     "name_ja": "ホテルＫＯＹＯ別館",
+     "description": "Hotel in Hashima, the nearest town with bookable stays to Wanouchi.",
+     "source_url": "https://www.jalan.net/yad353115/",
+     "page": "https://bokenjapan.com/gifu/wanouchi/stay/"
+    },
+    {
+     "name": "Hane Shima Deiri Hotel",
+     "name_en": "Hane Shima Deiri Hotel",
+     "name_ja": "羽島デイリーホテル",
+     "description": "Hotel in Hashima, the nearest town with bookable stays to Wanouchi.",
+     "source_url": "https://www.jalan.net/yad381210/",
+     "page": "https://bokenjapan.com/gifu/wanouchi/stay/"
     }
    ]
   },
@@ -19602,7 +21142,7 @@
      "page": "https://bokenjapan.com/gifu/yamagata/see/"
     },
     {
-     "name": "Jūgosha Jinja",
+     "name": "Jugosha Jinja",
      "name_en": "Jugosha Shrine",
      "description": "Shrine in Yamagata.",
      "source_url": "https://www.city.yamagata.gifu.jp/site/yamanavi/1132.html",
@@ -19623,7 +21163,7 @@
      "page": "https://bokenjapan.com/gifu/yamagata/see/"
     },
     {
-     "name": "Kikyō-zuka",
+     "name": "Kikyo-zuka",
      "name_en": "Kikyozuka, Reputed Grave of Akechi Mitsuhide",
      "description": "Grave mound said to be the burial place of Akechi Mitsuhide.",
      "source_url": "https://www.city.yamagata.gifu.jp/site/sityou/2134.html",
