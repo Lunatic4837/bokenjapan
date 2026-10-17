@@ -53,8 +53,8 @@ def overpass(ql, tag, refresh=False, ttl=30 * 86400):
         except Exception: last = 0
         if MIN_GAP - (time.time() - last) > 0: time.sleep(MIN_GAP - (time.time() - last))
         delay, err = 10, None
-        for attempt in range(6):
-            ep = ENDPOINTS[0 if attempt < 4 else 1]
+        for attempt in range(9):
+            ep = ENDPOINTS[0 if attempt < 7 else 1]
             try:
                 r = requests.post(ep, data={'data': ql}, headers={'User-Agent': UA}, timeout=200)
                 if r.status_code == 200:

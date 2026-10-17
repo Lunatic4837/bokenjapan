@@ -64,7 +64,7 @@ _WORDS = [('本店', 'Main Store'), ('ラーメン', 'Ramen'), ('らーめん', 
           ('焼肉', 'Yakiniku'), ('焼鳥', 'Yakitori'), ('焼き鳥', 'Yakitori'), ('食堂', 'Shokudo'), ('珈琲', 'Coffee'), ('コーヒー', 'Coffee'),
           ('喫茶', 'Kissa'), ('カフェ', 'Cafe'), ('寿司', 'Sushi'), ('鮨', 'Sushi'), ('すし', 'Sushi'), ('うどん', 'Udon'), ('蕎麦', 'Soba'),
           ('そば', 'Soba'), ('カレー', 'Curry'), ('餃子', 'Gyoza'), ('お好み焼', 'Okonomiyaki'), ('とんかつ', 'Tonkatsu'), ('天ぷら', 'Tempura'),
-          ('駅前', 'Ekimae'), ('砂丘', 'Sakyu'), ('米子', 'Yonago'), ('鳥取', 'Tottori'), ('境港', 'Sakaiminato'), ('倉吉', 'Kurayoshi'),
+          ('駅前', 'Ekimae'), ('砂丘', 'Sand Dunes'), ('米子', 'Yonago'), ('鳥取', 'Tottori'), ('境港', 'Sakaiminato'), ('倉吉', 'Kurayoshi'),
           ('皆生', 'Kaike'), ('洋菓子店', 'Yogashi'), ('菓子店', 'Kashi'), ('酒店', 'Sake Shop'), ('パン店', 'Pan'), ('店', 'Branch'), ('レストラン', 'Restaurant'), ('ベーカリー', 'Bakery'), ('ハンバーグ', 'Hamburg Steak'), ('ステーキ', 'Steak'), ('ピザ', 'Pizza'), ('パスタ', 'Pasta'), ('スナック', 'Snack'), ('ラウンジ', 'Lounge'), ('ダイニング', 'Dining'), ('キッチン', 'Kitchen'), ('ケーキ', 'Cake'), ('ガーデン', 'Garden'), ('ハウス', 'House'), ('ファミリー', 'Family'), ('ランチ', 'Lunch'), ('弁当', 'Bento'), ('茶屋', 'Chaya'), ('屋', '\x01ya'), ('酒場', 'Sakaba'), ('食事処', 'Shokujidokoro'), ('料理', 'Ryori'), ('専門', 'Senmon')]
 _WSPLIT = re.compile('(' + '|'.join(re.escape(k) for k, _ in sorted(_WORDS, key=lambda x: -len(x[0]))) + ')')
 _WD = dict(_WORDS)

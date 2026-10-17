@@ -37,7 +37,7 @@ def analyse(data, kind='stay', name='', alt='', html_wh=None):
             im = Image.open(io.BytesIO(data)); im.load(); r['w'], r['h'] = im.size
             sm = im.convert('RGB').resize((96, 96))
             r['entropy'] = round(im.convert('L').resize((128, 128)).entropy(), 2)
-            r['colours'] = len(set(sm.getdata()))
+            r['colours'] = len(set(sm.get_flattened_data() if hasattr(sm, "get_flattened_data") else sm.getdata()))
             if r['entropy'] < 5.0: flags.append('flat/logo-entropy')
             if r['colours'] < 350: flags.append('few-colours')
             soft += colour_soft(sm, r)
@@ -60,7 +60,7 @@ def analyse(data, kind='stay', name='', alt='', html_wh=None):
 def colour_soft(sm, r):
     """Cheap heuristics, review-only: warm/saturated close-up (food-like) and text-heavy graphics."""
     import colorsys
-    px = list(sm.getdata()); n = len(px); warm = blue = 0; sat = 0.0
+    px = list(sm.get_flattened_data() if hasattr(sm, "get_flattened_data") else sm.getdata()); n = len(px); warm = blue = 0; sat = 0.0
     for R, G, B in px:
         hh, s, v = colorsys.rgb_to_hsv(R / 255, G / 255, B / 255); sat += s
         if s > 0.35 and v > 0.25 and (hh < 0.14 or hh > 0.95): warm += 1
@@ -114,8 +114,8 @@ def scan(root, pref, kind, media_root, fetch):
                 if data is not None: md5[hashlib.md5(data).hexdigest()].append(r)
                 rows.append(r)
     for h, rs in md5.items():
-        if len({(x['town'], x['name']) for x in rs}) > 1:
-            for x in rs: x['flags'].append(f'dup-image(x{len(rs)})')
+        if len({x['src'] for x in rs}) > 1:   # same bytes under different file names (same file shown on several pages is fine, e.g. labelled neighbour stays)
+            for x in rs: x['flags'].append(f'dup-image(x{len({y["src"] for y in rs})})')
     return rows
 
 def main():
