@@ -959,6 +959,24 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Kushiyaki Izakaya Torinoya",
+     "name_en": "Kushiyaki Izakaya Torinoya",
+     "name_ja": "串焼き居酒屋 とりのや",
+     "description": "Skewer izakaya ten minutes from Himi Station grilling free-range chicken from Miyazaki and Kagoshima, each skewer hand-threaded daily, with nearly 100 drinks.",
+     "source_url": "https://r.gnavi.co.jp/a866v9rf0000/",
+     "page": "https://bokenjapan.com/toyama/himi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Charcoal and Dining Sharaku",
+     "name_en": "Charcoal and Dining Sharaku",
+     "name_ja": "チャコール＆ダイニング 写楽",
+     "description": "Izakaya in Kodake grilling Awaodori chicken skewers over charcoal, with set courses that include offal hotpot.",
+     "source_url": "https://r.gnavi.co.jp/8kpe1ha30000/",
+     "page": "https://bokenjapan.com/toyama/himi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Himi Beef Specialty Shop Tanaka",
      "name_en": "Himi Beef Specialty Shop Tanaka",
      "name_ja": "氷見牛専門店 たなか",
@@ -982,6 +1000,15 @@
      "name_ja": "氷見 牛屋 本店",
      "description": "Yakiniku (grilled meat) restaurant in Himi, also serving shabu-shabu and curry.",
      "source_url": "https://tabelog.com/toyama/A1604/A160402/16004014/",
+     "page": "https://bokenjapan.com/toyama/himi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Restaurant Troika",
+     "name_en": "Restaurant Troika",
+     "name_ja": "レストラン トロイカ",
+     "description": "Restaurant in Kubo serving Himi beef and other Japanese beef steaks, seasoned simply with salt and pepper.",
+     "source_url": "https://r.gnavi.co.jp/hf00u36n0000/",
      "page": "https://bokenjapan.com/toyama/himi/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -1188,6 +1215,15 @@
      "name_en": "Sushiya no Shirohikari",
      "description": "Sushi restaurant on the edge of town near the expressway exit, run by a chef trained in a famous Toyama City shop.",
      "source_url": "https://www.info-toyama.com/attractions/90081",
+     "page": "https://bokenjapan.com/toyama/himi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sakana no Restaurant Banyatei",
+     "name_en": "Sakana no Restaurant Banyatei",
+     "name_ja": "魚のレストラン番屋亭",
+     "description": "Seafood restaurant overlooking Toyama Bay in Kita-omachi serving Himi fish and satoyama produce.",
+     "source_url": "https://r.gnavi.co.jp/3fpf25640000/",
      "page": "https://bokenjapan.com/toyama/himi/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -1622,8 +1658,8 @@
     {
      "name": "La-se-ri Resort & Stay",
      "name_en": "La-se-ri Resort & Stay",
-     "name_ja": "La・se・ri Resort & Stay",
-     "description": "Resort in Himi with open-air baths and private baths.",
+     "name_ja": "ラ・セ・リ リゾートアンドステイ",
+     "description": "Six-room, ocean-view stay in Himi on Toyama Bay with a private open-air bath and a milky-silk private indoor bath; rooms-only, with food and drink welcome to bring in.",
      "source_url": "https://www.jalan.net/yad372338/",
      "page": "https://bokenjapan.com/toyama/himi/stay/"
     },
@@ -1896,6 +1932,15 @@
      "category": "Casual"
     },
     {
+     "name": "Meat House Yamachan",
+     "name_en": "Meat House Yamachan",
+     "name_ja": "ミートハウス 山ちゃん",
+     "description": "Japanese black beef restaurant in Futakuchi serving yakiniku, shabu-shabu, sukiyaki and steak, with views of the Tateyama range and banquets for up to 50.",
+     "source_url": "https://r.gnavi.co.jp/2we4rje90000/",
+     "page": "https://bokenjapan.com/toyama/imizu/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Rihaku",
      "name_en": "Rihaku",
      "name_ja": "李白",
@@ -2115,6 +2160,15 @@
      "name_ja": "味処 天よし亭",
      "description": "Japanese restaurant in Yatsuka, Imizu.",
      "source_url": "https://www.hotpepper.jp/strJ003671676/",
+     "page": "https://bokenjapan.com/toyama/imizu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ryotei Nakamuraro",
+     "name_en": "Ryotei Nakamuraro",
+     "name_ja": "創業文政七年 料亭 中村楼",
+     "description": "Japanese ryotei founded in the Edo period, a minute by car from Kosugi Station, serving seasonal kaiseki and duck sukiyaki with Toyama ingredients such as Kurokawa bamboo shoots, Sho River sweetfish and local matsutake.",
+     "source_url": "https://r.gnavi.co.jp/ghux82r00000/",
      "page": "https://bokenjapan.com/toyama/imizu/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -3116,6 +3170,15 @@
      "name_en": "Ibuki",
      "description": "Restaurant in Kurobe specialising in seasonal fish, with counter and tatami seating.",
      "source_url": "https://www.info-toyama.com/attractions/52003",
+     "page": "https://bokenjapan.com/toyama/kurobe/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Makiba Shokudo",
+     "name_en": "Makiba Shokudo",
+     "name_ja": "まきば食堂",
+     "description": "Casual set-meal restaurant inside the Yuya Furobakka bathhouse complex in Kurobe.",
+     "source_url": "https://r.gnavi.co.jp/nuvtvahs0000/",
      "page": "https://bokenjapan.com/toyama/kurobe/eat/casual/",
      "category": "Casual"
     },
@@ -6835,6 +6898,15 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Tenobe Udon Inaka",
+     "name_en": "Tenobe Udon Inaka",
+     "name_ja": "手延うどん田舎",
+     "description": "Udon restaurant on National Route 8 with a large car park, serving Himi hand-stretched udon in simmered nikomi style with shrimp tempura, beef tendon and offal.",
+     "source_url": "https://r.gnavi.co.jp/na2t22hw0000/",
+     "page": "https://bokenjapan.com/toyama/oyabe/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Michi-no-Eki Märchen Oyabe",
      "name_en": "Michi-no-Eki Märchen Oyabe",
      "name_ja": "道の駅 メルヘンおやべ",
@@ -7256,6 +7328,24 @@
      "category": "Cafe"
     },
     {
+     "name": "Casual Dining Bon",
+     "name_en": "Casual Dining Bon",
+     "name_ja": "カジュアルダイニング ボン",
+     "description": "Casual dining restaurant with a retro atmosphere in the Wing Wing Takaoka building.",
+     "source_url": "https://r.gnavi.co.jp/hf50f2rb0000/",
+     "page": "https://bokenjapan.com/toyama/takaoka/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Sweet Smile",
+     "name_en": "Sweet Smile",
+     "name_ja": "スイート スマイル",
+     "description": "Sweets shop in Sano, Takaoka open until midnight, known for its acai bowls.",
+     "source_url": "https://r.gnavi.co.jp/h5njjbz60000/",
+     "page": "https://bokenjapan.com/toyama/takaoka/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Anshin Gohan",
      "name_en": "Anshin Gohan",
      "name_ja": "あんしんごはん",
@@ -7300,6 +7390,60 @@
      "category": "Casual"
     },
     {
+     "name": "Teppanyaki La Noix creationS",
+     "name_en": "Teppanyaki La Noix creationS",
+     "name_ja": "鉄板焼 La・Noix ～creationS～",
+     "description": "Teppanyaki restaurant in Otabiya-cho, Takaoka that holds special events from time to time.",
+     "source_url": "https://r.gnavi.co.jp/sd3h3c0k0000/",
+     "page": "https://bokenjapan.com/toyama/takaoka/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Matsusaka Beef Yakiniku Ittetsu",
+     "name_en": "Matsusaka Beef Yakiniku Ittetsu",
+     "name_ja": "松阪牛焼肉 一徹",
+     "description": "Yakiniku restaurant one minute from Takaoka Station serving top-grade Matsusaka beef.",
+     "source_url": "https://r.gnavi.co.jp/nd0k7drk0000/",
+     "page": "https://bokenjapan.com/toyama/takaoka/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Yakiniku Kado",
+     "name_en": "Yakiniku Kado",
+     "name_ja": "かど",
+     "description": "Newly opened yakiniku restaurant on the Otabiya-cho crossroads corner serving Japanese black beef.",
+     "source_url": "https://r.gnavi.co.jp/8p0jm49c0000/",
+     "page": "https://bokenjapan.com/toyama/takaoka/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Kindoko",
+     "name_en": "Kindoko",
+     "name_ja": "金どこ",
+     "description": "Yakiniku restaurant in Iguchi-honkae serving A5-grade Japanese black beef at good value, for solo diners and dates alike.",
+     "source_url": "https://r.gnavi.co.jp/9tg8nb8e0000/",
+     "page": "https://bokenjapan.com/toyama/takaoka/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Gyuya Tetsu",
+     "name_en": "Gyuya Tetsu",
+     "name_ja": "牛屋‐鐵‐",
+     "description": "Himi beef specialist in the basement of Kurun Takaoka, one minute from Takaoka Station, with fully private rooms.",
+     "source_url": "https://r.gnavi.co.jp/nvce45sh0000/",
+     "page": "https://bokenjapan.com/toyama/takaoka/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Shoryu Kobo",
+     "name_en": "Shoryu Kobo",
+     "name_ja": "昇龍香房",
+     "description": "Chinese restaurant in Akasofu with a stylish interior and a wide, reasonably priced menu of authentic dishes.",
+     "source_url": "https://r.gnavi.co.jp/1g77vhay0000/",
+     "page": "https://bokenjapan.com/toyama/takaoka/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Zaika Curry House",
      "name_en": "Zaika Curry House",
      "name_ja": "ザイカ・カレーハウス",
@@ -7309,11 +7453,29 @@
      "category": "Curry"
     },
     {
+     "name": "Indian Restaurant Delhi Awara Honten",
+     "name_en": "Indian Restaurant Delhi Awara Honten",
+     "name_ja": "インド料理 デリー あわら本店",
+     "description": "Indian restaurant in Awara-machi, main shop of a small local group, serving curry.",
+     "source_url": "https://r.gnavi.co.jp/6edjn7p70000/",
+     "page": "https://bokenjapan.com/toyama/takaoka/eat/curry/",
+     "category": "Curry"
+    },
+    {
      "name": "Casserole",
      "name_en": "Casserole",
      "name_ja": "キャセロール",
      "description": "Bistro in Takaoka, also serving hamburg steak.",
      "source_url": "https://tabelog.com/toyama/A1604/A160401/16000378/",
+     "page": "https://bokenjapan.com/toyama/takaoka/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Top Restaurant Four Seasons",
+     "name_en": "Top Restaurant Four Seasons",
+     "name_ja": "トップレストラン フォーシーズン",
+     "description": "French restaurant at Hotel New Otani Takaoka.",
+     "source_url": "https://r.gnavi.co.jp/rdny39z90000/",
      "page": "https://bokenjapan.com/toyama/takaoka/eat/european/",
      "category": "European"
     },
@@ -7386,6 +7548,78 @@
      "name_ja": "お好み焼き＆もんじゃ居酒屋 ふくちゃん 高岡駅前店",
      "description": "Izakaya near Takaoka Station serving okonomiyaki and cheese monjayaki on a hot iron plate, with grilled chicken neck and drinks.",
      "source_url": "https://www.hotpepper.jp/strJ003984033/",
+     "page": "https://bokenjapan.com/toyama/takaoka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Konya",
+     "name_en": "Izakaya Konya",
+     "name_ja": "居酒屋こんや",
+     "description": "Izakaya in Nomura, Takaoka serving meat sushi and izakaya dishes with good sake in a monochrome interior.",
+     "source_url": "https://r.gnavi.co.jp/n2nk5d580000/",
+     "page": "https://bokenjapan.com/toyama/takaoka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yakiniku Izakaya Hanare",
+     "name_en": "Yakiniku Izakaya Hanare",
+     "name_ja": "焼肉居酒屋 HANARE",
+     "description": "Yakiniku izakaya in Nomura serving creative dishes and grilled meat in a calm setting.",
+     "source_url": "https://r.gnavi.co.jp/n1aenbwk0000/",
+     "page": "https://bokenjapan.com/toyama/takaoka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Hop Tap Shop",
+     "name_en": "Hop Tap Shop",
+     "name_ja": "ホップ タップ ショップ",
+     "description": "Craft beer and Japanese beef pub in Miyawaki-cho, Takaoka with a daily-changing craft beer list.",
+     "source_url": "https://r.gnavi.co.jp/3t43szs30000/",
+     "page": "https://bokenjapan.com/toyama/takaoka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Takatsuki",
+     "name_en": "Takatsuki",
+     "name_ja": "たかつき",
+     "description": "Izakaya in Furujocho serving a handmade daily lunch with a drink for 1,000 yen and izakaya dishes from 300 yen at night.",
+     "source_url": "https://r.gnavi.co.jp/69877vvy0000/",
+     "page": "https://bokenjapan.com/toyama/takaoka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Sumibi Kushiyaki Dining Fukuro",
+     "name_en": "Sumibi Kushiyaki Dining Fukuro",
+     "name_ja": "炭火串焼きダイニング 梟",
+     "description": "Skewer dining place five minutes from Takaoka Station grilling chicken over Kishu binchotan charcoal.",
+     "source_url": "https://r.gnavi.co.jp/6k6a0mk70000/",
+     "page": "https://bokenjapan.com/toyama/takaoka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Flower Bar Hanakotobar",
+     "name_en": "Flower Bar Hanakotobar",
+     "name_ja": "フラワーバー ハナコトバー",
+     "description": "Bar in Suehiro-cho, Takaoka decorated with dried flowers.",
+     "source_url": "https://r.gnavi.co.jp/7dtd74w60000/",
+     "page": "https://bokenjapan.com/toyama/takaoka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Shunko Ryori Kaede",
+     "name_en": "Shunko Ryori Kaede",
+     "name_ja": "旬肴料理 かえで",
+     "description": "Izakaya behind Zuiryuji Temple in Takaoka serving meals, celebration and memorial dinners, with takeaway.",
+     "source_url": "https://r.gnavi.co.jp/4d3f75270000/",
+     "page": "https://bokenjapan.com/toyama/takaoka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Ajito",
+     "name_en": "Izakaya Ajito",
+     "name_ja": "居酒屋 あじと",
+     "description": "Izakaya in Shinyoko-machi known for committed cooking and a wide range of plum wines, popular with women.",
+     "source_url": "https://r.gnavi.co.jp/pf4wwtw90000/",
      "page": "https://bokenjapan.com/toyama/takaoka/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -7569,6 +7803,24 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Oshokujidokoro Yuzura",
+     "name_en": "Oshokujidokoro Yuzura",
+     "name_ja": "お食事処 ゆづら",
+     "description": "Dining room in Kanaya-machi, Takaoka serving set meals at lunch and reservation-only seasonal Japanese courses in the evening.",
+     "source_url": "https://r.gnavi.co.jp/at0atc830000/",
+     "page": "https://bokenjapan.com/toyama/takaoka/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Nihon Ryori Marusho",
+     "name_en": "Nihon Ryori Marusho",
+     "name_ja": "日本料理 丸尚",
+     "description": "Japanese restaurant in Higashi-Shimozeki serving kaiseki of Toyama's seasonal flavours in fully private rooms.",
+     "source_url": "https://r.gnavi.co.jp/gcgr4bd10000/",
+     "page": "https://bokenjapan.com/toyama/takaoka/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Wakana",
      "name_en": "Wakana",
      "name_ja": "和香奈",
@@ -7690,6 +7942,15 @@
      "name_ja": "海鮮問屋 柿の匠",
      "description": "Large seafood restaurant in Takaoka with 160 seats across counter, tables, sunken-kotatsu and storehouse rooms, known for seafood rice bowls.",
      "source_url": "https://www.takaoka.or.jp/food/detail_2041.html",
+     "page": "https://bokenjapan.com/toyama/takaoka/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Azumaru",
+     "name_en": "Sushi Azumaru",
+     "name_ja": "寿司 あず丸",
+     "description": "Small neighbourhood sushi shop in Toide-machi, Takaoka serving fresh fish from Toyama Bay.",
+     "source_url": "https://r.gnavi.co.jp/hxuf32kw0000/",
      "page": "https://bokenjapan.com/toyama/takaoka/eat/seafood/",
      "category": "Japanese (seafood)"
     }
@@ -9197,10 +9458,28 @@
      "category": "European"
     },
     {
+     "name": "Pasta no Mori",
+     "name_en": "Pasta no Mori",
+     "name_ja": "パスタの森",
+     "description": "Italian restaurant next to the Tonami roadside station where an Italian chef makes pasta and Neapolitan pizza from local Tonami vegetables and Toyama Bay seafood, with no chemical seasoning.",
+     "source_url": "https://r.gnavi.co.jp/982tebba0000/",
+     "page": "https://bokenjapan.com/toyama/tonami/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Shokusai Nomidokoro Hikohikotei",
      "name_en": "Shokusai Nomidokoro Hikohikotei",
      "description": "Restaurant and bar three minutes from Tonami Station with a Japanese-style interior.",
      "source_url": "https://www.info-toyama.com/attractions/80307",
+     "page": "https://bokenjapan.com/toyama/tonami/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Tebasaki Tori Ryori Torishin",
+     "name_en": "Tebasaki Tori Ryori Torishin",
+     "name_ja": "手羽先 とり料理 とり新",
+     "description": "Chicken izakaya three minutes from Tonami Station serving yakitori of Kinsodori chicken and a golden chicken-wing tasting plate, with a wide choice of local sake.",
+     "source_url": "https://r.gnavi.co.jp/n35c7gbk0000/",
      "page": "https://bokenjapan.com/toyama/tonami/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -9235,6 +9514,15 @@
      "name_en": "Seasonal Cuisine Tetsu",
      "description": "Restaurant serving mostly local fresh sashimi, grilled fish and delicacies.",
      "source_url": "https://www.info-toyama.com/attractions/80306",
+     "page": "https://bokenjapan.com/toyama/tonami/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Takachan",
+     "name_en": "Yakiniku Takachan",
+     "name_ja": "焼肉たかちゃん",
+     "description": "Yakiniku restaurant in Toyo-cho serving A5-grade Matsusaka beef and other A5 wagyu brands, with set courses for two or more.",
+     "source_url": "https://r.gnavi.co.jp/g47x5zka0000/",
      "page": "https://bokenjapan.com/toyama/tonami/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -9346,6 +9634,42 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Fuka Matsu Wafu Kaikan",
+     "name_en": "Fuka Matsu Wafu Kaikan",
+     "name_ja": "和風会館 ふかまつ",
+     "description": "Long-established Japanese restaurant next to the Tonami Tulip Park serving seasonal Toyama ingredients, with banquet courses and rooms for memorial and celebration meals.",
+     "source_url": "https://r.gnavi.co.jp/ba2xcgzv0000/",
+     "page": "https://bokenjapan.com/toyama/tonami/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kakuemon",
+     "name_en": "Kakuemon",
+     "name_ja": "覚右衛門",
+     "description": "Traditional ryotei in Chuo-cho with tatami rooms in sukiya style, serving Toyama Bay's seasonal fish and kaiseki.",
+     "source_url": "https://r.gnavi.co.jp/r002800/",
+     "page": "https://bokenjapan.com/toyama/tonami/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Nihonshiki Dorakukappo Kuon",
+     "name_en": "Nihonshiki Dorakukappo Kuon",
+     "name_ja": "日本式道楽割烹久遠",
+     "description": "One-party-a-day kappo restaurant in the scattered-settlement rice fields of Yanase serving the owner's creative dishes with Toyama ingredients and world cuisine.",
+     "source_url": "https://r.gnavi.co.jp/m159gx080000/",
+     "page": "https://bokenjapan.com/toyama/tonami/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Washoku Iwai",
+     "name_en": "Washoku Iwai",
+     "name_ja": "和食 いわい",
+     "description": "Japanese restaurant one minute from Tonami Station serving seasonal kaiseki, with private rooms and private-hire plans for celebrations and memorial meals.",
+     "source_url": "https://r.gnavi.co.jp/jjktrg030000/",
+     "page": "https://bokenjapan.com/toyama/tonami/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Ayu no Sato",
      "name_en": "Ayu no Sato",
      "name_ja": "鮎料理の店 鮎の里",
@@ -9387,6 +9711,15 @@
      "name_ja": "都寿し",
      "description": "Long-established sushi restaurant two minutes' walk from Tonami Station.",
      "source_url": "http://www.miyakozushi.com/",
+     "page": "https://bokenjapan.com/toyama/tonami/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Takemasatei",
+     "name_en": "Takemasatei",
+     "name_ja": "たけまさ亭",
+     "description": "Reservation-only seafood restaurant in Goromaru serving seafood caught that morning in Toyama Bay, for banquets and family celebrations.",
+     "source_url": "https://r.gnavi.co.jp/k1gwtxu40000/",
      "page": "https://bokenjapan.com/toyama/tonami/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -10079,9 +10412,27 @@
     {
      "name": "Mewship",
      "name_en": "Mewship",
-     "name_ja": "Mewship",
+     "name_ja": "ミューシップ",
      "description": "Café and rental space by the sea where you can play basketball, welcoming to kids and dogs.",
      "source_url": "https://www.mewship50.com/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Largo",
+     "name_en": "Cafe Largo",
+     "name_ja": "Desert＆Restaurant カフェ・ラルゴ",
+     "description": "Cafe-restaurant at the Toyama Manten Hotel serving curry, pasta, morning sets, weekly lunches and desserts in a calm space.",
+     "source_url": "https://r.gnavi.co.jp/k98gfx2w0000/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Tho Tho Caphe",
+     "name_en": "Tho Tho Caphe",
+     "name_ja": "トートーカフェ",
+     "description": "Asian-style cafe in Fujiki serving healthy cafe meals and sweets, with spacious tatami seating.",
+     "source_url": "https://r.gnavi.co.jp/rs01pmp00000/",
      "page": "https://bokenjapan.com/toyama/toyama/eat/cafe/",
      "category": "Cafe"
     },
@@ -10125,6 +10476,51 @@
      "name_ja": "中国料理 富山上海飯店",
      "description": "Chinese restaurant in Sakuragi-cho, Toyama with a calm, stylish interior and a drinks list that includes Shaoxing wine.",
      "source_url": "https://www.hotpepper.jp/strJ003829146/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Toyama Kitaguchi Yokocho",
+     "name_en": "Toyama Kitaguchi Yokocho",
+     "name_ja": "富山北口横丁",
+     "description": "Food hall on the ground floor of D Tower Toyama near the station's north exit, open for lunch and dinner.",
+     "source_url": "https://r.gnavi.co.jp/2h50y0d10000/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Ganges Eiraku-machi",
+     "name_en": "Ganges Eiraku-machi",
+     "name_ja": "ガンジス川 永楽町店",
+     "description": "Indian restaurant in Eiraku-machi serving spiced curries and tandoori dishes.",
+     "source_url": "https://r.gnavi.co.jp/9urjmj9n0000/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Raicho Kitchen",
+     "name_en": "Raicho Kitchen",
+     "name_ja": "らいちょうキッチン",
+     "description": "Weekend-only kitchen near Toyama Station serving Toyama and Tateyama local dishes and additive-free onigiri from 5 am.",
+     "source_url": "https://r.gnavi.co.jp/nw13h7n00000/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Himi Gyuya Toyama",
+     "name_en": "Himi Gyuya Toyama",
+     "name_ja": "氷見 牛屋 富山店",
+     "description": "Yakiniku restaurant in the Toyama Marche food hall serving rare Himi beef.",
+     "source_url": "https://r.gnavi.co.jp/1stc820b0000/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Yakiniku Restaurant Karashiya",
+     "name_en": "Yakiniku Restaurant Karashiya",
+     "name_ja": "焼肉レストラン 辛子家",
+     "description": "Yakiniku restaurant one minute from Sakurabashi tram stop serving Japanese black beef graded A4 or higher.",
+     "source_url": "https://r.gnavi.co.jp/s1tz5kbk0000/",
      "page": "https://bokenjapan.com/toyama/toyama/eat/casual/",
      "category": "Casual"
     },
@@ -10178,6 +10574,42 @@
      "name_ja": "アマンダンピーク",
      "description": "Restaurant in Kureha, Toyama with views of the Tateyama range and Toyama Bay, serving lunch and afternoon tea in a design space open to the outdoors.",
      "source_url": "https://www.hotpepper.jp/strJ004592009/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Doppietta",
+     "name_en": "Doppietta",
+     "name_ja": "ドッピエッタ",
+     "description": "Italian restaurant a minute from Nishicho tram stop serving chef-made dishes in a calm adult setting, with set lunches.",
+     "source_url": "https://r.gnavi.co.jp/2zkf9d1k0000/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Tiffany",
+     "name_en": "Tiffany",
+     "name_ja": "ティファニィ",
+     "description": "Spaghetti restaurant in a quiet residential area of Isobe-cho with a wide pasta menu and original sauces.",
+     "source_url": "https://r.gnavi.co.jp/r606300/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Ricco Monte",
+     "name_en": "Ricco Monte",
+     "name_ja": "リコモンテ",
+     "description": "French sky restaurant in Shintomi-cho, Toyama with a bright, sunlit dining room.",
+     "source_url": "https://r.gnavi.co.jp/mtduv9yd0000/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "La Locanda del Pittore Kansui Park",
+     "name_en": "La Locanda del Pittore Kansui Park",
+     "name_ja": "ラ・ロカンダ・デル・ピットーレ 環水公園",
+     "description": "Italian restaurant at Kansui Park serving pizza baked in a handmade stone oven, with takeaway pizza.",
+     "source_url": "https://r.gnavi.co.jp/6231jmjn0000/",
      "page": "https://bokenjapan.com/toyama/toyama/eat/european/",
      "category": "European"
     },
@@ -10270,6 +10702,123 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Fuen",
+     "name_en": "Fuen",
+     "name_ja": "食肴旬菜 富焔 －FUEN－",
+     "description": "Robata-grill izakaya near Toyama Station serving binchotan-charcoal grilled dishes and select dishes with a wide choice of local sake.",
+     "source_url": "https://r.gnavi.co.jp/4nw2jhjx0000/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Aburi Izakaya Tasuki Toyama Ekimae",
+     "name_en": "Aburi Izakaya Tasuki Toyama Ekimae",
+     "name_ja": "炙り居酒屋 たすき 富山駅前店",
+     "description": "Izakaya three minutes on foot from Toyama Station specialising in beef offal and hand-skewered kushi, with sake not found in ordinary izakaya.",
+     "source_url": "https://r.gnavi.co.jp/2a30sdje0000/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Toyama Kaisen Izakaya Ame nochi Hare",
+     "name_en": "Toyama Kaisen Izakaya Ame nochi Hare",
+     "name_ja": "富山海鮮居酒屋 雨のち晴れ",
+     "description": "Seafood izakaya four minutes from Toyama Station with private rooms and drink-inclusive banquet courses.",
+     "source_url": "https://r.gnavi.co.jp/r314500/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Toyama Hakobune",
+     "name_en": "Toyama Hakobune",
+     "name_ja": "とやま方舟",
+     "description": "Izakaya inside the Toyama Marche food hall at Toyama Station, thirty seconds from the Hokuriku Shinkansen gate, serving Toyama Bay seafood and local sake.",
+     "source_url": "https://r.gnavi.co.jp/m2t2rwc00000/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Motsuya Fukuta Honten",
+     "name_en": "Motsuya Fukuta Honten",
+     "name_ja": "もつ家 福多 本店",
+     "description": "Offal hotpot and grilled-offal izakaya near Toyama Station, where you can also cook yakiniku at the table.",
+     "source_url": "https://r.gnavi.co.jp/cwzfrfrh0000/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kisetsu Ryori to Osake Wasabi",
+     "name_en": "Kisetsu Ryori to Osake Wasabi",
+     "name_ja": "季節料理とお酒 わさび",
+     "description": "Seasonal-cuisine izakaya in Sogawa, Toyama where smoking is allowed at the seats.",
+     "source_url": "https://r.gnavi.co.jp/b0mzx5fh0000/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kisetsu Ryori to Osake Hiyoko",
+     "name_en": "Kisetsu Ryori to Osake Hiyoko",
+     "name_ja": "季節料理とお酒 ひよこ",
+     "description": "Seasonal-cuisine izakaya five minutes from Toyama Station serving local ingredients, with private rooms for four or more.",
+     "source_url": "https://r.gnavi.co.jp/r379600/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Edoya",
+     "name_en": "Edoya",
+     "name_ja": "えどや",
+     "description": "Izakaya right by Toyama Station serving hand-picked seafood and binchotan-grilled yakitori, with sunken-kotatsu seating for banquets.",
+     "source_url": "https://r.gnavi.co.jp/r569500/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Sumibi Kushiyaki Yokadori",
+     "name_en": "Sumibi Kushiyaki Yokadori",
+     "name_ja": "炭火串焼 よか鶏",
+     "description": "Charcoal-grilled skewer izakaya ten seconds from Arachi tram stop, with private rooms.",
+     "source_url": "https://r.gnavi.co.jp/1jbg7hw40000/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Sakaba Tokishirazu",
+     "name_en": "Sakaba Tokishirazu",
+     "name_ja": "酒場 トキシラズ",
+     "description": "Izakaya in Sakuramachi, Toyama, handy for small-group gatherings; it has moved, so check the new address.",
+     "source_url": "https://r.gnavi.co.jp/kddken6g0000/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Taishu Sakaba Hano",
+     "name_en": "Taishu Sakaba Hano",
+     "name_ja": "大衆酒場Hano",
+     "description": "Late-night izakaya in Uchisaiwai-cho open until 6 am, serving a wide range of dishes in a hideaway-style space.",
+     "source_url": "https://r.gnavi.co.jp/8hyptjr40000/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Sakaba Tasukake",
+     "name_en": "Sakaba Tasukake",
+     "name_ja": "タスカケ",
+     "description": "Izakaya three minutes on foot from City Hall serving kushi-shabu skewer hotpot and local dishes.",
+     "source_url": "https://r.gnavi.co.jp/dz2985ja0000/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Toyama no Yakiniku to Hamayaki Toyama Abuli",
+     "name_en": "Toyama no Yakiniku to Hamayaki Toyama Abuli",
+     "name_ja": "富山の焼肉と浜焼き 富山炙",
+     "description": "Yakiniku and seafood-grill restaurant near Toyama Station, open until 3 am, with wagyu, fresh vegetables and seafood.",
+     "source_url": "https://r.gnavi.co.jp/haskg8ng0000/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Kuchiiwa",
      "name_en": "Kuchiiwa",
      "name_ja": "くちいわ",
@@ -10336,6 +10885,15 @@
      "name_ja": "むてっぽう",
      "description": "Ramen shop in Nishi-Shinjo, Toyama with a ticket machine at the entrance, a bright clean interior and dishes made with barley rice.",
      "source_url": "https://www.hotpepper.jp/strJ000339960/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menya Marucho Toyama Inter",
+     "name_en": "Menya Marucho Toyama Inter",
+     "name_ja": "麺屋丸超 富山インター店",
+     "description": "Miso ramen shop near the Toyama Interchange using 100 percent domestic soybean miso, with a house chili miso to change the flavour.",
+     "source_url": "https://r.gnavi.co.jp/e36252we0000/",
      "page": "https://bokenjapan.com/toyama/toyama/eat/noodles/",
      "category": "Japanese (noodles)"
     },
@@ -10441,6 +10999,51 @@
      "name_ja": "なか道",
      "description": "Japanese restaurant in Oshima, Toyama with 10 counter seats, a children's udon set, child seats and a diaper-changing table.",
      "source_url": "https://www.hotpepper.jp/strJ000979143/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shokko Shunsai Tomiichi",
+     "name_en": "Shokko Shunsai Tomiichi",
+     "name_ja": "食肴旬菜 富一",
+     "description": "Japanese restaurant four minutes on foot from Toyama Station pairing local sake with washoku from a chef with 43 years' experience.",
+     "source_url": "https://r.gnavi.co.jp/dpfepdz90000/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kappo Ogi",
+     "name_en": "Kappo Ogi",
+     "name_ja": "割烹 扇",
+     "description": "Kappo restaurant in Sakuragi-cho serving freshly caught Toyama Bay fish and seasonal dishes.",
+     "source_url": "https://r.gnavi.co.jp/r069500/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kappo Kintomi",
+     "name_en": "Kappo Kintomi",
+     "name_ja": "割烹 金富",
+     "description": "Kappo restaurant in Sogawa serving the day's seasonal catch, with kaiseki in tatami rooms and a la carte dishes at the counter.",
+     "source_url": "https://r.gnavi.co.jp/r003000/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kappo Ogawa",
+     "name_en": "Kappo Ogawa",
+     "name_ja": "割烹 小川",
+     "description": "Kappo restaurant in Shintomi-cho serving Toyama seafood, mountain produce and local sake, with lunch and takeaway.",
+     "source_url": "https://r.gnavi.co.jp/d3hk6wj10000/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Tawaraya",
+     "name_en": "Tawaraya",
+     "name_ja": "俵屋",
+     "description": "Japanese restaurant in the Urban Place building with views across the Toyama Plain, serving seasonal fish from Toyama Bay.",
+     "source_url": "https://r.gnavi.co.jp/r212400/",
      "page": "https://bokenjapan.com/toyama/toyama/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -10624,6 +11227,42 @@
      "name_en": "Mikita Sushi",
      "description": "Sushi restaurant right by Shikata fishing port, proud of local morning-picked fish.",
      "source_url": "https://www.info-toyama.com/attractions/90015",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Hamayaki to Omiki Isoabu",
+     "name_en": "Hamayaki to Omiki Isoabu",
+     "name_ja": "浜焼きと御酒 磯炙",
+     "description": "Seafood grill restaurant in Uchisaiwai-cho, Toyama, relocated and reopened in July, serving market-fresh fish grilled at the table.",
+     "source_url": "https://r.gnavi.co.jp/r514100/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Toyama Gyokai Bistro Sasaya Kitokito",
+     "name_en": "Toyama Gyokai Bistro Sasaya Kitokito",
+     "name_ja": "富山 魚介ビストロ sasaya kitokito",
+     "description": "Seafood bistro in Sogawa, Toyama serving a la carte dishes and drink-inclusive banquet courses, with rooms for groups of 20 to 30.",
+     "source_url": "https://r.gnavi.co.jp/r491900/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Toyama-wan no Ajidokoro Taiya",
+     "name_en": "Toyama-wan no Ajidokoro Taiya",
+     "name_ja": "富山湾の味処 鯛家",
+     "description": "Toyama Bay seafood restaurant in Honmachi serving local fish, live squid and daily catches sent from the bay.",
+     "source_url": "https://r.gnavi.co.jp/r2dazsd70000/",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Shiroebi-tei Toyama Eki",
+     "name_en": "Shiroebi-tei Toyama Eki",
+     "name_ja": "白えび亭 富山駅店",
+     "description": "White-shrimp rice-bowl shop in the Kitokito Market at Toyama Station.",
+     "source_url": "https://r.gnavi.co.jp/4t6t6ky40000/",
      "page": "https://bokenjapan.com/toyama/toyama/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -12267,11 +12906,29 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Izakaya Gensuke",
+     "name_en": "Izakaya Gensuke",
+     "name_ja": "居酒屋 源助",
+     "description": "Izakaya near Uozu Station serving fresh fish landed at Uozu Port, home-style side dishes and vegetables from its own garden.",
+     "source_url": "https://r.gnavi.co.jp/j44s1rw70000/",
+     "page": "https://bokenjapan.com/toyama/uozu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Tonkatsuya",
      "name_en": "Tonkatsuya",
      "name_ja": "とんかつや",
      "description": "Tonkatsu (pork-cutlet) restaurant in Uozu.",
      "source_url": "https://tabelog.com/toyama/A1602/A160202/16000833/",
+     "page": "https://bokenjapan.com/toyama/uozu/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Uozu Yakiniku Toen",
+     "name_en": "Uozu Yakiniku Toen",
+     "name_ja": "魚津焼肉 桃園",
+     "description": "Yakiniku restaurant in Uozu serving premium wagyu at reasonable prices, known for its melt-in-the-mouth wagyu kalbi, with sukiyaki and shabu-shabu too.",
+     "source_url": "https://r.gnavi.co.jp/4tn2d8rz0000/",
      "page": "https://bokenjapan.com/toyama/uozu/eat/meat/",
      "category": "Japanese (meat)"
     },
