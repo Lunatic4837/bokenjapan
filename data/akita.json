@@ -22,7 +22,7 @@
     "lat": 39.719806,
     "lon": 140.102222
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Akita Tami Market",
@@ -32,13 +32,15 @@
     },
     {
      "name": "Kita Akita Tourist Information",
-     "description": "Local sight in Akita, Akita.",
+     "name_en": "Kitaakita City Tourist Information Center",
+     "description": "Located between JR Takanosu Station and Akita Nairiku Jukan Railway Takanosu Station. Provides directions, tourist and event information, pamphlet mailing, and a small shop with Kitaakita specialties and other Akita products.",
      "source_url": "https://www.kitaakita-kankou.jp/imfomationcenter/",
      "page": "https://bokenjapan.com/akita/akita/day-to-day/"
     },
     {
      "name": "Akita Tourist Information (JR Akita Ekinai)",
-     "description": "Local sight in Akita, Akita.",
+     "name_en": "Akita City Tourist Information Center (JR Akita Station)",
+     "description": "Inside JR Akita Station, this center stocks guidebooks and pamphlets for Akita City and elsewhere in the prefecture. English-speaking staff are on duty for overseas visitors.",
      "source_url": "https://www.akita-yulala.jp/guide/5000011483",
      "page": "https://bokenjapan.com/akita/akita/day-to-day/"
     },
@@ -100,13 +102,15 @@
    "activities": [
     {
      "name": "Akita Kanto Festival",
-     "description": "Local sight in Akita, Akita.",
+     "name_en": "Akita Kanto Festival",
+     "description": "One of Tohoku's three major festivals, with about 270 years of history, and a nationally designated Important Intangible Folk Cultural Property. Performers balance 50 kg poles with 46 lanterns on palms, foreheads, shoulders, and hips.",
      "source_url": "https://www.kantou.gr.jp/",
      "page": "https://bokenjapan.com/akita/akita/do/"
     },
     {
      "name": "Akita Onsen Satomi",
-     "description": "A hot spring in Akita, Akita.",
+     "name_en": "Akita Onsen Satomi",
+     "description": "About 20 minutes by car from central Akita. This inn's natural hot spring, Akita Onsen Motoyu, has over 100 years of history. The salty water has a smooth, thick feel, and meals are seasonal kaiseki.",
      "source_url": "https://satomi-e.com/",
      "page": "https://bokenjapan.com/akita/akita/do/"
     },
@@ -166,13 +170,15 @@
     },
     {
      "name": "Taka no Su Taiko Festival",
-     "description": "Festival in Akita, Akita.",
+     "name_en": "Takanosu Taiko Festival",
+     "description": "Four large drums open this festival, where local taiko teams play in turn. The Takanosu area is home to the Tsuzureko Odaiko, and the event falls on the second Sunday of September.",
      "source_url": "https://www.city.kitaakita.akita.jp/kankou/category/maturi_event/takanosu/006.html",
      "page": "https://bokenjapan.com/akita/akita/do/"
     },
     {
      "name": "Sankichi Bonten Matsuri (Miyoshibondensai)",
-     "description": "Festival in Akita, Akita.",
+     "name_en": "Miyoshi Bonden Festival",
+     "description": "Cloth-decorated bonden are offered in this winter ritual for harvests and household safety. About 70 are dedicated each year, and participants race to lead in what is also called kenka bonden.",
      "source_url": "http://www.miyoshi.or.jp/festival/bondensai.html",
      "page": "https://bokenjapan.com/akita/akita/do/"
     },
@@ -24080,7 +24086,8 @@
    "sights": [
     {
      "name": "Akita Inu Suteshon",
-     "description": "Local sight in Akita, Akita.",
+     "name_en": "Akita Inu Station",
+     "description": "Visitors can meet Akita dogs on weekends at this Area Nakaichi facility near Akita Station. Touching is not allowed, though photos are, and goods sales partly fund protection of rescued dogs.",
      "source_url": "http://www.saveakita.or.jp/station/",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
@@ -24092,13 +24099,15 @@
     },
     {
      "name": "Akita Minzoku Geino Densho Kan (Neburi Nagashi Kan)",
-     "description": "Local sight in Akita, Akita.",
+     "name_en": "Akita City Folk Performing Arts Heritage Hall",
+     "description": "Visitors can hold a life-size kanto pole from the Kanto Festival and see exhibits on city folk events, including float processions and the Miyoshi Bonden Festival. Association members give regular performances.",
      "source_url": "https://www.city.akita.lg.jp/kanko/kanrenshisetsu/1003644/index.html",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
     {
      "name": "Akita Kokusai Daria Sono",
-     "description": "Local sight in Akita, Akita.",
+     "name_en": "Akita International Dahlia Garden",
+     "description": "About 700 varieties and 7,000 dahlias raised by breeder Washizawa can be seen here. From late September to October, large colorful blooms cover the garden, overlooked by a restaurant in hilltop Villa Flora.",
      "source_url": "http://www.akita-dahlia.jp/",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
@@ -24116,13 +24125,15 @@
     },
     {
      "name": "Akita Prefectural Art Museum",
-     "description": "An art museum in Akita, Akita.",
+     "name_en": "Akita Prefectural Art Museum",
+     "description": "Works by painter Tsuguharu Foujita are displayed, along with special exhibitions. His large mural Events of Akita, based on observations in Akita, is shown here. Tadao Ando designed the building.",
      "source_url": "http://www.akita-museum-of-art.jp/index.htm",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
     {
      "name": "Ani Go Eki",
-     "description": "Japanese railway line located in Akita Prefecture in northern Japan.",
+     "name_en": "Aniai Station",
+     "description": "Headquarters and rail yard of Akita Nairiku Jukan Railway are at this midway station. The triangular-roof building was selected among Tohoku's 100 stations. Inside are a shop, Koguma-tei cafe, and a Moriyoshiyama exhibit.",
      "source_url": "http://www.akita-nairiku.com/",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
@@ -24134,13 +24145,15 @@
     },
     {
      "name": "Kumakuma Sono",
-     "description": "Zoo in Akita, Akita.",
+     "name_en": "Kumakuma Garden",
+     "description": "Opened in 1990, this bear zoo offers feeding and glass viewing at Higuma House, added in 2014. During the winter closure, hibernating Asian black bears can be seen through the cage.",
      "source_url": "http://hahaha.akita.jp/wp/kumakuma/",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
     {
      "name": "Akita Nairiku Jukan Tetsudo",
-     "description": "Japanese railway line located in Akita Prefecture in northern Japan.",
+     "name_en": "Akita Nairiku Jukan Railway",
+     "description": "Local line running 94.2 km across inland Akita, through farmland and mountain gorges, with seasonal views from the windows. Twelve cars include tatami seating and the Akita Inukko Train, wrapped with Akita dog designs.",
      "source_url": "https://www.akita-nairiku.com/",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
@@ -24152,7 +24165,8 @@
     },
     {
      "name": "Akita Geijutsugekijo Miruhasu",
-     "description": "Theater and concert hall complex in Akita City.",
+     "name_en": "Akita Arts Theatre Miruhasu",
+     "description": "Cultural facility opened in June 2022 with a large hall, a medium hall, two small halls, and practice and creative rooms. Akita cedar is used inside, and the foyer overlooks Senshu Park and its moat.",
      "source_url": "https://akiat.jp/",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
@@ -24176,7 +24190,8 @@
     },
     {
      "name": "Akita Airport",
-     "description": "Airport in Akita, in Akita Prefecture.",
+     "name_en": "Akita Airport",
+     "description": "Airport in Yuwa, Akita City, with limousine buses to Akita Station and the government office district. Souvenir shops and restaurants are on site.",
      "source_url": "https://www.akita-airport.com/",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
@@ -24188,37 +24203,43 @@
     },
     {
      "name": "Akita Airport Omiyage Plaza A Eru",
-     "description": "Local sight in Akita, Akita.",
+     "name_en": "Akita Airport",
+     "description": "Airport in Yuwa, Akita City, with limousine buses to Akita Station and the government office district. Souvenir shops and restaurants are on site.",
      "source_url": "https://www.akita-airport.com/",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
     {
      "name": "Isedotai Stone Circles",
-     "description": "Archaeological site.",
+     "name_en": "Isedotai Stone Circles",
+     "description": "Jomon site of four stone circles, each at least 30 m across and up to 45 m, registered in July 2021 as World Heritage. Clay figures and pottery are displayed at Isedotai Jomon Museum.",
      "source_url": "https://www.city.kitaakita.akita.jp/isedotai",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
     {
      "name": "Satake Shiryo Kan",
-     "description": "Museum in Akita, Akita.",
+     "name_en": "Satake Historical Museum",
+     "description": "Displays materials on the Satake clan, lords of Akita Domain and descendants of the Minamoto. Reopened on 25 October 2025; the terrace overlooks Kubota Castle's front gate and Senshu Park's Ninomaru Plaza.",
      "source_url": "https://www.city.akita.lg.jp/kanko/kanrenshisetsu/1002685/",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
     {
      "name": "Ani Ijinkan Densho Kan",
-     "description": "Local sight in Akita, Akita.",
+     "name_en": "Ani Ijinkan and Densho Hall",
+     "description": "Nationally designated Important Cultural Property, built in 1882 in colonial style as foreign lodging for the government-run Ani Mine. The adjacent Densho Hall holds materials and cultural resources from the former copper mine.",
      "source_url": "https://www.ani-ijinkan.com/",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
     {
      "name": "Odaiko no Kan",
-     "description": "Local sight in Akita, Akita.",
+     "name_en": "Odaiko Hall",
+     "description": "Displays a Guinness-recognized taiko, six large drums, and many drums from around the world. Visitors can play drums and use a large-screen experience zone. The Moriyoshiyama Shuttle provides access.",
      "source_url": "https://www.kitaakita-kankou.jp/tourism/oodaiko/",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
     {
      "name": "Akita Castle Ruins History Museum",
-     "description": "A castle ruin in Akita, Akita.",
+     "name_en": "Akita Castle Ruins History Museum",
+     "description": "Nara-to-Heian government office set as Dewa's northern guard on Tohoku's Japan Sea side. Visitors can tour ancient walls and buildings in the site park and try infrared readings of lacquer-paper documents and wooden slips.",
      "source_url": "https://www.city.akita.lg.jp/kanko/kanrenshisetsu/1003616/index.html",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
@@ -24236,7 +24257,8 @@
     },
     {
      "name": "Akita Maiko and Akita Geisha",
-     "description": "Local sight in Akita, Akita.",
+     "name_en": "Akita Maiko and Akita Geisha",
+     "description": "Small groups can book the roughly 80-tatami hall for time with Akita maiko. Plans include a tea gathering, dance performance, photos, and walking Akita's streets together.",
      "source_url": "https://akitamaiko.com/",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
@@ -24248,7 +24270,8 @@
     },
     {
      "name": "Ise Do Tai Jomon Kan (Isedotaijomonkan)",
-     "description": "Archaeological site.",
+     "name_en": "Isedotai Jomon Museum",
+     "description": "Clay figurines are shown clockwise by period around a complete plate-shaped dogu, including a 2-meter replica. A smartphone audio guide introduces the World Heritage Isedotai Site and Oyu Stone Circles.",
      "source_url": "https://jomon-japan.jp/learn/jomon-sites/isedotai",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
@@ -24260,13 +24283,15 @@
     },
     {
      "name": "Akita Bunka Sozo Kan",
-     "description": "Facility in Akita, Akita.",
+     "name_en": "Akita City Cultural Creation Hall",
+     "description": "Renovated from the former Akita Prefectural Museum of Art. Completed in 1967, the building was selected as Modern Movement architecture in Japan. Inside are tofu shop Tofu Hyakkei, creator shop Hajimaru, and a free lounge.",
      "source_url": "https://akitacc.jp/",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
     {
      "name": "Taihei Mizumi",
-     "description": "Local sight in Akita, Akita.",
+     "name_en": "Taihei Lake",
+     "description": "Artificial lake formed when Moriyoshi Dam was completed, with 13 gorges and streams flowing in. Cherry salmon, char, carp, and pond smelt live here. Shuttle boats run to Komata Gorge through the October foliage season.",
      "source_url": "https://taiheiko.com/",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
@@ -24278,7 +24303,8 @@
     },
     {
      "name": "Moriyoshi Sanroku Guest House ORIYAMAKE",
-     "description": "Local sight in Akita, Akita.",
+     "name_en": "Moriyoshi Sanroku Guest House Oriyamake",
+     "description": "Renovated 70-year-old farmhouse at the foot of Mount Moriyoshi in Nemorita, Kitaakita, retaining Matagi culture. One group a day from two-night stays; seasonal activities include wild-plant picking, gorge trekking, mushroom hunting and snowshoeing.",
      "source_url": "https://oriyamake.com/",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
@@ -24290,37 +24316,43 @@
     },
     {
      "name": "Kubota Shiro O Sumiyagura",
-     "description": "Local sight in Akita, Akita.",
+     "name_en": "Kubota Castle Osumi Yagura",
+     "description": "Restored from construction described in historical records, with an observation room added. Interior panels explain the history.",
      "source_url": "https://www.city.akita.lg.jp/kanko/kanrenshisetsu/1002685/1009873/1002304.html",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
     {
      "name": "Moriyoshi Mori no Terasu",
-     "description": "Local sight in Akita, Akita.",
+     "name_en": "Moriyoshi Mori no Terrace",
+     "description": "Fireflies can be seen from late June through late July, and nearly 1,000 dahlias from August to late October. Woods, a stream, fields, paddies and a pond support planting, harvest and threshing workshops.",
      "source_url": "https://akita-fun.jp/spots/127",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
     {
      "name": "Mizugokoro En",
-     "description": "Park in Akita, Akita.",
+     "name_en": "Mizugokoro-en",
+     "description": "Strolling pond-style Japanese garden inside Koizumigata Park on Akita's outskirts, with ponds, a waterfall, a stream and 8,000 planted trees. Many people visit during autumn foliage.",
      "source_url": "http://www.koizumigatapark.jp/",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
     {
      "name": "Akitakurasu",
-     "description": "Local sight in Akita, Akita.",
+     "name_en": "Akitakurasu",
+     "description": "Local sake can be tasted inside Akita Station Building Topico while waiting for a train. Souvenirs are sold in the attached shop.",
      "source_url": "https://www.akita-kurasu.jp",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
     {
      "name": "Kuinsu Moriyoshi",
-     "description": "Local sight in Akita, Akita.",
+     "name_en": "Queens Moriyoshi",
+     "description": "Hot spring in a station building, attached to Ani-Maeda Station on the Akita Nairiku Jukan Railway.",
      "source_url": "https://quince-moriyoshi.jp/",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
     {
      "name": "Kyu Matsukura Ie House",
-     "description": "Local sight in Akita, Akita.",
+     "name_en": "Former Matsukura Family Residence",
+     "description": "Former residence at the junction of the Ushu Kaido and Sakata Kaido (Ushu Hama Kaido), routes important to Edo-period transport and distribution. Lectures, workshops, and events are held there.",
      "source_url": "https://matsukura-akita.com/",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
@@ -24332,43 +24364,50 @@
     },
     {
      "name": "Plaza Kuriputon (Akita Ken Shinrin Gakushu Koryu Kan)",
-     "description": "Local sight in Akita, Akita.",
+     "name_en": "Plaza Krypton (Akita Prefectural Forest Learning and Exchange Center)",
+     "description": "Visitors can learn about forests and forestry through nature observation, quizzes, games, mushroom cultivation, craft classes, and hands-on forest activities. Meetings, training, banquets, and lodging are also offered.",
      "source_url": "http://www.plaza-crypton.jp/",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
     {
      "name": "Omata Kyo",
-     "description": "Gorge in Akita, Akita.",
+     "name_en": "Omata Gorge",
+     "description": "Gorge of about 100 waterfalls, rock potholes, and deep pools among mixed conifer and broadleaf trees. Autumn foliage peaks from early to mid-October.",
      "source_url": "https://akita-fun.jp/spots/318",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
     {
      "name": "Tsuchizaki Minato Rekishi Densho Kan",
-     "description": "Local sight in Akita, Akita.",
+     "name_en": "Tsuchizaki Minato History Museum",
+     "description": "History museum on Tsuchizaki culture in Akita, with displays on the UNESCO-registered Tsuchizaki Port Hikiyama Festival floats, the Tsuchizaki air raid, and Kitamaebune port calls.",
      "source_url": "https://tuchizaki.com/",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
     {
      "name": "Akita Tatsuyuki Aki Art Museum",
-     "description": "An art museum in Akita, Akita.",
+     "name_en": "Akita City Senshu Art Museum",
+     "description": "Holds Akita Dutch-style paintings by Odano Naotake and Satake Shozan, works by Hirafuku Hoan and Hyakusui, and Kimura Ihei photographs. Okada Kenzo's collection is on permanent display, with special exhibitions about three times a year.",
      "source_url": "https://www.city.akita.lg.jp/kanko/kanrenshisetsu/1003643/index.html",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
     {
      "name": "Toyoko In Akita Eki Higashiguchi",
-     "description": "Hotel in Akita, Akita.",
+     "name_en": "Toyoko Inn Akita Station East Exit",
+     "description": "Front desk is on the second floor of Akita Kyoten Center ALVE, connected by a walkway. From the central ticket gate at Akita Station, turn left and follow the road.",
      "source_url": "https://akita-fun.jp/spots/399",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
     {
      "name": "Akita Prefectural Skating Rink",
-     "description": "Indoor speed skating oval in Akita.",
+     "name_en": "Akita Prefectural Skating Rink",
+     "description": "Indoor skating rink where anyone can skate, with lessons from age 3 and adult classes as well. After 4 p.m., elementary and junior high students must be accompanied by a guardian.",
      "source_url": "http://www.akisouko.com/skate/",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
     {
      "name": "Akita Araya Garasu Workshop",
-     "description": "Craft workshop.",
+     "name_en": "Akita City Araya Glass Workshop",
+     "description": "Glass workshop housing a blowing room, gallery, shop, and cafe, where seasonal sweets are served in workshop-made vessels. Glassblowing experiences are offered on Fridays, Saturdays, and Sundays.",
      "source_url": "https://araya-glass.akita.jp/",
      "page": "https://bokenjapan.com/akita/akita/see/"
     },
@@ -24380,7 +24419,8 @@
     },
     {
      "name": "Umeya Gakkiten",
-     "description": "Local sight in Akita, Akita.",
+     "name_en": "Umeya Musical Instrument Store",
+     "description": "Long-established shop selling, repairing, and teaching Japanese instruments such as koto and shamisen. Visitors can experience Akita folk songs, including Akita Ondo and Donpan-bushi, with live shamisen accompaniment.",
      "source_url": "https://www.umeya-gakki.com",
      "page": "https://bokenjapan.com/akita/akita/see/"
     }
@@ -24630,7 +24670,7 @@
     "lat": 39.453204,
     "lon": 140.4757386
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "JA Akita Obako Famazumagatto",
@@ -24824,7 +24864,8 @@
    "activities": [
     {
      "name": "Zenkoku Hanabi Kyogitaikai (Omagari no Hanabi)",
-     "description": "Local sight in Daisen, Akita.",
+     "name_en": "National Fireworks Competition (Omagari Fireworks)",
+     "description": "Fireworks artists from across Japan compete on a summer night with their own displays and fireworks provided by the event. Hospitality events called Omagari Fireworks Week begin one week before.",
      "source_url": "http://www.oomagari-hanabi.com/",
      "page": "https://bokenjapan.com/akita/daisen-05212/do/"
     },
@@ -24836,7 +24877,8 @@
     },
     {
      "name": "Nara Oka Yaki Togei Experience",
-     "description": "Local sight in Daisen, Akita.",
+     "name_en": "Naraoka-yaki Pottery Experience",
+     "description": "Naraoka-yaki dates to the late Edo period and is known for the blue depth of namako glaze. That color is used on Akita Shinkansen Komachi Green Car seats. Reservations allow kiln visits and pottery.",
      "source_url": "http://www.naraokayaki.com/",
      "page": "https://bokenjapan.com/akita/daisen-05212/do/"
     },
@@ -24872,7 +24914,8 @@
     },
     {
      "name": "Iwakura Onsen",
-     "description": "A hot spring in Daisen, Akita.",
+     "name_en": "Iwakura Onsen",
+     "description": "Open for more than 300 years and recorded by Edo traveler Sugae Masumi. Rock-salt source water is said to ease fatigue and help sleep, and fireflies appear in early summer.",
      "source_url": "http://www.iwakuraonsen.net/info.htm",
      "page": "https://bokenjapan.com/akita/daisen-05212/do/"
     },
@@ -24884,7 +24927,8 @@
     },
     {
      "name": "Odai Ski Area",
-     "description": "A ski area in Daisen, Akita.",
+     "name_en": "Odai Ski Area",
+     "description": "At the foot of the Ou Mountains in Ota. Courses run from beginner to advanced, with ski and snowboard rentals. Night slopes are lit in seven colors, and hot springs are nearby.",
      "source_url": "https://ohdai.omagari-sc.com/index.html",
      "page": "https://bokenjapan.com/akita/daisen-05212/do/"
     },
@@ -24914,25 +24958,29 @@
     },
     {
      "name": "Fuku no Tomo Shuzo",
-     "description": "Local sight in Daisen, Akita.",
+     "name_en": "Fukunotomo Brewery",
+     "description": "Near Jinguji Station, the brewing floor cannot be seen for hygiene reasons, but the entrance, main house, and storehouse can be viewed. Tastings cover sake, amazake, and brewing water.",
      "source_url": "http://www.fukunotomo.com/warehouse-tour.html",
      "page": "https://bokenjapan.com/akita/daisen-05212/do/"
     },
     {
      "name": "Okuda Shuzo Mise",
-     "description": "Sake brewery in Daisen, Akita.",
+     "name_en": "Okuda Sake Brewery",
+     "description": "Founded in 1673–1681, it makes Chiyomidori sake with Ou mountain water, heavy snow, cold climate, and quality rice. The Seiichi Shirai-designed shop is a registered tangible cultural property; tours require advance reservation.",
      "source_url": "https://akita-fun.jp/spots/684",
      "page": "https://bokenjapan.com/akita/daisen-05212/do/"
     },
     {
      "name": "Daisen Ei Kyowa Ski Area",
-     "description": "A ski area in Daisen, Akita.",
+     "name_en": "Daisen Municipal Kyowa Ski Area",
+     "description": "Two pair lifts and nine courses cover beginners through advanced levels. Ski and snowboard schools, badge tests, and events such as the Kyowa Snow Festa are held.",
      "source_url": "https://kyowasnow.net/ski/",
      "page": "https://bokenjapan.com/akita/daisen-05212/do/"
     },
     {
      "name": "Kawa Wo Wataru Bonden",
-     "description": "Local sight in Daisen, Akita.",
+     "name_en": "Bonden Crossing the River",
+     "description": "For over 160 years, bonden have crossed the Omono River by ferry, still used after a bridge was built, and climbed to Izusan Shrine to pray for safety and harvest.",
      "source_url": "https://www.city.daisen.lg.jp/archive/contents-10973",
      "page": "https://bokenjapan.com/akita/daisen-05212/do/"
     }
@@ -30886,13 +30934,15 @@
     },
     {
      "name": "Kyuhon Goke House",
-     "description": "Local sight in Daisen, Akita.",
+     "name_en": "Former Hongo Family Residence",
+     "description": "From Meiji through Taisho the family held over 345 hectares and supported local farming and the economy. Black fencing surrounds a main house over 100 years old, storehouse, early Showa Western building, and stone-lantern garden.",
      "source_url": "https://www.city.daisen.lg.jp/docs/2019042500025/",
      "page": "https://bokenjapan.com/akita/daisen-05212/see/"
     },
     {
      "name": "Kuni Shitei Historic Site Hottanoki Ato",
-     "description": "Historic site in Daisen, Akita.",
+     "name_en": "Hotta-no-saku Ruins",
+     "description": "Heian-period fort built to control the Emishi. Squared timber posts 3.6 meters high form an outer fence about 3.6 kilometers long; the ruins are not mentioned in historical texts.",
      "source_url": "https://akita-fun.jp/spots/147",
      "page": "https://bokenjapan.com/akita/daisen-05212/see/"
     }
@@ -31001,6 +31051,14 @@
      "description": "Ryokan with free-flowing hot-spring baths and an open-air bath, 11 rooms, free parking.",
      "source_url": "https://www.jalan.net/yad389090/",
      "page": "https://bokenjapan.com/akita/daisen-05212/stay/"
+    },
+    {
+     "name": "Riverside Hotel Omagari",
+     "name_en": "Riverside Hotel Omagari",
+     "name_ja": "リバーサイドホテル大曲",
+     "description": "Hotel in Omagari Nakadoricho, Daisen, with free Wi-Fi and free parking.",
+     "source_url": "https://www.jalan.net/yad387278/",
+     "page": "https://bokenjapan.com/akita/daisen-05212/stay/"
     }
    ]
   },
@@ -31023,7 +31081,7 @@
     "lat": 40.2783796,
     "lon": 140.2617194
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "food": [
     {
      "name": "Diner in Fujisato",
@@ -31299,11 +31357,12 @@
     "lat": 39.9437452,
     "lon": 140.1117308
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Gojome Asa City",
-     "description": "Morning market.",
+     "name_en": "Gojome Morning Market",
+     "description": "Said to date from 1495, when a Babame steward had a market deity enshrined and a market opened. It sells nature's bounty and everyday goods; spring and autumn markets feature wild vegetables, mushrooms, and chestnuts.",
      "source_url": "https://www.town.gojome.akita.jp/kanko/asaiti/",
      "page": "https://bokenjapan.com/akita/gojome/day-to-day/"
     },
@@ -32112,7 +32171,7 @@
     "lat": 39.9490359,
     "lon": 140.0732561
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "LAWSON",
@@ -32547,7 +32606,8 @@
    "sights": [
     {
      "name": "Gannin Yo",
-     "description": "Local sight in Hachirogata, Akita.",
+     "name_en": "Gannin Dance",
+     "description": "Said to derive from gannin monks' door-to-door art, reaching Hachirogata about 300 years ago. Rhythmic dance includes a Kabuki skit of Sadakuro and Yoichibei, offered at Ichinichi Shrine on May 5, then at homes.",
      "source_url": "https://www.town.hachirogata.akita.jp/chosei/1001525/1001526/1001752.html",
      "page": "https://bokenjapan.com/akita/hachirogata/see/"
     }
@@ -32572,7 +32632,7 @@
     "lat": 40.3186546,
     "lon": 140.0385668
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "food": [
     {
      "name": "LABO and CAFE YAMAMOTO",
@@ -32996,7 +33056,8 @@
     },
     {
      "name": "Tomeyama (Tomeyama)",
-     "description": "Local sight in Happo, Akita.",
+     "name_en": "Tomeyama",
+     "description": "Mountain where felling was stopped from the Edo period to secure water sources. Trekking is possible in a beech-centered natural broadleaf forest with maintained trails; a Happo Town certified guide must accompany visitors.",
      "source_url": "https://www.town.happo.lg.jp/archive/contents-1110",
      "page": "https://bokenjapan.com/akita/happo/see/"
     }
@@ -33021,7 +33082,7 @@
     "lat": 39.179259,
     "lon": 140.649359
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "food": [
     {
      "name": "GREEN",
@@ -33122,7 +33183,7 @@
     "lat": 39.9142507,
     "lon": 140.0813225
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Supercenter Amano Ikawa Branch",
@@ -33265,7 +33326,8 @@
    "sights": [
     {
      "name": "Nihonkoku Hanazono",
-     "description": "Local sight in Ikawa, Akita.",
+     "name_en": "Nihonkoku Hanazono",
+     "description": "As many as 200 species and 2,000 cherry trees bloom from late April to early May. The grounds also include recreation facilities, 41 sculptures, and a rose garden that peaks around June.",
      "source_url": "https://www.town.ikawa.akita.jp/site/garden/",
      "page": "https://bokenjapan.com/akita/ikawa/see/"
     }
@@ -33290,7 +33352,7 @@
     "lat": 40.0633847,
     "lon": 140.2956958
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "food": [
     {
      "name": "Cafe Yamabun",
@@ -33432,7 +33494,7 @@
     "lat": 39.8572485,
     "lon": 140.0130236
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Nice Oiwake Branch",
@@ -33522,7 +33584,8 @@
     },
     {
      "name": "Kodama Jozo",
-     "description": "Sake brewery, founded in 1879.",
+     "name_en": "Kodama Jozo",
+     "description": "Fermentation buildings remain much as they were at the Meiji 12 founding. Visitors can tour miso, soy sauce, and sake production for free and buy those products plus sweets.",
      "source_url": "https://www.kodamajozo.co.jp",
      "page": "https://bokenjapan.com/akita/katagami/do/"
     }
@@ -34902,7 +34965,8 @@
    "sights": [
     {
      "name": "Detosauna",
-     "description": "Local sight in Katagami, Akita.",
+     "name_en": "Detosauna",
+     "description": "Guests can use the sauna while viewing the Sea of Japan. Barbecue, lodging, and meals are also available.",
      "source_url": "https://www.instagram.com/detosauna/",
      "page": "https://bokenjapan.com/akita/katagami/see/"
     }
@@ -34927,7 +34991,7 @@
     "lat": 40.2157795,
     "lon": 140.7885838
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "7-Eleven Kazuno Hanawa Ekimae Branch",
@@ -34995,13 +35059,15 @@
     },
     {
      "name": "Hachimantai Goshogake Onsen",
-     "description": "A hot spring in Kazuno, Akita.",
+     "name_en": "Hachimantai Goshogake Onsen",
+     "description": "One inn at 1,000 m in Hachimantai National Park has seven baths, including a box steam bath and a mud bath. Day bathing is available, with a summer trail for viewing nearby volcanic activity.",
      "source_url": "https://www.goshougake.com/",
      "page": "https://bokenjapan.com/akita/kazuno/do/"
     },
     {
      "name": "Roadside Station Oyu",
-     "description": "Roadside station (michi-no-eki), opened in 2018.",
+     "name_en": "Roadside Station Oyu",
+     "description": "Designed by architect Kengo Kuma, it opened in April 2018 as Akita's 32nd roadside station. The free foot bath uses 100% free-flowing hot-spring water, and a cafe serves local Japanese Shorthorn Kazuno beef.",
      "source_url": "https://yunoeki-oyu.jp/",
      "page": "https://bokenjapan.com/akita/kazuno/do/"
     },
@@ -35013,13 +35079,15 @@
     },
     {
      "name": "Hanawa Ski Area",
-     "description": "A ski area in Kazuno, Akita.",
+     "name_en": "Hanawa Ski Area",
+     "description": "Alpine skiing, cross-country, and ski jumping share one area. A hot-spring facility on the grounds overlooks the slopes.",
      "source_url": "https://r.goope.jp/alpas/",
      "page": "https://bokenjapan.com/akita/kazuno/do/"
     },
     {
      "name": "Akita Hachimantai Ski Area",
-     "description": "A ski area in Kazuno, Akita.",
+     "name_en": "Akita Hachimantai Ski Area",
+     "description": "Located near 1,000 meters on Hachimantai, with a season from November to the following May that includes spring skiing. Groups of 15 or more can reserve a private slope.",
      "source_url": "https://www.akihachi.jp/index.html",
      "page": "https://bokenjapan.com/akita/kazuno/do/"
     },
@@ -35031,7 +35099,8 @@
     },
     {
      "name": "Suisho Yama Ski Area",
-     "description": "A ski area in Kazuno, Akita.",
+     "name_en": "Suishoyama Ski Area",
+     "description": "Has the only night-skiing lights in northern Akita, so skiing continues after dark. A children's area is also available for family skiing and snowboarding.",
      "source_url": "https://akita-fun.jp/spots/652",
      "page": "https://bokenjapan.com/akita/kazuno/do/"
     },
@@ -37243,7 +37312,8 @@
    "sights": [
     {
      "name": "Hachimantai Doragon'ai (Kagaminuma)",
-     "description": "Local sight in Kazuno, Akita.",
+     "name_en": "Hachimantai Dragon Eye (Kagaminuma)",
+     "description": "Kagaminuma, a crater lake on Hachimantai, reflects the surrounding scenery. From late May to early June, snow and meltwater may form a dragon-eye shape, reached by a 20-minute walk from the summit parking lot.",
      "source_url": "https://www.pref.akita.lg.jp/pages/archive/40618",
      "page": "https://bokenjapan.com/akita/kazuno/see/"
     },
@@ -37273,13 +37343,15 @@
     },
     {
      "name": "Dainichi Do Bugaku (Yunesuko Mukei Bunka Isan, Kunishige Yo Mukei Minzoku Bunkazai)",
-     "description": "Local sight in Kazuno, Akita.",
+     "name_en": "Dainichido Bugaku",
+     "description": "On January 2, performers from four districts gather from 8:00 to dedicate assigned bugaku dances. The tradition, about 1,300 years old, is UNESCO Intangible Cultural Heritage and a nationally designated Important Intangible Folk Cultural Property.",
      "source_url": "http://dainichido.p1.bindsite.jp/bugaku/",
      "page": "https://bokenjapan.com/akita/kazuno/see/"
     },
     {
      "name": "Naka Taki Furusato Gakusha",
-     "description": "Local sight in Kazuno, Akita.",
+     "name_en": "Nakataki Furusato Gakusha",
+     "description": "Closed in 2008, the former Nakataki Elementary School building now hosts craft experiences, including pizza making, and meals with local ingredients at Mori no Cafe Komorebi. The grounds are a campsite with tents and cabins.",
      "source_url": "http://nakataki.kazuno-furusato.jp/",
      "page": "https://bokenjapan.com/akita/kazuno/see/"
     },
@@ -37297,13 +37369,15 @@
     },
     {
      "name": "Kyu Kan Zen Saketen",
-     "description": "Local sight in Kazuno, Akita.",
+     "name_en": "Former Kanzen Sake Shop",
+     "description": "Founded in 1856, this Meiji merchant house keeps a komose, a long eave with a passage beneath, said to remain in Akita only in Kazuno. About 300 hina dolls are displayed from January through March.",
      "source_url": "https://www.instagram.com/sekizen1856/",
      "page": "https://bokenjapan.com/akita/kazuno/see/"
     },
     {
      "name": "Kemanai Bon'odori",
-     "description": "Local sight in Kazuno, Akita.",
+     "name_en": "Kemanai Bon Odori",
+     "description": "Bon dance around bonfires in Kemanai: drum-and-flute Dainosaka plus unaccompanied Jinku and Jonkara. Said to date back about 450 years; held August 21–23. National Important Intangible Folk Cultural Property and 2022 UNESCO Furyu Odori listing.",
      "source_url": "http://www.ink.or.jp/~kemanai09/",
      "page": "https://bokenjapan.com/akita/kazuno/see/"
     },
@@ -37321,7 +37395,8 @@
     },
     {
      "name": "Naka Taki Furusato Gakusha Otokyanpu / Kebin to",
-     "description": "Local sight in Kazuno, Akita.",
+     "name_en": "Nakataki Furusato Gakusha Auto Camp / Cabins",
+     "description": "Auto camp and cabins where winter camping has been possible since fiscal 2024. Visitors pitch tents on snow, warm by a fire, and cook ingredients from nearby markets. Gear rental is available for a fee.",
      "source_url": "https://nakataki.kazuno-furusato.jp/",
      "page": "https://bokenjapan.com/akita/kazuno/see/"
     }
@@ -37468,11 +37543,12 @@
     "lat": 40.2259364,
     "lon": 140.3709018
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Kitaakita Tourist Information",
-     "description": "Local sight in Kitaakita, Akita.",
+     "name_en": "Kitaakita City Tourist Information Center",
+     "description": "Located between JR Takanosu Station and Akita Nairiku Jukan Railway Takanosu Station. Provides directions, tourist and event information, pamphlet mailing, and a small shop with Kitaakita specialties and other Akita products.",
      "source_url": "https://www.kitaakita-kankou.jp/imfomationcenter/",
      "page": "https://bokenjapan.com/akita/kitaakita/day-to-day/"
     },
@@ -37552,7 +37628,8 @@
     },
     {
      "name": "Taka no Su Taiko Festival",
-     "description": "Festival in Kitaakita, Akita.",
+     "name_en": "Takanosu Taiko Festival",
+     "description": "Four large drums open this festival, where local taiko teams play in turn. The Takanosu area is home to the Tsuzureko Odaiko, and the event falls on the second Sunday of September.",
      "source_url": "https://www.city.kitaakita.akita.jp/kankou/category/maturi_event/takanosu/006.html",
      "page": "https://bokenjapan.com/akita/kitaakita/do/"
     }
@@ -39527,7 +39604,8 @@
     },
     {
      "name": "Kumakuma Sono",
-     "description": "Zoo in Kitaakita, Akita.",
+     "name_en": "Kumakuma Garden",
+     "description": "Opened in 1990, this bear zoo offers feeding and glass viewing at Higuma House, added in 2014. During the winter closure, hibernating Asian black bears can be seen through the cage.",
      "source_url": "http://hahaha.akita.jp/wp/kumakuma/",
      "page": "https://bokenjapan.com/akita/kitaakita/see/"
     },
@@ -39539,7 +39617,8 @@
     },
     {
      "name": "Ise Do Tai Jomon Kan (Isedotaijomonkan)",
-     "description": "Archaeological site.",
+     "name_en": "Isedotai Jomon Museum",
+     "description": "Clay figurines are shown clockwise by period around a complete plate-shaped dogu, including a 2-meter replica. A smartphone audio guide introduces the World Heritage Isedotai Site and Oyu Stone Circles.",
      "source_url": "https://jomon-japan.jp/learn/jomon-sites/isedotai",
      "page": "https://bokenjapan.com/akita/kitaakita/see/"
     },
@@ -39551,25 +39630,29 @@
     },
     {
      "name": "Taihei Mizumi",
-     "description": "Local sight in Kitaakita, Akita.",
+     "name_en": "Taihei Lake",
+     "description": "Artificial lake formed when Moriyoshi Dam was completed, with 13 gorges and streams flowing in. Cherry salmon, char, carp, and pond smelt live here. Shuttle boats run to Komata Gorge through the October foliage season.",
      "source_url": "https://taiheiko.com/",
      "page": "https://bokenjapan.com/akita/kitaakita/see/"
     },
     {
      "name": "Moriyoshi Sanroku Guest House ORIYAMAKE",
-     "description": "Local sight in Kitaakita, Akita.",
+     "name_en": "Moriyoshi Sanroku Guest House Oriyamake",
+     "description": "Renovated 70-year-old farmhouse at the foot of Mount Moriyoshi in Nemorita, Kitaakita, retaining Matagi culture. One group a day from two-night stays; seasonal activities include wild-plant picking, gorge trekking, mushroom hunting and snowshoeing.",
      "source_url": "https://oriyamake.com/",
      "page": "https://bokenjapan.com/akita/kitaakita/see/"
     },
     {
      "name": "Kuinsu Moriyoshi",
-     "description": "Local sight in Kitaakita, Akita.",
+     "name_en": "Queens Moriyoshi",
+     "description": "Hot spring in a station building, attached to Ani-Maeda Station on the Akita Nairiku Jukan Railway.",
      "source_url": "https://quince-moriyoshi.jp/",
      "page": "https://bokenjapan.com/akita/kitaakita/see/"
     },
     {
      "name": "Omata Kyo",
-     "description": "Gorge in Kitaakita, Akita.",
+     "name_en": "Omata Gorge",
+     "description": "Gorge of about 100 waterfalls, rock potholes, and deep pools among mixed conifer and broadleaf trees. Autumn foliage peaks from early to mid-October.",
      "source_url": "https://akita-fun.jp/spots/318",
      "page": "https://bokenjapan.com/akita/kitaakita/see/"
     }
@@ -39684,7 +39767,7 @@
     "lat": 40.3330742,
     "lon": 140.7360885
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "FamilyMart Akita Kosaka Machi Branch",
@@ -40177,7 +40260,8 @@
     },
     {
      "name": "Kosaka Shichi Taki Wainarii",
-     "description": "Local sight in Kosaka, Akita.",
+     "name_en": "Kosaka Nanataki Winery",
+     "description": "Winery opened in Kosaka in October 2017, blending four domestic mountain-grape varieties based on Shokoshi. Wines are noted for depth, body, and wild acidity. Visits are possible by advance reservation.",
      "source_url": "https://kosaka-7falls-winery.com/",
      "page": "https://bokenjapan.com/akita/kosaka/see/"
     }
@@ -40252,7 +40336,7 @@
     "lat": 39.4615366,
     "lon": 140.581909
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "7-Eleven Misato Tsuchizaki Branch",
@@ -41182,19 +41266,22 @@
    "sights": [
     {
      "name": "Misato Rabenda Sono",
-     "description": "Local sight in Misato, Akita.",
+     "name_en": "Misato Town Lavender Garden",
+     "description": "Roughly 20,000 lavender plants cover about 2 hectares, an early-summer sight opened to the public in 1993. About 10 varieties include white Misato Sekka, registered in 2013; a play plaza and observatory are nearby.",
      "source_url": "https://www.town.misato.akita.jp/midokoro/3882",
      "page": "https://bokenjapan.com/akita/misato-05434/see/"
     },
     {
      "name": "Rokugo (Rokugo) no Kamakura Take Uchi",
-     "description": "Local sight in Misato, Akita.",
+     "name_en": "Rokugo no Kamakura Takeuchi",
+     "description": "Series of rites preserving the Kissho Hajime custom of the Kamakura shogunate's Mandokoro, ending in Takeuchi: men split north and south and clash with 5-6 m green bamboo. Nationally designated Important Intangible Folk Cultural Property.",
      "source_url": "https://rokukama.akita-misato.com/",
      "page": "https://bokenjapan.com/akita/misato-05434/see/"
     },
     {
      "name": "Rokugo Yusui Gun",
-     "description": "Local sight in Misato, Akita.",
+     "name_en": "Rokugo Springs",
+     "description": "Over 60 springs in the Rokugo district, part of 126 in Misato, were selected for Japan's 100 Noted Waters. Travel writer Sugae Masumi visited Fuji Shimizu and Midaidokoro Shimizu.",
      "source_url": "https://www.town.misato.akita.jp/archive/contents-3601",
      "page": "https://bokenjapan.com/akita/misato-05434/see/"
     }
@@ -41245,7 +41332,7 @@
     "lat": 40.1016223,
     "lon": 140.0050298
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "FamilyMart Mitane Hachiryū Branch",
@@ -41801,7 +41888,8 @@
    "sights": [
     {
      "name": "Health Walk with Akita Dogs",
-     "description": "Local sight in Mitane, Akita.",
+     "name_en": "Health Walk with Akita Dogs",
+     "description": "Walk with Akita dogs in Mitane's nature while a walking guide advises on animals' healing effects and ways of walking that support health. Received Health Tourism certification.",
      "source_url": "https://mitane-hda.jp/akitainu-sanpo/",
      "page": "https://bokenjapan.com/akita/mitane/see/"
     }
@@ -41852,7 +41940,7 @@
     "lat": 39.202929,
     "lon": 139.907697
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "7-Eleven Akita Nikaho Kisakata Branch",
@@ -44157,7 +44245,8 @@
    "sights": [
     {
      "name": "Tsukumo Shima (Kisakata)",
-     "description": "Local sight in Nikaho, Akita.",
+     "name_en": "Tsukumoshima (Kisakata)",
+     "description": "Formerly 88 lagoons and 99 islands; the 1804 earthquake raised the seabed into land. Matsuo Basho wrote of Kisakata in Oku no Hosomichi. Seen from Nemunooka Roadside Station's observation room. Nationally designated Natural Monument.",
      "source_url": "https://nikaho-kanko.jp/kujuukushima/",
      "page": "https://bokenjapan.com/akita/nikaho/see/"
     },
@@ -44169,7 +44258,8 @@
     },
     {
      "name": "Chokai Buru Line",
-     "description": "Local sight in Nikaho, Akita.",
+     "name_en": "Chokai Blue Line",
+     "description": "Mountain sightseeing road from Nikaho in Akita to Yuza in Yamagata, climbing from sea level to 1,100 m through seasonal grasslands below Mt. Chokai, with views of the Sea of Japan and Oga Peninsula.",
      "source_url": "https://www.yuzachokai.jp/spot/blueline/",
      "page": "https://bokenjapan.com/akita/nikaho/see/"
     },
@@ -44181,7 +44271,8 @@
     },
     {
      "name": "Moto Taki Fukuryu Mizu (Mototakifukuryusui)",
-     "description": "Local sight in Nikaho, Akita.",
+     "name_en": "Mototaki Fukuryusui",
+     "description": "Water wells up and falls across a rock face about 5 m high and 30 m wide, green moss against white spray. Mountain azaleas bloom in late May. Guided visits are recommended, including Shishigahana Wetland.",
      "source_url": "https://nikaho-kanko.jp/mototaki/",
      "page": "https://bokenjapan.com/akita/nikaho/see/"
     },
@@ -44211,19 +44302,22 @@
     },
     {
      "name": "Na So no Shirataki",
-     "description": "Local sight in Nikaho, Akita.",
+     "name_en": "Naso no Shirataki Falls",
+     "description": "In Kinpo Shrine grounds, designated a national Place of Scenic Beauty. It drops 26 m and spans 11 m on rock said to be Mt. Chokai lava from about 100,000 years ago.",
      "source_url": "https://nikaho-kanko.jp/nasonoshirataki/",
      "page": "https://bokenjapan.com/akita/nikaho/see/"
     },
     {
      "name": "TDK Rekishi Mirai Kan",
-     "description": "Local sight in Nikaho, Akita.",
+     "name_en": "TDK History and Future Museum",
+     "description": "Renewed for TDK's 80th anniversary. Videos and demos show how its products and technology have helped society develop and how they may relate to future society. A restaurant is on site.",
      "source_url": "https://www.tdk.com/museum/",
      "page": "https://bokenjapan.com/akita/nikaho/see/"
     },
     {
      "name": "Nikaho Autodoa Kyoten Shisetsu (NIKAHO OUTDOOR BASE) (Nikahoautodoabesu)",
-     "description": "Local sight in Nikaho, Akita.",
+     "name_en": "NIKAHO OUTDOOR BASE",
+     "description": "Visitor center staff offer outdoor guidance and rent e-bikes, mountaineering gear, kayaks, and snowshoes. An 8 m climbing pinnacle is used with instructors in any weather or season, and a Montbell store is inside.",
      "source_url": "https://nikaho-outdoorbase.com/",
      "page": "https://bokenjapan.com/akita/nikaho/see/"
     },
@@ -44241,13 +44335,15 @@
     },
     {
      "name": "Hi Ryosen Honpo",
-     "description": "Local sight in Nikaho, Akita.",
+     "name_en": "Hiryosen Honpo",
+     "description": "Founded in 1487, around when Ginkaku-ji was built in Kyoto, this sake brewery has made sake for over 500 years. It keeps to traditional yamahai brewing, known for rich flavor and umami.",
      "source_url": "http://www.hiraizumi.co.jp/",
      "page": "https://bokenjapan.com/akita/nikaho/see/"
     },
     {
      "name": "99glam",
-     "description": "Local sight in Nikaho, Akita.",
+     "name_en": "99glam",
+     "description": "Dome-shaped guest rooms at this glamping facility in Nikaho are modeled on Kujukushima, and the site has a star-filled sky.",
      "source_url": "https://99glam.com/",
      "page": "https://bokenjapan.com/akita/nikaho/see/"
     }
@@ -44353,11 +44449,12 @@
     "lat": 40.2119699,
     "lon": 140.0269596
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Noshiro Tourist Information",
-     "description": "Local sight in Noshiro, Akita.",
+     "name_en": "Noshiro City Tourist Information Center",
+     "description": "This tourist information office is inside JR Noshiro Station, the gateway to Noshiro. Visitors can try kumiko woodwork here; the city prospered in the timber industry and is called the City of Wood.",
      "source_url": "https://welcomenoshiro.com/",
      "page": "https://bokenjapan.com/akita/noshiro/day-to-day/"
     },
@@ -44509,7 +44606,8 @@
    "activities": [
     {
      "name": "Akita Inu Fureai Experience (Noshiro Yukitoshi So)",
-     "description": "Local sight in Noshiro, Akita.",
+     "name_en": "Akita Inu Interaction Experience (Noshiro Yukitoshi-so)",
+     "description": "Meet Akita Inu and join a walk with the breeder who raised Masaru, the dog given to Pyeongchang gold medalist Alina Zagitova. Advance booking is required two days ahead.",
      "source_url": "https://noshirokojuso.com/",
      "page": "https://bokenjapan.com/akita/noshiro/do/"
     },
@@ -44521,13 +44619,15 @@
     },
     {
      "name": "Gonosen (Resort Shirakami)",
-     "description": "Local sight in Noshiro, Akita.",
+     "name_en": "Resort Shirakami (Gono Line)",
+     "description": "Sightseeing train on the 147.2 km Gono Line between Higashi-Noshiro and Kawabe stations. Local people sell crafts and specialties on board, with Tsugaru shamisen and dialect storytelling.",
      "source_url": "https://www.jreast.co.jp/akita/gonosen/index.html",
      "page": "https://bokenjapan.com/akita/noshiro/do/"
     },
     {
      "name": "Kin Isami Kimo no Kitsuke Experience",
-     "description": "Local sight in Noshiro, Akita.",
+     "name_en": "Kinyu Kimono Dressing Experience",
+     "description": "Visitors wear kimono, or yukata in summer, for a building tour and photos at a historic former restaurant. Staff assist with dressing.",
      "source_url": "https://www.kaneyu.jp/",
      "page": "https://bokenjapan.com/akita/noshiro/do/"
     }
@@ -49388,25 +49488,29 @@
    "sights": [
     {
      "name": "Kimimachi Saka Prefectural Nature Park",
-     "description": "A park in Noshiro, Akita prefecture.",
+     "name_en": "Yoneshiro River Canoe Touring",
+     "description": "Canoe descent of the Yoneshiro River in handmade canoes, with Japan Canoe Federation-certified instructors from land training to landing. At Roadside Station Futatsui, an about-45-minute petit canoe session takes walk-ins until one hour before start.",
      "source_url": "https://futatsui.com/",
      "page": "https://bokenjapan.com/akita/noshiro/see/"
     },
     {
      "name": "Kyu Ryotei Kin Isami (Kaneyu)",
-     "description": "Local sight in Noshiro, Akita.",
+     "name_en": "Kinyu Kimono Dressing Experience",
+     "description": "Visitors wear kimono, or yukata in summer, for a building tour and photos at a historic former restaurant. Staff assist with dressing.",
      "source_url": "https://www.kaneyu.jp/",
      "page": "https://bokenjapan.com/akita/noshiro/see/"
     },
     {
      "name": "Noshiro Tanabata (Tenku no Fuyajo)",
-     "description": "Castle in Noshiro, Akita.",
+     "name_en": "Noshiro Tanabata: Sleepless Castle in the Sky",
+     "description": "Revived in 2013, the festival parades two castle lanterns: Chikasue (24.1 m), for Hiyama Castle lord Ando Chikasue, and Karoku (17.6 m), for the carpenter who first made Nagoya Castle-style lanterns. Held August 2–3, 2025.",
      "source_url": "https://noshirotanabata.com/",
      "page": "https://bokenjapan.com/akita/noshiro/see/"
     },
     {
      "name": "Komedai Kawa Kanutsuringu",
-     "description": "Local sight in Noshiro, Akita.",
+     "name_en": "Yoneshiro River Canoe Touring",
+     "description": "Canoe descent of the Yoneshiro River in handmade canoes, with Japan Canoe Federation-certified instructors from land training to landing. At Roadside Station Futatsui, an about-45-minute petit canoe session takes walk-ins until one hour before start.",
      "source_url": "https://futatsui.com/",
      "page": "https://bokenjapan.com/akita/noshiro/see/"
     },
@@ -49418,7 +49522,8 @@
     },
     {
      "name": "Yu Raku no Yado no Shiro",
-     "description": "Local sight in Noshiro, Akita.",
+     "name_en": "Yuraku no Yado Noshiro",
+     "description": "Natural hot-spring inn in Noshiro with alkaline simple spring water, a binchotan charcoal bath, and a sauna. Rooms range from Japanese-style to special rooms, with meal plans, amid black pine woods.",
      "source_url": "https://u-noshiro.com/index.html",
      "page": "https://bokenjapan.com/akita/noshiro/see/"
     },
@@ -49430,7 +49535,8 @@
     },
     {
      "name": "Kaze no Matsubara",
-     "description": "Local sight in Noshiro, Akita.",
+     "name_en": "Kaze no Matsubara",
+     "description": "Black-pine coastal windbreak in Noshiro, 1 km wide and 14 km long (760 ha), with trees over 100 years old. A Japan Heritage direction stone and a five-ring pagoda stand inside.",
      "source_url": "https://www.city.noshiro.lg.jp/res/kanko/views/shizen/1103",
      "page": "https://bokenjapan.com/akita/noshiro/see/"
     }
@@ -49482,6 +49588,14 @@
      "description": "Ryokan (Japanese inn) with hot-spring baths, 10 minutes by car from Noshiro Station.",
      "source_url": "https://www.jalan.net/yad378348/",
      "page": "https://bokenjapan.com/akita/noshiro/stay/"
+    },
+    {
+     "name": "Hotel Minami",
+     "name_en": "Hotel Minami",
+     "name_ja": "ホテルミナミ",
+     "description": "Business hotel on National Route 7 in Juikinagane, Noshiro, with access to Odate, Hirosaki, and Aomori.",
+     "source_url": "https://www.jalan.net/yad393213/",
+     "page": "https://bokenjapan.com/akita/noshiro/stay/"
     }
    ]
   },
@@ -49504,7 +49618,7 @@
     "lat": 40.2717026,
     "lon": 140.5652498
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "NewDays Ōdate",
@@ -49636,19 +49750,22 @@
     },
     {
      "name": "Wappa Birujingu (Mage Wappa Seisaku Experience)",
-     "description": "Local sight in Odate, Akita.",
+     "name_en": "Wappa Building (Magewappa Making Experience)",
+     "description": "Complex housing Shibata Yoshinobu Shoten's gallery and shop for trying Odate magewappa making, plus S.witch cafe with seasonal sweets and barista coffee. It received a 2019 Good Design Award for community development.",
      "source_url": "https://wappa-building.com",
      "page": "https://bokenjapan.com/akita/odate/do/"
     },
     {
      "name": "Furusawaonsen",
-     "description": "Local sight in Odate, Akita.",
+     "name_en": "Furusawa Onsen",
+     "description": "Akita dogs Haru and Hana greet guests at this onsen inn, where visitors can meet them for photos. The alkaline sulfate spring (pH 8.8) feels soft and is kept lukewarm.",
      "source_url": "https://akita-fun.jp/spots/284",
      "page": "https://bokenjapan.com/akita/odate/do/"
     },
     {
      "name": "Kiritanpo Tsukuri Experience",
-     "description": "Local sight in Odate, Akita.",
+     "name_en": "Kiritanpo Making Experience",
+     "description": "Cooked rice is half-pounded, pressed onto skewers, and grilled to make kiritanpo. The session introduces Akita's climate and food tradition.",
      "source_url": "http://yoki-kasan.com/taiken/",
      "page": "https://bokenjapan.com/akita/odate/do/"
     },
@@ -49684,7 +49801,8 @@
     },
     {
      "name": "Odate Kogei Sha",
-     "description": "Hands-on experience, opened in 2018.",
+     "name_en": "Odate Kogeisha",
+     "description": "The handicraft studio offers magewappa making, with instructors guiding bread plates and round bento boxes through completion. A showroom displays ohitsu, cups, and other items to view and buy.",
      "source_url": "https://magewappa.co.jp/pages/studio",
      "page": "https://bokenjapan.com/akita/odate/do/"
     },
@@ -54096,7 +54214,8 @@
    "sights": [
     {
      "name": "Akita Inu café (Akita Inu Kafe)",
-     "description": "Local sight in Odate, Akita.",
+     "name_en": "Akita Inu Cafe",
+     "description": "Opened in Odate in May 2025, the cafe offers Akita dog interaction or cafe-only visits, from watching to closer contact. Dogs include red, brindle, white, and rare long-haired coats with different temperaments.",
      "source_url": "https://mofumofu-akitainu.com/index.html",
      "page": "https://bokenjapan.com/akita/odate/see/"
     },
@@ -54114,7 +54233,8 @@
     },
     {
      "name": "Odate Kosaka Tetsudo Rerubaiku",
-     "description": "Local sight in Odate, Akita.",
+     "name_en": "Odate-Kosaka Railway Rail Bike",
+     "description": "Pedal, electric-assist, and trolley rail bikes, 14 types in all, run on former Kosaka Railway tracks amid nature. The one-way route is about 2 km and includes an iron bridge.",
      "source_url": "https://railbike.jp/",
      "page": "https://bokenjapan.com/akita/odate/see/"
     },
@@ -54132,7 +54252,8 @@
     },
     {
      "name": "Odate Amekko City",
-     "description": "Local sight in Odate, Akita.",
+     "name_en": "Odate Amekko Market",
+     "description": "About 400 years old, this folk event lines Omomachi Hachiko Street with candy stalls. Eating ame that day is said to prevent colds; a White-Beard God procession recreates the mountain god buying candy.",
      "source_url": "https://www.city.odate.lg.jp/city/kankou/festibal/festa/winter/amekko",
      "page": "https://bokenjapan.com/akita/odate/see/"
     },
@@ -54144,49 +54265,57 @@
     },
     {
      "name": "Onari Za (Onari Za)",
-     "description": "Local sight in Odate, Akita.",
+     "name_en": "Onari-za",
+     "description": "This cinema keeps old film equipment and a Showa-era atmosphere. Closed in 2005 and unused for nine years, it was revived by an owner; signs are still hand-painted for each film.",
      "source_url": "http://onariza.oodate.or.jp",
      "page": "https://bokenjapan.com/akita/odate/see/"
     },
     {
      "name": "Hana Zen",
-     "description": "Local sight in Odate, Akita.",
+     "name_en": "Hanazen",
+     "description": "Local chicken-rice bento: rice cooked in a secret-recipe soup, topped with sweet-savory simmered chicken. Sold at the shop in front of JR Odate Station and served as set meals inside.",
      "source_url": "https://hanazen.co.jp/",
      "page": "https://bokenjapan.com/akita/odate/see/"
     },
     {
      "name": "Odate Jinmei Sha Reisai",
-     "description": "Local sight in Odate, Akita.",
+     "name_en": "Odate Shinmei Shrine Annual Festival",
+     "description": "Shrine rites at Shinmei Shrine accompany a city parade of floats playing Odate Bayashi. Said to date back over 400 years, it includes prayers for harvest, business prosperity, and household safety.",
      "source_url": "https://odate-shinmei.com/",
      "page": "https://bokenjapan.com/akita/odate/see/"
     },
     {
      "name": "Akitaken Hokubu Rojin Fukushi Sogo Eria",
-     "description": "Local sight in Odate, Akita.",
+     "name_en": "Akita Prefecture Northern Elderly Welfare Area",
+     "description": "Large public baths use Otaki Onsen water, with a sauna also available. Lodging accepts individuals and groups; an indoor turf exercise plaza and large play equipment are on site.",
      "source_url": "http://www.silverarea.jp/hokubu",
      "page": "https://bokenjapan.com/akita/odate/see/"
     },
     {
      "name": "Odate Shainingusutoriito",
-     "description": "Local sight in Odate, Akita.",
+     "name_en": "Odate Shining Street",
+     "description": "In winter, street trees are lit for about 1 km between Odate Municipal General Hospital and Akita University of Nursing and Welfare. On December 31 the lights continue until dawn.",
      "source_url": "https://www.city.odate.lg.jp/city/kankou/festibal/festa/winter/street",
      "page": "https://bokenjapan.com/akita/odate/see/"
     },
     {
      "name": "Cho So Kazana Kozanshokubutsu Gunraku",
-     "description": "Local sight in Odate, Akita.",
+     "name_en": "Nagabashiri Wind Cave Alpine Plant Community",
+     "description": "Cold wind of 0-5°C blows out even in midsummer at this National Natural Monument. Paths hold alpine plants usually found only on high mountains, and Nagabashiri Wind Cave Hall explains wind-cave mechanisms and uses.",
      "source_url": "https://akita-fun.jp/spots/341",
      "page": "https://bokenjapan.com/akita/odate/see/"
     },
     {
      "name": "Odate Yatate Haitsu",
-     "description": "Local sight in Odate, Akita.",
+     "name_en": "Odate Yatate Heights",
+     "description": "Hot spring facility in Yatate Onsen, built as a workers' welfare facility near the Aomori border along a national highway. Lodging, meetings, and banquets are offered, with a free-flowing source spring supplied since late 2007.",
      "source_url": "http://ohdate-yatate.com/",
      "page": "https://bokenjapan.com/akita/odate/see/"
     },
     {
      "name": "Hachi no O Yado Numadate Haitsu",
-     "description": "Local sight in Odate, Akita.",
+     "name_en": "Hachi no Oyado Numadate Heights",
+     "description": "Equipped as a base for business trips and longer stays.",
      "source_url": "http://www.numadate-haitsu.com/",
      "page": "https://bokenjapan.com/akita/odate/see/"
     }
@@ -54349,7 +54478,7 @@
     "lat": 39.8867804,
     "lon": 139.8475862
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Michi-no-Eki Oga Ogale",
@@ -56599,6 +56728,14 @@
      "description": "Ryokan with hot-spring baths and an open-air bath, 10 rooms, free parking.",
      "source_url": "https://www.jalan.net/yad321613/",
      "page": "https://bokenjapan.com/akita/oga/stay/"
+    },
+    {
+     "name": "Hotel Park Terrace OGA",
+     "name_en": "Hotel Park Terrace OGA",
+     "name_ja": "ホテルパークテラスOGA",
+     "description": "Hotel with glamping in Funakoshi, Oga.",
+     "source_url": "https://www.jalan.net/yad367035/",
+     "page": "https://bokenjapan.com/akita/oga/stay/"
     }
    ]
   },
@@ -56621,7 +56758,7 @@
     "lat": 40.0174678,
     "lon": 139.9599528
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Aguri Plaza Ōgata",
@@ -56824,7 +56961,8 @@
    "sights": [
     {
      "name": "Ogata Sogen Yacho Kansatsu Sha (Yacho Kansoku Suteshon)",
-     "description": "Museum in Ogata, Akita.",
+     "name_en": "Ogata Grassland Wild Bird Observatory (Wild Bird Observation Station)",
+     "description": "Inside Japan's first national Ogata Grassland Wildlife Protection Area. About 200 wild bird species live here, including nesting of Osekka, a Japanese endemic once called a phantom bird, and Chuhi, a hawk uncommon in Japan.",
      "source_url": "https://museum.vill.ogata.akita.jp/",
      "page": "https://bokenjapan.com/akita/ogata/see/"
     }
@@ -56859,7 +56997,7 @@
     "lat": 39.7000793,
     "lon": 140.7306268
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Kakunodate Cherry-bark Craft Center",
@@ -60659,6 +60797,30 @@
      "description": "Ryokan with free-flowing hot-spring baths, 10-minute walk from Kakunodate Station, 13 rooms, free parking.",
      "source_url": "https://www.jalan.net/yad314054/",
      "page": "https://bokenjapan.com/akita/semboku/stay/"
+    },
+    {
+     "name": "Tamagawa Onsen",
+     "name_en": "Tamagawa Onsen",
+     "name_ja": "湯治のふる里 玉川温泉",
+     "description": "Hot spring inn in Tazawako Tamagawa, Semboku.",
+     "source_url": "https://www.jalan.net/yad353360/",
+     "page": "https://bokenjapan.com/akita/semboku/stay/"
+    },
+    {
+     "name": "Tamachi Bukeyashiki Hotel",
+     "name_en": "Tamachi Bukeyashiki Hotel",
+     "name_ja": "田町武家屋敷ホテル",
+     "description": "Hotel in Tamachi, Kakunodate, Semboku.",
+     "source_url": "https://www.jalan.net/yad301545/",
+     "page": "https://bokenjapan.com/akita/semboku/stay/"
+    },
+    {
+     "name": "Farm Inn Midori no Kaze",
+     "name_en": "Farm Inn Midori no Kaze",
+     "name_ja": "ファームinn緑の風",
+     "description": "Log house for group stays in Kakunodate, Semboku.",
+     "source_url": "https://www.jalan.net/yad384017/",
+     "page": "https://bokenjapan.com/akita/semboku/stay/"
     }
    ]
   },
@@ -60681,7 +60843,7 @@
     "lat": 39.1993381,
     "lon": 140.4129948
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "7-Eleven Ugo Nishimonai Branch",
@@ -61460,19 +61622,22 @@
    "sights": [
     {
      "name": "Nishimonai Soba",
-     "description": "Local sight in Ugo, Akita.",
+     "name_en": "Nishimonai Soba",
+     "description": "Soba said to date from 1818, when a craftsman trained in Osaka Sunaba style opened in Ugo. Thin nihachi noodles—two wheat, eight buckwheat—use funori and are often eaten as hiyagake with cold sauce.",
      "source_url": "https://ugokanko.com/plan/",
      "page": "https://bokenjapan.com/akita/ugo/see/"
     },
     {
      "name": "Yukitopia Shichi Kyoku",
-     "description": "Local sight in Ugo, Akita.",
+     "name_en": "Yukitopia Nanamagari",
+     "description": "Winter event at Nanamagari Pass recreating bridal processions of the 1950s–60s. Newlywed couples in wedding attire ride horse-drawn sleighs about 14 km from central Ugo into the mountains.",
      "source_url": "https://www.town.ugo.lg.jp/sightseeing/detail.html?id=345",
      "page": "https://bokenjapan.com/akita/ugo/see/"
     },
     {
      "name": "Bon Yado U",
-     "description": "Local sight in Ugo, Akita.",
+     "name_en": "Bon Yado U",
+     "description": "Renovated 180-year-old merchant-house lodging in Ugo, where Nishimonai Bon Odori culture remains. Themed storehouse rooms, a Bon-dance sauna, a cafe-bar in a former rice storehouse, and a community space are on site.",
      "source_url": "https://u.bon-yado.jp/",
      "page": "https://bokenjapan.com/akita/ugo/see/"
     }
@@ -61531,7 +61696,7 @@
     "lat": 39.3137853,
     "lon": 140.5666447
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Masuda Tourist Information Center",
@@ -61771,7 +61936,8 @@
     },
     {
      "name": "Roadside Station Sannai Uddei Rando",
-     "description": "Local sight in Yokote, Akita.",
+     "name_en": "Roadside Station Sannai Woody Land",
+     "description": "Roadside station at Akita's eastern gateway, in mountainous Sannai on the old Heiwa Kaido. Known for local foods such as imonoko taro, handmade soba, iburigakko, grapes, carrots, and Sannai Toji sake, plus onsen and streams.",
      "source_url": "http://a-woodyland.jp/",
      "page": "https://bokenjapan.com/akita/yokote/do/"
     },
@@ -61789,13 +61955,15 @@
     },
     {
      "name": "Akita Sukaifesuta",
-     "description": "Festival in Yokote, Akita.",
+     "name_en": "Akita Sky Festa",
+     "description": "Balloons from across Japan float in clear spring skies for three days. Tethered rides rise about 20 meters, and night Balloon Glow turns the envelopes into lanterns. Free flights run only in calm early mornings.",
      "source_url": "https://www.city.yokote.lg.jp/kanko/1001534/1004620.html",
      "page": "https://bokenjapan.com/akita/yokote/do/"
     },
     {
      "name": "Tezu Kuri Experience",
-     "description": "Local sight in Yokote, Akita.",
+     "name_en": "Handmade Experience",
+     "description": "Cloisonne accessories and small boxes with mountain cherry bark attached can be made, along with traditional Akita crafts. Sessions are limited to 10 people.",
      "source_url": "http://www.akitafurusatomura.co.jp",
      "page": "https://bokenjapan.com/akita/yokote/do/"
     },
@@ -61813,7 +61981,8 @@
     },
     {
      "name": "Tenka Mori Ski Area",
-     "description": "A ski area in Yokote, Akita.",
+     "name_en": "Tenkamori Ski Area",
+     "description": "Ski area in Masuda, Yokote, for beginners, intermediate skiers, and families. Night lighting is provided, snowboarding is allowed on all courses, and night sessions run on Fridays and Saturdays.",
      "source_url": "https://akita-fun.jp/spots/639",
      "page": "https://bokenjapan.com/akita/yokote/do/"
     }
@@ -68771,7 +68940,8 @@
    "sights": [
     {
      "name": "Akita Furusato Mura",
-     "description": "Local sight in Yokote, Akita.",
+     "name_en": "Akita Furusato Village",
+     "description": "Amusement park in Yokote with the Spacia planetarium, a trick-art castle, a train-shaped bus, and an outdoor wooden play area. Akita regional dishes are served, and kamakura are built from early to mid-February.",
      "source_url": "http://www.akitafurusatomura.co.jp/",
      "page": "https://bokenjapan.com/akita/yokote/see/"
     },
@@ -68783,13 +68953,15 @@
     },
     {
      "name": "Yokote Masuda Manga Art Museum",
-     "description": "An art museum in Yokote, Akita.",
+     "name_en": "Yokote City Masuda Manga Art Museum",
+     "description": "Museum that collects, exhibits, and archives original art by more than 100 manga artists, including artists from Akita. Handwritten manuscripts are shown in permanent and special exhibitions, with a storage gallery, cafe, and library.",
      "source_url": "http://manga-museum.com/",
      "page": "https://bokenjapan.com/akita/yokote/see/"
     },
     {
      "name": "Masuda Kanko Bussan Center (Kura no Eki)",
-     "description": "A center in Yokote, Akita prefecture.",
+     "name_en": "Masuda Streetscape",
+     "description": "More than 40 Meiji and Taisho merchant houses with interior storehouses, called uchigura, line a 400-meter street in Masuda. They remain from the area's past as a commercial district in Akita.",
      "source_url": "https://masuda-matta.com",
      "page": "https://bokenjapan.com/akita/yokote/see/"
     },
@@ -68801,37 +68973,43 @@
     },
     {
      "name": "Haba Koji Chaya Kurawo",
-     "description": "Local sight in Yokote, Akita.",
+     "name_en": "Haba Koji Teahouse Kurawo",
+     "description": "Serves dishes made with locally passed-down koji and introduces everyday cooking with koji. Founded in 1918, it raises koji in a storehouse stone room with well water, Akita cedar boxes, and straw lids.",
      "source_url": "https://www.kurawo.net/",
      "page": "https://bokenjapan.com/akita/yokote/see/"
     },
     {
      "name": "Kurokawa no Icho Namiki (Yokote)",
-     "description": "Tree-lined avenue.",
+     "name_en": "Kurokawa Ginkgo Avenue (Yokote)",
+     "description": "About 70 ginkgo trees line both sides of a straight 300-meter road and turn gold around November. Later, fallen leaves cover the road in a yellow carpet.",
      "source_url": "https://akita-fun.jp/spots/586",
      "page": "https://bokenjapan.com/akita/yokote/see/"
     },
     {
      "name": "Masuda no Streetscape",
-     "description": "Local sight in Yokote, Akita.",
+     "name_en": "Masuda Streetscape",
+     "description": "More than 40 Meiji and Taisho merchant houses with interior storehouses, called uchigura, line a 400-meter street in Masuda. They remain from the area's past as a commercial district in Akita.",
      "source_url": "https://masuda-matta.com",
      "page": "https://bokenjapan.com/akita/yokote/see/"
     },
     {
      "name": "Akita Prefectural Kindai Art Museum",
-     "description": "An art museum in Yokote, Akita.",
+     "name_en": "Akita Prefectural Museum of Modern Art",
+     "description": "Sits inside Akita Furusato Village and holds works ranging from artists linked to Akita to Rodin. An outdoor exhibit called Art Forest and a Hi-Vision gallery are also on the grounds.",
      "source_url": "https://common3.pref.akita.lg.jp/kinbi/",
      "page": "https://bokenjapan.com/akita/yokote/see/"
     },
     {
      "name": "Nichi no Maru Jozo (Mansaku no Hana)",
-     "description": "Local sight in Yokote, Akita.",
+     "name_en": "Hinomaru Brewery (Mansaku no Hana)",
+     "description": "Founded in 1689, named for the Satake crest of a five-rib fan and rising sun. In Masuda, it brews Mansaku no Hana, and the inner storehouse can be toured.",
      "source_url": "https://hinomaru-sake.com/",
      "page": "https://bokenjapan.com/akita/yokote/see/"
     },
     {
      "name": "Kyu Katano Ie House",
-     "description": "Local sight in Yokote, Akita.",
+     "name_en": "Former Katano Family Residence",
+     "description": "Nationally registered tangible cultural property with a mid-Meiji main house, brick and miso storehouses, gardens, and a carved gate. In winter, families can enter a large kamakura together.",
      "source_url": "https://www.city.yokote.lg.jp/shisei/1001176/1001456/1010279.html",
      "page": "https://bokenjapan.com/akita/yokote/see/"
     },
@@ -68861,7 +69039,8 @@
     },
     {
      "name": "Yutorion Taiyu",
-     "description": "Local sight in Yokote, Akita.",
+     "name_en": "Yutorion Taiyu",
+     "description": "Offers a free-flowing high-temperature chloride spring, vibra baths, a steam sauna, and far-infrared bathing that cools slowly. Day visits, banquets, lodging, and restaurant-only use are available.",
      "source_url": "https://www.city.yokote.lg.jp/shisetsu/1001528/1002633.html",
      "page": "https://bokenjapan.com/akita/yokote/see/"
     },
@@ -69021,7 +69200,7 @@
     "lat": 39.3857242,
     "lon": 140.049214
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "LAWSON",
@@ -69267,7 +69446,8 @@
     },
     {
      "name": "Sai Ya Shuzo Mise",
-     "description": "Sake brewery in Yurihonjo, Akita.",
+     "name_en": "Saiya Brewery",
+     "description": "The master brewer and staff grow Akita Sake Komachi rice and brew without stirring, added water, or filtration. Across the road, Hakko Koji Taya opened in July 2019 with a shop, cafe, and gallery.",
      "source_url": "https://akita-fun.jp/spots/120",
      "page": "https://bokenjapan.com/akita/yurihonjo/do/"
     },
@@ -69291,25 +69471,29 @@
     },
     {
      "name": "Nihonkai Yojo Hanabitaikai",
-     "description": "Local sight in Yurihonjo, Akita.",
+     "name_en": "Nihonkai Offshore Fireworks Festival",
+     "description": "Summer tradition in Iwaki, Yurihonjo. About 5,000 fireworks are launched offshore from an island-style fishing-port park, a format uncommon across Japan.",
      "source_url": "https://www.city.yurihonjo.lg.jp/1001503/1002088/1008603.html",
      "page": "https://bokenjapan.com/akita/yurihonjo/do/"
     },
     {
      "name": "Chokai Kogen Yajima Ski Area",
-     "description": "A ski area in Yurihonjo, Akita.",
+     "name_en": "Chokai Kogen Yajima Ski Area",
+     "description": "Skiing is possible from about December to March. Courses include a 1,300-meter panorama run and a snow-park run, with full equipment rental for beginners through advanced skiers.",
      "source_url": "https://ski.city.yurihonjo.lg.jp/",
      "page": "https://bokenjapan.com/akita/yurihonjo/do/"
     },
     {
      "name": "Safin Experience (glassy (Gurasshii))",
-     "description": "Local sight in Yurihonjo, Akita.",
+     "name_en": "Surfing Experience (glassy)",
+     "description": "Veteran instructors teach surfing to adults and children, including first-timers. A folk house over 125 years old has been renovated as a guesthouse, and a campsite is available.",
      "source_url": "https://glassy.info",
      "page": "https://bokenjapan.com/akita/yurihonjo/do/"
     },
     {
      "name": "Anraku Onsen",
-     "description": "A hot spring in Yurihonjo, Akita.",
+     "name_en": "Anraku Onsen",
+     "description": "Founded in 1916, this ryokan in Yurihonjo has operated for over 100 years. Spring water is drawn from 800 meters underground as free-flowing onsen water, and the inn hosts ceremonies and local banquets.",
      "source_url": "https://anrakuonsen.com/",
      "page": "https://bokenjapan.com/akita/yurihonjo/do/"
     }
@@ -74962,13 +75146,15 @@
     },
     {
      "name": "Habuwarudo AKITA",
-     "description": "Local sight in Yurihonjo, Akita.",
+     "name_en": "Herb World AKITA",
+     "description": "About 250 kinds of herbs from around the world grow in a 20,000-square-meter garden, with flowers peaking in different seasons. The shop and workshop sell herb tea and offer dried-flower wreath making.",
      "source_url": "https://www.herbworld-akita.jp/",
      "page": "https://bokenjapan.com/akita/yurihonjo/see/"
     },
     {
      "name": "Yuri Kogen Tetsudo",
-     "description": "Local sight in Yurihonjo, Akita.",
+     "name_en": "Yuri Kogen Railway",
+     "description": "This 23 km local line links Ugo-Honjo and Yashima stations at the foot of Mount Chokai. Akita-wood Chokai Toy Train cars, charter rides, and seasonal event trains run, with mountain views.",
      "source_url": "http://www.obako5.com/",
      "page": "https://bokenjapan.com/akita/yurihonjo/see/"
     },
@@ -74992,7 +75178,8 @@
     },
     {
      "name": "Chokaisan Ki no Omocha Kan",
-     "description": "Local sight in Yurihonjo, Akita.",
+     "name_en": "Chokaisan Wooden Toy Hall",
+     "description": "Preserved former Ayukawa Elementary School, a nationally registered tangible cultural property, opened in July 2018. Local-wood toys and large play equipment are installed for children and adults.",
      "source_url": "https://chokaisan-wtm.jp/",
      "page": "https://bokenjapan.com/akita/yurihonjo/see/"
     },
@@ -75004,7 +75191,8 @@
     },
     {
      "name": "Chokaisan Kokusai Zendo (Taka Ken Tera)",
-     "description": "Local sight in Yurihonjo, Akita.",
+     "name_en": "Chokaisan International Zendo (Kokenji Temple)",
+     "description": "Soto-sect Kokenji built this hall in July 2006 on a hill in Sakanoshita, 6 km from the temple, to promote Zen. Zazen, overnight practice, meal etiquette, and sutra copying are offered.",
      "source_url": "https://chokaizendo2006.wixsite.com/kokenji",
      "page": "https://bokenjapan.com/akita/yurihonjo/see/"
     },
@@ -75022,7 +75210,8 @@
     },
     {
      "name": "Nishi Takizawa Suihen Plaza",
-     "description": "Local sight in Yurihonjo, Akita.",
+     "name_en": "Nishi Takizawa Waterside Plaza",
+     "description": "Facility along the Koyoshi River where people can play and learn, with events, a cafeteria, and a plaza used as a place to rest.",
      "source_url": "https://www.facebook.com/p/%E8%A5%BF%E6%BB%9D%E6%B2%A2%E6%B0%B4%E8%BE%BA%E3%83%97%E3%83%A9%E3%82%B6-100064784076826/?locale=ja_JP",
      "page": "https://bokenjapan.com/akita/yurihonjo/see/"
     },
@@ -75040,7 +75229,8 @@
     },
     {
      "name": "Chokai Kogen Minami Yuri Hara Su no Mobiru Land",
-     "description": "Local sight in Yurihonjo, Akita.",
+     "name_en": "Chokai Plateau Minami Yurihara Snowmobile Land",
+     "description": "Riders from elementary school age can use snowmobiles alone if they can operate the brake and accelerator; no license or qualification is needed. Walking skis are available for viewing the scenery.",
      "source_url": "https://yurihonjo-kanko.jp/snow-m/",
      "page": "https://bokenjapan.com/akita/yurihonjo/see/"
     },
@@ -75052,13 +75242,15 @@
     },
     {
      "name": "Kuwa no Mokudai Torekkingu",
-     "description": "Local sight in Yurihonjo, Akita.",
+     "name_en": "Kuwanokidai Trekking",
+     "description": "Trekking course through a wetland where Asian skunk cabbage, renge azalea, and cottongrass bloom.",
      "source_url": "https://yurihonjo-kanko.jp/special/kuwanokidai/",
      "page": "https://bokenjapan.com/akita/yurihonjo/see/"
     },
     {
      "name": "Yurihonjo Folk Performing Arts Hall (Maiire)",
-     "description": "Local sight in Yurihonjo, Akita.",
+     "name_en": "Yurihonjo City Folk Performing Arts Hall (Maiire)",
+     "description": "Holds regular performances of traditional arts, including nationally designated Honkai Shishimai Bangaku from the foot of Mount Chokai. Displays lion-dance and kagura tools and materials, and screens video on a 200-inch screen.",
      "source_url": "https://mai-re.jp/",
      "page": "https://bokenjapan.com/akita/yurihonjo/see/"
     },
@@ -75070,7 +75262,8 @@
     },
     {
      "name": "Shushin Kan (Honjo Koennai)",
-     "description": "Local sight in Yurihonjo, Akita.",
+     "name_en": "Shushin Kan (Honjo Park)",
+     "description": "Learning facility on Honjo history and culture, showing excavation panels from Honjo Castle plus illustrated maps and models of the Edo-period castle town. Next door, Honmaru no Yakata has a small lookout over the park.",
      "source_url": "https://www.city.yurihonjo.lg.jp/shisetsu/1005609/1005613/1006460.html",
      "page": "https://bokenjapan.com/akita/yurihonjo/see/"
     },
@@ -75173,7 +75366,7 @@
     "lat": 39.1643417,
     "lon": 140.4957429
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Bifure Yuzawa Plaza Branch",
@@ -75265,7 +75458,8 @@
     },
     {
      "name": "Inu Kko Festival",
-     "description": "Local sight in Yuzawa, Akita.",
+     "name_en": "Inukko Festival",
+     "description": "Rice-flour dog figures are placed at household doorways. The main venue lines up snow dog statues and halls; after dark, candles light the snow halls, and a prayer ceremony for beloved dogs is held.",
      "source_url": "https://inukkofes.com/",
      "page": "https://bokenjapan.com/akita/yuzawashi/do/"
     },
@@ -75277,7 +75471,8 @@
     },
     {
      "name": "Sho An Kyo Shigakko Festival",
-     "description": "Festival in Yuzawa, Akita.",
+     "name_en": "Oyasukyo Shigakko Festival",
+     "description": "Giant icicles about 20 m high and 80 m wide form in the gorge around Oyasukyo Daifunto and are lit up in winter.",
      "source_url": "https://akita-fun.jp/spots/10",
      "page": "https://bokenjapan.com/akita/yuzawashi/do/"
     },
@@ -75289,7 +75484,8 @@
     },
     {
      "name": "Kawatsura Shikki Dentokogei Kan (Chinkin Makie Experience)",
-     "description": "Local sight in Yuzawa, Akita.",
+     "name_en": "Kawatsura Lacquerware Traditional Crafts Museum (Chinkin and Makie Experience)",
+     "description": "Exhibit and sales hall for Kawatsura lacquerware, still made locally from base coats through chinkin and makie. The upper floor shows 800 years of the craft, and chinkin and makie workshops are offered.",
      "source_url": "http://www.kawatsura.or.jp/center.html",
      "page": "https://bokenjapan.com/akita/yuzawashi/do/"
     },
@@ -75301,19 +75497,22 @@
     },
     {
      "name": "Taka no Yu Onsen",
-     "description": "A hot spring in Yuzawa, Akita.",
+     "name_en": "Taka no Yu Onsen",
+     "description": "Visitors soak shoulder-deep in standing baths at this single inn in the Akinomiya hot spring area, listening to a waterfall and the Yakunai River. Legend says a wounded hawk healed in the 79°C sodium-chloride spring.",
      "source_url": "http://takanoyuonsen.web.fc2.com/",
      "page": "https://bokenjapan.com/akita/yuzawashi/do/"
     },
     {
      "name": "Roadside Station Ogachi (Sho Town no Sato)",
-     "description": "Local sight in Yuzawa, Akita.",
+     "name_en": "Roadside Station Ogachi (Komachi no Sato)",
+     "description": "Named for Heian poet Ono no Komachi's birthplace, this roadside station sits at Akita Prefecture's southernmost point. The ichimegasa-motif building houses Nana Komachi produce shop and Cafe Bosco, serving light meals and handmade gelato.",
      "source_url": "http://www.michinoeki-ogachi.jp",
      "page": "https://bokenjapan.com/akita/yuzawashi/do/"
     },
     {
      "name": "Tanabata E Doro Festival",
-     "description": "Festival in Yuzawa, Akita.",
+     "name_en": "Tanabata Edoro Festival",
+     "description": "Ukiyo-e-style portraits of beauties are painted on picture lanterns hung citywide, competing in design during this roughly 300-year-old festival. Streamers and lanterns decorate the streets as visitors come from inside and outside the prefecture.",
      "source_url": "https://www.city-yuzawa.jp/site/yuzawatrip/687.html",
      "page": "https://bokenjapan.com/akita/yuzawashi/do/"
     },
@@ -75325,13 +75524,15 @@
     },
     {
      "name": "Kawatsura Shikki Makie Experience (Sato Shoji)",
-     "description": "Hands-on experience.",
+     "name_en": "Kawatsura Lacquerware Maki-e Experience (Sato Shoji)",
+     "description": "First-timers select one of five Kawatsura lacquerware pieces, such as a bowl or plate, and try maki-e on it. The finished item can be taken home the same day.",
      "source_url": "https://akita-fun.jp/spots/613",
      "page": "https://bokenjapan.com/akita/yuzawashi/do/"
     },
     {
      "name": "Inagawa Ski Area Suberotta",
-     "description": "A ski area in Yuzawa, Akita.",
+     "name_en": "Inagawa Ski Area Suberotta",
+     "description": "Well-groomed slopes are used by beginner and intermediate skiers. School ski classes run on weekdays and a local ski-club school on holidays; night skiing operates, and junior racers hold gate practice.",
      "source_url": "https://www.city-yuzawa.jp/site/yuzawatrip/493.html",
      "page": "https://bokenjapan.com/akita/yuzawashi/do/"
     }
@@ -78998,31 +79199,36 @@
    "sights": [
     {
      "name": "Kawara Ke Jigoku",
-     "description": "Local sight in Yuzawa, Akita.",
+     "name_en": "Kawarage Jigoku",
+     "description": "Sulfur gas still vents, leaving the slopes bare of plants and covered in strange rock. Counted with Osorezan and Tateyama among three sacred places in Japan; the road closes from early November to early May.",
      "source_url": "https://www.city-yuzawa.jp/site/yuzawatrip/5634.html",
      "page": "https://bokenjapan.com/akita/yuzawashi/see/"
     },
     {
      "name": "Sho An Kyo Dai Fun Yu",
-     "description": "Local sight in Yuzawa, Akita.",
+     "name_en": "Oyasukyo Daifunto",
+     "description": "Hot water and steam erupt from steep rocks at the base of a 60-meter gorge. Spring greenery, autumn leaves, and winter icicles called shigakko mark the valley; the trail closes in winter.",
      "source_url": "https://www.city-yuzawa.jp/site/yuzawatrip/736.html",
      "page": "https://bokenjapan.com/akita/yuzawashi/see/"
     },
     {
      "name": "Kawara Ke Oyu Taki",
-     "description": "Waterfall in Yuzawa, Akita.",
+     "name_en": "Kawarage Oyu Falls",
+     "description": "Hot-spring water falls about 20 meters into a basin used as a natural open-air bath. Bathing runs from early July to late September, with swimsuits required and a simple changing room only in summer.",
      "source_url": "https://akita-fun.jp/spots/525",
      "page": "https://bokenjapan.com/akita/yuzawashi/see/"
     },
     {
      "name": "Yuzawashi Kanko Kuri Sono",
-     "description": "Local sight in Yuzawa, Akita.",
+     "name_en": "Yuzawa City Tourist Chestnut Orchard",
+     "description": "About 400 chestnut trees stand on a roughly 3-hectare mountain slope. In autumn, early Tanzawa and mid-season Tsukuba chestnuts ripen, and picking is available without a reservation.",
      "source_url": "https://www.city-yuzawa.jp/site/yuzawatrip/1665.html",
      "page": "https://bokenjapan.com/akita/yuzawashi/see/"
     },
     {
      "name": "Inaniwa Udon Isshisoden no Waza Kokoro Rekishi",
-     "description": "Local sight in Yuzawa, Akita.",
+     "name_en": "Inaniwa Udon: Inherited Craft, Heart, and History",
+     "description": "Visitors can watch craftspeople work up close at Sato Yosuke Sohonten, then eat standard or seasonal dishes. The shop sells Inaniwa udon and other Akita specialties.",
      "source_url": "https://www.sato-yoske.co.jp/",
      "page": "https://bokenjapan.com/akita/yuzawashi/see/"
     },
@@ -79034,25 +79240,29 @@
     },
     {
      "name": "Yamamo Misoshoyu Jozomoto / Taka Shigeru Gomeigaisha",
-     "description": "Local sight in Yuzawa, Akita.",
+     "name_en": "Yamamo Miso Soy Sauce Brewery / Takashige Gomei Kaisha",
+     "description": "Miso and soy sauce have been brewed in Iwasaki since 1867, continuing through seven generations. A factory store, Suijin strolling garden, garden cafe, and I.L.A. Gallery adjoin the brewery.",
      "source_url": "https://yamamo1867.com/",
      "page": "https://bokenjapan.com/akita/yuzawashi/see/"
     },
     {
      "name": "Aki no Miyayama So",
-     "description": "Local sight in Yuzawa, Akita.",
+     "name_en": "Akinomiya Sanso",
+     "description": "Colorless, odorless water is called Kagami-yu for its clarity and light feel. This Akinomiya Onsen inn has a highland-style exterior, Heian-period interior colors, seven baths, and Japanese-Western meals.",
      "source_url": "https://www.akinomiya.co.jp/",
      "page": "https://bokenjapan.com/akita/yuzawashi/see/"
     },
     {
      "name": "Interiashoppu & Kafe momotose (Momotose)",
-     "description": "Local sight in Yuzawa, Akita.",
+     "name_en": "Interior Shop & Cafe Momotose",
+     "description": "Shop and cafe selling Japanese-made wooden furniture, tableware, and household goods that visitors can handle. Meals use local vegetables, miso, soy sauce, Silk Pork, and Minase beef; coffee and hot-spring-pasteurized dairy drinks are also served.",
      "source_url": "http://momotose.net/",
      "page": "https://bokenjapan.com/akita/yuzawashi/see/"
     },
     {
      "name": "Kawara no Yu Kko",
-     "description": "Local sight in Yuzawa, Akita.",
+     "name_en": "Kawara no Yukko",
+     "description": "Hot-spring water wells up on the Yakunai River bank in the Akinomiya Onsen area. Shovels at a nearby hut are for digging a personal footbath, and ramen from Mako Shokudo can be eaten there.",
      "source_url": "https://akita-fun.jp/spots/531",
      "page": "https://bokenjapan.com/akita/yuzawashi/see/"
     },
@@ -79070,19 +79280,22 @@
     },
     {
      "name": "Ishi Mago Main Shop",
-     "description": "Local sight in Yuzawa, Akita.",
+     "name_en": "Ishimago Main Shop",
+     "description": "Brewery making miso and soy sauce by traditional methods for over 160 years, using ingredients from Akita Prefecture. Warehouse tours show the koji room, wooden aging vats, and old tools; experience activities are also offered.",
      "source_url": "https://ishimago.jp",
      "page": "https://bokenjapan.com/akita/yuzawashi/see/"
     },
     {
      "name": "Medaki Sawa Torekkingu",
-     "description": "Walking trail in Yuzawa, Akita.",
+     "name_en": "Medakisawa Trekking",
+     "description": "Beech woods include trees over 100 years old along a sloping trail. A Japanese ash ranked fourth in size nationwide stands here, and the route can be walked through seasonal scenery.",
      "source_url": "https://www.city-yuzawa.jp/site/yuzawatrip/1604.html",
      "page": "https://bokenjapan.com/akita/yuzawashi/see/"
     },
     {
      "name": "Somoku Momotose",
-     "description": "Local sight in Yuzawa, Akita.",
+     "name_en": "Somoku Momotose",
+     "description": "Whole-house rental in Iwasaki's Takahashi family house, once used by a sake brewery owner and renovated while keeping Meiji-era character. An open kitchen is the focus downstairs; two straw-bed tatami rooms are upstairs.",
      "source_url": "https://yado.momotose.net/",
      "page": "https://bokenjapan.com/akita/yuzawashi/see/"
     }
