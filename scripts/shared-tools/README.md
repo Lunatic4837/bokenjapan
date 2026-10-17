@@ -5,3 +5,4 @@
 - fn_lib.py: access_en()/station_en() helper (JR station names)
 
 Live copies for agents: /workspace/p1/shared-tools/ (and /workspace/p1/quality/check_live.py).
+- osm_render.py, template_hub.py: dining/hub generators; footer cleanup (no "Pages are compiled" line, Photo credits link, "Data: © OpenStreetMap contributors" footer line instead of the per-card osm-credit paragraph)
