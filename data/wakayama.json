@@ -325,8 +325,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Bakery in Arida",
-     "name_en": "Bakery in Arida",
+     "name": "Suehiro Bakery",
+     "name_en": "Suehiro Bakery",
      "name_ja": "スエヒロ",
      "description": "Bakery in Arida. Open Mon-Sat 07:00-18:30.",
      "source_url": "https://www.openstreetmap.org/node/6822316522",
@@ -389,7 +389,7 @@
      "name": "Ryori Minshuku Matsubayashi",
      "name_en": "Ryori Minshuku Matsubayashi",
      "name_ja": "料理民宿 松林",
-     "description": "Family-run minshuku in Arida.",
+     "description": "Family-run minshuku in Arida with 20 rooms, a large communal bath and free parking; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad368170/",
      "page": "https://bokenjapan.com/wakayama/arida/stay/"
     },
@@ -529,8 +529,8 @@
      "category": "Cafe"
     },
     {
-     "name": "gekkou pizza&coffee",
-     "name_en": "gekkou pizza&coffee",
+     "name": "Gekkou Pizza & Coffee",
+     "name_en": "Gekkou Pizza & Coffee",
      "description": "Cafe in Aridagawa.",
      "source_url": "https://www.openstreetmap.org/way/758314742",
      "page": "https://bokenjapan.com/wakayama/aridagawa/eat/cafe/",
@@ -697,8 +697,8 @@
      "category": "Other"
     },
     {
-     "name": "Osakaosho Aridagawa Branch",
-     "name_en": "Osakaosho Aridagawa Branch",
+     "name": "Osaka Ohsho Aridagawa",
+     "name_en": "Osaka Ohsho Aridagawa",
      "name_ja": "大阪王将 有田川店",
      "description": "Restaurant in Aridagawa.",
      "source_url": "https://www.openstreetmap.org/node/4568895855",
@@ -999,7 +999,7 @@
     {
      "name": "TADONO the bedroom",
      "name_en": "TADONO the bedroom",
-     "description": "Inn in Aridagawa.",
+     "description": "Youth hostel in Aridagawa with free parking.",
      "source_url": "https://www.jalan.net/yad366574/",
      "page": "https://bokenjapan.com/wakayama/aridagawa/stay/"
     },
@@ -1095,7 +1095,7 @@
      "name": "ATARU Cafe",
      "name_en": "ATARU Cafe",
      "description": "Cafe in Gobo.",
-     "source_url": "https://www.openstreetmap.org/node/6899764303",
+     "source_url": "https://00ataru.net/",
      "page": "https://bokenjapan.com/wakayama/gobo/eat/cafe/",
      "category": "Cafe"
     },
@@ -1295,8 +1295,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Japanese restaurant in Gobo",
-     "name_en": "Japanese restaurant in Gobo",
+     "name": "Osaka Ohsho Gobo",
+     "name_en": "Osaka Ohsho Gobo",
      "name_ja": "大阪王将",
      "description": "Japanese restaurant in Yunokawacho Takarabe, Gobo. Open Mon-Sat 11:00-21:30.",
      "source_url": "https://www.openstreetmap.org/node/4438473990",
@@ -1367,7 +1367,7 @@
      "name": "Hotel Green Hill Gobo Ekimae",
      "name_en": "Hotel Green Hill Gobo Ekimae",
      "name_ja": "ホテル グリーンヒル御坊駅前",
-     "description": "Hotel in Gobo.",
+     "description": "Hotel in Gobo with free parking; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad339304/",
      "page": "https://bokenjapan.com/wakayama/gobo/stay/"
     },
@@ -1456,8 +1456,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Café in Hashimoto",
-     "name_en": "Café in Hashimoto",
+     "name": "Cafe de Capitan",
+     "name_en": "Cafe de Capitan",
      "name_ja": "カフェド甲比丹",
      "description": "Cafe in Hashimoto.",
      "source_url": "https://www.openstreetmap.org/node/3768436146",
@@ -1527,8 +1527,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Cafe in Hashimoto",
-     "name_en": "Cafe in Hashimoto",
+     "name": "San Cafe",
+     "name_en": "San Cafe",
      "name_ja": "サン",
      "description": "Cafe in Hashimoto.",
      "source_url": "https://www.openstreetmap.org/node/3768398960",
@@ -1589,8 +1589,8 @@
      "category": "Chinese & Asian"
     },
     {
-     "name": "Indian restaurant in Hashimoto",
-     "name_en": "Indian restaurant in Hashimoto",
+     "name": "New Delhi Indian Restaurant",
+     "name_en": "New Delhi Indian Restaurant",
      "name_ja": "インドレストラン ニューデリ",
      "description": "Indian restaurant in Hashimoto.",
      "source_url": "https://www.openstreetmap.org/node/3846153867",
@@ -1722,15 +1722,6 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Chikara Udon",
-     "name_en": "Chikara Udon",
-     "name_ja": "力うどん",
-     "description": "Noodle and soba restaurant in Hashimoto.",
-     "source_url": "https://www.openstreetmap.org/node/3441697945",
-     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/noodles/",
-     "category": "Japanese (noodles)"
-    },
-    {
      "name": "Hisaya",
      "name_en": "Hisaya",
      "name_ja": "ひさや",
@@ -1740,8 +1731,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Soba restaurant in Hashimoto",
-     "name_en": "Soba restaurant in Hashimoto",
+     "name": "Kinokawa Soba",
+     "name_en": "Kinokawa Soba",
      "name_ja": "紀の川そば",
      "description": "Soba restaurant in Hashimoto.",
      "source_url": "https://www.openstreetmap.org/node/3768381328",
@@ -1828,8 +1819,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "café KTM",
-     "name_en": "cafe KTM",
+     "name": "Cafe KTM",
+     "name_en": "Cafe KTM",
      "description": "Japanese restaurant in Hashimoto.",
      "source_url": "https://www.openstreetmap.org/node/3846147869",
      "page": "https://bokenjapan.com/wakayama/hashimoto/eat/other-japanese/",
@@ -1997,7 +1988,7 @@
      "name": "Jinshodo Hotel",
      "name_en": "Jinshodo Hotel",
      "name_ja": "仁昌堂ホテル",
-     "description": "Hotel in Hashimoto.",
+     "description": "Hotel in Hashimoto with free parking; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad322036/",
      "page": "https://bokenjapan.com/wakayama/hashimoto/stay/"
     },
@@ -2013,7 +2004,7 @@
      "name": "Kiimiso",
      "name_en": "Kiimiso",
      "name_ja": "～真田昌幸・幸村父子の隠れ宿～紀伊見荘",
-     "description": "Inn in Hashimoto.",
+     "description": "Inn in Hashimoto with Kiimi Onsen hot-spring baths and free parking; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad328734/",
      "page": "https://bokenjapan.com/wakayama/hashimoto/stay/"
     },
@@ -2236,7 +2227,7 @@
      "name": "Minshuku Hamayoshi",
      "name_en": "Minshuku Hamayoshi",
      "name_ja": "民宿はまよし",
-     "description": "Family-run minshuku in Hidakacho.",
+     "description": "Family-run minshuku in Hidakacho with 3 rooms and free parking.",
      "source_url": "https://www.jalan.net/yad355342/",
      "page": "https://bokenjapan.com/wakayama/hidakacho/stay/"
     },
@@ -2252,7 +2243,7 @@
      "name": "Ryori Yado Hashimotoso",
      "name_en": "Ryori Yado Hashimotoso",
      "name_ja": "料理宿 橋本荘",
-     "description": "Inn in Hidakacho.",
+     "description": "Inn in Hidakacho with 8 rooms, private baths and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad325063/",
      "page": "https://bokenjapan.com/wakayama/hidakacho/stay/"
     }
@@ -2494,7 +2485,7 @@
      "name": "Cosmo Port (Tenmon Park)",
      "name_en": "Cosmo Port (Tenmon Park)",
      "name_ja": "コスモポート（天文公園）",
-     "description": "Inn in Hidakagawa.",
+     "description": "Inn in Hidakagawa with free parking.",
      "source_url": "https://www.jalan.net/yad304137/",
      "page": "https://bokenjapan.com/wakayama/hidakagawa/stay/"
     },
@@ -2510,7 +2501,7 @@
      "name": "Kinokuni Nakatsuso",
      "name_en": "Kinokuni Nakatsuso",
      "name_ja": "きのくに中津荘",
-     "description": "Inn in Hidakagawa.",
+     "description": "Inn in Hidakagawa with 28 rooms, Nakatsu Ayame-no-yu Onsen hot-spring baths and free parking.",
      "source_url": "https://www.jalan.net/yad352377/",
      "page": "https://bokenjapan.com/wakayama/hidakagawa/stay/"
     },
@@ -2518,7 +2509,7 @@
      "name": "Narutaki Bungalow",
      "name_en": "Narutaki Bungalow",
      "name_ja": "鳴滝バンガロー",
-     "description": "Inn in Hidakagawa.",
+     "description": "Lodge in Hidakagawa with free parking.",
      "source_url": "https://www.jalan.net/yad306172/",
      "page": "https://bokenjapan.com/wakayama/hidakagawa/stay/"
     },
@@ -2755,7 +2746,7 @@
      "name": "Isari",
      "name_en": "Isari",
      "name_ja": "いさり",
-     "description": "Inn in Hirogawa.",
+     "description": "Inn in Hirogawa with 4 rooms and free parking.",
      "source_url": "https://www.jalan.net/yad362475/",
      "page": "https://bokenjapan.com/wakayama/hirogawa/stay/"
     },
@@ -2985,7 +2976,7 @@
     {
      "name": "MARINE-Q",
      "name_en": "MARINE-Q",
-     "description": "Inn in Inamicho.",
+     "description": "Pension in Inamicho with private baths and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad349754/",
      "page": "https://bokenjapan.com/wakayama/inamicho/stay/"
     },
@@ -3327,15 +3318,6 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Tonkotsu Chuka Soba Gantare",
-     "name_en": "Tonkotsu Chuka Soba Gantare",
-     "name_ja": "豚骨中華そば がんたれ",
-     "description": "Ramen restaurant in Iwade.",
-     "source_url": "https://www.openstreetmap.org/node/14028739943",
-     "page": "https://bokenjapan.com/wakayama/iwade/eat/noodles/",
-     "category": "Japanese (noodles)"
-    },
-    {
      "name": "Yagura Ramen",
      "name_en": "Yagura Ramen",
      "name_ja": "やぐらラーメン",
@@ -3362,8 +3344,8 @@
      "category": "Other"
     },
     {
-     "name": "Japanese restaurant in Iwade",
-     "name_en": "Japanese restaurant in Iwade",
+     "name": "Berukurain",
+     "name_en": "Berukurain",
      "name_ja": "ベルクライン",
      "description": "Japanese restaurant in Iwade.",
      "source_url": "https://www.openstreetmap.org/node/14028739912",
@@ -3429,7 +3411,7 @@
      "name_en": "Okonomiyaki Kiha Kokoyanen",
      "name_ja": "お好み焼きは ここやねん",
      "description": "Japanese restaurant in Iwade.",
-     "source_url": "https://www.openstreetmap.org/node/4438480990",
+     "source_url": "https://www.cocoyanen.jp/archives/1543",
      "page": "https://bokenjapan.com/wakayama/iwade/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -3517,13 +3499,13 @@
      "name_en": "Yaichi",
      "name_ja": "弥一",
      "description": "Sushi restaurant in Iwade.",
-     "source_url": "https://www.openstreetmap.org/node/14028726895",
+     "source_url": "https://sushi81.jp/shop/",
      "page": "https://bokenjapan.com/wakayama/iwade/eat/seafood/",
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Cake restaurant in Iwade",
-     "name_en": "Cake restaurant in Iwade",
+     "name": "Belgian Cafe Berukurain",
+     "name_en": "Belgian Cafe Berukurain",
      "name_ja": "ベルギーカフェ ベルクライン",
      "description": "Cake restaurant in Iwade. Open daily 10:00-18:00.",
      "source_url": "https://www.openstreetmap.org/node/4440535098",
@@ -3714,8 +3696,8 @@
      "category": "Casual"
     },
     {
-     "name": "Burger fast-food restaurant in Kainan",
-     "name_en": "Burger fast-food restaurant in Kainan",
+     "name": "Dom Dom Burger",
+     "name_en": "Dom Dom Burger",
      "name_ja": "ドムドムバーガー",
      "description": "Burger fast-food restaurant in Kainan.",
      "source_url": "https://www.openstreetmap.org/node/11116555843",
@@ -3737,15 +3719,6 @@
      "name_ja": "まるとみ食堂",
      "description": "Chinese restaurant specialising in diner fare and ramen in Kainan.",
      "source_url": "https://tabelog.com/wakayama/A3002/A300201/30002856/",
-     "page": "https://bokenjapan.com/wakayama/kainan/eat/chinese-asian/",
-     "category": "Chinese & Asian"
-    },
-    {
-     "name": "Keika",
-     "name_en": "Keika",
-     "name_ja": "桂花",
-     "description": "Chinese restaurant in Ono Naka, Kainan. Open daily 11:00-14:00, 17:00-21:00.",
-     "source_url": "https://www.openstreetmap.org/way/758318055",
      "page": "https://bokenjapan.com/wakayama/kainan/eat/chinese-asian/",
      "category": "Chinese & Asian"
     },
@@ -3925,8 +3898,8 @@
      "category": "Other"
     },
     {
-     "name": "Restaurant in Kainan",
-     "name_en": "Restaurant in Kainan",
+     "name": "Maxim",
+     "name_en": "Maxim",
      "name_ja": "マキシム",
      "description": "Restaurant in Kainan.",
      "source_url": "https://www.openstreetmap.org/node/5059582731",
@@ -4073,7 +4046,7 @@
      "name": "Utage HANARE",
      "name_en": "Utage HANARE",
      "name_ja": "うたげＨＡＮＡＲＥ",
-     "description": "Inn in Kainan.",
+     "description": "Condominium-style lodging in Kainan with free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad390312/",
      "page": "https://bokenjapan.com/wakayama/kainan/stay/"
     },
@@ -4081,7 +4054,7 @@
      "name": "Seek Inn Kainan",
      "name_en": "Seek Inn Kainan",
      "name_ja": "シークイン海南",
-     "description": "Inn in Kainan.",
+     "description": "Inn in Kainan with free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad348867/",
      "page": "https://bokenjapan.com/wakayama/kainan/stay/"
     },
@@ -4089,7 +4062,7 @@
      "name": "Business Hotel Kameya",
      "name_en": "Business Hotel Kameya",
      "name_ja": "ビジネスホテル かめや",
-     "description": "Business hotel in Kainan.",
+     "description": "Business hotel in Kainan with a large communal bath and free parking.",
      "source_url": "https://www.jalan.net/yad371002/",
      "page": "https://bokenjapan.com/wakayama/kainan/stay/"
     }
@@ -4352,7 +4325,7 @@
      "name": "Wan Wan Paradise Premier Nanki-Shirahama",
      "name_en": "Wan Wan Paradise Premier Nanki-Shirahama",
      "name_ja": "わんわんパラダイスプレミア南紀白浜",
-     "description": "Inn in Kamitonda.",
+     "description": "Inn in Kamitonda with 27 rooms, a large communal bath and free parking.",
      "source_url": "https://www.ikyu.com/00031342/",
      "page": "https://bokenjapan.com/wakayama/kamitonda/stay/"
     },
@@ -4360,7 +4333,7 @@
      "name": "Minshuku Sakai",
      "name_en": "Minshuku Sakai",
      "name_ja": "民宿サカイ",
-     "description": "Family-run minshuku in Kamitonda.",
+     "description": "Family-run minshuku in Kamitonda with 10 rooms, a large communal bath and free parking.",
      "source_url": "https://www.jalan.net/yad351821/",
      "page": "https://bokenjapan.com/wakayama/kamitonda/stay/"
     },
@@ -4755,7 +4728,7 @@
      "name": "Sanso Amanosato",
      "name_en": "Sanso Amanosato",
      "name_ja": "山荘 天の里",
-     "description": "Inn in Katsuragi.",
+     "description": "Inn in Katsuragi with 3 rooms, private baths and free parking.",
      "source_url": "https://www.ikyu.com/00002284/",
      "page": "https://bokenjapan.com/wakayama/katsuragi/stay/"
     },
@@ -5060,7 +5033,7 @@
      "name": "Misato no Yu Kajikaso",
      "name_en": "Misato no Yu Kajikaso",
      "name_ja": "美里の湯 かじか荘",
-     "description": "Inn in Kimino.",
+     "description": "Inn in Kimino with 14 rooms, a large communal bath and free parking.",
      "source_url": "https://www.jalan.net/yad314300/",
      "page": "https://bokenjapan.com/wakayama/kimino/stay/"
     },
@@ -5068,7 +5041,7 @@
      "name": "Tamayura no Sato",
      "name_en": "Tamayura no Sato",
      "name_ja": "たまゆらの里",
-     "description": "Inn in Kimino.",
+     "description": "Holiday rental house in Kimino with an open-air bath and free parking.",
      "source_url": "https://www.jalan.net/yad380604/",
      "page": "https://bokenjapan.com/wakayama/kimino/stay/"
     }
@@ -5168,8 +5141,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Café in Kinokawa (#1)",
-     "name_en": "Café in Kinokawa (#1)",
+     "name": "Cafe Eeba Kinokawa",
+     "name_en": "Cafe Eeba Kinokawa",
      "name_ja": "カフェ イーバ 紀の川",
      "description": "Cafe in Kinokawa.",
      "source_url": "https://www.openstreetmap.org/way/1316867640",
@@ -5230,8 +5203,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Cafe in Kinokawa",
-     "name_en": "Cafe in Kinokawa",
+     "name": "Sarusuberi Coffee and Bagels",
+     "name_en": "Sarusuberi Coffee and Bagels",
      "name_ja": "サルスベリ Sarusuberiコーヒーとベーグルのおみせ",
      "description": "Cafe in Kinokawa.",
      "source_url": "https://www.openstreetmap.org/way/1334953878",
@@ -5314,7 +5287,7 @@
      "name_en": "Joyfull",
      "name_ja": "ジョイフル",
      "description": "Western-style restaurant in Kinokawa.",
-     "source_url": "https://www.openstreetmap.org/node/4439087790",
+     "source_url": "https://www.joyfull.co.jp/shop/68",
      "page": "https://bokenjapan.com/wakayama/kinokawa/eat/european/",
      "category": "European"
     },
@@ -5409,15 +5382,6 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Chuka Soba Daifuku Ken",
-     "name_en": "Chuka Soba Daifuku Ken",
-     "name_ja": "中華そば 大福軒",
-     "description": "Ramen restaurant in Kinokawa.",
-     "source_url": "https://www.openstreetmap.org/node/4439024092",
-     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/noodles/",
-     "category": "Japanese (noodles)"
-    },
-    {
      "name": "Chuka Soba Shima Akira",
      "name_en": "Chuka Soba Shima Akira",
      "name_ja": "中華そば・しま彰",
@@ -5432,15 +5396,6 @@
      "name_ja": "麺屋 夢風",
      "description": "Ramen restaurant in Kinokawa.",
      "source_url": "https://www.openstreetmap.org/node/12393283256",
-     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/noodles/",
-     "category": "Japanese (noodles)"
-    },
-    {
-     "name": "Nidaime Yonakiya",
-     "name_en": "Nidaime Yonakiya",
-     "name_ja": "二代目よなきや",
-     "description": "Ramen restaurant in Kinokawa.",
-     "source_url": "https://www.openstreetmap.org/node/12175945982",
      "page": "https://bokenjapan.com/wakayama/kinokawa/eat/noodles/",
      "category": "Japanese (noodles)"
     },
@@ -5616,8 +5571,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Bakery in Kinokawa (#1)",
-     "name_en": "Bakery in Kinokawa (#1)",
+     "name": "Pain de Panier",
+     "name_en": "Pain de Panier",
      "name_ja": "パンドパニエ",
      "description": "Bakery in Kinokawa.",
      "source_url": "https://www.openstreetmap.org/way/739744237",
@@ -6212,7 +6167,7 @@
      "name": "Sojiin (Koyasan Bekkaku Honzan)",
      "name_en": "Sojiin (Koyasan Bekkaku Honzan)",
      "name_ja": "高野山 別格本山 総持院",
-     "description": "Inn in Koya.",
+     "description": "Temple lodging (shukubo) in Koya with 13 rooms and free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.ikyu.com/00001664/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     },
@@ -6220,7 +6175,7 @@
      "name": "Muryokoin Shukubo (Koyasan)",
      "name_en": "Muryokoin Shukubo (Koyasan)",
      "name_ja": "高野山 宿坊 無量光院",
-     "description": "Inn in Koya.",
+     "description": "Temple lodging (shukubo) in Koya with 5 rooms and free parking; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad384422/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     },
@@ -6228,7 +6183,7 @@
      "name": "Ryusenin Shukubo (Koyasan)",
      "name_en": "Ryusenin Shukubo (Koyasan)",
      "name_ja": "高野山 宿坊 龍泉院",
-     "description": "Inn in Koya.",
+     "description": "Temple lodging (shukubo) in Koya with 3 rooms, a large communal bath and free parking.",
      "source_url": "https://www.jalan.net/yad370385/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     },
@@ -6244,7 +6199,7 @@
      "name": "Ichijoin",
      "name_en": "Ichijoin",
      "name_ja": "一乗院",
-     "description": "Inn in Koya.",
+     "description": "Temple lodging (shukubo) on Mount Koya.",
      "source_url": "https://www.jalan.net/yad325647/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     },
@@ -6252,7 +6207,7 @@
      "name": "Fumonin",
      "name_en": "Fumonin",
      "name_ja": "普門院",
-     "description": "Inn in Koya.",
+     "description": "Temple lodging (shukubo) in Koya with free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad377514/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     },
@@ -6260,7 +6215,7 @@
      "name": "Fugenin Shukubo",
      "name_en": "Fugenin Shukubo",
      "name_ja": "宿坊 普賢院",
-     "description": "Inn in Koya.",
+     "description": "Temple lodging (shukubo) in Koya with 43 rooms, a large communal bath and free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad318012/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     },
@@ -6268,14 +6223,14 @@
      "name": "Daienin Shukubo (Koyasan Bekkaku Honzan)",
      "name_en": "Daienin Shukubo (Koyasan Bekkaku Honzan)",
      "name_ja": "高野山別格本山 宿坊 大円院",
-     "description": "Inn in Koya.",
+     "description": "Temple lodging (shukubo) in Koya with 42 rooms, a large communal bath and free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad394452/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     },
     {
      "name": "5969",
      "name_en": "5969",
-     "description": "Inn in Koya.",
+     "description": "Inn in Koya with 1 room; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad373737/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     },
@@ -6291,7 +6246,7 @@
      "name": "Sanpoin Shukubo (Koyasan)",
      "name_en": "Sanpoin Shukubo (Koyasan)",
      "name_ja": "高野山 宿坊 三宝院",
-     "description": "Inn in Koya.",
+     "description": "Temple lodging (shukubo) in Koya with free parking.",
      "source_url": "https://www.jalan.net/yad356243/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     },
@@ -6299,7 +6254,7 @@
      "name": "Jokiin",
      "name_en": "Jokiin",
      "name_ja": "常喜院",
-     "description": "Inn in Koya.",
+     "description": "Temple lodging (shukubo) in Koya with 12 rooms and free parking.",
      "source_url": "https://www.jalan.net/yad377166/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     },
@@ -6307,7 +6262,7 @@
      "name": "Sanadabo Rengejoin (Koyasan)",
      "name_en": "Sanadabo Rengejoin (Koyasan)",
      "name_ja": "高野山 真田坊 蓮華定院",
-     "description": "Inn in Koya.",
+     "description": "Temple lodging (shukubo) in Koya with 48 rooms.",
      "source_url": "https://www.jalan.net/yad379574/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     },
@@ -6315,7 +6270,7 @@
      "name": "Jimyoin (Koyasan)",
      "name_en": "Jimyoin (Koyasan)",
      "name_ja": "高野山 持明院",
-     "description": "Inn in Koya.",
+     "description": "Temple lodging (shukubo) in Koya with 37 rooms and free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad358278/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     },
@@ -6323,7 +6278,7 @@
      "name": "Kongosammaiin",
      "name_en": "Kongosammaiin",
      "name_ja": "金剛三昧院",
-     "description": "Inn in Koya.",
+     "description": "Temple lodging (shukubo) in Koya with 50 rooms, a large communal bath and free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad348128/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     },
@@ -6331,7 +6286,7 @@
      "name": "Zofukuin (Koyasan)",
      "name_en": "Zofukuin (Koyasan)",
      "name_ja": "高野山 増福院",
-     "description": "Inn in Koya.",
+     "description": "Temple lodging (shukubo) in Koya with free parking; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad359186/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     },
@@ -6339,7 +6294,7 @@
      "name": "Fudoin Shukubo",
      "name_en": "Fudoin Shukubo",
      "name_ja": "宿坊 不動院",
-     "description": "Inn in Koya.",
+     "description": "Temple lodging (shukubo) on Mount Koya.",
      "source_url": "https://www.jalan.net/yad373614/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     },
@@ -6347,7 +6302,7 @@
      "name": "Saizenin",
      "name_en": "Saizenin",
      "name_ja": "西禅院",
-     "description": "Inn in Koya.",
+     "description": "Temple lodging (shukubo) in Koya with 20 rooms and free parking.",
      "source_url": "https://www.jalan.net/yad341450/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     },
@@ -6355,7 +6310,7 @@
      "name": "Kayado Jochiin Shukubo",
      "name_en": "Kayado Jochiin Shukubo",
      "name_ja": "宿坊 萱堂 上池院(しゅくぼう かやどう じょうちいん)",
-     "description": "Inn in Koya.",
+     "description": "Temple lodging (shukubo) on Mount Koya.",
      "source_url": "https://www.jalan.net/yad344577/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     },
@@ -6363,7 +6318,7 @@
      "name": "Hojoin Shukubo (Koyasan)",
      "name_en": "Hojoin Shukubo (Koyasan)",
      "name_ja": "高野山 宿坊 宝城院",
-     "description": "Inn in Koya.",
+     "description": "Temple lodging (shukubo) in Koya with 3 rooms and free parking.",
      "source_url": "https://www.jalan.net/yad340906/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     },
@@ -6371,7 +6326,7 @@
      "name": "Mitsugonin",
      "name_en": "Mitsugonin",
      "name_ja": "密厳院",
-     "description": "Inn in Koya.",
+     "description": "Temple lodging (shukubo) in Koya with 30 rooms and free parking.",
      "source_url": "https://www.jalan.net/yad350689/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     },
@@ -6379,7 +6334,7 @@
      "name": "Daimyoin Shukubo (Koyasan)",
      "name_en": "Daimyoin Shukubo (Koyasan)",
      "name_ja": "高野山 宿坊 大明王院",
-     "description": "Inn in Koya.",
+     "description": "Temple lodging (shukubo) in Koya with 5 rooms and free parking.",
      "source_url": "https://www.jalan.net/yad397553/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     },
@@ -6387,7 +6342,7 @@
      "name": "Ekoin Shukubo (Koyasan)",
      "name_en": "Ekoin Shukubo (Koyasan)",
      "name_ja": "高野山 宿坊 恵光院",
-     "description": "Inn in Koya.",
+     "description": "Temple lodging (shukubo) in Koya with 25 rooms, a large communal bath and free parking.",
      "source_url": "https://www.jalan.net/yad312274/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     },
@@ -6395,7 +6350,7 @@
      "name": "Shojoshinin",
      "name_en": "Shojoshinin",
      "name_ja": "清浄心院",
-     "description": "Inn in Koya.",
+     "description": "Temple lodging (shukubo) in Koya with 12 rooms and free parking.",
      "source_url": "https://www.jalan.net/yad338975/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     },
@@ -6403,7 +6358,7 @@
      "name": "Komyoin Shukubo",
      "name_en": "Komyoin Shukubo",
      "name_ja": "宿坊 光明院",
-     "description": "Inn in Koya.",
+     "description": "Temple lodging (shukubo) in Koya with 12 rooms and free parking.",
      "source_url": "https://www.jalan.net/yad348935/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     },
@@ -6411,7 +6366,7 @@
      "name": "Kumagaiji Shukubo",
      "name_en": "Kumagaiji Shukubo",
      "name_ja": "宿坊 熊谷寺",
-     "description": "Inn in Koya.",
+     "description": "Temple lodging (shukubo) in Koya with 28 rooms, a large communal bath and free parking.",
      "source_url": "https://www.jalan.net/yad379533/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     },
@@ -6419,7 +6374,7 @@
      "name": "Ochiin Shukubo",
      "name_en": "Ochiin Shukubo",
      "name_ja": "宿坊 桜池院",
-     "description": "Inn in Koya.",
+     "description": "Temple lodging (shukubo) in Koya with 26 rooms, a large communal bath and free parking.",
      "source_url": "https://www.jalan.net/yad300019/",
      "page": "https://bokenjapan.com/wakayama/koya/stay/"
     }
@@ -6699,7 +6654,7 @@
      "name": "Kozagawa no Ie",
      "name_en": "Kozagawa no Ie",
      "name_ja": "古座川の家",
-     "description": "Inn in Kozagawa.",
+     "description": "Inn in Kozagawa with free parking.",
      "source_url": "https://www.jalan.net/yad306105/",
      "page": "https://bokenjapan.com/wakayama/kozagawa/stay/"
     }
@@ -6990,7 +6945,7 @@
      "name": "Kudoyama Ryokan Tamagawatei",
      "name_en": "Kudoyama Ryokan Tamagawatei",
      "name_ja": "くどやま旅館 玉川亭",
-     "description": "Ryokan inn in Kudoyama.",
+     "description": "Ryokan inn in Kudoyama with free parking; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad330672/",
      "page": "https://bokenjapan.com/wakayama/kudoyama/stay/"
     },
@@ -7386,7 +7341,7 @@
      "name": "Beach Terrace Kushimoto",
      "name_en": "Beach Terrace Kushimoto",
      "name_ja": "ビーチテラス串本",
-     "description": "Inn in Kushimoto.",
+     "description": "Inn in Kushimoto with 1 room and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.ikyu.com/00052306/",
      "page": "https://bokenjapan.com/wakayama/kushimoto/stay/"
     },
@@ -7394,7 +7349,7 @@
      "name": "Inn in Kushimoto",
      "name_en": "Inn in Kushimoto",
      "name_ja": "フェアフィールド・バイ・マリオット・和歌山串本",
-     "description": "Inn in Kushimoto.",
+     "description": "Inn in Kushimoto with free parking.",
      "source_url": "https://www.ikyu.com/00082200/",
      "page": "https://bokenjapan.com/wakayama/kushimoto/stay/"
     },
@@ -7417,7 +7372,7 @@
      "name": "Minshuku Hashikui",
      "name_en": "Minshuku Hashikui",
      "name_ja": "民宿 はし杭",
-     "description": "Family-run minshuku in Kushimoto.",
+     "description": "Family-run minshuku in Kushimoto with free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad312315/",
      "page": "https://bokenjapan.com/wakayama/kushimoto/stay/"
     },
@@ -7425,7 +7380,7 @@
      "name": "Market Stay Kushimoto",
      "name_en": "Market Stay Kushimoto",
      "name_ja": "マーケットステイ串本",
-     "description": "Inn in Kushimoto.",
+     "description": "Holiday rental house in Kushimoto with free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad383684/",
      "page": "https://bokenjapan.com/wakayama/kushimoto/stay/"
     },
@@ -7433,7 +7388,7 @@
      "name": "Bay Side Inn Kushimotokan",
      "name_en": "Bay Side Inn Kushimotokan",
      "name_ja": "Ｂａｙ Ｓｉｄｅ Ｉｎｎ 串本館",
-     "description": "Inn in Kushimoto.",
+     "description": "Inn in Kushimoto with free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad344484/",
      "page": "https://bokenjapan.com/wakayama/kushimoto/stay/"
     },
@@ -7480,7 +7435,7 @@
      "name": "Obaachanchi (Farm Stay)",
      "name_en": "Obaachanchi (Farm Stay)",
      "name_ja": "農家民泊 おばあちゃんち",
-     "description": "Inn in Kushimoto.",
+     "description": "Holiday rental house in Kushimoto with 1 room, private baths and free parking.",
      "source_url": "https://www.jalan.net/yad376099/",
      "page": "https://bokenjapan.com/wakayama/kushimoto/stay/"
     },
@@ -7496,7 +7451,7 @@
      "name": "Minshuku Wadaya",
      "name_en": "Minshuku Wadaya",
      "name_ja": "民宿わだ家",
-     "description": "Family-run minshuku in Kushimoto.",
+     "description": "Family-run minshuku in Kushimoto with 3 rooms and free parking.",
      "source_url": "https://www.jalan.net/yad364393/",
      "page": "https://bokenjapan.com/wakayama/kushimoto/stay/"
     },
@@ -7504,7 +7459,7 @@
      "name": "Yuumi no Sato",
      "name_en": "Yuumi no Sato",
      "name_ja": "夕海の里",
-     "description": "Inn in Kushimoto.",
+     "description": "Pension in Kushimoto with free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad303296/",
      "page": "https://bokenjapan.com/wakayama/kushimoto/stay/"
     },
@@ -7766,7 +7721,7 @@
      "name": "Hotel Green Hill Mihama",
      "name_en": "Hotel Green Hill Mihama",
      "name_ja": "ホテル グリーンヒル美浜",
-     "description": "Hotel in Mihama.",
+     "description": "Hotel in Mihama with free parking.",
      "source_url": "https://www.jalan.net/yad301155/",
      "page": "https://bokenjapan.com/wakayama/mihama/stay/"
     }
@@ -8493,7 +8448,7 @@
      "name": "Minshuku Wakatake",
      "name_en": "Minshuku Wakatake",
      "name_ja": "マグロと地酒の宿 民宿わかたけ",
-     "description": "Family-run minshuku in Nachikatsuura.",
+     "description": "Family-run minshuku in Nachikatsuura with Katsuura Onsen hot-spring baths and free parking; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad377112/",
      "page": "https://bokenjapan.com/wakayama/nachikatsuura/stay/"
     },
@@ -8501,7 +8456,7 @@
      "name": "Oyado Hana",
      "name_en": "Oyado Hana",
      "name_ja": "お宿はな",
-     "description": "Inn in Nachikatsuura.",
+     "description": "Inn in Nachikatsuura with 11 rooms, Katsuura Onsen hot-spring baths and free parking; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad314837/",
      "page": "https://bokenjapan.com/wakayama/nachikatsuura/stay/"
     },
@@ -8525,7 +8480,7 @@
      "name": "Minshuku Hageyama",
      "name_en": "Minshuku Hageyama",
      "name_ja": "民宿はげやま",
-     "description": "Family-run minshuku in Nachikatsuura.",
+     "description": "Family-run minshuku in Nachikatsuura with 4 rooms and free parking; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad370826/",
      "page": "https://bokenjapan.com/wakayama/nachikatsuura/stay/"
     },
@@ -8541,7 +8496,7 @@
      "name": "Onsen Minshuku Kosakaya Motokan",
      "name_en": "Onsen Minshuku Kosakaya Motokan",
      "name_ja": "温泉民宿 小阪屋 元館",
-     "description": "Family-run minshuku in Nachikatsuura.",
+     "description": "Family-run minshuku in Nachikatsuura with 13 rooms, Katsuura Onsen hot-spring baths and free parking; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad389920/",
      "page": "https://bokenjapan.com/wakayama/nachikatsuura/stay/"
     },
@@ -8565,7 +8520,7 @@
      "name": "Onsen Minshuku Kosakaya Honkan",
      "name_en": "Onsen Minshuku Kosakaya Honkan",
      "name_ja": "温泉民宿 小阪屋 本館",
-     "description": "Family-run minshuku in Nachikatsuura.",
+     "description": "Family-run minshuku in Nachikatsuura with 16 rooms, Katsuura Onsen hot-spring baths and free parking; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad312958/",
      "page": "https://bokenjapan.com/wakayama/nachikatsuura/stay/"
     },
@@ -8597,7 +8552,7 @@
      "name": "Hotel Nagisaya",
      "name_en": "Hotel Nagisaya",
      "name_ja": "眺望露天風呂 汐見の湯 ホテルなぎさや",
-     "description": "Hotel in Nachikatsuura.",
+     "description": "Hotel in Nachikatsuura with Katsuura Onsen hot-spring water and free parking.",
      "source_url": "https://www.jalan.net/yad319611/",
      "page": "https://bokenjapan.com/wakayama/nachikatsuura/stay/"
     },
@@ -8605,7 +8560,7 @@
      "name": "Umi no Hotel Ichinotaki",
      "name_en": "Umi no Hotel Ichinotaki",
      "name_ja": "海のホテル一の滝",
-     "description": "Hotel in Nachikatsuura.",
+     "description": "Hotel in Nachikatsuura with 20 rooms, Katsuura Onsen hot-spring water and free parking.",
      "source_url": "https://www.jalan.net/yad390486/",
      "page": "https://bokenjapan.com/wakayama/nachikatsuura/stay/"
     },
@@ -8669,7 +8624,7 @@
      "name": "Rengeen",
      "name_en": "Rengeen",
      "name_ja": "れんげ苑",
-     "description": "Inn in Nachikatsuura.",
+     "description": "Inn in Nachikatsuura with 1 room and free parking.",
      "source_url": "https://www.jalan.net/yad351791/",
      "page": "https://bokenjapan.com/wakayama/nachikatsuura/stay/"
     },
@@ -8677,7 +8632,7 @@
      "name": "Guesthouse in Nachikatsuura (#28)",
      "name_en": "Guesthouse in Nachikatsuura (#28)",
      "name_ja": "一棟貸ゲストハウス パンジー",
-     "description": "Guesthouse in Nachikatsuura.",
+     "description": "Guesthouse in Nachikatsuura with 1 room and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad326047/",
      "page": "https://bokenjapan.com/wakayama/nachikatsuura/stay/"
     },
@@ -8693,7 +8648,7 @@
      "name": "Mitaki Sanso",
      "name_en": "Mitaki Sanso",
      "name_ja": "美滝山荘",
-     "description": "Inn in Nachikatsuura.",
+     "description": "Inn in Nachikatsuura with 15 rooms and free parking.",
      "source_url": "https://www.jalan.net/yad370170/",
      "page": "https://bokenjapan.com/wakayama/nachikatsuura/stay/"
     }
@@ -8767,8 +8722,8 @@
      "category": "Chinese & Asian"
     },
     {
-     "name": "Osakaosho",
-     "name_en": "Osakaosho",
+     "name": "Osaka Ohsho Shingu",
+     "name_en": "Osaka Ohsho Shingu",
      "name_ja": "大阪王将",
      "description": "Chinese restaurant in Shingu.",
      "source_url": "https://www.openstreetmap.org/node/4438500389",
@@ -8931,8 +8886,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Japanese restaurant in Shingu",
-     "name_en": "Japanese restaurant in Shingu",
+     "name": "Drive-in Shiko",
+     "name_en": "Drive-in Shiko",
      "name_ja": "ドライブイン志古",
      "description": "Regional Japanese restaurant in Shingu.",
      "source_url": "https://www.openstreetmap.org/way/407464704",
@@ -9151,7 +9106,7 @@
      "name": "Shingu U-I Hotel",
      "name_en": "Shingu U-I Hotel",
      "name_ja": "新宮ユーアイホテル",
-     "description": "Hotel in Shingu.",
+     "description": "Hotel in Shingu with 1 room and free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad311366/",
      "page": "https://bokenjapan.com/wakayama/shingu/stay/"
     },
@@ -9167,7 +9122,7 @@
      "name": "Station Hotel Shingu",
      "name_en": "Station Hotel Shingu",
      "name_ja": "ステーションホテル新宮",
-     "description": "Hotel in Shingu.",
+     "description": "Hotel in Shingu with free parking; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad320669/",
      "page": "https://bokenjapan.com/wakayama/shingu/stay/"
     },
@@ -9175,7 +9130,7 @@
      "name": "Guest house TOMORI",
      "name_en": "Guest house TOMORI",
      "name_ja": "Guest house 燈 TOMORI",
-     "description": "Inn in Shingu.",
+     "description": "Inn in Shingu with free parking; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad360147/",
      "page": "https://bokenjapan.com/wakayama/shingu/stay/"
     },
@@ -9206,7 +9161,7 @@
     {
      "name": "AJITO Hostel & Cafe Bar",
      "name_en": "AJITO Hostel & Cafe Bar",
-     "description": "Inn in Shingu.",
+     "description": "Inn in Shingu with free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad305548/",
      "page": "https://bokenjapan.com/wakayama/shingu/stay/"
     },
@@ -9214,14 +9169,14 @@
      "name": "Gran Hotel",
      "name_en": "Gran Hotel",
      "name_ja": "グランホテル",
-     "description": "Hotel in Shingu.",
+     "description": "Hotel in Shingu with free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad352066/",
      "page": "https://bokenjapan.com/wakayama/shingu/stay/"
     },
     {
      "name": "Kumano Stay nuku",
      "name_en": "Kumano Stay nuku",
-     "description": "Inn in Shingu.",
+     "description": "Inn in Shingu with 1 room and free parking.",
      "source_url": "https://www.jalan.net/yad348572/",
      "page": "https://bokenjapan.com/wakayama/shingu/stay/"
     },
@@ -9229,7 +9184,7 @@
      "name": "Market Stay Shingu",
      "name_en": "Market Stay Shingu",
      "name_ja": "マーケットステイ新宮",
-     "description": "Inn in Shingu.",
+     "description": "Youth hostel in Shingu with free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad386895/",
      "page": "https://bokenjapan.com/wakayama/shingu/stay/"
     },
@@ -9259,7 +9214,7 @@
     {
      "name": "Guesthouse HaDuNo",
      "name_en": "Guesthouse HaDuNo",
-     "description": "Inn in Shingu.",
+     "description": "Holiday rental house in Shingu with free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad324979/",
      "page": "https://bokenjapan.com/wakayama/shingu/stay/"
     },
@@ -9819,7 +9774,7 @@
      "name": "Hotel Kawakyu",
      "name_en": "Hotel Kawakyu",
      "name_ja": "ホテル川久",
-     "description": "Hotel in Shirahama.",
+     "description": "Hotel in Shirahama with 59 rooms, Shirahama Onsen hot-spring baths and free parking.",
      "source_url": "https://www.ikyu.com/00000557/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -9898,7 +9853,7 @@
      "name": "Crystal Villa Shirahama",
      "name_en": "Crystal Villa Shirahama",
      "name_ja": "クリスタルヴィラ白浜",
-     "description": "Inn in Shirahama.",
+     "description": "Holiday rental house in Shirahama with private baths and free parking.",
      "source_url": "https://www.ikyu.com/00050738/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -9914,7 +9869,7 @@
      "name": "Shirahama Pet Friendly House",
      "name_en": "Shirahama Pet Friendly House",
      "name_ja": "白浜ペットフレンドリーハウス",
-     "description": "Inn in Shirahama.",
+     "description": "Inn in Shirahama with free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad342551/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -9930,7 +9885,7 @@
      "name": "Container Hotel Hakoneru",
      "name_en": "Container Hotel Hakoneru",
      "name_ja": "コンテナホテル ハコネル",
-     "description": "Hotel in Shirahama.",
+     "description": "Hotel in Shirahama with Fujinoyu hot-spring water, an open-air bath and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad305670/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -9946,7 +9901,7 @@
      "name": "Akariya",
      "name_en": "Akariya",
      "name_ja": "灯りや",
-     "description": "Inn in Shirahama.",
+     "description": "Inn in Shirahama with 2 rooms, Fujinoyu hot-spring baths and a large communal bath; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad364416/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -9954,7 +9909,7 @@
      "name": "Minshuku Kazaguruma",
      "name_en": "Minshuku Kazaguruma",
      "name_ja": "活魚・鍋料理と民宿 風車",
-     "description": "Family-run minshuku in Shirahama.",
+     "description": "Family-run minshuku in Shirahama with 5 rooms, Shirahama Onsen hot-spring water and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad357355/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -9962,7 +9917,7 @@
      "name": "Nanki-Shirahama Marriott Hotel",
      "name_en": "Nanki-Shirahama Marriott Hotel",
      "name_ja": "南紀白浜マリオットホテル",
-     "description": "Hotel in Shirahama.",
+     "description": "Hotel in Shirahama with 2 rooms and Shirahama Onsen hot-spring baths; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad320772/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -9970,7 +9925,7 @@
      "name": "Jikukan Izumi Shirahama",
      "name_en": "Jikukan Izumi Shirahama",
      "name_ja": "白浜 時空間 泉",
-     "description": "Inn in Shirahama.",
+     "description": "Holiday rental house in Shirahama with Shirahama Onsen hot-spring water and free parking.",
      "source_url": "https://www.jalan.net/yad363073/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -9986,7 +9941,7 @@
      "name": "Inn in Shirahama (#23)",
      "name_en": "Inn in Shirahama (#23)",
      "name_ja": "ゲストリビングＭｕ南紀白浜",
-     "description": "Inn in Shirahama.",
+     "description": "Inn in Shirahama with 17 rooms and free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad387387/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10009,7 +9964,7 @@
     {
      "name": "LONG VACATION",
      "name_en": "LONG VACATION",
-     "description": "Inn in Shirahama.",
+     "description": "Holiday rental house in Shirahama with Shirahama Onsen hot-spring water and free parking.",
      "source_url": "https://www.jalan.net/yad353652/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10041,7 +9996,7 @@
      "name": "Hotel Shirahamakan",
      "name_en": "Hotel Shirahamakan",
      "name_ja": "HOTEL SHIRAHAMAKAN(白浜館)",
-     "description": "Inn in Shirahama.",
+     "description": "Inn in Shirahama with 41 rooms, Shirahama Onsen hot-spring baths and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad316935/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10049,7 +10004,7 @@
      "name": "Nagomi no Yado Irori",
      "name_en": "Nagomi no Yado Irori",
      "name_ja": "なごみの宿 いろり",
-     "description": "Inn in Shirahama.",
+     "description": "Inn in Shirahama with 7 rooms.",
      "source_url": "https://www.jalan.net/yad381526/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10065,7 +10020,7 @@
      "name": "HORIZON Shirahama",
      "name_en": "HORIZON Shirahama",
      "name_ja": "HORIZON 白浜",
-     "description": "Inn in Shirahama.",
+     "description": "Inn in Shirahama with 7 rooms, private baths and free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad308913/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10089,7 +10044,7 @@
      "name": "Hamabe no Yado Shirara",
      "name_en": "Hamabe no Yado Shirara",
      "name_ja": "浜辺の宿 しらら",
-     "description": "Inn in Shirahama.",
+     "description": "Inn in Shirahama with 12 rooms, Shirahama Onsen hot-spring baths and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad376200/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10097,7 +10052,7 @@
      "name": "Tabist Ryokan Mantei",
      "name_en": "Tabist Ryokan Mantei",
      "name_ja": "Ｔａｂｉｓｔ 旅館 万亭",
-     "description": "Ryokan inn in Shirahama.",
+     "description": "Ryokan inn in Shirahama with Shirahama Onsen hot-spring water and free parking.",
      "source_url": "https://www.jalan.net/yad380306/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10113,7 +10068,7 @@
      "name": "Shinnishiki Hotel",
      "name_en": "Shinnishiki Hotel",
      "name_ja": "新錦ホテル",
-     "description": "Hotel in Shirahama.",
+     "description": "Hotel in Shirahama with free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad307176/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10121,7 +10076,7 @@
      "name": "Minshuku Akira",
      "name_en": "Minshuku Akira",
      "name_ja": "民宿あきら",
-     "description": "Family-run minshuku in Shirahama.",
+     "description": "Family-run minshuku in Shirahama with free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad303628/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10233,7 +10188,7 @@
      "name": "Guesthouse in Shirahama",
      "name_en": "Guesthouse in Shirahama",
      "name_ja": "ゲストハウス 白浜 Ｒｃａｆｅ",
-     "description": "Guesthouse in Shirahama.",
+     "description": "Guesthouse in Shirahama with free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad301136/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10241,7 +10196,7 @@
      "name": "Terrace Villa Yuon",
      "name_en": "Terrace Villa Yuon",
      "name_ja": "テラス ヴィラ 癒穏",
-     "description": "Inn in Shirahama.",
+     "description": "Holiday rental house in Shirahama with 2 rooms and free parking.",
      "source_url": "https://www.jalan.net/yad387528/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10249,7 +10204,7 @@
      "name": "Daikyo Engetsujima Villa",
      "name_en": "Daikyo Engetsujima Villa",
      "name_ja": "ダイキョー円月島ヴィラ",
-     "description": "Inn in Shirahama.",
+     "description": "Holiday rental house in Shirahama with free parking.",
      "source_url": "https://www.jalan.net/yad369296/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10257,7 +10212,7 @@
      "name": "Minshuku Azumaya",
      "name_en": "Minshuku Azumaya",
      "name_ja": "民宿 あづまや",
-     "description": "Family-run minshuku in Shirahama.",
+     "description": "Family-run minshuku in Shirahama with private baths and free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad325202/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10273,7 +10228,7 @@
      "name": "Ryori no Yado Sakinoya",
      "name_en": "Ryori no Yado Sakinoya",
      "name_ja": "料理の宿 さきのや",
-     "description": "Inn in Shirahama.",
+     "description": "Inn in Shirahama with 11 rooms, Shirahama Onsen hot-spring water and free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad399678/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10289,7 +10244,7 @@
      "name": "Meiji Besso",
      "name_en": "Meiji Besso",
      "name_ja": "しらはまの宿 明時別荘",
-     "description": "Inn in Shirahama.",
+     "description": "Inn in Shirahama with 3 rooms and free parking.",
      "source_url": "https://www.jalan.net/yad398445/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10297,14 +10252,14 @@
      "name": "West Coast Villa Shirahama",
      "name_en": "West Coast Villa Shirahama",
      "name_ja": "ウエストコーストヴィラ白浜",
-     "description": "Inn in Shirahama.",
+     "description": "Holiday rental house in Shirahama with free parking.",
      "source_url": "https://www.jalan.net/yad332452/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
     {
      "name": "SHIRAHAMA KEY TERRACE SEAMORE RESIDENCE",
      "name_en": "Shirahama Key Terrace Seamore Residence",
-     "description": "Inn in Shirahama.",
+     "description": "Inn in Shirahama with a large communal bath and free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad335570/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10328,7 +10283,7 @@
      "name": "Bakery Hotel Shirahama",
      "name_en": "Bakery Hotel Shirahama",
      "name_ja": "BAKERY HOTEL SHIRAHAMA（ベーカリーホテル シラハマ）",
-     "description": "Hotel in Shirahama.",
+     "description": "Condominium-style lodging in Shirahama with Gyoko spring hot-spring water and free parking.",
      "source_url": "https://www.jalan.net/yad334838/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10344,7 +10299,7 @@
      "name": "Crystal Villa Shirarahama Beach",
      "name_en": "Crystal Villa Shirarahama Beach",
      "name_ja": "クリスタルヴィラ白良浜ビーチ",
-     "description": "Inn in Shirahama.",
+     "description": "Holiday rental house in Shirahama with Shirahama Onsen hot-spring water and free parking.",
      "source_url": "https://www.jalan.net/yad350887/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10367,14 +10322,14 @@
     {
      "name": "BEACH312",
      "name_en": "BEACH312",
-     "description": "Inn in Shirahama.",
+     "description": "Inn in Shirahama with Shirahama Onsen hot-spring water and free parking.",
      "source_url": "https://www.jalan.net/yad376056/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
     {
      "name": "Ocean Smile",
      "name_en": "Ocean Smile",
-     "description": "Inn in Shirahama.",
+     "description": "Inn in Shirahama with 1 room, Shirahama Onsen hot-spring water and free parking.",
      "source_url": "https://www.jalan.net/yad360351/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10421,7 +10376,7 @@
      "name": "Nagomi no Yu Kachofugetsu",
      "name_en": "Nagomi no Yu Kachofugetsu",
      "name_ja": "南紀白浜 和みの湯 花鳥風月",
-     "description": "Inn in Shirahama.",
+     "description": "Inn in Shirahama with 24 rooms, Shirahama Onsen hot-spring baths and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad351872/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10429,7 +10384,7 @@
      "name": "Shirahama no Yado Ran",
      "name_en": "Shirahama no Yado Ran",
      "name_ja": "白浜の宿 蘭",
-     "description": "Inn in Shirahama.",
+     "description": "Inn in Shirahama with free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad347897/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10444,7 +10399,7 @@
     {
      "name": "FIVE SPRING RESORT THE SHIRAHAMA",
      "name_en": "FIVE SPRING RESORT THE SHIRAHAMA",
-     "description": "Inn in Shirahama.",
+     "description": "Inn in Shirahama with 18 rooms, Shirahama Onsen hot-spring baths and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad317648/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10475,7 +10430,7 @@
      "name": "Arezudo Bare SHIRAHAMA",
      "name_en": "Arezudo Bare SHIRAHAMA",
      "name_ja": "アレーズド・バレ SHIRAHAMA",
-     "description": "Inn in Shirahama.",
+     "description": "Inn in Shirahama with 27 rooms, Shirahama Onsen hot-spring baths and free parking.",
      "source_url": "https://www.jalan.net/yad342035/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10499,7 +10454,7 @@
      "name": "Nanki-Shirahama Toretore Village",
      "name_en": "Nanki-Shirahama Toretore Village",
      "name_ja": "南紀白浜とれとれヴィレッジ",
-     "description": "Inn in Shirahama.",
+     "description": "Holiday rental house in Shirahama with Shirahama Onsen hot-spring baths and free parking.",
      "source_url": "https://www.jalan.net/yad325027/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10530,7 +10485,7 @@
      "name": "Tsubakiso",
      "name_en": "Tsubakiso",
      "name_ja": "つばき荘",
-     "description": "Inn in Shirahama.",
+     "description": "Inn in Shirahama with 4 rooms, Tsubaki Onsen hot-spring water and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad319765/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10538,7 +10493,7 @@
      "name": "Shirasagi",
      "name_en": "Shirasagi",
      "name_ja": "湯治のできる宿 しらさぎ",
-     "description": "Inn in Shirahama.",
+     "description": "Inn in Shirahama with Tsubaki Onsen hot-spring baths and free parking.",
      "source_url": "https://www.jalan.net/yad356442/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10554,7 +10509,7 @@
      "name": "Shingetsuan Shirahama",
      "name_en": "Shingetsuan Shirahama",
      "name_ja": "心月庵白浜",
-     "description": "Inn in Shirahama.",
+     "description": "Holiday rental house in Shirahama with Shirahama Onsen hot-spring baths and free parking.",
      "source_url": "https://www.jalan.net/yad318994/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10578,7 +10533,7 @@
      "name": "Minshuku Yukiso",
      "name_en": "Minshuku Yukiso",
      "name_ja": "民宿ゆうき荘",
-     "description": "Family-run minshuku in Shirahama.",
+     "description": "Family-run minshuku in Shirahama with private baths and free parking.",
      "source_url": "https://www.jalan.net/yad322716/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10586,7 +10541,7 @@
      "name": "Rivage Spa Hikigawa",
      "name_en": "Rivage Spa Hikigawa",
      "name_ja": "リヴァージュ・スパひきがわ",
-     "description": "Inn in Shirahama.",
+     "description": "Inn in Shirahama with private baths and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad325238/",
      "page": "https://bokenjapan.com/wakayama/shirahama/stay/"
     },
@@ -10912,7 +10867,7 @@
      "name": "Onsen Minshuku Kawabe",
      "name_en": "Onsen Minshuku Kawabe",
      "name_ja": "温泉民宿 かわべ",
-     "description": "Family-run minshuku in Susami.",
+     "description": "Family-run minshuku in Susami with Susami Onsen hot-spring baths and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad306934/",
      "page": "https://bokenjapan.com/wakayama/susami/stay/"
     },
@@ -10927,7 +10882,7 @@
     {
      "name": "PAWDICE",
      "name_en": "PAWDICE",
-     "description": "Inn in Susami.",
+     "description": "Holiday rental house in Susami with 3 rooms and free parking.",
      "source_url": "https://www.jalan.net/yad306468/",
      "page": "https://bokenjapan.com/wakayama/susami/stay/"
     },
@@ -11218,7 +11173,7 @@
      "name": "Inn in Taiji",
      "name_en": "Inn in Taiji",
      "name_ja": "ＫＯＫＯＹＵＩ ＧＵＥＳＴＨＯＵＳＥ 太地店",
-     "description": "Inn in Taiji.",
+     "description": "Holiday rental house in Taiji with free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad339155/",
      "page": "https://bokenjapan.com/wakayama/taiji/stay/"
     },
@@ -11226,7 +11181,7 @@
      "name": "Isana no Yado Hakugei",
      "name_en": "Isana no Yado Hakugei",
      "name_ja": "いさなの宿 白鯨",
-     "description": "Inn in Taiji.",
+     "description": "Inn in Taiji with Taiji Onsen hot-spring baths and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad390404/",
      "page": "https://bokenjapan.com/wakayama/taiji/stay/"
     }
@@ -11312,8 +11267,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Cafe in Tanabe",
-     "name_en": "Cafe in Tanabe",
+     "name": "Comic Buster Yuetsukan",
+     "name_en": "Comic Buster Yuetsukan",
      "name_ja": "コミックバスター優悦館 (You Etsu Kan)",
      "description": "Cafe in Tanabe. Open 24 hours, every day.",
      "source_url": "https://www.openstreetmap.org/way/274750812",
@@ -11420,8 +11375,8 @@
      "category": "European"
     },
     {
-     "name": "andiamo！",
-     "name_en": "andiamo!",
+     "name": "Andiamo",
+     "name_en": "Andiamo",
      "description": "Italian restaurant in Tanabe.",
      "source_url": "https://www.openstreetmap.org/node/12539013467",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/european/",
@@ -11537,8 +11492,8 @@
      "category": "Izakaya & bars"
     },
     {
-     "name": "Ｋ２ＢＡＲ",
-     "name_en": "K2BAR",
+     "name": "K2 Bar",
+     "name_en": "K2 Bar",
      "description": "Bar in Tanabe.",
      "source_url": "https://www.openstreetmap.org/node/3184331994",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
@@ -11639,8 +11594,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Udon restaurant in Tanabe",
-     "name_en": "Udon restaurant in Tanabe",
+     "name": "Teuchi Udon Shinmanhachibanchi",
+     "name_en": "Teuchi Udon Shinmanhachibanchi",
      "name_ja": "手打ちうどん 新万８番地",
      "description": "Udon restaurant in Tanabe. Open daily 11:30-14:00, 21:00-27:00.",
      "source_url": "https://www.openstreetmap.org/node/3153822180",
@@ -11934,8 +11889,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Sushi restaurant in Tanabe",
-     "name_en": "Sushi restaurant in Tanabe",
+     "name": "Sushiro",
+     "name_en": "Sushiro",
      "name_ja": "スシロー",
      "description": "Sushi restaurant in Ine Narumachi, Tanabe. Open daily 10:30-22:00.",
      "source_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=233",
@@ -12138,7 +12093,7 @@
      "name": "Hotel Harvest Nanki Tanabe",
      "name_en": "Hotel Harvest Nanki Tanabe",
      "name_ja": "ホテルハーヴェスト 南紀田辺",
-     "description": "Hotel in Tanabe.",
+     "description": "Hotel in Tanabe with 3 rooms, Tanabe Onsen hot-spring baths and free parking.",
      "source_url": "https://www.ikyu.com/00002093/",
      "page": "https://bokenjapan.com/wakayama/tanabe/stay/"
     },
@@ -12186,14 +12141,14 @@
      "name": "Tanabe Station Hotel",
      "name_en": "Tanabe Station Hotel",
      "name_ja": "田辺ステーションホテル",
-     "description": "Hotel in Tanabe.",
+     "description": "Hotel in Tanabe with free parking; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad322167/",
      "page": "https://bokenjapan.com/wakayama/tanabe/stay/"
     },
     {
      "name": "Samsara",
      "name_en": "Samsara",
-     "description": "Inn in Tanabe.",
+     "description": "Inn in Tanabe with 1 room; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad304845/",
      "page": "https://bokenjapan.com/wakayama/tanabe/stay/"
     },
@@ -12231,7 +12186,7 @@
      "name": "Guesthouse in Tanabe (#14)",
      "name_en": "Guesthouse in Tanabe (#14)",
      "name_ja": "ゲストハウス 熊野",
-     "description": "Guesthouse in Tanabe.",
+     "description": "Guesthouse in Tanabe with 3 rooms; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad336404/",
      "page": "https://bokenjapan.com/wakayama/tanabe/stay/"
     },
@@ -12263,7 +12218,7 @@
      "name": "Guesthouse in Tanabe (#18)",
      "name_en": "Guesthouse in Tanabe (#18)",
      "name_ja": "ゲストハウス シン熊野",
-     "description": "Guesthouse in Tanabe.",
+     "description": "Guesthouse in Tanabe with 4 rooms; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad324864/",
      "page": "https://bokenjapan.com/wakayama/tanabe/stay/"
     },
@@ -12271,7 +12226,7 @@
      "name": "Garden Hotel Hanayo",
      "name_en": "Garden Hotel Hanayo",
      "name_ja": "ガーデンホテルハナヨ",
-     "description": "Hotel in Tanabe.",
+     "description": "Hotel in Tanabe with 45 rooms, Tanabe Onsen hot-spring baths and free parking.",
      "source_url": "https://www.jalan.net/yad304571/",
      "page": "https://bokenjapan.com/wakayama/tanabe/stay/"
     },
@@ -12279,7 +12234,7 @@
      "name": "Hotel in Tanabe",
      "name_en": "Hotel in Tanabe",
      "name_ja": "パークサイドホテル",
-     "description": "Hotel in Tanabe.",
+     "description": "Hotel in Tanabe with free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad390376/",
      "page": "https://bokenjapan.com/wakayama/tanabe/stay/"
     },
@@ -12287,7 +12242,7 @@
      "name": "Guesthouse in Tanabe (#21)",
      "name_en": "Guesthouse in Tanabe (#21)",
      "name_ja": "ゲストハウス会津",
-     "description": "Guesthouse in Tanabe.",
+     "description": "Guesthouse in Tanabe; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad378110/",
      "page": "https://bokenjapan.com/wakayama/tanabe/stay/"
     },
@@ -12311,7 +12266,7 @@
      "name": "Minshuku Hirohata",
      "name_en": "Minshuku Hirohata",
      "name_ja": "民宿ひろはた",
-     "description": "Family-run minshuku in Tanabe.",
+     "description": "Family-run minshuku in Tanabe with free parking.",
      "source_url": "https://www.jalan.net/yad337464/",
      "page": "https://bokenjapan.com/wakayama/tanabe/stay/"
     },
@@ -12319,7 +12274,7 @@
      "name": "Mirai Farm (Farm Stay)",
      "name_en": "Mirai Farm (Farm Stay)",
      "name_ja": "農家民泊 未来農園",
-     "description": "Inn in Tanabe.",
+     "description": "Inn in Tanabe with 4 rooms and free parking.",
      "source_url": "https://www.jalan.net/yad327574/",
      "page": "https://bokenjapan.com/wakayama/tanabe/stay/"
     },
@@ -12327,7 +12282,7 @@
      "name": "Kamenoi Hotel Kumano-Tanabe (formerly Kamenoi Hotel Kii-Tanabe)",
      "name_en": "Kamenoi Hotel Kumano-Tanabe (formerly Kamenoi Hotel Kii-Tanabe)",
      "name_ja": "亀の井ホテル 熊野田辺 （旧 亀の井ホテル 紀伊田辺）",
-     "description": "Hotel in Tanabe.",
+     "description": "Hotel in Tanabe with 52 rooms, Tanabe Onsen hot-spring baths and free parking.",
      "source_url": "https://www.jalan.net/yad354936/",
      "page": "https://bokenjapan.com/wakayama/tanabe/stay/"
     },
@@ -12335,7 +12290,7 @@
      "name": "Kumano Ayukawa-juku",
      "name_en": "Kumano Ayukawa-juku",
      "name_ja": "熊野 鮎川宿",
-     "description": "Inn in Tanabe.",
+     "description": "Inn in Tanabe with private baths and free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad386189/",
      "page": "https://bokenjapan.com/wakayama/tanabe/stay/"
     },
@@ -12364,7 +12319,7 @@
      "name": "Kiri no Sato Takahara",
      "name_en": "Kiri no Sato Takahara",
      "name_ja": "熊野古道の宿 霧の郷たかはら",
-     "description": "Inn in Tanabe.",
+     "description": "Inn in Tanabe with Watase Onsen hot-spring baths and free parking.",
      "source_url": "https://www.jalan.net/yad366504/",
      "page": "https://bokenjapan.com/wakayama/tanabe/stay/"
     },
@@ -12380,7 +12335,7 @@
      "name": "Magokoro no Yado Marui",
      "name_en": "Magokoro no Yado Marui",
      "name_ja": "まごころの宿 丸井",
-     "description": "Inn in Tanabe.",
+     "description": "Inn in Tanabe with 13 rooms, Ryujin Komatagawa Onsen hot-spring baths and free parking.",
      "source_url": "https://www.jalan.net/yad322058/",
      "page": "https://bokenjapan.com/wakayama/tanabe/stay/"
     },
@@ -12396,7 +12351,7 @@
      "name": "Megami no Yu Iris Park",
      "name_en": "Megami no Yu Iris Park",
      "name_ja": "女神の湯 アイリスパーク",
-     "description": "Inn in Tanabe.",
+     "description": "Lodge in Tanabe with 15 rooms and free parking.",
      "source_url": "https://www.jalan.net/yad333626/",
      "page": "https://bokenjapan.com/wakayama/tanabe/stay/"
     },
@@ -12412,7 +12367,7 @@
      "name": "Shimogoten",
      "name_en": "Shimogoten",
      "name_ja": "下御殿",
-     "description": "Inn in Tanabe.",
+     "description": "Inn in Tanabe with 17 rooms, Ryujin Onsen hot-spring baths and free parking.",
      "source_url": "https://www.jalan.net/yad310268/",
      "page": "https://bokenjapan.com/wakayama/tanabe/stay/"
     },
@@ -12428,7 +12383,7 @@
      "name": "Ryori Ryokan Yorozuya",
      "name_en": "Ryori Ryokan Yorozuya",
      "name_ja": "料理旅館 萬屋",
-     "description": "Ryokan inn in Tanabe.",
+     "description": "Ryokan inn in Tanabe with 6 rooms, Ryujin Onsen hot-spring water and free parking.",
      "source_url": "https://www.jalan.net/yad311159/",
      "page": "https://bokenjapan.com/wakayama/tanabe/stay/"
     },
@@ -12444,7 +12399,7 @@
      "name": "Ryujin no Yado Shin",
      "name_en": "Ryujin no Yado Shin",
      "name_ja": "龍神の宿 真",
-     "description": "Inn in Tanabe.",
+     "description": "Inn in Tanabe with 10 rooms, Ryujin Onsen hot-spring baths and free parking.",
      "source_url": "https://www.jalan.net/yad338525/",
      "page": "https://bokenjapan.com/wakayama/tanabe/stay/"
     },
@@ -12476,7 +12431,7 @@
      "name": "Kirari Ryujin",
      "name_en": "Kirari Ryujin",
      "name_ja": "季楽里 龍神",
-     "description": "Inn in Tanabe.",
+     "description": "Inn in Tanabe with Ryujin Onsen hot-spring baths and free parking.",
      "source_url": "https://www.jalan.net/yad393520/",
      "page": "https://bokenjapan.com/wakayama/tanabe/stay/"
     },
@@ -12492,7 +12447,7 @@
      "name": "Inn in Tanabe (#47)",
      "name_en": "Inn in Tanabe (#47)",
      "name_ja": "湯の峯荘",
-     "description": "Inn in Tanabe.",
+     "description": "Inn in Tanabe with 26 rooms, Yunomine Onsen hot-spring water and free parking.",
      "source_url": "https://www.jalan.net/yad300603/",
      "page": "https://bokenjapan.com/wakayama/tanabe/stay/"
     },
@@ -12500,7 +12455,7 @@
      "name": "Minshuku Azumayaso",
      "name_en": "Minshuku Azumayaso",
      "name_ja": "民宿あづまや荘",
-     "description": "Family-run minshuku in Tanabe.",
+     "description": "Family-run minshuku in Tanabe with 15 rooms, Yunomine Onsen hot-spring baths and free parking.",
      "source_url": "https://www.jalan.net/yad363564/",
      "page": "https://bokenjapan.com/wakayama/tanabe/stay/"
     },
@@ -12532,7 +12487,7 @@
      "name": "Minshuku Yamane",
      "name_en": "Minshuku Yamane",
      "name_ja": "民宿やまね",
-     "description": "Family-run minshuku in Tanabe.",
+     "description": "Family-run minshuku in Tanabe with 5 rooms, Yunomine Onsen hot-spring water and free parking.",
      "source_url": "https://www.jalan.net/yad396366/",
      "page": "https://bokenjapan.com/wakayama/tanabe/stay/"
     },
@@ -12572,7 +12527,7 @@
      "name": "Inn in Tanabe (#57)",
      "name_en": "Inn in Tanabe (#57)",
      "name_ja": "蒼空げすとはうす",
-     "description": "Inn in Tanabe.",
+     "description": "Inn in Tanabe with 4 rooms and free parking.",
      "source_url": "https://www.jalan.net/yad383553/",
      "page": "https://bokenjapan.com/wakayama/tanabe/stay/"
     }
@@ -12702,8 +12657,8 @@
      "category": "Cafe"
     },
     {
-     "name": "BRING BOOK STORE",
-     "name_en": "BRING BOOK STORE",
+     "name": "Bring Book Store",
+     "name_en": "Bring Book Store",
      "description": "Cafe in Wakayama. Open Tue-Sun 09:30-17:00.",
      "source_url": "https://www.openstreetmap.org/node/6144532735",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
@@ -12853,8 +12808,8 @@
      "category": "Casual"
     },
     {
-     "name": "Burger fast-food restaurant in Wakayama",
-     "name_en": "Burger fast-food restaurant in Wakayama",
+     "name": "Zetteria",
+     "name_en": "Zetteria",
      "name_ja": "ゼッテリア",
      "description": "Burger fast-food restaurant in Wakayama. Open Mon-Sun, public holidays 07:00-21:00.",
      "source_url": "https://www.openstreetmap.org/node/4472750657",
@@ -12870,8 +12825,8 @@
      "category": "Chinese & Asian"
     },
     {
-     "name": "Chinese restaurant in Wakayama",
-     "name_en": "Chinese restaurant in Wakayama",
+     "name": "Green Corner Tsukijibashi",
+     "name_en": "Green Corner Tsukijibashi",
      "name_ja": "グリーンコーナー 築地橋店",
      "description": "Chinese restaurant in Wakayama. Open daily 11:00-22:30.",
      "source_url": "https://www.openstreetmap.org/way/534791508",
@@ -12988,8 +12943,8 @@
      "category": "European"
     },
     {
-     "name": "Pizza and pasta restaurant in Wakayama",
-     "name_en": "Pizza and pasta restaurant in Wakayama",
+     "name": "Mister Magic",
+     "name_en": "Mister Magic",
      "name_ja": "ミスターマジック",
      "description": "Pizza and pasta restaurant in Wakayama.",
      "source_url": "https://mr-magic-3.jimdosite.com/",
@@ -12997,8 +12952,8 @@
      "category": "European"
     },
     {
-     "name": "Italian restaurant in Matsue Kou Noshima, Wakayama",
-     "name_en": "Italian restaurant in Matsue Kou Noshima, Wakayama",
+     "name": "Saizeriya",
+     "name_en": "Saizeriya",
      "name_ja": "サイゼリヤ",
      "description": "Italian restaurant in Matsue Kou Noshima, Wakayama. Open daily 10:00-22:00.",
      "source_url": "https://www.openstreetmap.org/node/4462959867",
@@ -13039,8 +12994,8 @@
      "category": "European"
     },
     {
-     "name": "Italian restaurant in Wakayama",
-     "name_en": "Italian restaurant in Wakayama",
+     "name": "Italian Il Ritrovo",
+     "name_en": "Italian Il Ritrovo",
      "name_ja": "イタリアン イル・リトロボ",
      "description": "Italian restaurant in Wakayama. Open daily 11:30-15:00, 17:30-22:00.",
      "source_url": "https://www.openstreetmap.org/way/217732150",
@@ -13080,8 +13035,8 @@
      "category": "European"
     },
     {
-     "name": "Italian restaurant in Tanakacho, Wakayama",
-     "name_en": "Italian restaurant in Tanakacho, Wakayama",
+     "name": "Siesta",
+     "name_en": "Siesta",
      "name_ja": "シエスタ",
      "description": "Italian restaurant in Tanakacho, Wakayama.",
      "source_url": "https://www.openstreetmap.org/way/547849053",
@@ -13343,8 +13298,8 @@
      "category": "Japanese (meat)"
     },
     {
-     "name": "Meat restaurant in Wakayama",
-     "name_en": "Meat restaurant in Wakayama",
+     "name": "Tonkatsu Katsuki",
+     "name_en": "Tonkatsu Katsuki",
      "name_ja": "とんかつ かつ喜",
      "description": "Meat restaurant in Nakano, Wakayama. Open daily 11:00-22:00.",
      "source_url": "https://www.openstreetmap.org/node/10241829866",
@@ -13590,7 +13545,7 @@
      "name_en": "Nagahama Ramen",
      "name_ja": "長浜らーめん",
      "description": "Ramen restaurant in Wakayama. Open daily 11:00-24:00.",
-     "source_url": "https://www.openstreetmap.org/node/4442218271",
+     "source_url": "https://nagahama-raumen.com/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
      "category": "Japanese (noodles)"
     },
@@ -13613,8 +13568,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Noodle restaurant in Wakayama",
-     "name_en": "Noodle restaurant in Wakayama",
+     "name": "Tokyo Abura Gumi Sohonten",
+     "name_en": "Tokyo Abura Gumi Sohonten",
      "name_ja": "東京油組総本店",
      "description": "Noodle restaurant in Wakayama. Open Mon-Sun, public holidays 11:00-21:30.",
      "source_url": "https://www.openstreetmap.org/way/516722887",
@@ -13796,8 +13751,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Japanese restaurant in Ota, Wakayama",
-     "name_en": "Japanese restaurant in Ota, Wakayama",
+     "name": "Matsunoya",
+     "name_en": "Matsunoya",
      "name_ja": "松のや",
      "description": "Japanese restaurant in Ota, Wakayama. Open daily 05:00-26:00.",
      "source_url": "https://matsuyafoods.co.jp",
@@ -13850,8 +13805,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Japanese restaurant in Wakayama",
-     "name_en": "Japanese restaurant in Wakayama",
+     "name": "Kyu",
+     "name_en": "Kyu",
      "name_ja": "きゅう",
      "description": "Japanese restaurant in Wakayama.",
      "source_url": "https://www.openstreetmap.org/way/1562318478",
@@ -13953,8 +13908,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Ice cream cafe in Wakayama",
-     "name_en": "Ice cream cafe in Wakayama",
+     "name": "Gyokurin-en Green Corner Main Store",
+     "name_en": "Gyokurin-en Green Corner Main Store",
      "name_ja": "玉林園 グリーンコーナー本店",
      "description": "Ice cream cafe in Wakayama. Open daily 11:00-23:00.",
      "source_url": "https://www.openstreetmap.org/node/6006863174",
@@ -13971,8 +13926,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Japanese sweets shop in Wakayama",
-     "name_en": "Japanese sweets shop in Wakayama",
+     "name": "Sohonke Surugaya Surugacho Honpo",
+     "name_en": "Sohonke Surugaya Surugacho Honpo",
      "name_ja": "総本家駿河屋駿河町本舗",
      "description": "Japanese sweets shop in Wakayama. Open daily 09:00-18:00.",
      "source_url": "https://www.openstreetmap.org/way/471706890",
@@ -14231,7 +14186,7 @@
      "name": "Daiwa Roynet Hotel Wakayama",
      "name_en": "Daiwa Roynet Hotel Wakayama",
      "name_ja": "ダイワロイネットホテル和歌山",
-     "description": "Hotel in Wakayama.",
+     "description": "Hotel in Wakayama with 16 rooms; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.ikyu.com/00080021/",
      "page": "https://bokenjapan.com/wakayama/wakayama/stay/"
     },
@@ -14303,7 +14258,7 @@
      "name": "Hotel Abalom Kinokuni",
      "name_en": "Hotel Abalom Kinokuni",
      "name_ja": "ホテルアバローム紀の国",
-     "description": "Hotel in Wakayama.",
+     "description": "Hotel in Wakayama with 2 rooms; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.ikyu.com/00080845/",
      "page": "https://bokenjapan.com/wakayama/wakayama/stay/"
     },
@@ -14391,7 +14346,7 @@
      "name": "BK Weekly & Hotel",
      "name_en": "BK Weekly & Hotel",
      "name_ja": "BKウィークリー＆ホテル",
-     "description": "Hotel in Wakayama.",
+     "description": "Hotel in Wakayama; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad379107/",
      "page": "https://bokenjapan.com/wakayama/wakayama/stay/"
     },
@@ -14406,14 +14361,14 @@
     {
      "name": "HOTEL LA SCALA",
      "name_en": "HOTEL LA SCALA",
-     "description": "Inn in Wakayama.",
+     "description": "Inn in Wakayama with free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad385529/",
      "page": "https://bokenjapan.com/wakayama/wakayama/stay/"
     },
     {
      "name": "WoodHigh ROOMS",
      "name_en": "WoodHigh ROOMS",
-     "description": "Inn in Wakayama.",
+     "description": "Inn in Wakayama with 3 rooms and free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad397545/",
      "page": "https://bokenjapan.com/wakayama/wakayama/stay/"
     },
@@ -14429,7 +14384,7 @@
      "name": "Misono no Oyado (I)",
      "name_en": "Misono no Oyado (I)",
      "name_ja": "美園のおやど （い）",
-     "description": "Inn in Wakayama.",
+     "description": "Inn in Wakayama; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad326972/",
      "page": "https://bokenjapan.com/wakayama/wakayama/stay/"
     },
@@ -14572,7 +14527,7 @@
      "name": "Hatagoya Kikusui",
      "name_en": "Hatagoya Kikusui",
      "name_ja": "釣り人の宿 旅籠屋 菊水",
-     "description": "Inn in Wakayama.",
+     "description": "Inn in Wakayama with free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad308626/",
      "page": "https://bokenjapan.com/wakayama/wakayama/stay/"
     },
@@ -14893,7 +14848,7 @@
      "name": "Minshuku Tamura",
      "name_en": "Minshuku Tamura",
      "name_ja": "民宿タムラ",
-     "description": "Family-run minshuku in Yuasa.",
+     "description": "Family-run minshuku in Yuasa with 5 rooms and free parking.",
      "source_url": "https://www.jalan.net/yad340141/",
      "page": "https://bokenjapan.com/wakayama/yuasa/stay/"
     },
@@ -15169,7 +15124,7 @@
      "name": "Bungalow Strawberry Farm Shirasaki",
      "name_en": "Bungalow Strawberry Farm Shirasaki",
      "name_ja": "バンガロー ストロベリーファーム白崎",
-     "description": "Inn in Yura.",
+     "description": "Lodge in Yura with 8 rooms and free parking.",
      "source_url": "https://www.jalan.net/yad313621/",
      "page": "https://bokenjapan.com/wakayama/yura/stay/"
     },
@@ -15216,7 +15171,7 @@
      "name": "Kuge Ryokan",
      "name_en": "Kuge Ryokan",
      "name_ja": "久家旅館",
-     "description": "Ryokan inn in Yura.",
+     "description": "Ryokan inn in Yura with 6 rooms and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad339569/",
      "page": "https://bokenjapan.com/wakayama/yura/stay/"
     },
@@ -15224,7 +15179,7 @@
      "name": "Shirasaki Seaside Heights Shirasakiso",
      "name_en": "Shirasaki Seaside Heights Shirasakiso",
      "name_ja": "白崎シーサイドハイツ 白崎荘",
-     "description": "Inn in Yura.",
+     "description": "Inn in Yura with 6 rooms and free parking.",
      "source_url": "https://www.jalan.net/yad393408/",
      "page": "https://bokenjapan.com/wakayama/yura/stay/"
     }

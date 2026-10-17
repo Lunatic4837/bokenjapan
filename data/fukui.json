@@ -181,8 +181,8 @@
    ],
    "food": [
     {
-     "name": "Café specialising in Awara",
-     "name_en": "Café specialising in Awara",
+     "name": "eXcafe Yoshizaki Hōōkaku",
+     "name_en": "eXcafe Yoshizaki Hōōkaku",
      "name_ja": "eXcafe吉崎鳳凰閣",
      "description": "Café specialising in Japanese sweets in Awara.",
      "source_url": "https://tabelog.com/fukui/A1801/A180102/18009387/",
@@ -235,8 +235,8 @@
      "category": "Casual"
     },
     {
-     "name": "Yoshoku (Western-style Japanese) restaurant specialising in Awara",
-     "name_en": "Yoshoku (Western-style Japanese) restaurant specialising in Awara",
+     "name": "Orange",
+     "name_en": "Orange",
      "name_ja": "オレンジ",
      "description": "Yoshoku (Western-style Japanese) restaurant specialising in rice bowls in Awara.",
      "source_url": "https://tabelog.com/fukui/A1801/A180102/18003873/",
@@ -262,8 +262,8 @@
      "category": "European"
     },
     {
-     "name": "Tonkatsu (pork cutlet) restaurant specialising in Awara",
-     "name_en": "Tonkatsu (pork cutlet) restaurant specialising in Awara",
+     "name": "Jusenman Kanazu",
+     "name_en": "Jusenman Kanazu",
      "name_ja": "十阡萬 金津店",
      "description": "Tonkatsu (pork cutlet) restaurant specialising in rice bowls in Awara.",
      "source_url": "https://tabelog.com/fukui/A1801/A180102/18005383/",
@@ -433,8 +433,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Japanese restaurant specialising in Awara",
-     "name_en": "Japanese restaurant specialising in Awara",
+     "name": "Sakana-ya Kanade",
+     "name_en": "Sakana-ya Kanade",
      "name_ja": "肴家 奏",
      "description": "Japanese restaurant specialising in izakaya dishes in Awara.",
      "source_url": "https://tabelog.com/fukui/A1801/A180102/18007528/",
@@ -469,8 +469,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Ryokan inn restaurant in Awara",
-     "name_en": "Ryokan inn restaurant in Awara",
+     "name": "Kōfū Yūho Beniya",
+     "name_en": "Kōfū Yūho Beniya",
      "name_ja": "光風湯圃 べにや",
      "description": "Ryokan inn restaurant in Awara.",
      "source_url": "https://tabelog.com/fukui/A1801/A180102/18008768/",
@@ -478,8 +478,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Japanese sweets shop in Awara",
-     "name_en": "Japanese sweets shop in Awara",
+     "name": "Asano Kōgetsudō",
+     "name_en": "Asano Kōgetsudō",
      "name_ja": "御菓子司 浅野耕月堂",
      "description": "Japanese sweets shop in Awara.",
      "source_url": "https://tabelog.com/fukui/A1801/A180102/18000552/",
@@ -487,8 +487,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Soft-serve stand in Awara",
-     "name_en": "Soft-serve stand in Awara",
+     "name": "Tajima Bokujō Soft Cream",
+     "name_en": "Tajima Bokujō Soft Cream",
      "name_ja": "田嶋牧場のソフトクリーム屋",
      "description": "Soft-serve stand in Awara.",
      "source_url": "https://tabelog.com/fukui/A1801/A180102/18000835/",
@@ -795,8 +795,8 @@
      "page": "https://bokenjapan.com/fukui/awara/stay/"
     },
     {
-     "name": "Inn in Awara (#3)",
-     "name_en": "Inn in Awara (#3)",
+     "name": "Awara Onsen Grandia Hōsen",
+     "name_en": "Awara Onsen Grandia Hōsen",
      "name_ja": "あわら温泉 グランディア芳泉",
      "description": "Inn in Awara with hot-spring baths.",
      "source_url": "https://www.ikyu.com/00000813/",
@@ -814,13 +814,13 @@
      "name": "Dento Ryokan no Nukumori Haiya",
      "name_en": "Dento Ryokan no Nukumori Haiya",
      "name_ja": "伝統旅館のぬくもり 灰屋",
-     "description": "Ryokan inn in Awara.",
+     "description": "Ryokan inn in Awara with Awara Onsen hot-spring baths and free parking.",
      "source_url": "https://www.ikyu.com/00001777/",
      "page": "https://bokenjapan.com/fukui/awara/stay/"
     },
     {
-     "name": "Inn in Awara (#6)",
-     "name_en": "Inn in Awara (#6)",
+     "name": "Hokuriku Fukui Awara Onsen Mimatsu",
+     "name_en": "Hokuriku Fukui Awara Onsen Mimatsu",
      "name_ja": "北陸 福井 あわら温泉 美松",
      "description": "Inn in Awara with hot-spring baths.",
      "source_url": "https://www.ikyu.com/00002909/",
@@ -862,7 +862,7 @@
      "name": "Hotel Prime Inn Fukui Awara",
      "name_en": "Hotel Prime Inn Fukui Awara",
      "name_ja": "ホテルプライムイン福井あわら",
-     "description": "Hotel in Awara.",
+     "description": "Hotel in Awara with free parking; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad347208/",
      "page": "https://bokenjapan.com/fukui/awara/stay/"
     },
@@ -870,7 +870,7 @@
      "name": "Fukui Prefecture Municipal Employees Mutual Aid Association Ashihara Recreation Lodge Koshiji",
      "name_en": "Fukui Prefecture Municipal Employees Mutual Aid Association Ashihara Recreation Lodge Koshiji",
      "name_ja": "福井県市町村職員共済組合芦原保養所 越路",
-     "description": "Inn in Awara.",
+     "description": "Inn in Awara with 2 rooms, Awara Onsen hot-spring baths and free parking.",
      "source_url": "https://www.jalan.net/yad316305/",
      "page": "https://bokenjapan.com/fukui/awara/stay/"
     },
@@ -1099,8 +1099,8 @@
      "category": "Casual"
     },
     {
-     "name": "Casual diner (shokudo) specialising in Echizen",
-     "name_en": "Casual diner (shokudo) specialising in Echizen",
+     "name": "Lisbon Eight",
+     "name_en": "Lisbon Eight",
      "name_ja": "リスボンエイト",
      "description": "Casual diner (shokudo) specialising in pasta in Echizen.",
      "source_url": "https://tabelog.com/fukui/A1802/A180202/18003072/",
@@ -1223,8 +1223,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Soba noodle restaurant in Echizen (#12)",
-     "name_en": "Soba noodle restaurant in Echizen (#12)",
+     "name": "Goseian",
+     "name_en": "Goseian",
      "name_ja": "御清水庵",
      "description": "Soba noodle restaurant in Echizen.",
      "source_url": "https://tabelog.com/fukui/A1802/A180202/18000047/",
@@ -1232,8 +1232,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Soba noodle restaurant in Echizen (#13)",
-     "name_en": "Soba noodle restaurant in Echizen (#13)",
+     "name": "Towari Soba Terakoya",
+     "name_en": "Towari Soba Terakoya",
      "name_ja": "十割蕎麦 寺子屋",
      "description": "Soba noodle restaurant in Echizen.",
      "source_url": "https://tabelog.com/fukui/A1802/A180202/18009344/",
@@ -1947,10 +1947,10 @@
    ],
    "stays": [
     {
-     "name": "Business hotel in Echizen",
-     "name_en": "Business hotel in Echizen",
+     "name": "Hotel Route Inn Takefu Inter",
+     "name_en": "Hotel Route Inn Takefu Inter",
      "name_ja": "ホテルルートイン武生インター",
-     "description": "Business hotel in Echizen.",
+     "description": "Business hotel in Echizen with 161 rooms, a large communal bath and free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.ikyu.com/00081779/",
      "page": "https://bokenjapan.com/fukui/echizen/stay/"
     },
@@ -2014,7 +2014,7 @@
      "name": "Echizen Washi Craft Inn SUKU",
      "name_en": "Echizen Washi Craft Inn SUKU",
      "name_ja": "越前和紙を体感する工芸宿 SUKU",
-     "description": "Inn in Echizen.",
+     "description": "Inn in Echizen with free parking.",
      "source_url": "https://www.jalan.net/yad333654/",
      "page": "https://bokenjapan.com/fukui/echizen/stay/"
     }
@@ -2156,8 +2156,8 @@
      "category": "Casual"
     },
     {
-     "name": "French restaurant in Echizencho",
-     "name_en": "French restaurant in Echizencho",
+     "name": "Riz Air",
+     "name_en": "Riz Air",
      "name_ja": "リズエアール",
      "description": "French restaurant in Echizencho.",
      "source_url": "https://tabelog.com/fukui/A1802/A180201/18008158/",
@@ -2165,8 +2165,8 @@
      "category": "European"
     },
     {
-     "name": "Soba noodle restaurant specialising in Echizencho",
-     "name_en": "Soba noodle restaurant specialising in Echizencho",
+     "name": "Menbō Shingetsutei",
+     "name_en": "Menbō Shingetsutei",
      "name_ja": "めん房 新月亭",
      "description": "Soba noodle restaurant specialising in udon noodles in Echizencho.",
      "source_url": "https://tabelog.com/fukui/A1802/A180201/18000368/",
@@ -2291,8 +2291,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Seafood restaurant in Echizencho",
-     "name_en": "Seafood restaurant in Echizencho",
+     "name": "Uona Ryōri Demise",
+     "name_en": "Uona Ryōri Demise",
      "name_ja": "魚菜料理 出みせ",
      "description": "Seafood restaurant in Echizencho.",
      "source_url": "https://tabelog.com/fukui/A1802/A180201/18004600/",
@@ -2327,8 +2327,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Japanese sweets shop specialising in Echizencho",
-     "name_en": "Japanese sweets shop specialising in Echizencho",
+     "name": "Asahi Fūgetsudō",
+     "name_en": "Asahi Fūgetsudō",
      "name_ja": "朝日風月堂",
      "description": "Japanese sweets shop specialising in cakes in Echizencho.",
      "source_url": "https://tabelog.com/fukui/A1802/A180201/18003502/",
@@ -2611,7 +2611,7 @@
      "name": "Taicho no Mori",
      "name_en": "Taicho no Mori",
      "name_ja": "泰澄の杜",
-     "description": "Inn in Echizencho.",
+     "description": "Inn in Echizencho with 11 rooms, Echizen Tamagawa Onsen hot-spring baths and free parking.",
      "source_url": "https://www.jalan.net/yad329879/",
      "page": "https://bokenjapan.com/fukui/echizencho/stay/"
     },
@@ -2619,7 +2619,7 @@
      "name": "Otaiko Hills",
      "name_en": "Otaiko Hills",
      "name_ja": "オタイコヒルズ",
-     "description": "Inn in Echizencho.",
+     "description": "Inn in Echizencho with free parking.",
      "source_url": "https://www.jalan.net/yad372984/",
      "page": "https://bokenjapan.com/fukui/echizencho/stay/"
     },
@@ -2715,7 +2715,7 @@
      "name": "Resort Ryokan Yadokari",
      "name_en": "Resort Ryokan Yadokari",
      "name_ja": "りぞうと旅館 宿かり",
-     "description": "Ryokan inn in Echizencho.",
+     "description": "Ryokan inn in Echizencho with 7 rooms, a large communal bath and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad316004/",
      "page": "https://bokenjapan.com/fukui/echizencho/stay/"
     },
@@ -2763,7 +2763,7 @@
      "name": "Echizen Coast Tamagawa no Yado Iwamotoya",
      "name_en": "Echizen Coast Tamagawa no Yado Iwamotoya",
      "name_ja": "越前海岸玉川の宿岩本屋",
-     "description": "Inn in Echizencho.",
+     "description": "Inn in Echizencho with 4 rooms, Echizen Tamagawa Onsen hot-spring baths and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad324601/",
      "page": "https://bokenjapan.com/fukui/echizencho/stay/"
     },
@@ -2925,8 +2925,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Soba noodle restaurant in Eiheiji",
-     "name_en": "Soba noodle restaurant in Eiheiji",
+     "name": "Soba Yamaya",
+     "name_en": "Soba Yamaya",
      "name_ja": "蕎麦 山や",
      "description": "Soba noodle restaurant in Eiheiji.",
      "source_url": "https://tabelog.com/fukui/A1801/A180101/18010106/",
@@ -2970,8 +2970,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Soba noodle restaurant specialising in Eiheiji",
-     "name_en": "Soba noodle restaurant specialising in Eiheiji",
+     "name": "Yanoya",
+     "name_en": "Yanoya",
      "name_ja": "矢の屋",
      "description": "Soba noodle restaurant specialising in udon noodles in Eiheiji.",
      "source_url": "https://tabelog.com/fukui/A1801/A180103/18007471/",
@@ -3015,8 +3015,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Japanese sweets café in Eiheiji",
-     "name_en": "Japanese sweets café in Eiheiji",
+     "name": "Dansuke",
+     "name_en": "Dansuke",
      "name_ja": "團助",
      "description": "Japanese sweets café in Eiheiji.",
      "source_url": "https://tabelog.com/fukui/A1801/A180103/18003366/",
@@ -3024,8 +3024,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Cake shop in Eiheiji",
-     "name_en": "Cake shop in Eiheiji",
+     "name": "Atelier Kashū",
+     "name_en": "Atelier Kashū",
      "name_ja": "アトリエ菓修",
      "description": "Cake shop in Eiheiji.",
      "source_url": "https://tabelog.com/fukui/A1801/A180103/18005448/",
@@ -3041,8 +3041,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Japanese sweets shop in Eiheiji",
-     "name_en": "Japanese sweets shop in Eiheiji",
+     "name": "Maeda Seika Habutae Mochi no Furusato",
+     "name_en": "Maeda Seika Habutae Mochi no Furusato",
      "name_ja": "マエダセイカ 羽二重餅の古里",
      "description": "Japanese sweets shop in Eiheiji.",
      "source_url": "https://tabelog.com/fukui/A1801/A180103/18003577/",
@@ -3284,7 +3284,7 @@
      "name": "Kakomiyado KAKOMIYADO",
      "name_en": "Kakomiyado KAKOMIYADO",
      "name_ja": "囲宿 -KAKOMIYADO-",
-     "description": "Inn in Eiheiji.",
+     "description": "Holiday rental house in Eiheiji with free parking.",
      "source_url": "https://www.jalan.net/yad341736/",
      "page": "https://bokenjapan.com/fukui/eiheiji/stay/"
     },
@@ -3444,8 +3444,8 @@
      "category": "Cafe"
     },
     {
-     "name": "French restaurant in Fukui",
-     "name_en": "French restaurant in Fukui",
+     "name": "Le Jardin",
+     "name_en": "Le Jardin",
      "name_ja": "ル ジャルダン",
      "description": "French restaurant in Fukui.",
      "source_url": "https://tabelog.com/fukui/A1801/A180101/18009178/",
@@ -3453,8 +3453,8 @@
      "category": "European"
     },
     {
-     "name": "Yoshoku (Western-style Japanese) restaurant specialising in Fukui",
-     "name_en": "Yoshoku (Western-style Japanese) restaurant specialising in Fukui",
+     "name": "Yōroppa-ken Sōhonten",
+     "name_en": "Yōroppa-ken Sōhonten",
      "name_ja": "ヨーロッパ軒 総本店",
      "description": "Yoshoku (Western-style Japanese) restaurant specialising in tonkatsu and rice bowls in Fukui.",
      "source_url": "https://tabelog.com/fukui/A1801/A180101/18000015/",
@@ -3766,8 +3766,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Japanese restaurant in Fukui (#2)",
-     "name_en": "Japanese restaurant in Fukui (#2)",
+     "name": "Ichitō",
+     "name_en": "Ichitō",
      "name_ja": "御料理 一燈",
      "description": "Japanese restaurant in Fukui.",
      "source_url": "https://tabelog.com/fukui/A1801/A180101/18008141/",
@@ -3802,8 +3802,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Japanese restaurant in Fukui (#20)",
-     "name_en": "Japanese restaurant in Fukui (#20)",
+     "name": "Mon'ya",
+     "name_en": "Mon'ya",
      "name_ja": "紋や",
      "description": "Japanese restaurant in Fukui.",
      "source_url": "https://tabelog.com/fukui/A1801/A180101/18002662/",
@@ -3892,8 +3892,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Seafood restaurant in Fukui",
-     "name_en": "Seafood restaurant in Fukui",
+     "name": "Uoya no Kuidokoro Matsuda",
+     "name_en": "Uoya no Kuidokoro Matsuda",
      "name_ja": "魚屋の喰い処まつ田",
      "description": "Seafood restaurant in Fukui.",
      "source_url": "https://tabelog.com/fukui/A1801/A180101/18004230/",
@@ -4619,10 +4619,10 @@
    ],
    "stays": [
     {
-     "name": "Inn in Fukui",
-     "name_en": "Inn in Fukui",
+     "name": "Courtyard by Marriott Fukui",
+     "name_en": "Courtyard by Marriott Fukui",
      "name_ja": "コートヤード・バイ・マリオット福井",
-     "description": "Inn in Fukui.",
+     "description": "Inn in Fukui with 12 rooms and a large communal bath; within a 5-minute walk of a station.",
      "source_url": "https://www.ikyu.com/00003189/",
      "page": "https://bokenjapan.com/fukui/fukui/stay/"
     },
@@ -4638,7 +4638,7 @@
      "name": "Kappo Ryokan Echizen Mangetsu",
      "name_en": "Kappo Ryokan Echizen Mangetsu",
      "name_ja": "割烹旅館 越前満月",
-     "description": "Ryokan inn in Fukui.",
+     "description": "Ryokan inn in Fukui with 9 rooms, Takasu Onsen hot-spring baths and free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.ikyu.com/00001315/",
      "page": "https://bokenjapan.com/fukui/fukui/stay/"
     },
@@ -4646,7 +4646,7 @@
      "name": "Fukui Manten Hotel Ekimae (Manten Hotel Group)",
      "name_en": "Fukui Manten Hotel Ekimae (Manten Hotel Group)",
      "name_ja": "福井マンテンホテル駅前（マンテンホテルグループ）",
-     "description": "Hotel in Fukui.",
+     "description": "Hotel in Fukui with a large communal bath; within a 5-minute walk of a station.",
      "source_url": "https://www.ikyu.com/00081138/",
      "page": "https://bokenjapan.com/fukui/fukui/stay/"
     },
@@ -4670,7 +4670,7 @@
      "name": "Hotel Route-Inn Fukui Owada",
      "name_en": "Hotel Route-Inn Fukui Owada",
      "name_ja": "ホテルルートイン福井大和田",
-     "description": "Business hotel in Fukui.",
+     "description": "Business hotel in Fukui with a large communal bath and free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.ikyu.com/00080417/",
      "page": "https://bokenjapan.com/fukui/fukui/stay/"
     },
@@ -4678,7 +4678,7 @@
      "name": "Hotel Route-Inn Fukui Ekimae",
      "name_en": "Hotel Route-Inn Fukui Ekimae",
      "name_ja": "ホテルルートイン福井駅前",
-     "description": "Business hotel in Fukui.",
+     "description": "Business hotel in Fukui; within a 5-minute walk of a station.",
      "source_url": "https://www.ikyu.com/00080352/",
      "page": "https://bokenjapan.com/fukui/fukui/stay/"
     },
@@ -4686,7 +4686,7 @@
      "name": "Asuwagawa Little Art asunowa",
      "name_en": "Asuwagawa Little Art asunowa",
      "name_ja": "足羽川リトアート asunowa",
-     "description": "Inn in Fukui.",
+     "description": "Inn in Fukui with 1 room and free parking.",
      "source_url": "https://www.ikyu.com/00052535/",
      "page": "https://bokenjapan.com/fukui/fukui/stay/"
     },
@@ -4717,7 +4717,7 @@
      "name": "Hotel Fujita Fukui",
      "name_en": "Hotel Fujita Fukui",
      "name_ja": "ホテルフジタ福井",
-     "description": "Hotel in Fukui.",
+     "description": "Hotel in Fukui with 1 room; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad382628/",
      "page": "https://bokenjapan.com/fukui/fukui/stay/"
     },
@@ -4725,7 +4725,7 @@
      "name": "Fukui Palace Inn",
      "name_en": "Fukui Palace Inn",
      "name_ja": "福井パレスイン",
-     "description": "Inn in Fukui.",
+     "description": "Inn in Fukui; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad326844/",
      "page": "https://bokenjapan.com/fukui/fukui/stay/"
     },
@@ -4765,7 +4765,7 @@
      "name": "Fukui Palace Hotel",
      "name_en": "Fukui Palace Hotel",
      "name_ja": "福井パレスホテル",
-     "description": "Hotel in Fukui.",
+     "description": "Hotel in Fukui with a large communal bath; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad376440/",
      "page": "https://bokenjapan.com/fukui/fukui/stay/"
     },
@@ -4773,7 +4773,7 @@
      "name": "Toyoko Inn Fukui Ekimae",
      "name_en": "Toyoko Inn Fukui Ekimae",
      "name_ja": "東横ＩＮＮ 福井駅前",
-     "description": "Business hotel in Fukui.",
+     "description": "Business hotel in Fukui; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad384300/",
      "page": "https://bokenjapan.com/fukui/fukui/stay/"
     },
@@ -4797,7 +4797,7 @@
      "name": "Hotel Econo Fukui Ekimae",
      "name_en": "Hotel Econo Fukui Ekimae",
      "name_ja": "ホテルエコノ福井駅前",
-     "description": "Hotel in Fukui.",
+     "description": "Hotel in Fukui; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad339123/",
      "page": "https://bokenjapan.com/fukui/fukui/stay/"
     },
@@ -4829,7 +4829,7 @@
      "name": "9STAY Fukui Ekimae",
      "name_en": "9STAY Fukui Ekimae",
      "name_ja": "９ＳＴＡＹ福井駅前",
-     "description": "Inn in Fukui.",
+     "description": "Inn in Fukui; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad396798/",
      "page": "https://bokenjapan.com/fukui/fukui/stay/"
     },
@@ -4995,7 +4995,7 @@
      "name": "Hotel Kappo Ishimaru (Echizen Crab and Abalone Inn)",
      "name_en": "Hotel Kappo Ishimaru (Echizen Crab and Abalone Inn)",
      "name_ja": "越前ガニと天然アワビの宿 ホテル割烹石丸",
-     "description": "Hotel in Fukui.",
+     "description": "Hotel in Fukui with 11 rooms, Takasu Onsen hot-spring baths and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad338246/",
      "page": "https://bokenjapan.com/fukui/fukui/stay/"
     },
@@ -5010,7 +5010,7 @@
      "name": "URBAN RESORT Echizen I, II",
      "name_en": "URBAN RESORT Echizen I, II",
      "name_ja": "URBAN RESORT 越前 Ⅰ,Ⅱ",
-     "description": "Inn in Fukui.",
+     "description": "Holiday rental house in Fukui with 6 rooms and free parking.",
      "source_url": "https://www.jalan.net/yad373844/",
      "page": "https://bokenjapan.com/fukui/fukui/stay/"
     },
@@ -5096,8 +5096,8 @@
    ],
    "food": [
     {
-     "name": "Café in Fukuiikeda",
-     "name_en": "Café in Fukuiikeda",
+     "name": "Michi no Oasis Four Seasons Terrace",
+     "name_en": "Michi no Oasis Four Seasons Terrace",
      "name_ja": "道のオアシス フォーシーズンテラス",
      "description": "Café in Fukuiikeda.",
      "source_url": "https://tabelog.com/fukui/A1802/A180202/18009924/",
@@ -5131,8 +5131,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Tea stand in Fukuiikeda",
-     "name_en": "Tea stand in Fukuiikeda",
+     "name": "Komekoro Cafe",
+     "name_en": "Komekoro Cafe",
      "name_ja": "コメコロカフェ",
      "description": "Tea stand in Fukuiikeda.",
      "source_url": "https://tabelog.com/fukui/A1802/A180202/18010352/",
@@ -5212,8 +5212,8 @@
      "category": "Casual"
     },
     {
-     "name": "Yoshoku (Western-style Japanese) restaurant specialising in Fukuiikeda",
-     "name_en": "Yoshoku (Western-style Japanese) restaurant specialising in Fukuiikeda",
+     "name": "Mokumoku House Ajina-kan",
+     "name_en": "Mokumoku House Ajina-kan",
      "name_ja": "もくもくハウス味な館",
      "description": "Yoshoku (Western-style Japanese) restaurant specialising in bar and burgers in Fukuiikeda.",
      "source_url": "https://tabelog.com/fukui/A1802/A180202/18003301/",
@@ -5449,13 +5449,13 @@
      "name": "Yukyu no Yado Furafu",
      "name_en": "Yukyu no Yado Furafu",
      "name_ja": "悠久の宿ふらふ",
-     "description": "Inn in Fukuiikeda.",
+     "description": "Holiday rental house in Fukuiikeda with private baths and free parking.",
      "source_url": "https://www.ikyu.com/00051648/",
      "page": "https://bokenjapan.com/fukui/fukuiikeda/stay/"
     },
     {
-     "name": "Inn in Fukuiikeda",
-     "name_en": "Inn in Fukuiikeda",
+     "name": "Farmhouse Comunita",
+     "name_en": "Farmhouse Comunita",
      "name_ja": "いけだ体験と里山ごはんの宿 ファームハウス コムニタ",
      "description": "Inn in Fukuiikeda with crab dinners.",
      "source_url": "https://www.jalan.net/yad308698/",
@@ -5606,8 +5606,8 @@
      "category": "Casual"
     },
     {
-     "name": "Casual diner (shokudo) in Fukuimihama",
-     "name_en": "Casual diner (shokudo) in Fukuimihama",
+     "name": "Goko no Eki",
+     "name_en": "Goko no Eki",
      "name_ja": "五湖の駅",
      "description": "Casual diner (shokudo) in Fukuimihama.",
      "source_url": "https://tabelog.com/fukui/A1803/A180302/18004057/",
@@ -5624,8 +5624,8 @@
      "category": "Casual"
     },
     {
-     "name": "Chinese restaurant in Fukuimihama",
-     "name_en": "Chinese restaurant in Fukuimihama",
+     "name": "Chuka Shibo Saikan Rokuen",
+     "name_en": "Chuka Shibo Saikan Rokuen",
      "name_ja": "中華私房菜館 禄縁",
      "description": "Chinese restaurant in Fukuimihama.",
      "source_url": "https://tabelog.com/fukui/A1803/A180302/18008664/",
@@ -5650,8 +5650,8 @@
      "category": "Other"
     },
     {
-     "name": "Japanese restaurant in Fukuimihama",
-     "name_en": "Japanese restaurant in Fukuimihama",
+     "name": "Meshiya Hamabi",
+     "name_en": "Meshiya Hamabi",
      "name_ja": "メシヤ ハマビ",
      "description": "Japanese restaurant in Fukuimihama.",
      "source_url": "https://tabelog.com/fukui/A1803/A180302/18009421/",
@@ -5871,8 +5871,8 @@
      "page": "https://bokenjapan.com/fukui/fukuimihama/stay/"
     },
     {
-     "name": "Inn in Fukuimihama",
-     "name_en": "Inn in Fukuimihama",
+     "name": "Grants",
+     "name_en": "Grants",
      "name_ja": "グランツ",
      "description": "Inn in Fukuimihama with local seafood dinners and sea views.",
      "source_url": "https://www.jalan.net/yad369232/",
@@ -5906,7 +5906,7 @@
      "name": "Ryokan Tanabe",
      "name_en": "Ryokan Tanabe",
      "name_ja": "旅館たなべ",
-     "description": "Ryokan inn in Fukuimihama.",
+     "description": "Ryokan inn in Fukuimihama with 6 rooms and free parking.",
      "source_url": "https://www.jalan.net/yad330592/",
      "page": "https://bokenjapan.com/fukui/fukuimihama/stay/"
     },
@@ -5922,7 +5922,7 @@
      "name": "Hotel WAN STORY",
      "name_en": "Hotel WAN STORY",
      "name_ja": "ホテル WAN STORY",
-     "description": "Hotel in Fukuimihama.",
+     "description": "Hotel in Fukuimihama with 2 rooms and free parking.",
      "source_url": "https://www.jalan.net/yad340097/",
      "page": "https://bokenjapan.com/fukui/fukuimihama/stay/"
     },
@@ -5938,7 +5938,7 @@
      "name": "Dohoh Ryokan",
      "name_en": "Dohoh Ryokan",
      "name_ja": "道保旅館",
-     "description": "Ryokan inn in Fukuimihama.",
+     "description": "Ryokan inn in Fukuimihama with 16 rooms and free parking.",
      "source_url": "https://www.jalan.net/yad344281/",
      "page": "https://bokenjapan.com/fukui/fukuimihama/stay/"
     },
@@ -6017,8 +6017,8 @@
    ],
    "food": [
     {
-     "name": "Café in Katsuyama",
-     "name_en": "Café in Katsuyama",
+     "name": "Kagetsuro",
+     "name_en": "Kagetsuro",
      "name_ja": "花月楼",
      "description": "Café in Katsuyama.",
      "source_url": "https://tabelog.com/fukui/A1804/A180401/18007390/",
@@ -6044,8 +6044,8 @@
      "category": "Casual"
     },
     {
-     "name": "Casual diner (shokudo) in Katsuyama",
-     "name_en": "Casual diner (shokudo) in Katsuyama",
+     "name": "Gohan-ya Gottsuo",
+     "name_en": "Gohan-ya Gottsuo",
      "name_ja": "ごはん屋ごっつぉ",
      "description": "Casual diner (shokudo) in Katsuyama.",
      "source_url": "https://tabelog.com/fukui/A1804/A180401/18007847/",
@@ -6089,8 +6089,8 @@
      "category": "Japanese (meat)"
     },
     {
-     "name": "Soba noodle restaurant in Katsuyama",
-     "name_en": "Soba noodle restaurant in Katsuyama",
+     "name": "Teuchi Soba Hassuke",
+     "name_en": "Teuchi Soba Hassuke",
      "name_ja": "手打ちそば 八助",
      "description": "Soba noodle restaurant in Katsuyama.",
      "source_url": "https://tabelog.com/fukui/A1804/A180401/18000960/",
@@ -6125,8 +6125,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Soba noodle restaurant specialising in Katsuyama",
-     "name_en": "Soba noodle restaurant specialising in Katsuyama",
+     "name": "Shokuan Orita",
+     "name_en": "Shokuan Orita",
      "name_ja": "食庵おり田",
      "description": "Soba noodle restaurant specialising in sukiyaki in Katsuyama.",
      "source_url": "https://tabelog.com/fukui/A1804/A180401/18003119/",
@@ -6188,8 +6188,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Japanese sweets shop specialising in Katsuyama",
-     "name_en": "Japanese sweets shop specialising in Katsuyama",
+     "name": "Kinkado Hayakawa Katsuyama Honten",
+     "name_en": "Kinkado Hayakawa Katsuyama Honten",
      "name_ja": "金花堂 はや川 勝山本店",
      "description": "Japanese sweets shop specialising in sushi in Katsuyama.",
      "source_url": "https://tabelog.com/fukui/A1804/A180401/18002735/",
@@ -6214,8 +6214,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Gelato and ice-cream shop in Katsuyama",
-     "name_en": "Gelato and ice-cream shop in Katsuyama",
+     "name": "Beri-ka",
+     "name_en": "Beri-ka",
      "name_ja": "べり果",
      "description": "Gelato and ice-cream shop in Katsuyama.",
      "source_url": "https://tabelog.com/fukui/A1804/A180401/18008540/",
@@ -6223,8 +6223,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Soft-serve stand in Katsuyama",
-     "name_en": "Soft-serve stand in Katsuyama",
+     "name": "Heisenji no Soft Cream Ya-san",
+     "name_en": "Heisenji no Soft Cream Ya-san",
      "name_ja": "平泉寺のソフトクリーム屋さん",
      "description": "Soft-serve stand in Katsuyama.",
      "source_url": "https://tabelog.com/fukui/A1804/A180401/18002585/",
@@ -6458,7 +6458,7 @@
      "name": "Itajin",
      "name_en": "Itajin",
      "name_ja": "板甚",
-     "description": "Inn in Katsuyama.",
+     "description": "Inn in Katsuyama with 12 rooms and free parking; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad374590/",
      "page": "https://bokenjapan.com/fukui/katsuyama/stay/"
     },
@@ -6466,7 +6466,7 @@
      "name": "Dino House Katsuyama 1",
      "name_en": "Dino House Katsuyama 1",
      "name_ja": "ディノハウス勝山１",
-     "description": "Inn in Katsuyama.",
+     "description": "Holiday rental house in Katsuyama with free parking.",
      "source_url": "https://www.jalan.net/yad371910/",
      "page": "https://bokenjapan.com/fukui/katsuyama/stay/"
     },
@@ -6474,7 +6474,7 @@
      "name": "Dino House Katsuyama 2",
      "name_en": "Dino House Katsuyama 2",
      "name_ja": "ディノハウス勝山２",
-     "description": "Inn in Katsuyama.",
+     "description": "Inn in Katsuyama with free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad360974/",
      "page": "https://bokenjapan.com/fukui/katsuyama/stay/"
     },
@@ -6495,8 +6495,8 @@
      "page": "https://bokenjapan.com/fukui/katsuyama/stay/"
     },
     {
-     "name": "Pension in Katsuyama",
-     "name_en": "Pension in Katsuyama",
+     "name": "Pension Hoshi no Ko",
+     "name_en": "Pension Hoshi no Ko",
      "name_ja": "ペンション星の子",
      "description": "Pension in Katsuyama.",
      "source_url": "https://www.jalan.net/yad342036/",
@@ -6506,7 +6506,7 @@
      "name": "Amago no Yado",
      "name_en": "Amago no Yado",
      "name_ja": "あまごの宿",
-     "description": "Inn in Katsuyama.",
+     "description": "Inn in Katsuyama with 11 rooms, private baths and free parking.",
      "source_url": "https://www.jalan.net/yad314047/",
      "page": "https://bokenjapan.com/fukui/katsuyama/stay/"
     }
@@ -6591,8 +6591,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Casual diner (shokudo) specialising in Minamiechizen",
-     "name_en": "Casual diner (shokudo) specialising in Minamiechizen",
+     "name": "Kominaka Restaurant Rantan",
+     "name_en": "Kominaka Restaurant Rantan",
      "name_ja": "古民家レストラン らんたん",
      "description": "Casual diner (shokudo) specialising in sukiyaki and seafood in Minamiechizen.",
      "source_url": "https://tabelog.com/fukui/A1802/A180202/18008492/",
@@ -6726,8 +6726,8 @@
      "category": "Other"
     },
     {
-     "name": "Japanese restaurant specialising in Minamiechizen",
-     "name_en": "Japanese restaurant specialising in Minamiechizen",
+     "name": "Imajo Shokujidokoro Uoza",
+     "name_en": "Imajo Shokujidokoro Uoza",
      "name_ja": "今庄食事処 うお座",
      "description": "Japanese restaurant specialising in seafood and tonkatsu in Minamiechizen.",
      "source_url": "https://tabelog.com/fukui/A1802/A180202/18010331/",
@@ -7116,7 +7116,7 @@
      "name": "Hotel Hamaya",
      "name_en": "Hotel Hamaya",
      "name_ja": "ホテルはま屋",
-     "description": "Hotel in Minamiechizen.",
+     "description": "Hotel in Minamiechizen with 9 rooms, private baths and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad324043/",
      "page": "https://bokenjapan.com/fukui/minamiechizen/stay/"
     },
@@ -7196,8 +7196,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Deli specialising in Obama",
-     "name_en": "Deli specialising in Obama",
+     "name": "Wakahiro",
+     "name_en": "Wakahiro",
      "name_ja": "若廣",
      "description": "Deli specialising in sushi in Obama.",
      "source_url": "https://tabelog.com/fukui/A1803/A180304/18006009/",
@@ -7214,8 +7214,8 @@
      "category": "Casual"
     },
     {
-     "name": "Casual diner (shokudo) in Obama",
-     "name_en": "Casual diner (shokudo) in Obama",
+     "name": "Misty",
+     "name_en": "Misty",
      "name_ja": "ミスティ",
      "description": "Casual diner (shokudo) in Obama.",
      "source_url": "https://tabelog.com/fukui/A1803/A180304/18009190/",
@@ -7455,8 +7455,8 @@
      "category": "Other"
     },
     {
-     "name": "Sushi restaurant in Obama",
-     "name_en": "Sushi restaurant in Obama",
+     "name": "Sushi Shimakawa",
+     "name_en": "Sushi Shimakawa",
      "name_ja": "寿し島川",
      "description": "Sushi restaurant in Obama.",
      "source_url": "https://tabelog.com/fukui/A1803/A180304/18001543/",
@@ -7598,8 +7598,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Japanese sweets shop in Obama",
-     "name_en": "Japanese sweets shop in Obama",
+     "name": "Inoue Koyokan",
+     "name_en": "Inoue Koyokan",
      "name_ja": "井上耕養庵",
      "description": "Japanese sweets shop in Obama.",
      "source_url": "https://tabelog.com/fukui/A1803/A180304/18000879/",
@@ -7956,7 +7956,7 @@
      "name": "sea-auberge shitsumi",
      "name_en": "sea-auberge shitsumi",
      "name_ja": "sea-auberge shitsumi 海のオーベルジュ志積",
-     "description": "Inn in Obama.",
+     "description": "Inn in Obama with 2 rooms and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.ikyu.com/00031095/",
      "page": "https://bokenjapan.com/fukui/obama/stay/"
     },
@@ -7964,7 +7964,7 @@
      "name": "Wakasa Kajitsu (Inn Savouring Wakasa's Sea, Food and Culture)",
      "name_en": "Wakasa Kajitsu (Inn Savouring Wakasa's Sea, Food and Culture)",
      "name_ja": "御食国若狭の海、食、文化を堪能する宿 若狭佳日",
-     "description": "Inn in Obama.",
+     "description": "Inn in Obama with 3 rooms, an open-air bath and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.ikyu.com/00003097/",
      "page": "https://bokenjapan.com/fukui/obama/stay/"
     },
@@ -8001,8 +8001,8 @@
      "page": "https://bokenjapan.com/fukui/obama/stay/"
     },
     {
-     "name": "Inn in Obama",
-     "name_en": "Inn in Obama",
+     "name": "Aprodile Hana Soju",
+     "name_en": "Aprodile Hana Soju",
      "name_ja": "アプロディール華双寿",
      "description": "Inn in Obama with tatami rooms and Western-style rooms.",
      "source_url": "https://www.jalan.net/yad348528/",
@@ -8028,7 +8028,7 @@
      "name": "Machiyado Tsumugi",
      "name_en": "Machiyado Tsumugi",
      "name_ja": "町宿 紬",
-     "description": "Inn in Obama.",
+     "description": "Inn in Obama with free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad366108/",
      "page": "https://bokenjapan.com/fukui/obama/stay/"
     },
@@ -8036,7 +8036,7 @@
      "name": "Tsubaki Tokotoha",
      "name_en": "Tsubaki Tokotoha",
      "name_ja": "椿とことは",
-     "description": "Inn in Obama.",
+     "description": "Holiday rental house in Obama with private baths and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad397310/",
      "page": "https://bokenjapan.com/fukui/obama/stay/"
     },
@@ -8132,7 +8132,7 @@
      "name": "Minshuku Kishino",
      "name_en": "Minshuku Kishino",
      "name_ja": "民宿きしの",
-     "description": "Family-run minshuku in Obama.",
+     "description": "Family-run minshuku in Obama with 4 rooms, private baths and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad321792/",
      "page": "https://bokenjapan.com/fukui/obama/stay/"
     },
@@ -8148,7 +8148,7 @@
      "name": "Amimoto no Minshuku Hamanoya",
      "name_en": "Amimoto no Minshuku Hamanoya",
      "name_ja": "網元の民宿 浜乃家",
-     "description": "Family-run minshuku in Obama.",
+     "description": "Family-run minshuku in Obama with 3 rooms, private baths and free parking.",
      "source_url": "https://www.jalan.net/yad336426/",
      "page": "https://bokenjapan.com/fukui/obama/stay/"
     }
@@ -8217,8 +8217,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Café in Oi",
-     "name_en": "Café in Oi",
+     "name": "Miyako-jima Roastery Cafe",
+     "name_en": "Miyako-jima Roastery Cafe",
      "name_ja": "宮古島ロースタリーカフェ",
      "description": "Café in Oi.",
      "source_url": "https://tabelog.com/fukui/A1803/A180303/18010349/",
@@ -8226,8 +8226,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Casual diner (shokudo) in Oi",
-     "name_en": "Casual diner (shokudo) in Oi",
+     "name": "Umi Bōzu",
+     "name_en": "Umi Bōzu",
      "name_ja": "うみ・ぼ～ず",
      "description": "Casual diner (shokudo) in Oi.",
      "source_url": "https://tabelog.com/fukui/A1803/A180303/18005952/",
@@ -8244,8 +8244,8 @@
      "category": "Casual"
     },
     {
-     "name": "Indian restaurant specialising in Oi",
-     "name_en": "Indian restaurant specialising in Oi",
+     "name": "Raja",
+     "name_en": "Raja",
      "name_ja": "ラジャ",
      "description": "Indian restaurant specialising in curry in Oi.",
      "source_url": "https://tabelog.com/fukui/A1803/A180303/18007053/",
@@ -8296,8 +8296,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Soba noodle restaurant in Oi",
-     "name_en": "Soba noodle restaurant in Oi",
+     "name": "Shizen-imo Tororo iheee",
+     "name_en": "Shizen-imo Tororo iheee",
      "name_ja": "自然薯とろろ iheee",
      "description": "Soba noodle restaurant in Oi.",
      "source_url": "https://tabelog.com/fukui/A1803/A180303/18009818/",
@@ -8305,8 +8305,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Udon noodle restaurant specialising in Oi",
-     "name_en": "Udon noodle restaurant specialising in Oi",
+     "name": "Johokosaten Portal Light Meal Corner",
+     "name_en": "Johokosaten Portal Light Meal Corner",
      "name_ja": "情報交差点ぽーたる 軽食コーナー",
      "description": "Udon noodle restaurant specialising in curry in Oi.",
      "source_url": "https://tabelog.com/fukui/A1803/A180303/18004766/",
@@ -8332,8 +8332,8 @@
      "category": "Other"
     },
     {
-     "name": "Roadside station (michi-no-eki) food counter in Oi",
-     "name_en": "Roadside station (michi-no-eki) food counter in Oi",
+     "name": "Michi-no-eki Natasho",
+     "name_en": "Michi-no-eki Natasho",
      "name_ja": "道の駅名田庄",
      "description": "Roadside station (michi-no-eki) food counter in Oi.",
      "source_url": "https://tabelog.com/fukui/A1803/A180303/18006776/",
@@ -8350,8 +8350,8 @@
      "category": "Other"
     },
     {
-     "name": "Japanese restaurant in Oi",
-     "name_en": "Japanese restaurant in Oi",
+     "name": "Nihonryori Takashi",
+     "name_en": "Nihonryori Takashi",
      "name_ja": "日本料理 崇",
      "description": "Japanese restaurant in Oi.",
      "source_url": "https://tabelog.com/fukui/A1803/A180303/18009461/",
@@ -8368,8 +8368,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Ryokan inn restaurant specialising in Oi",
-     "name_en": "Ryokan inn restaurant specialising in Oi",
+     "name": "Ryori Ryokan Shinza",
+     "name_en": "Ryori Ryokan Shinza",
      "name_ja": "料理旅館 新佐",
      "description": "Ryokan inn restaurant specialising in hotpot in Oi.",
      "source_url": "https://tabelog.com/fukui/A1803/A180303/18000422/",
@@ -8395,8 +8395,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Bakery in Oi",
-     "name_en": "Bakery in Oi",
+     "name": "Wakasa no Pan'ya",
+     "name_en": "Wakasa no Pan'ya",
      "name_ja": "ワカサノパンヤ",
      "description": "Bakery in Oi.",
      "source_url": "https://tabelog.com/fukui/A1803/A180303/18009946/",
@@ -8751,8 +8751,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Café in Onoshi",
-     "name_en": "Café in Onoshi",
+     "name": "Belle Side Café Echizen Ōno",
+     "name_en": "Belle Side Café Echizen Ōno",
      "name_ja": "ベルサイドカフェ 越前大野店",
      "description": "Café in Onoshi.",
      "source_url": "https://tabelog.com/fukui/A1804/A180402/18008598/",
@@ -8778,8 +8778,8 @@
      "category": "European"
     },
     {
-     "name": "Yoshoku (Western-style Japanese) restaurant in Onoshi",
-     "name_en": "Yoshoku (Western-style Japanese) restaurant in Onoshi",
+     "name": "Ma Cherie",
+     "name_en": "Ma Cherie",
      "name_ja": "マシェリ",
      "description": "Yoshoku (Western-style Japanese) restaurant in Onoshi.",
      "source_url": "https://tabelog.com/fukui/A1804/A180402/18005074/",
@@ -8814,8 +8814,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Soba noodle restaurant specialising in Onoshi",
-     "name_en": "Soba noodle restaurant specialising in Onoshi",
+     "name": "Meisui Teuchi Soba Okimizu",
+     "name_en": "Meisui Teuchi Soba Okimizu",
      "name_ja": "名水手打ちそば お清水",
      "description": "Soba noodle restaurant specialising in rice bowls in Onoshi.",
      "source_url": "https://tabelog.com/fukui/A1804/A180402/18001724/",
@@ -8868,8 +8868,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Roadside station (michi-no-eki) food counter in Onoshi",
-     "name_en": "Roadside station (michi-no-eki) food counter in Onoshi",
+     "name": "Echizen Ōno Arashima no Sato",
+     "name_en": "Echizen Ōno Arashima no Sato",
      "name_ja": "越前おおの 荒島の郷",
      "description": "Roadside station (michi-no-eki) food counter in Onoshi.",
      "source_url": "https://tabelog.com/fukui/A1804/A180402/18008630/",
@@ -8904,8 +8904,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Japanese sweets shop in Onoshi (#2)",
-     "name_en": "Japanese sweets shop in Onoshi (#2)",
+     "name": "Itō Junwadō Honten",
+     "name_en": "Itō Junwadō Honten",
      "name_ja": "伊藤順和堂 本店",
      "description": "Japanese sweets shop in Onoshi.",
      "source_url": "https://tabelog.com/fukui/A1804/A180402/18000810/",
@@ -8922,8 +8922,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Japanese sweets shop specialising in Onoshi",
-     "name_en": "Japanese sweets shop specialising in Onoshi",
+     "name": "Kamejudō",
+     "name_en": "Kamejudō",
      "name_ja": "亀寿堂",
      "description": "Japanese sweets shop specialising in cakes in Onoshi.",
      "source_url": "https://tabelog.com/fukui/A1804/A180402/18003571/",
@@ -8940,8 +8940,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Bakery in Onoshi",
-     "name_en": "Bakery in Onoshi",
+     "name": "Panaderia",
+     "name_en": "Panaderia",
      "name_ja": "パナデリア",
      "description": "Bakery in Onoshi.",
      "source_url": "https://tabelog.com/fukui/A1804/A180402/18005984/",
@@ -8949,8 +8949,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Japanese sweets shop in Onoshi (#22)",
-     "name_en": "Japanese sweets shop in Onoshi (#22)",
+     "name": "Okimura Kōrindō",
+     "name_en": "Okimura Kōrindō",
      "name_ja": "沖村香林堂",
      "description": "Japanese sweets shop in Onoshi.",
      "source_url": "https://tabelog.com/fukui/A1804/A180402/18006865/",
@@ -9271,7 +9271,7 @@
      "name": "Mizumori no Sumika Onoya",
      "name_en": "Mizumori no Sumika Onoya",
      "name_ja": "水杜のすみか 大野屋",
-     "description": "Inn in Onoshi.",
+     "description": "Holiday rental house in Onoshi with a large communal bath and free parking.",
      "source_url": "https://www.ikyu.com/00051663/",
      "page": "https://bokenjapan.com/fukui/onoshi/stay/"
     },
@@ -9287,7 +9287,7 @@
      "name": "Ogiya (Famous-Water Inn in the Castle Town)",
      "name_en": "Ogiya (Famous-Water Inn in the Castle Town)",
      "name_ja": "城下町に佇む名水の宿 扇屋",
-     "description": "Inn in Onoshi.",
+     "description": "Inn in Onoshi with free parking.",
      "source_url": "https://www.jalan.net/yad334573/",
      "page": "https://bokenjapan.com/fukui/onoshi/stay/"
     },
@@ -9303,7 +9303,7 @@
      "name": "Asahi Ryokan",
      "name_en": "Asahi Ryokan",
      "name_ja": "阿さひ旅館",
-     "description": "Ryokan inn in Onoshi.",
+     "description": "Ryokan inn in Onoshi with 8 rooms, private baths and free parking.",
      "source_url": "https://www.jalan.net/yad300108/",
      "page": "https://bokenjapan.com/fukui/onoshi/stay/"
     },
@@ -9311,7 +9311,7 @@
      "name": "Hotel Sunrea 21",
      "name_en": "Hotel Sunrea 21",
      "name_ja": "ホテル サンレア２１",
-     "description": "Hotel in Onoshi.",
+     "description": "Hotel in Onoshi with free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.jalan.net/yad394531/",
      "page": "https://bokenjapan.com/fukui/onoshi/stay/"
     },
@@ -9319,7 +9319,7 @@
      "name": "Rokuroshi Kogen no Yado",
      "name_en": "Rokuroshi Kogen no Yado",
      "name_ja": "六呂師 高原の宿",
-     "description": "Inn in Onoshi.",
+     "description": "Inn in Onoshi with 3 rooms, private baths and free parking.",
      "source_url": "https://www.jalan.net/yad398980/",
      "page": "https://bokenjapan.com/fukui/onoshi/stay/"
     },
@@ -9441,8 +9441,8 @@
      "category": "Chinese & Asian"
     },
     {
-     "name": "Curry restaurant in Sabae",
-     "name_en": "Curry restaurant in Sabae",
+     "name": "Ōfū Karē Senmonten Golden Cup",
+     "name_en": "Ōfū Karē Senmonten Golden Cup",
      "name_ja": "欧風カレー専門店 ゴールデンカップ",
      "description": "Curry restaurant in Sabae.",
      "source_url": "https://tabelog.com/fukui/A1802/A180201/18009130/",
@@ -9513,8 +9513,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Soba noodle restaurant specialising in Sabae",
-     "name_en": "Soba noodle restaurant specialising in Sabae",
+     "name": "Nidanbō",
+     "name_en": "Nidanbō",
      "name_ja": "二男坊",
      "description": "Soba noodle restaurant specialising in udon noodles in Sabae.",
      "source_url": "https://tabelog.com/fukui/A1802/A180201/18001351/",
@@ -9549,8 +9549,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Tsukemen (dipping-noodle) shop specialising in Sabae",
-     "name_en": "Tsukemen (dipping-noodle) shop specialising in Sabae",
+     "name": "Saba no E",
+     "name_en": "Saba no E",
      "name_ja": "鯖の江",
      "description": "Tsukemen (dipping-noodle) shop specialising in ramen in Sabae.",
      "source_url": "https://tabelog.com/fukui/A1802/A180201/18006645/",
@@ -9594,8 +9594,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Cake shop in Sabae",
-     "name_en": "Cake shop in Sabae",
+     "name": "Perche",
+     "name_en": "Perche",
      "name_ja": "ペルシュ",
      "description": "Cake shop in Sabae.",
      "source_url": "https://tabelog.com/fukui/A1802/A180201/18003967/",
@@ -9963,8 +9963,8 @@
      "category": "Casual"
     },
     {
-     "name": "Casual restaurant in Sakaishi",
-     "name_en": "Casual restaurant in Sakaishi",
+     "name": "Sangoku Minato-za",
+     "name_en": "Sangoku Minato-za",
      "name_ja": "三國湊座",
      "description": "Bar and Burgers restaurant specialising in Japanese sweets cafe in Sakaishi.",
      "source_url": "https://tabelog.com/fukui/A1801/A180102/18000362/",
@@ -9990,8 +9990,8 @@
      "category": "European"
     },
     {
-     "name": "French restaurant in Sakaishi",
-     "name_en": "French restaurant in Sakaishi",
+     "name": "Samuze",
+     "name_en": "Samuze",
      "name_ja": "サミュゼ",
      "description": "French restaurant in Sakaishi.",
      "source_url": "https://tabelog.com/fukui/A1801/A180102/18008082/",
@@ -10088,8 +10088,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Crab restaurant specialising in Sakaishi (#1)",
-     "name_en": "Crab restaurant specialising in Sakaishi (#1)",
+     "name": "Kawaki",
+     "name_en": "Kawaki",
      "name_ja": "川喜",
      "description": "Crab restaurant specialising in seafood in Sakaishi.",
      "source_url": "https://tabelog.com/fukui/A1801/A180102/18000003/",
@@ -10097,8 +10097,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Ryokan inn restaurant specialising in Sakaishi",
-     "name_en": "Ryokan inn restaurant specialising in Sakaishi",
+     "name": "Bōyōrō",
+     "name_en": "Bōyōrō",
      "name_ja": "望洋樓",
      "description": "Ryokan inn restaurant specialising in Japanese cuisine in Sakaishi.",
      "source_url": "https://tabelog.com/fukui/A1801/A180102/18000385/",
@@ -10106,8 +10106,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Crab restaurant specialising in Sakaishi (#7)",
-     "name_en": "Crab restaurant specialising in Sakaishi (#7)",
+     "name": "Echizen Kani no Bō",
+     "name_en": "Echizen Kani no Bō",
      "name_ja": "越前蟹の坊",
      "description": "Crab restaurant specialising in seafood and seafood and rice bowls in Sakaishi.",
      "source_url": "https://tabelog.com/fukui/A1801/A180102/18004214/",
@@ -10124,8 +10124,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Seafood restaurant specialising in Sakaishi",
-     "name_en": "Seafood restaurant specialising in Sakaishi",
+     "name": "Ryōri Chaya Gyoshirō",
+     "name_en": "Ryōri Chaya Gyoshirō",
      "name_ja": "料理茶屋 魚志楼",
      "description": "Seafood restaurant specialising in Japanese cuisine in Sakaishi.",
      "source_url": "https://tabelog.com/fukui/A1801/A180102/18000375/",
@@ -10142,8 +10142,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Gelato and ice-cream shop in Sakaishi",
-     "name_en": "Gelato and ice-cream shop in Sakaishi",
+     "name": "Karuna",
+     "name_en": "Karuna",
      "name_ja": "カルナ",
      "description": "Gelato and ice-cream shop in Sakaishi.",
      "source_url": "https://tabelog.com/fukui/A1801/A180102/18000273/",
@@ -10151,8 +10151,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Japanese sweets shop in Sakaishi",
-     "name_en": "Japanese sweets shop in Sakaishi",
+     "name": "Satsukigase Funakiyan",
+     "name_en": "Satsukigase Funakiyan",
      "name_ja": "五月ヶ瀬 舟寄庵",
      "description": "Japanese sweets shop in Sakaishi.",
      "source_url": "https://tabelog.com/fukui/A1801/A180102/18003642/",
@@ -10413,7 +10413,7 @@
      "name": "Hotel Couju Fukui",
      "name_en": "Hotel Couju Fukui",
      "name_ja": "ホテル クージュ福井",
-     "description": "Hotel in Sakaishi.",
+     "description": "Hotel in Sakaishi with 4 rooms and free parking; within a 5-minute walk of a convenience store.",
      "source_url": "https://www.ikyu.com/00081747/",
      "page": "https://bokenjapan.com/fukui/sakaishi/stay/"
     },
@@ -10421,7 +10421,7 @@
      "name": "Auberge Homachi Mikuni Minato",
      "name_en": "Auberge Homachi Mikuni Minato",
      "name_ja": "オーベルジュほまち 三國湊",
-     "description": "Inn in Sakaishi.",
+     "description": "Inn in Sakaishi with free parking; within a 5-minute walk of a station.",
      "source_url": "https://www.ikyu.com/00003174/",
      "page": "https://bokenjapan.com/fukui/sakaishi/stay/"
     },
@@ -10437,7 +10437,7 @@
      "name": "Mikuni Inkyosho",
      "name_en": "Mikuni Inkyosho",
      "name_ja": "みくに隠居処",
-     "description": "Inn in Sakaishi.",
+     "description": "Inn in Sakaishi with Mikuni Onsen hot-spring water and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.ikyu.com/00081454/",
      "page": "https://bokenjapan.com/fukui/sakaishi/stay/"
     },
@@ -10539,7 +10539,7 @@
     {
      "name": "PAW &amp; STAY",
      "name_en": "PAW & STAY",
-     "description": "Inn in Sakaishi.",
+     "description": "Holiday rental house in Sakaishi with free parking; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad392986/",
      "page": "https://bokenjapan.com/fukui/sakaishi/stay/"
     },
@@ -10560,8 +10560,8 @@
      "page": "https://bokenjapan.com/fukui/sakaishi/stay/"
     },
     {
-     "name": "Guesthouse in Sakaishi",
-     "name_en": "Guesthouse in Sakaishi",
+     "name": "Guest House Retromachika",
+     "name_en": "Guest House Retromachika",
      "name_ja": "ゲストハウス レトロマチカ",
      "description": "Guesthouse in Sakaishi with Western-style rooms.",
      "source_url": "https://www.jalan.net/yad312298/",
@@ -10579,7 +10579,7 @@
      "name": "Minshuku New Echizen",
      "name_en": "Minshuku New Echizen",
      "name_ja": "民宿 ニュー越前",
-     "description": "Family-run minshuku in Sakaishi.",
+     "description": "Family-run minshuku in Sakaishi with free parking.",
      "source_url": "https://www.jalan.net/yad311193/",
      "page": "https://bokenjapan.com/fukui/sakaishi/stay/"
     },
@@ -10706,8 +10706,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Coffee house (kissaten) specialising in Takahamacho",
-     "name_en": "Coffee house (kissaten) specialising in Takahamacho",
+     "name": "Sepia",
+     "name_en": "Sepia",
      "name_ja": "セピア",
      "description": "Coffee house (kissaten) specialising in diner fare in Takahamacho.",
      "source_url": "https://tabelog.com/fukui/A1803/A180303/18000182/",
@@ -10715,8 +10715,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Café specialising in Takahamacho",
-     "name_en": "Café specialising in Takahamacho",
+     "name": "An Verve",
+     "name_en": "An Verve",
      "name_ja": "アン・ヴェルヴ",
      "description": "Café specialising in cakes in Takahamacho.",
      "source_url": "https://tabelog.com/fukui/A1803/A180303/18001657/",
@@ -10751,8 +10751,8 @@
      "category": "Chinese & Asian"
     },
     {
-     "name": "Taiwanese restaurant specialising in Takahamacho",
-     "name_en": "Taiwanese restaurant specialising in Takahamacho",
+     "name": "Taiwan Ryōri Mansei",
+     "name_en": "Taiwan Ryōri Mansei",
      "name_ja": "台湾料理 萬盛",
      "description": "Taiwanese restaurant specialising in ramen in Takahamacho.",
      "source_url": "https://tabelog.com/fukui/A1803/A180303/18007523/",
@@ -10778,8 +10778,8 @@
      "category": "European"
     },
     {
-     "name": "Yoshoku (Western-style Japanese) restaurant in Takahamacho",
-     "name_en": "Yoshoku (Western-style Japanese) restaurant in Takahamacho",
+     "name": "Kikusui",
+     "name_en": "Kikusui",
      "name_ja": "キクスイ",
      "description": "Yoshoku (Western-style Japanese) restaurant in Takahamacho.",
      "source_url": "https://tabelog.com/fukui/A1803/A180303/18000183/",
@@ -10787,8 +10787,8 @@
      "category": "European"
     },
     {
-     "name": "Ramen shop in Takahamacho",
-     "name_en": "Ramen shop in Takahamacho",
+     "name": "Men'ya Tenbare",
+     "name_en": "Men'ya Tenbare",
      "name_ja": "麺や 天晴",
      "description": "Ramen shop in Takahamacho.",
      "source_url": "https://tabelog.com/fukui/A1803/A180303/18008733/",
@@ -10859,8 +10859,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Japanese sweets shop in Takahamacho",
-     "name_en": "Japanese sweets shop in Takahamacho",
+     "name": "Okashi-dokoro Daijirō",
+     "name_en": "Okashi-dokoro Daijirō",
      "name_ja": "御菓子処 大次郎",
      "description": "Japanese sweets shop in Takahamacho.",
      "source_url": "https://tabelog.com/fukui/A1803/A180303/18005006/",
@@ -11052,7 +11052,7 @@
      "name": "Hotel Route-Inn Oi Takahama",
      "name_en": "Hotel Route-Inn Oi Takahama",
      "name_ja": "ホテルルートイン大飯高浜",
-     "description": "Business hotel in Takahamacho.",
+     "description": "Business hotel in Takahamacho with free parking.",
      "source_url": "https://www.ikyu.com/00082545/",
      "page": "https://bokenjapan.com/fukui/takahamacho/stay/"
     },
@@ -11060,13 +11060,13 @@
      "name": "Wakasa Surf Hotel Il Mare",
      "name_en": "Wakasa Surf Hotel Il Mare",
      "name_ja": "若狭サーフホテル イルマーレ",
-     "description": "Hotel in Takahamacho.",
+     "description": "Hotel in Takahamacho with 1 room and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.ikyu.com/00003351/",
      "page": "https://bokenjapan.com/fukui/takahamacho/stay/"
     },
     {
-     "name": "Inn in Takahamacho (#3)",
-     "name_en": "Inn in Takahamacho (#3)",
+     "name": "Infinity Resort Takahama",
+     "name_en": "Infinity Resort Takahama",
      "name_ja": "インフィニティリゾート高浜",
      "description": "Resort in Takahamacho.",
      "source_url": "https://www.jalan.net/yad352213/",
@@ -11076,7 +11076,7 @@
      "name": "Umibe no Oyado Nami no Oto",
      "name_en": "Umibe no Oyado Nami no Oto",
      "name_ja": "海辺のお宿 波の音",
-     "description": "Inn in Takahamacho.",
+     "description": "Holiday rental house in Takahamacho with 1 room and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad364291/",
      "page": "https://bokenjapan.com/fukui/takahamacho/stay/"
     },
@@ -11105,8 +11105,8 @@
      "page": "https://bokenjapan.com/fukui/takahamacho/stay/"
     },
     {
-     "name": "Inn in Takahamacho (#8)",
-     "name_en": "Inn in Takahamacho (#8)",
+     "name": "Resort Inn Kishimoto",
+     "name_en": "Resort Inn Kishimoto",
      "name_ja": "リゾートインキシモト",
      "description": "Resort in Takahamacho.",
      "source_url": "https://www.jalan.net/yad345725/",
@@ -11116,14 +11116,14 @@
      "name": "Farm Stay Minshuku Riemon",
      "name_en": "Farm Stay Minshuku Riemon",
      "name_ja": "農家民宿 利右衛門",
-     "description": "Family-run minshuku in Takahamacho.",
+     "description": "Family-run minshuku in Takahamacho with free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad399640/",
      "page": "https://bokenjapan.com/fukui/takahamacho/stay/"
     },
     {
      "name": "BEACH SIDE VILLAGE FAMILIAR",
      "name_en": "BEACH SIDE VILLAGE FAMILIAR",
-     "description": "Inn in Takahamacho.",
+     "description": "Condominium-style lodging in Takahamacho with free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad370748/",
      "page": "https://bokenjapan.com/fukui/takahamacho/stay/"
     },
@@ -11131,7 +11131,7 @@
      "name": "Farm Stay Minshuku Kianu Ryomon",
      "name_en": "Farm Stay Minshuku Kianu Ryomon",
      "name_ja": "農家民宿 きあぬ りよもん",
-     "description": "Family-run minshuku in Takahamacho.",
+     "description": "Family-run minshuku in Takahamacho with free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad346726/",
      "page": "https://bokenjapan.com/fukui/takahamacho/stay/"
     },
@@ -11139,7 +11139,7 @@
      "name": "Kaemon Ryokan",
      "name_en": "Kaemon Ryokan",
      "name_ja": "かえもん旅館",
-     "description": "Ryokan inn in Takahamacho.",
+     "description": "Ryokan inn in Takahamacho with 24 rooms and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad317178/",
      "page": "https://bokenjapan.com/fukui/takahamacho/stay/"
     },
@@ -11237,8 +11237,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Coffee house (kissaten) in Tsuruga",
-     "name_en": "Coffee house (kissaten) in Tsuruga",
+     "name": "Kafue Chaya Kōmu",
+     "name_en": "Kafue Chaya Kōmu",
      "name_ja": "カフェ茶屋 珈夢",
      "description": "Coffee house (kissaten) in Tsuruga.",
      "source_url": "https://tabelog.com/fukui/A1803/A180301/18000071/",
@@ -11573,8 +11573,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Sushi restaurant specialising in Tsuruga",
-     "name_en": "Sushi restaurant specialising in Tsuruga",
+     "name": "Sushi Marukan",
+     "name_en": "Sushi Marukan",
      "name_ja": "寿し 丸勘",
      "description": "Sushi restaurant specialising in seafood in Tsuruga.",
      "source_url": "https://tabelog.com/fukui/A1803/A180301/18000335/",
@@ -12001,7 +12001,7 @@
      "name": "Tsuruga Manten Hotel Ekimae (Manten Hotel Group)",
      "name_en": "Tsuruga Manten Hotel Ekimae (Manten Hotel Group)",
      "name_ja": "敦賀マンテンホテル駅前（マンテンホテルグループ）",
-     "description": "Hotel in Tsuruga.",
+     "description": "Hotel in Tsuruga with a large communal bath and free parking; within a 5-minute walk of a station.",
      "source_url": "https://www.ikyu.com/00080708/",
      "page": "https://bokenjapan.com/fukui/tsuruga/stay/"
     },
@@ -12009,7 +12009,7 @@
      "name": "Hotel Route-Inn Tsuruga Ekimae",
      "name_en": "Hotel Route-Inn Tsuruga Ekimae",
      "name_ja": "ホテルルートイン敦賀駅前",
-     "description": "Business hotel in Tsuruga.",
+     "description": "Business hotel in Tsuruga with a large communal bath and free parking; within a 5-minute walk of a station.",
      "source_url": "https://www.ikyu.com/00080341/",
      "page": "https://bokenjapan.com/fukui/tsuruga/stay/"
     },
@@ -12095,7 +12095,7 @@
     {
      "name": "Cabin Hotel DNK",
      "name_en": "Cabin Hotel DNK",
-     "description": "Hotel in Tsuruga.",
+     "description": "Youth hostel in Tsuruga; within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad355638/",
      "page": "https://bokenjapan.com/fukui/tsuruga/stay/"
     },
@@ -12240,8 +12240,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Café in Wakasacho",
-     "name_en": "Café in Wakasacho",
+     "name": "Wafū Cafe Gokoan",
+     "name_en": "Wafū Cafe Gokoan",
      "name_ja": "和風カフェ 五湖庵",
      "description": "Café in Wakasacho.",
      "source_url": "https://tabelog.com/fukui/A1803/A180302/18008455/",
@@ -12338,8 +12338,8 @@
      "category": "Other"
     },
     {
-     "name": "Roadside station (michi-no-eki) food counter in Wakasacho",
-     "name_en": "Roadside station (michi-no-eki) food counter in Wakasacho",
+     "name": "Michinoeki Mikata Goko",
+     "name_en": "Michinoeki Mikata Goko",
      "name_ja": "道の駅 三方五湖",
      "description": "Roadside station (michi-no-eki) food counter in Wakasacho.",
      "source_url": "https://tabelog.com/fukui/A1803/A180302/18006615/",
@@ -12347,8 +12347,8 @@
      "category": "Other"
     },
     {
-     "name": "Ryokan inn restaurant specialising in Wakasacho",
-     "name_en": "Ryokan inn restaurant specialising in Wakasacho",
+     "name": "Hakarō",
+     "name_en": "Hakarō",
      "name_ja": "波華楼",
      "description": "Ryokan inn restaurant specialising in Japanese cuisine in Wakasacho.",
      "source_url": "https://tabelog.com/fukui/A1803/A180302/18003408/",
@@ -12365,8 +12365,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Eel (unagi) restaurant in Wakasacho (#3)",
-     "name_en": "Eel (unagi) restaurant in Wakasacho (#3)",
+     "name": "Gen-yomon",
+     "name_en": "Gen-yomon",
      "name_ja": "源与門",
      "description": "Eel (unagi) restaurant in Wakasacho.",
      "source_url": "https://tabelog.com/fukui/A1803/A180302/18000078/",
@@ -12374,8 +12374,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Eel (unagi) restaurant in Wakasacho (#4)",
-     "name_en": "Eel (unagi) restaurant in Wakasacho (#4)",
+     "name": "Unagiya Moemon",
+     "name_en": "Unagiya Moemon",
      "name_ja": "うなぎや 茂右ェ門",
      "description": "Eel (unagi) restaurant in Wakasacho.",
      "source_url": "https://tabelog.com/fukui/A1803/A180302/18009484/",
@@ -12419,8 +12419,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Japanese sweets cafe specialising in Wakasacho",
-     "name_en": "Japanese sweets cafe specialising in Wakasacho",
+     "name": "Kuzu to Saba Zushi no Mise Marushin",
+     "name_en": "Kuzu to Saba Zushi no Mise Marushin",
      "name_ja": "葛と鯖寿しの店 まる志ん",
      "description": "Japanese sweets cafe specialising in sushi and soba noodles in Wakasacho.",
      "source_url": "https://tabelog.com/fukui/A1803/A180302/18000308/",
@@ -12678,7 +12678,7 @@
      "name": "Umi Kaori no Yado Namihanaro",
      "name_en": "Umi Kaori no Yado Namihanaro",
      "name_ja": "海香の宿 波華楼",
-     "description": "Inn in Wakasacho.",
+     "description": "Inn in Wakasacho with private baths and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.ikyu.com/00002522/",
      "page": "https://bokenjapan.com/fukui/wakasacho/stay/"
     },
@@ -12694,7 +12694,7 @@
      "name": "Craft Beer Inn Kojokan Pamuko",
      "name_en": "Craft Beer Inn Kojokan Pamuko",
      "name_ja": "クラフトビールの宿 湖上館パムコ",
-     "description": "Inn in Wakasacho.",
+     "description": "Inn in Wakasacho with a large communal bath and free parking.",
      "source_url": "https://www.ikyu.com/00030925/",
      "page": "https://bokenjapan.com/fukui/wakasacho/stay/"
     },
@@ -12734,7 +12734,7 @@
      "name": "Wakasa no Yado Hisami",
      "name_en": "Wakasa no Yado Hisami",
      "name_ja": "若狭の宿 ひさみ",
-     "description": "Inn in Wakasacho.",
+     "description": "Inn in Wakasacho with free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad362372/",
      "page": "https://bokenjapan.com/fukui/wakasacho/stay/"
     },
@@ -12766,7 +12766,7 @@
      "name": "Minshuku Hamahito",
      "name_en": "Minshuku Hamahito",
      "name_ja": "民宿 浜仁",
-     "description": "Family-run minshuku in Wakasacho.",
+     "description": "Family-run minshuku in Wakasacho with 8 rooms, private baths and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad393430/",
      "page": "https://bokenjapan.com/fukui/wakasacho/stay/"
     },
@@ -12862,7 +12862,7 @@
      "name": "Taikan",
      "name_en": "Taikan",
      "name_ja": "大観",
-     "description": "Inn in Wakasacho.",
+     "description": "Inn in Wakasacho with 5 rooms and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad376832/",
      "page": "https://bokenjapan.com/fukui/wakasacho/stay/"
     },
@@ -12894,7 +12894,7 @@
      "name": "Umi Bijuku Fujinoya",
      "name_en": "Umi Bijuku Fujinoya",
      "name_ja": "海美宿 藤乃屋",
-     "description": "Inn in Wakasacho.",
+     "description": "Inn in Wakasacho with 6 rooms and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad377528/",
      "page": "https://bokenjapan.com/fukui/wakasacho/stay/"
     },
@@ -12902,7 +12902,7 @@
      "name": "Minshuku Kyusuke",
      "name_en": "Minshuku Kyusuke",
      "name_ja": "民宿 久介",
-     "description": "Family-run minshuku in Wakasacho.",
+     "description": "Family-run minshuku in Wakasacho with 5 rooms and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad362985/",
      "page": "https://bokenjapan.com/fukui/wakasacho/stay/"
     },
@@ -12934,7 +12934,7 @@
      "name": "Uoshu Yamashitaya",
      "name_en": "Uoshu Yamashitaya",
      "name_ja": "魚集 山下屋",
-     "description": "Inn in Wakasacho.",
+     "description": "Inn in Wakasacho with 6 rooms and free parking; within a 5-minute walk of the beach.",
      "source_url": "https://www.jalan.net/yad325471/",
      "page": "https://bokenjapan.com/fukui/wakasacho/stay/"
     },

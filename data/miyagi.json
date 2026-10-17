@@ -22,7 +22,7 @@
     "lat": 38.4262703,
     "lon": 141.2106265
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Ignal Farm",
@@ -2222,7 +2222,7 @@
     "lat": 38.4343308,
     "lon": 141.3027169
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Michi-no-Eki Jogami-no-Sato",
@@ -13320,6 +13320,46 @@
      "description": "Ryokan, 17 Japanese-style rooms, free parking.",
      "source_url": "https://www.jalan.net/yad323138/",
      "page": "https://bokenjapan.com/miyagi/ishinomaki/stay/"
+    },
+    {
+     "name": "Hotel Route Inn Ishinomaki Chuo",
+     "name_en": "Hotel Route Inn Ishinomaki Chuo",
+     "name_ja": "ホテルルートイン石巻中央",
+     "description": "Hotel in Okaido-kita, Ishinomaki, with Wi-Fi and free WOWOW in all rooms.",
+     "source_url": "https://www.jalan.net/yad389788/",
+     "page": "https://bokenjapan.com/miyagi/ishinomaki/stay/"
+    },
+    {
+     "name": "Hotel Route Inn Ishinomaki Kanan Inter",
+     "name_en": "Hotel Route Inn Ishinomaki Kanan Inter",
+     "name_ja": "ホテルルートイン石巻河南インター",
+     "description": "Hotel in Megumino, Ishinomaki, next to the Ishinomaki-Kanan Interchange on the Sanriku Expressway, with Wi-Fi in all rooms.",
+     "source_url": "https://www.jalan.net/yad385415/",
+     "page": "https://bokenjapan.com/miyagi/ishinomaki/stay/"
+    },
+    {
+     "name": "Ishinomaki Grand Hotel",
+     "name_en": "Ishinomaki Grand Hotel",
+     "name_ja": "石巻グランドホテル",
+     "description": "Hotel in Sengoku-cho, Ishinomaki, a 6-minute walk from Ishinomaki Station, with Wi-Fi in all rooms.",
+     "source_url": "https://www.jalan.net/yad339640/",
+     "page": "https://bokenjapan.com/miyagi/ishinomaki/stay/"
+    },
+    {
+     "name": "Hotel Park Light",
+     "name_en": "Hotel Park Light",
+     "name_ja": "ホテルパークライト",
+     "description": "Business hotel in Ohashi, Ishinomaki, available for longer stays.",
+     "source_url": "https://www.jalan.net/yad369820/",
+     "page": "https://bokenjapan.com/miyagi/ishinomaki/stay/"
+    },
+    {
+     "name": "Hotel Frontier",
+     "name_en": "Hotel Frontier",
+     "name_ja": "ホテルフロンティア",
+     "description": "Hotel in Izumi-cho, Ishinomaki, available for business trips and longer stays.",
+     "source_url": "https://www.jalan.net/yad350357/",
+     "page": "https://bokenjapan.com/miyagi/ishinomaki/stay/"
     }
    ]
   },
@@ -13342,7 +13382,7 @@
     "lat": 38.1042867,
     "lon": 140.8701772
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Iwanuma Sheep Village",
@@ -16050,7 +16090,7 @@
     "lat": 37.9770449,
     "lon": 140.7818345
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "JA Miyagi Sennan Shinken Factory",
@@ -17865,7 +17905,7 @@
     "lat": 38.5717302,
     "lon": 140.8548359
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Ayu-no-Sato Local Products Hall",
@@ -19369,7 +19409,7 @@
     "lat": 38.1776233,
     "lon": 140.6433397
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Fattoria AL FIORE",
@@ -20288,7 +20328,7 @@
     "lat": 38.9081003,
     "lon": 141.5701228
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Kesennuma Fish Market",
@@ -25407,6 +25447,46 @@
      "description": "Minshuku, 9 Japanese-style rooms, free parking.",
      "source_url": "https://www.jalan.net/yad329817/",
      "page": "https://bokenjapan.com/miyagi/kesennuma/stay/"
+    },
+    {
+     "name": "Kesennuma Hotel Ikkeikaku",
+     "name_en": "Kesennuma Hotel Ikkeikaku",
+     "name_ja": "気仙沼ホテル一景閣",
+     "description": "Hotel in Bentencho, Kesennuma.",
+     "source_url": "https://www.jalan.net/yad399920/",
+     "page": "https://bokenjapan.com/miyagi/kesennuma/stay/"
+    },
+    {
+     "name": "Hotel Route Inn Kesennuma Chuo Inter",
+     "name_en": "Hotel Route Inn Kesennuma Chuo Inter",
+     "name_ja": "ホテルルートイン気仙沼中央インター",
+     "description": "Hotel in Matsuzakikaya, Kesennuma, with Wi-Fi in all rooms.",
+     "source_url": "https://www.jalan.net/yad350684/",
+     "page": "https://bokenjapan.com/miyagi/kesennuma/stay/"
+    },
+    {
+     "name": "Kesennuma Central Hotel Shoken",
+     "name_en": "Kesennuma Central Hotel Shoken",
+     "name_ja": "気仙沼セントラルホテル松軒",
+     "description": "Hotel in Kamiyama, central Kesennuma, within walking distance of a convenience store, with a router in each room.",
+     "source_url": "https://www.jalan.net/yad353342/",
+     "page": "https://bokenjapan.com/miyagi/kesennuma/stay/"
+    },
+    {
+     "name": "Kesennuma Park Hotel",
+     "name_en": "Kesennuma Park Hotel",
+     "name_ja": "気仙沼パークホテル",
+     "description": "Hotel in Uoichibamae, Kesennuma, near Kesennuma Fish Market.",
+     "source_url": "https://www.jalan.net/yad319610/",
+     "page": "https://bokenjapan.com/miyagi/kesennuma/stay/"
+    },
+    {
+     "name": "Minshuku Sakaya",
+     "name_en": "Minshuku Sakaya",
+     "name_ja": "民宿さかや",
+     "description": "Minshuku in Iwaisawa, Karakuwa, Kesennuma.",
+     "source_url": "https://www.jalan.net/yad373666/",
+     "page": "https://bokenjapan.com/miyagi/kesennuma/stay/"
     }
    ]
   },
@@ -25429,7 +25509,7 @@
     "lat": 38.730087,
     "lon": 141.0212453
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Michi-no-Eki Rotari Hanayama",
@@ -29558,7 +29638,7 @@
     "lat": 37.9115166,
     "lon": 140.7653959
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Marumori Specialty Market Hachio Hall",
@@ -30387,7 +30467,7 @@
     "lat": 38.3801954,
     "lon": 141.0672744
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Matsushima Fish Market",
@@ -32859,7 +32939,7 @@
     "lat": 38.6806632,
     "lon": 141.4624589
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Satoumi Farm",
@@ -33898,6 +33978,14 @@
      "description": "Minshuku, 3 minutes by car from Tsu Station, 5 Japanese-style rooms, free parking.",
      "source_url": "https://www.jalan.net/yad381154/",
      "page": "https://bokenjapan.com/miyagi/minamisanriku/stay/"
+    },
+    {
+     "name": "Minamisanriku Minshuku Seikanso",
+     "name_en": "Minamisanriku Minshuku Seikanso",
+     "name_ja": "南三陸 民宿 清観荘",
+     "description": "Minshuku in Utatsu, Minamisanriku, run by a fisherman and serving Sanriku seafood.",
+     "source_url": "https://www.jalan.net/yad310720/",
+     "page": "https://bokenjapan.com/miyagi/minamisanriku/stay/"
     }
    ]
   },
@@ -33920,7 +34008,7 @@
     "lat": 38.5443942,
     "lon": 141.0567849
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Hanaka Market",
@@ -35186,7 +35274,7 @@
     "lat": 38.118515,
     "lon": 140.7223942
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Michi-no-Eki Murata",
@@ -36094,7 +36182,7 @@
     "lat": 38.1715003,
     "lon": 140.8919181
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Yuriage Port Morning Market",
@@ -41666,6 +41754,22 @@
      "description": "Ryokan with free-flowing hot-spring baths and an open-air bath, 23 rooms, free parking.",
      "source_url": "https://www.jalan.net/yad369332/",
      "page": "https://bokenjapan.com/miyagi/natori/stay/"
+    },
+    {
+     "name": "Super Hotel Mitazono Sendai Airport",
+     "name_en": "Super Hotel Mitazono Sendai Airport",
+     "name_ja": "スーパーホテル美田園・仙台エアポート 天然温泉 源氏翼の湯",
+     "description": "Hotel in Mitazono, Natori, near Sendai Airport, with a natural hot spring, free parking for 89 cars, beside a convenience store.",
+     "source_url": "https://www.jalan.net/yad377299/",
+     "page": "https://bokenjapan.com/miyagi/natori/stay/"
+    },
+    {
+     "name": "Hotel Route Inn Natori Iwanuma Inter",
+     "name_en": "Hotel Route Inn Natori Iwanuma Inter",
+     "name_ja": "名取岩沼温泉 ホテルルートイン名取岩沼インター",
+     "description": "Hotel in Horiuchi, Natori, with free breakfast and free WOWOW in all rooms.",
+     "source_url": "https://www.jalan.net/yad346297/",
+     "page": "https://bokenjapan.com/miyagi/natori/stay/"
     }
    ]
   },
@@ -41688,7 +41792,7 @@
     "lat": 38.0493742,
     "lon": 140.7307928
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Blueberry Farm",
@@ -43555,7 +43659,7 @@
     "lat": 38.4672682,
     "lon": 140.879973
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Manyo Ohira Hall",
@@ -43914,7 +44018,7 @@
     "lat": 38.4454077,
     "lon": 141.4431076
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Onagawa Nuclear PR Center",
@@ -44765,7 +44869,7 @@
     "lat": 38.577596,
     "lon": 140.9559668
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Michi-no-Eki Osaki",
@@ -53323,7 +53427,7 @@
     "lat": 38.424354,
     "lon": 141.0045241
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Osato Furusato Plaza Specialty Hall",
@@ -53732,7 +53836,7 @@
     "lat": 38.3303256,
     "lon": 140.9756911
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Tofu-no-Sato Fureai-kan",
@@ -56198,6 +56302,14 @@
      "description": "Minshuku, 5 minutes by car from Higashi-Shiogama Station, 17 rooms, free parking.",
      "source_url": "https://www.jalan.net/yad371364/",
      "page": "https://bokenjapan.com/miyagi/rifu/stay/"
+    },
+    {
+     "name": "Hotel Urashimaso",
+     "name_en": "Hotel Urashimaso",
+     "name_ja": "ホテル浦嶋荘",
+     "description": "Hotel in Akanuma, Rifu, with two private baths, seafood cuisine, and homestyle service.",
+     "source_url": "https://www.jalan.net/yad352656/",
+     "page": "https://bokenjapan.com/miyagi/rifu/stay/"
     }
    ]
   },
@@ -56220,7 +56332,7 @@
     "lat": 38.2682022,
     "lon": 140.8694618
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Miyagi Prefectural Library Shop Area",
@@ -57792,6 +57904,677 @@
      "description": "Hotel, 84 Western-style rooms.",
      "source_url": "https://www.jalan.net/yad322788/",
      "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Sendai Kokusai Hotel",
+     "name_en": "Sendai Kokusai Hotel",
+     "name_ja": "仙台国際ホテル",
+     "description": "Hotel in Chuo, Aoba-ku, Sendai, about a 5-minute walk from Sendai Station, with breakfast featuring seasonal vegetables.",
+     "source_url": "https://www.jalan.net/yad300770/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Grand Bach Sendai",
+     "name_en": "Hotel Grand Bach Sendai",
+     "name_ja": "ホテルグランバッハ仙台",
+     "description": "Hotel in Tsutsujigaoka, Miyagino-ku, Sendai.",
+     "source_url": "https://www.jalan.net/yad318775/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Metropolitan Sendai",
+     "name_en": "Hotel Metropolitan Sendai",
+     "name_ja": "ホテルメトロポリタン仙台",
+     "description": "Hotel a 1-minute walk from Sendai Station West Exit in Chuo, Aoba-ku, Sendai.",
+     "source_url": "https://www.jalan.net/yad325517/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Daiwa Roynet Hotel Sendai-Nishiguchi Premier",
+     "name_en": "Daiwa Roynet Hotel Sendai-Nishiguchi Premier",
+     "name_ja": "ダイワロイネットホテル仙台西口 PREMIER",
+     "description": "Hotel a 4-minute walk from Sendai Station West Exit, with a convenience store, cafe, and separate bath and toilet.",
+     "source_url": "https://www.jalan.net/yad377180/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "APA Hotel Sendai-Eki Itsutsubashi",
+     "name_en": "APA Hotel Sendai-Eki Itsutsubashi",
+     "name_ja": "アパホテル〈仙台駅五橋〉",
+     "description": "Hotel in Itsutsubashi, Wakabayashi-ku, Sendai, with a large public bath and an open-air bath.",
+     "source_url": "https://www.jalan.net/yad369615/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "ANA Holiday Inn Sendai by IHG",
+     "name_en": "ANA Holiday Inn Sendai by IHG",
+     "name_ja": "ANAホリデイ・イン仙台 by IHG",
+     "description": "Hotel a 6-minute walk from Sendai Station East Exit in Shintera, Wakabayashi-ku, Sendai, with breakfast.",
+     "source_url": "https://www.jalan.net/yad320620/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Natural Onsen Aoba no Yu Dormy Inn Sendai Annex",
+     "name_en": "Natural Onsen Aoba no Yu Dormy Inn Sendai Annex",
+     "name_ja": "天然温泉青葉の湯ドーミーイン仙台ANNEX",
+     "description": "Hotel in Chuo, Aoba-ku, Sendai, with a natural hot spring bath, sauna, and 4K YouTube in every room.",
+     "source_url": "https://www.jalan.net/yad373200/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Super Hotel Sendai-eki Higashiguchi Natural Onsen",
+     "name_en": "Super Hotel Sendai-eki Higashiguchi Natural Onsen",
+     "name_ja": "スーパーホテル仙台駅東口天然温泉 2024年9月13日(金)オープン",
+     "description": "Non-smoking hotel with a natural hot spring, a 5-minute walk from Sendai Station in Nakakecho, Miyagino-ku, Sendai.",
+     "source_url": "https://www.jalan.net/yad350517/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "APA Hotel TKP Sendai-Ekikita",
+     "name_en": "APA Hotel TKP Sendai-Ekikita",
+     "name_ja": "アパホテル〈TKP仙台駅北〉",
+     "description": "Hotel in Nakakecho, Miyagino-ku, Sendai.",
+     "source_url": "https://www.jalan.net/yad382084/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "The One Five Sendai",
+     "name_en": "The One Five Sendai",
+     "name_ja": "ザ・ワンファイブ仙台",
+     "description": "Hotel a 4-minute walk from JR Sendai Station in Tsutsujigaoka, Miyagino-ku, Sendai.",
+     "source_url": "https://www.jalan.net/yad336845/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Daiwa Roynet Hotel Sendai",
+     "name_en": "Daiwa Roynet Hotel Sendai",
+     "name_ja": "ダイワロイネットホテル仙台",
+     "description": "Hotel about a 2-minute walk from Sendai Station East Exit in Tsutsujigaoka, Miyagino-ku, Sendai, with an amenity bar.",
+     "source_url": "https://www.jalan.net/yad352132/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Vista Sendai",
+     "name_en": "Hotel Vista Sendai",
+     "name_ja": "ホテルビスタ仙台",
+     "description": "Hotel in Miyagino, Sendai, a 4-minute walk from JR Sendai Station East Exit, with large public bath Kinu-no-Yu; all rooms non-smoking.",
+     "source_url": "https://www.jalan.net/yad368065/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Richmond Hotel Sendai",
+     "name_en": "Richmond Hotel Sendai",
+     "name_ja": "リッチモンドホテル仙台",
+     "description": "Hotel in Aoba, Sendai, renovated and reopened in December 2024.",
+     "source_url": "https://www.jalan.net/yad323922/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Route Inn Sendai Higashi",
+     "name_en": "Hotel Route Inn Sendai Higashi",
+     "name_ja": "ホテルルートイン仙台東",
+     "description": "Hotel in Wakabayashi, Sendai, within 20 minutes of Sendai Station by train or car, with free multi-storey parking.",
+     "source_url": "https://www.jalan.net/yad390907/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Metropolitan Sendai East",
+     "name_en": "Hotel Metropolitan Sendai East",
+     "name_ja": "ホテルメトロポリタン仙台イースト",
+     "description": "Hotel in Aoba, Sendai, directly connected to JR Sendai Station, with a guests-only lounge and fitness; all rooms non-smoking.",
+     "source_url": "https://www.jalan.net/yad385642/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "KOKO HOTEL Sendai Ekimae South",
+     "name_en": "KOKO HOTEL Sendai Ekimae South",
+     "name_ja": "ＫＯＫＯ ＨＯＴＥＬ 仙台駅前 Ｓｏｕｔｈ",
+     "description": "Hotel in Aoba, Sendai, in front of Sendai Station, rebranded and opened in September 2023.",
+     "source_url": "https://www.jalan.net/yad393263/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Dormy Inn Express Sendai Seaside",
+     "name_en": "Dormy Inn Express Sendai Seaside",
+     "name_ja": "天然温泉 海神の湯 ドーミーインＥＸＰＲＥＳＳ仙台シーサイド",
+     "description": "Hotel with a natural hot spring bath in Nakano, Miyagino, Sendai.",
+     "source_url": "https://www.jalan.net/yad373070/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Premium Green Sovereign",
+     "name_en": "Hotel Premium Green Sovereign",
+     "name_ja": "ホテルプレミアムグリーンソブリン",
+     "description": "Hotel in Kokubuncho, Aoba, Sendai, within walking distance of Miyagi Prefectural Office and Sendai City Hall.",
+     "source_url": "https://www.jalan.net/yad329258/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Daiwa Roynet Hotel Sendai Ichibancho Premier",
+     "name_en": "Daiwa Roynet Hotel Sendai Ichibancho Premier",
+     "name_ja": "ダイワロイネットホテル仙台一番町 PREMIER",
+     "description": "Hotel in Ichibancho, Aoba, Sendai, within walking distance of Kokubuncho.",
+     "source_url": "https://www.jalan.net/yad313002/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel JAL City Sendai",
+     "name_en": "Hotel JAL City Sendai",
+     "name_ja": "ホテルJALシティ仙台",
+     "description": "Hotel in Kakyoin, Aoba, Sendai, a 3-minute walk from Sendai Station, with breakfast.",
+     "source_url": "https://www.jalan.net/yad317271/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Sendai Washington Hotel",
+     "name_en": "Sendai Washington Hotel",
+     "name_ja": "仙台ワシントンホテル",
+     "description": "Hotel in Chuo, Aoba, Sendai, a 3-minute walk from Sendai Station, with breakfast and separate baths and toilets in all rooms.",
+     "source_url": "https://www.jalan.net/yad300170/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "The Westin Sendai",
+     "name_en": "The Westin Sendai",
+     "name_ja": "ウェスティンホテル仙台",
+     "description": "International hotel in Aoba Ward, Sendai.",
+     "source_url": "https://www.jalan.net/yad355296/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Castle Inn Sendai",
+     "name_en": "Castle Inn Sendai",
+     "name_ja": "キャッスルイン仙台",
+     "description": "Hotel in Miyagino Ward, Sendai, with a natural hot spring bath and sauna.",
+     "source_url": "https://www.jalan.net/yad373848/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Keihan Sendai",
+     "name_en": "Hotel Keihan Sendai",
+     "name_ja": "ホテル京阪 仙台",
+     "description": "Hotel in Aoba Ward, Sendai, near Sendai Station, with breakfast.",
+     "source_url": "https://www.jalan.net/yad338210/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hagi no Yu Dormy Inn Sendai Ekimae",
+     "name_en": "Hagi no Yu Dormy Inn Sendai Ekimae",
+     "name_ja": "天然温泉 萩の湯 ドーミーイン仙台駅前",
+     "description": "Hotel in Aoba Ward, Sendai, a five-minute walk from Sendai Station, with a top-floor natural hot spring bath and free Wi-Fi.",
+     "source_url": "https://www.jalan.net/yad311879/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Green Line",
+     "name_en": "Hotel Green Line",
+     "name_ja": "ホテル グリーンライン",
+     "description": "Hotel in Aoba Ward, Sendai, within walking distance of Tohoku University School of Medicine, Tokenet Hall, and Kokubuncho.",
+     "source_url": "https://www.jalan.net/yad348251/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "ＯＦ ＨＯＴＥＬ",
+     "name_en": "OF Hotel",
+     "description": "Hotel in Aoba Ward, Sendai.",
+     "source_url": "https://www.jalan.net/yad337401/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "KOKO HOTEL Sendai Ekimae West",
+     "name_en": "KOKO HOTEL Sendai Ekimae West",
+     "name_ja": "ＫＯＫＯ ＨＯＴＥＬ 仙台駅前 Ｗｅｓｔ",
+     "description": "Hotel in Aoba Ward, Sendai, a five-minute walk from JR Sendai Station West Exit.",
+     "source_url": "https://www.jalan.net/yad336946/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Green Mark",
+     "name_en": "Hotel Green Mark",
+     "name_ja": "ホテルグリーンマーク",
+     "description": "Hotel in Aoba Ward, Sendai, a five-minute walk from Sendai Station West Exit, with free Wi-Fi.",
+     "source_url": "https://www.jalan.net/yad320679/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Chorus Hotel Sendai Tomizawa",
+     "name_en": "Chorus Hotel Sendai Tomizawa",
+     "name_ja": "コーラスホテル仙台富沢",
+     "description": "Hotel in Taihaku Ward, Sendai, with separate bath and toilet in every room.",
+     "source_url": "https://www.jalan.net/yad361813/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Unisite Sendai",
+     "name_en": "Hotel Unisite Sendai",
+     "name_ja": "ホテルユニサイト仙台",
+     "description": "Hotel in Aoba Ward, Sendai.",
+     "source_url": "https://www.jalan.net/yad320333/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Livemax Sendai Aobadori",
+     "name_en": "Hotel Livemax Sendai Aobadori",
+     "name_ja": "ホテルリブマックス仙台青葉通",
+     "description": "Hotel in Aoba Ward, Sendai, a 4-minute walk from Aoba-dori Ichibancho Station and 14 minutes from Sendai Station.",
+     "source_url": "https://www.jalan.net/yad349520/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Toyoko Inn Sendai Nishi-guchi Hirose-dori",
+     "name_en": "Toyoko Inn Sendai Nishi-guchi Hirose-dori",
+     "name_ja": "東横ＩＮＮ仙台西口広瀬通",
+     "description": "Hotel in Aoba Ward, Sendai, a 4-minute walk north from JR Sendai Station West Exit.",
+     "source_url": "https://www.jalan.net/yad368229/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Toyoko Inn Sendai Higashi-guchi No.2",
+     "name_en": "Toyoko Inn Sendai Higashi-guchi No.2",
+     "name_ja": "東横ＩＮＮ仙台東口2号館",
+     "description": "Hotel in Miyagino Ward, Sendai, 6 minutes by car from Rakuten Mobile Park Miyagi, with free breakfast.",
+     "source_url": "https://www.jalan.net/yad371955/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Sendai Royal Park Hotel",
+     "name_en": "Sendai Royal Park Hotel",
+     "name_ja": "仙台ロイヤルパークホテル",
+     "description": "Hotel in Izumi Ward, Sendai.",
+     "source_url": "https://www.jalan.net/yad330751/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Sotetsu Fresa Inn Sendai",
+     "name_en": "Sotetsu Fresa Inn Sendai",
+     "name_ja": "相鉄フレッサイン 仙台",
+     "description": "Hotel in Aoba Ward, Sendai, near Sendai Morning Market and a 7-minute walk from JR Sendai Station West Exit.",
+     "source_url": "https://www.jalan.net/yad389476/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Monte Hermana Sendai",
+     "name_en": "Hotel Monte Hermana Sendai",
+     "name_ja": "ホテル モンテ エルマーナ仙台（ホテルモントレグループ）",
+     "description": "Hotel in Aoba Ward, Sendai, near the station, with a women-only floor.",
+     "source_url": "https://www.jalan.net/yad363170/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Metropolitan Base Sendai",
+     "name_en": "Hotel Metropolitan Base Sendai",
+     "name_ja": "ホテルメトロポリタンベース仙台",
+     "description": "Hotel in Aoba Ward, Sendai, opening on 23 April 2026.",
+     "source_url": "https://www.jalan.net/yad300100/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Green With",
+     "name_en": "Hotel Green With",
+     "name_ja": "ホテルグリーンウィズ",
+     "description": "Hotel in Aoba Ward, Sendai, a 1-minute walk from Ichibancho and near government offices.",
+     "source_url": "https://www.jalan.net/yad343775/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Green Selec",
+     "name_en": "Hotel Green Selec",
+     "name_ja": "ホテルグリーンセレク",
+     "description": "Hotel in Aoba Ward, Sendai, an 8-minute walk from Sendai Station and a 2-minute walk from Hirose-dori subway station.",
+     "source_url": "https://www.jalan.net/yad395013/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Central Sendai",
+     "name_en": "Hotel Central Sendai",
+     "name_ja": "ホテルセントラル仙台",
+     "description": "Hotel in Aoba Ward, Sendai, a 3-minute walk from JR Sendai Station.",
+     "source_url": "https://www.jalan.net/yad320685/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Izumi Peak Base",
+     "name_en": "Izumi Peak Base",
+     "name_ja": "ＩＺＵＭＩ ＰＥＡＫ ＢＡＳＥ（泉ピークベース）",
+     "description": "Outdoor hot spring resort in Izumi, Sendai.",
+     "source_url": "https://www.jalan.net/yad381175/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Sendai Sunplaza",
+     "name_en": "Sendai Sunplaza",
+     "name_ja": "仙台サンプラザ",
+     "description": "Hotel beside Sunplaza Hall in Tsutsujigaoka, Miyagino, Sendai, near Rakuten Mobile Park Miyagi.",
+     "source_url": "https://www.jalan.net/yad328591/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Toyoko Inn Sendai Station West Exit Chuo",
+     "name_en": "Toyoko Inn Sendai Station West Exit Chuo",
+     "name_ja": "東横ＩＮＮ仙台駅西口中央",
+     "description": "Hotel in Chuo, Aoba, Sendai, with free breakfast, 20 minutes by car from Sendai Castle ruins.",
+     "source_url": "https://www.jalan.net/yad326568/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Orange Inn Sendai Higashi",
+     "name_en": "Orange Inn Sendai Higashi",
+     "name_ja": "オレンジ・イン仙台東",
+     "description": "Hotel in Higashi-Sendai, Miyagino, Sendai, with free all-day parking and transfers for concerts and exams.",
+     "source_url": "https://www.jalan.net/yad312179/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "ELE Hotel Sendai Higashiguchi",
+     "name_en": "ELE Hotel Sendai Higashiguchi",
+     "name_ja": "ELE Hotel 仙台東口",
+     "description": "Hotel in Odawara, Miyagino, Sendai, within walking distance of Sendai Station.",
+     "source_url": "https://www.jalan.net/yad333965/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "KOKO HOTEL Sendai Ekimae Central",
+     "name_en": "KOKO HOTEL Sendai Ekimae Central",
+     "name_ja": "KOKO HOTEL 仙台駅前 Central",
+     "description": "Hotel in Chuo, Aoba, Sendai, opening 1 May 2026, a 7-minute walk from JR Sendai Station West Exit.",
+     "source_url": "https://www.jalan.net/yad384015/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Premium Green Plus",
+     "name_en": "Hotel Premium Green Plus",
+     "name_ja": "ホテルプレミアムグリーンプラス",
+     "description": "Non-smoking hotel on the arcade street in Chuo, Aoba, Sendai, a 6-minute walk from Sendai Station.",
+     "source_url": "https://www.jalan.net/yad344626/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Livemax Sendai Kokubuncho",
+     "name_en": "Hotel Livemax Sendai Kokubuncho",
+     "name_ja": "ホテルリブマックス仙台国分町",
+     "description": "Hotel in Kokubuncho, Aoba, Sendai.",
+     "source_url": "https://www.jalan.net/yad372540/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Premium Green Hills",
+     "name_en": "Hotel Premium Green Hills",
+     "name_ja": "ホテルプレミアムグリーンヒルズ",
+     "description": "Hotel in Chuo, Aoba, Sendai, with free Wi-Fi and on-site parking.",
+     "source_url": "https://www.jalan.net/yad376531/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Ryokan Tsukasa",
+     "name_en": "Ryokan Tsukasa",
+     "name_ja": "旅館つかさ",
+     "description": "Ryokan in Honcho, Aoba, Sendai, a 6-minute walk from Sendai Station.",
+     "source_url": "https://www.jalan.net/yad331838/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Katsura Ryokan",
+     "name_en": "Katsura Ryokan",
+     "name_ja": "桂旅館",
+     "description": "Ryokan in Izumi Ward, Sendai.",
+     "source_url": "https://www.jalan.net/yad345175/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Oka no Hotel",
+     "name_en": "Oka no Hotel",
+     "name_ja": "丘のホテル",
+     "description": "Hotel in Miyagino Ward, Sendai, near Sendai Station.",
+     "source_url": "https://www.jalan.net/yad310749/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Green Park",
+     "name_en": "Hotel Green Park",
+     "name_ja": "ホテルグリーンパーク",
+     "description": "Hotel in Aoba Ward, Sendai, a 30-second walk from Jozenji-dori and Kokubuncho, with free breakfast bread.",
+     "source_url": "https://www.jalan.net/yad328154/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Business Ryokan Satoya",
+     "name_en": "Business Ryokan Satoya",
+     "name_ja": "ビジネス旅館 さとや",
+     "description": "Business ryokan in Izumi Ward, Sendai, with Wi-Fi.",
+     "source_url": "https://www.jalan.net/yad370119/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Mayflower Sendai",
+     "name_en": "Hotel Mayflower Sendai",
+     "name_ja": "ホテルメイフラワー仙台",
+     "description": "Hotel in Aoba Ward, Sendai, with separate men's and women's saunas and a bath.",
+     "source_url": "https://www.jalan.net/yad305142/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Park Sendai II",
+     "name_en": "Hotel Park Sendai II",
+     "name_ja": "ホテルパーク仙台Ⅱ",
+     "description": "Hotel in Aoba Ward, Sendai, within a 10-minute walk of Sendai Station.",
+     "source_url": "https://www.jalan.net/yad311520/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Petit Hotel RAN",
+     "name_en": "Petit Hotel RAN",
+     "name_ja": "プチホテル ＲＡＮ",
+     "description": "Petit hotel in Taihaku Ward, Sendai, taking one group per day and allowing pets.",
+     "source_url": "https://www.jalan.net/yad362304/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Morishige Ryokan",
+     "name_en": "Morishige Ryokan",
+     "name_ja": "森重旅館",
+     "description": "Ryokan in Aoba Ward, Sendai.",
+     "source_url": "https://www.jalan.net/yad304266/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Sendai Guest House Umebachi",
+     "name_en": "Sendai Guest House Umebachi",
+     "name_ja": "仙台 ゲストハウス梅鉢",
+     "description": "Guest house in Miyagino Ward, Sendai, without meals.",
+     "source_url": "https://www.jalan.net/yad345788/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Green Aba",
+     "name_en": "Hotel Green Aba",
+     "name_ja": "ホテルグリーンアーバ",
+     "description": "Hotel in Aoba Ward, central Sendai.",
+     "source_url": "https://www.jalan.net/yad306893/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Pearl City Sendai",
+     "name_en": "Hotel Pearl City Sendai",
+     "name_ja": "ホテルパールシティ仙台（HMIホテルグループ）",
+     "description": "Hotel in Ichibancho, Aoba Ward, Sendai, near Aoba-dori, Ichibancho shopping street, and Kokubuncho.",
+     "source_url": "https://www.jalan.net/yad376764/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Green Pacific",
+     "name_en": "Hotel Green Pacific",
+     "name_ja": "ホテルグリーンパシフィック",
+     "description": "Hotel in Chuo, Aoba Ward, Sendai, a 4-minute walk from Sendai Station, near S-PAL and PARCO.",
+     "source_url": "https://www.jalan.net/yad355144/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Green City",
+     "name_en": "Hotel Green City",
+     "name_ja": "ホテルグリーンシティ",
+     "description": "Hotel in Torimachi, Aoba Ward, Sendai, 8 minutes on foot from JR Kita-Sendai and subway Kita-Yobancho stations.",
+     "source_url": "https://www.jalan.net/yad313534/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel Green Well",
+     "name_en": "Hotel Green Well",
+     "name_ja": "ホテルグリーンウエル",
+     "description": "Hotel in Chuo, Aoba Ward, Sendai, a 3-minute walk from Sendai Station, next to Sendai Morning Market, with free Wi-Fi.",
+     "source_url": "https://www.jalan.net/yad321201/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Sendai Akiu Onsen Hotel Zuiho",
+     "name_en": "Sendai Akiu Onsen Hotel Zuiho",
+     "name_ja": "仙台 秋保温泉 ホテル瑞鳳（ずいほう）",
+     "description": "Hotel in Yumoto, Akiu-machi, Taihaku Ward, Sendai.",
+     "source_url": "https://www.jalan.net/yad309236/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hoshino Resorts KAI Akiu",
+     "name_en": "Hoshino Resorts KAI Akiu",
+     "name_ja": "星野リゾート 界 秋保",
+     "description": "Inn with a free-flowing hot spring bath in Akiu, Taihaku Ward, Sendai.",
+     "source_url": "https://www.jalan.net/yad348050/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Akiu Grand Hotel",
+     "name_en": "Akiu Grand Hotel",
+     "name_ja": "秋保グランドホテル",
+     "description": "Hotel in Akiu, Taihaku Ward, Sendai.",
+     "source_url": "https://www.jalan.net/yad302533/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Sendai Sakunami Onsen Yuzukushi Salon Ichinobo",
+     "name_en": "Sendai Sakunami Onsen Yuzukushi Salon Ichinobo",
+     "name_ja": "仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊",
+     "description": "Hot spring resort in Sakunami, Aoba Ward, Sendai.",
+     "source_url": "https://www.jalan.net/yad348735/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Akiu Onsen Hotel New Mitoya",
+     "name_en": "Akiu Onsen Hotel New Mitoya",
+     "name_ja": "秋保温泉 ホテルニュー水戸屋",
+     "description": "Hotel in Akiu, Taihaku Ward, Sendai.",
+     "source_url": "https://www.jalan.net/yad323578/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Sendai Akiu Onsen Geihinkan Sakura Rikyu",
+     "name_en": "Sendai Akiu Onsen Geihinkan Sakura Rikyu",
+     "name_ja": "仙台 秋保温泉 迎賓館 櫻離宮",
+     "description": "Lodging with detached rooms in Akiu, Taihaku Ward, Sendai.",
+     "source_url": "https://www.jalan.net/yad382760/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Sakunami Onsen Yunohara Hotel",
+     "name_en": "Sakunami Onsen Yunohara Hotel",
+     "name_ja": "健康と美食のお宿 作並温泉 湯の原ホテル",
+     "description": "Hotel in Sakunami, Aoba Ward, Sendai, with private source-spring baths and private rooms for morning and evening meals.",
+     "source_url": "https://www.jalan.net/yad320320/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Sendai Akiu Onsen Hotel Hananoyu",
+     "name_en": "Sendai Akiu Onsen Hotel Hananoyu",
+     "name_ja": "仙台・秋保温泉 ホテル華乃湯",
+     "description": "All-inclusive hotel in Akiu, Taihaku Ward, Sendai, with a buffet and hot-spring baths.",
+     "source_url": "https://www.jalan.net/yad313607/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Akiu Fuga",
+     "name_en": "Akiu Fuga",
+     "name_ja": "秋保風雅",
+     "description": "Accommodation in Akiu, Taihaku Ward, Sendai, with a bar serving parfaits and cocktails.",
+     "source_url": "https://www.jalan.net/yad333456/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Oshu Akiu Onsen Rantei",
+     "name_en": "Oshu Akiu Onsen Rantei",
+     "name_ja": "奥州秋保温泉 蘭亭",
+     "description": "Hilltop inn overlooking Akiu Onsen in Taihaku Ward, Sendai, welcoming babies and children.",
+     "source_url": "https://www.jalan.net/yad378924/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Akiu Onsen Soraichi",
+     "name_en": "Akiu Onsen Soraichi",
+     "name_ja": "秋保温泉 心和む名湯の宿 曽良一",
+     "description": "Inn with 16 rooms in Akiu, Taihaku Ward, Sendai.",
+     "source_url": "https://www.jalan.net/yad320649/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Hotel New Mitoya Annex",
+     "name_en": "Hotel New Mitoya Annex",
+     "name_ja": "ホテルニュー水戸屋アネックス",
+     "description": "Hotel annex in Akiu, Taihaku Ward, Sendai, with hot springs and free use of the main building bath.",
+     "source_url": "https://www.jalan.net/yad374720/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Akiu Resort Hotel Crescent",
+     "name_en": "Akiu Resort Hotel Crescent",
+     "name_ja": "秋保リゾート ホテルクレセント",
+     "description": "Resort hotel in Akiu, Taihaku Ward, Sendai, with all rooms non-smoking and French or kaiseki dinner.",
+     "source_url": "https://www.jalan.net/yad364023/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Akiu Onsen Saryo Soen",
+     "name_en": "Akiu Onsen Saryo Soen",
+     "name_ja": "秋保温泉 茶寮宗園",
+     "description": "Hot-spring inn in Akiu, Taihaku Ward, Sendai.",
+     "source_url": "https://www.jalan.net/yad356409/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Rwithdog",
+     "name_en": "Rwithdog",
+     "name_ja": "愛犬と泊まる宿 Rwithdog",
+     "description": "Dog-friendly inn in Akiu, Taihaku Ward, Sendai, opened June 2024, where dogs may stay anywhere in the building anytime.",
+     "source_url": "https://www.jalan.net/yad396664/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Lodging in Sendai",
+     "name_en": "Lodging in Sendai",
+     "name_ja": "秋保 木の家",
+     "description": "Lodging in Akiu, Taihaku Ward, Sendai, 30 minutes from Sendai Station, with Natori River BBQ, imoni, and a hot spring.",
+     "source_url": "https://www.jalan.net/yad381700/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Private whole-building rental inn in Sendai",
+     "name_en": "Private whole-building rental inn in Sendai",
+     "name_ja": "たびの邸宅 和-WA-",
+     "description": "Private whole-building rental inn in the Akiu Onsen area, Akiu-cho, Taihaku, Sendai.",
+     "source_url": "https://www.jalan.net/yad385986/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "Kankane Onsen",
+     "name_en": "Kankane Onsen",
+     "name_ja": "かんかね温泉",
+     "description": "Onsen in Sakaino, Akiu-cho, Taihaku, Sendai.",
+     "source_url": "https://www.jalan.net/yad385016/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
+    },
+    {
+     "name": "La Raku Resort Hotel Green Green",
+     "name_en": "La Raku Resort Hotel Green Green",
+     "name_ja": "Ｌａ楽リゾートＨＯＴＥＬ ｇｒｅｅｎ ｇｒｅｅｎ",
+     "description": "Leisure hotel in Sakunami, Aoba, Sendai.",
+     "source_url": "https://www.jalan.net/yad321312/",
+     "page": "https://bokenjapan.com/miyagi/sendai/stay/"
     }
    ]
   },
@@ -57814,7 +58597,7 @@
     "lat": 38.0565181,
     "lon": 140.7658183
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Sakura no Sato Tourism Market",
@@ -59972,7 +60755,7 @@
     "lat": 38.3045281,
     "lon": 141.0591826
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Shichigahama Tourism Exchange Center",
@@ -60572,7 +61355,7 @@
     "lat": 37.993186,
     "lon": 140.4414709
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Michi-no-Eki Shichikashuku",
@@ -60952,7 +61735,7 @@
     "lat": 38.5488101,
     "lon": 140.849929
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Shikama Heisawa Grain & Vegetable Center",
@@ -61278,7 +62061,7 @@
     "lat": 38.3143659,
     "lon": 141.0220875
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Shiogama Fish Market",
@@ -65972,7 +66755,7 @@
     "lat": 38.002444444,
     "lon": 140.619888888
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Omoshiroishi Market",
@@ -68645,7 +69428,7 @@
     "lat": 38.2940201,
     "lon": 141.0042286
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Convenience store or supermarket in Tagajo, near Geba Station",
@@ -72090,6 +72873,22 @@
      "description": "Hotel, 5 minutes by car from Tagajo Station, 56 rooms, free parking.",
      "source_url": "https://www.jalan.net/yad357934/",
      "page": "https://bokenjapan.com/miyagi/tagajo/stay/"
+    },
+    {
+     "name": "Hotel Route Inn Sendai Kohoku Inter",
+     "name_en": "Hotel Route Inn Sendai Kohoku Inter",
+     "name_ja": "ホテルルートイン仙台港北インター",
+     "description": "Hotel in Machimae, Tagajo, with a large public bath and free parking.",
+     "source_url": "https://www.jalan.net/yad344720/",
+     "page": "https://bokenjapan.com/miyagi/tagajo/stay/"
+    },
+    {
+     "name": "Hotel Livemax Tagajo",
+     "name_en": "Hotel Livemax Tagajo",
+     "name_ja": "ホテルリブマックス多賀城",
+     "description": "Hotel in Yawata, Tagajo, with a radon hot spring bath.",
+     "source_url": "https://www.jalan.net/yad341498/",
+     "page": "https://bokenjapan.com/miyagi/tagajo/stay/"
     }
    ]
   },
@@ -72112,7 +72911,7 @@
     "lat": 38.4373684,
     "lon": 140.88639
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Yoshioka-juku Honjin Information Center",
@@ -73923,7 +74722,7 @@
     "lat": 38.6918814,
     "lon": 141.1876511
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Michi-no-Eki Mitakido",
@@ -79114,7 +79913,7 @@
     "lat": 38.3998725,
     "lon": 140.8952823
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Blueberry Picking Experience",
@@ -81381,7 +82180,7 @@
     "lat": 38.5396927,
     "lon": 141.1282011
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Wakuya Farm-Direct Center",
@@ -82241,7 +83040,7 @@
     "lat": 38.0442198,
     "lon": 140.8679265
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Suzuki Tourist Strawberry Farm",
@@ -83734,7 +84533,7 @@
     "lat": 37.9626867,
     "lon": 140.8780115
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Tadokoro Tourist Grape Garden",
@@ -84504,7 +85303,7 @@
     "lat": 38.0981123,
     "lon": 140.6586648
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Togatta Onsen Morning Market",
