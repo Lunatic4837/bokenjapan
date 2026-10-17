@@ -120,6 +120,7 @@ def kind(parts):
     n = len(parts) - 1  # dirs
     if parts == ['index.html']: return 'home'
     if parts[-1] != 'index.html': return 'other'
+    if 'photo-credits' in parts[:-1]: return 'other'  # credit pages (/photo-credits/, /<pref>/photo-credits/): indexed in the sitemap, never rewritten, never counted as a town
     if n == 1: return 'pref'
     if n == 2: return 'town'
     if n == 3 and parts[2] in SECTIONS: return 'section'
@@ -354,7 +355,7 @@ L = ['# BokenJapan', '',
      f'- [Sitemap index]({BASE}sitemap.xml): one sitemap per prefecture under {BASE}sitemaps/',
      f'- [Full town list]({BASE}llms-full.txt)', '',
      '## Prefectures'] + [f"- [{x['name']}]({x['url']}): {plural(x['town_count'], 'town', 'towns')} · [JSON]({x['data']})" for x in PL] + [
-     '', '## Social'] + [f'- {u}' for u in SAME] + ['', '## Optional', f'- [Privacy]({BASE}privacy.html)', f'- [Terms]({BASE}terms.html)', '']
+     '', '## Social'] + [f'- {u}' for u in SAME] + ['', '## Optional', f'- [Photo credits]({BASE}photo-credits/)', f'- [Privacy]({BASE}privacy.html)', f'- [Terms]({BASE}terms.html)', '']
 wr('llms.txt', '\n'.join(L))
 F = ['# BokenJapan - full town list', '', '> Every town page with item counts. See /llms.txt for structure and /data/ for JSON.', '']
 for x in PL:
