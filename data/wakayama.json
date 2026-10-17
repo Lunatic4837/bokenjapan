@@ -325,8 +325,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Bakery in Arida",
-     "name_en": "Bakery in Arida",
+     "name": "Suehiro Bakery",
+     "name_en": "Suehiro Bakery",
      "name_ja": "スエヒロ",
      "description": "Bakery in Arida. Open Mon-Sat 07:00-18:30.",
      "source_url": "https://www.openstreetmap.org/node/6822316522",
@@ -529,8 +529,8 @@
      "category": "Cafe"
     },
     {
-     "name": "gekkou pizza&coffee",
-     "name_en": "gekkou pizza&coffee",
+     "name": "Gekkou Pizza & Coffee",
+     "name_en": "Gekkou Pizza & Coffee",
      "description": "Cafe in Aridagawa.",
      "source_url": "https://www.openstreetmap.org/way/758314742",
      "page": "https://bokenjapan.com/wakayama/aridagawa/eat/cafe/",
@@ -697,8 +697,8 @@
      "category": "Other"
     },
     {
-     "name": "Osakaosho Aridagawa Branch",
-     "name_en": "Osakaosho Aridagawa Branch",
+     "name": "Osaka Ohsho Aridagawa",
+     "name_en": "Osaka Ohsho Aridagawa",
      "name_ja": "大阪王将 有田川店",
      "description": "Restaurant in Aridagawa.",
      "source_url": "https://www.openstreetmap.org/node/4568895855",
@@ -1095,7 +1095,7 @@
      "name": "ATARU Cafe",
      "name_en": "ATARU Cafe",
      "description": "Cafe in Gobo.",
-     "source_url": "https://www.openstreetmap.org/node/6899764303",
+     "source_url": "https://00ataru.net/",
      "page": "https://bokenjapan.com/wakayama/gobo/eat/cafe/",
      "category": "Cafe"
     },
@@ -1295,8 +1295,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Japanese restaurant in Gobo",
-     "name_en": "Japanese restaurant in Gobo",
+     "name": "Osaka Ohsho Gobo",
+     "name_en": "Osaka Ohsho Gobo",
      "name_ja": "大阪王将",
      "description": "Japanese restaurant in Yunokawacho Takarabe, Gobo. Open Mon-Sat 11:00-21:30.",
      "source_url": "https://www.openstreetmap.org/node/4438473990",
@@ -1456,8 +1456,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Café in Hashimoto",
-     "name_en": "Café in Hashimoto",
+     "name": "Cafe de Capitan",
+     "name_en": "Cafe de Capitan",
      "name_ja": "カフェド甲比丹",
      "description": "Cafe in Hashimoto.",
      "source_url": "https://www.openstreetmap.org/node/3768436146",
@@ -1527,8 +1527,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Cafe in Hashimoto",
-     "name_en": "Cafe in Hashimoto",
+     "name": "San Cafe",
+     "name_en": "San Cafe",
      "name_ja": "サン",
      "description": "Cafe in Hashimoto.",
      "source_url": "https://www.openstreetmap.org/node/3768398960",
@@ -1589,8 +1589,8 @@
      "category": "Chinese & Asian"
     },
     {
-     "name": "Indian restaurant in Hashimoto",
-     "name_en": "Indian restaurant in Hashimoto",
+     "name": "New Delhi Indian Restaurant",
+     "name_en": "New Delhi Indian Restaurant",
      "name_ja": "インドレストラン ニューデリ",
      "description": "Indian restaurant in Hashimoto.",
      "source_url": "https://www.openstreetmap.org/node/3846153867",
@@ -1722,15 +1722,6 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Chikara Udon",
-     "name_en": "Chikara Udon",
-     "name_ja": "力うどん",
-     "description": "Noodle and soba restaurant in Hashimoto.",
-     "source_url": "https://www.openstreetmap.org/node/3441697945",
-     "page": "https://bokenjapan.com/wakayama/hashimoto/eat/noodles/",
-     "category": "Japanese (noodles)"
-    },
-    {
      "name": "Hisaya",
      "name_en": "Hisaya",
      "name_ja": "ひさや",
@@ -1740,8 +1731,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Soba restaurant in Hashimoto",
-     "name_en": "Soba restaurant in Hashimoto",
+     "name": "Kinokawa Soba",
+     "name_en": "Kinokawa Soba",
      "name_ja": "紀の川そば",
      "description": "Soba restaurant in Hashimoto.",
      "source_url": "https://www.openstreetmap.org/node/3768381328",
@@ -1828,8 +1819,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "café KTM",
-     "name_en": "cafe KTM",
+     "name": "Cafe KTM",
+     "name_en": "Cafe KTM",
      "description": "Japanese restaurant in Hashimoto.",
      "source_url": "https://www.openstreetmap.org/node/3846147869",
      "page": "https://bokenjapan.com/wakayama/hashimoto/eat/other-japanese/",
@@ -3327,15 +3318,6 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Tonkotsu Chuka Soba Gantare",
-     "name_en": "Tonkotsu Chuka Soba Gantare",
-     "name_ja": "豚骨中華そば がんたれ",
-     "description": "Ramen restaurant in Iwade.",
-     "source_url": "https://www.openstreetmap.org/node/14028739943",
-     "page": "https://bokenjapan.com/wakayama/iwade/eat/noodles/",
-     "category": "Japanese (noodles)"
-    },
-    {
      "name": "Yagura Ramen",
      "name_en": "Yagura Ramen",
      "name_ja": "やぐらラーメン",
@@ -3362,8 +3344,8 @@
      "category": "Other"
     },
     {
-     "name": "Japanese restaurant in Iwade",
-     "name_en": "Japanese restaurant in Iwade",
+     "name": "Berukurain",
+     "name_en": "Berukurain",
      "name_ja": "ベルクライン",
      "description": "Japanese restaurant in Iwade.",
      "source_url": "https://www.openstreetmap.org/node/14028739912",
@@ -3429,7 +3411,7 @@
      "name_en": "Okonomiyaki Kiha Kokoyanen",
      "name_ja": "お好み焼きは ここやねん",
      "description": "Japanese restaurant in Iwade.",
-     "source_url": "https://www.openstreetmap.org/node/4438480990",
+     "source_url": "https://www.cocoyanen.jp/archives/1543",
      "page": "https://bokenjapan.com/wakayama/iwade/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -3517,13 +3499,13 @@
      "name_en": "Yaichi",
      "name_ja": "弥一",
      "description": "Sushi restaurant in Iwade.",
-     "source_url": "https://www.openstreetmap.org/node/14028726895",
+     "source_url": "https://sushi81.jp/shop/",
      "page": "https://bokenjapan.com/wakayama/iwade/eat/seafood/",
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Cake restaurant in Iwade",
-     "name_en": "Cake restaurant in Iwade",
+     "name": "Belgian Cafe Berukurain",
+     "name_en": "Belgian Cafe Berukurain",
      "name_ja": "ベルギーカフェ ベルクライン",
      "description": "Cake restaurant in Iwade. Open daily 10:00-18:00.",
      "source_url": "https://www.openstreetmap.org/node/4440535098",
@@ -3714,8 +3696,8 @@
      "category": "Casual"
     },
     {
-     "name": "Burger fast-food restaurant in Kainan",
-     "name_en": "Burger fast-food restaurant in Kainan",
+     "name": "Dom Dom Burger",
+     "name_en": "Dom Dom Burger",
      "name_ja": "ドムドムバーガー",
      "description": "Burger fast-food restaurant in Kainan.",
      "source_url": "https://www.openstreetmap.org/node/11116555843",
@@ -3737,15 +3719,6 @@
      "name_ja": "まるとみ食堂",
      "description": "Chinese restaurant specialising in diner fare and ramen in Kainan.",
      "source_url": "https://tabelog.com/wakayama/A3002/A300201/30002856/",
-     "page": "https://bokenjapan.com/wakayama/kainan/eat/chinese-asian/",
-     "category": "Chinese & Asian"
-    },
-    {
-     "name": "Keika",
-     "name_en": "Keika",
-     "name_ja": "桂花",
-     "description": "Chinese restaurant in Ono Naka, Kainan. Open daily 11:00-14:00, 17:00-21:00.",
-     "source_url": "https://www.openstreetmap.org/way/758318055",
      "page": "https://bokenjapan.com/wakayama/kainan/eat/chinese-asian/",
      "category": "Chinese & Asian"
     },
@@ -3925,8 +3898,8 @@
      "category": "Other"
     },
     {
-     "name": "Restaurant in Kainan",
-     "name_en": "Restaurant in Kainan",
+     "name": "Maxim",
+     "name_en": "Maxim",
      "name_ja": "マキシム",
      "description": "Restaurant in Kainan.",
      "source_url": "https://www.openstreetmap.org/node/5059582731",
@@ -5168,8 +5141,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Café in Kinokawa (#1)",
-     "name_en": "Café in Kinokawa (#1)",
+     "name": "Cafe Eeba Kinokawa",
+     "name_en": "Cafe Eeba Kinokawa",
      "name_ja": "カフェ イーバ 紀の川",
      "description": "Cafe in Kinokawa.",
      "source_url": "https://www.openstreetmap.org/way/1316867640",
@@ -5230,8 +5203,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Cafe in Kinokawa",
-     "name_en": "Cafe in Kinokawa",
+     "name": "Sarusuberi Coffee and Bagels",
+     "name_en": "Sarusuberi Coffee and Bagels",
      "name_ja": "サルスベリ Sarusuberiコーヒーとベーグルのおみせ",
      "description": "Cafe in Kinokawa.",
      "source_url": "https://www.openstreetmap.org/way/1334953878",
@@ -5314,7 +5287,7 @@
      "name_en": "Joyfull",
      "name_ja": "ジョイフル",
      "description": "Western-style restaurant in Kinokawa.",
-     "source_url": "https://www.openstreetmap.org/node/4439087790",
+     "source_url": "https://www.joyfull.co.jp/shop/68",
      "page": "https://bokenjapan.com/wakayama/kinokawa/eat/european/",
      "category": "European"
     },
@@ -5409,15 +5382,6 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Chuka Soba Daifuku Ken",
-     "name_en": "Chuka Soba Daifuku Ken",
-     "name_ja": "中華そば 大福軒",
-     "description": "Ramen restaurant in Kinokawa.",
-     "source_url": "https://www.openstreetmap.org/node/4439024092",
-     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/noodles/",
-     "category": "Japanese (noodles)"
-    },
-    {
      "name": "Chuka Soba Shima Akira",
      "name_en": "Chuka Soba Shima Akira",
      "name_ja": "中華そば・しま彰",
@@ -5432,15 +5396,6 @@
      "name_ja": "麺屋 夢風",
      "description": "Ramen restaurant in Kinokawa.",
      "source_url": "https://www.openstreetmap.org/node/12393283256",
-     "page": "https://bokenjapan.com/wakayama/kinokawa/eat/noodles/",
-     "category": "Japanese (noodles)"
-    },
-    {
-     "name": "Nidaime Yonakiya",
-     "name_en": "Nidaime Yonakiya",
-     "name_ja": "二代目よなきや",
-     "description": "Ramen restaurant in Kinokawa.",
-     "source_url": "https://www.openstreetmap.org/node/12175945982",
      "page": "https://bokenjapan.com/wakayama/kinokawa/eat/noodles/",
      "category": "Japanese (noodles)"
     },
@@ -5616,8 +5571,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Bakery in Kinokawa (#1)",
-     "name_en": "Bakery in Kinokawa (#1)",
+     "name": "Pain de Panier",
+     "name_en": "Pain de Panier",
      "name_ja": "パンドパニエ",
      "description": "Bakery in Kinokawa.",
      "source_url": "https://www.openstreetmap.org/way/739744237",
@@ -8767,8 +8722,8 @@
      "category": "Chinese & Asian"
     },
     {
-     "name": "Osakaosho",
-     "name_en": "Osakaosho",
+     "name": "Osaka Ohsho Shingu",
+     "name_en": "Osaka Ohsho Shingu",
      "name_ja": "大阪王将",
      "description": "Chinese restaurant in Shingu.",
      "source_url": "https://www.openstreetmap.org/node/4438500389",
@@ -8931,8 +8886,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Japanese restaurant in Shingu",
-     "name_en": "Japanese restaurant in Shingu",
+     "name": "Drive-in Shiko",
+     "name_en": "Drive-in Shiko",
      "name_ja": "ドライブイン志古",
      "description": "Regional Japanese restaurant in Shingu.",
      "source_url": "https://www.openstreetmap.org/way/407464704",
@@ -11312,8 +11267,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Cafe in Tanabe",
-     "name_en": "Cafe in Tanabe",
+     "name": "Comic Buster Yuetsukan",
+     "name_en": "Comic Buster Yuetsukan",
      "name_ja": "コミックバスター優悦館 (You Etsu Kan)",
      "description": "Cafe in Tanabe. Open 24 hours, every day.",
      "source_url": "https://www.openstreetmap.org/way/274750812",
@@ -11420,8 +11375,8 @@
      "category": "European"
     },
     {
-     "name": "andiamo！",
-     "name_en": "andiamo!",
+     "name": "Andiamo",
+     "name_en": "Andiamo",
      "description": "Italian restaurant in Tanabe.",
      "source_url": "https://www.openstreetmap.org/node/12539013467",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/european/",
@@ -11537,8 +11492,8 @@
      "category": "Izakaya & bars"
     },
     {
-     "name": "Ｋ２ＢＡＲ",
-     "name_en": "K2BAR",
+     "name": "K2 Bar",
+     "name_en": "K2 Bar",
      "description": "Bar in Tanabe.",
      "source_url": "https://www.openstreetmap.org/node/3184331994",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
@@ -11639,8 +11594,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Udon restaurant in Tanabe",
-     "name_en": "Udon restaurant in Tanabe",
+     "name": "Teuchi Udon Shinmanhachibanchi",
+     "name_en": "Teuchi Udon Shinmanhachibanchi",
      "name_ja": "手打ちうどん 新万８番地",
      "description": "Udon restaurant in Tanabe. Open daily 11:30-14:00, 21:00-27:00.",
      "source_url": "https://www.openstreetmap.org/node/3153822180",
@@ -11934,8 +11889,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Sushi restaurant in Tanabe",
-     "name_en": "Sushi restaurant in Tanabe",
+     "name": "Sushiro",
+     "name_en": "Sushiro",
      "name_ja": "スシロー",
      "description": "Sushi restaurant in Ine Narumachi, Tanabe. Open daily 10:30-22:00.",
      "source_url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=233",
@@ -12702,8 +12657,8 @@
      "category": "Cafe"
     },
     {
-     "name": "BRING BOOK STORE",
-     "name_en": "BRING BOOK STORE",
+     "name": "Bring Book Store",
+     "name_en": "Bring Book Store",
      "description": "Cafe in Wakayama. Open Tue-Sun 09:30-17:00.",
      "source_url": "https://www.openstreetmap.org/node/6144532735",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
@@ -12853,8 +12808,8 @@
      "category": "Casual"
     },
     {
-     "name": "Burger fast-food restaurant in Wakayama",
-     "name_en": "Burger fast-food restaurant in Wakayama",
+     "name": "Zetteria",
+     "name_en": "Zetteria",
      "name_ja": "ゼッテリア",
      "description": "Burger fast-food restaurant in Wakayama. Open Mon-Sun, public holidays 07:00-21:00.",
      "source_url": "https://www.openstreetmap.org/node/4472750657",
@@ -12870,8 +12825,8 @@
      "category": "Chinese & Asian"
     },
     {
-     "name": "Chinese restaurant in Wakayama",
-     "name_en": "Chinese restaurant in Wakayama",
+     "name": "Green Corner Tsukijibashi",
+     "name_en": "Green Corner Tsukijibashi",
      "name_ja": "グリーンコーナー 築地橋店",
      "description": "Chinese restaurant in Wakayama. Open daily 11:00-22:30.",
      "source_url": "https://www.openstreetmap.org/way/534791508",
@@ -12988,8 +12943,8 @@
      "category": "European"
     },
     {
-     "name": "Pizza and pasta restaurant in Wakayama",
-     "name_en": "Pizza and pasta restaurant in Wakayama",
+     "name": "Mister Magic",
+     "name_en": "Mister Magic",
      "name_ja": "ミスターマジック",
      "description": "Pizza and pasta restaurant in Wakayama.",
      "source_url": "https://mr-magic-3.jimdosite.com/",
@@ -12997,8 +12952,8 @@
      "category": "European"
     },
     {
-     "name": "Italian restaurant in Matsue Kou Noshima, Wakayama",
-     "name_en": "Italian restaurant in Matsue Kou Noshima, Wakayama",
+     "name": "Saizeriya",
+     "name_en": "Saizeriya",
      "name_ja": "サイゼリヤ",
      "description": "Italian restaurant in Matsue Kou Noshima, Wakayama. Open daily 10:00-22:00.",
      "source_url": "https://www.openstreetmap.org/node/4462959867",
@@ -13039,8 +12994,8 @@
      "category": "European"
     },
     {
-     "name": "Italian restaurant in Wakayama",
-     "name_en": "Italian restaurant in Wakayama",
+     "name": "Italian Il Ritrovo",
+     "name_en": "Italian Il Ritrovo",
      "name_ja": "イタリアン イル・リトロボ",
      "description": "Italian restaurant in Wakayama. Open daily 11:30-15:00, 17:30-22:00.",
      "source_url": "https://www.openstreetmap.org/way/217732150",
@@ -13080,8 +13035,8 @@
      "category": "European"
     },
     {
-     "name": "Italian restaurant in Tanakacho, Wakayama",
-     "name_en": "Italian restaurant in Tanakacho, Wakayama",
+     "name": "Siesta",
+     "name_en": "Siesta",
      "name_ja": "シエスタ",
      "description": "Italian restaurant in Tanakacho, Wakayama.",
      "source_url": "https://www.openstreetmap.org/way/547849053",
@@ -13343,8 +13298,8 @@
      "category": "Japanese (meat)"
     },
     {
-     "name": "Meat restaurant in Wakayama",
-     "name_en": "Meat restaurant in Wakayama",
+     "name": "Tonkatsu Katsuki",
+     "name_en": "Tonkatsu Katsuki",
      "name_ja": "とんかつ かつ喜",
      "description": "Meat restaurant in Nakano, Wakayama. Open daily 11:00-22:00.",
      "source_url": "https://www.openstreetmap.org/node/10241829866",
@@ -13590,7 +13545,7 @@
      "name_en": "Nagahama Ramen",
      "name_ja": "長浜らーめん",
      "description": "Ramen restaurant in Wakayama. Open daily 11:00-24:00.",
-     "source_url": "https://www.openstreetmap.org/node/4442218271",
+     "source_url": "https://nagahama-raumen.com/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
      "category": "Japanese (noodles)"
     },
@@ -13613,8 +13568,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Noodle restaurant in Wakayama",
-     "name_en": "Noodle restaurant in Wakayama",
+     "name": "Tokyo Abura Gumi Sohonten",
+     "name_en": "Tokyo Abura Gumi Sohonten",
      "name_ja": "東京油組総本店",
      "description": "Noodle restaurant in Wakayama. Open Mon-Sun, public holidays 11:00-21:30.",
      "source_url": "https://www.openstreetmap.org/way/516722887",
@@ -13796,8 +13751,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Japanese restaurant in Ota, Wakayama",
-     "name_en": "Japanese restaurant in Ota, Wakayama",
+     "name": "Matsunoya",
+     "name_en": "Matsunoya",
      "name_ja": "松のや",
      "description": "Japanese restaurant in Ota, Wakayama. Open daily 05:00-26:00.",
      "source_url": "https://matsuyafoods.co.jp",
@@ -13850,8 +13805,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Japanese restaurant in Wakayama",
-     "name_en": "Japanese restaurant in Wakayama",
+     "name": "Kyu",
+     "name_en": "Kyu",
      "name_ja": "きゅう",
      "description": "Japanese restaurant in Wakayama.",
      "source_url": "https://www.openstreetmap.org/way/1562318478",
@@ -13953,8 +13908,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Ice cream cafe in Wakayama",
-     "name_en": "Ice cream cafe in Wakayama",
+     "name": "Gyokurin-en Green Corner Main Store",
+     "name_en": "Gyokurin-en Green Corner Main Store",
      "name_ja": "玉林園 グリーンコーナー本店",
      "description": "Ice cream cafe in Wakayama. Open daily 11:00-23:00.",
      "source_url": "https://www.openstreetmap.org/node/6006863174",
@@ -13971,8 +13926,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Japanese sweets shop in Wakayama",
-     "name_en": "Japanese sweets shop in Wakayama",
+     "name": "Sohonke Surugaya Surugacho Honpo",
+     "name_en": "Sohonke Surugaya Surugacho Honpo",
      "name_ja": "総本家駿河屋駿河町本舗",
      "description": "Japanese sweets shop in Wakayama. Open daily 09:00-18:00.",
      "source_url": "https://www.openstreetmap.org/way/471706890",
