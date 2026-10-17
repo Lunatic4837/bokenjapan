@@ -141,6 +141,13 @@
      "category": "Cafe"
     },
     {
+     "name": "Café in Asahimachi",
+     "description": "Wabou is a retro coffee shop established 40 years ago.",
+     "source_url": "https://www.info-toyama.com/attractions/102768",
+     "page": "https://bokenjapan.com/toyama/asahimachi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Drive-In Kanamori",
      "description": "Roadside restaurant open for 50 years with seating for 80.",
      "source_url": "https://www.info-toyama.com/attractions/102748",
@@ -553,6 +560,12 @@
      "name": "Asahimachi Town Hall",
      "description": "Town office of Asahimachi.",
      "source_url": "https://www.town.asahi.toyama.jp/",
+     "page": "https://bokenjapan.com/toyama/asahimachi/see/"
+    },
+    {
+     "name": "Asahi Town Furusato Art Museum",
+     "description": "The Asahi Town Furusato Art Museum is a relocated and renovated facility featuring three exhibition rooms, an experience learning room, and a museum shop.",
+     "source_url": "https://www.info-toyama.com/attractions/51043",
      "page": "https://bokenjapan.com/toyama/asahimachi/see/"
     }
    ],
@@ -1277,6 +1290,12 @@
      "description": "City office of Himi.",
      "source_url": "https://www.city.himi.toyama.jp/",
      "page": "https://bokenjapan.com/toyama/himi/see/"
+    },
+    {
+     "name": "Himinoue Park",
+     "description": "A seaside park in Himi offering panoramic views of Toyama Bay and the Tateyama mountains.",
+     "source_url": "https://www.info-toyama.com/attractions/103244",
+     "page": "https://bokenjapan.com/toyama/himi/see/"
     }
    ],
    "stays": [
@@ -1501,6 +1520,13 @@
      "name_en": "WHARF & CO.",
      "description": "Inn in Himi.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/191897/191897.html",
+     "page": "https://bokenjapan.com/toyama/himi/stay/"
+    },
+    {
+     "name": "Hashimotoya",
+     "name_en": "Hashimotoya",
+     "description": "Ryokan in Himi.",
+     "source_url": "https://www.jalan.net/yad375776/",
      "page": "https://bokenjapan.com/toyama/himi/stay/"
     }
    ]
@@ -2088,6 +2114,12 @@
      "name": "Imizu City Hall",
      "description": "Official municipal website with local government and visitor information for Imizu.",
      "source_url": "https://www.city.imizu.toyama.jp/",
+     "page": "https://bokenjapan.com/toyama/imizu/see/"
+    },
+    {
+     "name": "Toyama Prefectural University Sunflower Field",
+     "description": "Toyama Prefectural University Sunflower Field blooms with about 50,000 sunflowers and a changeable maze.",
+     "source_url": "https://www.info-toyama.com/attractions/103160",
      "page": "https://bokenjapan.com/toyama/imizu/see/"
     }
    ],
@@ -3089,6 +3121,12 @@
      "description": "Official municipal website with local government and visitor information for Kurobe.",
      "source_url": "https://www.city.kurobe.toyama.jp/",
      "page": "https://bokenjapan.com/toyama/kurobe/see/"
+    },
+    {
+     "name": "Ikuji Town Walk",
+     "description": "A historic riverside district where dozens of pure-water springs still serve local homes.",
+     "source_url": "https://www.info-toyama.com/attractions/51018",
+     "page": "https://bokenjapan.com/toyama/kurobe/see/"
     }
    ],
    "stays": [
@@ -3801,6 +3839,12 @@
      "name": "Yu Flower Garden Strawberry Picking",
      "description": "Strawberry farm in Nanto.",
      "source_url": "https://www.yuukaen-strawberry.jp/service/",
+     "page": "https://bokenjapan.com/toyama/nanto/do/"
+    },
+    {
+     "name": "Domaine Beau",
+     "description": "A winery in Nanto cultivating wine grapes with low-chemical, IoT-supported methods.",
+     "source_url": "https://www.info-toyama.com/attractions/99860",
      "page": "https://bokenjapan.com/toyama/nanto/do/"
     }
    ],
@@ -4969,6 +5013,30 @@
      "description": "Rice-cracker maker from Fukumitsu, blessed with Toyama's good water and glutinous rice.",
      "source_url": "https://www.info-toyama.com/attractions/102499",
      "page": "https://bokenjapan.com/toyama/nanto/see/"
+    },
+    {
+     "name": "Fudo Falls Sacred Water",
+     "description": "Fudo Falls Sacred Water is a cold, alkaline spring selected among Japan’s notable waters in 2008.",
+     "source_url": "https://www.info-toyama.com/attractions/41056",
+     "page": "https://bokenjapan.com/toyama/nanto/see/"
+    },
+    {
+     "name": "Wakiya Spring Water",
+     "description": "Clear, cold spring water flows from a small shrine beside Wakiya Bridge.",
+     "source_url": "https://www.info-toyama.com/attractions/41053",
+     "page": "https://bokenjapan.com/toyama/nanto/see/"
+    },
+    {
+     "name": "Gassho no Sato",
+     "description": "A thatched-roof village next to the World Heritage Gokayama Suganuma Gassho-style settlement.",
+     "source_url": "https://www.info-toyama.com/attractions/101435",
+     "page": "https://bokenjapan.com/toyama/nanto/see/"
+    },
+    {
+     "name": "Maru-ike Pond",
+     "description": "Maru-ike Pond is a spring whose water is said to have appeared after a divine revelation 500 years ago.",
+     "source_url": "https://www.info-toyama.com/attractions/41054",
+     "page": "https://bokenjapan.com/toyama/nanto/see/"
     }
    ],
    "stays": [
@@ -5261,6 +5329,12 @@
      "description": "Indoor multipurpose facility in Nyuzen.",
      "source_url": "https://www.town.nyuzen.toyama.jp/gyosei/soshiki/kyoiku_iinkai/1/1/1358.html",
      "page": "https://bokenjapan.com/toyama/nyuzen/do/"
+    },
+    {
+     "name": "Izakaya Otojiro",
+     "description": "An izakaya by Nyuzen Station serving regional sake and deep-sea-water oysters.",
+     "source_url": "https://www.info-toyama.com/attractions/90154",
+     "page": "https://bokenjapan.com/toyama/nyuzen/do/"
     }
    ],
    "food": [
@@ -5303,6 +5377,13 @@
      "name": "Cafe Sakura",
      "description": "Cafe in a renovated old house keeping its carved transom and sliding doors.",
      "source_url": "https://www.instagram.com/sakura_nyuzen/",
+     "page": "https://bokenjapan.com/toyama/nyuzen/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "En Chinese Tea Cafe",
+     "description": "En is a Chinese-tea cafe in a renovated former joinery serving herbal dishes and Chinese tea.",
+     "source_url": "https://www.info-toyama.com/attractions/103511",
      "page": "https://bokenjapan.com/toyama/nyuzen/eat/cafe/",
      "category": "Cafe"
     },
@@ -5749,6 +5830,13 @@
      "category": "Cafe"
     },
     {
+     "name": "Kissameido",
+     "description": "A maid café inside a mansion at Oyabe’s Royal Meadow Golf Club serving tea and handmade sweets.",
+     "source_url": "https://www.info-toyama.com/attractions/103661",
+     "page": "https://bokenjapan.com/toyama/oyabe/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Mina Rai Shokudo",
      "description": "Casual diner (shokudo) in Oyabe, also serving Chinese dishes.",
      "source_url": "https://tabelog.com/toyama/A1604/A160403/16003656/",
@@ -6183,6 +6271,18 @@
      "name": "NIJIWO TUKURU Tufting Studio",
      "description": "Tufting studio offering rug-making experiences in Takaoka.",
      "source_url": "https://nijiwotukuru.official.ec/",
+     "page": "https://bokenjapan.com/toyama/takaoka/do/"
+    },
+    {
+     "name": "Momentum Factory Orii Copper Coloring",
+     "description": "Momentum Factory Orii is a workshop where visitors can experience traditional Takaoka copperware coloring techniques.",
+     "source_url": "https://www.info-toyama.com/attractions/103496",
+     "page": "https://bokenjapan.com/toyama/takaoka/do/"
+    },
+    {
+     "name": "Kuraftan",
+     "description": "Kuraftan is a specialty kelp shop offering local kombu and kelp-based foods.",
+     "source_url": "https://www.info-toyama.com/attractions/103199",
      "page": "https://bokenjapan.com/toyama/takaoka/do/"
     }
    ],
@@ -6878,6 +6978,30 @@
      "description": "Official municipal website with local government and visitor information for Takaoka.",
      "source_url": "https://www.city.takaoka.toyama.jp/",
      "page": "https://bokenjapan.com/toyama/takaoka/see/"
+    },
+    {
+     "name": "Manyo Poem Monument Tsuzuma Park",
+     "description": "Manyo Poem Monument Tsuzuma Park displays a stone memorial to an eighth-century poem about an ancient tree.",
+     "source_url": "https://www.info-toyama.com/attractions/21082",
+     "page": "https://bokenjapan.com/toyama/takaoka/see/"
+    },
+    {
+     "name": "Tomiyo and Firefly Habitat",
+     "description": "The Tomiyo and Firefly Habitat is a protected wetland area known for native fish and seasonal fireflies.",
+     "source_url": "https://www.info-toyama.com/attractions/21076",
+     "page": "https://bokenjapan.com/toyama/takaoka/see/"
+    },
+    {
+     "name": "Otomono Yakamochi Statue on Mt. Futagami",
+     "description": "A bronze statue of young Otomo no Yakamochi stands near the summit of Mt. Futagami in Takaoka.",
+     "source_url": "https://www.info-toyama.com/attractions/21087",
+     "page": "https://bokenjapan.com/toyama/takaoka/see/"
+    },
+    {
+     "name": "Tomb of Imperial Prince Tsunenari",
+     "description": "The imperial tomb of Prince Tsunenari, a Kamakura-era royal who was executed in Takaoka.",
+     "source_url": "https://www.info-toyama.com/attractions/21101",
+     "page": "https://bokenjapan.com/toyama/takaoka/see/"
     }
    ],
    "stays": [
@@ -7042,6 +7166,12 @@
      "name": "Samurai's House",
      "description": "Inn in Takaoka.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/174348/174348.html",
+     "page": "https://bokenjapan.com/toyama/takaoka/stay/"
+    },
+    {
+     "name": "Hotel Alpha-1 Takaoka Ekimae",
+     "description": "Hotel adjacent to JR Takaoka Station in Takaoka.",
+     "source_url": "https://www.jalan.net/yad365908/",
      "page": "https://bokenjapan.com/toyama/takaoka/stay/"
     }
    ]
@@ -8219,6 +8349,18 @@
      "description": "Whole-house rental in Tonami with a traditional farmhouse.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/197723/197723.html",
      "page": "https://bokenjapan.com/toyama/tonami/stay/"
+    },
+    {
+     "name": "Benten",
+     "description": "Ryokan in Shogawa, Tonami with view bath.",
+     "source_url": "https://www.jalan.net/yad394810/",
+     "page": "https://bokenjapan.com/toyama/tonami/stay/"
+    },
+    {
+     "name": "Kanjoji Joybase",
+     "description": "Cottage in Shogawa, Tonami.",
+     "source_url": "https://www.jalan.net/yad351081/",
+     "page": "https://bokenjapan.com/toyama/tonami/stay/"
     }
    ]
   },
@@ -8510,6 +8652,24 @@
      "description": "Bouldering gym in Toyama, one of the largest in Hokushinetsu.",
      "source_url": "https://letruss.jp/",
      "page": "https://bokenjapan.com/toyama/toyama/do/"
+    },
+    {
+     "name": "Yoshinotomo Sake Brewery",
+     "description": "Yoshinotomo Sake Brewery is Toyama's only brewery dedicated exclusively to producing junmai sake from local rice.",
+     "source_url": "https://www.info-toyama.com/attractions/11090",
+     "page": "https://bokenjapan.com/toyama/toyama/do/"
+    },
+    {
+     "name": "i3u7 Immersive Sauna",
+     "description": "i3u7 Immersive Sauna is a private sauna facility offering two-hour sessions just a three-minute walk from Toyama Station.",
+     "source_url": "https://www.info-toyama.com/attractions/102907",
+     "page": "https://bokenjapan.com/toyama/toyama/do/"
+    },
+    {
+     "name": "Wa Sweets Kentaro",
+     "description": "Wa Sweets Kentaro is a Japanese confectionery brand offering seasonal mochi and bean-paste sweets.",
+     "source_url": "https://www.info-toyama.com/attractions/103147",
+     "page": "https://bokenjapan.com/toyama/toyama/do/"
     }
    ],
    "food": [
@@ -8747,6 +8907,27 @@
      "name_en": "Tempura Makoto Shin",
      "description": "Tempura restaurant for quiet meals.",
      "source_url": "https://www.info-toyama.com/attractions/80317",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kansui Terrace",
+     "description": "Kansui Terrace is a three-story complex overlooking Kansui Park with tea, Japanese cuisine and a bar.",
+     "source_url": "https://www.info-toyama.com/attractions/90209",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Gomangoku Main Store",
+     "description": "Gomangoku Main Store is a traditional Japanese restaurant showcasing seasonal Toyama ingredients in refined dishes.",
+     "source_url": "https://www.info-toyama.com/attractions/102982",
+     "page": "https://bokenjapan.com/toyama/toyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yukitsubaki",
+     "description": "Yukitsubaki is a restaurant inside Ushidake Onsen Health Center serving perilla-seed dishes.",
+     "source_url": "https://www.info-toyama.com/attractions/12005",
      "page": "https://bokenjapan.com/toyama/toyama/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -9566,6 +9747,30 @@
      "description": "Official municipal website with local government and visitor information for Toyama.",
      "source_url": "https://www.city.toyama.lg.jp/",
      "page": "https://bokenjapan.com/toyama/toyama/see/"
+    },
+    {
+     "name": "Urban Place",
+     "description": "A multi-story building beside Toyama Station housing restaurants and a souvenir shop.",
+     "source_url": "https://www.info-toyama.com/attractions/90188",
+     "page": "https://bokenjapan.com/toyama/toyama/see/"
+    },
+    {
+     "name": "Sarukurayama Forest Park",
+     "description": "A hilltop park overlooking Toyama Plain with campgrounds, BBQ facilities and a lookout.",
+     "source_url": "https://www.info-toyama.com/attractions/11082",
+     "page": "https://bokenjapan.com/toyama/toyama/see/"
+    },
+    {
+     "name": "Ushidake Onsen Health Center",
+     "description": "Ushidake Onsen Health Center is a hot-spring facility with eight varieties of baths at the foot of Mount Ushidake.",
+     "source_url": "https://www.info-toyama.com/attractions/11045",
+     "page": "https://bokenjapan.com/toyama/toyama/see/"
+    },
+    {
+     "name": "Toyama Station Tram Stop",
+     "description": "Toyama Station Tram Stop is where Toyama’s tram lines meet the station and serve as a transport hub for visitors.",
+     "source_url": "https://www.info-toyama.com/attractions/80537",
+     "page": "https://bokenjapan.com/toyama/toyama/see/"
     }
    ],
    "stays": [
@@ -10050,6 +10255,66 @@
      "description": "Inn in Toyama.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/198398/198398.html",
      "page": "https://bokenjapan.com/toyama/toyama/stay/"
+    },
+    {
+     "name": "Hotel Relax Inn Toyama",
+     "description": "Hotel in Sakuramachi, Toyama.",
+     "source_url": "https://www.jalan.net/yad351289/",
+     "page": "https://bokenjapan.com/toyama/toyama/stay/"
+    },
+    {
+     "name": "Hotel Shoen",
+     "description": "Hotel in Sakura-machi, Toyama, 10-minute walk from Toyama Station.",
+     "source_url": "https://www.jalan.net/yad300204/",
+     "page": "https://bokenjapan.com/toyama/toyama/stay/"
+    },
+    {
+     "name": "Toyama Chitetsu Hotel",
+     "description": "Hotel in Sakuramachi, Toyama with free lounge coffee, manga and breakfast.",
+     "source_url": "https://www.jalan.net/yad310947/",
+     "page": "https://bokenjapan.com/toyama/toyama/stay/"
+    },
+    {
+     "name": "Natural Hot Spring Tsurugi-no-Yu Dormy Inn Toyama",
+     "description": "Hotel in Otemachi, Toyama with onsen bath, sauna and breakfast buffet.",
+     "source_url": "https://www.jalan.net/yad394296/",
+     "page": "https://bokenjapan.com/toyama/toyama/stay/"
+    },
+    {
+     "name": "APA Hotel Toyama Ekimae",
+     "description": "Hotel in Toyama with large bath and sauna.",
+     "source_url": "https://www.jalan.net/yad317096/",
+     "page": "https://bokenjapan.com/toyama/toyama/stay/"
+    },
+    {
+     "name": "Toyoko Inn Toyama Ekimae Shinkansen-guchi 1",
+     "description": "Hotel in Toyama, 8-minute walk to Overd Hall, breakfast included.",
+     "source_url": "https://www.jalan.net/yad320156/",
+     "page": "https://bokenjapan.com/toyama/toyama/stay/"
+    },
+    {
+     "name": "Inari Onsen",
+     "description": "Hot-spring inn with large public bath and free parking in Toyama.",
+     "source_url": "https://www.jalan.net/yad387000/",
+     "page": "https://bokenjapan.com/toyama/toyama/stay/"
+    },
+    {
+     "name": "Goraku Ryokan",
+     "description": "Ryokan serving seasonal local cuisine in Toyama.",
+     "source_url": "https://www.jalan.net/yad349693/",
+     "page": "https://bokenjapan.com/toyama/toyama/stay/"
+    },
+    {
+     "name": "Whole-building machiya rental hotel in Toyama",
+     "description": "Whole-building machiya rental hotel in Kagami-machi, Yatsuo, Toyama.",
+     "source_url": "https://www.jalan.net/yad390253/",
+     "page": "https://bokenjapan.com/toyama/toyama/stay/"
+    },
+    {
+     "name": "Hotel in Hara, Toyama",
+     "description": "Hotel in Hara, Toyama with hot spring.",
+     "source_url": "https://www.jalan.net/yad341385/",
+     "page": "https://bokenjapan.com/toyama/toyama/stay/"
     }
    ]
   },
@@ -10172,6 +10437,36 @@
      "name": "Uozu Momoyama Sports Park",
      "description": "Sports park in Uozu.",
      "source_url": "https://www.spo-uozu.com/momoyama/",
+     "page": "https://bokenjapan.com/toyama/uozu/do/"
+    },
+    {
+     "name": "ZAXFOX Confectionery Laboratory",
+     "description": "ZAXFOX Confectionery Laboratory is a pastry workshop creating fresh sweets overlooking the Tateyama mountains.",
+     "source_url": "https://www.info-toyama.com/attractions/103597",
+     "page": "https://bokenjapan.com/toyama/uozu/do/"
+    },
+    {
+     "name": "Aizome Experience Aiya",
+     "description": "Aizome Experience Aiya offers indigo dyeing using a traditional natural-fermentation method in Uozu City.",
+     "source_url": "https://www.info-toyama.com/attractions/103488",
+     "page": "https://bokenjapan.com/toyama/uozu/do/"
+    },
+    {
+     "name": "Uozu Miracle Rental Cycles",
+     "description": "Uozu Miracle Rental Cycles provides bicycles for exploring coastal and countryside routes around Uozu City.",
+     "source_url": "https://www.info-toyama.com/attractions/102634",
+     "page": "https://bokenjapan.com/toyama/uozu/do/"
+    },
+    {
+     "name": "Mukaisanchi Farm Blueberry Picking Garden",
+     "description": "A blueberry picking farm in Uozu where visitors can harvest berries from late June to August.",
+     "source_url": "https://www.info-toyama.com/attractions/102872",
+     "page": "https://bokenjapan.com/toyama/uozu/do/"
+    },
+    {
+     "name": "Aizome-ya aiya",
+     "description": "Aizome-ya aiya cultivates indigo plants and conducts natural indigo dyeing and workshops.",
+     "source_url": "https://www.info-toyama.com/attractions/103313",
      "page": "https://bokenjapan.com/toyama/uozu/do/"
     }
    ],
@@ -10653,6 +10948,12 @@
      "name": "kitan UOZU",
      "description": "Inn in Uozu with a sauna.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/194710/194710.html",
+     "page": "https://bokenjapan.com/toyama/uozu/stay/"
+    },
+    {
+     "name": "Niuemon Ryokan",
+     "description": "Ryokan in Kitayama, Uozu with shuttle service to Uozu Station.",
+     "source_url": "https://www.jalan.net/yad327973/",
      "page": "https://bokenjapan.com/toyama/uozu/stay/"
     }
    ]
