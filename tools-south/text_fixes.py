@@ -33,8 +33,41 @@ def demote(tree, pages, dry):
         print(p, f': moved {len(move)} shop/food card(s) to the end:', [re.search(r'place-name">([^<]*)', x).group(1) for x in move])
         if not dry: f.write_text(t[:m.start()] + new + t[m.end():], encoding='utf-8')
 
+# ---- stay descriptions from the card's own name (added) ----
+def staydesc_main(tree, pref):
+    PN = pref.capitalize()
+    import glob, re
+    KW = [('旅館', 'Ryokan'), ('ホテル', 'Hotel'), ('HOTEL', 'Hotel'), ('宿屋', 'Inn'), ('ペンション', 'Pension'),
+          ('民宿', 'Minshuku'), ('ゲストハウス', 'Guesthouse'), ('キャンプ', 'Campsite'), ('コテージ', 'Cottage')]
+    n = 0
+    for f in sorted(glob.glob(tree + '/%s/*/stay/index.html' % pref)):
+        t = open(f, encoding='utf-8').read(); o = t
+        town = f.split('/')[-3]
+        te = re.search(r'<title>(?:Stays near |Stays in |Where to stay in )?([A-Za-z -]+?),', t)
+        def card(m):
+            nonlocal n
+            li = m.group(0)
+            if 'place-desc' in li: return li
+            nm = re.search(r'place-name">([^<]*)', li).group(1)
+            noun = next((v for k, v in KW if k in nm), None)
+            if not noun: return li
+            # the card's own town comes from its place-meta ("#7 ranked in Kurayoshi")
+            tw = re.search(r'ranked in ([A-Za-z -]+)</p>', li)
+            if not tw: return li
+            n += 1
+            d = '<p class="place-desc">%s in %s, %s.</p><!-- desc-source: card name keyword -->' % (noun, tw.group(1).strip(), PN)
+            return li.replace('</p><!-- sources:', '</p>' + d + '<!-- sources:', 1) if '</p><!-- sources:' in li else li
+        t = re.sub(r'<li><a href=.*?</li>', card, t, flags=re.S)
+        t = t.replace('APA Hotel &lt; Tottori Ekimae &gt;', 'APA Hotel Tottori Ekimae').replace('APA Hotel &lt; Tottori Ekimae Minami &gt;', 'APA Hotel Tottori Ekimae Minami')
+        if t != o:
+            open(f, 'w', encoding='utf-8').write(t)
+    print('stay descriptions added', n)
+
+
 if __name__ == '__main__':
     ap = argparse.ArgumentParser(); ap.add_argument('--tree', required=True); ap.add_argument('--pref', required=True); ap.add_argument('--dry-run', action='store_true')
-    ap.add_argument('op', choices=['sakyu', 'demote']); ap.add_argument('pages', nargs='*')
+    ap.add_argument('op', choices=['sakyu', 'demote', 'staydesc']); ap.add_argument('pages', nargs='*')
     A = ap.parse_args()
-    sakyu(A.tree, A.pref, A.dry_run) if A.op == 'sakyu' else demote(A.tree, A.pages, A.dry_run)
+    {'sakyu': lambda: sakyu(A.tree, A.pref, A.dry_run), 'demote': lambda: demote(A.tree, A.pages, A.dry_run), 'staydesc': lambda: staydesc_main(A.tree, A.pref)}[A.op]()
+
+
