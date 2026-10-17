@@ -15,7 +15,7 @@ Pages state what and where they are, cite their sources (schema.org JSON-LD with
 - [Data index](https://bokenjapan.com/data/index.json): entry point, schema and counts
 - [Prefectures](https://bokenjapan.com/data/prefectures.json): every prefecture with its data file
 - [Data README](https://bokenjapan.com/data/README.md)
-- [Sitemap index](https://bokenjapan.com/sitemap.xml): one sitemap per prefecture under https://bokenjapan.com/sitemaps/
+- [Sitemap index](https://bokenjapan.com/sitemap.xml): one sitemap per prefecture, e.g. https://bokenjapan.com/sitemaps/aichi.xml
 - [Full town list](https://bokenjapan.com/llms-full.txt)
 
 ## Prefectures
@@ -73,5 +73,6 @@ Pages state what and where they are, cite their sources (schema.org JSON-LD with
 - https://www.facebook.com/profile.php?id=61595415860080
 
 ## Optional
+- [Photo credits](https://bokenjapan.com/photo-credits/)
 - [Privacy](https://bokenjapan.com/privacy.html)
 - [Terms](https://bokenjapan.com/terms.html)
