@@ -40,7 +40,7 @@
      "name": "Café in Arida (#3)",
      "name_en": "Café in Arida (#3)",
      "name_ja": "伊藤農園直営カフェ みかんの木 有田本店",
-     "description": "Café in Arida.",
+     "description": "Café in Arida, Wakayama Prefecture.",
      "source_url": "https://tabelog.com/wakayama/A3002/A300202/30011624/",
      "page": "https://bokenjapan.com/wakayama/arida/eat/cafe/",
      "category": "Cafe"
@@ -49,7 +49,7 @@
      "name": "Café in Arida (#6)",
      "name_en": "Café in Arida (#6)",
      "name_ja": "テラスカフェ・ライスフィールド",
-     "description": "Café in Arida.",
+     "description": "Café in Arida, Wakayama Prefecture.",
      "source_url": "https://tabelog.com/wakayama/A3002/A300202/30007439/",
      "page": "https://bokenjapan.com/wakayama/arida/eat/cafe/",
      "category": "Cafe"
@@ -75,7 +75,7 @@
      "name": "Café in Arida (#14)",
      "name_en": "Café in Arida (#14)",
      "name_ja": "キラナ",
-     "description": "Café in Arida.",
+     "description": "Café in Arida, Wakayama Prefecture.",
      "source_url": "https://tabelog.com/wakayama/A3002/A300202/30008783/",
      "page": "https://bokenjapan.com/wakayama/arida/eat/cafe/",
      "category": "Cafe"
@@ -84,7 +84,7 @@
      "name": "Kaju to Kajitsu",
      "name_en": "Kaju to Kajitsu",
      "name_ja": "果汁と果実",
-     "description": "Café in Arida.",
+     "description": "Café in Arida, Wakayama Prefecture.",
      "source_url": "https://tabelog.com/wakayama/A3002/A300202/30012055/",
      "page": "https://bokenjapan.com/wakayama/arida/eat/cafe/",
      "category": "Cafe"
@@ -92,7 +92,7 @@
     {
      "name": "HIKARU ORCHIDS",
      "name_en": "Hikaru Orchids",
-     "description": "Café in Arida.",
+     "description": "Café in Arida, Wakayama Prefecture.",
      "source_url": "https://tabelog.com/wakayama/A3002/A300202/30012054/",
      "page": "https://bokenjapan.com/wakayama/arida/eat/cafe/",
      "category": "Cafe"
@@ -108,6 +108,7 @@
     },
     {
      "name": "Terrace Cafe Ricefield",
+     "name_en": "Terrace Cafe Ricefield",
      "description": "Cafe and bakery in Arida.",
      "source_url": "https://cafe-ricefield.com/",
      "page": "https://bokenjapan.com/wakayama/arida/eat/cafe/",
@@ -193,6 +194,7 @@
     },
     {
      "name": "Arucceppo Pizza and Salad",
+     "name_en": "Arucceppo Pizza and Salad",
      "description": "Italian, French or Spanish restaurant in Arida, also serving cafe fare.",
      "source_url": "https://instagram.com/alceppoarida?igshid=MWk2Z3c3YWt3bG4zeg%3D%3D&amp;amp;utm_source=qr",
      "page": "https://bokenjapan.com/wakayama/arida/eat/european/",
@@ -583,6 +585,7 @@
     },
     {
      "name": "Matsumoto",
+     "name_en": "Matsumoto",
      "description": "Okonomiyaki and takoyaki restaurant in Aridagawa.",
      "source_url": "https://www.instagram.com/teppanya_matsumoto/",
      "page": "https://bokenjapan.com/wakayama/aridagawa/eat/casual/",
@@ -1305,6 +1308,7 @@
     },
     {
      "name": "Tanimoto",
+     "name_en": "Tanimoto",
      "description": "Japanese restaurant in Gobo.",
      "source_url": "https://kdru200.gorp.jp/",
      "page": "https://bokenjapan.com/wakayama/gobo/eat/other-japanese/",
@@ -1351,7 +1355,7 @@
      "name": "Bitcoin Villa",
      "name_en": "Bitcoin Villa",
      "name_ja": "Bitcoin Villa ビットコインヴィラ",
-     "description": "Inn in Gobo.",
+     "description": "Inn in Gobo, Wakayama Prefecture.",
      "source_url": "https://www.ikyu.com/00050893/",
      "page": "https://bokenjapan.com/wakayama/gobo/stay/"
     },
@@ -1716,6 +1720,7 @@
     },
     {
      "name": "Koya Soba Kokone Koyaguchi Ekimae",
+     "name_en": "Koya Soba Kokone Koyaguchi Ekimae",
      "description": "Udon and soba restaurant in Hashimoto.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2300148",
      "page": "https://bokenjapan.com/wakayama/hashimoto/eat/noodles/",
@@ -1804,6 +1809,7 @@
     },
     {
      "name": "Sushiya Magokoro",
+     "name_en": "Sushiya Magokoro",
      "description": "Sushi restaurant in Hashimoto.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2400089",
      "page": "https://bokenjapan.com/wakayama/hashimoto/eat/other-japanese/",
@@ -3043,6 +3049,7 @@
     },
     {
      "name": "SAKURA NO TANE",
+     "name_en": "SAKURA NO TANE",
      "description": "Cafe and bakery in Iwade.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2400118",
      "page": "https://bokenjapan.com/wakayama/iwade/eat/cafe/",
@@ -3453,6 +3460,7 @@
     },
     {
      "name": "Yamada Hirokichi Shouten",
+     "name_en": "Yamada Hirokichi Shouten",
      "description": "Izakaya (Japanese pub) in Iwade.",
      "source_url": "https://www.instagram.com/hirokichi_wakayama_japan/",
      "page": "https://bokenjapan.com/wakayama/iwade/eat/other-japanese/",
@@ -3623,6 +3631,7 @@
     },
     {
      "name": "Michi no Eki Kainan Sakuasu SHIMOTSU FRUITS",
+     "name_en": "Michi no Eki Kainan Sakuasu SHIMOTSU FRUITS",
      "description": "Cafe and bakery in Kainan.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2400056",
      "page": "https://bokenjapan.com/wakayama/kainan/eat/cafe/",
@@ -3841,6 +3850,7 @@
     },
     {
      "name": "Bariuma Wakayama Iwade",
+     "name_en": "Bariuma Wakayama Iwade",
      "description": "Ramen shop in Kainan.",
      "source_url": "https://www.hastle.jp/",
      "page": "https://bokenjapan.com/wakayama/kainan/eat/noodles/",
@@ -3848,6 +3858,7 @@
     },
     {
      "name": "Ramen Bakumatsu Kainan",
+     "name_en": "Ramen Bakumatsu Kainan",
      "description": "Ramen shop in Kainan.",
      "source_url": "https://men-bakumatsu.com/",
      "page": "https://bokenjapan.com/wakayama/kainan/eat/noodles/",
@@ -5025,7 +5036,7 @@
      "name": "Hoshi no Dobutsuen Bungalow",
      "name_en": "Hoshi no Dobutsuen Bungalow",
      "name_ja": "星の動物園バンガロー",
-     "description": "Inn in Kimino.",
+     "description": "Inn in Kimino, Wakayama Prefecture.",
      "source_url": "https://www.jalan.net/yad307965/",
      "page": "https://bokenjapan.com/wakayama/kimino/stay/"
     },
@@ -5128,6 +5139,7 @@
     },
     {
      "name": "Toutouan",
+     "name_en": "Toutouan",
      "description": "Cafe and bakery in Kinokawa.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2400104",
      "page": "https://bokenjapan.com/wakayama/kinokawa/eat/cafe/",
@@ -5135,6 +5147,7 @@
     },
     {
      "name": "Kannonyama Fruits Parlor",
+     "name_en": "Kannonyama Fruits Parlor",
      "description": "Cafe and bakery in Kinokawa.",
      "source_url": "https://parlour.kannonyama.jp/",
      "page": "https://bokenjapan.com/wakayama/kinokawa/eat/cafe/",
@@ -5848,7 +5861,7 @@
      "name": "Tenpu Terasu",
      "name_en": "Tenpu Terasu",
      "name_ja": "天風てらす",
-     "description": "Café in Koya.",
+     "description": "Café in Koya, Wakayama Prefecture.",
      "source_url": "https://tabelog.com/wakayama/A3001/A300103/30011165/",
      "page": "https://bokenjapan.com/wakayama/koya/eat/cafe/",
      "category": "Cafe"
@@ -5866,13 +5879,14 @@
      "name": "Hikari Umi Coffee",
      "name_en": "Hikari Umi Coffee",
      "name_ja": "光海珈琲",
-     "description": "Café in Koya.",
+     "description": "Café in Koya, Wakayama Prefecture.",
      "source_url": "https://tabelog.com/wakayama/A3001/A300103/30007579/",
      "page": "https://bokenjapan.com/wakayama/koya/eat/cafe/",
      "category": "Cafe"
     },
     {
      "name": "Bonnsha (BON ON ShyA International CAFE)",
+     "name_en": "Bonnsha (BON ON ShyA International CAFE)",
      "description": "Cafe and bakery in Koya.",
      "source_url": "https://www.instagram.com/bon_on_shya_/?utm_medium=copy_link",
      "page": "https://bokenjapan.com/wakayama/koya/eat/cafe/",
@@ -5889,6 +5903,7 @@
     },
     {
      "name": "Kotobuki Shokudou",
+     "name_en": "Kotobuki Shokudou",
      "description": "International restaurant in Koya.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2200176",
      "page": "https://bokenjapan.com/wakayama/koya/eat/chinese-asian/",
@@ -5932,6 +5947,7 @@
     },
     {
      "name": "Tempuu Terrace (TEMPU TERRACE)",
+     "name_en": "Tempuu Terrace (TEMPU TERRACE)",
      "description": "Italian, French or Spanish restaurant in Koya, also serving cafe fare.",
      "source_url": "https://www.ichinohashi.co.jp/terrace.html",
      "page": "https://bokenjapan.com/wakayama/koya/eat/other/",
@@ -6002,6 +6018,7 @@
     },
     {
      "name": "Wafuu Restaurant Maruman",
+     "name_en": "Wafuu Restaurant Maruman",
      "description": "Japanese restaurant in Koya.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2300144",
      "page": "https://bokenjapan.com/wakayama/koya/eat/other-japanese/",
@@ -6009,6 +6026,7 @@
     },
     {
      "name": "Tsunohama Goma Tofu Souhonpo Daimon",
+     "name_en": "Tsunohama Goma Tofu Souhonpo Daimon",
      "description": "Japanese restaurant in Koya.",
      "source_url": "https://www.gomatohu.com/",
      "page": "https://bokenjapan.com/wakayama/koya/eat/other-japanese/",
@@ -6016,6 +6034,7 @@
     },
     {
      "name": "Sasasushi Oguraya Daimon",
+     "name_en": "Sasasushi Oguraya Daimon",
      "description": "Japanese restaurant in Koya.",
      "source_url": "http://sasasushioguraya.com/",
      "page": "https://bokenjapan.com/wakayama/koya/eat/other-japanese/",
@@ -6023,6 +6042,7 @@
     },
     {
      "name": "Chuuou Shokudou Sanbou",
+     "name_en": "Chuuou Shokudou Sanbou",
      "description": "Japanese restaurant in Koya.",
      "source_url": "https://www.chuo-shokudou-sanbou.com/",
      "page": "https://bokenjapan.com/wakayama/koya/eat/other-japanese/",
@@ -6030,6 +6050,7 @@
     },
     {
      "name": "Restaurant Youryuu",
+     "name_en": "Restaurant Youryuu",
      "description": "Japanese restaurant in Koya.",
      "source_url": "https://www.koyasan-youryu.com/",
      "page": "https://bokenjapan.com/wakayama/koya/eat/other-japanese/",
@@ -6037,6 +6058,7 @@
     },
     {
      "name": "Shojin Dining Touhouju",
+     "name_en": "Shojin Dining Touhouju",
      "description": "Japanese restaurant in Koya.",
      "source_url": "https://www.ichinohashi.co.jp/restaurant.html",
      "page": "https://bokenjapan.com/wakayama/koya/eat/other-japanese/",
@@ -6496,6 +6518,7 @@
     },
     {
      "name": "Hitoame no Tsukushi",
+     "name_en": "Hitoame no Tsukushi",
      "description": "Ramen shop in Kozagawa.",
      "source_url": "http://www.za.ztv.ne.jp/tukusiss/index.htm",
      "page": "https://bokenjapan.com/wakayama/kozagawa/eat/noodles/",
@@ -6830,6 +6853,7 @@
     },
     {
      "name": "Kakinoha Sushi Kyuuwaraku",
+     "name_en": "Kakinoha Sushi Kyuuwaraku",
      "description": "Sushi restaurant in Kudoyama.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2400067",
      "page": "https://bokenjapan.com/wakayama/kudoyama/eat/seafood/",
@@ -7066,6 +7090,7 @@
     },
     {
      "name": "Izakaya Yoshikuni",
+     "name_en": "Izakaya Yoshikuni",
      "description": "Izakaya (Japanese pub) in Kushimoto.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2300164",
      "page": "https://bokenjapan.com/wakayama/kushimoto/eat/izakaya-bars/",
@@ -7073,6 +7098,7 @@
     },
     {
      "name": "Izakaya Hiroya",
+     "name_en": "Izakaya Hiroya",
      "description": "Izakaya (Japanese pub) in Kushimoto, also serving Japanese cuisine.",
      "source_url": "https://hiroya6614.com",
      "page": "https://bokenjapan.com/wakayama/kushimoto/eat/izakaya-bars/",
@@ -7116,6 +7142,7 @@
     },
     {
      "name": "Higashi Unagi Kushimoto Shiten",
+     "name_en": "Higashi Unagi Kushimoto Shiten",
      "description": "Japanese restaurant in Kushimoto.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2300169",
      "page": "https://bokenjapan.com/wakayama/kushimoto/eat/other-japanese/",
@@ -7123,6 +7150,7 @@
     },
     {
      "name": "Ozaki no Himono",
+     "name_en": "Ozaki no Himono",
      "description": "Japanese restaurant in Kushimoto.",
      "source_url": "https://www.ozakinohimono.com",
      "page": "https://bokenjapan.com/wakayama/kushimoto/eat/other-japanese/",
@@ -7130,6 +7158,7 @@
     },
     {
      "name": "Kushimoto Shunsai Oohashi",
+     "name_en": "Kushimoto Shunsai Oohashi",
      "description": "Japanese restaurant in Kushimoto.",
      "source_url": "https://hitosara.com/0006126104/",
      "page": "https://bokenjapan.com/wakayama/kushimoto/eat/other-japanese/",
@@ -7137,6 +7166,7 @@
     },
     {
      "name": "Kishuu Nagisa no Eki Suimon Matsuri",
+     "name_en": "Kishuu Nagisa no Eki Suimon Matsuri",
      "description": "Japanese restaurant in Kushimoto.",
      "source_url": "http://www.minatomaturi.jp/",
      "page": "https://bokenjapan.com/wakayama/kushimoto/eat/other-japanese/",
@@ -7215,6 +7245,7 @@
     },
     {
      "name": "Yasezushi",
+     "name_en": "Yasezushi",
      "description": "Sushi restaurant in Kushimoto, also serving Japanese cuisine.",
      "source_url": "https://www.facebook.com/8sezushi/",
      "page": "https://bokenjapan.com/wakayama/kushimoto/eat/seafood/",
@@ -8074,6 +8105,7 @@
     },
     {
      "name": "Nachikatsuura Cafe Amema",
+     "name_en": "Nachikatsuura Cafe Amema",
      "description": "Cafe and bakery in Nachikatsuura.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2400066",
      "page": "https://bokenjapan.com/wakayama/nachikatsuura/eat/cafe/",
@@ -8108,6 +8140,7 @@
     },
     {
      "name": "Oden to Heiwa No.9",
+     "name_en": "Oden to Heiwa No.9",
      "description": "Izakaya (Japanese pub) in Nachikatsuura.",
      "source_url": "https://oden-heiwa9.com/",
      "page": "https://bokenjapan.com/wakayama/nachikatsuura/eat/izakaya-bars/",
@@ -8115,6 +8148,7 @@
     },
     {
      "name": "Katsuura Gyoko Nigiwai Ichiba Shibiru",
+     "name_en": "Katsuura Gyoko Nigiwai Ichiba Shibiru",
      "description": "Izakaya (Japanese pub) in Nachikatsuura, also serving Japanese cuisine.",
      "source_url": "https://nigiwaiichiba.com/store/",
      "page": "https://bokenjapan.com/wakayama/nachikatsuura/eat/izakaya-bars/",
@@ -8149,6 +8183,7 @@
     },
     {
      "name": "Miyamatei",
+     "name_en": "Miyamatei",
      "description": "Ramen shop in Nachikatsuura, also serving Japanese cuisine.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2300146",
      "page": "https://bokenjapan.com/wakayama/nachikatsuura/eat/noodles/",
@@ -8183,6 +8218,7 @@
     },
     {
      "name": "Nachi Nebokedo (Restaurant)",
+     "name_en": "Nachi Nebokedo (Restaurant)",
      "description": "Japanese restaurant in Nachikatsuura.",
      "source_url": "http://www.neboke.com/menu.html",
      "page": "https://bokenjapan.com/wakayama/nachikatsuura/eat/other-japanese/",
@@ -8190,6 +8226,7 @@
     },
     {
      "name": "Maguro Ryouri Takehara",
+     "name_en": "Maguro Ryouri Takehara",
      "description": "Japanese restaurant in Nachikatsuura.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2300153",
      "page": "https://bokenjapan.com/wakayama/nachikatsuura/eat/other-japanese/",
@@ -8197,6 +8234,7 @@
     },
     {
      "name": "Oshokujidokoro Yamato",
+     "name_en": "Oshokujidokoro Yamato",
      "description": "Japanese restaurant in Nachikatsuura.",
      "source_url": "https://www.instagram.com/yamato_suisan/",
      "page": "https://bokenjapan.com/wakayama/nachikatsuura/eat/other-japanese/",
@@ -8204,6 +8242,7 @@
     },
     {
      "name": "Ichiba Gohan Shige",
+     "name_en": "Ichiba Gohan Shige",
      "description": "Japanese restaurant in Nachikatsuura.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2300122",
      "page": "https://bokenjapan.com/wakayama/nachikatsuura/eat/other-japanese/",
@@ -8211,6 +8250,7 @@
     },
     {
      "name": "Ajidokoro Obayashi",
+     "name_en": "Ajidokoro Obayashi",
      "description": "Japanese restaurant in Nachikatsuura.",
      "source_url": "https://nachikan.jp/restaurant/3027/",
      "page": "https://bokenjapan.com/wakayama/nachikatsuura/eat/other-japanese/",
@@ -8325,6 +8365,7 @@
     },
     {
      "name": "Iroha Sushi",
+     "name_en": "Iroha Sushi",
      "description": "Sushi restaurant in Nachikatsuura.",
      "source_url": "https://www.irohasushi.jp/",
      "page": "https://bokenjapan.com/wakayama/nachikatsuura/eat/seafood/",
@@ -8698,6 +8739,7 @@
     },
     {
      "name": "Naka Kooriten",
+     "name_en": "Naka Kooriten",
      "description": "Cafe and bakery in Shingu.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2200166",
      "page": "https://bokenjapan.com/wakayama/shingu/eat/cafe/",
@@ -8794,6 +8836,7 @@
     },
     {
      "name": "Shoushoku Izakaya Tsumugiya",
+     "name_en": "Shoushoku Izakaya Tsumugiya",
      "description": "Izakaya (Japanese pub) in Shingu.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2300056",
      "page": "https://bokenjapan.com/wakayama/shingu/eat/izakaya-bars/",
@@ -8828,6 +8871,7 @@
     },
     {
      "name": "Shinguutei",
+     "name_en": "Shinguutei",
      "description": "Ramen shop in Shingu.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2300107",
      "page": "https://bokenjapan.com/wakayama/shingu/eat/noodles/",
@@ -8835,6 +8879,7 @@
     },
     {
      "name": "Chuuka Soba Hayami",
+     "name_en": "Chuuka Soba Hayami",
      "description": "Ramen shop in Shingu.",
      "source_url": "http://www.wakayamaramen.net/",
      "page": "https://bokenjapan.com/wakayama/shingu/eat/noodles/",
@@ -8950,6 +8995,7 @@
     },
     {
      "name": "Souhonke Mehariya Wakayama",
+     "name_en": "Souhonke Mehariya Wakayama",
      "description": "Sushi restaurant in Shingu.",
      "source_url": "http://www.mehariya.co.jp",
      "page": "https://bokenjapan.com/wakayama/shingu/eat/seafood/",
@@ -9293,6 +9339,7 @@
     },
     {
      "name": "Pan Koubou",
+     "name_en": "Pan Koubou",
      "description": "Cafe and bakery in Shirahama.",
      "source_url": "https://www.aws-s.com/",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/cafe/",
@@ -9300,6 +9347,7 @@
     },
     {
      "name": "Kagerou Cafe",
+     "name_en": "Kagerou Cafe",
      "description": "Cafe and bakery in Shirahama.",
      "source_url": "https://fukubishi.co.jp/kagerou_cafe/",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/cafe/",
@@ -9307,6 +9355,7 @@
     },
     {
      "name": "TETTI BAKERY & CAFE",
+     "name_en": "TETTI BAKERY & CAFE",
      "description": "Cafe and bakery in Shirahama.",
      "source_url": "https://www.keyterrace.co.jp/shopping/",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/cafe/",
@@ -9384,6 +9433,7 @@
     },
     {
      "name": "Suntide Cafe & Bar Shirarahama",
+     "name_en": "Suntide Cafe & Bar Shirarahama",
      "description": "Western-style restaurant in Shirahama.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2400137",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/european/",
@@ -9408,6 +9458,7 @@
     },
     {
      "name": "Sumi to Shunsai Haru",
+     "name_en": "Sumi to Shunsai Haru",
      "description": "Izakaya (Japanese pub) in Shirahama, also serving Japanese cuisine.",
      "source_url": "http://izakaya-hare.com/",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/izakaya-bars/",
@@ -9415,6 +9466,7 @@
     },
     {
      "name": "Shunsai Daidokoro Tomo",
+     "name_en": "Shunsai Daidokoro Tomo",
      "description": "Izakaya (Japanese pub) in Shirahama.",
      "source_url": "http://www.shirahama-tomo.com/",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/izakaya-bars/",
@@ -9431,6 +9483,7 @@
     },
     {
      "name": "Menkichi",
+     "name_en": "Menkichi",
      "description": "Ramen shop in Shirahama.",
      "source_url": "https://choseinoyu.info/ramen-menkichi/",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/noodles/",
@@ -9438,6 +9491,7 @@
     },
     {
      "name": "Wan (One)",
+     "name_en": "Wan (One)",
      "description": "Ramen shop in Shirahama.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2300143",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/noodles/",
@@ -9445,6 +9499,7 @@
     },
     {
      "name": "Kishuu Ramen Okagesan",
+     "name_en": "Kishuu Ramen Okagesan",
      "description": "Ramen shop in Shirahama.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2300104",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/noodles/",
@@ -9452,6 +9507,7 @@
     },
     {
      "name": "Shirokuma",
+     "name_en": "Shirokuma",
      "description": "Udon and soba restaurant in Shirahama.",
      "source_url": "https://www.instagram.com/shirokuma_udon/",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/noodles/",
@@ -9459,6 +9515,7 @@
     },
     {
      "name": "Fureai Meisankan Matsuya",
+     "name_en": "Fureai Meisankan Matsuya",
      "description": "Udon and soba restaurant in Shirahama.",
      "source_url": "https://matsuya-nankishirahama.com/",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/noodles/",
@@ -9511,6 +9568,7 @@
     },
     {
      "name": "Jambo",
+     "name_en": "Jambo",
      "description": "Yakiniku and steak restaurant in Shirahama.",
      "source_url": "https://www.aws-s.com/",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/other-japanese/",
@@ -9518,6 +9576,7 @@
     },
     {
      "name": "Kaisenya Senjou",
+     "name_en": "Kaisenya Senjou",
      "description": "Japanese restaurant in Shirahama.",
      "source_url": "https://www.senjou-mar.jp/senjou",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/other-japanese/",
@@ -9525,6 +9584,7 @@
     },
     {
      "name": "Edoyaki Unagi Yamanouchi",
+     "name_en": "Edoyaki Unagi Yamanouchi",
      "description": "Japanese restaurant in Shirahama.",
      "source_url": "https://www.instagram.com/yamanouchi_unagi/",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/other-japanese/",
@@ -9532,6 +9592,7 @@
     },
     {
      "name": "Ikesu Enza",
+     "name_en": "Ikesu Enza",
      "description": "Japanese restaurant in Shirahama.",
      "source_url": "https://www.keyterrace.co.jp/restaurant/#warouda",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/other-japanese/",
@@ -9539,6 +9600,7 @@
     },
     {
      "name": "CBASE",
+     "name_en": "CBASE",
      "description": "Japanese restaurant in Shirahama.",
      "source_url": "https://www.instagram.com/cbase1013/",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/other-japanese/",
@@ -9546,6 +9608,7 @@
     },
     {
      "name": "Kaisen Ryouri Jinrikky",
+     "name_en": "Kaisen Ryouri Jinrikky",
      "description": "Japanese restaurant in Shirahama.",
      "source_url": "https://jinrikky.jimdofree.com",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/other-japanese/",
@@ -9553,6 +9616,7 @@
     },
     {
      "name": "Miraikan Shokudou (Miraikan)",
+     "name_en": "Miraikan Shokudou (Miraikan)",
      "description": "Japanese restaurant in Shirahama.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2300112",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/other-japanese/",
@@ -9560,6 +9624,7 @@
     },
     {
      "name": "Shirahama Kappou Kawanishi",
+     "name_en": "Shirahama Kappou Kawanishi",
      "description": "Japanese restaurant in Shirahama.",
      "source_url": "https://kappou-kawanishi.jp",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/other-japanese/",
@@ -9567,6 +9632,7 @@
     },
     {
      "name": "Onsen Ryouri Waka",
+     "name_en": "Onsen Ryouri Waka",
      "description": "Japanese restaurant in Shirahama.",
      "source_url": "http://onsen-waka.com/",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/other-japanese/",
@@ -9574,6 +9640,7 @@
     },
     {
      "name": "Restaurant Sango-shou",
+     "name_en": "Restaurant Sango-shou",
      "description": "Japanese restaurant in Shirahama.",
      "source_url": "http://www.sangosyou.com/index.html",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/other-japanese/",
@@ -9581,6 +9648,7 @@
     },
     {
      "name": "Oshokujidokoro Saikaya",
+     "name_en": "Oshokujidokoro Saikaya",
      "description": "Japanese restaurant in Shirahama.",
      "source_url": "http://www.saikaya-s.com/",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/other-japanese/",
@@ -9642,6 +9710,7 @@
     },
     {
      "name": "Toretore Ichiba Toretore Yokocho",
+     "name_en": "Toretore Ichiba Toretore Yokocho",
      "description": "Sushi restaurant in Shirahama, also serving udon and soba.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2400101",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/seafood/",
@@ -9649,6 +9718,7 @@
     },
     {
      "name": "Kaisen Sushi Toretore Ichiba",
+     "name_en": "Kaisen Sushi Toretore Ichiba",
      "description": "Sushi restaurant in Shirahama.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2400091",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/seafood/",
@@ -9656,6 +9726,7 @@
     },
     {
      "name": "Kou Sushi",
+     "name_en": "Kou Sushi",
      "description": "Sushi restaurant in Shirahama.",
      "source_url": "https://kouzushi.net/",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/seafood/",
@@ -9663,6 +9734,7 @@
     },
     {
      "name": "Tokiwa Sushi",
+     "name_en": "Tokiwa Sushi",
      "description": "Sushi restaurant in Shirahama, also serving Japanese cuisine.",
      "source_url": "https://tokiwasushi.gorp.jp/",
      "page": "https://bokenjapan.com/wakayama/shirahama/eat/seafood/",
@@ -10844,7 +10916,7 @@
      "name": "Inn in Susami",
      "name_en": "Inn in Susami",
      "name_ja": "フェアフィールド･バイ･マリオット･和歌山熊野古道すさみ",
-     "description": "Inn in Susami.",
+     "description": "Inn in Susami, Wakayama Prefecture.",
      "source_url": "https://www.ikyu.com/00082201/",
      "page": "https://bokenjapan.com/wakayama/susami/stay/"
     },
@@ -11150,7 +11222,7 @@
      "name": "Hana Irodori no Yado Hanayu",
      "name_en": "Hana Irodori no Yado Hanayu",
      "name_ja": "花いろどりの宿 花游",
-     "description": "Inn in Taiji.",
+     "description": "Inn in Taiji, Wakayama Prefecture.",
      "source_url": "https://www.ikyu.com/00030767/",
      "page": "https://bokenjapan.com/wakayama/taiji/stay/"
     },
@@ -11165,7 +11237,7 @@
      "name": "Grand Ocean Luxe Umi Kumano",
      "name_en": "Grand Ocean Luxe Umi Kumano",
      "name_ja": "グランオーシャンリュクス海熊野",
-     "description": "Inn in Taiji.",
+     "description": "Inn in Taiji, Wakayama Prefecture.",
      "source_url": "https://www.ikyu.com/00051671/",
      "page": "https://bokenjapan.com/wakayama/taiji/stay/"
     },
@@ -11286,6 +11358,7 @@
     },
     {
      "name": "Kashi Taiken Koubou Valencia Batake",
+     "name_en": "Kashi Taiken Koubou Valencia Batake",
      "description": "Cafe and bakery in Tanabe.",
      "source_url": "https://valencia.agarten.jp/index.html",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/cafe/",
@@ -11302,6 +11375,7 @@
     },
     {
      "name": "VOYAGER BREWING Co.",
+     "name_en": "VOYAGER BREWING Co.",
      "description": "Restaurant in Tanabe.",
      "source_url": "https://voyagerbrewing.co.jp/",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/casual/",
@@ -11353,6 +11427,7 @@
     },
     {
      "name": "Restaurant Seemoon",
+     "name_en": "Restaurant Seemoon",
      "description": "Italian, French or Spanish restaurant in Tanabe.",
      "source_url": "http://www.h-cmoon.com/",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/european/",
@@ -11360,6 +11435,7 @@
     },
     {
      "name": "Oufuu Ryouri Mobo",
+     "name_en": "Oufuu Ryouri Mobo",
      "description": "Italian, French or Spanish restaurant in Tanabe.",
      "source_url": "https://ke5s600.gorp.jp/",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/european/",
@@ -11429,6 +11505,7 @@
     },
     {
      "name": "Kuubedokoro Ichikichi",
+     "name_en": "Kuubedokoro Ichikichi",
      "description": "Izakaya (Japanese pub) in Tanabe, also serving Japanese cuisine.",
      "source_url": "http://1-yoshi.com/",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
@@ -11436,6 +11513,7 @@
     },
     {
      "name": "Toriosakana Kitchen Kenshirou",
+     "name_en": "Toriosakana Kitchen Kenshirou",
      "description": "Izakaya (Japanese pub) in Tanabe.",
      "source_url": "https://kenshirou-wakayama.jp/index.html",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
@@ -11443,6 +11521,7 @@
     },
     {
      "name": "Izakaya Kappou Takagi",
+     "name_en": "Izakaya Kappou Takagi",
      "description": "Izakaya (Japanese pub) in Tanabe, also serving Japanese cuisine.",
      "source_url": "https://www.kappou-takagi.info/",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
@@ -11450,6 +11529,7 @@
     },
     {
      "name": "Kishuu Torahachi",
+     "name_en": "Kishuu Torahachi",
      "description": "Izakaya (Japanese pub) in Tanabe.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2300149",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
@@ -11457,6 +11537,7 @@
     },
     {
      "name": "Kuimonya Konoha",
+     "name_en": "Kuimonya Konoha",
      "description": "Izakaya (Japanese pub) in Tanabe.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2300116",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
@@ -11464,6 +11545,7 @@
     },
     {
      "name": "Kamino Maro",
+     "name_en": "Kamino Maro",
      "description": "Izakaya (Japanese pub) in Tanabe.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2300048",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
@@ -11471,6 +11553,7 @@
     },
     {
      "name": "Ajidokoro Marumasa",
+     "name_en": "Ajidokoro Marumasa",
      "description": "Izakaya (Japanese pub) in Tanabe.",
      "source_url": "https://localplace.jp/t100667760/",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
@@ -11478,6 +11561,7 @@
     },
     {
      "name": "Tsujian",
+     "name_en": "Tsujian",
      "description": "Izakaya (Japanese pub) in Tanabe, also serving Japanese cuisine.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2300002",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/izakaya-bars/",
@@ -11581,6 +11665,7 @@
     },
     {
      "name": "Ryuuchan Hanten",
+     "name_en": "Ryuuchan Hanten",
      "description": "Ramen shop in Tanabe.",
      "source_url": "https://www.instagram.com/ryuchan.hanten/",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/noodles/",
@@ -11588,6 +11673,7 @@
     },
     {
      "name": "Bincho no Sato",
+     "name_en": "Bincho no Sato",
      "description": "Ramen shop in Tanabe, also serving cafe fare.",
      "source_url": "https://www.binchotan.jp/restaurant/",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/noodles/",
@@ -11699,6 +11785,7 @@
     },
     {
      "name": "Kappou Ebisu",
+     "name_en": "Kappou Ebisu",
      "description": "Japanese restaurant in Tanabe.",
      "source_url": "https://kue-yebisu.com/yebisu.html",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/other-japanese/",
@@ -11706,6 +11793,7 @@
     },
     {
      "name": "Kappou Akihira",
+     "name_en": "Kappou Akihira",
      "description": "Japanese restaurant in Tanabe.",
      "source_url": "https://kiilife.jp/gourmet/302066/1708",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/other-japanese/",
@@ -11874,6 +11962,7 @@
     },
     {
      "name": "Oshokuji Shimoji Honguu",
+     "name_en": "Oshokuji Shimoji Honguu",
      "description": "Sushi restaurant in Tanabe, also serving udon and soba.",
      "source_url": "https://hongu-shimoji.com/",
      "page": "https://bokenjapan.com/wakayama/tanabe/eat/seafood/",
@@ -12585,6 +12674,7 @@
     },
     {
      "name": "Kokoiro Cafe Aeon Mall Wakayama",
+     "name_en": "Kokoiro Cafe Aeon Mall Wakayama",
      "description": "Cafe and bakery in Wakayama City.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2400058",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
@@ -12592,6 +12682,7 @@
     },
     {
      "name": "KISHU CHAYA Gyokurin-en Kino Wakayama",
+     "name_en": "KISHU CHAYA Gyokurin-en Kino Wakayama",
      "description": "Cafe and bakery in Wakayama City.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2400041",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
@@ -12599,6 +12690,7 @@
     },
     {
      "name": "80ESPRESSO WAKAURABASE",
+     "name_en": "80ESPRESSO WAKAURABASE",
      "description": "Cafe and bakery in Wakayama City.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2300191",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
@@ -12606,6 +12698,7 @@
     },
     {
      "name": "Cafe Chuubou HaRaNa",
+     "name_en": "Cafe Chuubou HaRaNa",
      "description": "Cafe and bakery in Wakayama City.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2300058",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
@@ -12613,6 +12706,7 @@
     },
     {
      "name": "EM Shop Hyakushou Kazoku",
+     "name_en": "EM Shop Hyakushou Kazoku",
      "description": "Cafe and bakery in Wakayama City.",
      "source_url": "https://www.hyakushoukazoku.com",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
@@ -12620,6 +12714,7 @@
     },
     {
      "name": "Belfan",
+     "name_en": "Belfan",
      "description": "Cafe and bakery in Wakayama City.",
      "source_url": "http://www.belle-net.co.jp/belle-fum.html",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
@@ -12627,6 +12722,7 @@
     },
     {
      "name": "Billiards & Cafe SOHO",
+     "name_en": "Billiards & Cafe SOHO",
      "description": "Cafe and bakery in Wakayama City.",
      "source_url": "https://billiards-soho.jimdofree.com/cafe-food/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
@@ -12634,6 +12730,7 @@
     },
     {
      "name": "Medetaiyaki Honpo",
+     "name_en": "Medetaiyaki Honpo",
      "description": "Cafe and bakery in Wakayama City.",
      "source_url": "https://medetaiyakihonpo.com/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/cafe/",
@@ -12740,6 +12837,7 @@
     },
     {
      "name": "Hana〇",
+     "name_en": "Hana〇",
      "description": "Okonomiyaki and takoyaki restaurant in Wakayama City.",
      "source_url": "https://hanamaru.owst.jp/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/casual/",
@@ -12747,6 +12845,7 @@
     },
     {
      "name": "Teppan Dining Shakuan",
+     "name_en": "Teppan Dining Shakuan",
      "description": "Okonomiyaki and takoyaki restaurant in Wakayama City.",
      "source_url": "https://shakuan.net",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/casual/",
@@ -12754,6 +12853,7 @@
     },
     {
      "name": "Sousaku Youshoku Tamunosu Itsuki",
+     "name_en": "Sousaku Youshoku Tamunosu Itsuki",
      "description": "Restaurant in Wakayama City.",
      "source_url": "https://www.hotpepper.jp/strJ000849779/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/casual/",
@@ -12761,6 +12861,7 @@
     },
     {
      "name": "Nobushi",
+     "name_en": "Nobushi",
      "description": "Restaurant in Wakayama City.",
      "source_url": "https://www.hotpepper.jp/strJ000501486/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/casual/",
@@ -12843,6 +12944,7 @@
     },
     {
      "name": "Kitchen Bar Sogou",
+     "name_en": "Kitchen Bar Sogou",
      "description": "Chinese restaurant in Wakayama City.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2300016",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/chinese-asian/",
@@ -12850,6 +12952,7 @@
     },
     {
      "name": "Chuugoku Shuka Kuukuu",
+     "name_en": "Chuugoku Shuka Kuukuu",
      "description": "Chinese restaurant in Wakayama City.",
      "source_url": "http://www.kuku-99.com",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/chinese-asian/",
@@ -12909,6 +13012,7 @@
     },
     {
      "name": "ISOLA BELLA",
+     "name_en": "ISOLA BELLA",
      "description": "Italian, French or Spanish restaurant in Wakayama City.",
      "source_url": "https://www.shokutsuna.jp/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/european/",
@@ -12916,6 +13020,7 @@
     },
     {
      "name": "Steak & Wine Vabene Forte",
+     "name_en": "Steak & Wine Vabene Forte",
      "description": "Italian, French or Spanish restaurant in Wakayama City.",
      "source_url": "https://www.hotpepper.jp/strJ000754383/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/european/",
@@ -12923,6 +13028,7 @@
     },
     {
      "name": "IL TEATRO",
+     "name_en": "IL TEATRO",
      "description": "Italian, French or Spanish restaurant in Wakayama City.",
      "source_url": "https://la-romanee.jp/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/european/",
@@ -12930,6 +13036,7 @@
     },
     {
      "name": "Musica Cafe",
+     "name_en": "Musica Cafe",
      "description": "Italian, French or Spanish restaurant in Wakayama City.",
      "source_url": "https://www.hotpepper.jp/strJ000977213/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/european/",
@@ -12937,6 +13044,7 @@
     },
     {
      "name": "Ishuuya Prego",
+     "name_en": "Ishuuya Prego",
      "description": "Italian, French or Spanish restaurant in Wakayama City.",
      "source_url": "https://izakaya-prego.owst.jp",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/european/",
@@ -13081,6 +13189,7 @@
     },
     {
      "name": "Tori Yakiniku to Kaiseny Izakaya UTTORI",
+     "name_en": "Tori Yakiniku to Kaiseny Izakaya UTTORI",
      "description": "Izakaya (Japanese pub) in Wakayama City.",
      "source_url": "https://r.gnavi.co.jp/mgjtxy9s0000/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
@@ -13088,6 +13197,7 @@
     },
     {
      "name": "Daishin Nishiiru Aozakana",
+     "name_en": "Daishin Nishiiru Aozakana",
      "description": "Izakaya (Japanese pub) in Wakayama City.",
      "source_url": "https://www.instagram.com/daishin_nishiiru_bluefish",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
@@ -13095,6 +13205,7 @@
     },
     {
      "name": "Basashi to Jidori to Maguro Umeya",
+     "name_en": "Basashi to Jidori to Maguro Umeya",
      "description": "Izakaya (Japanese pub) in Wakayama City.",
      "source_url": "https://kdhw101.gorp.jp/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
@@ -13102,6 +13213,7 @@
     },
     {
      "name": "Oshokujidokoro Beni Usagi",
+     "name_en": "Oshokujidokoro Beni Usagi",
      "description": "Izakaya (Japanese pub) in Wakayama City.",
      "source_url": "https://www.beni-usagi.com",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
@@ -13109,6 +13221,7 @@
     },
     {
      "name": "Kyoubashi Koutarou",
+     "name_en": "Kyoubashi Koutarou",
      "description": "Izakaya (Japanese pub) in Wakayama City, also serving ramen.",
      "source_url": "https://base.koutarou-wakayama.com",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
@@ -13116,6 +13229,7 @@
     },
     {
      "name": "Yuka",
+     "name_en": "Yuka",
      "description": "Izakaya (Japanese pub) in Wakayama City.",
      "source_url": "https://kcr6900.gorp.jp/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
@@ -13123,6 +13237,7 @@
     },
     {
      "name": "Shunsai Seirakufu",
+     "name_en": "Shunsai Seirakufu",
      "description": "Izakaya (Japanese pub) in Wakayama City.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2300049",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
@@ -13130,6 +13245,7 @@
     },
     {
      "name": "Yakitori no Tetsujin Iron Bird",
+     "name_en": "Yakitori no Tetsujin Iron Bird",
      "description": "Izakaya (Japanese pub) in Wakayama City.",
      "source_url": "https://kar7602.gorp.jp/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
@@ -13137,6 +13253,7 @@
     },
     {
      "name": "Kushiage Gin",
+     "name_en": "Kushiage Gin",
      "description": "Izakaya (Japanese pub) in Wakayama City.",
      "source_url": "https://www.instagram.com/kusiage_gin/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
@@ -13144,6 +13261,7 @@
     },
     {
      "name": "Kingyo",
+     "name_en": "Kingyo",
      "description": "Izakaya (Japanese pub) in Wakayama City.",
      "source_url": "https://retty.me/area/PRE30/ARE121/SUB12101/100001102001/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
@@ -13151,6 +13269,7 @@
     },
     {
      "name": "Lucky Bob",
+     "name_en": "Lucky Bob",
      "description": "Izakaya (Japanese pub) in Wakayama City.",
      "source_url": "https://www.luckybob.jp/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
@@ -13158,6 +13277,7 @@
     },
     {
      "name": "Tori JUN",
+     "name_en": "Tori JUN",
      "description": "Izakaya (Japanese pub) in Wakayama City, also serving Japanese cuisine.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2300010",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
@@ -13165,6 +13285,7 @@
     },
     {
      "name": "Shunsai Kushiyaki Dan",
+     "name_en": "Shunsai Kushiyaki Dan",
      "description": "Izakaya (Japanese pub) in Wakayama City.",
      "source_url": "http://www.dan7577.jp/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
@@ -13172,6 +13293,7 @@
     },
     {
      "name": "Yakitoriya Birdman",
+     "name_en": "Yakitoriya Birdman",
      "description": "Izakaya (Japanese pub) in Wakayama City.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2200174",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
@@ -13179,6 +13301,7 @@
     },
     {
      "name": "Bishoku Shuka Beni",
+     "name_en": "Bishoku Shuka Beni",
      "description": "Izakaya (Japanese pub) in Wakayama City.",
      "source_url": "https://wakayama-kurenai.gorp.jp/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
@@ -13186,6 +13309,7 @@
     },
     {
      "name": "Ebisuya",
+     "name_en": "Ebisuya",
      "description": "Izakaya (Japanese pub) in Wakayama City, also serving Japanese cuisine.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2200155",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
@@ -13193,6 +13317,7 @@
     },
     {
      "name": "Yakiton Byakko",
+     "name_en": "Yakiton Byakko",
      "description": "Izakaya (Japanese pub) in Wakayama City.",
      "source_url": "https://www.instagram.com/yakiton.byakko/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/izakaya-bars/",
@@ -13227,6 +13352,7 @@
     },
     {
      "name": "Ten Zan PLUS Kokutai Doro",
+     "name_en": "Ten Zan PLUS Kokutai Doro",
      "description": "Yakiniku and steak restaurant in Wakayama City.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2400044",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/meat/",
@@ -13234,6 +13360,7 @@
     },
     {
      "name": "YAKINIKU BUFFET Sakon Kinokawa",
+     "name_en": "YAKINIKU BUFFET Sakon Kinokawa",
      "description": "Yakiniku and steak restaurant in Wakayama City.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2300044",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/meat/",
@@ -13241,6 +13368,7 @@
     },
     {
      "name": "Kishuu Wakagyu Kenkyuujo",
+     "name_en": "Kishuu Wakagyu Kenkyuujo",
      "description": "Sukiyaki and shabu-shabu restaurant in Wakayama City.",
      "source_url": "https://kbwc302.gorp.jp/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/meat/",
@@ -13248,6 +13376,7 @@
     },
     {
      "name": "Yakiniku Gyushi",
+     "name_en": "Yakiniku Gyushi",
      "description": "Yakiniku and steak restaurant in Wakayama City.",
      "source_url": "https://ke9d400.gorp.jp/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/meat/",
@@ -13398,6 +13527,7 @@
     },
     {
      "name": "Yamatame Shokudou",
+     "name_en": "Yamatame Shokudou",
      "description": "Ramen shop in Wakayama City.",
      "source_url": "https://site.locaop.jp/VygMQ",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
@@ -13405,6 +13535,7 @@
     },
     {
      "name": "Wakayama Ramen Marui Nakanoshima (Arochi)",
+     "name_en": "Wakayama Ramen Marui Nakanoshima (Arochi)",
      "description": "Ramen shop in Wakayama City.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2400064",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
@@ -13412,6 +13543,7 @@
     },
     {
      "name": "Marukyou Chuuka Soba",
+     "name_en": "Marukyou Chuuka Soba",
      "description": "Ramen shop in Wakayama City.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2400057",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
@@ -13419,6 +13551,7 @@
     },
     {
      "name": "Maruman Ramen Kyuubanchou",
+     "name_en": "Maruman Ramen Kyuubanchou",
      "description": "Ramen shop in Wakayama City.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2400052",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
@@ -13426,6 +13559,7 @@
     },
     {
      "name": "Green Corner Aeon Mall",
+     "name_en": "Green Corner Aeon Mall",
      "description": "Ramen shop in Wakayama City.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2400039",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
@@ -13433,6 +13567,7 @@
     },
     {
      "name": "Marutaya Burakuri-cho",
+     "name_en": "Marutaya Burakuri-cho",
      "description": "Ramen shop in Wakayama City.",
      "source_url": "https://www.chukasoba.com/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
@@ -13440,6 +13575,7 @@
     },
     {
      "name": "Udon to Omusubi Tsumugi",
+     "name_en": "Udon to Omusubi Tsumugi",
      "description": "Udon and soba restaurant in Wakayama City.",
      "source_url": "https://k650408.gorp.jp/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
@@ -13447,6 +13583,7 @@
     },
     {
      "name": "Tennen Kishuu Kuroshio Onsen",
+     "name_en": "Tennen Kishuu Kuroshio Onsen",
      "description": "Udon and soba restaurant in Wakayama City.",
      "source_url": "https://www.marinacity.com/spa/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
@@ -13454,6 +13591,7 @@
     },
     {
      "name": "Arochi Marutaka Chuuka Soba",
+     "name_en": "Arochi Marutaka Chuuka Soba",
      "description": "Ramen shop in Wakayama City.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2200147",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/noodles/",
@@ -13586,6 +13724,7 @@
     },
     {
      "name": "Shojin Cafe Foi JR Wakayama Ekimae",
+     "name_en": "Shojin Cafe Foi JR Wakayama Ekimae",
      "description": "Vegetarian-friendly restaurant in Wakayama City.",
      "source_url": "https://shojincafe-foi.com/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/other/",
@@ -13664,6 +13803,7 @@
     },
     {
      "name": "Wakayama Meidai Unagiya Kurofune",
+     "name_en": "Wakayama Meidai Unagiya Kurofune",
      "description": "Japanese restaurant in Wakayama City.",
      "source_url": "https://www.instagram.com/unagi__kurofune__wakayama?igsh=MTdsMDZjbHVqeTR0cA%3D%3D&amp;utm_source=qr",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
@@ -13671,6 +13811,7 @@
     },
     {
      "name": "Unagi no Naruse Wakayama",
+     "name_en": "Unagi no Naruse Wakayama",
      "description": "Japanese restaurant in Wakayama City.",
      "source_url": "https://www.unagi-naruse.com/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
@@ -13678,6 +13819,7 @@
     },
     {
      "name": "Daikoutei",
+     "name_en": "Daikoutei",
      "description": "Japanese restaurant in Wakayama City.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2400059",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
@@ -13685,6 +13827,7 @@
     },
     {
      "name": "Fleur",
+     "name_en": "Fleur",
      "description": "Japanese restaurant in Wakayama City.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2300066",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
@@ -13692,6 +13835,7 @@
     },
     {
      "name": "Wakaura Shokudou",
+     "name_en": "Wakaura Shokudou",
      "description": "Japanese restaurant in Wakayama City.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2300031",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
@@ -13699,6 +13843,7 @@
     },
     {
      "name": "Mitsuboshi",
+     "name_en": "Mitsuboshi",
      "description": "Japanese restaurant in Wakayama City.",
      "source_url": "https://mitsuboshi5666.gorp.jp/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
@@ -13706,6 +13851,7 @@
     },
     {
      "name": "Yakitori Dining Mitsuboshi",
+     "name_en": "Yakitori Dining Mitsuboshi",
      "description": "Japanese restaurant in Wakayama City.",
      "source_url": "https://mitsuboshi-0666.gorp.jp/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
@@ -13713,6 +13859,7 @@
     },
     {
      "name": "Kaisen Seiro Mushi Katsuura",
+     "name_en": "Kaisen Seiro Mushi Katsuura",
      "description": "Japanese restaurant in Wakayama City.",
      "source_url": "http://www.seiromushi-katsuura.com/shop/index.html",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
@@ -13720,6 +13867,7 @@
     },
     {
      "name": "Nanatsu no Tsuki no Yume",
+     "name_en": "Nanatsu no Tsuki no Yume",
      "description": "Japanese restaurant in Wakayama City.",
      "source_url": "https://7-moon.gorp.jp/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
@@ -13727,6 +13875,7 @@
     },
     {
      "name": "Okamoto",
+     "name_en": "Okamoto",
      "description": "Japanese restaurant in Wakayama City.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2200171",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/other-japanese/",
@@ -13886,6 +14035,7 @@
     },
     {
      "name": "Sanpachiha",
+     "name_en": "Sanpachiha",
      "description": "Sushi restaurant in Wakayama City, also serving Japanese cuisine.",
      "source_url": "https://eat-wakayama.jp/en/spot/detail/2400051",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/seafood/",
@@ -13893,6 +14043,7 @@
     },
     {
      "name": "Ganko Wakayama Rokusouen",
+     "name_en": "Ganko Wakayama Rokusouen",
      "description": "Sushi restaurant in Wakayama City, also serving Japanese cuisine.",
      "source_url": "http://www.gankofood.co.jp/group/oyashiki/rokusanen/",
      "page": "https://bokenjapan.com/wakayama/wakayama/eat/seafood/",
@@ -14808,7 +14959,7 @@
      "name": "Senzan-an Kajiyamachi 301 (Yuasa Machiya Stay)",
      "name_en": "Senzan-an Kajiyamachi 301 (Yuasa Machiya Stay)",
      "name_ja": "紀州湯浅古民家町家宿泊 千山庵 SenzanAn かじやまち301",
-     "description": "Inn in Yuasa.",
+     "description": "Inn in Yuasa, Wakayama Prefecture.",
      "source_url": "https://www.ikyu.com/00050588/",
      "page": "https://bokenjapan.com/wakayama/yuasa/stay/"
     },
@@ -14899,7 +15050,7 @@
     {
      "name": "Fitam",
      "name_en": "Fitam",
-     "description": "Café in Yura.",
+     "description": "Café in Yura, Wakayama Prefecture.",
      "source_url": "https://tabelog.com/wakayama/A3003/A300302/30009823/",
      "page": "https://bokenjapan.com/wakayama/yura/eat/cafe/",
      "category": "Cafe"
@@ -15049,6 +15200,7 @@
     },
     {
      "name": "Wayoushokudou Shirashou",
+     "name_en": "Wayoushokudou Shirashou",
      "description": "Japanese restaurant in Yura.",
      "source_url": "https://kishunowa.or.jp/",
      "page": "https://bokenjapan.com/wakayama/yura/eat/other-japanese/",
