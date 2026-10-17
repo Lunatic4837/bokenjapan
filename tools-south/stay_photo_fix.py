@@ -79,7 +79,8 @@ def cmd_cands(A):
     (WORK / 'cands').mkdir(parents=True, exist_ok=True); (WORK / 'sheets').mkdir(exist_ok=True)
     res = []
     for c in stay_cards(A.tree, A.pref, A.town):
-        if flagged is not None and c['src'] not in flagged: continue
+        if A.only_src and c['src'] not in A.only_src: continue
+        if flagged is not None and not A.only_src and c['src'] not in flagged: continue
         cur = cur_image(c['src']); cid = hashlib.sha1((c['town'] + c['src']).encode()).hexdigest()[:8]
         ch = None
         if cur is not None: w, h = cur.size; ch = (dhash(cur), w / h)
@@ -89,14 +90,17 @@ def cmd_cands(A):
             if not data: return None
             try: im = Image.open(io.BytesIO(data)); im.load()
             except Exception: return None
-            if im.width < 560 or len(data) < PC.MIN_BYTES: return None
+            if im.width < A.min_w or len(data) < PC.MIN_BYTES: return None
             fn = f'{cid}-{k}.jpg'; (WORK / 'cands' / fn).write_bytes(data)
             return dict(file=fn, url=u, w=im.width, h=im.height, d=dist(ch[0], dhash(im, ch[1])) if ch else None)
         with ThreadPoolExecutor(5) as ex:
             cs = [x for x in ex.map(grab, list(enumerate(candidate_urls(c['href'])[:8]))) if x]
         c.update(id=cid, cur_w=cur.width if cur else 0, cur_bytes=(PC.CACHE / hashlib.sha1(c['src'].lstrip('/').encode()).hexdigest()[:2] / Path(c['src']).name).stat().st_size if cur else 0, cands=cs, match=min((x for x in cs if x['d'] is not None), key=lambda x: x['d'], default=None))
         res.append(c); print(c['town'], c['name'][:20], len(cs), 'cands; best dHash', c['match'] and c['match']['d'], flush=True)
-    json.dump(res, open(WORK / 'cands.json', 'w'), ensure_ascii=False, indent=1)
+    if A.only_src and (WORK / 'cands.json').exists():   # merge into the earlier run
+        old = {c['src']: c for c in json.load(open(WORK / 'cands.json'))}; old.update({c['src']: c for c in res}); res_all = list(old.values())
+    else: res_all = res
+    json.dump(res_all, open(WORK / 'cands.json', 'w'), ensure_ascii=False, indent=1)
     for c in res:   # contact sheet per card: current + candidates
         tiles = ([('cur', cur_image(c['src']))] if cur_image(c['src']) else []) + [(str(i), Image.open(WORK / 'cands' / x['file'])) for i, x in enumerate(c['cands'])]
         if not tiles: continue
@@ -145,7 +149,7 @@ def cmd_pick(A):
 
 def main():
     ap = argparse.ArgumentParser(); ap.add_argument('cmd', choices=['cands', 'auto', 'pick']); ap.add_argument('--tree', required=True); ap.add_argument('--pref', required=True)
-    ap.add_argument('--town'); ap.add_argument('--report'); ap.add_argument('--all', action='store_true'); ap.add_argument('--choices'); ap.add_argument('--extra', help='json list of extra thumb srcs (e.g. food/promo found by eye)')
+    ap.add_argument('--town'); ap.add_argument('--min-w', type=int, default=560, help='min candidate width (use 280 when a listing only has 300px photos)'); ap.add_argument('--report'); ap.add_argument('--all', action='store_true'); ap.add_argument('--only-src', action='append', default=[], help='restrict cands to these thumb srcs (merge into cands.json)'); ap.add_argument('--choices'); ap.add_argument('--extra', help='json list of extra thumb srcs (e.g. food/promo found by eye)')
     A = ap.parse_args()
     {'cands': cmd_cands, 'auto': cmd_auto, 'pick': cmd_pick}[A.cmd](A)
 
