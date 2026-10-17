@@ -1833,7 +1833,8 @@ body.home .explore-lede {
 
 /* Footer links: comfortable tap targets on touch screens */
 .site-foot .social-row a,
-.site-foot .foot-legal a {
+.site-foot .foot-legal a,
+.site-foot .foot-data a {
   display: inline-flex;
   align-items: center;
   min-height: 2.75rem;
@@ -1859,6 +1860,8 @@ body.home .explore-lede {
   font-size: 0.92rem;
 }
 .foot-legal a { color: var(--muted); text-decoration: none; }
+.site-foot .foot-data { color: var(--muted); font-size: 0.85rem; }
+.site-foot .foot-data a { color: var(--muted); text-decoration: underline; text-underline-offset: 0.18em; }
 .foot-legal a:hover { color: var(--ink); text-decoration: underline; text-underline-offset: 0.18em; }
 .site-foot .sns-off {
   display: inline-flex;
