@@ -41,3 +41,4 @@
 11:17 cp8 staging/q-fix-shimane-8 c76d2926e7: unnan dining 53/40 (official unnan-kankou.jp), izumo 105/100. Left: oda 37/40, yasugi 38/40
 11:20 cp9 staging/q-fix-shimane-9 e506d29e53: oda 44/40, yasugi 48/40, unnan 53/40, izumo 105/100 -> all 12 towns at/above dining target (676/531). Base: gh-pages 3e8fe34bc7
 11:23 p1-rural-south: staging/q-fix-tottori-17 7d72980f89: Tottori sights/do photos 89/418 (21%) -> ~294/418 (70%); Commons second pass +4; Kurayoshi/Sakaiminato dining 24->40. Tools to push next (tools-south-4: romaji_fix, commons_sights, linkcheck).
+11:29 p1-rural-south: Tottori final - staging/q-fix-tottori-18 b425c17d25 (dead links, sights 21%->71%, dining 405->590, stay flags 76->1). Summary: tools-south/SUMMARY-tottori.md.
