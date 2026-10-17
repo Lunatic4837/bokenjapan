@@ -2997,7 +2997,7 @@
      "name_en": "Tenkaippin",
      "name_ja": "天下一品",
      "description": "Ramen restaurant in Ikoma. Open daily 11:00-02:00.",
-     "source_url": "https://www.tenkaippin.co.jp/shop/detail.php?id=111",
+     "source_url": "https://www.openstreetmap.org/way/307864722",
      "page": "https://bokenjapan.com/nara/ikoma/eat/noodles/",
      "category": "Japanese (noodles)"
     },
@@ -3051,7 +3051,7 @@
      "name_en": "Ikoma Baniku Yokocho",
      "name_ja": "生駒馬肉横丁",
      "description": "Restaurant in Ikoma.",
-     "source_url": "https://ikomabanikuyokotyou.owst.jp/",
+     "source_url": "https://www.openstreetmap.org/node/7654211260",
      "page": "https://bokenjapan.com/nara/ikoma/eat/other/",
      "category": "Other"
     },
@@ -3346,7 +3346,7 @@
      "name_en": "Chateraise",
      "name_ja": "シャトレーゼ",
      "description": "Sweets shop in Ikoma. Open daily 09:00-21:00.",
-     "source_url": "https://www.chateraise.co.jp/shop/detail.php?shop_id=625520",
+     "source_url": "https://www.openstreetmap.org/node/2969695291",
      "page": "https://bokenjapan.com/nara/ikoma/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     },
@@ -3761,7 +3761,7 @@
      "name_en": "Italian restaurant in Kanmaki",
      "name_ja": "サイゼリヤ",
      "description": "Italian restaurant in Kammaki Machi Sasayuri Dai, Kanmaki. Open daily 09:00-21:00.",
-     "source_url": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=1188",
+     "source_url": "https://www.openstreetmap.org/node/6154596958",
      "page": "https://bokenjapan.com/nara/kanmaki/eat/european/",
      "category": "European"
     },
@@ -4120,7 +4120,7 @@
      "name_en": "McDonald's",
      "name_ja": "マクドナルド 168香芝店",
      "description": "Burger fast-food restaurant in Kashiba. Open 24 hours, every day.",
-     "source_url": "https://www.mcdonalds.co.jp/shop/map/map.php?strcode=29014",
+     "source_url": "https://www.openstreetmap.org/way/358726588",
      "page": "https://bokenjapan.com/nara/kashiba/eat/casual/",
      "category": "Casual"
     },
@@ -4904,7 +4904,7 @@
      "name_en": "Thai restaurant in Kashihara",
      "name_ja": "チャトチャック",
      "description": "Thai restaurant in Kashihara. Open Tue-Sun 15:00-00:00.",
-     "source_url": "https://chatchak.business.site/",
+     "source_url": "https://www.openstreetmap.org/node/6277969885",
      "page": "https://bokenjapan.com/nara/kashihara/eat/chinese-asian/",
      "category": "Chinese & Asian"
     },
@@ -5279,7 +5279,7 @@
      "name_en": "Ee Kashihara Branch",
      "name_ja": "得得 橿原店",
      "description": "Restaurant in Kashihara. Open daily 11:00-22:00.",
-     "source_url": "https://kazokutei.co.jp/tokutoku-udon/kashihara/",
+     "source_url": "https://www.openstreetmap.org/way/1203997460",
      "page": "https://bokenjapan.com/nara/kashihara/eat/other/",
      "category": "Other"
     },
@@ -6045,7 +6045,7 @@
      "name_en": "Italian restaurant in Katsuragishi",
      "name_ja": "サイゼリヤ",
      "description": "Italian restaurant in Kitahana Nai, Katsuragishi. Open daily 11:00-00:00.",
-     "source_url": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=528",
+     "source_url": "https://www.openstreetmap.org/node/5506857680",
      "page": "https://bokenjapan.com/nara/katsuragishi/eat/european/",
      "category": "European"
     },
@@ -7508,6 +7508,15 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Sumibi Yakitori Kokekokko",
+     "name_en": "Sumibi Yakitori Kokekokko",
+     "name_ja": "炭火焼鳥こけこっこ",
+     "description": "Yakitori restaurant in Koryo.",
+     "source_url": "https://www.town.koryo.nara.jp/0000007260.html",
+     "page": "https://bokenjapan.com/nara/koryo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Handmade Soba Hayashi",
      "name_en": "Handmade Soba Hayashi",
      "name_ja": "手打ちそば はやし",
@@ -8049,7 +8058,7 @@
     "address": "Miyake, Nara 636-0213",
     "phone": "0745-44-2001"
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Miyake Town Hall",
@@ -8084,6 +8093,32 @@
      "name_ja": "喫茶 みそら屋",
      "description": "Cafe in Miyake, Nara.",
      "source_url": "https://tabelog.com/nara/A2904/A290401/29009982/",
+     "page": "https://bokenjapan.com/nara/miyake/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "base cafe Otagaisan",
+     "name_en": "base cafe Otagaisan",
+     "name_ja": "base café おたがいさん",
+     "description": "Cafe in Miyake.",
+     "source_url": "https://miyake-town.note.jp/n/n5b09e6f6e515",
+     "page": "https://bokenjapan.com/nara/miyake/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kissa 1475",
+     "name_en": "Kissa 1475",
+     "name_ja": "喫茶1475",
+     "description": "Cafe in Miyake.",
+     "source_url": "https://miyake-town.note.jp/n/n5b09e6f6e515",
+     "page": "https://bokenjapan.com/nara/miyake/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "La Casita CHIRIN",
+     "name_en": "La Casita CHIRIN",
+     "description": "Cafe in Miyake.",
+     "source_url": "https://miyake-town.note.jp/n/n5b09e6f6e515",
      "page": "https://bokenjapan.com/nara/miyake/eat/cafe/",
      "category": "Cafe"
     },
@@ -8129,6 +8164,14 @@
      "name_ja": "三宅町交流センターMiiMo",
      "description": "Restaurant in Miyake, Nara.",
      "source_url": "https://tabelog.com/nara/A2904/A290401/29014071/",
+     "page": "https://bokenjapan.com/nara/miyake/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "hiiva",
+     "name_en": "hiiva",
+     "description": "Bakery in Miyake.",
+     "source_url": "https://miyake-town.note.jp/n/n5b09e6f6e515",
      "page": "https://bokenjapan.com/nara/miyake/eat/other/",
      "category": "Other"
     }
@@ -14870,7 +14913,7 @@
      "name_en": "Saika ramen",
      "name_ja": "彩華ラーメン本店 (Saika ramen)",
      "description": "Ramen restaurant in Tenri. Open daily 11:00-03:00.",
-     "source_url": "https://www.saikaramen.com/shop/honten.html",
+     "source_url": "https://www.openstreetmap.org/node/1154159593",
      "page": "https://bokenjapan.com/nara/tenri/eat/noodles/",
      "category": "Japanese (noodles)"
     },

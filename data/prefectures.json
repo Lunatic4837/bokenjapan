@@ -73,12 +73,12 @@
    "counts": {
     "sights": 77,
     "activities": 21,
-    "food": 452,
+    "food": 925,
     "stays": 312,
     "access": 0,
     "day_to_day": 20
    },
-   "date_modified": "2026-10-15"
+   "date_modified": "2026-10-17"
   },
   {
    "slug": "fukui",
@@ -89,7 +89,7 @@
    "counts": {
     "sights": 765,
     "activities": 97,
-    "food": 399,
+    "food": 531,
     "stays": 305,
     "access": 0,
     "day_to_day": 24
@@ -105,12 +105,12 @@
    "counts": {
     "sights": 1355,
     "activities": 160,
-    "food": 8989,
-    "stays": 246,
+    "food": 9268,
+    "stays": 271,
     "access": 0,
     "day_to_day": 315
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-17"
   },
   {
    "slug": "fukushima",
@@ -169,12 +169,12 @@
    "counts": {
     "sights": 94,
     "activities": 23,
-    "food": 971,
-    "stays": 487,
+    "food": 1308,
+    "stays": 489,
     "access": 0,
     "day_to_day": 23
    },
-   "date_modified": "2026-10-15"
+   "date_modified": "2026-10-17"
   },
   {
    "slug": "hokkaido",
@@ -201,8 +201,8 @@
    "counts": {
     "sights": 92,
     "activities": 20,
-    "food": 2270,
-    "stays": 514,
+    "food": 2284,
+    "stays": 523,
     "access": 0,
     "day_to_day": 46
    },
@@ -231,9 +231,9 @@
    "data": "https://bokenjapan.com/data/ishikawa.json",
    "town_count": 19,
    "counts": {
-    "sights": 1272,
+    "sights": 1255,
     "activities": 141,
-    "food": 454,
+    "food": 587,
     "stays": 643,
     "access": 0,
     "day_to_day": 26
@@ -265,12 +265,12 @@
    "counts": {
     "sights": 90,
     "activities": 17,
-    "food": 401,
-    "stays": 149,
+    "food": 691,
+    "stays": 158,
     "access": 0,
     "day_to_day": 17
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-17"
   },
   {
    "slug": "kagoshima",
@@ -281,12 +281,12 @@
    "counts": {
     "sights": 647,
     "activities": 477,
-    "food": 990,
-    "stays": 268,
+    "food": 1391,
+    "stays": 285,
     "access": 0,
     "day_to_day": 274
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-17"
   },
   {
    "slug": "kanagawa",
@@ -313,12 +313,12 @@
    "counts": {
     "sights": 212,
     "activities": 38,
-    "food": 575,
-    "stays": 140,
+    "food": 724,
+    "stays": 144,
     "access": 0,
     "day_to_day": 34
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-17"
   },
   {
    "slug": "kumamoto",
@@ -329,12 +329,12 @@
    "counts": {
     "sights": 551,
     "activities": 474,
-    "food": 989,
-    "stays": 223,
+    "food": 1337,
+    "stays": 243,
     "access": 0,
     "day_to_day": 294
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-17"
   },
   {
    "slug": "kyoto",
@@ -361,8 +361,8 @@
    "counts": {
     "sights": 1429,
     "activities": 92,
-    "food": 1311,
-    "stays": 218,
+    "food": 1314,
+    "stays": 219,
     "access": 0,
     "day_to_day": 41
    },
@@ -393,8 +393,8 @@
    "counts": {
     "sights": 192,
     "activities": 347,
-    "food": 580,
-    "stays": 132,
+    "food": 846,
+    "stays": 139,
     "access": 0,
     "day_to_day": 53
    },
@@ -425,12 +425,12 @@
    "counts": {
     "sights": 553,
     "activities": 214,
-    "food": 501,
-    "stays": 181,
+    "food": 832,
+    "stays": 188,
     "access": 0,
     "day_to_day": 66
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-17"
   },
   {
    "slug": "nara",
@@ -441,7 +441,7 @@
    "counts": {
     "sights": 529,
     "activities": 44,
-    "food": 1298,
+    "food": 1303,
     "stays": 286,
     "access": 0,
     "day_to_day": 39
@@ -473,12 +473,12 @@
    "counts": {
     "sights": 837,
     "activities": 182,
-    "food": 1688,
+    "food": 1728,
     "stays": 255,
     "access": 0,
     "day_to_day": 52
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-17"
   },
   {
    "slug": "okayama",
@@ -490,11 +490,11 @@
     "sights": 483,
     "activities": 58,
     "food": 1055,
-    "stays": 381,
+    "stays": 382,
     "access": 0,
     "day_to_day": 43
    },
-   "date_modified": "2026-10-15"
+   "date_modified": "2026-10-17"
   },
   {
    "slug": "okinawa",
@@ -505,12 +505,12 @@
    "counts": {
     "sights": 336,
     "activities": 543,
-    "food": 939,
-    "stays": 268,
+    "food": 1587,
+    "stays": 272,
     "access": 0,
     "day_to_day": 314
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-17"
   },
   {
    "slug": "osaka",
@@ -537,12 +537,12 @@
    "counts": {
     "sights": 195,
     "activities": 151,
-    "food": 475,
-    "stays": 96,
+    "food": 728,
+    "stays": 97,
     "access": 0,
     "day_to_day": 124
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-17"
   },
   {
    "slug": "saitama",
@@ -569,7 +569,7 @@
    "counts": {
     "sights": 1246,
     "activities": 83,
-    "food": 1136,
+    "food": 1138,
     "stays": 133,
     "access": 0,
     "day_to_day": 20
@@ -633,12 +633,12 @@
    "counts": {
     "sights": 619,
     "activities": 46,
-    "food": 502,
-    "stays": 108,
+    "food": 740,
+    "stays": 110,
     "access": 0,
     "day_to_day": 27
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-17"
   },
   {
    "slug": "tokyo",
@@ -681,8 +681,8 @@
    "counts": {
     "sights": 644,
     "activities": 217,
-    "food": 490,
-    "stays": 291,
+    "food": 503,
+    "stays": 289,
     "access": 0,
     "day_to_day": 22
    },
@@ -697,8 +697,8 @@
    "counts": {
     "sights": 264,
     "activities": 64,
-    "food": 628,
-    "stays": 401,
+    "food": 1050,
+    "stays": 403,
     "access": 0,
     "day_to_day": 32
    },
@@ -729,12 +729,12 @@
    "counts": {
     "sights": 1420,
     "activities": 235,
-    "food": 2307,
-    "stays": 202,
+    "food": 2379,
+    "stays": 203,
     "access": 0,
     "day_to_day": 125
    },
-   "date_modified": "2026-10-14"
+   "date_modified": "2026-10-17"
   },
   {
    "slug": "yamanashi",

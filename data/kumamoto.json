@@ -22,7 +22,7 @@
     "lat": 32.45893,
     "lon": 130.1934637
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Haiya",
@@ -322,6 +322,57 @@
    ],
    "food": [
     {
+     "name": "Five Spot",
+     "name_en": "Five Spot",
+     "description": "Cafe in Higashihamacho, Amakusa. Open Tue-Sat 11:30-18:30.",
+     "source_url": "https://fivespot.amakusacity.com/",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kona Kona Cafe",
+     "name_en": "Kona Kona Cafe",
+     "name_ja": "コナ・コナ・カフェ",
+     "description": "Cafe in Hondo Machi Hirose, Amakusa. Open Thu-Tue 10:00-19:00.",
+     "source_url": "https://konakonacafe.jp/",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Marukin",
+     "name_en": "Marukin",
+     "name_ja": "まるきん",
+     "description": "Cafe in Chuo Shimmachi, Amakusa. Open daily 10:00-18:00.",
+     "source_url": "https://marukintaiyaki.com/",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Amakusa",
+     "name_en": "Cafe in Amakusa",
+     "name_ja": "プロペラプレート",
+     "description": "Cafe in Amakusa. Open daily 11:30-16:00.",
+     "source_url": "https://propeller10.com/plate.html",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "BLUE GARDEN",
+     "name_en": "BLUE GARDEN",
+     "description": "Cafe in Amakusa.",
+     "source_url": "https://www.openstreetmap.org/way/929492784",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "NO BORDER",
+     "name_en": "NO BORDER",
+     "description": "Cafe in Hondo Machi Hirose, Amakusa. Open Wed-Mon 11:00-17:00.",
+     "source_url": "https://www.openstreetmap.org/way/1121948451",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Uomasa",
      "name_en": "Uomasa",
      "name_ja": "魚正",
@@ -349,11 +400,55 @@
      "category": "Casual"
     },
     {
+     "name": "Hoju En",
+     "name_en": "Hoju En",
+     "name_ja": "宝寿苑",
+     "description": "Chinese restaurant in Hondo Machi Hirose, Amakusa. Open Tue-Sun 11:45-20:30.",
+     "source_url": "https://www.openstreetmap.org/way/1120003022",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "TAYUTA Resort Hotel",
      "name_en": "TAYUTA Resort Hotel",
      "name_ja": "TAYUTAリゾートホテル",
      "description": "Auberge in Amakusa.",
      "source_url": "https://tabelog.com/kumamoto/A4305/A430501/43019028/",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "San Gurume Hondo Branch",
+     "name_en": "San Gurume Hondo Branch",
+     "name_ja": "サン・グルメ 本渡店",
+     "description": "Pizza restaurant in Komatsubara Machi, Amakusa. Open Thu-Tue 11:00-22:00.",
+     "source_url": "http://sungourmet.net/",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "LE OTO",
+     "name_en": "LE OTO",
+     "description": "Italian restaurant in Amakusa.",
+     "source_url": "https://www.openstreetmap.org/node/9886676201",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Pasta House TEN",
+     "name_en": "Pasta House TEN",
+     "name_ja": "パスタハウスTEN",
+     "description": "Pasta restaurant in Amakusa.",
+     "source_url": "https://www.openstreetmap.org/way/1120003015",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Pizza and pasta restaurant in Amakusa",
+     "name_en": "Pizza and pasta restaurant in Amakusa",
+     "name_ja": "プレーゴ",
+     "description": "Pizza and pasta restaurant in Ohama Machi, Amakusa. Open Mon-Sat 11:30-15:00.",
+     "source_url": "https://www.openstreetmap.org/way/1123647441",
      "page": "https://bokenjapan.com/kumamoto/amakusa/eat/european/",
      "category": "European"
     },
@@ -412,6 +507,114 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Amakusa Mura",
+     "name_en": "Amakusa Mura",
+     "name_ja": "あまくさ村",
+     "description": "Pub in Sakaemachi, Amakusa.",
+     "source_url": "https://yahiro.sakura.ne.jp/amakusamura/",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Irifuku",
+     "name_en": "Irifuku",
+     "name_ja": "入福",
+     "description": "Pub in Chuo Shimmachi, Amakusa. Open Mon-Sat 18:00-23:00.",
+     "source_url": "https://irifuku.net/",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Daishugo",
+     "name_en": "Daishugo",
+     "name_ja": "大集合",
+     "description": "Pub in Ohama Machi, Amakusa.",
+     "source_url": "https://daisyuugo.com/",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Pub in Ohama Machi, Amakusa",
+     "name_en": "Pub in Ohama Machi, Amakusa",
+     "name_ja": "ダイニング＆バー 進",
+     "description": "Pub in Ohama Machi, Amakusa. Open daily 18:00-23:30.",
+     "source_url": "https://diningbar-shin.com/",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Hana Mura",
+     "name_en": "Hana Mura",
+     "name_ja": "花むら",
+     "description": "Pub in Ohama Machi, Amakusa. Open daily 18:00-23:30.",
+     "source_url": "https://www.openstreetmap.org/way/1123653851",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Ino Shoten",
+     "name_en": "Ino Shoten",
+     "name_ja": "伊野商店",
+     "description": "Pub in Komatsubara Shi, Amakusa. Open Mon-Sat 18:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/way/1123606989",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Karatachi",
+     "name_en": "Karatachi",
+     "name_ja": "からたち",
+     "description": "Pub in Ohama Machi, Amakusa. Open Mon-Sat 21:00-27:00.",
+     "source_url": "https://www.openstreetmap.org/way/1123636768",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kushi Katsu Tanaka Amakusa Branch",
+     "name_en": "Kushi Katsu Tanaka Amakusa Branch",
+     "name_ja": "串カツ田中 天草店",
+     "description": "Pub in Ohama Machi, Amakusa. Open daily 11:00-23:30.",
+     "source_url": "https://www.openstreetmap.org/way/1123638443",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Pub in Chuo Shimmachi, Amakusa",
+     "name_en": "Pub in Chuo Shimmachi, Amakusa",
+     "name_ja": "丸高中央新町店",
+     "description": "Pub in Chuo Shimmachi, Amakusa. Open daily 18:00-23:30.",
+     "source_url": "https://www.openstreetmap.org/way/1123686911",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Sakanaya Sanno Daidokoro",
+     "name_en": "Sakanaya Sanno Daidokoro",
+     "name_ja": "さかな屋さんの台所",
+     "description": "Pub in Chuo Shimmachi, Amakusa. Open daily 17:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/way/1128123391",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Shidanoya",
+     "name_en": "Shidanoya",
+     "name_ja": "しだの屋",
+     "description": "Pub in Funeyuki Omachi, Amakusa. Open Tue-Sun 17:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/way/1123660045",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Shonin",
+     "name_en": "Shonin",
+     "name_ja": "商人",
+     "description": "Pub in Ohama Machi, Amakusa. Open Mon-Sat 17:30-24:00.",
+     "source_url": "https://www.openstreetmap.org/way/1123654223",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Tanaka Chikusan",
      "name_en": "Tanaka Chikusan",
      "name_ja": "たなか畜産",
@@ -421,11 +624,145 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Horumon Sakaba Biton",
+     "name_en": "Horumon Sakaba Biton",
+     "name_ja": "ホルモン酒場びとん",
+     "description": "Yakiniku pub in Funeyuki Omachi, Amakusa. Open Mon-Sat 17:00-22:00.",
+     "source_url": "https://www.horumonsakaba-biton.com/",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Wagyu Yakiniku Dandan",
+     "name_en": "Wagyu Yakiniku Dandan",
+     "name_ja": "和牛焼肉 だんだん",
+     "description": "Yakiniku restaurant in Hondo Machi Hirose, Amakusa. Open Tue-Sun 17:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/way/1120009670",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Nabeshima Amakusa Branch",
+     "name_en": "Yakiniku Nabeshima Amakusa Branch",
+     "name_ja": "焼肉なべしま 天草店",
+     "description": "Yakiniku restaurant in Minamishimmachi, Amakusa.",
+     "source_url": "https://www.openstreetmap.org/way/1128124852",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku no Dendo Shokudo Sono",
+     "name_en": "Yakiniku no Dendo Shokudo Sono",
+     "name_ja": "焼肉の殿堂食道園",
+     "description": "Yakiniku restaurant in Ohama Machi, Amakusa. Open Tue-Sun 17:30-26:00.",
+     "source_url": "https://www.openstreetmap.org/way/1123644918",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Ramen restaurant in Amakusa",
+     "name_en": "Ramen restaurant in Amakusa",
+     "name_ja": "亜寿多ラーメン",
+     "description": "Ramen restaurant in Funeyuki Omachi, Amakusa.",
+     "source_url": "https://www.openstreetmap.org/way/1123659333",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "EAT730",
+     "name_en": "EAT730",
+     "description": "Noodle restaurant in Amakusa.",
+     "source_url": "https://www.openstreetmap.org/way/926780791",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Yakuzen Ryori Ukotsu Niwatori Ramen Ryu",
+     "name_en": "Yakuzen Ryori Ukotsu Niwatori Ramen Ryu",
+     "name_ja": "薬膳料理 烏骨鶏ラーメン龍",
+     "description": "Ramen restaurant in Ohama Machi, Amakusa.",
+     "source_url": "https://www.openstreetmap.org/way/1123652387",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menya Ichikurenai",
+     "name_en": "Menya Ichikurenai",
+     "name_ja": "麺や 一紅",
+     "description": "Restaurant in Hondo Machi Hirose, Amakusa.",
+     "source_url": "https://ichibeni.com/",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Ebisu Tei",
+     "name_en": "Ebisu Tei",
+     "name_ja": "恵比須亭",
+     "description": "Restaurant in Kitahamacho, Amakusa.",
+     "source_url": "https://www.openstreetmap.org/way/1123309470",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Amakusa",
+     "name_en": "Restaurant in Amakusa",
+     "name_ja": "メーンの盛 (メーンの盛)",
+     "description": "Restaurant in Amakusa.",
+     "source_url": "https://www.openstreetmap.org/node/4583056997",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Gosoku no Kutsu",
      "name_en": "Gosoku no Kutsu",
      "name_ja": "五足のくつ",
      "description": "Japanese cuisine ryokan in Amakusa.",
      "source_url": "https://tabelog.com/kumamoto/A4305/A430501/43000825/",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Aji Ichiban Kan",
+     "name_en": "Aji Ichiban Kan",
+     "name_ja": "味一番館",
+     "description": "Regional Japanese restaurant in Imagama Shimmachi, Amakusa. Open Mon-Sat 11:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/way/1120003019",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ebi no Miyagawa Kokorozashikaki Branch",
+     "name_en": "Ebi no Miyagawa Kokorozashikaki Branch",
+     "name_ja": "海老の宮川 志柿店",
+     "description": "Japanese restaurant in Kokorozashikaki Machi, Amakusa. Open Fri-Mon 11:00-14:30.",
+     "source_url": "https://www.openstreetmap.org/way/940439311",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Amakusa",
+     "name_en": "Japanese restaurant in Amakusa",
+     "name_ja": "カリー食堂リトルスパイス",
+     "description": "Japanese restaurant in Chuo Shimmachi, Amakusa.",
+     "source_url": "https://www.openstreetmap.org/node/4551947767",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shabushabuwatanabe",
+     "name_en": "Shabushabuwatanabe",
+     "name_ja": "しゃぶしゃぶわたなべ",
+     "description": "Japanese restaurant in Chuo Shimmachi, Amakusa. Open daily 17:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/way/1123681942",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yokoshima Shokudo (Yokoshima Shokudo)",
+     "name_en": "Yokoshima Shokudo (Yokoshima Shokudo)",
+     "name_ja": "横嶋食堂 (横嶋食堂)",
+     "description": "Japanese restaurant in Amakusa.",
+     "source_url": "https://www.openstreetmap.org/node/4583059978",
      "page": "https://bokenjapan.com/kumamoto/amakusa/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -520,6 +857,33 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Sushi restaurant in Amakusa",
+     "name_en": "Sushi restaurant in Amakusa",
+     "name_ja": "蛇の目寿し",
+     "description": "Sushi restaurant in Ohama Machi, Amakusa.",
+     "source_url": "https://www.jyanomesusi.com/",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Ochi Restaurant Kokorozashi Mizu",
+     "name_en": "Ochi Restaurant Kokorozashi Mizu",
+     "name_ja": "おうちレストラン志みず",
+     "description": "Seafood restaurant in Imagama Shimmachi, Amakusa.",
+     "source_url": "https://restaurant-50207.business.site/",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Taro Hisashishi",
+     "name_en": "Taro Hisashishi",
+     "name_ja": "太郎寿し",
+     "description": "Sushi restaurant in Funeyuki Omachi, Amakusa.",
+     "source_url": "https://www.openstreetmap.org/way/1123656967",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Miyashita Shoten",
      "name_en": "Miyashita Shoten",
      "name_ja": "宮下商店",
@@ -534,6 +898,33 @@
      "name_ja": "まるきん",
      "description": "Taiyaki, oban-yaki, and cafe in Amakusa.",
      "source_url": "https://tabelog.com/kumamoto/A4305/A430501/43013139/",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Esuporuto Amakusa Ame Hompo",
+     "name_en": "Esuporuto Amakusa Ame Hompo",
+     "name_ja": "えすぽると 天草飴本舗",
+     "description": "Pastry shop in Saizu Machi, Amakusa. Open daily 09:00-17:30.",
+     "source_url": "https://amaame.com/",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Pastry shop in Amakusa",
+     "name_en": "Pastry shop in Amakusa",
+     "name_ja": "パティスリーメール・ドゥース",
+     "description": "Pastry shop in Hondo Machi Hirose, Amakusa. Open Thu-Tue 10:00-19:00.",
+     "source_url": "https://www.openstreetmap.org/way/1121945732",
+     "page": "https://bokenjapan.com/kumamoto/amakusa/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bakery in Amakusa",
+     "name_en": "Bakery in Amakusa",
+     "name_ja": "ピーターパン",
+     "description": "Bakery in Komatsubara Machi, Amakusa. Open Tue-Sat 08:00-17:00.",
+     "source_url": "https://www.openstreetmap.org/way/1123627171",
      "page": "https://bokenjapan.com/kumamoto/amakusa/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -874,7 +1265,7 @@
     "lat": 32.986741,
     "lon": 130.433181
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Marugoto Arao Local Products Hall",
@@ -959,6 +1350,15 @@
      "category": "Cafe"
     },
     {
+     "name": "Café in Arao",
+     "name_en": "Café in Arao",
+     "name_ja": "WARAO×タニタカフェ",
+     "description": "Cafe in Arao.",
+     "source_url": "https://www.openstreetmap.org/node/13915774585",
+     "page": "https://bokenjapan.com/kumamoto/arao/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "THE PARK BURGER",
      "name_en": "The Park Burger",
      "description": "The Park Burger — hamburger restaurant in Arao, Kumamoto.",
@@ -1010,6 +1410,31 @@
      "source_url": "https://tabelog.com/kumamoto/A4303/A430302/43006113/",
      "page": "https://bokenjapan.com/kumamoto/arao/eat/casual/",
      "category": "Casual"
+    },
+    {
+     "name": "green",
+     "name_en": "green",
+     "description": "Burger fast-food restaurant in Arao.",
+     "source_url": "https://www.openstreetmap.org/node/13915774584",
+     "page": "https://bokenjapan.com/kumamoto/arao/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "KFC",
+     "name_en": "KFC",
+     "description": "Fast-food restaurant in Arao.",
+     "source_url": "https://www.openstreetmap.org/node/13290223875",
+     "page": "https://bokenjapan.com/kumamoto/arao/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Haochii no Shokago Tsutsumi",
+     "name_en": "Haochii no Shokago Tsutsumi",
+     "name_ja": "好吃の小籠包",
+     "description": "Chinese restaurant in Arao.",
+     "source_url": "https://www.openstreetmap.org/node/13915774575",
+     "page": "https://bokenjapan.com/kumamoto/arao/eat/chinese-asian/",
+     "category": "Chinese & Asian"
     },
     {
      "name": "Orutana Kitchen",
@@ -1084,6 +1509,33 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Yakiniku Nurubon Garden Arao",
+     "name_en": "Yakiniku Nurubon Garden Arao",
+     "name_ja": "焼肉ヌルボンガーデン 荒尾",
+     "description": "Yakiniku restaurant in Motoi Te, Arao. Open Mon-Fri 16:00-22:00; Sat-Sun 11:30-23:00.",
+     "source_url": "https://www.nurubon.co.jp/tenpo/arao.html",
+     "page": "https://bokenjapan.com/kumamoto/arao/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Kushiyaki Niwatori Kai",
+     "name_en": "Kushiyaki Niwatori Kai",
+     "name_ja": "串焼き 鶏Kai",
+     "description": "Yakitori restaurant in Arao.",
+     "source_url": "https://www.openstreetmap.org/node/12691269059",
+     "page": "https://bokenjapan.com/kumamoto/arao/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Ajisai",
+     "name_en": "Yakiniku Ajisai",
+     "name_ja": "焼肉 味彩",
+     "description": "Barbecue restaurant in Arao.",
+     "source_url": "https://www.openstreetmap.org/node/13915774576",
+     "page": "https://bokenjapan.com/kumamoto/arao/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Musashi Ramen",
      "name_en": "Musashi Ramen",
      "name_ja": "武蔵ラーメン",
@@ -1129,11 +1581,38 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Reika Ramen",
+     "name_en": "Reika Ramen",
+     "name_ja": "玲佳ラーメン",
+     "description": "Ramen restaurant in Midorigaoka, Arao. Open daily 11:00-20:00.",
+     "source_url": "https://www.openstreetmap.org/node/13108467737",
+     "page": "https://bokenjapan.com/kumamoto/arao/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kurenai no Buta",
+     "name_en": "Kurenai no Buta",
+     "name_ja": "紅の豚",
+     "description": "Restaurant in Arao.",
+     "source_url": "https://www.openstreetmap.org/node/2769049947",
+     "page": "https://bokenjapan.com/kumamoto/arao/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Kaisen Tokkyu Lane Sushi Jijiya",
      "name_en": "Kaisen Tokkyu Lane Sushi Jijiya",
      "name_ja": "海鮮特急レーン 寿司 じじや 荒尾店",
      "description": "Kaisen Tokkyu Lane Sushi Jijiya — sushi in Arao, Kumamoto.",
      "source_url": "https://tabelog.com/kumamoto/A4303/A430302/43014942/",
+     "page": "https://bokenjapan.com/kumamoto/arao/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Shijo",
+     "name_en": "Sushi Shijo",
+     "name_ja": "すし市場",
+     "description": "Sushi restaurant in Arao.",
+     "source_url": "https://www.openstreetmap.org/way/271956791",
      "page": "https://bokenjapan.com/kumamoto/arao/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -1152,6 +1631,14 @@
      "name_ja": "万幸堂",
      "description": "Mankodo — bread in Arao, Kumamoto.",
      "source_url": "https://tabelog.com/kumamoto/A4303/A430302/43001730/",
+     "page": "https://bokenjapan.com/kumamoto/arao/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Baskin Robbins",
+     "name_en": "Baskin Robbins",
+     "description": "Ice cream shop in Arao.",
+     "source_url": "https://www.openstreetmap.org/node/13290223874",
      "page": "https://bokenjapan.com/kumamoto/arao/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -2167,7 +2654,7 @@
     "lat": 32.9520778,
     "lon": 131.1214276
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside Station Aso",
@@ -2413,6 +2900,14 @@
      "category": "Cafe"
     },
     {
+     "name": "Elephant coffee",
+     "name_en": "Elephant coffee",
+     "description": "Cafe in Aso.",
+     "source_url": "https://www.openstreetmap.org/node/4343988289",
+     "page": "https://bokenjapan.com/kumamoto/aso/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Imakin Shokudo",
      "name_en": "Imakin Shokudo",
      "name_ja": "いまきん食堂",
@@ -2476,6 +2971,33 @@
      "category": "Casual"
     },
     {
+     "name": "Hanabishi",
+     "name_en": "Hanabishi",
+     "name_ja": "花菱",
+     "description": "Fast-food restaurant in Aso.",
+     "source_url": "https://www.openstreetmap.org/node/4350568237",
+     "page": "https://bokenjapan.com/kumamoto/aso/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Fast-food restaurant in Aso",
+     "name_en": "Fast-food restaurant in Aso",
+     "name_ja": "お弁当のヒライ",
+     "description": "Fast-food restaurant in Aso. Open 24 hours, every day.",
+     "source_url": "https://www.openstreetmap.org/node/14275509501",
+     "page": "https://bokenjapan.com/kumamoto/aso/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "ASO SPICE CURRY Masara Kitchen",
+     "name_en": "ASO SPICE CURRY Masara Kitchen",
+     "name_ja": "ASO SPICE CURRY マサラキッチン",
+     "description": "Curry restaurant in Ichi no Miyamachi, Aso. Open daily 11:00-15:00, 17:00-20:00.",
+     "source_url": "https://www.masalakitchen.jp",
+     "page": "https://bokenjapan.com/kumamoto/aso/eat/curry/",
+     "category": "Curry"
+    },
+    {
      "name": "Douce Nukka",
      "name_en": "Douce Nukka",
      "name_ja": "ドゥース ヌッカ",
@@ -2483,6 +3005,15 @@
      "source_url": "https://tabelog.com/kumamoto/A4302/A430201/43014839/",
      "page": "https://bokenjapan.com/kumamoto/aso/eat/european/",
      "category": "European"
+    },
+    {
+     "name": "Taroya",
+     "name_en": "Taroya",
+     "name_ja": "太郎屋",
+     "description": "Bar in Aso.",
+     "source_url": "https://www.openstreetmap.org/node/4417007190",
+     "page": "https://bokenjapan.com/kumamoto/aso/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
     },
     {
      "name": "Kojirofuchi",
@@ -2528,6 +3059,15 @@
      "source_url": "https://tabelog.com/kumamoto/A4302/A430201/43006965/",
      "page": "https://bokenjapan.com/kumamoto/aso/eat/noodles/",
      "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Aso Taikan Minecha Branch",
+     "name_en": "Aso Taikan Minecha Branch",
+     "name_ja": "阿蘇大観峰茶店",
+     "description": "Restaurant in Aso. Open daily 08:30-17:00.",
+     "source_url": "http://www.asodaikanbou.com/index.html",
+     "page": "https://bokenjapan.com/kumamoto/aso/eat/other/",
+     "category": "Other"
     },
     {
      "name": "Akagyudon Iwasaki",
@@ -2580,6 +3120,15 @@
      "name_ja": "ひめ路",
      "description": "Local cuisine shokudo.",
      "source_url": "https://tabelog.com/kumamoto/A4302/A430201/43000823/",
+     "page": "https://bokenjapan.com/kumamoto/aso/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Sakanaten",
+     "name_en": "Sakanaten",
+     "name_ja": "魚天",
+     "description": "Japanese restaurant in Aso.",
+     "source_url": "https://www.openstreetmap.org/node/4417023889",
      "page": "https://bokenjapan.com/kumamoto/aso/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -3420,7 +3969,7 @@
     "lat": 32.2057018,
     "lon": 130.7601285
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Kikurage Honpo",
@@ -3582,6 +4131,32 @@
      "category": "Cafe"
     },
     {
+     "name": "Nagata Mura Uemon ROASTERY",
+     "name_en": "Nagata Mura Uemon ROASTERY",
+     "name_ja": "永田村右衛門ROASTERY",
+     "description": "Cafe in Hitoyoshi. Open Wed-Mon 12:00-17:00.",
+     "source_url": "https://nagatakohikan.wixsite.com/home",
+     "page": "https://bokenjapan.com/kumamoto/hitoyoshi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Ao.",
+     "name_en": "Ao.",
+     "description": "Cafe in Hitoyoshi. Open daily 09:00-18:00.",
+     "source_url": "https://www.openstreetmap.org/node/13162289776",
+     "page": "https://bokenjapan.com/kumamoto/hitoyoshi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Ezaki Coffee",
+     "name_en": "Ezaki Coffee",
+     "name_ja": "エザキ珈琲",
+     "description": "Cafe in Hitoyoshi.",
+     "source_url": "https://www.openstreetmap.org/way/823100968",
+     "page": "https://bokenjapan.com/kumamoto/hitoyoshi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Hitoyoshi Ekiben Yamaguchi",
      "name_en": "Hitoyoshi Ekiben Yamaguchi",
      "name_ja": "人吉駅弁 やまぐち",
@@ -3609,6 +4184,15 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Curry restaurant in Hitoyoshi",
+     "name_en": "Curry restaurant in Hitoyoshi",
+     "name_ja": "カレーの五朋GOHOU",
+     "description": "Curry restaurant in Hitoyoshi.",
+     "source_url": "https://www.openstreetmap.org/way/823308664",
+     "page": "https://bokenjapan.com/kumamoto/hitoyoshi/eat/curry/",
+     "category": "Curry"
+    },
+    {
      "name": "Spoon",
      "name_en": "Spoon",
      "name_ja": "すぷぅぅん",
@@ -3623,6 +4207,14 @@
      "name_ja": "Kura-倉Cafe",
      "description": "French cuisine, European cuisine, and cafe in Hitoyoshi.",
      "source_url": "https://tabelog.com/kumamoto/A4304/A430403/43004720/",
+     "page": "https://bokenjapan.com/kumamoto/hitoyoshi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Kitchen chika",
+     "name_en": "Kitchen chika",
+     "description": "Italian and pizza restaurant in Hai Kubo Machi, Hitoyoshi. Open daily 18:00-23:00.",
+     "source_url": "https://hitoyoshi-cci.or.jp/eat/kitchenchika/",
      "page": "https://bokenjapan.com/kumamoto/hitoyoshi/eat/european/",
      "category": "European"
     },
@@ -3654,11 +4246,29 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Sakaba 365",
+     "name_en": "Sakaba 365",
+     "name_ja": "酒場365",
+     "description": "Izakaya bar in Konya Machi, Hitoyoshi. Open Fri 19:00-23:00; Sat 10:00-23:00; Sun 10:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/12756471358",
+     "page": "https://bokenjapan.com/kumamoto/hitoyoshi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Tonkatsu Aoi",
      "name_en": "Tonkatsu Aoi",
      "name_ja": "とんかつ あおい",
      "description": "Tonkatsu Aoi — tonkatsu restaurant in Hitoyoshi, Kumamoto.",
      "source_url": "https://tabelog.com/kumamoto/A4304/A430403/43017384/",
+     "page": "https://bokenjapan.com/kumamoto/hitoyoshi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Nabeshima",
+     "name_en": "Yakiniku Nabeshima",
+     "name_ja": "焼肉なべしま",
+     "description": "Barbecue restaurant in Hitoyoshi.",
+     "source_url": "https://www.openstreetmap.org/way/823691371",
      "page": "https://bokenjapan.com/kumamoto/hitoyoshi/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -3726,6 +4336,23 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Irori Cuisine LOOP",
+     "name_en": "Irori Cuisine LOOP",
+     "description": "Restaurant in Hitoyoshi.",
+     "source_url": "https://www.openstreetmap.org/way/230848093",
+     "page": "https://bokenjapan.com/kumamoto/hitoyoshi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Koraku",
+     "name_en": "Koraku",
+     "name_ja": "幸楽",
+     "description": "Restaurant in Hitoyoshi.",
+     "source_url": "https://www.openstreetmap.org/node/4003605089",
+     "page": "https://bokenjapan.com/kumamoto/hitoyoshi/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Kijiya",
      "name_en": "Kijiya",
      "name_ja": "きじや",
@@ -3740,6 +4367,32 @@
      "name_ja": "翠嵐楼",
      "description": "Cuisine ryokan and local cuisine in Hitoyoshi.",
      "source_url": "https://tabelog.com/kumamoto/A4304/A430403/43010398/",
+     "page": "https://bokenjapan.com/kumamoto/hitoyoshi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "joyful",
+     "name_en": "joyful",
+     "description": "Japanese restaurant in Shimobara Tamachi, Hitoyoshi. Open daily 08:00-25:00.",
+     "source_url": "https://www.joyfull.co.jp/shop/archives/634",
+     "page": "https://bokenjapan.com/kumamoto/hitoyoshi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Hitoyoshi",
+     "name_en": "Japanese restaurant in Hitoyoshi",
+     "name_ja": "お好み焼き",
+     "description": "Japanese restaurant in Hitoyoshi.",
+     "source_url": "https://www.openstreetmap.org/node/4003604391",
+     "page": "https://bokenjapan.com/kumamoto/hitoyoshi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Toranosuke",
+     "name_en": "Toranosuke",
+     "name_ja": "虎之介",
+     "description": "Japanese restaurant in Hitoyoshi.",
+     "source_url": "https://www.openstreetmap.org/way/823691373",
      "page": "https://bokenjapan.com/kumamoto/hitoyoshi/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -3776,6 +4429,24 @@
      "name_ja": "清流山水花 あゆの里",
      "description": "Hotel in Hitoyoshi.",
      "source_url": "https://tabelog.com/kumamoto/A4304/A430403/43006670/",
+     "page": "https://bokenjapan.com/kumamoto/hitoyoshi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Ikeuo Junna Horai Chaya Hitoyo",
+     "name_en": "Ikeuo Junna Horai Chaya Hitoyo",
+     "name_ja": "活魚旬菜 ほうらい茶屋 人吉",
+     "description": "Seafood and sushi restaurant in Hitoyoshi.",
+     "source_url": "https://www.openstreetmap.org/way/823304317",
+     "page": "https://bokenjapan.com/kumamoto/hitoyoshi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kitagawa",
+     "name_en": "Kitagawa",
+     "name_ja": "喜多川",
+     "description": "Sushi restaurant in Hitoyoshi.",
+     "source_url": "https://www.openstreetmap.org/node/4003606992",
      "page": "https://bokenjapan.com/kumamoto/hitoyoshi/eat/seafood/",
      "category": "Japanese (seafood)"
     }
@@ -4336,7 +5007,7 @@
     "lat": 32.5874695,
     "lon": 130.4304853
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Ai no Amakusa Village",
@@ -4504,6 +5175,15 @@
      "category": "Cafe"
     },
     {
+     "name": "cafe kahnya Kanya",
+     "name_en": "cafe kahnya Kanya",
+     "name_ja": "café kahnya カーニャ",
+     "description": "Cafe in Kamiamakusa.",
+     "source_url": "https://www.openstreetmap.org/node/8787738587",
+     "page": "https://bokenjapan.com/kumamoto/kamiamakusa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Ozora Shokudo",
      "name_en": "Ozora Shokudo",
      "name_ja": "大空食堂",
@@ -4540,11 +5220,29 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Taiwan Ryori Fukugen",
+     "name_en": "Taiwan Ryori Fukugen",
+     "name_ja": "台湾料理福源",
+     "description": "Chinese restaurant in Kamiamakusa.",
+     "source_url": "https://www.openstreetmap.org/node/11700497571",
+     "page": "https://bokenjapan.com/kumamoto/kamiamakusa/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Amakusa Tenku no Fune",
      "name_en": "Amakusa Tenku no Fune",
      "name_ja": "天草 天空の船",
      "description": "Italian, auberge, and cuisine ryokan in Kamiamakusa.",
      "source_url": "https://tabelog.com/kumamoto/A4305/A430501/43010013/",
+     "page": "https://bokenjapan.com/kumamoto/kamiamakusa/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Joyfull",
+     "name_en": "Joyfull",
+     "name_ja": "ジョイフル",
+     "description": "Western-style restaurant in Oyano, Kamiamakusa.",
+     "source_url": "https://www.openstreetmap.org/way/951648712",
      "page": "https://bokenjapan.com/kumamoto/kamiamakusa/eat/european/",
      "category": "European"
     },
@@ -4585,11 +5283,29 @@
      "category": "Other"
     },
     {
+     "name": "Ajisen Ramen",
+     "name_en": "Ajisen Ramen",
+     "name_ja": "味千ﾗｰﾒﾝ",
+     "description": "Restaurant in Kamiamakusa.",
+     "source_url": "https://www.openstreetmap.org/node/5603043151",
+     "page": "https://bokenjapan.com/kumamoto/kamiamakusa/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Daidokutsu no Yado Yurakutei",
      "name_en": "Daidokutsu no Yado Yurakutei",
      "name_ja": "大洞窟の宿 湯楽亭",
      "description": "Ryokan and minshuku in Kamiamakusa.",
      "source_url": "https://tabelog.com/kumamoto/A4305/A430501/43005474/",
+     "page": "https://bokenjapan.com/kumamoto/kamiamakusa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shio Maneki",
+     "name_en": "Shio Maneki",
+     "name_ja": "潮まねき",
+     "description": "Japanese restaurant in Kamiamakusa. Open daily 11:00-15:00, 17:00-21:00.",
+     "source_url": "https://shiomaneki.2-d.jp/",
      "page": "https://bokenjapan.com/kumamoto/kamiamakusa/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -5195,7 +5911,7 @@
     "lat": 32.979386,
     "lon": 130.813292
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Ronowa Organic Rice",
@@ -5366,6 +6082,14 @@
      "category": "Cafe"
     },
     {
+     "name": "Pond Cafe",
+     "name_en": "Pond Cafe",
+     "description": "Cafe in Kikuchi.",
+     "source_url": "https://www.openstreetmap.org/node/14269743001",
+     "page": "https://bokenjapan.com/kumamoto/kikuchi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Kokko Farm Tamagoan Bussankan",
      "name_en": "Kokko Farm Tamagoan Bussankan",
      "name_ja": "コッコファームたまご庵 物産館",
@@ -5401,8 +6125,25 @@
      "category": "Casual"
     },
     {
-     "name": "European restaurant in Kikuchi (#11)",
-     "name_en": "European restaurant in Kikuchi (#11)",
+     "name": "Kitamiya Hanten",
+     "name_en": "Kitamiya Hanten",
+     "name_ja": "北宮飯店",
+     "description": "Chinese restaurant in Kikuchi.",
+     "source_url": "https://www.openstreetmap.org/node/13458015626",
+     "page": "https://bokenjapan.com/kumamoto/kikuchi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "GANESHA Indian cuisine",
+     "name_en": "GANESHA Indian cuisine",
+     "description": "Indian restaurant in Kikuchi.",
+     "source_url": "https://www.openstreetmap.org/node/13123425824",
+     "page": "https://bokenjapan.com/kumamoto/kikuchi/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Naporipittsua Kenkyusho Iruforunodoro",
+     "name_en": "Naporipittsua Kenkyusho Iruforunodoro",
      "name_ja": "ナポリピッツア研究所イルフォルノドーロ",
      "description": "Pizza, Italian, and dining bar.",
      "source_url": "https://tabelog.com/kumamoto/A4303/A430301/43006669/",
@@ -5419,8 +6160,8 @@
      "category": "European"
     },
     {
-     "name": "European restaurant in Kikuchi (#13)",
-     "name_en": "European restaurant in Kikuchi (#13)",
+     "name": "Ristorante Due Manme",
+     "name_en": "Ristorante Due Manme",
      "name_ja": "リストランテ ドゥエ マンメ",
      "description": "Ristorante Due Mamme — italian restaurant in Kikuchi, Kumamoto.",
      "source_url": "https://tabelog.com/kumamoto/A4303/A430301/43013806/",
@@ -5433,6 +6174,15 @@
      "name_ja": "ママトコキッチン カフェレストラン",
      "description": "Western cuisine, cafe, and steak restaurant.",
      "source_url": "https://tabelog.com/kumamoto/A4301/A430104/43011529/",
+     "page": "https://bokenjapan.com/kumamoto/kikuchi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Pizza restaurant in Kikuchi",
+     "name_en": "Pizza restaurant in Kikuchi",
+     "name_ja": "ナポリピッツァ研究所 イルフォルノドーロ",
+     "description": "Pizza restaurant in Kikuchi. Open daily 11:00-22:30.",
+     "source_url": "https://www.forna-vesta.co.jp/shop/naples/",
      "page": "https://bokenjapan.com/kumamoto/kikuchi/eat/european/",
      "category": "European"
     },
@@ -5500,6 +6250,42 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Yakiniku Ishii",
+     "name_en": "Yakiniku Ishii",
+     "name_ja": "焼肉いしい",
+     "description": "Barbecue restaurant in Kikuchi.",
+     "source_url": "https://ishii-yakiniku.com/",
+     "page": "https://bokenjapan.com/kumamoto/kikuchi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Sumiyaki Kiniku Taro",
+     "name_en": "Sumiyaki Kiniku Taro",
+     "name_ja": "炭焼き肉太郎",
+     "description": "Barbecue restaurant in Kikuchi.",
+     "source_url": "https://www.openstreetmap.org/node/13142274559",
+     "page": "https://bokenjapan.com/kumamoto/kikuchi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Tonkatsu Akasaka Mizuno Kikuchi Branch",
+     "name_en": "Tonkatsu Akasaka Mizuno Kikuchi Branch",
+     "name_ja": "とんかつ赤坂水野 菊池店",
+     "description": "Meat restaurant in Kikuchi. Open Wed-Fri 11:00-14:30, 16:30-20:00; Sat-Sun 11:00-15:00, 16:30-20:00.",
+     "source_url": "https://www.openstreetmap.org/node/13110566193",
+     "page": "https://bokenjapan.com/kumamoto/kikuchi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Tonkatsu Hisashi Taro",
+     "name_en": "Tonkatsu Hisashi Taro",
+     "name_ja": "とんかつ寿多郎",
+     "description": "Meat restaurant in Kikuchi. Open Sun-Fri 11:30-14:30; Sun-Tue 17:30-20:00; Thu-Fri 17:30-20:00.",
+     "source_url": "https://www.openstreetmap.org/node/13392855300",
+     "page": "https://bokenjapan.com/kumamoto/kikuchi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Kotei Ramen",
      "name_en": "Kotei Ramen",
      "name_ja": "幸帝ラーメン",
@@ -5523,6 +6309,51 @@
      "name_ja": "手打ちうどん 夕立",
      "description": "Teuchi Udon Yudachi — udon restaurant in Kikuchi, Kumamoto.",
      "source_url": "https://tabelog.com/kumamoto/A4303/A430301/43012133/",
+     "page": "https://bokenjapan.com/kumamoto/kikuchi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Daikichi Udon",
+     "name_en": "Daikichi Udon",
+     "name_ja": "大吉うどん",
+     "description": "Udon restaurant in Kikuchi. Open Tue-Sun 11:00-15:00.",
+     "source_url": "https://daikichiudon.com/",
+     "page": "https://bokenjapan.com/kumamoto/kikuchi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ajisen Ramen",
+     "name_en": "Ajisen Ramen",
+     "name_ja": "味千拉麺",
+     "description": "Ramen restaurant in Kikuchi.",
+     "source_url": "https://www.openstreetmap.org/node/13110433354",
+     "page": "https://bokenjapan.com/kumamoto/kikuchi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menba Karo Sato",
+     "name_en": "Menba Karo Sato",
+     "name_ja": "麺場火炉里",
+     "description": "Ramen restaurant in Kikuchi.",
+     "source_url": "https://www.openstreetmap.org/way/621504359",
+     "page": "https://bokenjapan.com/kumamoto/kikuchi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Sachimikado",
+     "name_en": "Sachimikado",
+     "name_ja": "幸帝",
+     "description": "Ramen restaurant in Kikuchi.",
+     "source_url": "https://www.openstreetmap.org/node/4873352823",
+     "page": "https://bokenjapan.com/kumamoto/kikuchi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Shoku no Eki Akichan",
+     "name_en": "Shoku no Eki Akichan",
+     "name_ja": "食の駅あきちゃん",
+     "description": "Udon restaurant in Kikuchi.",
+     "source_url": "https://www.openstreetmap.org/node/13142697462",
      "page": "https://bokenjapan.com/kumamoto/kikuchi/eat/noodles/",
      "category": "Japanese (noodles)"
     },
@@ -5552,6 +6383,33 @@
      "source_url": "https://tabelog.com/kumamoto/A4303/A430301/43016690/",
      "page": "https://bokenjapan.com/kumamoto/kikuchi/eat/other-japanese/",
      "category": "Other Japanese"
+    },
+    {
+     "name": "Horafuki Tei Kikuchi Branch",
+     "name_en": "Horafuki Tei Kikuchi Branch",
+     "name_ja": "ほらふき亭菊池店",
+     "description": "Japanese restaurant in Kikuchi.",
+     "source_url": "https://www.openstreetmap.org/way/544486514",
+     "page": "https://bokenjapan.com/kumamoto/kikuchi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Mimaki Shokudo",
+     "name_en": "Mimaki Shokudo",
+     "name_ja": "みまき食堂",
+     "description": "Japanese restaurant in Kikuchi.",
+     "source_url": "https://www.openstreetmap.org/way/555318728",
+     "page": "https://bokenjapan.com/kumamoto/kikuchi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kaisen Tokkyu Ren Sushi Jijiya Kikuchi Branch",
+     "name_en": "Kaisen Tokkyu Ren Sushi Jijiya Kikuchi Branch",
+     "name_ja": "海鮮特急レーン寿司じじや 菊池店",
+     "description": "Sushi restaurant in Kikuchi.",
+     "source_url": "https://www.openstreetmap.org/way/544518290",
+     "page": "https://bokenjapan.com/kumamoto/kikuchi/eat/seafood/",
+     "category": "Japanese (seafood)"
     },
     {
      "name": "Twin Star",
@@ -5744,7 +6602,7 @@
     "lat": 32.862507,
     "lon": 130.828682
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Horikawa Pizza",
@@ -5786,6 +6644,14 @@
     }
    ],
    "food": [
+    {
+     "name": "StarBacks",
+     "name_en": "StarBacks",
+     "description": "Cafe in Kikuyo.",
+     "source_url": "https://www.openstreetmap.org/node/2522780091",
+     "page": "https://bokenjapan.com/kumamoto/kikuyo/eat/cafe/",
+     "category": "Cafe"
+    },
     {
      "name": "Sendai",
      "name_en": "Sendai",
@@ -5846,6 +6712,15 @@
      "name_ja": "ドラゴンキッチンダイナスティ 光の森店",
      "description": "Chinese cuisine in Kikuyo.",
      "source_url": "https://tabelog.com/kumamoto/A4301/A430104/43002816/",
+     "page": "https://bokenjapan.com/kumamoto/kikuyo/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Chugoku Shisen Ryori Shuho",
+     "name_en": "Chugoku Shisen Ryori Shuho",
+     "name_ja": "中国四川料理秀峰",
+     "description": "Chinese restaurant in Kikuyo.",
+     "source_url": "https://www.openstreetmap.org/node/3079459101",
      "page": "https://bokenjapan.com/kumamoto/kikuyo/eat/chinese-asian/",
      "category": "Chinese & Asian"
     },
@@ -5913,6 +6788,15 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Nakano Chikusan",
+     "name_en": "Nakano Chikusan",
+     "name_ja": "なかの畜産",
+     "description": "Barbecue restaurant in Kikuyo. Open Tue-Sun 11:00-14:00, 17:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/5848148085",
+     "page": "https://bokenjapan.com/kumamoto/kikuyo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Barikiya",
      "name_en": "Barikiya",
      "name_ja": "馬力屋",
@@ -5958,6 +6842,105 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Ajisen Ramen",
+     "name_en": "Ajisen Ramen",
+     "name_ja": "味千ラーメン",
+     "description": "Noodle restaurant in Kikuyo. Open daily 11:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/2522780456",
+     "page": "https://bokenjapan.com/kumamoto/kikuyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ajisen Ramen Kikuyo Baipasu Branch",
+     "name_en": "Ajisen Ramen Kikuyo Baipasu Branch",
+     "name_ja": "味千ラーメン 菊陽バイパス店",
+     "description": "Ramen restaurant in Kikuyo.",
+     "source_url": "https://www.openstreetmap.org/node/5197311820",
+     "page": "https://bokenjapan.com/kumamoto/kikuyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Barikiya",
+     "name_en": "Barikiya",
+     "name_ja": "馬力屋",
+     "description": "Noodle restaurant in Kikuyo. Open daily 11:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/10542560478",
+     "page": "https://bokenjapan.com/kumamoto/kikuyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Keika Ramen",
+     "name_en": "Keika Ramen",
+     "name_ja": "桂花ラーメン",
+     "description": "Noodle restaurant in Kikuyo. Open daily 10:00-20:30.",
+     "source_url": "https://www.openstreetmap.org/node/10561788345",
+     "page": "https://bokenjapan.com/kumamoto/kikuyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ryu no Ie",
+     "name_en": "Ryu no Ie",
+     "name_ja": "龍の家",
+     "description": "Noodle restaurant in Kikuyo. Open daily 11:00-22:00; closed Wed.",
+     "source_url": "https://www.openstreetmap.org/node/10243646952",
+     "page": "https://bokenjapan.com/kumamoto/kikuyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Sukesan Udon",
+     "name_en": "Sukesan Udon",
+     "name_ja": "資さんうどん",
+     "description": "Udon restaurant in Kikuyo.",
+     "source_url": "https://www.openstreetmap.org/node/13130710232",
+     "page": "https://bokenjapan.com/kumamoto/kikuyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tengai Ten",
+     "name_en": "Tengai Ten",
+     "name_ja": "天外天",
+     "description": "Noodle restaurant in Kikuyo. Open daily 11:00-15:00, 17:00-21:00; closed Tue.",
+     "source_url": "https://www.openstreetmap.org/node/4564317398",
+     "page": "https://bokenjapan.com/kumamoto/kikuyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "West Udon Kikuyo Branch",
+     "name_en": "West Udon Kikuyo Branch",
+     "name_ja": "ウエストうどん菊陽店",
+     "description": "Udon restaurant in Kikuyo.",
+     "source_url": "https://www.openstreetmap.org/node/2522780459",
+     "page": "https://bokenjapan.com/kumamoto/kikuyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Yokohama Kakei Ramen Hatsu no Ie",
+     "name_en": "Yokohama Kakei Ramen Hatsu no Ie",
+     "name_ja": "横浜家系ラーメン初の家",
+     "description": "Noodle restaurant in Kikuyo. Open daily 11:00-14:30, 17:00-21:30.",
+     "source_url": "https://www.openstreetmap.org/node/10542560477",
+     "page": "https://bokenjapan.com/kumamoto/kikuyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Hiroshimenya Goemon",
+     "name_en": "Hiroshimenya Goemon",
+     "name_ja": "洋麺屋五右衛門",
+     "description": "Restaurant in Kikuyo.",
+     "source_url": "https://www.openstreetmap.org/way/933923150",
+     "page": "https://bokenjapan.com/kumamoto/kikuyo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Kikuyo",
+     "name_en": "Restaurant in Kikuyo",
+     "name_ja": "ポプラ菊陽三里木店",
+     "description": "Restaurant in Kikuyo.",
+     "source_url": "https://www.openstreetmap.org/node/3079459102",
+     "page": "https://bokenjapan.com/kumamoto/kikuyo/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Restaurant Bono",
      "name_en": "Restaurant Bono",
      "name_ja": "レストラン 望乃",
@@ -5981,6 +6964,23 @@
      "name_ja": "活魚廻転寿し 水天 菊陽店",
      "description": "Kaiten sushi and seafood in Kikuyo.",
      "source_url": "https://tabelog.com/kumamoto/A4301/A430104/43016331/",
+     "page": "https://bokenjapan.com/kumamoto/kikuyo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sanrigi Sushi",
+     "name_en": "Sanrigi Sushi",
+     "name_ja": "さんりぎ寿司",
+     "description": "Sushi restaurant in Kikuyo.",
+     "source_url": "https://www.openstreetmap.org/node/2522810720",
+     "page": "https://bokenjapan.com/kumamoto/kikuyo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi - \"Madoka'",
+     "name_en": "Sushi - \"Madoka'",
+     "description": "Sushi restaurant in Kikuyo.",
+     "source_url": "https://www.openstreetmap.org/node/2527305854",
      "page": "https://bokenjapan.com/kumamoto/kikuyo/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -6032,6 +7032,14 @@
      "name_ja": "CANDEO HOTELS（カンデオホテルズ）菊陽熊本空港",
      "description": "Accommodation in Kikuyo.",
      "source_url": "https://www.jalan.net/yad373774/",
+     "page": "https://bokenjapan.com/kumamoto/kikuyo/stay/"
+    },
+    {
+     "name": "Teru Kumamoto Club Kumamoto Kenshu Senta",
+     "name_en": "Teru Kumamoto Club Kumamoto Kenshu Senta",
+     "name_ja": "テル熊本クラブ熊本研修センター",
+     "description": "Hotel in Kikuyo.",
+     "source_url": "https://www.openstreetmap.org/node/2521691136",
      "page": "https://bokenjapan.com/kumamoto/kikuyo/stay/"
     }
    ]
@@ -6397,7 +7405,7 @@
     "lat": 32.8862622,
     "lon": 130.7897372
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Classino Marche",
@@ -6454,6 +7462,15 @@
      "category": "Cafe"
     },
     {
+     "name": "Kumamoto Milk",
+     "name_en": "Kumamoto Milk",
+     "name_ja": "熊本ミルク",
+     "description": "Cafe in Koshi.",
+     "source_url": "https://www.openstreetmap.org/way/1442018334",
+     "page": "https://bokenjapan.com/kumamoto/koshi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Tengo Shokudo",
      "name_en": "Tengo Shokudo",
      "name_ja": "天郷食堂",
@@ -6468,6 +7485,33 @@
      "name_ja": "華乃家",
      "description": "Shokudo and hamburg steak in Koshi.",
      "source_url": "https://tabelog.com/kumamoto/A4301/A430104/43010678/",
+     "page": "https://bokenjapan.com/kumamoto/koshi/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "name_ja": "マクドナルド",
+     "description": "Burger fast-food restaurant in Koshi.",
+     "source_url": "https://www.openstreetmap.org/node/13142434625",
+     "page": "https://bokenjapan.com/kumamoto/koshi/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "MOS Burger",
+     "name_en": "MOS Burger",
+     "name_ja": "モスバーガー",
+     "description": "Burger fast-food restaurant in Koshi. Open daily 09:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/13110009031",
+     "page": "https://bokenjapan.com/kumamoto/koshi/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Sukiya",
+     "name_en": "Sukiya",
+     "name_ja": "すき家",
+     "description": "Fast-food restaurant in Koshi. Open daily 04:00-03:00.",
+     "source_url": "https://www.openstreetmap.org/node/13446276139",
      "page": "https://bokenjapan.com/kumamoto/koshi/eat/casual/",
      "category": "Casual"
     },
@@ -6499,6 +7543,15 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Chinese restaurant in Koshi",
+     "name_en": "Chinese restaurant in Koshi",
+     "name_ja": "中華料理「獅子王」",
+     "description": "Chinese restaurant in Koshi.",
+     "source_url": "https://www.openstreetmap.org/node/2527305856",
+     "page": "https://bokenjapan.com/kumamoto/koshi/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Curry restaurant in Koshi",
      "name_en": "Curry restaurant in Koshi",
      "name_ja": "ガネーシャ",
@@ -6508,11 +7561,29 @@
      "category": "Curry"
     },
     {
+     "name": "Indo Curry Restaurant Namasute Koshi Branch",
+     "name_en": "Indo Curry Restaurant Namasute Koshi Branch",
+     "name_ja": "インドカレーレストラン ナマステ 合志店",
+     "description": "Indian restaurant in Koshi.",
+     "source_url": "https://www.openstreetmap.org/node/7068626086",
+     "page": "https://bokenjapan.com/kumamoto/koshi/eat/curry/",
+     "category": "Curry"
+    },
+    {
      "name": "Caravan",
      "name_en": "Caravan",
      "name_ja": "キャラバン",
      "description": "Caravan — western cuisine and dining bar in Koshi, Kumamoto.",
      "source_url": "https://tabelog.com/kumamoto/A4301/A430104/43000265/",
+     "page": "https://bokenjapan.com/kumamoto/koshi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Joyfull",
+     "name_en": "Joyfull",
+     "name_ja": "ジョイフル",
+     "description": "Western-style restaurant in Koshi. Open daily 08:00-25:00.",
+     "source_url": "https://www.openstreetmap.org/node/13142762339",
      "page": "https://bokenjapan.com/kumamoto/koshi/eat/european/",
      "category": "European"
     },
@@ -6558,6 +7629,33 @@
      "name_ja": "とんかつ 正",
      "description": "Tonkatsu Tadashi — tonkatsu and katsudon restaurant in Koshi, Kumamoto.",
      "source_url": "https://tabelog.com/kumamoto/A4301/A430104/43017697/",
+     "page": "https://bokenjapan.com/kumamoto/koshi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku kanoya",
+     "name_en": "Yakiniku kanoya",
+     "name_ja": "焼肉kanoya",
+     "description": "Barbecue restaurant in Koshi. Open daily 11:00-15:00, 17:30-21:30; closed Wed.",
+     "source_url": "https://yakiniku-kanoya.com/",
+     "page": "https://bokenjapan.com/kumamoto/koshi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "KFC",
+     "name_en": "KFC",
+     "name_ja": "ケンタッキーフライドチキン",
+     "description": "Chicken restaurant in Koshi. Open daily 10:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/13110009029",
+     "page": "https://bokenjapan.com/kumamoto/koshi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Nabeshima",
+     "name_en": "Yakiniku Nabeshima",
+     "name_ja": "焼肉なべしま",
+     "description": "Barbecue restaurant in Koshi. Open daily 11:00-21:30.",
+     "source_url": "https://www.openstreetmap.org/node/13110009038",
      "page": "https://bokenjapan.com/kumamoto/koshi/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -6616,6 +7714,60 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Hanamarudon",
+     "name_en": "Hanamarudon",
+     "name_ja": "はなまるうどん",
+     "description": "Udon restaurant in Koshi. Open daily 10:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/13437725114",
+     "page": "https://bokenjapan.com/kumamoto/koshi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Masumoto",
+     "name_en": "Masumoto",
+     "name_ja": "桝元",
+     "description": "Ramen restaurant in Koshi. Open daily 11:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/13142777824",
+     "page": "https://bokenjapan.com/kumamoto/koshi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menba Tadokoro Shoten",
+     "name_en": "Menba Tadokoro Shoten",
+     "name_ja": "麺場 田所商店",
+     "description": "Ramen restaurant in Koshi. Open daily 11:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/13110009040",
+     "page": "https://bokenjapan.com/kumamoto/koshi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Rairai Tei",
+     "name_en": "Ramen Rairai Tei",
+     "name_ja": "ラーメン来来亭",
+     "description": "Noodle restaurant in Koshi. Open daily 11:00-24:00.",
+     "source_url": "https://www.openstreetmap.org/node/10538331932",
+     "page": "https://bokenjapan.com/kumamoto/koshi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Restaurant in Koshi",
+     "name_en": "Restaurant in Koshi",
+     "name_ja": "オリオン",
+     "description": "Restaurant in Koshi. Open Sun, Sat 11:00-14:00, 17:00-19:30; Tue-Thu 11:00-14:00, 17:00-20:00; closed Mon, Fri.",
+     "source_url": "https://www.openstreetmap.org/node/13514738646",
+     "page": "https://bokenjapan.com/kumamoto/koshi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Syabuyo",
+     "name_en": "Syabuyo",
+     "name_ja": "しゃぶ葉",
+     "description": "Restaurant in Koshi. Open daily 11:00-23:30.",
+     "source_url": "https://www.openstreetmap.org/node/13101028083",
+     "page": "https://bokenjapan.com/kumamoto/koshi/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Agetate",
      "name_en": "Agetate",
      "name_ja": "あげたて 光の森合志店",
@@ -6625,11 +7777,38 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Goto Iori",
+     "name_en": "Goto Iori",
+     "name_ja": "五島庵",
+     "description": "Japanese restaurant in Koshi. Open daily 11:00-15:00; daily 17:30-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/13110009039",
+     "page": "https://bokenjapan.com/kumamoto/koshi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yayoiken",
+     "name_en": "Yayoiken",
+     "name_ja": "やよい軒",
+     "description": "Japanese restaurant in Koshi.",
+     "source_url": "https://www.openstreetmap.org/node/13167600599",
+     "page": "https://bokenjapan.com/kumamoto/koshi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Kaisen Shokudo Nanaya",
      "name_en": "Kaisen Shokudo Nanaya",
      "name_ja": "海鮮食堂 七屋",
      "description": "Kaisen Shokudo Nanaya — seafood restaurant in Koshi, Kumamoto.",
      "source_url": "https://tabelog.com/kumamoto/A4301/A430104/43015630/",
+     "page": "https://bokenjapan.com/kumamoto/koshi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Wakatake Maru",
+     "name_en": "Wakatake Maru",
+     "name_ja": "若竹丸",
+     "description": "Sushi restaurant in Koshi.",
+     "source_url": "https://www.openstreetmap.org/node/13142434627",
      "page": "https://bokenjapan.com/kumamoto/koshi/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -6658,6 +7837,15 @@
      "source_url": "https://tabelog.com/kumamoto/A4301/A430104/43006448/",
      "page": "https://bokenjapan.com/kumamoto/koshi/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Okashi no Kaoriume",
+     "name_en": "Okashi no Kaoriume",
+     "name_ja": "お菓子の香梅",
+     "description": "Sweets shop in Koshi. Open daily 09:00-19:00.",
+     "source_url": "https://www.openstreetmap.org/node/13130657372",
+     "page": "https://bokenjapan.com/kumamoto/koshi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "sights": [
@@ -6681,6 +7869,13 @@
      "name_ja": "HOTEL AZ 熊本合志北バイパス店",
      "description": "Lodging facility in Koshi.",
      "source_url": "https://www.jalan.net/yad339093/",
+     "page": "https://bokenjapan.com/kumamoto/koshi/stay/"
+    },
+    {
+     "name": "airbnb 2745-16 Suya",
+     "name_en": "airbnb 2745-16 Suya",
+     "description": "Guest house in Koshi.",
+     "source_url": "https://www.openstreetmap.org/node/11849829995",
      "page": "https://bokenjapan.com/kumamoto/koshi/stay/"
     }
    ]
@@ -6848,7 +8043,7 @@
     "lat": 32.8032975,
     "lon": 130.7080255
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Fuji Bambi",
@@ -7418,6 +8613,94 @@
    ],
    "food": [
     {
+     "name": "ITALIAN STYLE TAO CAFE",
+     "name_en": "ITALIAN STYLE TAO CAFE",
+     "description": "Cafe in Kitaku, Kumamoto. Open daily 10:00-21:00; Fri, Sat 10:00-23:00.",
+     "source_url": "https://www.tao.co.jp/contents/category/cafe/",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Sakura Cafe",
+     "name_en": "Sakura Cafe",
+     "name_ja": "桜Café",
+     "description": "Cafe in Chuoku, Kumamoto. Open daily 11:00-16:00.",
+     "source_url": "https://www.pref.kumamoto.jp/site/museum/52540.html",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kokin-Denju-no-Ma",
+     "name_en": "Kokin-Denju-no-Ma",
+     "name_ja": "古今伝授の間",
+     "description": "Cafe in Kumamoto.",
+     "source_url": "https://www.openstreetmap.org/way/277383480",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kichiji Sono (KICHIJIEN cafe)",
+     "name_en": "Kichiji Sono (KICHIJIEN cafe)",
+     "name_ja": "吉次園 (KICHIJIEN cafe)",
+     "description": "Cafe in Kitaku, Kumamoto.",
+     "source_url": "https://www.kichijien.jp/cafe_shop.html",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Grand café",
+     "name_en": "Grand cafe",
+     "description": "Cafe in Kumamoto. Open daily 06:30-09:30.",
+     "source_url": "https://www.openstreetmap.org/node/13001752492",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Hokka Hokka Tei",
+     "name_en": "Hokka Hokka Tei",
+     "name_ja": "ほっかほっか亭",
+     "description": "Fast-food restaurant in Chuoku, Kumamoto. Open daily 09:00-21:00.",
+     "source_url": "https://as.chizumaru.com/hurxleygroup/detailMap?account=hurxleygroup&amp;accmd=0&amp;adr=43101&amp;bid=430085&amp;pgret=2",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Sukiya KumamotoNonaka branch",
+     "name_en": "Sukiya KumamotoNonaka branch",
+     "name_ja": "すき家 熊本野中店",
+     "description": "Fast-food restaurant in Kumamoto. Open daily 04:00-03:00.",
+     "source_url": "https://maps.sukiya.jp/jp/detail/1932.html",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Chuka Marumi",
+     "name_en": "Chuka Marumi",
+     "name_ja": "中華まるみ",
+     "description": "Chinese restaurant in Kitaku, Kumamoto.",
+     "source_url": "https://www.i-marumi.jp/",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Korantei",
+     "name_en": "Korantei",
+     "name_ja": "紅蘭亭",
+     "description": "Chinese restaurant in Kumamoto.",
+     "source_url": "https://www.kourantei.com/",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Taiwan Ryori Eisho Heri",
+     "name_en": "Taiwan Ryori Eisho Heri",
+     "name_ja": "台湾料理 栄昌縁",
+     "description": "Taiwanese and Chinese restaurant in Chuoku, Kumamoto. Open daily 11:00-15:00, 17:00-24:00.",
+     "source_url": "https://eishoen.machipeta.site/",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Sri Lanka Kumamoto",
      "name_en": "Sri Lanka Kumamoto",
      "name_ja": "スリランカくまもと",
@@ -7474,6 +8757,24 @@
      "name_ja": "花小町",
      "description": "Innovative, Western, and French cuisine.",
      "source_url": "https://tabelog.com/kumamoto/A4301/A430104/43002160/",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Coco's KumamotoKamishiro branch",
+     "name_en": "Coco's KumamotoKamishiro branch",
+     "name_ja": "ココス 熊本上代店",
+     "description": "Western-style restaurant in Kumamoto. Open daily 10:00-00:00.",
+     "source_url": "https://maps.cocos-jpn.co.jp/jp/detail/3078.html",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Italian restaurant in Kumamoto",
+     "name_en": "Italian restaurant in Kumamoto",
+     "name_ja": "サイゼリヤ",
+     "description": "Italian restaurant in Higashiku Ue Nambu, Kumamoto. Open daily 11:00-21:30.",
+     "source_url": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=1422",
      "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/european/",
      "category": "European"
     },
@@ -7550,6 +8851,15 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Mimura",
+     "name_en": "Mimura",
+     "name_ja": "大衆馬肉酒場 三村",
+     "description": "Barbecue restaurant in Kumamoto.",
+     "source_url": "https://www.openstreetmap.org/node/12387934719",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Sekka Sanbo",
      "name_en": "Sekka Sanbo",
      "name_ja": "雪花山房",
@@ -7566,6 +8876,429 @@
      "source_url": "https://tabelog.com/kumamoto/A4301/A430101/43000091/",
      "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
      "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Niboraya",
+     "name_en": "Niboraya",
+     "name_ja": "にぼらや",
+     "description": "Noodle restaurant in Kumamoto. Open daily 11:00-26:30.",
+     "source_url": "https://www.niboraya.com",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Akagumi Ramen",
+     "name_en": "Akagumi Ramen",
+     "name_ja": "ラーメン赤組",
+     "description": "Ramen restaurant in Kumamoto. Open daily 11:00-24:00.",
+     "source_url": "https://www.openstreetmap.org/node/5546864456",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Dento Kumamoto Tonkotsu Den",
+     "name_en": "Dento Kumamoto Tonkotsu Den",
+     "name_ja": "伝統熊本豚骨 伝",
+     "description": "Noodle restaurant in Kumamoto. Open daily 11:30-03:00.",
+     "source_url": "https://www.openstreetmap.org/node/5546864462",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "FUUKI Shitatori Branch by Fuki Seimen Tokoro",
+     "name_en": "FUUKI Shitatori Branch by Fuki Seimen Tokoro",
+     "name_ja": "FUUKI 下通店by富貴製麺所",
+     "description": "Noodle restaurant in Kumamoto. Open Tue-Sun 11:30-15:00, 17:30-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/10243649277",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Gekikara Michi Shinshin Men",
+     "name_en": "Gekikara Michi Shinshin Men",
+     "name_ja": "激辛道 辛辛麺",
+     "description": "Noodle restaurant in Kumamoto. Open Mon-Fri 11:30-15:00, 18:00-21:00; Sat 11:30-15:00; closed public holidays.",
+     "source_url": "https://www.openstreetmap.org/node/9898672559",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Gyorai Ansei Machi Branch",
+     "name_en": "Gyorai Ansei Machi Branch",
+     "name_ja": "魚雷 安政町店",
+     "description": "Noodle restaurant in Kumamoto. Open Mon-Fri 11:30-15:00, 21:00-27:00; Sat 21:00-27:00; closed Sun.",
+     "source_url": "https://www.openstreetmap.org/node/5546864467",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Hakata Ramen Itto Tomoshibi",
+     "name_en": "Hakata Ramen Itto Tomoshibi",
+     "name_ja": "博多ラーメン一燈灯",
+     "description": "Noodle restaurant in Kumamoto. Open Mon-Sun, public holidays 11:00-24:00; Fri, Sat 11:00-26:00.",
+     "source_url": "https://www.openstreetmap.org/node/10187391580",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Hakata Ramen Ushijima",
+     "name_en": "Hakata Ramen Ushijima",
+     "name_ja": "博多ラーメン うしじま",
+     "description": "Noodle restaurant in Kumamoto.",
+     "source_url": "https://www.openstreetmap.org/node/5546875775",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Noodle restaurant in Kumamoto (#1)",
+     "name_en": "Noodle restaurant in Kumamoto (#1)",
+     "name_ja": "博多らーめんうしじま2号店",
+     "description": "Noodle restaurant in Kumamoto. Open daily 11:00-15:00, 18:00-21:00; closed Tue; public holidays 11:00-16:00.",
+     "source_url": "https://www.openstreetmap.org/node/10129323661",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Noodle restaurant in Kumamoto (#2)",
+     "name_en": "Noodle restaurant in Kumamoto (#2)",
+     "name_ja": "火の国文龍 総本店",
+     "description": "Noodle restaurant in Kumamoto. Open daily 11:30-15:00, 18:00-22:30; closed Tue.",
+     "source_url": "https://www.openstreetmap.org/node/10129362051",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ippuku Ramen",
+     "name_en": "Ippuku Ramen",
+     "name_ja": "いっぷくラーメン",
+     "description": "Noodle restaurant in Kumamoto. Open Mon-Sat 11:00-16:00, 18:00-22:00; Sun, public holidays 11:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/10243667337",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Itto Tomoshibi Shiromicho Branch",
+     "name_en": "Itto Tomoshibi Shiromicho Branch",
+     "name_ja": "一燈灯 城見町店",
+     "description": "Noodle restaurant in Kumamoto. Open Mon-Thu 11:30-26:00; Fri, Sat, public holidays 11:30-28:00.",
+     "source_url": "https://www.openstreetmap.org/node/10187431845",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Noodle restaurant in Kumamoto (#7)",
+     "name_en": "Noodle restaurant in Kumamoto (#7)",
+     "name_ja": "ジンダギースパイス",
+     "description": "Noodle restaurant in Kumamoto. Open daily 11:30-14:45, 18:00-21:00; closed Tue.",
+     "source_url": "https://www.openstreetmap.org/node/9913601106",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kumamoto Abura Daigaku",
+     "name_en": "Kumamoto Abura Daigaku",
+     "name_ja": "熊本油大学",
+     "description": "Noodle restaurant in Kumamoto. Open Mon-Sat 11:30-14:20, 18:00-20:45.",
+     "source_url": "https://www.openstreetmap.org/node/10076116474",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kumamoto Abura Daigakuin",
+     "name_en": "Kumamoto Abura Daigakuin",
+     "name_ja": "熊本油大學院",
+     "description": "Noodle restaurant in Kumamoto. Open Mon-Sat 11:30-14:20, 18:00-20:45.",
+     "source_url": "https://www.openstreetmap.org/node/10170405686",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kumamoto Ramen Specialty Restaurant, Kokutei Rikigo Branch",
+     "name_en": "Kumamoto Ramen Specialty Restaurant, Kokutei Rikigo Branch",
+     "name_ja": "熊本ラーメン専門店 黒亭 力合店",
+     "description": "Ramen restaurant in Kumamoto. Open Thu-Tue 10:50-19:00.",
+     "source_url": "https://www.openstreetmap.org/node/13205129102",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kurotei Ramen",
+     "name_en": "Kurotei Ramen",
+     "name_ja": "黑亭拉麵",
+     "description": "Noodle restaurant in Kumamoto. Open Mon-Thu 10:30-22:30; Fri-Sat 10:30-23:30; Sun 10:30-20:30.",
+     "source_url": "https://www.openstreetmap.org/node/5536933722",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kyuryu Kengun Branch",
+     "name_en": "Kyuryu Kengun Branch",
+     "name_ja": "九龍健軍店",
+     "description": "Noodle restaurant in Kumamoto. Open daily 11:30-14:45, 18:00-22:30; closed Tue.",
+     "source_url": "https://www.openstreetmap.org/node/10187448353",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Maruichi Shokudo",
+     "name_en": "Maruichi Shokudo",
+     "name_ja": "マルイチ食堂",
+     "description": "Noodle restaurant in Kumamoto. Open daily 19:00-03:00.",
+     "source_url": "https://www.openstreetmap.org/node/5546864463",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Noodle restaurant in Kumamoto (#3)",
+     "name_en": "Noodle restaurant in Kumamoto (#3)",
+     "name_ja": "麺商人",
+     "description": "Noodle restaurant in Kumamoto. Open daily 11:00-15:00; closed Thu.",
+     "source_url": "https://www.openstreetmap.org/node/10170405685",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menba Tadokoro Shoten",
+     "name_en": "Menba Tadokoro Shoten",
+     "name_ja": "麺場 田所商店",
+     "description": "Noodle restaurant in Kumamoto. Open daily 11:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/10243649279",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Mentokoro Gyorai Higashi Baipasu Branch",
+     "name_en": "Mentokoro Gyorai Higashi Baipasu Branch",
+     "name_ja": "麺処 魚雷 東バイパス店",
+     "description": "Noodle restaurant in Kumamoto. Open daily 11:30-14:45, 17:30-20:30; closed Tue.",
+     "source_url": "https://www.openstreetmap.org/node/9913601105",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menya Ibuki",
+     "name_en": "Menya Ibuki",
+     "name_ja": "麺屋いぶき",
+     "description": "Noodle restaurant in Kumamoto. Open Tue-Sat 11:30-15:00, 18:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/10076150540",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menya Kamome",
+     "name_en": "Menya Kamome",
+     "name_ja": "麺屋 かもめ",
+     "description": "Noodle restaurant in Kumamoto. Open Mon-Sat 20:00-03:30; Sun 18:00-01:00.",
+     "source_url": "https://www.openstreetmap.org/node/10243667338",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menya Nikutora",
+     "name_en": "Menya Nikutora",
+     "name_ja": "麺や 肉虎",
+     "description": "Noodle restaurant in Kumamoto. Open daily 11:00-21:30.",
+     "source_url": "https://www.openstreetmap.org/node/5546875776",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menya Sakimasa",
+     "name_en": "Menya Sakimasa",
+     "name_ja": "麺屋サキマサ",
+     "description": "Noodle restaurant in Kumamoto. Open daily 11:00-15:00.",
+     "source_url": "https://www.openstreetmap.org/node/10129362050",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "RamanShokudo Rokunoya Kumamotonihongi branch",
+     "name_en": "RamanShokudo Rokunoya Kumamotonihongi branch",
+     "name_ja": "らーめん食堂 ろくの家 熊本二本木店",
+     "description": "Ramen restaurant in Kumamoto. Open daily 11:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/13204989001",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Ippaku",
+     "name_en": "Ramen Ippaku",
+     "name_ja": "らぁ麺 一白",
+     "description": "Noodle restaurant in Kumamoto. Open daily 11:00-15:00, 17:00-21:30; closed Wed.",
+     "source_url": "https://www.openstreetmap.org/node/10243649280",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Kenjiro",
+     "name_en": "Ramen Kenjiro",
+     "name_ja": "ラーメン けんじろう",
+     "description": "Noodle restaurant in Kumamoto. Open Tue-Fri 11:30-15:00, 18:00-21:00; Sat-Sun 12:00-15:00; public holidays 12:00-15:00.",
+     "source_url": "https://www.openstreetmap.org/node/10076167276",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Noodle restaurant in Kumamoto (#4)",
+     "name_en": "Noodle restaurant in Kumamoto (#4)",
+     "name_ja": "ラーメン樹",
+     "description": "Noodle restaurant in Kumamoto. Open daily 11:30-15:00, 18:00-21:00; closed Thu.",
+     "source_url": "https://www.openstreetmap.org/node/10170405688",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Kokutei",
+     "name_en": "Ramen Kokutei",
+     "name_ja": "熊本ラーメン 黒亭",
+     "description": "Ramen restaurant in Kumamoto. Open daily 10:30-20:30; closed Thu.",
+     "source_url": "https://www.openstreetmap.org/node/4588370889",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Rinki",
+     "name_en": "Ramen Rinki",
+     "name_ja": "らぁめん臨機",
+     "description": "Noodle restaurant in Kumamoto. Open daily 11:30-15:00, 17:00-21:00; closed Wed, Thu.",
+     "source_url": "https://www.openstreetmap.org/node/10226803698",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Ryu no Ie",
+     "name_en": "Ramen Ryu no Ie",
+     "name_ja": "ラーメン龍の家",
+     "description": "Noodle restaurant in Kumamoto. Open Mon-Fri 18:00-24:00; Sat, Sun, public holidays 11:00-15:00, 18:00-24:00; closed Wed.",
+     "source_url": "https://www.openstreetmap.org/node/5179071721",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Tsumugi",
+     "name_en": "Ramen Tsumugi",
+     "name_ja": "らぁ麺 紬",
+     "description": "Noodle restaurant in Kumamoto. Open Mon-Sat 20:00-26:00; Mon-Fri 11:30-15:00.",
+     "source_url": "https://www.openstreetmap.org/node/10243649278",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Yatake Tonbo",
+     "name_en": "Ramen Yatake Tonbo",
+     "name_ja": "らーめんや竹とんぼ",
+     "description": "Noodle restaurant in Kumamoto. Open daily 11:30-14:30, 18:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/10129344291",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Yoko Dainisho",
+     "name_en": "Ramen Yoko Dainisho",
+     "name_ja": "ラーメン 陽向第二章",
+     "description": "Noodle restaurant in Kumamoto. Open daily 11:00-20:00; closed Tue.",
+     "source_url": "https://www.openstreetmap.org/node/10112772957",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ryu no Ie",
+     "name_en": "Ryu no Ie",
+     "name_ja": "龍の家",
+     "description": "Noodle restaurant in Kumamoto. Open daily 11:00-22:00; closed Wed.",
+     "source_url": "https://www.openstreetmap.org/node/5546875777",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Taichi Shoten Hamasen Branch",
+     "name_en": "Taichi Shoten Hamasen Branch",
+     "name_ja": "太一商店 浜線店",
+     "description": "Noodle restaurant in Kumamoto. Open daily 10:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/10112545199",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Taichi Shoten Oyama Branch",
+     "name_en": "Taichi Shoten Oyama Branch",
+     "name_ja": "太一商店 小山店",
+     "description": "Noodle restaurant in Kumamoto. Open daily 10:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/5546875774",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tengaiten",
+     "name_en": "Tengaiten",
+     "name_ja": "天外天",
+     "description": "Noodle restaurant in Chuoku, Kumamoto. Open Mon-Sat 18:00-02:00.",
+     "source_url": "https://www.openstreetmap.org/node/5117085021",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tokyo Aburaso Main Store Kumamoto Kumi",
+     "name_en": "Tokyo Aburaso Main Store Kumamoto Kumi",
+     "name_ja": "東京油総本店 熊本組",
+     "description": "Noodle restaurant in Kumamoto. Open daily 11:00-27:00.",
+     "source_url": "https://www.openstreetmap.org/node/10187431846",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Noodle restaurant in Kumamoto (#6)",
+     "name_en": "Noodle restaurant in Kumamoto (#6)",
+     "name_ja": "つけ麺 魚雷",
+     "description": "Noodle restaurant in Kumamoto. Open daily 11:30-15:00, 18:30-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/5546864457",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Noodle restaurant in Kumamoto (#5)",
+     "name_en": "Noodle restaurant in Kumamoto (#5)",
+     "name_ja": "つけ麺 炎馬",
+     "description": "Noodle restaurant in Kumamoto. Open Tue-Sat 11:30-14:30, 18:00-21:30.",
+     "source_url": "https://www.openstreetmap.org/node/10170405689",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon West",
+     "name_en": "Udon West",
+     "name_ja": "うどんウエスト",
+     "description": "Udon restaurant in Kumamoto. Open daily 11:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/5348347822",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Yokohama Kakei Ramen Suzuki Ieai",
+     "name_en": "Yokohama Kakei Ramen Suzuki Ieai",
+     "name_ja": "横浜家系ラーメン すずき家愛",
+     "description": "Noodle restaurant in Kumamoto. Open Tue-Sun 11:30-14:30, 18:30-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/10226786718",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Icho Jijo Shikisan Cho",
+     "name_en": "Icho Jijo Shikisan Cho",
+     "name_ja": "銀杏 自助式餐廳",
+     "description": "Restaurant in Kumamoto. Open Sun-Thu 11:00-15:00, 17:00-20:00; Fri-Sat 11:00-15:00, 17:00-21:00.",
+     "source_url": "https://www.kyusanko.co.jp/retail/ginnan/",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Kumamoto",
+     "name_en": "Restaurant in Kumamoto",
+     "name_ja": "カメリア",
+     "description": "Restaurant in Kitaku, Kumamoto. Open daily 11:00-22:00.",
+     "source_url": "https://camelliarestaurant.net/",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/other/",
+     "category": "Other"
     },
     {
      "name": "Japanese Cuisine Gokan",
@@ -7604,6 +9337,114 @@
      "category": "Other Japanese"
     },
     {
+     "name": "HottoMotto Tasaki branch",
+     "name_en": "HottoMotto Tasaki branch",
+     "name_ja": "ほっともっと 田崎店",
+     "description": "Japanese restaurant in Kumamoto. Open daily 09:00-22:00.",
+     "source_url": "https://store.hottomotto.com/b/hottomotto/info/62460/",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Joyfull Kumamoto Shintsuchikawara branch",
+     "name_en": "Joyfull Kumamoto Shintsuchikawara branch",
+     "name_ja": "ジョイフル 熊本新土河原店",
+     "description": "Japanese restaurant in Kumamoto. Open 24 hours, every day.",
+     "source_url": "https://www.joyfull.co.jp/shop/archives/609",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Kumamoto",
+     "name_en": "Japanese restaurant in Kumamoto",
+     "name_ja": "大阪王将",
+     "description": "Japanese restaurant in Kumamoto. Open daily 11:00-23:00.",
+     "source_url": "https://www.osaka-ohsho.com/store/detail.php?area=kumamoto&amp;id=kumamoto_heisei",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ringerhut KumamotoTasaki branch",
+     "name_en": "Ringerhut KumamotoTasaki branch",
+     "name_ja": "リンガーハット 熊本田崎店",
+     "description": "Japanese restaurant in Kumamoto. Open daily 10:30-23:00.",
+     "source_url": "https://shop.ringerhut.jp/detail/r0319/",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shirafuji branch, Hotto Motto",
+     "name_en": "Shirafuji branch, Hotto Motto",
+     "name_ja": "ほっともっと 白藤店",
+     "description": "Japanese restaurant in Kumamoto. Open daily 09:00-21:00.",
+     "source_url": "https://store.hottomotto.com/b/hottomotto/info/62749/",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Wakuta",
+     "name_en": "Wakuta",
+     "name_ja": "和久田",
+     "description": "Japanese restaurant in Chuoku, Kumamoto.",
+     "source_url": "http://www.wakuda.net/",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yayoiken",
+     "name_en": "Yayoiken",
+     "name_ja": "やよい軒",
+     "description": "Japanese restaurant in Kumamoto. Open daily 06:00-04:00.",
+     "source_url": "https://store.yayoiken.com/b/yayoiken/info/1058/",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yayoitei KumamotoTasaki branch",
+     "name_en": "Yayoitei KumamotoTasaki branch",
+     "name_ja": "やよい軒 熊本田崎店",
+     "description": "Japanese restaurant in Kumamoto. Open daily 10:00-23:00.",
+     "source_url": "https://store.yayoiken.com/b/yayoiken/info/2060/",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ganjin Shokudo",
+     "name_en": "Ganjin Shokudo",
+     "name_ja": "鑑真食堂",
+     "description": "Japanese restaurant in Kumamoto.",
+     "source_url": "https://www.openstreetmap.org/node/11927876970",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Katsuretsu Tei",
+     "name_en": "Katsuretsu Tei",
+     "name_ja": "勝烈亭",
+     "description": "Japanese restaurant in Kumamoto. Open daily 11:30-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/4663779892",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "ROYAL",
+     "name_en": "ROYAL",
+     "name_ja": "ロイヤル",
+     "description": "Japanese restaurant in Kumamoto.",
+     "source_url": "https://www.openstreetmap.org/node/7052408734",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shirafuji branch, Okonomiyaki Shimada",
+     "name_en": "Shirafuji branch, Okonomiyaki Shimada",
+     "name_ja": "お好み焼シマダ 白藤店",
+     "description": "Japanese restaurant in Kumamoto. Open Tue-Sun 11:00-20:30.",
+     "source_url": "https://www.openstreetmap.org/node/13205205803",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Murakami",
      "name_en": "Murakami",
      "name_ja": "むら上",
@@ -7629,6 +9470,42 @@
      "source_url": "https://tabelog.com/kumamoto/A4301/A430101/43001477/",
      "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/seafood/",
      "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Higashi Sushi",
+     "name_en": "Higashi Sushi",
+     "name_ja": "東寿司",
+     "description": "Sushi restaurant in Chuoku, Kumamoto. Open Thu-Tue 11:00-14:30, 17:00-22:00.",
+     "source_url": "http://www.suizenji-azumazushi.jp/",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Gyoko Chokuso Mekiki Kino Ginji",
+     "name_en": "Gyoko Chokuso Mekiki Kino Ginji",
+     "name_ja": "漁港直送 目利きの銀次",
+     "description": "Seafood restaurant in Kumamoto. Open 24 hours, every day.",
+     "source_url": "https://www.openstreetmap.org/node/4398192190",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Zammai",
+     "name_en": "Sushi Zammai",
+     "name_ja": "すしざんまい",
+     "description": "Sushi restaurant in Kumamoto. Open 24 hours, every day.",
+     "source_url": "https://www.openstreetmap.org/node/4397016190",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Shirafuji branch, Chateraise",
+     "name_en": "Shirafuji branch, Chateraise",
+     "name_ja": "シャトレーゼ 白藤店",
+     "description": "Sweets shop in Kumamoto. Open daily 09:00-21:00.",
+     "source_url": "https://www.chateraise.co.jp/ec/shop/o669220",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "sights": [
@@ -8180,6 +10057,148 @@
      "description": "And Confi Hotel Kumamoto Castle View, a hotel in Kumamoto.",
      "source_url": "https://www.jalan.net/yad339412/",
      "page": "https://bokenjapan.com/kumamoto/kumamoto/stay/"
+    },
+    {
+     "name": "Dormy Inn Kumamoto Natural Hot Spring",
+     "name_en": "Dormy Inn Kumamoto Natural Hot Spring",
+     "description": "Hotel in Kumamoto.",
+     "source_url": "https://dormy-hotels.com/dormyinn/hotels/kumamoto/",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/stay/"
+    },
+    {
+     "name": "Hotel Mystays",
+     "name_en": "Hotel Mystays",
+     "name_ja": "ホテルマイステイズ",
+     "description": "Hotel in Kumamoto.",
+     "source_url": "https://iconia.co.jp/hotel-mystays-kumamoto-riverside-kumamoto/",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/stay/"
+    },
+    {
+     "name": "Onyado Nono Kumamoto",
+     "name_en": "Onyado Nono Kumamoto",
+     "name_ja": "御宿 野乃熊本",
+     "description": "Hotel in Kumamoto (Shitatori).",
+     "source_url": "https://dormy-hotels.com/dormyinn/hotels/nono_kumamoto/",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/stay/"
+    },
+    {
+     "name": "Kumamoto Washington Hotel Plaza",
+     "name_en": "Kumamoto Washington Hotel Plaza",
+     "name_ja": "熊本ワシントンホテルプラザ",
+     "description": "Hotel in Kumamoto.",
+     "source_url": "https://washington.jp/",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/stay/"
+    },
+    {
+     "name": "Your Room Kumamoto Eki",
+     "name_en": "Your Room Kumamoto Eki",
+     "name_ja": "Your Room 熊本駅",
+     "description": "Hotel in Kumamoto.",
+     "source_url": "https://yroom.jp/",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/stay/"
+    },
+    {
+     "name": "OMO5 Kumamoto",
+     "name_en": "OMO5 Kumamoto",
+     "name_ja": "OMO5熊本",
+     "description": "Hotel in Kumamoto.",
+     "source_url": "https://hoshinoresorts.com/en/hotels/omo5kumamoto/",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/stay/"
+    },
+    {
+     "name": "Ana Crowne Plaza Hotel",
+     "name_en": "Ana Crowne Plaza Hotel",
+     "name_ja": "熊本全日空ホテル ニュースカイ",
+     "description": "Hotel in Kumamoto.",
+     "source_url": "https://www.openstreetmap.org/way/489068298",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/stay/"
+    },
+    {
+     "name": "Dyeing and Hostel Nakashimaya",
+     "name_en": "Dyeing and Hostel Nakashimaya",
+     "name_ja": "Dyeing and Hostel Nakashimaya (中島屋)",
+     "description": "Hostel in Kumamoto.",
+     "source_url": "http://nakashimaya.ikidane.com/",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/stay/"
+    },
+    {
+     "name": "Refu Kumamoto",
+     "name_en": "Refu Kumamoto",
+     "name_ja": "レフ熊本",
+     "description": "Hotel in Kumamoto.",
+     "source_url": "https://www.vessel-hotel.jp/ref/kumamoto/",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/stay/"
+    },
+    {
+     "name": "Kumamoto KB Hotel",
+     "name_en": "Kumamoto KB Hotel",
+     "description": "Hotel in Kumamoto.",
+     "source_url": "https://www.kbhotel.jp/",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/stay/"
+    },
+    {
+     "name": "Mitsui Garden Hotel Kumamoto",
+     "name_en": "Mitsui Garden Hotel Kumamoto",
+     "name_ja": "三井ガーデンホテル熊本",
+     "description": "Hotel in Kumamoto.",
+     "source_url": "https://www.openstreetmap.org/node/5931261722",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/stay/"
+    },
+    {
+     "name": "Sanruto Kumamoto",
+     "name_en": "Sanruto Kumamoto",
+     "name_ja": "サンルート熊本",
+     "description": "Hotel in Kumamoto.",
+     "source_url": "https://www.openstreetmap.org/node/6150590489",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/stay/"
+    },
+    {
+     "name": "Hotel Nest",
+     "name_en": "Hotel Nest",
+     "name_ja": "チサンホテル熊本",
+     "description": "Hotel in Kumamoto.",
+     "source_url": "https://www.openstreetmap.org/node/1714130765",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/stay/"
+    },
+    {
+     "name": "Toyoko Inn",
+     "name_en": "Toyoko Inn",
+     "name_ja": "東横イン",
+     "description": "Hotel in Kumamoto.",
+     "source_url": "https://www.openstreetmap.org/node/5603043154",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/stay/"
+    },
+    {
+     "name": "APA Hotel",
+     "name_en": "APA Hotel",
+     "name_ja": "アパホテル",
+     "description": "Hotel in Kumamoto.",
+     "source_url": "https://www.openstreetmap.org/node/5931261718",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/stay/"
+    },
+    {
+     "name": "Toyoko Inn",
+     "name_en": "Toyoko Inn",
+     "name_ja": "東横イン 熊本交通センター前",
+     "description": "Hotel in Kumamoto.",
+     "source_url": "https://www.openstreetmap.org/node/5963197086",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/stay/"
+    },
+    {
+     "name": "EXTOL INN",
+     "name_en": "EXTOL INN",
+     "name_ja": "エクストールイン",
+     "description": "Hotel in Kumamoto.",
+     "source_url": "https://www.openstreetmap.org/node/6183332836",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/stay/"
+    },
+    {
+     "name": "Ueki Onsen Ryokan Yayanoyu",
+     "name_en": "Ueki Onsen Ryokan Yayanoyu",
+     "name_ja": "植木温泉旅館ややの湯",
+     "description": "Hotel in Kumamoto.",
+     "source_url": "https://www.openstreetmap.org/node/6429193692",
+     "page": "https://bokenjapan.com/kumamoto/kumamoto/stay/"
     }
    ]
   },
@@ -8202,7 +10221,7 @@
     "lat": 32.791402,
     "lon": 130.816407
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Imoya Chobei",
@@ -8291,6 +10310,15 @@
      "name_en": "Walet",
      "description": "Cafe in Mashiki.",
      "source_url": "https://tabelog.com/kumamoto/A4301/A430103/43006382/",
+     "page": "https://bokenjapan.com/kumamoto/mashiki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Mashiki",
+     "name_en": "Cafe in Mashiki",
+     "name_ja": "サニーズ",
+     "description": "Cafe in Mashiki.",
+     "source_url": "https://www.openstreetmap.org/node/4403591432",
      "page": "https://bokenjapan.com/kumamoto/mashiki/eat/cafe/",
      "category": "Cafe"
     },
@@ -8411,6 +10439,24 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Abura Soba Specialty Shop menxabura",
+     "name_en": "Abura Soba Specialty Shop menxabura",
+     "name_ja": "油そば専門店 menxabura",
+     "description": "Noodle restaurant in Mashiki. Open Tue-Sun 11:00-15:00, 17:00-20:00.",
+     "source_url": "https://www.openstreetmap.org/node/10542560480",
+     "page": "https://bokenjapan.com/kumamoto/mashiki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Fuki Seimen Tokoro",
+     "name_en": "Fuki Seimen Tokoro",
+     "name_ja": "富喜製麺所",
+     "description": "Restaurant in Mashiki.",
+     "source_url": "https://www.openstreetmap.org/node/4403591433",
+     "page": "https://bokenjapan.com/kumamoto/mashiki/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Washoku Rindo",
      "name_en": "Washoku Rindo",
      "name_ja": "和食りんどう",
@@ -8477,6 +10523,15 @@
      "name_ja": "芋屋長兵衛",
      "description": "Japanese sweets and local cuisine in Mashiki.",
      "source_url": "https://tabelog.com/kumamoto/A4301/A430103/43008528/",
+     "page": "https://bokenjapan.com/kumamoto/mashiki/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Fuga",
+     "name_en": "Fuga",
+     "name_ja": "風雅",
+     "description": "Sweets shop in Mashiki.",
+     "source_url": "https://www.openstreetmap.org/node/2025063868",
      "page": "https://bokenjapan.com/kumamoto/mashiki/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -14038,7 +16093,7 @@
     "lat": 32.8779458,
     "lon": 130.868608
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside Station Ozu",
@@ -14162,6 +16217,33 @@
      "category": "Casual"
     },
     {
+     "name": "Fast-food restaurant in Ozumachi",
+     "name_en": "Fast-food restaurant in Ozumachi",
+     "name_ja": "CoCo壱番屋",
+     "description": "Fast-food restaurant in Ozumachi.",
+     "source_url": "https://www.openstreetmap.org/way/413653312",
+     "page": "https://bokenjapan.com/kumamoto/ozumachi/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "name_ja": "マクドナルド",
+     "description": "Burger fast-food restaurant in Ozumachi.",
+     "source_url": "https://www.openstreetmap.org/node/4160433323",
+     "page": "https://bokenjapan.com/kumamoto/ozumachi/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Sukiya",
+     "name_en": "Sukiya",
+     "name_ja": "すき家",
+     "description": "Fast-food restaurant in Ozumachi.",
+     "source_url": "https://www.openstreetmap.org/node/4160502936",
+     "page": "https://bokenjapan.com/kumamoto/ozumachi/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Shunrai",
      "name_en": "Shunrai",
      "name_ja": "春雷",
@@ -14197,6 +16279,15 @@
      "category": "European"
     },
     {
+     "name": "Joyfull",
+     "name_en": "Joyfull",
+     "name_ja": "ジョイフル",
+     "description": "Western-style restaurant in Ozumachi.",
+     "source_url": "https://www.openstreetmap.org/node/4160433882",
+     "page": "https://bokenjapan.com/kumamoto/ozumachi/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Izakaya Efuwan",
      "name_en": "Izakaya Efuwan",
      "name_ja": "居酒屋えふわん",
@@ -14220,6 +16311,15 @@
      "name_ja": "きっちん榮楽",
      "description": "Izakaya in Ozumachi.",
      "source_url": "https://tabelog.com/kumamoto/A4301/A430104/43002883/",
+     "page": "https://bokenjapan.com/kumamoto/ozumachi/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Akagawara Deigo",
+     "name_en": "Akagawara Deigo",
+     "name_ja": "あかがわら でいご",
+     "description": "Izakaya restaurant in Ozumachi. Open Mon, Tue, Thu, Fri 11:30-14:00, 17:30-24:00; Sat-Sun 17:30-24:00.",
+     "source_url": "https://www.openstreetmap.org/way/1096784261",
      "page": "https://bokenjapan.com/kumamoto/ozumachi/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -14260,6 +16360,15 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "KFC",
+     "name_en": "KFC",
+     "name_ja": "ケンタッキーフライドチキン",
+     "description": "Chicken restaurant in Ozumachi.",
+     "source_url": "https://www.openstreetmap.org/way/412093572",
+     "page": "https://bokenjapan.com/kumamoto/ozumachi/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Yomomen and Izakaya Tenki",
      "name_en": "Yomomen and Izakaya Tenki",
      "name_ja": "よも麺と居酒屋てんき",
@@ -14287,6 +16396,15 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Ajisen Ramen Mori Branch",
+     "name_en": "Ajisen Ramen Mori Branch",
+     "name_ja": "味千ラーメン森店",
+     "description": "Ramen restaurant in Ozumachi.",
+     "source_url": "https://www.openstreetmap.org/node/4160413089",
+     "page": "https://bokenjapan.com/kumamoto/ozumachi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Michi no Eki Ozu",
      "name_en": "Michi no Eki Ozu",
      "name_ja": "道の駅 大津",
@@ -14294,6 +16412,33 @@
      "source_url": "https://tabelog.com/kumamoto/A4301/A430104/43006801/",
      "page": "https://bokenjapan.com/kumamoto/ozumachi/eat/other/",
      "category": "Other"
+    },
+    {
+     "name": "Michi no Eki Otsu",
+     "name_en": "Michi no Eki Otsu",
+     "name_ja": "道の駅大津",
+     "description": "Restaurant in Ozumachi.",
+     "source_url": "https://www.openstreetmap.org/node/4160431422",
+     "page": "https://bokenjapan.com/kumamoto/ozumachi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Yorimichi",
+     "name_en": "Yorimichi",
+     "name_ja": "よりみち",
+     "description": "Restaurant in Ozumachi.",
+     "source_url": "https://www.openstreetmap.org/node/14071832369",
+     "page": "https://bokenjapan.com/kumamoto/ozumachi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Ringer Hut",
+     "name_en": "Ringer Hut",
+     "name_ja": "リンガーハット",
+     "description": "Japanese restaurant in Ozumachi.",
+     "source_url": "https://www.openstreetmap.org/way/413278093",
+     "page": "https://bokenjapan.com/kumamoto/ozumachi/eat/other-japanese/",
+     "category": "Other Japanese"
     },
     {
      "name": "Sakanaya Taisen",
@@ -14310,6 +16455,14 @@
      "name_ja": "寿司・和食 雅",
      "description": "Sushi and Japanese cuisine.",
      "source_url": "https://tabelog.com/kumamoto/A4301/A430104/43014943/",
+     "page": "https://bokenjapan.com/kumamoto/ozumachi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Odori Sushi",
+     "name_en": "Odori Sushi",
+     "description": "Sushi restaurant in Ozumachi.",
+     "source_url": "https://www.openstreetmap.org/node/13004272860",
      "page": "https://bokenjapan.com/kumamoto/ozumachi/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -15503,7 +17656,7 @@
     "lat": 32.9352331,
     "lon": 130.5627768
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Tourist Hot Plaza Tamarara",
@@ -15636,6 +17789,15 @@
    ],
    "food": [
     {
+     "name": "School Cafeteria",
+     "name_en": "School Cafeteria",
+     "name_ja": "食堂棟",
+     "description": "Cafe in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/240204003",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Drive-In Kouma",
      "name_en": "Drive-In Kouma",
      "name_ja": "ドライブイン仔馬",
@@ -15699,6 +17861,23 @@
      "category": "Casual"
     },
     {
+     "name": "HIKE",
+     "name_en": "HIKE",
+     "description": "Fast-food restaurant in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1144255353",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Ojaya",
+     "name_en": "Ojaya",
+     "name_ja": "おぢゃ屋",
+     "description": "Fast-food restaurant in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1236747220",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Reiton",
      "name_en": "Reiton",
      "name_ja": "嶺敦",
@@ -15708,6 +17887,15 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Bisunu Tamana Branch",
+     "name_en": "Bisunu Tamana Branch",
+     "name_ja": "ビスヌ玉名店",
+     "description": "Indian restaurant in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1148715126",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/curry/",
+     "category": "Curry"
+    },
+    {
      "name": "La Reine Alice",
      "name_en": "La Reine Alice",
      "name_ja": "ラレーヌ アリス",
@@ -15715,6 +17903,149 @@
      "source_url": "https://tabelog.com/kumamoto/A4303/A430302/43010056/",
      "page": "https://bokenjapan.com/kumamoto/tamana/eat/european/",
      "category": "European"
+    },
+    {
+     "name": "Bar in Tamana (#3)",
+     "name_en": "Bar in Tamana (#3)",
+     "name_ja": "バッカス",
+     "description": "Bar in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1239782119",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Chibo Sato (2F)",
+     "name_en": "Chibo Sato (2F)",
+     "name_ja": "知慕里(２F)",
+     "description": "Bar in Tamana.",
+     "source_url": "https://www.openstreetmap.org/node/11484344449",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Ginza",
+     "name_en": "Ginza",
+     "name_ja": "銀座",
+     "description": "Pub in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1236749321",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Honoka (1F)",
+     "name_en": "Honoka (1F)",
+     "name_ja": "ほのか(１F)",
+     "description": "Pub in Tamana.",
+     "source_url": "https://www.openstreetmap.org/node/11484345030",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Hyotan",
+     "name_en": "Hyotan",
+     "name_ja": "ひょうたん",
+     "description": "Pub in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1239782239",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Juryo",
+     "name_en": "Juryo",
+     "name_ja": "十両",
+     "description": "Pub in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1239768979",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kanon",
+     "name_en": "Kanon",
+     "name_ja": "花音",
+     "description": "Bar in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1236749256",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kimura",
+     "name_en": "Kimura",
+     "name_ja": "きむら",
+     "description": "Pub in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1238792364",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kohaku",
+     "name_en": "Kohaku",
+     "name_ja": "こはく",
+     "description": "Pub in Tamana.",
+     "source_url": "https://www.openstreetmap.org/node/11484332913",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Bar in Tamana (#2)",
+     "name_en": "Bar in Tamana (#2)",
+     "name_ja": "キャニオン(２F)",
+     "description": "Bar in Tamana.",
+     "source_url": "https://www.openstreetmap.org/node/11484348808",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "mu style",
+     "name_en": "mu style",
+     "name_ja": "mu style(厶ースタイル)",
+     "description": "Pub in Yamada, Tamana. Open daily 11:00-14:00; daily 17:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/way/1232053781",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Bar in Tamana (#1)",
+     "name_en": "Bar in Tamana (#1)",
+     "name_ja": "パッチョ",
+     "description": "Bar in Tamana.",
+     "source_url": "https://www.openstreetmap.org/node/11484332914",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Ritsugan Teramura",
+     "name_en": "Ritsugan Teramura",
+     "name_ja": "立願寺村",
+     "description": "Pub in Tamana.",
+     "source_url": "https://www.openstreetmap.org/node/11484297116",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "wasabi",
+     "name_en": "wasabi",
+     "description": "Pub in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1239782975",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kinari",
+     "name_en": "Kinari",
+     "name_ja": "馬肉ダイニング 生成",
+     "description": "Barbecue restaurant in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1234773314",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Teppanyaki Ran",
+     "name_en": "Teppanyaki Ran",
+     "name_ja": "鉄板焼 欒",
+     "description": "Barbecue restaurant in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1234755917",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/meat/",
+     "category": "Japanese (meat)"
     },
     {
      "name": "Toen",
@@ -15807,11 +18138,119 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Kakashi Ramen",
+     "name_en": "Kakashi Ramen",
+     "name_ja": "案山子ラーメン",
+     "description": "Ramen restaurant in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1238736117",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kyoku Ramen Chu",
+     "name_en": "Kyoku Ramen Chu",
+     "name_ja": "極ラーメン宙",
+     "description": "Ramen restaurant in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1236747221",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Men no Oyama",
+     "name_en": "Men no Oyama",
+     "name_ja": "麺の小山",
+     "description": "Ramen restaurant in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1148720114",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Nakao Ramen",
+     "name_en": "Nakao Ramen",
+     "name_ja": "中王ラーメン",
+     "description": "Ramen restaurant in Tamana.",
+     "source_url": "https://www.openstreetmap.org/node/10555787362",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Senryu",
+     "name_en": "Senryu",
+     "name_ja": "千龍",
+     "description": "Ramen restaurant in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1239782662",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "West Udon",
+     "name_en": "West Udon",
+     "name_ja": "ウエスト うどん",
+     "description": "Udon restaurant in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/940397165",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Unryu Ken",
+     "name_en": "Unryu Ken",
+     "name_ja": "雲龍軒",
+     "description": "Ramen restaurant in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1231268119",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Tsukasa Royal Hotel",
      "name_en": "Tsukasa Royal Hotel",
      "name_ja": "司ロイヤルホテル",
      "description": "Hotel in Tamana.",
      "source_url": "https://tabelog.com/kumamoto/A4303/A430302/43011532/",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Family Restaurant Daimon",
+     "name_en": "Family Restaurant Daimon",
+     "name_ja": "ファミリーレストランだいもん",
+     "description": "Restaurant in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1238488386",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Tamana",
+     "name_en": "Restaurant in Tamana",
+     "name_ja": "マイアミ",
+     "description": "Restaurant in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1239782005",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Mineatsushi",
+     "name_en": "Mineatsushi",
+     "name_ja": "嶺敦",
+     "description": "Restaurant in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/394476657",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Momoen",
+     "name_en": "Momoen",
+     "name_ja": "桃苑",
+     "description": "Restaurant in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1239782344",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Obento no Hirai",
+     "name_en": "Obento no Hirai",
+     "name_ja": "お弁当のヒライ",
+     "description": "Restaurant in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/939374601",
      "page": "https://bokenjapan.com/kumamoto/tamana/eat/other/",
      "category": "Other"
     },
@@ -15834,6 +18273,33 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Kin no Waraji",
+     "name_en": "Kin no Waraji",
+     "name_ja": "金のわらじ",
+     "description": "Japanese restaurant in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1239783369",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Taisho",
+     "name_en": "Taisho",
+     "name_ja": "大将",
+     "description": "Japanese restaurant in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1239784124",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Surofudo no Branch Shinagawa",
+     "name_en": "Surofudo no Branch Shinagawa",
+     "name_ja": "スローフードの店 品川",
+     "description": "Seafood pub in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1230265006",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Sweets and bakery shop in Tamana",
      "name_en": "Sweets and bakery shop in Tamana",
      "name_ja": "ロワゾー・ブルー",
@@ -15848,6 +18314,24 @@
      "name_ja": "肥後節菓熊本 むらた",
      "description": "Higo Sekka Kumamoto Murata — japanese sweets shop in Tamana, Kumamoto.",
      "source_url": "https://tabelog.com/kumamoto/A4303/A430302/43006515/",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets shop in Tamana",
+     "name_en": "Sweets shop in Tamana",
+     "name_ja": "菊水堂",
+     "description": "Sweets shop in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1144255392",
+     "page": "https://bokenjapan.com/kumamoto/tamana/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Pastry shop in Tamana",
+     "name_en": "Pastry shop in Tamana",
+     "name_ja": "ロールピュールドゥージエーム",
+     "description": "Pastry shop in Tamana.",
+     "source_url": "https://www.openstreetmap.org/way/1234771904",
      "page": "https://bokenjapan.com/kumamoto/tamana/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -16917,7 +19401,7 @@
     "lat": 32.64787,
     "lon": 130.684362
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Agri Park Toyono",
@@ -16996,6 +19480,24 @@
      "category": "Cafe"
     },
     {
+     "name": "Cafe in Uki",
+     "name_en": "Cafe in Uki",
+     "name_ja": "アマテラス珈琲",
+     "description": "Cafe in Uki.",
+     "source_url": "https://www.openstreetmap.org/node/12424267395",
+     "page": "https://bokenjapan.com/kumamoto/uki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Amagi Tetsudo",
+     "name_en": "Cafe Amagi Tetsudo",
+     "name_ja": "カフェ天城鐵道",
+     "description": "Cafe in Uki.",
+     "source_url": "https://www.openstreetmap.org/node/13159372782",
+     "page": "https://bokenjapan.com/kumamoto/uki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Kokoro Teishoku Koharu",
      "name_en": "Kokoro Teishoku Koharu",
      "name_ja": "こころ定食こ春",
@@ -17010,6 +19512,15 @@
      "name_ja": "小川食堂",
      "description": "Shokudo in Uki.",
      "source_url": "https://tabelog.com/kumamoto/A4301/A430102/43012575/",
+     "page": "https://bokenjapan.com/kumamoto/uki/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "name_ja": "マクドナルド",
+     "description": "Burger fast-food restaurant in Uki.",
+     "source_url": "https://www.openstreetmap.org/node/14071904423",
      "page": "https://bokenjapan.com/kumamoto/uki/eat/casual/",
      "category": "Casual"
     },
@@ -17041,6 +19552,15 @@
      "category": "European"
     },
     {
+     "name": "Joyfull",
+     "name_en": "Joyfull",
+     "name_ja": "ジョイフル",
+     "description": "Western-style restaurant in Uki.",
+     "source_url": "https://www.openstreetmap.org/way/807220090",
+     "page": "https://bokenjapan.com/kumamoto/uki/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Nanayatsuki Shiranui Villa",
      "name_en": "Nanayatsuki Shiranui Villa",
      "name_ja": "七夜月不知火別荘",
@@ -17066,6 +19586,24 @@
      "source_url": "https://tabelog.com/kumamoto/A4301/A430102/43006211/",
      "page": "https://bokenjapan.com/kumamoto/uki/eat/izakaya-bars/",
      "category": "Izakaya & bars"
+    },
+    {
+     "name": "Ikinari Steak",
+     "name_en": "Ikinari Steak",
+     "name_ja": "いきなり！ステーキ",
+     "description": "Steak restaurant in Uki.",
+     "source_url": "https://www.openstreetmap.org/node/14071904425",
+     "page": "https://bokenjapan.com/kumamoto/uki/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "KFC",
+     "name_en": "KFC",
+     "name_ja": "ケンタッキーフライドチキン",
+     "description": "Chicken restaurant in Uki.",
+     "source_url": "https://www.openstreetmap.org/node/14071904426",
+     "page": "https://bokenjapan.com/kumamoto/uki/eat/meat/",
+     "category": "Japanese (meat)"
     },
     {
      "name": "Menkichi",
@@ -17122,6 +19660,24 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Ramen restaurant in Uki",
+     "name_en": "Ramen restaurant in Uki",
+     "name_ja": "めんそ〜れ",
+     "description": "Ramen restaurant in Uki.",
+     "source_url": "https://www.openstreetmap.org/node/13159726342",
+     "page": "https://bokenjapan.com/kumamoto/uki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Yokozuna Ramen",
+     "name_en": "Yokozuna Ramen",
+     "name_ja": "横綱ラーメン",
+     "description": "Noodle restaurant in Uki.",
+     "source_url": "https://www.openstreetmap.org/node/7283945449",
+     "page": "https://bokenjapan.com/kumamoto/uki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Uki Saikan",
      "name_en": "Uki Saikan",
      "name_ja": "宇城彩館",
@@ -17129,6 +19685,24 @@
      "source_url": "https://tabelog.com/kumamoto/A4301/A430102/43009228/",
      "page": "https://bokenjapan.com/kumamoto/uki/eat/other/",
      "category": "Other"
+    },
+    {
+     "name": "Shokujidokoro Shiranui Tei",
+     "name_en": "Shokujidokoro Shiranui Tei",
+     "name_ja": "食事処 しらぬい亭",
+     "description": "Restaurant in Uki.",
+     "source_url": "https://www.openstreetmap.org/node/7197206526",
+     "page": "https://bokenjapan.com/kumamoto/uki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Matsu Kaien",
+     "name_en": "Matsu Kaien",
+     "name_ja": "松海苑",
+     "description": "Japanese restaurant in Uki.",
+     "source_url": "https://www.openstreetmap.org/node/7283945419",
+     "page": "https://bokenjapan.com/kumamoto/uki/eat/other-japanese/",
+     "category": "Other Japanese"
     },
     {
      "name": "Daimaru",
@@ -17185,11 +19759,38 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Nishiki Sushi",
+     "name_en": "Nishiki Sushi",
+     "name_ja": "錦寿司",
+     "description": "Sushi restaurant in Uki.",
+     "source_url": "https://www.openstreetmap.org/node/7283945437",
+     "page": "https://bokenjapan.com/kumamoto/uki/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Ooban",
+     "name_en": "Ooban",
+     "name_ja": "大番",
+     "description": "Seafood and sushi restaurant in Uki.",
+     "source_url": "https://www.openstreetmap.org/node/5616248521",
+     "page": "https://bokenjapan.com/kumamoto/uki/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Milky Ogawa Store",
      "name_en": "Milky Ogawa Store",
      "name_ja": "ミルキー 小川店",
      "description": "Milky Ogawa Store — bread and cake shop in Uki, Kumamoto.",
      "source_url": "https://tabelog.com/kumamoto/A4301/A430102/43001209/",
+     "page": "https://bokenjapan.com/kumamoto/uki/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Ogawa Pan",
+     "name_en": "Ogawa Pan",
+     "name_ja": "小川パン",
+     "description": "Bakery in Uki.",
+     "source_url": "https://www.openstreetmap.org/node/7283945453",
      "page": "https://bokenjapan.com/kumamoto/uki/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -17320,7 +19921,7 @@
     "lat": 32.6880174,
     "lon": 130.6597163
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside Station Uto Marina Okoshiki-kan",
@@ -17408,6 +20009,32 @@
      "category": "Cafe"
     },
     {
+     "name": "Dining cafe marjoram",
+     "name_en": "Dining cafe marjoram",
+     "description": "Cafe in Uto.",
+     "source_url": "https://www.openstreetmap.org/node/9228966317",
+     "page": "https://bokenjapan.com/kumamoto/uto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Gin no Fune",
+     "name_en": "Gin no Fune",
+     "name_ja": "銀の舟",
+     "description": "Cafe in Uto.",
+     "source_url": "https://www.openstreetmap.org/node/9228960817",
+     "page": "https://bokenjapan.com/kumamoto/uto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Uto",
+     "name_en": "Cafe in Uto",
+     "name_ja": "シフォン",
+     "description": "Cafe in Uto.",
+     "source_url": "https://www.openstreetmap.org/node/2170222426",
+     "page": "https://bokenjapan.com/kumamoto/uto/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Ajiman",
      "name_en": "Ajiman",
      "name_ja": "あじまん",
@@ -17431,6 +20058,24 @@
      "name_ja": "食房田尻",
      "description": "Shokudo and Japanese cuisine in Uto.",
      "source_url": "https://tabelog.com/kumamoto/A4301/A430102/43013664/",
+     "page": "https://bokenjapan.com/kumamoto/uto/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "name_ja": "マクドナルド",
+     "description": "Burger fast-food restaurant in Uto. Open 24 hours, every day.",
+     "source_url": "https://www.openstreetmap.org/way/693561819",
+     "page": "https://bokenjapan.com/kumamoto/uto/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Obentoya",
+     "name_en": "Obentoya",
+     "name_ja": "お弁当屋",
+     "description": "Fast-food restaurant in Uto.",
+     "source_url": "https://www.openstreetmap.org/node/2170222427",
      "page": "https://bokenjapan.com/kumamoto/uto/eat/casual/",
      "category": "Casual"
     },
@@ -17516,6 +20161,33 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Marugame Seimen",
+     "name_en": "Marugame Seimen",
+     "name_ja": "丸亀製麺",
+     "description": "Noodle restaurant in Uto.",
+     "source_url": "https://www.openstreetmap.org/way/693561826",
+     "page": "https://bokenjapan.com/kumamoto/uto/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Semba Kuraya Shiki",
+     "name_en": "Semba Kuraya Shiki",
+     "name_ja": "船場 蔵屋敷",
+     "description": "Restaurant in Uto.",
+     "source_url": "https://www.openstreetmap.org/node/9228962217",
+     "page": "https://bokenjapan.com/kumamoto/uto/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "wild-country 2nd 2 Kai",
+     "name_en": "wild-country 2nd 2 Kai",
+     "name_ja": "wild-country 2nd 2階",
+     "description": "Restaurant in Uto.",
+     "source_url": "https://www.openstreetmap.org/node/9228977717",
+     "page": "https://bokenjapan.com/kumamoto/uto/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Sakura",
      "name_en": "Sakura",
      "name_ja": "さく羅",
@@ -17566,6 +20238,24 @@
      "name_ja": "牛深 活魚 海よし",
      "description": "Seafood, shokudo, and sushi restaurant in Uto.",
      "source_url": "https://tabelog.com/kumamoto/A4301/A430102/43014900/",
+     "page": "https://bokenjapan.com/kumamoto/uto/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Bamban Sushi",
+     "name_en": "Bamban Sushi",
+     "name_ja": "ばんばん寿司",
+     "description": "Sushi restaurant in Uto.",
+     "source_url": "https://www.openstreetmap.org/node/14079688532",
+     "page": "https://bokenjapan.com/kumamoto/uto/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kappa Sushi",
+     "name_en": "Kappa Sushi",
+     "name_ja": "かっぱ寿司",
+     "description": "Sushi restaurant in Uto.",
+     "source_url": "https://www.openstreetmap.org/way/693561818",
      "page": "https://bokenjapan.com/kumamoto/uto/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -17902,7 +20592,7 @@
     "lat": 33.0176296,
     "lon": 130.6913693
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside Station Kahoku Oguri-go",
@@ -18225,6 +20915,15 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Umitsubame",
+     "name_en": "Umitsubame",
+     "name_ja": "海燕",
+     "description": "Chinese restaurant in Yamaga. Open daily 11:30-14:30, 17:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/way/1375598624",
+     "page": "https://bokenjapan.com/kumamoto/yamaga/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "European restaurant in Yamaga",
      "name_en": "European restaurant in Yamaga",
      "name_ja": "ピッツエリア ダ ツルバラ",
@@ -18297,6 +20996,15 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Nio",
+     "name_en": "Nio",
+     "name_ja": "に大",
+     "description": "Ramen restaurant in Yamaga.",
+     "source_url": "https://www.openstreetmap.org/node/12737078644",
+     "page": "https://bokenjapan.com/kumamoto/yamaga/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Jidorian Sanzo",
      "name_en": "Jidorian Sanzo",
      "name_ja": "地どり庵 三蔵",
@@ -18338,6 +21046,33 @@
      "name_ja": "むら本",
      "description": "Japanese cuisine and shokudo.",
      "source_url": "https://tabelog.com/kumamoto/A4303/A430301/43006874/",
+     "page": "https://bokenjapan.com/kumamoto/yamaga/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kyugo",
+     "name_en": "Kyugo",
+     "name_ja": "久吾",
+     "description": "Japanese restaurant in Yamaga. Open daily 11:00-14:00, 17:00-23:00.",
+     "source_url": "http://www.kumamoto-guide.com/umaka/shop/hisago/",
+     "page": "https://bokenjapan.com/kumamoto/yamaga/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kanshin",
+     "name_en": "Kanshin",
+     "name_ja": "かんしん",
+     "description": "Japanese restaurant in Yamaga.",
+     "source_url": "https://www.openstreetmap.org/way/1375150195",
+     "page": "https://bokenjapan.com/kumamoto/yamaga/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kuniho",
+     "name_en": "Kuniho",
+     "name_ja": "くにほ",
+     "description": "Japanese restaurant in Yamaga.",
+     "source_url": "https://www.openstreetmap.org/node/12735515918",
      "page": "https://bokenjapan.com/kumamoto/yamaga/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -19037,7 +21772,7 @@
     "lat": 32.507589,
     "lon": 130.601821
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Yatsushiro Fuka",
@@ -19196,6 +21931,57 @@
      "category": "Cafe"
     },
     {
+     "name": "MICK",
+     "name_en": "MICK",
+     "description": "Cafe in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/node/3498693593",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Ms Cafe",
+     "name_en": "Ms Cafe",
+     "description": "Cafe in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/node/12829755326",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Sakataya kindness cafe",
+     "name_en": "Sakataya kindness cafe",
+     "name_ja": "坂田屋 kindness cafe",
+     "description": "Cafe in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/824192606",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Starbucks",
+     "name_en": "Starbucks",
+     "name_ja": "スターバックス",
+     "description": "Cafe in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/1463862446",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Yatsushiro",
+     "name_en": "Cafe in Yatsushiro",
+     "name_ja": "梅乃木茶屋",
+     "description": "Cafe in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/node/10913939500",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Uno",
+     "name_en": "Uno",
+     "description": "Cafe in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/825033604",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Sendan Shokudo",
      "name_en": "Sendan Shokudo",
      "name_ja": "せんだん食堂",
@@ -19241,6 +22027,32 @@
      "category": "Casual"
     },
     {
+     "name": "Higo no Tako Ryo",
+     "name_en": "Higo no Tako Ryo",
+     "name_ja": "肥後のたこ良",
+     "description": "Fast-food restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/1390337734",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Hotto Motto",
+     "name_en": "Hotto Motto",
+     "name_ja": "ほっともっと",
+     "description": "Fast-food restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/824654083",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "description": "Burger fast-food restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/node/5094073222",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Yotsuba Shokudo",
      "name_en": "Yotsuba Shokudo",
      "name_ja": "よつば食堂",
@@ -19277,6 +22089,33 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Chugoku Ryori Eiko En",
+     "name_en": "Chugoku Ryori Eiko En",
+     "name_ja": "中国料理 榮光苑",
+     "description": "Chinese restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/1386497537",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Kazuki Sono",
+     "name_en": "Kazuki Sono",
+     "name_ja": "華月園",
+     "description": "Chinese restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/824723280",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Ranhana",
+     "name_en": "Ranhana",
+     "name_ja": "蘭華",
+     "description": "Chinese restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/node/13316583499",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Shin Kimura",
      "name_en": "Shin Kimura",
      "name_ja": "新木村",
@@ -19291,6 +22130,15 @@
      "name_ja": "イル ファーロ",
      "description": "Italian, pasta, and Western food.",
      "source_url": "https://tabelog.com/kumamoto/A4304/A430401/43011032/",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Jolly-Pasta",
+     "name_en": "Jolly-Pasta",
+     "name_ja": "ジョリーパスタ",
+     "description": "Pasta restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/node/9150711813",
      "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/european/",
      "category": "European"
     },
@@ -19313,6 +22161,192 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Ajitoku",
+     "name_en": "Ajitoku",
+     "name_ja": "味徳",
+     "description": "Pub in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/824723283",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Ajitsubo",
+     "name_en": "Ajitsubo",
+     "name_ja": "あじつぼ",
+     "description": "Pub in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/node/9150334168",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "BAR JET BLUE",
+     "name_en": "BAR JET BLUE",
+     "description": "Bar in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/node/12880480063",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "BAR THREE",
+     "name_en": "BAR THREE",
+     "description": "Bar in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/824707073",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "COCOM",
+     "name_en": "COCOM",
+     "description": "Bar in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/823568215",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Funesaku",
+     "name_en": "Funesaku",
+     "name_ja": "舟作",
+     "description": "Pub in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/1382898379",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Hidetaro",
+     "name_en": "Izakaya Hidetaro",
+     "name_ja": "居酒屋 秀太郎",
+     "description": "Izakaya pub in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/824211153",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Hyotan",
+     "name_en": "Izakaya Hyotan",
+     "name_ja": "居酒屋ひょうたん",
+     "description": "Izakaya pub in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/824654079",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Ipponyari",
+     "name_en": "Izakaya Ipponyari",
+     "name_ja": "居酒屋一本槍",
+     "description": "Izakaya pub in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/1381849502",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Shijimi",
+     "name_en": "Izakaya Shijimi",
+     "name_ja": "居酒屋しじみ",
+     "description": "Izakaya pub in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/824707107",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Yamachan",
+     "name_en": "Izakaya Yamachan",
+     "name_ja": "居酒屋やまちゃん",
+     "description": "Izakaya pub in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/node/12885582084",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Masako no Heya",
+     "name_en": "Masako no Heya",
+     "name_ja": "マサコのへや",
+     "description": "Bar in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/824707076",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Nawaya",
+     "name_en": "Nawaya",
+     "name_ja": "なわや",
+     "description": "Pub in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/node/9150334171",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Nomi Tokoro Hana Koyomi",
+     "name_en": "Nomi Tokoro Hana Koyomi",
+     "name_ja": "呑み処 華こよみ",
+     "description": "Izakaya pub in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/1386497541",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Shokukai Mana",
+     "name_en": "Shokukai Mana",
+     "name_ja": "喰会 真魚",
+     "description": "Pub in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/node/12829678061",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Snack Kirari",
+     "name_en": "Snack Kirari",
+     "name_ja": "スナックきらり",
+     "description": "Izakaya bar in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/1386004668",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Snack Yuko",
+     "name_en": "Snack Yuko",
+     "name_ja": "スナック遊子",
+     "description": "Izakaya bar in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/node/12885582083",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Tori Yoshi",
+     "name_en": "Tori Yoshi",
+     "name_ja": "鳥よし",
+     "description": "Pub in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/824777193",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Wafu Snack Noren",
+     "name_en": "Wafu Snack Noren",
+     "name_ja": "和風スナック暖簾",
+     "description": "Izakaya bar in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/1382898365",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Wakana",
+     "name_en": "Wakana",
+     "name_ja": "わかな",
+     "description": "Pub in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/1381849493",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yamada",
+     "name_en": "Yamada",
+     "name_ja": "やまだ",
+     "description": "Pub in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/824654033",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Kushiya Choemon Yatsushiro Store",
      "name_en": "Kushiya Choemon Yatsushiro Store",
      "name_ja": "串屋 長右衛門 八代店",
@@ -19327,6 +22361,15 @@
      "name_ja": "カムイ",
      "description": "Hamburg steak, coffee shop, and Western food.",
      "source_url": "https://tabelog.com/kumamoto/A4304/A430401/43004453/",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Tomoen",
+     "name_en": "Yakiniku Tomoen",
+     "name_ja": "焼肉 友苑",
+     "description": "Barbecue restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/824202078",
      "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -19358,6 +22401,186 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Ajisen Ramen",
+     "name_en": "Ajisen Ramen",
+     "name_ja": "味千拉麺",
+     "description": "Ramen restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/node/9150334167",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ajisen Ramen",
+     "name_en": "Ajisen Ramen",
+     "name_ja": "味千ラーメン",
+     "description": "Ramen restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/546622105",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kaneyama Udon",
+     "name_en": "Kaneyama Udon",
+     "name_ja": "かねやまうどん",
+     "description": "Udon restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/824614126",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Marugame Seimen",
+     "name_en": "Marugame Seimen",
+     "name_ja": "丸亀製麺",
+     "description": "Noodle restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/node/9150711938",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Tompei",
+     "name_en": "Ramen Tompei",
+     "name_ja": "ラーメン豚平",
+     "description": "Ramen restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/824777192",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Oshokujidokoro Sambaba Baa",
+     "name_en": "Oshokujidokoro Sambaba Baa",
+     "name_ja": "お食事処三婆婆",
+     "description": "Restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/node/12905341092",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Ringer Hut",
+     "name_en": "Ringer Hut",
+     "name_ja": "リンガーハット",
+     "description": "Restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/node/9150711880",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Yatsushiro",
+     "name_en": "Restaurant in Yatsushiro",
+     "name_ja": "小料理まゆみ",
+     "description": "Restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/824757474",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Shokujidokoro Kagi Shippo",
+     "name_en": "Shokujidokoro Kagi Shippo",
+     "name_ja": "食事処カギしっぽ",
+     "description": "Restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/1415605878",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Suzuran Kan",
+     "name_en": "Suzuran Kan",
+     "name_ja": "鈴蘭館",
+     "description": "Restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/node/9150711730",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Wafu Teisuzu Maru",
+     "name_en": "Wafu Teisuzu Maru",
+     "name_ja": "和風亭鈴丸",
+     "description": "Restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/824870426",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Aji Yoshi",
+     "name_en": "Aji Yoshi",
+     "name_ja": "味よし",
+     "description": "Japanese restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/1386935229",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Chidori Shokudo",
+     "name_en": "Chidori Shokudo",
+     "name_ja": "ちどり食堂",
+     "description": "Japanese restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/1396141482",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Obentono Hirai Yatsushiro Kagami Branch",
+     "name_en": "Obentono Hirai Yatsushiro Kagami Branch",
+     "name_ja": "おべんとうのヒライ 八代鏡店",
+     "description": "Japanese restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/1312191738",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Yatsushiro",
+     "name_en": "Japanese restaurant in Yatsushiro",
+     "name_ja": "お好み焼き かや亭",
+     "description": "Japanese restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/1390337751",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ryotei Ogata",
+     "name_en": "Ryotei Ogata",
+     "name_ja": "料亭おがた",
+     "description": "Japanese restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/824757455",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Teishokuya",
+     "name_en": "Teishokuya",
+     "name_ja": "定食屋",
+     "description": "Japanese restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/824192602",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Unamaru",
+     "name_en": "Unamaru",
+     "name_ja": "鰻○",
+     "description": "Japanese restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/node/9150711801",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yori Fuji",
+     "name_en": "Yori Fuji",
+     "name_ja": "より藤",
+     "description": "Japanese restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/node/9150711784",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yutaka Shokudo",
+     "name_en": "Yutaka Shokudo",
+     "name_ja": "ゆたか食堂",
+     "description": "Japanese restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/428618774",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Yorifuji",
      "name_en": "Yorifuji",
      "name_ja": "より藤",
@@ -19372,6 +22595,42 @@
      "name_ja": "漁師海鮮 宗弘",
      "description": "Ryoshi Kaisen Munehiro — seafood restaurant in Yatsushiro, Kumamoto.",
      "source_url": "https://tabelog.com/kumamoto/A4304/A430401/43005888/",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Matsui Sushi",
+     "name_en": "Matsui Sushi",
+     "name_ja": "松井寿司",
+     "description": "Sushi restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/1416454864",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Mika Sushi",
+     "name_en": "Mika Sushi",
+     "name_ja": "美華寿司",
+     "description": "Sushi restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/824940760",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Taiko Zushi",
+     "name_en": "Taiko Zushi",
+     "name_ja": "太鼓ずし",
+     "description": "Sushi restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/1384932540",
+     "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Unagi Tokoro Unagishin",
+     "name_en": "Unagi Tokoro Unagishin",
+     "name_ja": "うなぎ処 鰻新",
+     "description": "Seafood restaurant in Yatsushiro.",
+     "source_url": "https://www.openstreetmap.org/way/411985386",
      "page": "https://bokenjapan.com/kumamoto/yatsushiro/eat/seafood/",
      "category": "Japanese (seafood)"
     },

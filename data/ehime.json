@@ -22,7 +22,7 @@
     "address": "2420 Johen Ko, Ainan Town, Minamiuwa District, Ehime 798-4196, Japan",
     "phone": "0895-72-1211"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Ainan Town Hall",
@@ -201,6 +201,24 @@
      "source_url": "https://tabelog.com/ehime/A3804/A380404/38009305/",
      "page": "https://bokenjapan.com/ehime/ainan/eat/other/",
      "category": "Other"
+    },
+    {
+     "name": "Oshokujidokoro Naniwa",
+     "name_en": "Oshokujidokoro Naniwa",
+     "name_ja": "お食事処なにわ",
+     "description": "Regional Japanese restaurant in Misho Nara, Ainan. Open daily 09:00-11:00, 11:00-14:00, 17:00-21:00; closed Tue.",
+     "source_url": "https://www.naniwa-ainan.com/",
+     "page": "https://bokenjapan.com/ehime/ainan/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "ICHIBA-SHOKUDOH, the Fishery Market Restaurant",
+     "name_en": "ICHIBA-SHOKUDOH, the Fishery Market Restaurant",
+     "name_ja": "市場食堂",
+     "description": "Regional Japanese restaurant in Irukagoe, Ainan. Open Sun-Fri 07:00-17:00.",
+     "source_url": "https://www.openstreetmap.org/node/9718648379",
+     "page": "https://bokenjapan.com/ehime/ainan/eat/other-japanese/",
+     "category": "Other Japanese"
     },
     {
      "name": "Yurari Utsumi",
@@ -632,7 +650,7 @@
     "address": "1-4-1 Bekku-cho, Imabari City, Ehime 794-8511, Japan",
     "phone": "0898-32-5200"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Imabari City Hall",
@@ -651,6 +669,81 @@
     }
    ],
    "food": [
+    {
+     "name": "WAKKA CAFE",
+     "name_en": "WAKKA CAFE",
+     "description": "Cafe in Kamiura Machii Kuchi, Imabari. Open daily 10:00-17:00.",
+     "source_url": "https://wakka.site/cafe/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe un fil",
+     "name_en": "Cafe un fil",
+     "description": "Cafe in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/6404955472",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Coffee Shoppu Shinwa Imabari Branch",
+     "name_en": "Coffee Shoppu Shinwa Imabari Branch",
+     "name_ja": "コーヒーショップ進和 今治店",
+     "description": "Cafe in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8202770133",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Ishi no cafe",
+     "name_en": "Ishi no cafe",
+     "name_ja": "石のカフェ",
+     "description": "Cafe in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/3710323703",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "MACCHI",
+     "name_en": "MACCHI",
+     "description": "Cafe in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8227647799",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Nakamuraya",
+     "name_en": "Nakamuraya",
+     "description": "Cafe in Imabari. Open Mon-Tue, Thu-Sun 10:00-17:00.",
+     "source_url": "https://www.openstreetmap.org/node/12177990255",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "PITON",
+     "name_en": "PITON",
+     "description": "Cafe in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8253914617",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Tamaya Cafe",
+     "name_en": "Tamaya Cafe",
+     "description": "Cafe in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8260789217",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Umi Cafe",
+     "name_en": "Umi Cafe",
+     "name_ja": "海の見えるカフェ",
+     "description": "Cafe in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8274340240",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/cafe/",
+     "category": "Cafe"
+    },
     {
      "name": "Kurushima Kaikyo Service Area Food Court",
      "name_en": "Kurushima Kaikyo Service Area Food Court",
@@ -679,6 +772,87 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Giyaman Tei",
+     "name_en": "Giyaman Tei",
+     "name_ja": "ぎやまん亭",
+     "description": "Chinese restaurant in Imabari. Open daily 11:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/4716843160",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Goku s",
+     "name_en": "Goku s",
+     "name_ja": "ごくうs",
+     "description": "Chinese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8204027599",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Hakuraten",
+     "name_en": "Hakuraten",
+     "name_ja": "白楽天",
+     "description": "Chinese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/way/806282867",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Menya Takeyoshi",
+     "name_en": "Menya Takeyoshi",
+     "name_ja": "麺屋 武吉",
+     "description": "Chinese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8256470931",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Chinese restaurant in Imabari",
+     "name_en": "Chinese restaurant in Imabari",
+     "name_ja": "生香楼",
+     "description": "Chinese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8256307943",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Shinmenya Masumoto",
+     "name_en": "Shinmenya Masumoto",
+     "name_ja": "辛麺屋 桝元",
+     "description": "Chinese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8226539068",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Shoryu",
+     "name_en": "Shoryu",
+     "name_ja": "翔龍",
+     "description": "Chinese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8257953286",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Tsuke Menya Wakatsuru Maru",
+     "name_en": "Tsuke Menya Wakatsuru Maru",
+     "name_ja": "つけ麺屋 若鶴丸",
+     "description": "Chinese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8256470936",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Curry Specialty Shop Fuji",
+     "name_en": "Curry Specialty Shop Fuji",
+     "name_ja": "カレー専門店藤",
+     "description": "Indian restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8202511962",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/curry/",
+     "category": "Curry"
+    },
+    {
      "name": "European restaurant in Imabari (#4)",
      "name_en": "European restaurant in Imabari (#4)",
      "name_ja": "リストランテ ソウ",
@@ -704,6 +878,75 @@
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38008906/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/european/",
      "category": "European"
+    },
+    {
+     "name": "Italian restaurant in Imabari (#3)",
+     "name_en": "Italian restaurant in Imabari (#3)",
+     "name_ja": "アルベーノ",
+     "description": "Italian restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8238744258",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Italian restaurant in Imabari (#1)",
+     "name_en": "Italian restaurant in Imabari (#1)",
+     "name_ja": "ファリーナフレスカ",
+     "description": "Italian restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8229849679",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Italian restaurant in Imabari (#2)",
+     "name_en": "Italian restaurant in Imabari (#2)",
+     "name_ja": "フルカワ",
+     "description": "Italian restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8236206179",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "KARMA",
+     "name_en": "KARMA",
+     "description": "Italian restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8227584302",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Osteria erie",
+     "name_en": "Osteria erie",
+     "description": "Italian restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8305214771",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Omishima Brewery",
+     "name_en": "Omishima Brewery",
+     "name_ja": "大三島ブリュワリー",
+     "description": "Pub in Omi Shimamachi Miyaura, Imabari. Open Thu-Mon 12:00-19:30.",
+     "source_url": "https://www.omishima.beer/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "iccyo",
+     "name_en": "iccyo",
+     "description": "Pub in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8234148183",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Mugiwara",
+     "name_en": "Mugiwara",
+     "name_ja": "麦わら",
+     "description": "Pub in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8227624828",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
     },
     {
      "name": "Hachi Hachi",
@@ -742,6 +985,24 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Ishiyaki Horumon Sora",
+     "name_en": "Ishiyaki Horumon Sora",
+     "name_ja": "石焼ホルモン そら",
+     "description": "Yakiniku restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8229734827",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Juju En",
+     "name_en": "Yakiniku Juju En",
+     "name_ja": "焼肉じゅうじゅう苑",
+     "description": "Yakiniku restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8238760830",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Hikari-ya",
      "name_en": "Hikari-ya",
      "name_ja": "光屋",
@@ -769,8 +1030,138 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Japanese restaurant in Imabari",
-     "name_en": "Japanese restaurant in Imabari",
+     "name": "KAZU",
+     "name_en": "KAZU",
+     "name_ja": "中華そば 千",
+     "description": "Ramen restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/10970862805",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen restaurant in Imabari",
+     "name_en": "Ramen restaurant in Imabari",
+     "name_ja": "喜多方ラーメン 麺小町 今治店",
+     "description": "Ramen restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8202430157",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Imabari Ikkyo",
+     "name_en": "Ramen Imabari Ikkyo",
+     "name_ja": "ラーメン今治一興",
+     "description": "Ramen restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8202015737",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Shoppu Shijo Branch",
+     "name_en": "Ramen Shoppu Shijo Branch",
+     "name_ja": "ラーメンショップ 市場店",
+     "description": "Ramen restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8252622178",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Sanwa",
+     "name_en": "Sanwa",
+     "name_ja": "さんわ",
+     "description": "Ramen restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/6980180437",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Soba Ieichi Soiori",
+     "name_en": "Soba Ieichi Soiori",
+     "name_ja": "そば家一創庵",
+     "description": "Soba restaurant in Imabari. Open daily 10:30-16:00.",
+     "source_url": "https://www.openstreetmap.org/way/880895744",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Soba Moto",
+     "name_en": "Soba Moto",
+     "name_ja": "そば元",
+     "description": "Soba restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8202511956",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Soba Sei",
+     "name_en": "Soba Sei",
+     "name_ja": "そば 正",
+     "description": "Soba restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8251319215",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Yamabiko Udon Main Store",
+     "name_en": "Yamabiko Udon Main Store",
+     "name_ja": "やまびこうどん本店",
+     "description": "Udon restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8253391613",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ristorante Ve.G.I",
+     "name_en": "Ristorante Ve.G.I",
+     "description": "Restaurant in Imabari. Open daily 11:30-02:00, 18:00-22:00.",
+     "source_url": "https://www.simanami.jp",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Imabari",
+     "name_en": "Restaurant in Imabari",
+     "name_ja": "ヨラス・ダイニング",
+     "description": "Restaurant in Imabari. Open Tue-Wed, Fri-Sat 09:40-16:30; Thu 09:40-14:00.",
+     "source_url": "https://shokudouyorasu.wixsite.com/home",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "DELI KITCHEN GRACE FACTORY",
+     "name_en": "DELI KITCHEN GRACE FACTORY",
+     "description": "Restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8227646647",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "LE LES LA",
+     "name_en": "LE LES LA",
+     "description": "Restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8226956576",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Magnolia",
+     "name_en": "Magnolia",
+     "description": "Restaurant in Imabari. Open Mon-Tue, Thu-Sun 09:00-16:00.",
+     "source_url": "https://www.openstreetmap.org/way/1239613339",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Twin",
+     "name_en": "Twin",
+     "description": "Restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8228170189",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Japanese restaurant in Imabari (#3)",
+     "name_en": "Japanese restaurant in Imabari (#3)",
      "name_ja": "しの田",
      "description": "Japanese restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38006443/",
@@ -783,6 +1174,203 @@
      "name_ja": "まど居",
      "description": "Japanese restaurant in Imabari, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38010223/",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ani Kan",
+     "name_en": "Ani Kan",
+     "name_ja": "阿仁間",
+     "description": "Japanese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8246355526",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Goemon",
+     "name_en": "Goemon",
+     "name_ja": "五右衛門",
+     "description": "Japanese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8202543858",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Hikarisu Sono Main Store",
+     "name_en": "Hikarisu Sono Main Store",
+     "name_ja": "光洲園 本店",
+     "description": "Japanese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8256116173",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Hiyobina",
+     "name_en": "Hiyobina",
+     "name_ja": "ひよびな",
+     "description": "Japanese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8229610794",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Joka Machi",
+     "name_en": "Joka Machi",
+     "name_ja": "城下まち",
+     "description": "Japanese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8246379854",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Joyfull",
+     "name_en": "Joyfull",
+     "description": "Japanese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/5935625911",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kaneto Shokudo",
+     "name_en": "Kaneto Shokudo",
+     "name_ja": "かねと食堂",
+     "description": "Japanese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8236301077",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kappo Seto",
+     "name_en": "Kappo Seto",
+     "name_ja": "割烹 瀬戸",
+     "description": "Japanese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8227584297",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kifune",
+     "name_en": "Kifune",
+     "name_ja": "喜船",
+     "description": "Japanese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/7090629789",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kojiro",
+     "name_en": "Kojiro",
+     "name_ja": "小次郎",
+     "description": "Japanese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8236303833",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Komurasaki",
+     "name_en": "Komurasaki",
+     "name_ja": "こむらさき",
+     "description": "Japanese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8202639228",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kushi Katsu Sei",
+     "name_en": "Kushi Katsu Sei",
+     "name_ja": "串かつ 晴",
+     "description": "Japanese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8236166655",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Marutoku",
+     "name_en": "Marutoku",
+     "name_ja": "丸徳",
+     "description": "Japanese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8252445829",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Menmai Ryu e",
+     "name_en": "Menmai Ryu e",
+     "name_ja": "麺舞 龍e",
+     "description": "Japanese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8229929076",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Imabari (#4)",
+     "name_en": "Japanese restaurant in Imabari (#4)",
+     "name_ja": "なかがわお好み焼き",
+     "description": "Japanese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8256116185",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Okonomi Boteya",
+     "name_en": "Okonomi Boteya",
+     "name_ja": "お好みぼてや",
+     "description": "Japanese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8253914646",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Imabari (#2)",
+     "name_en": "Japanese restaurant in Imabari (#2)",
+     "name_ja": "お好み焼 風",
+     "description": "Japanese restaurant in Imabari. Open Tue-Sun 11:00-14:30, 17:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/6404986166",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Imabari (#3, 2)",
+     "name_en": "Japanese restaurant in Imabari (#3, 2)",
+     "name_ja": "咲かす食堂",
+     "description": "Japanese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8223775370",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shabumiyoshi",
+     "name_en": "Shabumiyoshi",
+     "name_ja": "しゃぶみよし",
+     "description": "Japanese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8246355554",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shingu",
+     "name_en": "Shingu",
+     "name_ja": "しんぐう",
+     "description": "Japanese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8252806563",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Taihei",
+     "name_en": "Taihei",
+     "name_ja": "泰平",
+     "description": "Japanese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8246379848",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Tairyo",
+     "name_en": "Tairyo",
+     "name_ja": "大漁",
+     "description": "Japanese restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/7090629796",
      "page": "https://bokenjapan.com/ehime/imabari/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -866,6 +1454,104 @@
      "source_url": "https://tabelog.com/ehime/A3802/A380201/38005013/",
      "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
      "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Eho",
+     "name_en": "Eho",
+     "name_ja": "恵方",
+     "description": "Seafood restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8202403688",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Higashi Sushi",
+     "name_en": "Higashi Sushi",
+     "name_ja": "東寿司",
+     "description": "Sushi restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8285603811",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Hisashishi Kiyo Teru",
+     "name_en": "Hisashishi Kiyo Teru",
+     "name_ja": "寿し きよ輝",
+     "description": "Sushi restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8202530596",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Jinroku Sushi",
+     "name_en": "Jinroku Sushi",
+     "name_ja": "甚六寿司",
+     "description": "Sushi restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8253799673",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kabuki Sushi",
+     "name_en": "Kabuki Sushi",
+     "name_ja": "歌舞伎寿司",
+     "description": "Sushi restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8236335285",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Noshima Suigun",
+     "name_en": "Noshima Suigun",
+     "name_ja": "能島水軍",
+     "description": "Seafood restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/5603129925",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sakanatsune Umega Hana",
+     "name_en": "Sakanatsune Umega Hana",
+     "name_ja": "魚常 梅が花",
+     "description": "Sushi restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/6719062103",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Shosachi",
+     "name_en": "Shosachi",
+     "name_ja": "小幸",
+     "description": "Sushi restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8226956560",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Han",
+     "name_en": "Sushi Han",
+     "name_ja": "すし半",
+     "description": "Sushi restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8238930871",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Sachi Sakurai Branch",
+     "name_en": "Sushi Sachi Sakurai Branch",
+     "name_ja": "すし幸桜井店",
+     "description": "Sushi restaurant in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/8244908758",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Paysan",
+     "name_en": "Paysan",
+     "description": "Bakery in Imabari.",
+     "source_url": "https://www.openstreetmap.org/node/6375970989",
+     "page": "https://bokenjapan.com/ehime/imabari/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "sights": [
@@ -1304,7 +1990,7 @@
     "address": "820 Minato, Iyo City, Ehime 799-3193, Japan",
     "phone": "089-982-1111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Iyo City Hall",
@@ -1350,6 +2036,24 @@
      "category": "Cafe"
     },
     {
+     "name": "CAFE JEUX DE MUSIQUE",
+     "name_en": "CAFE JEUX DE MUSIQUE",
+     "name_ja": "CAFE JEUX DE MUSIQUE（カフェ・ジュードムジーク）",
+     "description": "Cafe in Iyo.",
+     "source_url": "https://iyokankou.jp/spot/spot-2090/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "daidokorocafe MOKU",
+     "name_en": "daidokorocafe MOKU",
+     "name_ja": "daidokorocafe MOKU（ダイドコロカフェ モク）",
+     "description": "Cafe in Iyo.",
+     "source_url": "https://iyokankou.jp/spot/spot-2245/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Michi no Eki Futami",
      "name_en": "Michi no Eki Futami",
      "name_ja": "道の駅 ふたみ",
@@ -1384,6 +2088,15 @@
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38003355/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/casual/",
      "category": "Casual"
+    },
+    {
+     "name": "Chuka Ryori Toryu",
+     "name_en": "Chuka Ryori Toryu",
+     "name_ja": "中華料理 東龍",
+     "description": "Asian restaurant in Iyo.",
+     "source_url": "https://iyokankou.jp/spot/spot-2301/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/chinese-asian/",
+     "category": "Chinese & Asian"
     },
     {
      "name": "European restaurant in Iyo",
@@ -1439,6 +2152,24 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Yakiniku restaurant in Iyo",
+     "name_en": "Yakiniku restaurant in Iyo",
+     "name_ja": "YAKINIKU DAYS（ヤキニクデイズ）",
+     "description": "Yakiniku restaurant in Iyo.",
+     "source_url": "https://iyokankou.jp/spot/spot-2460/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Goen Iyo Branch",
+     "name_en": "Yakiniku Goen Iyo Branch",
+     "name_ja": "焼肉五苑・伊予店",
+     "description": "Yakiniku restaurant in Iyo.",
+     "source_url": "https://www.openstreetmap.org/node/2385942862",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Chuka Soba Mikasa",
      "name_en": "Chuka Soba Mikasa",
      "name_ja": "中華そば みかさ",
@@ -1484,6 +2215,87 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Ramen Shoppu KANTO Futami Branch",
+     "name_en": "Ramen Shoppu KANTO Futami Branch",
+     "name_ja": "ラーメンショップKANTO 双海店",
+     "description": "Ramen restaurant in Iyo.",
+     "source_url": "https://www.openstreetmap.org/way/612765302",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Futami Nagisa Restaurant Monde Bleu",
+     "name_en": "Futami Nagisa Restaurant Monde Bleu",
+     "name_ja": "ふたみ渚のレストランMonde Bleu（モンドブルー）",
+     "description": "Restaurant in Iyo.",
+     "source_url": "https://iyokankou.jp/spot/spot-2044/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Goshikihama Moon-viewing Imotaki",
+     "name_en": "Goshikihama Moon-viewing Imotaki",
+     "name_ja": "五色浜観月いもたき",
+     "description": "Restaurant in Iyo.",
+     "source_url": "https://iyokankou.jp/spot/spot-1127/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "kitchen ichi-nichi",
+     "name_en": "kitchen ichi-nichi",
+     "name_ja": "kitchen ichi-nichi（キッチン イチニチ）",
+     "description": "Restaurant in Iyo.",
+     "source_url": "https://iyokankou.jp/spot/spot-2110/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Maruyoshi",
+     "name_en": "Maruyoshi",
+     "name_ja": "まるよし",
+     "description": "Restaurant in Iyo.",
+     "source_url": "https://iyokankou.jp/spot/spot-1105/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant Goshiki",
+     "name_en": "Restaurant Goshiki",
+     "name_ja": "レストラン五色（ウェルピア伊予内）",
+     "description": "Restaurant in Iyo.",
+     "source_url": "https://iyokankou.jp/spot/spot-1115/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Ryobo",
+     "name_en": "Ryobo",
+     "name_ja": "良坊",
+     "description": "Restaurant in Iyo.",
+     "source_url": "https://iyokankou.jp/spot/spot-1948/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Donto",
+     "name_en": "Donto",
+     "name_ja": "どんと",
+     "description": "Restaurant in Iyo.",
+     "source_url": "https://www.openstreetmap.org/node/4675932591",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Bar in Iyo",
+     "name_en": "Bar in Iyo",
+     "name_ja": "ガリバーハット伊予松前店",
+     "description": "Restaurant in Iyo.",
+     "source_url": "https://www.openstreetmap.org/node/12848307845",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Japanese restaurant in Iyo",
      "name_en": "Japanese restaurant in Iyo",
      "name_ja": "味芳",
@@ -1498,6 +2310,24 @@
      "name_ja": "料理どころ 翠笑",
      "description": "Japanese restaurant in Iyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38010681/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Asahiya Shokudo",
+     "name_en": "Asahiya Shokudo",
+     "name_ja": "朝日屋食堂",
+     "description": "Japanese restaurant in Iyo.",
+     "source_url": "https://iyokankou.jp/spot/spot-2153/",
+     "page": "https://bokenjapan.com/ehime/iyo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shidashi Kappo Nada",
+     "name_en": "Shidashi Kappo Nada",
+     "name_ja": "仕出し・割烹 灘",
+     "description": "Japanese restaurant in Iyo.",
+     "source_url": "https://iyokankou.jp/spot/spot-1063/",
      "page": "https://bokenjapan.com/ehime/iyo/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -2523,7 +3353,7 @@
     "address": "631 Tsutsui, Masaki Town, Iyo District, Ehime 791-3192, Japan",
     "phone": "089-985-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Masaki Town Hall",
@@ -2597,6 +3427,32 @@
      "category": "Casual"
     },
     {
+     "name": "emi kitchen",
+     "name_en": "emi kitchen",
+     "description": "Food court in Masaki.",
+     "source_url": "https://www.openstreetmap.org/node/2112212647",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Hokkahokka Tei Masaki Branch",
+     "name_en": "Hokkahokka Tei Masaki Branch",
+     "name_ja": "ほっかほっか亭松前店",
+     "description": "Fast-food restaurant in Masaki.",
+     "source_url": "https://www.openstreetmap.org/node/2386738506",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Osakaosho emiful MASAKI Branch",
+     "name_en": "Osakaosho emiful MASAKI Branch",
+     "name_ja": "大阪王将 エミフルMASAKI店",
+     "description": "Chinese restaurant in Masaki.",
+     "source_url": "https://www.openstreetmap.org/way/201270621",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Girasole",
      "name_en": "Girasole",
      "name_ja": "ジラソーレ",
@@ -2624,6 +3480,24 @@
      "category": "European"
     },
     {
+     "name": "EMI GOURMET",
+     "name_en": "EMI GOURMET",
+     "name_ja": "エミグルメ",
+     "description": "Italian and French restaurant in Masaki.",
+     "source_url": "https://www.openstreetmap.org/node/2109276990",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Steak Hamburg Steak&Saradaba Ken",
+     "name_en": "Steak Hamburg Steak&Saradaba Ken",
+     "name_ja": "ステーキハンバーグ & サラダバー けん",
+     "description": "Italian restaurant in Masaki.",
+     "source_url": "https://www.openstreetmap.org/way/201270619",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Yakiniku-en",
      "name_en": "Yakiniku-en",
      "name_ja": "焼肉苑",
@@ -2647,6 +3521,15 @@
      "name_ja": "唐揚げ食堂 ごいち エミフルMASAKI店",
      "description": "Meat restaurant in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38013646/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Kan no Chubo Yakiniku Janjaka emiful MASAKI Branch",
+     "name_en": "Kan no Chubo Yakiniku Janjaka emiful MASAKI Branch",
+     "name_ja": "韓の厨房 焼肉 じゃんじゃか エミフルMASAKI店",
+     "description": "Yakiniku restaurant in Masaki.",
+     "source_url": "https://www.openstreetmap.org/way/201270626",
      "page": "https://bokenjapan.com/ehime/masaki/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -2714,11 +3597,56 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Ramen Kobo Ryo Hana Masaki Branch",
+     "name_en": "Ramen Kobo Ryo Hana Masaki Branch",
+     "name_ja": "らーめん工房りょう花松前店",
+     "description": "Ramen restaurant in Masaki.",
+     "source_url": "https://www.openstreetmap.org/node/2386739845",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Shoppu R56 Branch",
+     "name_en": "Ramen Shoppu R56 Branch",
+     "name_ja": "ラーメンショップ R56店",
+     "description": "Ramen restaurant in Masaki.",
+     "source_url": "https://www.openstreetmap.org/way/1434978177",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon Chaya Hokuto",
+     "name_en": "Udon Chaya Hokuto",
+     "name_ja": "うどん茶屋北斗",
+     "description": "Udon restaurant in Masaki.",
+     "source_url": "https://www.openstreetmap.org/node/2386745050",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Yamazaki",
      "name_en": "Yamazaki",
      "name_ja": "山崎",
      "description": "Japanese restaurant in Masaki, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38001553/",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Chibo Ehime emiful MASAKI Branch",
+     "name_en": "Chibo Ehime emiful MASAKI Branch",
+     "name_ja": "千房 愛媛エミフルMASAKI店",
+     "description": "Japanese restaurant in Masaki.",
+     "source_url": "https://www.openstreetmap.org/way/201270620",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kyosakanaya Amimoto",
+     "name_en": "Kyosakanaya Amimoto",
+     "name_ja": "居魚屋 網元",
+     "description": "Japanese restaurant in Masaki.",
+     "source_url": "https://www.openstreetmap.org/way/201270622",
      "page": "https://bokenjapan.com/ehime/masaki/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -2741,6 +3669,15 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Kaiten Sushi Tenten Maru Masaki Branch",
+     "name_en": "Kaiten Sushi Tenten Maru Masaki Branch",
+     "name_ja": "回転寿司てんてん丸松前店",
+     "description": "Sushi restaurant in Masaki.",
+     "source_url": "https://www.openstreetmap.org/node/2386725367",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Pain Maison Masaki",
      "name_en": "Pain Maison Masaki",
      "name_ja": "パンメゾン 松前店",
@@ -2757,11 +3694,38 @@
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38001573/",
      "page": "https://bokenjapan.com/ehime/masaki/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Cake Kobo Arumoni",
+     "name_en": "Cake Kobo Arumoni",
+     "name_ja": "ケーキ工房あるもに",
+     "description": "Bakery in Masaki.",
+     "source_url": "https://www.openstreetmap.org/node/2386741552",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Hatada Hompo Iyo Branch",
+     "name_en": "Hatada Hompo Iyo Branch",
+     "name_ja": "畑田本舗伊予店",
+     "description": "Bakery in Masaki.",
+     "source_url": "https://www.openstreetmap.org/node/2386724881",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Ichiroku Hompo Masaki Branch",
+     "name_en": "Ichiroku Hompo Masaki Branch",
+     "name_ja": "一六本舗松前店",
+     "description": "Bakery in Masaki.",
+     "source_url": "https://www.openstreetmap.org/node/2386744459",
+     "page": "https://bokenjapan.com/ehime/masaki/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "sights": [
     {
-     "name": "Emifuru MASAKI",
+     "name": "emiful MASAKI",
      "source_url": "https://www.town.masaki.ehime.jp/",
      "page": "https://bokenjapan.com/ehime/masaki/see/"
     },
@@ -2962,7 +3926,7 @@
     "address": "7-2 Nibancho 4-chome, Matsuyama City, Ehime 790-8571, Japan",
     "phone": "089-948-6688"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Matsuyama City Hall",
@@ -2989,6 +3953,151 @@
    ],
    "food": [
     {
+     "name": "Dogo no Machiya",
+     "name_en": "Dogo no Machiya",
+     "name_ja": "道後の町屋",
+     "description": "Cafe in Dogo Yuyuki Machi, Matsuyama. Open daily 10:00-20:00.",
+     "source_url": "https://www.dogonomachiya.com/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "10 FACTORY",
+     "name_en": "10 FACTORY",
+     "description": "Cafe in Matsuyama. Open daily 09:30-19:00.",
+     "source_url": "https://www.openstreetmap.org/node/10839392513",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Akua Cafe",
+     "name_en": "Akua Cafe",
+     "name_ja": "アクアカフェ",
+     "description": "Cafe in Matsuyama. Open Mon-Fri 09:00-18:00.",
+     "source_url": "https://www.openstreetmap.org/node/5025551249",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "AMANDA COFFEE'S",
+     "name_en": "AMANDA COFFEE'S",
+     "description": "Cafe in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/5644232018",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "AMOUR",
+     "name_en": "AMOUR",
+     "description": "Cafe in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/8244379252",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Annette Anetto",
+     "name_en": "Annette Anetto",
+     "name_ja": "Annette アネット",
+     "description": "Regional Japanese cafe in Matsuyama. Open daily 11:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/way/492797754",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Café in Matsuyama",
+     "name_en": "Café in Matsuyama",
+     "name_ja": "カフェアレグリア",
+     "description": "Cafe in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/2385768709",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Ruche Hanamizuki",
+     "name_en": "Cafe Ruche Hanamizuki",
+     "name_ja": "カフェルーチェはなみずき",
+     "description": "Cafe in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/2385768040",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafemuseum",
+     "name_en": "Cafemuseum",
+     "description": "Cafe in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/3960741875",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Coffee Specialty Shop Karin",
+     "name_en": "Coffee Specialty Shop Karin",
+     "name_ja": "珈琲専門店 珈琳",
+     "description": "Cafe in Matsuyama. Open Mon-Fri 08:00-17:00; closed Sat-Sun, public holidays.",
+     "source_url": "https://www.openstreetmap.org/node/13816427050",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "K's Cafe",
+     "name_en": "K's Cafe",
+     "description": "Cafe in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/2439785252",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "McCafe by Barista",
+     "name_en": "McCafe by Barista",
+     "description": "Cafe in Matsuyama. Open daily 07:00-24:00.",
+     "source_url": "https://www.openstreetmap.org/node/2670461721",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Redondo Coffee",
+     "name_en": "Redondo Coffee",
+     "description": "Cafe in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/6866154084",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Sangosho",
+     "name_en": "Sangosho",
+     "name_ja": "珊瑚礁",
+     "description": "Curry cafe in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/2210728532",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Asunaro",
+     "name_en": "Asunaro",
+     "description": "Sandwich restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/5087821886",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Obentoyasan",
+     "name_en": "Obentoyasan",
+     "name_ja": "お弁当屋さん",
+     "description": "Fast-food restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/5932929696",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Tanimoto Kamaboko",
+     "name_en": "Tanimoto Kamaboko",
+     "name_ja": "谷本蒲鉾店",
+     "description": "Fast-food restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/8331986281",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Shanhai Tenshin Arakajime Sono",
      "name_en": "Shanhai Tenshin Arakajime Sono",
      "name_ja": "上海点心 豫園",
@@ -2996,6 +4105,40 @@
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38000161/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/chinese-asian/",
      "category": "Chinese & Asian"
+    },
+    {
+     "name": "Chaina House Sukeroku Oguri Branch",
+     "name_en": "Chaina House Sukeroku Oguri Branch",
+     "name_ja": "チャイナハウスすけろく 小栗店",
+     "description": "Chinese restaurant in Oguri, Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/2385960074",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Gohan Dorobo",
+     "name_en": "Gohan Dorobo",
+     "name_ja": "ごはん泥棒",
+     "description": "Chinese restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/5025570564",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Ladkis Indian Restaurant",
+     "name_en": "Ladkis Indian Restaurant",
+     "description": "Indian restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/1505254643",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "OUT THERE",
+     "name_en": "OUT THERE",
+     "description": "Curry restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/12944287210",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/curry/",
+     "category": "Curry"
     },
     {
      "name": "Namae no Nai Italian Restaurant",
@@ -3029,6 +4172,32 @@
      "name_ja": "ラ・セーラ",
      "description": "European restaurant in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38000678/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Al Porte",
+     "name_en": "Al Porte",
+     "name_ja": "アルポルテ",
+     "description": "Italian restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/5935625910",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Da Bocciano!",
+     "name_en": "Da Bocciano!",
+     "description": "Italian restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/6866172099",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Tosukana no Kyujitsu",
+     "name_en": "Tosukana no Kyujitsu",
+     "name_ja": "トスカーナの休日",
+     "description": "Italian restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/2385744367",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/european/",
      "category": "European"
     },
@@ -3069,11 +4238,79 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Bar Freedom",
+     "name_en": "Bar Freedom",
+     "description": "Bar in Nibancho, Matsuyama. Open daily 20:00-28:00.",
+     "source_url": "https://www.openstreetmap.org/node/13481553990",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "BARGIVE",
+     "name_en": "BARGIVE",
+     "description": "Bar in Nibancho, Matsuyama. Open daily 20:00-28:00.",
+     "source_url": "https://www.openstreetmap.org/node/13481819252",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Poco",
+     "name_en": "Poco",
+     "description": "Pub in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/6865340865",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Sumi Kokoro",
      "name_en": "Sumi Kokoro",
      "name_ja": "炭心",
      "description": "Meat restaurant in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38001214/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Himawari Grill",
+     "name_en": "Himawari Grill",
+     "name_ja": "鉄板GRILL ひまわり",
+     "description": "Meat restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/7709458885",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Kawakushi",
+     "name_en": "Kawakushi",
+     "name_ja": "川串",
+     "description": "Chicken restaurant in Kuwahara Shichi Chome, Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/9412250069",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakitori Ochi",
+     "name_en": "Yakitori Ochi",
+     "description": "Yakitori pub in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/6865281338",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakitori Tenyawanya Tsubaki Branch",
+     "name_en": "Yakitori Tenyawanya Tsubaki Branch",
+     "name_ja": "焼き鳥てんやわんや 椿店",
+     "description": "Yakitori restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/2387012140",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yamaya",
+     "name_en": "Yamaya",
+     "name_ja": "やまや",
+     "description": "Barbecue restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/6865340870",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -3094,6 +4331,172 @@
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38000037/",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/noodles/",
      "category": "Japanese (noodles)"
+    },
+    {
+     "name": "noodles shop Ikko Takanoko",
+     "name_en": "noodles shop Ikko Takanoko",
+     "name_ja": "ラーメン 一興 鷹子店",
+     "description": "Ramen restaurant in Takako Machi, Matsuyama. Open Sun-Sat 11:00-00:30.",
+     "source_url": "https://korepano.jp/ikkou-takanoko/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Buta Taro",
+     "name_en": "Buta Taro",
+     "name_ja": "豚太郎",
+     "description": "Noodle restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/6363720469",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Genji Kuruma",
+     "name_en": "Genji Kuruma",
+     "name_ja": "源氏車",
+     "description": "Ramen restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/8244379251",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Hana Henro",
+     "name_en": "Hana Henro",
+     "name_ja": "花へんろ",
+     "description": "Noodle restaurant in Matsuyama. Open daily 09:00-18:00.",
+     "source_url": "https://www.openstreetmap.org/node/2210736952",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Honebuto",
+     "name_en": "Honebuto",
+     "name_ja": "骨太",
+     "description": "Ramen restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/2306397771",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Hyogatsu",
+     "name_en": "Hyogatsu",
+     "name_ja": "瓢月",
+     "description": "Udon restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/6363999855",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ichiraku",
+     "name_en": "Ichiraku",
+     "name_ja": "手打ちうどん一楽",
+     "description": "Udon restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/5932929695",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kame Fuku",
+     "name_en": "Kame Fuku",
+     "name_ja": "かめ福",
+     "description": "Ramen restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/2305778256",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen restaurant in Matsuyama",
+     "name_en": "Ramen restaurant in Matsuyama",
+     "name_ja": "ラーメンく～た はなみずき店",
+     "description": "Ramen restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/2385773008",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ryo Hana",
+     "name_en": "Ryo Hana",
+     "name_ja": "りょう花",
+     "description": "Ramen restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/2308403680",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Soba Udon Tokoro Inakaya",
+     "name_en": "Soba Udon Tokoro Inakaya",
+     "name_ja": "そば・うどん処 田舎屋",
+     "description": "Udon restaurant in Matsuyama. Open daily 11:00-16:00.",
+     "source_url": "https://www.openstreetmap.org/way/183309709",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tsuru Tsurusei Mizumachi Branch",
+     "name_en": "Tsuru Tsurusei Mizumachi Branch",
+     "name_ja": "鶴鶴清水町店",
+     "description": "Udon restaurant in Shimizucho, Matsuyama. Open daily 11:00-15:00, 17:30-21:00.",
+     "source_url": "https://www.openstreetmap.org/way/514397181",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "foodcort",
+     "name_en": "foodcort",
+     "description": "Restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/2210736974",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Goshiki",
+     "name_en": "Goshiki",
+     "name_ja": "五志喜",
+     "description": "Restaurant in Matsuyama. Open daily 11:00-14:30, 17:00-22:30.",
+     "source_url": "https://www.openstreetmap.org/node/5537477323",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Hyougetsu",
+     "name_en": "Hyougetsu",
+     "name_ja": "ひょうげつ",
+     "description": "Restaurant in Matsuyama. Open Tue-Sat 11:00-20:00.",
+     "source_url": "https://www.openstreetmap.org/node/5926081885",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "La-sera",
+     "name_en": "La-sera",
+     "description": "Restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/6865941638",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "NorthShore",
+     "name_en": "NorthShore",
+     "description": "Restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/5932929694",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Radice",
+     "name_en": "Radice",
+     "description": "Restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/6865340869",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Sicilia",
+     "name_en": "Sicilia",
+     "description": "Restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/6865340873",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other/",
+     "category": "Other"
     },
     {
      "name": "Dogo Kaishu",
@@ -3132,8 +4535,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Japanese restaurant in Matsuyama",
-     "name_en": "Japanese restaurant in Matsuyama",
+     "name": "Japanese restaurant in Matsuyama (#21)",
+     "name_en": "Japanese restaurant in Matsuyama (#21)",
      "name_ja": "なの花",
      "description": "Japanese restaurant in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38000602/",
@@ -3146,6 +4549,132 @@
      "name_ja": "酒処 ひょうどう",
      "description": "Japanese restaurant in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38015139/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Uotake",
+     "name_en": "Uotake",
+     "name_ja": "魚武",
+     "description": "Regional Japanese restaurant in Dogo Yuyuki Machi, Matsuyama. Open daily 11:00-23:00.",
+     "source_url": "http://www.dogo-uotake.com/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Dogo Inari Yunoya",
+     "name_en": "Dogo Inari Yunoya",
+     "name_ja": "道後いなり ゆのや",
+     "description": "Japanese restaurant in Matsuyama. Open Mon-Tue, Thu-Sun 10:00-16:00.",
+     "source_url": "https://www.openstreetmap.org/node/10836417483",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Gansui",
+     "name_en": "Gansui",
+     "name_ja": "丸水",
+     "description": "Japanese restaurant in Dogo Yuyuki Machi, Matsuyama. Open daily 11:00-15:00, 17:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/5644001904",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Gempachi",
+     "name_en": "Gempachi",
+     "name_ja": "源八",
+     "description": "Japanese restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/2385764652",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Matsuyama (#4)",
+     "name_en": "Japanese restaurant in Matsuyama (#4)",
+     "name_ja": "大地の母",
+     "description": "Japanese and Regional Japanese restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/5929052187",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Iki Nio Tabeya Happyaku Kin",
+     "name_en": "Iki Nio Tabeya Happyaku Kin",
+     "name_ja": "活きにお食べ屋八百金",
+     "description": "Japanese restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/2385849392",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese Dining Nino",
+     "name_en": "Japanese Dining Nino",
+     "name_ja": "Japanese Dining にの",
+     "description": "Japanese restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/5087821887",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kani Shimizu",
+     "name_en": "Kani Shimizu",
+     "name_ja": "かに志水",
+     "description": "Japanese restaurant in Gioncho, Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/5087849960",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Marusho",
+     "name_en": "Marusho",
+     "name_ja": "まるしょう",
+     "description": "Japanese restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/2312858746",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Okonomiyaki Kaz",
+     "name_en": "Okonomiyaki Kaz",
+     "name_ja": "お好み焼き 和",
+     "description": "Japanese restaurant in Matsuyama. Open Thu-Tue 09:00-14:00, 17:00-21:30.",
+     "source_url": "https://www.openstreetmap.org/node/5932952785",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Matsuyama (#3)",
+     "name_en": "Japanese restaurant in Matsuyama (#3)",
+     "name_ja": "お好み焼き・オレンジりんごはなみずき店",
+     "description": "Japanese restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/2385856801",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Okonomiyaki Teppanyaki Tsubakiya",
+     "name_en": "Okonomiyaki Teppanyaki Tsubakiya",
+     "name_ja": "お好み焼鉄板焼椿や",
+     "description": "Okonomiyaki restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/2387013350",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Matsuyama (#2)",
+     "name_en": "Japanese restaurant in Matsuyama (#2)",
+     "name_ja": "炭炉ばた こみ哉 松山",
+     "description": "Japanese restaurant in Matsuyama. Open daily 17:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/13702750901",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Ume no Hana Matsuyama Branch",
+     "name_en": "Ume no Hana Matsuyama Branch",
+     "name_ja": "梅の花 松山店",
+     "description": "Japanese restaurant in Shoseki Machi, Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/2388079746",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -3195,11 +4724,107 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Sushi restaurant in Matsuyama",
+     "name_en": "Sushi restaurant in Matsuyama",
+     "name_ja": "お寿司通リ 古川店",
+     "description": "Sushi restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/2385855557",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Maru",
+     "name_en": "Sushi Maru",
+     "name_ja": "すし丸",
+     "description": "Sushi restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/4764706030",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Wakaba Sushi",
+     "name_en": "Wakaba Sushi",
+     "name_ja": "若葉寿司",
+     "description": "Sushi restaurant in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/2387011575",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Kiri no Mori Kashi Kobo Matsuyama",
      "name_en": "Kiri no Mori Kashi Kobo Matsuyama",
      "name_ja": "霧の森菓子工房 松山店",
      "description": "Sweets and bakery shop in Matsuyama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380101/38000209/",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Kiri no Mori Kashi Kobo",
+     "name_en": "Kiri no Mori Kashi Kobo",
+     "name_ja": "霧の森菓子工房",
+     "description": "Pastry shop in Matsuyama. Open daily 09:30-17:30.",
+     "source_url": "https://www.openstreetmap.org/node/8869580318",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Navy Bagels",
+     "name_en": "Navy Bagels",
+     "description": "Bakery in Matsuyama.",
+     "source_url": "https://navybagels.thebase.in",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Boulangerie Ape Fujiwara Shop",
+     "name_en": "Boulangerie Ape Fujiwara Shop",
+     "name_ja": "ブゥランジェリィApe 藤原店",
+     "description": "Bakery in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/2394040144",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "COPAN",
+     "name_en": "COPAN",
+     "description": "Bakery in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/2315336246",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Pan Stage Merry",
+     "name_en": "Pan Stage Merry",
+     "name_ja": "パンステージメリー",
+     "description": "Bakery in Minami Tsuchii Machi, Matsuyama. Open Wed-Sun 09:00-18:00.",
+     "source_url": "https://www.openstreetmap.org/way/1491373216",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Rokenmantotakeuchi",
+     "name_en": "Rokenmantotakeuchi",
+     "name_ja": "労研饅頭大街道店",
+     "description": "Bakery in Matsuyama.",
+     "source_url": "https://www.openstreetmap.org/node/5108253723",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "SPOT COFFEE STAND",
+     "name_en": "SPOT COFFEE STAND",
+     "description": "Cake cafe in Matsuyama. Open Wed-Mon 08:00-17:00.",
+     "source_url": "https://www.openstreetmap.org/node/13449384501",
+     "page": "https://bokenjapan.com/ehime/matsuyama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bakery in Matsuyama",
+     "name_en": "Bakery in Matsuyama",
+     "name_ja": "ユノマチベーカリー",
+     "description": "Bakery in Matsuyama. Open Tue-Sat 06:30-17:00; closed Sun-Mon.",
+     "source_url": "https://www.openstreetmap.org/node/13866539540",
      "page": "https://bokenjapan.com/ehime/matsuyama/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -3375,8 +5000,8 @@
      "page": "https://bokenjapan.com/ehime/matsuyama/stay/"
     },
     {
-     "name": "APA Hotel < Matsuyamashi Ekimae >",
-     "name_en": "APA Hotel < Matsuyamashi Ekimae >",
+     "name": "APA Hotel (Matsuyamashi Ekimae)",
+     "name_en": "APA Hotel (Matsuyamashi Ekimae)",
      "name_ja": "アパホテル〈松山市駅前〉",
      "description": "Hotel in Minatomachi, Matsuyama, opening July 2026 as Shikoku's first newly built APA Hotel at Matsuyama City Station.",
      "source_url": "https://www.ikyu.com/00082810/",
@@ -3487,8 +5112,8 @@
      "page": "https://bokenjapan.com/ehime/matsuyama/stay/"
     },
     {
-     "name": "APA Hotel < Matsuyamajo Nishi >",
-     "name_en": "APA Hotel < Matsuyamajo Nishi >",
+     "name": "APA Hotel (Matsuyamajo Nishi)",
+     "name_en": "APA Hotel (Matsuyamajo Nishi)",
      "name_ja": "アパホテル〈松山城西〉",
      "description": "Hotel in Honmachi, Matsuyama, west of Matsuyama Castle, with free video on demand of over 200 titles and a convenience store in front.",
      "source_url": "https://www.ikyu.com/00080924/",
@@ -3605,8 +5230,8 @@
      "page": "https://bokenjapan.com/ehime/matsuyama/stay/"
     },
     {
-     "name": "Hotel TOPINN( Top Inn )",
-     "name_en": "Hotel TOPINN( Top Inn )",
+     "name": "Hotel TOPINN(Top Inn)",
+     "name_en": "Hotel TOPINN(Top Inn)",
      "name_ja": "Ｈｏｔｅｌ ＴＯＰＩＮＮ（トップイン）",
      "description": "Business hotel in Ichibancho, Matsuyama.",
      "source_url": "https://www.jalan.net/yad351913/",
@@ -3653,8 +5278,8 @@
      "page": "https://bokenjapan.com/ehime/matsuyama/stay/"
     },
     {
-     "name": "Hotel San Garden Matsuyama (BBH Hotel Gurupu )",
-     "name_en": "Hotel San Garden Matsuyama (BBH Hotel Gurupu )",
+     "name": "Hotel San Garden Matsuyama (BBH Hotel Gurupu)",
+     "name_en": "Hotel San Garden Matsuyama (BBH Hotel Gurupu)",
      "name_ja": "ホテルサンガーデン松山（BBHホテルグループ）",
      "description": "Hotel in Heiwadori, Matsuyama, part of the BBH Hotel Group, with a free breakfast buffet and surface parking.",
      "source_url": "https://www.jalan.net/yad314670/",
@@ -3717,8 +5342,8 @@
      "page": "https://bokenjapan.com/ehime/matsuyama/stay/"
     },
     {
-     "name": "Hotel Matsuyama Hills JR Matsuyama Ekimae Mise (BBH Hotel Group )",
-     "name_en": "Hotel Matsuyama Hills JR Matsuyama Ekimae Mise (BBH Hotel Group )",
+     "name": "Hotel Matsuyama Hills JR Matsuyama Ekimae Mise (BBH Hotel Group)",
+     "name_en": "Hotel Matsuyama Hills JR Matsuyama Ekimae Mise (BBH Hotel Group)",
      "name_ja": "ホテル松山ヒルズ ＪＲ松山駅前店（ＢＢＨホテルグループ）",
      "description": "Hotel in Otemachi, Matsuyama, three minutes on foot from JR Matsuyama Station, with free breakfast and free weekday dinner.",
      "source_url": "https://www.jalan.net/yad314834/",
@@ -4247,7 +5872,7 @@
     "address": "1-5-1 Ichinomiya-cho, Niihama City, Ehime 792-8585, Japan",
     "phone": "0897-65-1234"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Niihama City Hall",
@@ -4266,6 +5891,103 @@
     }
    ],
    "food": [
+    {
+     "name": "Cafe in Niihama (#1)",
+     "name_en": "Cafe in Niihama (#1)",
+     "name_ja": "ビクトリア",
+     "description": "Cafe in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/10683973217",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe La Miell",
+     "name_en": "Cafe La Miell",
+     "description": "Cafe in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1272710353",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Chiroe’s Cafe",
+     "name_en": "Chiroe’s Cafe",
+     "description": "Cafe in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/10681352126",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Garden side Chaya",
+     "name_en": "Garden side Chaya",
+     "name_ja": "Garden side 茶屋",
+     "description": "Cafe in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/10687553505",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Hana Buranko",
+     "name_en": "Hana Buranko",
+     "name_ja": "花ぶらんこ",
+     "description": "Cafe in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/2183084217",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Komeda's Coffee",
+     "name_en": "Komeda's Coffee",
+     "name_ja": "コメダ珈琲店",
+     "description": "Cafe in Niihama. Open public holidays, Mon-Sun 07:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/10559296100",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Niihama (#3)",
+     "name_en": "Cafe in Niihama (#3)",
+     "name_ja": "コンビ",
+     "description": "Cafe in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/2183012233",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kouhii Taimu",
+     "name_en": "Kouhii Taimu",
+     "name_ja": "こうひい",
+     "description": "Cafe in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/5960487885",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Niihama (#4)",
+     "name_en": "Cafe in Niihama (#4)",
+     "name_ja": "ピエロの巣",
+     "description": "Cafe in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/2183058882",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Niihama (#2)",
+     "name_en": "Cafe in Niihama (#2)",
+     "name_ja": "ピノキオ",
+     "description": "Cafe in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/2182969053",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Starbucks",
+     "name_en": "Starbucks",
+     "name_ja": "スターバックス",
+     "description": "Cafe in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/10683103434",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/cafe/",
+     "category": "Cafe"
+    },
     {
      "name": "Hiroshima Kaze Okonomiyaki Ishi",
      "name_en": "Hiroshima Kaze Okonomiyaki Ishi",
@@ -4321,6 +6043,60 @@
      "category": "Casual"
     },
     {
+     "name": "Gindaco",
+     "name_en": "Gindaco",
+     "name_ja": "築地銀だこ",
+     "description": "Fast-food restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/10683103445",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Matsuya",
+     "name_en": "Matsuya",
+     "name_ja": "松屋",
+     "description": "Fast-food restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/10673975198",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "name_ja": "マクドナルド",
+     "description": "Burger fast-food restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/634154147",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Fast-food restaurant in Niihama",
+     "name_en": "Fast-food restaurant in Niihama",
+     "name_ja": "ミント",
+     "description": "Fast-food restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1272396751",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "MOS Burger",
+     "name_en": "MOS Burger",
+     "name_ja": "モスバーガー",
+     "description": "Burger fast-food restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1150196606",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Sukiya",
+     "name_en": "Sukiya",
+     "name_ja": "すき家",
+     "description": "Fast-food restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/10673976411",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Chugoku Saibo Kudo",
      "name_en": "Chugoku Saibo Kudo",
      "name_ja": "中国菜房 くどう",
@@ -4328,6 +6104,33 @@
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38011379/",
      "page": "https://bokenjapan.com/ehime/niihama/eat/chinese-asian/",
      "category": "Chinese & Asian"
+    },
+    {
+     "name": "Chinese restaurant in Niihama",
+     "name_en": "Chinese restaurant in Niihama",
+     "name_ja": "中華麺飯茶屋 佳",
+     "description": "Chinese restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/10681345782",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Koen",
+     "name_en": "Koen",
+     "name_ja": "餃苑",
+     "description": "Chinese restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/2183079155",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Curry restaurant in Niihama",
+     "name_en": "Curry restaurant in Niihama",
+     "name_ja": "CoCo壱番屋",
+     "description": "Curry restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/696846366",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/curry/",
+     "category": "Curry"
     },
     {
      "name": "Marubun Niihama",
@@ -4347,6 +6150,131 @@
      "category": "European"
     },
     {
+     "name": "Big Boy",
+     "name_en": "Big Boy",
+     "name_ja": "ビッグボーイ",
+     "description": "Western-style restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1148136567",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "French restaurant in Niihama",
+     "name_en": "French restaurant in Niihama",
+     "name_ja": "ブラン・ブルー",
+     "description": "French restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/10690517864",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Pizza restaurant in Niihama (#2)",
+     "name_en": "Pizza restaurant in Niihama (#2)",
+     "name_ja": "ドミノ・ピザ",
+     "description": "Pizza restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1149352635",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Gusto",
+     "name_en": "Gusto",
+     "name_ja": "ガスト",
+     "description": "Western-style restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/10572727710",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Pizza restaurant in Niihama (#1)",
+     "name_en": "Pizza restaurant in Niihama (#1)",
+     "name_ja": "マルブン",
+     "description": "Pizza restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/717451193",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "SHINOHARA",
+     "name_en": "SHINOHARA",
+     "description": "French restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/10681345778",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Genkaya",
+     "name_en": "Genkaya",
+     "name_ja": "原価屋",
+     "description": "Pub in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/2183115069",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Hama",
+     "name_en": "Izakaya Hama",
+     "name_ja": "居酒屋浜",
+     "description": "Izakaya pub in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/2182969081",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Takurochan",
+     "name_en": "Izakaya Takurochan",
+     "name_ja": "居酒屋たくろうちゃん",
+     "description": "Izakaya pub in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/2182965000",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Yochan",
+     "name_en": "Izakaya Yochan",
+     "name_ja": "居酒屋よちゃん",
+     "description": "Izakaya pub in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/2183085332",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Matchan",
+     "name_en": "Matchan",
+     "name_ja": "まっちゃん",
+     "description": "Pub in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/2182965021",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Sato Hachi",
+     "name_en": "Sato Hachi",
+     "name_ja": "さと八",
+     "description": "Pub in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/10681345802",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Sumibi Yaki Tanabe",
+     "name_en": "Sumibi Yaki Tanabe",
+     "name_ja": "炭火焼たなべ",
+     "description": "Pub in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/2182968562",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Tokiwa Tei",
+     "name_en": "Tokiwa Tei",
+     "name_ja": "ときわ亭",
+     "description": "Pub in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1272396713",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Donburiya",
      "name_en": "Donburiya",
      "name_ja": "ドン☆ぶり屋",
@@ -4361,6 +6289,86 @@
      "name_ja": "古家",
      "description": "Meat restaurant in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38006852/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Gyu-Kaku",
+     "name_en": "Gyu-Kaku",
+     "name_ja": "牛角",
+     "description": "Barbecue restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1148200514",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Janjaka",
+     "name_en": "Janjaka",
+     "name_ja": "じゃんじゃか",
+     "description": "Barbecue restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1272055842",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Keijo Sono",
+     "name_en": "Keijo Sono",
+     "name_ja": "京城園",
+     "description": "Barbecue restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1442586914",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "KFC",
+     "name_en": "KFC",
+     "name_ja": "ケンタッキーフライドチキン",
+     "description": "Chicken restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/10683103436",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Man Maru",
+     "name_en": "Man Maru",
+     "name_ja": "萬まる",
+     "description": "Barbecue restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1442586908",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Pepper Lunch",
+     "name_en": "Pepper Lunch",
+     "description": "Teppanyaki restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/10683103446",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Meat pub in Niihama",
+     "name_en": "Meat pub in Niihama",
+     "name_ja": "鉄板焼き ひびき",
+     "description": "Meat pub in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/10681345783",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Barbecue restaurant in Niihama (#1)",
+     "name_en": "Barbecue restaurant in Niihama (#1)",
+     "name_ja": "ヴィヤンド",
+     "description": "Barbecue restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1148003257",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Barbecue restaurant in Niihama (#2)",
+     "name_en": "Barbecue restaurant in Niihama (#2)",
+     "name_ja": "和牛 じゅう兵衛",
+     "description": "Barbecue restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1446313142",
      "page": "https://bokenjapan.com/ehime/niihama/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -4473,11 +6481,308 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Buta Taro",
+     "name_en": "Buta Taro",
+     "name_ja": "豚太郎",
+     "description": "Noodle restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/2182962658",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Fukufuku",
+     "name_en": "Fukufuku",
+     "name_ja": "福々",
+     "description": "Noodle restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1272324431",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Gamba Tei",
+     "name_en": "Gamba Tei",
+     "name_ja": "がんば亭",
+     "description": "Noodle restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1442586909",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Hanamarudon",
+     "name_en": "Hanamarudon",
+     "name_ja": "はなまるうどん",
+     "description": "Udon restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/696846410",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Marugame Seimen",
+     "name_en": "Marugame Seimen",
+     "name_ja": "丸亀製麺",
+     "description": "Noodle restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/10683103447",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Menya Yoshimura",
+     "name_en": "Menya Yoshimura",
+     "name_ja": "麺や吉村",
+     "description": "Noodle restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/2201048594",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ryo Hana",
+     "name_en": "Ryo Hana",
+     "name_ja": "りょう花",
+     "description": "Ramen restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1442586905",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tenkaippin",
+     "name_en": "Tenkaippin",
+     "name_ja": "天下一品",
+     "description": "Ramen restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/11814665969",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon Hono Kaori",
+     "name_en": "Udon Hono Kaori",
+     "name_ja": "うどんほの香",
+     "description": "Noodle restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1446313137",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Restaurant in Niihama",
+     "name_en": "Restaurant in Niihama",
+     "name_ja": "アンジュール＋",
+     "description": "Restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/2183072536",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Nippon Ryori Sasaki",
+     "name_en": "Nippon Ryori Sasaki",
+     "name_ja": "日本料理 佐々木",
+     "description": "Restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/5266273675",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Don Buriya",
+     "name_en": "Don Buriya",
+     "name_ja": "ドンぶり屋",
+     "description": "Japanese restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/13265398988",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Hachimaru Shoten",
+     "name_en": "Hachimaru Shoten",
+     "name_ja": "ハチマル商店",
+     "description": "Japanese restaurant in Niihama. Open daily 18:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/10647825211",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Katsu Fuku",
+     "name_en": "Katsu Fuku",
+     "name_ja": "かつ福",
+     "description": "Japanese restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1442586902",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Katsuretsu Tei",
+     "name_en": "Katsuretsu Tei",
+     "name_ja": "かつれつ亭",
+     "description": "Japanese restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1148003250",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kokuryo Shokudo",
+     "name_en": "Kokuryo Shokudo",
+     "name_ja": "こくりょう食堂",
+     "description": "Japanese restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/696846346",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Niihama Showa Tori Shokudo",
+     "name_en": "Niihama Showa Tori Shokudo",
+     "name_ja": "新居浜昭和通り食堂",
+     "description": "Japanese restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1272055841",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Setochi Ryori Heihachi",
+     "name_en": "Setochi Ryori Heihachi",
+     "name_ja": "瀬戸内料理 平八",
+     "description": "Japanese restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/2182952741",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Tagaya Shokudo",
+     "name_en": "Tagaya Shokudo",
+     "name_ja": "多賀屋食堂",
+     "description": "Japanese restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/5266225899",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Tako Bee",
+     "name_en": "Tako Bee",
+     "name_ja": "たこ兵衛",
+     "description": "Japanese restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1445807267",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yushoku Boya",
+     "name_en": "Yushoku Boya",
+     "name_ja": "游食房屋",
+     "description": "Japanese restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1445225358",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Hamasushi",
+     "name_en": "Hamasushi",
+     "name_ja": "はま寿司",
+     "description": "Sushi restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1148003241",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi restaurant in Niihama",
+     "name_en": "Sushi restaurant in Niihama",
+     "name_ja": "亀寿し",
+     "description": "Sushi restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/2210991501",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Jaku&Junsai Waka",
+     "name_en": "Sushi Jaku&Junsai Waka",
+     "name_ja": "すし若＆旬彩わか",
+     "description": "Sushi restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/10681345779",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Yachiyo Zushi",
+     "name_en": "Yachiyo Zushi",
+     "name_ja": "八千代ずし",
+     "description": "Sushi restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/2183071517",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Sweets and bakery shop in Niihama",
      "name_en": "Sweets and bakery shop in Niihama",
      "name_ja": "フクスケ",
      "description": "Sweets and bakery shop in Niihama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380203/38008191/",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Baskin-Robbins",
+     "name_en": "Baskin-Robbins",
+     "name_ja": "サーティワンアイスクリーム",
+     "description": "Ice cream ice cream shop in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/10683103435",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Besshi Ame Hompo",
+     "name_en": "Besshi Ame Hompo",
+     "name_ja": "別子飴本舗",
+     "description": "Sweets shop in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1442586895",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Bakery in Niihama",
+     "name_en": "Bakery in Niihama",
+     "name_ja": "ビュッテ・ドゥ・アンジュ",
+     "description": "Bakery in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1272396766",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Pastry shop in Niihama (#2)",
+     "name_en": "Pastry shop in Niihama (#2)",
+     "name_ja": "永久堂",
+     "description": "Pastry shop in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1442550300",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Pastry shop in Niihama (#1)",
+     "name_en": "Pastry shop in Niihama (#1)",
+     "name_ja": "フェアリーテール",
+     "description": "Pastry shop in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1148003249",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets shop in Niihama",
+     "name_en": "Sweets shop in Niihama",
+     "name_ja": "ハタダ",
+     "description": "Sweets shop in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1142191181",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Ichiroku Hompo",
+     "name_en": "Ichiroku Hompo",
+     "name_ja": "一六本舗",
+     "description": "Sweets shop in Niihama.",
+     "source_url": "https://www.openstreetmap.org/way/1442586904",
+     "page": "https://bokenjapan.com/ehime/niihama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Mister Donut",
+     "name_en": "Mister Donut",
+     "name_ja": "ミスタードーナツ",
+     "description": "Donut restaurant in Niihama.",
+     "source_url": "https://www.openstreetmap.org/node/10683103437",
      "page": "https://bokenjapan.com/ehime/niihama/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -4638,7 +6943,7 @@
     "address": "690-1 Ozu, Ozu City, Ehime 795-8601, Japan",
     "phone": "0893-24-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Ozu City Hall",
@@ -4676,6 +6981,15 @@
      "category": "Cafe"
     },
     {
+     "name": "Garyu Chaya",
+     "name_en": "Garyu Chaya",
+     "name_ja": "臥龍茶屋",
+     "description": "Cafe in Ozu.",
+     "source_url": "https://www.openstreetmap.org/node/5542176789",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Casual restaurant in Ozu (#6)",
      "name_en": "Casual restaurant in Ozu (#6)",
      "name_ja": "美ゆき 大洲店",
@@ -4699,6 +7013,15 @@
      "name_ja": "五志喜めんそーれ",
      "description": "Casual restaurant in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38003219/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Marugame Seimen",
+     "name_en": "Marugame Seimen",
+     "name_ja": "丸亀製麺",
+     "description": "Fast-food restaurant in Ozu.",
+     "source_url": "https://www.openstreetmap.org/node/7022888751",
      "page": "https://bokenjapan.com/ehime/ozu/eat/casual/",
      "category": "Casual"
     },
@@ -4753,6 +7076,15 @@
      "name_ja": "葵",
      "description": "Izakaya or bar in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38006869/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Garyu Brewing",
+     "name_en": "Garyu Brewing",
+     "name_ja": "臥龍醸造",
+     "description": "Pub in Ozu.",
+     "source_url": "https://www.openstreetmap.org/way/369632563",
      "page": "https://bokenjapan.com/ehime/ozu/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -4819,11 +7151,137 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Ramen Shoppu KANTO Ozu Branch",
+     "name_en": "Ramen Shoppu KANTO Ozu Branch",
+     "name_ja": "ラーメンショップKANTO大洲店",
+     "description": "Ramen restaurant in Ozu.",
+     "source_url": "https://www.openstreetmap.org/way/607355673",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Amago no Sato",
+     "name_en": "Amago no Sato",
+     "name_ja": "あまごの里",
+     "description": "Restaurant in Ozu.",
+     "source_url": "https://www.city.ozu.ehime.jp/soshiki/shoukou/29655.html",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Horie",
+     "name_en": "Horie",
+     "name_ja": "ほりえ",
+     "description": "Restaurant in Ozu.",
+     "source_url": "http://www.oozukankou.jp/syokuji-o.html",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Jomon",
+     "name_en": "Jomon",
+     "name_ja": "じょうもん",
+     "description": "Restaurant in Ozu.",
+     "source_url": "https://www.city.ozu.ehime.jp/soshiki/shoukou/29655.html",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kachan no Mise Tsurumaru",
+     "name_en": "Kachan no Mise Tsurumaru",
+     "name_ja": "かぁちゃんの店 鶴丸",
+     "description": "Restaurant in Ozu.",
+     "source_url": "https://www.city.ozu.ehime.jp/soshiki/shoukou/29655.html",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kawauo Ryori Nakatsuka",
+     "name_en": "Kawauo Ryori Nakatsuka",
+     "name_ja": "川魚料理 なかつか",
+     "description": "Restaurant in Ozu.",
+     "source_url": "http://www.oozukankou.jp/syokuji-o.html",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Konishi",
+     "name_en": "Konishi",
+     "name_ja": "小にし",
+     "description": "Restaurant in Ozu.",
+     "source_url": "http://www.oozukankou.jp/syokuji-o.html",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Muraya",
+     "name_en": "Muraya",
+     "name_ja": "むらや",
+     "description": "Restaurant in Ozu.",
+     "source_url": "http://www.oozukankou.jp/syokuji-o.html",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Shokujidokoro Nishikawa",
+     "name_en": "Shokujidokoro Nishikawa",
+     "name_ja": "お食事処 にし川",
+     "description": "Restaurant in Ozu.",
+     "source_url": "https://www.city.ozu.ehime.jp/soshiki/shoukou/29655.html",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Umetako",
+     "name_en": "Umetako",
+     "name_ja": "うめたこ",
+     "description": "Restaurant in Ozu.",
+     "source_url": "http://www.oozukankou.jp/syokuji-o.html",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Garyu",
+     "name_en": "Garyu",
+     "name_ja": "臥龍",
+     "description": "Restaurant in Ozu.",
+     "source_url": "https://www.openstreetmap.org/node/5920290190",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Yakata",
+     "name_en": "Yakata",
+     "name_ja": "やかた",
+     "description": "Restaurant in Ozu.",
+     "source_url": "https://www.openstreetmap.org/node/7022871840",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "To no Machi Taru I",
      "name_en": "To no Machi Taru I",
      "name_ja": "との町たる井",
      "description": "Japanese restaurant in Ozu, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380301/38000053/",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Sekisho restaurant",
+     "name_en": "Sekisho restaurant",
+     "name_ja": "セキショ食堂",
+     "description": "Japanese restaurant in Ozu.",
+     "source_url": "https://www.openstreetmap.org/node/5919824185",
+     "page": "https://bokenjapan.com/ehime/ozu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yonezawa",
+     "name_en": "Yonezawa",
+     "name_ja": "よねざわ",
+     "description": "Japanese restaurant in Ozu.",
+     "source_url": "https://www.openstreetmap.org/node/11385276084",
      "page": "https://bokenjapan.com/ehime/ozu/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -4991,7 +7449,7 @@
     "address": "164 Akeiyashiki, Saijo City, Ehime 793-8601, Japan",
     "phone": "0897-56-5151"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Saijo City Hall",
@@ -5020,6 +7478,74 @@
      "category": "Cafe"
     },
     {
+     "name": "Cafe Rest Hakuakan",
+     "name_en": "Cafe Rest Hakuakan",
+     "name_ja": "カフェレスト 白亜館",
+     "description": "Cafe in Saijo.",
+     "source_url": "https://saijo-imadoki.jp/teppan-neapolitan/shop/%e3%82%ab%e3%83%95%e3%82%a7%e3%83%ac%e3%82%b9%e3%83%88-%e7%99%bd%e4%ba%9c%e9%a4%a8/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Petit Coffee Kan",
+     "name_en": "Petit Coffee Kan",
+     "name_ja": "プチ珈琲館",
+     "description": "Cafe in Saijo.",
+     "source_url": "https://saijo-imadoki.jp/teppan-neapolitan/shop/%e3%83%97%e3%83%81%e7%8f%88%e7%90%b2%e9%a4%a8/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "branch coffee",
+     "name_en": "branch coffee",
+     "description": "Cafe in Saijo.",
+     "source_url": "https://www.city.saijo.ehime.jp/soshiki/kanko/tabisaijo-ichiran.html",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Nana Coffee Roaster",
+     "name_en": "Nana Coffee Roaster",
+     "name_ja": "七CoffeeRoaster",
+     "description": "Cafe in Saijo.",
+     "source_url": "https://www.city.saijo.ehime.jp/soshiki/kanko/tabisaijo-ichiran.html",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "WTNB In the HOUSE coffee&studio",
+     "name_en": "WTNB In the HOUSE coffee&studio",
+     "description": "Cafe in Saijo.",
+     "source_url": "https://www.city.saijo.ehime.jp/soshiki/kanko/tabisaijo-ichiran.html",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Kurahachi",
+     "name_en": "Cafe Kurahachi",
+     "description": "Cafe in Saijo. Open daily 09:30-18:00.",
+     "source_url": "https://www.openstreetmap.org/node/12177877090",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "CONTAINER CAFE",
+     "name_en": "CONTAINER CAFE",
+     "description": "Cafe in Saijo.",
+     "source_url": "https://www.openstreetmap.org/node/13310541164",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Starbucks",
+     "name_en": "Starbucks",
+     "name_ja": "スターバックス",
+     "description": "Cafe in Saijo.",
+     "source_url": "https://www.openstreetmap.org/way/1451303895",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Orange Ferry",
      "name_en": "Orange Ferry",
      "name_ja": "オレンジフェリー",
@@ -5038,6 +7564,69 @@
      "category": "Casual"
     },
     {
+     "name": "Fast-food restaurant in Saijo",
+     "name_en": "Fast-food restaurant in Saijo",
+     "name_ja": "アーリーブルーメル",
+     "description": "Fast-food restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/way/1451130604",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Hokkahokka Tei",
+     "name_en": "Hokkahokka Tei",
+     "name_ja": "ほっかほっか亭",
+     "description": "Fast-food restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/node/7926363885",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Ichiban Hoshi",
+     "name_en": "Ichiban Hoshi",
+     "name_ja": "一番星",
+     "description": "Fast-food restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/node/2213881266",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "name_ja": "マクドナルド",
+     "description": "Burger fast-food restaurant in Tamatsu, Saijo.",
+     "source_url": "https://www.openstreetmap.org/node/636903841",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "NAKAU",
+     "name_en": "NAKAU",
+     "name_ja": "なか卯",
+     "description": "Fast-food restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/node/722482999",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Sukiya",
+     "name_en": "Sukiya",
+     "name_ja": "すき家",
+     "description": "Fast-food restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/way/379012723",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Yoshinoya",
+     "name_en": "Yoshinoya",
+     "name_ja": "吉野家",
+     "description": "Fast-food restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/way/1451130606",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Shanhai Ken",
      "name_en": "Shanhai Ken",
      "name_ja": "上海軒",
@@ -5045,6 +7634,41 @@
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38003250/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/chinese-asian/",
      "category": "Chinese & Asian"
+    },
+    {
+     "name": "Horai Kaku",
+     "name_en": "Horai Kaku",
+     "name_ja": "蓬莱閣",
+     "description": "Chinese restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/way/1451130602",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Kichijo Takashi",
+     "name_en": "Kichijo Takashi",
+     "name_ja": "吉祥孝",
+     "description": "Chinese restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/node/3945251356",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "POGO CURRY",
+     "name_en": "POGO CURRY",
+     "description": "Curry restaurant in Saijo.",
+     "source_url": "https://www.city.saijo.ehime.jp/soshiki/kanko/tabisaijo-ichiran.html",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Curry restaurant in Saijo",
+     "name_en": "Curry restaurant in Saijo",
+     "name_ja": "CoCo壱番屋",
+     "description": "Curry restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/way/1451130601",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/curry/",
+     "category": "Curry"
     },
     {
      "name": "European restaurant in Saijo (#2)",
@@ -5090,6 +7714,50 @@
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38000919/",
      "page": "https://bokenjapan.com/ehime/saijo/eat/european/",
      "category": "European"
+    },
+    {
+     "name": "Gusto",
+     "name_en": "Gusto",
+     "name_ja": "ガスト",
+     "description": "Western-style restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/node/2213882144",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "MARUBUN",
+     "name_en": "MARUBUN",
+     "description": "Italian restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/node/3947099094",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Japanese style dining bar named Ten",
+     "name_en": "Japanese style dining bar named Ten",
+     "name_ja": "まんぷく居酒屋ten",
+     "description": "Izakaya pub in Shimpai Kabuto, Saijo. Open Mon-Sat 11:00-14:30, 17:00-23:00.",
+     "source_url": "https://www.openstreetmap.org/node/8305147373",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Ogiya Iyo Saijo Branch",
+     "name_en": "Ogiya Iyo Saijo Branch",
+     "name_ja": "扇屋 いよ西条店",
+     "description": "Pub in Saijo.",
+     "source_url": "https://www.openstreetmap.org/node/8430959252",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Pub in Saijo",
+     "name_en": "Pub in Saijo",
+     "name_ja": "市",
+     "description": "Pub in Saijo.",
+     "source_url": "https://www.openstreetmap.org/node/2190527281",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
     },
     {
      "name": "Gokaku Saijo",
@@ -5182,6 +7850,253 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Hyohana",
+     "name_en": "Hyohana",
+     "name_ja": "瓢華",
+     "description": "Noodle restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/way/1120658135",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kogane Seimen Tokoro",
+     "name_en": "Kogane Seimen Tokoro",
+     "name_ja": "こがね製麺所",
+     "description": "Noodle restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/way/1451303896",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Namashu Ramen",
+     "name_en": "Namashu Ramen",
+     "name_ja": "生守ラーメン",
+     "description": "Noodle restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/node/10314032064",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Shoppu Saijo Higashi Branch",
+     "name_en": "Ramen Shoppu Saijo Higashi Branch",
+     "name_ja": "ラーメンショップ 西条東店",
+     "description": "Ramen restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/way/1434979128",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Shoppu Toyo Branch",
+     "name_en": "Ramen Shoppu Toyo Branch",
+     "name_ja": "ラーメンショップ 東予店",
+     "description": "Ramen restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/way/1434979127",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tsuruya",
+     "name_en": "Tsuruya",
+     "name_ja": "つるや",
+     "description": "Noodle restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/node/3947037730",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon restaurant in Saijo",
+     "name_en": "Udon restaurant in Saijo",
+     "name_ja": "うどん",
+     "description": "Udon restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/node/2190516465",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Cafe Aruru",
+     "name_en": "Cafe Aruru",
+     "name_ja": "Café アルル",
+     "description": "Restaurant in Saijo.",
+     "source_url": "https://saijo-imadoki.jp/teppan-neapolitan/shop/cafe-%e3%82%a2%e3%83%ab%e3%83%ab/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "cafe Dining Tsuji Maru",
+     "name_en": "cafe Dining Tsuji Maru",
+     "name_ja": "café ダイニングつじ丸",
+     "description": "Restaurant in Saijo.",
+     "source_url": "https://saijo-imadoki.jp/teppan-neapolitan/shop/cafe-%e3%83%80%e3%82%a4%e3%83%8b%e3%83%b3%e3%82%b0%e3%81%a4%e3%81%98%e4%b8%b8/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "HOKULANI Café",
+     "name_en": "HOKULANI Cafe",
+     "description": "Restaurant in Saijo.",
+     "source_url": "https://saijo-imadoki.jp/teppan-neapolitan/shop/holurani-cafe/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Igaya Benkyodo",
+     "name_en": "Igaya Benkyodo",
+     "name_ja": "猪谷勉強堂",
+     "description": "Restaurant in Saijo.",
+     "source_url": "https://saijo-imadoki.jp/teppan-neapolitan/shop/%e7%8c%aa%e8%b0%b7%e5%8b%89%e5%bc%b7%e5%a0%82/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kizaemon",
+     "name_en": "Kizaemon",
+     "name_ja": "喜左衛門",
+     "description": "Restaurant in Saijo.",
+     "source_url": "https://saijo-imadoki.jp/teppan-neapolitan/shop/%e5%96%9c%e5%b7%a6%e8%a1%9b%e9%96%80/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "cafe Kasane",
+     "name_en": "cafe Kasane",
+     "name_ja": "caféかさね",
+     "description": "Restaurant in Saijo.",
+     "source_url": "https://www.city.saijo.ehime.jp/soshiki/kanko/tabisaijo-ichiran.html",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Café Potage",
+     "name_en": "Cafe Potage",
+     "description": "Restaurant in Saijo.",
+     "source_url": "https://www.city.saijo.ehime.jp/soshiki/kanko/tabisaijo-ichiran.html",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Er Bisteccaro ito",
+     "name_en": "Er Bisteccaro ito",
+     "name_ja": "Er Bisteccaro ito（エル ビステッカーロ イト）",
+     "description": "Restaurant in Saijo.",
+     "source_url": "https://www.city.saijo.ehime.jp/soshiki/kanko/tabisaijo-ichiran.html",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "FOOD GARDEN ITO",
+     "name_en": "FOOD GARDEN ITO",
+     "name_ja": "FOOD GARDEN ITO（フードガーデンイト）",
+     "description": "Restaurant in Saijo.",
+     "source_url": "https://www.city.saijo.ehime.jp/soshiki/kanko/tabisaijo-ichiran.html",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Gokaku",
+     "name_en": "Gokaku",
+     "name_ja": "ごかく",
+     "description": "Restaurant in Saijo.",
+     "source_url": "https://www.city.saijo.ehime.jp/soshiki/kanko/tabisaijo-ichiran.html",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Hazuki",
+     "name_en": "Hazuki",
+     "description": "Restaurant in Saijo.",
+     "source_url": "https://www.city.saijo.ehime.jp/soshiki/kanko/tabisaijo-ichiran.html",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "LoveCREPE",
+     "name_en": "LoveCREPE",
+     "description": "Restaurant in Saijo.",
+     "source_url": "https://www.city.saijo.ehime.jp/soshiki/kanko/tabisaijo-ichiran.html",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Osakana Gohan Marutomo",
+     "name_en": "Osakana Gohan Marutomo",
+     "name_ja": "お魚ごはんマルトモ",
+     "description": "Restaurant in Saijo.",
+     "source_url": "https://www.city.saijo.ehime.jp/soshiki/kanko/tabisaijo-ichiran.html",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Ville Natale",
+     "name_en": "Ville Natale",
+     "name_ja": "ヴィル・ナタール",
+     "description": "Restaurant in Saijo.",
+     "source_url": "https://www.city.saijo.ehime.jp/soshiki/kanko/tabisaijo-ichiran.html",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Yamacho",
+     "name_en": "Yamacho",
+     "name_ja": "山長",
+     "description": "Restaurant in Saijo.",
+     "source_url": "https://www.city.saijo.ehime.jp/soshiki/kanko/tabisaijo-ichiran.html",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Daifuku",
+     "name_en": "Daifuku",
+     "name_ja": "大福",
+     "description": "Restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/node/2223529401",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Gamba Tei",
+     "name_en": "Gamba Tei",
+     "name_ja": "がんば亭",
+     "description": "Restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/node/722482918",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Saijo",
+     "name_en": "Restaurant in Saijo",
+     "name_ja": "ジョイフル",
+     "description": "Restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/node/722482915",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Sasuga Ie",
+     "name_en": "Sasuga Ie",
+     "name_ja": "さすが家",
+     "description": "Restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/node/2223528974",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Tomato&onion",
+     "name_en": "Tomato&onion",
+     "description": "Restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/node/2223528975",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Torikko",
+     "name_en": "Torikko",
+     "name_ja": "とりっこ",
+     "description": "Restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/node/2223701103",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Musubi",
      "name_en": "Musubi",
      "description": "Japanese restaurant in Saijo, Ehime.",
@@ -5208,6 +8123,24 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Okonomiyaki Dining Isshin",
+     "name_en": "Okonomiyaki Dining Isshin",
+     "name_ja": "お好み焼きダイニング一新",
+     "description": "Japanese restaurant in Saijo.",
+     "source_url": "https://saijo-imadoki.jp/teppan-neapolitan/shop/%e3%81%8a%e5%a5%bd%e3%81%bf%e7%84%bc%e3%81%8d%e3%83%80%e3%82%a4%e3%83%8b%e3%83%b3%e3%82%b0%e4%b8%80%e6%96%b0/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Menya Tadokoro Shoten Saijo Branch",
+     "name_en": "Menya Tadokoro Shoten Saijo Branch",
+     "name_ja": "麺屋 田所商店 西条店",
+     "description": "Japanese restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/node/8430959261",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Marutomo Suisan Sengyo Shijo",
      "name_en": "Marutomo Suisan Sengyo Shijo",
      "name_ja": "マルトモ水産 鮮魚市場",
@@ -5217,11 +8150,56 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Hisashishi Ikkan",
+     "name_en": "Hisashishi Ikkan",
+     "name_ja": "寿し一貫",
+     "description": "Sushi restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/node/2223530478",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi restaurant in Saijo",
+     "name_en": "Sushi restaurant in Saijo",
+     "name_ja": "スシロー",
+     "description": "Sushi restaurant in Saijo.",
+     "source_url": "https://www.openstreetmap.org/node/2213881378",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Osakaya Kura Hachi",
      "name_en": "Osakaya Kura Hachi",
      "name_ja": "おおさかや 蔵はち",
      "description": "Sweets and bakery shop in Saijo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380202/38004699/",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Homemade Gelato Vita",
+     "name_en": "Homemade Gelato Vita",
+     "name_ja": "自家製ジェラート Vita",
+     "description": "Sweets restaurant in Saijo.",
+     "source_url": "https://www.city.saijo.ehime.jp/soshiki/kanko/tabisaijo-ichiran.html",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Mochi Kichi",
+     "name_en": "Mochi Kichi",
+     "name_ja": "もち吉",
+     "description": "Sweets shop in Saijo.",
+     "source_url": "https://www.openstreetmap.org/way/378850502",
+     "page": "https://bokenjapan.com/ehime/saijo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Wiriwinki",
+     "name_en": "Wiriwinki",
+     "name_ja": "ウィリーウィンキー",
+     "description": "Bakery in Saijo.",
+     "source_url": "https://www.openstreetmap.org/node/2190516105",
      "page": "https://bokenjapan.com/ehime/saijo/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -5457,7 +8435,7 @@
     "address": "3-434-1 Unomachi, Uwa-cho, Seiyo City, Ehime 797-8501, Japan",
     "phone": "0894-62-1111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Seiyo City Hall",
@@ -5513,6 +8491,49 @@
      "category": "Cafe"
     },
     {
+     "name": "Cafe Sound",
+     "name_en": "Cafe Sound",
+     "description": "Cafe in Seiyo.",
+     "source_url": "https://www.openstreetmap.org/node/13848436677",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Seiyo",
+     "name_en": "Cafe in Seiyo",
+     "name_ja": "古阿羅",
+     "description": "Cafe in Seiyo.",
+     "source_url": "https://www.openstreetmap.org/node/4727774488",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Machi",
+     "name_en": "Machi",
+     "name_ja": "街",
+     "description": "Cafe in Seiyo.",
+     "source_url": "https://www.openstreetmap.org/node/12029596915",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "My's coffee house",
+     "name_en": "My's coffee house",
+     "description": "Cafe in Seiyo.",
+     "source_url": "https://www.openstreetmap.org/node/5920330985",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Ranyume",
+     "name_en": "Ranyume",
+     "name_ja": "蘭夢",
+     "description": "Cafe in Seiyo.",
+     "source_url": "https://www.openstreetmap.org/node/12029596901",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Minori Shokudo",
      "name_en": "Minori Shokudo",
      "name_ja": "みのり食堂",
@@ -5549,6 +8570,15 @@
      "category": "Casual"
     },
     {
+     "name": "Konjaku Ie",
+     "name_en": "Konjaku Ie",
+     "name_ja": "今昔家",
+     "description": "Fast-food restaurant in Seiyo.",
+     "source_url": "https://www.openstreetmap.org/node/7996865279",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Chugoku Cuisine Maika",
      "name_en": "Chugoku Cuisine Maika",
      "name_ja": "中国料理 舞華",
@@ -5556,6 +8586,23 @@
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38012730/",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/chinese-asian/",
      "category": "Chinese & Asian"
+    },
+    {
+     "name": "Koraku",
+     "name_en": "Koraku",
+     "name_ja": "幸楽",
+     "description": "Chinese restaurant in Seiyo.",
+     "source_url": "https://www.openstreetmap.org/node/12269045004",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Diya",
+     "name_en": "Diya",
+     "description": "Indian restaurant in Seiyo.",
+     "source_url": "https://www.openstreetmap.org/node/12920656975",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/curry/",
+     "category": "Curry"
     },
     {
      "name": "White Farm",
@@ -5572,6 +8619,24 @@
      "name_ja": "粋",
      "description": "Izakaya or bar in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38001082/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Pub in Seiyo (#2)",
+     "name_en": "Pub in Seiyo (#2)",
+     "name_ja": "話笑和",
+     "description": "Pub in Seiyo.",
+     "source_url": "https://www.openstreetmap.org/node/7996865278",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Pub in Seiyo (#1)",
+     "name_en": "Pub in Seiyo (#1)",
+     "name_ja": "とまり木",
+     "description": "Pub in Seiyo.",
+     "source_url": "https://www.openstreetmap.org/node/12029596916",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -5675,6 +8740,31 @@
      "category": "Other"
     },
     {
+     "name": "Restaurant in Seiyo",
+     "name_en": "Restaurant in Seiyo",
+     "name_ja": "ジオ・キッチン",
+     "description": "Restaurant in Seiyo.",
+     "source_url": "https://www.openstreetmap.org/node/9128624253",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Joyfull",
+     "name_en": "Joyfull",
+     "description": "Restaurant in Seiyo.",
+     "source_url": "https://www.openstreetmap.org/way/615566696",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Pepino",
+     "name_en": "Pepino",
+     "description": "Restaurant in Seiyo.",
+     "source_url": "https://www.openstreetmap.org/node/7996865277",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Yugengaisha Nanyo Tenpura Hanbai",
      "name_en": "Yugengaisha Nanyo Tenpura Hanbai",
      "name_ja": "有限会社 南予てんぷら販売",
@@ -5684,11 +8774,38 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Ken Chan Shokudo",
+     "name_en": "Ken Chan Shokudo",
+     "name_ja": "ケンちゃん食堂",
+     "description": "Japanese restaurant in Seiyo.",
+     "source_url": "https://www.openstreetmap.org/node/12269032266",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Maruichi Shokudo",
+     "name_en": "Maruichi Shokudo",
+     "name_ja": "丸一食堂",
+     "description": "Japanese restaurant in Seiyo.",
+     "source_url": "https://www.openstreetmap.org/node/8375454118",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Yamada-ya Manju Main Store",
      "name_en": "Yamada-ya Manju Main Store",
      "name_ja": "山田屋まんじゅう 本店",
      "description": "Sweets and bakery shop in Seiyo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380402/38000241/",
+     "page": "https://bokenjapan.com/ehime/seiyo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Jako Tenkai Hiroshi",
+     "name_en": "Jako Tenkai Hiroshi",
+     "name_ja": "じゃこ天開洋",
+     "description": "Ice cream shop in Seiyo.",
+     "source_url": "https://www.openstreetmap.org/node/12265652506",
      "page": "https://bokenjapan.com/ehime/seiyo/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -5787,7 +8904,7 @@
     "address": "4-6-55 Mishima-Miyagawa, Shikokuchuo City, Ehime 799-0497, Japan",
     "phone": "0896-28-6000"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Shikokuchuo City Hall",
@@ -5834,6 +8951,78 @@
      "category": "Cafe"
     },
     {
+     "name": "Coffee Kura",
+     "name_en": "Coffee Kura",
+     "name_ja": "珈琲蔵",
+     "description": "Cafe in Shikokuchuo.",
+     "source_url": "https://www.city.shikokuchuo.ehime.jp/site/shodo-performance/28624.html",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Dining Cafe Noman",
+     "name_en": "Dining Cafe Noman",
+     "name_ja": "ダイニングカフェ のまん",
+     "description": "Cafe in Shikokuchuo.",
+     "source_url": "https://www.city.shikokuchuo.ehime.jp/site/shodo-performance/28624.html",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Ammitsu Hime",
+     "name_en": "Ammitsu Hime",
+     "name_ja": "あんみつ姫",
+     "description": "Cafe in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/way/583854558",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Yusu",
+     "name_en": "Cafe Yusu",
+     "name_ja": "カフェ ユース",
+     "description": "Cafe in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/node/14208106801",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Shikokuchuo (#2)",
+     "name_en": "Cafe in Shikokuchuo (#2)",
+     "name_ja": "グラブバッグコーヒーストップ",
+     "description": "Cafe in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/way/410573889",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kinari Cafe + Zakka",
+     "name_en": "Kinari Cafe + Zakka",
+     "name_ja": "キナリカフェ＋ザッカ",
+     "description": "Cafe in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/way/410573190",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Shikokuchuo (#1)",
+     "name_en": "Cafe in Shikokuchuo (#1)",
+     "name_ja": "リーサ",
+     "description": "Cafe in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/node/4070893603",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Starbucks",
+     "name_en": "Starbucks",
+     "name_ja": "スターバックス",
+     "description": "Cafe in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/way/946017941",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Kuma Fuku",
      "name_en": "Kuma Fuku",
      "name_ja": "熊福",
@@ -5852,6 +9041,60 @@
      "category": "Casual"
     },
     {
+     "name": "Dohtonbori",
+     "name_en": "Dohtonbori",
+     "name_ja": "道とん堀",
+     "description": "Fast-food restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/way/410573674",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Fast-food restaurant in Shikokuchuo (#1)",
+     "name_en": "Fast-food restaurant in Shikokuchuo (#1)",
+     "name_ja": "カリッジュ四国中央店",
+     "description": "Fast-food restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/node/4108851383",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Matsuya",
+     "name_en": "Matsuya",
+     "name_ja": "松屋",
+     "description": "Fast-food restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/way/1168234817",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "name_ja": "マクドナルド",
+     "description": "Fast-food restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/way/410678936",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "MOS Burger",
+     "name_en": "MOS Burger",
+     "name_ja": "モスバーガー",
+     "description": "Burger fast-food restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/way/1168587728",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Fast-food restaurant in Shikokuchuo (#2)",
+     "name_en": "Fast-food restaurant in Shikokuchuo (#2)",
+     "name_ja": "お好み焼クックパパ",
+     "description": "Fast-food restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/node/4108860489",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Chinese Na-kan Seito",
      "name_en": "Chinese Na-kan Seito",
      "name_ja": "中華菜館 成都",
@@ -5866,6 +9109,15 @@
      "name_ja": "柘",
      "description": "Chinese or Asian restaurant in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38007892/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Ajigen",
+     "name_en": "Ajigen",
+     "name_ja": "味源",
+     "description": "Chinese restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/way/1168234816",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/chinese-asian/",
      "category": "Chinese & Asian"
     },
@@ -5897,6 +9149,60 @@
      "category": "European"
     },
     {
+     "name": "Joyfull",
+     "name_en": "Joyfull",
+     "name_ja": "ジョイフル",
+     "description": "Western-style restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/way/410573512",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Kamomeno Pasta",
+     "name_en": "Kamomeno Pasta",
+     "name_ja": "かもめのパスタ",
+     "description": "Western-style restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/node/4070967208",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Hana Hachiban",
+     "name_en": "Hana Hachiban",
+     "name_ja": "花八番",
+     "description": "Pub in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/node/4070968605",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Ichikura",
+     "name_en": "Ichikura",
+     "name_ja": "一倉",
+     "description": "Pub in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/node/4108849399",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Onihei",
+     "name_en": "Onihei",
+     "name_ja": "おにへい",
+     "description": "Pub in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/node/13347063510",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Tokidoki Mishima Branch",
+     "name_en": "Tokidoki Mishima Branch",
+     "name_ja": "時々三島店",
+     "description": "Pub in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/node/4070966557",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Kiyoshi Hanazono",
      "name_en": "Kiyoshi Hanazono",
      "name_ja": "清花園",
@@ -5911,6 +9217,24 @@
      "name_ja": "揚げ足鳥・伊予万里",
      "description": "Meat restaurant in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38002024/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Kamayakitori Honpo Kawanoe Branch",
+     "name_en": "Kamayakitori Honpo Kawanoe Branch",
+     "name_ja": "釜焼鳥本舗 川之江店",
+     "description": "Yakitori restaurant in Shikokuchuo.",
+     "source_url": "https://www.city.shikokuchuo.ehime.jp/site/shodo-performance/28624.html",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Taira",
+     "name_en": "Yakiniku Taira",
+     "name_ja": "焼肉たいら",
+     "description": "Barbecue restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/way/1168522153",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -5978,6 +9302,202 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Marugame Seimen",
+     "name_en": "Marugame Seimen",
+     "name_ja": "丸亀製麺",
+     "description": "Noodle restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/node/11064287173",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Shoppu Mishima Branch",
+     "name_en": "Ramen Shoppu Mishima Branch",
+     "name_ja": "ラーメンショップ 三島店",
+     "description": "Ramen restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/way/1434979129",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon restaurant in Shikokuchuo",
+     "name_en": "Udon restaurant in Shikokuchuo",
+     "name_ja": "手打ちうどんロケット",
+     "description": "Udon restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/node/4070947874",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ajitori",
+     "name_en": "Ajitori",
+     "name_ja": "味鳥",
+     "description": "Restaurant in Shikokuchuo.",
+     "source_url": "https://www.city.shikokuchuo.ehime.jp/site/shodo-performance/28624.html",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Akashia",
+     "name_en": "Akashia",
+     "name_ja": "朝皆笑味（アカシア）",
+     "description": "Restaurant in Shikokuchuo.",
+     "source_url": "https://www.city.shikokuchuo.ehime.jp/site/shodo-performance/28624.html",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Egg Specialty Shop Kumafuku",
+     "name_en": "Egg Specialty Shop Kumafuku",
+     "name_ja": "たまご専門店 熊福",
+     "description": "Restaurant in Shikokuchuo.",
+     "source_url": "https://www.city.shikokuchuo.ehime.jp/site/shodo-performance/28624.html",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kureyon",
+     "name_en": "Kureyon",
+     "name_ja": "くれよん",
+     "description": "Restaurant in Shikokuchuo.",
+     "source_url": "https://www.city.shikokuchuo.ehime.jp/site/shodo-performance/28624.html",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Mishima Baru evoevo",
+     "name_en": "Mishima Baru evoevo",
+     "name_ja": "三島バルevoevo",
+     "description": "Restaurant in Shikokuchuo.",
+     "source_url": "https://www.city.shikokuchuo.ehime.jp/site/shodo-performance/28624.html",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant＆Café Riina",
+     "name_en": "Restaurant&Cafe Riina",
+     "description": "Restaurant in Shikokuchuo.",
+     "source_url": "https://www.city.shikokuchuo.ehime.jp/site/shodo-performance/28624.html",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "UZUMAKI",
+     "name_en": "UZUMAKI",
+     "description": "Restaurant in Shikokuchuo.",
+     "source_url": "https://www.city.shikokuchuo.ehime.jp/site/shodo-performance/28624.html",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Ajikura",
+     "name_en": "Ajikura",
+     "name_ja": "味蔵",
+     "description": "Restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/node/4070953896",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Ajisai Chaya",
+     "name_en": "Ajisai Chaya",
+     "name_ja": "あじさい茶屋",
+     "description": "Restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/node/4107813611",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Shikokuchuo (#1)",
+     "name_en": "Restaurant in Shikokuchuo (#1)",
+     "name_ja": "ビアンモール",
+     "description": "Restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/node/11047913739",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Gamba Tei Mishima Branch",
+     "name_en": "Gamba Tei Mishima Branch",
+     "name_ja": "がんば亭三島店",
+     "description": "Restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/node/4070954036",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Gusto Iyo Mishima Branch",
+     "name_en": "Gusto Iyo Mishima Branch",
+     "name_ja": "ガスト 伊予三島店",
+     "description": "Restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/node/4070975591",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kumafuku (Kumano Yokei)",
+     "name_en": "Kumafuku (Kumano Yokei)",
+     "name_ja": "熊福（熊野養鶏）",
+     "description": "Restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/way/415743829",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Shikokuchuo (#2)",
+     "name_en": "Restaurant in Shikokuchuo (#2)",
+     "name_ja": "すき家11号四国中央三島店",
+     "description": "Restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/node/4070970994",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Sumitori Iori",
+     "name_en": "Sumitori Iori",
+     "name_ja": "炭鳥庵",
+     "description": "Restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/node/4070975969",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Sushiro Shikokuchuo Branch",
+     "name_en": "Sushiro Shikokuchuo Branch",
+     "name_ja": "スシロー四国中央店",
+     "description": "Restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/way/407607156",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Tarome Tei Mishima Branch",
+     "name_en": "Tarome Tei Mishima Branch",
+     "name_ja": "たろめ亭三島店",
+     "description": "Restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/node/4070974797",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Tenkaippin Shikokuchuo Branch",
+     "name_en": "Tenkaippin Shikokuchuo Branch",
+     "name_ja": "天下一品四国中央店",
+     "description": "Restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/way/407607874",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Yamaguchi Sato no Branch",
+     "name_en": "Yamaguchi Sato no Branch",
+     "name_ja": "山口里の店",
+     "description": "Restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/node/4070967502",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Kiri no Mori Restaurant",
      "name_en": "Kiri no Mori Restaurant",
      "name_ja": "霧の森レストラン",
@@ -5992,6 +9512,15 @@
      "name_ja": "味将",
      "description": "Seafood restaurant in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38002710/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Shimazu Sushi",
+     "name_en": "Shimazu Sushi",
+     "name_ja": "島津寿司",
+     "description": "Sushi restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/node/4108859220",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -6019,6 +9548,23 @@
      "name_ja": "ゴトウ洋菓子店",
      "description": "Sweets and bakery shop in Shikokuchuo, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3802/A380204/38004643/",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Mister Donut",
+     "name_en": "Mister Donut",
+     "name_ja": "ミスタードーナツ",
+     "description": "Donut restaurant in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/node/11064287177",
+     "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "YOSHIO ICE CREAM",
+     "name_en": "YOSHIO ICE CREAM",
+     "description": "Ice cream shop in Shikokuchuo.",
+     "source_url": "https://www.openstreetmap.org/way/1168522148",
      "page": "https://bokenjapan.com/ehime/shikokuchuo/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -6166,7 +9712,7 @@
     "address": "1392 Miyauchi, Tobe Town, Iyo District, Ehime 791-2195, Japan",
     "phone": "089-962-2323"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Tobe Town Hall",
@@ -6209,6 +9755,14 @@
      "name_ja": "珈琲貴族",
      "description": "Cafe in Tobe, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38005648/",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Strawberry Field",
+     "name_en": "Strawberry Field",
+     "description": "Cafe in Tobe.",
+     "source_url": "https://www.openstreetmap.org/node/3956289864",
      "page": "https://bokenjapan.com/ehime/tobe/eat/cafe/",
      "category": "Cafe"
     },
@@ -6375,6 +9929,15 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Tomi soba",
+     "name_en": "Tomi soba",
+     "name_ja": "富そば",
+     "description": "Soba restaurant in Tobe.",
+     "source_url": "https://www.openstreetmap.org/node/3956302507",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Hengen Jizai Kameria",
      "name_en": "Hengen Jizai Kameria",
      "name_ja": "変幻自在 かめりあ",
@@ -6391,6 +9954,15 @@
      "source_url": "https://tabelog.com/ehime/A3801/A380103/38002421/",
      "page": "https://bokenjapan.com/ehime/tobe/eat/other-japanese/",
      "category": "Other Japanese"
+    },
+    {
+     "name": "Sushi restaurant in Tobe",
+     "name_en": "Sushi restaurant in Tobe",
+     "name_ja": "長寿し",
+     "description": "Sushi restaurant in Tobe.",
+     "source_url": "https://www.openstreetmap.org/node/3956289869",
+     "page": "https://bokenjapan.com/ehime/tobe/eat/seafood/",
+     "category": "Japanese (seafood)"
     }
    ],
    "sights": [
@@ -6456,7 +10028,7 @@
     "address": "530-1 Minara, Toon City, Ehime 791-0292, Japan",
     "phone": "089-964-2001"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Toon City Hall",
@@ -6494,6 +10066,51 @@
      "category": "Cafe"
     },
     {
+     "name": "cafe 750 Nanahan",
+     "name_en": "cafe 750 Nanahan",
+     "name_ja": "cafe 750 ナナハン",
+     "description": "Cafe in Toon.",
+     "source_url": "https://toon-kanko.jp/cafe%e3%80%80%e3%83%8a%e3%83%8a%e3%83%8f%e3%83%b3%e3%80%80730/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "hibi Cafe",
+     "name_en": "hibi Cafe",
+     "name_ja": "hibiカフェ",
+     "description": "Cafe in Toon.",
+     "source_url": "https://toon-kanko.jp/hibi%e3%82%ab%e3%83%95%e3%82%a7/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Ichigobiyori",
+     "name_en": "Ichigobiyori",
+     "name_ja": "いちご日和（カフェ）",
+     "description": "Cafe in Toon.",
+     "source_url": "https://toon-kanko.jp/ichigobiyori/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Ishizuchi Sanroku Miru Cafe",
+     "name_en": "Ishizuchi Sanroku Miru Cafe",
+     "name_ja": "いしづち山麓ミールカフェ",
+     "description": "Cafe in Toon.",
+     "source_url": "https://toon-kanko.jp/%e3%81%84%e3%81%97%e3%81%a5%e3%81%a1%e5%b1%b1%e9%ba%93%e3%83%9f%e3%83%bc%e3%83%ab%e3%82%ab%e3%83%95%e3%82%a7/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Toon",
+     "name_en": "Cafe in Toon",
+     "name_ja": "パティスリーカフェ心結",
+     "description": "Cafe in Toon.",
+     "source_url": "https://toon-kanko.jp/patisserie_miyuu/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Karaage Shokudo Goichi Fuji Grand Shigenobu",
      "name_en": "Karaage Shokudo Goichi Fuji Grand Shigenobu",
      "name_ja": "唐揚げ食堂 ごいち フジグラン重信店",
@@ -6508,6 +10125,15 @@
      "name_ja": "見奈良天然温泉 利楽",
      "description": "Casual restaurant in Toon, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38001634/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "McDonald's",
+     "name_en": "McDonald's",
+     "name_ja": "マクドナルド",
+     "description": "Burger fast-food restaurant in Toon.",
+     "source_url": "https://www.openstreetmap.org/node/13259659569",
      "page": "https://bokenjapan.com/ehime/toon/eat/casual/",
      "category": "Casual"
     },
@@ -6625,6 +10251,96 @@
      "source_url": "https://tabelog.com/ehime/A3801/A380102/38014948/",
      "page": "https://bokenjapan.com/ehime/toon/eat/noodles/",
      "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen restaurant in Toon",
+     "name_en": "Ramen restaurant in Toon",
+     "name_ja": "ラーメンショップ 11号バイパス店",
+     "description": "Ramen restaurant in Toon.",
+     "source_url": "https://www.openstreetmap.org/way/1434979125",
+     "page": "https://bokenjapan.com/ehime/toon/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Shoppu Kawauchi Branch",
+     "name_en": "Ramen Shoppu Kawauchi Branch",
+     "name_ja": "ラーメンショップ 川内店",
+     "description": "Ramen restaurant in Toon.",
+     "source_url": "https://www.openstreetmap.org/way/1434979126",
+     "page": "https://bokenjapan.com/ehime/toon/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Amatakiya",
+     "name_en": "Amatakiya",
+     "name_ja": "雨瀧屋(穂田琉米と河之内観光)",
+     "description": "Restaurant in Toon.",
+     "source_url": "https://toon-kanko.jp/amatakiya/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant in Toon",
+     "name_en": "Restaurant in Toon",
+     "name_ja": "ハタダ",
+     "description": "Restaurant in Toon.",
+     "source_url": "https://toon-kanko.jp/hatada/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Hitotoki",
+     "name_en": "Hitotoki",
+     "name_ja": "ひととき",
+     "description": "Restaurant in Toon.",
+     "source_url": "https://toon-kanko.jp/%e3%81%b2%e3%81%a8%e3%81%a8%e3%81%8d/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Iyotoyo",
+     "name_en": "Iyotoyo",
+     "name_ja": "伊予トーヨー",
+     "description": "Restaurant in Toon.",
+     "source_url": "https://toon-kanko.jp/iyotoyo/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kadota Shoten",
+     "name_en": "Kadota Shoten",
+     "name_ja": "門田商店",
+     "description": "Restaurant in Toon.",
+     "source_url": "https://toon-kanko.jp/kadota_shouten/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Naporikko",
+     "name_en": "Naporikko",
+     "name_ja": "ナポリっ子",
+     "description": "Restaurant in Toon.",
+     "source_url": "https://toon-kanko.jp/naporikko/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Noka Restaurant Yuki Tsumusume",
+     "name_en": "Noka Restaurant Yuki Tsumusume",
+     "name_ja": "農家レストラン由紀っ娘",
+     "description": "Restaurant in Toon.",
+     "source_url": "https://toon-kanko.jp/noukarestaurant_yukikko/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Seika Noma Shoten",
+     "name_en": "Seika Noma Shoten",
+     "name_ja": "製菓 野間商店",
+     "description": "Restaurant in Toon.",
+     "source_url": "https://toon-kanko.jp/nomasyouten/",
+     "page": "https://bokenjapan.com/ehime/toon/eat/other/",
+     "category": "Other"
     },
     {
      "name": "okinawa kitchen Churashima 160",
@@ -7137,7 +10853,7 @@
     "address": "1 Akebono-cho, Uwajima City, Ehime 798-8601, Japan",
     "phone": "0895-24-1111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Uwajima City Hall",
@@ -7162,6 +10878,67 @@
      "name_ja": "珈琲亭 TAO",
      "description": "Cafe in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38008217/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Ando Coffee",
+     "name_en": "Ando Coffee",
+     "name_ja": "安藤コーヒー",
+     "description": "Cafe in Honcho Otte Nichome, Uwajima. Open daily 08:30-19:00.",
+     "source_url": "https://www.openstreetmap.org/node/11927834146",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Arce",
+     "name_en": "Arce",
+     "name_ja": "カフェテリア・アルセ",
+     "description": "Cafe in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/13744238522",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Polaris",
+     "name_en": "Cafe Polaris",
+     "description": "Cafe in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/12167360458",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kissa Karaoke Okini Pato 2",
+     "name_en": "Kissa Karaoke Okini Pato 2",
+     "name_ja": "喫茶・カラオケ おおきにパート2",
+     "description": "Cafe in Yarai Motomachi, Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/11932537539",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "OLIVE",
+     "name_en": "OLIVE",
+     "description": "Cafe in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/way/357627200",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Stone House",
+     "name_en": "Stone House",
+     "name_ja": "すと～んはうす",
+     "description": "Cafe in Uwajima. Open daily 07:00-21:00.",
+     "source_url": "https://www.openstreetmap.org/node/9432106713",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Yado to Coffee Sun&Moon Taiyo to Gatsu",
+     "name_en": "Yado to Coffee Sun&Moon Taiyo to Gatsu",
+     "name_ja": "宿と珈琲 Sun&Moon 太陽と月",
+     "description": "Cafe in Ibuki Machi, Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/12167360457",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/cafe/",
      "category": "Cafe"
     },
@@ -7220,6 +10997,14 @@
      "category": "Casual"
     },
     {
+     "name": "MIKE",
+     "name_en": "MIKE",
+     "description": "Fast-food restaurant in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/way/799247240",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Chugoku-tei",
      "name_en": "Chugoku-tei",
      "name_ja": "中国亭",
@@ -7229,11 +11014,37 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Hoten",
+     "name_en": "Hoten",
+     "name_ja": "奉天",
+     "description": "Chinese restaurant in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/13904181616",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Taiwan Sosaku Kitchen Ryu",
+     "name_en": "Taiwan Sosaku Kitchen Ryu",
+     "name_ja": "台湾創作キッチンRyu",
+     "description": "Asian restaurant in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/7555880212",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "European restaurant in Uwajima",
      "name_en": "European restaurant in Uwajima",
      "name_ja": "ヴィオロン・ダングル",
      "description": "European restaurant in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38002357/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Trattoria Piccola Isola",
+     "name_en": "Trattoria Piccola Isola",
+     "description": "Italian restaurant in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/12223988510",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/european/",
      "category": "European"
     },
@@ -7254,6 +11065,69 @@
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38000406/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/izakaya-bars/",
      "category": "Izakaya & bars"
+    },
+    {
+     "name": "Hidamari",
+     "name_en": "Hidamari",
+     "name_ja": "ひだまり",
+     "description": "Bar in Tsurushima Machi, Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/11939091155",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Kui Doraku",
+     "name_en": "Izakaya Kui Doraku",
+     "name_ja": "居酒屋食い道楽",
+     "description": "Izakaya pub in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/11936672022",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Snack Oshaberihiroba",
+     "name_en": "Snack Oshaberihiroba",
+     "name_ja": "Snack おしゃべりひろば",
+     "description": "Bar in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/7553461090",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yume Musubi",
+     "name_en": "Yume Musubi",
+     "name_ja": "夢むすび",
+     "description": "Pub in Ebisumachi, Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/11939091168",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Torisei",
+     "name_en": "Torisei",
+     "name_ja": "鳥勢",
+     "description": "Chicken restaurant in Kotobukicho, Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/11949607943",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Ushi Chan",
+     "name_en": "Ushi Chan",
+     "name_ja": "牛ちゃん",
+     "description": "Barbecue restaurant in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/11936672060",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakitori Aho Tori",
+     "name_en": "Yakitori Aho Tori",
+     "name_ja": "やきとり阿呆鳥",
+     "description": "Yakitori restaurant in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/11939091165",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/meat/",
+     "category": "Japanese (meat)"
     },
     {
      "name": "Mae no",
@@ -7290,6 +11164,60 @@
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38000247/",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/noodles/",
      "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Honkaku Sanuki Udon Nishi Kura",
+     "name_en": "Honkaku Sanuki Udon Nishi Kura",
+     "name_ja": "本格讃岐うどん にし蔵",
+     "description": "Noodle restaurant in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/11941549540",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Igosso",
+     "name_en": "Igosso",
+     "name_ja": "いごっそ",
+     "description": "Ramen restaurant in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/13904181632",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kogarashi",
+     "name_en": "Kogarashi",
+     "name_ja": "ラーメン凩",
+     "description": "Ramen restaurant in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/13744174061",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Wakayama Ramen Raguman",
+     "name_en": "Wakayama Ramen Raguman",
+     "name_ja": "和歌山らーめん らぐまん",
+     "description": "Ramen restaurant in Sakaemachi Minato, Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/11936672019",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Oshokujidokoro Chomei Mizu",
+     "name_en": "Oshokujidokoro Chomei Mizu",
+     "name_ja": "お食事処 長命水",
+     "description": "Restaurant in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/8374058217",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Sumi Yaki Mura",
+     "name_en": "Sumi Yaki Mura",
+     "name_ja": "炭やき村",
+     "description": "Restaurant in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/5537455722",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/other/",
+     "category": "Other"
     },
     {
      "name": "Kadoya Main Store",
@@ -7346,6 +11274,78 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Donto",
+     "name_en": "Donto",
+     "name_ja": "どんと",
+     "description": "Japanese restaurant in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/12365032867",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kadoya",
+     "name_en": "Kadoya",
+     "name_ja": "かどや",
+     "description": "Japanese restaurant in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/9412250950",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kappoh Tanaka - Uwajima Traditional Cooking",
+     "name_en": "Kappoh Tanaka - Uwajima Traditional Cooking",
+     "name_ja": "割烹田中",
+     "description": "Japanese restaurant in Shimmachi, Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/9719690487",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kyodo Ryori Shoku no Hiroba",
+     "name_en": "Kyodo Ryori Shoku no Hiroba",
+     "name_ja": "郷土料理 食のひろば",
+     "description": "Japanese food court in Uwajima. Open daily 10:30-16:30.",
+     "source_url": "https://www.openstreetmap.org/node/12409245502",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Miyoshino",
+     "name_en": "Miyoshino",
+     "name_ja": "みよしの",
+     "description": "Japanese restaurant in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/12032835644",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Japanese restaurant in Uwajima",
+     "name_en": "Japanese restaurant in Uwajima",
+     "name_ja": "お好み焼き すかがわ",
+     "description": "Japanese restaurant in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/11934498729",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Omusubi",
+     "name_en": "Omusubi",
+     "name_ja": "お結び",
+     "description": "Japanese restaurant in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/11941549549",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Togyu",
+     "name_en": "Togyu",
+     "name_ja": "闘牛",
+     "description": "Japanese restaurant in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/way/806824963",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Kaiten Sushi Sushi Emon Uwajima Main Store",
      "name_en": "Kaiten Sushi Sushi Emon Uwajima Main Store",
      "name_ja": "回転寿司すしえもん 宇和島本店",
@@ -7364,11 +11364,73 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Chidori Sushi",
+     "name_en": "Chidori Sushi",
+     "name_ja": "千鳥寿司",
+     "description": "Sushi restaurant in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/11944383329",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Nishi",
+     "name_en": "Nishi",
+     "name_ja": "西",
+     "description": "Fish restaurant in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/13904303349",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Shofuchi Umi no Ie Komoterasu",
+     "name_en": "Shofuchi Umi no Ie Komoterasu",
+     "name_ja": "蒋渕 海の家 こもてらす",
+     "description": "Seafood restaurant in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/5377333031",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Hisashi Tsutsumi Yume",
      "name_en": "Hisashi Tsutsumi Yume",
      "name_ja": "寿堤夢",
      "description": "Sweets and bakery shop in Uwajima, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3804/A380401/38001019/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sweets shop in Uwajima",
+     "name_en": "Sweets shop in Uwajima",
+     "name_ja": "久遠チョコレート 宇和島店",
+     "description": "Sweets shop in Marunochi, Uwajima. Open Tue-Sun 10:00-18:30.",
+     "source_url": "https://quon-choco.com/",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Mochi Kichi Uwajima Branch",
+     "name_en": "Mochi Kichi Uwajima Branch",
+     "name_ja": "もち吉 宇和島店",
+     "description": "Sweets shop in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/11939091174",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "ROYCE'",
+     "name_en": "ROYCE'",
+     "name_ja": "ロイズ",
+     "description": "Ice cream shop in Uwajima. Open daily 09:00-17:00.",
+     "source_url": "https://www.openstreetmap.org/node/12409245498",
+     "page": "https://bokenjapan.com/ehime/uwajima/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "TOMx2",
+     "name_en": "TOMx2",
+     "description": "Bakery in Uwajima.",
+     "source_url": "https://www.openstreetmap.org/node/12213351072",
      "page": "https://bokenjapan.com/ehime/uwajima/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -7505,7 +11567,7 @@
     "address": "1-1-1 Kitahama, Yawatahama City, Ehime 796-8501, Japan",
     "phone": "0894-22-3111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Yawatahama City Hall",
@@ -7560,6 +11622,31 @@
      "category": "Cafe"
     },
     {
+     "name": "Cafe Chocolat",
+     "name_en": "Cafe Chocolat",
+     "description": "Cafe in Yawatahama.",
+     "source_url": "https://www.openstreetmap.org/node/7023329587",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "cafe chouchou",
+     "name_en": "cafe chouchou",
+     "description": "Cafe in Yawatahama.",
+     "source_url": "https://www.openstreetmap.org/node/7023064088",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe in Yawatahama",
+     "name_en": "Cafe in Yawatahama",
+     "name_ja": "ル・プチポン",
+     "description": "Cafe in Yawatahama. Open daily 10:00-28:00.",
+     "source_url": "https://www.openstreetmap.org/node/12353326275",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Doya Shokudo",
      "name_en": "Doya Shokudo",
      "name_ja": "どーや食堂",
@@ -7596,6 +11683,14 @@
      "category": "Casual"
     },
     {
+     "name": "Pizza Royalhat",
+     "name_en": "Pizza Royalhat",
+     "description": "Western-style restaurant in Yawatahama.",
+     "source_url": "https://www.openstreetmap.org/node/7022911581",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Shoku Tsukuri Taku Aji",
      "name_en": "Shoku Tsukuri Taku Aji",
      "name_ja": "食造り 拓味",
@@ -7610,6 +11705,48 @@
      "name_ja": "くいもんや３０５",
      "description": "Izakaya or bar in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38001114/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Hama",
+     "name_en": "Hama",
+     "description": "Pub in Yawatahama.",
+     "source_url": "https://www.openstreetmap.org/node/7022943422",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Lounge Rin",
+     "name_en": "Lounge Rin",
+     "name_ja": "ラウンジりん",
+     "description": "Bar in Yawatahama.",
+     "source_url": "https://www.openstreetmap.org/node/7022910837",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Ron",
+     "name_en": "Ron",
+     "description": "Bar in Yawatahama.",
+     "source_url": "https://www.openstreetmap.org/node/7023057278",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Saishu Shima",
+     "name_en": "Saishu Shima",
+     "name_ja": "済州島",
+     "description": "Pub in Yawatahama.",
+     "source_url": "https://www.openstreetmap.org/node/7022826482",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "URiBou",
+     "name_en": "URiBou",
+     "description": "Bar in Yawatahama.",
+     "source_url": "https://www.openstreetmap.org/node/7022934744",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -7668,11 +11805,45 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Moto Basu Ramen Kajiwara",
+     "name_en": "Moto Basu Ramen Kajiwara",
+     "name_ja": "元バスラーメンかじわら",
+     "description": "Ramen restaurant in Yawatahama.",
+     "source_url": "https://www.openstreetmap.org/node/7022934743",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Restaurant in Yawatahama",
      "name_en": "Restaurant in Yawatahama",
      "name_ja": "千鳥の荘 風の樹",
      "description": "Restaurant in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38008321/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Atago",
+     "name_en": "Atago",
+     "name_ja": "あたご",
+     "description": "Restaurant in Yawatahama.",
+     "source_url": "https://www.openstreetmap.org/node/5603129133",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Polpo",
+     "name_en": "Polpo",
+     "description": "Restaurant in Yawatahama.",
+     "source_url": "https://www.openstreetmap.org/node/7023020780",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "WILL",
+     "name_en": "WILL",
+     "description": "Restaurant in Yawatahama.",
+     "source_url": "https://www.openstreetmap.org/node/12094471812",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/other/",
      "category": "Other"
     },
@@ -7736,6 +11907,14 @@
      "name_ja": "宮川菓子舗",
      "description": "Sweets and bakery shop in Yawatahama, Ehime.",
      "source_url": "https://tabelog.com/ehime/A3803/A380302/38001519/",
+     "page": "https://bokenjapan.com/ehime/yawatahama/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Roll",
+     "name_en": "Roll",
+     "description": "Ice cream shop in Yawatahama.",
+     "source_url": "https://www.openstreetmap.org/node/7023071914",
      "page": "https://bokenjapan.com/ehime/yawatahama/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }

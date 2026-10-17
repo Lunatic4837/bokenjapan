@@ -22,7 +22,7 @@
     "lat": 34.5032844,
     "lon": 131.4714027
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Sun Mart Nago Branch",
@@ -406,7 +406,7 @@
     "lat": 34.4081199,
     "lon": 131.3991011
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Higashi Hagi Eki Tourist Information",
@@ -695,8 +695,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Kafeteriaijinkan",
-     "name_en": "Kafeteriaijinkan",
+     "name": "Cafeteria Ijinkan",
+     "name_en": "Cafeteria Ijinkan",
      "description": "Mid-range cafe.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1023690-d1691570-Reviews-Kafeteriaijinkan-Hagi_Yamaguchi_Prefecture_Chugoku.html",
      "page": "https://bokenjapan.com/yamaguchi/hagi/eat/cafe/",
@@ -2861,7 +2861,7 @@
     "lat": 33.9618552,
     "lon": 131.9421855
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Hikari Tourism Association",
@@ -3061,8 +3061,8 @@
      "category": "Casual"
     },
     {
-     "name": "Hottomotto Hikari Ekimae Branch",
-     "name_en": "Hottomotto Hikari Ekimae Branch",
+     "name": "Hotto Motto Hikari Ekimae Branch",
+     "name_en": "Hotto Motto Hikari Ekimae Branch",
      "name_ja": "ほっともっと 光駅前店",
      "description": "Bento shop, 185 m from Hikari Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3505/A350502/35008973/",
@@ -3070,8 +3070,8 @@
      "category": "Casual"
     },
     {
-     "name": "Hottomotto Mitsui Branch",
-     "name_en": "Hottomotto Mitsui Branch",
+     "name": "Hotto Motto Mitsui Branch",
+     "name_en": "Hotto Motto Mitsui Branch",
      "name_ja": "ほっともっと 光井店",
      "description": "Bento shop, 4,091 m from Hikari Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3505/A350502/35008972/",
@@ -3088,8 +3088,8 @@
      "category": "Casual"
     },
     {
-     "name": "Hottomotto Hikari Shimata Branch",
-     "name_en": "Hottomotto Hikari Shimata Branch",
+     "name": "Hotto Motto Hikari Shimata Branch",
+     "name_en": "Hotto Motto Hikari Shimata Branch",
      "name_ja": "ほっともっと 光島田店",
      "description": "Bento shop, 1,879 m from Hikari Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3505/A350502/35008974/",
@@ -3981,7 +3981,7 @@
     "lat": 33.9380526,
     "lon": 132.0733243
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "MaxValu Hirao Higashi Branch",
@@ -4141,8 +4141,8 @@
      "category": "Casual"
     },
     {
-     "name": "Hottomotto Yamaguchi Hirao Branch",
-     "name_en": "Hottomotto Yamaguchi Hirao Branch",
+     "name": "Hotto Motto Yamaguchi Hirao Branch",
+     "name_en": "Hotto Motto Yamaguchi Hirao Branch",
      "name_ja": "ほっともっと 山口平生町店",
      "description": "Bento shop, 2,948 m from Tabuse Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350602/35008987/",
@@ -4704,7 +4704,7 @@
     "lat": 34.051797,
     "lon": 131.5627184
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Hofu Tourist Information Machi no Eki Ume Terrace / Rentasaikuru",
@@ -4880,6 +4880,15 @@
      "category": "Cafe"
     },
     {
+     "name": "Cafe Sutantsa",
+     "name_en": "Cafe Sutantsa",
+     "name_ja": "カフェスタンツァ",
+     "description": "Cafe in Hofu.",
+     "source_url": "https://www.openstreetmap.org/node/4820299341",
+     "page": "https://bokenjapan.com/yamaguchi/hofu/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Jidori Shokudo Hofu Branch",
      "name_en": "Jidori Shokudo Hofu Branch",
      "name_ja": "地鶏食堂 防府店",
@@ -5013,6 +5022,15 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Ramon no Shokudo",
+     "name_en": "Ramon no Shokudo",
+     "name_ja": "ラモンの食堂",
+     "description": "Thai restaurant in Hofu.",
+     "source_url": "https://www.openstreetmap.org/node/13300792175",
+     "page": "https://bokenjapan.com/yamaguchi/hofu/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Izakaya Aman",
      "name_en": "Izakaya Aman",
      "name_ja": "居酒屋アマン",
@@ -5075,6 +5093,24 @@
      "name_en": "Italian Shokudo Ryo s",
      "description": "Italian restaurant in Hachioji, serving lunch and dinner.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1023684-d6117052-Reviews-Italian_Shokudo_Ryo_s-Hofu_Yamaguchi_Prefecture_Chugoku.html",
+     "page": "https://bokenjapan.com/yamaguchi/hofu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Jolly-Pasta",
+     "name_en": "Jolly-Pasta",
+     "name_ja": "ジョリーパスタ",
+     "description": "Western-style restaurant in Hofu.",
+     "source_url": "https://www.openstreetmap.org/node/4820336181",
+     "page": "https://bokenjapan.com/yamaguchi/hofu/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Ryo's",
+     "name_en": "Ryo's",
+     "name_ja": "良's",
+     "description": "Italian restaurant in Hofu.",
+     "source_url": "https://www.openstreetmap.org/node/4770687026",
      "page": "https://bokenjapan.com/yamaguchi/hofu/eat/european/",
      "category": "European"
     },
@@ -5300,6 +5336,51 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Fumin",
+     "name_en": "Fumin",
+     "name_ja": "フーミン(ラーメン)",
+     "description": "Ramen restaurant in Hofu.",
+     "source_url": "https://www.openstreetmap.org/node/4679491391",
+     "page": "https://bokenjapan.com/yamaguchi/hofu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Shop Kuwayama",
+     "name_en": "Ramen Shop Kuwayama",
+     "name_ja": "ラーメンショップ桑山",
+     "description": "Ramen restaurant in Hofu.",
+     "source_url": "https://www.openstreetmap.org/node/13188392553",
+     "page": "https://bokenjapan.com/yamaguchi/hofu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Shop Nagasawa Branch",
+     "name_en": "Ramen Shop Nagasawa Branch",
+     "name_ja": "ラーメンショップ 長沢店",
+     "description": "Ramen restaurant in Hofu.",
+     "source_url": "https://www.openstreetmap.org/way/1375487842",
+     "page": "https://bokenjapan.com/yamaguchi/hofu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Shop Tsubakitoge Branch",
+     "name_en": "Ramen Shop Tsubakitoge Branch",
+     "name_ja": "ラーメンショップ 椿峠店",
+     "description": "Ramen restaurant in Hofu.",
+     "source_url": "https://www.openstreetmap.org/way/447318332",
+     "page": "https://bokenjapan.com/yamaguchi/hofu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Soba restaurant in Hofu",
+     "name_en": "Soba restaurant in Hofu",
+     "name_ja": "兎屋(そば)",
+     "description": "Soba restaurant in Hofu.",
+     "source_url": "https://www.openstreetmap.org/node/4796403521",
+     "page": "https://bokenjapan.com/yamaguchi/hofu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Hana Asobi Hofu Branch",
      "name_en": "Hana Asobi Hofu Branch",
      "name_ja": "花あそび 防府店",
@@ -5363,8 +5444,8 @@
      "category": "Other"
     },
     {
-     "name": "Mori Teien Golf Kurabu",
-     "name_en": "Mori Teien Golf Kurabu",
+     "name": "Mori Teien Golf Club",
+     "name_en": "Mori Teien Golf Club",
      "name_ja": "毛利庭園ゴルフ倶楽部",
      "description": "Food spot, 2,100 m from Hofu Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3501/A350102/35013436/",
@@ -5408,6 +5489,15 @@
      "name_en": "Komoyan",
      "description": "Restaurant in Ebisumachi.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1023684-d14138563-Reviews-Komoyan-Hofu_Yamaguchi_Prefecture_Chugoku.html",
+     "page": "https://bokenjapan.com/yamaguchi/hofu/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Onyasai",
+     "name_en": "Onyasai",
+     "name_ja": "温野菜",
+     "description": "Restaurant in Hofu.",
+     "source_url": "https://www.openstreetmap.org/node/4041090197",
      "page": "https://bokenjapan.com/yamaguchi/hofu/eat/other/",
      "category": "Other"
     },
@@ -5473,6 +5563,15 @@
      "name_en": "Kodawaritonkatsu Icho Hofu",
      "description": "Japanese restaurant.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1023684-d7507070-Reviews-Kodawaritonkatsu_Icho_Hofu-Hofu_Yamaguchi_Prefecture_Chugoku.html",
+     "page": "https://bokenjapan.com/yamaguchi/hofu/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Fugetsu (Okonomiyaki Ki)",
+     "name_en": "Fugetsu (Okonomiyaki Ki)",
+     "name_ja": "風月(お好み焼き)",
+     "description": "Japanese food court in Hofu.",
+     "source_url": "https://www.openstreetmap.org/node/4279736995",
      "page": "https://bokenjapan.com/yamaguchi/hofu/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -5565,6 +5664,15 @@
      "name_ja": "Shuklevain 防府店",
      "description": "Bakery, 2,026 m from Hofu Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3501/A350102/35012234/",
+     "page": "https://bokenjapan.com/yamaguchi/hofu/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Mitsura Jozo Bakery ebb&flow",
+     "name_en": "Mitsura Jozo Bakery ebb&flow",
+     "name_ja": "光浦醸造ベーカリーebb&flow",
+     "description": "Bakery in Hofu. Open Tue-Sat 11:00-16:30.",
+     "source_url": "https://mitsuura.jp/wp/ebb_flow_bakery/",
      "page": "https://bokenjapan.com/yamaguchi/hofu/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -6187,7 +6295,7 @@
     "lat": 34.1665825,
     "lon": 132.2188719
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Iwakuni Kanko Koryu Tokoro (Honke Matsu Gane)",
@@ -6373,6 +6481,15 @@
      "category": "Cafe"
     },
     {
+     "name": "Burger Cafe",
+     "name_en": "Burger Cafe",
+     "name_ja": "淡路島バーガー",
+     "description": "Cafe in Iwakuni.",
+     "source_url": "https://www.openstreetmap.org/node/12914817283",
+     "page": "https://bokenjapan.com/yamaguchi/iwakuni/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Yuga",
      "name_en": "Yuga",
      "name_ja": "憂花",
@@ -6391,8 +6508,8 @@
      "category": "Casual"
     },
     {
-     "name": "Hottomotto Minami Iwakuni Branch",
-     "name_en": "Hottomotto Minami Iwakuni Branch",
+     "name": "Hotto Motto Minami Iwakuni Branch",
+     "name_en": "Hotto Motto Minami Iwakuni Branch",
      "name_ja": "ほっともっと 南岩国店",
      "description": "Bento shop, 1,372 m from Minami-Iwakuni Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350601/35008971/",
@@ -6427,6 +6544,31 @@
      "category": "Casual"
     },
     {
+     "name": "Tako Tcha",
+     "name_en": "Tako Tcha",
+     "name_ja": "タコっちゃ",
+     "description": "Fast-food restaurant in Marifumachi, Iwakuni.",
+     "source_url": "https://tako-cha.com/",
+     "page": "https://bokenjapan.com/yamaguchi/iwakuni/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Grand Chief",
+     "name_en": "Grand Chief",
+     "description": "Burger fast-food restaurant in Iwakuni.",
+     "source_url": "https://www.openstreetmap.org/node/2884908801",
+     "page": "https://bokenjapan.com/yamaguchi/iwakuni/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Mos Burger Iwakuni",
+     "name_en": "Mos Burger Iwakuni",
+     "description": "Burger fast-food restaurant in Iwakuni.",
+     "source_url": "https://www.openstreetmap.org/way/661710553",
+     "page": "https://bokenjapan.com/yamaguchi/iwakuni/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Hanazono",
      "name_en": "Hanazono",
      "name_ja": "花園",
@@ -6450,6 +6592,14 @@
      "name_ja": "餃子の王将 岩国店",
      "description": "Chinese restaurant, 362 m from Minami-Iwakuni Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350601/35003051/",
+     "page": "https://bokenjapan.com/yamaguchi/iwakuni/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Sawadee",
+     "name_en": "Sawadee",
+     "description": "Thai restaurant in Iwakuni.",
+     "source_url": "https://www.openstreetmap.org/node/4213171017",
      "page": "https://bokenjapan.com/yamaguchi/iwakuni/eat/chinese-asian/",
      "category": "Chinese & Asian"
     },
@@ -6520,6 +6670,30 @@
      "name_en": "Italian Izakaya Fukuoka",
      "description": "Mid-range italian restaurant in Marifucho.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g675102-d7432969-Reviews-Italian_Izakaya_Fukuoka-Iwakuni_Yamaguchi_Prefecture_Chugoku.html",
+     "page": "https://bokenjapan.com/yamaguchi/iwakuni/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "California",
+     "name_en": "California",
+     "description": "American restaurant in Iwakuni.",
+     "source_url": "https://www.openstreetmap.org/node/4213171016",
+     "page": "https://bokenjapan.com/yamaguchi/iwakuni/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Nicoli Kitchen",
+     "name_en": "Nicoli Kitchen",
+     "description": "Italian restaurant in Iwakuni.",
+     "source_url": "https://www.openstreetmap.org/node/14230296178",
+     "page": "https://bokenjapan.com/yamaguchi/iwakuni/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Rib House Bar & Grill",
+     "name_en": "Rib House Bar & Grill",
+     "description": "American restaurant in Iwakuni.",
+     "source_url": "https://www.openstreetmap.org/node/4213159701",
      "page": "https://bokenjapan.com/yamaguchi/iwakuni/eat/european/",
      "category": "European"
     },
@@ -6798,6 +6972,15 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Rairaitei",
+     "name_en": "Rairaitei",
+     "name_ja": "来来亭",
+     "description": "Ramen restaurant in Iwakuni.",
+     "source_url": "https://rairaitei.co.jp/",
+     "page": "https://bokenjapan.com/yamaguchi/iwakuni/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Kannon Chaya Jihanki Corner",
      "name_en": "Kannon Chaya Jihanki Corner",
      "name_ja": "観音茶屋 自販機コーナー",
@@ -6844,6 +7027,48 @@
      "name_en": "Ramen Yamabiko",
      "description": "Mid-range restaurant in Muronokimachi, open 11:00–15:00 and 17:00–21:00.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g675102-d4901736-Reviews-Ramen_Yamabiko-Iwakuni_Yamaguchi_Prefecture_Chugoku.html",
+     "page": "https://bokenjapan.com/yamaguchi/iwakuni/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Itto Sen",
+     "name_en": "Itto Sen",
+     "name_ja": "一燈銭",
+     "description": "Restaurant in Iwakuni.",
+     "source_url": "http://www.irori-sanzoku.co.jp/omise/nishiki/ittousen/",
+     "page": "https://bokenjapan.com/yamaguchi/iwakuni/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Mike's Tex-Mex Restaurant",
+     "name_en": "Mike's Tex-Mex Restaurant",
+     "description": "Restaurant in Iwakuni.",
+     "source_url": "https://mikes.jp/shopinfo04.html",
+     "page": "https://bokenjapan.com/yamaguchi/iwakuni/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Sanzoku Toride",
+     "name_en": "Sanzoku Toride",
+     "name_ja": "山賊砦",
+     "description": "Restaurant in Iwakuni.",
+     "source_url": "http://www.irori-sanzoku.co.jp/omise/nishiki/toride/",
+     "page": "https://bokenjapan.com/yamaguchi/iwakuni/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "JOE",
+     "name_en": "JOE",
+     "description": "Restaurant in Iwakuni.",
+     "source_url": "https://www.openstreetmap.org/node/12923134281",
+     "page": "https://bokenjapan.com/yamaguchi/iwakuni/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Taco Tacos",
+     "name_en": "Taco Tacos",
+     "description": "Restaurant in Iwakuni.",
+     "source_url": "https://www.openstreetmap.org/node/14230285469",
      "page": "https://bokenjapan.com/yamaguchi/iwakuni/eat/other/",
      "category": "Other"
     },
@@ -7022,6 +7247,14 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Nonta Zushi Iwakuni ten",
+     "name_en": "Nonta Zushi Iwakuni ten",
+     "description": "Sushi restaurant in Iwakuni.",
+     "source_url": "https://www.openstreetmap.org/way/1563348542",
+     "page": "https://bokenjapan.com/yamaguchi/iwakuni/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Chateraise Minami Iwakuni Branch",
      "name_en": "Chateraise Minami Iwakuni Branch",
      "name_ja": "シャトレーゼ 南岩国店",
@@ -7053,6 +7286,14 @@
      "name_en": "Musashi",
      "description": "Mid-range sweets shop in Yokoyama, open 09:00–18:00.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g675102-d7433075-Reviews-Musashi-Iwakuni_Yamaguchi_Prefecture_Chugoku.html",
+     "page": "https://bokenjapan.com/yamaguchi/iwakuni/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Shokujidokoro Musashi",
+     "name_en": "Shokujidokoro Musashi",
+     "description": "Ice cream restaurant in Iwakuni. Open Mon-Sun, public holidays 09:00-17:00.",
+     "source_url": "https://www.openstreetmap.org/node/10648332009",
      "page": "https://bokenjapan.com/yamaguchi/iwakuni/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -7797,7 +8038,7 @@
     "lat": 33.830862,
     "lon": 132.1101847
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Michi no Eki Kaminoseki Kaikyo Farmers and Fish Market",
@@ -8196,7 +8437,7 @@
     "lat": 34.0149761,
     "lon": 131.8703488
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Kudamatsu Tourist Information",
@@ -8929,8 +9170,8 @@
      "category": "Casual"
     },
     {
-     "name": "Hottomotto Suetake Odori Branch",
-     "name_en": "Hottomotto Suetake Odori Branch",
+     "name": "Hotto Motto Suetake Odori Branch",
+     "name_en": "Hotto Motto Suetake Odori Branch",
      "name_ja": "ほっともっと 末武大通り店",
      "description": "Bento shop, 1,096 m from Suo-Hanaoka Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3505/A350502/35008965/",
@@ -8947,8 +9188,8 @@
      "category": "Casual"
     },
     {
-     "name": "Hottomotto Kudamatsu Chuo Branch",
-     "name_en": "Hottomotto Kudamatsu Chuo Branch",
+     "name": "Hotto Motto Kudamatsu Chuo Branch",
+     "name_en": "Hotto Motto Kudamatsu Chuo Branch",
      "name_ja": "ほっともっと 下松中央店",
      "description": "Bento shop, 1,301 m from Kudamatsu Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3505/A350502/35008964/",
@@ -11548,7 +11789,7 @@
     "lat": 34.1666155,
     "lon": 131.206311
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Shuho Nashi Chokubai Tokoro (Shuho Rio San Hambai Kyodokumiai)",
@@ -11665,7 +11906,7 @@
      "page": "https://bokenjapan.com/yamaguchi/mine/do/"
     },
     {
-     "name": "Foresutoadobencha Akiyoshidai",
+     "name": "Forest Adventure Akiyoshidai",
      "description": "Campsite, in a geopark.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_20002.html",
      "page": "https://bokenjapan.com/yamaguchi/mine/do/"
@@ -11727,8 +11968,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Cafe in Mine (#32)",
-     "name_en": "Cafe in Mine (#32)",
+     "name": "Aruboreo",
+     "name_en": "Aruboreo",
      "name_ja": "アルボレオ",
      "description": "Cafe; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350402/35005963/",
@@ -11786,8 +12027,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Cafe in Mine (#76)",
-     "name_en": "Cafe in Mine (#76)",
+     "name": "Mugi cafe",
+     "name_en": "Mugi cafe",
      "name_ja": "麦cafe",
      "description": "Cafe; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350402/35011349/",
@@ -11795,8 +12036,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Cafe in Mine (#86)",
-     "name_en": "Cafe in Mine (#86)",
+     "name": "Amairo cafe",
+     "name_en": "Amairo cafe",
      "name_ja": "あまいろcafe",
      "description": "Cafe, open 10:00–16:30.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350402/35012095/",
@@ -11884,8 +12125,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Cafe in Mine (#154)",
-     "name_en": "Cafe in Mine (#154)",
+     "name": "Torippu Besu Kokoniiru",
+     "name_en": "Torippu Besu Kokoniiru",
      "name_ja": "トリップ ベース ココニイル",
      "description": "Cafe; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350402/35011561/",
@@ -12125,8 +12366,8 @@
      "category": "Casual"
     },
     {
-     "name": "Hottomotto Mine Branch",
-     "name_en": "Hottomotto Mine Branch",
+     "name": "Hotto Motto Mine Branch",
+     "name_en": "Hotto Motto Mine Branch",
      "name_ja": "ほっともっと 美祢店",
      "description": "Bento shop, 522 m from Mine Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350402/35008978/",
@@ -12680,8 +12921,8 @@
      "category": "Other"
     },
     {
-     "name": "Central Park Golf Kurabu Restaurant",
-     "name_en": "Central Park Golf Kurabu Restaurant",
+     "name": "Central Park Golf Club Restaurant",
+     "name_en": "Central Park Golf Club Restaurant",
      "name_ja": "セントラルパークゴルフ倶楽部 レストラン",
      "description": "Restaurant with parking, near Ozuki Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3502/A350201/35008768/",
@@ -12689,8 +12930,8 @@
      "category": "Other"
     },
     {
-     "name": "Lake Swan Country Kurabu Mine Course",
-     "name_en": "Lake Swan Country Kurabu Mine Course",
+     "name": "Lake Swan Country Club Mine Course",
+     "name_en": "Lake Swan Country Club Mine Course",
      "name_ja": "レークスワンカントリー倶楽部 美祢コース",
      "description": "Restaurant with parking, near Mine Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350402/35013898/",
@@ -14072,7 +14313,7 @@
     "lat": 34.3709265,
     "lon": 131.1825162
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Nagato Tourist Information YUKUTE",
@@ -14436,8 +14677,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Hottomotto Nagato Ekimae Branch",
-     "name_en": "Hottomotto Nagato Ekimae Branch",
+     "name": "Hotto Motto Nagato Ekimae Branch",
+     "name_en": "Hotto Motto Nagato Ekimae Branch",
      "name_ja": "ほっともっと 長門駅前店",
      "description": "Bento shop, 150 m from Nagatoshi Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3503/A350302/35008975/",
@@ -14496,8 +14737,8 @@
      "category": "European"
     },
     {
-     "name": "Otani Sanso Naito Salon Nagato Kurabu",
-     "name_en": "Otani Sanso Naito Salon Nagato Kurabu",
+     "name": "Otani Sanso Naito Salon Nagato Club",
+     "name_en": "Otani Sanso Naito Salon Nagato Club",
      "name_ja": "大谷山荘 ナイトサロン 長門倶楽部",
      "description": "Bar, 950 m from Nagato-Yumoto Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/yamaguchi/A3503/A350302/35010454/",
@@ -15121,7 +15362,7 @@
      "page": "https://bokenjapan.com/yamaguchi/nagato/see/"
     },
     {
-     "name": "Seikai Shima Kyanpu Village",
+     "name": "Seikai Shima Camp Village",
      "description": "A village in Nagato, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_13476.html",
      "page": "https://bokenjapan.com/yamaguchi/nagato/see/"
@@ -15781,35 +16022,35 @@
    ]
   },
   {
-   "name": "Sanyoonoda",
+   "name": "Sanyo-Onoda",
    "slug": "sanyoonoda",
    "prefecture": "yamaguchi",
    "url": "https://bokenjapan.com/yamaguchi/sanyoonoda/",
    "official": {
     "links": [
      {
-      "label": "Sanyoonoda City Hall",
+      "label": "Sanyo-Onoda City Hall",
       "url": "https://www.city.sanyo-onoda.lg.jp/"
      }
     ],
-    "address": "Sanyoonoda, Yamaguchi 756-8601",
+    "address": "Sanyo-Onoda, Yamaguchi 756-8601",
     "phone": "0836-82-1111"
    },
    "geo": {
     "lat": 34.0031564,
     "lon": 131.1817074
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Farm Experience Tour (Hana no Umi)",
-     "description": "Guided tour in Sanyoonoda, Yamaguchi.",
+     "description": "Guided tour in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_19356.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/day-to-day/"
     },
     {
-     "name": "Sanyoonoda Katari Bu no Kai",
-     "description": "Tourist information spot in Sanyoonoda, Yamaguchi.",
+     "name": "Sanyo-Onoda Katari Bu no Kai",
+     "description": "Tourist information spot in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_18121.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/day-to-day/"
     },
@@ -15854,8 +16095,8 @@
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/day-to-day/"
     },
     {
-     "name": "FamilyMart Sanyoonoda Shinsei Itchome Branch",
-     "name_en": "FamilyMart Sanyoonoda Shinsei Itchome Branch",
+     "name": "FamilyMart Sanyo-Onoda Shinsei Itchome Branch",
+     "name_en": "FamilyMart Sanyo-Onoda Shinsei Itchome Branch",
      "name_ja": "ファミリーマート 山陽小野田新生一丁目店",
      "description": "Convenience store or supermarket, 735 m from Mede Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35009194/",
@@ -15918,8 +16159,8 @@
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/day-to-day/"
     },
     {
-     "name": "7-Eleven Sanyoonoda Maru Kawauchi Branch",
-     "name_en": "7-Eleven Sanyoonoda Maru Kawauchi Branch",
+     "name": "7-Eleven Sanyo-Onoda Maru Kawauchi Branch",
+     "name_en": "7-Eleven Sanyo-Onoda Maru Kawauchi Branch",
      "name_ja": "セブンイレブン 山陽小野田丸河内店",
      "description": "Convenience store or supermarket, 1,136 m from Minami-Onoda Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35013838/",
@@ -15929,7 +16170,7 @@
    "activities": [
     {
      "name": "Doraibuin Michishio (Tennen Onsen Michishio)",
-     "description": "A hot spring in Sanyoonoda, Yamaguchi.",
+     "description": "A hot spring in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_12761.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/do/"
     },
@@ -15941,25 +16182,25 @@
     },
     {
      "name": "Winery Tour (Nagayama Shuzo)",
-     "description": "Hands-on experience in Sanyoonoda, Yamaguchi.",
+     "description": "Hands-on experience in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_19259.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/do/"
     },
     {
      "name": "Ko Shio Onsen",
-     "description": "A hot spring in Sanyoonoda, Yamaguchi.",
+     "description": "A hot spring in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_12700.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/do/"
     },
     {
      "name": "Ryuo Sanko Sono Oto Campground",
-     "description": "A campground in Sanyoonoda, Yamaguchi prefecture.",
+     "description": "A campground in Sanyo-Onoda, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_19986.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/do/"
     },
     {
      "name": "Ryuo Taiko",
-     "description": "Local sight in Sanyoonoda, Yamaguchi.",
+     "description": "Local sight in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_12712.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/do/"
     }
@@ -16017,8 +16258,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Café in Sanyoonoda, near Nagato-Motoyama Station (#84)",
-     "name_en": "Café in Sanyoonoda, near Nagato-Motoyama Station (#84)",
+     "name": "Café in Sanyo-Onoda, near Nagato-Motoyama Station (#84)",
+     "name_en": "Café in Sanyo-Onoda, near Nagato-Motoyama Station (#84)",
      "name_ja": "カフェ ソル・ポニエンテ",
      "description": "Cafe, 1,000 m from Nagato-Motoyama Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35014052/",
@@ -16034,8 +16275,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Café in Sanyoonoda, near Nagato-Motoyama Station (#89)",
-     "name_en": "Café in Sanyoonoda, near Nagato-Motoyama Station (#89)",
+     "name": "Café in Sanyo-Onoda, near Nagato-Motoyama Station (#89)",
+     "name_en": "Café in Sanyo-Onoda, near Nagato-Motoyama Station (#89)",
      "name_ja": "ハグハグカフェ",
      "description": "Cafe, 743 m from Nagato-Motoyama Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35004946/",
@@ -16123,8 +16364,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Cafe in Sanyoonoda, near Minami-Nakagawa Station",
-     "name_en": "Cafe in Sanyoonoda, near Minami-Nakagawa Station",
+     "name": "Cafe in Sanyo-Onoda, near Minami-Nakagawa Station",
+     "name_en": "Cafe in Sanyo-Onoda, near Minami-Nakagawa Station",
      "name_ja": "サンマルクカフェ おのだサンパーク店",
      "description": "Cafe, 9-minute walk from Minami-Nakagawa Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35006282/",
@@ -16132,8 +16373,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Cafe in Sanyoonoda, near Onodako Station",
-     "name_en": "Cafe in Sanyoonoda, near Onodako Station",
+     "name": "Cafe in Sanyo-Onoda, near Onodako Station",
+     "name_en": "Cafe in Sanyo-Onoda, near Onodako Station",
      "name_ja": "ワカヤマ",
      "description": "Cafe, 391 m from Onodako Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35007080/",
@@ -16150,8 +16391,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Juice stand in Sanyoonoda",
-     "name_en": "Juice stand in Sanyoonoda",
+     "name": "Juice stand in Sanyo-Onoda",
+     "name_en": "Juice stand in Sanyo-Onoda",
      "name_ja": "果汁工房果琳 おのだサンパーク店",
      "description": "Juice stand, 774 m from Minami-Nakagawa Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35007345/",
@@ -16159,8 +16400,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Café in Sanyoonoda, near Onoda Station",
-     "name_en": "Café in Sanyoonoda, near Onoda Station",
+     "name": "Café in Sanyo-Onoda, near Onoda Station",
+     "name_en": "Café in Sanyo-Onoda, near Onoda Station",
      "name_ja": "マスターズカフェ ナチュラルグリーンパークホテル店",
      "description": "Cafe, 2,800 m from Onoda Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35010771/",
@@ -16212,8 +16453,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Cafe in Sanyoonoda, near Asa Station",
-     "name_en": "Cafe in Sanyoonoda, near Asa Station",
+     "name": "Cafe in Sanyo-Onoda, near Asa Station",
+     "name_en": "Cafe in Sanyo-Onoda, near Asa Station",
      "name_ja": "マァール",
      "description": "Cafe, 1,007 m from Asa Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35010468/",
@@ -16221,8 +16462,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Café in Sanyoonoda, near Nagato-Nagasawa Station",
-     "name_en": "Café in Sanyoonoda, near Nagato-Nagasawa Station",
+     "name": "Café in Sanyo-Onoda, near Nagato-Nagasawa Station",
+     "name_en": "Café in Sanyo-Onoda, near Nagato-Nagasawa Station",
      "name_ja": "成ゆCafe",
      "description": "Cafe, 981 m from Nagato-Nagasawa Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35012607/",
@@ -16273,7 +16514,7 @@
     {
      "name": "Kunembo",
      "name_en": "Kunembo",
-     "description": "Cafe in Sanyoonoda, Yamaguchi.",
+     "description": "Cafe in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1023692-d7663132-Reviews-Kunembo-Sanyo_Onoda_Yamaguchi_Prefecture_Chugoku.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/eat/cafe/",
      "category": "Cafe"
@@ -16313,7 +16554,7 @@
     {
      "name": "Panda",
      "name_en": "Panda",
-     "description": "Cafe in Sanyoonoda, Yamaguchi.",
+     "description": "Cafe in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1023692-d7665783-Reviews-Panda-Sanyo_Onoda_Yamaguchi_Prefecture_Chugoku.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/eat/cafe/",
      "category": "Cafe"
@@ -16336,8 +16577,8 @@
      "category": "Casual"
     },
     {
-     "name": "Fried-food shop in Sanyoonoda",
-     "name_en": "Fried-food shop in Sanyoonoda",
+     "name": "Fried-food shop in Sanyo-Onoda",
+     "name_en": "Fried-food shop in Sanyo-Onoda",
      "name_ja": "浜のてんぷら屋",
      "description": "Fried-food shop; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35000330/",
@@ -16417,8 +16658,8 @@
      "category": "Casual"
     },
     {
-     "name": "Burger shop in Sanyoonoda",
-     "name_en": "Burger shop in Sanyoonoda",
+     "name": "Burger shop in Sanyo-Onoda",
+     "name_en": "Burger shop in Sanyo-Onoda",
      "name_ja": "コメコメバーガー 山陽小野田店",
      "description": "Burger shop, 595 m from Onoda Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35012642/",
@@ -16435,8 +16676,8 @@
      "category": "Casual"
     },
     {
-     "name": "Diner in Sanyoonoda",
-     "name_en": "Diner in Sanyoonoda",
+     "name": "Diner in Sanyo-Onoda",
+     "name_en": "Diner in Sanyo-Onoda",
      "name_ja": "社会福祉協議会 山陽オートレース場 食堂",
      "description": "Diner, 2-minute walk from Habu Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35011587/",
@@ -16452,8 +16693,8 @@
      "category": "Casual"
     },
     {
-     "name": "Yoshinoya Sanyoonoda Branch",
-     "name_en": "Yoshinoya Sanyoonoda Branch",
+     "name": "Yoshinoya Sanyo-Onoda Branch",
+     "name_en": "Yoshinoya Sanyo-Onoda Branch",
      "name_ja": "吉野家 山陽小野田店",
      "description": "Beef-bowl (gyudon) restaurant, 753 m from Onoda Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35011314/",
@@ -16506,8 +16747,8 @@
      "category": "Casual"
     },
     {
-     "name": "Hottomotto Onoda Bypass Branch",
-     "name_en": "Hottomotto Onoda Bypass Branch",
+     "name": "Hotto Motto Onoda Bypass Branch",
+     "name_en": "Hotto Motto Onoda Bypass Branch",
      "name_ja": "ほっともっと 小野田バイパス店",
      "description": "Bento shop, 780 m from Onoda Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35008983/",
@@ -16515,8 +16756,8 @@
      "category": "Casual"
     },
     {
-     "name": "Hottomotto Asa Branch",
-     "name_en": "Hottomotto Asa Branch",
+     "name": "Hotto Motto Asa Branch",
+     "name_en": "Hotto Motto Asa Branch",
      "name_ja": "ほっともっと 厚狭店",
      "description": "Bento shop, 1,235 m from Asa Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35007404/",
@@ -16578,8 +16819,8 @@
      "category": "Casual"
     },
     {
-     "name": "Casual restaurant in Sanyoonoda",
-     "name_en": "Casual restaurant in Sanyoonoda",
+     "name": "Casual restaurant in Sanyo-Onoda",
+     "name_en": "Casual restaurant in Sanyo-Onoda",
      "name_ja": "定食屋 古粋",
      "description": "Diner, 519 m from Asa Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35015027/",
@@ -16621,8 +16862,8 @@
      "category": "Chinese & Asian"
     },
     {
-     "name": "Taiwanese restaurant in Sanyoonoda",
-     "name_en": "Taiwanese restaurant in Sanyoonoda",
+     "name": "Taiwanese restaurant in Sanyo-Onoda",
+     "name_en": "Taiwanese restaurant in Sanyo-Onoda",
      "name_ja": "萬盛 埴生店",
      "description": "Taiwanese restaurant, 1,537 m from Habu Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35008272/",
@@ -16782,8 +17023,8 @@
      "category": "Curry"
     },
     {
-     "name": "Indian curry restaurant in Sanyoonoda",
-     "name_en": "Indian curry restaurant in Sanyoonoda",
+     "name": "Indian curry restaurant in Sanyo-Onoda",
+     "name_en": "Indian curry restaurant in Sanyo-Onoda",
      "name_ja": "シャプラ",
      "description": "Indian curry restaurant, 659 m from Onoda Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35006721/",
@@ -16816,8 +17057,8 @@
      "category": "Curry"
     },
     {
-     "name": "Spanish restaurant in Sanyoonoda",
-     "name_en": "Spanish restaurant in Sanyoonoda",
+     "name": "Spanish restaurant in Sanyo-Onoda",
+     "name_en": "Spanish restaurant in Sanyo-Onoda",
      "name_ja": "ソル・ポニエンテ",
      "description": "Spanish restaurant, 1,015 m from Nagato-Motoyama Station; dinner ¥2,000–2,999.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35000047/",
@@ -16834,8 +17075,8 @@
      "category": "European"
     },
     {
-     "name": "Italian restaurant in Sanyoonoda, near Onodako Station (#48)",
-     "name_en": "Italian restaurant in Sanyoonoda, near Onodako Station (#48)",
+     "name": "Italian restaurant in Sanyo-Onoda, near Onodako Station (#48)",
+     "name_en": "Italian restaurant in Sanyo-Onoda, near Onodako Station (#48)",
      "name_ja": "ラ ティエラ",
      "description": "Italian restaurant, 875 m from Onodako Station; lunch ¥2,000–2,999.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35002408/",
@@ -16870,8 +17111,8 @@
      "category": "European"
     },
     {
-     "name": "Italian restaurant in Sanyoonoda, near Onodako Station (#69)",
-     "name_en": "Italian restaurant in Sanyoonoda, near Onodako Station (#69)",
+     "name": "Italian restaurant in Sanyo-Onoda, near Onodako Station (#69)",
+     "name_en": "Italian restaurant in Sanyo-Onoda, near Onodako Station (#69)",
      "name_ja": "ル ココン 料理工房",
      "description": "Italian restaurant, 873 m from Onodako Station; lunch ¥3,000–3,999.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35011085/",
@@ -16904,8 +17145,8 @@
      "category": "European"
     },
     {
-     "name": "Pasta restaurant in Sanyoonoda",
-     "name_en": "Pasta restaurant in Sanyoonoda",
+     "name": "Pasta restaurant in Sanyo-Onoda",
+     "name_en": "Pasta restaurant in Sanyo-Onoda",
      "name_ja": "ポポラマーマ おのだサンパーク店",
      "description": "Pasta restaurant, 658 m from Minami-Nakagawa Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35009370/",
@@ -16913,8 +17154,8 @@
      "category": "European"
     },
     {
-     "name": "Omurice restaurant in Sanyoonoda",
-     "name_en": "Omurice restaurant in Sanyoonoda",
+     "name": "Omurice restaurant in Sanyo-Onoda",
+     "name_en": "Omurice restaurant in Sanyo-Onoda",
      "name_ja": "十六雑穀オムライス＆ドリア専門店 おむらいす亭 山口おのだサンパーク店",
      "description": "Omurice restaurant, 11-minute walk from Minami-Nakagawa Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35007044/",
@@ -16922,8 +17163,8 @@
      "category": "European"
     },
     {
-     "name": "Jolly Pasta Sanyoonoda Branch",
-     "name_en": "Jolly Pasta Sanyoonoda Branch",
+     "name": "Jolly Pasta Sanyo-Onoda Branch",
+     "name_en": "Jolly Pasta Sanyo-Onoda Branch",
      "name_ja": "ジョリーパスタ 山陽小野田店",
      "description": "Italian restaurant, 528 m from Minami-Nakagawa Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35013914/",
@@ -17068,8 +17309,8 @@
      "category": "Izakaya & bars"
     },
     {
-     "name": "Izakaya in Sanyoonoda, near Onoda Station (#99)",
-     "name_en": "Izakaya in Sanyoonoda, near Onoda Station (#99)",
+     "name": "Izakaya in Sanyo-Onoda, near Onoda Station (#99)",
+     "name_en": "Izakaya in Sanyo-Onoda, near Onoda Station (#99)",
      "name_ja": "旬菜樹",
      "description": "Izakaya, 136 m from Onoda Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35010138/",
@@ -17077,8 +17318,8 @@
      "category": "Izakaya & bars"
     },
     {
-     "name": "Izakaya in Sanyoonoda, near Asa Station",
-     "name_en": "Izakaya in Sanyoonoda, near Asa Station",
+     "name": "Izakaya in Sanyo-Onoda, near Asa Station",
+     "name_en": "Izakaya in Sanyo-Onoda, near Asa Station",
      "name_ja": "憩いの場 厚狭駅前店",
      "description": "Izakaya, 2-minute walk from Asa Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35009956/",
@@ -17104,8 +17345,8 @@
      "category": "Izakaya & bars"
     },
     {
-     "name": "Izakaya in Sanyoonoda, near Onoda Station (#147)",
-     "name_en": "Izakaya in Sanyoonoda, near Onoda Station (#147)",
+     "name": "Izakaya in Sanyo-Onoda, near Onoda Station (#147)",
+     "name_en": "Izakaya in Sanyo-Onoda, near Onoda Station (#147)",
      "name_ja": "ダイニング ハラヤ",
      "description": "Izakaya, 1-minute walk from Onoda Station; dinner ¥6,000–7,999.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35008733/",
@@ -17113,8 +17354,8 @@
      "category": "Izakaya & bars"
     },
     {
-     "name": "Izakaya in Sanyoonoda, near Onoda Station (#154)",
-     "name_en": "Izakaya in Sanyoonoda, near Onoda Station (#154)",
+     "name": "Izakaya in Sanyo-Onoda, near Onoda Station (#154)",
+     "name_en": "Izakaya in Sanyo-Onoda, near Onoda Station (#154)",
      "name_ja": "酒と旬菜 TonBo",
      "description": "Izakaya, 5-minute walk from Onoda Station; dinner ¥3,000–3,999.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35014521/",
@@ -17211,8 +17452,8 @@
      "category": "Izakaya & bars"
     },
     {
-     "name": "Izakaya in Sanyoonoda, near Minami-Onoda Station",
-     "name_en": "Izakaya in Sanyoonoda, near Minami-Onoda Station",
+     "name": "Izakaya in Sanyo-Onoda, near Minami-Onoda Station",
+     "name_en": "Izakaya in Sanyo-Onoda, near Minami-Onoda Station",
      "name_ja": "居座ッ食 あき",
      "description": "Izakaya, 93 m from Minami-Onoda Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35006463/",
@@ -17368,7 +17609,7 @@
     {
      "name": "Lounge Coco",
      "name_en": "Lounge Coco",
-     "description": "Pub in Sanyoonoda, Yamaguchi.",
+     "description": "Pub in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1023692-d9623053-Reviews-Lounge_Coco-Sanyo_Onoda_Yamaguchi_Prefecture_Chugoku.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -17376,7 +17617,7 @@
     {
      "name": "Lounge Camelia",
      "name_en": "Lounge Camelia",
-     "description": "Pub in Sanyoonoda, Yamaguchi.",
+     "description": "Pub in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1023692-d13788841-Reviews-Lounge_Camelia-Sanyo_Onoda_Yamaguchi_Prefecture_Chugoku.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -17520,8 +17761,8 @@
      "category": "Japanese (meat)"
     },
     {
-     "name": "Yakiniku (grilled meat) restaurant in Sanyoonoda",
-     "name_en": "Yakiniku (grilled meat) restaurant in Sanyoonoda",
+     "name": "Yakiniku (grilled meat) restaurant in Sanyo-Onoda",
+     "name_en": "Yakiniku (grilled meat) restaurant in Sanyo-Onoda",
      "name_ja": "火毱",
      "description": "Yakiniku (grilled meat) restaurant, 158 m from Onoda Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35013771/",
@@ -17565,8 +17806,8 @@
      "category": "Japanese (meat)"
     },
     {
-     "name": "Yakitori restaurant in Sanyoonoda",
-     "name_en": "Yakitori restaurant in Sanyoonoda",
+     "name": "Yakitori restaurant in Sanyo-Onoda",
+     "name_en": "Yakitori restaurant in Sanyo-Onoda",
      "name_ja": "串ん坊",
      "description": "Yakitori restaurant, 717 m from Asa Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35002677/",
@@ -17592,8 +17833,8 @@
      "category": "Japanese (meat)"
     },
     {
-     "name": "Matsuya Matsu Noya Sanyoonoda Branch",
-     "name_en": "Matsuya Matsu Noya Sanyoonoda Branch",
+     "name": "Matsuya Matsu Noya Sanyo-Onoda Branch",
+     "name_en": "Matsuya Matsu Noya Sanyo-Onoda Branch",
      "name_ja": "松屋 松のや 山陽小野田店",
      "description": "Tonkatsu restaurant, 202 m from Minami-Onoda Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35013813/",
@@ -17752,8 +17993,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Udon restaurant in Sanyoonoda",
-     "name_en": "Udon restaurant in Sanyoonoda",
+     "name": "Udon restaurant in Sanyo-Onoda",
+     "name_en": "Udon restaurant in Sanyo-Onoda",
      "name_ja": "駅うどん 日の出屋",
      "description": "Udon restaurant, 8 m from Onoda Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35012387/",
@@ -17886,8 +18127,8 @@
      "category": "Other"
     },
     {
-     "name": "Asa Golf Kurabu",
-     "name_en": "Asa Golf Kurabu",
+     "name": "Asa Golf Club",
+     "name_en": "Asa Golf Club",
      "name_ja": "厚狭ゴルフ倶楽部",
      "description": "Food spot, 3,400 m from Asa Station; lunch ¥10,000–14,999.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35012079/",
@@ -17895,8 +18136,8 @@
      "category": "Other"
     },
     {
-     "name": "Park . In Sanyoonoda",
-     "name_en": "Park . In Sanyoonoda",
+     "name": "Park . In Sanyo-Onoda",
+     "name_en": "Park . In Sanyo-Onoda",
      "name_ja": "パーク.イン山陽小野田",
      "description": "Food spot, 698 m from Onoda Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35010058/",
@@ -17913,8 +18154,8 @@
      "category": "Other"
     },
     {
-     "name": "President Country Kurabu Sanyo",
-     "name_en": "President Country Kurabu Sanyo",
+     "name": "President Country Club Sanyo",
+     "name_en": "President Country Club Sanyo",
      "name_ja": "プレジデントカントリー倶楽部山陽",
      "description": "Food spot, 2,700 m from Asa Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35014250/",
@@ -17966,8 +18207,8 @@
      "category": "Other"
     },
     {
-     "name": "Kentucky Fried Chicken Sanyoonoda Branch",
-     "name_en": "Kentucky Fried Chicken Sanyoonoda Branch",
+     "name": "Kentucky Fried Chicken Sanyo-Onoda Branch",
+     "name_en": "Kentucky Fried Chicken Sanyo-Onoda Branch",
      "name_ja": "ケンタッキーフライドチキン 山陽小野田店",
      "description": "Chicken restaurant, 760 m from Onoda Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35011352/",
@@ -17993,8 +18234,8 @@
      "category": "Other"
     },
     {
-     "name": "Bistro in Sanyoonoda",
-     "name_en": "Bistro in Sanyoonoda",
+     "name": "Bistro in Sanyo-Onoda",
+     "name_en": "Bistro in Sanyo-Onoda",
      "name_ja": "ビストロ アマービレ",
      "description": "Restaurant, 723 m from Minami-Nakagawa Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35012027/",
@@ -18081,7 +18322,7 @@
     {
      "name": "Coco Don",
      "name_en": "Coco Don",
-     "description": "Restaurant in Sanyoonoda, Yamaguchi.",
+     "description": "Restaurant in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1023692-d18339743-Reviews-Coco_Don-Sanyo_Onoda_Yamaguchi_Prefecture_Chugoku.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/eat/other/",
      "category": "Other"
@@ -18329,8 +18570,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Japanese restaurant in Sanyoonoda",
-     "name_en": "Japanese restaurant in Sanyoonoda",
+     "name": "Japanese restaurant in Sanyo-Onoda",
+     "name_en": "Japanese restaurant in Sanyo-Onoda",
      "name_ja": "食道楽 帆万里",
      "description": "Japanese restaurant; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35001736/",
@@ -18664,8 +18905,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Seafood restaurant in Sanyoonoda",
-     "name_en": "Seafood restaurant in Sanyoonoda",
+     "name": "Seafood restaurant in Sanyo-Onoda",
+     "name_en": "Seafood restaurant in Sanyo-Onoda",
      "name_ja": "飛寅",
      "description": "Seafood restaurant, 1-minute walk from Onoda Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35008924/",
@@ -18813,8 +19054,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Bakery in Sanyoonoda, near Nagato-Motoyama Station",
-     "name_en": "Bakery in Sanyoonoda, near Nagato-Motoyama Station",
+     "name": "Bakery in Sanyo-Onoda, near Nagato-Motoyama Station",
+     "name_en": "Bakery in Sanyo-Onoda, near Nagato-Motoyama Station",
      "name_ja": "パン・デ・モルデ",
      "description": "Bakery, 233 m from Nagato-Motoyama Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35001855/",
@@ -18822,8 +19063,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Bakery in Sanyoonoda, near Asa Station",
-     "name_en": "Bakery in Sanyoonoda, near Asa Station",
+     "name": "Bakery in Sanyo-Onoda, near Asa Station",
+     "name_en": "Bakery in Sanyo-Onoda, near Asa Station",
      "name_ja": "極みの食パン 安都佐",
      "description": "Bakery, 1,000 m from Asa Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35012436/",
@@ -18849,8 +19090,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Japanese sweets (wagashi) shop in Sanyoonoda, near Asa Station",
-     "name_en": "Japanese sweets (wagashi) shop in Sanyoonoda, near Asa Station",
+     "name": "Japanese sweets (wagashi) shop in Sanyo-Onoda, near Asa Station",
+     "name_en": "Japanese sweets (wagashi) shop in Sanyo-Onoda, near Asa Station",
      "name_ja": "もりなが松陰堂",
      "description": "Japanese sweets (wagashi) shop, 687 m from Asa Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35001711/",
@@ -18858,8 +19099,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Cake shop in Sanyoonoda, near Onoda Station",
-     "name_en": "Cake shop in Sanyoonoda, near Onoda Station",
+     "name": "Cake shop in Sanyo-Onoda, near Onoda Station",
+     "name_en": "Cake shop in Sanyo-Onoda, near Onoda Station",
      "name_ja": "パティスリー グランシャリオ",
      "description": "Cake shop, 1-minute walk from Onoda Station; dinner ¥1,000–1,999.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35009340/",
@@ -18902,8 +19143,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Cake shop in Sanyoonoda, near Minami-Nakagawa Station",
-     "name_en": "Cake shop in Sanyoonoda, near Minami-Nakagawa Station",
+     "name": "Cake shop in Sanyo-Onoda, near Minami-Nakagawa Station",
+     "name_en": "Cake shop in Sanyo-Onoda, near Minami-Nakagawa Station",
      "name_ja": "コッチ",
      "description": "Cake shop, 464 m from Minami-Nakagawa Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35008587/",
@@ -18920,8 +19161,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Japanese sweets (wagashi) shop in Sanyoonoda, near Minami-Nakagawa Station",
-     "name_en": "Japanese sweets (wagashi) shop in Sanyoonoda, near Minami-Nakagawa Station",
+     "name": "Japanese sweets (wagashi) shop in Sanyo-Onoda, near Minami-Nakagawa Station",
+     "name_en": "Japanese sweets (wagashi) shop in Sanyo-Onoda, near Minami-Nakagawa Station",
      "name_ja": "三つ舎",
      "description": "Japanese sweets (wagashi) shop, 295 m from Minami-Nakagawa Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35008404/",
@@ -18956,8 +19197,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Western-style sweets shop in Sanyoonoda",
-     "name_en": "Western-style sweets shop in Sanyoonoda",
+     "name": "Western-style sweets shop in Sanyo-Onoda",
+     "name_en": "Western-style sweets shop in Sanyo-Onoda",
      "name_ja": "フランソワ一閑 小野田店",
      "description": "Western-style sweets shop, 786 m from Minami-Nakagawa Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35008329/",
@@ -18983,8 +19224,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Cake shop in Sanyoonoda, near Asa Station",
-     "name_en": "Cake shop in Sanyoonoda, near Asa Station",
+     "name": "Cake shop in Sanyo-Onoda, near Asa Station",
+     "name_en": "Cake shop in Sanyo-Onoda, near Asa Station",
      "name_ja": "果子乃季 厚狭店",
      "description": "Cake shop, 1,500 m from Asa Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35009450/",
@@ -19037,8 +19278,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Crepe shop in Sanyoonoda",
-     "name_en": "Crepe shop in Sanyoonoda",
+     "name": "Crepe shop in Sanyo-Onoda",
+     "name_en": "Crepe shop in Sanyo-Onoda",
      "name_ja": "510くれーぷ",
      "description": "Crepe shop, 535 m from Asa Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3504/A350401/35014709/",
@@ -19055,55 +19296,55 @@
     },
     {
      "name": "Honzan Cape Park",
-     "description": "A park in Sanyoonoda, Yamaguchi prefecture.",
+     "description": "A park in Sanyo-Onoda, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_12670.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/see/"
     },
     {
      "name": "Yakeno Coast Kirara Beach",
-     "description": "A coast in Sanyoonoda, Yamaguchi prefecture.",
+     "description": "A coast in Sanyo-Onoda, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_16589.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/see/"
     },
     {
      "name": "Old-Map Town Walk: Asa",
-     "description": "Historic site in Sanyoonoda, Yamaguchi.",
+     "description": "Historic site in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_17626.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/see/"
     },
     {
      "name": "Koshio Park",
-     "description": "A park in Sanyoonoda, Yamaguchi prefecture.",
+     "description": "A park in Sanyo-Onoda, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_12690.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/see/"
     },
     {
      "name": "Mount Ryuo Park",
-     "description": "A park in Sanyoonoda, Yamaguchi prefecture.",
+     "description": "A park in Sanyo-Onoda, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_12689.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/see/"
     },
     {
      "name": "Nanayume Adventure: The Crystal of Hope and the Tale of Seven Towns",
-     "description": "Park in Sanyoonoda, Yamaguchi.",
+     "description": "Park in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_19948.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/see/"
     },
     {
      "name": "Wakayama Park",
-     "description": "A park in Sanyoonoda, Yamaguchi prefecture.",
+     "description": "A park in Sanyo-Onoda, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_15515.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/see/"
     },
     {
      "name": "Onoda Cement Yamate Club",
-     "description": "Historic site in Sanyoonoda, Yamaguchi.",
+     "description": "Historic site in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_15513.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/see/"
     },
     {
      "name": "Grave of Izumi Shikibu",
-     "description": "Historic site in Sanyoonoda, Yamaguchi.",
+     "description": "Historic site in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_12606.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/see/"
     },
@@ -19115,13 +19356,13 @@
     },
     {
      "name": "Former Onoda Cement Manufacturing Vertical Kiln",
-     "description": "Pottery kiln in Sanyoonoda, Yamaguchi.",
+     "description": "Pottery kiln in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_12677.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/see/"
     },
     {
-     "name": "Sanyoonoda Folk History Museum",
-     "description": "A museum in Sanyoonoda, Yamaguchi prefecture.",
+     "name": "Sanyo-Onoda Folk History Museum",
+     "description": "A museum in Sanyo-Onoda, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_12679.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/see/"
     },
@@ -19133,25 +19374,25 @@
     },
     {
      "name": "Monomi Yama General Park",
-     "description": "A park in Sanyoonoda, Yamaguchi prefecture.",
+     "description": "A park in Sanyo-Onoda, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_12623.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/see/"
     },
     {
      "name": "Kame Kaki",
-     "description": "Historic site in Sanyoonoda, Yamaguchi.",
+     "description": "Historic site in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_17834.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/see/"
     },
     {
      "name": "(Sekai Nihitotsu) Dake no Hanpu Kaban",
-     "description": "Shopping spot in Sanyoonoda, Yamaguchi.",
+     "description": "Shopping spot in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_17738.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/see/"
     },
     {
      "name": "Nawa Chigahana Park",
-     "description": "A park in Sanyoonoda, Yamaguchi prefecture.",
+     "description": "A park in Sanyo-Onoda, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_16447.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/see/"
     },
@@ -19175,25 +19416,25 @@
     },
     {
      "name": "Tan no Nobori Kama",
-     "description": "Pottery kiln in Sanyoonoda, Yamaguchi.",
+     "description": "Pottery kiln in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_12678.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/see/"
     },
     {
      "name": "Ko Shio Mizumi",
-     "description": "Lake in Sanyoonoda, Yamaguchi.",
+     "description": "Lake in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_12669.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/see/"
     },
     {
      "name": "Rai Shima Matabe Tanjokinen Hi",
-     "description": "Monument in Sanyoonoda, Yamaguchi.",
+     "description": "Monument in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_15519.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/see/"
     },
     {
      "name": "Asa Mori Ie Hakasho",
-     "description": "Historic site in Sanyoonoda, Yamaguchi.",
+     "description": "Historic site in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_12607.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/see/"
     },
@@ -19211,19 +19452,19 @@
     },
     {
      "name": "Shikon no Matsubara",
-     "description": "Historic site in Sanyoonoda, Yamaguchi.",
+     "description": "Historic site in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_16011.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/see/"
     },
     {
      "name": "Sembayashi Ama no Daikyu Shigetsu Ishidatami Michi",
-     "description": "Historic site in Sanyoonoda, Yamaguchi.",
+     "description": "Historic site in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_16013.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/see/"
     },
     {
      "name": "Maehara Issei Kyutaku Ato",
-     "description": "Historic site in Sanyoonoda, Yamaguchi.",
+     "description": "Historic site in Sanyo-Onoda, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_15518.html",
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/see/"
     },
@@ -19236,8 +19477,8 @@
    ],
    "stays": [
     {
-     "name": "Park Inn Sanyoonoda",
-     "name_en": "Park Inn Sanyoonoda",
+     "name": "Park Inn Sanyo-Onoda",
+     "name_en": "Park Inn Sanyo-Onoda",
      "name_ja": "パークイン山陽小野田",
      "description": "Hotel, 125 rooms.",
      "source_url": "https://www.jalan.net/yad398905/",
@@ -19260,8 +19501,8 @@
      "page": "https://bokenjapan.com/yamaguchi/sanyoonoda/stay/"
     },
     {
-     "name": "Ekusu Toll Inn Sanyoonoda Asa Ekimae",
-     "name_en": "Ekusu Toll Inn Sanyoonoda Asa Ekimae",
+     "name": "Ekusu Toll Inn Sanyo-Onoda Asa Ekimae",
+     "name_en": "Ekusu Toll Inn Sanyo-Onoda Asa Ekimae",
      "name_ja": "エクストールイン山陽小野田厚狭駅前",
      "description": "Hotel with an open-air bath, within a 5-minute walk of a station.",
      "source_url": "https://www.jalan.net/yad379529/",
@@ -19296,7 +19537,7 @@
     "lat": 33.9573932,
     "lon": 130.9410381
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Karato Market",
@@ -19343,7 +19584,7 @@
    ],
    "activities": [
     {
-     "name": "(Toma Ttemitsukeru Anatadake no # Shimonoseki Hiyori) Shimo no Seki Shukuhaku Oen Kyanpen",
+     "name": "(Toma Ttemitsukeru Anatadake no # Shimonoseki Hiyori) Shimo no Seki Shukuhaku Oen Campaign",
      "description": "Campaign in Shimonoseki, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_19954.html",
      "page": "https://bokenjapan.com/yamaguchi/shimonoseki/do/"
@@ -19643,6 +19884,14 @@
      "name_en": "Yorozu Cafe",
      "description": "Fine-dining cafe in Nakanocho, serving lunch.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g303150-d14736557-Reviews-Yorozu_Cafe-Shimonoseki_Yamaguchi_Prefecture_Chugoku.html",
+     "page": "https://bokenjapan.com/yamaguchi/shimonoseki/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "ZERO CAFE",
+     "name_en": "ZERO CAFE",
+     "description": "Cafe in Shimonoseki.",
+     "source_url": "https://www.zero-cafe.net/",
      "page": "https://bokenjapan.com/yamaguchi/shimonoseki/eat/cafe/",
      "category": "Cafe"
     },
@@ -19981,6 +20230,15 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Tsukumo",
+     "name_en": "Tsukumo",
+     "name_ja": "九十九",
+     "description": "Pub in Shimonoseki.",
+     "source_url": "https://tukumoshimonoseki.owst.jp/",
+     "page": "https://bokenjapan.com/yamaguchi/shimonoseki/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Yakiniku Sakaba Chayamaya",
      "name_en": "Yakiniku Sakaba Chayamaya",
      "name_ja": "焼肉酒場ちゃやまや",
@@ -20043,6 +20301,24 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Otafuku",
+     "name_en": "Otafuku",
+     "name_ja": "お多福",
+     "description": "Noodle restaurant in Shimonoseki.",
+     "source_url": "https://www.kgh-otafuku.co.jp/otafuku/",
+     "page": "https://bokenjapan.com/yamaguchi/shimonoseki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen restaurant in Shimonoseki",
+     "name_en": "Ramen restaurant in Shimonoseki",
+     "name_ja": "山の田ラーメン",
+     "description": "Ramen restaurant in Shimonoseki.",
+     "source_url": "https://yamanotaramen.com/",
+     "page": "https://bokenjapan.com/yamaguchi/shimonoseki/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Sumo Chaya Choshu Basho",
      "name_en": "Sumo Chaya Choshu Basho",
      "name_ja": "相撲茶屋 長州場所",
@@ -20073,6 +20349,15 @@
      "name_en": "Waofusosakuryori Hiyorian",
      "description": "Mid-range fusion restaurant.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g303150-d1696840-Reviews-Waofusosakuryori_Hiyorian-Shimonoseki_Yamaguchi_Prefecture_Chugoku.html",
+     "page": "https://bokenjapan.com/yamaguchi/shimonoseki/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Yumemisaki",
+     "name_en": "Yumemisaki",
+     "name_ja": "夢岬",
+     "description": "Restaurant in Shimonoseki.",
+     "source_url": "https://www.yumemisaki.jp/",
      "page": "https://bokenjapan.com/yamaguchi/shimonoseki/eat/other/",
      "category": "Other"
     },
@@ -20172,6 +20457,15 @@
      "name_en": "Wakuwaku Tei",
      "description": "Japanese and international restaurant.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g303150-d9594378-Reviews-Wakuwaku_Tei-Shimonoseki_Yamaguchi_Prefecture_Chugoku.html",
+     "page": "https://bokenjapan.com/yamaguchi/shimonoseki/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Takase Honkan",
+     "name_en": "Takase Honkan",
+     "name_ja": "たかせ本館",
+     "description": "Japanese restaurant in Shimonoseki.",
+     "source_url": "https://www.kawarasoba.jp/",
      "page": "https://bokenjapan.com/yamaguchi/shimonoseki/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -20391,6 +20685,41 @@
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g303150-d7447438-Reviews-Fresh_Shiokazenosato-Shimonoseki_Yamaguchi_Prefecture_Chugoku.html",
      "page": "https://bokenjapan.com/yamaguchi/shimonoseki/eat/seafood/",
      "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Yukan",
+     "name_en": "Sushi Yukan",
+     "name_ja": "すし遊館",
+     "description": "Sushi restaurant in Shimonoseki. Open daily 11:00-15:00, 17:00-21:00.",
+     "source_url": "https://sushiyoukan.com",
+     "page": "https://bokenjapan.com/yamaguchi/shimonoseki/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Toyomaru Suisan",
+     "name_en": "Toyomaru Suisan",
+     "name_ja": "豊丸水産",
+     "description": "Fish restaurant in Shimonoseki.",
+     "source_url": "https://toyomarusuisan.com/shimonoseki-ekimae/",
+     "page": "https://bokenjapan.com/yamaguchi/shimonoseki/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sweets ice cream shop in Shimonoseki",
+     "name_en": "Sweets ice cream shop in Shimonoseki",
+     "name_ja": "角島ジェラートポポロ",
+     "description": "Sweets ice cream shop in Shimonoseki.",
+     "source_url": "https://g-poporo.com/",
+     "page": "https://bokenjapan.com/yamaguchi/shimonoseki/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Mamena",
+     "name_en": "Mamena",
+     "description": "Ice cream shop in Shimonoseki.",
+     "source_url": "https://www.mamena.jp/",
+     "page": "https://bokenjapan.com/yamaguchi/shimonoseki/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
     }
    ],
    "sights": [
@@ -21966,7 +22295,7 @@
     "lat": 34.0551395,
     "lon": 131.8062455
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Shunan Kanko Volunteer Guide no Kai",
@@ -22167,8 +22496,34 @@
      "category": "Cafe"
     },
     {
-     "name": "Hottomotto En Ishi Branch",
-     "name_en": "Hottomotto En Ishi Branch",
+     "name": "Milton Coffee Roastery",
+     "name_en": "Milton Coffee Roastery",
+     "name_ja": "ミルトンコーヒーロースタリー",
+     "description": "Cafe in Hanabatake Machi, Shunan. Open daily 10:00-18:00.",
+     "source_url": "http://www.miltoncoffee.com/",
+     "page": "https://bokenjapan.com/yamaguchi/shunan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "CAFÉ FADIE'S",
+     "name_en": "CAFE FADIE'S",
+     "description": "Cafe in Shunan.",
+     "source_url": "https://www.openstreetmap.org/way/376603670",
+     "page": "https://bokenjapan.com/yamaguchi/shunan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Popai Kissaten",
+     "name_en": "Popai Kissaten",
+     "name_ja": "ポパイ喫茶店",
+     "description": "Cafe in Shunan.",
+     "source_url": "https://www.openstreetmap.org/node/4107579592",
+     "page": "https://bokenjapan.com/yamaguchi/shunan/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Hotto Motto En Ishi Branch",
+     "name_en": "Hotto Motto En Ishi Branch",
      "name_ja": "ほっともっと 遠石店",
      "description": "Bento shop, 1,340 m from Kushigahama Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3505/A350501/35007737/",
@@ -22181,6 +22536,15 @@
      "name_ja": "髙美食堂",
      "description": "Diner; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/yamaguchi/A3505/A350501/35014865/",
+     "page": "https://bokenjapan.com/yamaguchi/shunan/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Toyomaru Suisan",
+     "name_en": "Toyomaru Suisan",
+     "name_ja": "豊丸水産",
+     "description": "Fast-food restaurant in Shunan.",
+     "source_url": "https://www.openstreetmap.org/node/4107639899",
      "page": "https://bokenjapan.com/yamaguchi/shunan/eat/casual/",
      "category": "Casual"
     },
@@ -22298,6 +22662,15 @@
      "name_en": "Kume Pizza Lumaca",
      "description": "Italian restaurant in Kume, serving breakfast and lunch.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1023687-d5496356-Reviews-Kume_Pizza_Lumaca-Shunan_Yamaguchi_Prefecture_Chugoku.html",
+     "page": "https://bokenjapan.com/yamaguchi/shunan/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Jolly-Pasta",
+     "name_en": "Jolly-Pasta",
+     "name_ja": "ジョリーパスタ",
+     "description": "Western-style restaurant in Shunan. Open daily 11:00-24:00.",
+     "source_url": "https://www.openstreetmap.org/node/3848014557",
      "page": "https://bokenjapan.com/yamaguchi/shunan/eat/european/",
      "category": "European"
     },
@@ -22489,6 +22862,15 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Osakaya Dai Izakaya Man Maru",
+     "name_en": "Osakaya Dai Izakaya Man Maru",
+     "name_ja": "大阪屋台居酒屋満マル",
+     "description": "Izakaya pub in Shunan.",
+     "source_url": "https://www.openstreetmap.org/node/4107640191",
+     "page": "https://bokenjapan.com/yamaguchi/shunan/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Sandaime Tori Mero Tokuyama Branch",
      "name_en": "Sandaime Tori Mero Tokuyama Branch",
      "name_ja": "三代目 鳥メロ 徳山店",
@@ -22654,6 +23036,33 @@
      "category": "Other"
     },
     {
+     "name": "Restaurant in Shunan",
+     "name_en": "Restaurant in Shunan",
+     "name_ja": "ジョリーオックス",
+     "description": "Restaurant in Shunan.",
+     "source_url": "https://www.openstreetmap.org/node/3848017158",
+     "page": "https://bokenjapan.com/yamaguchi/shunan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Nagasaki Chammen",
+     "name_en": "Nagasaki Chammen",
+     "name_ja": "長崎ちゃんめん",
+     "description": "Restaurant in Shunan.",
+     "source_url": "https://www.openstreetmap.org/node/3889081657",
+     "page": "https://bokenjapan.com/yamaguchi/shunan/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Sumibi Yaki Daininguwatamin Ie",
+     "name_en": "Sumibi Yaki Daininguwatamin Ie",
+     "name_ja": "炭火焼だいにんぐわたみん家",
+     "description": "Restaurant in Shunan.",
+     "source_url": "https://www.openstreetmap.org/node/4107620089",
+     "page": "https://bokenjapan.com/yamaguchi/shunan/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Kushi Katsu Tanaka Shunan Branch",
      "name_en": "Kushi Katsu Tanaka Shunan Branch",
      "name_ja": "串カツ田中 周南店",
@@ -22740,6 +23149,24 @@
      "name_en": "Okonomiyaki Yasukyu",
      "description": "Japanese restaurant in Sakurababadori, serving lunch and dinner.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g1023687-d4898114-Reviews-Okonomiyaki_Yasukyu-Shunan_Yamaguchi_Prefecture_Chugoku.html",
+     "page": "https://bokenjapan.com/yamaguchi/shunan/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Hinata",
+     "name_en": "Hinata",
+     "name_ja": "島食堂 ひなた",
+     "description": "Japanese restaurant in Shunan.",
+     "source_url": "https://www.rainoshima.com/",
+     "page": "https://bokenjapan.com/yamaguchi/shunan/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kamadoka",
+     "name_en": "Kamadoka",
+     "name_ja": "かまどか",
+     "description": "Japanese restaurant in Shunan. Open daily 11:00-23:30.",
+     "source_url": "https://www.openstreetmap.org/node/12389328777",
      "page": "https://bokenjapan.com/yamaguchi/shunan/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -23603,29 +24030,29 @@
    ]
   },
   {
-   "name": "Suoooshima",
+   "name": "Suo-Oshima",
    "slug": "suoooshima",
    "prefecture": "yamaguchi",
    "url": "https://bokenjapan.com/yamaguchi/suoooshima/",
    "official": {
     "links": [
      {
-      "label": "Suoooshima Town Hall",
+      "label": "Suo-Oshima Town Hall",
       "url": "https://www.town.suo-oshima.lg.jp/"
      }
     ],
-    "address": "Suoooshima, Yamaguchi 742-2192",
+    "address": "Suo-Oshima, Yamaguchi 742-2192",
     "phone": "0820-74-1000"
    },
    "geo": {
     "lat": 33.9277118,
     "lon": 132.1957955
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Suo-Oshima Volunteer Tourist Guide Association",
-     "description": "Tourist information spot in Suoooshima, Yamaguchi.",
+     "description": "Tourist information spot in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_16146.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/day-to-day/"
     },
@@ -23638,8 +24065,8 @@
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/day-to-day/"
     },
     {
-     "name": "Convenience store or supermarket in Suoooshima, near Obatake Station (#105)",
-     "name_en": "Convenience store or supermarket in Suoooshima, near Obatake Station (#105)",
+     "name": "Convenience store or supermarket in Suo-Oshima, near Obatake Station (#105)",
+     "name_en": "Convenience store or supermarket in Suo-Oshima, near Obatake Station (#105)",
      "name_ja": "マルキュウ 大島小松店",
      "description": "Convenience store or supermarket, 3,764 m from Obatake Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350603/35013724/",
@@ -23654,8 +24081,8 @@
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/day-to-day/"
     },
     {
-     "name": "Convenience store or supermarket in Suoooshima, near Obatake Station (#111)",
-     "name_en": "Convenience store or supermarket in Suoooshima, near Obatake Station (#111)",
+     "name": "Convenience store or supermarket in Suo-Oshima, near Obatake Station (#111)",
+     "name_en": "Convenience store or supermarket in Suo-Oshima, near Obatake Station (#111)",
      "name_ja": "Ｙショップ 三蒲店",
      "description": "Convenience store or supermarket, 3,238 m from Obatake Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350602/35013725/",
@@ -23689,13 +24116,13 @@
    "activities": [
     {
      "name": "Katazoegahama Seaside Park (Beach Oto Campground)",
-     "description": "A campground in Suoooshima, Yamaguchi prefecture.",
+     "description": "A campground in Suo-Oshima, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_13264.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/do/"
     },
     {
-     "name": "Suoooshima no Mikan Kari",
-     "description": "Hands-on experience in Suoooshima, Yamaguchi.",
+     "name": "Suo-Oshima no Mikan Kari",
+     "description": "Hands-on experience in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_13329.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/do/"
     },
@@ -23706,32 +24133,32 @@
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/do/"
     },
     {
-     "name": "Suoooshima Mikan Nabe",
-     "description": "Hands-on experience in Suoooshima, Yamaguchi.",
+     "name": "Suo-Oshima Mikan Nabe",
+     "description": "Hands-on experience in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_16115.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/do/"
     },
     {
      "name": "Ryugasaki Onsen",
-     "description": "A hot spring in Suoooshima, Yamaguchi.",
+     "description": "A hot spring in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_13187.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/do/"
     },
     {
      "name": "Katazoegahama Onsen",
-     "description": "A hot spring in Suoooshima, Yamaguchi.",
+     "description": "A hot spring in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_13336.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/do/"
     },
     {
      "name": "Katazoegahama Seaside Park Oto Campground (Koteji no Mi)",
-     "description": "A campground in Suoooshima, Yamaguchi prefecture.",
+     "description": "A campground in Suo-Oshima, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_870.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/do/"
     },
     {
      "name": "Seishonen Ryoko Village Campground (Zushigahama Campground)",
-     "description": "A campground in Suoooshima, Yamaguchi prefecture.",
+     "description": "A campground in Suo-Oshima, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_13263.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/do/"
     }
@@ -23747,8 +24174,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Cafe in Suoooshima (#3)",
-     "name_en": "Cafe in Suoooshima (#3)",
+     "name": "Ri Seto",
+     "name_en": "Ri Seto",
      "name_ja": "リ セト",
      "description": "Cafe; lunch ¥2,000–2,999.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350603/35010789/",
@@ -23800,8 +24227,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Cafe in Suoooshima, near Obatake Station (#35)",
-     "name_en": "Cafe in Suoooshima, near Obatake Station (#35)",
+     "name": "Cafe in Suo-Oshima, near Obatake Station (#35)",
+     "name_en": "Cafe in Suo-Oshima, near Obatake Station (#35)",
      "name_ja": "カサハラ ハニー",
      "description": "Cafe, 3,411 m from Obatake Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350603/35009557/",
@@ -23835,8 +24262,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Café in Suoooshima",
-     "name_en": "Café in Suoooshima",
+     "name": "Café in Suo-Oshima",
+     "name_en": "Café in Suo-Oshima",
      "name_ja": "ジョイ ナス",
      "description": "Restaurant with parking, open 11:30–17:00.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350603/35008635/",
@@ -23853,8 +24280,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Cafe in Suoooshima (#56)",
-     "name_en": "Cafe in Suoooshima (#56)",
+     "name": "Essensu",
+     "name_en": "Essensu",
      "name_ja": "エッセンス",
      "description": "Cafe with parking, open 08:00–17:00 and 18:00–23:00.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350603/35009162/",
@@ -23922,8 +24349,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Cafe in Suoooshima, near Obatake Station (#83)",
-     "name_en": "Cafe in Suoooshima, near Obatake Station (#83)",
+     "name": "Cafe in Suo-Oshima, near Obatake Station (#83)",
+     "name_en": "Cafe in Suo-Oshima, near Obatake Station (#83)",
      "name_ja": "cafe わたの花",
      "description": "Cafe, 3,900 m from Obatake Station; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350603/35011383/",
@@ -23949,8 +24376,8 @@
      "category": "Cafe"
     },
     {
-     "name": "Café in Suoooshima, near Yanai Station",
-     "name_en": "Café in Suoooshima, near Yanai Station",
+     "name": "Café in Suo-Oshima, near Yanai Station",
+     "name_en": "Café in Suo-Oshima, near Yanai Station",
      "name_ja": "Cafe 奈々々萌",
      "description": "Cafe, near Yanai Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350602/35013756/",
@@ -24077,8 +24504,8 @@
      "category": "Casual"
     },
     {
-     "name": "Bento shop in Suoooshima",
-     "name_en": "Bento shop in Suoooshima",
+     "name": "Bento shop in Suo-Oshima",
+     "name_en": "Bento shop in Suo-Oshima",
      "name_ja": "パララン",
      "description": "Bento shop with parking, open 11:00–15:00.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350603/35014010/",
@@ -24095,8 +24522,8 @@
      "category": "Casual"
     },
     {
-     "name": "Casual restaurant in Suoooshima",
-     "name_en": "Casual restaurant in Suoooshima",
+     "name": "Casual restaurant in Suo-Oshima",
+     "name_en": "Casual restaurant in Suo-Oshima",
      "name_ja": "海ぞい食どう にくきゅう",
      "description": "Diner with parking, open 10:30–14:00.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350603/35012254/",
@@ -24167,8 +24594,8 @@
      "category": "Casual"
     },
     {
-     "name": "Chinese or Asian restaurant in Suoooshima",
-     "name_en": "Chinese or Asian restaurant in Suoooshima",
+     "name": "Chinese or Asian restaurant in Suo-Oshima",
+     "name_en": "Chinese or Asian restaurant in Suo-Oshima",
      "name_ja": "島のカンボジア料理 オークン",
      "description": "Southeast Asian restaurant; dinner under ¥1,000.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350603/35013274/",
@@ -24219,8 +24646,8 @@
      "category": "European"
     },
     {
-     "name": "Yoshoku (Western-style) restaurant in Suoooshima",
-     "name_en": "Yoshoku (Western-style) restaurant in Suoooshima",
+     "name": "Yoshoku (Western-style) restaurant in Suo-Oshima",
+     "name_en": "Yoshoku (Western-style) restaurant in Suo-Oshima",
      "name_ja": "サフラン",
      "description": "Yoshoku (Western-style) restaurant; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350603/35010567/",
@@ -24228,8 +24655,8 @@
      "category": "European"
     },
     {
-     "name": "Pasta restaurant in Suoooshima",
-     "name_en": "Pasta restaurant in Suoooshima",
+     "name": "Pasta restaurant in Suo-Oshima",
+     "name_en": "Pasta restaurant in Suo-Oshima",
      "name_ja": "スパゲッツパンチ",
      "description": "Pasta restaurant; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350603/35014977/",
@@ -24340,8 +24767,8 @@
      "category": "Japanese (noodles)"
     },
     {
-     "name": "Udon restaurant in Suoooshima",
-     "name_en": "Udon restaurant in Suoooshima",
+     "name": "Udon restaurant in Suo-Oshima",
+     "name_en": "Udon restaurant in Suo-Oshima",
      "name_ja": "本格手打ち 一心うどん 泉本屋",
      "description": "Udon restaurant, 4,000 m from Obatake Station; lunch ¥1,000–1,999.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350603/35012289/",
@@ -24405,7 +24832,7 @@
      "name": "k-site",
      "name_en": "k-site",
      "name_ja": "プリンのお店k-site",
-     "description": "Pudding shop in Suoooshima, Yamaguchi.",
+     "description": "Pudding shop in Suo-Oshima, Yamaguchi.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350603/35013457/",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/eat/other/",
      "category": "Other"
@@ -24621,8 +25048,8 @@
      "category": "Other"
     },
     {
-     "name": "Izakaya in Suoooshima",
-     "name_en": "Izakaya in Suoooshima",
+     "name": "Izakaya in Suo-Oshima",
+     "name_en": "Izakaya in Suo-Oshima",
      "name_ja": "気ぶん屋",
      "description": "Izakaya, open 14:00–00:00 and 18:00–00:00.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350603/35013729/",
@@ -24646,8 +25073,8 @@
      "category": "Other"
     },
     {
-     "name": "Japanese restaurant in Suoooshima (#22)",
-     "name_en": "Japanese restaurant in Suoooshima (#22)",
+     "name": "Yushoku Sakebo Chidori Main Store",
+     "name_en": "Yushoku Sakebo Chidori Main Store",
      "name_ja": "遊食酒房 ちどり本店",
      "description": "Japanese restaurant, open 11:00–22:00.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350603/35000123/",
@@ -24664,8 +25091,8 @@
      "category": "Other Japanese"
     },
     {
-     "name": "Japanese restaurant in Suoooshima (#72)",
-     "name_en": "Japanese restaurant in Suoooshima (#72)",
+     "name": "Kuresutoobuzaweibu Tateiwa",
+     "name_en": "Kuresutoobuzaweibu Tateiwa",
      "name_ja": "クレストオブザウェイブ立岩",
      "description": "Japanese restaurant with parking, open 12:00–19:30.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350603/35001038/",
@@ -24863,8 +25290,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Sushi restaurant in Suoooshima",
-     "name_en": "Sushi restaurant in Suoooshima",
+     "name": "Sushi restaurant in Suo-Oshima",
+     "name_en": "Sushi restaurant in Suo-Oshima",
      "name_ja": "鮨くぼ田",
      "description": "Sushi restaurant; lunch ¥2,000–2,999.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350603/35012476/",
@@ -24922,8 +25349,8 @@
      "category": "Japanese (seafood)"
     },
     {
-     "name": "Bakery in Suoooshima",
-     "name_en": "Bakery in Suoooshima",
+     "name": "Bakery in Suo-Oshima",
+     "name_en": "Bakery in Suo-Oshima",
      "name_ja": "パンコッペ シーブリーズ店",
      "description": "Bakery, 1,200 m from Obatake Station; lunch under ¥1,000.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350603/35012003/",
@@ -24931,8 +25358,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Western-style sweets shop in Suoooshima",
-     "name_en": "Western-style sweets shop in Suoooshima",
+     "name": "Western-style sweets shop in Suo-Oshima",
+     "name_en": "Western-style sweets shop in Suo-Oshima",
      "name_ja": "幸進堂",
      "description": "Western-style sweets shop.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350603/35008231/",
@@ -25044,8 +25471,8 @@
      "category": "Sweets & bakeries"
     },
     {
-     "name": "Japanese sweets (wagashi) shop in Suoooshima",
-     "name_en": "Japanese sweets (wagashi) shop in Suoooshima",
+     "name": "Japanese sweets (wagashi) shop in Suo-Oshima",
+     "name_en": "Japanese sweets (wagashi) shop in Suo-Oshima",
      "name_ja": "果子乃季 大島店",
      "description": "Japanese sweets (wagashi) shop, 2,845 m from Obatake Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350602/35007520/",
@@ -25071,7 +25498,7 @@
     {
      "name": "Boulangerie SAZABE",
      "name_en": "Boulangerie SAZABE",
-     "description": "Bagel shop in Suoooshima, Yamaguchi.",
+     "description": "Bagel shop in Suo-Oshima, Yamaguchi.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350603/35014482/",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -25080,43 +25507,43 @@
    "sights": [
     {
      "name": "Suo-Oshima (Yashiro Island)",
-     "description": "Island in Suoooshima, Yamaguchi.",
+     "description": "Island in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_15535.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Sananomiya Shima (Enjierurodo)",
-     "description": "Island in Suoooshima, Yamaguchi.",
+     "description": "Island in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_18494.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Oshima Bridge",
-     "description": "A bridge in Suoooshima, Yamaguchi prefecture.",
+     "description": "A bridge in Suo-Oshima, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_13230.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Nagisa Aquarium",
-     "description": "An aquarium in Suoooshima, Yamaguchi prefecture.",
+     "description": "An aquarium in Suo-Oshima, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_13257.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Michinoku Memorial Museum (Michinoku Memorial Park)",
-     "description": "A memorial in Suoooshima, Yamaguchi prefecture.",
+     "description": "A memorial in Suo-Oshima, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_13255.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Hoshi no Beach",
-     "description": "A beach in Suoooshima, Yamaguchi prefecture.",
+     "description": "A beach in Suo-Oshima, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_19142.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Gi Ken Yashikiato Asagimadara Sono",
-     "description": "Island in Suoooshima, Yamaguchi.",
+     "description": "Island in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_19728.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
@@ -25134,7 +25561,7 @@
     },
     {
      "name": "Suse",
-     "description": "Mountain in Suoooshima, Yamaguchi.",
+     "description": "Mountain in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_13345.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
@@ -25146,103 +25573,103 @@
     },
     {
      "name": "Monju-do Hall, Mount Monju",
-     "description": "Historic site in Suoooshima, Yamaguchi.",
+     "description": "Historic site in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_16982.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Old-Map Town Walk (Limited Time): Nishiagenosho, Suo-Oshima",
-     "description": "Local sight in Suoooshima, Yamaguchi.",
+     "description": "Local sight in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_19746.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Hoshino Tetsuro Memorial Museum",
-     "description": "A memorial in Suoooshima, Yamaguchi prefecture.",
+     "description": "A memorial in Suo-Oshima, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_15878.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Iwaya (Iwaya Gongen)",
-     "description": "Nature spot in Suoooshima, Yamaguchi.",
+     "description": "Nature spot in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_19057.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Obi Ishi (Obi Ishi Kannon)",
-     "description": "Historic site in Suoooshima, Yamaguchi.",
+     "description": "Historic site in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_13177.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Yashiro Damu Park",
-     "description": "A park in Suoooshima, Yamaguchi prefecture.",
+     "description": "A park in Suo-Oshima, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_13238.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Tokutoku Oshima",
-     "description": "Island in Suoooshima, Yamaguchi.",
+     "description": "Island in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_19215.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Bii Gyokukai Kishi Beach",
-     "description": "A beach in Suoooshima, Yamaguchi prefecture.",
+     "description": "A beach in Suo-Oshima, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_13206.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Tachiuo no Kagami Mori",
-     "description": "Local sight in Suoooshima, Yamaguchi.",
+     "description": "Local sight in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_19536.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Sho Minami Beach",
-     "description": "A beach in Suoooshima, Yamaguchi prefecture.",
+     "description": "A beach in Suo-Oshima, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_13184.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
-     "name": "Suoooshima Sho Seki no Kawazu Sakura",
+     "name": "Suo-Oshima Sho Seki no Kawazu Sakura",
      "description": "Cherry blossom spot.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_19162.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Suo-Oshima 88-Temple Island Pilgrimage",
-     "description": "Historic site in Suoooshima, Yamaguchi.",
+     "description": "Historic site in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_13178.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
-     "name": "Suoooshima Bunka Koryu Center",
-     "description": "A center in Suoooshima, Yamaguchi prefecture.",
+     "name": "Suo-Oshima Bunka Koryu Center",
+     "description": "A center in Suo-Oshima, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_16465.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Nippon Hawai Imin Museum",
-     "description": "A museum in Suoooshima, Yamaguchi prefecture.",
+     "description": "A museum in Suo-Oshima, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_13232.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Zushigahama Beach",
-     "description": "A beach in Suoooshima, Yamaguchi prefecture.",
+     "description": "A beach in Suo-Oshima, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_13261.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Kuka Folk History Museum Hachiman Shogaigakushu no Mura",
-     "description": "A museum in Suoooshima, Yamaguchi prefecture.",
+     "description": "A museum in Suo-Oshima, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_13199.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Seto Park",
-     "description": "A park in Suoooshima, Yamaguchi prefecture.",
+     "description": "A park in Suo-Oshima, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_13237.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
@@ -25254,13 +25681,13 @@
     },
     {
      "name": "Meigetsu Shonin Tanjo Chi (Gangyo Tera)",
-     "description": "Historic site in Suoooshima, Yamaguchi.",
+     "description": "Historic site in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_15550.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Shi Sakai no Yaku Hogekisen Ato",
-     "description": "Historic site in Suoooshima, Yamaguchi.",
+     "description": "Historic site in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_17150.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
@@ -25272,7 +25699,7 @@
     },
     {
      "name": "Kuka no Ishiburo",
-     "description": "Historic site in Suoooshima, Yamaguchi.",
+     "description": "Historic site in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_13198.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
@@ -25284,79 +25711,79 @@
     },
     {
      "name": "Meijiishin Hyakunen Memorial Park",
-     "description": "A memorial in Suoooshima, Yamaguchi prefecture.",
+     "description": "A memorial in Suo-Oshima, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_17149.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Ozu Tetsu Zen Seitan no Chi",
-     "description": "Historic site in Suoooshima, Yamaguchi.",
+     "description": "Historic site in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_15537.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Shi Tsu Ko Shima",
-     "description": "Island in Suoooshima, Yamaguchi.",
+     "description": "Island in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_15877.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Suo Totsui Razu Kannon",
-     "description": "Historic site in Suoooshima, Yamaguchi.",
+     "description": "Historic site in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_13196.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Monju Yama Suse Kano Yama Gen Meisan Haikingukosu",
-     "description": "Outdoor and sports spot in Suoooshima, Yamaguchi.",
+     "description": "Outdoor and sports spot in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_16416.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Shi Sakai no Yaku Oshima Kuchi Senseki Hi",
-     "description": "Monument in Suoooshima, Yamaguchi.",
+     "description": "Monument in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_15540.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Otomo Taiken Gen",
-     "description": "Historic site in Suoooshima, Yamaguchi.",
+     "description": "Historic site in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_13228.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Narasaki Tsuyoshi Juro Seitan no Chi",
-     "description": "Historic site in Suoooshima, Yamaguchi.",
+     "description": "Historic site in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_15538.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Osaki Hana Coast",
-     "description": "A coast in Suoooshima, Yamaguchi prefecture.",
+     "description": "A coast in Suo-Oshima, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_15612.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Monju Yama Kano Yama Haikingukosu",
-     "description": "Outdoor and sports spot in Suoooshima, Yamaguchi.",
+     "description": "Outdoor and sports spot in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_15243.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Choju no Mori Promenade (Suse Forest Park)",
-     "description": "A promenade in Suoooshima, Yamaguchi prefecture.",
+     "description": "A promenade in Suo-Oshima, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_13185.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Kano Yama",
-     "description": "Mountain in Suoooshima, Yamaguchi.",
+     "description": "Mountain in Suo-Oshima, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_13192.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
      "name": "Ryugasaki Promenade",
-     "description": "A promenade in Suoooshima, Yamaguchi prefecture.",
+     "description": "A promenade in Suo-Oshima, Yamaguchi prefecture.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_15229.html",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
@@ -25367,8 +25794,8 @@
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     },
     {
-     "name": "Suoooshima Town Hall",
-     "description": "A hall in Suoooshima, Yamaguchi prefecture.",
+     "name": "Suo-Oshima Town Hall",
+     "description": "A hall in Suo-Oshima, Yamaguchi prefecture.",
      "source_url": "https://www.town.suo-oshima.lg.jp/",
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/see/"
     }
@@ -25390,8 +25817,8 @@
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/stay/"
     },
     {
-     "name": "Minshuku in Suoooshima",
-     "name_en": "Minshuku in Suoooshima",
+     "name": "Minshuku in Suo-Oshima",
+     "name_en": "Minshuku in Suo-Oshima",
      "name_ja": "ゲストハウス 奈々々萌",
      "description": "Minshuku, 20 minutes by car from Obatake Station, 3 rooms, free parking.",
      "source_url": "https://www.jalan.net/yad372752/",
@@ -25422,8 +25849,8 @@
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/stay/"
     },
     {
-     "name": "Pension in Suoooshima",
-     "name_en": "Pension in Suoooshima",
+     "name": "Pension in Suo-Oshima",
+     "name_en": "Pension in Suo-Oshima",
      "name_ja": "ゲストハウス星風",
      "description": "Pension, 5 rooms, free parking.",
      "source_url": "https://www.jalan.net/yad390468/",
@@ -25438,8 +25865,8 @@
      "page": "https://bokenjapan.com/yamaguchi/suoooshima/stay/"
     },
     {
-     "name": "Minshuku (family-run inn) in Suoooshima",
-     "name_en": "Minshuku (family-run inn) in Suoooshima",
+     "name": "Minshuku (family-run inn) in Suo-Oshima",
+     "name_en": "Minshuku (family-run inn) in Suo-Oshima",
      "name_ja": "セトノウツツ",
      "description": "Minshuku (family-run inn), 30 minutes by car from Obatake Station.",
      "source_url": "https://www.jalan.net/yad392150/",
@@ -25489,7 +25916,7 @@
     "lat": 33.9547422,
     "lon": 132.0413038
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Tabuse Chiiki Koryu Kan",
@@ -26246,7 +26673,7 @@
     "lat": 33.951821,
     "lon": 131.2472943
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Yamaguchi Ube Airport Biru Kokunaisen Information Center",
@@ -26365,6 +26792,48 @@
      "category": "Cafe"
     },
     {
+     "name": "Hawaiian Resort Café Leola",
+     "name_en": "Hawaiian Resort Cafe Leola",
+     "description": "Cafe in Oaza Oki Ube, Ube. Open Thu-Tue 08:00-18:00.",
+     "source_url": "https://www.tokiwapark.jp/shop/Leola/",
+     "page": "https://bokenjapan.com/yamaguchi/ube/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Bar Miel Tokiwa Yuen Branch",
+     "name_en": "Bar Miel Tokiwa Yuen Branch",
+     "name_ja": "Bar Miel（バルミエール）ときわ遊園店",
+     "description": "Noodle cafe in Ube.",
+     "source_url": "https://www.tokiwapark.jp/shop/barmiel_yuen2/",
+     "page": "https://bokenjapan.com/yamaguchi/ube/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "American cafe in Ube",
+     "name_en": "American cafe in Ube",
+     "name_ja": "アンサンブル",
+     "description": "American cafe in Ube.",
+     "source_url": "https://www.openstreetmap.org/node/3825885057",
+     "page": "https://bokenjapan.com/yamaguchi/ube/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Riviere",
+     "name_en": "Riviere",
+     "description": "Cafe in Ube. Open daily 09:00-18:00.",
+     "source_url": "https://www.openstreetmap.org/node/3954701857",
+     "page": "https://bokenjapan.com/yamaguchi/ube/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "FrankyLAND",
+     "name_en": "FrankyLAND",
+     "description": "Burger fast-food restaurant in Ube.",
+     "source_url": "https://www.openstreetmap.org/node/12229176955",
+     "page": "https://bokenjapan.com/yamaguchi/ube/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Tomi",
      "name_en": "Tomi",
      "name_ja": "富",
@@ -26396,6 +26865,32 @@
      "name_en": "Namaste Ube",
      "description": "Mid-range Indian restaurant.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g298141-d9635963-Reviews-Namaste_Ube-Ube_Yamaguchi_Prefecture_Chugoku.html",
+     "page": "https://bokenjapan.com/yamaguchi/ube/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Curry House NEW OX",
+     "name_en": "Curry House NEW OX",
+     "description": "Curry restaurant in Ube.",
+     "source_url": "https://www.openstreetmap.org/node/9828244438",
+     "page": "https://bokenjapan.com/yamaguchi/ube/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Curry restaurant in Ube",
+     "name_en": "Curry restaurant in Ube",
+     "name_ja": "メルバニ",
+     "description": "Curry restaurant in Ube.",
+     "source_url": "https://www.openstreetmap.org/way/378568010",
+     "page": "https://bokenjapan.com/yamaguchi/ube/eat/curry/",
+     "category": "Curry"
+    },
+    {
+     "name": "Tandoori mahal",
+     "name_en": "Tandoori mahal",
+     "name_ja": "タンドリ マハル",
+     "description": "Curry restaurant in Ube.",
+     "source_url": "https://www.openstreetmap.org/way/378567977",
      "page": "https://bokenjapan.com/yamaguchi/ube/eat/curry/",
      "category": "Curry"
     },
@@ -26882,6 +27377,51 @@
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g298141-d8761621-Reviews-Big_Boy_Ube-Ube_Yamaguchi_Prefecture_Chugoku.html",
      "page": "https://bokenjapan.com/yamaguchi/ube/eat/meat/",
      "category": "Japanese (meat)"
+    },
+    {
+     "name": "Mentoku",
+     "name_en": "Mentoku",
+     "name_ja": "めんとく",
+     "description": "Noodle restaurant in Ube.",
+     "source_url": "https://www.openstreetmap.org/node/7814280026",
+     "page": "https://bokenjapan.com/yamaguchi/ube/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Niwatori Soba Suke Bee",
+     "name_en": "Niwatori Soba Suke Bee",
+     "name_ja": "鶏そば すけ兵衛",
+     "description": "Ramen restaurant in Ube.",
+     "source_url": "https://www.openstreetmap.org/node/11407209640",
+     "page": "https://bokenjapan.com/yamaguchi/ube/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Shop Onda Branch",
+     "name_en": "Ramen Shop Onda Branch",
+     "name_ja": "ラーメンショップ 恩田店",
+     "description": "Ramen restaurant in Ube.",
+     "source_url": "https://www.openstreetmap.org/node/13188392564",
+     "page": "https://bokenjapan.com/yamaguchi/ube/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Rokunoya Ube Store",
+     "name_en": "Rokunoya Ube Store",
+     "name_ja": "ろくの家 宇部店",
+     "description": "Ramen restaurant in Ube. Open daily 11:00-22:30.",
+     "source_url": "https://www.openstreetmap.org/node/10038289417",
+     "page": "https://bokenjapan.com/yamaguchi/ube/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Sandaime YUTAKA",
+     "name_en": "Sandaime YUTAKA",
+     "name_ja": "三代目YUTAKA",
+     "description": "Noodle and ramen restaurant in Ube.",
+     "source_url": "https://www.openstreetmap.org/node/3821966360",
+     "page": "https://bokenjapan.com/yamaguchi/ube/eat/noodles/",
+     "category": "Japanese (noodles)"
     },
     {
      "name": "Ube Kama Chokubai Main Branch",
@@ -27520,7 +28060,7 @@
     "lat": 34.2024008,
     "lon": 132.2202409
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Convenience store or supermarket in Waki",
@@ -27636,8 +28176,8 @@
      "category": "Japanese (meat)"
     },
     {
-     "name": "Waki Golf Kurabu",
-     "name_en": "Waki Golf Kurabu",
+     "name": "Waki Golf Club",
+     "name_en": "Waki Golf Club",
      "name_ja": "和木ゴルフ倶楽部",
      "description": "Food spot, 1,800 m from Waki Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350601/35010766/",
@@ -27745,7 +28285,7 @@
     "lat": 34.1783147,
     "lon": 131.4733985
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Yudaonsen Tourist Information",
@@ -27948,7 +28488,7 @@
      "page": "https://bokenjapan.com/yamaguchi/yamaguchi/do/"
     },
     {
-     "name": "(SL Omotenashi Kupon) Kyanpen",
+     "name": "(SL Omotenashi Kupon) Campaign",
      "description": "Campaign in Yamaguchi, Yamaguchi.",
      "source_url": "https://yamaguchi-tourism.jp/spot/detail_19716.html",
      "page": "https://bokenjapan.com/yamaguchi/yamaguchi/do/"
@@ -27992,6 +28532,14 @@
      "name_en": "Totomato",
      "description": "Cafe in Ajisu Yamaguchi, serving lunch and dinner.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g298142-d16648040-Reviews-Totomato-Yamaguchi_Yamaguchi_Prefecture_Chugoku.html",
+     "page": "https://bokenjapan.com/yamaguchi/yamaguchi/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Sai Coffee Roastery",
+     "name_en": "Sai Coffee Roastery",
+     "description": "Cafe in Yamaguchi. Open daily 11:00-18:30.",
+     "source_url": "https://shop.saicoffeeroastery.com",
      "page": "https://bokenjapan.com/yamaguchi/yamaguchi/eat/cafe/",
      "category": "Cafe"
     },
@@ -28122,6 +28670,15 @@
      "name_en": "Saint Remy de Provence Yamaguchi",
      "description": "Mid-range Italian restaurant.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g298142-d1670657-Reviews-Saint_Remy_de_Provence_Yamaguchi-Yamaguchi_Yamaguchi_Prefecture_Chugoku.html",
+     "page": "https://bokenjapan.com/yamaguchi/yamaguchi/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Pasutaya Zenryu",
+     "name_en": "Pasutaya Zenryu",
+     "name_ja": "ぱすたや然流(さりゅう)",
+     "description": "Italian restaurant in Yamaguchi. Open daily 11:00-15:00.",
+     "source_url": "https://www.openstreetmap.org/node/4664572098",
      "page": "https://bokenjapan.com/yamaguchi/yamaguchi/eat/european/",
      "category": "European"
     },
@@ -28543,6 +29100,33 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Nidaime Yutaka",
+     "name_en": "Nidaime Yutaka",
+     "name_ja": "二代目Yutaka",
+     "description": "Ramen restaurant in Yamaguchi. Closed Mon, Sun; Tue-Sat 11:30-15:00, 18:00-22:00.",
+     "source_url": "https://www.openstreetmap.org/node/13238355726",
+     "page": "https://bokenjapan.com/yamaguchi/yamaguchi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ramen Kinryu",
+     "name_en": "Ramen Kinryu",
+     "name_ja": "ラーメン金龍",
+     "description": "Ramen restaurant in Yamaguchi.",
+     "source_url": "https://www.openstreetmap.org/node/2253231310",
+     "page": "https://bokenjapan.com/yamaguchi/yamaguchi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon restaurant in Yamaguchi",
+     "name_en": "Udon restaurant in Yamaguchi",
+     "name_ja": "手打ちうどん どんどん",
+     "description": "Udon restaurant in Yamaguchi.",
+     "source_url": "https://www.openstreetmap.org/node/2253703800",
+     "page": "https://bokenjapan.com/yamaguchi/yamaguchi/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Food spot in Yamaguchi",
      "name_en": "Food spot in Yamaguchi",
      "name_ja": "スゼンジハウスオープンエア",
@@ -28621,6 +29205,15 @@
      "name_en": "Gusto Yamaguchi Yuda",
      "description": "Mid-range international restaurant.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g298142-d6131551-Reviews-Gusto_Yamaguchi_Yuda-Yamaguchi_Yamaguchi_Prefecture_Chugoku.html",
+     "page": "https://bokenjapan.com/yamaguchi/yamaguchi/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Ayu no Sato",
+     "name_en": "Ayu no Sato",
+     "name_ja": "鮎の里",
+     "description": "Restaurant in Yamaguchi.",
+     "source_url": "https://www.ayunosato-houben.com/",
      "page": "https://bokenjapan.com/yamaguchi/yamaguchi/eat/other/",
      "category": "Other"
     },
@@ -28714,6 +29307,15 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Tadokoro Shoten",
+     "name_en": "Tadokoro Shoten",
+     "name_ja": "田所商店",
+     "description": "Japanese restaurant in Yamaguchi.",
+     "source_url": "https://misoya.net/",
+     "page": "https://bokenjapan.com/yamaguchi/yamaguchi/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Sakanaya no Kaitenzushi Takakura",
      "name_en": "Sakanaya no Kaitenzushi Takakura",
      "description": "Japanese sushi restaurant.",
@@ -28734,6 +29336,33 @@
      "name_en": "Toshiro Sakura An",
      "description": "Mid-range sweets shop in Ouchimidori, serving breakfast and lunch.",
      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g298142-d1405700-Reviews-Toshiro_Sakura_An-Yamaguchi_Yamaguchi_Prefecture_Chugoku.html",
+     "page": "https://bokenjapan.com/yamaguchi/yamaguchi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Dessert cafe in Yamaguchi",
+     "name_en": "Dessert cafe in Yamaguchi",
+     "name_ja": "ミライランドリー®︎",
+     "description": "Dessert cafe in Miyano Ue, Yamaguchi.",
+     "source_url": "https://mirai-laundry.jp/",
+     "page": "https://bokenjapan.com/yamaguchi/yamaguchi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Asamuraichigo Sono",
+     "name_en": "Asamuraichigo Sono",
+     "name_ja": "あさむらいちご園",
+     "description": "Ice cream cafe in Yamaguchi. Open daily 10:00-17:00.",
+     "source_url": "http://asamura-ichigo.com",
+     "page": "https://bokenjapan.com/yamaguchi/yamaguchi/eat/sweets-bakeries/",
+     "category": "Sweets & bakeries"
+    },
+    {
+     "name": "Sosaku Bakery Shu",
+     "name_en": "Sosaku Bakery Shu",
+     "name_ja": "創作ベーカリー秀",
+     "description": "Bakery in Yamaguchi. Open Mon-Sat 10:00-18:30.",
+     "source_url": "https://ysta.jp/store/1096/",
      "page": "https://bokenjapan.com/yamaguchi/yamaguchi/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
     }
@@ -30128,7 +30757,7 @@
     "lat": 33.9637359,
     "lon": 132.1014178
    },
-   "date_modified": "2026-10-14",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Shirakabe Town Tourist Guides",
@@ -30755,8 +31384,8 @@
      "category": "Casual"
     },
     {
-     "name": "Hottomotto Yanai Eki Minami Branch",
-     "name_en": "Hottomotto Yanai Eki Minami Branch",
+     "name": "Hotto Motto Yanai Eki Minami Branch",
+     "name_en": "Hotto Motto Yanai Eki Minami Branch",
      "name_ja": "ほっともっと 柳井駅南店",
      "description": "Bento shop, 507 m from Yanai Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350602/35008976/",
@@ -30764,8 +31393,8 @@
      "category": "Casual"
     },
     {
-     "name": "Hottomotto Yanai Shin'ichi Oki Branch",
-     "name_en": "Hottomotto Yanai Shin'ichi Oki Branch",
+     "name": "Hotto Motto Yanai Shin'ichi Oki Branch",
+     "name_en": "Hotto Motto Yanai Shin'ichi Oki Branch",
      "name_ja": "ほっともっと 柳井新市沖店",
      "description": "Bento shop, 923 m from Yanai Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350602/35011619/",
@@ -31495,8 +32124,8 @@
      "category": "Other"
     },
     {
-     "name": "Yanai Country Kurabu Restaurant",
-     "name_en": "Yanai Country Kurabu Restaurant",
+     "name": "Yanai Country Club Restaurant",
+     "name_en": "Yanai Country Club Restaurant",
      "name_ja": "柳井カントリー倶楽部 レストラン",
      "description": "Restaurant with parking, near Yanai Station.",
      "source_url": "https://tabelog.com/yamaguchi/A3506/A350602/35014821/",
@@ -32893,6 +33522,14 @@
      "name_ja": "HOTEL R9 The Yard 柳井",
      "description": "Hotel, 40 Western-style rooms, free parking.",
      "source_url": "https://www.jalan.net/yad306822/",
+     "page": "https://bokenjapan.com/yamaguchi/yanai/stay/"
+    },
+    {
+     "name": "Minshuku Onoya",
+     "name_en": "Minshuku Onoya",
+     "name_ja": "民宿大野屋",
+     "description": "Hotel in Yanai.",
+     "source_url": "https://heigun.jp/shop/onoya/",
      "page": "https://bokenjapan.com/yamaguchi/yanai/stay/"
     }
    ]
