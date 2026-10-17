@@ -239,8 +239,10 @@ def parse_card(li):
 
 
 def town_of(card, slug):
-    m = re.search(r'ranked in (.+)$', html.unescape(card['meta']))
-    if m: return m.group(1).strip().rsplit(' in ', 1)[-1]
+    meta = html.unescape(card['meta'])
+    m = re.search(r'ranked (?:in|near) (.+)$', meta)
+    if m and m.group(1).strip(): return m.group(1).strip().rsplit(' in ', 1)[-1]
+    if re.match(r'#\d+ ranked', meta): return slug.replace('-', ' ').title()  # empty town in the meta ("#18 ranked in "): fall back to the folder slug
     m = re.match(r'([^,·]+?)(?:,|\s·|$)', html.unescape(card['meta']))
     if m and m.group(1).strip(): return m.group(1).strip().rsplit(' in ', 1)[-1]
     return slug.replace('-', ' ').title()
