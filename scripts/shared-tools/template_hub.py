@@ -212,6 +212,9 @@ def build(pref, slug, st):
         if nb_all or (k2 == 'stay' and near_note): label = f'Stays near {MUNI}'
         rep = pick_dining([didx[id(l)] for l in lis], False) if k2 == 'eat' else first_with_img(lis, avoid=(cover,) if k2 in ('do', 'see') else ())
         if not (rep and img(rep)): rep = next((l for l in lis if img(l)), None) or next((l for l in dining + sights + stay if img(l)), rep)
+        # X21: a do/see tile never repeats the hero/cover photo: if the only photo found is the cover, render the plain seal tile (no <img>)
+        if k2 in ('do', 'see') and rep and img(rep) and cover and img(rep)[0].split('/')[-1] == cover.split('/')[-1]:
+            rep = next((l for l in lis if img(l) and img(l)[0].split('/')[-1] != cover.split('/')[-1]), None) or ''
         t = tile(SLUG[k2] + '/', label, len(lis), rep)
         tiles.append(t.replace('src="../../media/', 'src="../../media/'))
         if k2 == 'eat': continue
