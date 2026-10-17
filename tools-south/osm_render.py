@@ -129,6 +129,16 @@ def tile_html(cat, label, n, c, dims):
     return (f'<li><a class="hub-tile hub-tile-sm" href="{cat}/">{img}<span class="hub-tile-label"><span class="hub-tile-name">{H.escape(label, quote=False)}</span>'
             f'<span class="hub-tile-count">{L.plural(n)}</span></span></a></li>')
 
+def update_town_hub(tree, pref, slug, total):
+    """Town hub (<pref>/<slug>/index.html): 'N places to eat' in title/og/JSON-LD and the Eat tile count."""
+    f = Path(tree) / pref / slug / 'index.html'
+    if not f.exists(): return False
+    t = f.read_text(encoding='utf-8'); o = t
+    t = re.sub(r'\d+ places? to eat', f'{total} places to eat', t)
+    t = re.sub(r'(href="eat/">.{0,400}?hub-tile-count">)\d+ places?', lambda m: m.group(1) + L.plural(total), t, count=1, flags=re.S)
+    if t != o: f.write_text(t, encoding='utf-8'); return True
+    return False
+
 def render_town(pref, slug, A):
     jf = Path(A.json_dir) / pref / f'{slug}.json'
     d = json.load(open(jf))
@@ -188,6 +198,7 @@ def render_town(pref, slug, A):
     if 'class="osm-credit"' not in hub:
         i = hub.find('<!-- bj-nav -->'); hub = hub[:i] + CREDIT_P + hub[i:]
     if not A.dry_run: (eat / 'index.html').write_text(hub, encoding='utf-8')
+    if not A.dry_run: update_town_hub(tree, pref, slug, total)
     # sitemap
     smp = tree / 'sitemaps' / f'{pref}.xml'; added = []
     if smp.exists() and not A.dry_run:
@@ -204,9 +215,15 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('pref'); ap.add_argument('slugs', nargs='+')
     ap.add_argument('--tree', default=L.DEFAULT_TREE); ap.add_argument('--json-dir', default='/workspace/p1/scratch/osm-dining/out')
+    ap.add_argument('--hub-only', action='store_true', help='only refresh the town hub eat count from the eat hub tiles')
     ap.add_argument('--all', action='store_true', help='render every candidate, not only the selected ones'); ap.add_argument('--dry-run', action='store_true')
     A = ap.parse_args()
-    for s in A.slugs: render_town(A.pref, s, A)
+    for s in A.slugs:
+        if A.hub_only:
+            h = (Path(A.tree) / A.pref / s / 'eat' / 'index.html').read_text(encoding='utf-8')
+            tot = sum(int(x) for x in re.findall(r'hub-tile hub-tile-sm" href="[^"/]+/">.*?hub-tile-count">(\d+) place', h, re.S))
+            print(A.pref, s, 'eat total', tot, 'hub updated', update_town_hub(A.tree, A.pref, s, tot))
+        else: render_town(A.pref, s, A)
 
 if __name__ == '__main__':
     main()
