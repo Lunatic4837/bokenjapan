@@ -40,6 +40,42 @@
      "category": "Cafe"
     },
     {
+     "name": "Yoru Cafe Hus",
+     "name_en": "Yoru Cafe Hus",
+     "name_ja": "夜cafe.hus",
+     "description": "Creative-cuisine cafe-bar on the third floor of the Takama building in Minami 5-jo Nishi, Abashiri, serving pasta, plates and colourful drinks.",
+     "source_url": "https://www.hotpepper.jp/strJ004591214/",
+     "page": "https://bokenjapan.com/hokkaido/abashiri/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Cafe Sputnik",
+     "name_en": "Cafe Sputnik",
+     "name_ja": "カフェ スプートニク",
+     "description": "Cafe in Minami 4-jo Nishi, Abashiri.",
+     "source_url": "https://www.hotpepper.jp/strJ003433030/",
+     "page": "https://bokenjapan.com/hokkaido/abashiri/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "LIA Cafe",
+     "name_en": "LIA Cafe",
+     "name_ja": "LIA.cafe カフェ",
+     "description": "Cafe in Shiomi, Abashiri, with a bright interior and large windows.",
+     "source_url": "https://www.hotpepper.jp/strJ003297529/",
+     "page": "https://bokenjapan.com/hokkaido/abashiri/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kissa and Light Meals Chipashiri",
+     "name_en": "Kissa and Light Meals Chipashiri",
+     "name_ja": "喫茶・軽食 ちぱしり",
+     "description": "Coffee shop and light-meal restaurant in Katsura-cho, Abashiri, in a small brick-style building.",
+     "source_url": "https://www.hotpepper.jp/strJ003473068/",
+     "page": "https://bokenjapan.com/hokkaido/abashiri/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Kangoku Shokudo",
      "name_en": "Kangoku Shokudo",
      "name_ja": "監獄食堂",
@@ -67,11 +103,29 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "Ryujin",
+     "name_en": "Ryujin",
+     "name_ja": "龍神",
+     "description": "Chinese restaurant in Shinmachi, Abashiri, with a red storefront near the town centre.",
+     "source_url": "https://www.hotpepper.jp/strJ001029922/",
+     "page": "https://bokenjapan.com/hokkaido/abashiri/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Argis",
      "name_en": "Argis",
      "name_ja": "アルジス",
      "description": "Italian restaurant in Abashiri, Hokkaido.",
      "source_url": "https://tabelog.com/hokkaido/A0110/A011001/1058409/",
+     "page": "https://bokenjapan.com/hokkaido/abashiri/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Restaurant Fat Boy",
+     "name_en": "Restaurant Fat Boy",
+     "name_ja": "レストランファットボーイ",
+     "description": "Western-style restaurant in Komaba Kita, Abashiri, known for baked and gratin-style plates.",
+     "source_url": "https://www.hotpepper.jp/strJ000261137/",
      "page": "https://bokenjapan.com/hokkaido/abashiri/eat/european/",
      "category": "European"
     },
@@ -121,6 +175,42 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Yoshida Sanpachi Shoten",
+     "name_en": "Yoshida Sanpachi Shoten",
+     "name_ja": "吉田三八商店",
+     "description": "Izakaya in Minami 3-jo Nishi, Abashiri, in a lantern-lit shopfront.",
+     "source_url": "https://www.hotpepper.jp/strJ001268068/",
+     "page": "https://bokenjapan.com/hokkaido/abashiri/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Sawa",
+     "name_en": "Sawa",
+     "name_ja": "季節の旨いものと酒 sawa",
+     "description": "Izakaya in Minami 5-jo Nishi, Abashiri, serving seasonal sashimi, seafood and sake.",
+     "source_url": "https://www.hotpepper.jp/strJ000698290/",
+     "page": "https://bokenjapan.com/hokkaido/abashiri/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Shunsai",
+     "name_en": "Izakaya Shunsai",
+     "name_ja": "居酒屋 旬彩",
+     "description": "Izakaya on the second floor of the Futaba building in Minami 5-jo Nishi, Abashiri, known for fresh sashimi.",
+     "source_url": "https://www.hotpepper.jp/strJ000835040/",
+     "page": "https://bokenjapan.com/hokkaido/abashiri/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Beer & Scotch Bar The Earth",
+     "name_en": "Beer & Scotch Bar The Earth",
+     "name_ja": "BEER & SCOTCH BAR THE EARTH ビア＆スコッチバー",
+     "description": "Bar in Minami 3-jo Nishi, Abashiri, with a dim, wood-lined interior and a beer and Scotch list.",
+     "source_url": "https://www.hotpepper.jp/strJ003433040/",
+     "page": "https://bokenjapan.com/hokkaido/abashiri/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Yakiniku Maruishi",
      "name_en": "Yakiniku Maruishi",
      "name_ja": "焼肉マルイシ",
@@ -157,11 +247,56 @@
      "category": "Japanese (meat)"
     },
     {
+     "name": "Yakiniku Pansan Nidaime",
+     "name_en": "Yakiniku Pansan Nidaime",
+     "name_ja": "焼肉パンサン 二代目",
+     "description": "Yakiniku (grilled meat) restaurant in Minami 3-jo Higashi, Abashiri, in a blue-fronted building.",
+     "source_url": "https://www.hotpepper.jp/strJ004698087/",
+     "page": "https://bokenjapan.com/hokkaido/abashiri/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Abashiri Beer Kan",
+     "name_en": "Yakiniku Abashiri Beer Kan",
+     "name_ja": "YAKINIKU 網走ビール館",
+     "description": "Yakiniku restaurant in Minami 2-jo Nishi, Abashiri, serving grilled beef and seafood alongside local beer.",
+     "source_url": "https://www.hotpepper.jp/strJ000705138/",
+     "page": "https://bokenjapan.com/hokkaido/abashiri/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Jingisukan Hitoariki",
+     "name_en": "Jingisukan Hitoariki",
+     "name_ja": "成吉思汗 ひとありき",
+     "description": "Jingisukan (lamb BBQ) restaurant in Minami 4-jo Nishi, Abashiri, serving fresh lamb for grilling at the table.",
+     "source_url": "https://www.hotpepper.jp/strJ003693225/",
+     "page": "https://bokenjapan.com/hokkaido/abashiri/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Sumibi Dining Wa",
+     "name_en": "Sumibi Dining Wa",
+     "name_ja": "炭火ダイニング 輪",
+     "description": "Charcoal-grill dining spot in Minami 3-jo Nishi, Abashiri, serving grilled meat and vegetables.",
+     "source_url": "https://www.hotpepper.jp/strJ003599299/",
+     "page": "https://bokenjapan.com/hokkaido/abashiri/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
      "name": "Teuchi Soba Sarazan",
      "name_en": "Teuchi Soba Sarazan",
      "name_ja": "手打ちそば サラザン",
      "description": "Soba restaurant in Abashiri, Hokkaido.",
      "source_url": "https://tabelog.com/hokkaido/A0110/A011001/1079769/",
+     "page": "https://bokenjapan.com/hokkaido/abashiri/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Bonnokaze Abashiri Betsutei",
+     "name_en": "Bonnokaze Abashiri Betsutei",
+     "name_ja": "凡の風 あばしり別亭",
+     "description": "Ramen shop on the ground floor of the Abashiri Central Hotel, serving a clear-broth ramen.",
+     "source_url": "https://www.hotpepper.jp/strJ003323458/",
      "page": "https://bokenjapan.com/hokkaido/abashiri/eat/noodles/",
      "category": "Japanese (noodles)"
     },
@@ -234,6 +369,24 @@
      "name_ja": "小僧寿し 網走店",
      "description": "Sushi restaurant in Abashiri, Hokkaido.",
      "source_url": "https://tabelog.com/hokkaido/A0110/A011001/1033800/",
+     "page": "https://bokenjapan.com/hokkaido/abashiri/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Kita no Kaisendokoro Irori",
+     "name_en": "Kita no Kaisendokoro Irori",
+     "name_ja": "北の海鮮処 ゐろり",
+     "description": "Seafood izakaya in Minami 3-jo Nishi, Abashiri, serving Okhotsk Sea fish and seasonal seafood.",
+     "source_url": "https://www.hotpepper.jp/strJ003605003/",
+     "page": "https://bokenjapan.com/hokkaido/abashiri/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushiya no Kitahama",
+     "name_en": "Sushiya no Kitahama",
+     "name_ja": "すし屋のきた浜",
+     "description": "Sushi restaurant in Minami 3-jo Nishi, Abashiri, with a wooden entrance and noren curtain.",
+     "source_url": "https://www.hotpepper.jp/strJ004421299/",
      "page": "https://bokenjapan.com/hokkaido/abashiri/eat/seafood/",
      "category": "Japanese (seafood)"
     }
@@ -3771,6 +3924,15 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Teppanyaki Izakaya Konkon",
+     "name_en": "Teppanyaki Izakaya Konkon",
+     "name_ja": "鉄板焼き居酒屋 こんこん",
+     "description": "Teppanyaki izakaya in central Bibai serving okonomiyaki, grilled dishes and sashimi built around local ingredients; non-smoking and barrier-free.",
+     "source_url": "https://www.hotpepper.jp/strJ003599090/",
+     "page": "https://bokenjapan.com/hokkaido/bibai/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Kiyoka Sono",
      "name_en": "Kiyoka Sono",
      "name_ja": "清香園",
@@ -5695,7 +5857,7 @@
     {
      "name": "SMA MO Inn Chitose",
      "name_en": "SMA MO Inn Chitose",
-     "name_ja": "SMA・MO inn Chitose",
+     "name_ja": "スマモ イン 千歳",
      "description": "The SMA MO inn Chitose is an inn in Mamachi of Chitose.",
      "source_url": "https://www.jalan.net/yad397470/",
      "page": "https://bokenjapan.com/hokkaido/chitose/stay/"
@@ -8044,6 +8206,15 @@
      "category": "Cafe"
     },
     {
+     "name": "Sports Cafe MAX",
+     "name_en": "Sports Cafe MAX",
+     "name_ja": "スポーツカフェ MAX",
+     "description": "Sports bar in Fukagawa with darts, billiards, table tennis and a big screen for live sport.",
+     "source_url": "https://www.hotpepper.jp/strJ000921437/",
+     "page": "https://bokenjapan.com/hokkaido/fukagawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Miyashita Shoten Choribu",
      "name_en": "Miyashita Shoten Choribu",
      "name_ja": "宮下商店 調理部",
@@ -8098,6 +8269,15 @@
      "category": "European"
     },
     {
+     "name": "Monsieur Sandakan",
+     "name_en": "Monsieur Sandakan",
+     "name_ja": "ムッシュ サンダカン",
+     "description": "Western-style restaurant in Fukagawa housed in a distinctive yellow-and-white building.",
+     "source_url": "https://www.hotpepper.jp/strJ000851799/",
+     "page": "https://bokenjapan.com/hokkaido/fukagawa/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Fukagawa Shop",
      "name_en": "Fukagawa Shop",
      "name_ja": "いろはにほへと 深川店",
@@ -8121,6 +8301,24 @@
      "name_ja": "銀馬車",
      "description": "Izakaya in Fukagawa, Hokkaido.",
      "source_url": "https://tabelog.com/hokkaido/A0107/A010705/1015087/",
+     "page": "https://bokenjapan.com/hokkaido/fukagawa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Uchiwa",
+     "name_en": "Uchiwa",
+     "name_ja": "うち和",
+     "description": "Izakaya in Fukagawa with a green noren curtain at the entrance, serving Japanese-style small plates and drinks.",
+     "source_url": "https://www.hotpepper.jp/strJ003340457/",
+     "page": "https://bokenjapan.com/hokkaido/fukagawa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Senes Bar En",
+     "name_en": "Senes Bar En",
+     "name_ja": "Senes bar 縁",
+     "description": "Bar on the first floor of the Sanjo Plaza building in Fukagawa, known for a caramel-and-vanilla cocktail and a wide cocktail list.",
+     "source_url": "https://www.hotpepper.jp/strJ003411048/",
      "page": "https://bokenjapan.com/hokkaido/fukagawa/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -8518,6 +8716,15 @@
      "category": "Casual"
     },
     {
+     "name": "Curry & Bar JAM",
+     "name_en": "Curry & Bar JAM",
+     "name_ja": "CURRY&BAR JAM カレーアンドバー ジャム",
+     "description": "Curry restaurant and bar on Hon-machi in Furano.",
+     "source_url": "https://www.hotpepper.jp/strJ003366155/",
+     "page": "https://bokenjapan.com/hokkaido/furano/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Locanda Furanora",
      "name_en": "Locanda Furanora",
      "description": "French restaurant in Furano, Hokkaido.",
@@ -8588,6 +8795,15 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Bar & Kitchen BLT",
+     "name_en": "Bar & Kitchen BLT",
+     "name_ja": "Bar&Kitchen BLT バーアンドキッチン ビーエルティー",
+     "description": "Bar and kitchen in Hinode-cho, Furano, with darts and a sausage-plate menu.",
+     "source_url": "https://www.hotpepper.jp/strJ003410205/",
+     "page": "https://bokenjapan.com/hokkaido/furano/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "A bientot furano",
      "name_en": "A Bientot Furano",
      "description": "Sukiyaki restaurant in Furano, Hokkaido.",
@@ -8637,6 +8853,15 @@
      "name_ja": "ふじ家",
      "description": "Tempura restaurant in Furano, Hokkaido.",
      "source_url": "https://tabelog.com/hokkaido/A0104/A010403/1023220/",
+     "page": "https://bokenjapan.com/hokkaido/furano/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Furano Washoku Suzukake",
+     "name_en": "Furano Washoku Suzukake",
+     "name_ja": "ふらの和食すずかけ",
+     "description": "Japanese restaurant in Furano with table, counter and private-room seating, serving dishes from both sea and mountain ingredients.",
+     "source_url": "https://www.hotpepper.jp/strJ003474591/",
      "page": "https://bokenjapan.com/hokkaido/furano/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -20874,7 +21099,7 @@
     {
      "name": "La La",
      "name_en": "La La",
-     "name_ja": "La・La",
+     "name_ja": "ラ・ラ",
      "description": "Bento shop in Makkari, Hokkaido.",
      "source_url": "https://tabelog.com/hokkaido/A0106/A010603/1073292/",
      "page": "https://bokenjapan.com/hokkaido/makkari/eat/casual/",
@@ -34336,6 +34561,15 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Rumoi Janome Sushi",
+     "name_en": "Rumoi Janome Sushi",
+     "name_ja": "留萌 蛇の目寿司",
+     "description": "Sushi restaurant in the Nishikicho district of Rumoi serving seafood bowls and sushi made with local seafood, with lunch courses and banquet plans.",
+     "source_url": "https://www.hotpepper.jp/strJ003581409/",
+     "page": "https://bokenjapan.com/hokkaido/rumoi/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Tsubo-ya Seikyo Rumoi branch",
      "name_en": "Tsubo-ya Seikyo Rumoi branch",
      "name_ja": "壺屋 生協るもい店",
@@ -36881,6 +37115,7 @@
     {
      "name": "UCHI Susukino 5.7",
      "name_en": "UCHI Susukino 5.7",
+     "name_ja": "ウチ ススキノ 5.7",
      "description": "Newly built unmanned hotel in Chuo Ward, seven minutes on foot from Susukino Station and one minute from a convenience store.",
      "source_url": "https://www.jalan.net/yad397676/",
      "page": "https://bokenjapan.com/hokkaido/sapporo/stay/"
@@ -45643,6 +45878,24 @@
      "category": "Cafe"
     },
     {
+     "name": "Hide Out Cafe",
+     "name_en": "Hide Out Cafe",
+     "name_ja": "HIDE OUT CAFE カフェ",
+     "description": "Cafe in Myojin-cho, Takikawa serving plates topped with a fried egg and light meals.",
+     "source_url": "https://www.hotpepper.jp/strJ003432574/",
+     "page": "https://bokenjapan.com/hokkaido/takikawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Dining Cafe Bar Kagetsu",
+     "name_en": "Dining Cafe Bar Kagetsu",
+     "name_ja": "ダイニングカフェバー花月",
+     "description": "Dining cafe-bar in Ebeotsu, Takikawa with sofa seating.",
+     "source_url": "https://www.hotpepper.jp/strJ004004573/",
+     "page": "https://bokenjapan.com/hokkaido/takikawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Gusto Takikawa branch",
      "name_en": "Gusto Takikawa branch",
      "name_ja": "ガスト 滝川店",
@@ -45679,6 +45932,33 @@
      "category": "Casual"
     },
     {
+     "name": "Bistro Printemps",
+     "name_en": "Bistro Printemps",
+     "name_ja": "Bistro printemps（ビストロ・プランタン）",
+     "description": "Bistro in Sakaemachi, Takikawa serving Italian and French plates with a wine list.",
+     "source_url": "https://www.hotpepper.jp/strJ004005347/",
+     "page": "https://bokenjapan.com/hokkaido/takikawa/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Panettone",
+     "name_en": "Panettone",
+     "name_ja": "panettone パネトーネ",
+     "description": "Small eatery in Nishimachi, Takikawa, in a wood-and-grey building.",
+     "source_url": "https://www.hotpepper.jp/strJ001283168/",
+     "page": "https://bokenjapan.com/hokkaido/takikawa/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Meat Dishes Tenniku",
+     "name_en": "Meat Dishes Tenniku",
+     "name_ja": "MEAT DISHES 天肉",
+     "description": "Western-style restaurant in Sakaemachi, Takikawa serving hamburg steak and other meat plates on a hot iron plate.",
+     "source_url": "https://www.hotpepper.jp/strJ001282594/",
+     "page": "https://bokenjapan.com/hokkaido/takikawa/eat/casual/",
+     "category": "Casual"
+    },
+    {
      "name": "Takikawa Shop",
      "name_en": "Takikawa Shop",
      "name_ja": "いろはにほへと 滝川店",
@@ -45711,6 +45991,60 @@
      "name_ja": "味処にしはら",
      "description": "Izakaya in Takikawa, Hokkaido.",
      "source_url": "https://tabelog.com/hokkaido/A0107/A010705/1018562/",
+     "page": "https://bokenjapan.com/hokkaido/takikawa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Sumiyaki Sakaba Ichinosaka",
+     "name_en": "Sumiyaki Sakaba Ichinosaka",
+     "name_ja": "炭焼酒場 一ノ坂",
+     "description": "Charcoal-grill izakaya in Ichinosaka-cho, Takikawa.",
+     "source_url": "https://www.hotpepper.jp/strJ004660415/",
+     "page": "https://bokenjapan.com/hokkaido/takikawa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya My Pace",
+     "name_en": "Izakaya My Pace",
+     "name_ja": "居酒屋まいぺーす",
+     "description": "Izakaya on Hon-cho, Takikawa in an old wooden storefront.",
+     "source_url": "https://www.hotpepper.jp/strJ004681001/",
+     "page": "https://bokenjapan.com/hokkaido/takikawa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Creative Washoku Yu-ta",
+     "name_en": "Creative Washoku Yu-ta",
+     "name_ja": "創作和食Yu-ta",
+     "description": "Izakaya on the first floor of the 22-kan building on Hon-cho, Takikawa serving creative Japanese dishes and sashimi.",
+     "source_url": "https://www.hotpepper.jp/strJ004558030/",
+     "page": "https://bokenjapan.com/hokkaido/takikawa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Bar Antique Blue",
+     "name_en": "Bar Antique Blue",
+     "name_ja": "Bar Antique Blue バー",
+     "description": "Bar in Sakaemachi, Takikawa with a wall of bottles and a wood counter.",
+     "source_url": "https://www.hotpepper.jp/strJ003559358/",
+     "page": "https://bokenjapan.com/hokkaido/takikawa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Yakitori Izakaya Torifuji",
+     "name_en": "Yakitori Izakaya Torifuji",
+     "name_ja": "焼き鳥居酒屋 鳥ふじ",
+     "description": "Yakitori izakaya on Hon-cho 1-chome, Takikawa, behind a dark wooden entrance.",
+     "source_url": "https://www.hotpepper.jp/strJ000255551/",
+     "page": "https://bokenjapan.com/hokkaido/takikawa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Oogetsu",
+     "name_en": "Oogetsu",
+     "name_ja": "おおげつ",
+     "description": "Izakaya in Omachi, Takikawa.",
+     "source_url": "https://www.hotpepper.jp/strJ003559300/",
      "page": "https://bokenjapan.com/hokkaido/takikawa/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -45783,6 +46117,15 @@
      "name_ja": "高麗苑",
      "description": "Yakiniku (grilled meat) restaurant in Takikawa, Hokkaido.",
      "source_url": "https://tabelog.com/hokkaido/A0107/A010705/1012593/",
+     "page": "https://bokenjapan.com/hokkaido/takikawa/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Matsuo Jingisukan Takikawa Honten",
+     "name_en": "Matsuo Jingisukan Takikawa Honten",
+     "name_ja": "松尾ジンギスカン滝川本店",
+     "description": "Jingisukan (lamb BBQ) restaurant in Takikawa, the home branch of the local Matsuo lamb-grill name, serving marinated lamb on a cast-iron pan.",
+     "source_url": "https://www.hotpepper.jp/strJ000302336/",
      "page": "https://bokenjapan.com/hokkaido/takikawa/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -49933,7 +50276,7 @@
     {
      "name": "CO CO A",
      "name_en": "CO CO A",
-     "name_ja": "CO・CO・A",
+     "name_ja": "ココア",
      "description": "Café in Urakawa, Hokkaido.",
      "source_url": "https://tabelog.com/hokkaido/A0108/A010804/1082242/",
      "page": "https://bokenjapan.com/hokkaido/urakawa/eat/cafe/",
