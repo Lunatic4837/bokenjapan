@@ -18,7 +18,7 @@
     "address": "Asahi, Yamagata 990-1442",
     "phone": "0237-67-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Michi no Eki Asahimachi",
@@ -313,7 +313,7 @@
     {
      "name": "Daichan Farm Guest House",
      "name_en": "Daichan Farm Guest House",
-     "name_ja": "Ｄａｉｃｈａｎ Ｆａｒｍ Ｇｕｅｓｔ Ｈｏｕｓｅ",
+     "name_ja": "ダイチャンファーム ゲストハウス",
      "description": "Farm guesthouse in Asahi.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/162888/162888.html",
      "page": "https://bokenjapan.com/yamagata/asahi/stay/"
@@ -335,7 +335,7 @@
     "address": "Funagata, Yamagata 999-4601",
     "phone": "0233-32-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Nagasawa Station",
@@ -610,7 +610,7 @@
     "address": "Higashine, Yamagata 999-3795",
     "phone": "0237-42-1111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Jimmachi Station",
@@ -731,6 +731,15 @@
      "source_url": "https://tabelog.com/yamagata/A0605/A060501/6000684/",
      "page": "https://bokenjapan.com/yamagata/higashine/eat/casual/",
      "category": "Casual"
+    },
+    {
+     "name": "Torenta Higashine",
+     "name_en": "Torenta Higashine",
+     "name_ja": "トレンタ東根店",
+     "description": "Italian or French restaurant in Higashine; open 11:00-15:30, 60 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000974808/",
+     "page": "https://bokenjapan.com/yamagata/higashine/eat/european/",
+     "category": "European"
     },
     {
      "name": "Izakaya in Higashine",
@@ -895,6 +904,24 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Mekiki no Ginji Sakuranbo Higashine Higashiguchi Ekimae",
+     "name_en": "Mekiki no Ginji Sakuranbo Higashine Higashiguchi Ekimae",
+     "name_ja": "目利きの銀次 さくらんぼ東根東口駅前店",
+     "description": "Seafood izakaya chain branch near Sakuranbo-Higashine Station serving sashimi and hamayaki-style grilled seafood, with course menus and all-you-can-drink plans.",
+     "source_url": "https://r.gnavi.co.jp/pgrfuxk00000/",
+     "page": "https://bokenjapan.com/yamagata/higashine/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Oitti Marchand",
+     "name_en": "Oitti Marchand",
+     "name_ja": "オイッティマルシャン",
+     "description": "Bakery-style Italian cafe on the first floor of Manabia Terrace in Higashine, with freshly baked bread and takeaway drinks that can also be enjoyed inside the library.",
+     "source_url": "https://r.gnavi.co.jp/7gexejgv0000/",
+     "page": "https://bokenjapan.com/yamagata/higashine/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Kamadokemuri Shingetsu",
      "name_en": "Kamadokemuri Shingetsu",
      "name_ja": "竈煙 心月",
@@ -932,7 +959,7 @@
      "name": "Super Hotel Yamagata Sakuranbo Higashine Ekimae Natural Onsen Oto no Yu",
      "name_en": "Super Hotel Yamagata Sakuranbo Higashine Ekimae Natural Onsen Oto no Yu",
      "name_ja": "スーパーホテル山形・さくらんぼ東根駅前 天然温泉桜桃の湯",
-     "description": "Hotel in Higashine.",
+     "description": "Hotel in Higashine with hot-spring baths, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad343331/",
      "page": "https://bokenjapan.com/yamagata/higashine/stay/"
     },
@@ -940,7 +967,7 @@
      "name": "Sumairu Hotel Sakuranbo Higashine",
      "name_en": "Sumairu Hotel Sakuranbo Higashine",
      "name_ja": "スマイルホテルさくらんぼ東根",
-     "description": "Hotel in Higashine.",
+     "description": "Hotel in Higashine with massage service, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad366170/",
      "page": "https://bokenjapan.com/yamagata/higashine/stay/"
     },
@@ -948,7 +975,7 @@
      "name": "Ryokan Sakurayu",
      "name_en": "Ryokan Sakurayu",
      "name_ja": "旅館さくら湯",
-     "description": "Ryokan inn in Higashine.",
+     "description": "Ryokan inn in Higashine with hot-spring baths and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad386863/",
      "page": "https://bokenjapan.com/yamagata/higashine/stay/"
     },
@@ -956,7 +983,7 @@
      "name": "Minyo no Yado Azumaya",
      "name_en": "Minyo no Yado Azumaya",
      "name_ja": "心と身体を癒す琥珀色の東根温泉 民謡の宿あづまや",
-     "description": "Onsen lodging in Higashine.",
+     "description": "Onsen lodging in Higashine with hot-spring baths, bicycle rental, massage service and free parking.",
      "source_url": "https://www.jalan.net/yad364044/",
      "page": "https://bokenjapan.com/yamagata/higashine/stay/"
     },
@@ -964,7 +991,7 @@
      "name": "Higashine Onsen Nonoka Hongo-kan",
      "name_en": "Higashine Onsen Nonoka Hongo-kan",
      "name_ja": "東根温泉 のゝか本郷館",
-     "description": "Onsen lodging in Higashine.",
+     "description": "Onsen lodging in Higashine with hot-spring baths, bicycle rental, massage service, a banquet hall and free parking.",
      "source_url": "https://www.jalan.net/yad352235/",
      "page": "https://bokenjapan.com/yamagata/higashine/stay/"
     }
@@ -985,7 +1012,7 @@
     "address": "Iide, Yamagata 999-0696",
     "phone": "0238-72-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside station Iide",
@@ -1218,7 +1245,7 @@
      "name": "Hotel Slow Village Iide",
      "name_en": "Hotel Slow Village Iide",
      "name_ja": "ホテルスロービレッジ 飯豊",
-     "description": "Hotel in Iide.",
+     "description": "Hotel in Iide with barbecue facilities, a lounge, bicycle rental, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad306178/",
      "page": "https://bokenjapan.com/yamagata/iide/stay/"
     },
@@ -1226,7 +1253,7 @@
      "name": "Iide Soekawa Onsen Shirasagi-so",
      "name_en": "Iide Soekawa Onsen Shirasagi-so",
      "name_ja": "いいで添川温泉しらさぎ荘",
-     "description": "Onsen lodging in Iide.",
+     "description": "Onsen lodging in Iide with hot-spring baths, karaoke, a banquet hall, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad301524/",
      "page": "https://bokenjapan.com/yamagata/iide/stay/"
     },
@@ -1234,7 +1261,7 @@
      "name": "Shirakawa Onsen Shirakawa-so",
      "name_en": "Shirakawa Onsen Shirakawa-so",
      "name_ja": "野鳥ノジコに逢える郷 白川温泉 白川荘",
-     "description": "Onsen lodging in Iide.",
+     "description": "Onsen lodging in Iide with hot-spring baths, a banquet hall and fishing.",
      "source_url": "https://www.jalan.net/yad304359/",
      "page": "https://bokenjapan.com/yamagata/iide/stay/"
     }
@@ -1255,7 +1282,7 @@
     "address": "Kahoku, Yamagata 999-3511",
     "phone": "0237-73-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Michi-no-Eki Kahoku Brattopia",
@@ -1596,7 +1623,7 @@
     "address": "Kaminoyama, Yamagata 999-3192",
     "phone": "023-672-1111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Takeda Winery",
@@ -1630,6 +1657,15 @@
      "category": "Cafe"
     },
     {
+     "name": "Cafe and Gallery Tsuki to Hoshi",
+     "name_en": "Cafe and Gallery Tsuki to Hoshi",
+     "name_ja": "Cafe and Gallery 月と星",
+     "description": "Cafe in Kaminoyama.",
+     "source_url": "https://r.gnavi.co.jp/1yww4h1r0000/",
+     "page": "https://bokenjapan.com/yamagata/kaminoyama/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Umayato",
      "name_en": "Umayato",
      "name_ja": "厩戸",
@@ -1644,6 +1680,15 @@
      "name_ja": "蔵王ライザワールド レストラン",
      "description": "Shokudo diner in Kaminoyama, Yamagata.",
      "source_url": "https://tabelog.com/yamagata/A0601/A060102/6000467/",
+     "page": "https://bokenjapan.com/yamagata/kaminoyama/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Fufu",
+     "name_en": "Fufu",
+     "name_ja": "ふうふぅ",
+     "description": "Okonomiyaki restaurant in Kaminoyama, about 10 min by car from Higashi-Kanai Station; open 11:30-14:30, closed Sundays, 35 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ001137818/",
      "page": "https://bokenjapan.com/yamagata/kaminoyama/eat/casual/",
      "category": "Casual"
     },
@@ -1782,6 +1827,15 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Sobadokoro Miyabi",
+     "name_en": "Sobadokoro Miyabi",
+     "name_ja": "蕎麦処みやび",
+     "description": "Soba restaurant in Kaminoyama.",
+     "source_url": "https://r.gnavi.co.jp/hzrk2dnb0000/",
+     "page": "https://bokenjapan.com/yamagata/kaminoyama/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Koyo",
      "name_en": "Koyo",
      "name_ja": "日本の宿 古窯",
@@ -1871,7 +1925,7 @@
      "name": "Kaminoyama Onsen Sagaeya Ryokan",
      "name_en": "Kaminoyama Onsen Sagaeya Ryokan",
      "name_ja": "かみのやま温泉 寒河江屋旅館",
-     "description": "Ryokan inn in Kaminoyama.",
+     "description": "Ryokan inn in Kaminoyama with hot-spring baths, karaoke, massage service, a banquet hall and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad343891/",
      "page": "https://bokenjapan.com/yamagata/kaminoyama/stay/"
     },
@@ -1879,7 +1933,7 @@
      "name": "Bekkan Fujiya Ryokan",
      "name_en": "Bekkan Fujiya Ryokan",
      "name_ja": "別館 ふじや旅館",
-     "description": "Ryokan inn in Kaminoyama.",
+     "description": "Ryokan inn in Kaminoyama with hot-spring baths, massage service, a banquet hall, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad371724/",
      "page": "https://bokenjapan.com/yamagata/kaminoyama/stay/"
     },
@@ -1887,7 +1941,7 @@
      "name": "Kaminoyama Onsen Meigetsu-so",
      "name_en": "Kaminoyama Onsen Meigetsu-so",
      "name_ja": "かみのやま温泉 名月荘",
-     "description": "Onsen lodging in Kaminoyama.",
+     "description": "Onsen lodging in Kaminoyama with hot-spring baths, massage service, a banquet hall and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad330870/",
      "page": "https://bokenjapan.com/yamagata/kaminoyama/stay/"
     },
@@ -1895,7 +1949,7 @@
      "name": "Kaminoyama Onsen Hataya Ryokan",
      "name_en": "Kaminoyama Onsen Hataya Ryokan",
      "name_ja": "かみのやま温泉 はたや旅館",
-     "description": "Ryokan inn in Kaminoyama.",
+     "description": "Ryokan inn in Kaminoyama with hot-spring baths, massage service, a banquet hall and free parking.",
      "source_url": "https://www.jalan.net/yad391814/",
      "page": "https://bokenjapan.com/yamagata/kaminoyama/stay/"
     },
@@ -1903,7 +1957,7 @@
      "name": "Hotel Kikuya",
      "name_en": "Hotel Kikuya",
      "name_ja": "ホテル菊屋",
-     "description": "Hotel in Kaminoyama.",
+     "description": "Hotel in Kaminoyama with free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad396922/",
      "page": "https://bokenjapan.com/yamagata/kaminoyama/stay/"
     }
@@ -1924,7 +1978,7 @@
     "address": "Kaneyama, Yamagata 999-5402",
     "phone": "0233-52-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "FamilyMart",
@@ -2237,7 +2291,7 @@
     "address": "Kawanishi, Yamagata 999-0193",
     "phone": "0238-42-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Chugun Station",
@@ -2602,7 +2656,7 @@
      "name": "Kawanishi Onsen Kawanishi Machiyokuyoku Center Madoka",
      "name_en": "Kawanishi Onsen Kawanishi Machiyokuyoku Center Madoka",
      "name_ja": "川西温泉 川西町浴浴センター まどか",
-     "description": "Onsen lodging in Kawanishi.",
+     "description": "Onsen lodging in Kawanishi with hot-spring baths, karaoke, a banquet hall, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad370129/",
      "page": "https://bokenjapan.com/yamagata/kawanishi/stay/"
     }
@@ -2623,7 +2677,7 @@
     "address": "Mamurogawa, Yamagata 999-5312",
     "phone": "0233-62-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "MaxValu Mamurogawa branch",
@@ -2893,7 +2947,7 @@
      "name": "Mamurokawa Onsen Umezato-en",
      "name_en": "Mamurokawa Onsen Umezato-en",
      "name_ja": "まむろ川温泉梅里苑",
-     "description": "Onsen lodging in Mamurogawa.",
+     "description": "Onsen lodging in Mamurogawa with hot-spring baths and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad355742/",
      "page": "https://bokenjapan.com/yamagata/mamurogawa/stay/"
     }
@@ -2914,7 +2968,7 @@
     "address": "Mikawa, Yamagata 997-1301",
     "phone": "0235-66-3111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside station Shonai-mikawa",
@@ -3157,7 +3211,7 @@
      "name": "Nano Hana Onsen Denden no Yado",
      "name_en": "Nano Hana Onsen Denden no Yado",
      "name_ja": "なの花温泉 田田の宿",
-     "description": "Onsen lodging in Mikawa.",
+     "description": "Onsen lodging in Mikawa with hot-spring baths, massage service, a banquet hall, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad348512/",
      "page": "https://bokenjapan.com/yamagata/mikawa/stay/"
     }
@@ -3178,7 +3232,7 @@
     "address": "Mogami, Yamagata 999-6101",
     "phone": "0233-43-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Wakuwaku Farm Maemori Kogen",
@@ -3425,7 +3479,7 @@
      "name": "Ryokan Shakunage-so",
      "name_en": "Ryokan Shakunage-so",
      "name_ja": "おふろ好きの宿 旅館 しゃくなげ荘",
-     "description": "Ryokan inn in Mogami.",
+     "description": "Ryokan inn in Mogami with hot-spring baths, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad312654/",
      "page": "https://bokenjapan.com/yamagata/mogami/stay/"
     },
@@ -3433,7 +3487,7 @@
      "name": "Akakura Onsen Midoriya Ryokan",
      "name_en": "Akakura Onsen Midoriya Ryokan",
      "name_ja": "赤倉温泉 みどりや旅館",
-     "description": "Ryokan inn in Mogami.",
+     "description": "Ryokan inn in Mogami with hot-spring baths, massage service and a banquet hall.",
      "source_url": "https://www.jalan.net/yad363930/",
      "page": "https://bokenjapan.com/yamagata/mogami/stay/"
     },
@@ -3441,7 +3495,7 @@
      "name": "Seken Onsen Ryokan Ogawa-ya",
      "name_en": "Seken Onsen Ryokan Ogawa-ya",
      "name_ja": "瀬見温泉 旅館 小川屋～地産地消のごっつぉ会席と癒しの湯～",
-     "description": "Ryokan inn in Mogami.",
+     "description": "Ryokan inn in Mogami with hot-spring baths, karaoke, massage service, a banquet hall and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad304560/",
      "page": "https://bokenjapan.com/yamagata/mogami/stay/"
     },
@@ -3449,7 +3503,7 @@
      "name": "Magoroku",
      "name_en": "Magoroku",
      "name_ja": "瀬見温泉 四季の宿 まごろく",
-     "description": "Onsen lodging in Mogami.",
+     "description": "Onsen lodging in Mogami with hot-spring baths, massage service and a banquet hall.",
      "source_url": "https://www.jalan.net/yad335984/",
      "page": "https://bokenjapan.com/yamagata/mogami/stay/"
     }
@@ -3470,7 +3524,7 @@
     "address": "Murayama, Yamagata 995-8666",
     "phone": "0237-55-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Michi-no-Eki Murayama",
@@ -3579,6 +3633,15 @@
      "source_url": "https://tabelog.com/yamagata/A0605/A060502/6005816/",
      "page": "https://bokenjapan.com/yamagata/murayama/eat/european/",
      "category": "European"
+    },
+    {
+     "name": "Taishu Sakaba Aoba",
+     "name_en": "Taishu Sakaba Aoba",
+     "name_ja": "大衆酒場青葉",
+     "description": "Izakaya in Murayama.",
+     "source_url": "https://r.gnavi.co.jp/nj47x1790000/",
+     "page": "https://bokenjapan.com/yamagata/murayama/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
     },
     {
      "name": "Hitsujiya",
@@ -3780,7 +3843,7 @@
      "name": "Murayama Nishiguchi Hotel",
      "name_en": "Murayama Nishiguchi Hotel",
      "name_ja": "村山西口ホテル",
-     "description": "Hotel in Murayama.",
+     "description": "Hotel in Murayama with free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad353615/",
      "page": "https://bokenjapan.com/yamagata/murayama/stay/"
     }
@@ -3801,7 +3864,7 @@
     "address": "Nagai, Yamagata 993-8601",
     "phone": "0238-84-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Michi no Eki Kawano Minato Nagai",
@@ -4075,6 +4138,15 @@
      "category": "Other"
     },
     {
+     "name": "Sushi to Kisetsu no Aji Kiraku",
+     "name_en": "Sushi to Kisetsu no Aji Kiraku",
+     "name_ja": "鮨と季節の味 きらく",
+     "description": "Sushi restaurant in Nagai; open 11:30-13:30, closed Mondays, 30 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000293524/",
+     "page": "https://bokenjapan.com/yamagata/nagai/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Saitofu-ya",
      "name_en": "Saitofu-ya",
      "name_ja": "斎藤麸屋",
@@ -4132,7 +4204,7 @@
      "name": "Taspark Hotel",
      "name_en": "Taspark Hotel",
      "name_ja": "タスパークホテル",
-     "description": "Hotel in Nagai.",
+     "description": "Hotel in Nagai with bicycle rental, massage service, a banquet hall, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad310015/",
      "page": "https://bokenjapan.com/yamagata/nagai/stay/"
     },
@@ -4140,7 +4212,7 @@
      "name": "Unohana Onsen Hagi-en",
      "name_en": "Unohana Onsen Hagi-en",
      "name_ja": "卯の花温泉 はぎ苑",
-     "description": "Onsen lodging in Nagai.",
+     "description": "Onsen lodging in Nagai with hot-spring baths, barbecue facilities, massage service, a banquet hall, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad378796/",
      "page": "https://bokenjapan.com/yamagata/nagai/stay/"
     }
@@ -4161,7 +4233,7 @@
     "address": "Nakayama, Yamagata 990-0492",
     "phone": "023-662-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "7-Eleven Nakayama Aoba branch",
@@ -4529,7 +4601,7 @@
      "name": "Himawari Onsen Yurara",
      "name_en": "Himawari Onsen Yurara",
      "name_ja": "ひまわり温泉ゆ・ら・ら",
-     "description": "Onsen lodging in Nakayama.",
+     "description": "Onsen lodging in Nakayama with hot-spring baths, karaoke, a banquet hall, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad369166/",
      "page": "https://bokenjapan.com/yamagata/nakayama/stay/"
     }
@@ -4550,7 +4622,7 @@
     "address": "Nanyo, Yamagata 999-2292",
     "phone": "0238-40-3211"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Sakai Winery",
@@ -4632,6 +4704,15 @@
      "name_ja": "旨いとんかつ竹亭 宮内店",
      "description": "Tonkatsu restaurant in Nanyo, Yamagata.",
      "source_url": "https://tabelog.com/yamagata/A0602/A060202/6000283/",
+     "page": "https://bokenjapan.com/yamagata/nanyo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Ramuen",
+     "name_en": "Ramuen",
+     "name_ja": "ラム苑",
+     "description": "Yakiniku (grilled meat) restaurant in Nanyo; open 17:30-23:00, 28 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ003941884/",
      "page": "https://bokenjapan.com/yamagata/nanyo/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -4771,6 +4852,15 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Kaisen Sumiyaki Maruki",
+     "name_en": "Kaisen Sumiyaki Maruki",
+     "name_ja": "海鮮炭焼まるき",
+     "description": "Seafood restaurant in Nanyo; open 17:30-23:00, closed Wednesdays, 7 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ001295456/",
+     "page": "https://bokenjapan.com/yamagata/nanyo/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Gelato En",
      "name_en": "Gelato En",
      "name_ja": "ジェラート エン",
@@ -4822,7 +4912,7 @@
      "name": "Itoya Ryokan",
      "name_en": "Itoya Ryokan",
      "name_ja": "熊野大社の麓 地酒と肴で「緑」を繋ぐ宿 いとや旅館",
-     "description": "Ryokan inn in Nanyo.",
+     "description": "Ryokan inn in Nanyo with free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad380300/",
      "page": "https://bokenjapan.com/yamagata/nanyo/stay/"
     },
@@ -4830,7 +4920,7 @@
      "name": "Akayu Onsen Bijutsu-kan Noyona Yado Ryokan Yamato-ya",
      "name_en": "Akayu Onsen Bijutsu-kan Noyona Yado Ryokan Yamato-ya",
      "name_ja": "赤湯温泉 美術館のような宿 旅館大和屋",
-     "description": "Ryokan inn in Nanyo.",
+     "description": "Ryokan inn in Nanyo with hot-spring baths, massage service, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad360722/",
      "page": "https://bokenjapan.com/yamagata/nanyo/stay/"
     },
@@ -4838,7 +4928,7 @@
      "name": "Tanba-kan",
      "name_en": "Tanba-kan",
      "name_ja": "赤湯温泉 大正ロマン香る癒しの宿 丹波館",
-     "description": "Onsen lodging in Nanyo.",
+     "description": "Onsen lodging in Nanyo with hot-spring baths, bicycle rental, massage service, a banquet hall, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad374115/",
      "page": "https://bokenjapan.com/yamagata/nanyo/stay/"
     },
@@ -4846,7 +4936,7 @@
      "name": "Akayu Onsen Edo Jidai Chuki Sogyo no Retro Yado Ryokan Omoji-ya",
      "name_en": "Akayu Onsen Edo Jidai Chuki Sogyo no Retro Yado Ryokan Omoji-ya",
      "name_ja": "赤湯温泉 江戸時代中期創業のレトロ宿 旅館大文字屋",
-     "description": "Ryokan inn in Nanyo.",
+     "description": "Ryokan inn in Nanyo with hot-spring baths, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad330184/",
      "page": "https://bokenjapan.com/yamagata/nanyo/stay/"
     },
@@ -4854,7 +4944,7 @@
      "name": "Akayu Onsen Mutsumi-so",
      "name_en": "Akayu Onsen Mutsumi-so",
      "name_ja": "赤湯温泉 むつみ荘",
-     "description": "Onsen lodging in Nanyo.",
+     "description": "Onsen lodging in Nanyo with hot-spring baths, a lounge, karaoke, a banquet hall, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad388482/",
      "page": "https://bokenjapan.com/yamagata/nanyo/stay/"
     },
@@ -4862,7 +4952,7 @@
      "name": "Akayu Onsen Tanizumi Hotel",
      "name_en": "Akayu Onsen Tanizumi Hotel",
      "name_ja": "赤湯温泉 丹泉ホテル",
-     "description": "Hotel in Nanyo.",
+     "description": "Hotel in Nanyo with hot-spring baths, a lounge, massage service, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad380193/",
      "page": "https://bokenjapan.com/yamagata/nanyo/stay/"
     }
@@ -4883,7 +4973,7 @@
     "address": "Nishikawa, Yamagata 990-0792",
     "phone": "0237-74-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside station Nishikawa",
@@ -5137,7 +5227,7 @@
      "name": "Minshuku Hashimoto-so",
      "name_en": "Minshuku Hashimoto-so",
      "name_ja": "民宿橋本荘",
-     "description": "Guesthouse (minshuku) in Nishikawa.",
+     "description": "Guesthouse (minshuku) in Nishikawa with free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad301638/",
      "page": "https://bokenjapan.com/yamagata/nishikawa/stay/"
     },
@@ -5145,7 +5235,7 @@
      "name": "Gassan Shizu Onsen Ryokan Sendai-ya",
      "name_en": "Gassan Shizu Onsen Ryokan Sendai-ya",
      "name_ja": "月山志津温泉 旅館仙台屋",
-     "description": "Ryokan inn in Nishikawa.",
+     "description": "Ryokan inn in Nishikawa with hot-spring baths, massage service, fishing and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad311635/",
      "page": "https://bokenjapan.com/yamagata/nishikawa/stay/"
     }
@@ -5166,7 +5256,7 @@
     "address": "Obanazawa, Yamagata 999-4292",
     "phone": "0237-22-1111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Michi-no-Eki Obanazawa",
@@ -5413,7 +5503,7 @@
      "name": "Ryokan Matsumoto",
      "name_en": "Ryokan Matsumoto",
      "name_ja": "旅館 松本",
-     "description": "Ryokan inn in Obanazawa.",
+     "description": "Ryokan inn in Obanazawa with hot-spring baths and massage service.",
      "source_url": "https://www.jalan.net/yad313120/",
      "page": "https://bokenjapan.com/yamagata/obanazawa/stay/"
     },
@@ -5421,7 +5511,7 @@
      "name": "Ginzan Onsen Furuzeikiya Bekkan",
      "name_en": "Ginzan Onsen Furuzeikiya Bekkan",
      "name_ja": "銀山温泉 古勢起屋別館",
-     "description": "Onsen lodging in Obanazawa.",
+     "description": "Onsen lodging in Obanazawa with hot-spring baths, a lounge and massage service.",
      "source_url": "https://www.jalan.net/yad373763/",
      "page": "https://bokenjapan.com/yamagata/obanazawa/stay/"
     },
@@ -5429,7 +5519,7 @@
      "name": "Ginzan Onsen Ryokan Nagasawa Heihachi",
      "name_en": "Ginzan Onsen Ryokan Nagasawa Heihachi",
      "name_ja": "銀山温泉 旅館 永澤平八",
-     "description": "Ryokan inn in Obanazawa.",
+     "description": "Ryokan inn in Obanazawa with hot-spring baths, massage service and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad319755/",
      "page": "https://bokenjapan.com/yamagata/obanazawa/stay/"
     },
@@ -5437,7 +5527,7 @@
      "name": "Ginzan Onsen Onjuku Yanada-ya",
      "name_en": "Ginzan Onsen Onjuku Yanada-ya",
      "name_ja": "銀山温泉 御宿 やなだ屋",
-     "description": "Onsen lodging in Obanazawa.",
+     "description": "Onsen lodging in Obanazawa with hot-spring baths, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad380332/",
      "page": "https://bokenjapan.com/yamagata/obanazawa/stay/"
     },
@@ -5445,7 +5535,7 @@
      "name": "Notoya Ryokan",
      "name_en": "Notoya Ryokan",
      "name_ja": "能登屋旅館",
-     "description": "Ryokan inn in Obanazawa.",
+     "description": "Ryokan inn in Obanazawa with hot-spring baths.",
      "source_url": "https://www.jalan.net/yad321441/",
      "page": "https://bokenjapan.com/yamagata/obanazawa/stay/"
     }
@@ -5466,7 +5556,7 @@
     "address": "Oe, Yamagata 990-1101",
     "phone": "0237-62-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Michi-no-Eki Oe",
@@ -5800,7 +5890,7 @@
     "address": "Oguni, Yamagata 999-1363",
     "phone": "0238-62-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside station Shiroimori-oguni",
@@ -6129,7 +6219,7 @@
      "name": "Hotel Forest Echo",
      "name_en": "Hotel Forest Echo",
      "name_ja": "ホテルフォレストエコー",
-     "description": "Hotel in Oguni.",
+     "description": "Hotel in Oguni with free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad399065/",
      "page": "https://bokenjapan.com/yamagata/oguni/stay/"
     },
@@ -6137,7 +6227,7 @@
      "name": "Baikakawa-so",
      "name_en": "Baikakawa-so",
      "name_ja": "梅花皮荘",
-     "description": "Lodge in Oguni.",
+     "description": "Lodge in Oguni with hot-spring baths, karaoke and a banquet hall.",
      "source_url": "https://www.jalan.net/yad377594/",
      "page": "https://bokenjapan.com/yamagata/oguni/stay/"
     }
@@ -6158,7 +6248,7 @@
     "address": "Ohkura, Yamagata 996-0212",
     "phone": "0233-75-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Hijiori Meibutsu Hijiori Asaichi",
@@ -6455,7 +6545,7 @@
     "address": "Oishida, Yamagata 999-4112",
     "phone": "0237-35-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Kita-Oishida Station",
@@ -6832,7 +6922,7 @@
      "name": "Mogamiya Ryokan",
      "name_en": "Mogamiya Ryokan",
      "name_ja": "最上屋旅館",
-     "description": "Ryokan inn in Oishida.",
+     "description": "Ryokan inn in Oishida with bicycle rental, a banquet hall, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad369254/",
      "page": "https://bokenjapan.com/yamagata/oishida/stay/"
     }
@@ -6853,7 +6943,7 @@
     "address": "Sagae, Yamagata 991-8601",
     "phone": "0237-86-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside station Sagae",
@@ -7002,6 +7092,15 @@
      "category": "Casual"
     },
     {
+     "name": "Dining Kishu",
+     "name_en": "Dining Kishu",
+     "name_ja": "ダイニング きしゅう",
+     "description": "Izakaya in Sagae.",
+     "source_url": "https://r.gnavi.co.jp/bu39xkvg0000/",
+     "page": "https://bokenjapan.com/yamagata/sagae/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Yakiniku Meisho Yamaushi",
      "name_en": "Yakiniku Meisho Yamaushi",
      "name_ja": "焼肉名匠 山牛",
@@ -7025,6 +7124,15 @@
      "name_ja": "そば焼肉ふくろう",
      "description": "Yakiniku (grilled meat) restaurant in Sagae, Yamagata.",
      "source_url": "https://tabelog.com/yamagata/A0605/A060504/6001541/",
+     "page": "https://bokenjapan.com/yamagata/sagae/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Danran Sajiro",
+     "name_en": "Yakiniku Danran Sajiro",
+     "name_ja": "焼肉団欒さじろ",
+     "description": "Yakiniku (grilled meat) restaurant in Sagae.",
+     "source_url": "https://r.gnavi.co.jp/bcf62fn90000/",
      "page": "https://bokenjapan.com/yamagata/sagae/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -7137,11 +7245,47 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Echigo Hizomen Mujinzo Sagaeya",
+     "name_en": "Echigo Hizomen Mujinzo Sagaeya",
+     "name_ja": "越後秘蔵麺 無尽蔵 寒河江家",
+     "description": "Ramen shop in Sagae.",
+     "source_url": "https://r.gnavi.co.jp/9fwr4rr00000/",
+     "page": "https://bokenjapan.com/yamagata/sagae/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Soba to Aburi Warakuhonokura",
+     "name_en": "Soba to Aburi Warakuhonokura",
+     "name_ja": "蕎麦と炙り 和楽焔蔵",
+     "description": "Soba restaurant in Sagae.",
+     "source_url": "https://r.gnavi.co.jp/jh2906f80000/",
+     "page": "https://bokenjapan.com/yamagata/sagae/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Nodogoshi Sawayaka Towari Soba Miyamatei",
+     "name_en": "Nodogoshi Sawayaka Towari Soba Miyamatei",
+     "name_ja": "のどごし爽やか十割蕎麦 みやま亭",
+     "description": "Soba restaurant in Sagae; open 11:00-14:00, closed Mondays and Tuesdays, 72 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ003302013/",
+     "page": "https://bokenjapan.com/yamagata/sagae/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
      "name": "Cherry Land Sagae",
      "name_en": "Cherry Land Sagae",
      "name_ja": "チェリーランドさがえ",
      "description": "Roadside-station eatery in Sagae, Yamagata.",
      "source_url": "https://tabelog.com/yamagata/A0605/A060504/6000749/",
+     "page": "https://bokenjapan.com/yamagata/sagae/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Restaurant Takano",
+     "name_en": "Restaurant Takano",
+     "name_ja": "Restaurant TAKANO（レストラン タカノ）",
+     "description": "French restaurant in Sagae, open since 1993, also taking orders for French bento boxes.",
+     "source_url": "https://r.gnavi.co.jp/t117600/",
      "page": "https://bokenjapan.com/yamagata/sagae/eat/other/",
      "category": "Other"
     },
@@ -7160,6 +7304,15 @@
      "name_ja": "パリから来た和",
      "description": "Creative-cuisine restaurant in Sagae, Yamagata.",
      "source_url": "https://tabelog.com/yamagata/A0605/A060504/6008955/",
+     "page": "https://bokenjapan.com/yamagata/sagae/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Yumechubo Higashimon",
+     "name_en": "Yumechubo Higashimon",
+     "name_ja": "夢厨房 東門",
+     "description": "Japanese restaurant in Sagae; open 11:30-14:00, closed Mondays, Tuesdays and Sundays, 130 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ003516343/",
      "page": "https://bokenjapan.com/yamagata/sagae/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -7219,7 +7372,7 @@
      "name": "Kappo Ryokan Yoshimoto",
      "name_en": "Kappo Ryokan Yoshimoto",
      "name_ja": "割烹旅館 吉本",
-     "description": "Ryokan inn in Sagae.",
+     "description": "Ryokan inn in Sagae with hot-spring baths and free parking.",
      "source_url": "https://www.jalan.net/yad346350/",
      "page": "https://bokenjapan.com/yamagata/sagae/stay/"
     },
@@ -7227,7 +7380,7 @@
      "name": "Hotel Symphony Main Building",
      "name_en": "Hotel Symphony Main Building",
      "name_ja": "美人の湯 寒河江温泉 ホテルシンフォニー本館",
-     "description": "Hotel in Sagae.",
+     "description": "Hotel in Sagae with hot-spring baths, a lounge, bicycle rental, karaoke, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad313413/",
      "page": "https://bokenjapan.com/yamagata/sagae/stay/"
     },
@@ -7235,7 +7388,7 @@
      "name": "Cherry Park Hotel",
      "name_en": "Cherry Park Hotel",
      "name_ja": "チェリーパークホテル",
-     "description": "Hotel in Sagae.",
+     "description": "Hotel in Sagae with hot-spring baths, karaoke, massage service, a banquet hall, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad350618/",
      "page": "https://bokenjapan.com/yamagata/sagae/stay/"
     },
@@ -7243,7 +7396,7 @@
      "name": "Hotel Symphony Annex",
      "name_en": "Hotel Symphony Annex",
      "name_ja": "ホテルシンフォニーアネックス",
-     "description": "Hotel in Sagae.",
+     "description": "Hotel in Sagae with hot-spring baths, bicycle rental, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad372576/",
      "page": "https://bokenjapan.com/yamagata/sagae/stay/"
     }
@@ -7264,7 +7417,7 @@
     "address": "Sakata, Yamagata 998-8540",
     "phone": "0234-22-5111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Sakata Seafood Market",
@@ -7350,6 +7503,51 @@
      "category": "Cafe"
     },
     {
+     "name": "Kissa Mind",
+     "name_en": "Kissa Mind",
+     "name_ja": "喫茶マインド",
+     "description": "Cafe in Sakata; open 10:00-19:00, irregular closing days, 30 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ001101143/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Teppanyaki Okonomiyaki Kagura",
+     "name_en": "Teppanyaki Okonomiyaki Kagura",
+     "name_ja": "鉄板焼 お好み焼き 神楽",
+     "description": "Okonomiyaki restaurant in Sakata.",
+     "source_url": "https://r.gnavi.co.jp/bp7ekucf0000/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Chuka Hanten Koran",
+     "name_en": "Chuka Hanten Koran",
+     "name_ja": "中華飯店 紅蘭",
+     "description": "Chinese restaurant in Sakata, about 10 min by car from Sakata Station; open 11:00-14:00, irregular closing days, 100 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ001070204/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Thai Restaurant Saphan Mai",
+     "name_en": "Thai Restaurant Saphan Mai",
+     "name_ja": "タイレストラン サパーンマイ",
+     "description": "Asian restaurant in Sakata, about 5 min by car from Sakata Station; open 11:00-14:00, closed Sundays, 18 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ001280469/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
+     "name": "Shuka Chikara Sakata",
+     "name_en": "Shuka Chikara Sakata",
+     "name_ja": "酒家力 酒田店",
+     "description": "Chinese restaurant in Sakata, about 20 min on foot from Sakata Station; open 17:00-23:59, 24 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000778326/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Ｎico",
      "name_en": "N Ico",
      "description": "French restaurant in Sakata, Yamagata.",
@@ -7375,11 +7573,65 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "Korean Home Cooking Izakaya Ondoru",
+     "name_en": "Korean Home Cooking Izakaya Ondoru",
+     "name_ja": "韓国家庭料理居酒屋 おんどる",
+     "description": "Izakaya in Sakata, about 15 min on foot from Sakata Station; open 17:00-1:30, irregular closing days, 30 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ001101108/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Hamayaki Kaisen Izakaya Daisho Suisan Sakata",
+     "name_en": "Hamayaki Kaisen Izakaya Daisho Suisan Sakata",
+     "name_ja": "浜焼き海鮮居酒屋 大庄水産 酒田店",
+     "description": "Izakaya in Sakata.",
+     "source_url": "https://r.gnavi.co.jp/j6n959hj0000/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "All Day Dining Tsuki no Michi",
+     "name_en": "All Day Dining Tsuki no Michi",
+     "name_ja": "オールデイダイニング 月のみち",
+     "description": "Izakaya in Sakata, about 1 min on foot from Sakata Station.",
+     "source_url": "https://r.gnavi.co.jp/faxe34h70000/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Watari main branch",
      "name_en": "Watari main branch",
      "name_ja": "わたり 本店",
      "description": "Tonkatsu restaurant in Sakata, Yamagata.",
      "source_url": "https://tabelog.com/yamagata/A0603/A060301/6003670/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Suien Mizuho",
+     "name_en": "Yakiniku Suien Mizuho",
+     "name_ja": "焼肉翠苑みずほ店",
+     "description": "Yakiniku (grilled meat) restaurant in Sakata, about 15 min by car from Sakata Station; open 11:30-14:00, 36 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000289352/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Yakiniku Shabu-shabu Hiraboku",
+     "name_en": "Yakiniku Shabu-shabu Hiraboku",
+     "name_ja": "焼肉 しゃぶしゃぶ 平田牧場",
+     "description": "Yakiniku (grilled meat) restaurant in Sakata.",
+     "source_url": "https://r.gnavi.co.jp/t104800/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Shonai Horumon Sakata",
+     "name_en": "Shonai Horumon Sakata",
+     "name_ja": "庄内ホルモン 酒田店",
+     "description": "Yakiniku (grilled meat) restaurant in Sakata.",
+     "source_url": "https://r.gnavi.co.jp/2h1sbexe0000/",
      "page": "https://bokenjapan.com/yamagata/sakata/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -7483,11 +7735,92 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Ramen-ya Desu",
+     "name_en": "Ramen-ya Desu",
+     "name_ja": "らーめん屋です",
+     "description": "Ramen shop in Sakata; open 11:00-20:30, closed Thursdays, 35 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000289061/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Osen Soba",
+     "name_en": "Osen Soba",
+     "name_ja": "おせんそば",
+     "description": "Soba restaurant in Sakata; open 11:30-14:00, closed Wednesdays, Mondays, Tuesdays and Sundays, 28 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000289488/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Ajiyoshi Ekihigashi",
+     "name_en": "Ajiyoshi Ekihigashi",
+     "name_ja": "味好 駅東店",
+     "description": "Ramen shop in Sakata, about 3 min on foot from Sakata Station; open 11:30-15:00, closed Tuesdays, 35 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000289186/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Sennichido Soba-ya",
+     "name_en": "Sennichido Soba-ya",
+     "name_ja": "千日堂 そば屋",
+     "description": "Soba restaurant in Sakata, about 28 min on foot from Sakata Station; open 10:00-19:00, irregular closing days, 45 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000289589/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Udon Ichi Sakata",
+     "name_en": "Udon Ichi Sakata",
+     "name_ja": "うどん市 酒田店",
+     "description": "Udon restaurant in Sakata, about 10 min by car from Sakata Station; open 11:00-14:30, irregular closing days, 47 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000289211/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Tetote Nakamachi x Very Very Soup",
+     "name_en": "Tetote Nakamachi x Very Very Soup",
+     "name_ja": "てとて中町×ベリーベリースープ",
+     "description": "Cafe in Sakata's Nakamachi area serving a changing range of hearty soups from the specialist soup shop Very Very Soup.",
+     "source_url": "https://r.gnavi.co.jp/je9ub3yn0000/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Junaji Izutsu",
      "name_en": "Junaji Izutsu",
      "name_ja": "旬味 井筒",
      "description": "Local-cuisine restaurant in Sakata, Yamagata.",
      "source_url": "https://tabelog.com/yamagata/A0603/A060301/6000707/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Minato Ichiba Komatsu Tuna Specialty Shop",
+     "name_en": "Minato Ichiba Komatsu Tuna Specialty Shop",
+     "name_ja": "みなと市場小松まぐろ専門店",
+     "description": "Japanese restaurant in Sakata, about 11 min by car from Sakata Station; open 9:00-18:00, closed Wednesdays, 28 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ001090582/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shoseki Omatsuya",
+     "name_en": "Shoseki Omatsuya",
+     "name_ja": "生石 大松家",
+     "description": "Japanese restaurant in Sakata; open 11:30-15:00, closed Tuesdays, 50 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000289738/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Sushidokoro Kuidoraku",
+     "name_en": "Sushidokoro Kuidoraku",
+     "name_ja": "寿し処喰道楽",
+     "description": "Japanese restaurant in Sakata, about 10 min by car from Sakata Station; open 17:30-22:00, 25 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ003299011/",
      "page": "https://bokenjapan.com/yamagata/sakata/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -7542,6 +7875,24 @@
      "name_ja": "寿司・割烹 鈴政",
      "description": "Sushi restaurant in Sakata, Yamagata.",
      "source_url": "https://tabelog.com/yamagata/A0603/A060301/6000447/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Daruma Sushi",
+     "name_en": "Daruma Sushi",
+     "name_ja": "だるま寿司",
+     "description": "Sushi restaurant in Sakata, about 15 min on foot from Sakata Station; open 11:30-14:00, irregular closing days, 200 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000101464/",
+     "page": "https://bokenjapan.com/yamagata/sakata/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushidokoro Ebisu",
+     "name_en": "Sushidokoro Ebisu",
+     "name_ja": "鮨処えびす",
+     "description": "Sushi restaurant in Sakata; open 17:00-22:00, closed Mondays, 22 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ004067278/",
      "page": "https://bokenjapan.com/yamagata/sakata/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -7618,7 +7969,7 @@
      "name": "Wakaba Ryokan",
      "name_en": "Wakaba Ryokan",
      "name_ja": "若葉旅館",
-     "description": "Ryokan inn in Sakata.",
+     "description": "Ryokan inn in Sakata with a lounge, bicycle rental, massage service, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad348198/",
      "page": "https://bokenjapan.com/yamagata/sakata/stay/"
     },
@@ -7626,7 +7977,7 @@
      "name": "Jizo no Yu Ryokan",
      "name_en": "Jizo no Yu Ryokan",
      "name_ja": "地蔵の湯旅館",
-     "description": "Ryokan inn in Sakata.",
+     "description": "Ryokan inn in Sakata with massage service, fishing, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad366456/",
      "page": "https://bokenjapan.com/yamagata/sakata/stay/"
     },
@@ -7634,7 +7985,7 @@
      "name": "Sakata Green Hotel",
      "name_en": "Sakata Green Hotel",
      "name_ja": "酒田グリーンホテル",
-     "description": "Hotel in Sakata.",
+     "description": "Hotel in Sakata with free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad396354/",
      "page": "https://bokenjapan.com/yamagata/sakata/stay/"
     },
@@ -7642,7 +7993,7 @@
      "name": "Mogamiya Ryokan",
      "name_en": "Mogamiya Ryokan",
      "name_ja": "最上屋旅館",
-     "description": "Ryokan inn in Sakata.",
+     "description": "Ryokan inn in Sakata with free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad313315/",
      "page": "https://bokenjapan.com/yamagata/sakata/stay/"
     },
@@ -7650,7 +8001,7 @@
      "name": "Tabino Hotel lit Sakata",
      "name_en": "Tabino Hotel lit Sakata",
      "name_ja": "たびのホテルlit酒田",
-     "description": "Hotel in Sakata.",
+     "description": "Hotel in Sakata with free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad353858/",
      "page": "https://bokenjapan.com/yamagata/sakata/stay/"
     },
@@ -7658,7 +8009,7 @@
      "name": "Sakata Station Hotel",
      "name_en": "Sakata Station Hotel",
      "name_ja": "酒田ステーションホテル",
-     "description": "Hotel in Sakata.",
+     "description": "Hotel in Sakata with a lounge and parking.",
      "source_url": "https://www.jalan.net/yad306568/",
      "page": "https://bokenjapan.com/yamagata/sakata/stay/"
     },
@@ -7666,7 +8017,7 @@
      "name": "Hiyoriyama Hotel",
      "name_en": "Hiyoriyama Hotel",
      "name_ja": "日和山ホテル",
-     "description": "Hotel in Sakata.",
+     "description": "Hotel in Sakata with free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad329156/",
      "page": "https://bokenjapan.com/yamagata/sakata/stay/"
     }
@@ -7687,7 +8038,7 @@
     "address": "Sakegawa, Yamagata 999-5292",
     "phone": "0233-55-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Uzen-Toyosato Station",
@@ -7871,7 +8222,7 @@
      "name": "Bishin no Yu Matsuba-so",
      "name_en": "Bishin no Yu Matsuba-so",
      "name_ja": "美神の湯 松葉荘",
-     "description": "Lodge in Sakegawa.",
+     "description": "Lodge in Sakegawa with hot-spring baths, a banquet hall and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad373744/",
      "page": "https://bokenjapan.com/yamagata/sakegawa/stay/"
     },
@@ -7879,7 +8230,7 @@
      "name": "Katoya Ryokan",
      "name_en": "Katoya Ryokan",
      "name_ja": "加登屋旅館",
-     "description": "Ryokan inn in Sakegawa.",
+     "description": "Ryokan inn in Sakegawa with hot-spring baths, fishing and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad398039/",
      "page": "https://bokenjapan.com/yamagata/sakegawa/stay/"
     }
@@ -7900,7 +8251,7 @@
     "address": "Shinjo, Yamagata 996-8501",
     "phone": "0233-22-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Minami-Shinjo Station",
@@ -8024,6 +8375,24 @@
      "name_ja": "おでんと日本酒 はとり",
      "description": "Izakaya in Shinjo, Yamagata.",
      "source_url": "https://tabelog.com/yamagata/A0604/A060401/6010996/",
+     "page": "https://bokenjapan.com/yamagata/shinjo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kyushu Ryori Tori Sumibiyaki Kamifusen Shinjo Nishiguchi Ekimae",
+     "name_en": "Kyushu Ryori Tori Sumibiyaki Kamifusen Shinjo Nishiguchi Ekimae",
+     "name_ja": "九州料理 鶏炭火焼 かみふうせん 新庄西口駅前店",
+     "description": "Izakaya in Shinjo.",
+     "source_url": "https://r.gnavi.co.jp/9ckx74pc0000/",
+     "page": "https://bokenjapan.com/yamagata/shinjo/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Nomidokoro Honoakari",
+     "name_en": "Nomidokoro Honoakari",
+     "name_ja": "呑み処 ほのあかり",
+     "description": "Izakaya in Shinjo.",
+     "source_url": "https://r.gnavi.co.jp/1b8xb4570000/",
      "page": "https://bokenjapan.com/yamagata/shinjo/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -8190,6 +8559,15 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Kappo Toriya",
+     "name_en": "Kappo Toriya",
+     "name_ja": "割烹とりや",
+     "description": "Japanese restaurant in Shinjo.",
+     "source_url": "https://r.gnavi.co.jp/pruz0xcj0000/",
+     "page": "https://bokenjapan.com/yamagata/shinjo/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Mogami Bussan-kan",
      "name_en": "Mogami Bussan-kan",
      "name_ja": "もがみ物産館",
@@ -8229,7 +8607,7 @@
      "name": "New Grand Hotel",
      "name_en": "New Grand Hotel",
      "name_ja": "ニューグランドホテル",
-     "description": "Hotel in Shinjo.",
+     "description": "Hotel in Shinjo with a banquet hall, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad320576/",
      "page": "https://bokenjapan.com/yamagata/shinjo/stay/"
     }
@@ -8250,7 +8628,7 @@
     "address": "Shirataka, Yamagata 992-0892",
     "phone": "0238-85-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside station Shirataka-yanakoen",
@@ -8513,7 +8891,7 @@
      "name": "Takanoyu Onsen Palace Shofu",
      "name_en": "Takanoyu Onsen Palace Shofu",
      "name_ja": "鷹野湯温泉 パレス松風",
-     "description": "Onsen lodging in Shirataka.",
+     "description": "Onsen lodging in Shirataka with hot-spring baths, barbecue facilities, massage service, a banquet hall, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad309152/",
      "page": "https://bokenjapan.com/yamagata/shirataka/stay/"
     }
@@ -8534,7 +8912,7 @@
     "address": "Shonai, Yamagata 999-7781",
     "phone": "0234-43-2211"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside station Shonai",
@@ -8912,7 +9290,7 @@
     "address": "Takahata, Yamagata 992-0392",
     "phone": "0238-52-1111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside station Takahata",
@@ -9245,7 +9623,7 @@
      "name": "Hotel Folkloro Takahata",
      "name_en": "Hotel Folkloro Takahata",
      "name_ja": "ホテル フォルクローロ高畠＜JR東日本ホテルズ＞",
-     "description": "Hotel in Takahata.",
+     "description": "Hotel in Takahata with free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad318885/",
      "page": "https://bokenjapan.com/yamagata/takahata/stay/"
     },
@@ -9253,7 +9631,7 @@
      "name": "Business Takahata Ekimae Hotel",
      "name_en": "Business Takahata Ekimae Hotel",
      "name_ja": "ビジネス たかはた駅前ホテル",
-     "description": "Hotel in Takahata.",
+     "description": "Hotel in Takahata with a lounge, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad394672/",
      "page": "https://bokenjapan.com/yamagata/takahata/stay/"
     }
@@ -9274,7 +9652,7 @@
     "address": "Tendo, Yamagata 994-8510",
     "phone": "023-654-1111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside station Tendoonsen",
@@ -9332,6 +9710,24 @@
      "category": "Cafe"
     },
     {
+     "name": "Kikusuian Tendo",
+     "name_en": "Kikusuian Tendo",
+     "name_ja": "喜久水庵 天童店",
+     "description": "Cafe in Tendo, about 7 min on foot from Tendo-minami Station; open 10:00-21:00, 10 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ002648494/",
+     "page": "https://bokenjapan.com/yamagata/tendo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Chobina",
+     "name_en": "Chobina",
+     "name_ja": "腸美菜",
+     "description": "Cafe in Tendo, about 5 min on foot from Tendo-minami Station; open 11:00-16:00, closed Mondays and Sundays, 20 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ003750002/",
+     "page": "https://bokenjapan.com/yamagata/tendo/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Meshi Kirikiri",
      "name_en": "Meshi Kirikiri",
      "name_ja": "飯 吉里吉里",
@@ -9359,6 +9755,15 @@
      "category": "Chinese & Asian"
     },
     {
+     "name": "KUNI'S Tendo",
+     "name_en": "KUNI'S Tendo",
+     "name_ja": "KUNI'S天童店",
+     "description": "Western-style restaurant in Tendo, about 5 min on foot from Tendo-minami Station; open 10:00-21:00, 200 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ001211823/",
+     "page": "https://bokenjapan.com/yamagata/tendo/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Izakaya Takara",
      "name_en": "Izakaya Takara",
      "name_ja": "居酒屋 宝",
@@ -9382,6 +9787,33 @@
      "name_ja": "一保堂",
      "description": "Tonkatsu restaurant in Tendo, Yamagata.",
      "source_url": "https://tabelog.com/yamagata/A0605/A060501/6005128/",
+     "page": "https://bokenjapan.com/yamagata/tendo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Taishu Yakiniku Sakaba Kemusuke Tendo",
+     "name_en": "Taishu Yakiniku Sakaba Kemusuke Tendo",
+     "name_ja": "大衆焼肉酒場けむすけ天童店",
+     "description": "Yakiniku (grilled meat) restaurant in Tendo, about 6 min by car from Tendo Station; open 17:30-0:00, closed Tuesdays and Sundays, 58 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ001261248/",
+     "page": "https://bokenjapan.com/yamagata/tendo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Osama no Yakiniku Kuronuma Tendo",
+     "name_en": "Osama no Yakiniku Kuronuma Tendo",
+     "name_ja": "王様の焼肉くろぬま 天童店",
+     "description": "Yakiniku (grilled meat) restaurant in Tendo.",
+     "source_url": "https://r.gnavi.co.jp/k2mstzxf0000/",
+     "page": "https://bokenjapan.com/yamagata/tendo/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Tonkatsu Sanshuya",
+     "name_en": "Tonkatsu Sanshuya",
+     "name_ja": "とんかつ 三州屋",
+     "description": "Tonkatsu restaurant in Tendo.",
+     "source_url": "https://r.gnavi.co.jp/n3a2eftv0000/",
      "page": "https://bokenjapan.com/yamagata/tendo/eat/meat/",
      "category": "Japanese (meat)"
     },
@@ -9465,6 +9897,33 @@
      "source_url": "https://tabelog.com/yamagata/A0605/A060501/6008008/",
      "page": "https://bokenjapan.com/yamagata/tendo/eat/other/",
      "category": "Other"
+    },
+    {
+     "name": "Chego Tendo",
+     "name_en": "Chego Tendo",
+     "name_ja": "チェゴ 天童店",
+     "description": "Korean barbecue restaurant in Tendo with private rooms and all-you-can-eat courses featuring samgyeopsal, sundubu stew and thick-cut beef tongue.",
+     "source_url": "https://r.gnavi.co.jp/48tyjfvm0000/",
+     "page": "https://bokenjapan.com/yamagata/tendo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Gyutan Sumiyaki Rikyu Tendo",
+     "name_en": "Gyutan Sumiyaki Rikyu Tendo",
+     "name_ja": "牛たん炭焼 利久 天童店",
+     "description": "Beef-tongue specialist in Tendo, a branch of the Sendai chain serving charcoal-grilled gyutan in the Sendai style.",
+     "source_url": "https://r.gnavi.co.jp/225xnxx20000/",
+     "page": "https://bokenjapan.com/yamagata/tendo/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Kappo Kogetsu",
+     "name_en": "Kappo Kogetsu",
+     "name_ja": "割烹 晃月",
+     "description": "Japanese restaurant in Tendo; open 11:30-14:00, irregular closing days, 140 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ004089316/",
+     "page": "https://bokenjapan.com/yamagata/tendo/eat/other-japanese/",
+     "category": "Other Japanese"
     },
     {
      "name": "Koshikake-an",
@@ -9563,7 +10022,7 @@
      "name": "Hotel Pearl City Tendo",
      "name_en": "Hotel Pearl City Tendo",
      "name_ja": "ホテル パールシティ天童（HMIホテルグループ）",
-     "description": "Hotel in Tendo.",
+     "description": "Hotel in Tendo with massage service, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad316466/",
      "page": "https://bokenjapan.com/yamagata/tendo/stay/"
     },
@@ -9571,7 +10030,7 @@
      "name": "Business Hotel Izukura",
      "name_en": "Business Hotel Izukura",
      "name_ja": "ビジネスホテルいずくら",
-     "description": "Hotel in Tendo.",
+     "description": "Hotel in Tendo with free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad357952/",
      "page": "https://bokenjapan.com/yamagata/tendo/stay/"
     },
@@ -9579,7 +10038,7 @@
      "name": "Tendo Hotel",
      "name_en": "Tendo Hotel",
      "name_ja": "美味求真の宿 天童ホテル",
-     "description": "Hotel in Tendo.",
+     "description": "Hotel in Tendo with hot-spring baths, a lounge, bicycle rental, karaoke and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad352092/",
      "page": "https://bokenjapan.com/yamagata/tendo/stay/"
     },
@@ -9587,7 +10046,7 @@
      "name": "Hotel View Kuroda",
      "name_en": "Hotel View Kuroda",
      "name_ja": "ホテルビューくろだ",
-     "description": "Hotel in Tendo.",
+     "description": "Hotel in Tendo with massage service, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad341068/",
      "page": "https://bokenjapan.com/yamagata/tendo/stay/"
     },
@@ -9595,7 +10054,7 @@
      "name": "Hotel Anda no Mori Yamagata Tendo branch",
      "name_en": "Hotel Anda no Mori Yamagata Tendo branch",
      "name_ja": "ホテル アンダの森 山形天童店",
-     "description": "Hotel in Tendo.",
+     "description": "Hotel in Tendo with hot-spring baths, a lounge, bicycle rental, karaoke and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad375989/",
      "page": "https://bokenjapan.com/yamagata/tendo/stay/"
     },
@@ -9603,7 +10062,7 @@
      "name": "Tendo Onsen Yu no Kaorimatsu no Yu",
      "name_en": "Tendo Onsen Yu no Kaorimatsu no Yu",
      "name_ja": "天童温泉 湯の香松の湯",
-     "description": "Onsen lodging in Tendo.",
+     "description": "Onsen lodging in Tendo with hot-spring baths and massage service.",
      "source_url": "https://www.jalan.net/yad329978/",
      "page": "https://bokenjapan.com/yamagata/tendo/stay/"
     },
@@ -9611,7 +10070,7 @@
      "name": "Tendo Central Hotel",
      "name_en": "Tendo Central Hotel",
      "name_ja": "天童セントラルホテル",
-     "description": "Hotel in Tendo.",
+     "description": "Hotel in Tendo with massage service, a banquet hall, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad324795/",
      "page": "https://bokenjapan.com/yamagata/tendo/stay/"
     }
@@ -9632,7 +10091,7 @@
     "address": "Tozawa, Yamagata 999-6401",
     "phone": "0233-72-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Michi-no-Eki Tozawa",
@@ -9926,7 +10385,7 @@
     {
      "name": "R;MOGAMI",
      "name_en": "R;MOGAMI",
-     "name_ja": "Ｒ；ＭＯＧＡＭＩ",
+     "name_ja": "R;MOGAMI（アールモガミ）",
      "description": "Holiday lodging in Tozawa.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/187394/187394.html",
      "page": "https://bokenjapan.com/yamagata/tozawa/stay/"
@@ -9948,7 +10407,7 @@
     "address": "Tsuruoka, Yamagata 997-8601",
     "phone": "0235-25-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Roadside station Gassan",
@@ -10030,6 +10489,15 @@
      "category": "Cafe"
     },
     {
+     "name": "Ogawa En Cafe",
+     "name_en": "Ogawa En Cafe",
+     "name_ja": "ogawa en cafe（オガワエンカフェ）",
+     "description": "Cafe in Tsuruoka; open 11:00-18:00, closed Wednesdays, 25 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ004678004/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Midori Shokudo",
      "name_en": "Midori Shokudo",
      "name_ja": "みどり食堂",
@@ -10037,6 +10505,15 @@
      "source_url": "https://tabelog.com/yamagata/A0603/A060302/6003190/",
      "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/casual/",
      "category": "Casual"
+    },
+    {
+     "name": "Wa Teishoku Izakaya Sui",
+     "name_en": "Wa Teishoku Izakaya Sui",
+     "name_ja": "和定食 居酒家 翠",
+     "description": "Chinese restaurant in Tsuruoka, about 15 min by car from Tsuruoka Station; open 17:30-23:00, irregular closing days, 33 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ001001247/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/chinese-asian/",
+     "category": "Chinese & Asian"
     },
     {
      "name": "Al-che-cciano",
@@ -10064,6 +10541,78 @@
      "source_url": "https://tabelog.com/yamagata/A0603/A060302/6012471/",
      "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/izakaya-bars/",
      "category": "Izakaya & bars"
+    },
+    {
+     "name": "Shusai Hanabusa",
+     "name_en": "Shusai Hanabusa",
+     "name_ja": "酒彩 英",
+     "description": "Izakaya in Tsuruoka; open 11:30-14:00, 17 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000991690/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Irohanihoheto Tsuruoka Ekimae",
+     "name_en": "Irohanihoheto Tsuruoka Ekimae",
+     "name_ja": "いろはにほへと 鶴岡駅前店",
+     "description": "Izakaya in Tsuruoka, about 1 min on foot from Tsuruoka Station; open 16:00-23:00, open daily, 96 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000661821/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kobujiro",
+     "name_en": "Kobujiro",
+     "name_ja": "こぶじろう",
+     "description": "Izakaya in Tsuruoka; open 17:00-23:00, closed Wednesdays, 11 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ004444383/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Taishu Sakaba Yoppa",
+     "name_en": "Taishu Sakaba Yoppa",
+     "name_ja": "大衆酒場 酔っぱ",
+     "description": "Izakaya in Tsuruoka, about 3 min on foot from Tsuruoka Station; open 17:00-0:00, 40 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ001251555/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Budo Sakagura",
+     "name_en": "Budo Sakagura",
+     "name_ja": "葡萄酒蔵",
+     "description": "Izakaya in Tsuruoka; open 18:00-2:00, closed Tuesdays, 26 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000739091/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Taishu Sakaba Yoppa Tsuruoka Main Branch",
+     "name_en": "Taishu Sakaba Yoppa Tsuruoka Main Branch",
+     "name_ja": "大衆酒場 酔っぱ 鶴岡本店",
+     "description": "Izakaya in Tsuruoka, about 2 min on foot from Tsuruoka Station.",
+     "source_url": "https://r.gnavi.co.jp/gg76a6d70000/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Arirantei",
+     "name_en": "Arirantei",
+     "name_ja": "ありらん亭",
+     "description": "Yakiniku (grilled meat) restaurant in Tsuruoka, about 5 min on foot from Tsuruoka Station; open 11:30-15:00, closed Sundays and public holidays, 90 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000290130/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/meat/",
+     "category": "Japanese (meat)"
+    },
+    {
+     "name": "Shonai Horumon Tsuruoka",
+     "name_en": "Shonai Horumon Tsuruoka",
+     "name_ja": "庄内ホルモン 鶴岡店",
+     "description": "Yakiniku (grilled meat) restaurant in Tsuruoka; open 17:30-22:30, 60 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000853883/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/meat/",
+     "category": "Japanese (meat)"
     },
     {
      "name": "Chuka Soba-dokoro Kotohira-so",
@@ -10138,6 +10687,60 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Mendokoro Hosho",
+     "name_en": "Mendokoro Hosho",
+     "name_ja": "麺処鵬匠",
+     "description": "Ramen shop in Tsuruoka, about 10 min on foot from Tsuruoka Station; open 11:00-14:00, closed Mondays, 26 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000290052/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Yokohamaken",
+     "name_en": "Yokohamaken",
+     "name_ja": "よこはま軒",
+     "description": "Ramen shop in Tsuruoka; open 11:00-20:00, 52 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000290111/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Nihon Soba to Tempura Sosuke",
+     "name_en": "Nihon Soba to Tempura Sosuke",
+     "name_ja": "日本そばと天ぷら 草介",
+     "description": "Soba restaurant in Tsuruoka; open 11:00-14:00, 48 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000625870/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Kitakata Ramen Taian Shokudo Tsuruoka",
+     "name_en": "Kitakata Ramen Taian Shokudo Tsuruoka",
+     "name_ja": "喜多方ラーメン 大安食堂 鶴岡店",
+     "description": "Ramen shop in Tsuruoka.",
+     "source_url": "https://r.gnavi.co.jp/ssg1vsyd0000/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Mekiki no Ginji Tsuruoka Ekimae",
+     "name_en": "Mekiki no Ginji Tsuruoka Ekimae",
+     "name_ja": "目利きの銀次 鶴岡駅前店",
+     "description": "Seafood izakaya chain branch near Tsuruoka Station serving sashimi and hamayaki-style grilled seafood, with course menus and all-you-can-drink plans.",
+     "source_url": "https://r.gnavi.co.jp/244dt1wm0000/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "MOGITEN",
+     "name_en": "MOGITEN",
+     "name_ja": "MOGITEN（モギテン）",
+     "description": "Curry restaurant in Tsuruoka serving European-style curry slow-simmered for three days with Yamagata vegetables and house-made stock; takeaway curries are available.",
+     "source_url": "https://r.gnavi.co.jp/bjtj1tbv0000/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Inafune",
      "name_en": "Inafune",
      "name_ja": "いな舟",
@@ -10174,6 +10777,60 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Kaiunbashi Sushi no Chosaburo",
+     "name_en": "Kaiunbashi Sushi no Chosaburo",
+     "name_ja": "開運ばし 寿しの長三郎",
+     "description": "Japanese restaurant in Tsuruoka, about 16 min on foot from Tsuruoka Station; open 17:00-0:00, closed Mondays, 80 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000693992/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shonai Zakko",
+     "name_en": "Shonai Zakko",
+     "name_ja": "庄内ざっこ",
+     "description": "Japanese restaurant in Tsuruoka, about 21 min on foot from Tsuruoka Station; open 11:30-14:00, irregular closing days, 75 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000289942/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kappo Otakitei",
+     "name_en": "Kappo Otakitei",
+     "name_ja": "割烹 大多喜亭",
+     "description": "Japanese restaurant in Tsuruoka.",
+     "source_url": "https://r.gnavi.co.jp/t075100/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Tsuruoka Shunkoyomi Saitsuru",
+     "name_en": "Tsuruoka Shunkoyomi Saitsuru",
+     "name_ja": "つるおか旬暦 彩鶴",
+     "description": "Japanese restaurant in Tsuruoka.",
+     "source_url": "https://r.gnavi.co.jp/hapntde10000/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kurayashiki LUNA",
+     "name_en": "Kurayashiki LUNA",
+     "name_ja": "蔵屋敷 LUNA",
+     "description": "Japanese restaurant in Tsuruoka; open 11:00-14:00, closed Mondays, public holidays and Sundays, 54 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000739078/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Fukuminato-an",
+     "name_en": "Fukuminato-an",
+     "name_ja": "福湊庵",
+     "description": "Japanese restaurant in Tsuruoka; open 11:00-16:00, closed Wednesdays and Sundays, 40 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000290269/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Shonai Uogashi Sakaba Shiosai",
      "name_en": "Shonai Uogashi Sakaba Shiosai",
      "name_ja": "庄内魚河岸酒場 潮彩",
@@ -10206,6 +10863,15 @@
      "name_ja": "金太郎寿し 新斎店",
      "description": "Conveyor-belt sushi in Tsuruoka, Yamagata.",
      "source_url": "https://tabelog.com/yamagata/A0603/A060302/6000072/",
+     "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Hamakko",
+     "name_en": "Hamakko",
+     "name_ja": "浜っ娘",
+     "description": "Seafood restaurant in Tsuruoka, about 5 min by car from Tsuruoka Station; open 17:00-22:00, 23 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000289919/",
      "page": "https://bokenjapan.com/yamagata/tsuruoka/eat/seafood/",
      "category": "Japanese (seafood)"
     },
@@ -10276,7 +10942,7 @@
      "name": "Hotel STAYin Sanno Plaza",
      "name_en": "Hotel STAYin Sanno Plaza",
      "name_ja": "ホテル スティ・イン山王プラザ（HOTEL STAYin山王プラザ）",
-     "description": "Hotel in Tsuruoka.",
+     "description": "Hotel in Tsuruoka with free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad309829/",
      "page": "https://bokenjapan.com/yamagata/tsuruoka/stay/"
     },
@@ -10284,7 +10950,7 @@
      "name": "APA Hotel Yamagata Tsuruoka Ekimae",
      "name_en": "APA Hotel Yamagata Tsuruoka Ekimae",
      "name_ja": "アパホテル〈山形鶴岡駅前〉",
-     "description": "Hotel in Tsuruoka.",
+     "description": "Hotel in Tsuruoka with massage service and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad319628/",
      "page": "https://bokenjapan.com/yamagata/tsuruoka/stay/"
     },
@@ -10292,7 +10958,7 @@
      "name": "Super Hotel Yamagata Tsuruoka",
      "name_en": "Super Hotel Yamagata Tsuruoka",
      "name_ja": "天然温泉 湯の瀬の湯 スーパーホテル山形・鶴岡",
-     "description": "Hotel in Tsuruoka.",
+     "description": "Hotel in Tsuruoka with hot-spring baths, bicycle rental, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad301070/",
      "page": "https://bokenjapan.com/yamagata/tsuruoka/stay/"
     },
@@ -10300,7 +10966,7 @@
      "name": "Hotel STAYin Sanno Plaza Premier Annex",
      "name_en": "Hotel STAYin Sanno Plaza Premier Annex",
      "name_ja": "ホテル スティ・イン山王プラザプレミアアネックス",
-     "description": "Hotel in Tsuruoka.",
+     "description": "Hotel in Tsuruoka with free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad322329/",
      "page": "https://bokenjapan.com/yamagata/tsuruoka/stay/"
     },
@@ -10308,7 +10974,7 @@
      "name": "Hotel Alpha One Tsuruoka",
      "name_en": "Hotel Alpha One Tsuruoka",
      "name_ja": "ホテル・アルファ－ワン鶴岡",
-     "description": "Hotel in Tsuruoka.",
+     "description": "Hotel in Tsuruoka with bicycle rental, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad335467/",
      "page": "https://bokenjapan.com/yamagata/tsuruoka/stay/"
     },
@@ -10316,7 +10982,7 @@
      "name": "Hotel Route Inn Tsuruoka Inter",
      "name_en": "Hotel Route Inn Tsuruoka Inter",
      "name_ja": "ホテルルートイン鶴岡インター",
-     "description": "Hotel in Tsuruoka.",
+     "description": "Hotel in Tsuruoka with massage service, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad308325/",
      "page": "https://bokenjapan.com/yamagata/tsuruoka/stay/"
     }
@@ -10337,7 +11003,7 @@
     "address": "Yamagata City, Yamagata 990-8540",
     "phone": "023-641-1212"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Uzen-Chitose Station",
@@ -11876,7 +12542,7 @@
     "address": "Yamanobe, Yamagata 990-0392",
     "phone": "023-667-1111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Uzen-Yamabe Station",
@@ -12241,7 +12907,7 @@
     "address": "Yonezawa, Yamagata 992-8501",
     "phone": "0238-22-5111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Michi-no-Eki Yonezawa",
@@ -12287,6 +12953,24 @@
      "category": "Cafe"
     },
     {
+     "name": "Ufu Cafe",
+     "name_en": "Ufu Cafe",
+     "name_ja": "うふcafe",
+     "description": "Cafe in Yonezawa; open 11:00-18:00, closed Wednesdays and Tuesdays, 15 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000739076/",
+     "page": "https://bokenjapan.com/yamagata/yonezawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Collabo Cafe ARB",
+     "name_en": "Collabo Cafe ARB",
+     "name_ja": "COLLABO CAFE ARB（コラボカフェ）",
+     "description": "Cafe in Yonezawa; open 11:30-0:00, 31 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ004678145/",
+     "page": "https://bokenjapan.com/yamagata/yonezawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
      "name": "Shokudo diner in Yonezawa",
      "name_en": "Shokudo diner in Yonezawa",
      "name_ja": "ミートピア",
@@ -12321,6 +13005,51 @@
      "source_url": "https://tabelog.com/yamagata/A0602/A060201/6000401/",
      "page": "https://bokenjapan.com/yamagata/yonezawa/eat/casual/",
      "category": "Casual"
+    },
+    {
+     "name": "Namikata Mutton Shop Mee-chan Shokudo",
+     "name_en": "Namikata Mutton Shop Mee-chan Shokudo",
+     "name_ja": "なみかた羊肉店 めえちゃん食堂",
+     "description": "Casual diner in Yonezawa, about 6 min on foot from Yonezawa Station; open 17:00-22:00, 60 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000773766/",
+     "page": "https://bokenjapan.com/yamagata/yonezawa/eat/casual/",
+     "category": "Casual"
+    },
+    {
+     "name": "Yonezawa Beef Steak Restaurant Gyubitei",
+     "name_en": "Yonezawa Beef Steak Restaurant Gyubitei",
+     "name_ja": "米沢牛ステーキレストラン 牛毘亭",
+     "description": "Western-style restaurant in Yonezawa, about 10 min by car from Yonezawa Station; open 10:00-18:00, 32 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ003671188/",
+     "page": "https://bokenjapan.com/yamagata/yonezawa/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Restaurant Capellini",
+     "name_en": "Restaurant Capellini",
+     "name_ja": "レストラン カッペリーニ",
+     "description": "Italian or French restaurant in Yonezawa, about 10 min by car from Yonezawa Station; open 11:30-14:00, 40 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000293018/",
+     "page": "https://bokenjapan.com/yamagata/yonezawa/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Kuimonoya Wan Yonezawa Chuo",
+     "name_en": "Kuimonoya Wan Yonezawa Chuo",
+     "name_ja": "くいもの屋わん 米沢中央店",
+     "description": "Izakaya in Yonezawa.",
+     "source_url": "https://r.gnavi.co.jp/5m006xge0000/",
+     "page": "https://bokenjapan.com/yamagata/yonezawa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Sake to Sakana. Masuya",
+     "name_en": "Sake to Sakana. Masuya",
+     "name_ja": "SakeとSakana。ますや",
+     "description": "Izakaya in Yonezawa, about 1 min on foot from Yonezawa Station; open 17:00-23:00, closed Wednesdays and Sundays, 20 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ003365522/",
+     "page": "https://bokenjapan.com/yamagata/yonezawa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
     },
     {
      "name": "Yonezawa Gyutei Guddo",
@@ -12485,11 +13214,101 @@
      "category": "Japanese (noodles)"
     },
     {
+     "name": "Yonezawa Beef Sobadokoro Kappo Suminoe",
+     "name_en": "Yonezawa Beef Sobadokoro Kappo Suminoe",
+     "name_ja": "米沢牛 そば処 割烹住の江",
+     "description": "Soba restaurant in Yonezawa.",
+     "source_url": "https://r.gnavi.co.jp/2msvpjrd0000/",
+     "page": "https://bokenjapan.com/yamagata/yonezawa/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Yonezawa Beef and Yamafutokoro Cuisine Kichitei",
+     "name_en": "Yonezawa Beef and Yamafutokoro Cuisine Kichitei",
+     "name_ja": "米沢牛・山懐料理 吉亭",
+     "description": "Yonezawa beef and mountain-cuisine restaurant in Yonezawa, set in a historic weaver's residence with a registered cultural-property garden; shabu-shabu is a specialty.",
+     "source_url": "https://r.gnavi.co.jp/t248900/",
+     "page": "https://bokenjapan.com/yamagata/yonezawa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Gourmet Kozo Mankichi",
+     "name_en": "Gourmet Kozo Mankichi",
+     "name_ja": "グルメ小僧 万吉",
+     "description": "Yonezawa beef restaurant run by a butcher in Yonezawa, serving steak, sukiyaki and nigiri sushi at butcher-direct prices.",
+     "source_url": "https://r.gnavi.co.jp/aygpca3k0000/",
+     "page": "https://bokenjapan.com/yamagata/yonezawa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "Ogiya Beef Shop Yonezawa no Ajidokoro Meatopia",
+     "name_en": "Ogiya Beef Shop Yonezawa no Ajidokoro Meatopia",
+     "name_ja": "扇屋牛肉店 米沢の味処 ミートピア",
+     "description": "Steak and sukiyaki restaurant in Yonezawa run by the long-established Ogiya beef shop (founded 1948); popular for lunch.",
+     "source_url": "https://r.gnavi.co.jp/1rv5gmna0000/",
+     "page": "https://bokenjapan.com/yamagata/yonezawa/eat/other/",
+     "category": "Other"
+    },
+    {
+     "name": "L'atelier Sora",
+     "name_en": "L'atelier Sora",
+     "name_ja": "L’atelier 空",
+     "description": "Italian restaurant in Yonezawa serving lunch and dinner at DEN'S HOTEL Yonezawa.",
+     "source_url": "https://r.gnavi.co.jp/cpkv0c2k0000/",
+     "page": "https://bokenjapan.com/yamagata/yonezawa/eat/other/",
+     "category": "Other"
+    },
+    {
      "name": "Babanomachi Hayashi",
      "name_en": "Babanomachi Hayashi",
      "name_ja": "馬場乃町 はやし",
      "description": "Japanese restaurant in Yonezawa, Yamagata.",
      "source_url": "https://tabelog.com/yamagata/A0602/A060201/6007836/",
+     "page": "https://bokenjapan.com/yamagata/yonezawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Gyunabe Ooki",
+     "name_en": "Gyunabe Ooki",
+     "name_ja": "牛鍋おおき",
+     "description": "Hot-pot restaurant in Yonezawa; open 11:00-15:00, closed Wednesdays, 40 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ003829328/",
+     "page": "https://bokenjapan.com/yamagata/yonezawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Koi no Rokujuri",
+     "name_en": "Koi no Rokujuri",
+     "name_ja": "鯉の六十里",
+     "description": "Japanese restaurant in Yonezawa, about 12 min on foot from Yonezawa Station; open 11:00-14:00, closed Tuesdays and Sundays, 35 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000101360/",
+     "page": "https://bokenjapan.com/yamagata/yonezawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Momijian",
+     "name_en": "Momijian",
+     "name_ja": "もみじ庵",
+     "description": "Japanese restaurant in Yonezawa, about 10 min by car from Yonezawa Station; open 11:30-14:30, closed Wednesdays and Thursdays, 20 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000293142/",
+     "page": "https://bokenjapan.com/yamagata/yonezawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Uesugi Hakushakutei",
+     "name_en": "Uesugi Hakushakutei",
+     "name_ja": "上杉伯爵邸",
+     "description": "Japanese restaurant in Yonezawa, about 29 min on foot from Yonezawa Station; open 11:00-14:30, 80 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ000101371/",
+     "page": "https://bokenjapan.com/yamagata/yonezawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Shunsai Ryori Rakuzo",
+     "name_en": "Shunsai Ryori Rakuzo",
+     "name_ja": "旬菜料理樂蔵",
+     "description": "Japanese restaurant in Yonezawa; open 11:30-14:00, closed Sundays, 40 seats.",
+     "source_url": "https://www.hotpepper.jp/strJ003323806/",
      "page": "https://bokenjapan.com/yamagata/yonezawa/eat/other-japanese/",
      "category": "Other Japanese"
     }
@@ -12551,7 +13370,7 @@
      "name": "Hotel Slow Village Yonezawa",
      "name_en": "Hotel Slow Village Yonezawa",
      "name_ja": "ホテルスロービレッジ 米沢",
-     "description": "Hotel in Yonezawa.",
+     "description": "Hotel in Yonezawa with a lounge, a jacuzzi, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad388880/",
      "page": "https://bokenjapan.com/yamagata/yonezawa/stay/"
     },
@@ -12559,7 +13378,7 @@
      "name": "Hotel Select Inn Yonezawa",
      "name_en": "Hotel Select Inn Yonezawa",
      "name_ja": "ホテルセレクトイン米沢",
-     "description": "Hotel in Yonezawa.",
+     "description": "Hotel in Yonezawa with a lounge, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad388512/",
      "page": "https://bokenjapan.com/yamagata/yonezawa/stay/"
     },
@@ -12567,7 +13386,7 @@
      "name": "Hotel Montoview Yonezawa",
      "name_en": "Hotel Montoview Yonezawa",
      "name_ja": "ホテルモントビュー米沢",
-     "description": "Hotel in Yonezawa.",
+     "description": "Hotel in Yonezawa with massage service, a banquet hall, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad308308/",
      "page": "https://bokenjapan.com/yamagata/yonezawa/stay/"
     },
@@ -12575,7 +13394,7 @@
      "name": "Hotel Benex Yonezawa",
      "name_en": "Hotel Benex Yonezawa",
      "name_ja": "ホテルベネックス米沢",
-     "description": "Hotel in Yonezawa.",
+     "description": "Hotel in Yonezawa with massage service, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad312166/",
      "page": "https://bokenjapan.com/yamagata/yonezawa/stay/"
     },
@@ -12583,7 +13402,7 @@
      "name": "Hotel Tsutaya",
      "name_en": "Hotel Tsutaya",
      "name_ja": "ホテルつたや",
-     "description": "Hotel in Yonezawa.",
+     "description": "Hotel in Yonezawa with a banquet hall, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad328471/",
      "page": "https://bokenjapan.com/yamagata/yonezawa/stay/"
     },
@@ -12591,7 +13410,7 @@
      "name": "Hotel Alpha-1 Yonezawa",
      "name_en": "Hotel Alpha-1 Yonezawa",
      "name_ja": "ホテル・アルファ－ワン米沢",
-     "description": "Hotel in Yonezawa.",
+     "description": "Hotel in Yonezawa with bicycle rental, massage service, free parking and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad373975/",
      "page": "https://bokenjapan.com/yamagata/yonezawa/stay/"
     }
@@ -12612,7 +13431,7 @@
     "address": "Yuza, Yamagata 999-8301",
     "phone": "0234-72-3311"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-17",
    "day_to_day": [
     {
      "name": "Tesaku Rio Sozai Bento Super Green Store",
@@ -12906,7 +13725,7 @@
      "name": "Chokai Onsen Yurakusato",
      "name_en": "Chokai Onsen Yurakusato",
      "name_ja": "鳥海温泉 遊楽里",
-     "description": "Onsen lodging in Yuza.",
+     "description": "Onsen lodging in Yuza with hot-spring baths, barbecue facilities, karaoke, a banquet hall and free Wi-Fi.",
      "source_url": "https://www.jalan.net/yad368913/",
      "page": "https://bokenjapan.com/yamagata/yuza/stay/"
     },
@@ -12914,7 +13733,7 @@
      "name": "Yunota Onsen Sakataya Ryokan",
      "name_en": "Yunota Onsen Sakataya Ryokan",
      "name_ja": "湯ノ田温泉 酒田屋旅館",
-     "description": "Ryokan inn in Yuza.",
+     "description": "Ryokan inn in Yuza with hot-spring baths and fishing.",
      "source_url": "https://www.jalan.net/yad307642/",
      "page": "https://bokenjapan.com/yamagata/yuza/stay/"
     }
