@@ -338,6 +338,18 @@
      "description": "Visitor center that explains the history and attractions of Ena-kyo.",
      "source_url": "https://www.kankou-ena.jp/6387.php",
      "page": "https://bokenjapan.com/gifu/ena/day-to-day/"
+    },
+    {
+     "name": "Roadside Station Soba no Sato Rasseimisato",
+     "description": "Roadside station in Ena specializing in soba.",
+     "source_url": "http://www.rassei.com/",
+     "page": "https://bokenjapan.com/gifu/ena/day-to-day/"
+    },
+    {
+     "name": "Roadside Station Obachan Ichi Yamaoka",
+     "description": "Roadside station in Ena.",
+     "source_url": "http://obachanichi.jp/",
+     "page": "https://bokenjapan.com/gifu/ena/day-to-day/"
     }
    ],
    "activities": [
@@ -430,6 +442,18 @@
      "name_en": "Shirataka Campground",
      "description": "Varied campsites include an open group and family site by an old house on a hill overlooking a basin village.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_9960.html",
+     "page": "https://bokenjapan.com/gifu/ena/do/"
+    },
+    {
+     "name": "Fukuiku Farm Strawberry Picking",
+     "description": "Strawberry picking farm in Ena.",
+     "source_url": "http://www.fukuiku.org/ichigo/ichigogari.html",
+     "page": "https://bokenjapan.com/gifu/ena/do/"
+    },
+    {
+     "name": "Iwamura Itsutsuko Five Senses Learning and Play Experience",
+     "description": "Learning and play experience center in Ena.",
+     "source_url": "http://iwamura55.com/",
      "page": "https://bokenjapan.com/gifu/ena/do/"
     }
    ],
@@ -1009,12 +1033,61 @@
      "description": "In Kushihara, Ena, over a thousand Somei-Yoshino bloom along the lake, partly forming a tunnel; best from early to mid-April.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_8413.html",
      "page": "https://bokenjapan.com/gifu/ena/see/"
+    },
+    {
+     "name": "Iwamura Castle Town",
+     "description": "Historic castle town in Ena.",
+     "source_url": "http://iwamura.jp/",
+     "page": "https://bokenjapan.com/gifu/ena/see/"
+    },
+    {
+     "name": "Tono Ranch",
+     "description": "Ranch in Ena.",
+     "source_url": "http://www.gifu-notiku.com/chikusan_bokujyo.php",
+     "page": "https://bokenjapan.com/gifu/ena/see/"
+    },
+    {
+     "name": "Nihon Taisho Village",
+     "description": "Taisho-era themed village in Ena.",
+     "source_url": "http://nihon-taishomura.or.jp/",
+     "page": "https://bokenjapan.com/gifu/ena/see/"
+    },
+    {
+     "name": "Blueberry Hill Hopi",
+     "description": "Blueberry farm in Ena.",
+     "source_url": "http://blueberry-hopi.com/",
+     "page": "https://bokenjapan.com/gifu/ena/see/"
+    },
+    {
+     "name": "Daionji Farm",
+     "description": "Farm in Ena.",
+     "source_url": "http://kayaitigo3084423.wixsite.com/daionjifarm",
+     "page": "https://bokenjapan.com/gifu/ena/see/"
+    },
+    {
+     "name": "Suwagane (Mount Tsuruoka)",
+     "description": "Mountain in Ena.",
+     "source_url": "http://maimaiakechi.com/staffblog/%E3%80%8C%E3%81%99%E3%82%8F%E3%81%8C%E3%81%AD%E3%80%8D%E9%96%8B%E5%B1%B1%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+     "page": "https://bokenjapan.com/gifu/ena/see/"
+    },
+    {
+     "name": "Kasagi Yamaguri Garden",
+     "description": "Chestnut garden in Ena.",
+     "source_url": "http://kasagiyama-kurien.jp/",
+     "page": "https://bokenjapan.com/gifu/ena/see/"
+    },
+    {
+     "name": "Kineshidare Peach Garden",
+     "description": "Peach garden in Ena.",
+     "source_url": "http://kushihara-kankou.jp/archives/spots/spots-1860",
+     "page": "https://bokenjapan.com/gifu/ena/see/"
     }
    ],
    "stays": [
     {
      "name": "kro terrier",
      "name_en": "kro terrier",
+     "description": "kro terrier is a guesthouse in Ena.",
      "source_url": "https://www.ikyu.com/00052592/",
      "page": "https://bokenjapan.com/gifu/ena/stay/"
     },
@@ -1030,6 +1103,7 @@
      "name": "Hotel R9 The Yard Ena Bekkan",
      "name_en": "Hotel R9 The Yard Ena Bekkan",
      "name_ja": "HOTEL R9 The Yard 恵那別館",
+     "description": "Hotel R9 The Yard Ena Bekkan is a hotel in Ena.",
      "source_url": "https://www.jalan.net/yad342528/",
      "page": "https://bokenjapan.com/gifu/ena/stay/"
     },
@@ -1037,6 +1111,7 @@
      "name": "Hotel R9 The Yard Ena",
      "name_en": "Hotel R9 The Yard Ena",
      "name_ja": "ＨＯＴＥＬ Ｒ９ Ｔｈｅ Ｙａｒｄ 恵那",
+     "description": "Hotel R9 The Yard Ena is a hotel in Ena.",
      "source_url": "https://www.jalan.net/yad362809/",
      "page": "https://bokenjapan.com/gifu/ena/stay/"
     },
@@ -1052,6 +1127,7 @@
      "name": "Ryokan Ichi Kawa",
      "name_en": "Ryokan Ichi Kawa",
      "name_ja": "旅館いち川",
+     "description": "Ryokan Ichi Kawa is a ryokan in Ena on the old Nakasendo road.",
      "source_url": "https://www.jalan.net/yad324078/",
      "page": "https://bokenjapan.com/gifu/ena/stay/"
     },
@@ -1075,6 +1151,7 @@
      "name": "Ena Hanare no Yado",
      "name_en": "Ena Hanare no Yado",
      "name_ja": "恵那 はなれの宿",
+     "description": "Ena Hanare no Yado is a guesthouse in Ena with separate detached cottages.",
      "source_url": "https://www.jalan.net/yad365680/",
      "page": "https://bokenjapan.com/gifu/ena/stay/"
     },
@@ -1082,6 +1159,7 @@
      "name": "Kappo Minshuku Okura",
      "name_en": "Kappo Minshuku Okura",
      "name_ja": "割烹・民宿 おヽくら",
+     "description": "Kappo Minshuku Okura is a minshuku in Ena offering Japanese cuisine.",
      "source_url": "https://www.jalan.net/yad345416/",
      "page": "https://bokenjapan.com/gifu/ena/stay/"
     },
@@ -1089,6 +1167,7 @@
      "name": "Ena Fujitaro",
      "name_en": "Ena Fujitaro",
      "name_ja": "恵那 藤太郎",
+     "description": "Ena Fujitaro is a minshuku in Ena.",
      "source_url": "https://www.jalan.net/yad361317/",
      "page": "https://bokenjapan.com/gifu/ena/stay/"
     },
@@ -1240,6 +1319,24 @@
      "description": "Tourism association for Kanayama in Gero.",
      "source_url": "https://hidakanayama-kanko.com/",
      "page": "https://bokenjapan.com/gifu/gero/day-to-day/"
+    },
+    {
+     "name": "Gero Onsen Ideyu Morning Market",
+     "description": "Morning market in Gero.",
+     "source_url": "http://www.gero-spa.com/spot/detail.php?id=37&amp;amp;category=4&amp;amp;area=",
+     "page": "https://bokenjapan.com/gifu/gero/day-to-day/"
+    },
+    {
+     "name": "Roadside Station Maze Miki no Sato",
+     "description": "Roadside station in Gero.",
+     "source_url": "http://mazekanko.jp/",
+     "page": "https://bokenjapan.com/gifu/gero/day-to-day/"
+    },
+    {
+     "name": "Roadside Station Minami-Hida Kosaka Hanamomo",
+     "description": "Roadside station in Gero.",
+     "source_url": "http://www.michi-club.jp/detail/station.php?stationid=000225",
+     "page": "https://bokenjapan.com/gifu/gero/day-to-day/"
     }
    ],
    "activities": [
@@ -1283,6 +1380,48 @@
      "name_en": "Mountain Life Hida",
      "description": "Outdoor field in nature-rich Maze, Gero, offering athletic courses, stream climbing, and multinational staff exchanges.",
      "source_url": "https://www.mt-life-hida.com",
+     "page": "https://bokenjapan.com/gifu/gero/do/"
+    },
+    {
+     "name": "Hida River Onsen Shimizu Baths",
+     "description": "Public baths in Gero.",
+     "source_url": "http://www.shimizunoyu.com/",
+     "page": "https://bokenjapan.com/gifu/gero/do/"
+    },
+    {
+     "name": "Gero Onsen",
+     "description": "Hot spring town in Gero.",
+     "source_url": "http://www.gero-spa.com/",
+     "page": "https://bokenjapan.com/gifu/gero/do/"
+    },
+    {
+     "name": "Minami Hida Health Dojo",
+     "description": "Health facility in Gero.",
+     "source_url": "http://www.pref.gifu.lg.jp/kodomo/kenko/kenko_sisetu/minamihida_sisetu/11223/index_16832.html",
+     "page": "https://bokenjapan.com/gifu/gero/do/"
+    },
+    {
+     "name": "Tochimoto Farm Fruit Tomato Picking",
+     "description": "Tomato picking farm in Gero.",
+     "source_url": "http://tochimotonouen.com/",
+     "page": "https://bokenjapan.com/gifu/gero/do/"
+    },
+    {
+     "name": "Suimeikan Day-Visit Bath",
+     "description": "Day-visit bath in Gero.",
+     "source_url": "http://www.suimeikan.co.jp/",
+     "page": "https://bokenjapan.com/gifu/gero/do/"
+    },
+    {
+     "name": "Bosenkan Day-Visit Bath",
+     "description": "Bosenkan Day-Visit Bath is a day-use onsen in Gero.",
+     "source_url": "http://www.bosenkan.co.jp/",
+     "page": "https://bokenjapan.com/gifu/gero/do/"
+    },
+    {
+     "name": "Mizuotorisono Day-Visit Bath",
+     "description": "Mizuotorisono Day-Visit Bath is a day-use onsen in Gero.",
+     "source_url": "http://www.e-onsen.co.jp/",
      "page": "https://bokenjapan.com/gifu/gero/do/"
     }
    ],
@@ -1578,6 +1717,78 @@
      "name_en": "Sakurabora Castle",
      "description": "Sengoku-period castle of the Miki clan, who ruled Mashita, later their winter lodge and called Winter Castle.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_8428.html",
+     "page": "https://bokenjapan.com/gifu/gero/see/"
+    },
+    {
+     "name": "Gero Hatsu Onsen Museum",
+     "description": "Gero Hatsu Onsen Museum is a museum in Gero.",
+     "source_url": "http://www.gero.jp/museum/index.html",
+     "page": "https://bokenjapan.com/gifu/gero/see/"
+    },
+    {
+     "name": "Kosaka Falls Circuit",
+     "description": "Kosaka Falls Circuit is a walking trail to waterfalls in Gero.",
+     "source_url": "http://www.osaka-taki.com/",
+     "page": "https://bokenjapan.com/gifu/gero/see/"
+    },
+    {
+     "name": "Butai Pass Tourist Farm",
+     "description": "Butai Pass Tourist Farm is a tourist farm in Gero.",
+     "source_url": "http://www.butaitouge.com/",
+     "page": "https://bokenjapan.com/gifu/gero/see/"
+    },
+    {
+     "name": "Aga Taira Sun Village",
+     "description": "Aga Taira Sun Village is a sports facility in Gero.",
+     "source_url": "http://www.sportsmax.co.jp/sunvillage/",
+     "page": "https://bokenjapan.com/gifu/gero/see/"
+    },
+    {
+     "name": "Yasaka Lakeside Cherry Blossoms",
+     "description": "Yasaka Lakeside Cherry Blossoms is a cherry-blossom viewing site in Gero.",
+     "source_url": "http://www.city.gero.lg.jp/kankou/",
+     "page": "https://bokenjapan.com/gifu/gero/see/"
+    },
+    {
+     "name": "Miyatani Cherry Blossoms",
+     "description": "Miyatani Cherry Blossoms is a cherry-blossom viewing site in Gero.",
+     "source_url": "http://www.city.gero.lg.jp/kankou/view.rbz?nd=243&amp;amp;ik=1&amp;amp;pnp=243&amp;amp;cd=973",
+     "page": "https://bokenjapan.com/gifu/gero/see/"
+    },
+    {
+     "name": "Fukurosaka Pass Cherry Blossoms",
+     "description": "Fukurosaka Pass Cherry Blossoms is a cherry-blossom viewing site in Gero.",
+     "source_url": "https://www.city.gero.lg.jp/site/kanko/1207.html",
+     "page": "https://bokenjapan.com/gifu/gero/see/"
+    },
+    {
+     "name": "Mazegawa Village Suzushino",
+     "description": "Mazegawa Village Suzushino is a village facility in Gero.",
+     "source_url": "http://suzushino.com/",
+     "page": "https://bokenjapan.com/gifu/gero/see/"
+    },
+    {
+     "name": "Mori Mizunashi Hachiman Shrine",
+     "description": "Mori Mizunashi Hachiman Shrine is a shrine in Gero.",
+     "source_url": "http://www.city.gero.lg.jp/kankou/node_7779/node_29741/node_29757/node_30170",
+     "page": "https://bokenjapan.com/gifu/gero/see/"
+    },
+    {
+     "name": "Chofuku Temple",
+     "description": "Chofuku Temple is a temple in Gero.",
+     "source_url": "http://hidakanayama.com/temples.html",
+     "page": "https://bokenjapan.com/gifu/gero/see/"
+    },
+    {
+     "name": "Onsen Temple",
+     "description": "Onsen Temple is a temple in Gero.",
+     "source_url": "http://www.onsenji.jp/",
+     "page": "https://bokenjapan.com/gifu/gero/see/"
+    },
+    {
+     "name": "Gero Koryu Hall",
+     "description": "Gero Koryu Hall is a community hall in Gero.",
+     "source_url": "http://www.gero-k.jp/",
      "page": "https://bokenjapan.com/gifu/gero/see/"
     }
    ],
@@ -1885,6 +2096,18 @@
      "name_en": "Gifu Nagara River Cormorant Fishing",
      "description": "Traditional cormorant fishing performed nightly on the Nagara River.",
      "source_url": "http://www.ukai-gifucity.jp/ukai/",
+     "page": "https://bokenjapan.com/gifu/gifu/do/"
+    },
+    {
+     "name": "Gifu Kinkasan Ropeway",
+     "description": "Gifu Kinkasan Ropeway is a ropeway to Kinkasan in Gifu.",
+     "source_url": "http://www.kinkazan.co.jp/",
+     "page": "https://bokenjapan.com/gifu/gifu/do/"
+    },
+    {
+     "name": "Furyu Yakatabune",
+     "description": "Furyu Yakatabune is a houseboat cruise on the Nagara River in Gifu.",
+     "source_url": "https://www.ukai-gifucity.jp/Ukai/kanransen.html#furyuyakatabune",
      "page": "https://bokenjapan.com/gifu/gifu/do/"
     }
    ],
@@ -2336,6 +2559,72 @@
      "description": "Collector and director Shibata Masahiro gathered about 2,000 shunga, erotic pictures by ukiyo-e artists in brush and print.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_8882.html",
      "page": "https://bokenjapan.com/gifu/gifu/see/"
+    },
+    {
+     "name": "Gifu Great Buddha",
+     "description": "Gifu Great Buddha is a large statue at Shohoji Temple in Gifu.",
+     "source_url": "http://www.gifu-daibutsu.com/",
+     "page": "https://bokenjapan.com/gifu/gifu/see/"
+    },
+    {
+     "name": "Sofuku Temple",
+     "description": "Sofuku Temple is a temple in Gifu.",
+     "source_url": "http://www.sofukuji.net/",
+     "page": "https://bokenjapan.com/gifu/gifu/see/"
+    },
+    {
+     "name": "Nawa Insect Museum",
+     "description": "Nawa Insect Museum is a museum in Gifu.",
+     "source_url": "http://www.nawakon.jp/",
+     "page": "https://bokenjapan.com/gifu/gifu/see/"
+    },
+    {
+     "name": "Iwato Hironori Hiroshi Mine Temple",
+     "description": "Iwato Hironori Hiroshi Mine Temple is a temple in Gifu.",
+     "source_url": "http://kobuji.jp",
+     "page": "https://bokenjapan.com/gifu/gifu/see/"
+    },
+    {
+     "name": "Lord Nobunaga's Residence Site",
+     "description": "Lord Nobunaga's Residence Site is a historic site in Gifu.",
+     "source_url": "http://www.nobunaga-kyokan.jp/",
+     "page": "https://bokenjapan.com/gifu/gifu/see/"
+    },
+    {
+     "name": "Nagara Park",
+     "description": "Nagara Park is a park in Gifu.",
+     "source_url": "http://nagarakouen.jp/",
+     "page": "https://bokenjapan.com/gifu/gifu/see/"
+    },
+    {
+     "name": "Ensan Temple",
+     "description": "Ensan Temple is a temple in Gifu.",
+     "source_url": "http://www7b.biglobe.ne.jp/~iwaisan-ensanji/",
+     "page": "https://bokenjapan.com/gifu/gifu/see/"
+    },
+    {
+     "name": "Hayashiyo Temple",
+     "description": "Hayashiyo Temple is a temple in Gifu.",
+     "source_url": "http://rinyouji.com/index.html",
+     "page": "https://bokenjapan.com/gifu/gifu/see/"
+    },
+    {
+     "name": "Ryuun Temple",
+     "description": "Ryuun Temple is a temple in Gifu.",
+     "source_url": "http://www.gifu7fukujin.com/",
+     "page": "https://bokenjapan.com/gifu/gifu/see/"
+    },
+    {
+     "name": "Hora Izumi Temple",
+     "description": "Hora Izumi Temple is a temple in Gifu.",
+     "source_url": "http://www.tousenji.info/index.html",
+     "page": "https://bokenjapan.com/gifu/gifu/see/"
+    },
+    {
+     "name": "Nagaragawa Ukai Museum",
+     "description": "Nagaragawa Ukai Museum is a museum in Gifu.",
+     "source_url": "https://www.ukaimuseum.jp/",
+     "page": "https://bokenjapan.com/gifu/gifu/see/"
     }
    ],
    "stays": [
@@ -2343,6 +2632,7 @@
      "name": "Miyako Hotel Gifunagaragawa",
      "name_en": "Miyako Hotel Gifunagaragawa",
      "name_ja": "都ホテル 岐阜長良川",
+     "description": "Miyako Hotel Gifunagaragawa is a hotel in Gifu overlooking the Nagara River.",
      "source_url": "https://www.ikyu.com/00001105/",
      "page": "https://bokenjapan.com/gifu/gifu/stay/"
     },
@@ -2350,6 +2640,7 @@
      "name": "Accommodation in Gifu (#2)",
      "name_en": "Accommodation in Gifu (#2)",
      "name_ja": "十八楼",
+     "description": "Accommodation in Gifu is a guesthouse in Gifu.",
      "source_url": "https://www.ikyu.com/00002551/",
      "page": "https://bokenjapan.com/gifu/gifu/stay/"
     },
@@ -2357,6 +2648,7 @@
      "name": "Hotel in Gifu",
      "name_en": "Hotel in Gifu",
      "name_ja": "ダイワロイネットホテル岐阜",
+     "description": "Hotel in Gifu is a hotel in Gifu near JR Gifu Station.",
      "source_url": "https://www.ikyu.com/00080025/",
      "page": "https://bokenjapan.com/gifu/gifu/stay/"
     },
@@ -2380,6 +2672,7 @@
      "name": "Inn in Gifu",
      "name_en": "Inn in Gifu",
      "name_ja": "十八楼離れ 宿いとう",
+     "description": "Inn in Gifu is a ryokan in Gifu overlooking the Nagara River.",
      "source_url": "https://www.ikyu.com/00051634/",
      "page": "https://bokenjapan.com/gifu/gifu/stay/"
     },
@@ -2403,6 +2696,7 @@
      "name": "Comfort Hotel Gifu",
      "name_en": "Comfort Hotel Gifu",
      "name_ja": "コンフォートホテル岐阜",
+     "description": "Comfort Hotel Gifu is a business hotel in Gifu near JR Gifu Station.",
      "source_url": "https://www.ikyu.com/00080201/",
      "page": "https://bokenjapan.com/gifu/gifu/stay/"
     },
@@ -2418,6 +2712,7 @@
      "name": "Accommodation in Gifu (#11)",
      "name_en": "Accommodation in Gifu (#11)",
      "name_ja": "ウィークリー翔岐阜",
+     "description": "Weekly Shou Gifu is a weekly guesthouse in central Gifu city.",
      "source_url": "https://www.jalan.net/yad367133/",
      "page": "https://bokenjapan.com/gifu/gifu/stay/"
     },
@@ -3159,6 +3454,7 @@
      "name": "Anpachi / Minpaku",
      "name_en": "Anpachi / Minpaku",
      "name_ja": "安八／民泊",
+     "description": "Anpachi / Minpaku is a minpaku accommodation in Godo.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/195526/195526.html",
      "page": "https://bokenjapan.com/gifu/godo/stay/"
     }
@@ -3207,6 +3503,36 @@
      "name_en": "Kukkula Hirugano",
      "description": "Souvenir shops for local-ingredient foods, specialties, dairy, and sweets gather with many stylish general-goods stores.",
      "source_url": "https://www.kukkula.jp/",
+     "page": "https://bokenjapan.com/gifu/gujo/day-to-day/"
+    },
+    {
+     "name": "Roadside Station Hakusan Cultural Village Chotaki",
+     "description": "Roadside Station Hakusan Cultural Village Chotaki is a roadside station in Gujo.",
+     "source_url": "http://okumino-shirotori.com/pg728.html",
+     "page": "https://bokenjapan.com/gifu/gujo/day-to-day/"
+    },
+    {
+     "name": "Roadside Station Kazuyoshi",
+     "description": "Roadside Station Kazuyoshi is a roadside station in Gujo.",
+     "source_url": "http://gujo-wara.jp/index.php",
+     "page": "https://bokenjapan.com/gifu/gujo/day-to-day/"
+    },
+    {
+     "name": "Roadside Station Minami",
+     "description": "Roadside Station Minami is a roadside station in Gujo.",
+     "source_url": "http://www.minami-kanko.com/",
+     "page": "https://bokenjapan.com/gifu/gujo/day-to-day/"
+    },
+    {
+     "name": "Roadside Station Shirao Fureai Park",
+     "description": "Roadside Station Shirao Fureai Park is a roadside station in Gujo.",
+     "source_url": "http://www.furusato-shirotori.com/shirao.html",
+     "page": "https://bokenjapan.com/gifu/gujo/day-to-day/"
+    },
+    {
+     "name": "Roadside Station Seiryu no Sato Shirotori",
+     "description": "Roadside Station Seiryu no Sato Shirotori is a roadside station in Gujo.",
+     "source_url": "http://www.okumino-shirotori.com/pg453.html",
      "page": "https://bokenjapan.com/gifu/gujo/day-to-day/"
     }
    ],
@@ -3307,6 +3633,42 @@
      "name_en": "Washigatake Alps Adventure",
      "description": "Washigatake Alps Adventure offers a 20-meter aerial walk, the first of its kind in the Chubu region.",
      "source_url": "https://www.washigatakealpsadventure.com/",
+     "page": "https://bokenjapan.com/gifu/gujo/do/"
+    },
+    {
+     "name": "Gujo Odori",
+     "description": "Gujo Odori is a dance festival in Gujo.",
+     "source_url": "http://www.gujohachiman.com/kanko/",
+     "page": "https://bokenjapan.com/gifu/gujo/do/"
+    },
+    {
+     "name": "Gujo Vakansu Village Ski Area",
+     "description": "Gujo Vakansu Village Ski Area is a ski area in Gujo.",
+     "source_url": "http://www.gujyokogen-hotel.com/",
+     "page": "https://bokenjapan.com/gifu/gujo/do/"
+    },
+    {
+     "name": "Washi Baths",
+     "description": "Washi Baths is a bath facility in Gujo.",
+     "source_url": "http://www.washigatake-rainbow.jp/spa/index.html",
+     "page": "https://bokenjapan.com/gifu/gujo/do/"
+    },
+    {
+     "name": "Futakoe Onsen",
+     "description": "Futakoe Onsen is a hot spring in Gujo.",
+     "source_url": "https://pw.gujotakasu.com/hutakoe/hutakoe.htm",
+     "page": "https://bokenjapan.com/gifu/gujo/do/"
+    },
+    {
+     "name": "Yu no Taira Onsen",
+     "description": "Yu no Taira Onsen is a hot spring in Gujo.",
+     "source_url": "http://www.yunohiraonsen.jp/",
+     "page": "https://bokenjapan.com/gifu/gujo/do/"
+    },
+    {
+     "name": "Kazuyoshi River Park Auto Campground",
+     "description": "Kazuyoshi River Park Auto Campground is a campground in Gujo.",
+     "source_url": "https://gujo-wara.jp/shisetu/",
      "page": "https://bokenjapan.com/gifu/gujo/do/"
     }
    ],
@@ -3688,6 +4050,108 @@
      "description": "Garden at Keishoji Temple in Minami where hydrangeas bloom in early July.",
      "source_url": "https://keishoji.jimdofree.com/",
      "page": "https://bokenjapan.com/gifu/gujo/see/"
+    },
+    {
+     "name": "Itoshiro",
+     "description": "Village in Gujo known as the Village of Gods and Buddhas.",
+     "source_url": "http://www.shirotori-gujo.com/",
+     "page": "https://bokenjapan.com/gifu/gujo/see/"
+    },
+    {
+     "name": "Bokka Village",
+     "description": "Village site in Gujo.",
+     "source_url": "http://www.bokka.co.jp/",
+     "page": "https://bokenjapan.com/gifu/gujo/see/"
+    },
+    {
+     "name": "Otaki Limestone Cave",
+     "description": "Limestone cave located in Otaki, Gujo.",
+     "source_url": "http://www.ootakicave.com/",
+     "page": "https://bokenjapan.com/gifu/gujo/see/"
+    },
+    {
+     "name": "Kokon Denju no Sato Field Museum",
+     "description": "Field museum in the Kokon Denju no Sato area of Gujo.",
+     "source_url": "http://www.kokindenju.com/",
+     "page": "https://bokenjapan.com/gifu/gujo/see/"
+    },
+    {
+     "name": "Saito Art Museum",
+     "description": "Art museum in Gujo.",
+     "source_url": "http://www.saito-museum.com/",
+     "page": "https://bokenjapan.com/gifu/gujo/see/"
+    },
+    {
+     "name": "Kokoro no Mori Museum Yuwarabe-kan",
+     "description": "Museum known as Kokoro no Mori Museum Yuwarabe-kan in Gujo.",
+     "source_url": "http://www.yudokan.jp/",
+     "page": "https://bokenjapan.com/gifu/gujo/see/"
+    },
+    {
+     "name": "Jion Zendera Sono",
+     "description": "Jion Zendera Sono temple grounds in Gujo.",
+     "source_url": "http://jionzenji.com/",
+     "page": "https://bokenjapan.com/gifu/gujo/see/"
+    },
+    {
+     "name": "Hirugano Marsh Botanical Garden",
+     "description": "Botanical garden at Hirugano Marsh in Gujo.",
+     "source_url": "http://www.hirugano-situgen.jp/syokubutuen/",
+     "page": "https://bokenjapan.com/gifu/gujo/see/"
+    },
+    {
+     "name": "Hirugano Highlands Kiso Horse Ranch",
+     "description": "Kiso horse ranch on the Hirugano Highlands in Gujo.",
+     "source_url": "http://www.rocky-uma.com/",
+     "page": "https://bokenjapan.com/gifu/gujo/see/"
+    },
+    {
+     "name": "Hakusan Culture Museum",
+     "description": "Culture museum dedicated to Hakusan in Gujo.",
+     "source_url": "http://shirotori-gujo.com/html/kanko/hakubutukan.htm",
+     "page": "https://bokenjapan.com/gifu/gujo/see/"
+    },
+    {
+     "name": "Omone Rock at Togakushi Shrine",
+     "description": "Omone Rock at Togakushi Shrine in Gujo.",
+     "source_url": "http://gujo-wara.jp/info-sightseeing/48-rocking-stone.html",
+     "page": "https://bokenjapan.com/gifu/gujo/see/"
+    },
+    {
+     "name": "Otearai Falls",
+     "description": "Waterfall called Otearai Falls in Gujo.",
+     "source_url": "https://gujo-wara.jp/listing/%e5%be%a1%e6%89%8b%e6%b4%97%e3%81%ae%e6%bb%9d/",
+     "page": "https://bokenjapan.com/gifu/gujo/see/"
+    },
+    {
+     "name": "Gujo Hachiman Former Government Office Memorial Museum",
+     "description": "Memorial museum of the former government office in Gujo Hachiman.",
+     "source_url": "http://www.gujohachiman.com/kinenkan/",
+     "page": "https://bokenjapan.com/gifu/gujo/see/"
+    },
+    {
+     "name": "Gujo Hachiman Miyama Limestone Cave",
+     "description": "A limestone cave in Gujo.",
+     "source_url": "http://www.miyama-gujo.jp/",
+     "page": "https://bokenjapan.com/gifu/gujo/see/"
+    },
+    {
+     "name": "Seiryu Nagara River Ayu Park",
+     "description": "An ayu park beside the Nagara River in Gujo.",
+     "source_url": "http://ayupark.jp/",
+     "page": "https://bokenjapan.com/gifu/gujo/see/"
+    },
+    {
+     "name": "Nagomisha Seseragi",
+     "description": "A site called Nagomisha Seseragi in Gujo.",
+     "source_url": "http://www.nagomi-ya.jp/seseragi/",
+     "page": "https://bokenjapan.com/gifu/gujo/see/"
+    },
+    {
+     "name": "Aji Village Okumino Shirotori",
+     "description": "A village site in Gujo.",
+     "source_url": "https://www.sansaien.com/shirotori",
+     "page": "https://bokenjapan.com/gifu/gujo/see/"
     }
    ],
    "stays": [
@@ -3711,6 +4175,7 @@
      "name": "Accommodation in Gujo (#3)",
      "name_en": "Accommodation in Gujo (#3)",
      "name_ja": "フェアフィールド・バイ・マリオット・岐阜郡上",
+     "description": "Fairfield by Marriott Gujo is a business hotel in Gujo.",
      "source_url": "https://www.ikyu.com/00082096/",
      "page": "https://bokenjapan.com/gifu/gujo/stay/"
     },
@@ -3718,6 +4183,7 @@
      "name": "Accommodation in Gujo (#4)",
      "name_en": "Accommodation in Gujo (#4)",
      "name_ja": "ホリデイハウス グリーンガーデン",
+     "description": "Accommodation in Gujo (#4) is a hotel in Gujo.",
      "source_url": "https://www.ikyu.com/00050401/",
      "page": "https://bokenjapan.com/gifu/gujo/stay/"
     },
@@ -3725,6 +4191,7 @@
      "name": "Accommodation in Gujo (#5)",
      "name_en": "Accommodation in Gujo (#5)",
      "name_ja": "古灯",
+     "description": "Koto no Yado is a ryokan in Gujo.",
      "source_url": "https://www.ikyu.com/00052467/",
      "page": "https://bokenjapan.com/gifu/gujo/stay/"
     },
@@ -3732,6 +4199,7 @@
      "name": "Mitomi Kyu",
      "name_en": "Mitomi Kyu",
      "name_ja": "三冨久",
+     "description": "Mitomi Kyu is a traditional ryokan in Gujo.",
      "source_url": "https://www.jalan.net/yad307332/",
      "page": "https://bokenjapan.com/gifu/gujo/stay/"
     },
@@ -3739,6 +4207,7 @@
      "name": "Bizen-ya",
      "name_en": "Bizen-ya",
      "name_ja": "備前屋",
+     "description": "Bizen-ya is a ryokan in Gujo.",
      "source_url": "https://www.jalan.net/yad336285/",
      "page": "https://bokenjapan.com/gifu/gujo/stay/"
     },
@@ -3754,6 +4223,7 @@
      "name": "Yanaka no Daisuke",
      "name_en": "Yanaka no Daisuke",
      "name_ja": "やなかの大助",
+     "description": "Yanaka no Daisuke is a machiya guesthouse in Gujo.",
      "source_url": "https://www.jalan.net/yad377356/",
      "page": "https://bokenjapan.com/gifu/gujo/stay/"
     },
@@ -3777,6 +4247,7 @@
      "name": "Asa no Ryokan",
      "name_en": "Asa no Ryokan",
      "name_ja": "あさの旅館",
+     "description": "Asa no Ryokan is a ryokan in Gujo.",
      "source_url": "https://www.jalan.net/yad302347/",
      "page": "https://bokenjapan.com/gifu/gujo/stay/"
     },
@@ -4460,6 +4931,7 @@
      "name": "APA Hotel < Gifu Hane Shima Ekimae >",
      "name_en": "APA Hotel < Gifu Hane Shima Ekimae >",
      "name_ja": "アパホテル〈岐阜羽島駅前〉",
+     "description": "APA Hotel Gifu Hane Shima Ekimae is a hotel in Hashima.",
      "source_url": "https://www.ikyu.com/00082731/",
      "page": "https://bokenjapan.com/gifu/hashima/stay/"
     },
@@ -4507,6 +4979,7 @@
      "name": "Hotel KOYO Bekkan",
      "name_en": "Hotel KOYO Bekkan",
      "name_ja": "ホテルＫＯＹＯ別館",
+     "description": "Hotel KOYO Bekkan is a hotel in Hashima.",
      "source_url": "https://www.jalan.net/yad353115/",
      "page": "https://bokenjapan.com/gifu/hashima/stay/"
     },
@@ -4514,6 +4987,7 @@
      "name": "Hane Shima Deiri Hotel",
      "name_en": "Hane Shima Deiri Hotel",
      "name_ja": "羽島デイリーホテル",
+     "description": "Hane Shima Deiri Hotel is a hotel in Hashima.",
      "source_url": "https://www.jalan.net/yad381210/",
      "page": "https://bokenjapan.com/gifu/hashima/stay/"
     }
@@ -4895,6 +5369,18 @@
      "description": "Lifts lead to powder-snow summit slopes and a quiet beech and mizunara forest, where rime ice may appear.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_9775.html",
      "page": "https://bokenjapan.com/gifu/hida/do/"
+    },
+    {
+     "name": "Teori Ri Yu Koromo Workshop",
+     "description": "A workshop in Hida.",
+     "source_url": "http://yuh-koubou.com/",
+     "page": "https://bokenjapan.com/gifu/hida/do/"
+    },
+    {
+     "name": "Herbal Enzyme Warm Bath Slow Time",
+     "description": "A warm bath facility in Hida.",
+     "source_url": "http://slowtime-hida.com/",
+     "page": "https://bokenjapan.com/gifu/hida/do/"
     }
    ],
    "food": [
@@ -5249,6 +5735,18 @@
      "description": "Literary materials room for Nakagawa Yoichi, author of the 1938 bestseller Ten no Yugao, at Okuhida Yamanomura Farm in the novel's setting.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_5800.html",
      "page": "https://bokenjapan.com/gifu/hida/see/"
+    },
+    {
+     "name": "Maki Seisha",
+     "description": "A site in Hida.",
+     "source_url": "http://www.bokuseisya.com/",
+     "page": "https://bokenjapan.com/gifu/hida/see/"
+    },
+    {
+     "name": "Noguchi Castle Ruins",
+     "description": "Castle ruins in Hida.",
+     "source_url": "http://hida-bunka.jp/asset/anegakojishi/",
+     "page": "https://bokenjapan.com/gifu/hida/see/"
     }
    ],
    "stays": [
@@ -5256,6 +5754,7 @@
      "name": "Inn in Hida (#1)",
      "name_en": "Inn in Hida (#1)",
      "name_ja": "飛騨高山の奥座敷 八ツ三館",
+     "description": "Inn in Hida (#1) is an inn in Hida.",
      "source_url": "https://www.ikyu.com/00000940/",
      "page": "https://bokenjapan.com/gifu/hida/stay/"
     },
@@ -5263,6 +5762,7 @@
      "name": "Cuisine Ryokan Kabura Mizu-tei",
      "name_en": "Cuisine Ryokan Kabura Mizu-tei",
      "name_ja": "料理旅館 蕪水亭",
+     "description": "Cuisine Ryokan Kabura Mizu-tei is a ryokan in Hida.",
      "source_url": "https://www.ikyu.com/00002072/",
      "page": "https://bokenjapan.com/gifu/hida/stay/"
     },
@@ -5270,6 +5770,7 @@
      "name": "Accommodation in Hida",
      "name_en": "Accommodation in Hida",
      "name_ja": "旅籠耕 飛騨古川",
+     "description": "Tabi no Koro Hida Furukawa is a ryokan in Hida.",
      "source_url": "https://www.jalan.net/yad330700/",
      "page": "https://bokenjapan.com/gifu/hida/stay/"
     },
@@ -5301,6 +5802,7 @@
      "name": "Inn in Hida (#7)",
      "name_en": "Inn in Hida (#7)",
      "name_ja": "八ツ三館",
+     "description": "Yatsumikan is a ryokan in Hida.",
      "source_url": "https://www.jalan.net/yad312996/",
      "page": "https://bokenjapan.com/gifu/hida/stay/"
     },
@@ -5340,6 +5842,7 @@
      "name": "Kokumin Shukusha Shimo Shutsu-so",
      "name_en": "Kokumin Shukusha Shimo Shutsu-so",
      "name_ja": "国民宿舎 霜出荘",
+     "description": "Kokumin Shukusha Shimo Shutsu-so is a minshuku in Hida.",
      "source_url": "https://www.jalan.net/yad318651/",
      "page": "https://bokenjapan.com/gifu/hida/stay/"
     },
@@ -6003,6 +6506,42 @@
      "description": "Yamaguchi of Kasuga Mitsuka discovered eight falls at the Kasukawa headwaters and named them Ohira Eight Falls.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_6778.html",
      "page": "https://bokenjapan.com/gifu/ibigawa/see/"
+    },
+    {
+     "name": "Kawaguchi Fish Weir",
+     "description": "A fish weir in Ibigawa.",
+     "source_url": "http://www.kawaguchiyana.jp/",
+     "page": "https://bokenjapan.com/gifu/ibigawa/see/"
+    },
+    {
+     "name": "Kasuga Morimori Village Refreshment Hall",
+     "description": "A refreshment hall in Ibigawa.",
+     "source_url": "http://morimorimura.com/",
+     "page": "https://bokenjapan.com/gifu/ibigawa/see/"
+    },
+    {
+     "name": "Tsukiyotani Fureai Village",
+     "description": "A village in Ibigawa.",
+     "source_url": "http://doinaka-kk.com/",
+     "page": "https://bokenjapan.com/gifu/ibigawa/see/"
+    },
+    {
+     "name": "Miwa Shrine",
+     "description": "A shrine in Ibigawa.",
+     "source_url": "http://miwajinja.com/",
+     "page": "https://bokenjapan.com/gifu/ibigawa/see/"
+    },
+    {
+     "name": "Tanigumi Yamato-mae Cherry Blossoms",
+     "description": "Cherry blossoms at Tanigumi Yamato-mae in Ibigawa.",
+     "source_url": "http://www.town.ibigawa.lg.jp/kankoujyouhou/0000006543.html",
+     "page": "https://bokenjapan.com/gifu/ibigawa/see/"
+    },
+    {
+     "name": "Tanigumi Useful Village",
+     "description": "A village in Ibigawa.",
+     "source_url": "https://www.instagram.com/tanigumi_useful_village/",
+     "page": "https://bokenjapan.com/gifu/ibigawa/see/"
     }
    ],
    "stays": [
@@ -6351,6 +6890,20 @@
     "phone": "0584-53-1111"
    },
    "date_modified": "2026-10-17",
+   "day_to_day": [
+    {
+     "name": "Roadside Station Tsukimi no Sato Nanno",
+     "description": "A roadside station in Kaizu.",
+     "source_url": "http://tsukimi-no-sato.com/",
+     "page": "https://bokenjapan.com/gifu/kaizu/day-to-day/"
+    },
+    {
+     "name": "Roadside Station Kureru Hirata",
+     "description": "A roadside station in Kaizu.",
+     "source_url": "http://www.clair-hirata.com/index.php",
+     "page": "https://bokenjapan.com/gifu/kaizu/day-to-day/"
+    }
+   ],
    "activities": [
     {
      "name": "Autumn Flower Story",
@@ -6743,6 +7296,60 @@
      "description": "In 1600 Takagi Tatewaki surrendered Komano Castle after relative Takagi Sadatomo persuaded him; bailey and rampart remnants remain at Shiroyama Elementary School.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_7023.html",
      "page": "https://bokenjapan.com/gifu/kaizu/see/"
+    },
+    {
+     "name": "Kiso Sansen Park Center",
+     "description": "A park center in Kaizu.",
+     "source_url": "http://kisosansenkoen.jp/~center/",
+     "page": "https://bokenjapan.com/gifu/kaizu/see/"
+    },
+    {
+     "name": "Korizato Museum",
+     "description": "A museum in Kaizu.",
+     "source_url": "http://www.nakahyo.co.jp/factory/",
+     "page": "https://bokenjapan.com/gifu/kaizu/see/"
+    },
+    {
+     "name": "Mount Garyu Gyoki Temple",
+     "description": "A temple on Mount Garyu in Kaizu.",
+     "source_url": "http://www.gyokiji.org",
+     "page": "https://bokenjapan.com/gifu/kaizu/see/"
+    },
+    {
+     "name": "Hirata Park",
+     "description": "A park in Kaizu.",
+     "source_url": "http://www.kk-giken.jp/hiratapark/",
+     "page": "https://bokenjapan.com/gifu/kaizu/see/"
+    },
+    {
+     "name": "Yoshida Dekiyama Park Cherry Blossoms",
+     "description": "Cherry blossoms at Yoshida Dekiyama Park in Kaizu.",
+     "source_url": "http://www.city.kaizu.lg.jp/life-guide/life/park/nanno-park/dekiyama-koen.html",
+     "page": "https://bokenjapan.com/gifu/kaizu/see/"
+    },
+    {
+     "name": "Nagaragawa Service Center",
+     "description": "Service center located in Kiso Sansen Park, Kaizu.",
+     "source_url": "http://www.kisosansenkoen.jp/~nagaragawa/index.html",
+     "page": "https://bokenjapan.com/gifu/kaizu/see/"
+    },
+    {
+     "name": "Bokuzen Mound",
+     "description": "Grave mound of Ujiie Bokuzen in Kaizu.",
+     "source_url": "http://www.city.kaizu.lg.jp/life-guide/learns-play/history-culture/cultural-assets/kaizushi-shiseki.html",
+     "page": "https://bokenjapan.com/gifu/kaizu/see/"
+    },
+    {
+     "name": "Kiso Mikawa Park Center Mizuya",
+     "description": "Park center in Kaizu also known as Waju no Noka.",
+     "source_url": "http://kisosansenkoen.jp/~center/mkisosansenasobu_mizuya.html",
+     "page": "https://bokenjapan.com/gifu/kaizu/see/"
+    },
+    {
+     "name": "Tsuya Castle Ruins",
+     "description": "Castle ruins in Kaizu.",
+     "source_url": "https://sekigahara.pref.gifu.lg.jp/wp/wp-content/uploads/2020/09/sekigahara_guide_2020.pdf",
+     "page": "https://bokenjapan.com/gifu/kaizu/see/"
     }
    ],
    "stays": [
@@ -6808,6 +7415,18 @@
      "name_en": "Kakamigahara Park Bridge",
      "description": "Opened in March 2021 beside Manabi no Mori and Civic Park as a play area for children and adults.",
      "source_url": "https://www.kparkbridge.com/",
+     "page": "https://bokenjapan.com/gifu/kakamigahara/do/"
+    },
+    {
+     "name": "Kiso River Cormorant Fishing",
+     "description": "Cormorant fishing on the Kiso River in Kakamigahara.",
+     "source_url": "http://kisogawa-ukai.jp/",
+     "page": "https://bokenjapan.com/gifu/kakamigahara/do/"
+    },
+    {
+     "name": "Inaba Strawberry Farm",
+     "description": "Strawberry farm in Kakamigahara.",
+     "source_url": "http://inaba15.stars.ne.jp/",
      "page": "https://bokenjapan.com/gifu/kakamigahara/do/"
     }
    ],
@@ -7155,6 +7774,48 @@
      "description": "Park recreating the Edo-period residence of the Tsubouchi clan.",
      "source_url": "https://www.city.kakamigahara.lg.jp/shisei/shisaku/1008207/1008331/1011058/1011771.html",
      "page": "https://bokenjapan.com/gifu/kakamigahara/see/"
+    },
+    {
+     "name": "Nihon Line Unuma Forest",
+     "description": "Forest area in Kakamigahara.",
+     "source_url": "http://www.city.kakamigahara.lg.jp/shisetsu/1886/001992.html",
+     "page": "https://bokenjapan.com/gifu/kakamigahara/see/"
+    },
+    {
+     "name": "Tajikarao Shrine",
+     "description": "Shrine in Kakamigahara.",
+     "source_url": "http://www.tezikarao.org/",
+     "page": "https://bokenjapan.com/gifu/kakamigahara/see/"
+    },
+    {
+     "name": "Teisho Temple",
+     "description": "Temple in Kakamigahara.",
+     "source_url": "http://www.inuyama-naritasan.or.jp/teisyouji/teisyouji-mein.html",
+     "page": "https://bokenjapan.com/gifu/kakamigahara/see/"
+    },
+    {
+     "name": "Prefectural Kakamigahara Park",
+     "description": "Prefectural park in Kakamigahara.",
+     "source_url": "http://www.kk-giken.jp/kakamigahara-park/",
+     "page": "https://bokenjapan.com/gifu/kakamigahara/see/"
+    },
+    {
+     "name": "Kawata Kiso Kawatabi River Battle Site",
+     "description": "Battle site and river culture museum in Kakamigahara.",
+     "source_url": "http://www.city.kakamigahara.lg.jp/4035/004042.html",
+     "page": "https://bokenjapan.com/gifu/kakamigahara/see/"
+    },
+    {
+     "name": "Jokyu War Battle Memorial Tower",
+     "description": "Memorial tower at Hotokegan-in Maewatashi Fudo in Kakamigahara.",
+     "source_url": "http://www.city.kakamigahara.lg.jp/appeal/kankou/000727.html",
+     "page": "https://bokenjapan.com/gifu/kakamigahara/see/"
+    },
+    {
+     "name": "Zuiganji Temple",
+     "description": "Temple in Kakamigahara.",
+     "source_url": "http://www.gifu7fukujin.com/",
+     "page": "https://bokenjapan.com/gifu/kakamigahara/see/"
     }
    ],
    "stays": [
@@ -7206,6 +7867,12 @@
      "name_en": "Kani City Tourism Exchange Center",
      "description": "Tourist information centre with armour displays and hands-on experiences.",
      "source_url": "https://www.city.kani.lg.jp/14862.htm",
+     "page": "https://bokenjapan.com/gifu/kani/day-to-day/"
+    },
+    {
+     "name": "Roadside Station Kanitte",
+     "description": "Roadside station in Kani.",
+     "source_url": "http://www.canitte.jp/",
      "page": "https://bokenjapan.com/gifu/kani/day-to-day/"
     }
    ],
@@ -7559,6 +8226,18 @@
      "name_en": "Jokyu War Oido Crossing Historic Battlefield",
      "description": "In June 1221, the shogunate Tosando army of over 50,000 cavalry attacked the Oido crossing, opening the war.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_7336.html",
+     "page": "https://bokenjapan.com/gifu/kani/see/"
+    },
+    {
+     "name": "Ima Castle Ruins",
+     "description": "Castle ruins in Kani.",
+     "source_url": "http://kani-sengoku.jp/castle/ima-castle/",
+     "page": "https://bokenjapan.com/gifu/kani/see/"
+    },
+    {
+     "name": "Autumn Leaves at Arakawa Toyokura Museum",
+     "description": "Autumn leaves at the Arakawa Toyokura Museum in Kani.",
+     "source_url": "http://minomomoyamato.jp",
      "page": "https://bokenjapan.com/gifu/kani/see/"
     }
    ],
@@ -7928,6 +8607,12 @@
      "name_en": "Blueberry Factory Gifu",
      "description": "Blueberry farm offering pick-your-own fruit from June to August.",
      "source_url": "https://www.blueberry-factory.com/",
+     "page": "https://bokenjapan.com/gifu/kawabe/do/"
+    },
+    {
+     "name": "Kawabe Rowing Course",
+     "description": "Rowing course in Kawabe.",
+     "source_url": "http://www.kawabe-gifu.jp/soutei/",
      "page": "https://bokenjapan.com/gifu/kawabe/do/"
     }
    ],
@@ -8482,6 +9167,14 @@
     "phone": "0575-33-1122"
    },
    "date_modified": "2026-10-17",
+   "day_to_day": [
+    {
+     "name": "Roadside Station Mino Niwaka Chaya",
+     "description": "Roadside station in Mino.",
+     "source_url": "http://www.mino-niwakachaya.com/",
+     "page": "https://bokenjapan.com/gifu/mino/day-to-day/"
+    }
+   ],
    "activities": [
     {
      "name": "Ishikawa Paper Industry",
@@ -8779,6 +9472,18 @@
      "description": "About 30 foliage trees along Mino's Itadori River are lit mid to late November, and Nagase riverbed is used for camping spring to autumn.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_8185.html",
      "page": "https://bokenjapan.com/gifu/mino/see/"
+    },
+    {
+     "name": "Mino Sightseeing Yana",
+     "description": "Sightseeing yana in Mino.",
+     "source_url": "http://minokanko-yana.jp/ ",
+     "page": "https://bokenjapan.com/gifu/mino/see/"
+    },
+    {
+     "name": "Suhara Shrine",
+     "description": "Shrine in Mino.",
+     "source_url": "http://suharajinja.com/",
+     "page": "https://bokenjapan.com/gifu/mino/see/"
     }
    ],
    "stays": [
@@ -8878,6 +9583,12 @@
      "name_en": "Yamanoue Pear-Picking Orchard",
      "description": "Historic orchard in Minokamo allows unlimited pear picking from mid-August to early October.",
      "source_url": "https://minokamo-kanko.jp/yamanoue-fruit/",
+     "page": "https://bokenjapan.com/gifu/minokamo/do/"
+    },
+    {
+     "name": "Nagaragawa Railway Sightseeing Train Nagara",
+     "description": "Sightseeing train on the Nagaragawa Railway in Minokamo.",
+     "source_url": "http://www.nagatetsu.co.jp/",
      "page": "https://bokenjapan.com/gifu/minokamo/do/"
     }
    ],
@@ -9254,6 +9965,48 @@
      "description": "Small Kannon hall on an island in the Hida River, dedicated to a horse-headed image.",
      "source_url": "https://minokamo-kanko.jp/koyamakannon/",
      "page": "https://bokenjapan.com/gifu/minokamo/see/"
+    },
+    {
+     "name": "Yama no Ue Cherry Blossoms",
+     "description": "Cherry blossoms at Yama no Ue in Minokamo.",
+     "source_url": "http://www.forest.minokamo.gifu.jp/",
+     "page": "https://bokenjapan.com/gifu/minokamo/see/"
+    },
+    {
+     "name": "River Port Park Minokamo",
+     "description": "River Port Park Minokamo is a riverside park in Minokamo.",
+     "source_url": "http://rppm.jp",
+     "page": "https://bokenjapan.com/gifu/minokamo/see/"
+    },
+    {
+     "name": "Yamazaki Mazak Machine Tool Museum",
+     "description": "Yamazaki Mazak Machine Tool Museum is a museum in Minokamo.",
+     "source_url": "http://machine-tools-museum.mazak.com",
+     "page": "https://bokenjapan.com/gifu/minokamo/see/"
+    },
+    {
+     "name": "Ota-juku on the Nakasendo",
+     "description": "Ota-juku on the Nakasendo is a post town on the Nakasendo trail in Minokamo.",
+     "source_url": "http://minokamo-kanko.jp/ （美濃加茂市観光協会）",
+     "page": "https://bokenjapan.com/gifu/minokamo/see/"
+    },
+    {
+     "name": "OS Ball",
+     "description": "OS Ball is an indoor sports facility in Minokamo.",
+     "source_url": "http://newos21.com/",
+     "page": "https://bokenjapan.com/gifu/minokamo/see/"
+    },
+    {
+     "name": "PANZA Gifu Seiryu Satoyama Park",
+     "description": "PANZA Gifu Seiryu Satoyama Park is a leisure park in Minokamo.",
+     "source_url": "http://panza.co.jp/gifuseiryu/",
+     "page": "https://bokenjapan.com/gifu/minokamo/see/"
+    },
+    {
+     "name": "Shoyo Park",
+     "description": "Shoyo Park is a public park in Minokamo.",
+     "source_url": "http://www.forest.minokamo.gifu.jp/index/index.cfm",
+     "page": "https://bokenjapan.com/gifu/minokamo/see/"
     }
    ],
    "stays": [
@@ -9345,6 +10098,12 @@
      "name_en": "Yotteryamitake | Kanko Spot | Gifuken Kanko Koshiki Saito Gifu no Tabi Gaido",
      "description": "A residents' rest spot beside Meitetsu Mitake Station selling nostalgic candy, handmade goods, and Mitake tonchan.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_6770.html",
+     "page": "https://bokenjapan.com/gifu/mitake/day-to-day/"
+    },
+    {
+     "name": "Ontake-juku Waiwai Kan Tourism Hospitality Facility",
+     "description": "Ontake-juku Waiwai Kan Tourism Hospitality Facility is a visitor center in Mitake.",
+     "source_url": "http://www.gifu-mitake.com/dining-shopping/waiwaikan/",
      "page": "https://bokenjapan.com/gifu/mitake/day-to-day/"
     }
    ],
@@ -9701,6 +10460,18 @@
      "name_en": "Utaizaka Ichirizuka",
      "description": "None of Mitake's three original ichirizuka remain; this one, demolished after an 1908 sale, was restored by local volunteers in 1973.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_6626.html",
+     "page": "https://bokenjapan.com/gifu/mitake/see/"
+    },
+    {
+     "name": "Nakasendo Mitake Kan",
+     "description": "Nakasendo Mitake Kan is a visitor facility on the Nakasendo route in Mitake.",
+     "source_url": "http://www.town.mitake.gifu.jp/mitakekan/",
+     "page": "https://bokenjapan.com/gifu/mitake/see/"
+    },
+    {
+     "name": "Oni no Kubizuka",
+     "description": "Oni no Kubizuka is a historic stone monument in Mitake.",
+     "source_url": "http://mitakekanko.fem.jp/midokoro.html",
      "page": "https://bokenjapan.com/gifu/mitake/see/"
     }
    ],
@@ -10350,6 +11121,42 @@
      "description": "Rinzai temple founded as the Ozato clan's family temple; it holds a Gifu Important Cultural Property statue of Sugawara no Michizane.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_5825.html",
      "page": "https://bokenjapan.com/gifu/mizunami/see/"
+    },
+    {
+     "name": "Nakasendo Biwa Pass",
+     "description": "Nakasendo Biwa Pass is a mountain pass on the Nakasendo trail in Mizunami.",
+     "source_url": "http://www.city.mizunami.lg.jp/docs/2014092902973/",
+     "page": "https://bokenjapan.com/gifu/mizunami/see/"
+    },
+    {
+     "name": "Mizunami Ceramics Museum",
+     "description": "Mizunami Ceramics Museum is a ceramics museum in Mizunami.",
+     "source_url": "http://www.city.mizunami.gifu.jp/sightseeing/institution/ceramics_museum/",
+     "page": "https://bokenjapan.com/gifu/mizunami/see/"
+    },
+    {
+     "name": "Ryugin Gorge",
+     "description": "Ryugin Gorge is a river gorge in Mizunami.",
+     "source_url": "http://www.ryugin-taki.jp/",
+     "page": "https://bokenjapan.com/gifu/mizunami/see/"
+    },
+    {
+     "name": "Former Morikawa Kun Yukiie House",
+     "description": "Former Morikawa Kun Yukiie House is a historic residence in Mizunami.",
+     "source_url": "http://okute-shuku.jp/about/marumori",
+     "page": "https://bokenjapan.com/gifu/mizunami/see/"
+    },
+    {
+     "name": "Oni no Itto Rock and Renge Rock",
+     "description": "Oni no Itto Rock and Renge Rock are natural rock formations in Mizunami.",
+     "source_url": "http://www.oniiwaonsen.com/park.php",
+     "page": "https://bokenjapan.com/gifu/mizunami/see/"
+    },
+    {
+     "name": "Nakasendo Oshuku-juku",
+     "description": "Nakasendo Oshuku-juku is a post town on the Nakasendo trail in Mizunami.",
+     "source_url": "http://okute-shuku.jp/",
+     "page": "https://bokenjapan.com/gifu/mizunami/see/"
     }
    ],
    "stays": [
@@ -10357,6 +11164,7 @@
      "name": "Kaeru Kawazu",
      "name_en": "Kaeru Kawazu",
      "name_ja": "蛙～KAWAZU～",
+     "description": "Kaeru Kawazu is a guesthouse in Mizunami.",
      "source_url": "https://www.ikyu.com/00003267/",
      "page": "https://bokenjapan.com/gifu/mizunami/stay/"
     },
@@ -10423,6 +11231,12 @@
      "name_en": "Motosu City Tourism Association",
      "description": "Municipal group promoting Motosu tourism, centered on Usuzumi cherry blossoms and Makuwa puppet joruri, with local company support.",
      "source_url": "https://www.motosukankou.gr.jp/index.html",
+     "page": "https://bokenjapan.com/gifu/motosu/day-to-day/"
+    },
+    {
+     "name": "Roadside Station Usuzumi Sakura no Sato Neo",
+     "description": "Roadside Station Usuzumi Sakura no Sato Neo is a roadside station in Motosu.",
+     "source_url": "http://www.usuzumi.jp/sakura-sato/",
      "page": "https://bokenjapan.com/gifu/motosu/day-to-day/"
     }
    ],
@@ -10685,6 +11499,18 @@
      "description": "Museum built around the Neo Valley fault line that ruptured in the 1891 Nobi earthquake.",
      "source_url": "https://www.city.motosu.lg.jp/0000001399.html",
      "page": "https://bokenjapan.com/gifu/motosu/see/"
+    },
+    {
+     "name": "Mushiroda Yosui Fireflies",
+     "description": "Mushiroda Yosui Fireflies is a firefly viewing site in Motosu.",
+     "source_url": "http://www.motosukankou.gr.jp/01_event/01_02_01.html",
+     "page": "https://bokenjapan.com/gifu/motosu/see/"
+    },
+    {
+     "name": "Oribe Exhibition Hall",
+     "description": "Oribe Exhibition Hall is an exhibition hall in Motosu.",
+     "source_url": "http://www.oribenosato.jp/page2541.php",
+     "page": "https://bokenjapan.com/gifu/motosu/see/"
     }
    ],
    "stays": [
@@ -10758,6 +11584,18 @@
      "description": "Official tourism site for the preserved post town of Magome on the Nakasendo trail.",
      "source_url": "https://kiso-magome.com/",
      "page": "https://bokenjapan.com/gifu/nakatsugawa/day-to-day/"
+    },
+    {
+     "name": "Roadside Station Sen Haha",
+     "description": "Roadside Station Sen Haha is a roadside station in Nakatsugawa.",
+     "source_url": "http://sizumo.jp/",
+     "page": "https://bokenjapan.com/gifu/nakatsugawa/day-to-day/"
+    },
+    {
+     "name": "Roadside Station Kagai Michi Tsukechi",
+     "description": "Roadside Station Kagai Michi Tsukechi is a roadside station in Nakatsugawa.",
+     "source_url": "http://www.michinoeki-hanakaido.jp/",
+     "page": "https://bokenjapan.com/gifu/nakatsugawa/day-to-day/"
     }
    ],
    "activities": [
@@ -10822,6 +11660,24 @@
      "name_en": "Hoshi to Seseragi Glamping",
      "description": "A glamping facility in Nakatsugawa, Gifu, with a natural hot spring and pool; adjoining Qua Resort Yubunezawa is available.",
      "source_url": "https://hoshi-glamping.com/",
+     "page": "https://bokenjapan.com/gifu/nakatsugawa/do/"
+    },
+    {
+     "name": "Nakatsugawa Fureai Ranch",
+     "description": "Nakatsugawa Fureai Ranch is a ranch in Nakatsugawa.",
+     "source_url": "http://fureai-farm.com/",
+     "page": "https://bokenjapan.com/gifu/nakatsugawa/do/"
+    },
+    {
+     "name": "Tsukechikyo Kuraya Onsen Onpoi Baths",
+     "description": "Tsukechikyo Kuraya Onsen Onpoi Baths is a hot-spring bathhouse in Nakatsugawa.",
+     "source_url": "http://www.kuraya-onsen.jp/",
+     "page": "https://bokenjapan.com/gifu/nakatsugawa/do/"
+    },
+    {
+     "name": "Fanfamingu Strawberry Picking",
+     "description": "Strawberry picking farm in Nakatsugawa.",
+     "source_url": "http://kashimoichiba.com/",
      "page": "https://bokenjapan.com/gifu/nakatsugawa/do/"
     }
    ],
@@ -11161,6 +12017,72 @@
      "description": "A shrine dedicated to Sakamoto Ryoma in Nakatsugawa City, Gifu Prefecture.",
      "source_url": "https://ryoumazinzya.jp/index.html",
      "page": "https://bokenjapan.com/gifu/nakatsugawa/see/"
+    },
+    {
+     "name": "Stone Museum Hakusekikan",
+     "description": "Stone museum in Nakatsugawa.",
+     "source_url": "http://www.hakusekikan.co.jp/",
+     "page": "https://bokenjapan.com/gifu/nakatsugawa/see/"
+    },
+    {
+     "name": "Tokiwaza",
+     "description": "Historic building in Nakatsugawa.",
+     "source_url": "http://www.city.nakatsugawa.gifu.jp/kankou/",
+     "page": "https://bokenjapan.com/gifu/nakatsugawa/see/"
+    },
+    {
+     "name": "Lake Kaba",
+     "description": "Lake in Nakatsugawa.",
+     "source_url": "http://www.hananoko-camp.jp/",
+     "page": "https://bokenjapan.com/gifu/nakatsugawa/see/"
+    },
+    {
+     "name": "Folk Jamboree Memorial Museum",
+     "description": "Memorial museum in Nakatsugawa.",
+     "source_url": "http://yasaka-kanko.jp/",
+     "page": "https://bokenjapan.com/gifu/nakatsugawa/see/"
+    },
+    {
+     "name": "Naka no Shima Park Fureai Village",
+     "description": "Park and village area in Nakatsugawa.",
+     "source_url": "http://nakafureai.wixsite.com/agi-putter",
+     "page": "https://bokenjapan.com/gifu/nakatsugawa/see/"
+    },
+    {
+     "name": "Nakatsugawa Mineral Museum",
+     "description": "Mineral museum in Nakatsugawa.",
+     "source_url": "http://mineral.n-muse.jp/info/",
+     "page": "https://bokenjapan.com/gifu/nakatsugawa/see/"
+    },
+    {
+     "name": "Nakatsugawa Children's Science Museum",
+     "description": "Children's science museum in Nakatsugawa.",
+     "source_url": "http://kodomo.n-muse.jp/info/",
+     "page": "https://bokenjapan.com/gifu/nakatsugawa/see/"
+    },
+    {
+     "name": "Nakatsugawa Nakasendo History Museum",
+     "description": "History museum focusing on the Nakasendo in Nakatsugawa.",
+     "source_url": "http://nakasendo.n-muse.jp/info/",
+     "page": "https://bokenjapan.com/gifu/nakatsugawa/see/"
+    },
+    {
+     "name": "Kumagaya Moriichi Tsukechi Memorial Museum",
+     "description": "Memorial museum in Tsukechi, Nakatsugawa.",
+     "source_url": "http://www.morikazu-museum-tsukechi.jp/guidance/",
+     "page": "https://bokenjapan.com/gifu/nakatsugawa/see/"
+    },
+    {
+     "name": "Ena Gorge Wanda Land",
+     "description": "Amusement park in Ena Gorge, Nakatsugawa.",
+     "source_url": "http://www.enakyo-wonderland.jp/",
+     "page": "https://bokenjapan.com/gifu/nakatsugawa/see/"
+    },
+    {
+     "name": "Kashimo Forestry Cooperative Mokumoku Center",
+     "description": "Forestry cooperative center in Kashimo, Nakatsugawa.",
+     "source_url": "http://www.fa-kashimo.jp/%E3%83%A2%E3%82%AF%E3%83%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/",
+     "page": "https://bokenjapan.com/gifu/nakatsugawa/see/"
     }
    ],
    "stays": [
@@ -11353,6 +12275,14 @@
     "phone": "0584-81-4111"
    },
    "date_modified": "2026-10-17",
+   "day_to_day": [
+    {
+     "name": "Masuya Masu Workshop",
+     "description": "Masu workshop in Ogaki.",
+     "source_url": "http://www.masukoubou.jp/",
+     "page": "https://bokenjapan.com/gifu/ogaki/day-to-day/"
+    }
+   ],
    "activities": [
     {
      "name": "Ogaki Matsuri",
@@ -11775,6 +12705,56 @@
      "description": "Sunflower field in Ogaki with about 140,000 blooms each August.",
      "source_url": "https://www.ogaki-himawaribata.jp/",
      "page": "https://bokenjapan.com/gifu/ogaki/see/"
+    },
+    {
+     "name": "Tarakyo Autumn Leaves",
+     "description": "Autumn leaves viewing area in Tarakyo, Ogaki.",
+     "source_url": "http://www.city.ogaki.lg.jp/0000002564.html",
+     "page": "https://bokenjapan.com/gifu/ogaki/see/"
+    },
+    {
+     "name": "Ogaki Oku no Hosomichi Conclusion Site Memorial Museum",
+     "description": "Memorial museum for the Oku no Hosomichi conclusion site in Ogaki.",
+     "source_url": "http://www.basho-ogaki.jp/",
+     "page": "https://bokenjapan.com/gifu/ogaki/see/"
+    },
+    {
+     "name": "Minoji Ogaki-juku Honjin Site",
+     "description": "Former honjin site on the Minoji in Ogaki-juku, Ogaki.",
+     "source_url": "http://kanko.nisimino.com/search/app/sdata.php?dataid=135",
+     "page": "https://bokenjapan.com/gifu/ogaki/see/"
+    },
+    {
+     "name": "Kinshozan Himehotaru Fireflies",
+     "description": "Firefly habitat at Kinshozan, Ogaki.",
+     "source_url": "http://www.mirai.ne.jp/~kinsyou3/",
+     "page": "https://bokenjapan.com/gifu/ogaki/see/"
+    },
+    {
+     "name": "Hokoin Temple",
+     "name_en": "Hokoin Temple",
+     "name_ja": "[67] 宝光院（ひだりめ不動）",
+     "description": "Temple with the Hidarime Fudo statue in Ogaki.",
+     "source_url": "https://www.city.ogaki.lg.jp/0000024666.html",
+     "page": "https://bokenjapan.com/gifu/ogaki/see/"
+    },
+    {
+     "name": "Nagamatsu Castle Ruins",
+     "description": "Castle ruins located in Ogaki.",
+     "source_url": "https://www.city.ogaki.lg.jp/cmsfiles/contents/0000000/378/teikyoushiryou1-2.pdf",
+     "page": "https://bokenjapan.com/gifu/ogaki/see/"
+    },
+    {
+     "name": "Mino Kokubunji Temple",
+     "description": "Temple located in Ogaki.",
+     "source_url": "http://www.mino-kokubunji.com/",
+     "page": "https://bokenjapan.com/gifu/ogaki/see/"
+    },
+    {
+     "name": "Ogaki Tami Hall",
+     "description": "Cultural hall located in Ogaki.",
+     "source_url": "https://www2.og-bunka.or.jp/bunka/manage/shimin.html ",
+     "page": "https://bokenjapan.com/gifu/ogaki/see/"
     }
    ],
    "stays": [
@@ -12150,6 +13130,12 @@
      "description": "A monument by the Takenaka family's Hachiman Shrine marks the birthplace of Hideyoshi's strategist, who died of illness at 36.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_6106.html",
      "page": "https://bokenjapan.com/gifu/onocho/see/"
+    },
+    {
+     "name": "Kurono Station Rail Park",
+     "description": "Rail park located in Ono.",
+     "source_url": "http://www.kurono.sakura.ne.jp/",
+     "page": "https://bokenjapan.com/gifu/onocho/see/"
     }
    ],
    "stays": [
@@ -12405,6 +13391,12 @@
      "name_en": "Seki Terrace",
      "description": "Seki Terrace gathers local people and visitors to experience, exchange, and discover Seki blades and lesser-known charms.",
      "source_url": "https://sekikanko.jp/sekiterrace#176",
+     "page": "https://bokenjapan.com/gifu/seki/day-to-day/"
+    },
+    {
+     "name": "Roadside Station Mugegawa",
+     "description": "Roadside station located in Seki.",
+     "source_url": "http://www.mugegawa.com/",
      "page": "https://bokenjapan.com/gifu/seki/day-to-day/"
     }
    ],
@@ -12936,6 +13928,54 @@
      "name_en": "Gifu Prefecture Hyakunen Park",
      "description": "Hyakunen Park in Seki, Gifu, is a 100-hectare satoyama park with typical Chuno woodland and many plants and animals through the seasons.",
      "source_url": "https://hyakunen-kouen.jp/",
+     "page": "https://bokenjapan.com/gifu/seki/see/"
+    },
+    {
+     "name": "Seki Swordsmith Tradition Hall",
+     "description": "Museum dedicated to swordsmithing located in Seki.",
+     "source_url": "https://www.sekikaji-mus.com/",
+     "page": "https://bokenjapan.com/gifu/seki/see/"
+    },
+    {
+     "name": "Hamono-ya Sanshukan Blade Museum",
+     "description": "Blade museum located in Seki.",
+     "source_url": "http://www.hamonoyasan.com/",
+     "page": "https://bokenjapan.com/gifu/seki/see/"
+    },
+    {
+     "name": "Furusato Farm Bi no Kan",
+     "description": "Farm facility located in Seki.",
+     "source_url": "http://minoseki.co.jp/",
+     "page": "https://bokenjapan.com/gifu/seki/see/"
+    },
+    {
+     "name": "Kabusugi Forest",
+     "description": "Forest located in Seki.",
+     "source_url": "http://sekikanko.jp/",
+     "page": "https://bokenjapan.com/gifu/seki/see/"
+    },
+    {
+     "name": "Ryu Yasushi Temple",
+     "description": "Temple located in Seki.",
+     "source_url": "http://ryutaiji.com/",
+     "page": "https://bokenjapan.com/gifu/seki/see/"
+    },
+    {
+     "name": "Gifu Seki Cutlery Hall",
+     "description": "Cutlery hall located in Seki.",
+     "source_url": "http://seki-japan.com/guide/sell/",
+     "page": "https://bokenjapan.com/gifu/seki/see/"
+    },
+    {
+     "name": "Seki Cultural Hall",
+     "description": "Cultural hall located in Seki.",
+     "source_url": "http://www.sekishi-bunkakaikan.jp/",
+     "page": "https://bokenjapan.com/gifu/seki/see/"
+    },
+    {
+     "name": "Itadori Flower Park",
+     "description": "Flower park located in Seki.",
+     "source_url": "https://ameblo.jp/itadori-flower/",
      "page": "https://bokenjapan.com/gifu/seki/see/"
     }
    ],
@@ -13522,6 +14562,12 @@
      "description": "From early to mid-June, Genji fireflies can be seen around Fujiko River, sometimes hundreds at once.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_5248.html",
      "page": "https://bokenjapan.com/gifu/sekigahara/see/"
+    },
+    {
+     "name": "Grave of Okudaira Teiji",
+     "description": "Historic grave located in Sekigahara.",
+     "source_url": "https://www.sekigahara1600.com/spot/okudairasadaharunohaka.html",
+     "page": "https://bokenjapan.com/gifu/sekigahara/see/"
     }
    ]
   },
@@ -13857,6 +14903,12 @@
      "description": "This roughly 250-year-old higan cherry, designated a prefectural preserved tree in 1926, was named Tenno Zakura in 1995 and blooms pure white.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_5405.html",
      "page": "https://bokenjapan.com/gifu/shirakawa/see/"
+    },
+    {
+     "name": "Oyama Hakusan Shrine",
+     "description": "Shrine located in Shirakawa.",
+     "source_url": "http://kankou.town.shirakawa.gifu.jp/study_01_mk_hakusan.htm",
+     "page": "https://bokenjapan.com/gifu/shirakawa/see/"
     }
    ],
    "stays": [
@@ -13918,6 +14970,14 @@
     "phone": "05769-6-1311"
    },
    "date_modified": "2026-10-17",
+   "day_to_day": [
+    {
+     "name": "Roadside Station Shirakawa-go",
+     "description": "Roadside station located in Shirakawa-go.",
+     "source_url": "http://shirakawa-go.org/miti-st/main.htm",
+     "page": "https://bokenjapan.com/gifu/shirakawamura/day-to-day/"
+    }
+   ],
    "activities": [
     {
      "name": "Shirakawa-go Gassho-zukuri Folk Village Autumn Illumination",
@@ -13952,6 +15012,12 @@
      "name_en": "Rickshaw Shinchan",
      "description": "Shirakawa-go's only rickshaw, with sightseeing tips, Hida beef croquettes, and sarubobo keychain and postcard souvenirs.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_6176.html",
+     "page": "https://bokenjapan.com/gifu/shirakawamura/do/"
+    },
+    {
+     "name": "Jiba Workshop",
+     "description": "Workshop located in Shirakawa-go.",
+     "source_url": "http://kankou.shirakawa-go.org/guide/872/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/do/"
     }
    ],
@@ -14250,6 +15316,18 @@
      "description": "Historic house in Shirakawa-go.",
      "source_url": "https://shirakawa-go.gr.jp/active/5/",
      "page": "https://bokenjapan.com/gifu/shirakawamura/see/"
+    },
+    {
+     "name": "Gassho-zukuri Folk House Open-Air Museum",
+     "description": "Open-air museum of gassho-zukuri houses located in Shirakawa-go.",
+     "source_url": "http://www.shirakawago-minkaen.jp/",
+     "page": "https://bokenjapan.com/gifu/shirakawamura/see/"
+    },
+    {
+     "name": "Ota Sakura",
+     "description": "Cherry tree site located in Shirakawa-go.",
+     "source_url": "http://www.shirakawa-go.org/",
+     "page": "https://bokenjapan.com/gifu/shirakawamura/see/"
     }
    ],
    "stays": [
@@ -14366,6 +15444,26 @@
      "description": "A commercial complex for Tajimi's ceramic businesses and local industry, with a city PR center and shops selling Mino ware and goods.",
      "source_url": "https://www.toutokan.jp/",
      "page": "https://bokenjapan.com/gifu/tajimi/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Tsuzuhara Enoo Tourist Farm Strawberry and Blueberry Picking",
+     "description": "Fruit-picking farm located in Tajimi.",
+     "source_url": "http://tuduhara.com/",
+     "page": "https://bokenjapan.com/gifu/tajimi/do/"
+    },
+    {
+     "name": "Voice of Ceramics Pottery Experience",
+     "description": "Pottery experience studio located in Tajimi.",
+     "source_url": "http://www.voice-tougei.com/",
+     "page": "https://bokenjapan.com/gifu/tajimi/do/"
+    },
+    {
+     "name": "Tenko Baths",
+     "description": "Bath facility located in Tajimi.",
+     "source_url": "http://www.tenko-spa.jp/",
+     "page": "https://bokenjapan.com/gifu/tajimi/do/"
     }
    ],
    "food": [
@@ -14669,6 +15767,54 @@
      "description": "Public square with fountain and water channels beside Tajimi Station North Plaza.",
      "source_url": "https://kokei-tajimi.com/",
      "page": "https://bokenjapan.com/gifu/tajimi/see/"
+    },
+    {
+     "name": "Shingenkai Tajimi Monastery",
+     "description": "Monastery located in Tajimi.",
+     "source_url": "http://svdtajimi.com/",
+     "page": "https://bokenjapan.com/gifu/tajimi/see/"
+    },
+    {
+     "name": "Ichinokura Sakazuki Art Museum",
+     "description": "Art museum in Tajimi dedicated to sakazuki sake cups.",
+     "source_url": "http://www.sakazuki.or.jp/",
+     "page": "https://bokenjapan.com/gifu/tajimi/see/"
+    },
+    {
+     "name": "Kosuke Kiln",
+     "description": "Pottery kiln in Tajimi producing Mino ware ceramics.",
+     "source_url": "http://www.ob.aitai.ne.jp/~k-gama/",
+     "page": "https://bokenjapan.com/gifu/tajimi/see/"
+    },
+    {
+     "name": "Children's Toki Museum",
+     "description": "Museum for children in Tajimi focused on ceramics.",
+     "source_url": "http://museum.kanesho.co.jp/",
+     "page": "https://bokenjapan.com/gifu/tajimi/see/"
+    },
+    {
+     "name": "Kokei Kiln",
+     "description": "Kiln in Tajimi making traditional Mino ware pottery.",
+     "source_url": "http://kokeigama.jp/",
+     "page": "https://bokenjapan.com/gifu/tajimi/see/"
+    },
+    {
+     "name": "Tajimi Mino Ware Museum",
+     "description": "Museum in Tajimi showcasing Mino ware ceramics.",
+     "source_url": "http://www.tajimi-bunka.or.jp/minoyaki_museum/",
+     "page": "https://bokenjapan.com/gifu/tajimi/see/"
+    },
+    {
+     "name": "Tajimi Mosaic Tile Museum",
+     "description": "Museum in Tajimi dedicated to mosaic tiles and ceramics.",
+     "source_url": "http://www.mosaictile-museum.jp/",
+     "page": "https://bokenjapan.com/gifu/tajimi/see/"
+    },
+    {
+     "name": "Ceramic Park Mino",
+     "description": "Public park in Tajimi with ceramic art and gardens.",
+     "source_url": "http://www.cpm-gifu.jp/",
+     "page": "https://bokenjapan.com/gifu/tajimi/see/"
     }
    ],
    "stays": [
@@ -14767,6 +15913,12 @@
      "description": "A Kiyomi wood workshop making tables, chairs, small furniture, interior goods, and wooden baby-food spoons.",
      "source_url": "https://noco-woodcraftdesign.jimdofree.com/",
      "page": "https://bokenjapan.com/gifu/takayama/day-to-day/"
+    },
+    {
+     "name": "Miboro Lake Drive-in",
+     "description": "Roadside rest area by Miboro Lake in Takayama.",
+     "source_url": "http://www.miboroko.com/",
+     "page": "https://bokenjapan.com/gifu/takayama/day-to-day/"
     }
    ],
    "activities": [
@@ -14796,6 +15948,48 @@
      "name_en": "Takayama Creative R",
      "description": "A Hida Takayama project creating food, activity, and stay experiences, including cycle rental and Hostel UTSUKE.",
      "source_url": "https://takayama.creative-r.com/cycle",
+     "page": "https://bokenjapan.com/gifu/takayama/do/"
+    },
+    {
+     "name": "Hirayu Onsen",
+     "description": "Hot-spring district in Takayama with public baths.",
+     "source_url": "http://hirayuonsen.or.jp/",
+     "page": "https://bokenjapan.com/gifu/takayama/do/"
+    },
+    {
+     "name": "Fukuchi Onsen",
+     "description": "Hot-spring village in Takayama offering public baths.",
+     "source_url": "http://fukujionsen.com/",
+     "page": "https://bokenjapan.com/gifu/takayama/do/"
+    },
+    {
+     "name": "Shinhodaka Onsen",
+     "description": "Hot-spring area in Takayama near the mountains.",
+     "source_url": "http://shinhotaka.com/",
+     "page": "https://bokenjapan.com/gifu/takayama/do/"
+    },
+    {
+     "name": "Shin-Hirayu Onsen",
+     "description": "Hot-spring resort in Takayama with outdoor baths.",
+     "source_url": "http://shinhirayuonsen.com/",
+     "page": "https://bokenjapan.com/gifu/takayama/do/"
+    },
+    {
+     "name": "Hirayu Onsen Foot Bath",
+     "description": "Free foot bath in Hirayu Onsen district, Takayama.",
+     "source_url": "http://www.okuhida.or.jp/roten_catalog",
+     "page": "https://bokenjapan.com/gifu/takayama/do/"
+    },
+    {
+     "name": "Hirayu no Mori Foot Bath",
+     "description": "Foot bath located at Hirayu no Mori, Takayama.",
+     "source_url": "http://www.hirayunomori.co.jp/",
+     "page": "https://bokenjapan.com/gifu/takayama/do/"
+    },
+    {
+     "name": "Okuhida Training Center Pool",
+     "description": "Public swimming pool at Okuhida Training Center, Takayama.",
+     "source_url": "http://www.okuhida.or.jp/tourist_facility/detail?id=1794",
      "page": "https://bokenjapan.com/gifu/takayama/do/"
     }
    ],
@@ -15199,6 +16393,48 @@
      "name_en": "Hida Senkoji Temple",
      "description": "Temple in Takayama known for zazen meditation, sutra copying and Enkū Buddha exhibitions.",
      "source_url": "https://senkouji.com/",
+     "page": "https://bokenjapan.com/gifu/takayama/see/"
+    },
+    {
+     "name": "Akigami Highlands",
+     "description": "Highland plateau area in Takayama for outdoor activities.",
+     "source_url": "http://akigamikogen.jp/",
+     "page": "https://bokenjapan.com/gifu/takayama/see/"
+    },
+    {
+     "name": "Autumn Foliage at Shinhotaka Ropeway",
+     "description": "Mountain ropeway in Takayama offering autumn foliage views.",
+     "source_url": "http://shinhotaka-ropeway.jp/",
+     "page": "https://bokenjapan.com/gifu/takayama/see/"
+    },
+    {
+     "name": "Takayama Tami Cultural Hall",
+     "description": "Cultural hall in Takayama hosting performances and exhibitions.",
+     "source_url": "http://takayama-bunka.org",
+     "page": "https://bokenjapan.com/gifu/takayama/see/"
+    },
+    {
+     "name": "The 4th Hida Craftsmanship Exhibition: Hida Scenery Through Glass",
+     "description": "Temporary glass exhibition in Takayama about Hida scenery.",
+     "source_url": "https://hidajibasan.com/",
+     "page": "https://bokenjapan.com/gifu/takayama/see/"
+    },
+    {
+     "name": "6th Hida Monozukuri Exhibition",
+     "description": "Craft exhibition in Takayama presenting local manufacturing.",
+     "source_url": "https://www.hidajibasan.com/event.htm#hidanokibori",
+     "page": "https://bokenjapan.com/gifu/takayama/see/"
+    },
+    {
+     "name": "Sakurayama Nikkokan",
+     "description": "Sakurayama Nikkokan is in Takayama.",
+     "source_url": "http://www.hidahachimangu.jp/",
+     "page": "https://bokenjapan.com/gifu/takayama/see/"
+    },
+    {
+     "name": "Shinhodaka Center",
+     "description": "Shinhodaka Center is in Takayama.",
+     "source_url": "http://kitaalpsgifu.jp/",
      "page": "https://bokenjapan.com/gifu/takayama/see/"
     }
    ],
@@ -16637,6 +17873,18 @@
      "description": "Around early June, many fireflies glow along the river in Iwate because conservation has kept the water clean.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_5250.html",
      "page": "https://bokenjapan.com/gifu/tarui/do/"
+    },
+    {
+     "name": "Mount Nangu Hiking Course",
+     "description": "Mount Nangu Hiking Course is in Tarui.",
+     "source_url": "http://www.tarui-kanko.jp/docs/2015070800014/",
+     "page": "https://bokenjapan.com/gifu/tarui/do/"
+    },
+    {
+     "name": "Ibuki Festival",
+     "description": "Ibuki Festival is held in Tarui.",
+     "source_url": "http://www.tarui-kanko.jp/docs/2015071600040/",
+     "page": "https://bokenjapan.com/gifu/tarui/do/"
     }
    ],
    "food": [
@@ -16991,6 +18239,48 @@
      "description": "Asano Yoshinaga, eldest son of Asano Nagamasa, joined the Eastern Army at Sekigahara as vanguard and captured Gifu Castle.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_6867.html",
      "page": "https://bokenjapan.com/gifu/tarui/see/"
+    },
+    {
+     "name": "Nakasendo Tarui Post Town",
+     "description": "Nakasendo Tarui Post Town is in Tarui.",
+     "source_url": "http://www.tarui-kanko.jp/kankonavi/nakasendo.html",
+     "page": "https://bokenjapan.com/gifu/tarui/see/"
+    },
+    {
+     "name": "Itomishi Shrine",
+     "description": "Itomishi Shrine is in Tarui.",
+     "source_url": "http://www.tarui-kanko.jp/docs/2015070800168/",
+     "page": "https://bokenjapan.com/gifu/tarui/see/"
+    },
+    {
+     "name": "Myojin Lake",
+     "description": "Myojin Lake is in Tarui.",
+     "source_url": "http://www.tarui-kanko.jp/docs/2015070800038/",
+     "page": "https://bokenjapan.com/gifu/tarui/see/"
+    },
+    {
+     "name": "Kuroda Nagamasa's Hand-Planted Ginkgo and Gomyo Inari Shrine",
+     "description": "Kuroda Nagamasa's Hand-Planted Ginkgo and Gomyo Inari Shrine is in Tarui.",
+     "source_url": "http://www.tarui-kanko.jp/docs/2015120900015/",
+     "page": "https://bokenjapan.com/gifu/tarui/see/"
+    },
+    {
+     "name": "Seiga Memorial Museum",
+     "description": "Seiga Memorial Museum is in Tarui.",
+     "source_url": "http://www.tarui-kanko.jp/docs/2015070800144/",
+     "page": "https://bokenjapan.com/gifu/tarui/see/"
+    },
+    {
+     "name": "Mino Ko National Historic Site",
+     "description": "Mino Ko National Historic Site is in Tarui.",
+     "source_url": "http://www.tarui-bunkazai.jp/bunkamap/shiseki/map000102.html",
+     "page": "https://bokenjapan.com/gifu/tarui/see/"
+    },
+    {
+     "name": "Entwined Sakaki Tree",
+     "description": "Entwined Sakaki Tree is in Tarui.",
+     "source_url": "http://www.tarui-kanko.jp/docs/2015070800069/",
+     "page": "https://bokenjapan.com/gifu/tarui/see/"
     }
    ],
    "stays": [
@@ -17056,6 +18346,12 @@
      "description": "A Toki Mino-ware complex with 12 shops, also hosting one of Japan's three major pottery festivals.",
      "source_url": "https://www.oribe-hills.com/",
      "page": "https://bokenjapan.com/gifu/toki/day-to-day/"
+    },
+    {
+     "name": "Shino Oribe Roadside Station",
+     "description": "Shino Oribe Roadside Station is in Toki.",
+     "source_url": "http://shino-oribe.co.jp/",
+     "page": "https://bokenjapan.com/gifu/toki/day-to-day/"
     }
    ],
    "activities": [
@@ -17078,6 +18374,12 @@
      "name_en": "KOYO BASE Full Tableware Learning Package",
      "description": "Pottery-making experience package offered in Toki city.",
      "source_url": "https://gifu.visit-town.com/visittour/koyobase/",
+     "page": "https://bokenjapan.com/gifu/toki/do/"
+    },
+    {
+     "name": "Dachi Kiln Tour",
+     "description": "Dachi Kiln Tour is in Toki.",
+     "source_url": "http://kamayanet.web.fc2.com/",
      "page": "https://bokenjapan.com/gifu/toki/do/"
     }
    ],
@@ -17333,6 +18635,30 @@
      "description": "Founded in 1909, this brewery makes crisp Chigo no Iwa sake from local rice.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_6312.html",
      "page": "https://bokenjapan.com/gifu/toki/see/"
+    },
+    {
+     "name": "Mino Ware Traditional Industry Hall",
+     "description": "Mino Ware Traditional Industry Hall is in Toki.",
+     "source_url": "http://www.minoyaki.gr.jp/minoyaki2/densan/densan.htm",
+     "page": "https://bokenjapan.com/gifu/toki/see/"
+    },
+    {
+     "name": "Toki Mino Ceramics History Museum",
+     "description": "Toki Mino Ceramics History Museum is in Toki.",
+     "source_url": "http://www.toki-bunka.or.jp/history",
+     "page": "https://bokenjapan.com/gifu/toki/see/"
+    },
+    {
+     "name": "Tsumagi Castle Ruins",
+     "description": "Tsumagi Castle Ruins are in Toki.",
+     "source_url": "http://www.tumagijyou.com/",
+     "page": "https://bokenjapan.com/gifu/toki/see/"
+    },
+    {
+     "name": "Toki Culture Plaza",
+     "description": "Toki Culture Plaza is in Toki.",
+     "source_url": "http://www.toki-bunka.or.jp/plaza",
+     "page": "https://bokenjapan.com/gifu/toki/see/"
     }
    ],
    "stays": [
@@ -17417,6 +18743,14 @@
      "description": "Roadside station in Tomika selling local produce and offering dishes made with ancient rice and Mino Healthy Pork.",
      "source_url": "http://www.hanyuri.com/",
      "page": "https://bokenjapan.com/gifu/tomika/day-to-day/"
+    }
+   ],
+   "activities": [
+    {
+     "name": "Tomika B&G Marine Center",
+     "description": "Tomika B&G Marine Center is in Tomika.",
+     "source_url": "http://www.town.tomika.gifu.jp/shisei/shisetsu/kaiyou/index.html",
+     "page": "https://bokenjapan.com/gifu/tomika/do/"
     }
    ],
    "food": [
@@ -17663,6 +18997,42 @@
      "name_en": "Daibai Temple",
      "description": "An Obaku sect temple in Hanyu, Tomika.",
      "source_url": "https://www.town.tomika.gifu.jp/docs/264.html",
+     "page": "https://bokenjapan.com/gifu/tomika/see/"
+    },
+    {
+     "name": "Yuta Chausuyama Burial Mound",
+     "description": "Yuta Chausuyama Burial Mound is in Tomika.",
+     "source_url": "http://www.town.tomika.gifu.jp/tourism/rekishi/kohun_tanbou.html",
+     "page": "https://bokenjapan.com/gifu/tomika/see/"
+    },
+    {
+     "name": "Toka Temple",
+     "description": "Toka Temple is in Tomika.",
+     "source_url": "http://www.town.tomika.gifu.jp/tourism/rekishi/toukouji_bunkazai.html",
+     "page": "https://bokenjapan.com/gifu/tomika/see/"
+    },
+    {
+     "name": "Fureai Salon Dodan",
+     "description": "Fureai Salon Dodan is in Tomika.",
+     "source_url": "http://www.town.tomika.gifu.jp/shisei/shisetsu/hureai/index.html",
+     "page": "https://bokenjapan.com/gifu/tomika/see/"
+    },
+    {
+     "name": "Shimizudani River Park",
+     "description": "Shimizudani River Park is in Tomika.",
+     "source_url": "http://www.town.tomika.gifu.jp/index.html",
+     "page": "https://bokenjapan.com/gifu/tomika/see/"
+    },
+    {
+     "name": "Reimine Temple",
+     "description": "Reimine Temple is in Tomika.",
+     "source_url": "http://www.town.tomika.gifu.jp/shoukai/ryufukuji_bunkazai.html",
+     "page": "https://bokenjapan.com/gifu/tomika/see/"
+    },
+    {
+     "name": "Iwa Shrine",
+     "description": "Iwa Shrine is a shrine located in Tomika.",
+     "source_url": "http://www.town.tomika.gifu.jp/tourism/rekishi/iwajinja.html",
      "page": "https://bokenjapan.com/gifu/tomika/see/"
     }
    ]
@@ -18272,6 +19642,18 @@
      "description": "Lake in Yamagata.",
      "source_url": "https://www.city.yamagata.gifu.jp/site/yamanavi/1159.html",
      "page": "https://bokenjapan.com/gifu/yamagata/see/"
+    },
+    {
+     "name": "Sanko Temple",
+     "description": "Sanko Temple is a temple located in Yamagata.",
+     "source_url": "http://sankouji.main.jp/",
+     "page": "https://bokenjapan.com/gifu/yamagata/see/"
+    },
+    {
+     "name": "Kana Village",
+     "description": "Kana Village is a village located in Yamagata.",
+     "source_url": "http://kananosato.com",
+     "page": "https://bokenjapan.com/gifu/yamagata/see/"
     }
    ],
    "stays": [
@@ -18330,6 +19712,18 @@
      "name_en": "B&G Marine Center Boathouse",
      "description": "Boat-storage facility in Yaotsu available for public use by reservation.",
      "source_url": "https://www.town.yaotsu.lg.jp/1528.htm",
+     "page": "https://bokenjapan.com/gifu/yaotsu/do/"
+    },
+    {
+     "name": "Survival Game Field",
+     "description": "Survival Game Field is a game field located in Yaotsu.",
+     "source_url": "http://www.md.ccnw.ne.jp/survival-game/",
+     "page": "https://bokenjapan.com/gifu/yaotsu/do/"
+    },
+    {
+     "name": "Shio Minami Mallet Golf Course",
+     "description": "Shio Minami Mallet Golf Course is a golf course located in Yaotsu.",
+     "source_url": "http://www.md.ccnw.ne.jp/shionamibiyori/mallet_golf/",
      "page": "https://bokenjapan.com/gifu/yaotsu/do/"
     }
    ],
@@ -18843,6 +20237,18 @@
      "name_en": "Autumn Leaves at Yoro Park",
      "description": "Yoro Park, chosen among the 33 Hida-Mino autumn foliage spots, covers about 78.6 hectares and peaks from mid-November to early December.",
      "source_url": "https://www.kankou-gifu.jp/spot/detail_1151.html",
+     "page": "https://bokenjapan.com/gifu/yoro/see/"
+    },
+    {
+     "name": "Cherry Blossoms at Yoro Park",
+     "description": "Cherry Blossoms at Yoro Park is a park located in Yoro.",
+     "source_url": "http://www.kanko-yoro.jp/",
+     "page": "https://bokenjapan.com/gifu/yoro/see/"
+    },
+    {
+     "name": "Suga Shrine and Shogaku Temple",
+     "description": "Suga Shrine and Shogaku Temple are located in Yoro.",
+     "source_url": "http://www.tagizou.com/main/map/course_viewer.php?cid=30",
      "page": "https://bokenjapan.com/gifu/yoro/see/"
     }
    ],
