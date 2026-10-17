@@ -43,7 +43,7 @@ RULES = OrderedDict([
     ("R1", "Dining: sourced (Tabelog ∪ TripAdvisor), Tabelog-first order, never empty"),
     ("R2", "Stay: sourced (Ikkyu ∪ Jalan), Ikkyu-first order; no thin sights-only page"),
     ("R3", "Every Dining/Stay facility has a real photo; credit in metadata; any photo source is kept"),
-    ("R4", "Card format: JA name / EN name / '#N ranked in {Municipality}' / English explanation; no labels/scores"),
+    ("R4", "Card format: EN headline / JA subtitle (lang=ja) / '#N ranked in {Municipality}' / English explanation; no labels/scores (legacy JA / EN order accepted, WARN)"),
     ("R5", "No visible source/data/licence credits or source-link chrome; every card clickable; English-first"),
     ("R6", "Tiny legal disclaimer at homepage bottom only"),
     ("R7", "Matches Ōhira reference template elements"),
@@ -138,6 +138,10 @@ JALAN_RE = re.compile(r"^https?://(www\.)?jalan\.net/yad\d+/?")
 IKKYU_RE = re.compile(r"^https?://(www\.)?ik?kyu\.com/\d+/?")
 DESC_SEL = ".place-desc, .place-explain, .place-note"
 LINE_CLASSES = ("place-name", "place-blurb", "place-meta", "place-desc")
+# English-first cards (scripts/english_first_headings.py): p.place-name = English headline (inside the link), p.place-name-ja[lang=ja] = Japanese
+# subtitle (takes the place of the old p.place-blurb), optional p.place-pron = small "Romaji: ..." line. They are mapped onto the legacy
+# line model in parse_cards (name = Japanese identity, blurb = English headline) so every rule keyed on name/blurb keeps working.
+EN_FIRST_EXTRA = ("place-name-ja", "place-pron")
 
 
 class Budget:
@@ -425,7 +429,7 @@ def check_common(res, soup, raw, url, page_type, ctx):
     brand_hits = []
     for t in body.find_all(string=True):
         par = t.parent
-        if par is not None and set(par.get("class") or []) & {"place-name", "place-blurb", "place-desc"}:
+        if par is not None and set(par.get("class") or []) & {"place-name", "place-blurb", "place-desc", "place-name-ja", "place-pron"}:
             continue
         if par is not None and (par.find_parent(class_="foot-disclaimer") or "foot-disclaimer" in (par.get("class") or [])):
             continue
@@ -640,7 +644,7 @@ def parse_cards(section):
     if not ul:
         return cards
     for li in ul.find_all("li", recursive=False):
-        lines = [t for t in li.find_all(["p", "div", "span"]) if set(t.get("class") or []) & set(LINE_CLASSES)]
+        lines = [t for t in li.find_all(["p", "div", "span"]) if set(t.get("class") or []) & set(LINE_CLASSES + EN_FIRST_EXTRA)]
         cm = comments_of(li)
         img = li.find("img")
         name_el = li.select_one(".place-name")
@@ -652,13 +656,20 @@ def parse_cards(section):
         extra = li.get_text(" ", strip=True)
         for t in lines:
             extra = extra.replace(t.get_text(" ", strip=True), "", 1)
+        ja_el = li.select_one(".place-name-ja")
+        en_first = ja_el is not None
+        head_txt = name_el.get_text(" ", strip=True) if name_el else ""
         cards.append({
-            "name": name_el.get_text(" ", strip=True) if name_el else "",
-            "blurb": (li.select_one(".place-blurb").get_text(" ", strip=True) if li.select_one(".place-blurb") else None),
+            "en_first": en_first,
+            "headline": head_txt,
+            "name_ja_lang": (ja_el.get("lang") if en_first else None),
+            "name": (ja_el.get_text(" ", strip=True) if en_first else head_txt),
+            "blurb": (head_txt if en_first else (li.select_one(".place-blurb").get_text(" ", strip=True) if li.select_one(".place-blurb") else None)),
             "meta": (li.select_one(".place-meta").get_text(" ", strip=True) if li.select_one(".place-meta") else None),
             "desc": desc_el.get_text(" ", strip=True) if desc_el else None,
             "desc_source": any(c.startswith("desc-source") for c in cm),
-            "line_seq": [next(c for c in LINE_CLASSES if c in (t.get("class") or [])) for t in lines],
+            "line_seq": [("place-blurb" if "place-name-ja" in (t.get("class") or []) else next(c for c in LINE_CLASSES if c in (t.get("class") or [])))
+                         for t in lines if "place-pron" not in (t.get("class") or [])],
             "img": img.get("src") if img else None,
             "credit": credit_of(cm),
             "sources": parse_kv_comment(cm, "sources:"),
@@ -891,7 +902,7 @@ def check_facility_cards(res, cards, kind, muni, pref, url, ctx, stats):
         res.add("R3", "PASS", f"{kind}: all {n} facilities have a photo with credit metadata")
 
     # R4 4-line format
-    other, fw_warn = [], []
+    other, fw_warn, ja_headline = [], [], []
     nodesc = noen = 0
     for i, c in enumerate(cards, 1):
         probs = []
@@ -901,6 +912,14 @@ def check_facility_cards(res, cards, kind, muni, pref, url, ctx, stats):
         if not c["name"]:
             probs.append("empty JA name")
         b = c["blurb"]
+        if c["en_first"]:
+            # English-first card: line 1 = English headline (no Japanese), line 2 = Japanese subtitle with lang="ja"
+            if CJK.search(c["headline"]):
+                probs.append("English-first card but headline has Japanese")
+            if not CJK.search(c["name"]) or (c["name_ja_lang"] or "").lower() != "ja":
+                probs.append("Japanese subtitle missing or lacks lang=\"ja\"")
+        elif c["name"] and CJK.search(c["name"]):
+            ja_headline.append(i)
         if not b or CJK.search(b):
             noen += 1
         elif FULLWIDTH_RE.search(b):
@@ -956,8 +975,12 @@ def check_facility_cards(res, cards, kind, muni, pref, url, ctx, stats):
         nosrc = sum(1 for c in cards if c["desc"] and not c["desc_source"])
         if nosrc:
             res.add("R4", "WARN", f"{kind}: {nosrc} explanations lack desc-source metadata (cannot verify 'sourced, not invented')", "R4.desc-unsourced", nosrc)
+    if ja_headline:
+        # Michael 2026-10-17: English everywhere. Legacy layout (Japanese headline, English on line 2) is WARN until the tree is converted; BJ_ENGLISH_FIRST_STRICT=1 makes it FAIL.
+        res.add("R4", "FAIL" if os.environ.get("BJ_ENGLISH_FIRST_STRICT") == "1" else "WARN",
+                f"{kind}: {len(ja_headline)}/{n} cards headline the Japanese name (run scripts/english_first_headings.py)", "R4.ja-headline", len(ja_headline))
     if not (nodesc or noen or other):
-        res.add("R4", "PASS", f"{kind}: all {n} cards match the 4-line format")
+        res.add("R4", "PASS", f"{kind}: all {n} cards match the 4-line format (English headline + Japanese subtitle, or legacy)")
 
 
 def check_other_rows(res, cards, title, stats):
@@ -1392,7 +1415,7 @@ def v2_page_checks(res, sub, u):
                 kept.add(nm_)
     for li in sub.select("ul.place-list > li"):
         a = li.find("a", href=True); img = li.find("img")
-        nm = li.select_one(".place-name"); en = li.select_one(".place-blurb")
+        nm = li.select_one(".place-name"); en = li.select_one(".place-blurb") or li.select_one(".place-name-ja")
         ja_t = nm.get_text(" ", strip=True) if nm else ""; en_t = en.get_text(" ", strip=True) if en else ""
         if ja_t or en_t:
             names[(ja_t, en_t)] += 1
