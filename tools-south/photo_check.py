@@ -75,7 +75,7 @@ def html_attr_dims(tag):
 
 def load_bytes(src, root, media_root, fetch):
     """local file -> bytes ; else live (cached) when fetch -> bytes ; else None"""
-    rel = src.lstrip('/')
+    rel = re.sub(r'^https?://[^/]+/', '', src).lstrip('/')
     for base in filter(None, [media_root and Path(media_root), Path(root)]):
         p = (base / Path(rel).name) if media_root and base == Path(media_root) else base / rel
         if p.exists(): return p.read_bytes(), 'local'

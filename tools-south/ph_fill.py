@@ -97,11 +97,12 @@ def match_osm(card, els):
     a = nl(card['name'])
     if len(a) < 5: return None, 0
     for e in els:
+        if e['tags'].get('amenity') in ('place_of_worship', 'school', 'hospital', 'clinic') if isinstance(e.get('tags'), dict) else False: continue
         for b in (nl(e['name_en']) if e['name_en'] else '', nl(L.romanize(e['name'])) if JP.search(e['name']) else nl(e['name'])):
             if not b: continue
             s = 1.0 if a == b else difflib.SequenceMatcher(None, a, b).ratio()
             if s > bs: best, bs = e, s
-    return (best, bs) if bs >= 0.88 else (None, bs)
+    return (best, bs) if bs >= 0.92 else (None, bs)
 
 # ------------------------------------------------------------------ image handling
 _md5 = {}
@@ -175,11 +176,21 @@ def commons_search(card, town_ja, town_en, dest):
                         credit='Wikimedia Commons', author=au, licence=lic, commons_title=p['title']), None
     return None, 'no-title-match'
 
+def commons_meta(page_url):
+    t = urllib.parse.unquote(page_url.rsplit('/wiki/', 1)[-1]).replace('_', ' ')
+    d = commons_api({'action': 'query', 'titles': t, 'prop': 'imageinfo', 'iiprop': 'extmetadata'})
+    for p in (d.get('query') or {}).get('pages', {}).values():
+        md = ((p.get('imageinfo') or [{}])[0]).get('extmetadata') or {}
+        au = re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', (md.get('Artist') or {}).get('value', ''))).strip()[:80] or 'unknown author'
+        return au, (md.get('LicenseShortName') or {}).get('value', 'see source')
+    return 'unknown author', 'see source'
+
 def find_card(card, els, town_ja, town_en, media, prior=None):
     cid = card_id(card)
     dest = media / f"{card['town']}-dining-{cid}.webp"
     tried, notes, photo = [], {}, None
     m, sc = match_osm(card, els) if els else (None, 0)
+    if els: tried.append('osm-name-match')
     if m:
         notes['osm'] = f"match:{m['osmid']}:{sc:.2f}"
         if m['site'] and not m['chain']:
@@ -193,7 +204,9 @@ def find_card(card, els, town_ja, town_en, media, prior=None):
                 u, page = OD.commons_url(m['tags'])
                 if u:
                     size, bad = take_image(u, dest)
-                    if size: photo = dict(source=page, img_url=u, size=list(size), credit='Wikimedia Commons', osm=m['osmid'])
+                    if size:
+                        au, lic = commons_meta(page)
+                        photo = dict(source=page, img_url=u, size=list(size), credit='Wikimedia Commons', author=au, licence=lic, osm=m['osmid'])
                     else: notes['commons'] = bad
                 else: notes['commons'] = 'no-image-on-entity'
             except Exception as e: notes['commons'] = f'err:{type(e).__name__}'
@@ -218,7 +231,7 @@ class Blocked(Exception): pass
 def bing(q):
     import base64
     with _ddg_lock:
-        gap = 2.5 - (time.time() - _ddg_last[0])
+        gap = 1.5 - (time.time() - _ddg_last[0])
         if gap > 0: time.sleep(gap)
         _ddg_last[0] = time.time()
     r = OD.S.get('https://www.bing.com/search', params={'q': q, 'setlang': 'ja', 'cc': 'jp'}, headers={'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64)', 'Accept-Language': 'ja,en;q=0.8'}, timeout=20)
@@ -274,6 +287,9 @@ def web_find(card, town_ja, town_en, dest):
         plain = re.sub(r'<script.*?</script>|<style.*?</style>|<[^>]+>', ' ', txt, flags=re.S)
         pk = L.norm_name(plain[:60000]) if ja else nl(plain[:60000])
         if key not in pk: continue
+        tt = ' '.join(re.findall(r'<title[^>]*>(.*?)</title>|<h1[^>]*>(.*?)</h1>|property="og:site_name" content="([^"]*)"', txt, flags=re.S | re.I).__iter__().__next__() if False else [x for tup in re.findall(r'<title[^>]*>(.*?)</title>|<h1[^>]*>(.*?)</h1>|property="og:site_name" content="([^"]*)"', txt, flags=re.S | re.I) for x in tup])
+        tt = L.norm_name(re.sub(r'<[^>]+>', ' ', tt)) if ja else nl(re.sub(r'<[^>]+>', ' ', tt))
+        if key not in tt or len(key) < 3: continue   # the venue name must be in the page title / h1 / site name (blogs and news pages that merely mention it are rejected)
         hint = ('福岡' in plain) or (town_ja and town_ja.rstrip('市町村') in plain) or (town_en and town_en.lower() in plain.lower()) or 'fukuoka' in plain.lower()
         if not hint: continue
         photo, why = official(u, dest)
@@ -291,6 +307,8 @@ def cmd_web(A):
         _md5[hashlib.md5(f.read_bytes()).hexdigest()] = f.name
     todo = [k for k, r0 in last.items() if r0['photo'] is None and 'web-search' not in r0['photo_search']['tried']
             and (not A.towns or r0['town'] in A.towns.split(',')) and not OD.CHAIN_RE.search(r0['name'])]
+    todo.sort(key=lambda k: 0 if JP.search(last[k]['name']) else 1)
+    if A.jp_only: todo = [k for k in todo if JP.search(last[k]['name'])]
     OD.log(f'web phase: {len(todo)} cards')
     n = f = 0
     def one(k):
@@ -303,7 +321,7 @@ def cmd_web(A):
         ps = dict(r0['photo_search']); ps['tried'] = ps['tried'] + ['web-search']; ps['notes'] = dict(ps['notes'], **notes)
         if photo: ps['result'] = 'Official website'
         return dict(r0, photo=photo and dict(photo, file=f'media/{dest.name}'), photo_search=ps)
-    with open(rf, 'a') as fh, ThreadPoolExecutor(4) as ex:
+    with open(rf, 'a') as fh, ThreadPoolExecutor(10) as ex:
         for res in ex.map(one, todo):
             if res is None: continue
             fh.write(json.dumps(res, ensure_ascii=False) + '\n'); fh.flush(); n += 1; f += bool(res['photo'])
@@ -351,12 +369,25 @@ def cmd_find(A):
         except OSError: pass
     todo = [r for r in rows if not r['photo'] and r['sec'] == 'eat']
     towns = [t for t in (A.towns.split(',') if A.towns else sorted({r['town'] for r in todo}))]
+    OSMJ = json.load(open(A.osm_json)) if A.osm_json else []
     n = 0; queue = list(towns); rounds = 0
     while queue:
         town = queue.pop(0)
         cs = [r for r in todo if r['town'] == town and f"{r['town']}|{r['sec']}|{r['href']}|{r['name']}" not in done]
         if not cs: continue
-        els = None if A.no_osm_wait else osm_town(A.pref, town)
+        if A.osm_json:
+            tj0 = (L.town_ja(A.pref, town) or '').rstrip('市町村')
+            els = []
+            for e in OSMJ:
+                site = (e['site'] or '').strip()
+                if site and not re.match(r'https?://', site): site = 'http://' + site
+                if site and OD.BLOCKED.search(urllib.parse.urlparse(site).netloc): site = ''
+                if not (site or e['wikidata'] or e['commons']): continue
+                if e['addr'] and tj0 and not any(x in e['addr'] for x in (tj0,)) and re.search(r'[市町村郡]', e['addr']): continue   # element is in another municipality
+                els.append(dict(osmid=e['osmid'], name=e['name'], name_en=e['name_en'], site=site, tags=dict(wikidata=e['wikidata'], wikimedia_commons=e['commons']),
+                                chain=bool(OD.CHAIN_RE.search(e['name']) or e['tags'].get('brand') or e['tags'].get('brand:wikidata'))))
+        else:
+            els = None if A.no_osm_wait else osm_town(A.pref, town)
         if els is None and osm_pass:
             OD.log(f'  {town}: Overpass still unavailable'); continue
         if els is None and not A.no_osm_wait:
@@ -406,13 +437,21 @@ def cmd_apply(A):
             alt = H.unescape(bl.group(1)) if bl else H.unescape(name)
             if r['photo']:
                 p = r['photo']; w, h = p['size']
+                src_f = out / p['file']; dst_f = root / p['file']
+                if src_f.exists():
+                    dst_f.parent.mkdir(parents=True, exist_ok=True)
+                    if not dst_f.exists(): dst_f.write_bytes(src_f.read_bytes())
+                else: return m.group(0)
                 img = f'<img class="thumb" src="{IMG_HOST}/{p["file"]}" alt="{H.escape(alt, quote=True)}" loading="lazy" decoding="async" width="{w}" height="{h}">'
                 body = body.replace('</p></a>', '</p>' + img + '</a>', 1)
                 cred = f'<!-- photo-credit: {H.escape(p.get("author") or p["credit"], quote=False).replace("--", "-")} · {p.get("licence") or "all rights with the venue (official website)"} · Source {p["source"]} -->'
                 body = body[:-5] + cred + '</li>'
                 stats['photo'] += 1
             else:
-                body = body[:-5] + '<!-- photo_search: ' + json.dumps(r['photo_search'], ensure_ascii=False, separators=(',', ':')) + ' -->' + '</li>'
+                ps0 = r['photo_search']
+                if 'web-search' not in ps0['tried'] and 'web-search' not in ps0['notes']:
+                    ps0 = dict(ps0, notes=dict(ps0['notes'], **{'web-search': 'not-run:English-only name (pilot of 480 such cards returned only unrelated pages)'}))
+                body = body[:-5] + '<!-- photo_search: ' + json.dumps(ps0, ensure_ascii=False, separators=(',', ':')) + ' -->' + '</li>'
                 stats['search-recorded'] += 1
             return body
         t = LI.sub(sub, t)
@@ -423,8 +462,8 @@ def main():
     ap = argparse.ArgumentParser(); sp = ap.add_subparsers(dest='cmd', required=True)
     a = sp.add_parser('inv'); a.add_argument('--root', required=True); a.add_argument('--pref', required=True); a.add_argument('--out', required=True)
     b = sp.add_parser('find'); b.add_argument('--root', required=True); b.add_argument('--inv', required=True); b.add_argument('--pref', required=True); b.add_argument('--out', required=True)
-    b.add_argument('--towns'); b.add_argument('--no-osm-wait', action='store_true'); b.add_argument('--phase', default='all', choices=['all', 'osm']); b.add_argument('--limit', type=int, default=0); b.add_argument('--workers', type=int, default=3)
-    w = sp.add_parser('web'); w.add_argument('--root', required=True); w.add_argument('--inv', required=True); w.add_argument('--pref', required=True); w.add_argument('--out', required=True); w.add_argument('--towns'); w.add_argument('--limit', type=int, default=0)
+    b.add_argument('--towns'); b.add_argument('--no-osm-wait', action='store_true'); b.add_argument('--phase', default='all', choices=['all', 'osm']); b.add_argument('--osm-json'); b.add_argument('--limit', type=int, default=0); b.add_argument('--workers', type=int, default=3)
+    w = sp.add_parser('web'); w.add_argument('--root', required=True); w.add_argument('--inv', required=True); w.add_argument('--pref', required=True); w.add_argument('--out', required=True); w.add_argument('--towns'); w.add_argument('--limit', type=int, default=0); w.add_argument('--jp-only', action='store_true')
     r = sp.add_parser('romaji'); r.add_argument('--root', required=True); r.add_argument('--pref', required=True); r.add_argument('--map', required=True)
     c = sp.add_parser('apply'); c.add_argument('--root', required=True); c.add_argument('--pref', required=True); c.add_argument('--out', required=True)
     A = ap.parse_args()
