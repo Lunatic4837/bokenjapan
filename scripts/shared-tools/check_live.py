@@ -90,6 +90,7 @@ VISIBLE_CREDIT_RE = re.compile(
 # Photo-credits policy (2026-10-17): cards and sub-pages never carry credit rows or credit text; credits live on
 # /photo-credits/ and /<pref>/photo-credits/ (author, licence, source), reachable from a footer "Photo credits" link.
 CREDITS_PAGE_RE = re.compile(r"^/(?:[a-z0-9-]+/)?photo-credits/?(?:index\.html)?$")
+FOOT_DATA_RE = re.compile(r"^Data:\s*©\s*OpenStreetMap contributors(?:\s*\(ODbL\))?$", re.I)  # allowed ODbL footer line (2026-10-17 decision)
 CREDITS_LINK_RE = re.compile(r"^(?:https?://[^/]*bokenjapan\.com)?/(?:[a-z0-9-]+/)?photo-credits/?$")
 CREDIT_CLASS_RE = re.compile(r"(?:^|[-_ ])(?:credit|credits|attribution|photo-credit|photocredit|source-credit)(?:$|[-_ ])", re.I)
 SOURCE_LINK_TEXT_RE = re.compile(r"source|出典|\blink\b|tabelog|tripadvisor|jalan|ikkyu|じゃらん|食べログ|一休|terms of use|licen[cs]e", re.I)
@@ -349,6 +350,12 @@ def r5_credits(res, body, url):
         par = t.parent
         if par is not None and par.name == "a" and CREDITS_LINK_RE.match(par.get("href", "")) and par.find_parent("footer") is not None:
             continue  # the allowed footer "Photo credits" link
+        fd = par.find_parent("p", class_="foot-data") if par is not None else None
+        if fd is None and par is not None and par.name == "p" and "foot-data" in (par.get("class") or []):
+            fd = par
+        if fd is not None and fd.find_parent("footer") is not None and FOOT_DATA_RE.match(fd.get_text(" ", strip=True).replace("  ", " ")) \
+                and all("openstreetmap.org" in (a.get("href") or "") for a in fd.find_all("a")):
+            continue  # the allowed ODbL footer line "Data: © OpenStreetMap contributors"
         if par is not None and (par.find_parent(class_="foot-disclaimer") or "foot-disclaimer" in (par.get("class") or [])):
             continue
         a_par = par if (par is not None and par.name == "a") else (par.find_parent("a") if par is not None else None)
@@ -410,7 +417,7 @@ def check_common(res, soup, raw, url, page_type, ctx):
     foot = soup.find("footer")
     if foot:
         extra = [p.get_text(" ", strip=True) for p in foot.find_all("p", recursive=False)
-                 if not set(p.get("class") or []) & {"foot-name", "foot-disclaimer"}]
+                 if not set(p.get("class") or []) & {"foot-name", "foot-disclaimer", "foot-data"}]
         if extra:
             res.add("R6", "WARN", f"footer carries a visible sourcing statement (owner to decide if it counts as a credit): '{short(extra[0], 70)}'", "R6.footer-statement")
 
@@ -1726,7 +1733,7 @@ def main():
         f.cache_dir = a.html_cache
     inventory = None
     if a.inventory:
-        inventory = [l.strip() for l in open(a.inventory) if l.strip().endswith("/index.html") and l.strip().count("/") == 2]
+        inventory = [l.strip() for l in open(a.inventory) if l.strip().endswith("/index.html") and l.strip().count("/") == 2 and "/photo-credits/" not in "/" + l.strip()]
     ctx = {"fetcher": f, "known_ok": set(), "images_per_page": a.images_per_page, "rnd": rnd,
            "deep_images_per_page": a.deep_images_per_page, "ext_links_per_page": a.ext_links_per_page,
            "card_links_per_section": a.card_links_per_section, "inventory": inventory, "maps": {},
