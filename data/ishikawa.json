@@ -179,6 +179,13 @@
      "category": "Japanese (seafood)"
     },
     {
+     "name": "Noto-mae Sushi Restaurant",
+     "description": "Restaurant one minute on foot from Noto Railway Anamizu Station, serving Noto-don rice bowls topped with local seafood, and sushi.",
+     "source_url": "https://noto-kouzushi.jimdofree.com/",
+     "page": "https://bokenjapan.com/ishikawa/anamizu/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
      "name": "Bakery H&M",
      "name_en": "Bakery H&M",
      "description": "Bakery in Anamizu.",
@@ -251,12 +258,6 @@
      "page": "https://bokenjapan.com/ishikawa/anamizu/see/"
     },
     {
-     "name": "Noto-mae Sushi Restaurant",
-     "description": "Restaurant one minute on foot from Noto Railway Anamizu Station, serving Noto-don rice bowls topped with local seafood, and sushi.",
-     "source_url": "https://noto-kouzushi.jimdofree.com/",
-     "page": "https://bokenjapan.com/ishikawa/anamizu/see/"
-    },
-    {
      "name": "Anamizu Folk History Museum",
      "description": "History and folk museum of Anamizu, the gateway to Oku-Noto (currently closed).",
      "source_url": "https://www.hot-ishikawa.jp/spot/detail_4511.html",
@@ -325,7 +326,7 @@
    ],
    "stays": [
     {
-     "name": "Noto Fureai Bunka Center",
+     "name": "WAT RESORT Seafront Okunoto",
      "description": "Inn in Anamizu with a sauna and whole-house rental.",
      "source_url": "https://www.jalan.net/yad372822/",
      "page": "https://bokenjapan.com/ishikawa/anamizu/stay/"
@@ -726,31 +727,31 @@
    ],
    "stays": [
     {
-     "name": "Kabuto Garden Farm",
+     "name": "Chirihama Hotel Yuhana",
      "description": "Hotel in Hakui; ５-minute drive from JR Hakui Station.",
      "source_url": "https://www.ikyu.com/00030087/",
      "page": "https://bokenjapan.com/ishikawa/hakui/stay/"
     },
     {
-     "name": "Minshuku Kakihama",
+     "name": "Kyukamura Noto-Chirihama",
      "description": "Inn in Hakui with a large communal bath and open-air baths.",
      "source_url": "https://www.ikyu.com/00030872/",
      "page": "https://bokenjapan.com/ishikawa/hakui/stay/"
     },
     {
-     "name": "Tokimine Kaiyu",
+     "name": "Umi no Yado Mare",
      "description": "Inn in Hakui with a sauna and pet-friendly rooms.",
      "source_url": "https://www.jalan.net/yad398074/",
      "page": "https://bokenjapan.com/ishikawa/hakui/stay/"
     },
     {
-     "name": "Ryori Ryokan Taishaan",
+     "name": "Hatagoya Chube",
      "description": "Inn in Hakui with hot-spring baths and sea views.",
      "source_url": "https://www.jalan.net/yad392270/",
      "page": "https://bokenjapan.com/ishikawa/hakui/stay/"
     },
     {
-     "name": "Green Business Hotel Hakui",
+     "name": "Noto Shibagaki Kaigan Haruko",
      "description": "Inn in Hakui with a dog run and private bath and toilet in every room.",
      "source_url": "https://www.jalan.net/yad355045/",
      "page": "https://bokenjapan.com/ishikawa/hakui/stay/"
@@ -1048,6 +1049,13 @@
      "name": "Japanese restaurant in Hakusan",
      "description": "Japanese restaurant in Hakusan.",
      "source_url": "https://tabelog.com/ishikawa/A1702/A170203/17013633/",
+     "page": "https://bokenjapan.com/ishikawa/hakusan/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Sansuien",
+     "description": "Japanese restaurant in Hakusan.",
+     "source_url": "https://www.urara-hakusanbito.com/gourmet/detail_1261.html",
      "page": "https://bokenjapan.com/ishikawa/hakusan/eat/other-japanese/",
      "category": "Other Japanese"
     },
@@ -1929,163 +1937,163 @@
    ],
    "stays": [
     {
-     "name": "Ishiguro Ryokan",
+     "name": "Enne Shiramine (Hakusan Foothills Auberge)",
      "description": "Inn in Hakusan.",
      "source_url": "https://www.ikyu.com/00003524/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "Minshuku Shimizu",
+     "name": "Wadaya",
      "description": "Inn in Hakusan.",
      "source_url": "https://www.ikyu.com/00002882/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "Western-Style Minshuku Sankaiso",
+     "name": "Hotel Route-Inn Mikawa Interchange",
      "description": "Business hotel in Hakusan with a large communal bath and hot-spring baths.",
      "source_url": "https://www.ikyu.com/00080385/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "Minshuku Hakureiso",
+     "name": "Ichirino Kogen Hotel Roan",
      "description": "Hotel in Hakusan with a large communal bath and open-air baths.",
      "source_url": "https://www.ikyu.com/00030086/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "Hakusan Ichirino Onsen Hotel Goin",
+     "name": "Grand Hotel Hakusan (BBH Hotel Group)",
      "description": "Hotel in Hakusan with a large communal bath and facilities for families; 12-minute walk from Kanazawaekikara 3 Station.",
      "source_url": "https://www.jalan.net/yad320276/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "Ichirino Onsen Minshuku Hanakurumi",
+     "name": "Matto Terminal Hotel",
      "description": "Hotel in Hakusan with parking and business travelers; 3-minute walk from Matto Station.",
      "source_url": "https://www.jalan.net/yad312476/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "Emi-an",
+     "name": "New Matto Terminal Hotel",
      "description": "Hotel in Hakusan with parking and business travelers; 5-minute walk from Ru >IR Ishikawatetsudomatto Station.",
      "source_url": "https://www.jalan.net/yad332045/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "SDGs BASE AQUA+",
+     "name": "Hotel Hakusan Hills (BBH Hotel Group)",
      "description": "Hotel in Hakusan with a large communal bath and whole-house rental; ２０-minute walk from Matto Station.",
      "source_url": "https://www.jalan.net/yad395770/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "Hakusan Foothills Onsen Inn Shunpu Ryokan",
+     "name": "HOTEL R9 The Yard Hakusan",
      "description": "Hotel in Hakusan.",
      "source_url": "https://www.jalan.net/yad328833/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "Hakusan Onsen Nagai Ryokan",
+     "name": "Mikawa Onsen Motoyu Honda",
      "description": "Inn in Hakusan with a large communal bath and a sauna.",
      "source_url": "https://www.jalan.net/yad314696/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "Hakusan-sato Onsen Hakusan-sato",
+     "name": "Manjuso Sawada Ryokan",
      "description": "Ryokan inn in Hakusan with a large communal bath.",
      "source_url": "https://www.jalan.net/yad338334/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "Kagetsuso (Ishikawa)",
+     "name": "Shishikuso",
      "description": "Inn in Hakusan with local seafood dinners.",
      "source_url": "https://www.jalan.net/yad393206/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "TABIHAKU STAY Hakusan",
+     "name": "Senjo Onsen Seiryu",
      "description": "Inn in Hakusan with natural hot-spring water and Western-style rooms.",
      "source_url": "https://www.jalan.net/yad359670/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "Private Pension Natural House",
+     "name": "Sena Cottage Village",
      "description": "Campground and cottages in Hakusan.",
      "source_url": "https://www.jalan.net/yad330264/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "Senjo Onsen Pensione Seymour - SAUNA HAKUSAN",
+     "name": "GUESTHOUSE CAFE & BAR UNILA",
      "description": "Inn in Hakusan with hot-spring baths.",
      "source_url": "https://www.jalan.net/yad332916/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "Yamamoto Ryokan",
+     "name": "Minshuku Yamabikoso",
      "description": "Family-run minshuku in Hakusan.",
      "source_url": "https://www.jalan.net/yad331110/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "Oyado Sobadokoro Sakai",
+     "name": "Pokapoka na Yado Hanakurumi",
      "description": "Inn in Hakusan.",
      "source_url": "https://www.jalan.net/yad301192/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "Ryokan Yamamoto (Ishikawa)",
+     "name": "Pension Oka no Mori",
      "description": "Pension in Hakusan with hot-spring baths.",
      "source_url": "https://www.jalan.net/yad333846/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "Yamashiro Onsen Saika no Yado Tatami",
+     "name": "Sanryokuso",
      "description": "Inn in Hakusan.",
      "source_url": "https://www.jalan.net/yad337187/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "Yamanaka Onsen Suimei Katsura Goen",
+     "name": "Hakusan Ichirino Onsen Tsuruno-ya",
      "description": "Inn in Hakusan with hot-spring baths and an on-site restaurant; 80-minute drive from Kanazawa Station.",
      "source_url": "https://www.jalan.net/yad320547/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "Yamashiro Onsen Sun City Hotel Yamashiro",
+     "name": "Onsen Yado Iwama Sanso",
      "description": "Hot-spring inn in Hakusan with natural hot-spring water and breakfast.",
      "source_url": "https://www.jalan.net/yad311244/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "BETTEI Yamashiro",
+     "name": "Kerie Sanso",
      "description": "Inn in Hakusan with Western-style rooms and an on-site restaurant.",
      "source_url": "https://www.jalan.net/yad367550/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "Minshuku Kitamaebune",
+     "name": "Wanwan Glamping Hakusan Shiramine",
      "description": "Campground and cottages in Hakusan.",
      "source_url": "https://www.jalan.net/yad306431/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "Minshuku Satsuki (Ishikawa)",
+     "name": "Ittoyado SENNO",
      "description": "Inn in Hakusan; ９０-minute drive from Kanazawa Station.",
      "source_url": "https://www.jalan.net/yad374072/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "Yamanaka Onsen Oiwai no Yado",
+     "name": "NIPPONIA Hakusan Shiramine Okuyamabito no Sato (Yu Wing)",
      "description": "Inn in Hakusan.",
      "source_url": "https://www.jalan.net/yad397351/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "Katano BASE (Guesthouse for Sea Lovers)",
+     "name": "Shiramine Onsen Hakusanen",
      "description": "Inn in Hakusan with hot-spring baths and pet-friendly rooms.",
      "source_url": "https://www.jalan.net/yad302097/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
     },
     {
-     "name": "Aiueo no Mori Wawon Cottage",
+     "name": "NIPPONIA Hakusan Shiramine Okuyamabito no Sato (Senyomo Wing)",
      "description": "Inn in Hakusan.",
      "source_url": "https://www.jalan.net/yad336933/",
      "page": "https://bokenjapan.com/ishikawa/hakusan/stay/"
@@ -2566,7 +2574,7 @@
    ],
    "stays": [
     {
-     "name": "Azami-an Yamanaka",
+     "name": "Chirihama Yawaragi Onsen Hotel Wellness Notoji (HMI Group)",
      "description": "Hotel in Hodatsushimizu with a large communal bath and open-air baths; 15-minute walk from Shikinami Station.",
      "source_url": "https://www.jalan.net/yad306010/",
      "page": "https://bokenjapan.com/ishikawa/hodatsushimizu/stay/"
@@ -3403,12 +3411,6 @@
      "page": "https://bokenjapan.com/ishikawa/kaga/see/"
     },
     {
-     "name": "Kuimon-ya Furusato Kaga Main Shop",
-     "description": "Restaurant serving seafood, local sake and regional dishes in Kaga.",
-     "source_url": "https://kuimonya-furusato-kaga.com/",
-     "page": "https://bokenjapan.com/ishikawa/kaga/see/"
-    },
-    {
      "name": "Oi-miya Park",
      "description": "Park known for its beautifully layered double and multi-petalled blossoms.",
      "source_url": "https://www.hot-ishikawa.jp/spot/detail_4782.html",
@@ -3521,353 +3523,359 @@
      "description": "Official site of the City of Kaga.",
      "source_url": "https://www.city.kaga.ishikawa.jp/",
      "page": "https://bokenjapan.com/ishikawa/kaga/see/"
+    },
+    {
+     "name": "Kuimon-ya Furusato Kaga Main Shop",
+     "description": "Restaurant serving seafood, local sake and regional dishes in Kaga.",
+     "source_url": "https://kuimonya-furusato-kaga.com/",
+     "page": "https://bokenjapan.com/ishikawa/kaga/see/"
     }
    ],
    "stays": [
     {
-     "name": "Kominka Yunagi",
+     "name": "Araya Totoan",
      "description": "Inn in Kaga with a large communal bath and natural hot-spring water.",
      "source_url": "https://www.ikyu.com/00001580/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Koshiotsuji BASE (Private Rental near Katayamazu Onsen)",
+     "name": "Yunokuni Tensho",
      "description": "Inn in Kaga with a large communal bath and open-air baths.",
      "source_url": "https://www.ikyu.com/00000502/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Daiwa BASE (Private Rental near Yamashiro Onsen)",
+     "name": "Yamanaka Onsen Hanamurasaki",
      "description": "Inn in Kaga with hot-spring baths and parking.",
      "source_url": "https://www.ikyu.com/00001325/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Kurosaki BASE",
+     "name": "Beniya Mukayu",
      "description": "Inn in Kaga.",
      "source_url": "https://www.ikyu.com/00001145/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Log BASE (Forest Villa Log House, Kaga)",
+     "name": "Kissho Yamanaka",
      "description": "Inn in Kaga with open-air baths and private baths.",
      "source_url": "https://www.ikyu.com/00001717/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Oyado Kusunoki",
+     "name": "Katayamazu Onsen Kigasane",
      "description": "Inn in Kaga with a large communal bath and open-air baths; 10-minute drive from Kagaonsen Station.",
      "source_url": "https://www.ikyu.com/00001869/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Guest House IROHA Yamanaka 01",
+     "name": "Miyakowasure no Yado Koorogirou",
      "description": "Inn in Kaga with open-air baths.",
      "source_url": "https://www.ikyu.com/00002074/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Diamond Katayamazu Onsen Society",
+     "name": "Mori no Su Resort & Spa",
      "description": "Resort in Kaga.",
      "source_url": "https://www.ikyu.com/00002203/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Select Grand Kaga Yamanaka",
+     "name": "Rurikoh",
      "description": "Inn in Kaga.",
      "source_url": "https://www.ikyu.com/00000544/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Hotel Alpha",
+     "name": "Kagari Kisshotei",
      "description": "Inn in Kaga with open-air baths and crab dinners.",
      "source_url": "https://www.ikyu.com/00031102/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "MAGONDO",
+     "name": "Kaga Yamashiro Onsen Midori no Yado Banshokaku",
      "description": "Hot-spring inn in Kaga with a large communal bath and open-air baths.",
      "source_url": "https://www.ikyu.com/00030088/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Kanazawa Yuwaku Onsen Yamane",
+     "name": "Yu no Yado Hakusan Shobutei (Yuyu Inn)",
      "description": "Inn in Kaga.",
      "source_url": "https://www.ikyu.com/00030827/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Business Hotel Nakada",
+     "name": "APA Hotel Kaga-Daishojiekimae",
      "description": "Business hotel in Kaga with a large communal bath and open-air baths.",
      "source_url": "https://www.jalan.net/yad330124/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "so, KANAZAWA",
+     "name": "Mando no Yado Gafukuan",
      "description": "Inn in Kaga.",
      "source_url": "https://www.jalan.net/yad355300/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Vacation Rent Kanazawa",
+     "name": "Yamashiro Onsen Miyabi no Yado Kaga Hyakumangoku",
      "description": "Hot-spring inn in Kaga with a large communal bath and open-air baths; 10-minute walk from Kuruma :JR Hokurikuhonsenkaga Onsen Station.",
      "source_url": "https://www.jalan.net/yad386738/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "BEANS STAY Ishibiki",
+     "name": "Onsen Meiso Club Fujiya Ryokan",
      "description": "Hot-spring inn in Kaga with open-air baths and private baths.",
      "source_url": "https://www.jalan.net/yad319006/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Hotel Hinodeya",
+     "name": "Yamashiro Onsen Hotel Kikyo",
      "description": "Hot-spring inn in Kaga with a large communal bath and natural hot-spring water.",
      "source_url": "https://www.jalan.net/yad331513/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Unirose Kanazawa TS",
+     "name": "Yamashiro Onsen Hoshotei",
      "description": "Hot-spring inn in Kaga with a large communal bath and open-air baths.",
      "source_url": "https://www.jalan.net/yad349709/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "marutto Ishikawa",
+     "name": "Yu no Yado Hakusan Shobutei",
      "description": "Inn in Kaga with a large communal bath and open-air baths.",
      "source_url": "https://www.jalan.net/yad319732/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "LINNAS Kanazawa",
+     "name": "Yamashiro Onsen Tatami",
      "description": "Hot-spring inn in Kaga with a large communal bath and open-air baths.",
      "source_url": "https://www.jalan.net/yad320092/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "HOTEL APT SESELA",
+     "name": "Oedo Onsen Monogatari Yamashiro Saichoraku",
      "description": "Inn in Kaga with a large communal bath and open-air baths.",
      "source_url": "https://www.jalan.net/yad370178/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Kanazawa Tabioto",
+     "name": "Sun City Hotel Yamashiro",
      "description": "Hotel in Kaga with hot-spring baths and business travelers.",
      "source_url": "https://www.jalan.net/yad313405/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Hikoso no Machiyado",
+     "name": "Petit Hotel Hikobei",
      "description": "Hotel in Kaga.",
      "source_url": "https://www.jalan.net/yad310189/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Daimaruan",
+     "name": "Tachibana Shikitei",
      "description": "Inn in Kaga with a large communal bath and open-air baths.",
      "source_url": "https://www.jalan.net/yad325157/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "BENJAMIN HOTEL KANAZAWA",
+     "name": "Hoshino Resorts KAI Kaga",
      "description": "Resort in Kaga with a large communal bath and open-air baths.",
      "source_url": "https://www.jalan.net/yad309552/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "SHARIN Kanazawa Traveler's Inn",
+     "name": "Oedo Onsen Monogatari Premium Yamashitaya",
      "description": "Inn in Kaga with open-air baths and Western-style rooms.",
      "source_url": "https://www.jalan.net/yad328758/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Kanazawa Guesthouse Stella",
+     "name": "Hawatari",
      "description": "Inn in Kaga with a large communal bath and open-air baths.",
      "source_url": "https://www.jalan.net/yad356136/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Akatsukiya",
+     "name": "Livemax Resort Kaga Yamashiro",
      "description": "Resort in Kaga with a large communal bath and open-air baths; 10-minute drive from Kagaonsen Station.",
      "source_url": "https://www.jalan.net/yad324362/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Kanazawa Hanayuri",
+     "name": "Yamashiro Onsen Yoshidaya Sanokaku",
      "description": "Hot-spring inn in Kaga with open-air baths and a sauna.",
      "source_url": "https://www.jalan.net/yad321767/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Asadaya",
+     "name": "Yamashiro Onsen Yuzankaku (BBH Hotel Group)",
      "description": "Hotel in Kaga with a large communal bath and open-air baths.",
      "source_url": "https://www.jalan.net/yad397936/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Kanazawa Guesthouse East Mountain",
+     "name": "Kaga Yamashiro Onsen Rurikoh",
      "description": "Inn in Kaga with a large communal bath and open-air baths.",
      "source_url": "https://www.jalan.net/yad344540/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "WABI (Whole-House Machiya Stay)",
+     "name": "KITAMAE BASE Kaga Hashidate",
      "description": "Inn in Kaga with private baths and crab dinners.",
      "source_url": "https://www.jalan.net/yad316405/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Hook House Stay Kanazawa",
+     "name": "Pet Resort Villa Mou",
      "description": "Inn in Kaga with a dog run and pet-friendly rooms.",
      "source_url": "https://www.jalan.net/yad305990/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Hinaya Higashiyama (Whole-House Machiya)",
+     "name": "Oedo Onsen Monogatari Wanwan Resort Yadaya Shotoen",
      "description": "Hot-spring inn in Kaga with a large communal bath and open-air baths; 10-minute drive from Kagaonsen Station.",
      "source_url": "https://www.jalan.net/yad348802/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Kinsaryo",
+     "name": "Oedo Onsen Monogatari Premium Kaga Maruya",
      "description": "Inn in Kaga with a large communal bath and open-air baths.",
      "source_url": "https://www.jalan.net/yad316156/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Hisago (Whole-House Machiya)",
+     "name": "Kaga Katayamazu Onsen Kasuigo (APA Hotels & Resorts)",
      "description": "Business hotel in Kaga with open-air baths and a sauna.",
      "source_url": "https://www.jalan.net/yad332430/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Machiyado Nishinoya",
+     "name": "Katayamazu Onsen Kohan no Yado Morimoto",
      "description": "Hot-spring inn in Kaga with a large communal bath and open-air baths.",
      "source_url": "https://www.jalan.net/yad347449/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Kagabi (Whole-House Machiya)",
+     "name": "Katayamazu Onsen Motoyu no Yado Kanoya Korakuen",
      "description": "Hot-spring inn in Kaga with a large communal bath and open-air baths; 10-minute drive from Kagaonsen Station.",
      "source_url": "https://www.jalan.net/yad319743/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "RIN (Century-Old Kominka, Rokumaimachi)",
+     "name": "Kani Araiso Ryori Shima",
      "description": "Inn in Kaga with pet-friendly rooms and crab dinners; 10-minute drive from Kagaonsen Station.",
      "source_url": "https://www.jalan.net/yad345596/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "KR Apartment in Kanazawa",
+     "name": "Umi no Yado Nishinoya",
      "description": "Inn in Kaga with open-air baths and a sauna.",
      "source_url": "https://www.jalan.net/yad341744/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Yuzen Tabioto",
+     "name": "Oedo Onsen Monogatari Nagayama",
      "description": "Inn in Kaga with open-air baths and tatami rooms.",
      "source_url": "https://www.jalan.net/yad395541/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Guesthouse Kintoto",
+     "name": "Oedo Onsen Monogatari Premium Yamanaka Grand Hotel",
      "description": "Hotel in Kaga with a large communal bath and open-air baths; 30-minute drive from Kagaonsen Station.",
      "source_url": "https://www.jalan.net/yad379874/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Tsunagian Tabioto",
+     "name": "Kaga no Yado Shibayama Onsen Hotel Suiko",
      "description": "Hot-spring inn in Kaga with a large communal bath and hot-spring baths; １５-minute drive from Kagaonsen Station.",
      "source_url": "https://www.jalan.net/yad303592/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Koto Toki",
+     "name": "Ofuro Jiman no Yado Suimei",
      "description": "Inn in Kaga with a large communal bath and open-air baths.",
      "source_url": "https://www.jalan.net/yad334068/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Guest House Hana",
+     "name": "Yamanaka Onsen Shirasagiyu Tawaraya",
      "description": "Inn in Kaga with a large communal bath and open-air baths.",
      "source_url": "https://www.jalan.net/yad317168/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Akatsuki no Yado (Whole Room Rental)",
+     "name": "Oedo Onsen Monogatari Premium Yoshinoya Ienen",
      "description": "Inn in Kaga with open-air baths and a sauna; ２０-minute drive from Kagaonsen Station.",
      "source_url": "https://www.jalan.net/yad369800/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Akatsuki no Yado En (2nd Floor)",
+     "name": "Iyashi no Resort Kaga no Sachi Hotel Allore",
      "description": "Resort in Kaga with a large communal bath and hot-spring baths.",
      "source_url": "https://www.jalan.net/yad330652/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Stacy Annex",
+     "name": "Yamanaka Onsen Kocho",
      "description": "Inn in Kaga with open-air baths and a garden.",
      "source_url": "https://www.jalan.net/yad388736/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Kenrokuen house hotel",
+     "name": "Yamanaka Onsen Kajikaso",
      "description": "Hot-spring inn in Kaga with a large communal bath and open-air baths; ２０-minute drive from Kagaonsen Station.",
      "source_url": "https://www.jalan.net/yad350457/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Hanagoyomi (HANAGOYOMI)",
+     "name": "Point Vacation Kaga Yamanaka",
      "description": "Inn in Kaga with a large communal bath and open-air baths.",
      "source_url": "https://www.jalan.net/yad303585/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Higashiyama Kagerohi (Whole-House Machiya)",
+     "name": "Yamanaka Onsen Ohanami Kyubei",
      "description": "Inn in Kaga with open-air baths and tatami rooms.",
      "source_url": "https://www.jalan.net/yad372546/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Hikosamachi Gin no Ma (Whole-House Machiya)",
+     "name": "Yamanaka Onsen Suzuya Kyoro",
      "description": "Hot-spring inn in Kaga with a large communal bath and open-air baths.",
      "source_url": "https://www.jalan.net/yad300605/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Hikosamachi Kin no Ma (Whole-House Machiya)",
+     "name": "Oedo Onsen Monogatari Yamanaka Saichoraku",
      "description": "Inn in Kaga with a large communal bath and open-air baths.",
      "source_url": "https://www.jalan.net/yad398152/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Musashi Ai no Tsuji (Whole-House Machiya)",
+     "name": "Anda no Mori Kaga Yamanaka Onsen",
      "description": "Inn in Kaga with a large communal bath and open-air baths.",
      "source_url": "https://www.jalan.net/yad300530/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Ippuku",
+     "name": "Kuriya Hachijuhachi",
      "description": "Inn in Kaga with a large communal bath and open-air baths; 20-minute drive from Kagaonsen Station.",
      "source_url": "https://www.jalan.net/yad308757/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "MUSASHI Condo Kanazawa",
+     "name": "Yamanaka Onsen Yubata no Yado Hanatsubaki",
      "description": "Hot-spring inn in Kaga with open-air baths.",
      "source_url": "https://www.jalan.net/yad396804/",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "SHAQ BIGHOUSE",
+     "name": "Yamashiro Onsen Hatori",
      "description": "Inn in Kaga with a large communal bath and hot-spring baths.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/10624/10624.html",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
     },
     {
-     "name": "Hashibaan",
+     "name": "Yamashiro Onsen Tachibana Shikitei",
      "description": "Inn in Kaga with natural hot-spring water and parking.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/28350/28350.html",
      "page": "https://bokenjapan.com/ishikawa/kaga/stay/"
@@ -4318,7 +4326,7 @@
    ],
    "stays": [
     {
-     "name": "Kanazawa Guesthouse Hakuka",
+     "name": "Kahokutei",
      "description": "Inn in Kahoku.",
      "source_url": "https://www.jalan.net/yad318022/",
      "page": "https://bokenjapan.com/ishikawa/kahoku/stay/"
@@ -4479,6 +4487,41 @@
    ],
    "food": [
     {
+     "name": "Cafe Tamon",
+     "description": "Pancake cafe in Kanazawa.",
+     "source_url": "https://cafetamon.jp/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Angolo Caffe",
+     "description": "Cafe in Kanazawa serving breakfast, coffee and Italian dishes.",
+     "source_url": "https://angolocaffe.jp/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Scandinavian Goods and Cafe KUPPI",
+     "description": "Scandinavian goods shop and cafe in Kanazawa serving desserts, cakes, pancakes and baked goods.",
+     "source_url": "https://kuppi.jp/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Kenroku-tei",
+     "description": "Cafe in Kanazawa.",
+     "source_url": "https://kenrokutei.com/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/cafe/",
+     "category": "Cafe"
+    },
+    {
+     "name": "Chinese Restaurant Heiwa-ken",
+     "description": "Chinese restaurant using in-house hand-pulled noodles made from top-grade flour.",
+     "source_url": "https://www.hot-ishikawa.jp/spot/detail_21084.html",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/chinese-asian/",
+     "category": "Chinese & Asian"
+    },
+    {
      "name": "Respiracion",
      "description": "Spanish restaurant; also serving creative cuisine in Kanazawa.",
      "source_url": "https://tabelog.com/ishikawa/A1701/A170101/17010732/",
@@ -4516,9 +4559,44 @@
      "category": "European"
     },
     {
+     "name": "Arroz Spanish Restaurant",
+     "description": "Spanish restaurant in Kanazawa.",
+     "source_url": "https://arroz-kanazawa.com/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/european/",
+     "category": "European"
+    },
+    {
+     "name": "Cucina Numma",
+     "description": "Italian restaurant in Kanazawa.",
+     "source_url": "https://hitosara.com/0006102429/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/european/",
+     "category": "European"
+    },
+    {
      "name": "Koide",
      "description": "Izakaya (Japanese pub); also serving seafood and sake in Kanazawa.",
      "source_url": "https://tabelog.com/ishikawa/A1701/A170101/17001005/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Izakaya Hanagumi",
+     "description": "Izakaya (Japanese pub) in Kanazawa.",
+     "source_url": "https://hanagumi.owst.jp/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Kikura-machi Kusamura",
+     "description": "Japanese izakaya in Kanazawa.",
+     "source_url": "https://kusamura.owst.jp/foods",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
+     "name": "Jigger Bar St. Louis",
+     "description": "Bar in Kanazawa.",
+     "source_url": "https://st-louis.owst.jp/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/izakaya-bars/",
      "category": "Izakaya & bars"
     },
@@ -4600,6 +4678,27 @@
      "category": "Other Japanese"
     },
     {
+     "name": "Higashiyama Mizuho",
+     "description": "Japanese restaurant in Kanazawa.",
+     "source_url": "https://h-mizuho.jp/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kuroyuri Seasonal Cuisine and Oden",
+     "description": "Seasonal Japanese cuisine and oden restaurant in Kanazawa.",
+     "source_url": "https://www.oden-kuroyuri.com",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
+     "name": "Kaga Cuisine Daimyo Chaya",
+     "description": "Kaga-cuisine restaurant in Konohana-cho, Kanazawa, serving seafood and mountain ingredients.",
+     "source_url": "https://www.kanazawaryouri.com",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/other-japanese/",
+     "category": "Other Japanese"
+    },
+    {
      "name": "Komatsu Yasuke",
      "description": "Sushi restaurant in Kanazawa.",
      "source_url": "https://tabelog.com/ishikawa/A1701/A170101/17010524/",
@@ -4645,6 +4744,34 @@
      "name": "Sushi Ikuta",
      "description": "Sushi restaurant in Kanazawa.",
      "source_url": "https://tabelog.com/ishikawa/A1701/A170101/17012391/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Choi Nomi Dining Taka",
+     "description": "Fish restaurant and izakaya-style dining in Kanazawa.",
+     "source_url": "https://choinomi-taka.com",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Omicho Shokudo",
+     "description": "Japanese seafood restaurant in Kanazawa.",
+     "source_url": "https://www.ohmicho-syokudo.com/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Sushi Rekireki",
+     "description": "Sushi restaurant in Kanazawa.",
+     "source_url": "https://sushi-rekireki.jp/about",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/seafood/",
+     "category": "Japanese (seafood)"
+    },
+    {
+     "name": "Junsai Washoku Kofuku",
+     "description": "Seafood and Japanese-cuisine restaurant in Omicho Market.",
+     "source_url": "https://koufuku-kanazawa.com",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/eat/seafood/",
      "category": "Japanese (seafood)"
     }
@@ -4900,12 +5027,6 @@
      "name": "Hokuriku Seika (Kanazawa Saitaku)",
      "description": "Confectionery maker in Kanazawa, shipping sweets from \"Okashi-no-kuni Kanazawa\".",
      "source_url": "https://hokka.jp/product/kanazawa-saisho/",
-     "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
-    },
-    {
-     "name": "Chinese Restaurant Heiwa-ken",
-     "description": "Chinese restaurant using in-house hand-pulled noodles made from top-grade flour.",
-     "source_url": "https://www.hot-ishikawa.jp/spot/detail_21084.html",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
     },
     {
@@ -5335,12 +5456,6 @@
      "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
     },
     {
-     "name": "Shibazushi Hisashi",
-     "description": "Sushi shop in Kanazawa Hyakubangai.",
-     "source_url": "https://www.shibazushi.jp",
-     "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
-    },
-    {
      "name": "Daijo-ji Temple",
      "description": "Soto Zen temple Toko-zan Daijoji in Kanazawa.",
      "source_url": "https://daijoji.info/",
@@ -5437,12 +5552,6 @@
      "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
     },
     {
-     "name": "Steak Kanazawa Rokkakudo",
-     "description": "Teppanyaki steak restaurant in Kanazawa.",
-     "source_url": "https://www.asadaya.co.jp/rokkakudou/",
-     "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
-    },
-    {
      "name": "Kutani Kosen Kiln",
      "description": "Kutani ware kiln in Nomachi, Kanazawa, founded in 1870 (Meiji 3), shaping on the wheel and painting by hand.",
      "source_url": "https://kutanikosen.com/",
@@ -5503,12 +5612,6 @@
      "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
     },
     {
-     "name": "Noto Beef Yakiniku Michien",
-     "description": "Yakiniku restaurant serving Noto beef in Kanazawa.",
-     "source_url": "https://midouen.jp/",
-     "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
-    },
-    {
      "name": "Machinori Bike Share",
      "description": "Public share-cycle system of Kanazawa with multiple cycle ports.",
      "source_url": "https://www.machi-nori.jp/",
@@ -5560,18 +5663,6 @@
      "name": "Yamashina Okuwa Fossil Site and Potholes",
      "description": "Fossil site of the Okuwa formation and potholes, a national natural monument.",
      "source_url": "https://www.hot-ishikawa.jp/spot/detail_6655.html",
-     "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
-    },
-    {
-     "name": "Junsai Washoku Kofuku",
-     "description": "Seafood and Japanese-cuisine restaurant in Omicho Market.",
-     "source_url": "https://koufuku-kanazawa.com",
-     "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
-    },
-    {
-     "name": "Kanazawa Sekitei",
-     "description": "Shabu-shabu and Kaga cuisine restaurant in Kanazawa.",
-     "source_url": "https://www.asadaya.co.jp/sekitei/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
     },
     {
@@ -5701,12 +5792,6 @@
      "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
     },
     {
-     "name": "Kaga Cuisine Daimyo Chaya",
-     "description": "Kaga-cuisine restaurant in Konohana-cho, Kanazawa, serving seafood and mountain ingredients.",
-     "source_url": "https://www.kanazawaryouri.com",
-     "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
-    },
-    {
      "name": "Kinpaku Cosmetics Specialty Shop KINKA",
      "description": "Gold-leaf cosmetics shop run by Hakuichi in Kanazawa.",
      "source_url": "https://kanazawa.hakuichi.co.jp/",
@@ -5824,12 +5909,6 @@
      "name": "Teramachi-dori Street",
      "description": "Street of Teramachi, created during the castle-town planning of the third Kaga lord Maeda Toshitsune.",
      "source_url": "https://www.hot-ishikawa.jp/spot/detail_5867.html",
-     "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
-    },
-    {
-     "name": "Otomo-ro",
-     "description": "Kaga cuisine restaurant serving full-course seasonal ingredients.",
-     "source_url": "https://www.hot-ishikawa.jp/spot/detail_11079.html",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
     },
     {
@@ -6022,12 +6101,6 @@
      "name": "Former Zaimokucho-dori Street",
      "description": "Street along the river upstream from Asanogawa Ohashi in the domain period.",
      "source_url": "https://www.hot-ishikawa.jp/spot/detail_5203.html",
-     "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
-    },
-    {
-     "name": "Shogyo-tei",
-     "description": "Live-fish cuisine restaurant on the slope of Mt. Utatsu.",
-     "source_url": "https://www.asadaya.co.jp/shougyotei/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
     },
     {
@@ -6520,12 +6593,6 @@
      "name": "Ono-sho Yosui Canal",
      "description": "Oldest of Kanazawa's many irrigation canals.",
      "source_url": "https://www.hot-ishikawa.jp/spot/detail_22311.html",
-     "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
-    },
-    {
-     "name": "Cha no Yu Suzuoki",
-     "description": "Japanese cuisine and tea kaiseki restaurant in Higashiyama, Kanazawa, serving breakfast and ceremonial meals.",
-     "source_url": "https://www.oryouri-suzuoki.com",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
     },
     {
@@ -7301,839 +7368,881 @@
      "description": "Kanazawa City Hall, the municipal government office.",
      "source_url": "https://www4.city.kanazawa.lg.jp/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
+    },
+    {
+     "name": "Steak Kanazawa Rokkakudo",
+     "description": "Teppanyaki steak restaurant in Kanazawa.",
+     "source_url": "https://www.asadaya.co.jp/rokkakudou/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
+    },
+    {
+     "name": "Noto Beef Yakiniku Michien",
+     "description": "Yakiniku restaurant serving Noto beef in Kanazawa.",
+     "source_url": "https://midouen.jp/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
+    },
+    {
+     "name": "Kanazawa Sekitei",
+     "description": "Shabu-shabu and Kaga cuisine restaurant in Kanazawa.",
+     "source_url": "https://www.asadaya.co.jp/sekitei/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
+    },
+    {
+     "name": "Otomo-ro",
+     "description": "Kaga cuisine restaurant serving full-course seasonal ingredients.",
+     "source_url": "https://www.hot-ishikawa.jp/spot/detail_11079.html",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
+    },
+    {
+     "name": "Cha no Yu Suzuoki",
+     "description": "Japanese cuisine and tea kaiseki restaurant in Higashiyama, Kanazawa, serving breakfast and ceremonial meals.",
+     "source_url": "https://www.oryouri-suzuoki.com",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
+    },
+    {
+     "name": "Shibazushi Hisashi",
+     "description": "Sushi shop in Kanazawa Hyakubangai.",
+     "source_url": "https://www.shibazushi.jp",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
+    },
+    {
+     "name": "Shogyo-tei",
+     "description": "Live-fish cuisine restaurant on the slope of Mt. Utatsu.",
+     "source_url": "https://www.asadaya.co.jp/shougyotei/",
+     "page": "https://bokenjapan.com/ishikawa/kanazawa/see/"
     }
    ],
    "stays": [
     {
-     "name": "House Hotel Kenrokuzaka",
+     "name": "THE HOTEL SANRAKU KANAZAWA",
      "description": "Hotel in Kanazawa with local seafood dinners and breakfast.",
      "source_url": "https://www.ikyu.com/00002998/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Tsudoh Stay Hikoso",
+     "name": "Tsurukou",
      "description": "Inn in Kanazawa with open-air baths and crab dinners.",
      "source_url": "https://www.ikyu.com/00003366/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Toho Bijin",
+     "name": "Kanazawa Saigawa Onsen Kawabata no Yuyado Takitei",
      "description": "Hot-spring inn in Kanazawa with hot-spring baths.",
      "source_url": "https://www.ikyu.com/00001874/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Momonoya",
+     "name": "Hotel Intergate Kanazawa",
      "description": "Hotel in Kanazawa with a large communal bath and breakfast.",
      "source_url": "https://www.ikyu.com/00081677/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Saigawa House",
+     "name": "Hotel MyStays Premier Kanazawa",
      "description": "Hotel in Kanazawa with facilities for families and breakfast.",
      "source_url": "https://www.ikyu.com/00080991/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Higashiyama Ariduki",
+     "name": "HOTEL AO KANAZAWA",
      "description": "Hotel in Kanazawa with a sauna.",
      "source_url": "https://www.ikyu.com/00003294/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Higashiyama Komachi",
+     "name": "The Square Hotel Kanazawa",
      "description": "Hotel in Kanazawa with a large communal bath and open-air baths.",
      "source_url": "https://www.ikyu.com/00081653/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "GUEST HOUSE Rakutabi NOMACHI",
+     "name": "Kanazawa Tokyu Hotel",
      "description": "Hotel in Kanazawa with Western-style rooms; 8-minute taxi ride from JR Kanazawa Station.",
      "source_url": "https://www.ikyu.com/00000541/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Kanazawa Seiren Le lotus bleu",
+     "name": "Kanazawa Hakuchoji Hotel Sanraku",
      "description": "Hotel in Kanazawa with a large communal bath and a sauna.",
      "source_url": "https://www.ikyu.com/00001035/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Nisetai Jutaku Ground Floor (Private Rental)",
+     "name": "Natural Hot Spring Kaga no Hosen Onyado Nono Kanazawa (Dormy Inn Chain)",
      "description": "Business hotel in Kanazawa with a large communal bath and open-air baths; 15-minute walk from Kanazawa Station.",
      "source_url": "https://www.ikyu.com/00081904/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "CHACO Machiya Share House",
+     "name": "SOKI KANAZAWA",
      "description": "Inn in Kanazawa with a large communal bath and hot-spring baths.",
      "source_url": "https://www.ikyu.com/00082449/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Chiisana Oyado Nomura",
+     "name": "Daiwa Roynet Hotel Kanazawa MIYABI",
      "description": "Hotel in Kanazawa with breakfast.",
      "source_url": "https://www.ikyu.com/00081755/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Kenrokutei Oyado",
+     "name": "Kikunoya Ryokan",
      "description": "Ryokan inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad318942/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "W&M House",
+     "name": "First Hotel Kanazawa",
      "description": "Hotel in Kanazawa with breakfast.",
      "source_url": "https://www.jalan.net/yad305289/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Sun Heights Horikawa 205",
+     "name": "Bincho-tan no Yu Hotel Crown Hills Kanazawa Korinbo",
      "description": "Hotel in Kanazawa with a large communal bath and a sauna.",
      "source_url": "https://www.jalan.net/yad355795/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Kanazawa Inn (One Group per Day, Women and Foreign Visitors)",
+     "name": "Korinkyo",
      "description": "Inn in Kanazawa with a sauna.",
      "source_url": "https://www.jalan.net/yad337756/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Spacious Living Whole-House Kominka (Near Higashi Chaya)",
+     "name": "Machiya Residence Inn Tatemachi Kanata",
      "description": "Whole-house rental in Kanazawa with tatami rooms.",
      "source_url": "https://www.jalan.net/yad383388/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "PINO te COLO",
+     "name": "Kaname Inn Tatemachi",
      "description": "Inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad375496/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Soufuan",
+     "name": "OMO5 Kanazawa Katamachi by Hoshino Resorts",
      "description": "Resort in Kanazawa with breakfast.",
      "source_url": "https://www.jalan.net/yad362327/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Sangenya",
+     "name": "apple tree house",
      "description": "Inn in Kanazawa with whole-house rental.",
      "source_url": "https://www.jalan.net/yad300688/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Libre Hosai #101",
+     "name": "Yado Kanazawa Jubankan",
      "description": "Inn in Kanazawa with whole-house rental.",
      "source_url": "https://www.jalan.net/yad344835/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Kotori Stay Kanazawa",
+     "name": "APA Hotel Kanazawa-Chuo",
      "description": "Business hotel in Kanazawa with a large communal bath and open-air baths.",
      "source_url": "https://www.jalan.net/yad323565/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Century-Old Kominka Hideaway, 5 Minutes from Kanazawa Station",
+     "name": "Ibaraki House",
      "description": "Inn in Kanazawa with parking.",
      "source_url": "https://www.jalan.net/yad391773/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Comfort Hotel ERA Kanazawa Higashiguchi",
+     "name": "KOKO HOTEL Premier Kanazawa Korinbo",
      "description": "Inn in Kanazawa with an on-site restaurant.",
      "source_url": "https://www.jalan.net/yad334551/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Business Hotel Tsutaya",
+     "name": "ARIGATO STAY Kanazawa Katamachi",
      "description": "Hotel in Kanazawa.",
      "source_url": "https://www.jalan.net/yad390712/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Kashimaya Ryokan",
+     "name": "Henn na Hotel Kanazawa Korinbo",
      "description": "Hotel in Kanazawa.",
      "source_url": "https://www.jalan.net/yad385536/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Machiya no Yado Iritaya",
+     "name": "APA Hotel Kanazawa-Katamachi",
      "description": "Business hotel in Kanazawa with breakfast.",
      "source_url": "https://www.jalan.net/yad326989/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "SHAQ 2nd BIGHOUSE",
+     "name": "the b Kanazawa Katamachi",
      "description": "Inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad346894/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Kanazawa Machiya Share House GAOoo",
+     "name": "Ryu Tabioto",
      "description": "Inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad371666/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Guest Room Kanazawa Kokone",
+     "name": "Katamachi Tour Hotel",
      "description": "Hotel in Kanazawa with tatami rooms and Western-style rooms.",
      "source_url": "https://www.jalan.net/yad317051/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Kanazawa Flex Hotel Asper",
+     "name": "Hotel MyStays Kanazawa Katamachi",
      "description": "Hotel in Kanazawa with facilities for families and breakfast.",
      "source_url": "https://www.jalan.net/yad392247/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Eight Point Inn Kanazawa",
+     "name": "Toyoko Inn Kanazawa Kenrokuen Korinbo",
      "description": "Business hotel in Kanazawa with breakfast.",
      "source_url": "https://www.jalan.net/yad306316/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Awazu Onsen Kitahachi",
+     "name": "T-Mark City Hotel Kanazawa",
      "description": "Hotel in Kanazawa with crab dinners and breakfast; 10-minute taxi ride from Kanazawa Station.",
      "source_url": "https://www.jalan.net/yad358240/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Matsuya Ryokan",
+     "name": "WABI",
      "description": "Business hotel in Kanazawa with tatami rooms.",
      "source_url": "https://www.jalan.net/yad334512/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Atakano Yado Oki",
+     "name": "Hotel Amanek Kanazawa",
      "description": "Hotel in Kanazawa with a large communal bath and an on-site restaurant.",
      "source_url": "https://www.jalan.net/yad384494/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Guesthouse Mikkaichi",
+     "name": "Kanazawa Flex Hotel",
      "description": "Hotel in Kanazawa with breakfast.",
      "source_url": "https://www.jalan.net/yad320934/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Kifusha Private Camp & Lodge",
+     "name": "Kanazawa New Grand Hotel Prestige",
      "description": "Hotel in Kanazawa with facilities for families and breakfast.",
      "source_url": "https://www.jalan.net/yad321933/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "TAKIGAHARA CRAFT & STAY",
+     "name": "Center Point In Kanazawa",
      "description": "Inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad314706/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Komado",
+     "name": "Kanazawa New Grand Hotel Premier",
      "description": "Hotel in Kanazawa with breakfast; ５-minute drive from JR Kanazawa Station.",
      "source_url": "https://www.jalan.net/yad383226/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "YADO SEN KOMATSU",
+     "name": "Travelers Hostel K's House Kanazawa",
      "description": "Guesthouse in Kanazawa with tatami rooms.",
      "source_url": "https://www.jalan.net/yad333514/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Oimatsu",
+     "name": "Tokyu Stay Kanazawa",
      "description": "Inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad329525/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "House with Big Windows",
+     "name": "Kamiya Resort Kanazawa Katamachi Haku",
      "description": "Resort in Kanazawa.",
      "source_url": "https://www.jalan.net/yad320507/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Kominka at Ano Atari",
+     "name": "Riverside Tabioto",
      "description": "Inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad309692/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Orihime no Yado Kutsurogi",
+     "name": "Migre Kenrokuen",
      "description": "Inn in Kanazawa with a sauna.",
      "source_url": "https://www.jalan.net/yad327792/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Noto Kanamaru Oyado Omusubi no Ie",
+     "name": "KUMU Kanazawa by THE SHARE HOTELS",
      "description": "Hotel in Kanazawa with tatami rooms and Western-style rooms.",
      "source_url": "https://www.jalan.net/yad392056/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Wakura Onsen Hanagoyomi",
+     "name": "Hotel Kanazawa Kenrokuso",
      "description": "Hotel in Kanazawa with parking.",
      "source_url": "https://www.jalan.net/yad312901/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Wanko to Otomari MOMO no Ie (Dog Run Cafe MOMO)",
+     "name": "Trifit Hotel & Pod Kanazawa Hyakumangoku-dori",
      "description": "Hotel in Kanazawa with a large communal bath and a sauna.",
      "source_url": "https://www.jalan.net/yad314738/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Wakura Onsen Yunohana",
+     "name": "Mitsui Garden Hotel Kanazawa",
      "description": "Hotel in Kanazawa with a large communal bath and breakfast.",
      "source_url": "https://www.jalan.net/yad334419/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "OH! TOMARI",
+     "name": "Minn Kanazawa",
      "description": "Inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad344666/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Wakura Onsen Oyado Suzuka",
+     "name": "Amean Kanazawa",
      "description": "Inn in Kanazawa with private bath and toilet in every room and breakfast.",
      "source_url": "https://www.jalan.net/yad384336/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Aratafuto",
+     "name": "NINJA Tabioto",
      "description": "Inn in Kanazawa with tatami rooms and whole-house rental.",
      "source_url": "https://www.jalan.net/yad381312/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Room | design hotel",
+     "name": "Yado Taru",
      "description": "Inn in Kanazawa with tatami rooms and whole-house rental.",
      "source_url": "https://www.jalan.net/yad338385/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Social Guest House neltoko",
+     "name": "Anri Higashi-Kenrokumachi",
      "description": "Inn in Kanazawa with whole-house rental.",
      "source_url": "https://www.jalan.net/yad344587/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "AOAO NOTOJIMA",
+     "name": "Kanazawa no Yado Sakurabashi",
      "description": "Inn in Kanazawa with parking and whole-house rental.",
      "source_url": "https://www.jalan.net/yad325264/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Hotel Alpha-One Noto Wakura",
+     "name": "Kanazawa Hachitabi Senjitsu",
      "description": "Inn in Kanazawa with tatami rooms and whole-house rental.",
      "source_url": "https://www.jalan.net/yad372374/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Okadaya (Ishikawa)",
+     "name": "Four Points Flex by Sheraton Kanazawa",
      "description": "Inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad396197/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Seikaiso",
+     "name": "Machiya Residence Inn Bukeyashiki Shiori",
      "description": "Whole-house rental in Kanazawa with tatami rooms and whole-house rental.",
      "source_url": "https://www.jalan.net/yad325980/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Kominka Experience Guesthouse B&B 45",
+     "name": "Machiya Residence Inn Bukeyashiki Hanatsume",
      "description": "Whole-house rental in Kanazawa with tatami rooms and Western-style rooms.",
      "source_url": "https://www.jalan.net/yad385700/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Sports Support Training Lodge One Day Fam",
+     "name": "ZOPA Nishimachi",
      "description": "Inn in Kanazawa with tatami rooms and Western-style rooms.",
      "source_url": "https://www.jalan.net/yad328850/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Heartland Hills in Noto 21 House with Yacht Harbour View",
+     "name": "Oyama Tabioto",
      "description": "Inn in Kanazawa with tatami rooms and local seafood dinners.",
      "source_url": "https://www.jalan.net/yad374573/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Minerva Nanao Fujinose Satoyama-kan",
+     "name": "Gunjo no Tsuki",
      "description": "Inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad375767/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Hyakunen Machiya Sano-tei",
+     "name": "Kaga House",
      "description": "Inn in Kanazawa with whole-house rental.",
      "source_url": "https://www.jalan.net/yad327565/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "I LOVE WAKURA",
+     "name": "KKR Hotel Kanazawa",
      "description": "Hotel in Kanazawa with a large communal bath and a sauna.",
      "source_url": "https://www.jalan.net/yad363768/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Art Stay Whole-House Rental tonot",
+     "name": "Dia Palace Otemon",
      "description": "Inn in Kanazawa; 3-minute walk from to-kan no Chekku Inn Hakanazawa Station.",
      "source_url": "https://www.jalan.net/yad394718/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Wakura Onsen Kagaya",
+     "name": "Camellia Inn Yukitsubaki",
      "description": "Inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad388540/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Kagaya Sister Hotel Ainokaze",
+     "name": "Teramachiya Fushinan",
      "description": "Inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad383071/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Wakura Onsen Tenku no Yado Taikanso",
+     "name": "NODE Saigawa",
      "description": "Inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad397573/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Satamiya Ryokan",
+     "name": "Kanazawa no Yado Yuya Rurusaisai",
      "description": "Inn in Kanazawa with open-air baths and tatami rooms.",
      "source_url": "https://www.jalan.net/yad334093/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Wakura Onsen Taisho Roman no Yado Togetsuan",
+     "name": "Kanazawa Capsule Hotel Musashimachi",
      "description": "Hotel in Kanazawa with business travelers.",
      "source_url": "https://www.jalan.net/yad334432/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Sawada Ryokan",
+     "name": "Hotel Pacific Kanazawa",
      "description": "Hotel in Kanazawa with business travelers.",
      "source_url": "https://www.jalan.net/yad307100/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Minshuku Notojimaso",
+     "name": "Sumiyoshiya Ryokan",
      "description": "Ryokan inn in Kanazawa with local seafood dinners and private bath and toilet in every room.",
      "source_url": "https://www.jalan.net/yad364336/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Wakura Onsen Tadaya",
+     "name": "Nagomi Tabioto",
      "description": "Inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad385675/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Kagaya Group Niji to Umi",
+     "name": "Hotel Resol Trinity Kanazawa",
      "description": "Hotel in Kanazawa with Western-style rooms and business travelers.",
      "source_url": "https://www.jalan.net/yad321184/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Kagaya Bettei Matsuno Ao",
+     "name": "Aica Tabioto",
      "description": "Inn in Kanazawa with whole-house rental.",
      "source_url": "https://www.jalan.net/yad370051/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Business Inn nanao ONE",
+     "name": "Close to you",
      "description": "Inn in Kanazawa with whole-house rental.",
      "source_url": "https://www.jalan.net/yad307367/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Tatsunokuchi Onsen Tabitei Manyo",
+     "name": "Tsunagian Tabioto",
      "description": "Inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad370435/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Tatsunokuchi Onsen Tagawa Ryusenkaku",
+     "name": "Tengu Tabioto and Kotengu Tabioto",
      "description": "Inn in Kanazawa with parking and whole-house rental.",
      "source_url": "https://www.jalan.net/yad385159/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Oku-Noto Shunran no Yado",
+     "name": "Ryokan Yamamuro",
      "description": "Ryokan inn in Kanazawa with tatami rooms.",
      "source_url": "https://www.jalan.net/yad393000/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Minshuku Ukawa",
+     "name": "Musashi Eian",
      "description": "Inn in Kanazawa with whole-house rental.",
      "source_url": "https://www.jalan.net/yad357718/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Farmhouse Minshuku Zenbe",
+     "name": "SAIK Seikyu",
      "description": "Inn in Kanazawa with tatami rooms; 10-minute taxi ride from Nishi-Kanazawa Station.",
      "source_url": "https://www.jalan.net/yad352068/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Farmhouse Minshuku Kakio",
+     "name": "Nakayasu Ryokan",
      "description": "Ryokan inn in Kanazawa with tatami rooms.",
      "source_url": "https://www.jalan.net/yad319794/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Seaside Kominka Hotel Oku-Noto Jirondon",
+     "name": "Wow! KANAZAWA STAY",
      "description": "Inn in Kanazawa with facilities for families and whole-house rental.",
      "source_url": "https://www.jalan.net/yad345670/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Minshuku Ryokan Koijiya",
+     "name": "Petit Hotel Ivy",
      "description": "Hotel in Kanazawa with local seafood dinners.",
      "source_url": "https://www.jalan.net/yad310286/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Seminar House Yamabiko",
+     "name": "Kanazawa Owaricho Kurumiya",
      "description": "Inn in Kanazawa with open-air baths and breakfast.",
      "source_url": "https://www.jalan.net/yad348199/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Kokumin Shukusha Noto Ushitsuso",
+     "name": "Kanazawa Ittoyado Kaisen",
      "description": "Inn in Kanazawa with Western-style rooms and whole-house rental.",
      "source_url": "https://www.jalan.net/yad315327/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Noto Isaribi Youth Hostel",
+     "name": "APA Hotel Kanazawa-Nomachi",
      "description": "Business hotel in Kanazawa with an on-site restaurant.",
      "source_url": "https://www.jalan.net/yad340718/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Minshuku Fuwa",
+     "name": "ANA Holiday Inn Kanazawa Sky by IHG",
      "description": "Inn in Kanazawa with facilities for families and breakfast.",
      "source_url": "https://www.jalan.net/yad330882/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "GUEST HOUSE Ryubei",
+     "name": "Machiya Residence Inn Kurohoro",
      "description": "Whole-house rental in Kanazawa with tatami rooms and Western-style rooms.",
      "source_url": "https://www.jalan.net/yad394625/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Business Hotel Yamaguchi",
+     "name": "Zaimokuan",
      "description": "Inn in Kanazawa with tatami rooms and whole-house rental.",
      "source_url": "https://www.jalan.net/yad385354/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Japanese-Style Pension Furusato",
+     "name": "FORZA Hotel Forza Kanazawa",
      "description": "Hotel in Kanazawa with local seafood dinners and business travelers.",
      "source_url": "https://www.jalan.net/yad378719/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Business Hotel Aqua Shika",
+     "name": "Kinjoro",
      "description": "Inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad321262/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Deja Vu",
+     "name": "Zaimoku Tabioto",
      "description": "Inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad346145/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Yuhi ga Umi ni Shizumu Yado Mahiru no Tsuki",
+     "name": "Asobi Tabioto",
      "description": "Inn in Kanazawa with tatami rooms and facilities for families.",
      "source_url": "https://www.jalan.net/yad308578/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Bokkai Onsen Seaside Villa Bokkai",
+     "name": "Nishichaya Tabioto",
      "description": "Inn in Kanazawa with tatami rooms and Western-style rooms.",
      "source_url": "https://www.jalan.net/yad333748/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Noto Hanto Yasuragi no Yado Minshuku Muratasou",
+     "name": "Ryojo no Yado Hotel Kanazawa Soshi",
      "description": "Hotel in Kanazawa with breakfast; １０-minute walk from Kanazawa Station.",
      "source_url": "https://www.jalan.net/yad343534/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Pension Timely (Holiday Villa)",
+     "name": "Ishizue Tabioto",
      "description": "Inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad376573/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Noto Resort in Misawa",
+     "name": "Guest Room Kokone Kanazawa Omotesando",
      "description": "Inn in Kanazawa with tatami rooms.",
      "source_url": "https://www.jalan.net/yad345272/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Heartland Hills in Noto 2 House with Large Hall",
+     "name": "Kazueya",
      "description": "Inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad372748/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Heartland Hills in Noto 7 House with Atrium",
+     "name": "SARARASO",
      "description": "Inn in Kanazawa with breakfast.",
      "source_url": "https://www.jalan.net/yad312510/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Noto Seaside Kominka (Private Rental)",
+     "name": "INTRO Tamagawa",
      "description": "Inn in Kanazawa with tatami rooms and facilities for families.",
      "source_url": "https://www.jalan.net/yad325121/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Noto Kominka Inn TOGISO",
+     "name": "Kizuya Ryokan",
      "description": "Ryokan inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad350538/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Umi no Ie Hotel",
+     "name": "Asanogawa",
      "description": "Inn in Kanazawa with whole-house rental.",
      "source_url": "https://www.jalan.net/yad361928/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Oshima Campground",
+     "name": "Kanazawa Hachitabi Hashiba",
      "description": "Inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad362852/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Shinyasu Ryokan",
+     "name": "Lian Kanazawa",
      "description": "Inn in Kanazawa with Western-style rooms; 10-minute walk from < Kanazawa Station.",
      "source_url": "https://www.jalan.net/yad396589/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Tabist Minshuku Minami Hakui",
+     "name": "HOTEL Hana IchiRin KANAZAWA",
      "description": "Hotel in Kanazawa with tatami rooms and facilities for families.",
      "source_url": "https://www.jalan.net/yad372327/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Akari no Yado Matsudaso",
+     "name": "Machiya Residence Inn Musashi Ai no Tsuji",
      "description": "Whole-house rental in Kanazawa with tatami rooms and Western-style rooms.",
      "source_url": "https://www.jalan.net/yad377041/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Minshuku Muroya",
+     "name": "Kanazawa no Yado Ikedaya",
      "description": "Inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad371865/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Farmhouse Minshuku Tanaka",
+     "name": "Higashiyama Sho",
      "description": "Inn in Kanazawa with whole-house rental.",
      "source_url": "https://www.jalan.net/yad340882/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Kaso Kukan Kamiyama Log House (Private Rental)",
+     "name": "Pet-Friendly Inn Higashi Chaya District Yumemigusa",
      "description": "Inn in Kanazawa with pet-friendly rooms.",
      "source_url": "https://www.jalan.net/yad354555/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Jokoji Temple",
+     "name": "Machiya Residence Inn Sansuikyo",
      "description": "Whole-house rental in Kanazawa.",
      "source_url": "https://www.jalan.net/yad388146/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Ki no Ie Guesthouse Suzu Main House",
+     "name": "Fuji no Yado",
      "description": "Inn in Kanazawa; 7-minute walk from Kanazawa Station.",
      "source_url": "https://www.jalan.net/yad397995/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Hotel Kairakuso",
+     "name": "Minshuku Ginmatsu",
      "description": "Family-run minshuku in Kanazawa with tatami rooms.",
      "source_url": "https://www.jalan.net/yad371947/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Oku-Noto Suzu Beach Hotel",
+     "name": "Oyado Aka",
      "description": "Inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad394404/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Iso no Yado Seto",
+     "name": "Casaya Tabioto",
      "description": "Inn in Kanazawa with whole-house rental.",
      "source_url": "https://www.jalan.net/yad385108/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Minshuku Azuma (Ishikawa)",
+     "name": "GUESTHOUSE KADOYASU",
      "description": "Inn in Kanazawa; 8-minute walk from Kanazawa Station.",
      "source_url": "https://www.jalan.net/yad397593/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Farmhouse Kominka Naragi",
+     "name": "Natural Hot Spring Tsuzumi-mon no Yu Super Hotel Premier Kanazawa Station East Exit",
      "description": "Business hotel in Kanazawa with hot-spring baths and facilities for families; 7-minute walk from Kanazawa Station.",
      "source_url": "https://www.jalan.net/yad355732/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Stay Exchange Facility Heki House",
+     "name": "Machiya Residence Inn Hikosamachi Gin no Ma",
      "description": "Whole-house rental in Kanazawa with tatami rooms and Western-style rooms.",
      "source_url": "https://www.jalan.net/yad383828/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Darumaya Ryokan (Ishikawa)",
+     "name": "Kanazawa Machiya Inui-an",
      "description": "Whole-house rental in Kanazawa with whole-house rental.",
      "source_url": "https://www.jalan.net/yad395202/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Family Lodge Hatagoya Kanazawa Uchinada",
+     "name": "Machiya Residence Inn Hikosamachi Kin no Ma",
      "description": "Whole-house rental in Kanazawa with tatami rooms and crab dinners.",
      "source_url": "https://www.jalan.net/yad329055/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Fisherman's Pension Hatoya",
+     "name": "Rashiku Kanazawa HOTEL",
      "description": "Inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad387016/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Minshuku Hakutoen",
+     "name": "Utaimachi",
      "description": "Inn in Kanazawa with breakfast and a traditional farmhouse.",
      "source_url": "https://www.jalan.net/yad314346/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Ebisuya Ryokan (Wajima)",
+     "name": "Machiya Residence Inn Mizumari",
      "description": "Whole-house rental in Kanazawa.",
      "source_url": "https://www.jalan.net/yad367078/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Wa no Kaze Tadayou Urushi no Yado Oyado Tanaka",
+     "name": "Hyakurakuso Hanare Kanazawa Higashi Chaya",
      "description": "Inn in Kanazawa with a sauna and breakfast.",
      "source_url": "https://www.jalan.net/yad377335/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Ryoshi no Yado Shirokane",
+     "name": "Hyotan Tabioto",
      "description": "Inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad339800/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Minshuku Kotobuki (Wajima, Noto)",
+     "name": "Guesthouse Nagonde",
      "description": "Guesthouse in Kanazawa with tatami rooms; 5-minute walk from Kanazawa Station.",
      "source_url": "https://www.jalan.net/yad317214/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Minshuku Nakamichi",
+     "name": "Kanazawa City Hotel",
      "description": "Hotel in Kanazawa with a large communal bath and a sauna.",
      "source_url": "https://www.jalan.net/yad394154/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Noto Surfside Pension Vessel",
+     "name": "Kanazawa Hachitabi Hiyoku",
      "description": "Inn in Kanazawa; ８-minute walk from Kanazawa Station.",
      "source_url": "https://www.jalan.net/yad397601/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Minshuku Wajima",
+     "name": "Hotel Trifit Kanazawa",
      "description": "Hotel in Kanazawa with a large communal bath and facilities for families; 4-minute walk from Kanazawa Station.",
      "source_url": "https://www.jalan.net/yad304736/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Guesthouse Yoshitakeso (Private Rental)",
+     "name": "Machiya Residence Inn Hisago",
      "description": "Whole-house rental in Kanazawa with tatami rooms and Western-style rooms.",
      "source_url": "https://www.jalan.net/yad315296/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Historic Building Hanakaiji",
+     "name": "Machiya Residence Inn Higashiyama Kagerohi",
      "description": "Whole-house rental in Kanazawa with tatami rooms and a garden.",
      "source_url": "https://www.jalan.net/yad387140/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Seamen's Housing Stay",
+     "name": "Toyoko Inn Kanazawa Station East Exit",
      "description": "Business hotel in Kanazawa with breakfast.",
      "source_url": "https://www.jalan.net/yad388328/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Wajima Onsen Yashio",
+     "name": "Ekichika Tabioto",
      "description": "Inn in Kanazawa with tatami rooms and whole-house rental.",
      "source_url": "https://www.jalan.net/yad310504/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Wa-kaze no Yado Mangetsu",
+     "name": "Kanazawaya Showamachi",
      "description": "Inn in Kanazawa; ８-minute walk from Kanazawa Station.",
      "source_url": "https://www.jalan.net/yad379826/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Shinbashi Ryokan",
+     "name": "Kanazawa Guesthouse Stella",
      "description": "Inn in Kanazawa.",
      "source_url": "https://www.jalan.net/yad393282/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Nebuta Onsen Umi Yu Noto no Sho",
+     "name": "Hotel Nikko Kanazawa",
      "description": "Hotel in Kanazawa with breakfast and an on-site restaurant.",
      "source_url": "https://www.jalan.net/yad321280/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Hotel Mercato Wajima",
+     "name": "Kanazawa Machiya Kenroku",
      "description": "Whole-house rental in Kanazawa with whole-house rental; ５-minute walk from Kanazawa Station.",
      "source_url": "https://www.jalan.net/yad352370/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Kaigan-dori",
+     "name": "Tabist Business Hotel R-Side Kanazawa",
      "description": "Business hotel in Kanazawa with business travelers; 5-minute walk from Kanazawa Station.",
      "source_url": "https://www.jalan.net/yad353572/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Minshuku Sakashita",
+     "name": "Kagaya Group Ryori Ryokan Kanazawa Chaya",
      "description": "Ryokan inn in Kanazawa with breakfast; 3-minute walk from Kanazawa Station.",
      "source_url": "https://www.jalan.net/yad326607/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Satoyama Marugoto Hotel Chuuemon",
+     "name": "Asanogawa Tabioto",
      "description": "Inn in Kanazawa with whole-house rental.",
      "source_url": "https://www.jalan.net/yad385090/",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
@@ -8637,12 +8746,6 @@
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
-     "name": "Kanazawa Guesthouse Stella",
-     "description": "Guesthouse in Kanazawa.",
-     "source_url": "https://travel.rakuten.co.jp/HOTEL/153501/153501.html",
-     "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
-    },
-    {
      "name": "Akatsukiya",
      "description": "Inn in Kanazawa.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/136167/136167.html",
@@ -8730,12 +8833,6 @@
      "name": "Guesthouse Kintoto",
      "description": "Guesthouse in Kanazawa.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/170823/170823.html",
-     "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
-    },
-    {
-     "name": "Tsunagian Tabioto",
-     "description": "Inn in Kanazawa.",
-     "source_url": "https://travel.rakuten.co.jp/HOTEL/167042/167042.html",
      "page": "https://bokenjapan.com/ishikawa/kanazawa/stay/"
     },
     {
@@ -9397,6 +9494,13 @@
      "category": "Izakaya & bars"
     },
     {
+     "name": "M-Line Market",
+     "description": "Bar in Komatsu.",
+     "source_url": "https://www.mline-market.com/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/izakaya-bars/",
+     "category": "Izakaya & bars"
+    },
+    {
      "name": "Yamazakura",
      "description": "Soba noodle restaurant in Komatsu.",
      "source_url": "https://tabelog.com/ishikawa/A1702/A170202/17013230/",
@@ -9428,6 +9532,13 @@
      "name": "Komatsu Udon Aji no Nakaishi",
      "description": "Udon noodle restaurant in Komatsu.",
      "source_url": "https://tabelog.com/ishikawa/A1702/A170202/17014156/",
+     "page": "https://bokenjapan.com/ishikawa/komatsu/eat/noodles/",
+     "category": "Japanese (noodles)"
+    },
+    {
+     "name": "Hachiban Ramen",
+     "description": "Ramen noodle restaurant in Komatsu.",
+     "source_url": "https://www.hachiban.jp",
      "page": "https://bokenjapan.com/ishikawa/komatsu/eat/noodles/",
      "category": "Japanese (noodles)"
     },
@@ -10257,12 +10368,6 @@
      "page": "https://bokenjapan.com/ishikawa/komatsu/stay/"
     },
     {
-     "name": "Hotel Granvinario KOMATSU",
-     "description": "Hotel in Komatsu with business travelers.",
-     "source_url": "https://www.jalan.net/yad337326/",
-     "page": "https://bokenjapan.com/ishikawa/komatsu/stay/"
-    },
-    {
      "name": "Komatsu Green Hotel",
      "description": "Hotel in Komatsu with a large communal bath and private baths.",
      "source_url": "https://www.jalan.net/yad334705/",
@@ -10855,6 +10960,12 @@
     },
     {
      "name": "Michi-no-Eki Notojima",
+     "description": "Public bathhouse of Wakura Onsen, whose spring water has welled up through underground granite for about 1,200 years.",
+     "source_url": "https://notojima-michinoeki.com/",
+     "page": "https://bokenjapan.com/ishikawa/nanao/do/"
+    },
+    {
+     "name": "Michi-no-Eki Notojima\" loading=\"lazy\"> Nanao, Ishikawa · 0767-84-0225, Ishikawa",
      "description": "Roadside station on Notojima island, Nanao.",
      "source_url": "https://notojima-michinoeki.com/",
      "page": "https://bokenjapan.com/ishikawa/nanao/do/"
@@ -11171,6 +11282,24 @@
     },
     {
      "name": "Notojima",
+     "description": "Aquarium on Notojima exhibiting fish of the Noto Peninsula's waters, including whale sharks.",
+     "source_url": "https://notojima.org/",
+     "page": "https://bokenjapan.com/ishikawa/nanao/see/"
+    },
+    {
+     "name": "Ishikawa Prefectural Notojima Glass Art Museum",
+     "description": "Prefectural glass art museum on Notojima island, Nanao.",
+     "source_url": "https://nanao-af.jp/glass/",
+     "page": "https://bokenjapan.com/ishikawa/nanao/see/"
+    },
+    {
+     "name": "Notojima Bridge",
+     "description": "Bridge 1,050 m long, the longest in Ishikawa, linking Notojima to Ishizaki-machi in Nanao.",
+     "source_url": "https://www.hot-ishikawa.jp/spot/detail_6107.html",
+     "page": "https://bokenjapan.com/ishikawa/nanao/see/"
+    },
+    {
+     "name": "Notojima\" loading=\"lazy\"> Nanao, Ishikawa · 0767-84-1113, Ishikawa",
      "description": "Island in Nanao Bay reached by bridge, with its own tourism site.",
      "source_url": "https://notojima.org/",
      "page": "https://bokenjapan.com/ishikawa/nanao/see/"
@@ -11910,7 +12039,7 @@
      "page": "https://bokenjapan.com/ishikawa/nanao/stay/"
     },
     {
-     "name": "Room | design hotel",
+     "name": "Room Design Hotel",
      "description": "Inn in Nanao.",
      "source_url": "https://travel.rakuten.co.jp/HOTEL/188058/188058.html",
      "page": "https://bokenjapan.com/ishikawa/nanao/stay/"
