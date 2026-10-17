@@ -23,3 +23,5 @@ python3 scripts/strip_draft_notes.py --root .   # X1.note: drop leaked 'local un
 python3 scripts/nav_refresh.py --root .         # X20/R8: refresh stale bj-nav of sub-pages (dead section links, missing 'Nearby in') using ai_friendly.py on a scratch copy of that prefecture
 python3 scripts/day_to_day_tile.py --root .     # X18: add the Day to day hub tile only where <town>/day-to-day/ exists; others are listed in the report, never invented
 ```
+
+**Town display names (2026-10-17).** `python3 scripts/town_names_fix.py --root . [--report out.csv]` (idempotent, tokyo/ skipped, slugs/URLs never changed): where a town's H1/title/breadcrumb/JSON-LD carry the slug-derived name ('Aichikonan') but >=75% of its '#N ranked in <Name>' cards AND its own meta description agree on the real name ('Konan') and no other town in the prefecture has that name, the name is rewritten on the town's pages, in link text/map labels of the prefecture's other pages, data/<pref>.json and llms-full.txt. Ambiguous towns are only listed in the report (lane decision). Run after the lane's content merge, before `site_chrome.py`.
