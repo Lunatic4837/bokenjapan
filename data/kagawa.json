@@ -22,7 +22,7 @@
     "address": "299 Takinomiya, Ayagawa, Ayauta District, Kagawa 761-2392, Japan",
     "phone": "087-876-1111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "綾川町役場",
@@ -35,6 +35,7 @@
    "activities": [
     {
      "name": "Konpira Toro (Tatsunomiya)",
+     "description": "Attraction in Ayagawa, Kagawa.",
      "source_url": "https://www.town.ayagawa.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/do/"
     }
@@ -43,6 +44,7 @@
     {
      "name": "Cafe Rob 香川店",
      "name_en": "Cafe Rob Kagawa",
+     "description": "Cafe in Ayagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37013307/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/eat/cafe/",
      "category": "Cafe"
@@ -50,6 +52,7 @@
     {
      "name": "炭焼工房 心",
      "name_en": "Sumiyaki Kobo Kokoro",
+     "description": "Casual restaurant in Ayagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37011962/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/eat/casual/",
      "category": "Casual"
@@ -57,6 +60,7 @@
     {
      "name": "たかはた",
      "name_en": "Takahata",
+     "description": "Casual restaurant in Ayagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000842/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/eat/casual/",
      "category": "Casual"
@@ -64,6 +68,7 @@
     {
      "name": "飩餃",
      "name_en": "Ton Ko",
+     "description": "Chinese or Asian restaurant in Ayagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37001714/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -71,6 +76,7 @@
     {
      "name": "PIZZERIA AL CENTRO",
      "name_en": "Pizzeria Al Centro",
+     "description": "European restaurant in Ayagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37006471/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/eat/european/",
      "category": "European"
@@ -78,6 +84,7 @@
     {
      "name": "カフェレストラン ガリーン",
      "name_en": "Cafe Restaurant Garin",
+     "description": "European restaurant in Ayagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37005758/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/eat/european/",
      "category": "European"
@@ -85,6 +92,7 @@
     {
      "name": "本格手打うどん はゆか",
      "name_en": "Honkaku Teuchi Udon Hayuka",
+     "description": "Udon restaurant in Ayagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000233/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -92,6 +100,7 @@
     {
      "name": "山越うどん",
      "name_en": "Yamakoshi Udon",
+     "description": "Udon restaurant in Ayagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000080/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -99,6 +108,7 @@
     {
      "name": "手打うどん たむら",
      "name_en": "Teuchi Udon Tamura",
+     "description": "Udon restaurant in Ayagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000077/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -106,6 +116,7 @@
     {
      "name": "いなもく",
      "name_en": "Inamoku",
+     "description": "Noodle restaurant in Ayagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37008978/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -113,6 +124,7 @@
     {
      "name": "岡製麺所",
      "name_en": "Oka Seimen Tokoro",
+     "description": "Noodle restaurant in Ayagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000141/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -120,6 +132,7 @@
     {
      "name": "池内うどん店",
      "name_en": "Ikeuchi Udon",
+     "description": "Udon restaurant in Ayagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000079/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -127,6 +140,7 @@
     {
      "name": "さぬきうどんの駅 綾川",
      "name_en": "Sanuki Udon no Eki Ayakawa",
+     "description": "Udon restaurant in Ayagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37011446/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -134,6 +148,7 @@
     {
      "name": "讃岐めん工房 空音",
      "name_en": "Sanuki Men Kobo Sorane",
+     "description": "Noodle restaurant in Ayagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37012239/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -141,6 +156,7 @@
     {
      "name": "香川屋本店 綾川店",
      "name_en": "Kagawa-ya Main Store Ayakawa",
+     "description": "Noodle restaurant in Ayagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37001341/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -148,6 +164,7 @@
     {
      "name": "やまだうどん",
      "name_en": "Yamada Udon",
+     "description": "Udon restaurant in Ayagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37001431/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -155,6 +172,7 @@
     {
      "name": "家食屋 ほんてん",
      "name_en": "Ie Shoku-ya Honten",
+     "description": "Noodle restaurant in Ayagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37007207/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -162,6 +180,7 @@
     {
      "name": "玉吉 本店",
      "name_en": "Tamakichi Main Store",
+     "description": "Noodle restaurant in Ayagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37001424/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -169,6 +188,7 @@
     {
      "name": "丸善",
      "name_en": "Maruzen",
+     "description": "Noodle restaurant in Ayagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37001425/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -176,6 +196,7 @@
     {
      "name": "安藤うどん",
      "name_en": "Ando Udon",
+     "description": "Udon restaurant in Ayagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37001426/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -183,6 +204,7 @@
     {
      "name": "えび豚骨拉麺 春樹 イオンモール綾川店",
      "name_en": "Ebi Tonkotsu Ramen Haruki Ion Mall Ayakawa",
+     "description": "Ramen restaurant in Ayagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37008055/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -190,6 +212,7 @@
     {
      "name": "道の駅 滝宮",
      "name_en": "Michi no Eki Tatsunomiya",
+     "description": "Sweets and bakery shop in Ayagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000859/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -197,6 +220,7 @@
     {
      "name": "うふ、いちご。",
      "name_en": "Ufu Ichigo",
+     "description": "Sweets and bakery shop in Ayagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37011584/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -204,6 +228,7 @@
     {
      "name": "Re:ボンジュール",
      "name_en": "Re : Bonjuru",
+     "description": "Sweets and bakery shop in Ayagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37004813/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -212,26 +237,31 @@
    "sights": [
     {
      "name": "Tatsunomiya Tenmangu Shrine",
+     "description": "Shrine in Ayagawa, Kagawa.",
      "source_url": "https://www.town.ayagawa.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/see/"
     },
     {
      "name": "Taki Miya Shrine",
+     "description": "Shrine in Ayagawa, Kagawa.",
      "source_url": "https://www.town.ayagawa.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/see/"
     },
     {
      "name": "Taka Hachiyama",
+     "description": "Sightseeing spot in Ayagawa, Kagawa.",
      "source_url": "https://www.town.ayagawa.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/see/"
     },
     {
      "name": "Tsutsumayama (Hayuka Fuji)",
+     "description": "Sightseeing spot in Ayagawa, Kagawa.",
      "source_url": "https://www.town.ayagawa.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/see/"
     },
     {
      "name": "Bodai In",
+     "description": "Sightseeing spot in Ayagawa, Kagawa.",
      "source_url": "https://www.town.ayagawa.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/see/"
     }
@@ -240,6 +270,7 @@
     {
      "name": "ＡＳＫＩＡ",
      "name_en": "ASKIA",
+     "description": "Place to stay in Ayagawa, Kagawa.",
      "source_url": "https://www.jalan.net/yad376170/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/stay/"
     },
@@ -253,6 +284,7 @@
     {
      "name": "マウンテンドーム",
      "name_en": "Mountain Dome",
+     "description": "Place to stay in Ayagawa, Kagawa.",
      "source_url": "https://www.jalan.net/yad331890/",
      "page": "https://bokenjapan.com/kagawa/ayagawa/stay/"
     }
@@ -277,7 +309,7 @@
     "address": "1847-1 Minato, Higashikagawa, Kagawa 769-2792, Japan",
     "phone": "0879-26-1214"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "東かがわ市役所",
@@ -290,6 +322,7 @@
    "activities": [
     {
      "name": "Yoda Tera",
+     "description": "Attraction in Higashikagawa, Kagawa.",
      "source_url": "https://higashikagawa.net/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/do/"
     }
@@ -298,6 +331,7 @@
     {
      "name": "ばいこう堂 本店",
      "name_en": "Baiko Do Main Store",
+     "description": "Cafe in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37003433/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/cafe/",
      "category": "Cafe"
@@ -305,6 +339,7 @@
     {
      "name": "ダンケ",
      "name_en": "Danke",
+     "description": "Cafe in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37007484/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/cafe/",
      "category": "Cafe"
@@ -312,6 +347,7 @@
     {
      "name": "TOIRO COFFEE",
      "name_en": "Toiro Coffee",
+     "description": "Cafe in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37008592/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/cafe/",
      "category": "Cafe"
@@ -319,6 +355,7 @@
     {
      "name": "ワーサン亭",
      "name_en": "Wasan-tei",
+     "description": "Casual restaurant in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37006187/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/casual/",
      "category": "Casual"
@@ -326,6 +363,7 @@
     {
      "name": "福味 三本松店",
      "name_en": "Fuku Aji Sanbonmatsu",
+     "description": "Chinese or Asian restaurant in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37008155/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -333,6 +371,7 @@
     {
      "name": "イタリア料理 ラ・フレスカ",
      "name_en": "Itaria Cuisine La Furesuka",
+     "description": "European restaurant in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37009042/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/european/",
      "category": "European"
@@ -340,6 +379,7 @@
     {
      "name": "SANU",
      "name_en": "SANU",
+     "description": "European restaurant in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37011760/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/european/",
      "category": "European"
@@ -347,6 +387,7 @@
     {
      "name": "味道源",
      "name_en": "Aji Michi Gen",
+     "description": "Meat restaurant in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37002993/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/meat/",
      "category": "Japanese (meat)"
@@ -354,6 +395,7 @@
     {
      "name": "四季",
      "name_en": "Shiki",
+     "description": "Meat restaurant in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37004431/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/meat/",
      "category": "Japanese (meat)"
@@ -361,6 +403,7 @@
     {
      "name": "吉本食品",
      "name_en": "Yoshimoto Shokuhin",
+     "description": "Noodle restaurant in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37000684/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -368,6 +411,7 @@
     {
      "name": "六車",
      "name_en": "Muguruma",
+     "description": "Noodle restaurant in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37000251/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -375,6 +419,7 @@
     {
      "name": "うどんや",
      "name_en": "Udon Ya",
+     "description": "Udon restaurant in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37000794/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -382,6 +427,7 @@
     {
      "name": "東かがわマルタツ手打ちうどん 伊座本店",
      "name_en": "Higashikagawa Marutatsu Teuchi Udon Iza honten",
+     "description": "Udon restaurant in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37008151/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -389,6 +435,7 @@
     {
      "name": "元匠 湊店",
      "name_en": "Moto Takumi Minato",
+     "description": "Noodle restaurant in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37002847/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -396,6 +443,7 @@
     {
      "name": "元匠 東かがわ店",
      "name_en": "Gensho Higashikagawa ten",
+     "description": "Noodle restaurant in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37004937/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -403,6 +451,7 @@
     {
      "name": "山賊村",
      "name_en": "Sanzoku Mura",
+     "description": "Noodle restaurant in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37000772/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -410,6 +459,7 @@
     {
      "name": "手打ちうどん もとい",
      "name_en": "Handmade Udon Motoi",
+     "description": "Udon restaurant in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37014081/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -417,6 +467,7 @@
     {
      "name": "よだ",
      "name_en": "Yoda",
+     "description": "Noodle restaurant in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37001553/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -424,6 +475,7 @@
     {
      "name": "活魚料理 讃岐家",
      "name_en": "Ikeuo Cuisine Sanuki-ya",
+     "description": "Seafood restaurant in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37002025/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -431,6 +483,7 @@
     {
      "name": "三谷製糖 羽根さぬき本舗",
      "name_en": "Mitani Seito Hane Sanuki Honpo",
+     "description": "Sweets and bakery shop in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37002086/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -438,6 +491,7 @@
     {
      "name": "NICOPAIN",
      "name_en": "Nicopain",
+     "description": "Sweets and bakery shop in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37012970/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -445,6 +499,7 @@
     {
      "name": "巴堂",
      "name_en": "Tomoe Do",
+     "description": "Sweets and bakery shop in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37005417/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -452,6 +507,7 @@
     {
      "name": "かめびし茶屋",
      "name_en": "Kamebishi Chaya",
+     "description": "Sweets and bakery shop in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37000291/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -459,6 +515,7 @@
     {
      "name": "ルトロヴァイユ",
      "name_en": "Rutorovaiyu",
+     "description": "Sweets and bakery shop in Higashikagawa, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370402/37008864/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -467,26 +524,31 @@
    "sights": [
     {
      "name": "Hikita Castle Ruins",
+     "description": "Castle in Higashikagawa, Kagawa.",
      "source_url": "https://higashikagawa.net/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/see/"
     },
     {
      "name": "Hikita no Machi Nami",
+     "description": "Sightseeing spot in Higashikagawa, Kagawa.",
      "source_url": "https://higashikagawa.net/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/see/"
     },
     {
      "name": "Hikita Minato",
+     "description": "Sightseeing spot in Higashikagawa, Kagawa.",
      "source_url": "https://higashikagawa.net/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/see/"
     },
     {
      "name": "Hakucho Shrine",
+     "description": "Shrine in Higashikagawa, Kagawa.",
      "source_url": "https://higashikagawa.net/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/see/"
     },
     {
      "name": "Shaku Oji",
+     "description": "Sightseeing spot in Higashikagawa, Kagawa.",
      "source_url": "https://higashikagawa.net/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/see/"
     }
@@ -530,6 +592,7 @@
     {
      "name": "ザランタン東かがわ",
      "name_en": "Zarantan Higashikagawa",
+     "description": "Place to stay in Higashikagawa, Kagawa.",
      "source_url": "https://www.jalan.net/yad364617/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/stay/"
     },
@@ -543,6 +606,7 @@
     {
      "name": "瀬戸内リゾートベッセルおおち",
      "name_en": "Setochi Resort Besseru Ochi",
+     "description": "Resort hotel in Higashikagawa, Kagawa.",
      "source_url": "https://www.jalan.net/yad367616/",
      "page": "https://bokenjapan.com/kagawa/higashikagawa/stay/"
     },
@@ -577,7 +641,7 @@
     "address": "1-1-1 Sakamoto-cho, Kanonji, Kagawa 768-8601, Japan",
     "phone": "0875-23-3900"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "観音寺市役所",
@@ -590,6 +654,7 @@
    "activities": [
     {
      "name": "Honen Ike Entei",
+     "description": "Attraction in Kanonji, Kagawa.",
      "source_url": "https://www.city.kanonji.kagawa.jp/",
      "page": "https://bokenjapan.com/kagawa/kanonji/do/"
     }
@@ -598,6 +663,7 @@
     {
      "name": "やまねこ",
      "name_en": "Yamaneko",
+     "description": "Cafe in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37007993/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/cafe/",
      "category": "Cafe"
@@ -605,6 +671,7 @@
     {
      "name": "IZAKAYA 時々 観音寺店",
      "name_en": "Izakaya Tokidoki Kan'Onji",
+     "description": "Izakaya or bar in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370301/37001099/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -612,6 +679,7 @@
     {
      "name": "骨付鳥 味鶴",
      "name_en": "Hone Tsuki Tori Aji Tsuru",
+     "description": "Izakaya or bar in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370301/37000841/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -619,6 +687,7 @@
     {
      "name": "カマ喜ri",
      "name_en": "Kamakiri",
+     "description": "Noodle restaurant in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370301/37006622/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -626,6 +695,7 @@
     {
      "name": "西端手打 上戸うどん",
      "name_en": "Seitan Teuchi Jogo Udon",
+     "description": "Udon restaurant in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370301/37000152/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -633,6 +703,7 @@
     {
      "name": "手打ちうどん つるや",
      "name_en": "Handmade Udon Tsuruya",
+     "description": "Udon restaurant in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370301/37000148/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -640,6 +711,7 @@
     {
      "name": "かなくま餅",
      "name_en": "Kanakuma Mochi",
+     "description": "Noodle restaurant in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370301/37000510/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -647,6 +719,7 @@
     {
      "name": "讃岐麺処 山岡",
      "name_en": "Sanuki Men Tokoro Yamaoka",
+     "description": "Noodle restaurant in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37012136/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -654,6 +727,7 @@
     {
      "name": "大喜多",
      "name_en": "Okita",
+     "description": "Noodle restaurant in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370301/37000603/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -661,6 +735,7 @@
     {
      "name": "本場かなくま餅 福田",
      "name_en": "Honba Kanakuma Mochi Fukuda",
+     "description": "Noodle restaurant in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370301/37000119/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -668,6 +743,7 @@
     {
      "name": "伊吹いりこセンター",
      "name_en": "Ibuki Iriko Center",
+     "description": "Noodle restaurant in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370301/37010828/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -675,6 +751,7 @@
     {
      "name": "うまじ家 豊浜店",
      "name_en": "Umaji-ya Toyohama",
+     "description": "Noodle restaurant in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370301/37006102/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -682,6 +759,7 @@
     {
      "name": "麺紡",
      "name_en": "Menbo",
+     "description": "Noodle restaurant in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370301/37008963/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -689,6 +767,7 @@
     {
      "name": "合田うどん",
      "name_en": "Goda Udon",
+     "description": "Udon restaurant in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370301/37008409/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -696,6 +775,7 @@
     {
      "name": "武蔵",
      "name_en": "Musashi",
+     "description": "Noodle restaurant in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370301/37005520/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -703,6 +783,7 @@
     {
      "name": "かじまや",
      "name_en": "Kajimaya",
+     "description": "Noodle restaurant in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370301/37000092/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -710,6 +791,7 @@
     {
      "name": "柳川 本店",
      "name_en": "Yanagawa Main Store",
+     "description": "Noodle restaurant in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370301/37000632/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -717,6 +799,7 @@
     {
      "name": "うどん好き",
      "name_en": "Udon Suki",
+     "description": "Udon restaurant in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370301/37011771/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -724,6 +807,7 @@
     {
      "name": "中華そば 虎龍",
      "name_en": "Chuka Soba Tora Ryu",
+     "description": "Soba restaurant in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370301/37005984/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -731,6 +815,7 @@
     {
      "name": "将八うどん 観音寺本店",
      "name_en": "Sho Hachi Udon Kan'Onji Main Store",
+     "description": "Udon restaurant in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370301/37000822/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -738,6 +823,7 @@
     {
      "name": "麺匠 いりこや",
      "name_en": "Men Takumi Irikoya",
+     "description": "Noodle restaurant in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370301/37011168/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -745,6 +831,7 @@
     {
      "name": "中華そば 源平",
      "name_en": "Chuka Soba Genpei",
+     "description": "Soba restaurant in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370301/37002721/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -752,6 +839,7 @@
     {
      "name": "中丸水産",
      "name_en": "Nakamaru Suisan",
+     "description": "Seafood restaurant in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370301/37012030/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -759,6 +847,7 @@
     {
      "name": "白栄堂 柳町本店",
      "name_en": "Shiro Sakae Do Yanagimachi Main Store",
+     "description": "Sweets and bakery shop in Kanonji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370301/37003383/",
      "page": "https://bokenjapan.com/kagawa/kanonji/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -767,31 +856,37 @@
    "sights": [
     {
      "name": "Zenigata Sae",
+     "description": "Sightseeing spot in Kanonji, Kagawa.",
      "source_url": "https://www.city.kanonji.kagawa.jp/",
      "page": "https://bokenjapan.com/kagawa/kanonji/see/"
     },
     {
      "name": "Kon Dan Park",
+     "description": "Park in Kanonji, Kagawa.",
      "source_url": "https://www.city.kanonji.kagawa.jp/",
      "page": "https://bokenjapan.com/kagawa/kanonji/see/"
     },
     {
      "name": "Ariake Hama",
+     "description": "Sightseeing spot in Kanonji, Kagawa.",
      "source_url": "https://www.city.kanonji.kagawa.jp/",
      "page": "https://bokenjapan.com/kagawa/kanonji/see/"
     },
     {
      "name": "Shinkei In",
+     "description": "Sightseeing spot in Kanonji, Kagawa.",
      "source_url": "https://www.city.kanonji.kagawa.jp/",
      "page": "https://bokenjapan.com/kagawa/kanonji/see/"
     },
     {
      "name": "Kanonji",
+     "description": "Sightseeing spot in Kanonji, Kagawa.",
      "source_url": "https://www.city.kanonji.kagawa.jp/",
      "page": "https://bokenjapan.com/kagawa/kanonji/see/"
     },
     {
      "name": "Takaya Shrine",
+     "description": "Shrine in Kanonji, Kagawa.",
      "source_url": "https://www.city.kanonji.kagawa.jp/",
      "page": "https://bokenjapan.com/kagawa/kanonji/see/"
     }
@@ -897,7 +992,7 @@
     "address": "817-10 Enai, Kotohira, Nakatado, Kagawa 766-8502, Japan",
     "phone": "0877-75-6700"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "琴平町役場",
@@ -910,6 +1005,7 @@
    "activities": [
     {
      "name": "Taka Toro",
+     "description": "Attraction in Kotohira, Kagawa.",
      "source_url": "https://www.town.kotohira.kagawa.jp/soshiki/8/",
      "page": "https://bokenjapan.com/kagawa/kotohira/do/"
     }
@@ -918,6 +1014,7 @@
     {
      "name": "神椿",
      "name_en": "Kami Tsubaki",
+     "description": "Cafe in Kotohira, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000763/",
      "page": "https://bokenjapan.com/kagawa/kotohira/eat/cafe/",
      "category": "Cafe"
@@ -925,6 +1022,7 @@
     {
      "name": "アカボシ珈琲店",
      "name_en": "Akaboshi Coffee",
+     "description": "Cafe in Kotohira, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37008520/",
      "page": "https://bokenjapan.com/kagawa/kotohira/eat/cafe/",
      "category": "Cafe"
@@ -932,6 +1030,7 @@
     {
      "name": "平岡精肉店",
      "name_en": "Hiraoka Butcher",
+     "description": "Casual restaurant in Kotohira, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37001618/",
      "page": "https://bokenjapan.com/kagawa/kotohira/eat/casual/",
      "category": "Casual"
@@ -939,6 +1038,7 @@
     {
      "name": "シラカバ",
      "name_en": "Shirakaba",
+     "description": "Casual restaurant in Kotohira, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37008725/",
      "page": "https://bokenjapan.com/kagawa/kotohira/eat/casual/",
      "category": "Casual"
@@ -946,6 +1046,7 @@
     {
      "name": "藤の家食堂",
      "name_en": "Fuji no-ya Shokudo",
+     "description": "Casual restaurant in Kotohira, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000269/",
      "page": "https://bokenjapan.com/kagawa/kotohira/eat/casual/",
      "category": "Casual"
@@ -953,6 +1054,7 @@
     {
      "name": "さぬき名物 骨付鳥 田中屋",
      "name_en": "Sanuki Meibutsu Hone Tsuki Tori Tanaka-ya",
+     "description": "Izakaya or bar in Kotohira, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37005602/",
      "page": "https://bokenjapan.com/kagawa/kotohira/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -960,6 +1062,7 @@
     {
      "name": "焼鳥 骨付鳥 田中屋",
      "name_en": "Yakitori Hone Tsuki Tori Tanaka-ya",
+     "description": "Yakitori restaurant in Kotohira, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37009828/",
      "page": "https://bokenjapan.com/kagawa/kotohira/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -967,6 +1070,7 @@
     {
      "name": "金陵の郷",
      "name_en": "Kinryo no Sato",
+     "description": "Izakaya or bar in Kotohira, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37007797/",
      "page": "https://bokenjapan.com/kagawa/kotohira/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -974,6 +1078,7 @@
     {
      "name": "手打ちうどん むさし",
      "name_en": "Handmade Udon Musashi",
+     "description": "Udon restaurant in Kotohira, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000722/",
      "page": "https://bokenjapan.com/kagawa/kotohira/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -981,6 +1086,7 @@
     {
      "name": "こんぴらうどん 本店",
      "name_en": "Konpira Udon Main Store",
+     "description": "Udon restaurant in Kotohira, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000010/",
      "page": "https://bokenjapan.com/kagawa/kotohira/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -988,6 +1094,7 @@
     {
      "name": "いわのや",
      "name_en": "Iwanoya",
+     "description": "Noodle restaurant in Kotohira, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37006081/",
      "page": "https://bokenjapan.com/kagawa/kotohira/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -995,6 +1102,7 @@
     {
      "name": "讃岐うどん めん舟",
      "name_en": "Sanuki Udon Men Fune",
+     "description": "Udon restaurant in Kotohira, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37011804/",
      "page": "https://bokenjapan.com/kagawa/kotohira/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1002,6 +1110,7 @@
     {
      "name": "てんてこ舞",
      "name_en": "Tentekomai",
+     "description": "Noodle restaurant in Kotohira, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37001133/",
      "page": "https://bokenjapan.com/kagawa/kotohira/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1009,6 +1118,7 @@
     {
      "name": "こんぴらうどん 本社工場併設店",
      "name_en": "Konpira Udon Honshakojo Heisetsu",
+     "description": "Udon restaurant in Kotohira, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000156/",
      "page": "https://bokenjapan.com/kagawa/kotohira/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1016,6 +1126,7 @@
     {
      "name": "ナカノヤ 琴平",
      "name_en": "Nakanoya Kotohira",
+     "description": "Noodle restaurant in Kotohira, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37004293/",
      "page": "https://bokenjapan.com/kagawa/kotohira/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1023,6 +1134,7 @@
     {
      "name": "虎屋うどん",
      "name_en": "Toraya Udon",
+     "description": "Udon restaurant in Kotohira, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37012889/",
      "page": "https://bokenjapan.com/kagawa/kotohira/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1030,6 +1142,7 @@
     {
      "name": "狸屋",
      "name_en": "Tanuki-ya",
+     "description": "Noodle restaurant in Kotohira, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000707/",
      "page": "https://bokenjapan.com/kagawa/kotohira/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1037,6 +1150,7 @@
     {
      "name": "紅梅亭",
      "name_en": "Kobai-tei",
+     "description": "Japanese restaurant in Kotohira, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000906/",
      "page": "https://bokenjapan.com/kagawa/kotohira/eat/other-japanese/",
      "category": "Other Japanese"
@@ -1044,6 +1158,7 @@
     {
      "name": "灸まん本舗 石段や 本店",
      "name_en": "Kyu Man Honpo Ishidan Ya Main Store",
+     "description": "Sweets and bakery shop in Kotohira, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000260/",
      "page": "https://bokenjapan.com/kagawa/kotohira/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -1051,6 +1166,7 @@
     {
      "name": "こんぴらプリン",
      "name_en": "Konpira Purine",
+     "description": "Sweets and bakery shop in Kotohira, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37010495/",
      "page": "https://bokenjapan.com/kagawa/kotohira/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -1058,6 +1174,7 @@
     {
      "name": "浪花堂餅店",
      "name_en": "Naniwa Do Mochi",
+     "description": "Sweets and bakery shop in Kotohira, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000271/",
      "page": "https://bokenjapan.com/kagawa/kotohira/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -1065,6 +1182,7 @@
     {
      "name": "しょうゆ豆本舗 表参道店",
      "name_en": "Shoyu Mamehon Ho Omotesando",
+     "description": "Sweets and bakery shop in Kotohira, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37008959/",
      "page": "https://bokenjapan.com/kagawa/kotohira/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -1072,6 +1190,7 @@
     {
      "name": "紀の國屋 本店",
      "name_en": "Ki no Kuni-ya Main Store",
+     "description": "Sweets and bakery shop in Kotohira, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37006520/",
      "page": "https://bokenjapan.com/kagawa/kotohira/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -1080,21 +1199,25 @@
    "sights": [
     {
      "name": "Kotohira Miya",
+     "description": "Sightseeing spot in Kotohira, Kagawa.",
      "source_url": "https://www.town.kotohira.kagawa.jp/soshiki/8/",
      "page": "https://bokenjapan.com/kagawa/kotohira/see/"
     },
     {
      "name": "Asahi Sha",
+     "description": "Sightseeing spot in Kotohira, Kagawa.",
      "source_url": "https://www.town.kotohira.kagawa.jp/soshiki/8/",
      "page": "https://bokenjapan.com/kagawa/kotohira/see/"
     },
     {
      "name": "Kotohira Miya Omotesando",
+     "description": "Sightseeing spot in Kotohira, Kagawa.",
      "source_url": "https://www.town.kotohira.kagawa.jp/soshiki/8/",
      "page": "https://bokenjapan.com/kagawa/kotohira/see/"
     },
     {
      "name": "Saya Hashi",
+     "description": "Sightseeing spot in Kotohira, Kagawa.",
      "source_url": "https://www.town.kotohira.kagawa.jp/soshiki/8/",
      "page": "https://bokenjapan.com/kagawa/kotohira/see/"
     }
@@ -1145,12 +1268,14 @@
     {
      "name": "Lien de premier 讃",
      "name_en": "Lien de premier San",
+     "description": "Place to stay in Kotohira, Kagawa.",
      "source_url": "https://www.ikyu.com/00052526/",
      "page": "https://bokenjapan.com/kagawa/kotohira/stay/"
     },
     {
      "name": "Lien de premier 宙",
      "name_en": "Lien de premier Chu",
+     "description": "Place to stay in Kotohira, Kagawa.",
      "source_url": "https://www.ikyu.com/00052862/",
      "page": "https://bokenjapan.com/kagawa/kotohira/stay/"
     },
@@ -1164,6 +1289,7 @@
     {
      "name": "GOKAN KOTOHIRA",
      "name_en": "GOKAN KOTOHIRA",
+     "description": "Place to stay in Kotohira, Kagawa.",
      "source_url": "https://www.jalan.net/yad357017/",
      "page": "https://bokenjapan.com/kagawa/kotohira/stay/"
     },
@@ -1202,7 +1328,7 @@
     "address": "430 Yoshinoshimo, Manno, Nakatado District, Kagawa 766-8503, Japan",
     "phone": "0877-73-0100"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "まんのう町役場",
@@ -1215,6 +1341,7 @@
    "activities": [
     {
      "name": "Kobashi Falls",
+     "description": "Waterfall in Manno, Kagawa.",
      "source_url": "https://www.town.manno.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/manno/do/"
     }
@@ -1223,6 +1350,7 @@
     {
      "name": "ハナあかり",
      "name_en": "Hana Akari",
+     "description": "Cafe in Manno, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37002716/",
      "page": "https://bokenjapan.com/kagawa/manno/eat/cafe/",
      "category": "Cafe"
@@ -1230,6 +1358,7 @@
     {
      "name": "道の駅ことなみ",
      "name_en": "Michi no Eki Kotonami",
+     "description": "Casual restaurant in Manno, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37005672/",
      "page": "https://bokenjapan.com/kagawa/manno/eat/casual/",
      "category": "Casual"
@@ -1237,6 +1366,7 @@
     {
      "name": "旬菜旬魚 いえもんや",
      "name_en": "Jun Na Shungyo Iemonya",
+     "description": "Izakaya or bar in Manno, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37009276/",
      "page": "https://bokenjapan.com/kagawa/manno/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -1244,6 +1374,7 @@
     {
      "name": "谷川米穀店",
      "name_en": "Tanigawa Beikoku",
+     "description": "Noodle restaurant in Manno, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000011/",
      "page": "https://bokenjapan.com/kagawa/manno/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1251,6 +1382,7 @@
     {
      "name": "山内うどん店",
      "name_en": "Yamauchi Udon",
+     "description": "Udon restaurant in Manno, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000007/",
      "page": "https://bokenjapan.com/kagawa/manno/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1258,6 +1390,7 @@
     {
      "name": "三嶋製麺所",
      "name_en": "Mishima Seimen Tokoro",
+     "description": "Noodle restaurant in Manno, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000140/",
      "page": "https://bokenjapan.com/kagawa/manno/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1265,6 +1398,7 @@
     {
      "name": "長田うどん",
      "name_en": "Nagata Udon",
+     "description": "Udon restaurant in Manno, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000005/",
      "page": "https://bokenjapan.com/kagawa/manno/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1272,6 +1406,7 @@
     {
      "name": "元祖しょうゆうどん 小縣家",
      "name_en": "Ganso Shoyu Udon Chisagata-ya",
+     "description": "Udon restaurant in Manno, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000004/",
      "page": "https://bokenjapan.com/kagawa/manno/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1279,6 +1414,7 @@
     {
      "name": "兼平屋",
      "name_en": "Kanehiraya",
+     "description": "Noodle restaurant in Manno, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000770/",
      "page": "https://bokenjapan.com/kagawa/manno/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1286,6 +1422,7 @@
     {
      "name": "山よし 佐文店",
      "name_en": "Yama Yoshi Sa Bun",
+     "description": "Noodle restaurant in Manno, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37010082/",
      "page": "https://bokenjapan.com/kagawa/manno/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1293,6 +1430,7 @@
     {
      "name": "やましょう",
      "name_en": "Yamasho",
+     "description": "Noodle restaurant in Manno, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000003/",
      "page": "https://bokenjapan.com/kagawa/manno/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1300,6 +1438,7 @@
     {
      "name": "田舎そば 川原",
      "name_en": "Inaka Soba Kawara",
+     "description": "Soba restaurant in Manno, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37004785/",
      "page": "https://bokenjapan.com/kagawa/manno/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1307,6 +1446,7 @@
     {
      "name": "めんくい",
      "name_en": "Menkui",
+     "description": "Noodle restaurant in Manno, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37001450/",
      "page": "https://bokenjapan.com/kagawa/manno/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1314,6 +1454,7 @@
     {
      "name": "山神うどん",
      "name_en": "Sanshin Udon",
+     "description": "Udon restaurant in Manno, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000691/",
      "page": "https://bokenjapan.com/kagawa/manno/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1321,6 +1462,7 @@
     {
      "name": "香川製麺所",
      "name_en": "Kagawa Seimen Tokoro",
+     "description": "Noodle restaurant in Manno, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37014542/",
      "page": "https://bokenjapan.com/kagawa/manno/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1328,6 +1470,7 @@
     {
      "name": "こんぴらや 工場本店",
      "name_en": "Konpiraya Kojo Main Store",
+     "description": "Noodle restaurant in Manno, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37006474/",
      "page": "https://bokenjapan.com/kagawa/manno/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1335,6 +1478,7 @@
     {
      "name": "歌月",
      "name_en": "Uta Gatsu",
+     "description": "Noodle restaurant in Manno, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37001445/",
      "page": "https://bokenjapan.com/kagawa/manno/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1342,6 +1486,7 @@
     {
      "name": "かりん亭",
      "name_en": "Karin-tei",
+     "description": "Noodle restaurant in Manno, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37001446/",
      "page": "https://bokenjapan.com/kagawa/manno/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1349,6 +1494,7 @@
     {
      "name": "そば処 おいで家",
      "name_en": "Soba Oide-ya",
+     "description": "Soba restaurant in Manno, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37004698/",
      "page": "https://bokenjapan.com/kagawa/manno/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1356,6 +1502,7 @@
     {
      "name": "SUNNYSIDE FIELDS",
      "name_en": "Sunnyside Fields",
+     "description": "Japanese restaurant in Manno, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37012188/",
      "page": "https://bokenjapan.com/kagawa/manno/eat/other-japanese/",
      "category": "Other Japanese"
@@ -1363,6 +1510,7 @@
     {
      "name": "カレンズ",
      "name_en": "Karenzu",
+     "description": "Sweets and bakery shop in Manno, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37001607/",
      "page": "https://bokenjapan.com/kagawa/manno/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -1370,6 +1518,7 @@
     {
      "name": "pancafé junju",
      "name_en": "pancafe Junju",
+     "description": "Sweets and bakery shop in Manno, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37004862/",
      "page": "https://bokenjapan.com/kagawa/manno/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -1377,6 +1526,7 @@
     {
      "name": "ブーランジェリー ヴァン",
      "name_en": "Boulangerie Van",
+     "description": "Sweets and bakery shop in Manno, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37004814/",
      "page": "https://bokenjapan.com/kagawa/manno/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -1385,26 +1535,31 @@
    "sights": [
     {
      "name": "Kokuei Sanuki Manno Park",
+     "description": "Park in Manno, Kagawa.",
      "source_url": "https://www.town.manno.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/manno/see/"
     },
     {
      "name": "Manno Ike",
+     "description": "Sightseeing spot in Manno, Kagawa.",
      "source_url": "https://www.town.manno.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/manno/see/"
     },
     {
      "name": "Manno Tenmondai",
+     "description": "Sightseeing spot in Manno, Kagawa.",
      "source_url": "https://www.town.manno.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/manno/see/"
     },
     {
      "name": "Himawari Village",
+     "description": "Sightseeing spot in Manno, Kagawa.",
      "source_url": "https://www.town.manno.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/manno/see/"
     },
     {
      "name": "Karin no Oka Park",
+     "description": "Park in Manno, Kagawa.",
      "source_url": "https://www.town.manno.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/manno/see/"
     }
@@ -1420,6 +1575,7 @@
     {
      "name": "清流庵",
      "name_en": "Seiryu Iori",
+     "description": "Place to stay in Manno, Kagawa.",
      "source_url": "https://www.jalan.net/yad332320/",
      "page": "https://bokenjapan.com/kagawa/manno/stay/"
     }
@@ -1440,7 +1596,7 @@
     "address": "2-4-21 Otemachi, Marugame, Kagawa 763-8501, Japan",
     "phone": "0877-23-2111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "丸亀市役所",
@@ -1453,6 +1609,7 @@
    "activities": [
     {
      "name": "Iino Yama",
+     "description": "Attraction in Marugame, Kagawa.",
      "source_url": "https://www.city.marugame.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/marugame/do/"
     }
@@ -1461,6 +1618,7 @@
     {
      "name": "酒亭うり",
      "name_en": "Sake-tei Uri",
+     "description": "Izakaya or bar in Marugame, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37010761/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -1468,6 +1626,7 @@
     {
      "name": "純手打うどん よしや",
      "name_en": "Jun Teuchi Udon Yoshiya",
+     "description": "Udon restaurant in Marugame, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37004606/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1475,6 +1634,7 @@
     {
      "name": "中村うどん",
      "name_en": "Nakamura Udon",
+     "description": "Udon restaurant in Marugame, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000135/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1482,6 +1642,7 @@
     {
      "name": "麺処 綿谷 丸亀店",
      "name_en": "Men Tokoro Watatani Marugame",
+     "description": "Noodle restaurant in Marugame, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000289/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1489,6 +1650,7 @@
     {
      "name": "なかむら",
      "name_en": "Nakamura",
+     "description": "Noodle restaurant in Marugame, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000068/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1496,6 +1658,7 @@
     {
      "name": "麦香",
      "name_en": "Mugi Kaori",
+     "description": "Noodle restaurant in Marugame, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37006914/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1503,6 +1666,7 @@
     {
      "name": "山とも",
      "name_en": "Yama Tomo",
+     "description": "Noodle restaurant in Marugame, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37008415/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1510,6 +1674,7 @@
     {
      "name": "手打ちうどん 歩",
      "name_en": "Handmade Udon Ho",
+     "description": "Udon restaurant in Marugame, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37001376/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1517,6 +1682,7 @@
     {
      "name": "手打ちセルフうどん 海侍 其の壱 飯山店",
      "name_en": "Teuchi Chi Self- Udon Umi Samurai Sono Ichi Iyama",
+     "description": "Udon restaurant in Marugame, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37006447/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1524,6 +1690,7 @@
     {
      "name": "まえばうどん",
      "name_en": "Maeba Udon",
+     "description": "Udon restaurant in Marugame, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000070/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1531,6 +1698,7 @@
     {
      "name": "うどん おかだ",
      "name_en": "Udon Okada",
+     "description": "Udon restaurant in Marugame, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37009661/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1538,6 +1706,7 @@
     {
      "name": "あやうた製麺",
      "name_en": "Ayauta Seimen",
+     "description": "Noodle restaurant in Marugame, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37007004/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1545,6 +1714,7 @@
     {
      "name": "釜揚げうどん岡じま 丸亀店",
      "name_en": "Kama Age Udon Oka Jima Marugame",
+     "description": "Udon restaurant in Marugame, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37007722/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1552,6 +1722,7 @@
     {
      "name": "時とまるudon",
      "name_en": "Toki Tomaru udon",
+     "description": "Udon restaurant in Marugame, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37013411/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1559,6 +1730,7 @@
     {
      "name": "手打うどん 丸亀渡辺",
      "name_en": "Teuchi Udon Marugame Watanabe",
+     "description": "Udon restaurant in Marugame, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000690/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1566,6 +1738,7 @@
     {
      "name": "飯野屋",
      "name_en": "Ino-ya",
+     "description": "Noodle restaurant in Marugame, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000136/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1573,6 +1746,7 @@
     {
      "name": "手打うどん 竹寅",
      "name_en": "Teuchi Udon Taketora",
+     "description": "Udon restaurant in Marugame, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37012255/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1580,6 +1754,7 @@
     {
      "name": "喰うかい",
      "name_en": "Ku Kai",
+     "description": "Noodle restaurant in Marugame, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37001345/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1587,6 +1762,7 @@
     {
      "name": "手打ちうどん つよ志",
      "name_en": "Handmade Udon Tsuyo Kokorozashi",
+     "description": "Udon restaurant in Marugame, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37012282/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1594,6 +1770,7 @@
     {
      "name": "香川屋 本店",
      "name_en": "Kagawa-ya Main Store",
+     "description": "Noodle restaurant in Marugame, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000543/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1601,6 +1778,7 @@
     {
      "name": "本格手打ちうどん セルフ つづみ",
      "name_en": "Honkaku Teuchi Chiudon Self- Tsuzumi",
+     "description": "Noodle restaurant in Marugame, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37012009/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1608,6 +1786,7 @@
     {
      "name": "石川うどん",
      "name_en": "Ishikawa Udon",
+     "description": "Udon restaurant in Marugame, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37007810/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1615,6 +1794,7 @@
     {
      "name": "まごころ",
      "name_en": "Magokoro",
+     "description": "Noodle restaurant in Marugame, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000650/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1622,6 +1802,7 @@
     {
      "name": "骨付鳥 一鶴 丸亀本店",
      "name_en": "Hone Tsuki Tori Ikkaku Marugame Main Store",
+     "description": "Japanese restaurant in Marugame, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000066/",
      "page": "https://bokenjapan.com/kagawa/marugame/eat/other-japanese/",
      "category": "Other Japanese"
@@ -1630,21 +1811,25 @@
    "sights": [
     {
      "name": "Marugame Shiro",
+     "description": "Sightseeing spot in Marugame, Kagawa.",
      "source_url": "https://www.city.marugame.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/marugame/see/"
     },
     {
      "name": "Marugame Shiro Tenshu",
+     "description": "Sightseeing spot in Marugame, Kagawa.",
      "source_url": "https://www.city.marugame.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/marugame/see/"
     },
     {
      "name": "Marugame Shiroishi Kaki",
+     "description": "Sightseeing spot in Marugame, Kagawa.",
      "source_url": "https://www.city.marugame.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/marugame/see/"
     },
     {
      "name": "Nakatsu Bansho Sono",
+     "description": "Sightseeing spot in Marugame, Kagawa.",
      "source_url": "https://www.city.marugame.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/marugame/see/"
     }
@@ -1667,24 +1852,28 @@
     {
      "name": "Lien de premier 碧",
      "name_en": "Lien de premier Heki",
+     "description": "Place to stay in Marugame, Kagawa.",
      "source_url": "https://www.ikyu.com/00052861/",
      "page": "https://bokenjapan.com/kagawa/marugame/stay/"
     },
     {
      "name": "丸亀城 延寿閣別館 Kazeno Heritage",
      "name_en": "Marugame Shiro Enju Kaku Bekkan Kazeno Heritage",
+     "description": "Place to stay in Marugame, Kagawa.",
      "source_url": "https://www.ikyu.com/00003532/",
      "page": "https://bokenjapan.com/kagawa/marugame/stay/"
     },
     {
      "name": "Villa Tomari",
      "name_en": "Villa Tomari",
+     "description": "Lodge in Marugame, Kagawa.",
      "source_url": "https://www.ikyu.com/00052221/",
      "page": "https://bokenjapan.com/kagawa/marugame/stay/"
     },
     {
      "name": "Villa Kasashima en.",
      "name_en": "Villa Kasashima en.",
+     "description": "Lodge in Marugame, Kagawa.",
      "source_url": "https://www.ikyu.com/00051758/",
      "page": "https://bokenjapan.com/kagawa/marugame/stay/"
     },
@@ -1712,12 +1901,14 @@
     {
      "name": "ホテル・アルファ－ワン丸亀",
      "name_en": "Hotel Arufa - Wan Marugame",
+     "description": "Hotel in Marugame, Kagawa.",
      "source_url": "https://www.jalan.net/yad386919/",
      "page": "https://bokenjapan.com/kagawa/marugame/stay/"
     },
     {
      "name": "丸亀ゲストハウス ウェルかめ",
      "name_en": "Marugame Guesthouse Ueru Kame",
+     "description": "Guesthouse in Marugame, Kagawa.",
      "source_url": "https://www.jalan.net/yad323477/",
      "page": "https://bokenjapan.com/kagawa/marugame/stay/"
     },
@@ -1749,7 +1940,7 @@
     "address": "310 Hyokami, Miki, Kita District, Kagawa 761-0692, Japan",
     "phone": "087-891-3300"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "三木町役場",
@@ -1762,6 +1953,7 @@
    "activities": [
     {
      "name": "Hakusan",
+     "description": "Attraction in Miki, Kagawa.",
      "source_url": "https://www.town.miki.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/miki/do/"
     }
@@ -1770,6 +1962,7 @@
     {
      "name": "たまご専門店 ダンラン",
      "name_en": "Tamago Danran",
+     "description": "Cafe in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37009019/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/cafe/",
      "category": "Cafe"
@@ -1777,6 +1970,7 @@
     {
      "name": "ザズ プランテ エ カフェ",
      "name_en": "zazu plantes et cafe",
+     "description": "Cafe in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37006964/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/cafe/",
      "category": "Cafe"
@@ -1784,6 +1978,7 @@
     {
      "name": "輪楽",
      "name_en": "Waraku",
+     "description": "Cafe in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37005643/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/cafe/",
      "category": "Cafe"
@@ -1791,6 +1986,7 @@
     {
      "name": "サンキュー",
      "name_en": "Thank You",
+     "description": "Cafe in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37009213/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/cafe/",
      "category": "Cafe"
@@ -1798,6 +1994,7 @@
     {
      "name": "つくし食堂",
      "name_en": "Tsukushi Shokudo",
+     "description": "Casual restaurant in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37003685/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/casual/",
      "category": "Casual"
@@ -1805,6 +2002,7 @@
     {
      "name": "茶谷食堂",
      "name_en": "Chatani Shokudo",
+     "description": "Casual restaurant in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37014571/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/casual/",
      "category": "Casual"
@@ -1812,6 +2010,7 @@
     {
      "name": "東東亭",
      "name_en": "Higashi Higashi-tei",
+     "description": "Chinese or Asian restaurant in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37005618/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -1819,6 +2018,7 @@
     {
      "name": "絆",
      "name_en": "Kizuna",
+     "description": "European restaurant in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37013715/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/european/",
      "category": "European"
@@ -1826,6 +2026,7 @@
     {
      "name": "滝音",
      "name_en": "Takioto",
+     "description": "Noodle restaurant in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37001522/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1833,6 +2034,7 @@
     {
      "name": "多田製麺所",
      "name_en": "Tada Seimen Tokoro",
+     "description": "Noodle restaurant in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37000244/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1840,6 +2042,7 @@
     {
      "name": "セルフうどん なりや本店",
      "name_en": "Self- Udon Nariya Hon",
+     "description": "Udon restaurant in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37009927/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1847,6 +2050,7 @@
     {
      "name": "味泉",
      "name_en": "Aji Izumi",
+     "description": "Noodle restaurant in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37001524/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1854,6 +2058,7 @@
     {
      "name": "みき",
      "name_en": "Miki",
+     "description": "Noodle restaurant in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37001523/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1861,6 +2066,7 @@
     {
      "name": "さぬき親鳥中華そば かしわの木",
      "name_en": "Sanuki Oyadori Chuka Soba Kashiwano Ki",
+     "description": "Soba restaurant in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37011038/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1868,6 +2074,7 @@
     {
      "name": "そば屋 福得妙満",
      "name_en": "Soba-ya Fukutoku Myoman",
+     "description": "Soba restaurant in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37005245/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1875,6 +2082,7 @@
     {
      "name": "麺喰 三木店",
      "name_en": "Menkui Miki",
+     "description": "Noodle restaurant in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37001525/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1882,6 +2090,7 @@
     {
      "name": "ラーメン庵 福一本陣",
      "name_en": "Ramen Iori Fukuichi Honjin",
+     "description": "Ramen restaurant in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37006076/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1889,6 +2098,7 @@
     {
      "name": "豚太郎 三木店",
      "name_en": "Buta Taro Miki",
+     "description": "Noodle restaurant in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37006432/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1896,6 +2106,7 @@
     {
      "name": "十河製麺",
      "name_en": "Togo Seimen",
+     "description": "Noodle restaurant in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37000243/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -1903,6 +2114,7 @@
     {
      "name": "美味い魚と旨い酒 がってん",
      "name_en": "Umai Sakana To Umai Sake Gatten",
+     "description": "Seafood restaurant in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37005037/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -1910,6 +2122,7 @@
     {
      "name": "ミキパン avenir amuser",
      "name_en": "Mikipan avenir amuser",
+     "description": "Sweets and bakery shop in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37013399/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -1917,6 +2130,7 @@
     {
      "name": "森のジェラテリア MUCCA",
      "name_en": "Mori no Jierateria Mucca",
+     "description": "Sweets and bakery shop in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37007146/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -1924,6 +2138,7 @@
     {
      "name": "BAKE SHOP GERN 三木本店",
      "name_en": "BAKE SHOP GERN Miki Main Store",
+     "description": "Sweets and bakery shop in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37003393/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -1931,6 +2146,7 @@
     {
      "name": "neige",
      "name_en": "neige",
+     "description": "Sweets and bakery shop in Miki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370102/37009296/",
      "page": "https://bokenjapan.com/kagawa/miki/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -1939,36 +2155,43 @@
    "sights": [
     {
      "name": "Jodo Tera",
+     "description": "Sightseeing spot in Miki, Kagawa.",
      "source_url": "https://www.town.miki.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/miki/see/"
     },
     {
      "name": "Niji Falls (Odaki)",
+     "description": "Waterfall in Miki, Kagawa.",
      "source_url": "https://www.town.miki.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/miki/see/"
     },
     {
      "name": "Niji Falls (Medaki)",
+     "description": "Waterfall in Miki, Kagawa.",
      "source_url": "https://www.town.miki.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/miki/see/"
     },
     {
      "name": "Ko Fuchi Forest Park",
+     "description": "Park in Miki, Kagawa.",
      "source_url": "https://www.town.miki.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/miki/see/"
     },
     {
      "name": "Hakusan Shrine",
+     "description": "Shrine in Miki, Kagawa.",
      "source_url": "https://www.town.miki.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/miki/see/"
     },
     {
      "name": "Otoko I Kan Ike",
+     "description": "Sightseeing spot in Miki, Kagawa.",
      "source_url": "https://www.town.miki.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/miki/see/"
     },
     {
      "name": "Ikedo Hachiman Shrine",
+     "description": "Shrine in Miki, Kagawa.",
      "source_url": "https://www.town.miki.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/miki/see/"
     }
@@ -2016,7 +2239,7 @@
     "address": "2373-1 Shimokatsuma, Takase-cho, Mitoyo, Kagawa 767-8585, Japan",
     "phone": "0875-73-3000"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "三豊市役所",
@@ -2029,6 +2252,7 @@
    "activities": [
     {
      "name": "Taiko Tera",
+     "description": "Attraction in Mitoyo, Kagawa.",
      "source_url": "https://www.mitoyo-kanko.com/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/do/"
     }
@@ -2037,6 +2261,7 @@
     {
      "name": "KAKIGORI CAFE ひむろ",
      "name_en": "Kakigori CAFE Himuro",
+     "description": "Cafe in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37008324/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/cafe/",
      "category": "Cafe"
@@ -2044,6 +2269,7 @@
     {
      "name": "海辺の珈琲研究所 豆豆豆",
      "name_en": "Umibe no Coffee Kenkyusho Mame Mame Mame",
+     "description": "Cafe in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37012832/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/cafe/",
      "category": "Cafe"
@@ -2051,6 +2277,7 @@
     {
      "name": "BAKE STUDIO OKAZAKI 岡崎製パン所",
      "name_en": "BAKE STUDIO OKAZAKI Okazaki Sei Bread Tokoro",
+     "description": "Casual restaurant in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37010109/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/casual/",
      "category": "Casual"
@@ -2058,6 +2285,7 @@
     {
      "name": "とんかつの山岡",
      "name_en": "Tonkatsu no Yamaoka",
+     "description": "Tonkatsu restaurant in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37000872/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/casual/",
      "category": "Casual"
@@ -2065,6 +2293,7 @@
     {
      "name": "みどり食堂",
      "name_en": "Midori Shokudo",
+     "description": "Casual restaurant in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37002870/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/casual/",
      "category": "Casual"
@@ -2072,6 +2301,7 @@
     {
      "name": "元祖たこ判 小前",
      "name_en": "Ganso Tako Han Komae",
+     "description": "Casual restaurant in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37002326/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/casual/",
      "category": "Casual"
@@ -2079,6 +2309,7 @@
     {
      "name": "サンカフェ",
      "name_en": "Sun Cafe",
+     "description": "European restaurant in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37003373/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/european/",
      "category": "European"
@@ -2086,6 +2317,7 @@
     {
      "name": "須崎食料品店",
      "name_en": "Susaki Shokuryohin",
+     "description": "Noodle restaurant in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37000143/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2093,6 +2325,7 @@
     {
      "name": "本格手打ちうどん もり",
      "name_en": "Honkaku Handmade Udon Mori",
+     "description": "Udon restaurant in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37009664/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2100,6 +2333,7 @@
     {
      "name": "三好うどん",
      "name_en": "Miyoshi Udon",
+     "description": "Udon restaurant in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37008190/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2107,6 +2341,7 @@
     {
      "name": "はまんど",
      "name_en": "Hamando",
+     "description": "Noodle restaurant in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37000174/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2114,6 +2349,7 @@
     {
      "name": "シラカワ",
      "name_en": "Shirakawa",
+     "description": "Noodle restaurant in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37000147/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2121,6 +2357,7 @@
     {
      "name": "手打うどん 渡辺",
      "name_en": "Teuchi Udon Watanabe",
+     "description": "Udon restaurant in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37000093/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2128,6 +2365,7 @@
     {
      "name": "手打ちうどん 小野",
      "name_en": "Handmade Udon Ono",
+     "description": "Udon restaurant in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37000688/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2135,6 +2373,7 @@
     {
      "name": "うどん 松ゆき",
      "name_en": "Udon Matsuyuki",
+     "description": "Udon restaurant in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37010119/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2142,6 +2381,7 @@
     {
      "name": "上杉食品",
      "name_en": "Uesugi Shokuhin",
+     "description": "Noodle restaurant in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37000150/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2149,6 +2389,7 @@
     {
      "name": "浜堂ラーメン",
      "name_en": "Hama Do Ramen",
+     "description": "Ramen restaurant in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37009564/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2156,6 +2397,7 @@
     {
      "name": "まなべうどん",
      "name_en": "Manabe Udon",
+     "description": "Udon restaurant in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37000280/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2163,6 +2405,7 @@
     {
      "name": "いしかわ家",
      "name_en": "Ishikawa-ya",
+     "description": "Noodle restaurant in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37013228/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2170,6 +2413,7 @@
     {
      "name": "長兵衛",
      "name_en": "Chobe",
+     "description": "Noodle restaurant in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37001479/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2177,6 +2421,7 @@
     {
      "name": "○福うどん",
      "name_en": "○ Fuku Udon",
+     "description": "Udon restaurant in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37001488/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2184,6 +2429,7 @@
     {
      "name": "豊潤煮干醤油一生麺a.k.a.ラーメン森",
      "name_en": "Hojun Niboshi Shoyu Issho Men a.k.a. Ramen Mori",
+     "description": "Ramen restaurant in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37012617/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2191,6 +2437,7 @@
     {
      "name": "DOUGHNUT-HOLIC",
      "name_en": "Doughnut-Holic",
+     "description": "Sweets and bakery shop in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370303/37011911/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -2198,6 +2445,7 @@
     {
      "name": "名物 鳥坂まんじゅう",
      "name_en": "Meibutsu Torisaka Manju",
+     "description": "Sweets and bakery shop in Mitoyo, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000204/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -2206,36 +2454,43 @@
    "sights": [
     {
      "name": "Fubogahama",
+     "description": "Sightseeing spot in Mitoyo, Kagawa.",
      "source_url": "https://www.mitoyo-kanko.com/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/see/"
     },
     {
      "name": "Shiude Yama",
+     "description": "Sightseeing spot in Mitoyo, Kagawa.",
      "source_url": "https://www.mitoyo-kanko.com/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/see/"
     },
     {
      "name": "Honzan Tera",
+     "description": "Sightseeing spot in Mitoyo, Kagawa.",
      "source_url": "https://www.mitoyo-kanko.com/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/see/"
     },
     {
      "name": "Ya Tani Tera",
+     "description": "Sightseeing spot in Mitoyo, Kagawa.",
      "source_url": "https://www.mitoyo-kanko.com/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/see/"
     },
     {
      "name": "Tsushima Shrine",
+     "description": "Shrine in Mitoyo, Kagawa.",
      "source_url": "https://www.mitoyo-kanko.com/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/see/"
     },
     {
      "name": "Takuma Eki",
+     "description": "Sightseeing spot in Mitoyo, Kagawa.",
      "source_url": "https://www.mitoyo-kanko.com/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/see/"
     },
     {
      "name": "Fudo Falls",
+     "description": "Waterfall in Mitoyo, Kagawa.",
      "source_url": "https://www.mitoyo-kanko.com/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/see/"
     }
@@ -2244,18 +2499,21 @@
     {
      "name": "URASHIMA VILLAGE",
      "name_en": "URASHIMA VILLAGE",
+     "description": "Place to stay in Mitoyo, Kagawa.",
      "source_url": "https://www.ikyu.com/00051697/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/stay/"
     },
     {
      "name": "燧-Hiuchi-",
      "name_en": "Sui -Hiuchi",
+     "description": "Place to stay in Mitoyo, Kagawa.",
      "source_url": "https://www.ikyu.com/00050264/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/stay/"
     },
     {
      "name": "SETOUCHI SHOWER-泊Rutto",
      "name_en": "SETOUCHI SHOWER- Haku Rutto",
+     "description": "Place to stay in Mitoyo, Kagawa.",
      "source_url": "https://www.ikyu.com/00052606/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/stay/"
     },
@@ -2269,24 +2527,28 @@
     {
      "name": "Kanran",
      "name_en": "Kanran",
+     "description": "Place to stay in Mitoyo, Kagawa.",
      "source_url": "https://www.ikyu.com/00050783/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/stay/"
     },
     {
      "name": "La toile",
      "name_en": "La toile",
+     "description": "Place to stay in Mitoyo, Kagawa.",
      "source_url": "https://www.ikyu.com/00050678/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/stay/"
     },
     {
      "name": "海と島の隠れ宿 Archipelago TSUSHIMA -泊Rutto",
      "name_en": "Umi To Shima No Kakure Yado Archipelago TSUSHIMA - Haku Rutto",
+     "description": "Place to stay in Mitoyo, Kagawa.",
      "source_url": "https://www.ikyu.com/00050789/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/stay/"
     },
     {
      "name": "積凪KITAKEN棟 -泊Rutto",
      "name_en": "Seki Nagi KITAKEN To - Haku Rutto",
+     "description": "Place to stay in Mitoyo, Kagawa.",
      "source_url": "https://www.ikyu.com/00051354/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/stay/"
     },
@@ -2300,18 +2562,21 @@
     {
      "name": "吾輩は米になる 酒蔵宿 三豊鶴TOJI -泊Rutto",
      "name_en": "Wagahai Ha Kome Ninaru Shuzo Yado Mitoyo Tsuru TOJI - Haku Rutto",
+     "description": "Place to stay in Mitoyo, Kagawa.",
      "source_url": "https://www.ikyu.com/00052006/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/stay/"
     },
     {
      "name": "和の抄 ＭＡＣＨＩＹＡ",
      "name_en": "Nagono Sho MACHIYA",
+     "description": "Place to stay in Mitoyo, Kagawa.",
      "source_url": "https://www.jalan.net/yad366454/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/stay/"
     },
     {
      "name": "泊まれるIZAKAYA 高瀬茶の湯 JIJI -泊Rutto",
      "name_en": "Toma Reru IZAKAYA Takase Cha No Yu JIJI - Haku Rutto",
+     "description": "Place to stay in Mitoyo, Kagawa.",
      "source_url": "https://www.jalan.net/yad362382/",
      "page": "https://bokenjapan.com/kagawa/mitoyo/stay/"
     }
@@ -2336,7 +2601,7 @@
     "address": "1122-1 Naoshima-cho, Kagawa-gun, Kagawa 761-3110, Japan",
     "phone": "087-892-2222"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "直島町役場",
@@ -2349,6 +2614,7 @@
    "activities": [
     {
      "name": "ANDO MUSEUM",
+     "description": "Museum in Naoshima, Kagawa.",
      "source_url": "https://naoshima.net/",
      "page": "https://bokenjapan.com/kagawa/naoshima/do/"
     }
@@ -2357,6 +2623,7 @@
     {
      "name": "地中カフェ",
      "name_en": "Chichu Cafe",
+     "description": "Cafe in Naoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370103/37000602/",
      "page": "https://bokenjapan.com/kagawa/naoshima/eat/cafe/",
      "category": "Cafe"
@@ -2364,6 +2631,7 @@
     {
      "name": "カフェサロン 中奥",
      "name_en": "Cafe Salon Chuoku",
+     "description": "Cafe in Naoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370103/37005671/",
      "page": "https://bokenjapan.com/kagawa/naoshima/eat/cafe/",
      "category": "Cafe"
@@ -2371,6 +2639,7 @@
     {
      "name": "あいすなお",
      "name_en": "Aisunao",
+     "description": "Cafe in Naoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370103/37000530/",
      "page": "https://bokenjapan.com/kagawa/naoshima/eat/cafe/",
      "category": "Cafe"
@@ -2378,6 +2647,7 @@
     {
      "name": "ベネッセハウス ミュージアムカフェ",
      "name_en": "Benesse House Myujiamu Cafe",
+     "description": "Cafe in Naoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370103/37000785/",
      "page": "https://bokenjapan.com/kagawa/naoshima/eat/cafe/",
      "category": "Cafe"
@@ -2385,6 +2655,7 @@
     {
      "name": "カフェ おうぎや",
      "name_en": "Cafe Ogiya",
+     "description": "Cafe in Naoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370103/37001630/",
      "page": "https://bokenjapan.com/kagawa/naoshima/eat/cafe/",
      "category": "Cafe"
@@ -2392,6 +2663,7 @@
     {
      "name": "マイマイ",
      "name_en": "Maimai",
+     "description": "Cafe in Naoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370103/37005337/",
      "page": "https://bokenjapan.com/kagawa/naoshima/eat/cafe/",
      "category": "Cafe"
@@ -2399,6 +2671,7 @@
     {
      "name": "アカイトコーヒー",
      "name_en": "Akaito Coffee",
+     "description": "Cafe in Naoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370103/37009325/",
      "page": "https://bokenjapan.com/kagawa/naoshima/eat/cafe/",
      "category": "Cafe"
@@ -2406,6 +2679,7 @@
     {
      "name": "直島カフェ コンニチハ",
      "name_en": "Naoshima Cafe Konnichiha",
+     "description": "Cafe in Naoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370103/37005586/",
      "page": "https://bokenjapan.com/kagawa/naoshima/eat/cafe/",
      "category": "Cafe"
@@ -2413,6 +2687,7 @@
     {
      "name": "ミカヅキショウテン",
      "name_en": "Mikazukishoten",
+     "description": "Cafe in Naoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370103/37010090/",
      "page": "https://bokenjapan.com/kagawa/naoshima/eat/cafe/",
      "category": "Cafe"
@@ -2420,6 +2695,7 @@
     {
      "name": "&CAFE",
      "name_en": "&Cafe",
+     "description": "Cafe in Naoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370103/37014452/",
      "page": "https://bokenjapan.com/kagawa/naoshima/eat/cafe/",
      "category": "Cafe"
@@ -2427,6 +2703,7 @@
     {
      "name": "フランコイル",
      "name_en": "Franc Coil",
+     "description": "Cafe in Naoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370103/37009604/",
      "page": "https://bokenjapan.com/kagawa/naoshima/eat/cafe/",
      "category": "Cafe"
@@ -2434,6 +2711,7 @@
     {
      "name": "NAOSHIMA COFFEE",
      "name_en": "Naoshima Coffee",
+     "description": "Cafe in Naoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370103/37014067/",
      "page": "https://bokenjapan.com/kagawa/naoshima/eat/cafe/",
      "category": "Cafe"
@@ -2441,6 +2719,7 @@
     {
      "name": "Cin.na.mon",
      "name_en": "Cin.na.mon",
+     "description": "Cafe in Naoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370103/37004670/",
      "page": "https://bokenjapan.com/kagawa/naoshima/eat/cafe/",
      "category": "Cafe"
@@ -2448,6 +2727,7 @@
     {
      "name": "エプロンカフェ",
      "name_en": "Apron Cafe",
+     "description": "Cafe in Naoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370103/37007568/",
      "page": "https://bokenjapan.com/kagawa/naoshima/eat/cafe/",
      "category": "Cafe"
@@ -2455,6 +2735,7 @@
     {
      "name": "スパーキーズ コーヒー",
      "name_en": "Supakizu Coffee",
+     "description": "Cafe in Naoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370103/37008932/",
      "page": "https://bokenjapan.com/kagawa/naoshima/eat/cafe/",
      "category": "Cafe"
@@ -2462,6 +2743,7 @@
     {
      "name": "ゆうなぎ",
      "name_en": "Yuunagi",
+     "description": "Casual restaurant in Naoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370103/37008060/",
      "page": "https://bokenjapan.com/kagawa/naoshima/eat/casual/",
      "category": "Casual"
@@ -2469,6 +2751,7 @@
     {
      "name": "UMI NO STAND つつじ荘",
      "name_en": "UMI NO Stand Tsutsuji-so",
+     "description": "Casual restaurant in Naoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370103/37006497/",
      "page": "https://bokenjapan.com/kagawa/naoshima/eat/casual/",
      "category": "Casual"
@@ -2476,6 +2759,7 @@
     {
      "name": "テラスレストラン",
      "name_en": "Terrace Restaurant",
+     "description": "European restaurant in Naoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370103/37000787/",
      "page": "https://bokenjapan.com/kagawa/naoshima/eat/european/",
      "category": "European"
@@ -2483,6 +2767,7 @@
     {
      "name": "Luke's Pizza & Grill",
      "name_en": "Luke's Pizza & Grill",
+     "description": "European restaurant in Naoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370103/37011960/",
      "page": "https://bokenjapan.com/kagawa/naoshima/eat/european/",
      "category": "European"
@@ -2490,6 +2775,7 @@
     {
      "name": "木の崎うどん 直島店",
      "name_en": "Ki no Saki Udon Naoshima",
+     "description": "Udon restaurant in Naoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370103/37007344/",
      "page": "https://bokenjapan.com/kagawa/naoshima/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2497,6 +2783,7 @@
     {
      "name": "日本料理 一扇",
      "name_en": "Nippon Cuisine Ichi Ogi",
+     "description": "Japanese restaurant in Naoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370103/37000306/",
      "page": "https://bokenjapan.com/kagawa/naoshima/eat/other-japanese/",
      "category": "Other Japanese"
@@ -2504,6 +2791,7 @@
     {
      "name": "ニューおりんぴあ",
      "name_en": "New Orinpia",
+     "description": "Seafood restaurant in Naoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370103/37004766/",
      "page": "https://bokenjapan.com/kagawa/naoshima/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -2511,6 +2799,7 @@
     {
      "name": "naoshima gelato",
      "name_en": "naoshima gelato",
+     "description": "Sweets and bakery shop in Naoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370103/37012657/",
      "page": "https://bokenjapan.com/kagawa/naoshima/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -2519,41 +2808,49 @@
    "sights": [
     {
      "name": "Kusama Yayoi (Kabocha)",
+     "description": "Sightseeing spot in Naoshima, Kagawa.",
      "source_url": "https://naoshima.net/",
      "page": "https://bokenjapan.com/kagawa/naoshima/see/"
     },
     {
      "name": "Miyaura Minato",
+     "description": "Sightseeing spot in Naoshima, Kagawa.",
      "source_url": "https://naoshima.net/",
      "page": "https://bokenjapan.com/kagawa/naoshima/see/"
     },
     {
      "name": "Chichu Art Museum",
+     "description": "Museum in Naoshima, Kagawa.",
      "source_url": "https://naoshima.net/",
      "page": "https://bokenjapan.com/kagawa/naoshima/see/"
     },
     {
      "name": "Benessehausu Museum",
+     "description": "Museum in Naoshima, Kagawa.",
      "source_url": "https://naoshima.net/",
      "page": "https://bokenjapan.com/kagawa/naoshima/see/"
     },
     {
      "name": "Sumomo U Kan Art Museum",
+     "description": "Museum in Naoshima, Kagawa.",
      "source_url": "https://naoshima.net/",
      "page": "https://bokenjapan.com/kagawa/naoshima/see/"
     },
     {
      "name": "Naoshima Pavirion",
+     "description": "Sightseeing spot in Naoshima, Kagawa.",
      "source_url": "https://naoshima.net/",
      "page": "https://bokenjapan.com/kagawa/naoshima/see/"
     },
     {
      "name": "Ie Purojiekuto Go Shrine",
+     "description": "Shrine in Naoshima, Kagawa.",
      "source_url": "https://naoshima.net/",
      "page": "https://bokenjapan.com/kagawa/naoshima/see/"
     },
     {
      "name": "Kon Dan Chi Beach",
+     "description": "Beach in Naoshima, Kagawa.",
      "source_url": "https://naoshima.net/",
      "page": "https://bokenjapan.com/kagawa/naoshima/see/"
     }
@@ -2569,36 +2866,42 @@
     {
      "name": "ベネッセハウス",
      "name_en": "Benesse House",
+     "description": "Place to stay in Naoshima, Kagawa.",
      "source_url": "https://www.ikyu.com/00000944/",
      "page": "https://bokenjapan.com/kagawa/naoshima/stay/"
     },
     {
      "name": "ホテルライトスタイル",
      "name_en": "Hotel Raitosutairu",
+     "description": "Hotel in Naoshima, Kagawa.",
      "source_url": "https://www.jalan.net/yad310776/",
      "page": "https://bokenjapan.com/kagawa/naoshima/stay/"
     },
     {
      "name": "直島町ふるさと海の家つつじ荘",
      "name_en": "Naoshima Machi Furusato Uminoie Tsutsuji So",
+     "description": "Place to stay in Naoshima, Kagawa.",
      "source_url": "https://www.jalan.net/yad389941/",
      "page": "https://bokenjapan.com/kagawa/naoshima/stay/"
     },
     {
      "name": "直島コテージ",
      "name_en": "Naoshima Cottage",
+     "description": "Lodge in Naoshima, Kagawa.",
      "source_url": "https://www.jalan.net/yad371608/",
      "page": "https://bokenjapan.com/kagawa/naoshima/stay/"
     },
     {
      "name": "マイロッジ直島",
      "name_en": "Mai Lodge Naoshima",
+     "description": "Lodge in Naoshima, Kagawa.",
      "source_url": "https://www.jalan.net/yad382867/",
      "page": "https://bokenjapan.com/kagawa/naoshima/stay/"
     },
     {
      "name": "クイントハウス直島",
      "name_en": "Kuinto House Naoshima",
+     "description": "Place to stay in Naoshima, Kagawa.",
      "source_url": "https://www.jalan.net/yad300413/",
      "page": "https://bokenjapan.com/kagawa/naoshima/stay/"
     }
@@ -2623,7 +2926,7 @@
     "address": "2-3-5 Muromachi, Sakaide, Kagawa 762-8601, Japan",
     "phone": "0877-46-3111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "坂出市役所",
@@ -2636,6 +2939,7 @@
    "activities": [
     {
      "name": "Saya Shima",
+     "description": "Attraction in Sakaide, Kagawa.",
      "source_url": "https://sakaide-kankou.com/",
      "page": "https://bokenjapan.com/kagawa/sakaide/do/"
     }
@@ -2644,6 +2948,7 @@
     {
      "name": "ホクセイ",
      "name_en": "Hokusei",
+     "description": "Cafe in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37002605/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/cafe/",
      "category": "Cafe"
@@ -2651,6 +2956,7 @@
     {
      "name": "珈琲屋 松尾",
      "name_en": "Coffee-ya Matsuo",
+     "description": "Cafe in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37006398/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/cafe/",
      "category": "Cafe"
@@ -2658,6 +2964,7 @@
     {
      "name": "ランドスケープ コーヒー37",
      "name_en": "Landscape Coffee 37",
+     "description": "Cafe in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37012260/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/cafe/",
      "category": "Cafe"
@@ -2665,6 +2972,7 @@
     {
      "name": "与島PAフードコート",
      "name_en": "Yo Shima PA Food Court",
+     "description": "Casual restaurant in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37000791/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/casual/",
      "category": "Casual"
@@ -2672,6 +2980,7 @@
     {
      "name": "五圓安",
      "name_en": "Go Enyasu",
+     "description": "Chinese or Asian restaurant in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37004725/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -2679,6 +2988,7 @@
     {
      "name": "ベンガル亭",
      "name_en": "Bengaru-tei",
+     "description": "Curry restaurant in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37002991/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/curry/",
      "category": "Curry"
@@ -2686,6 +2996,7 @@
     {
      "name": "ウェリントン",
      "name_en": "Uerinton",
+     "description": "Meat restaurant in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37000106/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/meat/",
      "category": "Japanese (meat)"
@@ -2693,6 +3004,7 @@
     {
      "name": "焼肉山吉",
      "name_en": "Yakiniku Yamakichi",
+     "description": "Yakiniku restaurant in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37001986/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/meat/",
      "category": "Japanese (meat)"
@@ -2700,6 +3012,7 @@
     {
      "name": "讃岐うどん がもう",
      "name_en": "Sanuki Udon Gamo",
+     "description": "Udon restaurant in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37000019/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2707,6 +3020,7 @@
     {
      "name": "日の出製麺所",
      "name_en": "Hinode Seimen Tokoro",
+     "description": "Noodle restaurant in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37000016/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2714,6 +3028,7 @@
     {
      "name": "山下うどん",
      "name_en": "Yamashita Udon",
+     "description": "Udon restaurant in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37000020/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2721,6 +3036,7 @@
     {
      "name": "やなぎ屋 西大浜店",
      "name_en": "Yanagi-ya Nishi Ohama",
+     "description": "Noodle restaurant in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37005702/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2728,6 +3044,7 @@
     {
      "name": "とらや",
      "name_en": "Toraya",
+     "description": "Noodle restaurant in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37001355/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2735,6 +3052,7 @@
     {
      "name": "まいどまいど",
      "name_en": "Maidomaido",
+     "description": "Noodle restaurant in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37005010/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2742,6 +3060,7 @@
     {
      "name": "めんや七福 別邸",
      "name_en": "Menya Shichifuku Bettei",
+     "description": "Noodle restaurant in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37008600/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2749,6 +3068,7 @@
     {
      "name": "手打ちうどん かまや",
      "name_en": "Handmade Udon Kamaya",
+     "description": "Udon restaurant in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37012661/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2756,6 +3076,7 @@
     {
      "name": "さぬきまるふじ",
      "name_en": "Sanukimarufuji",
+     "description": "Noodle restaurant in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37001360/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2763,6 +3084,7 @@
     {
      "name": "饂飩 こむぎや",
      "name_en": "Udon Komugiya",
+     "description": "Udon restaurant in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37000943/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2770,6 +3092,7 @@
     {
      "name": "手打うどん 町川",
      "name_en": "Teuchi Udon Machikawa",
+     "description": "Udon restaurant in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37000708/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2777,6 +3100,7 @@
     {
      "name": "架け橋 夢うどん",
      "name_en": "Kakehashi Yume Udon",
+     "description": "Udon restaurant in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37006704/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2784,6 +3108,7 @@
     {
      "name": "ラーメンショップ 坂出店",
      "name_en": "Ramen Shop Sakaide",
+     "description": "Ramen restaurant in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37007058/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -2791,6 +3116,7 @@
     {
      "name": "食事処こめや",
      "name_en": "Restaurant Komeya",
+     "description": "Japanese restaurant in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37003961/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/other-japanese/",
      "category": "Other Japanese"
@@ -2798,6 +3124,7 @@
     {
      "name": "清水屋",
      "name_en": "Shimizu-ya",
+     "description": "Sweets and bakery shop in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37000701/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -2805,6 +3132,7 @@
     {
      "name": "アミチャーベーカリー",
      "name_en": "Amicha Bakery",
+     "description": "Sweets and bakery shop in Sakaide, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37000923/",
      "page": "https://bokenjapan.com/kagawa/sakaide/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -2813,41 +3141,49 @@
    "sights": [
     {
      "name": "Seto Bridge",
+     "description": "Bridge in Sakaide, Kagawa.",
      "source_url": "https://sakaide-kankou.com/",
      "page": "https://bokenjapan.com/kagawa/sakaide/see/"
     },
     {
      "name": "Setoohashi Memorial Park",
+     "description": "Park in Sakaide, Kagawa.",
      "source_url": "https://sakaide-kankou.com/",
      "page": "https://bokenjapan.com/kagawa/sakaide/see/"
     },
     {
      "name": "Setoohashi Tawa",
+     "description": "Sightseeing spot in Sakaide, Kagawa.",
      "source_url": "https://sakaide-kankou.com/",
      "page": "https://bokenjapan.com/kagawa/sakaide/see/"
     },
     {
      "name": "Higashiyama Kaii Setochi Art Museum",
+     "description": "Museum in Sakaide, Kagawa.",
      "source_url": "https://sakaide-kankou.com/",
      "page": "https://bokenjapan.com/kagawa/sakaide/see/"
     },
     {
      "name": "Yo Shima",
+     "description": "Sightseeing spot in Sakaide, Kagawa.",
      "source_url": "https://sakaide-kankou.com/",
      "page": "https://bokenjapan.com/kagawa/sakaide/see/"
     },
     {
      "name": "Nabeshima Lighthouse",
+     "description": "Lighthouse in Sakaide, Kagawa.",
      "source_url": "https://sakaide-kankou.com/",
      "page": "https://bokenjapan.com/kagawa/sakaide/see/"
     },
     {
      "name": "Iino Yama",
+     "description": "Sightseeing spot in Sakaide, Kagawa.",
      "source_url": "https://sakaide-kankou.com/",
      "page": "https://bokenjapan.com/kagawa/sakaide/see/"
     },
     {
      "name": "Shiramine Tera",
+     "description": "Sightseeing spot in Sakaide, Kagawa.",
      "source_url": "https://sakaide-kankou.com/",
      "page": "https://bokenjapan.com/kagawa/sakaide/see/"
     }
@@ -2952,7 +3288,7 @@
     "address": "5385-8 Shido, Sanuki, Kagawa 769-2195, Japan",
     "phone": "087-894-1111"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "さぬき市役所",
@@ -2965,6 +3301,7 @@
    "activities": [
     {
      "name": "Iwashimizu Shrine",
+     "description": "Shrine in Sanuki, Kagawa.",
      "source_url": "https://www.city.sanuki.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/sanuki/do/"
     }
@@ -2973,6 +3310,7 @@
     {
      "name": "道の駅 牧場カフェ 369",
      "name_en": "Michi no Eki Bokujou Cafe 369",
+     "description": "Cafe in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37010711/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/cafe/",
      "category": "Cafe"
@@ -2980,6 +3318,7 @@
     {
      "name": "大川オアシス",
      "name_en": "Okawa Oasis",
+     "description": "Casual restaurant in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37008812/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/casual/",
      "category": "Casual"
@@ -2987,6 +3326,7 @@
     {
      "name": "シセン",
      "name_en": "Shisen",
+     "description": "Chinese or Asian restaurant in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37001703/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -2994,6 +3334,7 @@
     {
      "name": "福菜",
      "name_en": "Fukuna",
+     "description": "Chinese or Asian restaurant in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37005028/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -3001,6 +3342,7 @@
     {
      "name": "手打うどん 源内",
      "name_en": "Teuchi Udon Gennai",
+     "description": "Udon restaurant in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37000100/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3008,6 +3350,7 @@
     {
      "name": "麺処まはろ",
      "name_en": "Men Tokoro Maharo",
+     "description": "Noodle restaurant in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37001543/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3015,6 +3358,7 @@
     {
      "name": "麺でぃ～",
      "name_en": "Men Di",
+     "description": "Noodle restaurant in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37010253/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3022,6 +3366,7 @@
     {
      "name": "溜",
      "name_en": "Tame",
+     "description": "Noodle restaurant in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37007600/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3029,6 +3374,7 @@
     {
      "name": "羽立",
      "name_en": "Hane Ritsu",
+     "description": "Noodle restaurant in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37004773/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3036,6 +3382,7 @@
     {
      "name": "八十八庵",
      "name_en": "Yasohachi Iori",
+     "description": "Noodle restaurant in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37000380/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3043,6 +3390,7 @@
     {
      "name": "あなぶき家 津田の松原SA 上り線うどんコーナー",
      "name_en": "Anabuki-ya Tsuda no Matsubara SA Nobori Sen Udon Corner",
+     "description": "Udon restaurant in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37000190/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3050,6 +3398,7 @@
     {
      "name": "あなぶき家 津田の松原サービスエリア（下り線）",
      "name_en": "Anabuki-ya Tsuda no Matsubara Service Area Outbound",
+     "description": "Noodle restaurant in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37001535/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3057,6 +3406,7 @@
     {
      "name": "牟礼製麺",
      "name_en": "Mure Seimen",
+     "description": "Noodle restaurant in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37001546/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3064,6 +3414,7 @@
     {
      "name": "ラーメン山村 本店",
      "name_en": "Ramen Sanson Hon",
+     "description": "Ramen restaurant in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37001617/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3071,6 +3422,7 @@
     {
      "name": "らぁ麺Labo 七施",
      "name_en": "Ramen Labo Shichi Shi",
+     "description": "Ramen restaurant in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37012332/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3078,6 +3430,7 @@
     {
      "name": "こがね製麺所 寒川店",
      "name_en": "Kogane Seimen Tokoro Samukawa",
+     "description": "Noodle restaurant in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37011870/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3085,6 +3438,7 @@
     {
      "name": "手打うどん まるたけ",
      "name_en": "Teuchi Udon Marutake",
+     "description": "Udon restaurant in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37006656/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3092,6 +3446,7 @@
     {
      "name": "松原うどん",
      "name_en": "Matsubara Udon",
+     "description": "Udon restaurant in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37001541/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3099,6 +3454,7 @@
     {
      "name": "セルフうどん 富士山",
      "name_en": "Self- Udon Fujisan",
+     "description": "Udon restaurant in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37010029/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3106,6 +3462,7 @@
     {
      "name": "若潮",
      "name_en": "Wakashio",
+     "description": "Noodle restaurant in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37007322/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3113,6 +3470,7 @@
     {
      "name": "元気",
      "name_en": "Genki",
+     "description": "Noodle restaurant in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37008712/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3120,6 +3478,7 @@
     {
      "name": "かき焼き わたなべ",
      "name_en": "Kaki Yaki Watanabe",
+     "description": "Seafood restaurant in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37000347/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -3127,6 +3486,7 @@
     {
      "name": "寿司処 ここも 志度店",
      "name_en": "Sushi Tokoro Kokomo Shido",
+     "description": "Sushi restaurant in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37009809/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -3134,6 +3494,7 @@
     {
      "name": "津田の松原サービスエリア（上り線） スナックコーナー",
      "name_en": "Tsuda no Matsubara Service Area Nobori Sen Snack Corner",
+     "description": "Sweets and bakery shop in Sanuki, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3704/A370401/37006600/",
      "page": "https://bokenjapan.com/kagawa/sanuki/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -3142,26 +3503,31 @@
    "sights": [
     {
      "name": "Shido Tera",
+     "description": "Sightseeing spot in Sanuki, Kagawa.",
      "source_url": "https://www.city.sanuki.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/sanuki/see/"
     },
     {
      "name": "Nagao Tera",
+     "description": "Sightseeing spot in Sanuki, Kagawa.",
      "source_url": "https://www.city.sanuki.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/sanuki/see/"
     },
     {
      "name": "Tsuda no Matsubara",
+     "description": "Sightseeing spot in Sanuki, Kagawa.",
      "source_url": "https://www.city.sanuki.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/sanuki/see/"
     },
     {
      "name": "Ogushi Peninsula",
+     "description": "Sightseeing spot in Sanuki, Kagawa.",
      "source_url": "https://www.city.sanuki.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/sanuki/see/"
     },
     {
      "name": "Shido Eki",
+     "description": "Sightseeing spot in Sanuki, Kagawa.",
      "source_url": "https://www.city.sanuki.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/sanuki/see/"
     }
@@ -3170,6 +3536,7 @@
     {
      "name": "SAND BEIGE",
      "name_en": "SAND BEIGE",
+     "description": "Place to stay in Sanuki, Kagawa.",
      "source_url": "https://www.ikyu.com/00052143/",
      "page": "https://bokenjapan.com/kagawa/sanuki/stay/"
     },
@@ -3183,6 +3550,7 @@
     {
      "name": "Villa JacoOⅡ",
      "name_en": "Villa JacoOII",
+     "description": "Lodge in Sanuki, Kagawa.",
      "source_url": "https://www.ikyu.com/00052765/",
      "page": "https://bokenjapan.com/kagawa/sanuki/stay/"
     },
@@ -3196,18 +3564,21 @@
     {
      "name": "Villa Jaco◯ーヴィラじゃこまるー",
      "name_en": "Villa Jaco Villa Jakomaru",
+     "description": "Lodge in Sanuki, Kagawa.",
      "source_url": "https://www.ikyu.com/00051880/",
      "page": "https://bokenjapan.com/kagawa/sanuki/stay/"
     },
     {
      "name": "SETO CLAS TSUDA THE BEACH RESORT C",
      "name_en": "SETO CLAS TSUDA THE BEACH RESORT C",
+     "description": "Resort hotel in Sanuki, Kagawa.",
      "source_url": "https://www.ikyu.com/00051845/",
      "page": "https://bokenjapan.com/kagawa/sanuki/stay/"
     },
     {
      "name": "SETO CLAS TSUDA THE BEACH RESORT B",
      "name_en": "SETO CLAS TSUDA THE BEACH RESORT B",
+     "description": "Resort hotel in Sanuki, Kagawa.",
      "source_url": "https://www.ikyu.com/00051844/",
      "page": "https://bokenjapan.com/kagawa/sanuki/stay/"
     },
@@ -3228,12 +3599,14 @@
     {
      "name": "いしや旅館",
      "name_en": "Ishiya Ryokan",
+     "description": "Ryokan in Sanuki, Kagawa.",
      "source_url": "https://www.jalan.net/yad388105/",
      "page": "https://bokenjapan.com/kagawa/sanuki/stay/"
     },
     {
      "name": "とまばりゲストハウス",
      "name_en": "Tomabari Guesthouse",
+     "description": "Guesthouse in Sanuki, Kagawa.",
      "source_url": "https://www.jalan.net/yad379910/",
      "page": "https://bokenjapan.com/kagawa/sanuki/stay/"
     },
@@ -3265,7 +3638,7 @@
     "address": "Katashiro Ko 44-95, Shodoshima-cho, Shozu-gun, Kagawa 761-4492, Japan",
     "phone": "0879-82-7000"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "小豆島町役場",
@@ -3278,6 +3651,7 @@
    "activities": [
     {
      "name": "Roadside Station Shodoshima Oriibu Park",
+     "description": "Park in Shodoshima, Kagawa.",
      "source_url": "https://www.town.shodoshima.lg.jp/kanko/index.html",
      "page": "https://bokenjapan.com/kagawa/shodoshima/do/"
     }
@@ -3286,6 +3660,7 @@
     {
      "name": "こまめ食堂",
      "name_en": "Komame Shokudo",
+     "description": "Cafe in Shodoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37005612/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/eat/cafe/",
      "category": "Cafe"
@@ -3293,6 +3668,7 @@
     {
      "name": "モリクニ カフェ＆バー",
      "name_en": "Morikuni Cafe & Bar",
+     "description": "Cafe in Shodoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37000905/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/eat/cafe/",
      "category": "Cafe"
@@ -3300,6 +3676,7 @@
     {
      "name": "Cafe シネマ倶楽部",
      "name_en": "Cafe Shinema Kurabu",
+     "description": "Cafe in Shodoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37004650/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/eat/cafe/",
      "category": "Cafe"
@@ -3307,6 +3684,7 @@
     {
      "name": "小豆島オリーブ園",
      "name_en": "Shozushima Olive Sono",
+     "description": "Cafe in Shodoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37006949/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/eat/cafe/",
      "category": "Cafe"
@@ -3314,6 +3692,7 @@
     {
      "name": "食事処うめもと",
      "name_en": "Restaurant Umemoto",
+     "description": "Casual restaurant in Shodoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37011192/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/eat/casual/",
      "category": "Casual"
@@ -3321,6 +3700,7 @@
     {
      "name": "オリーブパレス レストレア",
      "name_en": "Oribu Palace Resutorea",
+     "description": "Casual restaurant in Shodoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37006253/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/eat/casual/",
      "category": "Casual"
@@ -3328,6 +3708,7 @@
     {
      "name": "カフェレスト サクラヰ",
      "name_en": "Cafe Resuto Sakurai",
+     "description": "Casual restaurant in Shodoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37010490/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/eat/casual/",
      "category": "Casual"
@@ -3335,6 +3716,7 @@
     {
      "name": "井上誠耕園 ファームズテーブル 忠左衛門",
      "name_en": "Inoe Makoto Ko Sono Farm Zu Table Chuzaemon",
+     "description": "European restaurant in Shodoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37009234/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/eat/european/",
      "category": "European"
@@ -3342,6 +3724,7 @@
     {
      "name": "なかぶ庵",
      "name_en": "Nakabu Iori",
+     "description": "Noodle restaurant in Shodoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37004649/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3349,6 +3732,7 @@
     {
      "name": "三太郎",
      "name_en": "Santaro",
+     "description": "Noodle restaurant in Shodoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37000833/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3356,6 +3740,7 @@
     {
      "name": "作兵衛",
      "name_en": "Sakube",
+     "description": "Noodle restaurant in Shodoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37009141/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3363,6 +3748,7 @@
     {
      "name": "瀬戸よ志 お休み処",
      "name_en": "Seto Yoshi Oyasumi Tokoro",
+     "description": "Noodle restaurant in Shodoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37004631/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3370,6 +3756,7 @@
     {
      "name": "手延そうめん館",
      "name_en": "Te Nobaso Umen-kan",
+     "description": "Noodle restaurant in Shodoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37006252/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3377,6 +3764,7 @@
     {
      "name": "道の駅 小豆島オリーブ公園",
      "name_en": "Michi no Eki Shodoshima Olive Koen",
+     "description": "Restaurant in Shodoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37012504/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/eat/other/",
      "category": "Other"
@@ -3384,6 +3772,7 @@
     {
      "name": "小豆島ふるさと村 ふるさと物産館",
      "name_en": "Shozushima Furusato Mura Furusato Bussan-kan",
+     "description": "Restaurant in Shodoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37001561/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/eat/other/",
      "category": "Other"
@@ -3391,6 +3780,7 @@
     {
      "name": "野の花",
      "name_en": "no no Hana",
+     "description": "Japanese restaurant in Shodoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37000704/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/eat/other-japanese/",
      "category": "Other Japanese"
@@ -3398,6 +3788,7 @@
     {
      "name": "ミノリ ジェラート",
      "name_en": "Minori Gelato",
+     "description": "Sweets and bakery shop in Shodoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37008746/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -3405,6 +3796,7 @@
     {
      "name": "モリクニベーカリー",
      "name_en": "Morikuni Bakery",
+     "description": "Sweets and bakery shop in Shodoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37008447/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -3412,6 +3804,7 @@
     {
      "name": "ヤマロク茶屋",
      "name_en": "Yamaroku Chaya",
+     "description": "Sweets and bakery shop in Shodoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37004489/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -3419,6 +3812,7 @@
     {
      "name": "寒霞渓山頂駅 売店",
      "name_en": "Kanka Keizan Itadaki Eki Bai",
+     "description": "Sweets and bakery shop in Shodoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37007757/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -3426,6 +3820,7 @@
     {
      "name": "一徳庵",
      "name_en": "Motonori Iori",
+     "description": "Sweets and bakery shop in Shodoshima, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37001563/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -3434,26 +3829,31 @@
    "sights": [
     {
      "name": "Kanka Kei",
+     "description": "Sightseeing spot in Shodoshima, Kagawa.",
      "source_url": "https://www.town.shodoshima.lg.jp/kanko/index.html",
      "page": "https://bokenjapan.com/kagawa/shodoshima/see/"
     },
     {
      "name": "Nijushi no Hitomi Eiga Village",
+     "description": "Sightseeing spot in Shodoshima, Kagawa.",
      "source_url": "https://www.town.shodoshima.lg.jp/kanko/index.html",
      "page": "https://bokenjapan.com/kagawa/shodoshima/see/"
     },
     {
      "name": "Marukin Shoyu Memorial Museum",
+     "description": "Museum in Shodoshima, Kagawa.",
      "source_url": "https://www.town.shodoshima.lg.jp/kanko/index.html",
      "page": "https://bokenjapan.com/kagawa/shodoshima/see/"
     },
     {
      "name": "Kusakabe Minato",
+     "description": "Sightseeing spot in Shodoshima, Kagawa.",
      "source_url": "https://www.town.shodoshima.lg.jp/kanko/index.html",
      "page": "https://bokenjapan.com/kagawa/shodoshima/see/"
     },
     {
      "name": "Fukuda Minato",
+     "description": "Sightseeing spot in Shodoshima, Kagawa.",
      "source_url": "https://www.town.shodoshima.lg.jp/kanko/index.html",
      "page": "https://bokenjapan.com/kagawa/shodoshima/see/"
     }
@@ -3462,30 +3862,35 @@
     {
      "name": "海音真里",
      "name_en": "Kaion Mari",
+     "description": "Place to stay in Shodoshima, Kagawa.",
      "source_url": "https://www.ikyu.com/00002609/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/stay/"
     },
     {
      "name": "味わう、もろみの島宿。 「真里」",
      "name_en": "Ajiwa U, Moromino Shima Yado. (Mari)",
+     "description": "Place to stay in Shodoshima, Kagawa.",
      "source_url": "https://www.ikyu.com/00001630/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/stay/"
     },
     {
      "name": "お屋敷ステイ 幸",
      "name_en": "O Yashiki Stay Sachi",
+     "description": "Place to stay in Shodoshima, Kagawa.",
      "source_url": "https://www.ikyu.com/00052367/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/stay/"
     },
     {
      "name": "SHIMASTREAM house",
      "name_en": "SHIMASTREAM house",
+     "description": "Place to stay in Shodoshima, Kagawa.",
      "source_url": "https://www.ikyu.com/00052708/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/stay/"
     },
     {
      "name": "edit x seven 瀬戸内小豆島",
      "name_en": "edit x seven Setochi Shozushima",
+     "description": "Place to stay in Shodoshima, Kagawa.",
      "source_url": "https://www.ikyu.com/00003451/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/stay/"
     },
@@ -3506,30 +3911,35 @@
     {
      "name": "小豆島オリーブユースホステル",
      "name_en": "Shozushima Olive Youth Hostel",
+     "description": "Guesthouse in Shodoshima, Kagawa.",
      "source_url": "https://www.jalan.net/yad362470/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/stay/"
     },
     {
      "name": "星ノソラ",
      "name_en": "Hoshi Nosora",
+     "description": "Place to stay in Shodoshima, Kagawa.",
      "source_url": "https://www.jalan.net/yad345009/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/stay/"
     },
     {
      "name": "ペンション バァン キャトル・ウ",
      "name_en": "Pension Ban Kyatoru U",
+     "description": "Pension in Shodoshima, Kagawa.",
      "source_url": "https://www.jalan.net/yad346826/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/stay/"
     },
     {
      "name": "森口屋アートスクエア",
      "name_en": "Moriguchi-ya Atosukuea",
+     "description": "Place to stay in Shodoshima, Kagawa.",
      "source_url": "https://www.jalan.net/yad351197/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/stay/"
     },
     {
      "name": "プライベートヴィラ渚音",
      "name_en": "Private Villa Nagisa Oto",
+     "description": "Lodge in Shodoshima, Kagawa.",
      "source_url": "https://www.jalan.net/yad369053/",
      "page": "https://bokenjapan.com/kagawa/shodoshima/stay/"
     }
@@ -3554,7 +3964,7 @@
     "address": "3-3-95 Sakae-cho, Tadotsu, Nakatado District, Kagawa 764-8501, Japan",
     "phone": "0877-33-1110"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "多度津町役場",
@@ -3567,6 +3977,7 @@
    "activities": [
     {
      "name": "Tadotsu Minato",
+     "description": "Attraction in Tadotsu, Kagawa.",
      "source_url": "https://www.town.tadotsu.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/do/"
     }
@@ -3575,6 +3986,7 @@
     {
      "name": "そらとたべる threee",
      "name_en": "Soratotaberu threee",
+     "description": "Cafe in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37010517/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/cafe/",
      "category": "Cafe"
@@ -3582,6 +3994,7 @@
     {
      "name": "藝術喫茶 清水温泉",
      "name_en": "Geijutsu Cafe Shimizu Onsen",
+     "description": "Cafe in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37009917/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/cafe/",
      "category": "Cafe"
@@ -3589,6 +4002,7 @@
     {
      "name": "cafe 風車の丘",
      "name_en": "cafe Fusha no Oka",
+     "description": "Cafe in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37005690/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/cafe/",
      "category": "Cafe"
@@ -3596,6 +4010,7 @@
     {
      "name": "おかげさん",
      "name_en": "Okagesan",
+     "description": "Casual restaurant in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000957/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/casual/",
      "category": "Casual"
@@ -3603,6 +4018,7 @@
     {
      "name": "ポンド",
      "name_en": "Pond",
+     "description": "Casual restaurant in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37003803/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/casual/",
      "category": "Casual"
@@ -3610,6 +4026,7 @@
     {
      "name": "台湾料理 趙記",
      "name_en": "Taiwan Cuisine Cho Ki",
+     "description": "Chinese or Asian restaurant in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37011885/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -3617,6 +4034,7 @@
     {
      "name": "シェ ヨコイ",
      "name_en": "Shie Yokoi",
+     "description": "European restaurant in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37001086/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/european/",
      "category": "European"
@@ -3624,6 +4042,7 @@
     {
      "name": "焼き肉専門店 成屋",
      "name_en": "Yakiniku Sei-ya",
+     "description": "Yakiniku restaurant in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37009890/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/meat/",
      "category": "Japanese (meat)"
@@ -3631,6 +4050,7 @@
     {
      "name": "いけこうどん",
      "name_en": "Ikeko Udon",
+     "description": "Udon restaurant in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37011173/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3638,6 +4058,7 @@
     {
      "name": "富家",
      "name_en": "Tomiya",
+     "description": "Noodle restaurant in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000922/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3645,6 +4066,7 @@
     {
      "name": "上海軒",
      "name_en": "Shanhai Ken",
+     "description": "Noodle restaurant in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000162/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3652,6 +4074,7 @@
     {
      "name": "讃岐らぁ麺 伊吹いりこセンター 根ッCO LABO 多度津店",
      "name_en": "Sanuki Ra Men Ibuki Iriko Center Ne Tsu CO LABO Tadotsu",
+     "description": "Noodle restaurant in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37014692/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3659,6 +4082,7 @@
     {
      "name": "麦笑",
      "name_en": "Mugi Warai",
+     "description": "Noodle restaurant in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37010071/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3666,6 +4090,7 @@
     {
      "name": "釜揚げうどん 岡じま 多度津店",
      "name_en": "Kama Age Udon Oka Jima Tadotsu",
+     "description": "Udon restaurant in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37009113/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3673,6 +4098,7 @@
     {
      "name": "山よし",
      "name_en": "Yama Yoshi",
+     "description": "Noodle restaurant in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37001350/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3680,6 +4106,7 @@
     {
      "name": "根ッ子",
      "name_en": "Ne Tsu Ko",
+     "description": "Noodle restaurant in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37013805/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3687,6 +4114,7 @@
     {
      "name": "ひろ濱うどん",
      "name_en": "Hirohama Udon",
+     "description": "Udon restaurant in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000680/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3694,6 +4122,7 @@
     {
      "name": "めん一",
      "name_en": "Men Ichi",
+     "description": "Noodle restaurant in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37001465/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3701,6 +4130,7 @@
     {
      "name": "まるいち 多度津店",
      "name_en": "Maruichi Tadotsu",
+     "description": "Noodle restaurant in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37005645/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3708,6 +4138,7 @@
     {
      "name": "こがね製麺所 多度津店",
      "name_en": "Kogane Seimen Tokoro Tadotsu",
+     "description": "Noodle restaurant in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000981/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3715,6 +4146,7 @@
     {
      "name": "Warung Buddha",
      "name_en": "Warung Buddha",
+     "description": "Restaurant in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37012650/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/other/",
      "category": "Other"
@@ -3722,6 +4154,7 @@
     {
      "name": "お惣菜処てつや",
      "name_en": "Osouzai Dokoro Tetsuya",
+     "description": "Japanese restaurant in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37009641/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/other-japanese/",
      "category": "Other Japanese"
@@ -3729,6 +4162,7 @@
     {
      "name": "海鮮うまいもんや浜海道 多度津本店",
      "name_en": "Kaisen Umaimonya Hama Kaido Tadotsu Main Store",
+     "description": "Seafood restaurant in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37004500/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -3736,6 +4170,7 @@
     {
      "name": "海食処 笑門家",
      "name_en": "Kaishoku Tokoro Warai Mon-ya",
+     "description": "Seafood restaurant in Tadotsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37003262/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -3744,11 +4179,13 @@
    "sights": [
     {
      "name": "Coast Tera",
+     "description": "Sightseeing spot in Tadotsu, Kagawa.",
      "source_url": "https://www.town.tadotsu.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/see/"
     },
     {
      "name": "Tadotsu Eki",
+     "description": "Sightseeing spot in Tadotsu, Kagawa.",
      "source_url": "https://www.town.tadotsu.lg.jp/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/see/"
     }
@@ -3778,12 +4215,14 @@
     {
      "name": "空と家 日の出",
      "name_en": "Sora To Ie Hinode",
+     "description": "Place to stay in Tadotsu, Kagawa.",
      "source_url": "https://www.jalan.net/yad364270/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/stay/"
     },
     {
      "name": "空と家",
      "name_en": "Sora To Ie",
+     "description": "Place to stay in Tadotsu, Kagawa.",
      "source_url": "https://www.jalan.net/yad374201/",
      "page": "https://bokenjapan.com/kagawa/tadotsu/stay/"
     },
@@ -3815,7 +4254,7 @@
     "address": "1-8-15 Bancho, Takamatsu, Kagawa 760-8571, Japan",
     "phone": "087-839-2011"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "高松市役所",
@@ -3829,6 +4268,7 @@
     {
      "name": "Takamatsu Castle (Tamamo Park), Takamatsu",
      "name_en": "Takamatsu Castle (Tamamo Park), Takamatsu",
+     "description": "Castle in Takamatsu, Kagawa.",
      "source_url": "https://www.my-kagawa.jp/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/do/"
     }
@@ -3837,6 +4277,7 @@
     {
      "name": "両忘",
      "name_en": "Ryobo",
+     "description": "European restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37008167/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/european/",
      "category": "European"
@@ -3844,6 +4285,7 @@
     {
      "name": "おうどん 瀬戸晴れ",
      "name_en": "Oudon Setobare",
+     "description": "Noodle restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37012417/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3851,6 +4293,7 @@
     {
      "name": "ふる里うどん",
      "name_en": "Furusato Udon",
+     "description": "Udon restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37006820/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3858,6 +4301,7 @@
     {
      "name": "手打うどん はりや",
      "name_en": "Teuchi Udon Hariya",
+     "description": "Udon restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37000049/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3865,6 +4309,7 @@
     {
      "name": "手打ちうどんますや",
      "name_en": "Handmade Udon Masuya",
+     "description": "Udon restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37005861/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3872,6 +4317,7 @@
     {
      "name": "本格手打 もり家 高松シンボルタワー店",
      "name_en": "Honkaku Teuchi Mori-ya Takamatsu Symbol Tower",
+     "description": "Noodle restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37013706/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3879,6 +4325,7 @@
     {
      "name": "手打十段 うどんバカ一代",
      "name_en": "Teuchi Judan Udon Baka Ichidai",
+     "description": "Udon restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37000242/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3886,6 +4333,7 @@
     {
      "name": "うどん さか枝",
      "name_en": "Udon Sakaeda",
+     "description": "Udon restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37000026/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3893,6 +4341,7 @@
     {
      "name": "うどん 一福",
      "name_en": "Udon Ichi Fuku",
+     "description": "Udon restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37001209/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3900,6 +4349,7 @@
     {
      "name": "讃岐うどん 上原屋本店",
      "name_en": "Sanuki Udon Uehara-ya Main Store",
+     "description": "Udon restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37000048/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3907,6 +4357,7 @@
     {
      "name": "中西うどん",
      "name_en": "Nakanishi Udon",
+     "description": "Udon restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37000040/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3914,6 +4365,7 @@
     {
      "name": "手打うどん 麦蔵",
      "name_en": "Teuchi Udon Mugi Kura",
+     "description": "Udon restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37000874/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3921,6 +4373,7 @@
     {
      "name": "本格手打 もり家",
      "name_en": "Honkaku Teuchi Moriya",
+     "description": "Noodle restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37000134/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3928,6 +4381,7 @@
     {
      "name": "宮武うどん",
      "name_en": "Miyatake Udon",
+     "description": "Udon restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37005339/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3935,6 +4389,7 @@
     {
      "name": "うつ海うどん",
      "name_en": "Utsu Umi Udon",
+     "description": "Udon restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37008654/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3942,6 +4397,7 @@
     {
      "name": "手打ちうどん 鶴丸",
      "name_en": "Handmade Udon Tsurumaru",
+     "description": "Udon restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37000044/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3949,6 +4405,7 @@
     {
      "name": "大島うどん",
      "name_en": "Oshima Udon",
+     "description": "Udon restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37000344/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3956,6 +4413,7 @@
     {
      "name": "松下製麺所",
      "name_en": "Matsushitasei Men Tokoro",
+     "description": "Noodle restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37000033/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3963,6 +4421,7 @@
     {
      "name": "ざいごうどん 本家 わら家",
      "name_en": "Zaigo Udon Hon-ya Wara-ya",
+     "description": "Udon restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37000057/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3970,6 +4429,7 @@
     {
      "name": "手打ちうどん ひさ枝",
      "name_en": "Handmade Udon Hisa Eda",
+     "description": "Udon restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37008648/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3977,6 +4437,7 @@
     {
      "name": "手打うどん 三徳",
      "name_en": "Teuchi Udon Santoku",
+     "description": "Udon restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37000142/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -3984,6 +4445,7 @@
     {
      "name": "小料理 Yarn",
      "name_en": "Sho Cuisine Yarn",
+     "description": "Japanese restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37011843/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/other-japanese/",
      "category": "Other Japanese"
@@ -3991,6 +4453,7 @@
     {
      "name": "寿司 中川",
      "name_en": "Sushi Nakagawa",
+     "description": "Sushi restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37000760/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -3998,6 +4461,7 @@
     {
      "name": "鮨舳",
      "name_en": "Sushi Hesaki",
+     "description": "Sushi restaurant in Takamatsu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370101/37000358/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -4007,24 +4471,28 @@
     {
      "name": "Kangetsu Bridge at Ritsurin Garden, Special Place of Scenic Beauty, Takamatsu",
      "name_en": "Kangetsu Bridge at Ritsurin Garden, Special Place of Scenic Beauty, Takamatsu",
+     "description": "Bridge in Takamatsu, Kagawa.",
      "source_url": "https://www.my-kagawa.jp/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/see/"
     },
     {
      "name": "Yashima plateau, Takamatsu",
      "name_en": "Yashima plateau, Takamatsu",
+     "description": "Sightseeing spot in Takamatsu, Kagawa.",
      "source_url": "https://www.my-kagawa.jp/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/see/"
     },
     {
      "name": "Yashima-ji, Shikoku pilgrimage temple 84, Takamatsu",
      "name_en": "Yashima-ji, Shikoku pilgrimage temple 84, Takamatsu",
+     "description": "Temple in Takamatsu, Kagawa.",
      "source_url": "https://www.my-kagawa.jp/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/see/"
     },
     {
      "name": "Megijima island, Takamatsu",
      "name_en": "Megijima island, Takamatsu",
+     "description": "Island in Takamatsu, Kagawa.",
      "source_url": "https://www.my-kagawa.jp/",
      "page": "https://bokenjapan.com/kagawa/takamatsu/see/"
     }
@@ -4130,7 +4598,7 @@
     "address": "Fuchizaki Ko 1400-2, Tonosho-cho, Shozu-gun, Kagawa 761-4192, Japan",
     "phone": "0879-62-7000"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "土庄町役場",
@@ -4143,6 +4611,7 @@
    "activities": [
     {
      "name": "Osaka Shiro Zan Ishi Memorial Park",
+     "description": "Park in Tonosho, Kagawa.",
      "source_url": "https://www.town.tonosho.kagawa.jp/kanko/",
      "page": "https://bokenjapan.com/kagawa/tonosho/do/"
     }
@@ -4151,6 +4620,7 @@
     {
      "name": "島キッチン",
      "name_en": "Shima Kitchen",
+     "description": "Cafe in Tonosho, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3701/A370103/37005972/",
      "page": "https://bokenjapan.com/kagawa/tonosho/eat/cafe/",
      "category": "Cafe"
@@ -4158,6 +4628,7 @@
     {
      "name": "豊島美術館カフェ",
      "name_en": "Toyoshima Bijutsukan Cafe",
+     "description": "Cafe in Tonosho, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37006007/",
      "page": "https://bokenjapan.com/kagawa/tonosho/eat/cafe/",
      "category": "Cafe"
@@ -4165,6 +4636,7 @@
     {
      "name": "オアシス",
      "name_en": "Oasis",
+     "description": "Cafe in Tonosho, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37006736/",
      "page": "https://bokenjapan.com/kagawa/tonosho/eat/cafe/",
      "category": "Cafe"
@@ -4172,6 +4644,7 @@
     {
      "name": "海のレストラン",
      "name_en": "Umi No Restaurant",
+     "description": "Cafe in Tonosho, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37007483/",
      "page": "https://bokenjapan.com/kagawa/tonosho/eat/cafe/",
      "category": "Cafe"
@@ -4179,6 +4652,7 @@
     {
      "name": "Fine Port Gallery",
      "name_en": "Fine Port Gallery",
+     "description": "Cafe in Tonosho, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37012440/",
      "page": "https://bokenjapan.com/kagawa/tonosho/eat/cafe/",
      "category": "Cafe"
@@ -4186,6 +4660,7 @@
     {
      "name": "ピッツァ カモス",
      "name_en": "Pittsua Kamosu",
+     "description": "European restaurant in Tonosho, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37010501/",
      "page": "https://bokenjapan.com/kagawa/tonosho/eat/european/",
      "category": "European"
@@ -4193,6 +4668,7 @@
     {
      "name": "居酒屋 南国",
      "name_en": "Izakaya Nangoku",
+     "description": "Izakaya or bar in Tonosho, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37005340/",
      "page": "https://bokenjapan.com/kagawa/tonosho/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -4200,6 +4676,7 @@
     {
      "name": "ドニズ バー",
      "name_en": "Donizu Bar",
+     "description": "Izakaya or bar in Tonosho, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37009780/",
      "page": "https://bokenjapan.com/kagawa/tonosho/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -4207,6 +4684,7 @@
     {
      "name": "なぎさ",
      "name_en": "Nagisa",
+     "description": "Izakaya or bar in Tonosho, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37005597/",
      "page": "https://bokenjapan.com/kagawa/tonosho/eat/izakaya-bars/",
      "category": "Izakaya & bars"
@@ -4214,6 +4692,7 @@
     {
      "name": "別邸 銀四郎",
      "name_en": "Bettei Ginshiro",
+     "description": "Noodle restaurant in Tonosho, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37014217/",
      "page": "https://bokenjapan.com/kagawa/tonosho/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4221,6 +4700,7 @@
     {
      "name": "小豆島ラーメンHISHIO 小豆島エンジェルロード店",
      "name_en": "Shozushima Ramen Hishio Shozushima Enjierurodo",
+     "description": "Ramen restaurant in Tonosho, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37006291/",
      "page": "https://bokenjapan.com/kagawa/tonosho/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4228,6 +4708,7 @@
     {
      "name": "手延べ麺お食事処 銀四郎",
      "name_en": "Te Nobe Men Restaurant Gin Shiro",
+     "description": "Noodle restaurant in Tonosho, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37008675/",
      "page": "https://bokenjapan.com/kagawa/tonosho/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4235,6 +4716,7 @@
     {
      "name": "土庄港観光センター",
      "name_en": "Tonosho Minato Kanko Center",
+     "description": "Noodle restaurant in Tonosho, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37006648/",
      "page": "https://bokenjapan.com/kagawa/tonosho/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4242,6 +4724,7 @@
     {
      "name": "來家",
      "name_en": "Rai-ya",
+     "description": "Noodle restaurant in Tonosho, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37001080/",
      "page": "https://bokenjapan.com/kagawa/tonosho/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4249,6 +4732,7 @@
     {
      "name": "おおみねのうどん屋さん",
      "name_en": "Omine no Udon-ya San",
+     "description": "Udon restaurant in Tonosho, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37005583/",
      "page": "https://bokenjapan.com/kagawa/tonosho/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4256,6 +4740,7 @@
     {
      "name": "宝来軒",
      "name_en": "Horai Ken",
+     "description": "Noodle restaurant in Tonosho, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37011318/",
      "page": "https://bokenjapan.com/kagawa/tonosho/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4263,6 +4748,7 @@
     {
      "name": "オリビアン小豆島",
      "name_en": "Oribian Shozushima",
+     "description": "Restaurant in Tonosho, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37007133/",
      "page": "https://bokenjapan.com/kagawa/tonosho/eat/other/",
      "category": "Other"
@@ -4270,6 +4756,7 @@
     {
      "name": "海蘆",
      "name_en": "Umi Ashi",
+     "description": "Restaurant in Tonosho, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37007016/",
      "page": "https://bokenjapan.com/kagawa/tonosho/eat/other/",
      "category": "Other"
@@ -4277,6 +4764,7 @@
     {
      "name": "島活",
      "name_en": "Shima Katsu",
+     "description": "Japanese restaurant in Tonosho, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37004672/",
      "page": "https://bokenjapan.com/kagawa/tonosho/eat/other-japanese/",
      "category": "Other Japanese"
@@ -4284,6 +4772,7 @@
     {
      "name": "味彩",
      "name_en": "Ajisai",
+     "description": "Japanese restaurant in Tonosho, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37004779/",
      "page": "https://bokenjapan.com/kagawa/tonosho/eat/other-japanese/",
      "category": "Other Japanese"
@@ -4291,6 +4780,7 @@
     {
      "name": "料理芸術 かりえん",
      "name_en": "Cuisine Geijutsu Karien",
+     "description": "Seafood restaurant in Tonosho, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37000727/",
      "page": "https://bokenjapan.com/kagawa/tonosho/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -4298,6 +4788,7 @@
     {
      "name": "いちご家",
      "name_en": "Ichigo-ya",
+     "description": "Sweets and bakery shop in Tonosho, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37005737/",
      "page": "https://bokenjapan.com/kagawa/tonosho/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -4305,6 +4796,7 @@
     {
      "name": "岡田長栄堂 本店",
      "name_en": "Okada Choei Do Main Store",
+     "description": "Sweets and bakery shop in Tonosho, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3705/A370501/37006643/",
      "page": "https://bokenjapan.com/kagawa/tonosho/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -4313,26 +4805,31 @@
    "sights": [
     {
      "name": "Enjierurodo",
+     "description": "Sightseeing spot in Tonosho, Kagawa.",
      "source_url": "https://www.town.tonosho.kagawa.jp/kanko/",
      "page": "https://bokenjapan.com/kagawa/tonosho/see/"
     },
     {
      "name": "Choshi Kei",
+     "description": "Sightseeing spot in Tonosho, Kagawa.",
      "source_url": "https://www.town.tonosho.kagawa.jp/kanko/",
      "page": "https://bokenjapan.com/kagawa/tonosho/see/"
     },
     {
      "name": "Tonosho Minato",
+     "description": "Sightseeing spot in Tonosho, Kagawa.",
      "source_url": "https://www.town.tonosho.kagawa.jp/kanko/",
      "page": "https://bokenjapan.com/kagawa/tonosho/see/"
     },
     {
      "name": "Meiro no Machi",
+     "description": "Sightseeing spot in Tonosho, Kagawa.",
      "source_url": "https://www.town.tonosho.kagawa.jp/kanko/",
      "page": "https://bokenjapan.com/kagawa/tonosho/see/"
     },
     {
      "name": "Shozushima Dai Kannon",
+     "description": "Sightseeing spot in Tonosho, Kagawa.",
      "source_url": "https://www.town.tonosho.kagawa.jp/kanko/",
      "page": "https://bokenjapan.com/kagawa/tonosho/see/"
     }
@@ -4348,24 +4845,28 @@
     {
      "name": "オリビアン小豆島 夕陽ヶ丘ホテル",
      "name_en": "Oribian Shozushima Yuhi Ke Oka Hotel",
+     "description": "Hotel in Tonosho, Kagawa.",
      "source_url": "https://www.ikyu.com/00030950/",
      "page": "https://bokenjapan.com/kagawa/tonosho/stay/"
     },
     {
      "name": "小豆島国際ホテル",
      "name_en": "Shozushima Kokusai Hotel",
+     "description": "Hotel in Tonosho, Kagawa.",
      "source_url": "https://www.ikyu.com/00000666/",
      "page": "https://bokenjapan.com/kagawa/tonosho/stay/"
     },
     {
      "name": "島泊/島飯/島湯",
      "name_en": "Shima Haku / Shima Meshi / Shima Yu",
+     "description": "Place to stay in Tonosho, Kagawa.",
      "source_url": "https://www.ikyu.com/00003542/",
      "page": "https://bokenjapan.com/kagawa/tonosho/stay/"
     },
     {
      "name": "民宿オアシス",
      "name_en": "Minshuku Oasis",
+     "description": "Minshuku (family-run guesthouse) in Tonosho, Kagawa.",
      "source_url": "https://www.jalan.net/yad393440/",
      "page": "https://bokenjapan.com/kagawa/tonosho/stay/"
     },
@@ -4386,18 +4887,21 @@
     {
      "name": "Ｌａ Ｋｒａｓｓｅ Ａｎｇｅｌｒｏａｄ",
      "name_en": "La Krasse Angelroad",
+     "description": "Place to stay in Tonosho, Kagawa.",
      "source_url": "https://www.jalan.net/yad340118/",
      "page": "https://bokenjapan.com/kagawa/tonosho/stay/"
     },
     {
      "name": "La Krasse Angelroad WEST",
      "name_en": "La Krasse Angelroad WEST",
+     "description": "Place to stay in Tonosho, Kagawa.",
      "source_url": "https://www.jalan.net/yad381825/",
      "page": "https://bokenjapan.com/kagawa/tonosho/stay/"
     },
     {
      "name": "ホテルひとみ荘",
      "name_en": "Hotel Hitomi So",
+     "description": "Hotel in Tonosho, Kagawa.",
      "source_url": "https://www.jalan.net/yad370822/",
      "page": "https://bokenjapan.com/kagawa/tonosho/stay/"
     },
@@ -4411,6 +4915,7 @@
     {
      "name": "喜久家旅館",
      "name_en": "Yoshihisa Ie Ryokan",
+     "description": "Ryokan in Tonosho, Kagawa.",
      "source_url": "https://www.jalan.net/yad351305/",
      "page": "https://bokenjapan.com/kagawa/tonosho/stay/"
     }
@@ -4435,7 +4940,7 @@
     "address": "1881 Utazu, Ayauta District, Kagawa 769-0292, Japan",
     "phone": "0877-49-0511"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "宇多津町役場",
@@ -4448,6 +4953,7 @@
    "activities": [
     {
      "name": "Ao no Yama",
+     "description": "Attraction in Utazu, Kagawa.",
      "source_url": "https://utazu-kanko.jp/",
      "page": "https://bokenjapan.com/kagawa/utazu/do/"
     }
@@ -4456,6 +4962,7 @@
     {
      "name": "トートコーヒー",
      "name_en": "Tote Coffee",
+     "description": "Cafe in Utazu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37004934/",
      "page": "https://bokenjapan.com/kagawa/utazu/eat/cafe/",
      "category": "Cafe"
@@ -4463,6 +4970,7 @@
     {
      "name": "はまきた珈琲",
      "name_en": "Hamakita Coffee",
+     "description": "Cafe in Utazu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37007718/",
      "page": "https://bokenjapan.com/kagawa/utazu/eat/cafe/",
      "category": "Cafe"
@@ -4470,6 +4978,7 @@
     {
      "name": "珈匠 宇多津店",
      "name_en": "Ka Takumi Utatsu",
+     "description": "Cafe in Utazu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37003902/",
      "page": "https://bokenjapan.com/kagawa/utazu/eat/cafe/",
      "category": "Cafe"
@@ -4477,6 +4986,7 @@
     {
      "name": "つるぎ",
      "name_en": "Tsurugi",
+     "description": "Casual restaurant in Utazu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37002798/",
      "page": "https://bokenjapan.com/kagawa/utazu/eat/casual/",
      "category": "Casual"
@@ -4484,6 +4994,7 @@
     {
      "name": "まんぷく亭",
      "name_en": "Manpuku-tei",
+     "description": "Chinese or Asian restaurant in Utazu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370201/37005031/",
      "page": "https://bokenjapan.com/kagawa/utazu/eat/chinese-asian/",
      "category": "Chinese & Asian"
@@ -4491,6 +5002,7 @@
     {
      "name": "カーナピーナ 宇多津店",
      "name_en": "Kanapina Utatsu",
+     "description": "Curry restaurant in Utazu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37003588/",
      "page": "https://bokenjapan.com/kagawa/utazu/eat/curry/",
      "category": "Curry"
@@ -4498,6 +5010,7 @@
     {
      "name": "いたずらたまご",
      "name_en": "Itazuratamago",
+     "description": "European restaurant in Utazu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000811/",
      "page": "https://bokenjapan.com/kagawa/utazu/eat/european/",
      "category": "European"
@@ -4505,6 +5018,7 @@
     {
      "name": "焼鳥 弁天",
      "name_en": "Yakitori Benten",
+     "description": "Yakitori restaurant in Utazu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37001048/",
      "page": "https://bokenjapan.com/kagawa/utazu/eat/meat/",
      "category": "Japanese (meat)"
@@ -4512,6 +5026,7 @@
     {
      "name": "宇多津ホルモン",
      "name_en": "Utatsu Hormone",
+     "description": "Meat restaurant in Utazu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37006739/",
      "page": "https://bokenjapan.com/kagawa/utazu/eat/meat/",
      "category": "Japanese (meat)"
@@ -4519,6 +5034,7 @@
     {
      "name": "焼肉ひらい 宇多津店",
      "name_en": "Yakiniku Hirai Utatsu",
+     "description": "Yakiniku restaurant in Utazu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000853/",
      "page": "https://bokenjapan.com/kagawa/utazu/eat/meat/",
      "category": "Japanese (meat)"
@@ -4526,6 +5042,7 @@
     {
      "name": "本格手打うどん おか泉",
      "name_en": "Honkaku Teuchi Udon Oka Izumi",
+     "description": "Udon restaurant in Utazu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000074/",
      "page": "https://bokenjapan.com/kagawa/utazu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4533,6 +5050,7 @@
     {
      "name": "セルフうどん麺太郎",
      "name_en": "Self Udon Mentaro",
+     "description": "Udon restaurant in Utazu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37009024/",
      "page": "https://bokenjapan.com/kagawa/utazu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4540,6 +5058,7 @@
     {
      "name": "讃岐の味 塩がま屋 宇多津店",
      "name_en": "Sanuki no Aji Shio Gama-ya Utatsu",
+     "description": "Noodle restaurant in Utazu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37001417/",
      "page": "https://bokenjapan.com/kagawa/utazu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4547,6 +5066,7 @@
     {
      "name": "さぬきうどん むぎ",
      "name_en": "Sanuki Udon Mugi",
+     "description": "Udon restaurant in Utazu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37010292/",
      "page": "https://bokenjapan.com/kagawa/utazu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4554,6 +5074,7 @@
     {
      "name": "中国麺 青龍",
      "name_en": "Chugoku Men Seiryu",
+     "description": "Noodle restaurant in Utazu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37010751/",
      "page": "https://bokenjapan.com/kagawa/utazu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4561,6 +5082,7 @@
     {
      "name": "青春のおそばやさん",
      "name_en": "Seishun no Soba Yasan",
+     "description": "Soba restaurant in Utazu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37013119/",
      "page": "https://bokenjapan.com/kagawa/utazu/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4568,6 +5090,7 @@
     {
      "name": "丸亀骨付鳥一丁 宇多津店",
      "name_en": "Marugame Hone Tsuki Tori Itcho Utatsu",
+     "description": "Restaurant in Utazu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37014450/",
      "page": "https://bokenjapan.com/kagawa/utazu/eat/other/",
      "category": "Other"
@@ -4575,6 +5098,7 @@
     {
      "name": "くぼさんのとうふ",
      "name_en": "Kubosannotofu",
+     "description": "Japanese restaurant in Utazu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000172/",
      "page": "https://bokenjapan.com/kagawa/utazu/eat/other-japanese/",
      "category": "Other Japanese"
@@ -4582,6 +5106,7 @@
     {
      "name": "和菜旬菜 ひだまり",
      "name_en": "Wa Na Jun Na Hidamari",
+     "description": "Japanese restaurant in Utazu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37003260/",
      "page": "https://bokenjapan.com/kagawa/utazu/eat/other-japanese/",
      "category": "Other Japanese"
@@ -4589,6 +5114,7 @@
     {
      "name": "muus",
      "name_en": "muus",
+     "description": "Japanese restaurant in Utazu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37012269/",
      "page": "https://bokenjapan.com/kagawa/utazu/eat/other-japanese/",
      "category": "Other Japanese"
@@ -4596,6 +5122,7 @@
     {
      "name": "びんび三昧 坂出インター店",
      "name_en": "Binbi Zanmai Sakaide Inta",
+     "description": "Seafood restaurant in Utazu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37001612/",
      "page": "https://bokenjapan.com/kagawa/utazu/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -4603,6 +5130,7 @@
     {
      "name": "ここも 浜街道店",
      "name_en": "Kokomo Hama Kaido",
+     "description": "Seafood restaurant in Utazu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37005899/",
      "page": "https://bokenjapan.com/kagawa/utazu/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -4610,6 +5138,7 @@
     {
      "name": "海鮮食堂おくどさん イオンタウン宇多津店",
      "name_en": "Kaisen Shokudo Okudosan Ion Town Utatsu",
+     "description": "Seafood restaurant in Utazu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37008539/",
      "page": "https://bokenjapan.com/kagawa/utazu/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -4617,6 +5146,7 @@
     {
      "name": "元気パン工房 ごぱん",
      "name_en": "Genki Bread Kobo Gopan",
+     "description": "Sweets and bakery shop in Utazu, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37000712/",
      "page": "https://bokenjapan.com/kagawa/utazu/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -4625,26 +5155,31 @@
    "sights": [
     {
      "name": "Gorudotawa",
+     "description": "Sightseeing spot in Utazu, Kagawa.",
      "source_url": "https://utazu-kanko.jp/",
      "page": "https://bokenjapan.com/kagawa/utazu/see/"
     },
     {
      "name": "Utazu Rinkai Park",
+     "description": "Park in Utazu, Kagawa.",
      "source_url": "https://utazu-kanko.jp/",
      "page": "https://bokenjapan.com/kagawa/utazu/see/"
     },
     {
      "name": "Shikoku Aquarium",
+     "description": "Aquarium in Utazu, Kagawa.",
      "source_url": "https://utazu-kanko.jp/",
      "page": "https://bokenjapan.com/kagawa/utazu/see/"
     },
     {
      "name": "Fukugen Shioda",
+     "description": "Sightseeing spot in Utazu, Kagawa.",
      "source_url": "https://utazu-kanko.jp/",
      "page": "https://bokenjapan.com/kagawa/utazu/see/"
     },
     {
      "name": "Utazu Eki",
+     "description": "Sightseeing spot in Utazu, Kagawa.",
      "source_url": "https://utazu-kanko.jp/",
      "page": "https://bokenjapan.com/kagawa/utazu/see/"
     }
@@ -4723,7 +5258,7 @@
     "address": "2-1-1 Bunkyo-cho, Zentsuji, Kagawa 765-8503, Japan",
     "phone": "0877-62-2121"
    },
-   "date_modified": "2026-10-15",
+   "date_modified": "2026-10-14",
    "day_to_day": [
     {
      "name": "善通寺市役所",
@@ -4736,6 +5271,7 @@
    "activities": [
     {
      "name": "Zentsuji Art Museum",
+     "description": "Museum in Zentsuji, Kagawa.",
      "source_url": "https://www.kukainavi.com/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/do/"
     }
@@ -4744,6 +5280,7 @@
     {
      "name": "カフェ テリア",
      "name_en": "Cafe Terrier",
+     "description": "Cafe in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37003105/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/cafe/",
      "category": "Cafe"
@@ -4751,6 +5288,7 @@
     {
      "name": "Belle Epoque 偕行社かふぇ",
      "name_en": "Belle Epoque Kaikosha Cafe",
+     "description": "Cafe in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37004931/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/cafe/",
      "category": "Cafe"
@@ -4758,6 +5296,7 @@
     {
      "name": "松村食堂",
      "name_en": "Matsumura Shokudo",
+     "description": "Casual restaurant in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37004721/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/casual/",
      "category": "Casual"
@@ -4765,6 +5304,7 @@
     {
      "name": "ランプ 山地ファーム",
      "name_en": "Ranpu Sanchi Farm",
+     "description": "Casual restaurant in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37005626/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/casual/",
      "category": "Casual"
@@ -4772,6 +5312,7 @@
     {
      "name": "焼肉松坂 国道店",
      "name_en": "Yakiniku Matsusaka Kokudo",
+     "description": "Yakiniku restaurant in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37005743/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/meat/",
      "category": "Japanese (meat)"
@@ -4779,6 +5320,7 @@
     {
      "name": "釜あげうどん 長田 in 香の香",
      "name_en": "Kama Age Udon Nagata in Kaori no Kaori",
+     "description": "Udon restaurant in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000015/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4786,6 +5328,7 @@
     {
      "name": "山下うどん",
      "name_en": "Yamashita Udon",
+     "description": "Udon restaurant in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000012/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4793,6 +5336,7 @@
     {
      "name": "宮川製麺所",
      "name_en": "Miyagawa Seimen Tokoro",
+     "description": "Noodle restaurant in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000128/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4800,6 +5344,7 @@
     {
      "name": "白川うどん",
      "name_en": "Shirakawa Udon",
+     "description": "Udon restaurant in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000240/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4807,6 +5352,7 @@
     {
      "name": "本格手打 あかみち",
      "name_en": "Honkaku Teuchi Akamichi",
+     "description": "Noodle restaurant in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37012988/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4814,6 +5360,7 @@
     {
      "name": "まるやうどん",
      "name_en": "Maruya Udon",
+     "description": "Udon restaurant in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37008652/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4821,6 +5368,7 @@
     {
      "name": "川川うどん",
      "name_en": "Kawakawa Udon",
+     "description": "Udon restaurant in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37010768/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4828,6 +5376,7 @@
     {
      "name": "手打ちうどん 空",
      "name_en": "Handmade Udon Sora",
+     "description": "Udon restaurant in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3702/A370202/37011583/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4835,6 +5384,7 @@
     {
      "name": "こだわり八輻",
      "name_en": "Kodawari Hachi Fuku",
+     "description": "Noodle restaurant in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37006978/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4842,6 +5392,7 @@
     {
      "name": "麺賊",
      "name_en": "Men Zoku",
+     "description": "Noodle restaurant in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37006848/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4849,6 +5400,7 @@
     {
      "name": "ジャンボうどん 高木",
      "name_en": "Janbo Udon Takagi",
+     "description": "Udon restaurant in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000253/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4856,6 +5408,7 @@
     {
      "name": "大川製麺所",
      "name_en": "Okawa Seimen Tokoro",
+     "description": "Noodle restaurant in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37001609/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4863,6 +5416,7 @@
     {
      "name": "はなや食堂",
      "name_en": "Hanaya Shokudo",
+     "description": "Noodle restaurant in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000014/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4870,6 +5424,7 @@
     {
      "name": "製麺 七や 319号店",
      "name_en": "Seimen Shichi Ya 319 Go",
+     "description": "Noodle restaurant in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37013428/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4877,6 +5432,7 @@
     {
      "name": "オハラうどん",
      "name_en": "Ohara Udon",
+     "description": "Udon restaurant in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000832/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4884,6 +5440,7 @@
     {
      "name": "香川家",
      "name_en": "Kagawa-ya",
+     "description": "Noodle restaurant in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37012611/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/noodles/",
      "category": "Japanese (noodles)"
@@ -4891,6 +5448,7 @@
     {
      "name": "すし遊館あさひ 善通寺店",
      "name_en": "Sushi Yu-kan Asahi Zentsuji",
+     "description": "Sushi restaurant in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37013255/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/seafood/",
      "category": "Japanese (seafood)"
@@ -4898,6 +5456,7 @@
     {
      "name": "熊岡菓子店",
      "name_en": "Kumaoka Confectionery",
+     "description": "Sweets and bakery shop in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37000978/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -4905,6 +5464,7 @@
     {
      "name": "ベーカリー KAMO",
      "name_en": "Bakery KAMO",
+     "description": "Sweets and bakery shop in Zentsuji, Kagawa.",
      "source_url": "https://tabelog.com/kagawa/A3703/A370302/37013058/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/eat/sweets-bakeries/",
      "category": "Sweets & bakeries"
@@ -4913,26 +5473,31 @@
    "sights": [
     {
      "name": "Sohonzan Zentsuji",
+     "description": "Sightseeing spot in Zentsuji, Kagawa.",
      "source_url": "https://www.kukainavi.com/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/see/"
     },
     {
      "name": "Mandara Tera",
+     "description": "Sightseeing spot in Zentsuji, Kagawa.",
      "source_url": "https://www.kukainavi.com/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/see/"
     },
     {
      "name": "Shutsu Shaka Tera",
+     "description": "Sightseeing spot in Zentsuji, Kagawa.",
      "source_url": "https://www.kukainavi.com/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/see/"
     },
     {
      "name": "Kozan Tera",
+     "description": "Sightseeing spot in Zentsuji, Kagawa.",
      "source_url": "https://www.kukainavi.com/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/see/"
     },
     {
      "name": "Zentsuji Eki",
+     "description": "Sightseeing spot in Zentsuji, Kagawa.",
      "source_url": "https://www.kukainavi.com/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/see/"
     }
@@ -4948,6 +5513,7 @@
     {
      "name": "ゲストハウス ミカサスカサ",
      "name_en": "Guesthouse Mikasasukasa",
+     "description": "Guesthouse in Zentsuji, Kagawa.",
      "source_url": "https://www.jalan.net/yad377480/",
      "page": "https://bokenjapan.com/kagawa/zentsuji/stay/"
     }
