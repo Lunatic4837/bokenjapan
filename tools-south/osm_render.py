@@ -30,7 +30,7 @@ CREDIT_P = ('<p class="osm-credit" style="margin:.85rem 0 0;font-size:.85rem;col
             'Wikimedia Commons as credited.</p>\n')
 
 def _days(d):
-    if not d: return 'daily'
+    if not d or d == 'Mo-Su': return 'daily'
     return ', '.join('-'.join(DAYS[x] for x in part.split('-')) for part in d.split(','))
 
 def hours_en(oh):
@@ -82,7 +82,10 @@ def sections(cards, town, cat_label, dims):
     if photo:
         out += (f'<section class="place-section osm-dining"><h2 class="visually-hidden">{L.esc(cat_label)}</h2><ul class="place-list">'
                 + ''.join(card_html(c, town, dims[c['osmid']]) for c in photo) + '</ul></section>\n')
-    if bare:
+    if bare and not photo:
+        out += (f'<section class="place-section osm-dining"><h2 class="visually-hidden">{L.esc(cat_label)}</h2><ul class="place-list">'
+                + ''.join(card_html(c, town, None) for c in bare) + '</ul></section>\n')
+    elif bare:
         out += (f'<section class="place-section osm-dining" style="margin-top:0"><h2 class="visually-hidden">More places in {L.esc(town)}</h2>'
                 '<ul class="place-list" style="border-top:0">' + ''.join(card_html(c, town, None) for c in bare) + '</ul></section>\n')
     return out
@@ -97,18 +100,23 @@ def set_counts(t, n, kind):
         t = re.sub(r'(<title>[^<]*?: )\d+ places?(, with source links)', rf'\g<1>{L.plural(n)}\2', t, 1)
     return re.sub(r'(<p class="page-sub">[^<]*· )\d+ places?', rf'\g<1>{L.plural(n)}', t, 1)
 
+def _sub(pat, pre, text, t, post=''):
+    return re.sub(pat, lambda m: (m.group(1) if pre else '') + text + (m.group(2) if post else ''), t, 1, flags=re.S)
+
 def new_cat_page(template, town, pref_en, cat, label, n, pref, slug):
     t = template
     lab = H.escape(label, quote=False)
-    t = re.sub(r'<title>.*?</title>', f'<title>{lab} in {town}, {pref_en}: {L.plural(n)}, with source links \u00b7 BokenJapan</title>', t, 1)
-    t = re.sub(r'(<meta name="description" content=")[^"]*', rf'\g<1>{lab} in {town}, {pref_en}: things to do, food and stays, {pref_en}: ranked restaurants.', t, 1)
-    t = re.sub(r'(<link rel="canonical" href=")[^"]*', rf'\g<1>https://bokenjapan.com/{pref}/{slug}/eat/{cat}/', t, 1)
-    t = re.sub(r'(<meta property="og:title" content=")[^"]*', rf'\g<1>{lab} \u00b7 Eat \u00b7 {town}, {pref_en}: things to do, food and stays \u00b7 BokenJapan', t, 1)
-    t = re.sub(r'(<meta property="og:description" content=")[^"]*', rf'\g<1>{lab} in {town}, {pref_en}: things to do, food and stays, {pref_en}: ranked restaurants.', t, 1)
-    t = re.sub(r'(<meta property="og:url" content=")[^"]*', rf'\g<1>https://bokenjapan.com/{pref}/{slug}/eat/{cat}/', t, 1)
-    t = re.sub(r'(<span aria-current="page">)[^<]*(</span></nav><style>)', rf'\g<1>{lab}\2', t, 1)
-    t = re.sub(r'(</a> / )[^<]*(</p>\n    <h1)', rf'\g<1>{lab}\2', t, 1)
-    t = re.sub(r'<h1 class="page-title">[^<]*</h1>', f'<h1 class="page-title">{lab} in {town}, {pref_en}</h1>', t, 1)
+    url = f'https://bokenjapan.com/{pref}/{slug}/eat/{cat}/'
+    desc = f'{lab} in {town}, {pref_en}: things to do, food and stays, {pref_en}: ranked restaurants.'
+    t = _sub(r'<title>.*?</title>', 0, f'<title>{lab} in {town}, {pref_en}: {L.plural(n)}, with source links \u00b7 BokenJapan</title>', t)
+    t = _sub(r'(<meta name="description" content=")[^"]*', 1, desc, t)
+    t = _sub(r'(<link rel="canonical" href=")[^"]*', 1, url, t)
+    t = _sub(r'(<meta property="og:title" content=")[^"]*', 1, f'{lab} \u00b7 Eat \u00b7 {town}, {pref_en}: things to do, food and stays \u00b7 BokenJapan', t)
+    t = _sub(r'(<meta property="og:description" content=")[^"]*', 1, desc, t)
+    t = _sub(r'(<meta property="og:url" content=")[^"]*', 1, url, t)
+    t = _sub(r'(<span aria-current="page">)[^<]*(</span></nav><style>)', 1, lab, t, 1)
+    t = _sub(r'(</a> / )[^<]*(</p>\n    <h1)', 1, lab, t, 1)
+    t = _sub(r'<h1 class="page-title">[^<]*</h1>', 0, f'<h1 class="page-title">{lab} in {town}, {pref_en}</h1>', t)
     t = re.sub(r'<section class="place-section">.*?</section>\n?', '', t, 1, flags=re.S)
     t = SEC_RE.sub('', t)
     return set_counts(t, n, 'cat')

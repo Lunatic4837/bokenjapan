@@ -65,7 +65,7 @@ _WORDS = [('本店', 'Main Store'), ('ラーメン', 'Ramen'), ('らーめん', 
           ('喫茶', 'Kissa'), ('カフェ', 'Cafe'), ('寿司', 'Sushi'), ('鮨', 'Sushi'), ('すし', 'Sushi'), ('うどん', 'Udon'), ('蕎麦', 'Soba'),
           ('そば', 'Soba'), ('カレー', 'Curry'), ('餃子', 'Gyoza'), ('お好み焼', 'Okonomiyaki'), ('とんかつ', 'Tonkatsu'), ('天ぷら', 'Tempura'),
           ('駅前', 'Ekimae'), ('砂丘', 'Sakyu'), ('米子', 'Yonago'), ('鳥取', 'Tottori'), ('境港', 'Sakaiminato'), ('倉吉', 'Kurayoshi'),
-          ('皆生', 'Kaike'), ('店', 'Branch'), ('レストラン', 'Restaurant'), ('ベーカリー', 'Bakery'), ('ハンバーグ', 'Hamburg Steak'), ('ステーキ', 'Steak'), ('ピザ', 'Pizza'), ('パスタ', 'Pasta'), ('スナック', 'Snack'), ('ラウンジ', 'Lounge'), ('ダイニング', 'Dining'), ('キッチン', 'Kitchen'), ('ケーキ', 'Cake'), ('ガーデン', 'Garden'), ('ハウス', 'House'), ('ファミリー', 'Family'), ('ランチ', 'Lunch'), ('弁当', 'Bento'), ('茶屋', 'Chaya'), ('屋', '\x01ya'), ('酒場', 'Sakaba'), ('食事処', 'Shokujidokoro'), ('料理', 'Ryori'), ('専門', 'Senmon')]
+          ('皆生', 'Kaike'), ('洋菓子店', 'Yogashi'), ('菓子店', 'Kashi'), ('酒店', 'Sake Shop'), ('パン店', 'Pan'), ('店', 'Branch'), ('レストラン', 'Restaurant'), ('ベーカリー', 'Bakery'), ('ハンバーグ', 'Hamburg Steak'), ('ステーキ', 'Steak'), ('ピザ', 'Pizza'), ('パスタ', 'Pasta'), ('スナック', 'Snack'), ('ラウンジ', 'Lounge'), ('ダイニング', 'Dining'), ('キッチン', 'Kitchen'), ('ケーキ', 'Cake'), ('ガーデン', 'Garden'), ('ハウス', 'House'), ('ファミリー', 'Family'), ('ランチ', 'Lunch'), ('弁当', 'Bento'), ('茶屋', 'Chaya'), ('屋', '\x01ya'), ('酒場', 'Sakaba'), ('食事処', 'Shokujidokoro'), ('料理', 'Ryori'), ('専門', 'Senmon')]
 _WSPLIT = re.compile('(' + '|'.join(re.escape(k) for k, _ in sorted(_WORDS, key=lambda x: -len(x[0]))) + ')')
 _WD = dict(_WORDS)
 def _collapse(w):
@@ -91,12 +91,15 @@ def romanize(ja):
         for part in re.split(r"([A-Za-z0-9&'\.\-+]+|\s+)", tok):
             if not part or part.isspace(): continue
             if re.fullmatch(r"[A-Za-z0-9&'\.\-+]+", part): out.append(part); continue
-            run = ''
+            words = []
             for it in _KKS.convert(part):
                 w = (it.get('passport') or it.get('hepburn') or '').strip()
-                if w and re.fullmatch(r"[a-z' ]+", w): run += _collapse(w).replace(' ', '')
-                elif not CJK.search(it['orig']) and it['orig'].strip(): run += it['orig'].strip()
-            if run: out.append(run[:1].upper() + run[1:])
+                if w and re.fullmatch(r"[a-z' ]+", w): w = _collapse(w).replace(' ', '')
+                elif not CJK.search(it['orig']) and it['orig'].strip(): w = it['orig'].strip()
+                else: continue
+                if len(it['orig']) == 1 and words and len(words[-1][0]) == 1: words[-1] = (words[-1][0] + it['orig'], words[-1][1] + w)  # kanji pair stays one word
+                else: words.append((it['orig'], w))
+            for _, w in words: out.append(w[:1].upper() + w[1:])
     r = re.sub(r'\s+', ' ', ' '.join(out)).strip().replace(' \x01', '').replace('\x01', '')
     r = re.sub(r'(?<=[A-Za-z]) (?=[&\'])|(?<=[&\']) (?=[A-Za-z])', '', r)
     return nomacron(r)
@@ -117,6 +120,7 @@ def live_names(tree, pref, slug):
     for f in [base / 'index.html'] + sorted(base.glob('*/index.html')):
         try: t = f.read_text(encoding='utf-8')
         except OSError: continue
+        t = re.sub(r'<section class="place-section osm-dining"[^>]*>.*?</section>', '', t, flags=re.S)  # our own earlier OSM cards are not 'live' cards
         names += [H.unescape(x) for x in re.findall(r'place-name">([^<]*)<', t)]
     return names
 

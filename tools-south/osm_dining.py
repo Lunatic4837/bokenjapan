@@ -150,6 +150,9 @@ def classify(tags):
     if not adjs and adj and cat not in ('other', 'casual'): adjs = [adj]
     adjs = list(dict.fromkeys(a for a in adjs if a.lower() not in kind.split()))[:2]
     if kind == 'izakaya': adjs = [a for a in adjs if a != 'Izakaya']
+    if shop in SHOPKIND: adjs = [a for a in adjs if a not in ('Sweets', 'Pastry', 'Bakery', 'Confectionery', 'Cake')]
+    if kind in ('restaurant', 'fast-food restaurant') and cat == 'cafe': kind = 'cafe'; adjs = [a for a in adjs if a not in ('Cafe', 'Coffee')]
+    if kind == 'fast-food restaurant' and cat not in ('casual', 'other'): kind = 'restaurant'
     if kind == 'cafe' and adjs == ['Coffee']: adjs = []
     phrase = ' and '.join([adjs[0]] + [a if a in PROPER else a.lower() for a in adjs[1:]]) if adjs else ''
     noun = (phrase + ' ' + kind).strip()
@@ -325,8 +328,8 @@ def main():
         n = L.norm_name(nm)
         if n in live_n or (len(n) >= 4 and L.strip_branch(n) in live_b) or (t.get('name:en') and L.norm_name(t['name:en']) in live_n):
             skipped['dup-live'] += 1; continue
-        if any(g[0] == n and abs(g[1] - lat) < .002 and abs(g[2] - lon) < .002 for g in seen_geo): skipped['dup-osm'] += 1; continue
-        seen_geo.append((n, lat, lon))
+        if n in seen_geo: skipped['dup-osm'] += 1; continue   # same Japanese name in the same town = one card (chain branches included)
+        seen_geo.append(n)
         cat, noun, cu = classify(t)
         site = (t.get('website') or t.get('contact:website') or t.get('url') or '').strip()
         if site and not re.match(r'https?://', site): site = 'http://' + site
